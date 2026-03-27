@@ -1,7 +1,147 @@
 window.newsData_2026_03_27 = {
   "date": "2026-03-27",
-  "lastUpdated": "2026-03-27T12:40:49.929246+07:00",
+  "lastUpdated": "2026-03-27T14:03:32.093409+07:00",
   "articles": [
+    {
+      "id": "baaff10a4293104ead33483e293278f2",
+      "title": "Tại sao Hữu Quốc gọi Lê Thiện là bố?",
+      "link": "https://tuoitre.vn/tai-sao-huu-quoc-goi-le-thien-la-bo-2026032711053205.htm",
+      "summary": "Trong một cuộc gặp gỡ các nghệ sĩ thuộc lĩnh vực sân khấu, không ít người ngạc nhiên khi nghe nghệ sĩ Hữu Quốc gọi nghệ sĩ Lê Thiện là ‘bố”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T14:03:26.156701+07:00",
+      "fetched": "2026-03-27T14:03:26.156815+07:00"
+    },
+    {
+      "id": "cb30b0713b4f730845b8c5601fc607a8",
+      "title": "'Hóa ra…' - cánh cửa mở vào vũ trụ âm nhạc mới của Grey D",
+      "link": "https://tuoitre.vn/hoa-ra-canh-cua-mo-vao-vu-tru-am-nhac-moi-cua-grey-d-20260327110301478.htm",
+      "summary": "Không đơn thuần là một single comeback sau hai năm 'ở ẩn', 'hóa ra…' đóng vai trò như một lời dẫn nhập (prologue), mở ra toàn bộ không gian âm nhạc và thế giới sáng tạo mà Grey D theo đuổi trong dự án dài hơi đầu tiên của mình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T14:03:26.156562+07:00",
+      "fetched": "2026-03-27T14:03:26.156689+07:00"
+    },
+    {
+      "id": "595523cdea74de887b626d880240d0a2",
+      "title": "Hơn 70% ca tay chân miệng ở phía Nam, họp bàn phương án kiểm soát bệnh",
+      "link": "https://tuoitre.vn/hon-70-ca-tay-chan-mieng-o-phia-nam-hop-ban-phuong-an-kiem-soat-benh-20260327103701881.htm",
+      "summary": "Trước tình hình bệnh tay chân miệng gia tăng theo đúng dự báo cuối năm 2025, Viện Pasteur TP.HCM đã tổ chức họp thảo luận tình hình và phương hướng phòng chống dịch tại khu vực phía Nam nhằm kịp thời kiểm soát bệnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T14:03:26.156441+07:00",
+      "fetched": "2026-03-27T14:03:26.156551+07:00"
+    },
+    {
+      "id": "9e966efe840c1b0fd97f0720f25e0ff5",
+      "title": "Khoa học cảnh báo: AI ngày càng 'nịnh' người dùng, cổ súy hành vi sai trái",
+      "link": "https://tuoitre.vn/khoa-hoc-canh-bao-ai-ngay-cang-ninh-nguoi-dung-co-suy-hanh-vi-sai-trai-20260327114805119.htm",
+      "summary": "Nghiên cứu cảnh báo chatbot AI thường 'nịnh bợ', đồng tình cả hành vi sai, khiến người dùng tin mình đúng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T14:03:26.156321+07:00",
+      "fetched": "2026-03-27T14:03:26.156430+07:00"
+    },
+    {
+      "id": "ae641293764c12eae1af7bc0524ddc4c",
+      "title": "Ông Nguyễn Hồng Phong được bầu giữ chức Chủ tịch HĐND tỉnh Thanh Hóa",
+      "link": "https://tuoitre.vn/ong-nguyen-hong-phong-duoc-bau-giu-chuc-chu-tich-hdnd-tinh-thanh-hoa-2026032711571126.htm",
+      "summary": "Ông Nguyễn Hồng Phong - Ủy viên dự khuyết Trung ương Đảng, Phó bí thư thường trực Tỉnh ủy giữ chức Chủ tịch HĐND, ông Nguyễn Hoài Anh - Ủy viên Trung ương Đảng, Phó bí thư Tỉnh ủy giữ chức Chủ tịch UBND tỉnh Thanh Hóa, nhiệm kỳ 2026-2031.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T14:03:26.156200+07:00",
+      "fetched": "2026-03-27T14:03:26.156310+07:00"
+    },
+    {
+      "id": "bd203a3bd4d902bbca64b6da7c77fd7f",
+      "title": "Cháy nhà ở Ninh Thuận, xe hơi, xe máy và nhiều tài sản bị thiêu rụi",
+      "link": "https://tuoitre.vn/chay-nha-o-ninh-thuan-xe-hoi-xe-may-va-nhieu-tai-san-bi-thieu-rui-20260327110458416.htm",
+      "summary": "Vụ cháy nhà dân ở xã Vĩnh Hải, thuộc Ninh Thuận cũ  đã thiêu rụi xe hơi, xe máy cùng nhiều tài sản khác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T14:03:26.156078+07:00",
+      "fetched": "2026-03-27T14:03:26.156189+07:00"
+    },
+    {
+      "id": "44fb471df1091a0c520c8dd4b83bb03c",
+      "title": "Bắt người đàn ông trộm hơn 900 lít dầu của các ghe, tàu đánh bắt hải sản",
+      "link": "https://tuoitre.vn/bat-nguoi-dan-ong-trom-hon-900-lit-dau-cua-cac-ghe-tau-danh-bat-hai-san-20260327101743657.htm",
+      "summary": "Ông H. khai nhận đã trộm 900 lít dầu của các ghe, tàu đánh bắt hải sản đang neo đậu ở khu vực rạch Bình Châu để bán lấy tiền tiêu xài cá nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T14:03:26.155955+07:00",
+      "fetched": "2026-03-27T14:03:26.156067+07:00"
+    },
+    {
+      "id": "7a8d83fc60bf745ae2158789a2c3e0f5",
+      "title": "OpenAI ‘khai tử’ Sora sau vài tháng: Có chuyện gì phía sau?",
+      "link": "https://tuoitre.vn/openai-khai-tu-sora-sau-vai-thang-co-chuyen-gi-phia-sau-20260326143628146.htm",
+      "summary": "Từng gây bão với khả năng tạo video từ văn bản, Sora được xem là tương lai của AI video. Nhưng quyết định khai tử sản phẩm chỉ sau vài tháng của OpenAI đang khiến thị trường và người dùng đặt ra nhiều dấu hỏi lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T14:03:26.155829+07:00",
+      "fetched": "2026-03-27T14:03:26.155943+07:00"
+    },
+    {
+      "id": "29c43a96f65d93b63c062564d3bbb050",
+      "title": "Chủ tịch FLC Trịnh Văn Quyết: Du lịch và hàng không phải quấn quýt như đôi tình nhân",
+      "link": "https://tuoitre.vn/chu-tich-flc-trinh-van-quyet-du-lich-va-hang-khong-phai-quan-quyt-nhu-doi-tinh-nhan-20260327115326355.htm",
+      "summary": "Đó là chia sẻ của Chủ tịch Tập đoàn FLC Trịnh Văn Quyết tại hội thảo ‘Gia Lai: kích hoạt trục biển - cao nguyên’ diễn ra tại phường Quy Nhơn Đông, Gia Lai sáng 27-3.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T14:03:26.155698+07:00",
+      "fetched": "2026-03-27T14:03:26.155817+07:00"
+    },
+    {
+      "id": "e9d70f7793ff8bd44a09458da54da5cc",
+      "title": "'Trùm' đường dây thực phẩm chức năng giả cho trẻ em, người già bị cáo buộc thu lời 264 tỉ",
+      "link": "https://tuoitre.vn/trum-duong-day-thuc-pham-chuc-nang-gia-cho-tre-em-nguoi-gia-bi-cao-buoc-thu-loi-264-ti-20260327115957775.htm",
+      "summary": "Nguyễn Năng Mạnh, Chủ tịch HĐQT Công ty MediUSA, bị cơ quan truy tố cáo buộc cầm đầu đường dây sản xuất, tiêu thụ sản phẩm là thực phẩm chức năng giả cho người già, trẻ em trị giá 540 tỉ đồng và thu lợi bất chính 264 tỉ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T14:03:26.155552+07:00",
+      "fetched": "2026-03-27T14:03:26.155684+07:00"
+    },
+    {
+      "id": "521d204de9be5f4f3c9b768696e07db4",
+      "title": "Iran huy động hơn 1 triệu binh sĩ, lính tình nguyện đối phó nguy cơ Mỹ tấn công trên bộ",
+      "link": "https://tuoitre.vn/iran-huy-dong-hon-1-trieu-binh-si-linh-tinh-nguyen-doi-pho-nguy-co-my-tan-cong-tren-bo-20260327121106205.htm",
+      "summary": "Iran cho biết đã huy động hơn 1 triệu binh sĩ và lực lượng tình nguyện để đối phó khả năng Mỹ mở chiến dịch tấn công trên bộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T14:03:26.155425+07:00",
+      "fetched": "2026-03-27T14:03:26.155541+07:00"
+    },
+    {
+      "id": "a77b17e86c92f490448a3ff1fc7bf24e",
+      "title": "Nêu câu hỏi tại sao EVN phải đầu tư nhiều thế, chủ tịch nói nếu không đầu tư 5 năm sau sẽ thiếu điện",
+      "link": "https://tuoitre.vn/neu-cau-hoi-tai-sao-evn-phai-dau-tu-nhieu-the-chu-tich-noi-neu-khong-dau-tu-5-nam-sau-se-thieu-dien-20260327115353062.htm",
+      "summary": "Nhiều doanh nghiệp nhà nước công bố loạt kế hoạch đầu tư các dự án để góp phần thúc đẩy tăng trưởng hai con số trong cuộc họp với Thủ tướng Phạm Minh Chính.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T14:03:26.155292+07:00",
+      "fetched": "2026-03-27T14:03:26.155413+07:00"
+    },
+    {
+      "id": "26212473a23da0819e84504638c057d1",
+      "title": "10 triệu tín đồ các tôn giáo địa bàn Quân khu 7 góp sức to lớn bảo vệ Tổ quốc",
+      "link": "https://tuoitre.vn/10-trieu-tin-do-cac-ton-giao-dia-ban-quan-khu-7-gop-suc-to-lon-bao-ve-to-quoc-20260327121725442.htm",
+      "summary": "Sáng nay 27-3, Thường vụ Đảng ủy, Bộ Tư lệnh Quân khu 7 tổ chức gặp mặt đại biểu chức sắc các tôn giáo nhân dịp đầu xuân Bính Ngọ 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T14:03:26.155150+07:00",
+      "fetched": "2026-03-27T14:03:26.155279+07:00"
+    },
+    {
+      "id": "32ddec8a9e17df822955d36acb58858d",
+      "title": "Nhật Bản cam kết đào tạo một nửa số nghiên cứu sinh tiến sĩ Việt Nam trong ngành bán dẫn",
+      "link": "https://tuoitre.vn/nhat-ban-cam-ket-dao-tao-mot-nua-so-nghien-cuu-sinh-tien-si-viet-nam-trong-nganh-ban-dan-20260327121159214.htm",
+      "summary": "Nhật Bản khẳng định Việt Nam là đối tác không thể thay thế trong chiến lược của Tokyo tại châu Á - Thái Bình Dương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T14:03:26.154923+07:00",
+      "fetched": "2026-03-27T14:03:26.155134+07:00"
+    },
     {
       "id": "b7c02f535c4c79d11e96806fed6e9348",
       "title": "Pháp họp trực tuyến với 35 quốc gia tìm cách khơi thông eo biển Hormuz",
@@ -301,6 +441,266 @@ window.newsData_2026_03_27 = {
       "category": "Tổng hợp",
       "published": "2026-03-27T09:05:27.635940+07:00",
       "fetched": "2026-03-27T09:05:27.636142+07:00"
+    },
+    {
+      "id": "79041db2b1a1efce148cedf79fca9213",
+      "title": "MSR chuyển sàn HOSE: Khi dòng tiền lớn bắt đầu mở cửa",
+      "link": "https://thanhnien.vn/msr-chuyen-san-hose-khi-dong-tien-lon-bat-dau-mo-cua-185260327133055508.htm",
+      "summary": "Trong chu kỳ mới của thị trường tài chính, sự khác biệt trong định giá ngày càng phụ thuộc vào khả năng tiếp cận dòng vốn. Một doanh nghiệp có nền tảng tốt chưa chắc đã được định giá tương xứng nếu chưa nằm trong 'radar' của dòng tiền lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T07:00:00+07:00",
+      "fetched": "2026-03-27T14:03:25.091744+07:00"
+    },
+    {
+      "id": "4e3967c6cc380a933441b34a6c3371de",
+      "title": "Diện áo sơ mi trắng sành điệu như fashionista",
+      "link": "https://thanhnien.vn/thoi-trang-tre/dien-ao-so-mi-trang-sanh-dieu-nhu-fashionista-185260326002602036.htm",
+      "summary": "Áo sơ mi trắng không còn đơn thuần là món đồ cơ bản khi nàng biết cách biến tấu tinh tế trong từng chi tiết và cách phối hợp, tạo nên vẻ ngoài hiện đại, cuốn hút như một fashionista.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T07:00:00+07:00",
+      "fetched": "2026-03-27T14:03:25.091915+07:00"
+    },
+    {
+      "id": "a6d7ef0d61ec71fcd3a28ce382a37aa1",
+      "title": "Taylor Swift khoe được hạnh phúc, tự do khi ở bên Travis Kelce",
+      "link": "https://thanhnien.vn/taylor-swift-khoe-duoc-hanh-phuc-tu-do-khi-o-ben-travis-kelce-185260327132740757.htm",
+      "summary": "Nữ ca sĩ Taylor Swift và vị hôn phu Travis Kelce gây chú ý khi sánh đôi tại lễ trao giải iHeartRadio Music Awards. Cả hai ngày càng mặn nồng, gắn bó và thoải mái chia sẻ những khoảnh khắc ngọt ngào trước ống kính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T06:59:00+07:00",
+      "fetched": "2026-03-27T14:03:25.092079+07:00"
+    },
+    {
+      "id": "cdcbfa89102cb94d83fb5f123e3f83d2",
+      "title": "Samsung mở rộng thử nghiệm One UI 8.5 đến loạt điện thoại Galaxy đời cũ",
+      "link": "https://thanhnien.vn/samsung-mo-rong-thu-nghiem-one-ui-85-den-loat-dien-thoai-galaxy-doi-cu-185260327112927674.htm",
+      "summary": "Samsung 'phá lệ' khi loạt máy Galaxy đời cũ được 'lên đời' thử nghiệm One UI 8.5 beta.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T06:59:00+07:00",
+      "fetched": "2026-03-27T14:03:25.092236+07:00"
+    },
+    {
+      "id": "f32db8556da75c32a1cf90e7f95abdb7",
+      "title": "Nữ rapper gây chú ý với vòng eo 59 cm là ai?",
+      "link": "https://thanhnien.vn/nu-rapper-gay-chu-y-voi-vong-eo-59-cm-la-ai-185260327105313608.htm",
+      "summary": "Xuất hiện nổi bật tại một sự kiện thời trang, Saabirose gây chú ý với phong cách gợi cảm. Thiết kế táo bạo giúp nữ rapper khoe trọn đôi chân dài cùng vóc dáng cân đối, đặc biệt là vòng eo thon gọn 59 cm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T06:55:00+07:00",
+      "fetched": "2026-03-27T14:03:25.092386+07:00"
+    },
+    {
+      "id": "167b8e374db9be310f62270ab8a270f9",
+      "title": "Nhà hàng Michelin của đầu bếp Luke Nguyễn lần đầu vào trung tâm thương mại",
+      "link": "https://thanhnien.vn/nha-hang-michelin-cua-dau-bep-luke-nguyen-lan-dau-vao-trung-tam-thuong-mai-18526032709402078.htm",
+      "summary": "Đây là nhà hàng thứ hai do đầu bếp Luke Nguyễn vận hành, đồng thời là lần đầu tiên thương hiệu này xuất hiện trong một trung tâm thương mại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T06:54:00+07:00",
+      "fetched": "2026-03-27T14:03:25.092542+07:00"
+    },
+    {
+      "id": "f1c669410944ff76304320071e4352b8",
+      "title": "Ngọc Sơn nói gì về tin đồn 'lên chức' ở tuổi U.60?",
+      "link": "https://thanhnien.vn/ngoc-son-noi-gi-ve-tin-don-len-chuc-o-tuoi-u60-185260327124347223.htm",
+      "summary": "Gây xôn xao với hình ảnh chụp cùng 2 thiên thần nhỏ, Ngọc Sơn phủ nhận tin đồn 'lên chức' làm cha ở tuổi U.60.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T06:50:00+07:00",
+      "fetched": "2026-03-27T14:03:25.092712+07:00"
+    },
+    {
+      "id": "514ce196b7b49e6b1e763a13e4b74bbe",
+      "title": "Hải quan chỉ đạo 'thượng khẩn' về áp mức thuế mới với xăng dầu",
+      "link": "https://thanhnien.vn/hai-quan-chi-dao-thuong-khan-ve-ap-muc-thue-moi-voi-xang-dau-185260327133429694.htm",
+      "summary": "Ngày 27.3, Cục Hải quan (Bộ Tài chính) có Công văn đóng dấu \"thượng khẩn\" hướng dẫn các chi cục hải quan khu vực liên quan Quyết định 482 của Thủ tướng Chính phủ về việc áp dụng mức thuế mới đối với xăng, dầu và nhiên liệu bay trong trường hợp cần thiết vì lợi ích quốc gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T06:49:00+07:00",
+      "fetched": "2026-03-27T14:03:25.092865+07:00"
+    },
+    {
+      "id": "10fde0c3a378062b96b6de74a6d75bda",
+      "title": "Đà Nẵng lý giải nguyên nhân tăng trưởng chưa đạt 2 con số như kỳ vọng",
+      "link": "https://thanhnien.vn/da-nang-ly-giai-nguyen-nhan-tang-truong-chua-dat-2-con-so-nhu-ky-vong-185260327125853352.htm",
+      "summary": "Dù ghi nhận nhiều điểm sáng trong quý 1, nhưng kinh tế Đà Nẵng vẫn chưa đạt mức tăng trưởng 2 con số như kỳ vọng. Giám đốc Sở Tài chính đã chỉ ra hàng loạt 'điểm nghẽn' nội tại cùng những tác động bất lợi từ bối cảnh thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T06:49:00+07:00",
+      "fetched": "2026-03-27T14:03:25.093014+07:00"
+    },
+    {
+      "id": "a740e68ee5fb8c22fe468cc13aa33cfd",
+      "title": "Bóng đá Việt Nam xây dựng bệ phóng tốt cho tương lai",
+      "link": "https://thanhnien.vn/bong-da-viet-nam-xay-dung-be-phong-tot-cho-tuong-lai-185260325212148764.htm",
+      "summary": "Có thể nói thời điểm này bóng đá VN đang có được lực lượng cầu thủ các tuyến dồi dào và chất lượng, làm bệ phóng rất chắc chắn cho những giải đấu quốc tế trong tương lai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T06:47:00+07:00",
+      "fetched": "2026-03-27T14:03:25.093165+07:00"
+    },
+    {
+      "id": "faa38d66e355f2e1e009b792d2cee964",
+      "title": "Bác sĩ ơi: Dấu hiệu nhận biết sớm viêm não mô cầu là gì?",
+      "link": "https://thanhnien.vn/bac-si-oi-dau-hieu-nhan-biet-som-viem-nao-mo-cau-la-gi-185260327111202644.htm",
+      "summary": "Viêm não mô cầu là bệnh truyền nhiễm cấp tính nguy hiểm. Bệnh này lây qua đường hô hấp, tiến triển nhanh và có thể gây tử vong hoặc di chứng nặng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T06:45:00+07:00",
+      "fetched": "2026-03-27T14:03:25.093310+07:00"
+    },
+    {
+      "id": "c001763f8e9e1e1f476fef57c57f34d8",
+      "title": "Ngân hàng Thái Lan hủy thương vụ mua Home Credit Việt Nam",
+      "link": "https://vnexpress.net/ngan-hang-thai-lan-huy-thuong-vu-mua-home-credit-viet-nam-5055516.html",
+      "summary": "The Siam Commercial Bank (Thái Lan) dừng kế hoạch mua lại 100% vốn Công ty tài chính Home Credit Việt Nam do không đáp ứng các điều kiện trong thời hạn thỏa thuận.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-27T06:44:21+07:00",
+      "fetched": "2026-03-27T14:03:28.351490+07:00"
+    },
+    {
+      "id": "690fa96d8e51d5503dd39e982f7ffc9f",
+      "title": "HLV Hoàng Anh Tuấn được bổ nhiệm làm cố vấn đội Trường ĐH Nha Trang",
+      "link": "https://thanhnien.vn/hlv-hoang-anh-tuan-duoc-bo-nhiem-lam-co-van-doi-truong-dh-nha-trang-18526032713352807.htm",
+      "summary": "Trường ĐH Nha Trang bổ nhiệm ông Hoàng Anh Tuấn ngồi vào ghế GĐKT kiêm cố vấn đội bóng, với hy vọng tạo nên kỳ tích tại giải bóng đá Thanh Niên sinh viên quốc tế 2026 - cúp THACO.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T06:43:00+07:00",
+      "fetched": "2026-03-27T14:03:25.093454+07:00"
+    },
+    {
+      "id": "b85fc0df25ca88099e5f74fef3a6e46e",
+      "title": "Ai cũng muốn gầy đi, riêng chàng trai 22 tuổi quyết tăng 40kg",
+      "link": "https://thanhnien.vn/ai-cung-muon-gay-di-rieng-chang-trai-22-tuoi-quyet-tang-40kg-185260327111942758.htm",
+      "summary": "Từ sinh viên sư phạm, Tường Thế Nguyên (22 tuổi), sinh sống tại TP.Hà Nội, rẽ hướng theo đuổi thể hình, ghi dấu bằng hành trình tăng 40 kg...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T06:43:00+07:00",
+      "fetched": "2026-03-27T14:03:25.093598+07:00"
+    },
+    {
+      "id": "44688956df7c2998813b02537e557277",
+      "title": "Cựu CEO SeABank làm phó tổng giám đốc Sacombank",
+      "link": "https://vnexpress.net/cuu-ceo-seabank-lam-pho-tong-giam-doc-sacombank-5055531.html",
+      "summary": "Cựu CEO SeABank, từng là cố vấn cấp cao tại LPBank, ông Loic Faussier được bổ nhiệm làm Phó tổng giám đốc Sacombank từ ngày 27/3.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-27T06:38:38+07:00",
+      "fetched": "2026-03-27T14:03:28.351677+07:00"
+    },
+    {
+      "id": "02a2b412608232c6da321c0379650f2c",
+      "title": "Người phụ nữ 60 tuổi mê lái xe chinh phục đường đèo",
+      "link": "https://thanhnien.vn/nguoi-phu-nu-60-tuoi-me-lai-xe-chinh-phuc-duong-deo-185260326224414126.htm",
+      "summary": "Hình ảnh bà Phạm Thị Hồng (60 tuổi, ở Lâm Đồng) tự lái xe máy chinh phục nhiều cung đường đèo hiểm trở đang được chia sẻ trên mạng xã hội, truyền cảm hứng cho những người yêu thích khám phá.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T06:30:00+07:00",
+      "fetched": "2026-03-27T14:03:25.093777+07:00"
+    },
+    {
+      "id": "65f01b2a95ed173b5ea13cb18918550b",
+      "title": "Giá Bitcoin hôm nay 27.3.2026: BTC lao dốc, Việt Nam bỏ khấu trừ 0,1% trên doanh thu",
+      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-2732026-btc-lao-doc-viet-nam-bo-khau-tru-01-tren-doanh-thu-185260327105620913.htm",
+      "summary": "Giá Bitcoin hôm nay thủng đáy 69.000 USD khi chiến sự ở Iran tiếp tục diễn biến phức tạp. Trong khi đó cộng đồng tiền mã hóa Việt Nam đón nhận thêm tin tức về việc khấu trừ phí giao dịch dựa trên doanh doanh thu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T06:26:00+07:00",
+      "fetched": "2026-03-27T14:03:25.093934+07:00"
+    },
+    {
+      "id": "ec29d237efd597c32686b6c42662365a",
+      "title": "Tài xế tông chết người, bỏ chạy 150 km không thoát",
+      "link": "https://vnexpress.net/tai-xe-tong-chet-nguoi-bo-chay-150-km-khong-thoat-5055488.html",
+      "summary": "Nguyễn Văn Đoàn bị cáo buộc lái xe container tông chết người phụ nữ 41 tuổi rồi bỏ chạy khỏi hiện trường 150 km nhằm trốn tránh trách nhiệm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T06:09:18+07:00",
+      "fetched": "2026-03-27T14:03:21.938248+07:00"
+    },
+    {
+      "id": "17a1c4e5dd74b38be0ad6bb9c9807503",
+      "title": "Tôi không còn mong ngóng mỗi lần chồng đi làm xa về",
+      "link": "https://vnexpress.net/cach-ham-nong-tinh-cam-vo-chong-toi-khong-con-mong-ngong-moi-lan-chong-di-lam-xa-ve-5055476.html",
+      "summary": "Hai vợ chồng vẫn ở bên nhau, không có mâu thuẫn lớn, cũng không có chuyện gì nghiêm trọng nhưng khoảng cách ngày càng rõ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T06:00:00+07:00",
+      "fetched": "2026-03-27T14:03:21.938427+07:00"
+    },
+    {
+      "id": "3f1065297f70cbafd9a28343949ea1e7",
+      "title": "Jensen Huang không họp riêng với cấp dưới trực tiếp",
+      "link": "https://vnexpress.net/jensen-huang-khong-hop-rieng-voi-cap-duoi-truc-tiep-5055416.html",
+      "summary": "CEO Nvidia Jensen Huang điều hành Nvidia với 60 nhân viên cấp dưới trực tiếp, nhưng không có bất kỳ cuộc họp riêng nào.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T06:00:00+07:00",
+      "fetched": "2026-03-27T14:03:21.938591+07:00"
+    },
+    {
+      "id": "6625c2f6d5ce8cf5ba8c2df4655f26ec",
+      "title": "Hyundai Translead ra mắt thùng xe lạnh Juneau",
+      "link": "https://vnexpress.net/hyundai-translead-ra-mat-thung-xe-lanh-juneau-5054136.html",
+      "summary": "Mẫu thùng xe lạnh mới giúp Hyundai Translead tăng hiệu suất giữ nhiệt, tối ưu tải trọng và linh hoạt logistics nhờ thiết kế lắp ráp dạng kit.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T06:00:00+07:00",
+      "fetched": "2026-03-27T14:03:21.938769+07:00"
+    },
+    {
+      "id": "3f1065297f70cbafd9a28343949ea1e7",
+      "title": "Jensen Huang không họp riêng với cấp dưới trực tiếp",
+      "link": "https://vnexpress.net/jensen-huang-khong-hop-rieng-voi-cap-duoi-truc-tiep-5055416.html",
+      "summary": "CEO Nvidia Jensen Huang điều hành Nvidia với 60 nhân viên cấp dưới trực tiếp, nhưng không có bất kỳ cuộc họp riêng nào.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-27T06:00:00+07:00",
+      "fetched": "2026-03-27T14:03:30.892103+07:00"
+    },
+    {
+      "id": "eccae3fa62bee334f62831dcfc0804c2",
+      "title": "Chiêu bỏ tiền tỷ ngoài sổ sách của Chủ tịch Tập đoàn Rạng Đông",
+      "link": "https://vnexpress.net/chieu-bo-tien-ty-ngoai-so-sach-cua-chu-tich-tap-doan-rang-dong-5055500.html",
+      "summary": "Ông Nguyễn Văn Đông bị cáo buộc chỉ đạo cấp dưới là người thân xuất hóa đơn bán quặng thấp hơn giá thực tế để che giấu khoản chênh lệch 16,5 tỷ đồng ngoài sổ sách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T05:57:45+07:00",
+      "fetched": "2026-03-27T14:03:21.938935+07:00"
+    },
+    {
+      "id": "128cc4cacc61019f9dd5f6e378e0119d",
+      "title": "HLV Kim không hài lòng khi tuyển Việt Nam liên tục việt vị",
+      "link": "https://vnexpress.net/hlv-kim-khong-hai-long-khi-tuyen-viet-nam-lien-tuc-viet-vi-5055528.html",
+      "summary": "HLV Kim Sang-sik lộ vẻ mặt và hành động không vui sau khoảng thời gian học trò liên tục việt vị ở hiệp hai trận thắng Bangladesh 3-0, tối 26/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T05:56:27+07:00",
+      "fetched": "2026-03-27T14:03:21.939086+07:00"
+    },
+    {
+      "id": "128cc4cacc61019f9dd5f6e378e0119d",
+      "title": "HLV Kim không hài lòng khi tuyển Việt Nam liên tục việt vị",
+      "link": "https://vnexpress.net/hlv-kim-khong-hai-long-khi-tuyen-viet-nam-lien-tuc-viet-vi-5055528.html",
+      "summary": "HLV Kim Sang-sik lộ vẻ mặt và hành động không vui sau khoảng thời gian học trò liên tục việt vị ở hiệp hai trận thắng Bangladesh 3-0, tối 26/3.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-27T05:56:27+07:00",
+      "fetched": "2026-03-27T14:03:32.085272+07:00"
+    },
+    {
+      "id": "4828fed04afd32fabb77a4cd02a4f137",
+      "title": "Porsche Cayenne Electric ra mắt Đông Nam Á, giá từ 208.400 USD",
+      "link": "https://vnexpress.net/porsche-cayenne-electric-ra-mat-dong-nam-a-gia-tu-208-400-usd-5055206.html",
+      "summary": "Mẫu xe gầm cao hạng sang chạy điện cung cấp 3 phiên bản, lắp pin 113 kWh, phạm vi hoạt động 623-653 km, giá cao nhất 296.700 USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T05:55:40+07:00",
+      "fetched": "2026-03-27T14:03:21.939243+07:00"
     },
     {
       "id": "e828f2b67d8c966f6d48465d9a7f6f92",
@@ -1111,6 +1511,16 @@ window.newsData_2026_03_27 = {
       "category": "Thể thao",
       "published": "2026-03-27T01:34:08+07:00",
       "fetched": "2026-03-27T09:05:34.727645+07:00"
+    },
+    {
+      "id": "06e7d240d48a4bcb657e184d38c248a6",
+      "title": "Xác định đủ 6 trận tranh vé vớt World Cup 2026",
+      "link": "https://vnexpress.net/xac-dinh-du-6-tran-tranh-ve-vot-world-cup-2026-5055363.html",
+      "summary": "Bosnia & Herzegovina gặp Italy là một trong sáu trận đấu đã được xác định nhằm tranh những suất cuối cùng dự World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-27T01:34:08+07:00",
+      "fetched": "2026-03-27T14:03:32.085959+07:00"
     },
     {
       "id": "e60f76f24b7b09cae63fe2d1b5aaa8a5",
