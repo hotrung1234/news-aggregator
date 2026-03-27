@@ -1,7 +1,157 @@
 window.newsData_2026_03_27 = {
   "date": "2026-03-27",
-  "lastUpdated": "2026-03-27T17:44:04.224611+07:00",
+  "lastUpdated": "2026-03-27T20:00:04.453569+07:00",
   "articles": [
+    {
+      "id": "037a9e72b9c91677c92b807666211b6e",
+      "title": "Cựu hiệu trưởng lãnh 3 năm tù vì thu 15.000 một tiết dạy thêm từ 13 năm trước",
+      "link": "https://tuoitre.vn/cuu-hieu-truong-lanh-3-nam-tu-vi-thu-15-ngan-mot-tiet-day-them-tu-13-nam-truoc-20260327181411846.htm",
+      "summary": "Suốt phiên tòa, nữ cựu hiệu trưởng liên tục kêu oan nhưng hội đồng xét xử cho rằng đủ căn cứ xác định bị cáo tổ chức dạy, học thêm không theo quy định, chia lớp để nâng mức tiền thu là không đúng quy định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T19:59:59.176712+07:00",
+      "fetched": "2026-03-27T19:59:59.176826+07:00"
+    },
+    {
+      "id": "cd48c1e5c9ae522102e9a31e3c232db6",
+      "title": "Biến đổi khí hậu khiến Trái đất quay chậm lại",
+      "link": "https://tuoitre.vn/bien-doi-khi-hau-lam-cham-toc-do-quay-cua-trai-dat-20260327174131593.htm",
+      "summary": "Một nghiên cứu mới cho thấy biến đổi khí hậu do con người gây ra đang làm chậm tốc độ quay của Trái đất, với mức chưa từng thấy trong khoảng 3,6 triệu năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T19:59:59.176586+07:00",
+      "fetched": "2026-03-27T19:59:59.176701+07:00"
+    },
+    {
+      "id": "06a591070390fd28003a22868a67f429",
+      "title": "Điều động đại tá Nguyễn Thành Long làm Phó giám đốc Công an tỉnh Quảng Ngãi",
+      "link": "https://tuoitre.vn/dieu-dong-dai-ta-nguyen-thanh-long-lam-pho-giam-doc-cong-an-tinh-quang-ngai-20260327183946296.htm",
+      "summary": "Đại tá Nguyễn Thành Long, Phó giám đốc Công an TP Đà Nẵng, được Bộ Công an điều đồng, bổ nhiệm giữ chức Phó giám đốc Công an tỉnh Quảng Ngãi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T19:59:59.176457+07:00",
+      "fetched": "2026-03-27T19:59:59.176575+07:00"
+    },
+    {
+      "id": "52e42e688784f28fdbca27a114c5bdde",
+      "title": "Vệ binh Cách mạng Hồi giáo Iran tuyên bố đóng cửa eo biển Hormuz, tàu thuyền quay đầu",
+      "link": "https://tuoitre.vn/ve-binh-cach-mang-hoi-giao-iran-tuyen-bo-dong-cua-eo-bien-hormuz-tau-thuyen-quay-dau-20260327184610618.htm",
+      "summary": "Ngày 27-3, Lực lượng Vệ binh Cách mạng Hồi giáo Iran (IRGC) nói rằng họ đã buộc ít nhất ba tàu tìm cách đi qua eo biển Hormuz phải quay đầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T19:59:59.176336+07:00",
+      "fetched": "2026-03-27T19:59:59.176446+07:00"
+    },
+    {
+      "id": "e92a43cfe9f5c648af7958166077740f",
+      "title": "Khánh thành Bệnh viện Mắt Sài Gòn Cà Mau",
+      "link": "https://tuoitre.vn/khanh-thanh-benh-vien-mat-sai-gon-ca-mau-20260327121110401.htm",
+      "summary": "Ngày 26-3, hệ thống Bệnh viện Mắt Sài Gòn chính thức đưa vào hoạt động bệnh viện thành viên thứ 29, đánh dấu bước mở rộng đáng chú ý của mạng lưới nhãn khoa tư nhân tại khu vực Tây Nam Bộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T19:59:59.176213+07:00",
+      "fetched": "2026-03-27T19:59:59.176325+07:00"
+    },
+    {
+      "id": "afdb26b3562db34ecc142defd5f148d5",
+      "title": "Bất động sản cao cấp tăng tốc cuộc đua trải nghiệm",
+      "link": "https://tuoitre.vn/bat-dong-san-cao-cap-tang-toc-cuoc-dua-trai-nghiem-20260327141109362.htm",
+      "summary": "Sự thay đổi trong hệ giá trị sống tại các đô thị lớn đang kéo theo một chuyển dịch đáng chú ý trong cách thị trường bất động sản cao cấp được nhìn nhận và lựa chọn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T19:59:59.176083+07:00",
+      "fetched": "2026-03-27T19:59:59.176201+07:00"
+    },
+    {
+      "id": "74400009065e7c9053c9dd496b9b17ba",
+      "title": "Ông Hoàng Giang làm Chủ tịch HĐND tỉnh Lào Cai, ông Nguyễn Tuấn Anh tái đắc cử Chủ tịch UBND tỉnh",
+      "link": "https://tuoitre.vn/ong-hoang-giang-lam-chu-tich-hdnd-tinh-lao-cai-ong-nguyen-tuan-anh-tai-dac-cu-chu-tich-ubnd-tinh-20260327184715748.htm",
+      "summary": "Tại kỳ họp thứ nhất HĐND tỉnh Lào Cai khóa XVII, nhiệm kỳ 2026-2031, các đại biểu đã bầu Phó bí thư thường trực Tỉnh ủy Hoàng Giang làm Chủ tịch HĐND tỉnh, ông Nguyễn Tuấn Anh tiếp tục giữ chức Chủ tịch UBND tỉnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T19:59:59.175933+07:00",
+      "fetched": "2026-03-27T19:59:59.176071+07:00"
+    },
+    {
+      "id": "6f547acd960028d096ff40b8d6b93495",
+      "title": "4 người tại Phòng khám phụ sản Helia giả bác sĩ 'vẽ' bệnh, chiếm đoạt hàng chục tỉ đồng",
+      "link": "https://tuoitre.vn/4-nguoi-tai-phong-kham-phu-san-helia-gia-bac-si-ve-benh-chiem-doat-hang-chuc-ti-dong-20260327183946795.htm",
+      "summary": "4 người thuộc Phòng khám chuyên khoa phụ sản Helia bị công an khởi tố, bắt tạm giam với cáo buộc giả danh bác sĩ 'vẽ' bệnh nhằm bán các gói dịch vụ giá cắt cổ, thu lợi bất chính hàng chục tỉ đồng của người bệnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T19:59:59.175786+07:00",
+      "fetched": "2026-03-27T19:59:59.175918+07:00"
+    },
+    {
+      "id": "91b6838bb5d49a9bd916028c86244fca",
+      "title": "Người dùng súng bắn chết mẹ vợ và tài xế taxi bị khởi tố và bắt tạm giam",
+      "link": "https://tuoitre.vn/nguoi-dung-sung-ban-chet-me-vo-va-tai-xe-taxi-bi-khoi-to-va-bat-tam-giam-2026032718534812.htm",
+      "summary": "Công an tỉnh Quảng Trị cho biết đã ra quyết định khởi tố vụ án, khởi tố bị can và bắt tạm giam Nguyễn Ngọc Đạo (35 tuổi, trú xã Kim Điền, tỉnh Quảng Trị) để điều tra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T19:59:59.175660+07:00",
+      "fetched": "2026-03-27T19:59:59.175775+07:00"
+    },
+    {
+      "id": "098c9e64db5f92d5cc24b6423f773747",
+      "title": "Nam công nhân thoát chết trong gang tấc khi tấm thép rơi xuống đường sau vụ tai nạn ở cầu Kênh Tẻ",
+      "link": "https://tuoitre.vn/nam-cong-nhan-thoat-chet-trong-gang-tac-khi-tam-thep-roi-xuong-duong-sau-vu-tai-nan-o-cau-kenh-te-20260327190918911.htm",
+      "summary": "Camera ghi lại khoảnh khắc một nam công nhân may mắn thoát chết trong gang tấc khi tấm thép lớn văng xuống đường sau vụ tai nạn ở cầu Kênh Tẻ, phường Tân Hưng, TP.HCM xảy ra rạng sáng 27-3.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T19:59:59.175531+07:00",
+      "fetched": "2026-03-27T19:59:59.175648+07:00"
+    },
+    {
+      "id": "c4dfbbf51fbb595b7b71e8844597ed53",
+      "title": "'Ông lớn' công nghiệp của TP.HCM nộp ngân sách gần 2.760 tỉ đồng/năm",
+      "link": "https://tuoitre.vn/ong-lon-cong-nghiep-cua-tp-hcm-nop-ngan-sach-gan-2-760-ti-dong-nam-20260327185444124.htm",
+      "summary": "Từ một doanh nghiệp đa ngành mà nòng cốt là sản xuất thuốc lá, sau hai thập kỷ, Tổng công ty Công nghiệp Sài Gòn trở thành nhân tố then chốt trong đề án đô thị thông minh của TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T19:59:59.175403+07:00",
+      "fetched": "2026-03-27T19:59:59.175520+07:00"
+    },
+    {
+      "id": "00529541154f553ce993ff4adc270ce3",
+      "title": "Ông Võ Trọng Hải được bầu làm Chủ tịch UBND tỉnh Nghệ An",
+      "link": "https://tuoitre.vn/ong-vo-trong-hai-duoc-bau-lam-chu-tich-ubnd-tinh-nghe-an-20260327184724843.htm",
+      "summary": "Ông Võ Trọng Hải được bầu làm Chủ tịch UBND tỉnh Nghệ An nhiệm kỳ 2026-2031.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T19:59:59.175275+07:00",
+      "fetched": "2026-03-27T19:59:59.175392+07:00"
+    },
+    {
+      "id": "ae06e197f58849e270ad1891a7d2f808",
+      "title": "LG Electronics đóng góp xây cầu dân sinh tại Vĩnh Long",
+      "link": "https://tuoitre.vn/lg-electronics-dong-gop-xay-cau-dan-sinh-tai-vinh-long-20260327155030928.htm",
+      "summary": "LG Electronics Việt Nam đồng hành xây dựng cầu dân sinh tại Vĩnh Long, góp phần cải thiện kết nối giao thông và điều kiện sinh hoạt của người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T19:59:59.175143+07:00",
+      "fetched": "2026-03-27T19:59:59.175263+07:00"
+    },
+    {
+      "id": "3d2aba34231d6b4b75de7e8cd5c7342c",
+      "title": "Gìn giữ chiếc ‘chìa khóa vàng’ cho sức khỏe",
+      "link": "https://tuoitre.vn/gin-giu-chiec-chia-khoa-vang-cho-suc-khoe-20260327155652801.htm",
+      "summary": "Việc bổ sung các nhóm chất hỗ trợ tim mạch, tăng cường đề kháng và cơ xương khớp chính là bước đi đúng đắn để mỗi người dân tự nâng cao sức khỏe của chính mình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T19:59:59.174995+07:00",
+      "fetched": "2026-03-27T19:59:59.175131+07:00"
+    },
+    {
+      "id": "5579622f72e964af2431c4bf61c85f83",
+      "title": "Lần đầu tiên có hội thi môn giáo dục thể chất cấp toàn quốc",
+      "link": "https://tuoitre.vn/lan-dau-tien-co-hoi-thi-mon-giao-duc-the-chat-cap-toan-quoc-2026032718593781.htm",
+      "summary": "Lần đầu tiên, hội thi có tên 'Vận dụng lồng ghép Chiến lược 6C vào dạy học môn giáo dục thể chất cấp tiểu học', do Viện Khoa học giáo dục Việt Nam và các đối tác tổ chức chung kết vào ngày 27-3.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T19:59:59.174737+07:00",
+      "fetched": "2026-03-27T19:59:59.174979+07:00"
+    },
     {
       "id": "0b7c23e81a6aac7a735073b5139307c2",
       "title": "Các loại vũ khí của Iran tại eo biển Hormuz khiến Mỹ và đồng minh e dè",
@@ -443,6 +593,26 @@ window.newsData_2026_03_27 = {
       "fetched": "2026-03-27T14:03:26.155134+07:00"
     },
     {
+      "id": "a1351799b8f2079de7f1e566647f668f",
+      "title": "Ông Nguyễn Văn Phúc thôi làm Thứ trưởng Bộ GD-ĐT theo nguyện vọng cá nhân",
+      "link": "https://thanhnien.vn/ong-nguyen-van-phuc-thoi-lam-thu-truong-bo-gd-dt-theo-nguyen-vong-ca-nhan-185260327180452477.htm",
+      "summary": "Ông Nguyễn Văn Phúc đã Thủ tướng đồng ý cho thôi giữ chức Thứ trưởng Bộ GD-ĐT theo nguyện vọng cá nhân sau hơn 8 năm ở cương vị này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T12:58:00+07:00",
+      "fetched": "2026-03-27T19:59:58.231186+07:00"
+    },
+    {
+      "id": "bf8b6b26be71d342eed4b1c8f6312819",
+      "title": "Chị đẹp Việt gây sốt khi tham gia ‘Đạp gió 2026’ tại Trung Quốc là ai?",
+      "link": "https://thanhnien.vn/chi-dep-viet-gay-sot-khi-tham-gia-dap-gio-2026-tai-trung-quoc-la-ai-185260327161200442.htm",
+      "summary": "Sau dấu ấn tại chương trình ‘Chị đẹp đạp gió rẽ sóng 2023’, ca sĩ Trang Pháp xác nhận tham gia ‘Đạp gió 2026’ tại Trung Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T12:55:00+07:00",
+      "fetched": "2026-03-27T19:59:58.231362+07:00"
+    },
+    {
       "id": "b7c02f535c4c79d11e96806fed6e9348",
       "title": "Pháp họp trực tuyến với 35 quốc gia tìm cách khơi thông eo biển Hormuz",
       "link": "https://tuoitre.vn/phap-hop-truc-tuyen-voi-35-quoc-gia-tim-cach-khoi-thong-eo-bien-hormuz-20260327100231071.htm",
@@ -591,6 +761,316 @@ window.newsData_2026_03_27 = {
       "category": "Tổng hợp",
       "published": "2026-03-27T12:40:42.531061+07:00",
       "fetched": "2026-03-27T12:40:42.531282+07:00"
+    },
+    {
+      "id": "cca0a1518429987e95163a38c8a79d88",
+      "title": "Có 29.135 người trúng Vietlott Mega 6/45 tối nay, giải độc đắc cộng dồn 44,3 tỉ",
+      "link": "https://thanhnien.vn/co-29135-nguoi-trung-vietlott-mega-6-45-toi-nay-giai-doc-dac-cong-don-443-ti-185260327185415374.htm",
+      "summary": "Tối 27.3, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Mega 6/45, tuy nhiên không có người trúng giải độc đắc nên số tiền cộng dồn là 44,3 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T12:40:00+07:00",
+      "fetched": "2026-03-27T19:59:58.231524+07:00"
+    },
+    {
+      "id": "fcdc242dd3a23219395876625279303a",
+      "title": "Mitsubishi Xpander hybrid bản nâng cấp xuất hiện tại Thái Lan, liệu có về Việt Nam?",
+      "link": "https://thanhnien.vn/mitsubishi-xpander-hybrid-ban-nang-cap-xuat-hien-tai-thai-lan-lieu-co-ve-viet-nam-185260327144403497.htm",
+      "summary": "Mitsubishi Xpander bản xăng lai điện (hybrid) vừa xuất hiện tại Thái Lan gây chú ý với một số nâng cấp về ngoại hình, thêm công nghệ hỗ trợ lái xe nâng cao ADAS. Nếu cập bến thị trường Việt Nam thời gian tới, mẫu xe này hoàn toàn có thể tạo lợi thế cạnh tranh so với các đối thủ khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T12:39:00+07:00",
+      "fetched": "2026-03-27T19:59:58.231679+07:00"
+    },
+    {
+      "id": "3786a267d697745fceb631b19bab890c",
+      "title": "Chậm bước giữa thế gian vội vã - thông điệp từ triển lãm 'Nhận dạng gốc'",
+      "link": "https://thanhnien.vn/cham-buoc-giua-the-gian-voi-va-thong-diep-tu-trien-lam-nhan-dang-goc-185260327185737941.htm",
+      "summary": "Nhiếp ảnh gia Tùng Xuân Lâm đã có buổi triển lãm cá nhân đầu tay với chủ đề Nhận dạng gốc, như mời gọi người xem bước chậm lại giữa thế gian vội vã để khám phá vẻ đẹp toát lên từ những khoảnh khắc thường nhật, dành ra khoảng lặng để lắng nghe tiếng nói của bản ngã, những thanh âm tuyệt diệu từ sâu t...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T12:34:00+07:00",
+      "fetched": "2026-03-27T19:59:58.231831+07:00"
+    },
+    {
+      "id": "72c8d9474c5c06176219a8bb53a79ab4",
+      "title": "Lễ hội ẩm thực 500 món từ khách sạn 4, 5 sao ở TP.HCM: Giá bình dân, khách đông nghịt",
+      "link": "https://thanhnien.vn/le-hoi-am-thuc-500-mon-tu-khach-san-4-5-sao-o-tphcm-gia-binh-dan-khach-dong-nghit-185260327180323167.htm",
+      "summary": "Hơn 500 món ăn từ khách sạn 4 - 5 sao quy tụ tại lễ hội ẩm thực ở TP.HCM, thu hút đông đảo thực khách nhờ giá bình dân, không khí sôi động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T12:30:00+07:00",
+      "fetched": "2026-03-27T19:59:58.232008+07:00"
+    },
+    {
+      "id": "414c4e4faaf8c03de6fbd0b64f985b56",
+      "title": "Đại tá Nguyễn Thành Long được điều động làm Phó giám đốc Công an tỉnh Quảng Ngãi",
+      "link": "https://thanhnien.vn/dai-ta-nguyen-thanh-long-duoc-dieu-dong-lam-pho-giam-doc-cong-an-tinh-quang-ngai-185260327190328037.htm",
+      "summary": "Công an tỉnh Quảng Ngãi công bố quyết định điều động của Bộ trưởng Bộ Công an về việc đại tá Nguyễn Thành Long, Phó giám đốc Công an thành phố Đà Nẵng, giữ chức Phó giám đốc Công an tỉnh Quảng Ngãi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T12:26:00+07:00",
+      "fetched": "2026-03-27T19:59:58.232167+07:00"
+    },
+    {
+      "id": "66750d641a414abb502616e1dc5e028a",
+      "title": "Vì sao Đà Nẵng được chọn đăng cai World Cup pickleball 2026?",
+      "link": "https://thanhnien.vn/vi-sao-da-nang-duoc-chon-dang-cai-world-cup-pickleball-2026-185260327183844224.htm",
+      "summary": "Thành phố Đà Nẵng được 'chọn mặt gửi vàng' đăng cai World Cup pickleball 2026. Kinh nghiệm tổ chức thành công các giải đấu quốc tế, dấu ấn kỷ lục Guinness, hạ tầng hiện đại và sức hút của một thành phố năng động... đã giúp Đà Nẵng 'ghi điểm' để trở thành điểm hẹn mới của làng pickleball thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T12:21:00+07:00",
+      "fetched": "2026-03-27T19:59:58.232325+07:00"
+    },
+    {
+      "id": "d6db0225127f30d2d8c2e80cc669cdaf",
+      "title": "Uống rượu lái xe gây tai nạn chết người, thanh niên ở Huế bị khởi tố",
+      "link": "https://thanhnien.vn/uong-ruou-lai-xe-gay-tai-nan-chet-nguoi-thanh-nien-o-hue-bi-khoi-to-185260327184204492.htm",
+      "summary": "Sau khi sử dụng rượu bia, Nguyễn Kim Tuấn (25 tuổi, sống tại thành phố Huế) điều khiển xe máy không giảm tốc độ, thiếu quan sát và đi không đúng phần đường đã gây tai nạn khiến một cụ bà tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T12:20:00+07:00",
+      "fetched": "2026-03-27T19:59:58.232488+07:00"
+    },
+    {
+      "id": "e303bcdfaf998f983f2cc0689ece8edd",
+      "title": "NASA sẽ chi 20 tỷ USD xây căn cứ trên Mặt Trăng",
+      "link": "https://vnexpress.net/nasa-se-chi-20-ty-usd-xay-can-cu-tren-mat-trang-5055267.html",
+      "summary": "Jared Isaacman, Giám đốc NASA, hôm 24/3 thông báo cơ quan này sẽ đầu tư 20 tỷ USD để phát triển căn cứ trên bề mặt Mặt Trăng, đồng thời dừng kế hoạch xây trạm quỹ đạo Mặt Trăng Gateway.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-27T12:12:30+07:00",
+      "fetched": "2026-03-27T20:00:03.430029+07:00"
+    },
+    {
+      "id": "4f2182e096bf6c5f315415715d0e8687",
+      "title": "Ngôi sao Trường ĐH Lào từng đối đầu Đình Bắc và U.23 Việt Nam: 'Chúng tôi muốn vô địch'",
+      "link": "https://thanhnien.vn/ngoi-sao-truong-dh-lao-tung-doi-dau-dinh-bac-va-u23-viet-nam-chung-toi-muon-vo-dich-185260327183753353.htm",
+      "summary": "Tiền vệ Phudthachak Vongsili của Trường ĐH Lào khẳng định mục tiêu của toàn đội ở giải bóng đá Thanh Niên sinh viên quốc tế 2026 - cúp THACO là đoạt ngôi vô địch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T12:12:00+07:00",
+      "fetched": "2026-03-27T19:59:58.232639+07:00"
+    },
+    {
+      "id": "a8c46d53f7795d9ac18b51b3195d344d",
+      "title": "VFF có động thái đặc biệt trước trận Việt Nam tái đấu Malaysia, thầy Kim hé lộ nhân sự",
+      "link": "https://thanhnien.vn/vff-co-dong-thai-dac-biet-truoc-tran-viet-nam-tai-dau-malaysia-thay-kim-he-lo-nhan-su-185260327184334913.htm",
+      "summary": "Trận tái đấu giữa đội tuyển Việt Nam và Malaysia có động thái mới về công tác phát hành vé.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T12:10:00+07:00",
+      "fetched": "2026-03-27T19:59:58.232793+07:00"
+    },
+    {
+      "id": "d519ec317975361cc21aa1548fb03e68",
+      "title": "Nam A Bank mở rộng mạng lưới đối tác toàn cầu, giúp doanh nghiệp Việt bứt phá",
+      "link": "https://thanhnien.vn/nam-a-bank-mo-rong-mang-luoi-doi-tac-toan-cau-giup-doanh-nghiep-viet-but-pha-185260327191617291.htm",
+      "summary": "Nam A Bank vừa  kết nối loạt tổ chức tài chính quốc tế, tiếp sức doanh nghiệp xuất nhập khẩu Việt tham gia sâu hơn vào chuỗi giá trị toàn cầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T12:06:00+07:00",
+      "fetched": "2026-03-27T19:59:58.232963+07:00"
+    },
+    {
+      "id": "e5be58a5bc2443b411a03e8a23639eb9",
+      "title": "Hàn Quốc muốn lấy lại quyền chỉ huy thời chiến từ Mỹ, cải tổ nghĩa vụ quân sự",
+      "link": "https://thanhnien.vn/han-quoc-muon-lay-lai-quyen-chi-huy-thoi-chien-tu-my-cai-to-nghia-vu-quan-su-185260327184533709.htm",
+      "summary": "Hôm nay (27.3), Tổng thống Hàn Quốc Lee Jae Myung cho biết Seoul muốn lấy lại quyền chỉ huy thời chiến từ Mỹ trong thời gian gần, nhấn mạnh nhu cầu tăng cường tự chủ quân sự của nước này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T12:06:00+07:00",
+      "fetched": "2026-03-27T19:59:58.233115+07:00"
+    },
+    {
+      "id": "83b0d5e0b372896fe5f6b08254c5325a",
+      "title": "Bitcoin sập giá, xuống ngưỡng 66.000 USD",
+      "link": "https://thanhnien.vn/bitcoin-sap-gia-xuong-nguong-66000-usd-185260327183228825.htm",
+      "summary": "Giá Bitcoin bất ngờ lao dốc từ 69.000 USD xuống còn 66.000 USD khi giá dầu tăng vọt, nhà đầu tư tháo chạy khỏi các quỹ ETF Bitcoin.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T12:02:00+07:00",
+      "fetched": "2026-03-27T19:59:58.233258+07:00"
+    },
+    {
+      "id": "659ea662d01429cfad8d81eb69c77e6d",
+      "title": "Cách Iran biến eo biển Hormuz thành 'trạm thu phí'",
+      "link": "https://vnexpress.net/cach-iran-bien-eo-bien-hormuz-thanh-tram-thu-phi-5055356.html",
+      "summary": "Iran yêu cầu tàu thuyền phải xin phép, đi theo lộ trình chỉ định khi qua Hormuz, từng bước hiện thực hóa kế hoạch thu phí trên eo biển chiến lược này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T12:00:00+07:00",
+      "fetched": "2026-03-27T19:59:55.368695+07:00"
+    },
+    {
+      "id": "8a75c5d2276651f52f0a1c7aa6e93ac2",
+      "title": "Trữ đông trứng chờ sinh con",
+      "link": "https://vnexpress.net/tru-dong-trung-cho-sinh-con-5055633.html",
+      "summary": "Chị Dylan Nguyễn, 35 tuổi, bị suy giảm buồng trứng, được gom 10 trứng trữ đông chờ sau này sinh con.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T12:00:00+07:00",
+      "fetched": "2026-03-27T19:59:55.368886+07:00"
+    },
+    {
+      "id": "3c256b7ec4858db07e147c75572a4da6",
+      "title": "Phương pháp điều trị viêm đa khớp",
+      "link": "https://vnexpress.net/phuong-phap-dieu-tri-viem-da-khop-5055630.html",
+      "summary": "Dùng thuốc theo đúng chỉ định kết hợp với lối sống khoa học là phương pháp giúp kiểm soát viêm đa khớp và ngăn ngừa biến chứng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T12:00:00+07:00",
+      "fetched": "2026-03-27T19:59:55.369089+07:00"
+    },
+    {
+      "id": "ec54f7c6818e260172e0f681453ef16c",
+      "title": "Lây viêm gan B từ người thân do chủ quan",
+      "link": "https://vnexpress.net/lay-viem-gan-b-tu-nguoi-than-do-chu-quan-5055578.html",
+      "summary": "Bố của Thục Linh (quê Khánh Hòa) bỗng nhiên vàng da bất thường, được chẩn đoán mắc viêm gan B khiến cả nhà lo lắng do không rõ lây bệnh từ khi nào.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T12:00:00+07:00",
+      "fetched": "2026-03-27T19:59:55.369259+07:00"
+    },
+    {
+      "id": "5f920a1aeda2438d78aea2c2387eeaa9",
+      "title": "4 thói quen ăn uống hại sức khỏe trẻ",
+      "link": "https://vnexpress.net/4-thoi-quen-an-uong-hai-suc-khoe-tre-5055549.html",
+      "summary": "Bỏ bữa sáng, ăn không đúng giờ, vừa ăn vừa xem tivi hay tiêu thụ nhiều thực phẩm có đường là những thói quen ăn uống gây hại cho sức khỏe trẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T12:00:00+07:00",
+      "fetched": "2026-03-27T19:59:55.369417+07:00"
+    },
+    {
+      "id": "f41fc60b509966d2e208e48419afe81d",
+      "title": "Hơn 120 chuyên gia quốc tế thảo luận về ứng dụng dược liệu",
+      "link": "https://vnexpress.net/hon-120-chuyen-gia-quoc-te-thao-luan-ve-ung-dung-duoc-lieu-5055323.html",
+      "summary": "Hơn 120 đại biểu đến từ 14 quốc gia thảo luận hướng nghiên cứu và ứng dụng dược liệu tại Hội thảo Quốc tế về Cây dược liệu và hợp chất thiên nhiên, sáng 26/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T12:00:00+07:00",
+      "fetched": "2026-03-27T19:59:55.369574+07:00"
+    },
+    {
+      "id": "6ed24974cd730ed5959881418d3e447c",
+      "title": "Góp phần tăng kết nối giao thông, LG Electronics xây cầu dân sinh tại Vĩnh Long",
+      "link": "https://thanhnien.vn/gop-phan-tang-ket-noi-giao-thong-lg-electronics-xay-cau-dan-sinh-tai-vinh-long-185260327162647897.htm",
+      "summary": "LG Electronics Việt Nam tiếp tục triển khai các hoạt động trách nhiệm xã hội tại nhiều địa phương, tập trung vào những dự án mang lại giá trị lâu dài cho cộng đồng. Việc đồng hành xây dựng cầu dân sinh tại Vĩnh Long là một trong những hoạt động mới nhất, góp phần cải thiện kết nối giao thông và điều...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T12:00:00+07:00",
+      "fetched": "2026-03-27T19:59:58.233414+07:00"
+    },
+    {
+      "id": "659ea662d01429cfad8d81eb69c77e6d",
+      "title": "Cách Iran biến eo biển Hormuz thành 'trạm thu phí'",
+      "link": "https://vnexpress.net/cach-iran-bien-eo-bien-hormuz-thanh-tram-thu-phi-5055356.html",
+      "summary": "Iran yêu cầu tàu thuyền phải xin phép, đi theo lộ trình chỉ định khi qua Hormuz, từng bước hiện thực hóa kế hoạch thu phí trên eo biển chiến lược này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-27T12:00:00+07:00",
+      "fetched": "2026-03-27T20:00:00.805729+07:00"
+    },
+    {
+      "id": "3234b9e8e16731e2a386a1d088a25bfb",
+      "title": "Hàng không Việt có thể phải chi nửa tỷ USD mua tín chỉ carbon 10 năm tới",
+      "link": "https://vnexpress.net/hang-khong-viet-co-the-phai-chi-nua-ty-usd-mua-tin-chi-carbon-10-nam-toi-5055536.html",
+      "summary": "Trong 10 năm tới khi tham gia cơ chế giảm phát thải toàn cầu, hàng không Việt Nam có thể phải chi tới gần 500 triệu USD để mua tín chỉ carbon.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T11:49:28+07:00",
+      "fetched": "2026-03-27T19:59:55.369736+07:00"
+    },
+    {
+      "id": "3234b9e8e16731e2a386a1d088a25bfb",
+      "title": "Hàng không Việt có thể phải chi nửa tỷ USD mua tín chỉ carbon 10 năm tới",
+      "link": "https://vnexpress.net/hang-khong-viet-co-the-phai-chi-nua-ty-usd-mua-tin-chi-carbon-10-nam-toi-5055536.html",
+      "summary": "Trong 10 năm tới khi tham gia cơ chế giảm phát thải toàn cầu, hàng không Việt Nam có thể phải chi tới gần 500 triệu USD để mua tín chỉ carbon.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-27T11:49:28+07:00",
+      "fetched": "2026-03-27T20:00:01.635972+07:00"
+    },
+    {
+      "id": "35638c92c985d2b7b8e3a07fe0c40b18",
+      "title": "'Cần Giờ là nơi lý tưởng cho giải marathon 50.000 người'",
+      "link": "https://vnexpress.net/can-gio-la-noi-ly-tuong-cho-giai-marathon-50-000-nguoi-5055658.html",
+      "summary": "Sở hữu đường đua đặc sắc lẫn hạ tầng ngày càng hoàn thiện, Cần Giờ có nhiều tiềm năng thành điểm chạy bộ tầm vóc quốc tế, theo ông Mai Bá Hùng - Ủy viên Ủy ban Olympic Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T11:45:00+07:00",
+      "fetched": "2026-03-27T19:59:55.369895+07:00"
+    },
+    {
+      "id": "9d7b3bdfff561e17bbe94d32e0d1cab0",
+      "title": "Ông Bùi Văn Khắng tái cử Chủ tịch UBND tỉnh Quảng Ninh",
+      "link": "https://vnexpress.net/ong-bui-van-khang-tai-cu-chu-tich-ubnd-tinh-quang-ninh-5055670.html",
+      "summary": "Ông Bùi Văn Khắng tiếp tục được HĐND tỉnh Quảng Ninh bầu giữ chức Chủ tịch UBND tỉnh nhiệm kỳ 2026-2031 với 100% phiếu tán thành, tại kỳ họp thứ nhất chiều 27/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T11:16:03+07:00",
+      "fetched": "2026-03-27T19:59:55.370091+07:00"
+    },
+    {
+      "id": "3dbe61b4018ff70ec0c19818f32532b2",
+      "title": "Dòng người tiễn biệt Đức Hồng y Phạm Minh Mẫn",
+      "link": "https://vnexpress.net/dong-nguoi-tien-biet-duc-hong-y-pham-minh-man-5055614.html",
+      "summary": "Hàng nghìn linh mục, giám mục cùng giáo dân đổ về Trung tâm Mục vụ thuộc Đại chủng viện thánh Giuse Sài Gòn, dự Thánh lễ an táng Đức Hồng y Gioan Baotixita Phạm Minh Mẫn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T11:05:19+07:00",
+      "fetched": "2026-03-27T19:59:55.370246+07:00"
+    },
+    {
+      "id": "1368319e1c4f8a033f67ab80561366d7",
+      "title": "'Tôi mua 3 căn nhà trong 10 năm nhưng không bị tiền vay bóp nghẹt'",
+      "link": "https://vnexpress.net/lai-suat-vay-mua-nha-2026-moi-nhat-bi-bop-nghet-vi-vay-tien-mua-nha-thanh-ly-can-ho-chung-cu-5055571.html",
+      "summary": "'Tôi vay tiền mua rồi cho thuê căn hộ lớn, đi ở thuê căn hộ nhỏ'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T11:00:00+07:00",
+      "fetched": "2026-03-27T19:59:55.370401+07:00"
+    },
+    {
+      "id": "38f349167b39cf46411ec65aabaa0de6",
+      "title": "Theo chân thợ rừng gác kèo dẫn dụ ong mật làm tổ",
+      "link": "https://vnexpress.net/theo-chan-tho-rung-gac-keo-dan-du-ong-mat-lam-to-5055542.html",
+      "summary": "Du khách đi theo những người thợ địa phương, chứng kiến cách dựng kèo bằng cây tràm để dẫn dụ ong mật về làm tổ, nếm mật tươi ngay giữa rừng tràm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T11:00:00+07:00",
+      "fetched": "2026-03-27T19:59:55.370561+07:00"
+    },
+    {
+      "id": "29aa11b55c242fbd2ed68f427bd14e2c",
+      "title": "Điều hòa Daikin Chiller cho công trình lớn trong môi trường khắc nghiệt",
+      "link": "https://vnexpress.net/dieu-hoa-daikin-chiller-cho-cong-trinh-lon-trong-moi-truong-khac-nghiet-5055688.html",
+      "summary": "Hệ thống Chiller thế hệ mới vừa điều hòa không khí, vừa gia nhiệt hiệu suất cao, giúp công trình lớn ổn định nhiệt độ, tiết kiệm chi phí và bảo vệ môi trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T11:00:00+07:00",
+      "fetched": "2026-03-27T19:59:55.370720+07:00"
+    },
+    {
+      "id": "f0da7ae77a6df40541f432a85199b15c",
+      "title": "Long Châu nhận giải Sáng kiến vì sức khỏe cộng đồng",
+      "link": "https://vnexpress.net/long-chau-nhan-giai-sang-kien-vi-suc-khoe-cong-dong-5055677.html",
+      "summary": "FPT Long Châu được vinh danh \"Sáng kiến vì sức khỏe cộng đồng của năm\" tại lễ trao giải Healthcare Asia Pharma Awards 2026, ngày 26/3 tại Singapore.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T11:00:00+07:00",
+      "fetched": "2026-03-27T19:59:55.370875+07:00"
+    },
+    {
+      "id": "883a2662d2317cd8c81b12aed4622459",
+      "title": "Cựu hiệu trưởng ở Hà Nội bị tuyên 3 năm tù do thu sai một tỷ đồng dạy thêm",
+      "link": "https://vnexpress.net/cuu-hieu-truong-o-ha-noi-bi-tuyen-3-nam-tu-do-thu-sai-mot-ty-dong-day-them-5055527.html",
+      "summary": "Tòa cho hay cựu hiệu trưởng THCS Ba Đình Nguyễn Thị Bình nhận mức án thấp hơn đề nghị của VKS là do hưởng lợi rất nhỏ; được phụ huynh, đồng nghiệp và học sinh ghi nhận có công lao với trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T10:33:29+07:00",
+      "fetched": "2026-03-27T19:59:55.371059+07:00"
     },
     {
       "id": "496446e85768f8b195cc8b40f6265412",
@@ -811,6 +1291,16 @@ window.newsData_2026_03_27 = {
       "category": "Kinh doanh",
       "published": "2026-03-27T09:21:11+07:00",
       "fetched": "2026-03-27T17:44:00.150784+07:00"
+    },
+    {
+      "id": "48fba85595366f0745fce29a52cfaa62",
+      "title": "Đề xuất cơ chế vượt trội 'hút' dòng vốn dịch chuyển từ Trung Đông",
+      "link": "https://vnexpress.net/de-xuat-co-che-vuot-troi-de-hut-dong-von-dich-chuyen-tu-trung-dong-5055435.html",
+      "summary": "Lãnh đạo nhiều doanh nghiệp cho rằng dòng vốn quốc tế có thể dịch chuyển tới Việt Nam khi xung đột Trung Đông xảy ra nên đề nghị có chính sách vượt trội để đón đầu.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-27T09:21:11+07:00",
+      "fetched": "2026-03-27T20:00:01.636331+07:00"
     },
     {
       "id": "f58b75ef557772d6b6d51219bd605597",
