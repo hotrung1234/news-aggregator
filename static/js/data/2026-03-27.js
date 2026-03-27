@@ -1,7 +1,157 @@
 window.newsData_2026_03_27 = {
   "date": "2026-03-27",
-  "lastUpdated": "2026-03-27T21:45:55.992732+07:00",
+  "lastUpdated": "2026-03-27T23:52:03.972195+07:00",
   "articles": [
+    {
+      "id": "9f14440bbe284a89e244a4a1c957a037",
+      "title": "Ngày hội ẩm thực Gia Lai vô số món ngon, du khách háo hức nếm thử",
+      "link": "https://tuoitre.vn/ngay-hoi-am-thuc-gia-lai-vo-so-mon-ngon-du-khach-hao-huc-nem-thu-20260327205009616.htm",
+      "summary": "Tối 27-3, hàng ngàn người dân và du khách hồ hởi tìm đến quảng trường Nguyễn Tất Thành, phường Quy Nhơn, nếm thử các món ngon đặc sản tại Ngày hội tinh hoa ẩm thực Gia Lai 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T23:51:56.509547+07:00",
+      "fetched": "2026-03-27T23:51:56.509660+07:00"
+    },
+    {
+      "id": "55c74af0eb4c5866f74877d388cf221b",
+      "title": "Chủ tịch Cuba Miguel Diaz-Canel lên tiếng vụ 2 tàu viện trợ mất tích trên đường tới Havana",
+      "link": "https://tuoitre.vn/chu-tich-cuba-miguel-diaz-canel-len-tieng-vu-2-tau-vien-tro-mat-tich-tren-duong-toi-havana-20260327205843528.htm",
+      "summary": "Chủ tịch nước Cộng hòa Cuba Miguel Diaz-Canel Bermudez bày tỏ quan ngại sâu sắc về số phận của hai tàu mất tích khi đang chở hàng viện trợ nhân đạo tới Cuba, một tuần sau khi rời Mexico.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T23:51:56.509424+07:00",
+      "fetched": "2026-03-27T23:51:56.509537+07:00"
+    },
+    {
+      "id": "28d0228e82619d4d60bea0e647cc0592",
+      "title": "Trường đại học Kiến trúc TP.HCM giảm phương thức xét tuyển",
+      "link": "https://tuoitre.vn/truong-dai-hoc-kien-truc-tphcm-giam-phuong-thuc-xet-tuyen-20260327210055972.htm",
+      "summary": "Trường đại học Kiến trúc TP.HCM quyết định giảm phương thức xét tuyển đại học chính quy năm 2026, bỏ ưu tiên xét tuyển học sinh các trường THPT chuyên, năng khiếu và thí sinh có chứng chỉ quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T23:51:56.509300+07:00",
+      "fetched": "2026-03-27T23:51:56.509413+07:00"
+    },
+    {
+      "id": "957379531cf45ae52084e54fa7ab0a33",
+      "title": "Thạnh An sum vầy ngày lễ hội Nghinh Thủy cầu sóng yên, gió thuận",
+      "link": "https://tuoitre.vn/thanh-an-sum-vay-ngay-le-hoi-nghinh-thuy-cau-song-yen-gio-thuan-20260327160703027.htm",
+      "summary": "Người dân xã đảo Thạnh An quan niệm 'ngày Tết có thể không trở về, nhưng ngày lễ hội Nghinh Thủy nhất định phải có mặt'. Đây là dịp tạ ơn biển cả, cầu mong một năm sóng yên, gió hòa, mùa màng bội thu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T23:51:56.509169+07:00",
+      "fetched": "2026-03-27T23:51:56.509289+07:00"
+    },
+    {
+      "id": "5e8f3dbc9093a22c8a76a9eebe8a0102",
+      "title": "28 triệu/tháng vẫn có thể chưa phải nộp thuế thu nhập cá nhân",
+      "link": "https://tuoitre.vn/28-trieu-thang-van-co-the-chua-phai-nop-thue-thu-nhap-ca-nhan-20260327214510332.htm",
+      "summary": "Bộ Tài chính đề xuất cho phép người nộp thuế thu nhập cá nhân được trừ thêm chi phí y tế và giáo dục trước khi tính thuế, với mức tối đa gần 50 triệu đồng/năm nếu có đầy đủ hóa đơn, chứng từ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T23:51:56.509024+07:00",
+      "fetched": "2026-03-27T23:51:56.509157+07:00"
+    },
+    {
+      "id": "513aa5183f3fde69568181a180f60a4e",
+      "title": "Thụ thai ngoài không gian có khả thi? Kết quả nghiên cứu mới gây bất ngờ",
+      "link": "https://tuoitre.vn/thu-thai-ngoai-khong-gian-co-kha-thi-ket-qua-nghien-cuu-moi-gay-bat-ngo-20260327202757077.htm",
+      "summary": "Môi trường không trọng lực khiến tinh trùng khó tìm trứng hơn, nhưng một số tinh trùng vẫn có thể vượt qua 'thử thách', mở ra khả năng sinh sản ngoài vũ trụ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T23:51:56.508893+07:00",
+      "fetched": "2026-03-27T23:51:56.509013+07:00"
+    },
+    {
+      "id": "f5d64865a98f64a809a4c9cb29cc9fb4",
+      "title": "Đình Bắc được vinh danh tại chương trình Vinh quang Thể thao Việt Nam",
+      "link": "https://tuoitre.vn/dinh-bac-duoc-vinh-danh-tai-chuong-trinh-vinh-quang-the-thao-viet-nam-20260327215707372.htm",
+      "summary": "Cầu thủ Nguyễn Đình Bắc, xạ thủ Trịnh Thu Vinh, VĐV điền kinh Nguyễn Thị Oanh được tôn vinh tại sự kiện Vinh quang Thể thao Việt Nam 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T23:51:56.508755+07:00",
+      "fetched": "2026-03-27T23:51:56.508869+07:00"
+    },
+    {
+      "id": "cffa51e382bf40234929c17f30afac3c",
+      "title": "VFF bán vé trực tiếp trận tuyển Việt Nam - Malaysia",
+      "link": "https://tuoitre.vn/vff-ban-ve-truc-tiep-tran-tuyen-viet-nam-malaysia-20260327221532774.htm",
+      "summary": "Sau thời gian bán trực tuyến, Liên đoàn Bóng đá Việt Nam (VFF) sẽ mở bán vé trực tiếp trận tuyển Việt Nam đấu Malaysia trên sân Thiên Trường (Ninh Bình) ngày 31-3.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T23:51:56.508631+07:00",
+      "fetched": "2026-03-27T23:51:56.508744+07:00"
+    },
+    {
+      "id": "38ed634ce064aedaceb728b4277c41e3",
+      "title": "Iran giải thích vì sao tân Lãnh tụ tối cao chưa xuất hiện công khai",
+      "link": "https://tuoitre.vn/iran-giai-thich-vi-sao-tan-lanh-tu-toi-cao-chua-xuat-hien-cong-khai-20260327221447503.htm",
+      "summary": "Phía Iran cho biết Lãnh tụ tối cao Mojtaba Khamenei đang hoàn toàn khỏe mạnh và vẫn điều hành đất nước, dù chưa xuất hiện trước công chúng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T23:51:56.508507+07:00",
+      "fetched": "2026-03-27T23:51:56.508620+07:00"
+    },
+    {
+      "id": "1f5e92075dc48d3beb15fa39133e0c05",
+      "title": "Liên tục lập đường dây vận chuyển thuốc lá lậu qua các bưu cục, lãnh 10 năm tù",
+      "link": "https://tuoitre.vn/lien-tuc-lap-duong-day-van-chuyen-thuoc-la-lau-qua-cac-buu-cuc-lanh-10-nam-tu-20260327222843212.htm",
+      "summary": "Nghĩa móc nối với nhân viên bưu cục vận chuyển thuốc lá lậu. Khi đường dây bị phát hiện thì Nghĩa trốn thoát, sau đó lại tiếp tục dùng các ứng dụng bưu cục đặt hàng vận chuyển thuốc lá lậu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T23:51:56.508379+07:00",
+      "fetched": "2026-03-27T23:51:56.508496+07:00"
+    },
+    {
+      "id": "2aabd696973a681eac9a431b94edc69b",
+      "title": "Diễn viên Lee Sang Bo đột ngột qua đời",
+      "link": "https://tuoitre.vn/dien-vien-lee-sang-bo-dot-ngot-qua-doi-2026032722200852.htm",
+      "summary": "Nam diễn viên Hàn Quốc Lee Sang Bo đột ngột qua đời ở tuổi 45. Nguyên nhân cái chết của anh đang được điều tra làm rõ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T23:51:56.508248+07:00",
+      "fetched": "2026-03-27T23:51:56.508367+07:00"
+    },
+    {
+      "id": "90f0885624b28688cad265b2de2b01a3",
+      "title": "Từ làng tranh Đông Hồ đến non thiêng Yên Tử: Lời nhắc nhở trách nhiệm bảo vệ giá trị di sản",
+      "link": "https://tuoitre.vn/tu-lang-tranh-dong-ho-den-non-thieng-yen-tu-loi-nhac-nho-trach-nhiem-bao-ve-gia-tri-di-san-20260327215050881.htm",
+      "summary": "Trong đêm hội \"Về miền di sản Bắc Ninh 2026\", UNESCO cùng lúc gọi tên hai di sản Việt là tranh dân gian Đông Hồ và quần thể Yên Tử - Vĩnh Nghiêm - Côn Sơn - Kiếp Bạc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T23:51:56.508088+07:00",
+      "fetched": "2026-03-27T23:51:56.508234+07:00"
+    },
+    {
+      "id": "0bcabfc4ec45e3a8b6d692acfd5431b7",
+      "title": "Dấu ấn trừu tượng của nữ họa sĩ Đoàn Mai Thủy",
+      "link": "https://tuoitre.vn/dau-an-truu-tuong-cua-nu-hoa-si-doan-mai-thuy-20260325140111391.htm",
+      "summary": "Với Đoàn Mai Thủy, con đường hội họa không đến bằng cảm tính mà được hoạch định rõ từ đầu. Sẵn sàng bỏ sự nghiệp thuận lợi để bắt đầu lại và kiên trì mài giũa nghề suốt 30 năm, chị ghi được dấu ấn với trừu tượng, địa hạt vốn dành cho nam giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T23:51:56.507949+07:00",
+      "fetched": "2026-03-27T23:51:56.508076+07:00"
+    },
+    {
+      "id": "8d52ca1ce4de795866598e73dd149048",
+      "title": "Trung tâm Tài chính quốc tế TP.HCM xếp thứ 3 ASEAN, vào nhóm tăng tầm ảnh hưởng",
+      "link": "https://tuoitre.vn/trung-tam-tai-chinh-quoc-te-tp-hcm-xep-thu-3-asean-vao-nhom-tang-tam-anh-huong-20260327225037514.htm",
+      "summary": "Trung tâm Tài chính quốc tế TP.HCM ghi nhận thăng hạng ấn tượng so với năm trước, được chuyên gia quốc tế kỳ vọng sẽ ngày càng có vị thế quan trọng trên trường quốc tế trong tương lai gần.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T23:51:56.507804+07:00",
+      "fetched": "2026-03-27T23:51:56.507936+07:00"
+    },
+    {
+      "id": "97b5a8ab96fbd821529f4cb106220d59",
+      "title": "Báo Washington Post: Mỹ đã nã 850 tên lửa Tomahawk vào Iran, mỗi quả 3,6 triệu USD",
+      "link": "https://tuoitre.vn/bao-washington-post-my-da-na-850-ten-lua-tomahawk-vao-iran-moi-qua-3-6-trieu-usd-20260327231055923.htm",
+      "summary": "Theo các tài liệu của Hải quân Mỹ, những phiên bản mới nhất của tên lửa Tomahawk có giá lên tới khoảng 3,6 triệu USD mỗi quả và cần tới hai năm để sản xuất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T23:51:56.507570+07:00",
+      "fetched": "2026-03-27T23:51:56.507789+07:00"
+    },
     {
       "id": "14d37f37c35f85c9e941adeb6d31b030",
       "title": "Ông Trần Duy Đông tiếp tục làm Chủ tịch UBND tỉnh Phú Thọ",
@@ -323,6 +473,46 @@ window.newsData_2026_03_27 = {
       "fetched": "2026-03-27T17:43:57.686386+07:00"
     },
     {
+      "id": "67b0612e511dc62b31f534df5928ab68",
+      "title": "Thẩm phán Anh khen Barron Trump 'cứu mạng bạn từ xa'",
+      "link": "https://vnexpress.net/tham-phan-anh-khen-barron-trump-cuu-mang-ban-tu-xa-5055716.html",
+      "summary": "Thẩm phán tòa hình sự ở Anh ca ngợi Barron Trump vì đã kịp thời báo cảnh sát \"cứu mạng\" một người bạn, khi thấy cô bị hành hung qua FaceTime.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T16:14:23+07:00",
+      "fetched": "2026-03-27T23:51:52.186644+07:00"
+    },
+    {
+      "id": "67b0612e511dc62b31f534df5928ab68",
+      "title": "Thẩm phán Anh khen Barron Trump 'cứu mạng bạn từ xa'",
+      "link": "https://vnexpress.net/tham-phan-anh-khen-barron-trump-cuu-mang-ban-tu-xa-5055716.html",
+      "summary": "Thẩm phán tòa hình sự ở Anh ca ngợi Barron Trump vì đã kịp thời báo cảnh sát \"cứu mạng\" một người bạn, khi thấy cô bị hành hung qua FaceTime.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-27T16:14:23+07:00",
+      "fetched": "2026-03-27T23:51:58.464266+07:00"
+    },
+    {
+      "id": "35693efc06efcec3b35bf3dde7331aa9",
+      "title": "Phó thủ tướng Nguyễn Hòa Bình đề nghị nhà đầu tư Mỹ đồng hành cùng Việt Nam",
+      "link": "https://thanhnien.vn/pho-thu-tuong-nguyen-hoa-binh-de-nghi-nha-dau-tu-my-dong-hanh-cung-viet-nam-185260327224511898.htm",
+      "summary": "Sáng 23.3, tại New York, Phó thủ tướng Thường trực Nguyễn Hòa Bình đã dự Tọa đàm doanh nghiệp Việt Nam - Mỹ với chủ đề về thu hút nguồn vốn và thúc đẩy đầu tư vào Trung tâm tài chính quốc tế Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T16:00:00+07:00",
+      "fetched": "2026-03-27T23:51:55.373027+07:00"
+    },
+    {
+      "id": "81f21884aab5374d6f3428a8b3d33823",
+      "title": "Các quỹ đầu tư Mỹ quan tâm Trung tâm Tài chính quốc tế của Việt Nam",
+      "link": "https://thanhnien.vn/cac-quy-dau-tu-my-quan-tam-trung-tam-tai-chinh-quoc-te-cua-viet-nam-18526032722190049.htm",
+      "summary": "Ngày 25.3 (giờ địa phương), tại thành phố New York, Phó thủ tướng thường trực Nguyễn Hòa Bình đã tiếp lãnh đạo các định chế tài chính và quỹ đầu tư hàng đầu Mỹ về công nghệ tài chính mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T15:58:00+07:00",
+      "fetched": "2026-03-27T23:51:55.373225+07:00"
+    },
+    {
       "id": "2975fe2e91a141dfebcda6e80db39a0b",
       "title": "Bảo trì nhà máy, nước sẽ bị yếu tại 37 phường, xã ở TP.HCM cuối tuần này",
       "link": "https://tuoitre.vn/bao-tri-nha-may-nuoc-se-bi-yeu-tai-37-phuong-xa-o-tp-hcm-cuoi-tuan-nay-2026032712000662.htm",
@@ -471,6 +661,116 @@ window.newsData_2026_03_27 = {
       "category": "Tổng hợp",
       "published": "2026-03-27T15:48:29.397640+07:00",
       "fetched": "2026-03-27T15:48:29.397848+07:00"
+    },
+    {
+      "id": "2c318c458ccf4cf37769f8c2e2f18cc7",
+      "title": "Nghệ An, Quảng Trị kiện toàn lãnh đạo HĐND, UBND nhiệm kỳ mới",
+      "link": "https://vnexpress.net/nghe-an-quang-tri-kien-toan-lanh-dao-hdnd-ubnd-nhiem-ky-moi-5055715.html",
+      "summary": "Chủ tịch HĐND và Chủ tịch UBND tỉnh Nghệ An, Quảng Trị tiếp tục được bầu giữ chức vụ nhiệm kỳ 2026-2031 tại kỳ họp thứ nhất chiều 27/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T15:36:34+07:00",
+      "fetched": "2026-03-27T23:51:52.186823+07:00"
+    },
+    {
+      "id": "ca1574fc03d801b84f0c35fb6c382984",
+      "title": "Bắt giam 4 người của phòng khám phụ sản Helia ‘vẽ’ bệnh để ‘cắt cổ’ khách hàng",
+      "link": "https://thanhnien.vn/bat-giam-4-nguoi-cua-phong-kham-phu-san-helia-ve-benh-de-cat-co-khach-hang-185260327212949985.htm",
+      "summary": "Công an TP. Hà Nội vừa khởi tố, bắt tạm giam 4 bị can của Phòng khám phụ sản Helia với cáo buộc giả danh bác sĩ để 'vẽ' bệnh án nhằm bán gói dịch vụ với giá 'cắt cổ'",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T15:29:00+07:00",
+      "fetched": "2026-03-27T23:51:55.373392+07:00"
+    },
+    {
+      "id": "4a6741e500d8abf39a45a008b9b2bbdd",
+      "title": "Món ăn gây ấn tượng với NSND Xuân Bắc tại Ngày hội Văn hóa ẩm thực Gia Lai",
+      "link": "https://thanhnien.vn/mon-an-gay-an-tuong-voi-nsnd-xuan-bac-tai-ngay-hoi-van-hoa-am-thuc-gia-lai-185260327204725895.htm",
+      "summary": "NSND Xuân Bắc thưởng thức và khen món cá ngừ sashimi, điểm nhấn độc đáo tại Ngày hội Văn hóa ẩm thực 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T15:06:00+07:00",
+      "fetched": "2026-03-27T23:51:55.373548+07:00"
+    },
+    {
+      "id": "092993653f3907b11f040926bee5bf99",
+      "title": "Sẵn sàng cho ngày hội Tư vấn mùa thi tại Trường ĐH Đà Lạt",
+      "link": "https://thanhnien.vn/san-sang-cho-ngay-hoi-tu-van-mua-thi-tai-truong-dh-da-lat-185260327211929113.htm",
+      "summary": "Sáng mai 28.3, chương trình Tư vấn mùa thi 2026 do Báo Thanh Niên phối hợp với Bộ GD-ĐT, Sở GD-ĐT Lâm Đồng, Trường ĐH Đà Lạt và Tỉnh đoàn Lâm Đồng tổ chức sẽ diễn ra trong không gian xanh mát, giàu truyền thống của Trường ĐH Đà Lạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T15:04:00+07:00",
+      "fetched": "2026-03-27T23:51:55.373705+07:00"
+    },
+    {
+      "id": "227d477405f306f67a71d6fc21a75749",
+      "title": "Arab Saudi - Ukraine ký thỏa thuận hợp tác quốc phòng",
+      "link": "https://vnexpress.net/arab-saudi-ukraine-ky-thoa-thuan-hop-tac-quoc-phong-5055707.html",
+      "summary": "Tổng thống Zelensky thông báo Ukraine và Arab Saudi đã ký thỏa thuận hợp tác quốc phòng, đặt nền tảng cho các thương vụ đầu tư trong tương lai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T14:54:26+07:00",
+      "fetched": "2026-03-27T23:51:52.187001+07:00"
+    },
+    {
+      "id": "227d477405f306f67a71d6fc21a75749",
+      "title": "Arab Saudi - Ukraine ký thỏa thuận hợp tác quốc phòng",
+      "link": "https://vnexpress.net/arab-saudi-ukraine-ky-thoa-thuan-hop-tac-quoc-phong-5055707.html",
+      "summary": "Tổng thống Zelensky thông báo Ukraine và Arab Saudi đã ký thỏa thuận hợp tác quốc phòng, đặt nền tảng cho các thương vụ đầu tư trong tương lai.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-27T14:54:26+07:00",
+      "fetched": "2026-03-27T23:51:58.464442+07:00"
+    },
+    {
+      "id": "08d4c2b79240001109301a0babbe43db",
+      "title": "Bún bung là món ăn gì ở Hà Nội?",
+      "link": "https://vnexpress.net/bun-bung-la-mon-an-gi-o-ha-noi-5054635.html",
+      "summary": "Bún bung là món ăn dân dã của người Hà Nội, tên gọi được đặt theo cách chế biến nước dùng, với các nguyên liệu đơn giản, dễ tìm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T14:49:06+07:00",
+      "fetched": "2026-03-27T23:51:52.187194+07:00"
+    },
+    {
+      "id": "8663c74fcaea09fee683e7eacb00f5de",
+      "title": "Nghe phụ nữ bản làng kể chuyện qua triển lãm 'Gieo xanh nơi đỉnh mây'",
+      "link": "https://thanhnien.vn/nghe-phu-nu-ban-lang-ke-chuyen-qua-trien-lam-gieo-xanh-noi-dinh-may-185260327210857312.htm",
+      "summary": "Chiều 27.3, triển lãm 'Gieo xanh nơi đỉnh mây' đã chính thức khai mạc tại Bảo tàng Phụ nữ Việt Nam (Hà Nội), nhằm tôn vinh vai trò của phụ nữ dân tộc thiểu số tại vùng cao Lào Cai trong việc bảo tồn di sản và phát triển sinh kế bền vững trước những thách thức của biến đổi khí hậu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T14:46:00+07:00",
+      "fetched": "2026-03-27T23:51:55.373858+07:00"
+    },
+    {
+      "id": "87141a8f6d320938134fa25cd1c3d451",
+      "title": "TP HCM tăng 11 bậc xếp hạng trung tâm tài chính toàn cầu",
+      "link": "https://vnexpress.net/tp-hcm-tang-11-bac-xep-hang-trung-tam-tai-chinh-toan-cau-5055699.html",
+      "summary": "Thứ hạng trung tâm tài chính toàn cầu của TP HCM tăng 11 bậc sau sáu tháng, vào top 3 của Đông Nam Ấ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T14:43:46+07:00",
+      "fetched": "2026-03-27T23:51:52.187360+07:00"
+    },
+    {
+      "id": "87141a8f6d320938134fa25cd1c3d451",
+      "title": "TP HCM tăng 11 bậc xếp hạng trung tâm tài chính toàn cầu",
+      "link": "https://vnexpress.net/tp-hcm-tang-11-bac-xep-hang-trung-tam-tai-chinh-toan-cau-5055699.html",
+      "summary": "Thứ hạng trung tâm tài chính toàn cầu của TP HCM tăng 11 bậc sau sáu tháng, vào top 3 của Đông Nam Ấ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-27T14:43:46+07:00",
+      "fetched": "2026-03-27T23:52:00.177021+07:00"
+    },
+    {
+      "id": "93c4a9c66a1442aa7266b459ee8ab814",
+      "title": "Hội thảo khoa học ‘Họ Phùng Việt Nam, Dòng chảy và hội tụ’",
+      "link": "https://thanhnien.vn/hoi-thao-khoa-hoc-ho-phung-viet-nam-dong-chay-va-hoi-tu-185260327214244311.htm",
+      "summary": "Ngày 5.4 tại TP.Đà Nẵng, Hội đồng Họ Phùng Việt Nam phối hợp Hội Khoa học Lịch sử Việt Nam, Hội Khoa học Lịch sử TP.Đà Nẵng sẽ tổ chức Hội thảo khoa học 'Họ Phùng Việt Nam, Dòng chảy và hội tụ'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T14:37:00+07:00",
+      "fetched": "2026-03-27T23:51:55.374011+07:00"
     },
     {
       "id": "5555818ae83924b5434d5925a372db26",
@@ -801,6 +1101,16 @@ window.newsData_2026_03_27 = {
       "category": "Tổng hợp",
       "published": "2026-03-27T13:41:43+07:00",
       "fetched": "2026-03-27T21:45:45.842365+07:00"
+    },
+    {
+      "id": "a85bd84254a48d62354f9449aab6f48f",
+      "title": "Hà Nội muốn dùng metro để 'tự tạo tiền' phát triển đô thị",
+      "link": "https://vnexpress.net/ha-noi-muon-dung-metro-de-tu-tao-tien-phat-trien-do-thi-5055683.html",
+      "summary": "Dự thảo Luật Thủ đô sửa đổi cho phép Hà Nội khai thác quỹ đất quanh các tuyến metro theo mô hình TOD, tạo nguồn lực tài chính tại chỗ thay vì phụ thuộc vào ngân sách và vốn vay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T13:41:43+07:00",
+      "fetched": "2026-03-27T23:51:52.188985+07:00"
     },
     {
       "id": "20d6ecacb54ef4143b0f008e28e2b7c8",
