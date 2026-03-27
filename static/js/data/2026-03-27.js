@@ -1,7 +1,27 @@
 window.newsData_2026_03_27 = {
   "date": "2026-03-27",
-  "lastUpdated": "2026-03-27T20:00:04.453569+07:00",
+  "lastUpdated": "2026-03-27T21:45:55.992732+07:00",
   "articles": [
+    {
+      "id": "14d37f37c35f85c9e941adeb6d31b030",
+      "title": "Ông Trần Duy Đông tiếp tục làm Chủ tịch UBND tỉnh Phú Thọ",
+      "link": "https://tuoitre.vn/ong-tran-duy-dong-tiep-tuc-lam-chu-tich-ubnd-tinh-phu-tho-20260327193347295.htm",
+      "summary": "Ông Trần Duy Đông, Chủ tịch UBND tỉnh Phú Thọ khóa XIX nhiệm kỳ 2021-2026, tái đắc cử chức danh này ở khóa XX, nhiệm kỳ 2026-2031.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T21:45:49.915694+07:00",
+      "fetched": "2026-03-27T21:45:49.915834+07:00"
+    },
+    {
+      "id": "dbbcccbf783fbe30baf80d5cbd3fda29",
+      "title": "Nhu cầu điện năng của Việt Nam được dự báo tiếp tục tăng trưởng ở mức cao",
+      "link": "https://tuoitre.vn/nhu-cau-dien-nang-cua-viet-nam-duoc-du-bao-tiep-tuc-tang-truong-o-muc-cao-20260327193646243.htm",
+      "summary": "Trong điều kiện hệ thống điện Việt Nam, nhất là vào các tháng mùa khô của năm nay và các năm tiếp theo, có thể tiếp tục đối mặt với nguy cơ thiếu công suất vào giờ cao điểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T21:45:49.915445+07:00",
+      "fetched": "2026-03-27T21:45:49.915677+07:00"
+    },
     {
       "id": "037a9e72b9c91677c92b807666211b6e",
       "title": "Cựu hiệu trưởng lãnh 3 năm tù vì thu 15.000 một tiết dạy thêm từ 13 năm trước",
@@ -453,6 +473,116 @@ window.newsData_2026_03_27 = {
       "fetched": "2026-03-27T15:48:29.397848+07:00"
     },
     {
+      "id": "5555818ae83924b5434d5925a372db26",
+      "title": "Công ty của bầu Đức đặt kế hoạch lãi kỷ lục 4.200 tỷ đồng",
+      "link": "https://vnexpress.net/cong-ty-cua-bau-duc-dat-ke-hoach-lai-ky-luc-4-200-ty-dong-5055710.html",
+      "summary": "Hoàng Anh Gia Lai đặt mục tiêu lãi 4.200 tỷ đồng, gấp đôi cùng kỳ, nhờ tái cơ cấu phát huy hiệu quả và nhiều cây trồng bước vào kỳ thu hoạch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T14:32:44+07:00",
+      "fetched": "2026-03-27T21:45:45.840778+07:00"
+    },
+    {
+      "id": "65c99332cf38470a9dbfb2d5363b9fc6",
+      "title": "Du lịch Gia Lai định vị thương hiệu ‘rừng xanh - biển biếc’",
+      "link": "https://thanhnien.vn/du-lich-gia-lai-dinh-vi-thuong-hieu-rung-xanh-bien-biec-185260327173022088.htm",
+      "summary": "Ngày 27.3, Bộ VH-TT-DL phối hợp UBND tỉnh Gia Lai tổ chức diễn đàn du lịch 'Gia Lai - tiềm năng và triển vọng', mở ra góc nhìn mới về hành trình phát triển du lịch của Gia Lai trong giai đoạn mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T14:30:00+07:00",
+      "fetched": "2026-03-27T21:45:49.044159+07:00"
+    },
+    {
+      "id": "2201979d1791c5bd9af71d7e1513dc63",
+      "title": "Kiến nghị hỗ trợ tàu biển Việt Nam qua eo biển Hormuz",
+      "link": "https://vnexpress.net/kien-nghi-ho-tro-tau-bien-viet-nam-qua-eo-bien-hormuz-5055696.html",
+      "summary": "Cục Hàng hải và Đường thủy Việt Nam kiến nghị Bộ Ngoại giao làm việc với phía Iran nhằm phối hợp bảo đảm an toàn hàng hải, hỗ trợ tàu biển và thuyền viên Việt Nam lưu thông qua eo biển Hormuz.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T14:26:48+07:00",
+      "fetched": "2026-03-27T21:45:45.840987+07:00"
+    },
+    {
+      "id": "edd948bc5b9547690c50ccdb34c54661",
+      "title": "Đại học Dược Hà Nội không muốn thành 'bảo tàng chỉ để trưng bày'",
+      "link": "https://vnexpress.net/dai-hoc-duoc-ha-noi-phan-bien-de-xuat-di-doi-khoi-19-le-thanh-tong-5055619.html",
+      "summary": "Trường Đại học Dược Hà Nội cho rằng việc di dời để chuyển khuôn viên ở Lê Thánh Tông thành bảo tàng có thể làm gián đoạn dòng chảy học thuật và giảm giá trị di sản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T14:18:06+07:00",
+      "fetched": "2026-03-27T21:45:45.841174+07:00"
+    },
+    {
+      "id": "548e35f1fa0e8e1fc5a80d2682e03a59",
+      "title": "Bi kịch tấm thép từ xe đầu kéo đè cabin xe rác, tài xế tử vong",
+      "link": "https://thanhnien.vn/bi-kich-tam-thep-tu-xe-dau-keo-de-cabin-xe-rac-tai-xe-tu-vong-185260327210924337.htm",
+      "summary": "Ngày 27.3.2026, Công an phường Tân Hưng (tại TP.HCM) đang phối hợp các đơn vị liên quan điều tra nguyên nhân vụ tai nạn giao thông nghiêm trọng giữa xe đầu kéo chở thép và xe rác khiến 1 người tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T14:13:00+07:00",
+      "fetched": "2026-03-27T21:45:49.044338+07:00"
+    },
+    {
+      "id": "59087c0ea9bbe06d36d4177d51edc8b8",
+      "title": "Nam thanh niên tông chết cụ bà khi rẽ trái",
+      "link": "https://vnexpress.net/nam-thanh-nien-tong-chet-cu-ba-khi-re-trai-5055713.html",
+      "summary": "Công an xác định Nguyễn Kim Tuấn, 25 tuổi, lái xe sau khi đã uống bia rượu, tông chết cụ bà 85 tuổi lúc rẽ trái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T14:10:25+07:00",
+      "fetched": "2026-03-27T21:45:45.841351+07:00"
+    },
+    {
+      "id": "ba0f90e75e04d21bbc3c369742331fef",
+      "title": "Trường đại học Hồng Đức sau sáp nhập có 8 ngành đào tạo tiến sĩ",
+      "link": "https://thanhnien.vn/truong-dai-hoc-hong-duc-sau-sap-nhap-co-8-nganh-dao-tao-tien-si-185260327152449509.htm",
+      "summary": "Sau sáp nhập, Trường đại học Hồng Đức (Thanh Hóa) sẽ có quy mô đào tạo là 19.572 người học, với 8 ngành đào tạo tiến sĩ, 25 ngành đào tạo thạc sĩ, 52 ngành đào tạo đại học…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T14:09:00+07:00",
+      "fetched": "2026-03-27T21:45:49.044496+07:00"
+    },
+    {
+      "id": "17e127ba25fd7829803a59d9e110f075",
+      "title": "Sự thật về video bầy chó trốn kẻ trộm, tìm đường về nhà",
+      "link": "https://vnexpress.net/su-that-ve-video-bay-cho-tron-ke-trom-tim-duong-ve-nha-5055627.html",
+      "summary": "Video thu hút hàng chục triệu lượt xem về bầy chó đi dọc cao tốc tìm đường về nhà được xác minh là không đúng sự thật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T14:08:09+07:00",
+      "fetched": "2026-03-27T21:45:45.841513+07:00"
+    },
+    {
+      "id": "17e127ba25fd7829803a59d9e110f075",
+      "title": "Sự thật về video bầy chó trốn kẻ trộm, tìm đường về nhà",
+      "link": "https://vnexpress.net/su-that-ve-video-bay-cho-tron-ke-trom-tim-duong-ve-nha-5055627.html",
+      "summary": "Video thu hút hàng chục triệu lượt xem về bầy chó đi dọc cao tốc tìm đường về nhà được xác minh là không đúng sự thật.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-27T14:08:09+07:00",
+      "fetched": "2026-03-27T21:45:51.469431+07:00"
+    },
+    {
+      "id": "4d56502b78af97ef6e2b1ac22281de6b",
+      "title": "Bộ đôi SUV Geely EX2, EX5 gia nhập thị trường Việt Nam, giá từ 459 triệu",
+      "link": "https://thanhnien.vn/bo-doi-suv-geely-ex2-ex5-gia-nhap-thi-truong-viet-nam-gia-tu-459-trieu-185260327174524938.htm",
+      "summary": "Nhắm đến phân khúc xe xanh, nhà phân phối Tasco Auto mang đến cho khách hàng Việt bộ đôi Geely EX2 và EX5 EM-i, giá từ 459 triệu đồng, nhằm mở rộng dải sản phẩm của hãng xe đến từ Trung Quốc và mang đến lựa chọn mới cho người dùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T14:05:00+07:00",
+      "fetched": "2026-03-27T21:45:49.044650+07:00"
+    },
+    {
+      "id": "4b58cdd7f16eae548f9dc5ce0853076f",
+      "title": "Công an tỉnh Thanh Hoá xây doanh trại đóng quân gần 33 ha",
+      "link": "https://vnexpress.net/cong-an-tinh-thanh-hoa-xay-doanh-trai-dong-quan-gan-33-ha-5055709.html",
+      "summary": "Dự án doanh trại đóng quân Công an tỉnh Thanh Hóa quy mô 32,8 ha được khởi công tại vị trí trung tâm, hướng tới mục tiêu xây dựng lực lượng chính quy, hiện đại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T14:04:03+07:00",
+      "fetched": "2026-03-27T21:45:45.841676+07:00"
+    },
+    {
       "id": "baaff10a4293104ead33483e293278f2",
       "title": "Tại sao Hữu Quốc gọi Lê Thiện là bố?",
       "link": "https://tuoitre.vn/tai-sao-huu-quoc-goi-le-thien-la-bo-2026032711053205.htm",
@@ -591,6 +721,226 @@ window.newsData_2026_03_27 = {
       "category": "Tổng hợp",
       "published": "2026-03-27T14:03:26.154923+07:00",
       "fetched": "2026-03-27T14:03:26.155134+07:00"
+    },
+    {
+      "id": "8b04ba42d63acd7a27a5e7389b1d27d5",
+      "title": "Vụ nữ sinh tử vong ở Vĩnh Long: Tạm giam 3 tháng phó thủ trưởng và thuộc cấp",
+      "link": "https://thanhnien.vn/vu-nu-sinh-tu-vong-o-vinh-long-tam-giam-3-thang-pho-thu-truong-va-cap-duoi-185260327204230649.htm",
+      "summary": "Cơ quan điều tra Viện KSND tối cao đã gửi thông báo kết quả giải quyết nguồn tin về tội phạm đến gia đình nữ sinh tử vong ở Vĩnh Long.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T14:00:00+07:00",
+      "fetched": "2026-03-27T21:45:49.044805+07:00"
+    },
+    {
+      "id": "44ccd2b8da462d012db76cf1681c4f40",
+      "title": "Cuộc sống đời thường của Dianka, Bùi Tiến Dũng",
+      "link": "https://vnexpress.net/cuoc-song-doi-thuong-cua-dianka-bui-tien-dung-5054750.html",
+      "summary": "Người mẫu Dianka thường cùng chồng - thủ môn Bùi Tiến Dũng - vào bếp, trang trí nhà cửa, chơi đùa với con khi rời sàn diễn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T13:54:18+07:00",
+      "fetched": "2026-03-27T21:45:45.841839+07:00"
+    },
+    {
+      "id": "188f2b319810b7450fd78aef04a0d1ea",
+      "title": "Bộ Khoa học và Công nghệ lấy ý kiến sửa quy chuẩn quốc gia về xăng dầu",
+      "link": "https://vnexpress.net/bo-khoa-hoc-va-cong-nghe-lay-y-kien-sua-quy-chuan-quoc-gia-ve-xang-dau-5055685.html",
+      "summary": "Bộ Khoa học và Công nghệ đang lấy ý kiến dự thảo thông tư sửa đổi Quy chuẩn kỹ thuật quốc gia về xăng, nhiên liệu diesel và nhiên liệu sinh học.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T13:53:53+07:00",
+      "fetched": "2026-03-27T21:45:45.842043+07:00"
+    },
+    {
+      "id": "188f2b319810b7450fd78aef04a0d1ea",
+      "title": "Bộ Khoa học và Công nghệ lấy ý kiến sửa quy chuẩn quốc gia về xăng dầu",
+      "link": "https://vnexpress.net/bo-khoa-hoc-va-cong-nghe-lay-y-kien-sua-quy-chuan-quoc-gia-ve-xang-dau-5055685.html",
+      "summary": "Bộ Khoa học và Công nghệ đang lấy ý kiến dự thảo thông tư sửa đổi Quy chuẩn kỹ thuật quốc gia về xăng, nhiên liệu diesel và nhiên liệu sinh học.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-27T13:53:53+07:00",
+      "fetched": "2026-03-27T21:45:55.066368+07:00"
+    },
+    {
+      "id": "98b6a76fc0fb8073604336602578dc45",
+      "title": "Khách sạn hạng sang Thái Lan đua nhau giảm giá sâu để cứu vãn du lịch",
+      "link": "https://thanhnien.vn/khach-san-hang-sang-thai-lan-dua-nhau-giam-gia-sau-de-cuu-van-du-lich-185260327201300383.htm",
+      "summary": "Hàng loạt ưu đãi đang trải khắp các trang đặt phòng ở Thái Lan, nơi các phòng nghỉ khách sạn 5 sao giảm giá mạnh dù vào mùa cao điểm du lịch ở nước này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T13:53:00+07:00",
+      "fetched": "2026-03-27T21:45:49.044974+07:00"
+    },
+    {
+      "id": "95af50745396ff0a73bf26f9d9e44049",
+      "title": "Xuất hiện thủ đoạn 'điện thoại ảo' tấn công ứng dụng ngân hàng",
+      "link": "https://thanhnien.vn/xuat-hien-thu-doan-dien-thoai-ao-tan-cong-ung-dung-ngan-hang-185260327105429772.htm",
+      "summary": "Sự trỗi dậy của thủ đoạn tinh vi mang tên 'điện thoại đám mây' đang âm thầm vét sạch mọi tài khoản ngân hàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T13:46:00+07:00",
+      "fetched": "2026-03-27T21:45:49.045142+07:00"
+    },
+    {
+      "id": "b5fc095be982c992b28fd86845215722",
+      "title": "4 người của phòng khám phụ sản Helia giả bác sĩ để 'vẽ' bệnh, lừa tiền",
+      "link": "https://vnexpress.net/4-nguoi-cua-phong-kham-phu-san-helia-gia-bac-si-de-ve-benh-lua-tien-5055708.html",
+      "summary": "4 người của Phòng khám chuyên khoa Phụ sản Helia đã giả danh bác sĩ \"vẽ\" bệnh lừa bệnh nhân để thu tiền giá cao, hưởng lợi bất chính hàng chục tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T13:42:19+07:00",
+      "fetched": "2026-03-27T21:45:45.842208+07:00"
+    },
+    {
+      "id": "dfb89c761400162aaa1335df6231d88a",
+      "title": "Hà Nội muốn tự tạo nguồn lực từ TOD để phát triển đô thị",
+      "link": "https://vnexpress.net/ha-noi-muon-tu-tao-nguon-luc-tu-tod-de-phat-trien-do-thi-5055683.html",
+      "summary": "Dự thảo Luật Thủ đô sửa đổi cho phép Hà Nội khai thác quỹ đất theo mô hình phát triển đô thị gắn giao thông công cộng, tạo nguồn lực tài chính tại chỗ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T13:41:43+07:00",
+      "fetched": "2026-03-27T21:45:45.842365+07:00"
+    },
+    {
+      "id": "20d6ecacb54ef4143b0f008e28e2b7c8",
+      "title": "Phó tổng thư ký VFF Nguyễn Thanh Hà, người phụ nữ quyền lực của bóng đá nữ châu Á",
+      "link": "https://thanhnien.vn/pho-tong-thu-ky-vff-nguyen-thanh-ha-nguoi-phu-nu-quyen-luc-cua-bong-da-nu-chau-a-185260327195522555.htm",
+      "summary": "Phó tổng thư ký Liên đoàn Bóng đá Việt Nam (VFF) Nguyễn Thanh Hà được biết đến là một giám sát trận đấu có uy tín của bóng đá châu Á.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T13:36:00+07:00",
+      "fetched": "2026-03-27T21:45:49.045298+07:00"
+    },
+    {
+      "id": "726053891a9c78c2e2a27a098246886d",
+      "title": "Công an Thanh Hóa khởi công doanh trại đóng quân rộng hơn 32 ha",
+      "link": "https://thanhnien.vn/cong-an-thanh-hoa-khoi-cong-doanh-trai-dong-quan-rong-hon-32-ha-185260327183813211.htm",
+      "summary": "Doanh trại đóng quân của Công an tỉnh Thanh Hóa xây dựng trên khu đất rộng 32,8 ha, vị trí cửa ngõ phía đông P.Hạc Thành (Thanh Hóa).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T13:36:00+07:00",
+      "fetched": "2026-03-27T21:45:49.045444+07:00"
+    },
+    {
+      "id": "fd4e79e79f078d942f5c04958d12916b",
+      "title": "Đề xuất giảm thuế bảo vệ môi trường với xăng dầu về 0 đến hết 30.6.2026",
+      "link": "https://thanhnien.vn/de-xuat-giam-thue-bao-ve-moi-truong-voi-xang-dau-ve-0-den-het-3062026-185260327200524415.htm",
+      "summary": "Ngoài thuế bảo vệ môi trường với xăng dầu, Bộ Tài chính còn đề xuất áp thuế tiêu thụ đặc biệt 0%, đồng thời không phải kê khai, tính nộp thuế VAT mà vẫn được khấu trừ đầu vào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T13:35:00+07:00",
+      "fetched": "2026-03-27T21:45:49.045596+07:00"
+    },
+    {
+      "id": "c64053a9ee2120a1f64ea700fc5f9517",
+      "title": "Nhân viên quán ăn bình dân Singapore cứ 30 phút lau bàn ghế một lần",
+      "link": "https://vnexpress.net/nhan-vien-quan-an-binh-dan-singapore-30-phut-lau-ban-ghe-mot-lan-5055610.html",
+      "summary": "Trong khi đó, nhiều quán ăn có tiếng tại Việt Nam cứ hễ đông khách là chẳng thèm dọn dẹp, giữ vệ sinh thường xuyên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T13:33:00+07:00",
+      "fetched": "2026-03-27T21:45:45.842518+07:00"
+    },
+    {
+      "id": "0d0f03c623dcfae75db6fde6aabd1cfe",
+      "title": "Thành lập Trường Thiếu sinh quân miền Bắc",
+      "link": "https://thanhnien.vn/thanh-lap-truong-thieu-sinh-quan-mien-bac-185260327185628318.htm",
+      "summary": "Trường Thiếu sinh quân miền Bắc sẽ tổ chức dạy học sinh theo chương trình giáo dục phổ thông, đồng thời lồng ghép giáo dục quốc phòng - an ninh, rèn luyện thể lực, kỹ năng sống và ý thức tổ chức kỷ luật",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T13:33:00+07:00",
+      "fetched": "2026-03-27T21:45:49.045740+07:00"
+    },
+    {
+      "id": "55051d42352841c73fc1ebd93802d23c",
+      "title": "Tạm giữ hình sự tài xế xe Lexus gây tai nạn liên hoàn ở Hà Nội",
+      "link": "https://thanhnien.vn/tam-giu-hinh-su-tai-xe-xe-lexus-gay-tai-nan-lien-hoan-o-ha-noi-185260327201217383.htm",
+      "summary": "Cơ quan công an đã tạm giữ hình sự tài xế V.Q.C, người điều khiển ô tô Lexus RX350 gây ra vụ tai nạn liên hoàn trên phố Trung Kính (Hà Nội) vào tối 25.3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T13:32:00+07:00",
+      "fetched": "2026-03-27T21:45:49.045884+07:00"
+    },
+    {
+      "id": "627602c37005a6d7101b55ec09027b05",
+      "title": "Cấm xe máy qua cầu Long Biên 60 ngày để sửa chữa",
+      "link": "https://thanhnien.vn/cam-xe-may-qua-cau-long-bien-60-ngay-de-sua-chua-185260327161447659.htm",
+      "summary": "Từ 28.3 đến 27.5.2026, Hà Nội tạm cấm toàn bộ phương tiện xe máy, xe thô sơ qua cầu Long Biên để phục vụ sửa chữa, người dân cần phải di chuyển sang cầu Chương Dương để lưu thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T13:32:00+07:00",
+      "fetched": "2026-03-27T21:45:49.046059+07:00"
+    },
+    {
+      "id": "78044884f1626df67456d2ed20ecb3de",
+      "title": "Toàn cảnh vụ nữ sinh tử vong do TNGT ở Vĩnh Long",
+      "link": "https://thanhnien.vn/toan-canh-vu-nu-sinh-tu-vong-do-tngt-o-vinh-long-185260327164531333.htm",
+      "summary": "Ngày 26.3.2026, Cơ quan điều tra Viện KSND tối cao đã khởi tố và bắt tạm giam nguyên Phó thủ trưởng Cơ quan CSĐT Công an huyện Trà Ôn Lê Quốc Việt cùng điều tra viên Nguyễn Quốc Khanh. Đây được cho là bước đi đúng đắn, đáng được ghi nhận trong vụ nữ sinh tử vong ở Vĩnh Long. Xin mời quý vị cùng xem ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T13:31:00+07:00",
+      "fetched": "2026-03-27T21:45:49.046214+07:00"
+    },
+    {
+      "id": "137b69ab24eae10d64a883e38a2e9033",
+      "title": "Xe tải chở đất tung hoành, người dân lo lắng",
+      "link": "https://thanhnien.vn/xe-tai-cho-dat-tung-hoanh-nguoi-dan-lo-lang-185260327162747364.htm",
+      "summary": "Những ngày gần đây, người dân xã Mỏ Cày (tỉnh Quảng Ngãi) bức xúc trước tình trạng hàng trăm lượt xe tải chở đất từ mỏ san lấp núi An Hội (thôn Minh Tân Bắc) hoạt động rầm rộ, gây ô nhiễm môi trường và tiềm ẩn nguy cơ mất an toàn giao thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T13:31:00+07:00",
+      "fetched": "2026-03-27T21:45:49.046362+07:00"
+    },
+    {
+      "id": "2467db8648c3f41764aff52002cd7511",
+      "title": "Lễ hội Saigontourist Group hút hàng nghìn người ngày khai mạc",
+      "link": "https://vnexpress.net/le-hoi-saigontourist-group-hut-hang-nghin-nguoi-ngay-khai-mac-5055480.html",
+      "summary": "Lễ hội ẩm thực lần thứ năm quy tụ hơn 500 món ngon ba miền Bắc - Trung - Nam cùng hành trình tham quan, tìm hiểu văn hóa bản địa, hút hàng nghìn du khách ngày 26/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T13:30:00+07:00",
+      "fetched": "2026-03-27T21:45:45.842677+07:00"
+    },
+    {
+      "id": "7486a0eaeabb08adafa46dbddb5196cc",
+      "title": "Tài xế ôtô tông 5 xe chờ đèn đỏ ở Hà Nội bị tạm giữ",
+      "link": "https://vnexpress.net/tai-xe-oto-tong-5-xe-cho-den-do-o-ha-noi-bi-tam-giu-5055706.html",
+      "summary": "Tài xế Lexus bị tạm giữ hình sự do không chú ý quan sát, không làm chủ tốc độ khiến tông vào loạt ôtô và xe máy dừng chờ đèn đỏ ở ngã tư Trung Kính - Mạc Thái Tổ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T13:19:38+07:00",
+      "fetched": "2026-03-27T21:45:45.842841+07:00"
+    },
+    {
+      "id": "370456d03182ab0d14d1e963c6a85b74",
+      "title": "Lý giải những phản ứng lạ lúc 'chạm đỉnh'",
+      "link": "https://vnexpress.net/ly-giai-nhung-phan-ung-la-luc-cham-dinh-5055674.html",
+      "summary": "Khoảnh khắc thăng hoa đôi khi đi kèm phản ứng lạ như khóc thét, ngất xỉu, được y khoa lý giải là hệ quả của việc bùng nổ hormone nội sinh cùng sự biến đổi đột ngột của hệ tuần hoàn trong tích tắc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T13:00:00+07:00",
+      "fetched": "2026-03-27T21:45:45.843024+07:00"
+    },
+    {
+      "id": "4b3983011cc9a65271e94aa5b777e851",
+      "title": "Người dân nước nào thi tiếng Trung nhiều nhất Đông Nam Á?",
+      "link": "https://vnexpress.net/nguoi-dan-nuoc-nao-thi-tieng-trung-nhieu-nhat-dong-nam-a-5055672.html",
+      "summary": "Với hơn 140.000 lượt thi chứng chỉ trong năm 2025, quốc gia này dẫn đầu về nhu cầu học, thi tiếng Trung ở Đông Nam Á.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T13:00:00+07:00",
+      "fetched": "2026-03-27T21:45:45.843185+07:00"
+    },
+    {
+      "id": "c57d575b05a4deb76c5e093db55456b2",
+      "title": "Iran dọa chặn mọi tàu liên quan các 'cảng thù địch'",
+      "link": "https://vnexpress.net/iran-doa-chan-moi-tau-lien-quan-cac-cang-thu-dich-5055690.html",
+      "summary": "Vệ binh Iran tuyên bố sẽ chặn mọi tàu đến và đi từ các cảng có liên quan Mỹ và Israel \"trên mọi hành trình, qua bất kỳ hành lang nào\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-27T12:59:10+07:00",
+      "fetched": "2026-03-27T21:45:51.469616+07:00"
     },
     {
       "id": "a1351799b8f2079de7f1e566647f668f",
