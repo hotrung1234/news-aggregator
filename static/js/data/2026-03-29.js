@@ -1,6 +1,6 @@
 window.newsData_2026_03_29 = {
   "date": "2026-03-29",
-  "lastUpdated": "2026-03-29T01:36:50.096790+07:00",
+  "lastUpdated": "2026-03-29T03:26:51.558880+07:00",
   "articles": [
     {
       "id": "aa942e6d41fc0e40f028d02977fea01b",
@@ -151,6 +151,86 @@ window.newsData_2026_03_29 = {
       "category": "Tổng hợp",
       "published": "2026-03-29T01:36:44.218182+07:00",
       "fetched": "2026-03-29T01:36:44.218440+07:00"
+    },
+    {
+      "id": "56d48c4a2ecb3d5bad32f49136d7df6f",
+      "title": "Những cảnh sát Mỹ bỏ nghề sau các vụ nổ súng chết người",
+      "link": "https://vnexpress.net/nhung-canh-sat-my-bo-nghe-sau-cac-vu-no-sung-chet-nguoi-5055770.html",
+      "summary": "Arena từng nghĩ mình đủ cứng rắn để vượt qua mọi khốc liệt của nghề cảnh sát, cho đến khi anh nổ súng khiến một người thiệt mạng năm 2020.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-28T20:00:00+07:00",
+      "fetched": "2026-03-29T03:26:47.300465+07:00"
+    },
+    {
+      "id": "13a5eed56b1b2ea4013f64ced7334a2c",
+      "title": "Loài rầy 'ma cà rồng' đe dọa các vườn nho ở Virginia",
+      "link": "https://vnexpress.net/loai-ray-ma-ca-rong-de-doa-cac-vuon-nho-o-virginia-5055626.html",
+      "summary": "Loài rầy đèn lồng đốm có nguồn gốc từ châu Á tấn công các vườn nho ở Virginia, nguồn nguyên liệu cho ngành công nghiệp rượu vang hơn 8 tỷ USD của bang.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-28T19:00:00+07:00",
+      "fetched": "2026-03-29T03:26:42.113579+07:00"
+    },
+    {
+      "id": "13a5eed56b1b2ea4013f64ced7334a2c",
+      "title": "Loài rầy 'ma cà rồng' đe dọa các vườn nho ở Virginia",
+      "link": "https://vnexpress.net/loai-ray-ma-ca-rong-de-doa-cac-vuon-nho-o-virginia-5055626.html",
+      "summary": "Loài rầy đèn lồng đốm có nguồn gốc từ châu Á tấn công các vườn nho ở Virginia, nguồn nguyên liệu cho ngành công nghiệp rượu vang hơn 8 tỷ USD của bang.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-28T19:00:00+07:00",
+      "fetched": "2026-03-29T03:26:47.300650+07:00"
+    },
+    {
+      "id": "f0169013cd2475b166ad75df64396f22",
+      "title": "Tuyển Hàn Quốc thua đậm Bờ Biển Ngà",
+      "link": "https://vnexpress.net/tuyen-han-quoc-thua-dam-bo-bien-nga-5055969.html",
+      "summary": "Hàn Quốc ba lần đưa bóng dội cột và mắc nhiều sai lầm phòng ngự, trong trận giao hữu thua Bờ Biển Ngà 0-4 ở Milton Keynes.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-28T18:49:34+07:00",
+      "fetched": "2026-03-29T03:26:42.113755+07:00"
+    },
+    {
+      "id": "f0169013cd2475b166ad75df64396f22",
+      "title": "Tuyển Hàn Quốc thua đậm Bờ Biển Ngà",
+      "link": "https://vnexpress.net/tuyen-han-quoc-thua-dam-bo-bien-nga-5055969.html",
+      "summary": "Hàn Quốc ba lần đưa bóng dội cột và mắc nhiều sai lầm phòng ngự, trong trận giao hữu thua Bờ Biển Ngà 0-4 ở Milton Keynes.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-28T18:49:34+07:00",
+      "fetched": "2026-03-29T03:26:51.554010+07:00"
+    },
+    {
+      "id": "173088a58e05802464b6b3dbe895e6d2",
+      "title": "Nhật Bản đối mặt với cuộc khủng hoảng thiếu ngủ trầm trọng",
+      "link": "https://vnexpress.net/nhat-ban-doi-mat-voi-cuoc-khung-hoang-thieu-ngu-tram-trong-5055876.html",
+      "summary": "Với thời lượng ngủ trung bình 7 giờ 42 phút, thấp hơn mức trung bình chung của thế giới 40 phút, người Nhật đối mặt cuộc khủng hoảng giấc ngủ trầm trọng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-28T18:00:00+07:00",
+      "fetched": "2026-03-29T03:26:42.113915+07:00"
+    },
+    {
+      "id": "8c93273d65e879a76b18bc8d5591aaa8",
+      "title": "Những lực lượng bộ binh Mỹ đang đến vùng Vịnh",
+      "link": "https://vnexpress.net/nhung-luc-luong-bo-binh-my-dang-den-vung-vinh-5055573.html",
+      "summary": "Mỹ đang điều khoảng 7.000 lính thủy đánh bộ và lính dù đến vùng Vịnh, có thể nhằm gây áp lực lên Iran thay vì mở chiến dịch trên bộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-28T18:00:00+07:00",
+      "fetched": "2026-03-29T03:26:42.114068+07:00"
+    },
+    {
+      "id": "8c93273d65e879a76b18bc8d5591aaa8",
+      "title": "Những lực lượng bộ binh Mỹ đang đến vùng Vịnh",
+      "link": "https://vnexpress.net/nhung-luc-luong-bo-binh-my-dang-den-vung-vinh-5055573.html",
+      "summary": "Mỹ đang điều khoảng 7.000 lính thủy đánh bộ và lính dù đến vùng Vịnh, có thể nhằm gây áp lực lên Iran thay vì mở chiến dịch trên bộ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-28T18:00:00+07:00",
+      "fetched": "2026-03-29T03:26:47.300810+07:00"
     },
     {
       "id": "9ec1a7eba2cf224e1e3cad8973a966e7",
