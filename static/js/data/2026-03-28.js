@@ -1,6 +1,6 @@
 window.newsData_2026_03_28 = {
   "date": "2026-03-28",
-  "lastUpdated": "2026-03-28T13:56:01.667100+07:00",
+  "lastUpdated": "2026-03-28T15:35:36.015299+07:00",
   "articles": [
     {
       "id": "a7fba9b16a2971834f7bdd1241a55633",
@@ -451,6 +451,346 @@ window.newsData_2026_03_28 = {
       "category": "Tổng hợp",
       "published": "2026-03-28T08:56:42.792121+07:00",
       "fetched": "2026-03-28T08:56:42.792350+07:00"
+    },
+    {
+      "id": "56de96ba60951cda482674d5fd857078",
+      "title": "Bệnh viện Mắt Bà Rịa - Vũng Tàu đưa vào hoạt động trang thiết bị hiện đại",
+      "link": "https://thanhnien.vn/benh-vien-mat-ba-ria-vung-tau-dua-vao-hoat-dong-trang-thiet-bi-hien-dai-18526032815042982.htm",
+      "summary": "Bệnh viện Mắt Bà Rịa - Vũng Tàu chính thức đưa vào hoạt động trang thiết bị y tế hiện đại với tổng kinh phí hơn 300 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-28T08:23:00+07:00",
+      "fetched": "2026-03-28T15:35:19.457103+07:00"
+    },
+    {
+      "id": "51d46b40410046402923913e431abc00",
+      "title": "13 khoản phụ cấp không tính thuế thu nhập cá nhân gồm những khoản nào?",
+      "link": "https://thanhnien.vn/13-khoan-phu-cap-khong-tinh-thue-thu-nhap-ca-nhan-gom-nhung-khoan-nao-185260328150702389.htm",
+      "summary": "Bộ Tài chính đã công bố và lấy ý kiến dự thảo Nghị định quy định chi tiết một số điều của luật Thuế thu nhập cá nhân (TNCN). Trong đó, dự kiến có 13 khoản phụ cấp không tính thuế TNCN.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-28T08:21:00+07:00",
+      "fetched": "2026-03-28T15:35:19.457278+07:00"
+    },
+    {
+      "id": "dd4c1af1b9890c01e61a96655dbaccba",
+      "title": "Chính phủ chi tạm ứng 8.000 tỉ đồng ngân sách cho Quỹ bình ổn giá xăng dầu",
+      "link": "https://thanhnien.vn/chinh-phu-chi-tam-ung-8000-ti-dong-ngan-sach-cho-quy-binh-on-gia-xang-dau-185260328140920419.htm",
+      "summary": "Chính phủ đã ban hành Nghị quyết số 69 ngày 27.3 triển khai thực hiện chi tạm ứng cho Quỹ bình ổn giá xăng dầu từ nguồn tăng thu ngân sách trung ương năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-28T08:20:00+07:00",
+      "fetched": "2026-03-28T15:35:19.457439+07:00"
+    },
+    {
+      "id": "bc1e4d94ed6e1607c1b0116f06c2a6c6",
+      "title": "Từ ngày 1.7 người trúng xổ số sẽ nộp thuế như thế nào?",
+      "link": "https://thanhnien.vn/tu-ngay-17-nguoi-trung-xo-so-se-nop-thue-nhu-the-nao-185260328113718103.htm",
+      "summary": "Bộ Tài chính hướng dẫn chi tiết về thuế thu nhập cá nhân đối với trúng thưởng nói chung, trong đó bao gồm trúng xổ số.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-28T08:20:00+07:00",
+      "fetched": "2026-03-28T15:35:19.457597+07:00"
+    },
+    {
+      "id": "c5a4609935b899348cf2442dda3d84b4",
+      "title": "Những tuyến đường ai cũng muốn đi qua giữa thời tiết nắng nóng gay gắt ở TP.HCM",
+      "link": "https://thanhnien.vn/nhung-tuyen-duong-ai-cung-muon-di-qua-giua-thoi-tiet-nang-nong-gay-gat-o-tphcm-185260328145955416.htm",
+      "summary": "TP.HCM đang trải qua những ngày nắng nóng gay gắt, nền nhiệt cao khiến việc di chuyển ngoài trời trở nên mệt mỏi. Giữa cái nắng oi ả như “đổ lửa”, những tuyến đường rợp bóng cây giúp người đi đường cảm thấy dễ chịu hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-28T08:13:00+07:00",
+      "fetched": "2026-03-28T15:35:19.457755+07:00"
+    },
+    {
+      "id": "9c377c676986663d723b85fe5c98de12",
+      "title": "Những nâng cấp đáng chờ đợi trên iPhone 18",
+      "link": "https://thanhnien.vn/nhung-nang-cap-dang-cho-doi-tren-iphone-18-185260328104616869.htm",
+      "summary": "Apple được cho là sẽ tách riêng việc ra mắt iPhone 18 và các mẫu 18 Pro (và cả iPhone gập) đợt giới thiệu sắp tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-28T08:01:00+07:00",
+      "fetched": "2026-03-28T15:35:19.457910+07:00"
+    },
+    {
+      "id": "82326a9236bf2fe49b11fa08a3bff65a",
+      "title": "Trường ĐH Nha Trang 0-0 Trường ĐH Lào: Trận khai mạc bùng nổ",
+      "link": "https://thanhnien.vn/truong-dh-nha-trang-0-0-truong-dh-lao-tran-khai-mac-bung-no-185260328090357347.htm",
+      "summary": "Dù không được đánh giá cao bằng dàn hảo thủ của Trường ĐH Lào, nhưng với ưu thế sân nhà cùng nỗ lực tận hiến, Trường ĐH Nha Trang được kỳ vọng gây bất ngờ trong trận khai mạc giải bóng đá Thanh Niên sinh viên (TNSV) quốc tế 2026 - cúp THACO, diễn ra lúc 16 giờ hôm nay (28.3).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-28T08:00:00+07:00",
+      "fetched": "2026-03-28T15:35:19.458088+07:00"
+    },
+    {
+      "id": "b97fd4582d6b40b8f6bdaa8ddf6ca911",
+      "title": "Thái Lan mong muốn cùng Việt Nam học hỏi lẫn nhau về du lịch",
+      "link": "https://vnexpress.net/thai-lan-mong-muon-cung-viet-nam-hoc-hoi-lan-nhau-ve-du-lich-5055792.html",
+      "summary": "Đại sứ Urawadee Sriphiromaya đánh giá Thái Lan - Việt Nam đều có thế mạnh riêng và có thể học hỏi lẫn nhau để phát triển du lịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-28T07:55:18+07:00",
+      "fetched": "2026-03-28T15:35:16.755209+07:00"
+    },
+    {
+      "id": "b97fd4582d6b40b8f6bdaa8ddf6ca911",
+      "title": "Thái Lan mong muốn cùng Việt Nam học hỏi lẫn nhau về du lịch",
+      "link": "https://vnexpress.net/thai-lan-mong-muon-cung-viet-nam-hoc-hoi-lan-nhau-ve-du-lich-5055792.html",
+      "summary": "Đại sứ Urawadee Sriphiromaya đánh giá Thái Lan - Việt Nam đều có thế mạnh riêng và có thể học hỏi lẫn nhau để phát triển du lịch.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-28T07:55:18+07:00",
+      "fetched": "2026-03-28T15:35:21.834477+07:00"
+    },
+    {
+      "id": "0fbb8388433b5a0df574e7e7481b4206",
+      "title": "Bệnh viện Ung bướu Cần Thơ đưa vào vận hành hệ thống xạ trị gia tốc",
+      "link": "https://thanhnien.vn/benh-vien-ung-buou-can-tho-dua-vao-van-hanh-he-thong-xa-tri-gia-toc-185260328131329012.htm",
+      "summary": "Trong bối cảnh nhu cầu khám, chữa bệnh ung thư ngày càng gia tăng, việc đầu tư hệ thống xạ trị gia tốc tại Bệnh viện Ung bướu Cần Thơ được xem là giải pháp then chốt nhằm nâng cao chất lượng điều trị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-28T07:53:00+07:00",
+      "fetched": "2026-03-28T15:35:19.458246+07:00"
+    },
+    {
+      "id": "c5c5aa2335f854779b852809c5c14e0c",
+      "title": "SUV xịn nhất của Toyota giá hơn 4,5 tỉ dính lỗi, triệu hồi gần 700 xe",
+      "link": "https://thanhnien.vn/suv-xin-nhat-cua-toyota-gia-hon-45-ti-dinh-loi-trieu-hoi-gan-700-xe-185260328055341942.htm",
+      "summary": "Gần 700 chiếc Toyota Land Cruiser 300 - mẫu SUV 'xịn' nhất của hãng xe Nhật tại Việt Nam với giá bán hơn 4,5 tỉ đồng vừa được Toyota Việt Nam (TMV) thông báo triệu hồi để kiểm tra sửa chữa lỗi phần mềm điều khiển hộp số, có thể làm tăng nguy cơ tai nạn hoặc cháy xe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-28T07:51:00+07:00",
+      "fetched": "2026-03-28T15:35:19.458399+07:00"
+    },
+    {
+      "id": "1ca5c8fe5eaa10afc535e7d32e715134",
+      "title": "10 thương hiệu xe máy bán chạy nhất thế giới: Honda bỏ xa hãng xe Ấn Độ",
+      "link": "https://thanhnien.vn/10-thuong-hieu-xe-may-ban-chay-nhat-the-gioi-honda-bo-xa-hang-xe-an-do-185260323151634976.htm",
+      "summary": "Hơn 65,2 triệu xe máy mới bán ra trên toàn cầu trong năm 2025, trong đó các mẫu mã xe máy Honda tiếp tục được khách hàng ưa chuộng nhất, qua đó giúp hãng xe Nhật Bản tiếp tục bỏ xác các hãng xe Ấn Độ trong cuộc đua doanh số.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-28T07:50:00+07:00",
+      "fetched": "2026-03-28T15:35:19.458552+07:00"
+    },
+    {
+      "id": "fc83b05cedc762efa5ff939688bd3d25",
+      "title": "Xuất hiện bàn thắng nhanh kỷ lục tại TNSV quốc tế: Chỉ sau 6 giây",
+      "link": "https://thanhnien.vn/xuat-hien-ban-thang-nhanh-ky-luc-tai-tnsv-quoc-te-chi-sau-6-giay-185260328144026272.htm",
+      "summary": "Ngay trong trận khai màn giải bóng đá Thanh Niên sinh viên (TNSV) quốc tế lần II - 2026 cúp THACO, một kỷ lục mới đã được thiết lập trên sân bóng Trường ĐH Nha Trang. Đội Trường ĐH Svay Rieng (Campuchia) chỉ cần 6 giây để chọc thủng lưới đối phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-28T07:45:00+07:00",
+      "fetched": "2026-03-28T15:35:19.458705+07:00"
+    },
+    {
+      "id": "92f900f9cad1e394a404422518831b4a",
+      "title": "Học sinh chuyên đưa cosplay Nhật, múa Hàn, nhạc kịch Mỹ lên sân khấu",
+      "link": "https://vnexpress.net/hoc-sinh-chuyen-dua-cosplay-nhat-mua-han-nhac-kich-my-len-san-khau-5055775.html",
+      "summary": "Học sinh trường chuyên Ngoại ngữ tự tin thể hiện màn cosplay đậm chất Nhật Bản, điệu múa truyền thống Hàn Quốc cùng nhạc kịch Mỹ, tái hiện văn hóa đa quốc gia trong đêm nghệ thuật lớn nhất năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-28T07:41:46+07:00",
+      "fetched": "2026-03-28T15:35:16.755390+07:00"
+    },
+    {
+      "id": "09194a845159ab8f785057598e036774",
+      "title": "'Hết lo chạy đua cho con vào trường điểm vì Hà Nội siết tuyển sinh trái tuyến'",
+      "link": "https://vnexpress.net/het-lo-chay-dua-cho-con-vao-truong-diem-vi-ha-noi-siet-tuyen-sinh-trai-tuyen-5055815.html",
+      "summary": "Từ chỗ cố gắng 'chọn một ngôi trường tốt nhất' dù cách xa nhà 10 km, nhiều người bắt đầu chấp nhận cho con học gần nhà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-28T07:32:49+07:00",
+      "fetched": "2026-03-28T15:35:16.755562+07:00"
+    },
+    {
+      "id": "710ecbade2bf3b0096fdd7c56eb7ce10",
+      "title": "Israel lần đầu đánh chặn tên lửa từ Yemen trong chiến sự Iran",
+      "link": "https://vnexpress.net/israel-lan-dau-danh-chan-ten-lua-tu-yemen-trong-chien-su-iran-5055848.html",
+      "summary": "Quân đội Israel phát hiện và đánh chặn tên lửa đầu tiên phóng từ Yemen, dấu hiệu cho thấy Houthi, đồng minh của Iran, có thể đã tham chiến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-28T07:31:02+07:00",
+      "fetched": "2026-03-28T15:35:16.755726+07:00"
+    },
+    {
+      "id": "710ecbade2bf3b0096fdd7c56eb7ce10",
+      "title": "Israel lần đầu đánh chặn tên lửa từ Yemen trong chiến sự Iran",
+      "link": "https://vnexpress.net/israel-lan-dau-danh-chan-ten-lua-tu-yemen-trong-chien-su-iran-5055848.html",
+      "summary": "Quân đội Israel phát hiện và đánh chặn tên lửa đầu tiên phóng từ Yemen, dấu hiệu cho thấy Houthi, đồng minh của Iran, có thể đã tham chiến.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-28T07:31:02+07:00",
+      "fetched": "2026-03-28T15:35:21.834650+07:00"
+    },
+    {
+      "id": "69f07f6f55874aceb187ca57b0993c1a",
+      "title": "Bị can giết người trốn truy nã đặc biệt ra đầu thú",
+      "link": "https://thanhnien.vn/bi-can-giet-nguoi-tron-truy-na-dac-biet-ra-dau-thu-185260328124738116.htm",
+      "summary": "Sau nhiều tháng trốn truy nã đặc biệt, bị can Trần Quốc Tuấn vừa đến Công an xã Thạnh An, thành phố Cần Thơ đầu thú về hành vi giết người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-28T07:22:00+07:00",
+      "fetched": "2026-03-28T15:35:19.458854+07:00"
+    },
+    {
+      "id": "6253b4120a4903c65b50c7a30da52ae3",
+      "title": "TP.HCM khai mạc triển lãm ảnh 50 năm lực lượng thanh niên xung phong",
+      "link": "https://thanhnien.vn/tphcm-khai-mac-trien-lam-anh-50-nam-luc-luong-thanh-nien-xung-phong-185260328132554542.htm",
+      "summary": "Triển lãm 85 ảnh tại công viên Chi Lăng tái hiện chặng đường 50 năm xây dựng, phát triển và cống hiến của lực lượng Thanh niên xung phong TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-28T07:17:00+07:00",
+      "fetched": "2026-03-28T15:35:19.459019+07:00"
+    },
+    {
+      "id": "cecab5ff566f6a600b7040c926ca4bc2",
+      "title": "Vì sao lắp thêm SSD M.2 thứ hai lại 'bóp nghẹt' sức mạnh card đồ họa?",
+      "link": "https://thanhnien.vn/vi-sao-lap-them-ssd-m2-thu-hai-lai-bop-nghet-suc-manh-card-do-hoa-185260328134212708.htm",
+      "summary": "Đừng lắp thêm ổ SSD M.2 nếu bạn không muốn 'hy sinh' sức mạnh card đồ họa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-28T07:13:00+07:00",
+      "fetched": "2026-03-28T15:35:19.459201+07:00"
+    },
+    {
+      "id": "d5f9acc0a6f8611c82fd5965145bb802",
+      "title": "Hà Nội xây khẩn cấp 2 hồ điều hòa và hệ thống chống úng ngập",
+      "link": "https://thanhnien.vn/ha-noi-xay-khan-cap-2-ho-dieu-hoa-va-he-thong-chong-ung-ngap-185260328133903594.htm",
+      "summary": "Hà Nội đã quyết định đầu tư khẩn cấp 3 dự án chống úng ngập, gồm hồ Chèm, hồ Liên Mạc 1 và hệ thống hỗ trợ kiểm soát ngập lụt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-28T07:07:00+07:00",
+      "fetched": "2026-03-28T15:35:19.459370+07:00"
+    },
+    {
+      "id": "d3343571885bc718cde74e55b58ff2ca",
+      "title": "Pochettino: 'Tôi không cố tình đẩy Messi sang cánh phải ở PSG'",
+      "link": "https://vnexpress.net/pochettino-toi-khong-co-tinh-day-messi-sang-canh-phai-o-psg-5055819.html",
+      "summary": "Trên báo Pháp L'Équipe, HLV trưởng tuyển Mỹ Mauricio Pochettino chia sẻ về quãng thời gian dẫn dắt PSG, đáp trả những chỉ trích về việc ông từng không biết cách sử dụng đồng thời bộ ba Neymar, Lionel Messi và Kylian Mbappe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-28T07:06:11+07:00",
+      "fetched": "2026-03-28T15:35:16.755888+07:00"
+    },
+    {
+      "id": "d3343571885bc718cde74e55b58ff2ca",
+      "title": "Pochettino: 'Tôi không cố tình đẩy Messi sang cánh phải ở PSG'",
+      "link": "https://vnexpress.net/pochettino-toi-khong-co-tinh-day-messi-sang-canh-phai-o-psg-5055819.html",
+      "summary": "Trên báo Pháp L'Équipe, HLV trưởng tuyển Mỹ Mauricio Pochettino chia sẻ về quãng thời gian dẫn dắt PSG, đáp trả những chỉ trích về việc ông từng không biết cách sử dụng đồng thời bộ ba Neymar, Lionel Messi và Kylian Mbappe.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-28T07:06:11+07:00",
+      "fetched": "2026-03-28T15:35:36.006288+07:00"
+    },
+    {
+      "id": "8ab8fe7c2c34f0e76fb862865cdcd308",
+      "title": "Barca tổn thất nặng trước tứ kết Champions League",
+      "link": "https://vnexpress.net/barca-ton-that-nang-truoc-tu-ket-champions-league-5055789.html",
+      "summary": "Barca nhiều khả năng mất tiền đạo cánh Raphinha 8 trận, trong đó có ba trận đấu Atletico Madrid ở Champions League và La Liga.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-28T07:03:39+07:00",
+      "fetched": "2026-03-28T15:35:16.756067+07:00"
+    },
+    {
+      "id": "8ab8fe7c2c34f0e76fb862865cdcd308",
+      "title": "Barca tổn thất nặng trước tứ kết Champions League",
+      "link": "https://vnexpress.net/barca-ton-that-nang-truoc-tu-ket-champions-league-5055789.html",
+      "summary": "Barca nhiều khả năng mất tiền đạo cánh Raphinha 8 trận, trong đó có ba trận đấu Atletico Madrid ở Champions League và La Liga.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-28T07:03:39+07:00",
+      "fetched": "2026-03-28T15:35:36.007460+07:00"
+    },
+    {
+      "id": "9889fde93e3114f28211a04db3129d43",
+      "title": "Nhà 72 m2 xây theo phong cách 'hoàn thiện dở dang'",
+      "link": "https://vnexpress.net/nha-72-m2-xay-theo-phong-cach-hoan-thien-do-dang-5055497.html",
+      "summary": "Căn nhà sử dụng hệ mái lớn và cột bê tông để điều tiết vi khí hậu, tạo không gian linh hoạt theo thời gian.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-28T07:00:59+07:00",
+      "fetched": "2026-03-28T15:35:16.756225+07:00"
+    },
+    {
+      "id": "94aea0df0886bde3dceb7520cd108f57",
+      "title": "Những 'bức tường chắn ồn' trên cao tốc Biên Hòa - Vũng Tàu",
+      "link": "https://vnexpress.net/nhung-buc-tuong-chan-on-tren-cao-toc-bien-hoa-vung-tau-5055728.html",
+      "summary": "Các bức tường cao hơn 4 m với lõi hấp thụ âm, khung thép và hệ gia cố đang dần hoàn thiện dọc cao tốc Biên Hòa - Vũng Tàu, nhằm hạn chế tiếng ồn tại các khu dân cư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-28T07:00:00+07:00",
+      "fetched": "2026-03-28T15:35:16.756379+07:00"
+    },
+    {
+      "id": "4eaae60cbc10810f4e65e7bfccb49065",
+      "title": "Những lợi thế sức khỏe bất ngờ của người thấp lùn",
+      "link": "https://vnexpress.net/nhung-loi-the-suc-khoe-bat-ngo-cua-nguoi-thap-lun-5055680.html",
+      "summary": "Nghiên cứu cho thấy người có vóc dáng thấp bé sở hữu những \"ưu thế ngầm\" về sức khỏe như giảm nguy cơ ung thư, huyết khối và gãy xương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-28T07:00:00+07:00",
+      "fetched": "2026-03-28T15:35:16.756564+07:00"
+    },
+    {
+      "id": "d59b603cfce4a7a72b2095f5b7ebf634",
+      "title": "Thành ngữ diễn tả vẻ đẹp này là gì?",
+      "link": "https://vnexpress.net/duoi-hinh-bat-chu-thanh-ngu-tuc-ngu-thanh-ngu-dien-ta-ve-dep-nay-la-gi-5054756.html",
+      "summary": "Thành ngữ diễn tả vẻ đẹp kiêu sa, hoàn hảo, tuyệt trần, của người con gái xinh đẹp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-28T07:00:00+07:00",
+      "fetched": "2026-03-28T15:35:16.756724+07:00"
+    },
+    {
+      "id": "567f1b1222cd9c6b64c142c3fad84ca3",
+      "title": "Kiều hối Đông Á hợp tác mở rộng dịch vụ tại Mỹ và Canada",
+      "link": "https://vnexpress.net/kieu-hoi-dong-a-hop-tac-mo-rong-dich-vu-tai-my-va-canada-5055844.html",
+      "summary": "Kiều Hối Đông Á cùng Western Union mở rộng dịch vụ chi trả kiều hối tại nhà ở Mỹ và Canada, giúp khách hàng tại Việt Nam nhận tiền nhanh, thuận tiện hơn",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-28T07:00:00+07:00",
+      "fetched": "2026-03-28T15:35:16.756877+07:00"
+    },
+    {
+      "id": "3d230ea9cc8209df0c99857da481acd3",
+      "title": "'Cần cơ chế phù hợp để tạo cánh chim đầu đàn trong mỗi ngành'",
+      "link": "https://vnexpress.net/can-co-che-phu-hop-de-tao-canh-chim-dau-dan-trong-moi-nganh-5055779.html",
+      "summary": "Nhà sáng lập, Chủ tịch Hội đồng Chiến lược Tập đoàn TH cho rằng Việt Nam cần các cơ chế phù hợp theo từng ngành và từng giai đoạn để hình thành những doanh nghiệp dẫn dắt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-28T07:00:00+07:00",
+      "fetched": "2026-03-28T15:35:16.757049+07:00"
+    },
+    {
+      "id": "3d230ea9cc8209df0c99857da481acd3",
+      "title": "'Cần cơ chế phù hợp để tạo cánh chim đầu đàn trong mỗi ngành'",
+      "link": "https://vnexpress.net/can-co-che-phu-hop-de-tao-canh-chim-dau-dan-trong-moi-nganh-5055779.html",
+      "summary": "Nhà sáng lập, Chủ tịch Hội đồng Chiến lược Tập đoàn TH cho rằng Việt Nam cần các cơ chế phù hợp theo từng ngành và từng giai đoạn để hình thành những doanh nghiệp dẫn dắt.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-28T07:00:00+07:00",
+      "fetched": "2026-03-28T15:35:32.369542+07:00"
+    },
+    {
+      "id": "b4c8c87faf18460bdb4d674aa93c9c0f",
+      "title": "Người nộp thuế có thể được giảm trừ tối đa 47 triệu đồng cho y tế, giáo dục",
+      "link": "https://vnexpress.net/nguoi-nop-thue-co-the-duoc-giam-tru-toi-da-47-trieu-dong-cho-y-te-giao-duc-5055842.html",
+      "summary": "Bộ Tài chính đề xuất hai phương án, theo đó mức giảm trừ chi phí y tế và giáo dục tối đa tới 47 triệu đồng cho người nộp thuế và người phụ thuộc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-28T06:55:42+07:00",
+      "fetched": "2026-03-28T15:35:16.757215+07:00"
+    },
+    {
+      "id": "b4c8c87faf18460bdb4d674aa93c9c0f",
+      "title": "Người nộp thuế có thể được giảm trừ tối đa 47 triệu đồng cho y tế, giáo dục",
+      "link": "https://vnexpress.net/nguoi-nop-thue-co-the-duoc-giam-tru-toi-da-47-trieu-dong-cho-y-te-giao-duc-5055842.html",
+      "summary": "Bộ Tài chính đề xuất hai phương án, theo đó mức giảm trừ chi phí y tế và giáo dục tối đa tới 47 triệu đồng cho người nộp thuế và người phụ thuộc.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-28T06:55:42+07:00",
+      "fetched": "2026-03-28T15:35:32.368161+07:00"
     },
     {
       "id": "2b9d401a35d1dd9a9d5e71ca911f2fc4",
