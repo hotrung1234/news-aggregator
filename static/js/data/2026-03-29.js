@@ -1,7 +1,317 @@
 window.newsData_2026_03_29 = {
   "date": "2026-03-29",
-  "lastUpdated": "2026-03-29T05:26:10.597592+07:00",
+  "lastUpdated": "2026-03-29T09:08:07.684688+07:00",
   "articles": [
+    {
+      "id": "eeb90c7473dcfcf24787bec1eb8e4336",
+      "title": "Tin tức sáng 29-3: BV đầu tiên triển khai kỹ thuật hồi sinh tim phổi sử dụng tuần hoàn ngoài cơ thể",
+      "link": "https://tuoitre.vn/tin-tuc-sang-29-3-bv-dau-tien-trien-khai-ky-thuat-hoi-sinh-tim-phoi-su-dung-tuan-hoan-ngoai-co-the-20260328154500148.htm",
+      "summary": "Một số tin tức đáng chú ý: Cảnh báo rủi ro từ các hình thức huy động vốn qua ứng dụng, website; Triển khai kỹ thuật hồi sinh tim phổi có sử dụng tuần hoàn ngoài cơ thể ở Việt Nam...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T09:07:59.373081+07:00",
+      "fetched": "2026-03-29T09:07:59.373200+07:00"
+    },
+    {
+      "id": "25447932a59936b1e81f663511820721",
+      "title": "Chơi rất hay, cô gái Việt cao 1m95 giúp đội nhà vào chung kết giải Thái Lan",
+      "link": "https://tuoitre.vn/choi-rat-hay-co-gai-viet-cao-1m95-giup-doi-nha-vao-chung-ket-giai-thai-lan-20260328175148936.htm",
+      "summary": "Tối 28-3, Lý Thị Luyến đã tỏa sáng rực rỡ để giúp CLB Nakhon Ratchasima VC đánh bại đối thủ Khon Kaen với tỉ số 3-0, trong khuôn khổ vòng bán kết Giải vô địch bóng chuyền nữ Thái Lan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T09:07:59.372946+07:00",
+      "fetched": "2026-03-29T09:07:59.373066+07:00"
+    },
+    {
+      "id": "f942ebccb883f05212f382dba83232ce",
+      "title": "'Rực rỡ' nhất đời người đôi khi là lúc bác sĩ mỉm cười thông báo kết quả. Hãy yêu cuộc sống này!",
+      "link": "https://tuoitre.vn/ruc-ro-nhat-doi-nguoi-doi-khi-la-luc-bac-si-mim-cuoi-thong-bao-ket-qua-hay-yeu-cuoc-song-nay-20260317170614401.htm",
+      "summary": "Houston nổi tiếng với Texas Medical Center, trung tâm y tế lớn nhất thế giới, nơi Bệnh viện Ung thư MD Anderson là điểm đến của hàng ngàn bệnh nhân từ khắp nơi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T09:07:59.372820+07:00",
+      "fetched": "2026-03-29T09:07:59.372935+07:00"
+    },
+    {
+      "id": "923bd8e44cd4a59f0ced611c317ca0ec",
+      "title": "Ca sĩ 32 tuổi đoạt vương miện Miss Grand Thailand 2026",
+      "link": "https://tuoitre.vn/ca-si-32-tuoi-doat-vuong-mien-miss-grand-thailand-2026-20260329052213171.htm",
+      "summary": "Cuộc thi Miss Grand Thailand 2026 khép lại với vương miện thuộc về người đẹp Pattama Jitsawat đến từ Chonburi. Tuy nhiên những dư âm của đêm chung kết vẫn tiếp tục được khán giả quốc tế bàn luận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T09:07:59.372691+07:00",
+      "fetched": "2026-03-29T09:07:59.372808+07:00"
+    },
+    {
+      "id": "1aea9053719f942b9a3087e104e25eb6",
+      "title": "Nữ võ sĩ gây tranh cãi khi giả đò chạm găng, lén lút tung 2 cú đá hạ knock-out đối thủ",
+      "link": "https://tuoitre.vn/nu-vo-si-gay-tranh-cai-khi-gia-do-cham-gang-len-lut-tung-2-cu-da-ha-knock-out-doi-thu-20260329052458032.htm",
+      "summary": "Khoảnh khắc gây tranh cãi vừa xảy ra tại một sự kiện Muay Thai ở Úc, khi nữ võ sĩ giả đò chạm găng để lén tung ra 2 cú đá liên tiếp hạ knock-out đối thủ chỉ sau 6 giây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T09:07:59.372560+07:00",
+      "fetched": "2026-03-29T09:07:59.372680+07:00"
+    },
+    {
+      "id": "80df8d0bebd16864ee9266eb581ab2c6",
+      "title": "Sabalenka không thất bại trận nào, đoạt danh hiệu WTA thứ 24 trong sự nghiệp",
+      "link": "https://tuoitre.vn/sabalenka-khong-that-bai-tran-nao-doat-danh-hieu-wta-thu-24-trong-su-nghiep-2026032905475631.htm",
+      "summary": "Tay vợt số 1 thế giới Aryna Sabalenka đã đánh bại đối thủ chủ nhà Coco Gauff 2-1 (6-2, 4-6, 6-3) trong trận chung kết để bảo vệ thành công danh hiệu Miami Open, và kéo dài khởi đầu ấn tượng của cô trong năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T09:07:59.372417+07:00",
+      "fetched": "2026-03-29T09:07:59.372547+07:00"
+    },
+    {
+      "id": "19e4942e492a1a7b749a26a4cd6b2226",
+      "title": "Kỳ thủ Sài Gòn được làng cờ Trung Quốc khâm phục 'đưa cờ tướng Việt Nam vươn mình'",
+      "link": "https://tuoitre.vn/ky-thu-sai-gon-duoc-lang-co-trung-quoc-kham-phuc-dua-co-tuong-viet-nam-vuon-minh-20260327205837615.htm",
+      "summary": "\"Ngòi bút hoa mỹ đặt cho ông biệt danh Độc cô cửu kiếm, còn nhiều bạn cờ gọi ông cái tên gần gũi Minh rét, nhắc nhở căn bệnh sốt rét để lại nhiều di chứng nơi vị kỳ thủ có vẻ ngoài khắc khổ, phong trần\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T09:07:59.372292+07:00",
+      "fetched": "2026-03-29T09:07:59.372406+07:00"
+    },
+    {
+      "id": "6e34c9dc1157e7454e85063d5bcbe58c",
+      "title": "Fan rủ nhau cầu hôn, khoe nhẫn khi Hoàng Dũng hát 'Lý giải'",
+      "link": "https://tuoitre.vn/fan-ru-nhau-cau-hon-khoe-nhan-khi-hoang-dung-hat-ly-giai-20260329060538017.htm",
+      "summary": "Tối 28-3, gần 9.800 khán giả tại TP.HCM đã lấp đầy không gian Xoay tròn Day 2 của Hoàng Dũng để cùng anh nhìn lại chặng đường 10 năm đã qua và 'bầu trời mới' trong âm nhạc sắp tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T09:07:59.372163+07:00",
+      "fetched": "2026-03-29T09:07:59.372280+07:00"
+    },
+    {
+      "id": "747f4338cce7678939147cd60de8aaa7",
+      "title": "26 trái tim nhỏ sẽ được cứu sống từ Jun Phạm J-UNZIP Showcase",
+      "link": "https://tuoitre.vn/26-trai-tim-nho-se-duoc-cuu-song-tu-jun-pham-j-unzip-showcase-20260328225514153.htm",
+      "summary": "949 triệu là số tiền thu được từ phần đấu giá trong chương trình Jun Phạm J-UNZIP Showcase. Như vậy sẽ có 26 em nhỏ bị bệnh tim bẩm sinh được cứu sống.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T09:07:59.372035+07:00",
+      "fetched": "2026-03-29T09:07:59.372151+07:00"
+    },
+    {
+      "id": "d70d2585cb4dd9cb440ab96e9a1713c1",
+      "title": "Tin tức thế giới 29-3: Tàu viện trợ cho Cuba cập cảng an toàn; Biểu tình 'No Kings' khắp nước Mỹ",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-29-3-tau-vien-tro-cho-cuba-cap-cang-an-toan-bieu-tinh-no-kings-khap-nuoc-my-20260329062707515.htm",
+      "summary": "Hai tàu viện trợ cho Cuba đã cập bến Havana, bị chậm do thời tiết xấu; Houthi tấn công Israel lần hai và khẳng định sẽ tiếp tục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T09:07:59.371906+07:00",
+      "fetched": "2026-03-29T09:07:59.372024+07:00"
+    },
+    {
+      "id": "be9e21174583e436f769e91f34e69530",
+      "title": "Kịch bản 'như phim hành động' của 2 giang hồ dùng súng cướp ngân hàng ở Gia Lai",
+      "link": "https://tuoitre.vn/kich-ban-nhu-phim-hanh-dong-cua-2-giang-ho-dung-sung-cuop-ngan-hang-o-gia-lai-20260329022141698.htm",
+      "summary": "Sau 3 tháng lên kế hoạch, Tài “đen” và Lê Văn Ân mang theo 2 khẩu súng đã lên đạn, xông vào phòng giao dịch Vietcombank ở Gia Lai cướp 1,85 tỉ đồng, rồi tẩu thoát với kịch bản tinh vi như phim hành động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T09:07:59.371777+07:00",
+      "fetched": "2026-03-29T09:07:59.371895+07:00"
+    },
+    {
+      "id": "a47fa8b620127e816f6ebdbf01922eea",
+      "title": "Học ngành gì cũng nên biết AI",
+      "link": "https://tuoitre.vn/hoc-nganh-gi-cung-nen-biet-ai-2026032822235566.htm",
+      "summary": "Chủ đề được nhiều học sinh tại Cà Mau quan tâm trong chương trình tư vấn tuyển sinh - hướng nghiệp là những thay đổi trong đào tạo của một số ngành học trước áp lực của trí tuệ nhân tạo (AI).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T09:07:59.371643+07:00",
+      "fetched": "2026-03-29T09:07:59.371765+07:00"
+    },
+    {
+      "id": "4c4ead2a606a097937080445325996ce",
+      "title": "3.500 lính thủy đánh bộ, thủy thủ Mỹ đã đến Trung Đông, sẽ tham gia chiến dịch mở cửa lại Hormuz?",
+      "link": "https://tuoitre.vn/3-500-linh-thuy-danh-bo-thuy-thu-my-da-den-trung-dong-se-tham-gia-chien-dich-mo-cua-lai-hormuz-20260329072106206.htm",
+      "summary": "Lực lượng thủy quân lục chiến Mỹ có thể tham gia chiến dịch mở cửa lại eo biển Hormuz. Iran dọa nhắm vào các trường đại học Mỹ ở Trung Đông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T09:07:59.371481+07:00",
+      "fetched": "2026-03-29T09:07:59.371630+07:00"
+    },
+    {
+      "id": "9dc87d082ab68514433435066483be9e",
+      "title": "Volkswagen Teramont Pro ra mắt Việt Nam: Có ghế 'nữ hoàng' duy nhất phân khúc đấu Palisade, Prado",
+      "link": "https://tuoitre.vn/volkswagen-teramont-pro-ra-mat-viet-nam-co-ghe-nu-hoang-duy-nhat-phan-khuc-dau-palisade-prado-20260328225003618.htm",
+      "summary": "Không chỉ có kích thước nhỉnh hơn Hyundai Palisade và Ford Explorer, Volkswagen Teramont Pro còn được trang bị thêm nhiều tiện ích và công nghệ, tập trung vào trải nghiệm người dùng và các yếu tố an toàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T09:07:59.371336+07:00",
+      "fetched": "2026-03-29T09:07:59.371468+07:00"
+    },
+    {
+      "id": "25a97d141872c44dbbc82a8ff74eff2d",
+      "title": "Vừa ghé quán đã thấy quảng cáo: Smartphone 'biết' bạn ở đâu bằng cách nào?",
+      "link": "https://tuoitre.vn/vua-ghe-quan-da-thay-quang-cao-smartphone-biet-ban-o-dau-bang-cach-nao-20260316142854572.htm",
+      "summary": "Chỉ vài phút sau khi ghé một địa điểm, quảng cáo liên quan đã xuất hiện trên smartphone. Điều gì giúp hệ thống quảng cáo 'biết' thiết bị đang ở đâu và hiển thị nội dung đúng lúc như vậy?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T09:07:59.371109+07:00",
+      "fetched": "2026-03-29T09:07:59.371321+07:00"
+    },
+    {
+      "id": "41c56ad8dbe01ece5b68de22c6cfe031",
+      "title": "Samsung 'hồi sinh' màu đen thuần khiết với công nghệ màn hình QuantumBlack",
+      "link": "https://thanhnien.vn/samsung-hoi-sinh-mau-den-thuan-khiet-voi-cong-nghe-man-hinh-quantumblack-185260328214948438.htm",
+      "summary": "Samsung đã có lời giải cho 'cơn ác mộng' màn hình bị ám tím với QuantumBlack.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T02:07:00+07:00",
+      "fetched": "2026-03-29T09:07:58.376462+07:00"
+    },
+    {
+      "id": "77c0d05a6b90ea6b44a686c6d3125ea3",
+      "title": "NSƯT Lê Thiện: Tôi bất ngờ về Thanh Thanh Tâm",
+      "link": "https://thanhnien.vn/nsut-le-thien-toi-bat-ngo-ve-thanh-thanh-tam-185260329083814253.htm",
+      "summary": "Sau nhiều năm gặp lại, NSƯT Lê Thiện thừa nhận mình bất ngờ vì 'cô đào' Thanh Thanh Tâm vẫn giữ được sắc vóc, làn hơi dù hiếm khi xuất hiện ở những sân khấu cải lương trong 10 năm qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T02:06:00+07:00",
+      "fetched": "2026-03-29T09:07:58.376655+07:00"
+    },
+    {
+      "id": "1064798619a47a1ea3909f00e21cf94f",
+      "title": "Iran đe dọa tấn công đại học Mỹ ở Trung Đông, Houthi tấn công Israel lần 2",
+      "link": "https://thanhnien.vn/iran-de-doa-tan-cong-dai-hoc-my-o-trung-dong-houthi-tan-cong-israel-lan-2-185260329085612338.htm",
+      "summary": "Lực lượng Vệ binh Cách mạng Hồi giáo Iran ngày 28.3 đe dọa sẽ tấn công các trường đại học Mỹ ở Trung Đông sau khi có tin các cuộc tấn công của Mỹ và Israel đã phá hủy 2 trường đại học ở Iran.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T02:04:00+07:00",
+      "fetched": "2026-03-29T09:07:58.376817+07:00"
+    },
+    {
+      "id": "435743e87cca82a50ef1c69a542082fd",
+      "title": "Người dùng đang bỏ phí cổng HDMI tốt nhất trên Smart TV?",
+      "link": "https://thanhnien.vn/nguoi-dung-dang-bo-phi-cong-hdmi-tot-nhat-tren-smart-tv-185260328211807028.htm",
+      "summary": "Khi kiểm tra mặt sau của Smart TV, người dùng có thể thấy nhiều cổng kết nối như USB, Ethernet và đồng trục (coaxial), nhưng HDMI là quan trọng nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T02:04:00+07:00",
+      "fetched": "2026-03-29T09:07:58.376972+07:00"
+    },
+    {
+      "id": "4a593b632817461eff9951ee69e2900f",
+      "title": "Báo Malaysia lo ngại Xuân Son và Hoàng Hên trước trận tái đấu Việt Nam",
+      "link": "https://thanhnien.vn/bao-malaysia-lo-ngai-xuan-son-va-hoang-hen-truoc-tran-tai-dau-viet-nam-185260329085736223.htm",
+      "summary": "Theo New Straits Times, bộ đôi tấn công cầu thủ nhập tịch gốc ngoại của đội tuyển Việt Nam, Nguyễn Xuân Son và Đỗ Hoàng Hên, sẽ thử thách bản lĩnh của đội tuyển Malaysia trong trận tái đấu ngày 31.3 tới đây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T02:01:00+07:00",
+      "fetched": "2026-03-29T09:07:58.377122+07:00"
+    },
+    {
+      "id": "e797181dd4fb48f335fac21ad15ee39b",
+      "title": "Triệt râu cho nam giới bằng laser được không?",
+      "link": "https://vnexpress.net/triet-rau-cho-nam-gioi-bang-laser-duoc-khong-5055958.html",
+      "summary": "Râu của tôi dày và cứng song lại dễ kích ứng khi cạo. Có thể dùng laser để triệt râu không? (Sơn Toàn, tỉnh Quảng Ninh)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T02:00:00+07:00",
+      "fetched": "2026-03-29T09:07:55.133097+07:00"
+    },
+    {
+      "id": "eb69c698375380ba243bd431deb518d0",
+      "title": "Ra mắt mô hình kết nối bác sĩ và nhãn hàng",
+      "link": "https://vnexpress.net/ra-mat-mo-hinh-ket-noi-bac-si-va-nhan-hang-5055632.html",
+      "summary": "Science Elite kết hợp các thông tin khoa học, sức ảnh hưởng xã hội và hiệu quả thương mại, nhằm đưa thương hiệu và chuyên gia kết nối với người tiêu dùng trong ngành làm đẹp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T02:00:00+07:00",
+      "fetched": "2026-03-29T09:07:55.133279+07:00"
+    },
+    {
+      "id": "804a8ba2484f8ed70dd2ba25dd151364",
+      "title": "Nữ cảnh sát Cà Mau gây \"sốt\" với loạt sản phẩm truyền thông hơn 100 triệu view",
+      "link": "https://thanhnien.vn/nu-canh-sat-ca-mau-gay-sot-voi-loat-san-pham-truyen-thong-hon-100-trieu-view-185260328211059978.htm",
+      "summary": "Không chỉ giỏi nghiệp vụ, nữ cảnh sát 9X này còn là 'linh hồn' đứng sau các sản phẩm công nghệ thu hút 100 triệu view, đưa pháp luật đến gần hơn với giới trẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T02:00:00+07:00",
+      "fetched": "2026-03-29T09:07:58.377270+07:00"
+    },
+    {
+      "id": "351747beaebfc74e504dc4f228aef46e",
+      "title": "Nếu biết có trăng thì đã xuống núi sớm hơn - Truyện ngắn của Đào Thị Thanh Tuyền",
+      "link": "https://thanhnien.vn/neu-biet-co-trang-thi-da-xuong-nui-som-hon-truyen-ngan-cua-dao-thi-thanh-tuyen-185260328174542446.htm",
+      "summary": "Hoàng hôn trải rộng trên bầu trời một màu vàng cam óng ả, mê hoặc. Linh cầm máy hình hồi hộp chờ mặt trời xuống đến khi chỉ còn một màu lòng đỏ âm trầm, nhẹ dịu. Linh thích khoảnh khắc này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T02:00:00+07:00",
+      "fetched": "2026-03-29T09:07:58.377417+07:00"
+    },
+    {
+      "id": "af54e7a38ea8b04650f7be2bf151d534",
+      "title": "Steven Nguyễn tiết lộ cảnh hôn Minh Trang trong 'Không giới hạn'",
+      "link": "https://thanhnien.vn/steven-nguyen-tiet-lo-canh-hon-minh-trang-trong-khong-gioi-han-185260327200430003.htm",
+      "summary": "Sau khi phim lên sóng, mối tình giữa trung tá Đào Minh Kiên (Steven Nguyễn) và thiếu tá Lam Anh (Minh Trang) trong 'Không giới hạn' thu hút sự quan tâm đặc biệt từ khán giả. Trong số những khoảnh khắc đáng nhớ, cảnh hai nhân vật trao nhau nụ hôn đầu trên bãi biển được xem là điểm nhấn cảm xúc, đồng ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T02:00:00+07:00",
+      "fetched": "2026-03-29T09:07:58.377600+07:00"
+    },
+    {
+      "id": "66b68bae4f265fa9479122de99281455",
+      "title": "Ông Kim Jong-un giám sát thử nghiệm động cơ tên lửa nhiên liệu rắn",
+      "link": "https://thanhnien.vn/ong-kim-jong-un-giam-sat-thu-nghiem-dong-co-ten-lua-nhien-lieu-ran-185260329084835085.htm",
+      "summary": "Nhà lãnh đạo CHDCND Triều Tiên Kim Jong-un đã trực tiếp giám sát đợt thử nghiệm động cơ tên lửa đẩy nhiên liệu rắn, đồng thời quan sát thử nghiệm mẫu xe tăng mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T01:59:00+07:00",
+      "fetched": "2026-03-29T09:07:58.377755+07:00"
+    },
+    {
+      "id": "89b6837dfc3497c3d7404732761d4d1f",
+      "title": "Chủ nhà Trường ĐH Nha Trang ra quân ấn tượng",
+      "link": "https://thanhnien.vn/chu-nha-truong-dh-nha-trang-ra-quan-an-tuong-185260328221910929.htm",
+      "summary": "Trong không khí cuồng nhiệt được tạo ra bởi hàng ngàn CĐV tại sân Trường ĐH Nha Trang, các cầu thủ chủ nhà đã cống hiến màn trình diễn thuyết phục ngày ra quân hôm qua 28.3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T01:51:00+07:00",
+      "fetched": "2026-03-29T09:07:58.377902+07:00"
+    },
+    {
+      "id": "c3dd7352cb053ff5fdbbadc17ba97fd8",
+      "title": "Hoa hậu Phan Thị Mơ làm Phó chủ tịch CLB Doanh nghiệp Mekong TP.HCM",
+      "link": "https://thanhnien.vn/hoa-hau-phan-thi-mo-lam-pho-chu-tich-clb-doanh-nghiep-mekong-tphcm-185260328204616369.htm",
+      "summary": "Hoa hậu Phan Thị Mơ vừa được bổ nhiệm giữ chức Phó chủ tịch CLB Doanh nghiệp Mekong TP.HCM. Thông tin nàng hậu 9X chuyển hướng từ lĩnh vực giải trí sang hoạt động trong môi trường doanh nghiệp nhận được sự quan tâm của công chúng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T01:49:00+07:00",
+      "fetched": "2026-03-29T09:07:58.378045+07:00"
+    },
+    {
+      "id": "bd628b171dfe37f33bf32d63387376e8",
+      "title": "Bỏ bữa sáng có giúp giảm cân?",
+      "link": "https://vnexpress.net/bo-bua-sang-co-giup-giam-can-5055841.html",
+      "summary": "Nhiều người dù kiên trì ăn kiêng và tập luyện vẫn không thể cải thiện vóc dáng do áp dụng sai phương pháp như bỏ bữa sáng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T01:46:49+07:00",
+      "fetched": "2026-03-29T09:07:55.133445+07:00"
+    },
+    {
+      "id": "c94bcf9367f1ce09108c79811c19f231",
+      "title": "Iran tố Mỹ - Israel tấn công đại học ở Tehran",
+      "link": "https://vnexpress.net/iran-to-my-israel-tan-cong-dai-hoc-o-tehran-5055981.html",
+      "summary": "Vệ binh Iran cáo buộc Mỹ và Israel tấn công đại học ở Tehran, cảnh báo sẽ \"giáng đòn trả đũa\" vào cơ sở giáo dục Mỹ ở Trung Đông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T01:39:27+07:00",
+      "fetched": "2026-03-29T09:07:55.133630+07:00"
+    },
+    {
+      "id": "c94bcf9367f1ce09108c79811c19f231",
+      "title": "Iran tố Mỹ - Israel tấn công đại học ở Tehran",
+      "link": "https://vnexpress.net/iran-to-my-israel-tan-cong-dai-hoc-o-tehran-5055981.html",
+      "summary": "Vệ binh Iran cáo buộc Mỹ và Israel tấn công đại học ở Tehran, cảnh báo sẽ \"giáng đòn trả đũa\" vào cơ sở giáo dục Mỹ ở Trung Đông.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-29T01:39:27+07:00",
+      "fetched": "2026-03-29T09:08:00.928678+07:00"
+    },
     {
       "id": "aa942e6d41fc0e40f028d02977fea01b",
       "title": "SASCO vận hành hệ sinh thái số dịch vụ sân bay",
@@ -151,6 +461,236 @@ window.newsData_2026_03_29 = {
       "category": "Tổng hợp",
       "published": "2026-03-29T01:36:44.218182+07:00",
       "fetched": "2026-03-29T01:36:44.218440+07:00"
+    },
+    {
+      "id": "40c0e5a008d63bf4e3ea94c0ee2d7e67",
+      "title": "Malaysia đã đến Hà Nội với nhân sự cực ‘lạ’, có tới 13 cầu thủ nhập tịch: Đấu Việt Nam ngày nào?",
+      "link": "https://thanhnien.vn/malaysia-da-den-ha-noi-voi-nhan-su-cuc-la-co-toi-13-cau-thu-nhap-tich-dau-viet-nam-ngay-nao-185260329082443127.htm",
+      "summary": "Tối 28.3, đội tuyển Malaysia đã có mặt tại sân bay quốc tế Nội Bài (Hà Nội), bắt đầu hành trình chuẩn bị cho trận đấu cuối cùng tại vòng loại Asian Cup 2027.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T01:36:00+07:00",
+      "fetched": "2026-03-29T09:07:58.378196+07:00"
+    },
+    {
+      "id": "bf7d05736d47cdf3c6e84075b1d46696",
+      "title": "Chủ tịch UBND TP.HCM biểu dương các sở ngành có tỷ lệ hoàn thành nhiệm vụ cao",
+      "link": "https://thanhnien.vn/chu-tich-ubnd-tphcm-bieu-duong-cac-so-nganh-co-ty-le-hoan-thanh-nhiem-vu-cao-185260329075416817.htm",
+      "summary": "Chủ tịch UBND TP.HCM Nguyễn Văn Được vừa ký Công văn 2407 về việc rà soát, thực hiện nhiệm vụ do Thường trực UBND TP.HCM giao trên phần mềm (kỳ 4/2026) đối với các sở, ngành. Trong đó biểu dương một số đơn vị có tỷ lệ hoàn thành nhiệm vụ cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T01:25:00+07:00",
+      "fetched": "2026-03-29T09:07:58.378344+07:00"
+    },
+    {
+      "id": "10692c70a32ceb764dd6452276783170",
+      "title": "Người làm công ăn lương nào sẽ được miễn thuế thu nhập cá nhân?",
+      "link": "https://thanhnien.vn/nguoi-lam-cong-an-luong-nao-se-duoc-mien-thue-thu-nhap-ca-nhan-18526032821544813.htm",
+      "summary": "Một số khoản thu nhập từ tiền lương, tiền công được miễn thuế thu nhập cá nhân đang được Bộ Tài chính đề xuất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T01:23:00+07:00",
+      "fetched": "2026-03-29T09:07:58.378495+07:00"
+    },
+    {
+      "id": "91d1686eb40e3eddece1342bcbd2b1b4",
+      "title": "Hòa đàm Ukraine trước nhiều bất định",
+      "link": "https://thanhnien.vn/hoa-dam-ukraine-truoc-nhieu-bat-dinh-185260328230455816.htm",
+      "summary": "Chiến sự Nga - Ukraine tiếp tục leo thang với các đòn tấn công sâu vào hạ tầng hai bên, trong khi kênh ngoại giao đối mặt nhiều bất định và sức ép mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T01:13:00+07:00",
+      "fetched": "2026-03-29T09:07:58.378667+07:00"
+    },
+    {
+      "id": "18a47a892663a1e9947cdeb000a63fa2",
+      "title": "Góc tối sau căn bếp sao Michelin",
+      "link": "https://vnexpress.net/goc-toi-sau-can-bep-sao-michelin-5055898.html",
+      "summary": "Nhiều chuyên gia ẩm thực quốc tế lên án văn hóa bạo lực vốn được bình thường hóa như một tiêu chuẩn đào tạo trong các nhà hàng cao cấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T01:11:00+07:00",
+      "fetched": "2026-03-29T09:07:55.133797+07:00"
+    },
+    {
+      "id": "4e122a1ed002b44ae7b251596467f824",
+      "title": "Nhện sói ra đòn thần tốc khiến ruồi 'bốc hơi'",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-nhen-soi-ra-don-than-toc-khien-ruoi-boc-hoi-5055122.html",
+      "summary": "Khoảnh khắc săn mồi thần tốc của nhện sói khiến người xem bất ngờ, ruồi vừa đứng yên đã bị hạ gục trong tích tắc, nhanh đến mức khó tin.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T01:00:00+07:00",
+      "fetched": "2026-03-29T09:07:55.133951+07:00"
+    },
+    {
+      "id": "c15b72c27d193ed5424eb978634afa14",
+      "title": "Những bệnh có thể phát hiện qua chụp CT phổi",
+      "link": "https://vnexpress.net/nhung-benh-co-the-phat-hien-qua-chup-ct-phoi-5055926.html",
+      "summary": "Chụp cắt lớp vi tính (CT) phổi có thể giúp phát hiện sớm khối u, viêm phổi, lao phổi, các bệnh nhiễm trùng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T01:00:00+07:00",
+      "fetched": "2026-03-29T09:07:55.134109+07:00"
+    },
+    {
+      "id": "8278e726ec5780b39955dc2563d877b2",
+      "title": "Bị mỡ máu cao có chữa khỏi không?",
+      "link": "https://vnexpress.net/bi-mo-mau-cao-co-chua-khoi-khong-5055922.html",
+      "summary": "Ba tôi 60 tuổi, khám sức khỏe xác định mỡ máu cao. Bệnh này ở người lớn tuổi có chữa dứt điểm được không? (Hoàng Nam, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T01:00:00+07:00",
+      "fetched": "2026-03-29T09:07:55.134261+07:00"
+    },
+    {
+      "id": "c7d46f1ee0375d3801771c56326272b1",
+      "title": "Nốt phổi có phải ung thư?",
+      "link": "https://vnexpress.net/not-phoi-co-phai-ung-thu-5055870.html",
+      "summary": "Tôi chụp CT phổi phát hiện có nốt đơn độc kích thước 6 mm, có phải là ung thư phổi không? (Lê Trọng, 45 tuổi, Đồng Nai)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T01:00:00+07:00",
+      "fetched": "2026-03-29T09:07:55.134425+07:00"
+    },
+    {
+      "id": "5906f1fb49e7ca8a9902a7e7dd3635bd",
+      "title": "Những khoảnh khắc đẹp của Salah trong màu áo Liverpool",
+      "link": "https://vnexpress.net/nhung-khoanh-khac-dep-cua-salah-trong-mau-ao-liverpool-5054739.html",
+      "summary": "Trước khi rời đi hè này, Mohamad Salah là cầu thủ quan trọng nhất trong chín năm thành công vừa qua của Liverpool.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T00:55:11+07:00",
+      "fetched": "2026-03-29T09:07:55.134618+07:00"
+    },
+    {
+      "id": "5906f1fb49e7ca8a9902a7e7dd3635bd",
+      "title": "Những khoảnh khắc đẹp của Salah trong màu áo Liverpool",
+      "link": "https://vnexpress.net/nhung-khoanh-khac-dep-cua-salah-trong-mau-ao-liverpool-5054739.html",
+      "summary": "Trước khi rời đi hè này, Mohamad Salah là cầu thủ quan trọng nhất trong chín năm thành công vừa qua của Liverpool.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-29T00:55:11+07:00",
+      "fetched": "2026-03-29T09:08:07.679075+07:00"
+    },
+    {
+      "id": "6b63e88cb4fd2a2ae7074b9f6c183fd3",
+      "title": "Oyarzabal – Gã tiền đạo chân to của Tây Ban Nha",
+      "link": "https://vnexpress.net/oyarzabal-ga-tien-dao-chan-to-cua-tay-ban-nha-5055838.html",
+      "summary": "Ở tuổi 28, tiền đạo Mikel Oyarzabal đang sống trong những ngày tháng đẹp nhất cùng tuyển Tây Ban Nha, khi bỏ túi 11 bàn và 5 kiến tạo trong 10 trận gần nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T00:42:52+07:00",
+      "fetched": "2026-03-29T09:07:55.134778+07:00"
+    },
+    {
+      "id": "6b63e88cb4fd2a2ae7074b9f6c183fd3",
+      "title": "Oyarzabal – Gã tiền đạo chân to của Tây Ban Nha",
+      "link": "https://vnexpress.net/oyarzabal-ga-tien-dao-chan-to-cua-tay-ban-nha-5055838.html",
+      "summary": "Ở tuổi 28, tiền đạo Mikel Oyarzabal đang sống trong những ngày tháng đẹp nhất cùng tuyển Tây Ban Nha, khi bỏ túi 11 bàn và 5 kiến tạo trong 10 trận gần nhất.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-29T00:42:52+07:00",
+      "fetched": "2026-03-29T09:08:07.678908+07:00"
+    },
+    {
+      "id": "9bd62bb3d53338ad49c7bc3d8869a06e",
+      "title": "Iran có thể đã đánh hỏng 'máy bay mắt thần' Mỹ",
+      "link": "https://vnexpress.net/iran-co-the-da-danh-hong-may-bay-mat-than-my-5055977.html",
+      "summary": "Một chiếc E-3, được mệnh danh là \"máy bay mắt thần\" của Mỹ, bị hư hại trong đòn đánh của Iran vào căn cứ ở Arab Saudi, theo Wall Street Journal.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T00:23:03+07:00",
+      "fetched": "2026-03-29T09:07:55.134933+07:00"
+    },
+    {
+      "id": "9bd62bb3d53338ad49c7bc3d8869a06e",
+      "title": "Iran có thể đã đánh hỏng 'máy bay mắt thần' Mỹ",
+      "link": "https://vnexpress.net/iran-co-the-da-danh-hong-may-bay-mat-than-my-5055977.html",
+      "summary": "Một chiếc E-3, được mệnh danh là \"máy bay mắt thần\" của Mỹ, bị hư hại trong đòn đánh của Iran vào căn cứ ở Arab Saudi, theo Wall Street Journal.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-29T00:23:03+07:00",
+      "fetched": "2026-03-29T09:08:00.928852+07:00"
+    },
+    {
+      "id": "3dcff0ac58bbd37c31f84422c2614908",
+      "title": "Sự cố bí ẩn khiến phi hành gia NASA mất khả năng nói",
+      "link": "https://vnexpress.net/su-co-bi-an-khien-phi-hanh-gia-nasa-mat-kha-nang-noi-5055968.html",
+      "summary": "Phi hành gia NASA gặp vấn đề sức khỏe bất ngờ trên trạm ISS hồi tháng 1 và phải sơ tán y tế, đến nay vẫn chưa rõ nguyên nhân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T00:22:29+07:00",
+      "fetched": "2026-03-29T09:07:55.135082+07:00"
+    },
+    {
+      "id": "3dcff0ac58bbd37c31f84422c2614908",
+      "title": "Sự cố bí ẩn khiến phi hành gia NASA mất khả năng nói",
+      "link": "https://vnexpress.net/su-co-bi-an-khien-phi-hanh-gia-nasa-mat-kha-nang-noi-5055968.html",
+      "summary": "Phi hành gia NASA gặp vấn đề sức khỏe bất ngờ trên trạm ISS hồi tháng 1 và phải sơ tán y tế, đến nay vẫn chưa rõ nguyên nhân.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-29T00:22:29+07:00",
+      "fetched": "2026-03-29T09:08:06.403666+07:00"
+    },
+    {
+      "id": "ce1f5911e0ac165573ef7ae525819fa1",
+      "title": "Senegal diễu hành mừng chức vô địch châu Phi tại Paris",
+      "link": "https://vnexpress.net/senegal-dieu-hanh-mung-chuc-vo-dich-chau-phi-tai-paris-5055970.html",
+      "summary": "Senegal diễu hành cùng chiếc Cup vô địch châu Phi (AFCON) trước trận giao hữu thắng Peru 2-0 tại sân Stade de France, như lời đáp trả quyết định gây tranh cãi của Liên đoàn Bóng đá châu Phi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T00:15:28+07:00",
+      "fetched": "2026-03-29T09:07:55.135236+07:00"
+    },
+    {
+      "id": "ce1f5911e0ac165573ef7ae525819fa1",
+      "title": "Senegal diễu hành mừng chức vô địch châu Phi tại Paris",
+      "link": "https://vnexpress.net/senegal-dieu-hanh-mung-chuc-vo-dich-chau-phi-tai-paris-5055970.html",
+      "summary": "Senegal diễu hành cùng chiếc Cup vô địch châu Phi (AFCON) trước trận giao hữu thắng Peru 2-0 tại sân Stade de France, như lời đáp trả quyết định gây tranh cãi của Liên đoàn Bóng đá châu Phi.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-29T00:15:28+07:00",
+      "fetched": "2026-03-29T09:08:07.679231+07:00"
+    },
+    {
+      "id": "e84a31b90e1906c12448690ae078f6f6",
+      "title": "Tiger Woods được tại ngoại sau 8 giờ tạm giam",
+      "link": "https://vnexpress.net/tiger-woods-duoc-tai-ngoai-sau-8-gio-tam-giam-5055972.html",
+      "summary": "Huyền thoại golf Tiger Woods được thả sau 8 giờ bị giam giữ liên quan vụ tai nạn tốc độ cao và cáo buộc lái xe khi say xỉn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-29T00:12:43+07:00",
+      "fetched": "2026-03-29T09:07:55.135390+07:00"
+    },
+    {
+      "id": "e84a31b90e1906c12448690ae078f6f6",
+      "title": "Tiger Woods được tại ngoại sau 8 giờ tạm giam",
+      "link": "https://vnexpress.net/tiger-woods-duoc-tai-ngoai-sau-8-gio-tam-giam-5055972.html",
+      "summary": "Huyền thoại golf Tiger Woods được thả sau 8 giờ bị giam giữ liên quan vụ tai nạn tốc độ cao và cáo buộc lái xe khi say xỉn.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-29T00:12:43+07:00",
+      "fetched": "2026-03-29T09:08:07.679386+07:00"
+    },
+    {
+      "id": "e338464a2f6f0b566f10953b5337b475",
+      "title": "Google cho dịch cuộc nói chuyện trực tiếp bằng iPhone",
+      "link": "https://vnexpress.net/google-cho-dich-cuoc-noi-chuyen-truc-tiep-bang-iphone-5055797.html",
+      "summary": "Google triển khai tính năng dịch bằng giọng nói trực tiếp trong ứng dụng Dịch, trong đó có tiếng Việt, nhưng mới triển khai tại một số thị trường.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-29T00:00:00+07:00",
+      "fetched": "2026-03-29T09:08:06.403836+07:00"
+    },
+    {
+      "id": "84350c2bf7da17f37491e64c4f4d136f",
+      "title": "Loạt đảo chiến lược của Iran có thể bị nhắm đến trong chiến sự",
+      "link": "https://vnexpress.net/loat-dao-chien-luoc-cua-iran-co-the-bi-nham-den-trong-chien-su-5055768.html",
+      "summary": "Khi chiến sự bước sang tháng thứ hai, Mỹ dường như đang cân nhắc phương án nhắm đến các đảo chiến lược của Iran tại vùng Vịnh, nhằm tăng áp lực lên Tehran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-28T23:00:00+07:00",
+      "fetched": "2026-03-29T09:08:00.929015+07:00"
     },
     {
       "id": "9484c114c68b63e33c08d60b5e9c53d6",
