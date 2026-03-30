@@ -1,6 +1,6 @@
 window.newsData_2026_03_30 = {
   "date": "2026-03-30",
-  "lastUpdated": "2026-03-30T20:13:34.212491+07:00",
+  "lastUpdated": "2026-03-30T22:01:04.346619+07:00",
   "articles": [
     {
       "id": "5cf7557d2cdadfc40affc006bd521cdb",
@@ -363,6 +363,46 @@ window.newsData_2026_03_30 = {
       "fetched": "2026-03-30T16:08:38.537183+07:00"
     },
     {
+      "id": "7475da555d4cbb2522601785111c7fa8",
+      "title": "Thời trang du lịch mùa hè không thể thiếu túi cói",
+      "link": "https://thanhnien.vn/thoi-trang-tre/thoi-trang-du-lich-mua-he-khong-the-thieu-tui-coi-185260329134930727.htm",
+      "summary": "Túi cói mùa hè không chỉ là phụ kiện tiện dụng mà còn là điểm nhấn hoàn hảo, giúp nàng vừa năng động khi du lịch vừa giữ được phong cách nhẹ nhàng, nữ tính suốt mùa hè.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T15:00:00+07:00",
+      "fetched": "2026-03-30T22:00:57.386904+07:00"
+    },
+    {
+      "id": "6eb8d7a90404a897c376f20858442af7",
+      "title": "Highlight Lao University 1-0 The National University of Malaysia | TNIFST2026 THACO Cup",
+      "link": "https://thanhnien.vn/highlight-lao-university-1-0-the-national-university-of-malaysia-tnifst2026-thaco-cup-185260330210718479.htm",
+      "summary": "Trường ĐH Lào thi đấu kiên cường để giành chiến thắng tối thiểu 1-0 trước Trường ĐH Quốc gia Malaysia ở lượt trận ngày 30.3, qua đó nuôi lại hy vọng vào bán kết giải bóng đá Thanh Niên sinh viên quốc tế 2026 - cúp THACO. Kết quả này cũng khiến cục diện bảng A trở nên khó lường khi cả ba đội đều còn ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T14:47:00+07:00",
+      "fetched": "2026-03-30T22:00:57.387087+07:00"
+    },
+    {
+      "id": "468a9b44052b0232e82194b49f38d815",
+      "title": "Highlight National University of Singapore 2-4 Thuy Loi University | TNIFST2026 THACO Cup",
+      "link": "https://thanhnien.vn/highlight-national-university-of-singapore-2-4-thuy-loi-university-tnifst2026-thaco-cup-185260330210336313.htm",
+      "summary": "Trường ĐH Thủy lợi tiếp tục khẳng định sức mạnh khi đánh bại Trường ĐH Quốc gia Singapore với tỷ số 4-2 trong cuộc đối đầu chiều 30.3, qua đó giành vé vào bán kết giải bóng đá Thanh Niên sinh viên quốc tế 2026 - cúp THACO.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T14:47:00+07:00",
+      "fetched": "2026-03-30T22:00:57.387249+07:00"
+    },
+    {
+      "id": "53eacf264511822cc0c5de8da3280462",
+      "title": "Trao huân chương, huy hiệu Đảng tặng Thủ tướng Phạm Minh Chính và các lãnh đạo",
+      "link": "https://thanhnien.vn/trao-huan-chuong-huy-hieu-dang-tang-thu-tuong-pham-minh-chinh-va-cac-lanh-dao-185260330204723096.htm",
+      "summary": "Chiều 30.3, Tổng Bí thư Tô Lâm đã trao huân chương, huy hiệu Đảng tặng Thủ tướng Phạm Minh Chính và các lãnh đạo, nguyên lãnh đạo cấp cao của Đảng, Chính phủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T14:47:00+07:00",
+      "fetched": "2026-03-30T22:00:57.387407+07:00"
+    },
+    {
       "id": "1c8c289b23208920b2bcf62dc39e6583",
       "title": "Czech đề xuất đánh thuế bất động sản theo giá trị nhằm giảm tình trạng nhà bỏ trống",
       "link": "https://tuoitre.vn/czech-de-xuat-danh-thue-bat-dong-san-theo-gia-tri-nham-giam-tinh-trang-nha-bo-trong-20260330130001062.htm",
@@ -513,6 +553,226 @@ window.newsData_2026_03_30 = {
       "fetched": "2026-03-30T14:43:58.984084+07:00"
     },
     {
+      "id": "e35e98470caf5f3d7f21ee82915c1b6b",
+      "title": "Nhận hối lộ 200.000 USD, cựu thứ trưởng nói 'làm tốt, anh em cảm ơn thì nhận'",
+      "link": "https://thanhnien.vn/nhan-hoi-lo-200000-usd-cuu-thu-truong-noi-lam-tot-anh-em-cam-on-thi-nhan-185260330200326303.htm",
+      "summary": "Bị cáo buộc nhận hối lộ 200.000 USD, cựu Thứ trưởng Bộ NN-PTNT (cũ) thừa nhận sai phạm, song cho rằng 'thời điểm ấy có suy nghĩ rất đơn giản, cứ làm tốt công việc, anh em đến cảm ơn thì nhận'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T14:43:00+07:00",
+      "fetched": "2026-03-30T22:00:57.387594+07:00"
+    },
+    {
+      "id": "c12f5a6e0255e22465dc3999994975b1",
+      "title": "Tổng Bí thư: Hà Nội không được phép chững lại, càng không được trùng xuống",
+      "link": "https://thanhnien.vn/tong-bi-thu-ha-noi-khong-duoc-phep-chung-lai-cang-khong-duoc-trung-xuong-185260330203052915.htm",
+      "summary": "Tổng Bí thư nhấn mạnh, Ban Thường vụ Thành ủy Hà Nội cần tiếp tục phát huy cao độ tinh thần làm việc quyết liệt, giữ vững và đẩy mạnh hơn nữa khí thế đang có, không được phép chững lại, càng không được trùng xuống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T14:39:00+07:00",
+      "fetched": "2026-03-30T22:00:57.387763+07:00"
+    },
+    {
+      "id": "6f19d108167d300b069adedf3c5dba1b",
+      "title": "Khởi tố cựu Cục trưởng Cục Môi trường Hoàng Văn Thức",
+      "link": "https://thanhnien.vn/khoi-to-cuu-cuc-truong-cuc-moi-truong-hoang-van-thuc-185260330204728166.htm",
+      "summary": "Ông Hoàng Văn Thức, cựu Cục trưởng Cục Môi trường (thuộc Bộ Nông nghiệp và Môi trường) vừa bị khởi tố với cáo buộc liên quan đến sai phạm về quan trắc môi trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T14:38:00+07:00",
+      "fetched": "2026-03-30T22:00:57.387921+07:00"
+    },
+    {
+      "id": "07619b2a498844a6a19394756f0a9dbe",
+      "title": "Đội tuyển Malaysia xuất hiện ‘bắt mắt’ trên sân Thiên Trường, báo chí ‘ở nhà’ nóng lòng…",
+      "link": "https://thanhnien.vn/doi-tuyen-malaysia-xuat-hien-bat-mat-tren-san-thien-truong-bao-chi-o-nha-nong-long-185260330211350993.htm",
+      "summary": "Báo chí Malaysia cho biết HLV Kim Sang-sik tự tin hướng tới chiến thắng 2-0, trong khi đội tuyển Malaysia vẫn quyết tâm thể hiện để lấy lại niềm tin nơi người hâm mộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T14:33:00+07:00",
+      "fetched": "2026-03-30T22:00:57.388079+07:00"
+    },
+    {
+      "id": "36a371d09f53aca80a7ae2bff66ee0b9",
+      "title": "'Vì sống là sẻ chia': Thêm cơ hội cho bệnh nhân sứt môi hở hàm ếch",
+      "link": "https://thanhnien.vn/vi-song-la-se-chia-them-co-hoi-cho-benh-nhan-sut-moi-ho-ham-ech-185260327231548941.htm",
+      "summary": "Chương trình thiện nguyện 'Vì sống là sẻ chia' hỗ trợ phẫu thuật cho các bệnh nhân mang di chứng sứt môi hở hàm ếch có hoàn cảnh khó khăn, giúp người bệnh vượt qua mặc cảm, từng bước hòa nhập cuộc sống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T14:13:00+07:00",
+      "fetched": "2026-03-30T22:00:57.388231+07:00"
+    },
+    {
+      "id": "1fd11d2c22410e6a010a8d4cec5105a5",
+      "title": "Toàn cảnh TNSV quốc tế 30.3: Trường ĐH Thủy lợi ra quân mỹ mãn, vé bán kết đầu tiên có chủ",
+      "link": "https://thanhnien.vn/toan-canh-tnsv-quoc-te-303-truong-dh-thuy-loi-ra-quan-my-man-ve-ban-ket-dau-tien-co-chu-185260330210801644.htm",
+      "summary": "Bản tin Toàn cảnh TNSV quốc tế 2026 THACO Cup ngày 30.3 trên Thanhnien.vn và kênh YouTube Báo Thanh Niên cập nhật những diễn biến mới nhất về các trận đấu, câu chuyện bên lề sân cỏ và lịch thi đấu sắp tới của giải.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T14:08:00+07:00",
+      "fetched": "2026-03-30T22:00:57.388380+07:00"
+    },
+    {
+      "id": "bd8188d96c427cf213d66fe227fd9be6",
+      "title": "Không giỏi toán, liệu có thể trở thành... hacker vĩ đại?",
+      "link": "https://thanhnien.vn/khong-gioi-toan-lieu-co-the-tro-thanh-hacker-vi-dai-18526033021030711.htm",
+      "summary": "Không giỏi toán, liệu có học được công nghệ thông tin hay thậm chí là trở thành một \"hacker vĩ đại\"?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T14:03:00+07:00",
+      "fetched": "2026-03-30T22:00:57.388555+07:00"
+    },
+    {
+      "id": "b1c7675365151059477a09956d235370",
+      "title": "Bạn trai muốn tôi chờ trong khi anh đi du học",
+      "link": "https://vnexpress.net/ban-trai-muon-toi-cho-trong-khi-anh-di-du-hoc-5056560.html",
+      "summary": "Anh còn hứa nếu có điều kiện sẽ đón tôi sang thăm hoặc tính chuyện lâu dài khi về nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T14:00:00+07:00",
+      "fetched": "2026-03-30T22:00:54.541678+07:00"
+    },
+    {
+      "id": "b53aef1758a111431ef120a25511f058",
+      "title": "Cảnh túng quẫn của nhân viên an ninh sân bay Mỹ khi bị chậm lương",
+      "link": "https://vnexpress.net/canh-tung-quan-cua-nhan-vien-an-ninh-san-bay-my-khi-bi-cham-luong-5056383.html",
+      "summary": "Finlay, nhân viên an ninh tại sân bay Orlando, đã phải vay tiền con gái để mua xăng và dè sẻn từng bữa, khi bị chậm lương hơn một tháng qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T14:00:00+07:00",
+      "fetched": "2026-03-30T22:00:54.541870+07:00"
+    },
+    {
+      "id": "fdbb267aa1380127fbe16eaea5dedb93",
+      "title": "Lý do nhiều nhân viên an ninh sân bay Mỹ túng quẫn khi bị chậm lương",
+      "link": "https://vnexpress.net/ly-do-nhieu-nhan-vien-an-ninh-san-bay-my-tung-quan-khi-bi-cham-luong-5056383.html",
+      "summary": "Finlay, nhân viên an ninh tại sân bay Orlando, đã phải vay tiền con gái để mua xăng và dè sẻn từng bữa, khi bị chậm lương hơn một tháng qua.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-30T14:00:00+07:00",
+      "fetched": "2026-03-30T22:00:59.312683+07:00"
+    },
+    {
+      "id": "84a853242a25a7b088207e6e66cc132e",
+      "title": "Phó thủ tướng kỳ vọng Trường ĐH Luật TP.HCM vươn tầm khu vực, quốc tế",
+      "link": "https://thanhnien.vn/pho-thu-tuong-ky-vong-truong-dh-luat-tphcm-vuon-tam-khu-vuc-quoc-te-18526033020175282.htm",
+      "summary": "Phó thủ tướng Chính phủ Hồ Quốc Dũng tham dự lễ kỷ niệm 50 năm truyền thống và 30 năm ngày mang tên Trường ĐH Luật TP.HCM, nơi ông từng học tập.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T13:57:00+07:00",
+      "fetched": "2026-03-30T22:00:57.388708+07:00"
+    },
+    {
+      "id": "3da391968c7938c0456a6ea086b7fac8",
+      "title": "Cựu Cục trưởng Môi trường bị bắt với cáo buộc nhận 35 tỷ đồng",
+      "link": "https://vnexpress.net/cuu-cuc-truong-moi-truong-bi-bat-voi-cao-buoc-nhan-35-ty-dong-5056565.html",
+      "summary": "Ông Hoàng Văn Thức, cựu Cục trưởng Môi trường, Bộ Nông nghiệp và Môi trường, bị bắt với cáo buộc nhận 35 tỷ đồng khi làm dự án quan trắc chất lượng không khí tự động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T13:53:45+07:00",
+      "fetched": "2026-03-30T22:00:54.542040+07:00"
+    },
+    {
+      "id": "0e7756fd9bd0802a20d606973582112b",
+      "title": "Thủ tướng Phạm Minh Chính nhận Huân chương Quân công hạng nhất",
+      "link": "https://vnexpress.net/thu-tuong-pham-minh-chinh-nhan-huan-chuong-quan-cong-hang-nhat-5056555.html",
+      "summary": "Tổng Bí thư Tô Lâm trao Huân chương Quân công hạng nhất và Huy hiệu 40 năm tuổi Đảng cho Thủ tướng Phạm Minh Chính, tại buổi lễ vinh danh các cán bộ có nhiều đóng góp chiều 30/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T13:47:25+07:00",
+      "fetched": "2026-03-30T22:00:54.542207+07:00"
+    },
+    {
+      "id": "9c84f3004f5bb5f6910b4a6a0d77e1bc",
+      "title": "Bốn tháng chinh phục vương miện của Phan Phương Oanh",
+      "link": "https://vnexpress.net/bon-thang-chinh-phuc-vuong-mien-cua-phan-phuong-oanh-5056327.html",
+      "summary": "Phương Oanh, 23 tuổi, từng không thành công tại Hoa hậu Việt Nam 2022 nhưng bứt phá ở Miss World Vietnam 2025 nhờ sự tự tin.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T13:47:03+07:00",
+      "fetched": "2026-03-30T22:00:54.542374+07:00"
+    },
+    {
+      "id": "6782f972df5004522edfa798188582fa",
+      "title": "Quảng Trị: Đi tắm hồ, một học sinh đuối nước tử vong",
+      "link": "https://thanhnien.vn/quang-tri-di-tam-ho-mot-hoc-sinh-duoi-nuoc-tu-vong-185260330202640959.htm",
+      "summary": "Một học sinh lớp 8 tại xã Gio Linh (Quảng Trị) đã tử vong do đuối nước sau khi cùng nhóm bạn đi tắm tại hồ Trạng Bìa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T13:45:00+07:00",
+      "fetched": "2026-03-30T22:00:57.388861+07:00"
+    },
+    {
+      "id": "8b1315511e1754f270bc92e7fcaa8ab6",
+      "title": "Vị khách đặc biệt đến thăm tuyển Malaysia",
+      "link": "https://vnexpress.net/vi-khach-dac-biet-den-tham-tuyen-malaysia-5056467.html",
+      "summary": "HLV Hà Nội FC Harry Kewell bất ngờ có mặt trong buổi tập của đội tuyển Malaysia tại sân Thiên Trường, chiều 30/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T13:44:27+07:00",
+      "fetched": "2026-03-30T22:00:54.542561+07:00"
+    },
+    {
+      "id": "8b1315511e1754f270bc92e7fcaa8ab6",
+      "title": "Vị khách đặc biệt đến thăm tuyển Malaysia",
+      "link": "https://vnexpress.net/vi-khach-dac-biet-den-tham-tuyen-malaysia-5056467.html",
+      "summary": "HLV Hà Nội FC Harry Kewell bất ngờ có mặt trong buổi tập của đội tuyển Malaysia tại sân Thiên Trường, chiều 30/3.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-30T13:44:27+07:00",
+      "fetched": "2026-03-30T22:01:04.333884+07:00"
+    },
+    {
+      "id": "c577770adbad7cde582abedbc4dc87da",
+      "title": "Hôn thú cưng: Thói quen yêu thương hay nguy cơ tiềm ẩn?",
+      "link": "https://thanhnien.vn/hon-thu-cung-thoi-quen-yeu-thuong-hay-nguy-co-tiem-an-185260328160856833.htm",
+      "summary": "Hôn thú cưng tưởng chừng vô hại nhưng lại có thể tiềm ẩn nguy cơ lây nhiễm vi khuẩn, ký sinh trùng từ động vật sang người. Việc thể hiện tình cảm sai cách có thể ảnh hưởng trực tiếp đến sức khỏe, đặc biệt ở trẻ nhỏ và người có hệ miễn dịch yếu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T13:43:00+07:00",
+      "fetched": "2026-03-30T22:00:57.389014+07:00"
+    },
+    {
+      "id": "84668f96b462f102069de9f4a9f8c6f6",
+      "title": "Bị truy đuổi, nghi phạm trộm chó vứt cả xe máy và tang vật để tẩu thoát",
+      "link": "https://thanhnien.vn/bi-truy-duoi-nghi-pham-trom-cho-vut-ca-xe-may-va-tang-vat-de-tau-thoat-185260330194831444.htm",
+      "summary": "Bị công an phát hiện, nghi phạm trộm chó ở xã Cù Lao Dung (thành phố Cần Thơ) đã bỏ lại cả xe và tang vật là 9 con chó để tẩu thoát.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T13:40:00+07:00",
+      "fetched": "2026-03-30T22:00:57.389163+07:00"
+    },
+    {
+      "id": "367237e031c6800374a3794b124937ed",
+      "title": "Chuyên gia cảnh báo nguy hiểm khi trời chuyển mùa",
+      "link": "https://vnexpress.net/chuyen-gia-canh-bao-nguy-hiem-khi-troi-chuyen-mua-5056516.html",
+      "summary": "Giông lốc, sét hai ngày qua khiến 6 người thiệt mạng và hơn 6.500 căn nhà tốc mái, cho thấy độ rủi ro cao khi chuyển mùa, thời tiết biến đổi rất nhanh chóng cần cảnh giác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T13:39:31+07:00",
+      "fetched": "2026-03-30T22:00:54.542724+07:00"
+    },
+    {
+      "id": "d1d3fa2269b3a0a1b9f4c51e5657b1b8",
+      "title": "Ukraine nêu ý tưởng dùng xuồng tự sát để mở cửa eo biển Hormuz",
+      "link": "https://vnexpress.net/ukraine-neu-y-tuong-dung-xuong-tu-sat-de-mo-cua-eo-bien-hormuz-5056550.html",
+      "summary": "Tổng thống Zelensky nêu ý tưởng triển khai xuồng không người lái tự sát của Ukraine để giải tỏa bế tắc cho eo biển Hormuz, tương tự cách Kiev làm ở biển Đen.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T13:22:51+07:00",
+      "fetched": "2026-03-30T22:00:54.542884+07:00"
+    },
+    {
+      "id": "d1d3fa2269b3a0a1b9f4c51e5657b1b8",
+      "title": "Ukraine nêu ý tưởng dùng xuồng tự sát để mở cửa eo biển Hormuz",
+      "link": "https://vnexpress.net/ukraine-neu-y-tuong-dung-xuong-tu-sat-de-mo-cua-eo-bien-hormuz-5056550.html",
+      "summary": "Tổng thống Zelensky nêu ý tưởng triển khai xuồng không người lái tự sát của Ukraine để giải tỏa bế tắc cho eo biển Hormuz, tương tự cách Kiev làm ở biển Đen.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-30T13:22:51+07:00",
+      "fetched": "2026-03-30T22:00:59.312864+07:00"
+    },
+    {
       "id": "87e7c9879d3279fe1f3c61908faa63f5",
       "title": "Tây Ban Nha đóng cửa không phận đối với máy bay Mỹ chống Iran",
       "link": "https://thanhnien.vn/tay-ban-nha-dong-cua-khong-phan-doi-voi-may-bay-my-chong-iran-185260330193722683.htm",
@@ -531,6 +791,16 @@ window.newsData_2026_03_30 = {
       "category": "Tổng hợp",
       "published": "2026-03-30T13:02:00+07:00",
       "fetched": "2026-03-30T20:13:23.126832+07:00"
+    },
+    {
+      "id": "fc53689a1d12cad7b8b50fb755ca66b2",
+      "title": "Nước nào có dân số già nhất Đông Nam Á?",
+      "link": "https://vnexpress.net/nuoc-nao-co-dan-so-gia-nhat-dong-nam-a-5056506.html",
+      "summary": "Nước này đang bước vào giai đoạn già hóa nhanh nhất Đông Nam Á với độ tuổi trung bình dân số là 44. Bạn có biết đây là nước nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T13:02:00+07:00",
+      "fetched": "2026-03-30T22:00:54.543045+07:00"
     },
     {
       "id": "99b70cebad46d83a33fcd55f57fd5d0a",
@@ -581,6 +851,46 @@ window.newsData_2026_03_30 = {
       "category": "Tổng hợp",
       "published": "2026-03-30T13:00:00+07:00",
       "fetched": "2026-03-30T20:13:23.127638+07:00"
+    },
+    {
+      "id": "cc53bfc763c12bc5ea6942be4fb72b5d",
+      "title": "5 triệu chứng ít biết tăng huyết áp",
+      "link": "https://vnexpress.net/5-trieu-chung-it-biet-tang-huyet-ap-5056097.html",
+      "summary": "Ngoài các triệu chứng điển hình như đau đầu, khó thở, tăng huyết áp cũng có thể gây đau ngực, chóng mặt, đi tiểu nhiều và sưng mắt cá chân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T13:00:00+07:00",
+      "fetched": "2026-03-30T22:00:54.543204+07:00"
+    },
+    {
+      "id": "c37c73ded2cba944d38ad1a13fd9d9ae",
+      "title": "Ngựa lùn 'Ca Cao' vừa chào đời gây sốt ở Thảo Cầm Viên Sài Gòn",
+      "link": "https://vnexpress.net/ngua-lun-ca-cao-vua-chao-doi-gay-sot-o-thao-cam-vien-sai-gon-5055692.html",
+      "summary": "Ca Cao, thành viên thứ tư của đàn ngựa lùn, vừa chào đời với bộ lông giống bố Văn Mai và vệt trắng ở chân thừa hưởng từ mẹ Thị Mai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T13:00:00+07:00",
+      "fetched": "2026-03-30T22:00:54.543376+07:00"
+    },
+    {
+      "id": "2f37962e9f0e56837d2afb82da02a689",
+      "title": "ILA chuẩn hóa lộ trình học tiếng Anh theo thang đo GSE toàn cầu",
+      "link": "https://vnexpress.net/ila-chuan-hoa-lo-trinh-hoc-tieng-anh-theo-thang-do-gse-toan-cau-5056546.html",
+      "summary": "Ngày 28/3, ILA ra mắt hệ thống ILA Smart Learning và chương trình tiếng Anh đạt chuẩn Global Scale of English (GSE) do Pearson chứng nhận, giúp học sinh đo lường tiến bộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T13:00:00+07:00",
+      "fetched": "2026-03-30T22:00:54.543563+07:00"
+    },
+    {
+      "id": "8c99cc8f14f8b06cd4db4d3f19685e62",
+      "title": "Điều hòa Casper tiết kiệm tiền điện như nào?",
+      "link": "https://vnexpress.net/dieu-hoa-casper-tiet-kiem-tien-dien-nhu-nao-5056315.html",
+      "summary": "Điều hòa Casper sử dụng thế hệ máy nén Inverter mới giúp tăng cường khả năng tiết kiệm điện, với mức tiêu thụ điện chỉ 1,467 kWh trong 8 giờ hoạt động liên tục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T13:00:00+07:00",
+      "fetched": "2026-03-30T22:00:54.543726+07:00"
     },
     {
       "id": "cabe75f39263587de09170a980e12da7",
@@ -953,6 +1263,16 @@ window.newsData_2026_03_30 = {
       "fetched": "2026-03-30T20:13:34.202380+07:00"
     },
     {
+      "id": "f29fb6edbef65719d41f08d17afc969c",
+      "title": "Phúc Huỳnh rút khỏi giải pickleball PPA Tour Hà Nội vì bất mãn",
+      "link": "https://vnexpress.net/phuc-huynh-rut-khoi-giai-pickleball-ppa-tour-ha-noi-vi-bat-man-5056545.html",
+      "summary": "Tay vợt Huỳnh Thiên Phúc, á quân châu Á 2025, quyết định rút khỏi giải PPA Tour Asia 1000 - MB Hanoi Cup 2026 vì cảm thấy bị đối xử không công bằng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-30T11:59:31+07:00",
+      "fetched": "2026-03-30T22:01:04.335091+07:00"
+    },
+    {
       "id": "8924d52f5ce2a74a2c07c6f331c47904",
       "title": "Xuân Son quyết ghi bàn vào lưới Malaysia để mừng sinh nhật",
       "link": "https://vnexpress.net/xuan-son-quyet-ghi-ban-vao-luoi-malaysia-de-mung-sinh-nhat-5056458.html",
@@ -971,6 +1291,16 @@ window.newsData_2026_03_30 = {
       "category": "Thể thao",
       "published": "2026-03-30T11:44:06+07:00",
       "fetched": "2026-03-30T20:13:34.201381+07:00"
+    },
+    {
+      "id": "577e60a1d7a755d0c098e7931592ceda",
+      "title": "Xuân Son sẵn sàng trước ngày đại chiến Malaysia",
+      "link": "https://vnexpress.net/xuan-son-san-sang-truoc-ngay-dai-chien-malaysia-5056458.html",
+      "summary": "Tiền đạo nhập tịch Nguyễn Xuân Son tỏ ra sung mãn, đặt mục tiêu ghi bàn giúp Việt Nam thắng Malaysia ở vòng loại cuối Asian Cup 2027.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-30T11:44:06+07:00",
+      "fetched": "2026-03-30T22:01:04.334066+07:00"
     },
     {
       "id": "7d8b7636eae051b301581ab1c35de2a7",
