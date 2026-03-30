@@ -1,6 +1,6 @@
 window.newsData_2026_03_31 = {
   "date": "2026-03-31",
-  "lastUpdated": "2026-03-31T03:41:53.052630+07:00",
+  "lastUpdated": "2026-03-31T05:32:47.300138+07:00",
   "articles": [
     {
       "id": "3c713f4ba5e878e57c91d327e6c24fb5",
@@ -151,6 +151,236 @@ window.newsData_2026_03_31 = {
       "category": "Tổng hợp",
       "published": "2026-03-31T01:55:59.166838+07:00",
       "fetched": "2026-03-31T01:55:59.167051+07:00"
+    },
+    {
+      "id": "24752b8be92b1f28eac210e140473886",
+      "title": "'Hung thần' xe đầu kéo trên những cung đường vùng cao Huế",
+      "link": "https://thanhnien.vn/hung-than-xe-dau-keo-tren-nhung-cung-duong-vung-cao-hue-185260330162032663.htm",
+      "summary": "Sự gia tăng đột biến của xe đầu kéo chở than, lâm sản trên tuyến Hồ Chí Minh và quốc lộ 49 đang gây mất an toàn giao thông nghiêm trọng, trở thành nỗi bất an thường trực của người dân vùng cao thành phố Huế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T22:32:00+07:00",
+      "fetched": "2026-03-31T05:32:35.272884+07:00"
+    },
+    {
+      "id": "7bd646db6e60494af1be0f6ec5a3b7ae",
+      "title": "Tiêu điểm quốc tế 31.3: Thông điệp mạnh mẽ từ Giáo hoàng | Tàu dầu Nga tiến về Cuba",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-313-thong-diep-manh-me-tu-giao-hoang-tau-dau-nga-tien-ve-cuba-185260330234025253.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin Tiêu điểm quốc tế ngày 31.3.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T22:30:00+07:00",
+      "fetched": "2026-03-31T05:32:35.273032+07:00"
+    },
+    {
+      "id": "db50232498fe1a1f4e9836a3b9a996ff",
+      "title": "Nhật tăng cường năng lực phòng thủ từ xa",
+      "link": "https://thanhnien.vn/nhat-tang-cuong-nang-luc-phong-thu-tu-xa-185260330215956482.htm",
+      "summary": "Việc điều chỉnh tàu khu trục để có thể phóng tên lửa tầm xa được xem là bước tiến mới trong nỗ lực nâng cao khả năng phòng thủ và phản công của Nhật Bản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T22:30:00+07:00",
+      "fetched": "2026-03-31T05:32:35.273180+07:00"
+    },
+    {
+      "id": "f49b013c5a9cf881ed2731b508ad7a98",
+      "title": "Hơn 20 năm quy hoạch treo tại Mả Lạng: Vì sao vẫn 'giậm chân tại chỗ'?",
+      "link": "https://thanhnien.vn/hon-20-nam-quy-hoach-treo-tai-ma-lang-vi-sao-van-giam-chan-tai-cho-185260329213318569.htm",
+      "summary": "Sau nhiều năm chờ đợi, khu Mả Lạng giữa trung tâm TP.HCM được kỳ vọng sẽ sớm có hướng đi mới khi thành phố đang nghiên cứu điều chỉnh quy hoạch, mở ra cơ hội chỉnh trang và cải thiện không gian sống cho người dân nơi đây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T22:30:00+07:00",
+      "fetched": "2026-03-31T05:32:35.273310+07:00"
+    },
+    {
+      "id": "8b2b220fecbe217e65d09ea1fc3e6042",
+      "title": "Khoảnh khắc cặp chim cu rốc mớm mồi cho con ở công viên TP.HCM",
+      "link": "https://thanhnien.vn/khoanh-khac-cap-chim-cu-roc-mom-moi-cho-con-o-cong-vien-tphcm-185260329092938033.htm",
+      "summary": "Khoảnh khắc cặp chim cu rốc mớm mồi cho con non trong thân cây ở TP.HCM khiến nhiều người thích thú về bản năng chăm sóc con cái của loài chim nhỏ bé này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T22:30:00+07:00",
+      "fetched": "2026-03-31T05:32:35.273440+07:00"
+    },
+    {
+      "id": "b6f7dd231cab571e4f24f1d1a9cc2897",
+      "title": "Chặn hành xử côn đồ đường phố: Phạt nặng thôi đã đủ?",
+      "link": "https://thanhnien.vn/chan-hanh-xu-con-do-duong-pho-phat-nang-thoi-da-du-185260330184342677.htm",
+      "summary": "Việc cơ quan chức năng xử lý nghiêm hành vi côn đồ khi tham gia giao thông nhận được sự đồng tình của bạn đọc, nhưng nhiều ý kiến cũng đặt ra: Quy định và cách xử lý hiện hành đã đủ ngăn chặn hiệu quả thói côn đồ trên đường phố?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T22:27:00+07:00",
+      "fetched": "2026-03-31T05:32:35.273568+07:00"
+    },
+    {
+      "id": "1571e4d900ebfee6847422dd62047c65",
+      "title": "TP.HCM cần chủ động xây dựng luật Đô thị đặc biệt",
+      "link": "https://thanhnien.vn/tphcm-can-chu-dong-xay-dung-luat-do-thi-dac-biet-185260330223054391.htm",
+      "summary": "Ngày 30.3, HĐND TP.HCM khóa XI, nhiệm kỳ 2026 - 2031 tổ chức kỳ họp thứ nhất. Đến dự và chỉ đạo kỳ họp có Ủy viên Bộ Chính trị, Bí thư Thành ủy TP.HCM Trần Lưu Quang; Phó chủ tịch Quốc hội Nguyễn Đức Hải.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T22:21:00+07:00",
+      "fetched": "2026-03-31T05:32:35.273696+07:00"
+    },
+    {
+      "id": "4868326ba8763d0ce641c0b3fd1ad314",
+      "title": "Tử vi ngày 31 tháng 3: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-31-thang-3-con-giap-nao-may-man-hom-nay-185260331051042176.htm",
+      "summary": "Tử vi ngày 31 tháng 3 mang đến những gợi ý tham khảo cho 12 con giáp. Vận khí thiên về 'tổng kết và điều chỉnh', những gì chưa trọn vẹn sẽ có cơ hội được hoàn thiện nếu bạn đủ tỉnh táo nhìn lại. Tài lộc không nằm ở việc kiếm thêm, mà ở việc giữ được những gì đã có và tối ưu lại cách sử dụng nguồn lự...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T22:15:00+07:00",
+      "fetched": "2026-03-31T05:32:35.273824+07:00"
+    },
+    {
+      "id": "053be3bbb4da1c5d87975f2884934627",
+      "title": "Tổng thống Trump cho tàu dầu Nga viện trợ Cuba",
+      "link": "https://thanhnien.vn/tong-thong-trump-cho-tau-dau-nga-vien-tro-cuba-185260330221124522.htm",
+      "summary": "TASS hôm qua dẫn thông báo của Bộ Giao thông Nga xác nhận tàu dầu Anatoly Kolodkin mang theo khoảng 730.000 thùng dầu thô đã cập cảng Cuba trong ngày 30.3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T22:15:00+07:00",
+      "fetched": "2026-03-31T05:32:35.273950+07:00"
+    },
+    {
+      "id": "d68902b689e05ff373b884fb26d38587",
+      "title": "Người cao tuổi thường sống chung với bệnh trong 5 - 7 năm cuối đời",
+      "link": "https://thanhnien.vn/nguoi-cao-tuoi-thuong-song-chung-voi-benh-trong-5-7-nam-cuoi-doi-18526033018481995.htm",
+      "summary": "Tuổi thọ trung bình của người VN hiện nay trên 74 tuổi nhưng thời gian sống chung với bệnh tật lại kéo dài (thường phải sống chung với bệnh tật trong khoảng 5 - 7 năm cuối đời).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T22:07:00+07:00",
+      "fetched": "2026-03-31T05:32:35.274076+07:00"
+    },
+    {
+      "id": "82b712077721266e2810c8a5707ee0a1",
+      "title": "Chủng virus EV71 gây bệnh tay chân miệng nguy hiểm thế nào",
+      "link": "https://vnexpress.net/chung-virus-ev71-gay-benh-tay-chan-mieng-nguy-hiem-the-nao-5056418.html",
+      "summary": "Chủng virus EV71 độc lực cao, lây lan nhanh và tấn công trực tiếp hệ thần kinh, tim mạch, khiến trẻ bệnh tay chân miệng nặng nhanh chỉ sau 24 giờ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T22:00:00+07:00",
+      "fetched": "2026-03-31T05:32:32.196457+07:00"
+    },
+    {
+      "id": "55231e5a97a446a946322ee903888fef",
+      "title": "Năng lực đáp trả khó bị xóa sổ của Iran",
+      "link": "https://vnexpress.net/nang-luc-dap-tra-kho-bi-xoa-so-cua-iran-5056249.html",
+      "summary": "Dù ông Trump tuyên bố đã xóa sổ năng lực quân sự của Iran, nước này vẫn tiếp tục tung ra các đòn tập kích gây thiệt hại ngày càng lớn với Mỹ và đồng minh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T22:00:00+07:00",
+      "fetched": "2026-03-31T05:32:32.196615+07:00"
+    },
+    {
+      "id": "bd1a7007e7fedc1f7b12086275732cff",
+      "title": "Tránh 'án' bản quyền, nhiều cộng đồng ebook tại Việt Nam đóng cửa",
+      "link": "https://vnexpress.net/tranh-an-ban-quyen-nhieu-cong-dong-ebook-tai-viet-nam-dong-cua-5056210.html",
+      "summary": "Một số cộng đồng chia sẻ sách điện tử (ebook) tại Việt Nam đóng cửa hoặc thay đổi cách thức hoạt động nhằm tránh việc chia sẻ sách vi phạm bản quyền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T22:00:00+07:00",
+      "fetched": "2026-03-31T05:32:32.196761+07:00"
+    },
+    {
+      "id": "502e261269fcba1b10f4868d201f56a4",
+      "title": "Hôm nay 31.3 là ngày cuối cùng tháng 3: Theo lịch âm có phải ngày đẹp?",
+      "link": "https://thanhnien.vn/hom-nay-313-la-ngay-cuoi-cung-thang-3-theo-lich-am-co-phai-ngay-dep-185260330220254421.htm",
+      "summary": "Ngày 31.3 hôm nay là ngày cuối cùng của tháng 3 dương lịch. Đây là ngày gì theo lịch âm, lịch vạn niên mà nhiều người quan tâm?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T22:00:00+07:00",
+      "fetched": "2026-03-31T05:32:35.274210+07:00"
+    },
+    {
+      "id": "62f49af7ebb5cbed7eaea3a6370658f3",
+      "title": "Khói lửa tiếp tục bao trùm khắp Trung Đông",
+      "link": "https://thanhnien.vn/khoi-lua-tiep-tuc-bao-trum-khap-trung-dong-185260330215006212.htm",
+      "summary": "Hôm qua 30.3, chiến sự tại Trung Đông tiếp tục diễn ra nảy lửa bất chấp những tiếp xúc ngoại giao giữa Mỹ và Iran nhằm chấm dứt xung đột.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T22:00:00+07:00",
+      "fetched": "2026-03-31T05:32:35.274336+07:00"
+    },
+    {
+      "id": "100128b7bedd65cb7345f447e5f15156",
+      "title": "Hố trước trạm xe buýt",
+      "link": "https://thanhnien.vn/ho-truoc-tram-xe-buyt-18526033017163166.htm",
+      "summary": "Bạn đọc phản ánh trên QL1, tại Km 1849+200, thuộc xã Trảng Bom, tỉnh Đồng Nai, có một hố sâu do mương thoát nước bị sụp tấm đan ngay trước trạm xe buýt, rất nguy hiểm (ảnh).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T22:00:00+07:00",
+      "fetched": "2026-03-31T05:32:37.066006+07:00"
+    },
+    {
+      "id": "24374dfb4d1998d39c1b81f8a2e852c2",
+      "title": "Nhiều nắp hộp điện, linh kiện trụ đèn chiếu sáng bị mất",
+      "link": "https://thanhnien.vn/nhieu-nap-hop-dien-linh-kien-tru-den-chieu-sang-bi-mat-185260330171325243.htm",
+      "summary": "Tại hẻm 401 Nguyễn Duy Trinh nối với đường số 7, đoạn khu vực cầu Giồng Ông Tố, P.Bình Trưng (trước đây thuộc P.Bình Trưng Tây, TP.Thủ Đức), TP.HCM, chúng tôi thấy có nhiều hộp điện được lắp đặt ở các...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T22:00:00+07:00",
+      "fetched": "2026-03-31T05:32:38.613340+07:00"
+    },
+    {
+      "id": "0f24e4775e9ceda7511a38b729b55fc0",
+      "title": "Vì sao nha đam được cho là thần dược để bảo vệ sức khỏe?",
+      "link": "https://thanhnien.vn/vi-sao-nha-dam-duoc-cho-la-than-duoc-de-bao-ve-suc-khoe-185260326172137776.htm",
+      "summary": "Nha đam là loại thực vật có đặc tính sinh học ưu việt trong việc chăm sóc sức khỏe. Theo WebMD, loại cây mọng nước này chứa hơn 75 thành phần hoạt tính, bao gồm các vitamin và khoáng chất thiết yếu. Không chỉ làm dịu vết cháy nắng, nha đam còn đóng vai trò quan trọng trong phục hồi mái tóc, làm sạch...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T22:00:00+07:00",
+      "fetched": "2026-03-31T05:32:38.613776+07:00"
+    },
+    {
+      "id": "55231e5a97a446a946322ee903888fef",
+      "title": "Năng lực đáp trả khó bị xóa sổ của Iran",
+      "link": "https://vnexpress.net/nang-luc-dap-tra-kho-bi-xoa-so-cua-iran-5056249.html",
+      "summary": "Dù ông Trump tuyên bố đã xóa sổ năng lực quân sự của Iran, nước này vẫn tiếp tục tung ra các đòn tập kích gây thiệt hại ngày càng lớn với Mỹ và đồng minh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-30T22:00:00+07:00",
+      "fetched": "2026-03-31T05:32:41.467806+07:00"
+    },
+    {
+      "id": "bd1a7007e7fedc1f7b12086275732cff",
+      "title": "Tránh 'án' bản quyền, nhiều cộng đồng ebook tại Việt Nam đóng cửa",
+      "link": "https://vnexpress.net/tranh-an-ban-quyen-nhieu-cong-dong-ebook-tai-viet-nam-dong-cua-5056210.html",
+      "summary": "Một số cộng đồng chia sẻ sách điện tử (ebook) tại Việt Nam đóng cửa hoặc thay đổi cách thức hoạt động nhằm tránh việc chia sẻ sách vi phạm bản quyền.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-30T22:00:00+07:00",
+      "fetched": "2026-03-31T05:32:46.313838+07:00"
+    },
+    {
+      "id": "e48aa61e2156d0f1c57fe6184edb9230",
+      "title": "TP HCM yêu cầu hạn chế cắt điện giờ cao điểm nắng nóng",
+      "link": "https://vnexpress.net/tp-hcm-yeu-cau-han-che-cat-dien-gio-cao-diem-nang-nong-5056549.html",
+      "summary": "Thành phố đề nghị ngành điện hạn chế tối đa cắt điện vào giờ cao điểm nắng nóng và ban đêm, trường hợp bất khả kháng phải báo trước để người dân, doanh nghiệp chủ động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T21:00:00+07:00",
+      "fetched": "2026-03-31T05:32:32.196900+07:00"
+    },
+    {
+      "id": "55a9e7682cefac4e9ad6c4a8381bd926",
+      "title": "TP HCM yêu cầu lắp 3.000 tủ đổi pin xe máy điện trong tháng 4",
+      "link": "https://vnexpress.net/tp-hcm-yeu-cau-lap-3-000-tu-doi-pin-xe-may-dien-trong-thang-4-5056531.html",
+      "summary": "Thành phố yêu cầu các đơn vị hoàn tất lắp 3.000 tủ đổi pin xe máy điện trên vỉa hè trước 20/4, trong bối cảnh hạ tầng sạc hiện chưa đáp ứng đủ nhu cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T21:00:00+07:00",
+      "fetched": "2026-03-31T05:32:32.197035+07:00"
+    },
+    {
+      "id": "0587d6f693197337c527f5fe13ef0547",
+      "title": "Aprilia X 250TH - siêu môtô bản giới hạn giá 150.000 USD",
+      "link": "https://vnexpress.net/aprilia-x-250th-sieu-moto-ban-gioi-han-gia-150-000-usd-5056481.html",
+      "summary": "Mẫu môtô phiên bản đường đua MotoGP, công suất 240 mã lực, phanh carbon, hệ thống điện tử APX, giới hạn 30 xe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T21:00:00+07:00",
+      "fetched": "2026-03-31T05:32:32.197188+07:00"
     },
     {
       "id": "00c740d500fd519f7ec21d6fb7d25c66",
