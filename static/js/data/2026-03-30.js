@@ -1,7 +1,157 @@
 window.newsData_2026_03_30 = {
   "date": "2026-03-30",
-  "lastUpdated": "2026-03-30T16:08:44.007132+07:00",
+  "lastUpdated": "2026-03-30T17:59:35.769167+07:00",
   "articles": [
+    {
+      "id": "cedbd8670e7b1367d225af7d03c91dad",
+      "title": "Chainsaw Man, Thanh gươm diệt quỷ và các anime đáng xem khi chờ Jujutsu Kaisen mùa 4",
+      "link": "https://tuoitre.vn/chainsaw-man-thanh-guom-diet-quy-va-cac-anime-dang-xem-khi-cho-jujutsu-kaisen-mua-4-2026033009571716.htm",
+      "summary": "Sau khi Jujutsu Kaisen mùa 3 khép lại phần đầu của arc Culling Game, người hâm mộ có thể sẽ phải chờ khá lâu để theo dõi diễn biến tiếp theo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T17:59:30.286992+07:00",
+      "fetched": "2026-03-30T17:59:30.287104+07:00"
+    },
+    {
+      "id": "7ea244f3527fd58b788a0ab90342326b",
+      "title": "Yêu cầu sớm tháo dỡ 2 trạm thu phí trên quốc lộ 51 và trạm thu phí cầu Đồng Nai",
+      "link": "https://tuoitre.vn/yeu-cau-som-thao-do-2-tram-thu-phi-tren-quoc-lo-51-va-tram-thu-phi-cau-dong-nai-20260330134048504.htm",
+      "summary": "Bộ Xây dựng vừa yêu cầu Cục Đường bộ Việt Nam khẩn trương hướng dẫn cho Đồng Nai tháo dỡ 2 trạm thu phí trên quốc lộ 51, đồng thời tháo dỡ luôn trạm thu phí cầu Đồng Nai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T17:59:30.286867+07:00",
+      "fetched": "2026-03-30T17:59:30.286977+07:00"
+    },
+    {
+      "id": "bcad48f9b5c68cf4627bb6d30f7b4935",
+      "title": "Ông Lâm Đông tái đắc cử Chủ tịch HĐND tỉnh Khánh Hòa",
+      "link": "https://tuoitre.vn/ong-lam-dong-tai-dac-cu-chu-tich-hdnd-tinh-khanh-hoa-20260330094512352.htm",
+      "summary": "Tại kỳ họp thứ nhất của HĐND tỉnh Khánh Hòa khóa VIII (nhiệm kỳ 2026 - 2031), ông Lâm Đông tái đắc cử chức Chủ tịch HĐND tỉnh nhiệm kỳ 2026 - 2031.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T17:59:30.286744+07:00",
+      "fetched": "2026-03-30T17:59:30.286856+07:00"
+    },
+    {
+      "id": "5b0f456e54b84f5280b2a581b6cacd89",
+      "title": "Ông Ngô Chí Cường trúng cử Chủ tịch HĐND tỉnh Đồng Tháp",
+      "link": "https://tuoitre.vn/ong-ngo-chi-cuong-trung-cu-chu-tich-hdnd-tinh-dong-thap-20260330150757056.htm",
+      "summary": "Với sự thống nhất tuyệt đối, 100% đại biểu có mặt đã bầu ông Ngô Chí Cường giữ chức Chủ tịch HĐND tỉnh Đồng Tháp khóa XI, nhiệm kỳ 2026 - 2031.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T17:59:30.286617+07:00",
+      "fetched": "2026-03-30T17:59:30.286733+07:00"
+    },
+    {
+      "id": "2e874742655b8cd66fbc40f5fb08cab4",
+      "title": "Bà Cao Thị Hòa An tái đắc cử Chủ tịch HĐND tỉnh Đắk Lắk",
+      "link": "https://tuoitre.vn/ba-cao-thi-hoa-an-tai-dac-cu-chu-tich-hdnd-tinh-dak-lak-20260330115355847.htm",
+      "summary": "Bà Cao Thị Hòa An - Ủy viên Trung ương Đảng khóa XIV, Phó bí thư thường trực Tỉnh ủy vừa được tín nhiệm tái đắc cử chức Chủ tịch HĐND tỉnh Đắk Lắk khóa XI, nhiệm kỳ 2026-2031.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T17:59:30.286459+07:00",
+      "fetched": "2026-03-30T17:59:30.286605+07:00"
+    },
+    {
+      "id": "56a93e8deb87e946b07d5c30f826f126",
+      "title": "Lương hưu tháng 4 của người dân TP.HCM được chi trả vào ngày nào?",
+      "link": "https://tuoitre.vn/luong-huu-thang-4-cua-nguoi-dan-tp-hcm-duoc-chi-tra-vao-ngay-nao-20260330151657659.htm",
+      "summary": "Bảo hiểm xã hội TP.HCM cho biết sẽ bắt đầu chi trả lương hưu và trợ cấp Bảo hiểm xã hội tháng 4 từ ngày 1-4.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T17:59:30.286333+07:00",
+      "fetched": "2026-03-30T17:59:30.286448+07:00"
+    },
+    {
+      "id": "25f6f4d65815fa5a8fda8bd712cad143",
+      "title": "AI: Điểm yếu nguy hiểm của ngôn ngữ ít dữ liệu",
+      "link": "https://tuoitre.vn/ai-diem-yeu-nguy-hiem-cua-ngon-ngu-it-du-lieu-20260330151904752.htm",
+      "summary": "Trong vài năm qua, trí tuệ nhân tạo (AI) đã bước ra khỏi phòng thí nghiệm để đi vào đời sống, từ lớp học, văn phòng cho đến phòng khám.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T17:59:30.286207+07:00",
+      "fetched": "2026-03-30T17:59:30.286318+07:00"
+    },
+    {
+      "id": "d4fbdbb255b9e6e255fc5bb1fdcfa85f",
+      "title": "Gành đá như 'sống lưng rồng' giữa cánh đồng lúa Phú Yên hút du khách",
+      "link": "https://tuoitre.vn/ganh-da-nhu-song-lung-rong-noi-len-giua-canh-dong-lua-phu-yen-2026032818410004.htm",
+      "summary": "Gành đá Hòa Thắng thuộc xã Phú Hòa 1, Đắk Lắk (trước là Phú Yên) như một 'kỳ quan' độc đáo với những khối đá khổng lồ vươn thẳng giữa đồng lúa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T17:59:30.286083+07:00",
+      "fetched": "2026-03-30T17:59:30.286196+07:00"
+    },
+    {
+      "id": "e5158b77b43cad44346c177273679f91",
+      "title": "VN-Index 'đỏ lửa' đầu tuần, nỗ lực phục hồi nhưng không thành",
+      "link": "https://tuoitre.vn/vn-index-do-lua-dau-tuan-no-luc-phuc-hoi-nhung-khong-thanh-20260330152455659.htm",
+      "summary": "Sau khi có lúc mất hơn 30 điểm trong phiên sáng và hồi phục về sát tham chiếu, VN-Index vẫn không giữ được đà tăng khi áp lực bán quay trở lại, khép phiên trong sắc đỏ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T17:59:30.285958+07:00",
+      "fetched": "2026-03-30T17:59:30.286072+07:00"
+    },
+    {
+      "id": "8800426050d74d028aae3cdcf2ad05e2",
+      "title": "Hiểm họa cho sức khỏe từ chất tạo ngọt ‘kiêng đường’",
+      "link": "https://tuoitre.vn/hiem-hoa-cho-suc-khoe-tu-chat-tao-ngot-kieng-duong-20260330152104529.htm",
+      "summary": "Erythritol, một chất thay thế đường rất phổ biến trong các đồ ăn vặt keto và thức uống ăn kiêng, có thể không hề vô hại như chúng ta tưởng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T17:59:30.285831+07:00",
+      "fetched": "2026-03-30T17:59:30.285947+07:00"
+    },
+    {
+      "id": "c69e1f4283544e3d3a9e0f7d6acd5a8f",
+      "title": "Ông Trump tiết lộ công trình ngầm chống drone dưới phòng khiêu vũ Nhà Trắng",
+      "link": "https://tuoitre.vn/ong-trump-tiet-lo-cong-trinh-ngam-chong-drone-duoi-phong-khieu-vu-nha-trang-20260330145647565.htm",
+      "summary": "Tổng thống Trump cho biết công trình ngầm dưới phòng khiêu vũ Nhà Trắng được xây dựng với kính chống đạn, hệ thống chống drone, hoàn toàn từ vốn tư nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T17:59:30.285704+07:00",
+      "fetched": "2026-03-30T17:59:30.285820+07:00"
+    },
+    {
+      "id": "cd12e753637484b9e927867c62127967",
+      "title": "Cầu thủ Thái Lan tự tin đánh bại Turkmenistan nhờ... cái  nóng khắc nghiệt",
+      "link": "https://tuoitre.vn/cau-thu-thai-lan-tu-tin-danh-bai-turkmenistan-nho-cai-nong-khac-nghiet-20260330151005132.htm",
+      "summary": "Ngôi sao Supachok Sarachat khẳng định đội tuyển Thái Lan đang nắm trong tay 'thiên thời, địa lợi' trước Turkmenistan nhờ sự tiếp sức từ sân nhà Rajamangala và cái nắng nóng khắc nghiệt của Bangkok.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T17:59:30.285568+07:00",
+      "fetched": "2026-03-30T17:59:30.285692+07:00"
+    },
+    {
+      "id": "0659e9874a0add70ce23350418fa8140",
+      "title": "Quảng Ngãi dự kiến bán xăng sinh học E10 trên toàn tỉnh từ 1-6",
+      "link": "https://tuoitre.vn/quang-ngai-du-kien-ban-xang-sinh-hoc-e10-tren-toan-tinh-tu-1-6-20260330152834387.htm",
+      "summary": "Dự kiến từ ngày 1-6, Quảng Ngãi sẽ triển khai kinh doanh xăng sinh học E10 trên toàn tỉnh, đồng thời duy trì E5 RON 92 đến năm 2030, từng bước thúc đẩy chuyển dịch sang nhiên liệu sạch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T17:59:30.285393+07:00",
+      "fetched": "2026-03-30T17:59:30.285550+07:00"
+    },
+    {
+      "id": "aaf0b29e90f2804a64b3e59bb58f384f",
+      "title": "Hạ viện Campuchia thông qua luật chống lừa đảo trực tuyến, mức án đến chung thân",
+      "link": "https://tuoitre.vn/ha-vien-campuchia-thong-qua-luat-chong-lua-dao-truc-tuyen-muc-an-den-chung-than-20260330152623628.htm",
+      "summary": "Hạ viện Campuchia vừa thông qua dự luật mới với chế tài nặng tay nhằm triệt hạ các đường dây lừa đảo trực tuyến, trong đó mức án cao nhất lên tới tù chung thân đối với kẻ cầm đầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T17:59:30.285255+07:00",
+      "fetched": "2026-03-30T17:59:30.285380+07:00"
+    },
+    {
+      "id": "257afa4619c70dc2c52e723cc2953ac3",
+      "title": "Tuyển futsal Việt Nam trẻ hóa cho World Cup 2028",
+      "link": "https://tuoitre.vn/tuyen-futsal-viet-nam-tre-hoa-cho-world-cup-2028-20260330153906672.htm",
+      "summary": "Đội tuyển futsal Việt Nam đang từng bước trẻ hóa để để chuẩn bị cho Giải châu Á 2028 với mục tiêu quan trọng là giành vé dự World Cup 2028.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T17:59:30.285029+07:00",
+      "fetched": "2026-03-30T17:59:30.285240+07:00"
+    },
     {
       "id": "f535db503e69296dba2098ea45e59643",
       "title": "Ông Phan Thiên Định tiếp tục được bầu làm Chủ tịch UBND tỉnh Hà Tĩnh",
@@ -361,6 +511,356 @@ window.newsData_2026_03_30 = {
       "category": "Tổng hợp",
       "published": "2026-03-30T12:56:50.008235+07:00",
       "fetched": "2026-03-30T12:56:50.008457+07:00"
+    },
+    {
+      "id": "ec0daf073981163683701cc6e5a98133",
+      "title": "Hoa hậu Ý Nhi 'gây sốt' khi công khai khoảnh khắc tình tứ bên bạn trai",
+      "link": "https://thanhnien.vn/hoa-hau-y-nhi-gay-sot-khi-cong-khai-khoanh-khac-tinh-tu-ben-ban-trai-185260330162544521.htm",
+      "summary": "Mới đây, Hoa hậu Huỳnh Trần Ý Nhi gây chú ý khi công khai khoảnh khắc tình tứ bên bạn trai Anh Kiệt tại chung kết Hoa hậu Thế giới Việt Nam 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T10:59:00+07:00",
+      "fetched": "2026-03-30T17:59:29.317937+07:00"
+    },
+    {
+      "id": "baf7312a407ed85e4773b46ec4d34037",
+      "title": "Phim 18+ có Quang Tuấn thu gần 130 tỉ đồng, liệu có lập kỷ lục ở phòng vé?",
+      "link": "https://thanhnien.vn/phim-18-co-quang-tuan-thu-gan-130-ti-dong-lieu-co-lap-ky-luc-o-phong-ve-185260330153527056.htm",
+      "summary": "Đạt gần 130 tỉ đồng, nhiều người thắc mắc liệu 'Quỷ nhập tràng 2' với sự tham gia của Khả Như - Quang Tuấn có vượt qua phần 1 để trở thành phim kinh dị Việt có doanh thu cao nhất ở phòng vé?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T10:55:00+07:00",
+      "fetched": "2026-03-30T17:59:29.318107+07:00"
+    },
+    {
+      "id": "6cb82d73a53ab1f52902f2cc599e5a8b",
+      "title": "Hà Nội có thêm hệ thống máy hiện đại chẩn đoán sớm ung thư",
+      "link": "https://thanhnien.vn/ha-noi-co-them-he-thong-may-hien-dai-chan-doan-som-ung-thu-185260330171530883.htm",
+      "summary": "Hệ thống thiết bị hiện đại giúp nhận diện ung thư vú sớm hơn 15 tháng so với công nghệ cũ, là một trong các hệ thống máy hiện đại được triển khai tại Bệnh viện quốc tế Thăng Long Lạc Việt, Hà Nội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T10:50:00+07:00",
+      "fetched": "2026-03-30T17:59:29.318265+07:00"
+    },
+    {
+      "id": "6e15f475d42e2bbd91b20e4d59aee075",
+      "title": "Những tấm vé bán kết đầu tiên đã có chủ",
+      "link": "https://thanhnien.vn/nhung-tam-ve-ban-ket-dau-tien-da-co-chu-18526033016591833.htm",
+      "summary": "Giải bóng đá Thanh Niên sinh viên quốc tế 2026 - cúp THACO đã tìm ra những đội bóng đầu tiên góp mặt tại bán kết, sau khi loạt trận thứ hai hạ màn chiều nay (30.3).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T10:49:00+07:00",
+      "fetched": "2026-03-30T17:59:29.318417+07:00"
+    },
+    {
+      "id": "952dfbacab8764b48fed795c0fdfcebf",
+      "title": "Ông Đỗ Hữu Huy giữ chức Chủ tịch UBND tỉnh Đắk Lắk",
+      "link": "https://thanhnien.vn/ong-do-huu-huy-giu-chuc-chu-tich-ubnd-tinh-dak-lak-185260330153702768.htm",
+      "summary": "Ông Đỗ Hữu Huy, Ủy viên dự khuyết Trung ương Đảng, Phó bí thư Tỉnh ủy, Bí thư Đảng ủy UBND tỉnh Đắk Lắk, được bầu giữ chức Chủ tịch UBND tỉnh, nhiệm kỳ 2026 - 2031.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T10:48:00+07:00",
+      "fetched": "2026-03-30T17:59:29.318603+07:00"
+    },
+    {
+      "id": "5bf41e57bd7ecfa6fd0be80829b8baca",
+      "title": "Giáo hoàng Leo XIV: Chúa khước từ lời cầu nguyện của kẻ 'tay vấy máu'",
+      "link": "https://vnexpress.net/giao-hoang-leo-xiv-chua-khuoc-tu-loi-cau-nguyen-cua-ke-tay-vay-mau-5056353.html",
+      "summary": "Giáo hoàng Leo XIV tuyên bố cuộc chiến Iran là \"tàn bạo\" và Chúa Jesus sẽ không lắng nghe lời cầu nguyện của kẻ gây chiến \"tay vấy máu\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T10:42:47+07:00",
+      "fetched": "2026-03-30T17:59:26.338053+07:00"
+    },
+    {
+      "id": "4e7421e3f96717b9a35197f1ef752ab0",
+      "title": "Những người viết X-part cho nhạc Trịnh",
+      "link": "https://thanhnien.vn/nhung-nguoi-viet-x-part-cho-nhac-trinh-185260330172054316.htm",
+      "summary": "Vào mỗi dịp kỷ niệm ngày sinh (28.2) và ngày mất (1.4) của nhạc sĩ Trịnh Công Sơn, những đêm nhạc Trịnh lớn nhỏ lại diễn ra khắp nơi đáp ứng nhu cầu thưởng thức của khán giả. Với những giá trị riêng có, nhạc Trịnh dường như chưa bao giờ cũ. Nhưng vẫn có những nghệ sĩ chủ động 'làm mới' nhạc Trịnh th...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T10:35:00+07:00",
+      "fetched": "2026-03-30T17:59:29.318778+07:00"
+    },
+    {
+      "id": "58204757a33f80c0094af0e48f76e251",
+      "title": "Căn hộ hàng hiệu M Landmark Residences Đà Nẵng khẳng định chuẩn mực sống quốc tế",
+      "link": "https://thanhnien.vn/can-ho-hang-hieu-m-landmark-residences-da-nang-khang-dinh-chuan-muc-song-quoc-te-185260330173635249.htm",
+      "summary": "Sự xuất hiện của M Landmark Residences Đà Nẵng bổ sung cho thị trường BĐS những căn hộ tuyệt phẩm, nâng tầm thương hiệu đô thị Đà Nẵng, khẳng định vị thế Đà Nẵng trên hành trình vươn ra thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T10:31:00+07:00",
+      "fetched": "2026-03-30T17:59:29.318940+07:00"
+    },
+    {
+      "id": "bb275ca7c72d8426c66139628c0b7ebc",
+      "title": "Bà Cao Thị Hòa An tiếp tục giữ chức Chủ tịch HĐND tỉnh Đắk Lắk",
+      "link": "https://thanhnien.vn/ba-cao-thi-hoa-an-tiep-tuc-giu-chuc-chu-tich-hdnd-tinh-dak-lak-185260330162334653.htm",
+      "summary": "Tại kỳ họp thứ nhất HĐND tỉnh Đắk Lắk, bà Cao Thị Hòa An tiếp tục được bầu giữ chức Chủ tịch HĐND tỉnh Đắk Lắk nhiệm kỳ 2026 - 2031.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T10:27:00+07:00",
+      "fetched": "2026-03-30T17:59:29.319096+07:00"
+    },
+    {
+      "id": "b712db974751ec3806c9c4db7eff1244",
+      "title": "Nắng nóng nên tắm nước bao nhiêu độ là tốt nhất?",
+      "link": "https://thanhnien.vn/nang-nong-nen-tam-nuoc-bao-nhieu-do-la-tot-nhat-18526032918074647.htm",
+      "summary": "Sau khi đi ngoài trời nắng nóng về, nhiều người có thói quen tắm nước lạnh ngay để 'giải nhiệt'. Tuy nhiên, chuyên gia cảnh báo thói quen này có thể gây sốc, nguy hiểm cho cơ thể.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T10:14:00+07:00",
+      "fetched": "2026-03-30T17:59:29.319243+07:00"
+    },
+    {
+      "id": "c65e2d00cc675acf2790d284e8aa6694",
+      "title": "An Giang xây khu công nghiệp 4.800 tỷ đồng",
+      "link": "https://vnexpress.net/an-giang-xay-khu-cong-nghiep-4-800-ty-dong-5056461.html",
+      "summary": "Khu công nghiệp Vàm Cống rộng gần 200 ha, tổng vốn 4.800 tỷ đồng, định hướng trung tâm chế biến sâu và logistics giá trị cao, được khởi công chiều 30/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T10:13:10+07:00",
+      "fetched": "2026-03-30T17:59:26.338235+07:00"
+    },
+    {
+      "id": "c65e2d00cc675acf2790d284e8aa6694",
+      "title": "An Giang xây khu công nghiệp 4.800 tỷ đồng",
+      "link": "https://vnexpress.net/an-giang-xay-khu-cong-nghiep-4-800-ty-dong-5056461.html",
+      "summary": "Khu công nghiệp Vàm Cống rộng gần 200 ha, tổng vốn 4.800 tỷ đồng, định hướng trung tâm chế biến sâu và logistics giá trị cao, được khởi công chiều 30/3.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-30T10:13:10+07:00",
+      "fetched": "2026-03-30T17:59:32.351195+07:00"
+    },
+    {
+      "id": "3bcf99a1bccff21e53ae380a20125ce5",
+      "title": "Lập đoàn kiểm tra giá cước vận tải tại các địa phương",
+      "link": "https://vnexpress.net/lap-doan-kiem-tra-gia-cuoc-van-tai-tai-cac-dia-phuong-5056499.html",
+      "summary": "Bộ Xây dựng vừa thành lập đoàn công tác làm việc tại nhiều địa phương nhằm kiểm tra, giám sát công tác quản lý và bình ổn giá cước vận tải đường bộ trong bối cảnh giá nhiên liệu biến động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T10:09:25+07:00",
+      "fetched": "2026-03-30T17:59:26.338403+07:00"
+    },
+    {
+      "id": "5438b19f91dd36d35c2442b627c02d58",
+      "title": "Kịp thời xử lý tổ ong 'khủng' trong khu dân cư ở TP.HCM",
+      "link": "https://thanhnien.vn/kip-thoi-xu-ly-to-ong-khung-trong-khu-dan-cu-o-tphcm-185260330164354933.htm",
+      "summary": "Tổ ong kích thước lớn bất ngờ xuất hiện tại khu dân cư trên đường Võ Văn Kiệt (phường Tam Long, TP.HCM), tiềm ẩn nguy cơ gây nguy hiểm cho người dân, đã được lực lượng Cảnh sát PCCC và cứu nạn cứu hộ nhanh chóng tiếp cận, xử lý an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T10:08:00+07:00",
+      "fetched": "2026-03-30T17:59:29.319390+07:00"
+    },
+    {
+      "id": "49aacc62af099ee11d3f4e4424379e1f",
+      "title": "Ông Nguyễn Việt Hùng được bầu làm Chủ tịch UBND tỉnh Khánh Hòa",
+      "link": "https://thanhnien.vn/ong-nguyen-viet-hung-duoc-bau-lam-chu-tich-ubnd-tinh-khanh-hoa-185260330142722407.htm",
+      "summary": "Khánh Hòa đã bầu đầy đủ các chức danh lãnh đạo chủ chốt của HĐND và UBND tỉnh nhiệm kỳ 2026 - 2031 tại kỳ họp thứ nhất của HĐND tỉnh khóa VIII.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T10:08:00+07:00",
+      "fetched": "2026-03-30T17:59:29.319564+07:00"
+    },
+    {
+      "id": "2cc13e0cd41965326bbcd81b55bd1149",
+      "title": "Xổ số miền Nam ngày 30 tháng 3: Khách vừa trúng số 14 tờ đài Cà Mau",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-30-thang-3-khach-vua-trung-so-14-to-dai-ca-mau-185260330165945129.htm",
+      "summary": "Vừa xong kết quả xổ số miền Nam ngày 30 tháng 3, một đại lý vé số ở TP.HCM liền thông báo bán trúng và đổi thưởng cho khách có 14 tờ trúng số.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T10:05:00+07:00",
+      "fetched": "2026-03-30T17:59:29.319713+07:00"
+    },
+    {
+      "id": "2df8764389a7612e0bdb025e8e5eb09b",
+      "title": "Cold Plasma không tiêu hao chính thức hiện diện tại Dr.Hải Lê",
+      "link": "https://thanhnien.vn/cold-plasma-khong-tieu-hao-chinh-thuc-hien-dien-tai-drhai-le-185260330171257129.htm",
+      "summary": "Lễ ký kết và bàn giao công nghệ Cold Plasma giữa Plasma Gold và Bệnh viện Tạo hình Thẩm mỹ Dr.Hải Lê đánh dấu một bước tiến quan trọng trong việc ứng dụng công nghệ sinh học vào thực hành lâm sàng, hướng đến chuẩn hóa quy trình phục hồi và nâng cao hiệu quả điều trị trong thẩm mỹ hiện đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T10:03:00+07:00",
+      "fetched": "2026-03-30T17:59:29.319866+07:00"
+    },
+    {
+      "id": "0ac8fd9cd9b067f69f3cb6747dc9cd63",
+      "title": "Các nước giảm trừ chi phí y tế, giáo dục trước khi nộp thuế thế nào?",
+      "link": "https://thanhnien.vn/cac-nuoc-giam-tru-chi-phi-y-te-giao-duc-truoc-khi-nop-thue-the-nao-185260330151555213.htm",
+      "summary": "Nhiều nước đang giảm trừ chi phí y tế, giáo dục cho người nộp thuế khi tính thuế thu nhập cá nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T10:03:00+07:00",
+      "fetched": "2026-03-30T17:59:29.320033+07:00"
+    },
+    {
+      "id": "55543848ab340cc863910e1911af0584",
+      "title": "Điểm tin 17h: Mỹ nói Iran chấp thuận 'hầu hết' kế hoạch ngừng bắn 15 điểm | Ông Trump muốn Mỹ lấy dầu ở Iran",
+      "link": "https://vnexpress.net/diem-tin-17h-my-noi-iran-chap-thuan-hau-het-ke-hoach-ngung-ban-15-diem-ong-trump-muon-my-lay-dau-o-iran-5056510.html",
+      "summary": "Các trường Mỹ ở Trung Đông chuyển học trực tuyến sau tối hậu thư của Iran; Doanh nghiệp tăng công suất, chuẩn bị nguồn cung xăng E10;...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T10:00:00+07:00",
+      "fetched": "2026-03-30T17:59:26.338589+07:00"
+    },
+    {
+      "id": "cd28dc2832bfa6af428144bd35eba9ab",
+      "title": "Điểm nhấn hoạt động môtô thể thao của Honda Việt Nam",
+      "link": "https://vnexpress.net/diem-nhan-hoat-dong-moto-the-thao-cua-honda-viet-nam-5056412.html",
+      "summary": "Đội đua Honda Racing Vietnam giới thiệu ba tay đua, công bố kế hoạch phát triển môtô thể thao trong năm 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T10:00:00+07:00",
+      "fetched": "2026-03-30T17:59:26.338748+07:00"
+    },
+    {
+      "id": "246a374afb20d3c587701a16d789598d",
+      "title": "6 lỗi phổ biến khiến runner mới dễ 'đụng tường'",
+      "link": "https://vnexpress.net/6-loi-pho-bien-khien-runner-dung-tuong-khi-chay-bo-5056374.html",
+      "summary": "Runner kiêm HLV chạy bộ Trương Văn Tâm chỉ ra 6 sai lầm phổ biến khiến runner mới dễ hụt sức và bỏ cuộc giữa chừng trong ngày đua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T10:00:00+07:00",
+      "fetched": "2026-03-30T17:59:26.338902+07:00"
+    },
+    {
+      "id": "dc4349a49162a623bb05df97bcaf7310",
+      "title": "4 tháp căn hộ Sun Urban City được bán cho người nước ngoài",
+      "link": "https://vnexpress.net/4-thap-can-ho-sun-urban-city-duoc-ban-cho-nguoi-nuoc-ngoai-5056356.html",
+      "summary": "4 tháp cao tầng Park Residence thuộc phân khu Flora Avneue được phân bổ quỹ căn hộ để bán cho người nước ngoài, đón làn sóng dịch chuyển dịch cư dân về các khu vực đô thị vệ tinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T10:00:00+07:00",
+      "fetched": "2026-03-30T17:59:26.339064+07:00"
+    },
+    {
+      "id": "64c5a6a39cea7a7e6b6850ac0c92492a",
+      "title": "Bất thường nội tiết tố phụ nữ tuổi 40 không nên bỏ qua",
+      "link": "https://vnexpress.net/bat-thuong-noi-tiet-to-phu-nu-tuoi-40-khong-nen-bo-qua-5056119.html",
+      "summary": "Sự dao động của các hormone estrogen và progesterone ở phụ nữ tuổi 40 có thể dẫn đến tăng cân, mệt mỏi kéo dài, tóc mỏng và da khô.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T10:00:00+07:00",
+      "fetched": "2026-03-30T17:59:26.339217+07:00"
+    },
+    {
+      "id": "c95b94e6a10b17abb7c10097c9bd74a8",
+      "title": "3PL ký hợp tác logistics đa kênh với Good Good",
+      "link": "https://vnexpress.net/3pl-ky-hop-tac-logistics-da-kenh-voi-good-good-5055482.html",
+      "summary": "Thỏa thuận 3 năm giúp 3PL mở rộng dịch vụ fulfilment, hỗ trợ Good Good tăng trưởng đa kênh tại Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T10:00:00+07:00",
+      "fetched": "2026-03-30T17:59:26.339365+07:00"
+    },
+    {
+      "id": "ffcd55c4fa8f3a33f7a9545936f820ee",
+      "title": "Toàn cảnh 17h: Ô tô phun lửa đại náo đại lộ Đông-Tây | KFC bị tố bán gà mốc, 'cãi tay đôi' với khách",
+      "link": "https://thanhnien.vn/toan-canh-17h-o-to-phun-lua-dai-nao-dai-lo-dong-tay-kfc-bi-to-ban-ga-moc-cai-tay-doi-voi-khach-185260330155733854.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T10:00:00+07:00",
+      "fetched": "2026-03-30T17:59:29.320187+07:00"
+    },
+    {
+      "id": "47f9ce7a939a3b0a44ea9ae8de4961df",
+      "title": "Ra mắt ứng dụng ngân hàng số Vietbank Digital Plus",
+      "link": "https://vnexpress.net/ra-mat-ung-dung-ngan-hang-so-vietbank-digital-plus-5056501.html",
+      "summary": "Vietbank Digital Plus tích hợp chuyển khoản, thanh toán, theo dõi chi tiêu, cá nhân hóa giao diện, bảo mật nhiều lớp, giúp người dùng quản lý tài chính và giao dịch thuận tiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T09:45:00+07:00",
+      "fetched": "2026-03-30T17:59:26.339550+07:00"
+    },
+    {
+      "id": "86cbc73cfc8d886d0479bf0cd4aafd92",
+      "title": "Nạp dinh dưỡng sau khi chạy bộ bằng đặc sản Cần Giờ",
+      "link": "https://vnexpress.net/nap-dinh-duong-sau-khi-chay-bo-bang-dac-san-can-gio-5055011.html",
+      "summary": "Dừa nước, xoài cát, hàu, tôm tít và ốc len mang đậm hương vị vùng cửa biển, phù hợp để runner nạp năng lượng sau khi hoàn thành cuộc đua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T09:45:00+07:00",
+      "fetched": "2026-03-30T17:59:26.339713+07:00"
+    },
+    {
+      "id": "bb1a95c832c30ccfb5711d21a4e92285",
+      "title": "Giá smartphone cao cấp đang tăng thế nào tại Việt Nam",
+      "link": "https://vnexpress.net/gia-smartphone-cao-cap-dang-tang-the-nao-tai-viet-nam-5056430.html",
+      "summary": "Các smartphone cao cấp mới ra mắt của Samsung, Xiaomi, Oppo và Vivo đều tăng giá từ 9% đến 44% so với thế hệ tiền nhiệm cách đó một năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T09:37:04+07:00",
+      "fetched": "2026-03-30T17:59:26.339882+07:00"
+    },
+    {
+      "id": "bb1a95c832c30ccfb5711d21a4e92285",
+      "title": "Giá smartphone cao cấp đang tăng thế nào tại Việt Nam",
+      "link": "https://vnexpress.net/gia-smartphone-cao-cap-dang-tang-the-nao-tai-viet-nam-5056430.html",
+      "summary": "Các smartphone cao cấp mới ra mắt của Samsung, Xiaomi, Oppo và Vivo đều tăng giá từ 9% đến 44% so với thế hệ tiền nhiệm cách đó một năm.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-30T09:37:04+07:00",
+      "fetched": "2026-03-30T17:59:34.929188+07:00"
+    },
+    {
+      "id": "f9ec3545a104621a9de282bba2872315",
+      "title": "F88 đặt mục tiêu lãi kỷ lục hơn 1.100 tỷ đồng",
+      "link": "https://vnexpress.net/f88-dat-muc-tieu-lai-ky-luc-hon-1-100-ty-dong-5056449.html",
+      "summary": "F88 đặt kế hoạch lợi nhuận trước thuế hợp nhất năm nay khoảng 1.133 tỷ đồng, tăng khoảng 25% so với năm 2025 - mức cao nhất từ trước tới nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T09:36:10+07:00",
+      "fetched": "2026-03-30T17:59:26.340049+07:00"
+    },
+    {
+      "id": "f9ec3545a104621a9de282bba2872315",
+      "title": "F88 đặt mục tiêu lãi kỷ lục hơn 1.100 tỷ đồng",
+      "link": "https://vnexpress.net/f88-dat-muc-tieu-lai-ky-luc-hon-1-100-ty-dong-5056449.html",
+      "summary": "F88 đặt kế hoạch lợi nhuận trước thuế hợp nhất năm nay khoảng 1.133 tỷ đồng, tăng khoảng 25% so với năm 2025 - mức cao nhất từ trước tới nay.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-30T09:36:10+07:00",
+      "fetched": "2026-03-30T17:59:32.351399+07:00"
+    },
+    {
+      "id": "5387dddced88319330c467bd1b617954",
+      "title": "Iran xác nhận tướng phụ trách phong tỏa Hormuz đã thiệt mạng",
+      "link": "https://vnexpress.net/iran-xac-nhan-tuong-phu-trach-phong-toa-hormuz-da-thiet-mang-5056474.html",
+      "summary": "Iran xác nhận chuẩn đô đốc Tangsiri, tư lệnh hải quân Vệ binh Cách mạng Hồi giáo và là người phụ trách phong tỏa eo biển Hormuz, đã thiệt mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T09:33:20+07:00",
+      "fetched": "2026-03-30T17:59:26.340199+07:00"
+    },
+    {
+      "id": "5387dddced88319330c467bd1b617954",
+      "title": "Iran xác nhận tướng phụ trách phong tỏa Hormuz đã thiệt mạng",
+      "link": "https://vnexpress.net/iran-xac-nhan-tuong-phu-trach-phong-toa-hormuz-da-thiet-mang-5056474.html",
+      "summary": "Iran xác nhận chuẩn đô đốc Tangsiri, tư lệnh hải quân Vệ binh Cách mạng Hồi giáo và là người phụ trách phong tỏa eo biển Hormuz, đã thiệt mạng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-30T09:33:20+07:00",
+      "fetched": "2026-03-30T17:59:31.332706+07:00"
+    },
+    {
+      "id": "b0061c83a573935b199851e134900891",
+      "title": "Công ty con của Gelex huy động thành công khoản vay hợp vốn 200 triệu USD",
+      "link": "https://vnexpress.net/cong-ty-con-cua-gelex-huy-dong-thanh-cong-khoan-vay-hop-von-200-trieu-usd-5056480.html",
+      "summary": "Hạ tầng Gelex huy động thành công khoản vay hợp vốn trị giá 200 triệu USD từ ngân hàng HSBC và 19 tổ chức tài chính quốc tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-30T09:30:00+07:00",
+      "fetched": "2026-03-30T17:59:26.340356+07:00"
+    },
+    {
+      "id": "b0061c83a573935b199851e134900891",
+      "title": "Công ty con của Gelex huy động thành công khoản vay hợp vốn 200 triệu USD",
+      "link": "https://vnexpress.net/cong-ty-con-cua-gelex-huy-dong-thanh-cong-khoan-vay-hop-von-200-trieu-usd-5056480.html",
+      "summary": "Hạ tầng Gelex huy động thành công khoản vay hợp vốn trị giá 200 triệu USD từ ngân hàng HSBC và 19 tổ chức tài chính quốc tế.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-30T09:30:00+07:00",
+      "fetched": "2026-03-30T17:59:32.353402+07:00"
     },
     {
       "id": "c378e14aedb327ae77c20dedf17708ba",
