@@ -1,7 +1,17 @@
 window.newsData_2026_03_31 = {
   "date": "2026-03-31",
-  "lastUpdated": "2026-03-31T12:42:39.550611+07:00",
+  "lastUpdated": "2026-03-31T14:09:11.024910+07:00",
   "articles": [
+    {
+      "id": "a837747b95b28681df49f423f6db12c3",
+      "title": "BYD sắp tung thêm 4 mẫu xe điện và hybrid ở Việt Nam",
+      "link": "https://tuoitre.vn/byd-sap-tung-them-4-mau-xe-dien-va-hybrid-o-viet-nam-20260331101131327.htm",
+      "summary": "BYD Việt Nam dự kiến ra mắt thêm ít nhất 4 mẫu ô tô mới, đồng thời nâng tổng số đại lý lên hơn 40 điểm trong năm nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T14:09:03.701694+07:00",
+      "fetched": "2026-03-31T14:09:03.701907+07:00"
+    },
     {
       "id": "a247490bb770d7efc9b0b98fb71006e8",
       "title": "Đừng tận hưởng kỳ nghỉ dài ngày 30-4, 1-5 theo lối cũ nữa, đây là những cách 'tuyệt cú mèo'!",
@@ -303,6 +313,246 @@ window.newsData_2026_03_31 = {
       "fetched": "2026-03-31T09:06:06.506028+07:00"
     },
     {
+      "id": "4d3d9355198213fb4090a96d059f79f6",
+      "title": "Mặt đỏ bừng có phải là dấu hiệu tăng huyết áp?",
+      "link": "https://thanhnien.vn/mat-do-bung-co-phai-la-dau-hieu-tang-huyet-ap-185260331140612911.htm",
+      "summary": "Nhiều người khi thấy mặt đỏ, nóng ran thường lo lắng đây là dấu hiệu của tăng huyết áp. Tuy nhiên, các chuyên gia cho rằng mặt đỏ bừng không phải dấu hiệu đặc trưng của bệnh này và dễ gây hiểu nhầm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T07:06:00+07:00",
+      "fetched": "2026-03-31T14:09:02.636009+07:00"
+    },
+    {
+      "id": "9c11c55ac36e19c9d2e14103c7f62423",
+      "title": "'Cú sốc kép' với du lịch, hàng không và các công trình hạ tầng APEC 2027",
+      "link": "https://thanhnien.vn/cu-soc-kep-tu-chien-su-trung-dong-voi-du-lich-hang-khong-ha-tang-apec-185260331111117268.htm",
+      "summary": "Tại Tọa đàm 'Hàng không, du lịch ứng phó với bão xăng dầu; do Báo Thanh Niên tổ chức sáng 31.3, bà Trần Nguyện - Phó tổng giám đốc Khối Giải trí - Nghỉ dưỡng, Tập đoàn Sun Group - cho rằng: 'Bão giá xăng dầu là cú sốc kép nằm ngoài kịch bản kinh doanh dự kiến của doanh nghiệp'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T07:02:00+07:00",
+      "fetched": "2026-03-31T14:09:02.636165+07:00"
+    },
+    {
+      "id": "5700e70545e91ccb62c6456838fd0742",
+      "title": "Vì sao nhiều ngành kỹ thuật xét tuyển bắt buộc môn toán?",
+      "link": "https://thanhnien.vn/vi-sao-nhieu-nganh-ky-thuat-xet-tuyen-bat-buoc-mon-toan-185260330161004574.htm",
+      "summary": "Xung quanh sự thay đổi trong lựa chọn môn thi tốt nghiệp THPT gắn với các tổ hợp xét tuyển khối ngành kỹ thuật, chuyên gia các trường ĐH lý giải vì sao có những ngành đào tạo tuyển sinh bắt buộc môn toán.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T07:02:00+07:00",
+      "fetched": "2026-03-31T14:09:02.636310+07:00"
+    },
+    {
+      "id": "16b5ee54717c612fd1efd1afabd3037a",
+      "title": "5 mẫu SUV giữ giá tốt nhất sau 5 năm sử dụng: Xe Nhật dẫn đầu",
+      "link": "https://thanhnien.vn/5-mau-suv-giu-gia-tot-nhat-sau-5-nam-su-dung-xe-nhat-dan-dau-185260328162114309.htm",
+      "summary": "Các mẫu ô tô Nhật Bản thống trị danh sách 5 mẫu SUV giữ giá tốt nhất sau 5 năm sử dụng theo kết quả khảo sát, phân tích vừa được iSeeCars công bố, trong đó Toyota có một mẫu xe dẫn đầu, bên cạnh các mẫu mã vốn hút khách của Honda, Subaru.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T07:02:00+07:00",
+      "fetched": "2026-03-31T14:09:02.636470+07:00"
+    },
+    {
+      "id": "837ad7ed3d6317615445856ffe1334c1",
+      "title": "TƯ VẤN TRỰC TUYẾN: Cơ hội khi chọn học ngành kỹ thuật",
+      "link": "https://thanhnien.vn/tu-van-truc-tuyen-co-hoi-khi-chon-hoc-nganh-ky-thuat-185260330130709425.htm",
+      "summary": "Ngày 31.3.2026, Báo Thanh Niên tổ chức chương trình tư vấn truyền hình trực tuyến với chủ đề: “Chọn ngành học cho tương lai - Cơ hội khi chọn học ngành kỹ thuật\". Chương trình được trực tuyến tại địa chỉ: thanhnien.vn, fanpage Facebook, kênh YouTube, TikTok Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T07:00:00+07:00",
+      "fetched": "2026-03-31T14:09:02.636618+07:00"
+    },
+    {
+      "id": "62887e3d5ae674bd55382922f1037caf",
+      "title": "Trang phục đính khuy tinh tế, điểm nhấn nhỏ làm nên sức hút lớn",
+      "link": "https://thanhnien.vn/thoi-trang-tre/trang-phuc-dinh-khuy-tinh-te-diem-nhan-nho-lam-nen-suc-hut-lon-185260329102357752.htm",
+      "summary": "Những chiếc váy, áo sẽ không còn nhàm chán khi xuất hiện chi tiết như khuy cài được thiết kế khác nhau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T07:00:00+07:00",
+      "fetched": "2026-03-31T14:09:02.636757+07:00"
+    },
+    {
+      "id": "a4efd522e6982197c42e747306e9eb42",
+      "title": "Uống thuốc tránh thai khẩn cấp vẫn mang thai ngoài tử cung ở vị trí cực hiếm",
+      "link": "https://thanhnien.vn/uong-thuoc-tranh-thai-khan-cap-van-mang-thai-ngoai-tu-cung-o-vi-tri-cuc-hiem-185260331131258716.htm",
+      "summary": "Dù đã uống thuốc tránh thai khẩn cấp, nhưng một người 36 tuổi vẫn mang thai ngoài tử cung ở vị trí cực hiếm, đe dọa tính mạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T06:56:00+07:00",
+      "fetched": "2026-03-31T14:09:02.636899+07:00"
+    },
+    {
+      "id": "4c9ad33cba9bb3f2a394e3e94486517e",
+      "title": "28 ý tưởng công nghệ Việt tranh giải thưởng 255.000 USD",
+      "link": "https://thanhnien.vn/28-y-tuong-cong-nghe-viet-tranh-giai-thuong-255000-usd-185260330232947594.htm",
+      "summary": "Thử thách đổi mới sáng tạo Qualcomm Việt Nam 2026 (QVIC) năm nay chọn ra 28 ý tưởng về công nghệ cao, trải dài từ AI đến robotic, phân tích dữ liệu để phát triển đề án trong giai đoạn ươm tạo kéo dài 3 tháng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T06:56:00+07:00",
+      "fetched": "2026-03-31T14:09:02.637038+07:00"
+    },
+    {
+      "id": "0c18b369414c62ae0aa1798488898625",
+      "title": "Nữ sinh trường chuyên Lam Sơn giành học bổng Mỹ trị giá 10,8 tỉ đồng",
+      "link": "https://thanhnien.vn/nu-sinh-truong-chuyen-lam-son-gianh-hoc-bong-my-tri-gia-108-ti-dong-185260331100252038.htm",
+      "summary": "Lê Thu Hà, học sinh lớp 12 Trường THPT chuyên Lam Sơn (Thanh Hóa) mong muốn học lên tiến sĩ sau khi hoàn thành chương trình học bổng trị giá 10.8 tỉ đồng của Đại học Wesleyan (Mỹ) mà em vừa giành được.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T06:54:00+07:00",
+      "fetched": "2026-03-31T14:09:02.637190+07:00"
+    },
+    {
+      "id": "0c0fba53072bd788b1ffdcdc65aa5ef4",
+      "title": "Samsung Galaxy đời cũ chính thức 'bắn' được AirDrop sang iPhone",
+      "link": "https://thanhnien.vn/samsung-galaxy-doi-cu-chinh-thuc-ban-duoc-airdrop-sang-iphone-185260331111325329.htm",
+      "summary": "Thời kỳ 'ngăn sông cấm chợ' đã kết thúc khi các thiết bị Galaxy đời cũ chính thức hỗ trợ AirDrop.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T06:49:00+07:00",
+      "fetched": "2026-03-31T14:09:02.637340+07:00"
+    },
+    {
+      "id": "049b257974733612c6abc46ff098be2a",
+      "title": "Thế giới biến động, sự ổn định là lợi thế của du lịch Việt Nam",
+      "link": "https://thanhnien.vn/the-gioi-bien-dong-su-on-dinh-la-loi-the-cua-du-lich-viet-nam-185260331110901457.htm",
+      "summary": "Tại Tọa đàm \"Hàng không, du lịch ứng phó với bão xăng dầu\" do Báo Thanh Niên tổ chức sáng nay 31.3, đại diện Vinpearl, đơn vị sở hữu hệ thống lưu trú lớn nhất Việt Nam thấy một cách tiếp cận hoàn toàn khác biệt: Lấy ổn định là lợi thế để thu hút khách quốc tế đến Việt Nam, bên cạnh việc giữ giá tron...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T06:44:00+07:00",
+      "fetched": "2026-03-31T14:09:02.637520+07:00"
+    },
+    {
+      "id": "86f036a11d29157d8c30fe5f30811e8c",
+      "title": "Tàu dầu cháy sau khi bị tấn công tại cảng Dubai",
+      "link": "https://thanhnien.vn/tau-dau-chay-sau-khi-bi-tan-cong-tai-cang-dubai-185260331120825728.htm",
+      "summary": "Một tàu chở dầu của Kuwait đã bị tấn công tại khu neo đậu ở cảng Dubai ngày 30.3, gây cháy, hư hại thân tàu và gây nguy cơ tràn dầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T06:27:00+07:00",
+      "fetched": "2026-03-31T14:09:02.637672+07:00"
+    },
+    {
+      "id": "b6ac73ee5389a0b4f23715a64c229cf9",
+      "title": "Hà Nội có thêm khách sạn 5 sao tại trung tâm Hoàn Kiếm",
+      "link": "https://thanhnien.vn/ha-noi-co-them-khach-san-5-sao-tai-trung-tam-hoan-kiem-185260331130020118.htm",
+      "summary": "Ngày 30.3, khách sạn Fairmont Hà Nội chính thức khai trương, đánh dấu thời điểm thương hiệu Fairmont Hotels & Resorts lần đầu tiên có mặt tại Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T06:26:00+07:00",
+      "fetched": "2026-03-31T14:09:02.637836+07:00"
+    },
+    {
+      "id": "19e76d49620f03c2e0b1c22ccdf98ca2",
+      "title": "Từ ngày mai, nếu gặp cảnh vượt đèn đỏ, lạng lách... có thể phản ánh lên VNeID",
+      "link": "https://thanhnien.vn/tu-ngay-mai-neu-gap-canh-vuot-den-do-lang-lach-co-the-phan-anh-len-vneid-185260331120750696.htm",
+      "summary": "Từ ngày mai (1.4), nếu bắt gặp hành vi lạng lách, chạy xe ngược chiều, vượt đèn đỏ... thì người dân phản có thể ánh lên VNeID để cơ quan chức năng xác minh, xử phạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T06:22:00+07:00",
+      "fetched": "2026-03-31T14:09:02.637984+07:00"
+    },
+    {
+      "id": "41202779123adc20995d0c69ae666d37",
+      "title": "Lisa (BlackPink) đón 'tin vui' mừng sinh nhật tuổi 29",
+      "link": "https://thanhnien.vn/lisa-blackpink-don-tin-vui-mung-sinh-nhat-tuoi-29-185260331124934355.htm",
+      "summary": "Chạm ngưỡng 29 tuổi, 'em út BlackPink' gây bão mạng xã hội trong bộ ảnh đón tuổi mới. Bên cạnh đó, nữ rapper đã trở thành nghệ sĩ Kpop đầu tiên sở hữu show diễn cố định tại The Colosseum ở Caesars Palace (Las Vegas, Mỹ).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T06:18:00+07:00",
+      "fetched": "2026-03-31T14:09:02.638130+07:00"
+    },
+    {
+      "id": "8f7973c6dd9249c77b684cc4dc6899ad",
+      "title": "Di chuyển một que diêm giúp phép tính '6 + 2 = 1' thành đúng",
+      "link": "https://vnexpress.net/di-chuyen-mot-que-diem-giup-phep-tinh-6-2-1-thanh-dung-5054174.html",
+      "summary": "Cùng thử xem bạn có thể tìm ra \"nước đi thiên tài\" đó trong vòng 10 giây để chứng tỏ đẳng cấp \"cao thủ\" của mình không nhé!",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T06:15:00+07:00",
+      "fetched": "2026-03-31T14:08:59.492469+07:00"
+    },
+    {
+      "id": "28342acde3f8d2104fc981ba4cca8237",
+      "title": "Giáo sư bị cả trường tấn công vì tỏ tình với học trò 19 tuổi",
+      "link": "https://vnexpress.net/giao-su-bi-ca-truong-tan-cong-vi-to-tinh-voi-hoc-tro-19-tuoi-5056200.html",
+      "summary": "Một giáo sư 50 tuổi bị sinh viên liên tiếp tấn công và gây ra một cuộc tranh cãi gay gắt sau khi tỏ tình với một học trò trên giảng đường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T06:14:23+07:00",
+      "fetched": "2026-03-31T14:08:59.492659+07:00"
+    },
+    {
+      "id": "d91fa9c07da7f0aea19e15794fbdef10",
+      "title": "Việt Nam – Malaysia: Cuộc đấu vì danh dự",
+      "link": "https://vnexpress.net/viet-nam-malaysia-cuoc-dau-vi-danh-du-5056750.html",
+      "summary": "Cuộc so tài tối nay là cơ hội để Việt Nam và Malaysia kiểm chứng sức mạnh của bản thân, sau sự cố gian lận nhập tịch ở vòng loại cuối Asian Cup 2027.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T06:00:44+07:00",
+      "fetched": "2026-03-31T14:08:59.492825+07:00"
+    },
+    {
+      "id": "d91fa9c07da7f0aea19e15794fbdef10",
+      "title": "Việt Nam – Malaysia: Cuộc đấu vì danh dự",
+      "link": "https://vnexpress.net/viet-nam-malaysia-cuoc-dau-vi-danh-du-5056750.html",
+      "summary": "Cuộc so tài tối nay là cơ hội để Việt Nam và Malaysia kiểm chứng sức mạnh của bản thân, sau sự cố gian lận nhập tịch ở vòng loại cuối Asian Cup 2027.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-31T06:00:44+07:00",
+      "fetched": "2026-03-31T14:09:11.016964+07:00"
+    },
+    {
+      "id": "ba9808afb4a99009678b08e3caaf141b",
+      "title": "'Ống hút tre, ống hút giấy chết yểu ở nhiều quán cà phê'",
+      "link": "https://vnexpress.net/ong-hut-tre-ong-hut-giay-chet-yeu-o-nhieu-quan-ca-phe-5056707.html",
+      "summary": "Lúc phong trào dùng ống hút giấy, ống hút cỏ nhen nhóm, ông bạn bán quán cà phê của tôi nói: 'Thoái trào là chuyện sớm muộn'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T06:00:00+07:00",
+      "fetched": "2026-03-31T14:08:59.492986+07:00"
+    },
+    {
+      "id": "7c0d0b7395be31d7016a8a02552a67d6",
+      "title": "Vì sao nên điều trị mụn dứt điểm trước khi mang thai?",
+      "link": "https://vnexpress.net/vi-sao-nen-dieu-tri-mun-dut-diem-truoc-khi-mang-thai-5056730.html",
+      "summary": "Tôi có nhiều mụn trứng cá, mới kết hôn và dự định sinh con. Vì sao khi tư vấn điều trị, bác sĩ thường hỏi về kế hoạch sinh con và khuyên nên điều trị mụn ổn định trước khi mang thai? (Hương Nguyên, tỉnh Ninh Bình)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T06:00:00+07:00",
+      "fetched": "2026-03-31T14:08:59.493144+07:00"
+    },
+    {
+      "id": "669300a92b2289447fbaa887697e5bc9",
+      "title": "Vì sao trẻ mắc tay chân miệng do EV71 trở nặng nhanh?",
+      "link": "https://vnexpress.net/vi-sao-tre-mac-tay-chan-mieng-do-ev71-tro-nang-nhanh-5056724.html",
+      "summary": "Con tôi mắc tay chân miệng nặng, bác sĩ chẩn đoán do nhiễm chủng Enterovirus 71 (EV71). Vì sao bệnh diễn tiến nặng nhanh? (Huế Anh, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T06:00:00+07:00",
+      "fetched": "2026-03-31T14:08:59.493300+07:00"
+    },
+    {
+      "id": "0fb3bb996293dac82a5ffa421145ac07",
+      "title": "Quang Dương làm đại sứ thương hiệu Titan Sport",
+      "link": "https://vnexpress.net/quang-duong-lam-dai-su-thuong-hieu-titan-sport-5056314.html",
+      "summary": "Titan Sport công bố VĐV pickleball Quang Dương làm đại sứ thương hiệu, đồng hành phát triển giải pháp dinh dưỡng và phục hồi cho thể thao chuyên nghiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T06:00:00+07:00",
+      "fetched": "2026-03-31T14:08:59.493486+07:00"
+    },
+    {
+      "id": "be9f62b86f64c46e3bcef1e5868b2f5f",
+      "title": "Giao thông ùn tắc khi cầu Long Biên cấm đường sửa chữa",
+      "link": "https://vnexpress.net/giao-thong-un-tac-khi-cau-long-bien-cam-duong-sua-chua-5056728.html",
+      "summary": "Giờ cao điểm, dòng phương tiện kéo dài hơn hai km qua cầu Chương Dương, sau khi cầu Long Biên tạm cấm để sửa chữa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T05:39:38+07:00",
+      "fetched": "2026-03-31T14:08:59.493647+07:00"
+    },
+    {
       "id": "191ed3a970e4bdd4c583b6eb7d6d2e33",
       "title": "Ông Mai Hữu Quyết làm Chủ tịch HĐND phường Thủ Đức",
       "link": "https://thanhnien.vn/ong-mai-huu-quyet-lam-chu-tich-hdnd-phuong-thu-duc-185260331122707939.htm",
@@ -321,6 +571,16 @@ window.newsData_2026_03_31 = {
       "category": "Tổng hợp",
       "published": "2026-03-31T05:35:00+07:00",
       "fetched": "2026-03-31T12:42:31.070390+07:00"
+    },
+    {
+      "id": "381ab1a2d9bc83d9b53edb7202af1327",
+      "title": "40 người bị bắt vì chơi 'câu cá trao thưởng'",
+      "link": "https://vnexpress.net/40-nguoi-bi-bat-vi-choi-cau-ca-trao-thuong-5056712.html",
+      "summary": "Đinh Bộ Lĩnh, 31 tuổi, bị cáo buộc tổ chức đánh bạc dưới hình thức \"câu cá trao thưởng\", thu mỗi người chơi 2,5 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T05:32:24+07:00",
+      "fetched": "2026-03-31T14:08:59.493805+07:00"
     },
     {
       "id": "0d8e1c1b3de04c151861d9932f400fec",
@@ -343,6 +603,16 @@ window.newsData_2026_03_31 = {
       "fetched": "2026-03-31T12:42:31.070704+07:00"
     },
     {
+      "id": "f0f0fe60c0ce5fb8f2f32715e0e75f2a",
+      "title": "Phong cách đời thường của Hoa hậu Phương Oanh",
+      "link": "https://vnexpress.net/phong-cach-doi-thuong-cua-hoa-hau-phuong-oanh-5056382.html",
+      "summary": "Tân Miss World Vietnam Phan Phương Oanh thích diện trang phục năng động khi đi du lịch, chơi golf, leo núi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T05:15:50+07:00",
+      "fetched": "2026-03-31T14:08:59.493959+07:00"
+    },
+    {
       "id": "b78c86a73a60565568138bcd28a1a948",
       "title": "Bố dặn con rể trong đám cưới: 'Đừng lấy chân đá bình rượu mơ'",
       "link": "https://thanhnien.vn/bo-dan-con-re-trong-dam-cuoi-dung-lay-chan-da-binh-ruou-mo-185260330160103371.htm",
@@ -361,6 +631,46 @@ window.newsData_2026_03_31 = {
       "category": "Tổng hợp",
       "published": "2026-03-31T05:00:00+07:00",
       "fetched": "2026-03-31T12:42:31.071007+07:00"
+    },
+    {
+      "id": "a3062da97487ee54f72648767c7c7361",
+      "title": "Mẹ chồng nhờ chúng tôi vay hộ 300 triệu đồng để sửa nhà",
+      "link": "https://vnexpress.net/vay-ngan-hang-me-chong-nho-chung-toi-vay-ho-300-trieu-dong-de-sua-nha-5056577.html",
+      "summary": "Hai vợ chồng vẫn đang thuê trọ, con còn nhỏ, nếu phát sinh thêm khoản vay dài hạn thì chi tiêu sẽ rất chặt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T05:00:00+07:00",
+      "fetched": "2026-03-31T14:08:59.494117+07:00"
+    },
+    {
+      "id": "30231cadba6c49151aa9f9e35f19e971",
+      "title": "Cách đô thị thế giới quy hoạch hòa hợp với thiên nhiên",
+      "link": "https://vnexpress.net/cach-do-thi-the-gioi-quy-hoach-hoa-hop-voi-thien-nhien-5056650.html",
+      "summary": "Nhiều đô thị trên thế giới tìm cách bảo tồn, tăng diện tích mảng xanh để nâng chất lượng sống đô thị, đặt ra hướng tiếp cận tương tự tại Việt Nam để phát triển bền vững.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T05:00:00+07:00",
+      "fetched": "2026-03-31T14:08:59.494273+07:00"
+    },
+    {
+      "id": "8db4ac6a070039947523603fa6d26e19",
+      "title": "Sông nước miền Tây 'chuyển động' trên áo đấu VM Cần Thơ 2026",
+      "link": "https://vnexpress.net/ao-dau-vnexpress-marathon-can-tho-2026-goi-dong-chay-song-nuoc-mien-tay-5056627.html",
+      "summary": "Áo đấu VnExpress Marathon Cần Thơ 2026 sử dụng các dải màu uốn lượn, gam xanh chuyển sắc, tái hiện vẻ đẹp của sông nước miền Tây Nam Bộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T05:00:00+07:00",
+      "fetched": "2026-03-31T14:08:59.494424+07:00"
+    },
+    {
+      "id": "9ac56c7519fe6a5a2dc9ee3946f65837",
+      "title": "28 dự án được thí điểm làm nhà ở thương mại",
+      "link": "https://vnexpress.net/28-du-an-duoc-thi-diem-lam-nha-o-thuong-mai-5056380.html",
+      "summary": "28 dự án vừa được cho thí điểm làm nhà ở thương mại theo danh sách HĐND Thành phố đã thông qua trước đó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T04:59:42+07:00",
+      "fetched": "2026-03-31T14:08:59.494606+07:00"
     },
     {
       "id": "4a58897f5ae5fc65aa1c9b47a641f921",
@@ -451,6 +761,16 @@ window.newsData_2026_03_31 = {
       "category": "Tổng hợp",
       "published": "2026-03-31T04:45:00+07:00",
       "fetched": "2026-03-31T12:42:31.072454+07:00"
+    },
+    {
+      "id": "9a6e097a5a19c6cecd766f3866b88574",
+      "title": "Vợ chồng sao 'Mặt trăng ôm mặt trời' nghỉ dưỡng Hà Nội",
+      "link": "https://vnexpress.net/vo-chong-sao-mat-trang-om-mat-troi-nghi-duong-ha-noi-5056691.html",
+      "summary": "Nam Bora - sao Hàn đóng \"Mặt trăng ôm mặt trời\" - cùng chồng doanh nhân thăm Lăng Bác, thưởng thức phở, cà phê trong lần đầu đến Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T04:43:37+07:00",
+      "fetched": "2026-03-31T14:08:59.494764+07:00"
     },
     {
       "id": "8b2c9e8e33d96ba78ac831e1379c7e8b",
