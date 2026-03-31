@@ -1,7 +1,157 @@
 window.newsData_2026_03_31 = {
   "date": "2026-03-31",
-  "lastUpdated": "2026-03-31T17:50:41.542885+07:00",
+  "lastUpdated": "2026-03-31T20:12:24.110159+07:00",
   "articles": [
+    {
+      "id": "a672e0fde5e417a6ac905dbd8974a484",
+      "title": "Hối lộ chạy trường mẫu giáo, 13 phụ huynh Hong Kong lãnh án tù",
+      "link": "https://tuoitre.vn/hoi-lo-chay-truong-mau-giao-13-phu-huynh-hong-kong-lanh-an-tu-20260331173215011.htm",
+      "summary": "13 phụ huynh và một trung gian bị tuyên án tù vì hối lộ nhân viên tuyển sinh, tước cơ hội công bằng của trẻ khác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T20:12:15.778138+07:00",
+      "fetched": "2026-03-31T20:12:15.778233+07:00"
+    },
+    {
+      "id": "112fc29658fd36237831794505b20da1",
+      "title": "Đăng nhập sàn việc làm quốc gia bằng VNeID: Lừa đảo tuyển dụng đến hồi kết",
+      "link": "https://tuoitre.vn/dang-nhap-san-viec-lam-quoc-gia-bang-vneid-lua-dao-tuyen-dung-den-hoi-ket-20260331174953629.htm",
+      "summary": "Sàn giao dịch việc làm quốc gia trực tuyến giúp người lao động tìm việc, ứng tuyển, phỏng vấn và tiếp cận chính sách thất nghiệp trên một hệ thống, liên thông cả 34 tỉnh, thành phố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T20:12:15.778033+07:00",
+      "fetched": "2026-03-31T20:12:15.778129+07:00"
+    },
+    {
+      "id": "c3d6f0c46a3b12bf310bbbd358615f76",
+      "title": "TP.HCM rà soát kiến nghị bổ sung gần 19.000 phòng học đến năm 2030",
+      "link": "https://tuoitre.vn/tp-hcm-ra-soat-kien-nghi-bo-sung-gan-19-000-phong-hoc-den-nam-2030-20260331183955699.htm",
+      "summary": "UBND TP.HCM giao các sở ngành nghiên cứu kiến nghị của Ban Văn hóa - Xã hội HĐND TP.HCM sau khảo sát cơ sở vật chất trường lớp, cần đầu tư thêm gần 19.000 phòng học đến năm 2030.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T20:12:15.777928+07:00",
+      "fetched": "2026-03-31T20:12:15.778024+07:00"
+    },
+    {
+      "id": "3036effeff72d101ea9bdd4a133884b7",
+      "title": "Vệ tinh Starlink của SpaceX phát nổ trên quỹ đạo, tạo hàng chục mảnh vỡ",
+      "link": "https://tuoitre.vn/ve-tinh-starlink-cua-spacex-phat-no-tren-quy-dao-tao-hang-chuc-manh-vo-20260331183049105.htm",
+      "summary": "Vệ tinh Starlink-34343 gặp sự cố ở quỹ đạo 560km, phát nổ thành nhiều mảnh. SpaceX khẳng định sự cố không gây nguy hiểm cho Trạm Vũ trụ quốc tế ISS.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T20:12:15.777822+07:00",
+      "fetched": "2026-03-31T20:12:15.777919+07:00"
+    },
+    {
+      "id": "f3305b4325d2f7ccfa00435bb7f2578e",
+      "title": "Các nước vùng Vịnh muốn ông Trump kéo dài chiến sự Iran, nói Tehran vẫn chưa suy yếu",
+      "link": "https://tuoitre.vn/cac-nuoc-vung-vinh-muon-ong-trump-keo-dai-chien-su-iran-noi-tehran-van-chua-suy-yeu-20260331184125305.htm",
+      "summary": "Các đồng minh chủ chốt của Mỹ tại vùng Vịnh được cho là đang gia tăng sức ép lên ông Trump nhằm kéo dài chiến sự chống Iran.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T20:12:15.777707+07:00",
+      "fetched": "2026-03-31T20:12:15.777804+07:00"
+    },
+    {
+      "id": "f719e88e4b9143006942414c9b811a23",
+      "title": "Dùng thủ đoạn vay đáo hạn ngân hàng, lừa đảo hơn 13 tỉ đồng",
+      "link": "https://tuoitre.vn/dung-thu-doan-vay-dao-han-ngan-hang-lua-dao-hon-13-ti-dong-20260331185434245.htm",
+      "summary": "Ngày 31-3, Cơ quan an ninh điều tra Công an TP Cần Thơ vừa có quyết định khởi tố vụ án, khởi tố bị can và thực hiện lệnh bắt tạm giam đối với một nghi phạm để điều tra về hành vi “lừa đảo chiếm đoạt tài sản”, với số tiền hơn 13 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T20:12:15.777602+07:00",
+      "fetched": "2026-03-31T20:12:15.777698+07:00"
+    },
+    {
+      "id": "f501fd2739deee1d7a267302de43606b",
+      "title": "Hà Nội rà soát bếp ăn bán trú sau lo ngại thịt heo bệnh",
+      "link": "https://tuoitre.vn/ha-noi-ra-soat-bep-an-ban-tru-sau-lo-ngai-thit-heo-benh-20260331180017677.htm",
+      "summary": "Hà Nội yêu cầu các trường rà soát, niêm yết công khai nguồn thực phẩm bếp ăn bán trú sau vụ 3.600 con heo mắc dịch tả châu Phi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T20:12:15.777494+07:00",
+      "fetched": "2026-03-31T20:12:15.777590+07:00"
+    },
+    {
+      "id": "dd28e40f1cf363314fc8f23dc8ba627c",
+      "title": "TP.HCM tính làm cầu nhánh từ Hoàng Sa, Trường Sa lên các cầu chính ngang kênh Nhiêu Lộc giảm ùn tắc",
+      "link": "https://tuoitre.vn/tp-hcm-tinh-lam-cau-nhanh-tu-hoang-sa-truong-sa-len-cac-cau-chinh-ngang-kenh-nhieu-loc-giam-un-tac-20260331190431196.htm",
+      "summary": "Đây là một trong những giải pháp trong dự thảo kế hoạch phối hợp triển khai các giải pháp xử lý các điểm nguy cơ ùn tắc giao thông tại TP.HCM năm 2026, mà Sở Xây dựng đang nghiên cứu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T20:12:15.777385+07:00",
+      "fetched": "2026-03-31T20:12:15.777485+07:00"
+    },
+    {
+      "id": "16a542c790a0cb85362277603c82c1f3",
+      "title": "Cựu Cục phó bỏ trốn gửi thư về tòa án nói 'rất choáng' vì bị cáo buộc nhận 6,2 tỉ",
+      "link": "https://tuoitre.vn/cuu-cuc-pho-bo-tron-gui-thu-ve-toa-an-noi-rat-choang-vi-bi-cao-buoc-nhan-6-2-ti-20260331173744562.htm",
+      "summary": "Bỏ trốn ra nước ngoài, cựu Cục phó Nguyễn Hải Thanh gửi thư về tòa án Hà Nội trình bày hoàn cảnh gia đình, lý do sức khỏe và \"rất choáng\" với cáo buộc nhận hối lộ 6,2 tỉ. Ông cho biết gia đình đã nộp khắc phục đủ số tiền này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T20:12:15.777279+07:00",
+      "fetched": "2026-03-31T20:12:15.777376+07:00"
+    },
+    {
+      "id": "a37185e012e30897695c1e7b3992ea1d",
+      "title": "Ngành bao bì bước vào cuộc ‘thanh lọc’ khốc liệt",
+      "link": "https://tuoitre.vn/nganh-bao-bi-buoc-vao-cuoc-thanh-loc-khoc-liet-20260331185949756.htm",
+      "summary": "Chi phí đầu vào leo thang, tiêu chuẩn môi trường ngày càng siết chặt cùng sức ép tối ưu hiệu suất đang đẩy ngành chế biến, đóng gói bao bì vào một chu kỳ “tái sàng lọc” khốc liệt hơn bao giờ hết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T20:12:15.777174+07:00",
+      "fetched": "2026-03-31T20:12:15.777270+07:00"
+    },
+    {
+      "id": "6020e2eee4a24f9f839849b16ef57d60",
+      "title": "Vì sao Quốc tế học ngày càng thu hút người trẻ?",
+      "link": "https://tuoitre.vn/vi-sao-quoc-te-hoc-ngay-cang-thu-hut-nguoi-tre-20260331093759735.htm",
+      "summary": "Ngày càng nhiều học sinh quan tâm đến ngôn ngữ, văn hóa và các vấn đề đang định hình thế giới hôm nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T20:12:15.777065+07:00",
+      "fetched": "2026-03-31T20:12:15.777162+07:00"
+    },
+    {
+      "id": "86b274e46e0dd94fd30088ae6df2d18c",
+      "title": "TP.HCM có rừng, có biển, có hệ thống y tế phát triển, rất thuận lợi phát triển du lịch y tế",
+      "link": "https://tuoitre.vn/du-lich-y-te-tp-hcm-cham-soc-suc-khoe-toan-dien-voi-chi-phi-hop-ly-2026033118510093.htm",
+      "summary": "TP.HCM là điểm đến lý tưởng cho du lịch y tế, nơi du khách có thể kết hợp điều trị hiện đại và y học cổ truyền, chăm sóc sức khỏe toàn diện với chi phí hợp lý và trải nghiệm nghỉ dưỡng, ẩm thực, văn hóa Nam Bộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T20:12:15.776957+07:00",
+      "fetched": "2026-03-31T20:12:15.777056+07:00"
+    },
+    {
+      "id": "208bdcc3d93e184e68f62294d683d064",
+      "title": "Kiểm tra đột xuất doanh nghiệp liên quan đường dây tiêu thụ gần 300 tấn heo bệnh",
+      "link": "https://tuoitre.vn/kiem-tra-dot-xuat-doanh-nghiep-lien-quan-duong-day-tieu-thu-gan-300-tan-heo-benh-20260331191339599.htm",
+      "summary": "Lực lượng chức năng đã kiểm tra đột xuất một địa điểm kinh doanh của một doanh nghiệp kinh doanh thực phẩm liên quan đường dây giết mổ, tiêu thụ gần 300 tấn heo bệnh tuồn vào chợ, bếp ăn trường học.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T20:12:15.776834+07:00",
+      "fetched": "2026-03-31T20:12:15.776947+07:00"
+    },
+    {
+      "id": "650b2f31a2aa5d64eb0476c4bd37195a",
+      "title": "Nga hoài nghi đề xuất ngừng bắn Phục sinh của Ukraine, hướng tới nền hòa bình toàn diện",
+      "link": "https://tuoitre.vn/nga-hoai-nghi-de-xuat-ngung-ban-phuc-sinh-cua-ukraine-huong-toi-nen-hoa-binh-toan-dien-20260331192543659.htm",
+      "summary": "Nga nhấn mạnh ưu tiên thỏa thuận hòa bình toàn diện hơn là các kế hoạch ngắn hạn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T20:12:15.776700+07:00",
+      "fetched": "2026-03-31T20:12:15.776823+07:00"
+    },
+    {
+      "id": "531eefa1e8a3722231c591d8f3971acf",
+      "title": "Đoàn Thanh niên Chính phủ sẽ là nòng cốt dẫn dắt chuyển đổi số trong các cơ quan, doanh nghiệp",
+      "link": "https://tuoitre.vn/doan-thanh-nien-chinh-phu-se-la-nong-cot-dan-dat-chuyen-doi-so-trong-cac-co-quan-doanh-nghiep-20260331162219228.htm",
+      "summary": "Bí thư Đoàn Thanh niên Chính phủ Bùi Hoàng Tùng cho biết đơn vị này đã ký kết hợp tác xây dựng đề án để nâng năng lực số. Theo đó, đoàn viên, thanh niên, cán bộ trẻ sẽ trở thành nòng cốt dẫn dắt quá trình đổi mới trong cơ quan, doanh nghiệp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T20:12:15.776477+07:00",
+      "fetched": "2026-03-31T20:12:15.776688+07:00"
+    },
     {
       "id": "7af21dd981a5162443fd5d21a86acc75",
       "title": "Lấy vòng tránh thai lạc chỗ suốt 1/4 thế kỷ",
@@ -313,6 +463,86 @@ window.newsData_2026_03_31 = {
       "fetched": "2026-03-31T14:09:03.701907+07:00"
     },
     {
+      "id": "96abd032c391200b97dde16c5154d2d4",
+      "title": "Israel tuyên bố chiếm luôn miền nam Lebanon sau xung đột",
+      "link": "https://thanhnien.vn/israel-tuyen-bo-chiem-luon-mien-nam-lebanon-sau-xung-dot-185260331195616628.htm",
+      "summary": "Bộ trưởng Quốc phòng Israel tuyên bố quân đội Israel sẽ chiếm đóng một vùng rộng lớn ở miền nam Lebanon ngay cả sau khi cuộc xung đột hiện tại với Hezbollah kết thúc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T13:05:00+07:00",
+      "fetched": "2026-03-31T20:12:14.705637+07:00"
+    },
+    {
+      "id": "2544e03a69a271640baa19f22abde49b",
+      "title": "Xem nhanh 20h ngày 31.3:  Phản ánh lên VNeID vi phạm giao thông ra sao | TP.HCM nâng trần thu nhập mua NOXH",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-313-phan-anh-len-vneid-vi-pham-giao-thong-ra-sao-tphcm-nang-tran-thu-nhap-mua-noxh-185260331190950522.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 31.3 có nhiều tin tức đáng chú ý về: Từ ngày mai, nếu gặp cảnh vượt đèn đỏ, lạng lách... có thể phản ánh lên VNeID; TP.HCM nâng trần thu nhập mua nhà ở xã hội lên 25 triệu đồng mỗi tháng;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T13:00:00+07:00",
+      "fetched": "2026-03-31T20:12:14.705786+07:00"
+    },
+    {
+      "id": "0f08d1e795b0d40b5d154dbb60e09839",
+      "title": "Sức hút nhẹ nhàng từ trang phục vải ren",
+      "link": "https://thanhnien.vn/thoi-trang-tre/suc-hut-nhe-nhang-tu-trang-phuc-vai-ren-185260328214953274.htm",
+      "summary": "Chất liệu ren gợi lên vẻ mềm mại, nữ tính và đầy tinh tế. Chỉ cần lựa chọn và kết hợp khéo léo, nàng đã có thể tạo nên diện mạo cuốn hút, nổi bật một cách tự nhiên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T13:00:00+07:00",
+      "fetched": "2026-03-31T20:12:14.705936+07:00"
+    },
+    {
+      "id": "d3534f9c18c79e61a43402467fd96e6b",
+      "title": "Mã QR nhỏ hơn hạt bụi chứa đựng bí mật về tương lai lưu trữ vĩnh cửu",
+      "link": "https://thanhnien.vn/ma-qr-nho-hon-hat-bui-chua-dung-bi-mat-ve-tuong-lai-luu-tru-vinh-cuu-185260331094158841.htm",
+      "summary": "Mã QR kỷ lục thế giới nhỏ hơn cả vi khuẩn, chứa đựng dữ liệu tồn tại hàng ngàn năm không cần dùng điện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T12:58:00+07:00",
+      "fetched": "2026-03-31T20:12:14.706066+07:00"
+    },
+    {
+      "id": "526a9e00df573899f8f4547aa1b62a71",
+      "title": "Tác dụng kiểm soát đường huyết không phải ai cũng biết của tỏi",
+      "link": "https://thanhnien.vn/tac-dung-kiem-soat-duong-huyet-khong-phai-ai-cung-biet-cua-toi-185260331190852975.htm",
+      "summary": "Tỏi là gia vị quen thuộc trong gian bếp, thường được biết đến với khả năng kháng khuẩn và có lợi cho sức khỏe tim mạch. Tuy nhiên, một lợi ích ít được biết đến của tỏi là góp phần kiểm soát đường huyết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T12:54:00+07:00",
+      "fetched": "2026-03-31T20:12:14.706194+07:00"
+    },
+    {
+      "id": "0e89d360fe5c38247415fc67542b37b8",
+      "title": "VBA 2026 bắt tay FPT Play, mở rộng hệ sinh thái bóng rổ chuyên nghiệp",
+      "link": "https://thanhnien.vn/vba-2026-bat-tay-fpt-play-mo-rong-he-sinh-thai-bong-ro-chuyen-nghiep-185260331194658093.htm",
+      "summary": "VBA 2026 hợp tác FPT Play phát sóng 5 mùa giải, đồng thời mở rộng hệ sinh thái thể thao - giải trí - cộng đồng nhằm nâng tầm bóng rổ Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T12:51:00+07:00",
+      "fetched": "2026-03-31T20:12:14.706328+07:00"
+    },
+    {
+      "id": "22694cd0e9e76673019a5f286cc7a87f",
+      "title": "Thai đi lạc trong ổ bụng: Phẫu thuật cân não cứu sống thai phụ",
+      "link": "https://thanhnien.vn/thai-di-lac-trong-o-bung-phau-thuat-can-nao-cuu-song-thai-phu-185260331171640887.htm",
+      "summary": "Bằng việc kích hoạt báo động đỏ liên viện, các bác sĩ Bệnh viện Từ Dũ và Chợ Rẫy đã phẫu thuật thành công, lấy trọn khối thai nằm ở vị trí nguy hiểm sát động mạch chủ bụng, cứu sống thai phụ L.T.T thoát khỏi cơn \"thập tử nhất sinh\" do thai lạc chỗ cực kỳ hiếm gặp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T12:50:00+07:00",
+      "fetched": "2026-03-31T20:12:14.706456+07:00"
+    },
+    {
+      "id": "bceaa3fd5a8c57d0eb4c5c35e003ab34",
+      "title": "Xe đầu kéo lật đè xe máy, 3 người tử vong ở Đắk Lắk",
+      "link": "https://thanhnien.vn/xe-dau-keo-lat-de-xe-may-3-nguoi-tu-vong-o-dak-lak-185260331192217824.htm",
+      "summary": "Một vụ va chạm giao thông giữa xe đầu kéo và xe máy đi chiều ngược lại ở Đắk Lắk đã khiến 3 người tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T12:49:00+07:00",
+      "fetched": "2026-03-31T20:12:14.706582+07:00"
+    },
+    {
       "id": "a247490bb770d7efc9b0b98fb71006e8",
       "title": "Đừng tận hưởng kỳ nghỉ dài ngày 30-4, 1-5 theo lối cũ nữa, đây là những cách 'tuyệt cú mèo'!",
       "link": "https://tuoitre.vn/dung-tan-huong-ky-nghi-dai-ngay-30-4-1-5-theo-loi-cu-nua-day-la-nhung-cach-tuyet-cu-meo-20260328174238739.htm",
@@ -461,6 +691,256 @@ window.newsData_2026_03_31 = {
       "category": "Tổng hợp",
       "published": "2026-03-31T12:42:32.547456+07:00",
       "fetched": "2026-03-31T12:42:32.547681+07:00"
+    },
+    {
+      "id": "f2c07fa56f2640395fab66e37f3dd210",
+      "title": "Xác minh tài khoản đưa tin sai vụ Juky San chụp ảnh áo tắm ở Giếng Tiên",
+      "link": "https://vnexpress.net/xac-minh-tai-khoan-dua-tin-sai-vu-juky-san-chup-anh-ao-tam-o-gieng-tien-5056896.html",
+      "summary": "Sở Văn hóa - Thể thao và Du lịch Gia Lai cho biết rà soát tài khoản mạng xã hội thông tin sai sự thật về vụ Juky San chụp ảnh ở Giếng Tiên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T12:38:21+07:00",
+      "fetched": "2026-03-31T20:12:11.206833+07:00"
+    },
+    {
+      "id": "0dfd0d21806eff6b443325c6117a9461",
+      "title": "Cô gái 22 tuổi đỗ đại học top 1 thế giới với bài luận về Taylor Swift",
+      "link": "https://vnexpress.net/co-gai-22-tuoi-do-dai-hoc-top-1-the-gioi-voi-bai-luan-ve-taylor-swift-5055643.html",
+      "summary": "Từ một khán giả mê nhạc của Taylor Swift, Khương Nguyên nghiên cứu về hiệu quả ẩn dụ trong lời bài hát, đưa vào bài luận chinh phục Đại học Oxford.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T12:37:53+07:00",
+      "fetched": "2026-03-31T20:12:11.206992+07:00"
+    },
+    {
+      "id": "4f7e3af11e87c50137b50c79f8987954",
+      "title": "TP HCM dự phòng kịch bản quá tải ca tay chân miệng",
+      "link": "https://vnexpress.net/tp-hcm-du-phong-kich-ban-qua-tai-ca-tay-chan-mieng-5056570.html",
+      "summary": "Trước đà tăng nhanh của dịch tay chân miệng và sự xuất hiện trở lại của chủng EV71 độc lực cao, các bệnh viện tuyến cuối TP HCM kích hoạt kịch bản chống dịch ở mức cao, sẵn sàng mở rộng hàng trăm giường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T12:37:51+07:00",
+      "fetched": "2026-03-31T20:12:11.207135+07:00"
+    },
+    {
+      "id": "baf918922354126d6adf492da9b5b47a",
+      "title": "TP.HCM: Phường Bình Thạnh, xã Cần Giờ ra mắt bộ máy lãnh đạo nhiệm kỳ mới",
+      "link": "https://thanhnien.vn/tphcm-phuong-binh-thanh-xa-can-gio-ra-mat-bo-may-lanh-dao-nhiem-ky-moi-185260331190415929.htm",
+      "summary": "Ngày 31.3, HĐND phường Bình Thạnh khóa I và HĐND xã Cần Giờ khóa II đã tổ chức kỳ họp thứ nhất, bầu cử các chức danh lãnh đạo chủ chốt của HĐND và UBND nhiệm kỳ 2026 - 2031.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T12:34:00+07:00",
+      "fetched": "2026-03-31T20:12:14.706707+07:00"
+    },
+    {
+      "id": "df6ef3083d13f999646764ecf6a95e20",
+      "title": "Cựu kế toán dùng chữ ký số của lãnh đạo để tham ô tiền tỉ",
+      "link": "https://thanhnien.vn/cuu-ke-toan-dung-chu-ky-so-cua-lanh-dao-de-tham-o-tien-ti-185260331180744607.htm",
+      "summary": "Tòa án nhân dân tỉnh Đồng Tháp đã mở phiên tòa xét xử sơ thẩm liên quan vụ cựu kế toán dùng chữ ký số của lãnh đạo, lập chứng từ khống, tham ô tiền tỉ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T12:34:00+07:00",
+      "fetched": "2026-03-31T20:12:14.706844+07:00"
+    },
+    {
+      "id": "846322e89c6a81aa2f4ba68f3b884003",
+      "title": "Tình huống trung vệ Duy Mạnh đánh đầu tung lưới Malaysia",
+      "link": "https://vnexpress.net/tinh-huong-trung-ve-duy-manh-danh-dau-tung-luoi-malaysia-5056899.html",
+      "summary": "Từ tình huống phạt góc của Trương Tiến Anh ở phút thứ 6, đội trưởng Đỗ Duy Mạnh bật cao đánh đầu tung lưới Malaysia, khiến sân Thiên Trường bùng nổ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T12:31:01+07:00",
+      "fetched": "2026-03-31T20:12:11.207271+07:00"
+    },
+    {
+      "id": "b5510aef44bf84b41b544a4319e00a37",
+      "title": "Chuyên gia chỉ ra 4 'thủ phạm' khiến bụng tích mỡ, chảy xệ",
+      "link": "https://vnexpress.net/chuyen-gia-chi-ra-4-thu-pham-khien-bung-tich-mo-chay-xe-5056890.html",
+      "summary": "Bụng to nhanh chủ yếu do biến động đường huyết, căng thẳng kéo dài, hệ tiêu hóa kém và cơ lõi yếu khiến mỡ tích tụ hoặc vùng bụng chảy xệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T12:29:48+07:00",
+      "fetched": "2026-03-31T20:12:11.207401+07:00"
+    },
+    {
+      "id": "40df26e3d92f378df625a77183fccd09",
+      "title": "1 người tử vong, 6 người cấp cứu nghi ngạt khói lò sấy lúa ở Đồng Tháp",
+      "link": "https://thanhnien.vn/1-nguoi-tu-vong-6-nguoi-cap-cuu-do-ngat-khoi-lo-say-lua-o-dong-thap-185260331185605423.htm",
+      "summary": "Một vụ tai nạn lao động nghiêm trọng xảy ra tại cơ sở sấy lúa ở xã Cái Bè (Đồng Tháp) khiến 7 công nhân bị ngạt khói, trong đó 1 người tử vong, những người khác phải nhập viện cấp cứu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T12:23:00+07:00",
+      "fetched": "2026-03-31T20:12:14.706972+07:00"
+    },
+    {
+      "id": "c19d247df6949648701f26f10f80b829",
+      "title": "Khánh Hòa đăng cai lễ hội mô tô phân khối lớn châu Á - Thái Bình Dương",
+      "link": "https://thanhnien.vn/khanh-hoa-dang-cai-le-hoi-mo-to-phan-khoi-lon-chau-a-thai-binh-duong-18526033118555576.htm",
+      "summary": "Hơn 2.000 biker cùng hàng chục nghìn du khách và người yêu xe dự kiến đổ về phố biển Nha Trang tham dự lễ hội mô tô phân khối lớn quy mô khu vực lần đầu tiên được tổ chức tại Khánh Hòa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T12:18:00+07:00",
+      "fetched": "2026-03-31T20:12:14.707097+07:00"
+    },
+    {
+      "id": "cd06328797514f90e4bd19b28204c129",
+      "title": "Xuân Trường: Cú hattrick 'rực lửa' đưa Trường ĐH Thủy Lợi vào bán kết giải quốc tế",
+      "link": "https://thanhnien.vn/xuan-truong-cu-hattrick-ruc-lua-dua-truong-dh-thuy-loi-vao-ban-ket-giai-quoc-te-185260331190040378.htm",
+      "summary": "Vượt qua những áp lực của lần đầu bước ra sân chơi quốc tế, Bùi Xuân Trường đã có màn trình diễn không thể tin nổi với 3 bàn thắng vào lưới ĐH Quốc gia Singapore. Không chỉ giúp ĐH Thủy Lợi giành vé sớm vào bán kết, chàng tiền vệ áo số 10 còn khiến khán giả xúc động với màn ăn mừng cùng lá cờ đỏ sao...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T12:16:00+07:00",
+      "fetched": "2026-03-31T20:12:14.707224+07:00"
+    },
+    {
+      "id": "a31e36d95b5278bc1f886ff270026ebe",
+      "title": "Xác minh nhóm người ẩu đả trên đường Cách Mạng Tháng Tám gây náo loạn",
+      "link": "https://thanhnien.vn/xac-minh-nhom-nguoi-au-da-tren-duong-cach-mang-thang-tam-gay-nao-loan-185260331185459954.htm",
+      "summary": "Mạng xã hội lan truyền clip ghi cảnh nhóm người ẩu đả trên đường Cách Mạng Tháng Tám (TP.HCM) gây náo loạn. Công an vào cuộc xác minh, mời các bên liên quan lên làm rõ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T12:14:00+07:00",
+      "fetched": "2026-03-31T20:12:14.707353+07:00"
+    },
+    {
+      "id": "fba36d1cf823a8af257855ebea355780",
+      "title": "Dàn sao Harry Potter bản điện ảnh và truyền hình",
+      "link": "https://vnexpress.net/dan-sao-harry-potter-ban-dien-anh-va-truyen-hinh-5056729.html",
+      "summary": "Diễn viên nhí Dominic McLaughlin, Alastair Stout và Arabella Stanton lần lượt đảm nhận Harry, Ron và Hermione trong bản truyền hình, thay thế bộ ba ở phim điện ảnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T12:13:12+07:00",
+      "fetched": "2026-03-31T20:12:11.207532+07:00"
+    },
+    {
+      "id": "6ba15f5823520bc6deef8aef2987bbfc",
+      "title": "Pháp sắp cấm trẻ em sử dụng mạng xã hội, phụ huynh nói gì?",
+      "link": "https://thanhnien.vn/phap-sap-cam-tre-em-su-dung-mang-xa-hoi-phu-huynh-noi-gi-185260331124728619.htm",
+      "summary": "Thượng viện Pháp dự kiến sẽ bỏ phiếu vào ngày 31.3 về một dự luật quan trọng nhằm cấm sử dụng mạng xã hội ở Pháp đối với những người dưới 15 tuổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T12:10:00+07:00",
+      "fetched": "2026-03-31T20:12:14.707477+07:00"
+    },
+    {
+      "id": "4246740fd1ec634eb275abdd38420c92",
+      "title": "1.000 tỷ đồng xây dựng Bảo tàng Ký ức chiến tranh",
+      "link": "https://vnexpress.net/1-000-ty-dong-xay-dung-bao-tang-ky-uc-chien-tranh-5056874.html",
+      "summary": "Tỉnh Quảng Trị xây dựng Bảo tàng Ký ức chiến tranh và khát vọng hòa bình tại phía đông bắc ngã ba sông Hiền Lương - Bến Hải, tổng kinh phí 1.000 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T12:09:06+07:00",
+      "fetched": "2026-03-31T20:12:11.207664+07:00"
+    },
+    {
+      "id": "bb963abd960bafdbc8f1c8215feee0f8",
+      "title": "Tượng Phật cao nhất Đông Nam Á nằm ở tỉnh nào?",
+      "link": "https://vnexpress.net/tuong-phat-cao-nhat-dong-nam-a-nam-o-tinh-nao-5056153.html",
+      "summary": "Tượng Phật được xây dựng trong 6 năm, nằm ở vị trí cuối sông gần cửa biển, từ đây có thể quan sát nhiều hướng, thu hút du khách đến chiêm bái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T12:00:00+07:00",
+      "fetched": "2026-03-31T20:12:11.207797+07:00"
+    },
+    {
+      "id": "127c8c21568f51115640664455a0b2ef",
+      "title": "Xe hơi bị viết xước 'trả thù' vì đỗ trước quán trà đá vỉa hè",
+      "link": "https://vnexpress.net/vet-xuoc-tra-dua-vi-toi-do-xe-ben-duong-truoc-quan-tra-da-via-he-5056839.html",
+      "summary": "'Đi 45 phút không tìm được chỗ gửi xe, tôi đành dừng tạm ở một đoạn đường vắng không có biển cấm dừng đỗ, rồi nhận nguyên một vết xước'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T12:00:00+07:00",
+      "fetched": "2026-03-31T20:12:11.207946+07:00"
+    },
+    {
+      "id": "41155ba0ea414a2df13a321d151d15b3",
+      "title": "DNSE dự kiến lập công ty chứng khoán tại Trung tâm Tài chính TP HCM",
+      "link": "https://vnexpress.net/dnse-du-kien-lap-cong-ty-chung-khoan-tai-trung-tam-tai-chinh-tp-hcm-5056877.html",
+      "summary": "Hội đồng cổ đông Chứng khoán DNSE đã thông qua chủ trương thành lập công ty chứng khoán tại Trung tâm Tài chính Quốc tế Việt Nam (IFC), dưới hình thức công ty TNHH một thành viên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T12:00:00+07:00",
+      "fetched": "2026-03-31T20:12:11.208077+07:00"
+    },
+    {
+      "id": "25046f55109beb91b1cc62445e34e046",
+      "title": "Vì sao người Việt chưa có thói quen sống khỏe?",
+      "link": "https://vnexpress.net/vi-sao-nguoi-viet-chua-co-thoi-quen-song-khoe-5056871.html",
+      "summary": "Tuổi thọ trung bình của người Việt đạt khoảng 73,6, tuy nhiên chưa quen tầm soát bảo vệ sức khỏe từ sớm, dẫn đến phát hiện bệnh muộn, chậm điều trị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T12:00:00+07:00",
+      "fetched": "2026-03-31T20:12:11.208209+07:00"
+    },
+    {
+      "id": "64a01ef9646f3632fb4751c495f99af5",
+      "title": "Nhiễm biến thể Covid-19 Ve sầu có nguy hiểm không?",
+      "link": "https://vnexpress.net/nhiem-bien-the-covid-19-ve-sau-co-nguy-hiem-khong-5056869.html",
+      "summary": "Biến thể BA.3.2 của virus Covid-19 đang lan rộng trên thế giới, Bộ Y tế Việt Nam cũng cảnh báo. Chủng này có nguy hiểm không, làm sao phòng ngừa? (Hà Nhi, 25 tuổi, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T12:00:00+07:00",
+      "fetched": "2026-03-31T20:12:11.208343+07:00"
+    },
+    {
+      "id": "1d167d006e776a17af7273f043094726",
+      "title": "Sinh con sau 9 năm cắt tuyến giáp chữa ung thư",
+      "link": "https://vnexpress.net/sinh-con-sau-9-nam-cat-tuyen-giap-chua-ung-thu-5056769.html",
+      "summary": "Sau phẫu thuật cắt tuyến giáp chữa ung thư, chị Ngọc mang thai hai lần không thành, 9 năm sau thụ tinh ống nghiệm sinh con ở tuổi 40.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T12:00:00+07:00",
+      "fetched": "2026-03-31T20:12:11.208471+07:00"
+    },
+    {
+      "id": "bc2e0ec88dcf0691c643d92b2e8f44a2",
+      "title": "Xe container lật, ba người chết",
+      "link": "https://vnexpress.net/xe-container-lat-ba-nguoi-chet-5056895.html",
+      "summary": "Xe container kéo rơ-moóc chở dăm keo va chạm, lật đè chết hai người đi xe máy, tài xế ôtô sau đó tử vong, ngày 31/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T11:58:11+07:00",
+      "fetched": "2026-03-31T20:12:11.208600+07:00"
+    },
+    {
+      "id": "ec180fd31745d3eff667f802784990f3",
+      "title": "Nghi phạm buôn ma túy bơi qua sông, lẩn trốn suốt 6 ngày",
+      "link": "https://vnexpress.net/nghi-pham-buon-ma-tuy-boi-qua-song-lan-tron-suot-6-ngay-5056863.html",
+      "summary": "Nguyễn Trung Thành nhiều lần luồn rừng, vượt suối, bơi qua sông Ngàn Sâu để trốn sự truy bắt của lực lượng chức năng trong gần một tuần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-31T11:49:01+07:00",
+      "fetched": "2026-03-31T20:12:11.208732+07:00"
+    },
+    {
+      "id": "535218c352496cf89f5b5b90000b9fd4",
+      "title": "Việt Nam 1-0 Malaysia (H1): Hoàng Hên suýt ghi bàn",
+      "link": "https://vnexpress.net/truc-tiep-viet-nam-vs-malaysia-5056870.html",
+      "summary": "Cầu thủ nhập tịch Đỗ Hoàng Hên suýt ghi bàn cho Việt Nam, ở trận gặp Malaysia tại lượt trận cuối vòng loại cuối Asian Cup 2027.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-31T11:16:39+07:00",
+      "fetched": "2026-03-31T20:12:24.099626+07:00"
+    },
+    {
+      "id": "43a305989bd64a4e020f5a27c08075d3",
+      "title": "Thủ tướng kêu gọi tiết kiệm điện, tối thiểu 10% trong các tháng cao điểm",
+      "link": "https://vnexpress.net/thu-tuong-keu-goi-tiet-kiem-dien-toi-thieu-10-trong-cac-thang-cao-diem-5056873.html",
+      "summary": "Thủ tướng yêu cầu triển khai các giải pháp tiết kiệm điện, phát triển điện mặt trời mái nhà, trước bối cảnh thị trường năng lượng quốc tế diễn biến phức tạp.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-31T11:02:47+07:00",
+      "fetched": "2026-03-31T20:12:19.262396+07:00"
+    },
+    {
+      "id": "863ae13a8708b6407cb2979024cecd26",
+      "title": "U23 Việt Nam 0-1 U23 Trung Quốc (H2): Thủng lưới từ siêu phẩm vuốt bóng",
+      "link": "https://vnexpress.net/u23-viet-nam-u23-trung-quoc-5056799.html",
+      "summary": "Du Yuezheng ghi siêu phẩm vuốt bóng, giúp Trung Quốc dẫn Việt Nam 1-0 ở lượt trận cuối giải giao hữu CFA Team China Cup.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-31T11:00:00+07:00",
+      "fetched": "2026-03-31T20:12:24.099779+07:00"
     },
     {
       "id": "165cfb0f73f56b4ead6e7cfca1233cb4",
@@ -1401,6 +1881,16 @@ window.newsData_2026_03_31 = {
       "category": "Công nghệ",
       "published": "2026-03-31T07:00:00+07:00",
       "fetched": "2026-03-31T15:55:35.021758+07:00"
+    },
+    {
+      "id": "dfce71c8bbb9a3601c454ccd25727dd4",
+      "title": "Chatbot xu nịnh - mặt trái của AI",
+      "link": "https://vnexpress.net/chatbot-xu-ninh-mat-trai-cua-ai-5056522.html",
+      "summary": "Chuyên gia cảnh báo AI đang có xu hướng chiều lòng người dùng bằng những lời khuyên sai lệch, thậm chí tự \"lập mưu\" lách quy tắc an toàn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-31T07:00:00+07:00",
+      "fetched": "2026-03-31T20:12:22.477515+07:00"
     },
     {
       "id": "a4efd522e6982197c42e747306e9eb42",
