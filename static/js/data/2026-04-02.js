@@ -1,6 +1,6 @@
 window.newsData_2026_04_02 = {
   "date": "2026-04-02",
-  "lastUpdated": "2026-04-02T03:40:41.773692+07:00",
+  "lastUpdated": "2026-04-02T05:34:39.992336+07:00",
   "articles": [
     {
       "id": "ac268cc1f54f72ce73c3a54d064a1e7c",
@@ -171,6 +171,216 @@ window.newsData_2026_04_02 = {
       "category": "Tổng hợp",
       "published": "2026-04-02T01:57:57.377674+07:00",
       "fetched": "2026-04-02T01:57:57.377879+07:00"
+    },
+    {
+      "id": "f1423041ad62792b6a1c9f0dd7d2e5ca",
+      "title": "Tiêu điểm quốc tế ngày 2.4: Đề xuất ngừng bắn lễ Phục sinh | 'Những ngày quyết định' đối với Iran",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-ngay-24-de-xuat-ngung-ban-le-phuc-sinh-nhung-ngay-quyet-dinh-doi-voi-iran-185260401230541676.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 2.4.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T22:30:00+07:00",
+      "fetched": "2026-04-02T05:34:30.172726+07:00"
+    },
+    {
+      "id": "3411a0467ace01f5c91195e8ae69102d",
+      "title": "Sau nhiều năm chờ đợi, TP.HCM bắt đầu 'gỡ khó' cho Mả Lạng ra sao?",
+      "link": "https://thanhnien.vn/sau-nhieu-nam-cho-doi-tphcm-bat-dau-go-kho-cho-ma-lang-ra-sao-185260329215352987.htm",
+      "summary": "Trước thực trạng tại khu Mả Lạng và chợ Gà – chợ Gạo, ở TP.HCM, các chuyên gia cho rằng muốn tạo được sự đồng thuận và phát triển bền vững, cần đặt người dân làm trung tâm với các giải pháp đồng bộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T22:30:00+07:00",
+      "fetched": "2026-04-02T05:34:30.172874+07:00"
+    },
+    {
+      "id": "ef97c16bd06c382a12d8b2e09a6890b2",
+      "title": "Ngoại trưởng Mỹ nói Venezuela cần giai đoạn chuyển tiếp",
+      "link": "https://thanhnien.vn/ngoai-truong-my-noi-venezuela-can-giai-doan-chuyen-tiep-185260401233533946.htm",
+      "summary": "Trong cuộc trả lời phỏng vấn với kênh Fox News ngày 31.3, Ngoại trưởng Mỹ Marco Rubio nói rằng cuối cùng sẽ phải có một giai đoạn chuyển tiếp ở Venezuela và đất nước này cần có các cuộc bầu cử tự do và công bằng, theo Reuters.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T22:28:00+07:00",
+      "fetched": "2026-04-02T05:34:30.173007+07:00"
+    },
+    {
+      "id": "6003deab6082658c1b08137ca3263cc8",
+      "title": "‘Sạn’ ở hàng thủ đội tuyển Việt Nam",
+      "link": "https://thanhnien.vn/san-o-hang-thu-doi-tuyen-viet-nam-185260401193336566.htm",
+      "summary": "Dù đội tuyển VN thắng áp đảo Malaysia 3-1, nhưng các vết nứt ở hàng thủ cũng gửi lời cảnh báo đến HLV Kim Sang-sik.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T22:27:00+07:00",
+      "fetched": "2026-04-02T05:34:30.173157+07:00"
+    },
+    {
+      "id": "22292d315cd672f8dd6e3ce2ebcc38ed",
+      "title": "Mở rộng Quốc lộ 13: Người mừng ra mặt, người lại đứng ngồi không yên vì...",
+      "link": "https://thanhnien.vn/mo-rong-quoc-lo-13-nguoi-mung-ra-mat-nguoi-lai-dung-ngoi-khong-yen-vi-185260401124401144.htm",
+      "summary": "Trước tình trạng ùn tắc kéo dài vào mỗi giờ cao điểm trên Quốc lộ 13, đoạn từ cầu Bình Triệu đến khu vực tỉnh Bình Dương cũ, nhiều người dân kỳ vọng dự án mở rộng tuyến đường này sẽ góp phần giảm áp lực giao thông và cải thiện việc đi lại hằng ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T22:22:00+07:00",
+      "fetched": "2026-04-02T05:34:30.173289+07:00"
+    },
+    {
+      "id": "b1182de7767404923be1eb47837e6ab9",
+      "title": "Xác định 2 cặp bán kết ‘trong mơ’",
+      "link": "https://thanhnien.vn/xac-dinh-2-cap-ban-ket-trong-mo-185260401223521249.htm",
+      "summary": "Vòng đấu bảng giải bóng đá Thanh Niên sinh viên quốc tế lần II - 2026 cúp THACO kết thúc hấp dẫn vào hôm qua (1.4) trên sân Trường ĐH Nha Trang, qua đó xác định được 4 đội bóng xuất sắc giành quyền vào vòng bán kết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T22:21:00+07:00",
+      "fetched": "2026-04-02T05:34:30.173421+07:00"
+    },
+    {
+      "id": "6a13711d1afedbb2121a6e37881adfb5",
+      "title": "Món quà ý nghĩa dành tặng người thầy tận tụy",
+      "link": "https://thanhnien.vn/mon-qua-y-nghia-danh-tang-nguoi-thay-tan-tuy-185260401222917006.htm",
+      "summary": "Trong trận đấu tâm điểm quyết định ngôi đầu bảng B, cầu thủ đội Trường ĐH Thủy lợi Nguyễn Bá Hoàn đã khiến khán giả trầm trồ bằng pha dứt điểm từ xa đưa bóng đi với quỹ đạo không tưởng, trước khi găm thẳng vào lưới đội Trường ĐH Svay Rieng (Campuchia).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T22:20:00+07:00",
+      "fetched": "2026-04-02T05:34:30.173550+07:00"
+    },
+    {
+      "id": "f1d7320721ef5f06834ff593c1a898ae",
+      "title": "Tuyển Ý lại bị loại khỏi VCK World Cup - vì đâu nên nỗi?",
+      "link": "https://thanhnien.vn/tuyen-y-lai-bi-loai-khoi-vck-world-cup-vi-dau-nen-noi-185260401193724339.htm",
+      "summary": "Cơn ác mộng đe dọa các tifosi suốt những ngày qua rút cuộc đã trở thành hiện thực: lần thứ 3 liên tiếp, đội tuyển Ý bị loại khỏi vòng chung kết World Cup. Vì sao nền bóng đá vĩ đại mang tên Calcio giờ lại ra nông nỗi này?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T22:20:00+07:00",
+      "fetched": "2026-04-02T05:34:30.173669+07:00"
+    },
+    {
+      "id": "92922c34babbd8fe3cb4917e6ea0c15b",
+      "title": "Tiếc nuối của đội trưởng Trường ĐH Quốc gia Malaysia, gửi lời trái tím đến vợ sắp cưới",
+      "link": "https://thanhnien.vn/tiec-nuoi-cua-doi-truong-truong-dh-quoc-gia-malaysia-gui-loi-trai-tim-den-vo-sap-cuoi-185260401231815265.htm",
+      "summary": "Trong niềm vui chung khi Trường ĐH Quốc gia Malaysia giành vé vào bán kết giải TNSV quốc tế THACO Cup 2026, đội trưởng Harith Dasuki đã có những trải lòng đầy cảm xúc về một giải đấu đáng nhớ và cả những dự định cá nhân quan trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T22:18:00+07:00",
+      "fetched": "2026-04-02T05:34:30.173793+07:00"
+    },
+    {
+      "id": "066efb733bb6f8ecb76051def1e581fc",
+      "title": "HLV Trường ĐH Quốc gia Malaysia quyết mang cúp vô địch TNSV Quốc tế 2026 về nước",
+      "link": "https://thanhnien.vn/hlv-truong-dh-quoc-gia-malaysia-quyet-mang-cup-vo-dich-tnsv-quoc-te-2026-ve-nuoc-185260401230605267.htm",
+      "summary": "Sau chiến thắng thuyết phục 2-0 trước đội chủ nhà Trường ĐH Nha Trang, HLV trưởng Mohd Roslan của Trường ĐH Quốc gia Malaysia đã có những chia sẻ đầy tự hào về hành trình lội ngược dòng của các học trò để vào đến bán kết giải TNSV Quốc tế 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T22:17:00+07:00",
+      "fetched": "2026-04-02T05:34:30.173911+07:00"
+    },
+    {
+      "id": "d3ed64f44397ceaac376899861330eec",
+      "title": "U.23 Việt Nam về nước, HLV Đinh Hồng Vinh chia sẻ điều đặc biệt...",
+      "link": "https://thanhnien.vn/u23-viet-nam-ve-nuoc-hlv-dinh-hong-vinh-chia-se-dieu-dac-biet-185260401171949325.htm",
+      "summary": "Đội tuyển U.23 Việt Nam đã lên đường về nước với hành trang quý giá là những bài học, kinh nghiệm rút ra và cả những tín hiệu lạc quan đầu tiên về một lứa cầu thủ tiềm năng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T22:17:00+07:00",
+      "fetched": "2026-04-02T05:34:30.174029+07:00"
+    },
+    {
+      "id": "efcbff76aab1cd90ee7ffbdaa0e7c848",
+      "title": "Tử vi ngày 2 tháng 4: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-2-thang-4-con-giap-nao-may-man-hom-nay-185260402050546935.htm",
+      "summary": "Tử vi ngày 2 tháng 4 mang đến những gợi ý tham khảo cho 12 con giáp. Vận khí thiên về duy trì phong độ - ai giữ được sự ổn định sẽ tạo lợi thế dài hơn là bứt phá nhất thời. Tài lộc hôm nay không đến từ may mắn ngắn hạn mà từ cách bạn kiểm soát tiến độ và năng lượng của mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T22:15:00+07:00",
+      "fetched": "2026-04-02T05:34:30.174164+07:00"
+    },
+    {
+      "id": "16caf61814c6398de669f07ed719cd2f",
+      "title": "OpenAI hoàn tất vòng gọi vốn 122 tỉ USD",
+      "link": "https://thanhnien.vn/openai-hoan-tat-vong-goi-von-122-ti-usd-185260401233316619.htm",
+      "summary": "Công ty trí tuệ nhân tạo OpenAI ngày 31.3 thông báo hoàn tất vòng gọi vốn trị giá 122 tỉ USD, nâng giá trị công ty lên 852 tỉ USD và củng cố vị trí là một trong những công ty tư nhân có giá trị cao nhất thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T22:06:00+07:00",
+      "fetched": "2026-04-02T05:34:30.174280+07:00"
+    },
+    {
+      "id": "91a9af1b8f9a386fcc4357940be587b3",
+      "title": "Nỗi tức giận ngày càng tăng của ông Trump với NATO",
+      "link": "https://vnexpress.net/noi-tuc-gian-ngay-cang-tang-cua-ong-trump-voi-nato-5056966.html",
+      "summary": "Khi chiến sự Iran leo thang, ông Trump nhiều lần tức giận dọa rút Mỹ khỏi NATO, đẩy liên minh vào tình thế mong manh nhất từ trước tới nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T22:00:00+07:00",
+      "fetched": "2026-04-02T05:34:27.185039+07:00"
+    },
+    {
+      "id": "40ed3b0c3b7406a7c1d1f3e126f14d00",
+      "title": "Thói quen bỏ bữa sáng tàn phá sức khỏe thế nào",
+      "link": "https://vnexpress.net/thoi-quen-bo-bua-sang-tan-pha-suc-khoe-the-nao-5056872.html",
+      "summary": "Nhiều người bỏ bữa sáng để giảm cân hoặc ăn qua loa với thực phẩm chế biến sẵn, mà không biết rằng thói quen này làm tăng nguy cơ ung thư đại trực tràng và suy giảm chuyển hóa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T22:00:00+07:00",
+      "fetched": "2026-04-02T05:34:27.185219+07:00"
+    },
+    {
+      "id": "7f324bac7be8afeba30450bc4eeeda5d",
+      "title": "Nhiều người trẻ trở lại 'thời analog'",
+      "link": "https://vnexpress.net/nhieu-nguoi-tre-tro-lai-thoi-analog-5056708.html",
+      "summary": "Nhiều người thuộc thế hệ Z và Alpha tìm đến thiết bị công nghệ cũ như đĩa CD, DVD, trò chơi Nintendo DS nhằm giảm phụ thuộc vào smartphone, AI.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T22:00:00+07:00",
+      "fetched": "2026-04-02T05:34:27.185362+07:00"
+    },
+    {
+      "id": "e67e4dbe90b945157788284067e0c6be",
+      "title": "Hai chị em rơi khỏi xe buýt khi trên đường đi thi",
+      "link": "https://vnexpress.net/hai-chi-em-roi-khoi-xe-buyt-khi-tren-duong-di-thi-5057194.html",
+      "summary": "Hai nữ sinh là hai chị em ruột đang đi dự kỳ thi cấp trung học đã ngã nhào khi cửa xe buýt mở bung tại khúc cua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T22:00:00+07:00",
+      "fetched": "2026-04-02T05:34:27.185495+07:00"
+    },
+    {
+      "id": "ccca6381689195139c11d9246d434078",
+      "title": "Lịch âm hôm nay 2.4: Rằm tháng 2 còn là ngày gì mà nhiều người quan tâm?",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-24-ram-thang-2-con-la-ngay-gi-ma-nhieu-nguoi-quan-tam-185260401130829618.htm",
+      "summary": "Hôm nay 2.4 là ngày rằm tháng 2 theo lịch âm, còn là ngày gì khác mà nhiều người quan tâm, chia sẻ?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T22:00:00+07:00",
+      "fetched": "2026-04-02T05:34:30.174399+07:00"
+    },
+    {
+      "id": "91a9af1b8f9a386fcc4357940be587b3",
+      "title": "Nỗi tức giận ngày càng tăng của ông Trump với NATO",
+      "link": "https://vnexpress.net/noi-tuc-gian-ngay-cang-tang-cua-ong-trump-voi-nato-5056966.html",
+      "summary": "Khi chiến sự Iran leo thang, ông Trump nhiều lần tức giận dọa rút Mỹ khỏi NATO, đẩy liên minh vào tình thế mong manh nhất từ trước tới nay.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-01T22:00:00+07:00",
+      "fetched": "2026-04-02T05:34:33.447217+07:00"
+    },
+    {
+      "id": "7f324bac7be8afeba30450bc4eeeda5d",
+      "title": "Nhiều người trẻ trở lại 'thời analog'",
+      "link": "https://vnexpress.net/nhieu-nguoi-tre-tro-lai-thoi-analog-5056708.html",
+      "summary": "Nhiều người thuộc thế hệ Z và Alpha tìm đến thiết bị công nghệ cũ như đĩa CD, DVD, trò chơi Nintendo DS nhằm giảm phụ thuộc vào smartphone, AI.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-01T22:00:00+07:00",
+      "fetched": "2026-04-02T05:34:38.805151+07:00"
+    },
+    {
+      "id": "9221f34238354822c9730804e3e89844",
+      "title": "Tình hình Trung Đông mới nhất ngày 2.4: Thực hư chuyện Iran đề nghị ngừng bắn",
+      "link": "https://thanhnien.vn/tinh-hinh-trung-dong-moi-nhat-ngay-24-thuc-hu-chuyen-iran-de-nghi-ngung-ban-185260401195038399.htm",
+      "summary": "Tổng thống Mỹ Donald Trump đưa ra phát biểu quan trọng về Iran khi cuộc chiến vốn đã mở rộng phạm vi ở Trung Đông đã bước sang ngày thứ 34.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-01T21:30:00+07:00",
+      "fetched": "2026-04-02T05:34:30.174521+07:00"
     },
     {
       "id": "a306e1055309abd35c5ad38e63ee6729",
