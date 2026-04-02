@@ -1,7 +1,157 @@
 window.newsData_2026_04_02 = {
   "date": "2026-04-02",
-  "lastUpdated": "2026-04-02T17:49:38.775544+07:00",
+  "lastUpdated": "2026-04-02T20:06:41.514785+07:00",
   "articles": [
+    {
+      "id": "5be9b76a4e392b3bb2d17feb599df8b9",
+      "title": "Bàn giao thuyền viên bị trôi dạt trên biển cho Tổng lãnh sự quán Indonesia",
+      "link": "https://tuoitre.vn/ban-giao-thuyen-vien-bi-troi-dat-tren-bien-cho-tong-lanh-su-quan-indonesia-20260402165450985.htm",
+      "summary": "Sau khi được cứu, thuyền viên gặp nạn trôi dạt trên biển vừa được bàn giao cho Tổng lãnh sự quán Indonesia tại TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T20:06:33.771102+07:00",
+      "fetched": "2026-04-02T20:06:33.771209+07:00"
+    },
+    {
+      "id": "180769d939c72520a6adda52e2efa939",
+      "title": "NCB tham vọng năm 2026: lãi 1.416 tỉ, tăng vốn gần 30.000 tỉ đồng",
+      "link": "https://tuoitre.vn/ncb-tham-vong-nam-2026-lai-1-416-ti-tang-von-gan-30-000-ti-dong-20260402170641457.htm",
+      "summary": "Ngân hàng NCB đặt mục tiêu tăng trưởng mạnh trong năm 2026 với lợi nhuận trước PACCL đạt 1.461 tỉ đồng, đồng thời đẩy nhanh lộ trình tăng vốn lên gần 29.300 tỉ đồng, sớm hơn 3 năm so với kế hoạch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T20:06:33.771009+07:00",
+      "fetched": "2026-04-02T20:06:33.771094+07:00"
+    },
+    {
+      "id": "519d4a664ca8d1d3b379a6e11a352a2b",
+      "title": "Việt Nam ngoại giao năng lượng không ngừng để giảm tác động của xung đột Trung Đông",
+      "link": "https://tuoitre.vn/viet-nam-ngoai-giao-nang-luong-khong-ngung-de-giam-tac-dong-cua-xung-dot-trung-dong-20260402165623212.htm",
+      "summary": "Việt Nam đã thực hiện các hoạt động ngoại giao năng lượng ở cấp cao, phối hợp với các nước khác nhằm hỗ trợ ứng phó trước xung đột tại Trung Đông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T20:06:33.770917+07:00",
+      "fetched": "2026-04-02T20:06:33.771001+07:00"
+    },
+    {
+      "id": "fc482f13e1ddf7c5f718e179322e77cf",
+      "title": "Chiết xuất tinh dịch lợn mở ra hy vọng điều trị ung thư mắt",
+      "link": "https://tuoitre.vn/chiet-xuat-tinh-dich-lon-mo-ra-hy-vong-dieu-tri-ung-thu-mat-20260402163326572.htm",
+      "summary": "U nguyên bào võng mạc (retinoblastoma) là một dạng ung thư mắt thường gặp ở trẻ em. Rào cản lớn nhất trong việc điều trị căn bệnh này là làm sao đưa thuốc xuyên qua lớp bảo vệ tự nhiên của mắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T20:06:33.770820+07:00",
+      "fetched": "2026-04-02T20:06:33.770909+07:00"
+    },
+    {
+      "id": "2128d778093be8ac0683c411debe9750",
+      "title": "Nữ sinh 14 tuổi ở Đà Lạt mất tích sau giờ học thêm",
+      "link": "https://tuoitre.vn/nu-sinh14-tuoi-o-da-lat-mat-tich-sau-gio-hoc-them-20260402165618906.htm",
+      "summary": "Một em gái 14 tuổi ở Đà Lạt mất tích sau khi tan học thêm tối 1-4. Gia đình, nhà trường và công an đang tìm kiếm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T20:06:33.770727+07:00",
+      "fetched": "2026-04-02T20:06:33.770812+07:00"
+    },
+    {
+      "id": "c2059ad939e07a3f3efeb34b01f7532d",
+      "title": "Hàn Quốc hỗ trợ tiền mặt cho người dân ứng phó với tình trạng giá dầu tăng cao",
+      "link": "https://tuoitre.vn/han-quoc-ho-tro-tien-mat-cho-nguoi-dan-ung-pho-voi-tinh-trang-gia-dau-tang-cao-20260402163455539.htm",
+      "summary": "Việc hỗ trợ tiền mặt và các biện pháp toàn diện nhằm giúp nhóm dân cư dễ bị tổn thương vượt qua khó khăn, bảo vệ các doanh nghiệp, nền kinh tế trước biến động giá năng lượng toàn cầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T20:06:33.770633+07:00",
+      "fetched": "2026-04-02T20:06:33.770719+07:00"
+    },
+    {
+      "id": "51538fff66a678e67b2a28d81aa7c36c",
+      "title": "Mỗi năm cấp khoảng 10.000 visa du học nghề tại Đức cho người Việt",
+      "link": "https://tuoitre.vn/moi-nam-cap-khoang-10-000-visa-du-hoc-nghe-tai-duc-cho-nguoi-viet-20260402160555543.htm",
+      "summary": "Khoảng 10.000 visa du học nghề tại Đức được cấp hằng năm cho công dân Việt Nam, mở ra cơ hội việc làm và thu nhập ngay trong quá trình học giữa lúc quốc gia châu Âu này thiếu hụt lao động trẻ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T20:06:33.770534+07:00",
+      "fetched": "2026-04-02T20:06:33.770624+07:00"
+    },
+    {
+      "id": "20e6ca82a6bd7ca828469d981f84f156",
+      "title": "Phát hiện quan trọng về vai trò của sắt trong quá trình sản xuất insulin",
+      "link": "https://tuoitre.vn/phat-hien-quan-trong-ve-vai-tro-cua-sat-trong-qua-trinh-san-xuat-insulin-20260402163633616.htm",
+      "summary": "Nếu không được cấp đủ sắt, tế bào beta trong tuyến tụy sẽ không trưởng thành đúng cách, thậm chí chết sớm, làm gián đoạn quá trình sản xuất insulin, từ đó góp phần làm tăng nguy cơ mắc tiểu đường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T20:06:33.770433+07:00",
+      "fetched": "2026-04-02T20:06:33.770525+07:00"
+    },
+    {
+      "id": "6db759a6a4a24475725f9f68206f1d03",
+      "title": "Pin gia dụng, ‘nguồn lửa âm thầm’ nằm trong rác thải",
+      "link": "https://tuoitre.vn/pin-gia-dung-nguon-lua-am-tham-nam-trong-rac-thai-20260402163815547.htm",
+      "summary": "Pin, đặc biệt là pin lithium-ion, nằm trong các sản phẩm từ thuốc lá điện tử, đồ chơi hay chìa khóa ôtô, đang trở thành một trong những nguyên nhân gây cháy nhanh nhất tại các cơ sở xử lý rác ở Anh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T20:06:33.770325+07:00",
+      "fetched": "2026-04-02T20:06:33.770421+07:00"
+    },
+    {
+      "id": "02de9e7ebd9030fd459d5718eea18158",
+      "title": "Dịp 30-4, TP.HCM động thổ dự án công viên, quảng trường ven sông ở Bến Nhà Rồng",
+      "link": "https://tuoitre.vn/dip-30-4-tp-hcm-dong-tho-du-an-cong-vien-quang-truong-ven-song-o-ben-nha-rong-20260402164647165.htm",
+      "summary": "TP.HCM dự kiến động thổ công viên, quảng trường ven sông tại Bến Nhà Rồng dịp 30-4, tạo không gian công cộng mới phục vụ người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T20:06:33.770217+07:00",
+      "fetched": "2026-04-02T20:06:33.770316+07:00"
+    },
+    {
+      "id": "c8554efd5c4b44beebf126887affb84d",
+      "title": "Toàn cảnh sứ mệnh Artemis II, dấu mốc lịch sử chinh phục Mặt trăng",
+      "link": "https://tuoitre.vn/toan-canh-su-menh-artemis-ii-dau-moc-lich-su-chinh-phuc-mat-trang-20260402165247074.htm",
+      "summary": "Sau hơn nửa thế kỷ kể từ sứ mệnh Apollo cuối cùng, các phi hành gia đang một lần nữa thực hiện hành trình tiến về phía Mặt trăng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T20:06:33.770086+07:00",
+      "fetched": "2026-04-02T20:06:33.770204+07:00"
+    },
+    {
+      "id": "cb92a835d709a82bb81e80cdf8379e0c",
+      "title": "Chủ tịch Hà Nội: Sở Giáo dục và Đào tạo chịu trách nhiệm nếu bữa ăn bán trú có vi phạm",
+      "link": "https://tuoitre.vn/chu-tich-ha-noi-so-giao-duc-va-dao-tao-chiu-trach-nhiem-neu-bua-an-ban-tru-co-vi-pham-20260402165503543.htm",
+      "summary": "Ngày 2-4, Chủ tịch UBND TP Hà Nội Vũ Đại Thắng đã ký văn bản gửi các đơn vị liên quan về việc tăng cường, bảo đảm công tác vệ sinh an toàn thực phẩm tại Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T20:06:33.769984+07:00",
+      "fetched": "2026-04-02T20:06:33.770078+07:00"
+    },
+    {
+      "id": "6fd00c417474ca4f1f983e5bbf0aa69a",
+      "title": "Thi đánh giá năng lực: Mang theo gì để không ‘rớt’ từ cổng?",
+      "link": "https://tuoitre.vn/thi-danh-gia-nang-luc-mang-theo-gi-de-khong-rot-tu-cong-20260402165234282.htm",
+      "summary": "Kỳ thi đánh giá năng lực Đại học Quốc gia TP.HCM đợt 1-2026 được tổ chức với quy mô lớn và quy định chặt chẽ. Thí sinh phải chuẩn bị kỹ từ giấy tờ đến thời gian có mặt để tránh sai sót đáng tiếc ảnh hưởng đến kết quả thi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T20:06:33.769872+07:00",
+      "fetched": "2026-04-02T20:06:33.769973+07:00"
+    },
+    {
+      "id": "94d3f9cdc3da5bc1753c4dd5e6fc6da9",
+      "title": "Agribank - Viettel hợp tác toàn diện, tăng tốc số hóa dịch vụ tài chính",
+      "link": "https://tuoitre.vn/agribank-viettel-hop-tac-toan-dien-tang-toc-so-hoa-dich-vu-tai-chinh-20260402165210647.htm",
+      "summary": "Agribank và Viettel ký kết hợp tác chiến lược toàn diện, kỳ vọng tạo cú hích cho tài chính số, đặc biệt tại khu vực nông nghiệp, nông thôn, góp phần thúc đẩy chuyển đổi số quốc gia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T20:06:33.769750+07:00",
+      "fetched": "2026-04-02T20:06:33.769862+07:00"
+    },
+    {
+      "id": "62d5a3830921bbc7c34321010e5adab8",
+      "title": "Bắt trẻ làm việc gia đình quá sức sẽ bị phạt tới 30 triệu đồng",
+      "link": "https://tuoitre.vn/bat-tre-lam-viec-gia-dinh-qua-suc-se-bi-phat-toi-30-trieu-dong-20260402171119777.htm",
+      "summary": "Nghị định 98/2026 quy định  phạt tiền 20-30 triệu đồng đối với một trong các hành vi bắt trẻ em làm công việc gia đình quá sức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T20:06:33.769517+07:00",
+      "fetched": "2026-04-02T20:06:33.769736+07:00"
+    },
     {
       "id": "2c412adb7ff6431e492a5bb92f92d9fb",
       "title": "Bình Tinh, Lê Trung Thảo lại đến với liên hoan sân khấu quốc tế",
@@ -353,6 +503,146 @@ window.newsData_2026_04_02 = {
       "fetched": "2026-04-02T14:08:15.460587+07:00"
     },
     {
+      "id": "52c26d84d88b8f1aadf5980abfe953ce",
+      "title": "Người dân nước nào dậy sớm nhất thế giới?",
+      "link": "https://vnexpress.net/nguoi-dan-nuoc-nao-day-som-nhat-the-gioi-5056887.html",
+      "summary": "Người dân nước này thuờng dậy lúc 6h20 vào ngày đi làm, sớm nhất thế giới. Bạn có biết đây là quốc gia nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T13:02:00+07:00",
+      "fetched": "2026-04-02T20:06:29.496293+07:00"
+    },
+    {
+      "id": "29ef8598db5197b12c6dcdac77b43812",
+      "title": "Ác mộng của những thủy thủ mắc kẹt tại eo biển Hormuz",
+      "link": "https://vnexpress.net/ac-mong-cua-nhung-thuy-thu-mac-ket-tai-eo-bien-hormuz-5057652.html",
+      "summary": "Gần 20.000 thủy thủ đang kẹt giữa vùng chiến sự tại eo biển Hormuz, đối mặt hiểm nguy chết người và nỗi lo sinh kế đè nặng lên vai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T13:01:02+07:00",
+      "fetched": "2026-04-02T20:06:29.496455+07:00"
+    },
+    {
+      "id": "29ef8598db5197b12c6dcdac77b43812",
+      "title": "Ác mộng của những thủy thủ mắc kẹt tại eo biển Hormuz",
+      "link": "https://vnexpress.net/ac-mong-cua-nhung-thuy-thu-mac-ket-tai-eo-bien-hormuz-5057652.html",
+      "summary": "Gần 20.000 thủy thủ đang kẹt giữa vùng chiến sự tại eo biển Hormuz, đối mặt hiểm nguy chết người và nỗi lo sinh kế đè nặng lên vai.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-02T13:01:02+07:00",
+      "fetched": "2026-04-02T20:06:35.642820+07:00"
+    },
+    {
+      "id": "23012838a17aa76ef242cccd92a43447",
+      "title": "Thủy lôi - ‘sát thủ ngầm’ của Iran nguy hiểm thế nào",
+      "link": "https://vnexpress.net/thuy-loi-sat-thu-ngam-cua-iran-nguy-hiem-the-nao-5057816.html",
+      "summary": "Các chuyên gia ước tính Iran sở hữu khoảng 5.000 quả thủy lôi có khả năng “tàng hình”, đủ sức nhấc bổng và bẻ gãy các chiến hạm hiện đại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T13:00:00+07:00",
+      "fetched": "2026-04-02T20:06:29.496597+07:00"
+    },
+    {
+      "id": "537fde4124379975356b33bb2bf044d9",
+      "title": "Vì sao người Nhật coi trọng sự yên tĩnh nhưng húp mì thành tiếng?",
+      "link": "https://vnexpress.net/vi-sao-nguoi-nhat-coi-trong-su-yen-tinh-nhung-hup-mi-thanh-tieng-5057589.html",
+      "summary": "Tiếng húp mì xì xụp tại Nhật Bản hình thành từ nhiều thế kỷ trước, giúp thực khách tránh bỏng miệng, cảm nhận hương vị tốt hơn và thể hiện sự tán thưởng cho đầu bếp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T13:00:00+07:00",
+      "fetched": "2026-04-02T20:06:29.496727+07:00"
+    },
+    {
+      "id": "6c9407e1fd55d046cb08ae349dc075d4",
+      "title": "Tuổi 37, tôi vẫn kiên nhẫn chờ người 'hợp chuyện' dù 5 hay 10 năm",
+      "link": "https://vnexpress.net/lay-chong-muon-tuoi-37-toi-van-kien-nhan-cho-nguoi-hop-chuyen-du-5-hay-10-nam-5057419.html",
+      "summary": "Chờ từ khi tóc còn xanh đến lúc tóc bạc cũng được, miễn khi ở bên người ấy, tôi được là chính mình, bình an và cùng nhau già đi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T13:00:00+07:00",
+      "fetched": "2026-04-02T20:06:29.496855+07:00"
+    },
+    {
+      "id": "b4bf39da24f6b78cfbfcb9e1cb960707",
+      "title": "Fujifilm hợp tác quản trị hình ảnh y tế số tập trung",
+      "link": "https://vnexpress.net/fujifilm-hop-tac-quan-tri-hinh-anh-y-te-so-tap-trung-5057837.html",
+      "summary": "Fujifilm Việt Nam ký hợp tác chiến lược với J.F. Advance Med, triển khai giải pháp quản trị hình ảnh y tế, nâng tầm quản trị y tế số tại Việt Nam, hôm 28/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T13:00:00+07:00",
+      "fetched": "2026-04-02T20:06:29.496985+07:00"
+    },
+    {
+      "id": "9cb5f493a5135fb1112a93e4b5fcd44b",
+      "title": "Xem nhanh 20h ngày 2.4: Gas tăng giá, chủ quán ăn chật vật giữ khách | Sự cố hy hữu của siêu tàu sân bay Mỹ",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-24-gas-tang-gia-chu-quan-an-chat-vat-giu-khach-su-co-hy-huu-cua-sieu-tau-san-bay-my-185260402192816098.htm",
+      "summary": "'Xem nhanh 20h' ngày 2.4 có nhiều tin tức đáng chú ý về: Giá gas tăng, chủ quán ăn tìm cách \"thắt lưng buộc bụng\" để giữ khách; Điều gì đang xảy ra với USS Ford, tàu sân bay tiên tiến nhất của Mỹ?;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T13:00:00+07:00",
+      "fetched": "2026-04-02T20:06:32.714802+07:00"
+    },
+    {
+      "id": "c5953bc32aad820504b506cabe883519",
+      "title": "Chiến lược quản trị hình ảnh y tế số tập trung cho mô hình đa cơ sở",
+      "link": "https://thanhnien.vn/chien-luoc-quan-tri-hinh-anh-y-te-so-tap-trung-cho-mo-hinh-da-co-so-185260402150320341.htm",
+      "summary": "Trong bối cảnh chuyển đổi số y tế, Fujifilm Việt Nam ký kết hợp tác chiến lược với J.F. Advance Med, đơn vị hơn 25 năm triển khai Synapse Enterprise Imaging - giải pháp quản trị hình ảnh y tế toàn diện đã triển khai hơn 7.500 cơ sở y tế toàn cầu, hứa hẹn nâng tầm quản trị y tế số tại Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T13:00:00+07:00",
+      "fetched": "2026-04-02T20:06:32.714950+07:00"
+    },
+    {
+      "id": "d58df7d955fb94fc705aa30377dd1710",
+      "title": "Làm mới tủ đồ mùa hè với quần jeans ống rộng trẻ trung",
+      "link": "https://thanhnien.vn/thoi-trang-tre/lam-moi-tu-do-mua-he-voi-quan-jeans-ong-rong-tre-trung-185260401231104799.htm",
+      "summary": "Quần jeans ống rộng mang đến làn gió mới cho tủ đồ mùa hè, vừa thoải mái vừa trẻ trung, giúp nàng dễ dàng biến hóa phong cách mỗi ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T13:00:00+07:00",
+      "fetched": "2026-04-02T20:06:32.715080+07:00"
+    },
+    {
+      "id": "038676a83ec3b3c9d1570810d8f582d3",
+      "title": "Facebook thông báo đóng cửa Messenger.com",
+      "link": "https://thanhnien.vn/facebook-thong-bao-dong-cua-messengercom-185260402173207274.htm",
+      "summary": "Facebook thông báo từ ngày 16.4.2026, messenger.com sẽ ngừng hoạt động trên trình duyệt web, còn ứng dụng di động vẫn hoạt động bình thường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T12:59:00+07:00",
+      "fetched": "2026-04-02T20:06:32.715219+07:00"
+    },
+    {
+      "id": "5118023173f6a07d07f709f3c3e89819",
+      "title": "Đại tướng Phan Văn Giang đề nghị thanh niên quân đội thực hiện 16 từ khóa",
+      "link": "https://thanhnien.vn/dai-tuong-phan-van-giang-de-nghi-thanh-nien-quan-doi-thuc-hien-16-tu-khoa-185260402171532534.htm",
+      "summary": "Phát biểu tại lễ tuyên dương Gương mặt trẻ tiêu biểu, Gương mặt trẻ triển vọng toàn quân năm 2025, đại tướng Phan Văn Giang đề nghị thanh niên quân đội thực hiện 16 từ khóa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T12:55:00+07:00",
+      "fetched": "2026-04-02T20:06:32.715351+07:00"
+    },
+    {
+      "id": "025cbaf97afa2df69ee68d3b1e6ca0a1",
+      "title": "Nhiều người vẫn dùng SIM vật lý dù điện thoại đã có eSIM",
+      "link": "https://thanhnien.vn/nhieu-nguoi-van-dung-sim-vat-ly-du-dien-thoai-da-co-esim-185260402181548842.htm",
+      "summary": "Nhiều biến thể iPhone hiện nay đã không còn SIM vật lý mà chuyển sang eSIM khiến không ít người cảm thấy khó chịu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T12:53:00+07:00",
+      "fetched": "2026-04-02T20:06:32.715469+07:00"
+    },
+    {
+      "id": "2cd362621d01e17858484dbb1aac52d6",
+      "title": "Có người trúng 5 tỉ đồng xổ số Vietlott Power 6/55, tiền độc đắc tăng 63 tỉ",
+      "link": "https://thanhnien.vn/co-nguoi-trung-5-ti-dong-xo-so-vietlott-power-6-55-tien-doc-dac-tang-63-ti-18526040219085101.htm",
+      "summary": "Tối 2.4, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Power 6/55, lần này xuất hiện một người trúng 5 tỉ đồng, riêng giải độc đắc thì cộng dồn lên 63 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T12:42:00+07:00",
+      "fetched": "2026-04-02T20:06:32.715589+07:00"
+    },
+    {
       "id": "df4276cb622ff5c5249a40259960b0c4",
       "title": "Mỹ dỡ trừng phạt bà Delcy Rodriguez, mở đường bình thường hóa quan hệ với Venezuela",
       "link": "https://tuoitre.vn/my-do-trung-phat-ba-delcy-rodriguez-mo-duong-binh-thuong-hoa-quan-he-voi-venezuela-20260402105949662.htm",
@@ -501,6 +791,216 @@ window.newsData_2026_04_02 = {
       "category": "Tổng hợp",
       "published": "2026-04-02T12:40:08.087209+07:00",
       "fetched": "2026-04-02T12:40:08.087442+07:00"
+    },
+    {
+      "id": "96954f236d728facc70d1ece6cb168f9",
+      "title": "Tối nay rằm tháng 2 trăng hồng sáng rực bầu trời Việt, cạnh chòm sao Xử Nữ",
+      "link": "https://thanhnien.vn/toi-nay-ram-thang-2-trang-hong-sang-ruc-bau-troi-viet-canh-chom-sao-xu-nu-18526040209571811.htm",
+      "summary": "Bầu trời Việt Nam tối nay 2.4 (đêm rằm tháng 2) được thắp sáng bởi trăng hồng. Mặt trăng có màu hồng như tên gọi?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T12:40:00+07:00",
+      "fetched": "2026-04-02T20:06:32.715714+07:00"
+    },
+    {
+      "id": "c271274d7e2a385e9bc53a450592a352",
+      "title": "Christina Koch - nữ phi hành gia đầu tiên bay quanh Mặt Trăng",
+      "link": "https://vnexpress.net/christina-koch-nu-phi-hanh-gia-dau-tien-bay-quanh-mat-trang-5057823.html",
+      "summary": "Ở tuổi 47, Koch ghi dấu ấn khi trở thành nữ phi hành gia đầu tiên bay ra ngoài quỹ đạo LEO và hướng tới Mặt Trăng. Cô cũng từng lập kỷ lục 328 ngày sống liên tục trên không gian.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T12:32:04+07:00",
+      "fetched": "2026-04-02T20:06:29.497114+07:00"
+    },
+    {
+      "id": "6a1418f2dc8b3a8153659b570dd5671c",
+      "title": "Nữ đại biểu TP.HCM trúng cử bằng năng lực, vượt qua định kiến 'quân xanh', 'lót đường'",
+      "link": "https://thanhnien.vn/nu-dai-bieu-tphcm-trung-cu-bang-nang-luc-vuot-qua-dinh-kien-quan-xanh-lot-duong-185260402190115271.htm",
+      "summary": "Ngày 2.4, Hội Liên hiệp phụ nữ TP.HCM tổ chức chương trình họp mặt nữ đại biểu Quốc hội và HĐND TP.HCM nhiệm kỳ 2026 - 2031 với chủ đề 'Tiếp nối bản lĩnh - Lan tỏa niềm tin'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T12:31:00+07:00",
+      "fetched": "2026-04-02T20:06:32.715833+07:00"
+    },
+    {
+      "id": "62eaddfa95fbf27671a6e3f386c3a70c",
+      "title": "Việt Nam đặt mục tiêu vào nhóm 30 nền kinh tế lớn nhất thế giới",
+      "link": "https://vnexpress.net/viet-nam-dat-muc-tieu-vao-nhom-30-nen-kinh-te-lon-nhat-the-gioi-5057828.html",
+      "summary": "Trung ương đặt mục tiêu tăng trưởng từ 10%/năm giai đoạn 2026-2030, hướng tới đưa Việt Nam vào nhóm 30 nền kinh tế lớn nhất thế giới và trở thành nước có công nghiệp hiện đại, thu nhập trung bình cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T12:30:29+07:00",
+      "fetched": "2026-04-02T20:06:29.497255+07:00"
+    },
+    {
+      "id": "d4283c85c1b9a43c7f56e0f83025075e",
+      "title": "Lừa trưởng khoa bệnh viện 3,5 tỷ đồng 'chạy' chức phó giám đốc",
+      "link": "https://vnexpress.net/lua-truong-khoa-benh-vien-3-5-ty-dong-chay-chuc-pho-giam-doc-5057833.html",
+      "summary": "Chu Văn Tuấn \"nổ\" là thiếu tướng tình báo Bộ Công an, có thể chạy chức, chạy án, lừa gần 12 tỷ đồng của 3 người, trong đó có một bác sĩ trưởng khoa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T12:30:24+07:00",
+      "fetched": "2026-04-02T20:06:29.497386+07:00"
+    },
+    {
+      "id": "b42b93a0c3ce4324cad945240d9b9a5b",
+      "title": "Chế độ dinh dưỡng góp phần củng cố miễn dịch cho trẻ",
+      "link": "https://vnexpress.net/che-do-dinh-duong-gop-phan-cung-co-mien-dich-cho-tre-5057819.html",
+      "summary": "Dinh dưỡng hiện đại với các giải pháp lấy cảm hứng từ sữa mẹ hỗ trợ tăng cường miễn dịch tự nhiên cho trẻ nhỏ, nhất là trẻ sinh mổ, trong giai đoạn đầu đời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T12:30:00+07:00",
+      "fetched": "2026-04-02T20:06:29.497525+07:00"
+    },
+    {
+      "id": "a2330a863f3a135a3c9b266d598bdf33",
+      "title": "TikTok rót 125 triệu USD vào TP HCM",
+      "link": "https://vnexpress.net/tiktok-rot-125-trieu-usd-vao-tp-hcm-5057829.html",
+      "summary": "TikTok là một trong 10 dự án FDI nổi bật đầu tư vào TP HCM trong 3 tháng đầu năm, với vốn 125 triệu USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T12:28:40+07:00",
+      "fetched": "2026-04-02T20:06:29.497648+07:00"
+    },
+    {
+      "id": "a2330a863f3a135a3c9b266d598bdf33",
+      "title": "TikTok rót 125 triệu USD vào TP HCM",
+      "link": "https://vnexpress.net/tiktok-rot-125-trieu-usd-vao-tp-hcm-5057829.html",
+      "summary": "TikTok là một trong 10 dự án FDI nổi bật đầu tư vào TP HCM trong 3 tháng đầu năm, với vốn 125 triệu USD.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-02T12:28:40+07:00",
+      "fetched": "2026-04-02T20:06:36.814153+07:00"
+    },
+    {
+      "id": "d89bd8987d168abc91ea1c726e8ff246",
+      "title": "Tập đoàn Intel tham gia liên minh nghiên cứu và đào tạo bán dẫn TP.HCM",
+      "link": "https://thanhnien.vn/tap-doan-intel-tham-gia-lien-minh-nghien-cuu-va-dao-tao-ban-dan-tphcm-185260402161751553.htm",
+      "summary": "Tập đoàn Intel trở thành thành viên liên kết quốc tế đầu tiên của Liên minh Nghiên cứu và Đào tạo nhân lực bán dẫn, điện tử giai đoạn 2025-2030 (Liên minh ARTSeMi).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T12:24:00+07:00",
+      "fetched": "2026-04-02T20:06:32.715946+07:00"
+    },
+    {
+      "id": "7fe70d110df3586f3b44e92e09987c42",
+      "title": "Hà Nội siết chặt kiểm soát chất lượng bữa ăn bán trú",
+      "link": "https://thanhnien.vn/ha-noi-siet-chat-kiem-soat-chat-luong-bua-an-ban-tru-185260402183043389.htm",
+      "summary": "Hà Nội yêu cầu Sở GD-ĐT kiểm tra, khắc phục ngay các tồn tại, bất cập (nếu có) trong tổ chức bữa ăn bán trú cho học sinh. Giao sở này chịu trách nhiệm toàn diện nếu để xảy ra vi phạm trong bữa ăn bán trú thuộc thẩm quyền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T12:22:00+07:00",
+      "fetched": "2026-04-02T20:06:32.716059+07:00"
+    },
+    {
+      "id": "ab0ca2141797db47dd1f9ff3c32caee4",
+      "title": "Thợ Điện Máy XANH: Khi sự tận tâm được khẳng định qua tay nghề chuẩn hãng",
+      "link": "https://thanhnien.vn/tho-dien-may-xanh-khi-su-tan-tam-duoc-khang-dinh-qua-tay-nghe-chuan-hang-185260402191037749.htm",
+      "summary": "Giữa bối cảnh thị trường dịch vụ lắp đặt vẫn còn nhiều dư địa phát triển, Thợ Điện máy XANH đang dần thiết lập một 'định nghĩa' mới về sự chuyên nghiệp thông qua quân số hùng hậu, hạ tầng vận tải vượt trội và nền tảng công nghệ điều phối hiện đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T12:20:00+07:00",
+      "fetched": "2026-04-02T20:06:32.716185+07:00"
+    },
+    {
+      "id": "e5ecf0a6977f1a469e072755b805efb9",
+      "title": "Lần đầu tiên sinh viên Việt được học làm game trên Roblox",
+      "link": "https://vnexpress.net/sinh-vien-cong-nghe-thong-tin-duoc-hoc-lam-game-va-phat-hanh-tren-roblox-5057770.html",
+      "summary": "Sinh viên trường Đại học Công nghệ Thông tin được học làm game và có cơ hội phát hành trên Roblox - nền tảng giải trí và phát hành trò chơi trực tuyến hàng đầu thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T12:19:00+07:00",
+      "fetched": "2026-04-02T20:06:29.497769+07:00"
+    },
+    {
+      "id": "866093d36c452c8b2c100fc31601d5f7",
+      "title": "Đầu độc người tình bằng xyanua, nữ bị cáo lãnh 30 năm tù",
+      "link": "https://thanhnien.vn/dau-doc-nguoi-tinh-bang-xyanua-nu-bi-cao-lanh-30-nam-tu-185260402183802266.htm",
+      "summary": "Sau khi đầu độc người tình bằng xyanua trên ô tô, Nguyễn Thu Trang (40 tuổi, ở tỉnh Đồng Tháp) tìm cách dựng hiện trường tai nạn ở đèo Bảo Lộc nhằm che giấu hành vi phạm tội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T12:15:00+07:00",
+      "fetched": "2026-04-02T20:06:32.716305+07:00"
+    },
+    {
+      "id": "bb120b9e5a80aadb39344debc94c5213",
+      "title": "TP.HCM có hơn 1.000 tủ đổi pin xe máy điện trên vỉa hè",
+      "link": "https://thanhnien.vn/tphcm-co-hon-1000-tu-doi-pin-xe-may-dien-tren-via-he-185260402161005835.htm",
+      "summary": "TP.HCM đã lắp hơn 1.000 tủ đổi pin xe máy điện, nhiều vị trí đặt ngay trên vỉa hè, giúp người dân tiếp cận dễ dàng và thúc đẩy xu hướng giao thông xanh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T12:15:00+07:00",
+      "fetched": "2026-04-02T20:06:32.716424+07:00"
+    },
+    {
+      "id": "07a912ba2c51c0fe1332258d40a0d48b",
+      "title": "Lãnh đạo Công an tỉnh Đồng Tháp thăm gia đình thành viên tổ ANTT hy sinh",
+      "link": "https://thanhnien.vn/lanh-dao-cong-an-tinh-dong-thap-tham-gia-dinh-thanh-vien-to-antt-hy-sinh-185260402181848472.htm",
+      "summary": "Sau vụ việc một thành viên tổ bảo vệ an ninh trật tự cơ sở hy sinh khi làm nhiệm vụ, lãnh đạo Công an tỉnh Đồng Tháp đã đến thăm hỏi, hỗ trợ gia đình nạn nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T12:10:00+07:00",
+      "fetched": "2026-04-02T20:06:32.716543+07:00"
+    },
+    {
+      "id": "1a56c0037455e560a9582e1e0efd8de4",
+      "title": "Ronaldo, Messi đóng chung quảng cáo World Cup",
+      "link": "https://vnexpress.net/ronaldo-messi-dong-chung-quang-cao-world-cup-5057834.html",
+      "summary": "Một thương hiệu đồ chơi toàn cầu đăng video có Cristiano Ronaldo, Lionel Messi, Kylian Mbappe và Vinicius Junior cùng chơi xếp hình danh hiệu World Cup.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T12:08:06+07:00",
+      "fetched": "2026-04-02T20:06:29.497893+07:00"
+    },
+    {
+      "id": "1a56c0037455e560a9582e1e0efd8de4",
+      "title": "Ronaldo, Messi đóng chung quảng cáo World Cup",
+      "link": "https://vnexpress.net/ronaldo-messi-dong-chung-quang-cao-world-cup-5057834.html",
+      "summary": "Một thương hiệu đồ chơi toàn cầu đăng video có Cristiano Ronaldo, Lionel Messi, Kylian Mbappe và Vinicius Junior cùng chơi xếp hình danh hiệu World Cup.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-02T12:08:06+07:00",
+      "fetched": "2026-04-02T20:06:41.503033+07:00"
+    },
+    {
+      "id": "e2e34807741f44655b09114ef496ce90",
+      "title": "Thành viên tổ bảo vệ an ninh cơ sở bị kẻ say sát hại",
+      "link": "https://vnexpress.net/thanh-vien-to-bao-ve-an-ninh-co-so-bi-ke-say-sat-hai-5057703.html",
+      "summary": "Trong lúc ngăn cản gã đàn ông \"múa dao\" tại chợ Tân Long, ông Phạm Văn Mịch, thành viên tổ bảo vệ an ninh cơ sở bị người này đâm tử vong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T12:07:15+07:00",
+      "fetched": "2026-04-02T20:06:29.498013+07:00"
+    },
+    {
+      "id": "770cb972c48ae2accf2f72ff76b5fd38",
+      "title": "Tại sao trang phục của phi hành gia Artemis II có màu cam?",
+      "link": "https://vnexpress.net/tai-sao-trang-phuc-cua-phi-hanh-gia-artemis-ii-co-mau-cam-5057694.html",
+      "summary": "Thay vì màu trắng thường thấy, các phi hành gia Artemis II mặc bộ đồ màu cam nhằm tăng tính nhận diện khi đáp xuống Trái Đất, thuận lợi cho việc cứu hộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T12:02:08+07:00",
+      "fetched": "2026-04-02T20:06:29.498132+07:00"
+    },
+    {
+      "id": "770cb972c48ae2accf2f72ff76b5fd38",
+      "title": "Tại sao trang phục của phi hành gia Artemis II có màu cam?",
+      "link": "https://vnexpress.net/tai-sao-trang-phuc-cua-phi-hanh-gia-artemis-ii-co-mau-cam-5057694.html",
+      "summary": "Thay vì màu trắng thường thấy, các phi hành gia Artemis II mặc bộ đồ màu cam nhằm tăng tính nhận diện khi đáp xuống Trái Đất, thuận lợi cho việc cứu hộ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-02T12:02:08+07:00",
+      "fetched": "2026-04-02T20:06:39.652920+07:00"
+    },
+    {
+      "id": "b015758fbef2f1862f4978c2abb717ab",
+      "title": "Dự án điện gió ngoài khơi, hydrogen xanh được bán tới 90% tín chỉ carbon",
+      "link": "https://vnexpress.net/du-an-dien-gio-ngoai-khoi-hydrogen-xanh-duoc-ban-toi-90-tin-chi-carbon-5057822.html",
+      "summary": "Các dự án công nghệ mới như điện gió ngoài khơi, hydrogen xanh được chuyển giao tới 90% tín chỉ carbon, theo Nghị định 112.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-02T11:40:26+07:00",
+      "fetched": "2026-04-02T20:06:36.814325+07:00"
     },
     {
       "id": "72fc66ff35d46037f3a0091f91ee0b68",
