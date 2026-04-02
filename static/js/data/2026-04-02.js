@@ -1,7 +1,57 @@
 window.newsData_2026_04_02 = {
   "date": "2026-04-02",
-  "lastUpdated": "2026-04-02T12:40:13.170199+07:00",
+  "lastUpdated": "2026-04-02T14:08:23.728820+07:00",
   "articles": [
+    {
+      "id": "d461748b8c1829ffcd62f3b6d35df394",
+      "title": "Giới siêu giàu bị nghi né thuế 3.550 tỉ USD, hơn 3% GDP toàn cầu",
+      "link": "https://tuoitre.vn/gioi-sieu-giau-bi-nghi-ne-thue-3-550-ti-usd-hon-3-gdp-toan-cau-20260402115236717.htm",
+      "summary": "Giới siêu giàu bị cho là đang giấu các cơ quan thuế khoảng 3.550 tỉ USD, làm dấy lên lời kêu gọi áp thuế tài sản mạnh tay hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T14:08:15.461022+07:00",
+      "fetched": "2026-04-02T14:08:15.461139+07:00"
+    },
+    {
+      "id": "19abeb54efc971bc9c7602cae1863a32",
+      "title": "Tây Ninh sẽ phối hợp mở nhiều tuyến xe buýt đi các xã, phường nội thành TP.HCM để phát triển du lịch",
+      "link": "https://tuoitre.vn/tay-ninh-se-phoi-hop-mo-nhieu-tuyen-xe-buyt-di-cac-xa-phuong-noi-thanh-tp-hcm-de-phat-trien-du-lich-20260402115031574.htm",
+      "summary": "Đây là một trong các giải pháp phát triển hạ tầng giao thông, dịch vụ kỹ thuật phục vụ du lịch được Tây Ninh tính toán, để đạt mục tiêu tăng gấp đôi lượng khách du lịch vào năm 2030.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T14:08:15.460868+07:00",
+      "fetched": "2026-04-02T14:08:15.461009+07:00"
+    },
+    {
+      "id": "c4e3d60a4d7db69dba0f7ed0a2bdb34a",
+      "title": "Hoàng Đức bị quá tải sau trận tuyển Việt Nam thắng Malaysia",
+      "link": "https://tuoitre.vn/hoang-duc-bi-qua-tai-sau-tran-tuyen-viet-nam-thang-malaysia-20260402095801879.htm",
+      "summary": "Tiền vệ Nguyễn Hoàng Đức sẽ phải nghỉ thi đấu vài tuần sau 2 trận thi đấu cho tuyển Việt Nam vì bị quá tải đầu gối.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T14:08:15.460739+07:00",
+      "fetched": "2026-04-02T14:08:15.460856+07:00"
+    },
+    {
+      "id": "5219b961be1c9fe1d6979345570938d0",
+      "title": "Hút thuốc lá, cần sa gây teo não",
+      "link": "https://tuoitre.vn/hut-thuoc-la-can-sa-gay-teo-nao-20260402085907989.htm",
+      "summary": "Nghiên cứu trên hơn 72.000 người cho thấy cần sa và thuốc lá liên quan đến giảm thể tích nhiều vùng não, ảnh hưởng trí nhớ, cảm xúc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T14:08:15.460602+07:00",
+      "fetched": "2026-04-02T14:08:15.460727+07:00"
+    },
+    {
+      "id": "04f03d048afe87f39456122759893143",
+      "title": "Khủng hoảng Trung Đông đẩy châu Á quay lại điện than",
+      "link": "https://tuoitre.vn/khung-hoang-trung-dong-day-chau-a-quay-lai-dien-than-20260402072827542.htm",
+      "summary": "Xung đột tại Trung Đông đã giáng một đòn mạnh vào nguồn cung năng lượng, buộc nhiều nước châu Á phải quay lại điện than.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T14:08:15.460375+07:00",
+      "fetched": "2026-04-02T14:08:15.460587+07:00"
+    },
     {
       "id": "df4276cb622ff5c5249a40259960b0c4",
       "title": "Mỹ dỡ trừng phạt bà Delcy Rodriguez, mở đường bình thường hóa quan hệ với Venezuela",
@@ -301,6 +351,326 @@ window.newsData_2026_04_02 = {
       "category": "Tổng hợp",
       "published": "2026-04-02T09:02:27.981921+07:00",
       "fetched": "2026-04-02T09:02:27.982135+07:00"
+    },
+    {
+      "id": "007f30a0b2f4c1d9a8c90968da401e2e",
+      "title": "Nghi phạm có 3 tiền án trộm cắp tài sản tiếp tục đi trộm vàng",
+      "link": "https://thanhnien.vn/nghi-pham-co-3-tien-an-trom-cap-tai-san-tiep-tuc-di-trom-vang-185260402130943171.htm",
+      "summary": "Có 3 tiền án về trộm cắp tài sản, Nguyễn Hoàng Sơn không ăn năn hối lỗi mà tiếp tục đột nhập vào nhà dân trộm vàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T07:06:00+07:00",
+      "fetched": "2026-04-02T14:08:14.365821+07:00"
+    },
+    {
+      "id": "022046897918540c0a3804080b9a3976",
+      "title": "Dự kiến lương cơ sở tăng lên 2,53 triệu đồng, lương giảng viên thay đổi ra sao?",
+      "link": "https://thanhnien.vn/du-kien-luong-co-so-tang-len-253-trieu-dong-luong-giang-vien-thay-doi-ra-sao-185260402130558925.htm",
+      "summary": "Bộ Nội vụ đề xuất điều chỉnh mức lương cơ sở là 2,53 triệu đồng/tháng từ ngày 1.7.2026. Nếu vậy, lương và phụ cấp ưu đãi của giảng viên sẽ thay đổi ra sao?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T07:05:00+07:00",
+      "fetched": "2026-04-02T14:08:14.366013+07:00"
+    },
+    {
+      "id": "12511463bce4033c3de0849768765f10",
+      "title": "Trải nghiệm Lễ hội Áo dài đặc sắc giữa không gian sống xanh tại Mizuki Park",
+      "link": "https://thanhnien.vn/trai-nghiem-le-hoi-ao-dai-dac-sac-giua-khong-gian-song-xanh-tai-mizuki-park-185260402113917564.htm",
+      "summary": "Không chỉ là nơi an cư, Mizuki Park còn là không gian mà những giá trị văn hóa luôn hiện diện và được lan tỏa trong đời sống thường nhật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T07:00:00+07:00",
+      "fetched": "2026-04-02T14:08:14.366173+07:00"
+    },
+    {
+      "id": "190d19e9786b4b137c3b85d3276f0d56",
+      "title": "Bí quyết tỏa sáng trong mọi bữa tiệc với đầm sequin lấp lánh",
+      "link": "https://thanhnien.vn/thoi-trang-tre/bi-quyet-toa-sang-trong-moi-bua-tiec-voi-dam-sequin-lap-lanh-185260331111854344.htm",
+      "summary": "Tỏa sáng rạng rỡ với những chiếc đầm sequin lấp lánh, giúp nàng khẳng định phong thái sang trọng và đẳng cấp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T07:00:00+07:00",
+      "fetched": "2026-04-02T14:08:14.366329+07:00"
+    },
+    {
+      "id": "520969d3ae1b505ed208de068acad616",
+      "title": "Kỷ lục về số tay đua ngoại ở giải xe đạp xuyên Việt 2026",
+      "link": "https://vnexpress.net/ky-luc-ve-so-tay-dua-ngoai-o-giai-xe-dap-xuyen-viet-2026-5057612.html",
+      "summary": "13 cua-rơ ngoại binh đến từ năm châu lục hứa hết tăng thêm kịch tính và chất lượng chuyên môn cho giải xe đạp toàn quốc tranh Cup truyền hình HTV 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-02T06:58:40+07:00",
+      "fetched": "2026-04-02T14:08:23.721602+07:00"
+    },
+    {
+      "id": "65f8a1c6237a3d4d7b0e00426f84f06e",
+      "title": "PC vào chu kỳ tăng giá: Có nên mua ở thời điểm này?",
+      "link": "https://thanhnien.vn/pc-vao-chu-ky-tang-gia-co-nen-mua-o-thoi-diem-nay-185260402140438099.htm",
+      "summary": "Bước sang năm 2026, thị trường linh kiện máy tính và thiết bị điện tử tiếp tục chứng kiến một đợt tăng giá mạnh chưa từng thấy trong nhiều năm trở lại đây. Từ RAM, SSD, CPU cho tới VGA - gần như toàn bộ các mặt hàng công nghệ thiết yếu có xu hướng tăng giá.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T06:56:00+07:00",
+      "fetched": "2026-04-02T14:08:14.366483+07:00"
+    },
+    {
+      "id": "a66d7540e90b3019fff9f28aae46db6a",
+      "title": "Giá vàng, bạc 'sập' mạnh",
+      "link": "https://thanhnien.vn/gia-vang-bac-sap-manh-185260402134518351.htm",
+      "summary": "Chiều 2.4, giá vàng miếng SJC giảm thêm 3,2 triệu đồng mỗi lượng, thổi bay mức tăng giá những ngày qua, xuống còn 172,8 triệu đồng. Giá bạc cũng tương tự, mất vài triệu đồng trong ngày khiến người ôm hàng chỉ còn biết than trời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T06:51:00+07:00",
+      "fetched": "2026-04-02T14:08:14.366643+07:00"
+    },
+    {
+      "id": "a9ca4102bbe6cd9976c4ba4626eded6b",
+      "title": "Đêm nhạc tưởng nhớ nhạc sĩ Trịnh Công Sơn tại Singapore",
+      "link": "https://thanhnien.vn/dem-nhac-tuong-nho-nhac-si-trinh-cong-son-tai-singapore-18526040212051557.htm",
+      "summary": "Chương trình 'Nối vòng tay lớn' được tổ chức tại Singapore với mong muốn gìn giữ di sản âm nhạc của nhạc sĩ Trịnh Công Sơn và đưa những giai điệu ấy đến gần hơn với cộng đồng người Việt ở nước ngoài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T06:47:00+07:00",
+      "fetched": "2026-04-02T14:08:14.366808+07:00"
+    },
+    {
+      "id": "92efb6d26ad77e453fe5d8b25672036e",
+      "title": "Bí thư Thành ủy Trần Lưu Quang đứng suốt buổi lắng nghe người trẻ nói",
+      "link": "https://thanhnien.vn/bi-thu-thanh-uy-tran-luu-quang-dung-suot-buoi-lang-nghe-nguoi-tre-noi-185260402132721211.htm",
+      "summary": "Không chỉ bất ngờ ôm đàn hát tặng thanh niên, Bí thư Thành ủy Trần Lưu Quang còn đứng nguyên buổi để có thể lắng nghe và trả lời kịp thời những tâm tư, đề xuất của người trẻ thành phố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T06:44:00+07:00",
+      "fetched": "2026-04-02T14:08:14.366978+07:00"
+    },
+    {
+      "id": "1f126b6c1ff29a7db62b1df00122df75",
+      "title": "Bác sĩ chỉ ra 5 thực phẩm tiềm ẩn ngộ độc khi để qua đêm",
+      "link": "https://vnexpress.net/bac-si-chi-ra-5-thuc-pham-tiem-an-ngo-doc-khi-de-qua-dem-5057631.html",
+      "summary": "Rau lá xanh, hải sản, trứng lòng đào, các loại nấm và canh bạc nhĩ dễ gây ngộ độc khi để qua đêm nên cần dùng hết sau khi chế biến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T06:40:50+07:00",
+      "fetched": "2026-04-02T14:08:11.040374+07:00"
+    },
+    {
+      "id": "45ada735bc91346425830832fccc7663",
+      "title": "Phát hiện thịt có 'màu lạ', hơn 100 phụ huynh cho con nghỉ học",
+      "link": "https://vnexpress.net/phu-huynh-gop-tien-di-xet-nghiem-phat-hien-thit-ban-tru-nhiem-ta-lon-va-ecoli-dong-loat-cho-con-nghi-hoc-5057635.html",
+      "summary": "Thấy phần mỡ thịt lợn có màu vàng, phụ huynh trường Mầm non Hòa Bình mang đi xét nghiệm, nhận kết quả dương tính khuẩn Ecoli và tả lợn, nên đồng loạt cho con nghỉ học.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T06:39:43+07:00",
+      "fetched": "2026-04-02T14:08:11.040554+07:00"
+    },
+    {
+      "id": "cc6efbe649d3bb2f1f163cf3cd80334f",
+      "title": "Sở hữu 2 trung tâm thương mại, trục Thống Nhất định hình ‘đại lộ tiện ích’",
+      "link": "https://thanhnien.vn/so-huu-2-trung-tam-thuong-mai-truc-thong-nhat-dinh-hinh-dai-lo-tien-ich-185260402134510396.htm",
+      "summary": "Vị trí giá trị được người mua nhà lựa chọn không còn chỉ được đo bằng khoảng cách di chuyển, mà bằng khả năng tạo ra hệ sinh thái tiện ích và dòng người định cư thực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T06:32:00+07:00",
+      "fetched": "2026-04-02T14:08:14.367134+07:00"
+    },
+    {
+      "id": "571a71c0cae9f4a9c129979a7b958ab3",
+      "title": "Trào lưu vừa chạy vừa chăm sóc cơ thể ở các giải marathon",
+      "link": "https://vnexpress.net/trao-luu-vua-chay-vua-cham-soc-co-the-o-cac-giai-marathon-5057572.html",
+      "summary": "Xuất phát từ một trào lưu nước ngoài, việc đánh răng hay đắp mặt nạ trên đường là ý tưởng kỳ lạ đang thu hút nhiều chú ý từ cộng đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T06:30:00+07:00",
+      "fetched": "2026-04-02T14:08:11.040717+07:00"
+    },
+    {
+      "id": "c58efdd0b658442a61db0bbf06da5629",
+      "title": "Cuộc gặp gỡ xúc động sau gần 20 năm xa cách của 2 anh em",
+      "link": "https://thanhnien.vn/cuoc-gap-go-xuc-dong-sau-gan-20-nam-xa-cach-cua-2-anh-em-185260331222656836.htm",
+      "summary": "Xa nhau từ khi mới lên 6, không một lần liên lạc suốt gần hai thập kỷ, Văn chưa từng thôi hy vọng tìm lại em trai cùng mẹ khác cha. Hành trình dò tìm không mấy dễ dàng, nhưng cuối cùng đã khép lại bằng một cuộc gặp gỡ xúc động và đầy nghẹn ngào của những giọt nước mắt và sự hạnh phúc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T06:28:00+07:00",
+      "fetched": "2026-04-02T14:08:14.367283+07:00"
+    },
+    {
+      "id": "61a3c4266d6fd0d70deae1b45bdd573f",
+      "title": "Tàu hộ vệ hiện đại Nhật Bản thăm Đà Nẵng, tăng cường hợp tác quốc phòng",
+      "link": "https://thanhnien.vn/tau-ho-ve-hien-dai-nhat-ban-tham-da-nang-tang-cuong-hop-tac-quoc-phong-185260402124603074.htm",
+      "summary": "Tàu hộ vệ Asahi 119 của Nhật Bản cùng khoảng 200 sĩ quan, thủy thủ cập cảng Đà Nẵng, bắt đầu chuyến thăm hữu nghị, tăng cường hợp tác quốc phòng giữa 2 nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T06:22:00+07:00",
+      "fetched": "2026-04-02T14:08:14.367440+07:00"
+    },
+    {
+      "id": "763cf6aefccfe9eaa65520a37471283c",
+      "title": "Đề xuất thuế VAT, môi trường với dầu hỏa, mazut về 0",
+      "link": "https://vnexpress.net/de-xuat-thue-vat-moi-truong-voi-dau-hoa-mazut-ve-0-5057644.html",
+      "summary": "Bộ Tài chính trình phương án bổ sung giảm thuế VAT, bảo vệ môi trường với dầu hỏa, mazut về 0, tương tự xăng, dầu và nhiên liệu bay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T06:20:40+07:00",
+      "fetched": "2026-04-02T14:08:11.040873+07:00"
+    },
+    {
+      "id": "763cf6aefccfe9eaa65520a37471283c",
+      "title": "Đề xuất thuế VAT, môi trường với dầu hỏa, mazut về 0",
+      "link": "https://vnexpress.net/de-xuat-thue-vat-moi-truong-voi-dau-hoa-mazut-ve-0-5057644.html",
+      "summary": "Bộ Tài chính trình phương án bổ sung giảm thuế VAT, bảo vệ môi trường với dầu hỏa, mazut về 0, tương tự xăng, dầu và nhiên liệu bay.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-02T06:20:40+07:00",
+      "fetched": "2026-04-02T14:08:18.413165+07:00"
+    },
+    {
+      "id": "5217f42b39be25ec388a4349ddfa84e8",
+      "title": "TP.HCM: Xe đầu kéo thắng gấp, cuộn thép văng vào trạm thu phí cầu Phú Mỹ",
+      "link": "https://thanhnien.vn/tphcm-xe-dau-keo-thang-gap-cuon-thep-vang-vao-tram-thu-phi-cau-phu-my-1852604021244184.htm",
+      "summary": "Xe đầu kéo thắng gấp khiến các cuộn thép nặng hàng chục tấn đứt dây chằng buộc, lao về phía trước đè cabin và văng vào trạm thu phí gần cầu Phú Mỹ, giao thông ùn ứ kéo dài gần 2 km.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T06:18:00+07:00",
+      "fetched": "2026-04-02T14:08:14.367589+07:00"
+    },
+    {
+      "id": "db870c71dbc7d4a8809215c820d8a752",
+      "title": "Chỉ một que diêm bạn có thể biến phép tính sai thành đúng?",
+      "link": "https://vnexpress.net/chi-mot-que-diem-ban-co-the-bien-phep-tinh-sai-thanh-dung-5056365.html",
+      "summary": "Điểm thú vị là lời giải không nằm ở việc tính toán, mà nằm ở cách bạn \"nhìn lại vấn đề\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T06:15:00+07:00",
+      "fetched": "2026-04-02T14:08:11.041052+07:00"
+    },
+    {
+      "id": "acef970311db06e07836c12ca098ea4f",
+      "title": "Cha rong ruổi khắp TP.HCM tìm con gái lớp 9 mất tích suốt một tháng",
+      "link": "https://thanhnien.vn/cha-rong-ruoi-khap-tphcm-tim-con-gai-lop-9-mat-tich-suot-mot-thang-185260402130727954.htm",
+      "summary": "Mang theo bức ảnh con gái 15 tuổi bị mất tích, người cha quê Đồng Nai rong ruổi nhiều nơi ở TP.HCM suốt một tháng qua tìm con nhưng vẫn chưa có kết quả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T06:14:00+07:00",
+      "fetched": "2026-04-02T14:08:14.367744+07:00"
+    },
+    {
+      "id": "d0e171a0ef48c195f7f0077bf8d46db2",
+      "title": "'Trai đẹp' xúi giục bạn gái ẩu đả để livestream",
+      "link": "https://vnexpress.net/trai-dep-xui-giuc-ban-gai-au-da-de-livestream-5057592.html",
+      "summary": "Streamer nổi tiếng Clavicular bị bắt với cáo buộc kích động bạn gái ẩu đả với cô gái khác để phát trực tiếp lên mạng xã hội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T06:12:10+07:00",
+      "fetched": "2026-04-02T14:08:11.041219+07:00"
+    },
+    {
+      "id": "5f0ce6d2fa0edc7737774b1237708682",
+      "title": "Chuyên án bí số VN10: Truy tố người mẫu An Tây, ca sĩ Chi Dân, 'cô tiên' Trúc Phương",
+      "link": "https://thanhnien.vn/chuyen-an-bi-so-vn10-truy-to-nguoi-mau-an-tay-ca-si-chi-dan-truc-phuong-185260402125551927.htm",
+      "summary": "Viện KSND TP.HCM truy tố 227 bị can từ vụ 4 tiếp viên hàng không xách ma túy từ Pháp về Việt Nam, trong đó có người mẫu An Tây, ca sĩ Chi Dân, 'cô tiên' Trúc Phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T06:05:00+07:00",
+      "fetched": "2026-04-02T14:08:14.367892+07:00"
+    },
+    {
+      "id": "e54dbc0a62fed98351f0fc39f35bbeb1",
+      "title": "Làm sao để 'cưa' lại bạn trai cũ",
+      "link": "https://vnexpress.net/chia-tay-gan-1-nam-ban-trai-cu-32-tuoi-bat-ngo-nhan-tin-trach-moc-va-doi-lai-cuc-sac-du-phong-5057415.html",
+      "summary": "Tôi cảm nhận anh còn giận tôi rất nhiều, không còn muốn quay lại để phải chịu sự mệt mỏi như trước đây.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T06:00:00+07:00",
+      "fetched": "2026-04-02T14:08:11.041371+07:00"
+    },
+    {
+      "id": "9aae862d7785854a41f886151914ea4a",
+      "title": "Giá vé xe buýt 7 K ở TP HCM là đắt hay rẻ?",
+      "link": "https://vnexpress.net/gia-ve-xe-buyt-7-k-o-tp-hcm-la-dat-hay-re-5057560.html",
+      "summary": "Một ngày đi hai lượt, mỗi tháng đi 22 ngày, một người sẽ tốn 380 nghìn đồng tiền vé xe buýt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T06:00:00+07:00",
+      "fetched": "2026-04-02T14:08:11.041527+07:00"
+    },
+    {
+      "id": "b9cfeecf4531a19602f2af461fd28db2",
+      "title": "Aria Bay hướng đến khai thác nguồn khách du lịch hạng sang tại Hạ Long",
+      "link": "https://vnexpress.net/aria-bay-huong-den-khai-thac-nguon-khach-du-lich-hang-sang-tai-ha-long-5057605.html",
+      "summary": "Quỹ căn The Spotlight Collection thuộc tòa tháp Aria Bay do BIM Land phát triển có tiềm năng khai thác dòng khách cao cấp nhờ tầm nhìn vịnh di sản và tiện ích tiêu chuẩn quốc tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T06:00:00+07:00",
+      "fetched": "2026-04-02T14:08:11.041680+07:00"
+    },
+    {
+      "id": "745f42ffcbdb893428e31dd3eeda9824",
+      "title": "Hơn 1.000 chuyên gia trải nghiệm Cocoon tại hội nghị da liễu",
+      "link": "https://vnexpress.net/hon-1-000-chuyen-gia-trai-nghiem-cocoon-tai-hoi-nghi-da-lieu-5057567.html",
+      "summary": "Mỹ phẩm thuần chay Cocoon lần đầu góp mặt tại Hội nghị Da liễu thẩm mỹ miền Nam 2026, thu hút hơn 1.000 bác sĩ, chuyên gia trải nghiệm, trao đổi chuyên môn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T06:00:00+07:00",
+      "fetched": "2026-04-02T14:08:11.041831+07:00"
+    },
+    {
+      "id": "01c20eb3f5acc3285b5b1e663ea4a907",
+      "title": "Ông Nguyễn Văn Tuấn làm Chủ tịch HĐQT Gelex",
+      "link": "https://vnexpress.net/ong-nguyen-van-tuan-lam-chu-tich-hdqt-gelex-5057499.html",
+      "summary": "Ông Nguyễn Văn Tuấn được bầu Chủ tịch Hội đồng quản trị tại phiên họp Đại hội đồng cổ đông thường niên, chiều 1/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T06:00:00+07:00",
+      "fetched": "2026-04-02T14:08:11.042012+07:00"
+    },
+    {
+      "id": "01c20eb3f5acc3285b5b1e663ea4a907",
+      "title": "Ông Nguyễn Văn Tuấn làm Chủ tịch HĐQT Gelex",
+      "link": "https://vnexpress.net/ong-nguyen-van-tuan-lam-chu-tich-hdqt-gelex-5057499.html",
+      "summary": "Ông Nguyễn Văn Tuấn được bầu Chủ tịch Hội đồng quản trị tại phiên họp Đại hội đồng cổ đông thường niên, chiều 1/4.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-02T06:00:00+07:00",
+      "fetched": "2026-04-02T14:08:18.415154+07:00"
+    },
+    {
+      "id": "843a0eed99a69d7feee544baf1330042",
+      "title": "Món khai vị Italy được ví như tiết canh Việt Nam",
+      "link": "https://vnexpress.net/mon-khai-vi-italy-duoc-vi-nhu-tiet-canh-viet-nam-5056643.html",
+      "summary": "Nhiều thực khách Việt ví món thịt bò sống Carpaccio của Italy với tiết canh vì sự tương đồng trong màu sắc và cách trình bày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T05:58:52+07:00",
+      "fetched": "2026-04-02T14:08:11.042172+07:00"
+    },
+    {
+      "id": "ba193f4f36c71f0c23df4794227357b2",
+      "title": "Sản phẩm thương mại TP.Huế hấp thụ tốt, hơn 65 shophouse An Cựu Galleria ký hợp đồng",
+      "link": "https://thanhnien.vn/san-pham-thuong-mai-tphue-hap-thu-tot-hon-65-shophouse-an-cuu-galleria-ky-hop-dong-185260402125717229.htm",
+      "summary": "Trong bối cảnh thị trường BĐS ngày càng chọn lọc, hơn 65 căn shophouse An Cựu Galleria được ký hợp đồng cho thấy sự quan tâm lớn và khả năng hấp thụ của phân khúc thương mại tại TP.Huế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T05:49:00+07:00",
+      "fetched": "2026-04-02T14:08:14.368066+07:00"
+    },
+    {
+      "id": "5e551d91d21fd943c21de118114905b7",
+      "title": "Bí thư Thành ủy TP HCM Trần Lưu Quang ôm đàn, hát tặng thanh niên",
+      "link": "https://vnexpress.net/bi-thu-thanh-uy-tp-hcm-tran-luu-quang-om-dan-hat-tang-thanh-nien-5057640.html",
+      "summary": "Mở đầu buổi gặp gỡ cán bộ Đoàn - Hội - Đội sáng 2/4, Bí thư Thành ủy TP HCM ôm guitar, hát liên khúc bài Ngồi lại bên nhau và Con đường đến trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T05:47:13+07:00",
+      "fetched": "2026-04-02T14:08:11.042330+07:00"
+    },
+    {
+      "id": "67c615c98fa57fbca74caf4f3a4dd07f",
+      "title": "Bị phạt hơn 8 năm tù vì chống phá Nhà nước",
+      "link": "https://vnexpress.net/bi-phat-hon-8-nam-tu-vi-chong-pha-nha-nuoc-5057634.html",
+      "summary": "Huỳnh Ngọc Tuấn, 63 tuổi, bị tuyên 8 năm 6 tháng tù vì đăng tải nhiều bài viết có nội dung chống Đảng, Nhà nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-02T05:47:09+07:00",
+      "fetched": "2026-04-02T14:08:11.042480+07:00"
     },
     {
       "id": "746d05174b4a426d8db8356f0beade5e",
