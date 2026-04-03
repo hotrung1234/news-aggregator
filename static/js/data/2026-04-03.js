@@ -1,7 +1,137 @@
 window.newsData_2026_04_03 = {
   "date": "2026-04-03",
-  "lastUpdated": "2026-04-03T21:39:58.766551+07:00",
+  "lastUpdated": "2026-04-03T23:36:41.212911+07:00",
   "articles": [
+    {
+      "id": "5e07178376f81c87ecf7c2ec6194cead",
+      "title": "Bộ Nội vụ thẩm định đề án thành lập thành phố Đồng Nai",
+      "link": "https://tuoitre.vn/bo-noi-vu-tham-dinh-de-an-thanh-lap-thanh-pho-dong-nai-20260403203413713.htm",
+      "summary": "Đồng Nai đã đáp ứng 7/7 điều kiện thành lập thành phố trực thuộc Trung ương và đạt 13/15 tiêu chuẩn đô thị loại I.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T23:36:36.036558+07:00",
+      "fetched": "2026-04-03T23:36:36.036681+07:00"
+    },
+    {
+      "id": "12db7f07ca3cecda7cab55343c35331f",
+      "title": "Tìm thấy hài cốt trên tàu hàng Thái Lan bị hư hại ở eo biển Hormuz",
+      "link": "https://tuoitre.vn/tim-thay-hai-cot-tren-tau-hang-thai-lan-bi-hu-hai-o-eo-bien-hormuz-20260403205410579.htm",
+      "summary": "Thái Lan đã phát hiện hài cốt trên tàu Mayuree Naree - con tàu bị tấn công tại eo biển Hormuz hồi tháng 3.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T23:36:36.036403+07:00",
+      "fetched": "2026-04-03T23:36:36.036545+07:00"
+    },
+    {
+      "id": "39f56296dc149caf136599915f6b03e1",
+      "title": "Đằng sau cái tên 'Helma' Iran đặt cho chiếc drone tấn công Mỹ và Israel",
+      "link": "https://tuoitre.vn/dang-sau-cai-ten-helma-iran-dat-cho-chiec-drone-tan-cong-my-va-israel-20260403204144242.htm",
+      "summary": "Helma, bé gái 18 tháng tuổi, là người duy nhất sống sót trong gia đình gồm 5 người ở thành phố Tabriz. Iran đã đưa tên cô bé này lên một chiếc drone trong đợt tấn công mới nhằm vào Mỹ và Israel.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T23:36:36.036275+07:00",
+      "fetched": "2026-04-03T23:36:36.036391+07:00"
+    },
+    {
+      "id": "460107a711213c06eec6cac218b5bcbb",
+      "title": "Bắt tạm giam người làm giả con dấu, chiếm đoạt 2,5 tỉ đồng ở Phú Quốc",
+      "link": "https://tuoitre.vn/bat-tam-giam-nguoi-lam-gia-con-dau-chiem-doat-2-5-ti-dong-o-phu-quoc-20260403201622413.htm",
+      "summary": "Công an tỉnh An Giang đã bắt tạm giam người làm giả con dấu chiếm đoạt tài sản xảy ra ở đặc khu Phú Quốc (tỉnh An Giang).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T23:36:36.036144+07:00",
+      "fetched": "2026-04-03T23:36:36.036262+07:00"
+    },
+    {
+      "id": "a57884f6f5fc2b61cd886ae4790b12e3",
+      "title": "Hiện tượng hiếm: Hàng ngàn con cá leo thác thẳng đứng suốt 10 giờ",
+      "link": "https://tuoitre.vn/hien-tuong-hiem-hang-ngan-con-ca-leo-thac-thang-dung-suot-10-gio-2026040312071912.htm",
+      "summary": "Các nhà nghiên cứu vừa ghi nhận một hiện tượng hiếm gặp, khi hàng ngàn con cá nhỏ 'leo' lên vách của thác nước thẳng đứng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T23:36:36.036001+07:00",
+      "fetched": "2026-04-03T23:36:36.036132+07:00"
+    },
+    {
+      "id": "4074723480c18bb8e432525d7a63b1e3",
+      "title": "Sacombank xử lý nợ xấu của Bamboo Airways, sẽ thu giữ 355 sổ đỏ ở Gia Lai",
+      "link": "https://tuoitre.vn/sacombank-xu-ly-no-xau-cua-bamboo-airways-se-thu-giu-355-so-do-o-gia-lai-20260403210144056.htm",
+      "summary": "Theo Sacombank, khoản vay này được bảo đảm bằng tài sản thế chấp của Tập đoàn FLC. Còn bên được cấp tín dụng là Bamboo Airways.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T23:36:36.035872+07:00",
+      "fetched": "2026-04-03T23:36:36.035990+07:00"
+    },
+    {
+      "id": "5d8868bdce8478b465a48095c0b07fc7",
+      "title": "Bóng đá Quảng Ngãi đánh dấu sự trở lại bằng chiến thắng",
+      "link": "https://tuoitre.vn/bong-da-quang-ngai-danh-dau-su-tro-lai-bang-chien-thang-20260403213239726.htm",
+      "summary": "CLB Quảng Ngãi đã có chiến thắng đầu tiên ở Giải hạng nhì 2026 trước CLB Đắk Lắk với tỉ số 1-0 để đánh dấu cột mốc trở lại với bóng đá Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T23:36:36.035745+07:00",
+      "fetched": "2026-04-03T23:36:36.035861+07:00"
+    },
+    {
+      "id": "90d2fd51767e215112ec9ec36a65e934",
+      "title": "Ông Zelensky: Sẵn sàng điều đoàn hộ tống và tác chiến điện tử giúp mở lại eo biển Hormuz",
+      "link": "https://tuoitre.vn/ong-zelensky-san-sang-dieu-doan-ho-tong-va-tac-chien-dien-tu-giup-mo-lai-eo-bien-hormuz-20260403214405784.htm",
+      "summary": "Tổng thống Ukraine Volodymyr Zelensky nói rằng quốc gia của ông có thể giúp mở lại eo biển Hormuz, từ kinh nghiệm khôi phục lưu thông qua Biển Đen.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T23:36:36.035615+07:00",
+      "fetched": "2026-04-03T23:36:36.035733+07:00"
+    },
+    {
+      "id": "c7a8f29d31c3ea5aa5f470644a2d9453",
+      "title": "Casino lớn nhất Quảng Ninh bất ngờ báo lãi trở lại sau năm thua lỗ nặng",
+      "link": "https://tuoitre.vn/casino-lon-nhat-quang-ninh-bat-ngo-bao-lai-tro-lai-sau-nam-thua-lo-nang-20260403214453504.htm",
+      "summary": "Chủ casino Royal Hạ Long (Quảng Ninh) bất ngờ lãi 6,8 tỉ đồng trong năm 2025. Tuy nhiên, tổng lỗ lũy kế vẫn hơn 597 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T23:36:36.035471+07:00",
+      "fetched": "2026-04-03T23:36:36.035602+07:00"
+    },
+    {
+      "id": "d427c0464e9a6ae3a6c4867d102a66fc",
+      "title": "Nepal: Hướng dẫn viên đầu độc du khách, ép dùng trực thăng cứu hộ để trục lợi",
+      "link": "https://tuoitre.vn/nepal-huong-dan-vien-dau-doc-du-khach-ep-dung-truc-thang-cuu-ho-de-truc-loi-20260403215205578.htm",
+      "summary": "Cảnh sát Nepal phát hiện đường dây lừa đảo du khách để trục lợi gần 20 triệu USD, thậm chí có trường hợp hướng dẫn viên đầu độc du khách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T23:36:36.035314+07:00",
+      "fetched": "2026-04-03T23:36:36.035437+07:00"
+    },
+    {
+      "id": "d61f7c84a466e03a3d4c040a5dc49956",
+      "title": "Tháng Công nhân năm 2026 sẽ phát động tại Quảng Ninh",
+      "link": "https://tuoitre.vn/thang-cong-nhan-nam-2026-se-phat-dong-tai-quang-ninh-20260403213957291.htm",
+      "summary": "Với chủ đề 'Đổi mới quản lý và nâng cao hiệu quả công tác an toàn, vệ sinh lao động trong kỷ nguyên số', Tháng Công nhân năm 2026 sẽ được phát động ngày 24-4.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T23:36:36.035150+07:00",
+      "fetched": "2026-04-03T23:36:36.035301+07:00"
+    },
+    {
+      "id": "060a6afa58ffd937e9e5fa413b96ffae",
+      "title": "Bắt người ở Tây Ninh mua súng rồi lên Facebook rao bán lại kiếm lời",
+      "link": "https://tuoitre.vn/bat-nguoi-o-tay-ninh-mua-sung-roi-len-facebook-rao-ban-lai-kiem-loi-20260403215433311.htm",
+      "summary": "Tùng tìm mua súng sau đó đăng lên các hội nhóm chuyên mua bán súng trên Facebook để tìm người bán lại kiếm lời.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T23:36:36.034987+07:00",
+      "fetched": "2026-04-03T23:36:36.035134+07:00"
+    },
+    {
+      "id": "452cbfc9e2454f0f0b08dff42066cd88",
+      "title": "Sacombank tiên phong kết nối thanh toán QR xuyên biên giới Việt Nam - Trung Quốc",
+      "link": "https://tuoitre.vn/sacombank-tien-phong-ket-noi-thanh-toan-qr-xuyen-bien-gioi-viet-nam-trung-quoc-20260403220007947.htm",
+      "summary": "Sacombank là một trong những ngân hàng đầu tiên kết hợp với NAPAS (Công ty cổ phần thanh toán quốc gia Việt Nam) tham gia triển khai VIETQRGlobal (giải pháp thanh toán QR xuyên biên giới) giữa Việt Nam và Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T23:36:36.034720+07:00",
+      "fetched": "2026-04-03T23:36:36.034970+07:00"
+    },
     {
       "id": "5dd5d4c12772f7f0389e4b109f2b9e24",
       "title": "Uống trà chiều trên du thuyền, chụp ảnh TP.HCM lung linh ánh đèn",
@@ -453,6 +583,76 @@ window.newsData_2026_04_03 = {
       "fetched": "2026-04-03T17:40:29.963721+07:00"
     },
     {
+      "id": "8844dea6a9bd6dcbfa4e143de4f9168a",
+      "title": "Một phi công tiêm kích Mỹ 'được giải cứu ở Iran'",
+      "link": "https://vnexpress.net/mot-phi-cong-tiem-kich-my-duoc-giai-cuu-o-iran-5058352.html",
+      "summary": "Truyền thông Israel và Mỹ đưa tin một trong hai phi công điều khiển tiêm kích bị Iran bắn rơi đã được giải cứu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-03T16:22:23+07:00",
+      "fetched": "2026-04-03T23:36:37.643621+07:00"
+    },
+    {
+      "id": "9cb79c3fe6ef7cb5fd63d1134e0052b4",
+      "title": "Bắt bị can đánh bạn nhậu gãy 5 xương sườn dẫn đến tử vong",
+      "link": "https://thanhnien.vn/bat-bi-can-danh-ban-nhau-gay-5-xuong-suon-dan-den-tu-vong-185260403201832396.htm",
+      "summary": "Xảy ra mâu thuẫn trong lúc nhậu, người đàn ông ở tỉnh An Giang đánh bạn nhậu gãy 5 xương sườn khiến nạn nhân tử vong sau đó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T16:20:00+07:00",
+      "fetched": "2026-04-03T23:36:35.167549+07:00"
+    },
+    {
+      "id": "257a1958f42a2c1f47c258233c22368f",
+      "title": "U.15 Thể Công Viettel I và Hà Nội I cùng thắng đậm, tràn trề cơ hội vào tứ kết",
+      "link": "https://thanhnien.vn/u15-the-cong-viettel-i-va-ha-noi-i-cung-thang-dam-tran-tre-co-hoi-vao-tu-ket-18526040321143027.htm",
+      "summary": "Chiều 3.4, lượt trận thứ hai tại bảng B và C của vòng chung kết U.15 quốc gia – Cúp Modern 2026 tiếp tục diễn ra sôi động với nhiều kết quả đáng chú ý. Trong đó, U.15 Thể Công Viettel I và U.15 Hà Nội I đều có chiến thắng đậm, qua đó tạm thời vươn lên dẫn đầu ở các bảng đấu của mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T16:18:00+07:00",
+      "fetched": "2026-04-03T23:36:35.167728+07:00"
+    },
+    {
+      "id": "5b391ac9e7599e2dea2a7d91ec350768",
+      "title": "Quảng Trị: Nhảy từ trên cao xuống sông, một học sinh đuối nước tử vong",
+      "link": "https://thanhnien.vn/quang-tri-nhay-tu-tren-cao-xuong-song-mot-hoc-sinh-duoi-nuoc-tu-vong-18526040320252408.htm",
+      "summary": "Sau khi nhảy từ trên cao xuống sông Kiến Giang (xã Lệ Thủy), N. đã đuối nước và mất tích. Thi thể nạn nhân được phát hiện sau hơn 1 giờ xảy ra vụ việc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T16:17:00+07:00",
+      "fetched": "2026-04-03T23:36:35.167887+07:00"
+    },
+    {
+      "id": "3e71a93ba54ba3cb5a404696f85dd8a7",
+      "title": "Mong anh sẽ dịu dàng và kiên nhẫn với em chút",
+      "link": "https://vnexpress.net/mong-anh-se-diu-dang-va-kien-nhan-voi-em-chut-5058008.html",
+      "summary": "Em 20 tuổi, hoạt bát, thích cười, dễ gần nhưng lại hơi khó chia sẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T16:01:18+07:00",
+      "fetched": "2026-04-03T23:36:32.453824+07:00"
+    },
+    {
+      "id": "a820448b71f548f5b936650855027bd3",
+      "title": "Chàng trai thích những điều giản dị tìm người cùng chí hướng",
+      "link": "https://vnexpress.net/chang-trai-thich-nhung-dieu-gian-di-tim-nguoi-cung-chi-huong-5058010.html",
+      "summary": "Mình sinh năm 1996, chuẩn bị theo học ngành y sĩ y học cổ truyền tại Sài Gòn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T16:01:07+07:00",
+      "fetched": "2026-04-03T23:36:32.453940+07:00"
+    },
+    {
+      "id": "b944f305bb1435d96a80e7d8c124b43b",
+      "title": "Thủ đoạn dùng KOL và lệnh ảo thao túng giá tiền số của Eric Vương",
+      "link": "https://thanhnien.vn/thu-doan-dung-kol-va-lenh-ao-thao-tung-gia-tien-so-cua-eric-vuong-185260403225627785.htm",
+      "summary": "Cảnh sát xác định Eric Vương cùng đồng bọn đã thuê các KOL, người có sức ảnh hưởng trong lĩnh vực công nghệ để lôi kéo nhà đầu tư và chiếm đoạt hàng chục nghìn tỉ đồng thông qua sàn tiền số ONUS.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T15:58:00+07:00",
+      "fetched": "2026-04-03T23:36:35.168041+07:00"
+    },
+    {
       "id": "0803759720a20360160079b91229e8f5",
       "title": "Bất ngờ ở chặng mở màn Cúp truyền hình TP.HCM 2026",
       "link": "https://tuoitre.vn/bat-ngo-o-chang-mo-man-cup-truyen-hinh-tp-hcm-2026-20260403130208136.htm",
@@ -603,6 +803,76 @@ window.newsData_2026_04_03 = {
       "fetched": "2026-04-03T15:50:09.798313+07:00"
     },
     {
+      "id": "b81f8f727f2ca2582c32925cffe40c91",
+      "title": "Indonesia phản pháo vụ 4 cầu thủ nhập tịch dính nghi vấn hộ chiếu: ‘Không thể so với vụ Malaysia’",
+      "link": "https://thanhnien.vn/indonesia-phan-phao-vu-4-cau-thu-nhap-tich-dinh-nghi-van-ho-chieu-khong-the-so-voi-vu-malaysia-185260403223143744.htm",
+      "summary": "Chủ tịch Ban đội tuyển quốc gia (BTN) của Liên đoàn Bóng đá Indonesia (PSSI), ông Sumardji, lên tiếng về khả năng 4 cầu thủ nhập tịch bị điều tra tại Hà Lan, khẳng định không giống vụ việc của bóng đá Malaysia",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T15:45:00+07:00",
+      "fetched": "2026-04-03T23:36:35.168193+07:00"
+    },
+    {
+      "id": "5086f0cc33c9518ae745916ecd230836",
+      "title": "HLV Gattuso cay đắng từ chức, lộ ứng viên bất ngờ dẫn dắt đội tuyển Ý: Có cả ông Mourinho!",
+      "link": "https://thanhnien.vn/hlv-gattuso-cay-dang-tu-chuc-lo-ung-vien-bat-ngo-dan-dat-doi-tuyen-y-co-ca-ong-mourinho-185260403222451793.htm",
+      "summary": "Tối 3.4, HLV Gattuso đã chính thức từ chức sau khi không thể giúp đội tuyển Ý vượt qua vòng play-off, có mặt ở World Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T15:30:00+07:00",
+      "fetched": "2026-04-03T23:36:35.168356+07:00"
+    },
+    {
+      "id": "3a97bf4fa8a124997179c7d4e557961c",
+      "title": "5 công thức giúp bạn trông nữ tính hơn ngay lập tức mà không cần cầu kỳ",
+      "link": "https://thanhnien.vn/thoi-trang-tre/5-cong-thuc-giup-ban-trong-nu-tinh-hon-ngay-lap-tuc-ma-khong-can-cau-ky-185260403163837596.htm",
+      "summary": "Chỉ với vài món đồ cơ bản, việc lựa chọn phom dáng, chất liệu và bảng màu phù hợp có thể giúp nâng cấp phong cách nữ tính và tạo hiệu ứng thị giác tinh tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T15:30:00+07:00",
+      "fetched": "2026-04-03T23:36:35.168544+07:00"
+    },
+    {
+      "id": "d94fb5adf01b5a3f214cd5b4bd966981",
+      "title": "Con gái Angelina Jolie đóng MV Kpop",
+      "link": "https://vnexpress.net/con-gai-angelina-jolie-dong-mv-kpop-5058337.html",
+      "summary": "Shiloh - con gái của Angelina Jolie và Brad Pitt - gây chú ý khi xuất hiện trong teaser MV \"What's a girl to do\" của ca sĩ Hàn Dayoung.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T15:06:41+07:00",
+      "fetched": "2026-04-03T23:36:32.454167+07:00"
+    },
+    {
+      "id": "0aaf93fce1cc9268869c992a2cf7c7dd",
+      "title": "Khởi tố vụ án tại ACV, điều tra sai phạm về đấu thầu, hối lộ",
+      "link": "https://thanhnien.vn/khoi-to-vu-an-tai-acv-dieu-tra-sai-pham-ve-dau-thau-hoi-lo-18526040322003069.htm",
+      "summary": "Ông Vũ Thế Phiệt, Chủ tịch HĐQT Tổng công ty Cảng hàng không Việt Nam (ACV) vừa bị khởi tố, bắt tạm giam, để điều tra về tội \"vi phạm quy định về đấu thầu gây hậu quả đặc biệt nghiêm trọng\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T15:01:00+07:00",
+      "fetched": "2026-04-03T23:36:35.168700+07:00"
+    },
+    {
+      "id": "433ddd3af97c2d098d786e03df7fb464",
+      "title": "'Tôi thấy mình thất bại vì 23 tuổi chưa mua nhà, sắm ôtô'",
+      "link": "https://vnexpress.net/ap-luc-dong-trang-lua-toi-thay-minh-that-bai-vi-23-tuoi-chua-mua-nha-sam-oto-5058254.html",
+      "summary": "'Ráng học mau ra trường, cày cuốc rồi mua ôtô, cả nhà chỉ còn mình mày thôi đấy', câu nói của mẹ khiến tôi thấy mình như đứa thất bại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T15:00:00+07:00",
+      "fetched": "2026-04-03T23:36:32.454341+07:00"
+    },
+    {
+      "id": "81ca686cd517e4af48a58049d5c43788",
+      "title": "Khởi động chuỗi cuộc thi robot hình người tại Việt Nam",
+      "link": "https://vnexpress.net/khoi-dong-chuoi-cuoc-thi-robot-hinh-nguoi-tai-viet-nam-5058347.html",
+      "summary": "Ông William Hiếu Nguyễn, Tổng giám đốc IPPTech, khởi xướng loạt cuộc thi robot hình người quốc tế, dành cho các trường phổ thông, đại học, cao đẳng và viện nghiên cứu Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T15:00:00+07:00",
+      "fetched": "2026-04-03T23:36:32.454534+07:00"
+    },
+    {
       "id": "6c5894b916b4118e890d686a4357d00a",
       "title": "Khối tài sản 'khủng' vụ Mailisa: Thu giữ hơn 300 tỉ đồng, 400.000 USD, 300 lượng vàng SJC",
       "link": "https://thanhnien.vn/khoi-tai-san-khung-vu-mailisa-thu-giu-hon-300-ti-dong-400000-usd-300-luong-vang-sjc-185260403213430696.htm",
@@ -611,6 +881,26 @@ window.newsData_2026_04_03 = {
       "category": "Tổng hợp",
       "published": "2026-04-03T14:35:00+07:00",
       "fetched": "2026-04-03T21:39:48.975907+07:00"
+    },
+    {
+      "id": "3820cb4db6a0181c6d29fbe0bb190c52",
+      "title": "Truyền thông Mỹ nói Iran bắn hạ tiêm kích Mỹ",
+      "link": "https://vnexpress.net/truyen-thong-my-noi-iran-ban-ha-tiem-kich-my-5058339.html",
+      "summary": "NY Times và hàng loạt hãng tin khác dẫn lời quan chức Mỹ và Israel giấu tên cho biết Iran đã bắn hạ tiêm kích Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T14:33:38+07:00",
+      "fetched": "2026-04-03T23:36:32.454701+07:00"
+    },
+    {
+      "id": "3820cb4db6a0181c6d29fbe0bb190c52",
+      "title": "Truyền thông Mỹ nói Iran bắn hạ tiêm kích Mỹ",
+      "link": "https://vnexpress.net/truyen-thong-my-noi-iran-ban-ha-tiem-kich-my-5058339.html",
+      "summary": "NY Times và hàng loạt hãng tin khác dẫn lời quan chức Mỹ và Israel giấu tên cho biết Iran đã bắn hạ tiêm kích Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-03T14:33:38+07:00",
+      "fetched": "2026-04-03T23:36:37.643807+07:00"
     },
     {
       "id": "e9878d3c721b5ee8f044ca3c835053de",
@@ -631,6 +921,26 @@ window.newsData_2026_04_03 = {
       "category": "Tổng hợp",
       "published": "2026-04-03T14:29:00+07:00",
       "fetched": "2026-04-03T21:39:48.976268+07:00"
+    },
+    {
+      "id": "8903dcb583325661abcc0916bcffb980",
+      "title": "Thủ tướng: Huy động nguồn lực xây trung tâm lọc dầu, năng lượng quốc gia Dung Quất",
+      "link": "https://vnexpress.net/thu-tuong-huy-dong-nguon-luc-xay-trung-tam-loc-dau-nang-luong-quoc-gia-dung-quat-5058349.html",
+      "summary": "Thủ tướng cho rằng Trung tâm Lọc hóa dầu và năng lượng quốc gia là dự án lớn, cần huy động đa dạng nguồn lực, gồm Nhà nước, tư nhân, trong và ngoài nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T14:21:16+07:00",
+      "fetched": "2026-04-03T23:36:32.454858+07:00"
+    },
+    {
+      "id": "8903dcb583325661abcc0916bcffb980",
+      "title": "Thủ tướng: Huy động nguồn lực xây trung tâm lọc dầu, năng lượng quốc gia Dung Quất",
+      "link": "https://vnexpress.net/thu-tuong-huy-dong-nguon-luc-xay-trung-tam-loc-dau-nang-luong-quoc-gia-dung-quat-5058349.html",
+      "summary": "Thủ tướng cho rằng Trung tâm Lọc hóa dầu và năng lượng quốc gia là dự án lớn, cần huy động đa dạng nguồn lực, gồm Nhà nước, tư nhân, trong và ngoài nước.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-03T14:21:16+07:00",
+      "fetched": "2026-04-03T23:36:38.510366+07:00"
     },
     {
       "id": "2cfc8be3f777456b3cbab72102b721fb",
@@ -711,6 +1021,16 @@ window.newsData_2026_04_03 = {
       "category": "Tổng hợp",
       "published": "2026-04-03T14:00:00+07:00",
       "fetched": "2026-04-03T21:39:48.977196+07:00"
+    },
+    {
+      "id": "b66f51c453bae0fb5e6f6dc291528729",
+      "title": "Yêu chàng trai kém nhiều tuổi, liệu tôi có hối hận",
+      "link": "https://vnexpress.net/yeu-chang-trai-kem-nhieu-tuoi-lieu-toi-co-hoi-han-5058120.html",
+      "summary": "Yêu thật lòng, không toan tính, không vụ lợi, có điều khoảng cách tuổi là rào cản lớn nhất đối với tôi, yêu người đàn ông kém nhiều tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T14:00:00+07:00",
+      "fetched": "2026-04-03T23:36:32.455184+07:00"
     },
     {
       "id": "3b198260483c425a6bef20b73203bd4f",
