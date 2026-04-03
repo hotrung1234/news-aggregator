@@ -1,6 +1,6 @@
 window.newsData_2026_04_04 = {
   "date": "2026-04-04",
-  "lastUpdated": "2026-04-04T01:42:13.917477+07:00",
+  "lastUpdated": "2026-04-04T03:32:55.566504+07:00",
   "articles": [
     {
       "id": "5e07178376f81c87ecf7c2ec6194cead",
@@ -151,6 +151,26 @@ window.newsData_2026_04_04 = {
       "category": "Tổng hợp",
       "published": "2026-04-04T01:42:06.397435+07:00",
       "fetched": "2026-04-04T01:42:06.397643+07:00"
+    },
+    {
+      "id": "bc1499af94880e817a2e5faff5aabf55",
+      "title": "Trường ĐH Thủy lợi tranh ngôi vô địch với đại diện Malaysia",
+      "link": "https://thanhnien.vn/truong-dh-thuy-loi-tranh-ngoi-vo-dich-voi-dai-dien-malaysia-185260403203954106.htm",
+      "summary": "Đội Trường ĐH Thủy lợi và Trường ĐH Quốc gia Malaysia xuất sắc vượt qua vòng bán kết diễn ra hôm qua 3.4 trên sân Trường ĐH Nha Trang (Khánh Hòa), giành quyền vào chung kết, tranh ngôi vô địch giải bóng đá Thanh Niên sinh viên quốc tế lần II - 2026 cúp THACO.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T20:06:00+07:00",
+      "fetched": "2026-04-04T03:32:47.868288+07:00"
+    },
+    {
+      "id": "cd2a2a9c9ecd7b4bb963228206f805f2",
+      "title": "Mở chuyện ma gần 10 tiếng mỗi ngày để trả đũa hàng xóm",
+      "link": "https://vnexpress.net/mo-chuyen-ma-gan-10-tieng-moi-ngay-de-tra-dua-hang-xom-5058359.html",
+      "summary": "Để trả đũa hàng xóm, hai người đàn ông ở Quảng Châu dùng loa phát truyện ma gần 10 tiếng mỗi ngày với âm lượng lách luật, buộc tòa án phải can thiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-03T18:47:25+07:00",
+      "fetched": "2026-04-04T03:32:44.884614+07:00"
     },
     {
       "id": "f3a4b6bdd0edb8d3fb1e4169ad0a0e93",
