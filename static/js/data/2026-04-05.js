@@ -1,7 +1,157 @@
 window.newsData_2026_04_05 = {
   "date": "2026-04-05",
-  "lastUpdated": "2026-04-05T09:10:18.608044+07:00",
+  "lastUpdated": "2026-04-05T12:43:27.991576+07:00",
   "articles": [
+    {
+      "id": "35dd98e3640db13bfac9a86a10cce94e",
+      "title": "Hà Nội công bố hơn 81.000 chỉ tiêu lớp 10 công lập",
+      "link": "https://tuoitre.vn/ha-noi-cong-bo-hon-81-000-chi-tieu-lop-10-cong-lap-20260403091226417.htm",
+      "summary": "124 trường trung học phổ thông công lập và công lập chất lượng cao ở Hà Nội được giao tổng cộng 1.830 lớp 10 với 81.448 học sinh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T12:43:19.918962+07:00",
+      "fetched": "2026-04-05T12:43:19.919060+07:00"
+    },
+    {
+      "id": "5f56c978a59c972e0eae91ae32b7fe1a",
+      "title": "Mẹ, trăm tuổi và một điều ước",
+      "link": "https://tuoitre.vn/me-tram-tuoi-va-mot-dieu-uoc-20260405095953802.htm",
+      "summary": "Tuổi cao, vài năm gần đây mẹ đã té ba lần, có lần té khá nặng, những tưởng sẽ phải thường xuyên nằm lại trên giường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T12:43:19.918855+07:00",
+      "fetched": "2026-04-05T12:43:19.918953+07:00"
+    },
+    {
+      "id": "c4efae735ef646f22ff33bcc58104231",
+      "title": "Vòng 17 V-League 2025 - 2026: Ngày về của dân biệt phái",
+      "link": "https://tuoitre.vn/vong-17-v-league-2025-2026-ngay-ve-cua-dan-biet-phai-20260405100705814.htm",
+      "summary": "CLB Ninh Bình cần một chiến thắng trước Hoàng Anh Gia Lai và hơn nữa là đòi món nợ lượt đi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T12:43:19.918750+07:00",
+      "fetched": "2026-04-05T12:43:19.918846+07:00"
+    },
+    {
+      "id": "89b57037c719071e9b06374f22f9ddf5",
+      "title": "Lớp yoga miễn phí của bệnh nhân ung thư",
+      "link": "https://tuoitre.vn/lop-yoga-mien-phi-cua-benh-nhan-ung-thu-20260405094627889.htm",
+      "summary": "Thanh Huyền đã mở lớp yoga trực tuyến miễn phí dành cho bệnh nhân đang điều trị ung thư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T12:43:19.918646+07:00",
+      "fetched": "2026-04-05T12:43:19.918741+07:00"
+    },
+    {
+      "id": "81bea837bf377768ce8249b500124393",
+      "title": "Những kỷ vật thân thương còn lại - Kỳ 5: Cái USB 3G và bài học bố trao cho tôi",
+      "link": "https://tuoitre.vn/nhung-ky-vat-than-thuong-con-lai-ky-5-cai-usb-3g-va-bai-hoc-bo-trao-cho-toi-20260405103805976.htm",
+      "summary": "Năm 2011, khi cái USB 3G hơn 800.000 đồng còn là đồ xa xỉ với sinh viên tỉnh lẻ, bố tôi vẫn lặng lẽ mua cho con gái.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T12:43:19.918542+07:00",
+      "fetched": "2026-04-05T12:43:19.918637+07:00"
+    },
+    {
+      "id": "46ae7cb7c290933c0a351c022bfc6262",
+      "title": "Mỹ giải cứu thành công phi công thứ hai của chiếc F-15 bị bắn hạ",
+      "link": "https://tuoitre.vn/my-giai-cuu-thanh-cong-phi-cong-thu-hai-cua-chiec-f-15-bi-ban-ha-20260405113758148.htm",
+      "summary": "Tổng thống Mỹ tuyên bố quân đội nước này đã giải cứu thành công phi công bị mất tích trên chiếc F-15 bị bắn rơi hôm trước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T12:43:19.918437+07:00",
+      "fetched": "2026-04-05T12:43:19.918532+07:00"
+    },
+    {
+      "id": "767c6330faf97e868d09869b7fd4b8d9",
+      "title": "Đại hội đại biểu Phật giáo TP.HCM lần thứ I",
+      "link": "https://tuoitre.vn/dai-hoi-dai-bieu-phat-giao-tp-hcm-lan-thu-i-20260405100005549.htm",
+      "summary": "Hòa thượng Thích Lệ Trang tiếp tục đảm nhận vai trò Trưởng ban Trị sự Giáo hội Phật giáo Việt Nam TP.HCM nhiệm kỳ 2026-2031.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T12:43:19.918329+07:00",
+      "fetched": "2026-04-05T12:43:19.918427+07:00"
+    },
+    {
+      "id": "a055a7f39da59a1de121c000dda974ae",
+      "title": "Cảnh báo thẻ nhái logo đài truyền hình",
+      "link": "https://tuoitre.vn/canh-bao-the-nhai-logo-dai-truyen-hinh-20260405075159665.htm",
+      "summary": "Chỉ cần vài triệu đồng, người mua được cấp thẻ cộng tác viên và phù hiệu dán xe nhái của đài truyền hình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T12:43:19.918220+07:00",
+      "fetched": "2026-04-05T12:43:19.918319+07:00"
+    },
+    {
+      "id": "fc3e421b3bc437957ff0cbc2b1b868ed",
+      "title": "Iran 'bật đèn xanh' cho Iraq qua eo biển Hormuz",
+      "link": "https://tuoitre.vn/iran-bat-den-xanh-cho-iraq-qua-eo-bien-hormuz-2026040512001493.htm",
+      "summary": "Bộ Tư lệnh Trung tâm Khatam al Anbiya của Lực lượng Vệ binh Cách mạng Hồi giáo Iran đưa ra tuyên bố trên sau đe dọa của ông Trump.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T12:43:19.918099+07:00",
+      "fetched": "2026-04-05T12:43:19.918211+07:00"
+    },
+    {
+      "id": "d36d64d6a533145d25ac65e03ad73933",
+      "title": "HoREA đề nghị sửa Thông tư 39, vì sao?",
+      "link": "https://tuoitre.vn/horea-de-nghi-sua-thong-tu-39-vi-sao-20260404072332005.htm",
+      "summary": "HoREA kiến nghị bỏ, sửa loạt quy định Thông tư 39 vì gây nghẽn vốn dự án.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T12:43:19.917993+07:00",
+      "fetched": "2026-04-05T12:43:19.918090+07:00"
+    },
+    {
+      "id": "47ccebc1e838b5a9076ef04e69e6ed65",
+      "title": "Nhóm cử nhân công nghệ thông tin tạo mã độc, đánh cắp tài khoản quảng cáo Facebook",
+      "link": "https://tuoitre.vn/nhom-cu-nhan-cong-nghe-thong-tin-tao-ma-doc-danh-cap-tai-khoan-quang-cao-facebook-20260403172042738.htm",
+      "summary": "Cơ quan Cảnh sát điều tra Công an TP.HCM đã hoàn tất kết luận điều tra và đề nghị truy tố 15 bị can.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T12:43:19.917886+07:00",
+      "fetched": "2026-04-05T12:43:19.917984+07:00"
+    },
+    {
+      "id": "c28094bbc127a4e26e6b681a5ed02ad0",
+      "title": "Gia cảnh khó khăn, nhiều bệnh có được hoãn dân quân tự vệ?",
+      "link": "https://tuoitre.vn/gia-canh-kho-khan-nhieu-benh-co-duoc-hoan-dan-quan-tu-ve-20260404204153917.htm",
+      "summary": "Nam 25 tuổi là lao động chính, mắc nhiều bệnh vẫn được gọi tham gia dân quân. Bộ Quốc phòng nói gì về trường hợp này?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T12:43:19.917775+07:00",
+      "fetched": "2026-04-05T12:43:19.917876+07:00"
+    },
+    {
+      "id": "1772a98b6098078bfe1d0336478d6cbe",
+      "title": "Bóng đá Ý sẽ về đâu?",
+      "link": "https://tuoitre.vn/bong-da-y-se-ve-dau-20260405101027538.htm",
+      "summary": "Chủ tịch LĐBĐ Ý Gabriele Gravina, trưởng đoàn Gianluigi Buffon và HLV trưởng Gennaro Gattuso đều từ chức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T12:43:19.917652+07:00",
+      "fetched": "2026-04-05T12:43:19.917753+07:00"
+    },
+    {
+      "id": "2a08764a510875a136fb6516ec685e2c",
+      "title": "Xe đầu kéo chở hàng quá tải 126% chạy trên cao tốc",
+      "link": "https://tuoitre.vn/xe-dau-keo-cho-hang-qua-tai-126-chay-tren-cao-toc-20260405085812945.htm",
+      "summary": "Chiếc xe đầu kéo chở hàng quá tải 126% khi chạy trên cao tốc Vĩnh Hảo - Phan Thiết. Cả chủ xe và tài xế bị phạt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T12:43:19.917531+07:00",
+      "fetched": "2026-04-05T12:43:19.917641+07:00"
+    },
+    {
+      "id": "b95af718aacdd8a92e51a9f8099b5c69",
+      "title": "Bạn đọc xót thương vụ cụ ông 83 tuổi bị chó nuôi cắn chết",
+      "link": "https://tuoitre.vn/ban-doc-xot-thuong-vu-cu-ong-83-tuoi-bi-cho-nuoi-can-chet-2026040509363423.htm",
+      "summary": "Nhiều bạn đọc khi đọc được thông tin cụ ông 83 tuổi ở Hà Tĩnh bị chó nuôi trong nhà tấn công đã không khỏi xót thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T12:43:19.917302+07:00",
+      "fetched": "2026-04-05T12:43:19.917518+07:00"
+    },
     {
       "id": "a09b71c746c6cf217dee35fda90d0af9",
       "title": "Thật sợ những tay lái ra đường bấm còi xe như 'án mạng tới nơi'",
@@ -153,6 +303,346 @@ window.newsData_2026_04_05 = {
       "fetched": "2026-04-05T09:10:11.597910+07:00"
     },
     {
+      "id": "88e52f97c36948a85d9926ad898b0035",
+      "title": "Trường ĐH Svay Rieng 0-0 Trường ĐH Nha Trang: Quyết tâm chinh phục tấm HCĐ",
+      "link": "https://thanhnien.vn/truong-dh-svay-rieng-0-0-truong-dh-nha-trang-quyet-tam-chinh-phuc-tam-hcd-185260404231813949.htm",
+      "summary": "Đội bóng Trường ĐH Nha Trang sẽ có lợi thế lớn khi được chơi trận tranh HCĐ giải bóng đá Thanh Niên sinh viên quốc tế lần II - 2026 cúp THACO trước đối thủ đáng gờm mang tên Trường ĐH Svay Rieng vào 13 giờ 15 hôm nay 5.4.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T05:14:00+07:00",
+      "fetched": "2026-04-05T12:43:18.753560+07:00"
+    },
+    {
+      "id": "c7746d77a0d7a3f62fcb62fba5fbced2",
+      "title": "Một loại nước 'vàng' giải nhiệt nhanh trong ngày nắng nóng",
+      "link": "https://thanhnien.vn/mot-loai-nuoc-vang-giai-nhiet-nhanh-trong-ngay-nang-nong-18526040512132417.htm",
+      "summary": "Nắng nóng, nhiều người băn khoăn: Uống gì để giải nhiệt, vừa ngon, vừa bổ, vừa giữ cơ thể tỉnh táo cả ngày?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T05:13:00+07:00",
+      "fetched": "2026-04-05T12:43:18.753705+07:00"
+    },
+    {
+      "id": "266f6bbd56df43e8350a1f49009c9364",
+      "title": "TP.HCM lập đoàn kiểm tra toàn diện Bệnh viện Bến Sắn",
+      "link": "https://thanhnien.vn/tphcm-lap-doan-kiem-tra-toan-dien-benh-vien-ben-san-185260405114740126.htm",
+      "summary": "Sở Y tế TP.HCM lập đoàn kiểm tra toàn diện Bệnh viện Bến Sắn, rà soát tổ chức, tài chính, chuyên môn và phòng chống tiêu cực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T05:10:00+07:00",
+      "fetched": "2026-04-05T12:43:18.753838+07:00"
+    },
+    {
+      "id": "8f8394c1b3a3cf61c578b541d7efeba9",
+      "title": "Áo Vàng, Áo Xanh đổi chủ ở giải xe đạp xuyên Việt",
+      "link": "https://vnexpress.net/ao-vang-ao-xanh-doi-chu-o-giai-xe-dap-xuyen-viet-5058732.html",
+      "summary": "Cua-rơ Vĩnh Long Patterson thắng chặng 3 sáng 5/4 để vươn lên giành Áo Vàng lẫn Áo Xanh giải xe đạp toàn quốc tranh Cup Truyền hình HTV 2025",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T05:00:26+07:00",
+      "fetched": "2026-04-05T12:43:15.814377+07:00"
+    },
+    {
+      "id": "8f8394c1b3a3cf61c578b541d7efeba9",
+      "title": "Áo Vàng, Áo Xanh đổi chủ ở giải xe đạp xuyên Việt",
+      "link": "https://vnexpress.net/ao-vang-ao-xanh-doi-chu-o-giai-xe-dap-xuyen-viet-5058732.html",
+      "summary": "Cua-rơ Vĩnh Long Patterson thắng chặng 3 sáng 5/4 để vươn lên giành Áo Vàng lẫn Áo Xanh giải xe đạp toàn quốc tranh Cup Truyền hình HTV 2025",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-05T05:00:26+07:00",
+      "fetched": "2026-04-05T12:43:27.986577+07:00"
+    },
+    {
+      "id": "c9224f0c012da597ef565eb857da8619",
+      "title": "Tưởng cảm xoàng hóa ung thư giai đoạn cuối",
+      "link": "https://vnexpress.net/tuong-cam-xoang-hoa-ung-thu-giai-doan-cuoi-5058710.html",
+      "summary": "Nghẹt mũi thoáng qua và nổi cục hạch nhỏ ở cổ, người đàn ông 33 tuổi đốt nhang vào vùng hạch, ba tháng sau đi khám phát hiện ung thư giai đoạn cuối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T05:00:00+07:00",
+      "fetched": "2026-04-05T12:43:15.814535+07:00"
+    },
+    {
+      "id": "92d0ccee4954e49b67b69d999f95e0a3",
+      "title": "5 lầm tưởng thường gặp về triệt sản nam",
+      "link": "https://vnexpress.net/5-lam-tuong-thuong-gap-ve-triet-san-nam-5058549.html",
+      "summary": "Nhiều nam giới lo triệt sản ảnh hưởng sinh lý, sức khỏe, mất hẳn khả năng có con, nguy cơ ung thư do lầm tưởng về cơ chế của phương pháp này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T05:00:00+07:00",
+      "fetched": "2026-04-05T12:43:15.814675+07:00"
+    },
+    {
+      "id": "4ca05987f4052ac994053eee25efafea",
+      "title": "Sử dụng AI để ‘câu view’ tiêu cực: Có thể bị phạt đến 7 năm tù",
+      "link": "https://thanhnien.vn/su-dung-ai-de-cau-view-tieu-cuc-co-the-bi-phat-den-7-nam-tu-185260405101133919.htm",
+      "summary": "Với các công cụ AI, người trẻ dễ dàng tạo ra nhiều video ngắn, hình ảnh mang tính giải trí \"cho vui\" hay \"câu view\". Nhưng nhiều người không biết rằng nếu nội dung do AI tạo ra sai sự thật, gây hoang mang dư luận thì có thể bị phạt đến 7 năm tù giam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T05:00:00+07:00",
+      "fetched": "2026-04-05T12:43:18.753969+07:00"
+    },
+    {
+      "id": "4e42ee49897d94243f5451b330012220",
+      "title": "Quý cô bước đi kiêu kỳ với giày mũi nhọn",
+      "link": "https://thanhnien.vn/thoi-trang-tre/quy-co-buoc-di-kieu-ky-voi-giay-mui-nhon-185260404183031728.htm",
+      "summary": "Giày mũi nhọn là biểu tượng của sự thanh lịch và chúng luôn có cách riêng để khiến mỗi bước chân của các quý cô trở nên cuốn hút hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T05:00:00+07:00",
+      "fetched": "2026-04-05T12:43:18.754102+07:00"
+    },
+    {
+      "id": "c837569a6a765798651eeb760535eb45",
+      "title": "Phát triển khu công nghiệp: Động lực tăng trưởng mới của VRG",
+      "link": "https://thanhnien.vn/phat-trien-khu-cong-nghiep-dong-luc-tang-truong-moi-cua-vrg-185260405104350007.htm",
+      "summary": "Trong hành trình gần một thế kỷ phát triển của ngành cao su Việt Nam, Tập đoàn Công nghiệp Cao su Việt Nam (VRG) không ngừng tìm kiếm những hướng đi mới để khai thác hiệu quả nguồn lực đất đai và hạ tầng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T04:49:00+07:00",
+      "fetched": "2026-04-05T12:43:18.754247+07:00"
+    },
+    {
+      "id": "bd034c46b30a7627b70c5997cdf49fe4",
+      "title": "Rau mầm gai là gì mà gây sốt mạng, nhiều người ở TP.HCM tìm mua không có?",
+      "link": "https://thanhnien.vn/rau-mam-gai-la-gi-ma-gay-sot-mang-nhieu-nguoi-o-tphcm-tim-mua-khong-co-185260403183611055.htm",
+      "summary": "Rau mầm gai ở Tây Bắc bất ngờ gây sốt mạng với nhiều clip triệu view. Nhiều người ở TP.HCM tò mò tìm mua loại rau rừng mùa xuân này nhưng không dễ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T04:45:00+07:00",
+      "fetched": "2026-04-05T12:43:18.754376+07:00"
+    },
+    {
+      "id": "057d4fe0f28e435dbbf045c3e743fdd9",
+      "title": "Đoạt áo vàng, ngoại binh đội Vĩnh Long ví Cúp truyền hình TP.HCM với Tour de France",
+      "link": "https://thanhnien.vn/doat-ao-vang-ngoai-binh-doi-vinh-long-vi-cup-truyen-hinh-tphcm-voi-tour-de-france-185260405112844288.htm",
+      "summary": "Tay đua người New Zealand, Patrick Patterson (đội 620 Nông nghiệp Vĩnh Long) xuất sắc giành chiến thắng chặng 3 vòng đua hồ Hoàn Kiếm (Hà Nội), chiếm giữ áo vàng Cúp xe đạp truyền hình TP.HCM 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T04:36:00+07:00",
+      "fetched": "2026-04-05T12:43:18.754562+07:00"
+    },
+    {
+      "id": "7b97d539372124de055e86afc0eb0175",
+      "title": "CLB CAHN bất ngờ chia tay trợ lý ‘ồn ào’ nhất V-League Luis Viegas",
+      "link": "https://thanhnien.vn/clb-cahn-bat-ngo-chia-tay-tro-ly-on-ao-nhat-v-league-luis-vegas-185260405112740874.htm",
+      "summary": "CLB Công an Hà Nội (CAHN) đã thông báo chia tay trợ lý HLV Luis Viegas. Vị trợ lý HLV này sẽ không còn làm nhiệm vụ ở đội bóng được dẫn dắt bởi HLV Mano Polking ở phần còn lại của V-League 2025-2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T04:35:00+07:00",
+      "fetched": "2026-04-05T12:43:18.754699+07:00"
+    },
+    {
+      "id": "ba7b9e4fbe4d37e611a1f9e4cdc07cba",
+      "title": "Phác họa của cựu cảnh sát giúp phát hiện 'mẹ mìn' khét tiếng Trung Quốc",
+      "link": "https://vnexpress.net/phac-hoa-cua-cuu-canh-sat-giup-phat-hien-me-min-khet-tieng-trung-quoc-5057400.html",
+      "summary": "Bức phác họa của cựu cảnh sát Lin Yuhui đóng vai trò then chốt giúp bắt được \"Dì Mai\" - mắt xích tàng hình hơn 20 năm trong đường dây bắt cóc trẻ em.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T04:34:20+07:00",
+      "fetched": "2026-04-05T12:43:15.814810+07:00"
+    },
+    {
+      "id": "45e866e268d7a8f931f457de65fc2946",
+      "title": "Đường dây vũ khí quân dụng do nữ quái U60 cầm đầu",
+      "link": "https://thanhnien.vn/duong-day-vu-khi-quan-dung-do-nu-quai-u60-cam-dau-185260405091303655.htm",
+      "summary": "Công an Hải Phòng triệt phá đường dây vũ khí quân dụng quy mô lớn do một phụ nữ cầm đầu, thu giữ hàng loạt súng, đạn. Đáng chú ý, có cựu vận động viên bắn súng tham gia chế tạo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T04:34:00+07:00",
+      "fetched": "2026-04-05T12:43:18.754826+07:00"
+    },
+    {
+      "id": "8121352f6d60d9908e33070d64bba814",
+      "title": "Sự thật vụ bé gái Mỹ mất tích 32 năm trước",
+      "link": "https://vnexpress.net/su-that-vu-be-gai-my-mat-tich-32-nam-truoc-5057331.html",
+      "summary": "Cảnh sát bang Arizona thông báo bé gái 13 tuổi biến mất bí ẩn năm 1994 thực chất đã chủ động bỏ trốn và thay tên đổi họ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T04:32:42+07:00",
+      "fetched": "2026-04-05T12:43:15.814945+07:00"
+    },
+    {
+      "id": "ca2c6d93534333748d2cdc69c7f20634",
+      "title": "Thủ tướng: Đẩy mạnh cải cách, tạo đột phá để đạt tăng trưởng hai con số",
+      "link": "https://vnexpress.net/thu-tuong-day-manh-cai-cach-tao-dot-pha-de-dat-tang-truong-hai-con-so-5058713.html",
+      "summary": "Thủ tướng Phạm Minh Chính nhấn mạnh phải đẩy mạnh cải cách, khơi thông mọi nguồn lực, phát huy các động lực tăng trưởng, tạo đột phá phát triển để đạt mục tiêu tăng trưởng hai con số trong giai đoạn tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T04:30:00+07:00",
+      "fetched": "2026-04-05T12:43:15.815079+07:00"
+    },
+    {
+      "id": "dfc24b3ffc9457cbc68bfa72272c5788",
+      "title": "Xử sự, sử sự hay xử xự mới đúng chính tả?",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-xu-su-su-su-hay-xu-xu-moi-dung-chinh-ta-5056675.html",
+      "summary": "Các cách viết \"xử sự\", \"sử sự\" hay \"xử xự\", nhìn qua thì đều có vẻ hợp lý, nhưng thực tế chỉ có một cách viết đúng chuẩn chính tả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T04:28:10+07:00",
+      "fetched": "2026-04-05T12:43:15.815224+07:00"
+    },
+    {
+      "id": "516410ff71fd9f7a01744cad372d9d4a",
+      "title": "'Bẫy' phòng trọ ảo lừa sinh viên, người lao động",
+      "link": "https://vnexpress.net/bay-phong-tro-ao-lua-sinh-vien-nguoi-lao-dong-5058726.html",
+      "summary": "Giả danh chính chủ cho thuê phòng giá rẻ trên các hội nhóm, Đinh Văn Kiếm yêu cầu khách thuê là sinh viên, người lao động đặt cọc rồi chiếm đoạt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T04:20:18+07:00",
+      "fetched": "2026-04-05T12:43:15.815319+07:00"
+    },
+    {
+      "id": "4db04e5b38839c2e5514b71ba89d678d",
+      "title": "Ngày Sức khỏe toàn dân 7.4: Chủ động phòng bệnh là chiến lược lâu dài",
+      "link": "https://thanhnien.vn/ngay-suc-khoe-toan-dan-74-chu-dong-phong-benh-la-chien-luoc-lau-dai-185260405103654345.htm",
+      "summary": "Bộ Chính trị quyết định lấy ngày mùng 7.4 hằng năm là Ngày Sức khỏe toàn dân. Năm 2026 là năm đầu tiên triển khai với chủ đề: \"Chủ động phòng bệnh - vì một Việt Nam khỏe mạnh\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T04:12:00+07:00",
+      "fetched": "2026-04-05T12:43:18.754952+07:00"
+    },
+    {
+      "id": "d141acdc82ccc8fc83582c8dd33b0101",
+      "title": "Đường dây cần sa 92 tỷ đồng ẩn trong các căn hộ cao cấp",
+      "link": "https://vnexpress.net/duong-day-can-sa-92-ty-dong-an-trong-cac-can-ho-cao-cap-5058718.html",
+      "summary": "Hơn 412 kg cần sa, tổng giá trị trên 92 tỷ đồng, được đường dây của Nguyễn Phi Cơ phân phối qua Telegram và cất giấu tại các căn hộ cao cấp ở Hà Nội, TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T04:11:12+07:00",
+      "fetched": "2026-04-05T12:43:15.815451+07:00"
+    },
+    {
+      "id": "33a5be848ac036fda6d13d85d7b63abd",
+      "title": "Tăng tốc, bứt phá, quyết tâm thực hiện thắng lợi nhiệm vụ Đại hội Đảng XIV",
+      "link": "https://thanhnien.vn/tang-toc-but-pha-quyet-tam-thuc-hien-thang-loi-nhiem-vu-dai-hoi-dang-xiv-18526040509575381.htm",
+      "summary": "Thanh Niên trân trọng giới thiệu toàn văn bài viết của Thủ tướng Phạm Minh Chính: 'Tăng tốc bứt phá, quyết tâm thực hiện thắng lợi Nghị quyết Đại hội đại biểu toàn quốc lần thứ XIV của Đảng'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T04:10:00+07:00",
+      "fetched": "2026-04-05T12:43:18.755079+07:00"
+    },
+    {
+      "id": "2b57bc0e2c6b396d98256697b8cff0ca",
+      "title": "Ngọc Sơn bật khóc khi nhắc lại câu chuyện phía sau bài hát 'Tình cha'",
+      "link": "https://thanhnien.vn/ngoc-son-bat-khoc-khi-nhac-lai-cau-chuyen-phia-sau-bai-hat-tinh-cha-185260405104614573.htm",
+      "summary": "Ngọc Sơn chia sẻ về hành trình sự nghiệp, những kỷ niệm về người cha quá cố và sợi dây gắn kết giữa hai anh em Ngọc Sơn - Ngọc Hải trong nhiều năm hoạt động nghệ thuật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T04:08:00+07:00",
+      "fetched": "2026-04-05T12:43:18.755217+07:00"
+    },
+    {
+      "id": "60e507686473787276fd446fd348efe0",
+      "title": "TP.HCM duyệt quy hoạch trung tâm hành chính mới cho 6.000 người làm việc ở Thủ Thiêm",
+      "link": "https://thanhnien.vn/tphcm-duyet-quy-hoach-trung-tam-hanh-chinh-moi-cho-6000-nguoi-lam-viec-o-thu-thiem-185260405102354164.htm",
+      "summary": "Đồ án quy hoạch chi tiết 1/500 khu trung tâm chính trị - hành chính - văn hóa tại Thủ Thiêm vừa được phê duyệt với quy mô 33 ha, là nơi làm việc của 6.000 cán bộ, công chức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T04:08:00+07:00",
+      "fetched": "2026-04-05T12:43:18.755347+07:00"
+    },
+    {
+      "id": "1349658bb9f0a67ca67135dd9c5a3477",
+      "title": "Mỹ giải cứu thành công phi công trên tiêm kích F-15 bị bắn hạ",
+      "link": "https://vnexpress.net/my-giai-cuu-thanh-cong-phi-cong-tren-tiem-kich-f-15-bi-ban-ha-5058722.html",
+      "summary": "Lực lượng Mỹ giải cứu được phi công còn lại trong vụ tiêm kích F-15 bị bắn hạ tại Iran, sau cuộc đấu súng ác liệt và sự cố vào phút chót.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T04:00:58+07:00",
+      "fetched": "2026-04-05T12:43:15.815581+07:00"
+    },
+    {
+      "id": "1349658bb9f0a67ca67135dd9c5a3477",
+      "title": "Mỹ giải cứu thành công phi công trên tiêm kích F-15 bị bắn hạ",
+      "link": "https://vnexpress.net/my-giai-cuu-thanh-cong-phi-cong-tren-tiem-kich-f-15-bi-ban-ha-5058722.html",
+      "summary": "Lực lượng Mỹ giải cứu được phi công còn lại trong vụ tiêm kích F-15 bị bắn hạ tại Iran, sau cuộc đấu súng ác liệt và sự cố vào phút chót.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-05T04:00:58+07:00",
+      "fetched": "2026-04-05T12:43:21.814208+07:00"
+    },
+    {
+      "id": "4bd532e62a96f8e23f3cb7c5c1a283e2",
+      "title": "Phát hiện tôi tham gia buổi nhậu có đối tác nữ, vợ làm loạn nhà",
+      "link": "https://vnexpress.net/phat-hien-toi-tham-gia-buoi-nhau-co-doi-tac-nu-vo-lam-loan-nha-5058689.html",
+      "summary": "Vợ hét lớn, gọi ba mẹ vào và yêu cầu họ phải mắng và dạy dỗ, bắt tôi thừa nhận lỗi, thế nhưng ba mẹ vợ chỉ im lặng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T04:00:00+07:00",
+      "fetched": "2026-04-05T12:43:15.815712+07:00"
+    },
+    {
+      "id": "fa97730ddb343fa0a5fb28910ccc39d0",
+      "title": "Cách chọn trang phục chống nắng bảo vệ da tối đa",
+      "link": "https://vnexpress.net/cach-chon-trang-phuc-chong-nang-bao-ve-da-toi-da-5058231.html",
+      "summary": "Chọn trang phục có chỉ số UPF phù hợp, cấu trúc vải chặt chẽ là \"hàng rào\" hữu hiệu ngăn chặn lão hóa và ung thư da.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T04:00:00+07:00",
+      "fetched": "2026-04-05T12:43:15.815844+07:00"
+    },
+    {
+      "id": "d1a6ee0bb5a968a9f817ab81a2b2e4ba",
+      "title": "Xem nhanh 12h: Hẹn nhau trộm mèo về đêm, đưa đến lò mổ | NASA tăng tốc đến mặt trăng",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-hen-nhau-trom-meo-ve-dem-dua-den-lo-mo-nasa-tang-toc-den-mat-trang-185260405105621429.htm",
+      "summary": "Những tình tiết trong chuyên án bí số VN10; bãi xe tự phát ở Hà Nội; biến thể mới tay chân miệng… là những tin tức được đề cập trong bản tin trực tiếp Xem nhanh 12h ngày 5.4.2026 của Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T04:00:00+07:00",
+      "fetched": "2026-04-05T12:43:18.755477+07:00"
+    },
+    {
+      "id": "d1fb8a155fa31252ea3ecba858100ee0",
+      "title": "Hòa thượng Thích Lệ Trang làm Trưởng ban Trị sự Giáo hội Phật giáo TP HCM",
+      "link": "https://vnexpress.net/hoa-thuong-thich-le-trang-lam-truong-ban-tri-su-giao-hoi-phat-giao-tp-hcm-5058706.html",
+      "summary": "Hòa thượng Thích Lệ Trang, trụ trì chùa Huê Nghiêm, được suy cử làm Trưởng ban Trị sự Giáo hội Phật giáo Việt Nam TP HCM, nơi có số lượng tăng ni nhiều nhất nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T03:45:54+07:00",
+      "fetched": "2026-04-05T12:43:15.815971+07:00"
+    },
+    {
+      "id": "1c2e86820efe29fc2e8a008b53c1aff3",
+      "title": "Ảnh cận cảnh Mặt Trăng đầu tiên chụp từ Artemis II",
+      "link": "https://vnexpress.net/anh-can-canh-mat-trang-dau-tien-chup-tu-artemis-ii-5058698.html",
+      "summary": "Trong ngày thứ ba của sứ mệnh Artemis II, phi hành đoàn cho thấy sắp tiến đến Mặt Trăng khi gửi về ảnh cận cảnh đầu tiên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T03:44:26+07:00",
+      "fetched": "2026-04-05T12:43:15.816097+07:00"
+    },
+    {
+      "id": "1c2e86820efe29fc2e8a008b53c1aff3",
+      "title": "Ảnh cận cảnh Mặt Trăng đầu tiên chụp từ Artemis II",
+      "link": "https://vnexpress.net/anh-can-canh-mat-trang-dau-tien-chup-tu-artemis-ii-5058698.html",
+      "summary": "Trong ngày thứ ba của sứ mệnh Artemis II, phi hành đoàn cho thấy sắp tiến đến Mặt Trăng khi gửi về ảnh cận cảnh đầu tiên.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-05T03:44:26+07:00",
+      "fetched": "2026-04-05T12:43:27.034205+07:00"
+    },
+    {
+      "id": "c6e4f80b960e96683ae5de946bf32edd",
+      "title": "Kỳ thủ 20 tuổi tiếp tục gây bão tại giải cờ vua Candidates 2026",
+      "link": "https://vnexpress.net/ky-thu-20-tuoi-tiep-tuc-gay-bao-tai-giai-co-vua-candidates-2026-5058709.html",
+      "summary": "Đại kiện tướng 20 tuổi Javokhir Sindarov nối dài phong độ thăng hoa khi hạ Vi Dịch ở vòng 6 Candidates 2026, nâng thành tích lên 5,5 điểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T03:29:44+07:00",
+      "fetched": "2026-04-05T12:43:15.816239+07:00"
+    },
+    {
+      "id": "c6e4f80b960e96683ae5de946bf32edd",
+      "title": "Kỳ thủ 20 tuổi tiếp tục gây bão tại giải cờ vua Candidates 2026",
+      "link": "https://vnexpress.net/ky-thu-20-tuoi-tiep-tuc-gay-bao-tai-giai-co-vua-candidates-2026-5058709.html",
+      "summary": "Đại kiện tướng 20 tuổi Javokhir Sindarov nối dài phong độ thăng hoa khi hạ Vi Dịch ở vòng 6 Candidates 2026, nâng thành tích lên 5,5 điểm.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-05T03:29:44+07:00",
+      "fetched": "2026-04-05T12:43:27.985059+07:00"
+    },
+    {
       "id": "7e8b00e41a3b0be51b0e13f3198a09f2",
       "title": "Thời tiết hôm nay 5-4: Nắng nóng gay gắt nhiều nơi 39-40 độ C, người dân chú ý sức khỏe",
       "link": "https://tuoitre.vn/thoi-tiet-hom-nay-5-4-nang-nong-gay-gat-nhieu-noi-39-40-do-c-nguoi-dan-chu-y-suc-khoe-20260404170515803.htm",
@@ -183,6 +673,36 @@ window.newsData_2026_04_05 = {
       "fetched": "2026-04-05T03:27:32.896837+07:00"
     },
     {
+      "id": "507cb180a99e2dbc88bf315637f82937",
+      "title": "Messi ghi bàn trong ngày ra mắt sân mới của Inter Miami",
+      "link": "https://vnexpress.net/messi-ghi-ban-trong-ngay-ra-mat-san-moi-cua-inter-miami-5058687.html",
+      "summary": "Lionel Messi ghi một bàn, khi Inter Miami hòa Austin 2-2 trong ngày ra mắt sân mới NU ở vòng 6 giải bóng đá nhà nghề Mỹ MLS.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-05T03:08:38+07:00",
+      "fetched": "2026-04-05T12:43:27.985221+07:00"
+    },
+    {
+      "id": "af65af94ea0a9797a3657802312437c5",
+      "title": "Tỷ phú Phạm Nhật Vượng giàu nhất Đông Nam Á",
+      "link": "https://vnexpress.net/ty-phu-pham-nhat-vuong-giau-nhat-dong-nam-a-5058650.html",
+      "summary": "Với khối tài sản hơn 24,5 tỷ USD, ông Phạm Nhật Vượng, Chủ tịch Vingroup, đã vượt ông Prajogo Pangestu, người Indonesia, trở thành người giàu nhất Đông Nam Á.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-05T02:45:05+07:00",
+      "fetched": "2026-04-05T12:43:23.658520+07:00"
+    },
+    {
+      "id": "e91f6565d935a9a29b930c52701d9d18",
+      "title": "Mỹ tuyên bố bắt người thân của tướng Iran",
+      "link": "https://vnexpress.net/my-tuyen-bo-bat-nguoi-than-cua-tuong-iran-5058691.html",
+      "summary": "Giới chức Mỹ thông báo bắt hai người thân của Qassem Soleimani, tướng vệ binh Iran đã bị hạ sát ở Iraq hồi năm 2020, song con gái ông phủ nhận thông tin này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-05T02:40:20+07:00",
+      "fetched": "2026-04-05T12:43:21.814360+07:00"
+    },
+    {
       "id": "a0766cab489c58bc8442a87dcd92e300",
       "title": "Iran dọa mở 'cổng địa ngục' với Mỹ - Israel",
       "link": "https://thanhnien.vn/iran-doa-mo-cong-dia-nguc-voi-my-israel-185260405085700018.htm",
@@ -191,6 +711,16 @@ window.newsData_2026_04_05 = {
       "category": "Tổng hợp",
       "published": "2026-04-05T02:05:00+07:00",
       "fetched": "2026-04-05T09:10:04.316345+07:00"
+    },
+    {
+      "id": "333c8ccb46cada68f297d89894dd8afc",
+      "title": "Fowler: 'Chưa từng thấy Liverpool thiếu tự tin đến vậy'",
+      "link": "https://vnexpress.net/fowler-chua-tung-thay-liverpool-thieu-tu-tin-den-vay-5058655.html",
+      "summary": "Cựu danh thủ Robbie Fowler phê phán cả cầu thủ Liverpool lẫn HLV Arne Slot sau trận thua thảm Man City 0-4 ở tứ kết Cup FA.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-05T02:04:52+07:00",
+      "fetched": "2026-04-05T12:43:27.985770+07:00"
     },
     {
       "id": "12522516bc41822d0745af825963f7c3",
