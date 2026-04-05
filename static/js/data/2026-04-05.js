@@ -1,7 +1,157 @@
 window.newsData_2026_04_05 = {
   "date": "2026-04-05",
-  "lastUpdated": "2026-04-05T15:39:20.218782+07:00",
+  "lastUpdated": "2026-04-05T17:30:47.254212+07:00",
   "articles": [
+    {
+      "id": "7ab50926a4bc25748cd96568d395af2c",
+      "title": "Làm rõ video vụ hùng hổ đánh người sau tai nạn ở TP.HCM",
+      "link": "https://tuoitre.vn/lam-ro-video-vu-hung-ho-danh-nguoi-sau-tai-nan-o-tp-hcm-20260405141625554.htm",
+      "summary": "Một người đàn ông đi xe máy va chạm với người khác đi ngược chiều, rồi lao vào đánh người va chạm và cả người can ngăn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T17:30:39.327635+07:00",
+      "fetched": "2026-04-05T17:30:39.327755+07:00"
+    },
+    {
+      "id": "58ee527b7d29d99fc8e63162aa88ad49",
+      "title": "Đang chấp hành án treo, vẫn giả thuê ô tô mang đi cầm cố",
+      "link": "https://tuoitre.vn/dang-chap-hanh-an-treo-van-gia-thue-oto-mang-di-cam-co-20260405114530174.htm",
+      "summary": "Đang trong thời gian chấp hành án, Sơn rủ Oanh thuê ô tô đem đi cầm cố, bán lấy tiền tiêu xài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T17:30:39.327491+07:00",
+      "fetched": "2026-04-05T17:30:39.327623+07:00"
+    },
+    {
+      "id": "785a4874fb9c71bed2417b894e0e533a",
+      "title": "Bạn đọc hiến kế xe buýt miễn phí cần có thêm tuyến, wifi, cổng sạc pin...",
+      "link": "https://tuoitre.vn/ban-doc-hien-ke-xe-buyt-mien-phi-can-co-them-tuyen-wifi-cong-sac-pin-20260403172750927.htm",
+      "summary": "Hệ thống xe buýt cũng cần cải thiện như chạy đúng giờ, nghỉ trễ, thêm nhiều tuyến đi vào các đường nhỏ, khu dân cư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T17:30:39.327360+07:00",
+      "fetched": "2026-04-05T17:30:39.327480+07:00"
+    },
+    {
+      "id": "e82c9e3a0b986ee75ec50973759514cf",
+      "title": "Iran tuyên bố bắn hạ 3 máy bay khi Mỹ giải cứu phi công F-15",
+      "link": "https://tuoitre.vn/iran-tuyen-bo-ban-ha-3-may-bay-khi-my-giai-cuu-phi-cong-f-15-20260405143252099.htm",
+      "summary": "Iran nói ít nhất 3 máy bay, bao gồm vận tải cơ C-130 và 2 trực thăng Black Hawk, đã bị Iran bắn hạ khi Mỹ giải cứu phi công trên chiếc F-15.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T17:30:39.327239+07:00",
+      "fetched": "2026-04-05T17:30:39.327349+07:00"
+    },
+    {
+      "id": "860fbb7650f6fb495210d916186e14b9",
+      "title": "Vừa dùng điện thoại vừa 'cướp đường', xe máy bị tàu SE8 húc văng",
+      "link": "https://tuoitre.vn/vua-dung-dien-thoai-vua-cuop-duong-xe-may-bi-tau-se8-huc-vang-20260405145253832.htm",
+      "summary": "Người này vừa sử dụng điện thoại vừa cố vượt qua đường ngang khi tàu SE8 đang đi tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T17:30:39.327117+07:00",
+      "fetched": "2026-04-05T17:30:39.327228+07:00"
+    },
+    {
+      "id": "7ef510a6f7a05628f1e57c209e7e22ce",
+      "title": "Tuyển sinh lớp 10 sau sáp nhập: Học sinh Bà Rịa - Vũng Tàu cần tính kỹ nguyện vọng",
+      "link": "https://tuoitre.vn/tuyen-sinh-lop-10-sau-sap-nhap-hoc-sinh-ba-ria-vung-tau-can-tinh-ky-nguyen-vong-20260405150502447.htm",
+      "summary": "Chiều nay 5-4, ngày hội Tự tin vào lớp 10 do báo Tuổi Trẻ tổ chức diễn ra tại Trường THPT chuyên Lê Quý Đôn, Bà Rịa - Vũng Tàu cũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T17:30:39.326993+07:00",
+      "fetched": "2026-04-05T17:30:39.327105+07:00"
+    },
+    {
+      "id": "26f01ba72da2be9aca4ec615ed9a22ad",
+      "title": "Chuyên gia Trung Quốc khẳng định siêu tàu lặn không nhằm vào Mỹ",
+      "link": "https://tuoitre.vn/chuyen-gia-trung-quoc-khang-dinh-sieu-tau-lan-khong-nham-vao-my-20260405142325241.htm",
+      "summary": "Giới khoa học Trung Quốc khẳng định các hệ thống tàu lặn chủ yếu phục vụ phòng thủ khu vực và nghiên cứu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T17:30:39.326861+07:00",
+      "fetched": "2026-04-05T17:30:39.326981+07:00"
+    },
+    {
+      "id": "891e49332d62d1c772487c51c437890e",
+      "title": "TP.HCM duyệt quy hoạch 1/500 trung tâm chính trị - hành chính ở Thủ Thiêm",
+      "link": "https://tuoitre.vn/tp-hcm-duyet-quy-hoach-1-500-trung-tam-chinh-tri-hanh-chinh-o-thu-thiem-20260405143040388.htm",
+      "summary": "TP.HCM phê duyệt quy hoạch trung tâm hành chính - chính trị Thủ Thiêm, dự kiến cho khoảng 6.000 cán bộ, công chức làm việc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T17:30:39.326730+07:00",
+      "fetched": "2026-04-05T17:30:39.326845+07:00"
+    },
+    {
+      "id": "8c99310f981d601880b9ea6e64583643",
+      "title": "Lãnh đạo đảng đối lập tại Đài Loan sắp đi công tác Bắc Kinh",
+      "link": "https://tuoitre.vn/lanh-dao-dang-doi-lap-tai-dai-loan-sap-di-cong-tac-bac-kinh-20260405143049405.htm",
+      "summary": "Chủ tịch Quốc dân đảng, bà Trịnh Lệ Văn, dự kiến sẽ đi công tác đại lục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T17:30:39.326576+07:00",
+      "fetched": "2026-04-05T17:30:39.326717+07:00"
+    },
+    {
+      "id": "398098ea25d2d5302852b3c9b3802eae",
+      "title": "GAC All-New M8 gia tăng đặc quyền",
+      "link": "https://tuoitre.vn/gac-all-new-m8-gia-tang-dac-quyen-20260405151117331.htm",
+      "summary": "GAC Việt Nam chính thức triển khai chương trình ưu đãi trên toàn quốc dành cho hai mẫu xe chủ lực GAC All-New M8 và GAC All-New GS8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T17:30:39.326451+07:00",
+      "fetched": "2026-04-05T17:30:39.326564+07:00"
+    },
+    {
+      "id": "b23307abc8321adf5ce708bc85156007",
+      "title": "Lộ trình chặng 4 cuộc đua xe đạp Cúp truyền hình TP.HCM 2026",
+      "link": "https://tuoitre.vn/lo-trinh-chang-4-cuoc-dua-xe-dap-cup-truyen-hinh-tp-hcm-2026-2026040514184845.htm",
+      "summary": "Ở chặng 4 cuộc đua xe đạp toàn quốc Cúp truyền hình TP.HCM HTV - Tôn Đông Á 2026, các tay đua sẽ rời thủ đô Hà Nội sáng 6-4.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T17:30:39.326325+07:00",
+      "fetched": "2026-04-05T17:30:39.326440+07:00"
+    },
+    {
+      "id": "676a4b7875afb5c083654f6f7e65167e",
+      "title": "Hoàng Phi đóng kịch cách mạng",
+      "link": "https://tuoitre.vn/hoang-phi-dong-kich-cach-mang-20260405093016585.htm",
+      "summary": "Nhà hát Kịch TP.HCM đang trên sàn tập chuẩn bị ra mắt vở kịch cách mạng Bà mẹ và thanh gươm, dự kiến gặp gỡ khán giả cuối tháng 4. Diễn viên Hoàng Phi lần đầu tiên cộng tác với nhà hát.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T17:30:39.326190+07:00",
+      "fetched": "2026-04-05T17:30:39.326313+07:00"
+    },
+    {
+      "id": "7e9b360d94530777b1624020ff60885d",
+      "title": "Hộ kinh doanh, cá nhân kinh doanh sẽ bị truy thu thuế những năm trước trong trường hợp nào?",
+      "link": "https://tuoitre.vn/ho-kinh-doanh-ca-nhan-kinh-doanh-se-bi-truy-thu-thue-nhung-nam-truoc-trong-truong-hop-nao-20260328122929988.htm",
+      "summary": "Không lấy doanh thu của năm 2026 làm cơ sở để truy thu thuế những năm trước của hộ kinh doanh, cá nhân kinh doanh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T17:30:39.326059+07:00",
+      "fetched": "2026-04-05T17:30:39.326178+07:00"
+    },
+    {
+      "id": "9cd33a24ace61510d479e83ba4a997e4",
+      "title": "Hoàng Anh Gia Lai đấu Ninh Bình (17h): Đội khách khát điểm",
+      "link": "https://tuoitre.vn/hoang-anh-gia-lai-dau-ninh-binh-17h-doi-khach-khat-diem-20260405114928028.htm",
+      "summary": "Ninh Bình rất cần chiến thắng trước Hoàng Anh Gia Lai vào chiều nay 5-4, để tiếp tục bám đuổi Công An Hà Nội trong cuộc đua giành ngôi vô địch V-League mùa này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T17:30:39.325916+07:00",
+      "fetched": "2026-04-05T17:30:39.326046+07:00"
+    },
+    {
+      "id": "39fc12fbf789051568c9136784bc16c3",
+      "title": "Thêm 8 cơ thủ Việt Nam giành vé dự World Cup billiards TP.HCM",
+      "link": "https://tuoitre.vn/them-8-co-thu-viet-nam-gianh-ve-du-world-cup-billiards-tp-hcm-20260405154851176.htm",
+      "summary": "Vòng tuyển chọn 2 World Cup billiards carom 3 băng TP.HCM khép lại giúp tìm ra thêm 8 cơ thủ Việt Nam có suất tham gia giải đấu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T17:30:39.325694+07:00",
+      "fetched": "2026-04-05T17:30:39.325901+07:00"
+    },
     {
       "id": "d4ec111d6b7c629f6b1d531de74d4505",
       "title": "Áo vàng và áo xanh Cúp truyền hình TP.HCM cùng đổi chủ sau chặng 3",
@@ -313,6 +463,136 @@ window.newsData_2026_04_05 = {
       "fetched": "2026-04-05T12:43:19.917518+07:00"
     },
     {
+      "id": "410da8a7ea505e4add29862e56e1d302",
+      "title": "Ford Territory giảm giá còn 739 triệu, cuộc đua ở phân khúc crossover cỡ trung càng 'nóng'",
+      "link": "https://thanhnien.vn/ford-territory-giam-gia-con-739-trieu-cuoc-dua-o-phan-khuc-crossover-co-trung-cang-nong-18526040314314535.htm",
+      "summary": "Thay vì ưu đãi theo từng tháng, Ford Territory được điều chỉnh giảm giá niêm yết, đưa mức khởi điểm xuống còn 739 triệu đồng; qua đó tăng sức cạnh tranh trong phân khúc crossover cỡ trung, nơi cuộc đua về giá đang ngày càng gay gắt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T10:29:00+07:00",
+      "fetched": "2026-04-05T17:30:38.232180+07:00"
+    },
+    {
+      "id": "0eaff20b75dae9cbd18d13c26c8df80d",
+      "title": "5 lý do giúp ô tô hybrid ngày càng được ưa chuộng bất chấp giá xăng tăng",
+      "link": "https://thanhnien.vn/5-ly-do-giup-o-to-hybrid-ngay-cang-duoc-ua-chuong-bat-chap-gia-xang-tang-185260404154001693.htm",
+      "summary": "Bất chấp giá cả xăng dầu liên tục biến động, nhu cầu mua sắm ô tô hybrid (xe sử dụng động cơ lai xăng, điện) vẫn liên tục gia tăng nhờ vào những ưu điểm về tiết kiệm nhiên liệu, vận hành êm ái, khả năng giữ giá khi bán lại và đặc biệt không làm thay đổi thói quen người dùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T10:28:00+07:00",
+      "fetched": "2026-04-05T17:30:38.232346+07:00"
+    },
+    {
+      "id": "8037b3f721a0877c0ac8506cd59f00ed",
+      "title": "Đội tuyển Việt Nam cần gì để bứt phá trong năm 2026?",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-can-gi-de-but-pha-trong-nam-2026-185260405153110471.htm",
+      "summary": "Duy trì chuỗi bất bại ấn tượng, nhưng đội tuyển Việt Nam vẫn thiếu những trận đấu đủ tầm để nâng cao năng lực trước các giải lớn trong năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T10:17:00+07:00",
+      "fetched": "2026-04-05T17:30:38.232503+07:00"
+    },
+    {
+      "id": "70d00800baecaa155be92931e52ed365",
+      "title": "Chiêm ngưỡng phi lao cổ thụ hơn 120 tuổi được công nhận cây di sản Việt Nam",
+      "link": "https://thanhnien.vn/chiem-nguong-phi-lao-co-thu-hon-120-tuoi-duoc-cong-nhan-cay-di-san-viet-nam-18526040510443571.htm",
+      "summary": "Tồn tại suốt hơn 120 năm, cây phi lao cổ thụ tại đình Phú Khương (ấp 5, xã Mỹ An, tỉnh Tây Ninh) chính thức được công nhận là cây di sản Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T10:17:00+07:00",
+      "fetched": "2026-04-05T17:30:38.232681+07:00"
+    },
+    {
+      "id": "4d1df2022b3e756abd38bbcbcbc33cee",
+      "title": "Báo Trung Quốc 'sốc' vì hành động của trợ lý U.16: Hành hung, lăng mạ học trò",
+      "link": "https://thanhnien.vn/bao-trung-quoc-soc-vi-hanh-dong-cua-tro-ly-u16-hanh-hung-lang-ma-hoc-tro-185260405171044026.htm",
+      "summary": "Làng bóng đá trẻ Trung Quốc đang dậy sóng sau một vụ việc gây tranh cãi nghiêm trọng tại Cúp Montaigu, khi một trợ lý HLV bị tố có hành vi hành hung và lăng mạ chính học trò 16 tuổi của mình. Nhiều tờ báo lớn Trung Quốc gọi đây là hành động 'gây sốc', khiến CĐV phẫn nộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T10:16:00+07:00",
+      "fetched": "2026-04-05T17:30:38.232840+07:00"
+    },
+    {
+      "id": "ef510ed301f083467192daf41600ae9c",
+      "title": "Xổ số miền Nam ngày 5 tháng 4: Dãy số độc đắc đài Tiền Giang trúng thêm 1 giải",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-5-thang-4-day-so-doc-dac-dai-tien-giang-trung-them-1-giai-18526040517110051.htm",
+      "summary": "Vừa xong kết quả xổ số miền Nam ngày 5 tháng 4 chiều nay, dãy số trúng độc đắc đài Tiền Giang trùng hợp trúng thêm 1 giải.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T10:14:00+07:00",
+      "fetched": "2026-04-05T17:30:38.233000+07:00"
+    },
+    {
+      "id": "5af9c1ff72e1095a3ea9990e945c011c",
+      "title": "Toàn cảnh 17h: Nữ quái U60 cầm đầu đường dây súng đạn | Lộ diện 'chồng hờ' cùng Trúc Phương tổ chức tiệc ma túy",
+      "link": "https://thanhnien.vn/toan-canh-17h-nu-quai-u60-cam-dau-duong-day-sung-dan-lo-dien-chong-ho-cung-truc-phuong-to-chuc-tiec-ma-tuy-185260405162647196.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T10:00:00+07:00",
+      "fetched": "2026-04-05T17:30:38.233153+07:00"
+    },
+    {
+      "id": "b3e78c7caba95d8488adc97a14f762ad",
+      "title": "Khám mắt, tầm soát tim mạch cho người lớn tuổi",
+      "link": "https://thanhnien.vn/kham-mat-tam-soat-tim-mach-cho-nguoi-lon-tuoi-185260405163242636.htm",
+      "summary": "Gần 500 người dân xã Long Sơn, phường Tam Long được các bác sĩ khám mắt, tầm soát các bệnh về tim mạch, tiểu đường, phát thuốc miễn phí.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T09:55:00+07:00",
+      "fetched": "2026-04-05T17:30:38.233307+07:00"
+    },
+    {
+      "id": "65848657e46a63ff02b327919d454eb5",
+      "title": "Barca có thể đăng quang La Liga ngay trận Kinh điển",
+      "link": "https://vnexpress.net/barca-co-the-dang-quang-la-liga-ngay-tran-kinh-dien-5058768.html",
+      "summary": "Để kịch bản này thành hiện thực, Barca chỉ cần duy trì khoảng cách 7 điểm hiện tại cho đến trận đại chiến với Real Madrid ngày 11/5 và đánh bại chính đối thủ ngay tại sân nhà Camp Nou.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-05T09:44:15+07:00",
+      "fetched": "2026-04-05T17:30:47.244806+07:00"
+    },
+    {
+      "id": "32d2c1b21129f6c157bec3099ef51242",
+      "title": "2 người bị phạt vì xúc phạm công an, đăng tin sai sự thật trên mạng xã hội",
+      "link": "https://thanhnien.vn/2-nguoi-bi-phat-vi-xuc-pham-cong-an-dang-tin-sai-su-that-tren-mang-xa-hoi-185260405161048446.htm",
+      "summary": "Hai thanh niên ở Quảng Ngãi bị xử phạt hành chính do có hành vi xúc phạm lực lượng công an và đăng tải thông tin sai sự thật trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T09:44:00+07:00",
+      "fetched": "2026-04-05T17:30:38.233455+07:00"
+    },
+    {
+      "id": "0128032b07a76fbb91c1b217f339a586",
+      "title": "Iran tuyên bố bắn hạ ba máy bay Mỹ tham gia tìm phi công",
+      "link": "https://vnexpress.net/iran-tuyen-bo-ban-ha-ba-may-bay-my-tham-gia-tim-phi-cong-5058773.html",
+      "summary": "Quân đội Iran tuyên bố lực lượng nước này bắn hạ hai trực thăng và một máy bay C-130 tham gia chiến dịch tìm kiếm phi công Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T09:30:14+07:00",
+      "fetched": "2026-04-05T17:30:34.664843+07:00"
+    },
+    {
+      "id": "0128032b07a76fbb91c1b217f339a586",
+      "title": "Iran tuyên bố bắn hạ ba máy bay Mỹ tham gia tìm phi công",
+      "link": "https://vnexpress.net/iran-tuyen-bo-ban-ha-ba-may-bay-my-tham-gia-tim-phi-cong-5058773.html",
+      "summary": "Quân đội Iran tuyên bố lực lượng nước này bắn hạ hai trực thăng và một máy bay C-130 tham gia chiến dịch tìm kiếm phi công Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-05T09:30:14+07:00",
+      "fetched": "2026-04-05T17:30:40.624583+07:00"
+    },
+    {
+      "id": "182162d77f466d193888e62bf0982d66",
+      "title": "Nghịch lý đau lòng khi 'hát nhép' được 'chấp nhận'",
+      "link": "https://thanhnien.vn/nghich-ly-dau-long-khi-hat-nhep-duoc-chap-nhan-185260405154112866.htm",
+      "summary": "Nhà sản xuất Hà Thanh Phúc đã có những chia sẻ thẳng thắn về một thực trạng nhức nhối: vấn đề hát nhép, hát đè và sự ưu ái dành cho những \"hình mẫu\" giải trí thay vì những giọng ca thực lực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T09:30:00+07:00",
+      "fetched": "2026-04-05T17:30:38.233640+07:00"
+    },
+    {
       "id": "a09b71c746c6cf217dee35fda90d0af9",
       "title": "Thật sợ những tay lái ra đường bấm còi xe như 'án mạng tới nơi'",
       "link": "https://tuoitre.vn/that-so-nhung-tay-lai-ra-duong-bam-coi-xe-nhu-an-mang-toi-noi-20260403154831982.htm",
@@ -461,6 +741,156 @@ window.newsData_2026_04_05 = {
       "category": "Tổng hợp",
       "published": "2026-04-05T09:10:11.597750+07:00",
       "fetched": "2026-04-05T09:10:11.597910+07:00"
+    },
+    {
+      "id": "ee3c878e372bddb2896ab209adcb2f85",
+      "title": "Tài xế thắng gấp giữa quốc lộ, lao xuống cứu bé gái 2 tuổi băng qua đường",
+      "link": "https://thanhnien.vn/tai-xe-thang-gap-giua-quoc-lo-lao-xuong-cuu-be-gai-2-tuoi-bang-qua-duong-185260405152743817.htm",
+      "summary": "Phát hiện bé gái 2 tuổi băng qua quốc lộ 1 ở Huế giữa lúc xe chạy tốc độ cao, tài xế phanh gấp, lao xuống cứu kịp thời khiến nhiều người thót tim.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T09:08:00+07:00",
+      "fetched": "2026-04-05T17:30:38.233808+07:00"
+    },
+    {
+      "id": "67f29bc99c1ddefd72059c238cc289cd",
+      "title": "'Tuổi già dễ thở hơn khi lương hưu không phải gánh thuế'",
+      "link": "https://vnexpress.net/tuoi-gia-de-tho-hon-khi-luong-huu-khong-phai-ganh-thue-5058733.html",
+      "summary": "Khoản lương hưu nhỏ mỗi tháng khiến bố mẹ tôi phải cân nhắc từng đồng chi tiêu để duy trì cuộc sống tuổi già.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T09:00:00+07:00",
+      "fetched": "2026-04-05T17:30:34.665020+07:00"
+    },
+    {
+      "id": "96244f91f9647a5661b2bd57f679a53e",
+      "title": "Phi hành gia Artemis II ăn gì trên tàu vũ trụ?",
+      "link": "https://vnexpress.net/phi-hanh-gia-artemis-ii-an-gi-tren-tau-vu-tru-5058711.html",
+      "summary": "Trong 10 ngày du hành Mặt Trăng và trở về Trái Đất, các phi hành gia Artemis II thưởng thức tới 189 món ăn và hơn 10 loại đồ uống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T09:00:00+07:00",
+      "fetched": "2026-04-05T17:30:34.665190+07:00"
+    },
+    {
+      "id": "145000642842e570fedefd8417ebe8a1",
+      "title": "Xổ số miền Nam ngày 5 tháng 4 - Kết quả xổ số hôm nay chủ nhật",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-5-thang-4-ket-qua-xo-so-hom-nay-chu-nhat-185260405153619211.htm",
+      "summary": "Xem kết quả xổ số miền Nam ngày 5 tháng 4; Xổ số miền Bắc, xổ số miền Trung, xổ số điện toán trực tiếp nhanh hôm nay chủ nhật ngày 5.4.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T09:00:00+07:00",
+      "fetched": "2026-04-05T17:30:38.233956+07:00"
+    },
+    {
+      "id": "96244f91f9647a5661b2bd57f679a53e",
+      "title": "Phi hành gia Artemis II ăn gì trên tàu vũ trụ?",
+      "link": "https://vnexpress.net/phi-hanh-gia-artemis-ii-an-gi-tren-tau-vu-tru-5058711.html",
+      "summary": "Trong 10 ngày du hành Mặt Trăng và trở về Trái Đất, các phi hành gia Artemis II thưởng thức tới 189 món ăn và hơn 10 loại đồ uống.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-05T09:00:00+07:00",
+      "fetched": "2026-04-05T17:30:45.459481+07:00"
+    },
+    {
+      "id": "7827099e20950b193a654366c9222a1b",
+      "title": "Nợ thuế 4,7 tỉ đồng, doanh nghiệp gỗ bị cưỡng chế dừng thủ tục hải quan",
+      "link": "https://thanhnien.vn/no-thue-47-ti-dong-doanh-nghiep-go-bi-cuong-che-dung-thu-tuc-hai-quan-185260405152530209.htm",
+      "summary": "Chi cục Hải quan Khu vực IX (Đồng Hới, Quảng Trị) - Cục Hải quan vừa ban hành Quyết định cưỡng chế dừng làm thủ tục hải quan với một doanh nghiệp kinh doanh, xuất nhập khẩu gỗ tại tỉnh Quảng Trị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T08:54:00+07:00",
+      "fetched": "2026-04-05T17:30:38.234112+07:00"
+    },
+    {
+      "id": "15fdbf0e119786cfa47c5ffdbc2b6095",
+      "title": "Tự quyết toán thuế thu nhập cá nhân cần lưu ý gì?",
+      "link": "https://thanhnien.vn/tu-quyet-toan-thue-thu-nhap-ca-nhan-can-luu-y-gi-185260405070350379.htm",
+      "summary": "Các cá nhân tự thực hiện quyết toán thuế thu nhập cá nhân cần thực hiện đúng thời gian quy định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T08:54:00+07:00",
+      "fetched": "2026-04-05T17:30:38.234261+07:00"
+    },
+    {
+      "id": "e0285727ab2212bcf47dc7c965b63ac8",
+      "title": "Thưởng lên đến 10 triệu đồng cho người tố giác bán không lập hóa đơn",
+      "link": "https://thanhnien.vn/thuong-len-den-10-trieu-dong-cho-nguoi-to-giac-ban-khong-lap-hoa-don-185260405152728458.htm",
+      "summary": "Đây là một trong những biện pháp khuyến khích người tiêu dùng lấy hoá đơn khi mua hàng hoá, dịch vụ và thực hiện khen thưởng người tiêu dùng tố giác người bán không lập và giao hoá đơn được đề cập tại dự thảo Thông tư hướng dẫn thực hiện một số điều của luật Quản lý thuế số 108, Nghị định quy định v...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T08:53:00+07:00",
+      "fetched": "2026-04-05T17:30:38.234422+07:00"
+    },
+    {
+      "id": "ab8147075d2716232b31690eb99cd361",
+      "title": "Tài xế kể khoảnh khắc cứu bé gái 2 tuổi tự băng qua quốc lộ",
+      "link": "https://vnexpress.net/tai-xe-ke-khoanh-khac-cuu-be-gai-2-tuoi-tu-bang-qua-quoc-lo-5058756.html",
+      "summary": "Trên đường lái xe từ TP Huế vào Đà Nẵng, anh Lý Văn Tố phát hiện bé gái 2 tuổi tự băng qua quốc lộ 1A và kịp thời chạy đến đưa cháu vào nơi an toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T08:35:42+07:00",
+      "fetched": "2026-04-05T17:30:34.665350+07:00"
+    },
+    {
+      "id": "b2191c3c184d860241a28fe8fd9bd3a1",
+      "title": "Thủ môn đấm khán giả ở Anh",
+      "link": "https://vnexpress.net/thu-mon-dam-khan-gia-o-anh-5058727.html",
+      "summary": "Thủ môn Joe Wright của Enfield Town đấm vào một khán giả đối phương ngay trong trận gặp chủ nhà Chelmsford City ở giải hạng Sáu tối 4/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T08:34:05+07:00",
+      "fetched": "2026-04-05T17:30:34.665513+07:00"
+    },
+    {
+      "id": "b2191c3c184d860241a28fe8fd9bd3a1",
+      "title": "Thủ môn đấm khán giả ở Anh",
+      "link": "https://vnexpress.net/thu-mon-dam-khan-gia-o-anh-5058727.html",
+      "summary": "Thủ môn Joe Wright của Enfield Town đấm vào một khán giả đối phương ngay trong trận gặp chủ nhà Chelmsford City ở giải hạng Sáu tối 4/4.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-05T08:34:05+07:00",
+      "fetched": "2026-04-05T17:30:47.245452+07:00"
+    },
+    {
+      "id": "ba9d6c47581e8cbec864db98dc48d4d5",
+      "title": "Ekitike bị chỉ trích vì đổi áo giữa trận thua đậm Man City",
+      "link": "https://vnexpress.net/ekitike-bi-chi-trich-vi-doi-ao-giua-tran-thua-dam-man-city-5058740.html",
+      "summary": "Tiền đạo Hugo Ekitike trở thành tâm điểm tranh cãi khi đổi áo với đối thủ Rayan Cherki, giữa lúc Liverpool bị Man City dẫn 4-0 ở Cup FA.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T08:31:07+07:00",
+      "fetched": "2026-04-05T17:30:34.665697+07:00"
+    },
+    {
+      "id": "ba9d6c47581e8cbec864db98dc48d4d5",
+      "title": "Ekitike bị chỉ trích vì đổi áo giữa trận thua đậm Man City",
+      "link": "https://vnexpress.net/ekitike-bi-chi-trich-vi-doi-ao-giua-tran-thua-dam-man-city-5058740.html",
+      "summary": "Tiền đạo Hugo Ekitike trở thành tâm điểm tranh cãi khi đổi áo với đối thủ Rayan Cherki, giữa lúc Liverpool bị Man City dẫn 4-0 ở Cup FA.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-05T08:31:07+07:00",
+      "fetched": "2026-04-05T17:30:47.244980+07:00"
+    },
+    {
+      "id": "b55852a8d04e6285186fe44d139a7813",
+      "title": "Chuỗi nhà hàng lẩu Haidilao thu hơn 2.400 tỷ đồng ở Việt Nam",
+      "link": "https://vnexpress.net/chuoi-nha-hang-lau-haidilao-thu-hon-2-400-ty-dong-o-viet-nam-5058745.html",
+      "summary": "Super Hi International - đơn vị điều hành thị trường quốc tế của chuỗi Haidilao - đạt doanh thu hơn 2.400 tỷ đồng từ 17 nhà hàng ở Việt Nam 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T08:28:47+07:00",
+      "fetched": "2026-04-05T17:30:34.665864+07:00"
+    },
+    {
+      "id": "b55852a8d04e6285186fe44d139a7813",
+      "title": "Chuỗi nhà hàng lẩu Haidilao thu hơn 2.400 tỷ đồng ở Việt Nam",
+      "link": "https://vnexpress.net/chuoi-nha-hang-lau-haidilao-thu-hon-2-400-ty-dong-o-viet-nam-5058745.html",
+      "summary": "Super Hi International - đơn vị điều hành thị trường quốc tế của chuỗi Haidilao - đạt doanh thu hơn 2.400 tỷ đồng từ 17 nhà hàng ở Việt Nam 2025.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-05T08:28:47+07:00",
+      "fetched": "2026-04-05T17:30:42.711942+07:00"
     },
     {
       "id": "116c3fbd78f40b769577a2be26e770bc",
