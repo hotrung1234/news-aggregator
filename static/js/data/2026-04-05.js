@@ -1,7 +1,157 @@
 window.newsData_2026_04_05 = {
   "date": "2026-04-05",
-  "lastUpdated": "2026-04-05T14:01:51.865971+07:00",
+  "lastUpdated": "2026-04-05T15:39:20.218782+07:00",
   "articles": [
+    {
+      "id": "d4ec111d6b7c629f6b1d531de74d4505",
+      "title": "Áo vàng và áo xanh Cúp truyền hình TP.HCM cùng đổi chủ sau chặng 3",
+      "link": "https://tuoitre.vn/ao-vang-va-ao-xanh-cup-truyen-hinh-tp-hcm-cung-doi-chu-sau-chang-3-20260405123550745.htm",
+      "summary": "Đã có những sự thay đổi lớn diễn ra khi cuộc đua xe đạp toàn quốc Cúp truyền hình TP.HCM thi đấu chặng 3 sáng 5-4.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T15:39:13.128577+07:00",
+      "fetched": "2026-04-05T15:39:13.128676+07:00"
+    },
+    {
+      "id": "ad3684511fc35958b189c36c4f45bfce",
+      "title": "Mỹ nói đã bắt giữ cháu gái tướng Iran Qassem Soleimani, phía Iran bác bỏ",
+      "link": "https://tuoitre.vn/my-noi-da-bat-giu-chau-gai-tuong-iran-qassem-soleimani-phia-iran-bac-bo-20260405105804917.htm",
+      "summary": "Bộ Ngoại giao Mỹ ngày 4-4 cho biết các đặc vụ liên bang Mỹ đã bắt giữ cháu gái và chắt gái của cố tướng Iran Qassem Soleimani.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T15:39:13.128466+07:00",
+      "fetched": "2026-04-05T15:39:13.128568+07:00"
+    },
+    {
+      "id": "53f4574c40d837dc903e81f10a6f3ed4",
+      "title": "Đề nghị hỗ trợ người dân có đất lúa bị nhiễm mặn",
+      "link": "https://tuoitre.vn/de-nghi-ho-tro-nguoi-dan-co-dat-lua-bi-nhiem-man-20260405104023943.htm",
+      "summary": "Sau khi đê ngăn mặn bị vỡ, hàng trăm ha ruộng lúa ở xã Tuy An Đông, Phú Yên cũ, bị nhiễm mặn phải bỏ hoang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T15:39:13.128359+07:00",
+      "fetched": "2026-04-05T15:39:13.128457+07:00"
+    },
+    {
+      "id": "b5e9d16d118f86590f23ff333e30df5c",
+      "title": "Voi rừng phá rào thép, 'đột nhập' trường học ở Sơn La",
+      "link": "https://tuoitre.vn/voi-rung-pha-rao-thep-dot-nhap-truong-hoc-o-son-la-20260405113437126.htm",
+      "summary": "Một con voi rừng bất ngờ phá hàng rào, đi vào khu bán trú của Trường Phổ thông Dân tộc bán trú THCS Huổi Một (Sơn La).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T15:39:13.128252+07:00",
+      "fetched": "2026-04-05T15:39:13.128350+07:00"
+    },
+    {
+      "id": "431a8228acb445290fd99df5033fdb2a",
+      "title": "Người dân lại thấy cá sấu dưới kênh, chính quyền thông báo cảnh giác",
+      "link": "https://tuoitre.vn/nguoi-dan-lai-thay-ca-sau-duoi-kenh-chinh-quyen-thong-bao-canh-giac-20260405120537913.htm",
+      "summary": "Người dân lại thấy một con cá sấu xuất hiện trên dòng kênh rồi lặn mất ở khu vực xã Tân Thạnh, Tây Ninh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T15:39:13.128134+07:00",
+      "fetched": "2026-04-05T15:39:13.128232+07:00"
+    },
+    {
+      "id": "ebd5f92a33205738317701f9f9f8e530",
+      "title": "Dùng flycam tìm người đàn ông mất tích trong rừng",
+      "link": "https://tuoitre.vn/dung-flycam-tim-nguoi-dan-ong-mat-tich-trong-rung-20260405120143647.htm",
+      "summary": "Lực lượng chức năng và hàng trăm người dân cùng vào rừng, dùng flycam tìm kiếm người đàn ông ở Nghệ An mất tích.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T15:39:13.128029+07:00",
+      "fetched": "2026-04-05T15:39:13.128125+07:00"
+    },
+    {
+      "id": "77b90268c269619640c8f798a0217cb1",
+      "title": "Bắt đầu ngày hội Tự tin vào lớp 10 khu vực Bà Rịa - Vũng Tàu",
+      "link": "https://tuoitre.vn/bat-dau-ngay-hoi-tu-tin-vao-lop-10-khu-vuc-ba-ria-vung-tau-20260405082427344.htm",
+      "summary": "Ngày hội giải đáp nhiều thắc mắc liên quan đến kỳ tuyển sinh lớp 10 tại TP.HCM, giúp học sinh khám phá điểm mạnh - yếu của bản thân qua các hoạt động tư vấn, định hướng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T15:39:13.127920+07:00",
+      "fetched": "2026-04-05T15:39:13.128020+07:00"
+    },
+    {
+      "id": "2fc97e76a574cd1140cbc939c30feb65",
+      "title": "TikToker 3,1 triệu follow xin lỗi vì nói 'bánh mì chỉ đói khát, khổ cực mới ăn'",
+      "link": "https://tuoitre.vn/tiktoker-3-1-trieu-follow-xin-loi-vi-noi-banh-mi-chi-doi-khat-kho-cuc-moi-an-20260405113106354.htm",
+      "summary": "Phát ngôn cho rằng bánh mì 'chỉ ăn khi đói khát, khổ cực' của một nữ TikToker bị chỉ trích trên mạng xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T15:39:13.127801+07:00",
+      "fetched": "2026-04-05T15:39:13.127911+07:00"
+    },
+    {
+      "id": "9bdfcc8e3dc58d9c6c5d2ce018e2c467",
+      "title": "Thí sinh dự thi đánh giá năng lực ĐHQG TP.HCM đông kỷ lục, phụ huynh được tư vấn ngay điểm thi",
+      "link": "https://tuoitre.vn/thi-sinh-du-thi-danh-gia-nang-luc-dhqg-tp-hcm-dong-ky-luc-phu-huynh-duoc-tu-van-ngay-diem-thi-20260405123310143.htm",
+      "summary": "Kỳ thi sáng 5-4 với số lượng và tỉ lệ dự thi cao nhất từ trước đến nay là 133.489 thí sinh, đạt tỉ lệ 98,3%.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T15:39:13.127695+07:00",
+      "fetched": "2026-04-05T15:39:13.127792+07:00"
+    },
+    {
+      "id": "3c31e5b6fe693af157755e1fa610120b",
+      "title": "Hơn 1.200 tân cử nhân Ngoại thương đồng loạt cúi đầu tri ân cha mẹ trong ngày tốt nghiệp",
+      "link": "https://tuoitre.vn/hon-1-200-tan-cu-nhan-ngoai-thuong-dong-loat-cui-dau-tri-an-cha-me-trong-ngay-tot-nghiep-20260405105837599.htm",
+      "summary": "Hơn 1.200 tân cử nhân Ngoại thương đồng loạt quay xuống cúi đầu tri ân cha mẹ trong lễ tốt nghiệp, tạo khoảnh khắc xúc động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T15:39:13.127586+07:00",
+      "fetched": "2026-04-05T15:39:13.127685+07:00"
+    },
+    {
+      "id": "d0adee94602cb30c192a8d43bc45774b",
+      "title": "Petrolimex 'cài số lùi' lợi nhuận 2026, lần đầu lên tiếng trước áp lực từ xe điện",
+      "link": "https://tuoitre.vn/petrolimex-cai-so-lui-loi-nhuan-2026-lan-dau-len-tieng-truoc-ap-luc-tu-xe-dien-20260405123509795.htm",
+      "summary": "Petrolimex đặt mục tiêu doanh thu kỷ lục 315.000 tỉ đồng trong năm 2026 nhưng lợi nhuận dự kiến giảm 7% xuống 3.380 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T15:39:13.127477+07:00",
+      "fetched": "2026-04-05T15:39:13.127576+07:00"
+    },
+    {
+      "id": "97a70994ac1ff74d879fceeadc2f653e",
+      "title": "Tài xế xe tải cứu kịp thời bé gái chập chững đi giữa quốc lộ 1",
+      "link": "https://tuoitre.vn/tai-xe-xe-tai-cuu-kip-thoi-be-gai-chap-chung-di-giua-quoc-lo-1-20260405123427784.htm",
+      "summary": "Một bé gái hơn 1 tuổi bất ngờ băng qua quốc lộ 1, được tài xế xe tải nhanh trí cứu kịp thời trước dòng xe đông đúc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T15:39:13.127364+07:00",
+      "fetched": "2026-04-05T15:39:13.127468+07:00"
+    },
+    {
+      "id": "0514e47fb7061c4b0425ed5173d83d4b",
+      "title": "'Bản thảo để lại trong sảnh lễ tân' và một Hồ Anh Thái đã 'chín'",
+      "link": "https://tuoitre.vn/ban-thao-de-lai-trong-sanh-le-tan-va-mot-ho-anh-thai-da-chin-20260405092445146.htm",
+      "summary": "'Bản thảo để lại trong sảnh lễ tân', cuốn tiểu thuyết mới nhất của Hồ Anh Thái vừa ra mắt bạn đọc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T15:39:13.127251+07:00",
+      "fetched": "2026-04-05T15:39:13.127354+07:00"
+    },
+    {
+      "id": "1b60da5710fe13a8086d2b5cb283af5b",
+      "title": "Tuyển futsal Việt Nam mượn giải Đông Nam Á tạo đà cho mục tiêu World Cup",
+      "link": "https://tuoitre.vn/tuyen-futsal-viet-nam-muon-giai-dong-nam-a-tao-da-cho-muc-tieu-world-cup-20260405130231901.htm",
+      "summary": "HLV Diego Giustozzi bày tỏ Giải futsal Đông Nam Á 2026 sẽ là bước đệm quan trọng cho đội tuyển futsal Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T15:39:13.127128+07:00",
+      "fetched": "2026-04-05T15:39:13.127240+07:00"
+    },
+    {
+      "id": "ce41eb1551702da00e015e4e8cd70802",
+      "title": "Công bố top hàng hóa, dịch vụ người tiêu dùng tin cậy năm 2025",
+      "link": "https://tuoitre.vn/cong-bo-top-hang-hoa-dich-vu-nguoi-tieu-dung-tin-cay-nam-2025-20260405123756294.htm",
+      "summary": "Lễ công bố kết quả khảo sát \"Hàng hóa – Dịch vụ người tiêu dùng tin cậy năm 2025\" do Hội Bảo vệ Người tiêu dùng Việt Nam tổ chức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T15:39:13.126908+07:00",
+      "fetched": "2026-04-05T15:39:13.127115+07:00"
+    },
     {
       "id": "f7f07b499a5066e7b1a460d9abf6fe66",
       "title": "'Bác sĩ gia đình' phường Xuân Hoà đến tận nhà khám bệnh cho dân",
@@ -313,6 +463,246 @@ window.newsData_2026_04_05 = {
       "fetched": "2026-04-05T09:10:11.597910+07:00"
     },
     {
+      "id": "116c3fbd78f40b769577a2be26e770bc",
+      "title": "Bánh mì Việt Nam: Từ ổ bánh giá 5.000 đồng đến tiệm được Michelin vinh danh",
+      "link": "https://thanhnien.vn/banh-mi-viet-nam-tu-o-banh-gia-5000-dong-den-tiem-duoc-michelin-vinh-danh-185260405151810283.htm",
+      "summary": "Từ ổ bánh mì giá 5.000 đồng đến tiệm duy nhất được Michelin Guide vinh danh, bánh mì Việt Nam có nhiều câu chuyện thú vị khiến giới ẩm thực chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T08:27:00+07:00",
+      "fetched": "2026-04-05T15:39:11.798090+07:00"
+    },
+    {
+      "id": "b14a1730edaf560080585c716aab4687",
+      "title": "Điều tra vụ thi thể bé trai sơ sinh dưới chân cầu Phú Mỹ, TP.HCM",
+      "link": "https://thanhnien.vn/dieu-tra-vu-thi-the-be-trai-so-sinh-duoi-chan-cau-phu-my-tphcm-18526040514550602.htm",
+      "summary": "Người dân phát hiện thi thể bé trai sơ sinh tại khu vực sông Sài Gòn dưới chân cầu Phú Mỹ, hiện công an đang vào cuộc làm rõ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T08:27:00+07:00",
+      "fetched": "2026-04-05T15:39:11.798242+07:00"
+    },
+    {
+      "id": "1f6e4542caa9dda8e35dec43d80567f5",
+      "title": "Tuần tra xuyên đêm, Công an Đà Nẵng phát hiện nhiều thanh thiếu niên tụ tập, mang hung khí",
+      "link": "https://thanhnien.vn/tuan-tra-xuyen-dem-cong-an-da-nang-phat-hien-nhieu-thanh-thieu-nien-tu-tap-mang-hung-khi-185260405144107936.htm",
+      "summary": "Lực lượng 911 Công an thành phố Đà Nẵng liên tiếp phát hiện thanh thiếu niên mang hung khí, tụ tập chạy xe gây mất trật tự đường phố về đêm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T08:10:00+07:00",
+      "fetched": "2026-04-05T15:39:11.798379+07:00"
+    },
+    {
+      "id": "f56ac05438412b0a2d412641a15ac0cc",
+      "title": "8 dấu hiệu bạn đã tìm đúng 'nửa kia' của đời mình",
+      "link": "https://vnexpress.net/8-dau-hieu-ban-da-tim-dung-nua-kia-cua-doi-minh-5058547.html",
+      "summary": "Dù cách thức hẹn hò thay đổi nhiều so với trước đây, những giá trị cốt lõi trong tình yêu không bao giờ biến mất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T08:02:13+07:00",
+      "fetched": "2026-04-05T15:39:08.844532+07:00"
+    },
+    {
+      "id": "df5bd46007d4933dd1b3ac1669d6b59f",
+      "title": "Tôi trả giá cho sự 'hiệp nghĩa' sai chỗ với người vợ có con riêng",
+      "link": "https://vnexpress.net/toi-tra-gia-cho-su-hiep-nghia-sai-cho-voi-nguoi-vo-co-con-rieng-5058688.html",
+      "summary": "Điều khiến tôi suy nghĩ nhiều nhất là khi nhận ra càng cho đi mà không có giới hạn, tôi càng đánh mất tiếng nói của mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T08:00:00+07:00",
+      "fetched": "2026-04-05T15:39:08.844688+07:00"
+    },
+    {
+      "id": "44d8a29c9be2c147f234e1c755f4b59f",
+      "title": "Những biệt thự triệu USD của Miley Cyrus",
+      "link": "https://vnexpress.net/nhung-biet-thu-trieu-usd-cua-miley-cyrus-5058004.html",
+      "summary": "Ở tuổi 34, ca sĩ Miley Cyrus sống trong dinh thự trị giá 7,9 triệu USD, liên tục mua bán nhà suốt nhiều năm qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T08:00:00+07:00",
+      "fetched": "2026-04-05T15:39:08.844844+07:00"
+    },
+    {
+      "id": "e9ec3c09f9365635e087d036695f4bcd",
+      "title": "Kem chống nắng thuần chay Dinsee hỗ trợ bảo vệ da ngày hè",
+      "link": "https://vnexpress.net/kem-chong-nang-thuan-chay-dinsee-ho-tro-bao-ve-da-ngay-he-5055671.html",
+      "summary": "Dòng kem chống nắng thuần chay của thương hiệu Dinsee thuộc Tập đoàn Yuhan ứng dụng màng lọc thế hệ mới, đáp ứng nhu cầu hỗ trợ bảo vệ và chăm sóc da đa dạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T08:00:00+07:00",
+      "fetched": "2026-04-05T15:39:08.844987+07:00"
+    },
+    {
+      "id": "245a8f1de62e674bfaa190883eb6049b",
+      "title": "Chỉ với 130 m², cô gái trồng rau bán 55.000/kg vẫn không đủ hàng",
+      "link": "https://thanhnien.vn/chi-voi-130-m-co-gai-trong-rau-ban-55000-kg-van-khong-du-hang-185260405101030131.htm",
+      "summary": "Với tinh thần dám nghĩ, dám làm, chị Lê Công Trà My (32 tuổi, ngụ xã Bình Đại, Vĩnh Long - trước đây là H.Bình Đại, Bến Tre) khởi nghiệp với mô hình trồng rau thủy canh trong nhà màng, mang lại thu nhập ổn định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T08:00:00+07:00",
+      "fetched": "2026-04-05T15:39:11.798523+07:00"
+    },
+    {
+      "id": "61593acba9e7d602987e616cb987a8aa",
+      "title": "Cần Thơ siết quản lý vũ khí, pháo và ngành nghề có điều kiện về an ninh, trật tự",
+      "link": "https://thanhnien.vn/can-tho-siet-quan-ly-vu-khi-phao-va-nganh-nghe-co-dieu-kien-ve-an-ninh-trat-tu-185260405124826407.htm",
+      "summary": "Cần Thơ ban hành chỉ thị siết quản lý vũ khí, vật liệu nổ, pháo và các ngành nghề kinh doanh có điều kiện về an ninh, trật tự, không để phát sinh 'điểm nóng', xử lý nghiêm vi phạm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T07:59:00+07:00",
+      "fetched": "2026-04-05T15:39:11.798652+07:00"
+    },
+    {
+      "id": "5c03614427a7cb326abb39fe83b77445",
+      "title": "Từ ‘niêm’ trong đề thi đánh giá năng lực làm khó nhiều thí sinh",
+      "link": "https://thanhnien.vn/tu-niem-trong-de-thi-danh-gia-nang-luc-lam-kho-nhieu-thi-sinh-185260405144158197.htm",
+      "summary": "Kỳ thi đánh giá năng lực đợt 1 do ĐH Quốc gia TP.HCM tổ chức sáng 5.4 đã thu hút hơn 133.000 thí sinh dự thi (đạt tỷ lệ 98,33% so với số thí sinh đăng ký dự thi). Nhận định về đề thi, một số thí sinh cho biết bị khó ngay từ 'niêm' ở phần thi tiếng Việt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T07:57:00+07:00",
+      "fetched": "2026-04-05T15:39:11.798781+07:00"
+    },
+    {
+      "id": "884f6cf56f07a6a53513911143e12782",
+      "title": "Vincom Retail đặt mục tiêu có hơn 100 trung tâm thương mại",
+      "link": "https://vnexpress.net/vincom-retail-dat-muc-tieu-co-hon-100-trung-tam-thuong-mai-5058730.html",
+      "summary": "Vincom Retail - chủ chuỗi trung tâm thương mại Vincom đang vận hành 90 cơ sở trên toàn quốc, muốn nâng lên 110 địa điểm với 3,5 triệu m2 sàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T07:55:42+07:00",
+      "fetched": "2026-04-05T15:39:08.845123+07:00"
+    },
+    {
+      "id": "884f6cf56f07a6a53513911143e12782",
+      "title": "Vincom Retail đặt mục tiêu có hơn 100 trung tâm thương mại",
+      "link": "https://vnexpress.net/vincom-retail-dat-muc-tieu-co-hon-100-trung-tam-thuong-mai-5058730.html",
+      "summary": "Vincom Retail - chủ chuỗi trung tâm thương mại Vincom đang vận hành 90 cơ sở trên toàn quốc, muốn nâng lên 110 địa điểm với 3,5 triệu m2 sàn.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-05T07:55:42+07:00",
+      "fetched": "2026-04-05T15:39:15.762425+07:00"
+    },
+    {
+      "id": "0b8c8515b721e7729537f307758d8be3",
+      "title": "Tuần sau, TP.HCM sẽ nóng như 'chảo lửa'",
+      "link": "https://thanhnien.vn/tuan-sau-tphcm-se-nong-nhu-chao-lua-185260405145202433.htm",
+      "summary": "Từ đầu tuần sau, nắng nóng gia tăng trên khắp Nam bộ; TP.HCM và các tỉnh miền Đông trở thành 'chảo lửa' với nhiệt độ cao nhất lên tới 38 độ C.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T07:54:00+07:00",
+      "fetched": "2026-04-05T15:39:11.798921+07:00"
+    },
+    {
+      "id": "5cf75e0823ab359c9f2a69aa5cac385e",
+      "title": "Hình ảnh vận tải cơ Mỹ bốc cháy trong cuộc giải cứu phi công",
+      "link": "https://vnexpress.net/hinh-anh-van-tai-co-my-boc-chay-trong-cuoc-giai-cuu-phi-cong-5058741.html",
+      "summary": "Giới quan sát quân sự quốc tế và truyền thông Iran đăng hình ảnh vận tải cơ C-130 bốc cháy ở Iran, giới chức Mỹ nói họ đã tự hủy máy bay trong khi Iran tuyên bố họ đã phá hủy nó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T07:38:52+07:00",
+      "fetched": "2026-04-05T15:39:08.845255+07:00"
+    },
+    {
+      "id": "5cf75e0823ab359c9f2a69aa5cac385e",
+      "title": "Hình ảnh vận tải cơ Mỹ bốc cháy trong cuộc giải cứu phi công",
+      "link": "https://vnexpress.net/hinh-anh-van-tai-co-my-boc-chay-trong-cuoc-giai-cuu-phi-cong-5058741.html",
+      "summary": "Giới quan sát quân sự quốc tế và truyền thông Iran đăng hình ảnh vận tải cơ C-130 bốc cháy ở Iran, giới chức Mỹ nói họ đã tự hủy máy bay trong khi Iran tuyên bố họ đã phá hủy nó.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-05T07:38:52+07:00",
+      "fetched": "2026-04-05T15:39:14.848919+07:00"
+    },
+    {
+      "id": "2be08bd73a5352241294f045d0c98cd9",
+      "title": "Bị đánh gục khi can ngăn cãi vã sau va chạm giao thông",
+      "link": "https://vnexpress.net/bi-danh-guc-khi-can-ngan-cai-va-sau-va-cham-giao-thong-5058748.html",
+      "summary": "Thấy nam sinh bị người đàn ông \"bắt nạt\" sau va quẹt giao thông, nam thanh niên đến can ngăn thì bị ông ta đánh bất tỉnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T07:30:00+07:00",
+      "fetched": "2026-04-05T15:39:08.845386+07:00"
+    },
+    {
+      "id": "c9af21d0e92dd4a2063b735b2fc72e21",
+      "title": "Cặp song sinh bí mật làm một chuyện sau kỳ thi, khiến cả điểm thi ngoái nhìn",
+      "link": "https://thanhnien.vn/cap-song-sinh-bi-mat-lam-mot-chuyen-sau-ky-thi-khien-ca-diem-thi-ngoai-nhin-185260405140910581.htm",
+      "summary": "Không báo trước với gia đình, cặp song sinh âm thầm làm một việc bất ngờ khiến cả điểm thi đánh giá năng lực phải bất ngờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T07:30:00+07:00",
+      "fetched": "2026-04-05T15:39:11.799051+07:00"
+    },
+    {
+      "id": "34cd9c91ce0115c42bdacdff38bb92fd",
+      "title": "Chi tiết vụ giải cứu sĩ quan Mỹ trên tiêm kích bị Iran bắn hạ",
+      "link": "https://thanhnien.vn/chi-tiet-vu-giai-cuu-si-quan-my-tren-tiem-kich-bi-iran-ban-ha-185260405134822158.htm",
+      "summary": "Đài CBS News dẫn lời 2 quan chức Mỹ tiết lộ lực lượng đặc nhiệm nước này đã giải cứu được sĩ quan mất tích trong một chiến dịch phức tạp với sự tham gia của hàng trăm người cùng hàng chục máy bay và trực thăng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T07:29:00+07:00",
+      "fetched": "2026-04-05T15:39:11.799178+07:00"
+    },
+    {
+      "id": "f451243a952e37f9a10fc9bb32c06303",
+      "title": "Nắng nóng có làm tăng nguy cơ đột quỵ không? Chuyên gia giải thích",
+      "link": "https://thanhnien.vn/nang-nong-co-lam-tang-nguy-co-dot-quy-khong-chuyen-gia-giai-thich-185260405142849869.htm",
+      "summary": "Những ngày nắng nóng kéo dài không chỉ gây mệt mỏi, mất nước, đau đầu, mà còn làm tăng nguy cơ đột quỵ ở người cao tuổi, người có bệnh nền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T07:28:00+07:00",
+      "fetched": "2026-04-05T15:39:11.799305+07:00"
+    },
+    {
+      "id": "06f4d4ca42e814f1352386252b02d2d7",
+      "title": "Người mẹ Việt kể khoảnh khắc ôm con dưới tầm tên lửa",
+      "link": "https://vnexpress.net/nguoi-me-viet-ke-khoanh-khac-om-con-duoi-tam-ten-lua-5058737.html",
+      "summary": "Không kịp chạy về hầm trú ẩn khi còi báo động vang lên, chị Lý Ngân Giang, sống tại Israel, đè thân mình lên đứa con 20 tháng tuổi để tránh tên lửa ngay gần, bật khóc vì nghĩ hai mẹ con sẽ không thể sống sót.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T07:20:55+07:00",
+      "fetched": "2026-04-05T15:39:08.845523+07:00"
+    },
+    {
+      "id": "e9da94717aa95dbfb8fe8eda2e82f888",
+      "title": "Hàng rong tái diễn, loa kẹo kéo 'tấn công' công viên Bãi Sau Vũng Tàu",
+      "link": "https://thanhnien.vn/hang-rong-tai-dien-loa-keo-keo-tan-cong-cong-vien-bai-sau-vung-tau-185260405114842448.htm",
+      "summary": "Ngoài việc tái diễn nạn bán hàng rong, ở công viên Bãi Sau lại mới xuất hiện tình trạng hát loa kẹo kéo gây ảnh hưởng đến hình ảnh du lịch Vũng Tàu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T07:19:00+07:00",
+      "fetched": "2026-04-05T15:39:11.799430+07:00"
+    },
+    {
+      "id": "eddd38a14b3b94144a3210b40148254f",
+      "title": "ĐH Quốc gia TP.HCM thông báo việc công bố điểm thi đánh giá năng lực",
+      "link": "https://thanhnien.vn/dh-quoc-gia-tphcm-thong-bao-viec-cong-bo-diem-thi-danh-gia-nang-luc-185260405135027171.htm",
+      "summary": "Ngay sau kỳ thi đánh giá năng lực đợt 1 kết thúc, ĐH Quốc gia TP.HCM có báo cáo nhanh về tình hình thí sinh dự thi và thời gian công bố kết quả thi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T07:08:00+07:00",
+      "fetched": "2026-04-05T15:39:11.799553+07:00"
+    },
+    {
+      "id": "3fead6525b36bced201563422fd03133",
+      "title": "Trường ĐH Quốc gia Malaysia 0-0 Trường ĐH Thủy lợi: Chung kết đỉnh cao",
+      "link": "https://thanhnien.vn/truong-dh-quoc-gia-malaysia-0-0-truong-dh-thuy-loi-chung-ket-dinh-cao-185260405073154128.htm",
+      "summary": "Màn đọ sức giữa Trường ĐH Quốc gia Malaysia và Trường ĐH Thủy lợi diễn ra lúc 15 giờ 20 hôm nay (5.4) xứng đáng là trận chung kết đẳng cấp của giải bóng đá Thanh Niên sinh viên quốc tế lần II - 2026 cúp THACO.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T07:05:00+07:00",
+      "fetched": "2026-04-05T15:39:11.799685+07:00"
+    },
+    {
+      "id": "e81acad8f8b97f2cbc545f3c41face84",
+      "title": "Đánh giá Galaxy S26 Ultra sau 1 tháng sử dụng: Nâng cấp có đáp ứng kỳ vọng?",
+      "link": "https://thanhnien.vn/danh-gia-galaxy-s26-ultra-sau-1-thang-su-dung-nang-cap-co-dap-ung-ky-vong-185260405012333216.htm",
+      "summary": "Samsung Galaxy S26 Ultra xứng đáng là smartphone hàng đầu trong phân khúc cao cấp, mỗi nâng cấp nhỏ đều đắt giá và mang tính thực dụng cao nhưng vẫn có những chi tiết người dùng phải đánh đổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T07:04:00+07:00",
+      "fetched": "2026-04-05T15:39:11.799822+07:00"
+    },
+    {
       "id": "5e7d692c48a12f1a1f7b138e28cdf4f6",
       "title": "Tranh cãi 'không đóng BHYT thì không trả lương': Doanh nghiệp không được giữ lương",
       "link": "https://thanhnien.vn/tranh-cai-khong-dong-bhyt-thi-khong-tra-luong-doanh-nghiep-khong-duoc-giu-luong-185260404233257428.htm",
@@ -331,6 +721,36 @@ window.newsData_2026_04_05 = {
       "category": "Tổng hợp",
       "published": "2026-04-05T07:00:00+07:00",
       "fetched": "2026-04-05T14:01:42.515764+07:00"
+    },
+    {
+      "id": "11380e1c5ac5f33956ddc2dd3206e5a9",
+      "title": "Đau lưng dưới là dấu hiệu bệnh gì?",
+      "link": "https://vnexpress.net/dau-lung-duoi-la-dau-hieu-benh-gi-5058515.html",
+      "summary": "Đau lưng dưới không chỉ liên quan đến căng, giãn cơ mà còn có thể cảnh báo bệnh viêm khớp, các vấn đề về đĩa đệm, bệnh thận hoặc ung thư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T07:00:00+07:00",
+      "fetched": "2026-04-05T15:39:08.845656+07:00"
+    },
+    {
+      "id": "b1431cb57ab03210bf82accf08983a81",
+      "title": "Câu thành ngữ về tình mẫu tử này là gì?",
+      "link": "https://vnexpress.net/duoi-hinh-bat-chu-thanh-ngu-tuc-ngu-cau-thanh-ngu-ve-tinh-mau-tu-nay-la-gi-5055473.html",
+      "summary": "Thành ngữ thể hiện tình yêu thương bao la của người mẹ dành cho con, mẹ luôn dành những điều kiện tốt nhất cho con cái của mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T07:00:00+07:00",
+      "fetched": "2026-04-05T15:39:08.845788+07:00"
+    },
+    {
+      "id": "0c502db7800dfd4efd5fa4672817689d",
+      "title": "Hành trình Từ Trái Tim băng rừng vượt núi đến với vùng biên cương Tây Bắc",
+      "link": "https://thanhnien.vn/hanh-trinh-tu-trai-tim-bang-rung-vuot-nui-den-voi-vung-bien-cuong-tay-bac-185260405110513139.htm",
+      "summary": "Ngày 4.4, Hành trình Từ Trái Tim do Trung Nguyên Legend khởi xướng mang theo những cuốn sách quý đổi đời và niềm yêu thương đến các cán bộ, chiến sĩ Đồn Biên phòng Chiềng Sơn (xã Chiềng Sơn, tỉnh Sơn La). Ở nơi biên cương những cuốn sách không chỉ trang bị tri thức, kỹ năng lập thân, lập nghiệp mà c...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T07:00:00+07:00",
+      "fetched": "2026-04-05T15:39:11.799956+07:00"
     },
     {
       "id": "aac0d3f18bade3e7be23f8ef8dba4c7e",
@@ -353,6 +773,16 @@ window.newsData_2026_04_05 = {
       "fetched": "2026-04-05T14:01:42.516045+07:00"
     },
     {
+      "id": "19773f7d4a7493b8fff54b161bb86984",
+      "title": "Ca sĩ AI hát '50 năm về sau' được yêu thích",
+      "link": "https://vnexpress.net/ca-si-ai-hat-50-nam-ve-sau-duoc-yeu-thich-5058664.html",
+      "summary": "Ca sĩ AI hút chục triệu lượt nghe với \"50 năm về sau\" - ca khúc nhạc Hoa lời Việt nói về tình yêu bền vững.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T06:39:23+07:00",
+      "fetched": "2026-04-05T15:39:08.845929+07:00"
+    },
+    {
       "id": "068c4c5cfbefd98b58b50463e574a25c",
       "title": "Đi theo chỉ dẫn Google Maps, du khách Tây lạc trong rừng sâu được người dân giúp đỡ",
       "link": "https://thanhnien.vn/di-theo-chi-dan-google-maps-du-khach-tay-lac-trong-rung-sau-duoc-nguoi-dan-giup-do-185260405132551555.htm",
@@ -361,6 +791,16 @@ window.newsData_2026_04_05 = {
       "category": "Tổng hợp",
       "published": "2026-04-05T06:36:00+07:00",
       "fetched": "2026-04-05T14:01:42.516175+07:00"
+    },
+    {
+      "id": "2cfe76446377440cbcf6a3e750608588",
+      "title": "Thí sinh nói đề thi đánh giá năng lực 'khó gấp rưỡi' đề mẫu",
+      "link": "https://vnexpress.net/de-thi-danh-gia-nang-luc-dai-hoc-quoc-gia-tp-hcm-2026-khien-thi-sinh-choang-5058734.html",
+      "summary": "Đề thi đánh giá năng lực Đại học Quốc gia TP HCM được nhiều thí sinh đánh giá khó gấp rưỡi đề minh họa, đặc biệt phần Tiếng Việt có ngữ liệu dài, văn thơ trung đại khó hiểu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-05T06:34:31+07:00",
+      "fetched": "2026-04-05T15:39:08.846067+07:00"
     },
     {
       "id": "71ce266b283bdb08cb5993fcb3c927c0",
