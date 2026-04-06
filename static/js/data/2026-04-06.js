@@ -1,7 +1,137 @@
 window.newsData_2026_04_06 = {
   "date": "2026-04-06",
-  "lastUpdated": "2026-04-06T21:43:14.463117+07:00",
+  "lastUpdated": "2026-04-06T23:42:37.829552+07:00",
   "articles": [
+    {
+      "id": "d8b357ee6bb72dc25349528701467636",
+      "title": "Cầu lông thế giới có thể đổi luật lần đầu sau 20 năm",
+      "link": "https://tuoitre.vn/cau-long-the-gioi-co-the-doi-luat-lan-dau-sau-20-nam-20260406191827651.htm",
+      "summary": "Trong tháng 4 này, Liên đoàn Cầu lông thế giới (BWF) có thể đưa ra thay đổi lịch sử: hạ mức điểm kết thúc mỗi ván đấu từ 21 xuống còn 15.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-06T23:42:31.604909+07:00",
+      "fetched": "2026-04-06T23:42:31.605023+07:00"
+    },
+    {
+      "id": "c2fff05f7be3718f7d09f8759be2f309",
+      "title": "Du lịch Đà Nẵng tăng tốc, lãnh đạo cảnh báo nguy cơ quá tải, biến động giá phòng",
+      "link": "https://tuoitre.vn/du-lich-da-nang-tang-toc-lanh-dao-canh-bao-nguy-co-qua-tai-bien-dong-gia-phong-20260406202205305.htm",
+      "summary": "Du lịch tăng trưởng mạnh, công suất phòng khách sạn chạm ngưỡng cao ngay từ đầu năm. Lãnh đạo Đà Nẵng cảnh báo nguy cơ quá tải, biến động giá và yêu cầu sớm có giải pháp điều tiết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-06T23:42:31.604782+07:00",
+      "fetched": "2026-04-06T23:42:31.604898+07:00"
+    },
+    {
+      "id": "f84f6f680c11736a1b1a258646bd52b3",
+      "title": "Sau cú sốc lãnh đạo bị khởi tố, Bảo Tín Minh Châu nói gì?",
+      "link": "https://tuoitre.vn/sau-cu-soc-lanh-dao-bi-khoi-to-bao-tin-minh-chau-noi-gi-20260406203753927.htm",
+      "summary": "Ngay sau thông tin lãnh đạo bị khởi tố, Bảo Tín Minh Châu lên tiếng xin lỗi và trấn an, khẳng định doanh nghiệp vẫn hoạt động bình thường, quyền lợi khách hàng không bị ảnh hưởng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-06T23:42:31.604634+07:00",
+      "fetched": "2026-04-06T23:42:31.604770+07:00"
+    },
+    {
+      "id": "c3ebed9c61eb3ca9459b5429ed3b6d59",
+      "title": "Lãnh đạo Nghị viện Lào, Trung Quốc, Campuchia chúc mừng Chủ tịch Quốc hội Trần Thanh Mẫn",
+      "link": "https://tuoitre.vn/lanh-dao-nghi-vien-lao-trung-quoc-campuchia-chuc-mung-chu-tich-quoc-hoi-tran-thanh-man-2026040620453419.htm",
+      "summary": "Lãnh đạo Nghị viện các nước Lào, Campuchia, Trung Quốc gửi thư, điện chúc mừng nhân dịp ông Trần Thanh Mẫn được bầu giữ chức Chủ tịch Quốc hội khóa XVI.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-06T23:42:31.604506+07:00",
+      "fetched": "2026-04-06T23:42:31.604623+07:00"
+    },
+    {
+      "id": "6f4f4f51ab79e3244bc1e6626b56e2fe",
+      "title": "Sự nghiệp của ngôi sao Thái Lan Supachok trượt dài sau bàn thắng thiếu fair play",
+      "link": "https://tuoitre.vn/su-nghiep-cua-ngoi-sao-thai-lan-supachok-truot-dai-sau-ban-thang-thieu-fair-play-20260406202608182.htm",
+      "summary": "Trở về từ tuyển Thái Lan sau loạt trận quốc tế cuối tháng 3, Supachok Sarachat phải chấp nhận một sự thật phũ phàng, đó là ngồi trên ghế dự bị và không được vào sân phút nào trong trận đấu mới nhất ở Giải hạng nhất Nhật Bản (J-League 2).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-06T23:42:31.604376+07:00",
+      "fetched": "2026-04-06T23:42:31.604495+07:00"
+    },
+    {
+      "id": "44d4de0ab25aa1f7ddd80b19abb414e8",
+      "title": "Nhan Gia Hưng dứt điểm lạnh lùng, mở tỉ số cho tuyển futsal Việt Nam",
+      "link": "https://tuoitre.vn/nhan-gia-hung-dut-diem-lanh-lung-mo-ti-so-cho-tuyen-futsal-viet-nam-20260406201312564.htm",
+      "summary": "Trong một nỗ lực đi bóng bên phía cánh phải, Thái Huy đã kiến tạo cho Nhan Gia Hưng ghi bàn, mở điểm cho tuyển futsal Việt Nam trước Myanmar.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-06T23:42:31.604251+07:00",
+      "fetched": "2026-04-06T23:42:31.604364+07:00"
+    },
+    {
+      "id": "88cebfe461261b990f87e2f14ed0b0d2",
+      "title": "Chuyển làn ẩu trên cao tốc TP.HCM - Long Thành - Dầu Giây, tài xế bị phạt 5 triệu đồng",
+      "link": "https://tuoitre.vn/chuyen-lan-au-tren-cao-toc-tp-hcm-long-thanh-dau-giay-tai-xe-bi-phat-5-trieu-dong-20260406205459005.htm",
+      "summary": "Cảnh sát giao thông đã xử phạt một tài xế ô tô vì hành vi chuyển làn ẩu, suýt gây va chạm trên cao tốc TP.HCM - Long Thành - Dầu Giây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-06T23:42:31.604124+07:00",
+      "fetched": "2026-04-06T23:42:31.604240+07:00"
+    },
+    {
+      "id": "05581b1b001ebc516e1f556f84d34bd2",
+      "title": "Đấu giá sân Chi Lăng với giá khởi điểm hơn 9.700 tỉ đồng, bước giá 90 tỉ đồng",
+      "link": "https://tuoitre.vn/dau-gia-san-chi-lang-voi-gia-khoi-diem-hon-9-700-ti-dong-buoc-gia-90-ti-dong-20260406204940873.htm",
+      "summary": "Đà Nẵng đấu giá quyền sử dụng đất tại khu đất khu phức hợp thương mại và dịch vụ cao tầng sân vận động Chi Lăng, với giá khởi điểm hơn 9.700 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-06T23:42:31.603985+07:00",
+      "fetched": "2026-04-06T23:42:31.604113+07:00"
+    },
+    {
+      "id": "cb718d1129511e62f1d16f5c81542840",
+      "title": "Bà Kim Yo Jong nói phản ứng của Tổng thống Hàn Quốc về vụ drone xâm nhập Triều Tiên là 'khôn ngoan'",
+      "link": "https://tuoitre.vn/ba-kim-yo-jong-noi-phan-ung-cua-tong-thong-han-quoc-ve-vu-drone-xam-nhap-trieu-tien-la-khon-ngoan-20260406210727775.htm",
+      "summary": "Hàn Quốc \"lấy làm tiếc\" về vụ drone xâm nhập Triều Tiên vào đầu năm nay. Bình Nhưỡng cho rằng đây là phản ứng khôn ngoan và cảnh báo Seoul không lặp lại các vụ việc tương tự.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-06T23:42:31.603853+07:00",
+      "fetched": "2026-04-06T23:42:31.603973+07:00"
+    },
+    {
+      "id": "259220a3e256cb3d5e2bc786c96f5063",
+      "title": "Vì sao Artemis II mất liên lạc với Trái đất 40 phút khi bay qua Mặt trăng?",
+      "link": "https://tuoitre.vn/vi-sao-artemis-ii-mat-lien-lac-voi-trai-dat-40-phut-khi-bay-qua-mat-trang-20260406215706834.htm",
+      "summary": "Khoảng 18h44 ngày 6-4, tức 5h44 ngày 7-4 giờ VN, tàu Orion chở bốn phi hành gia của sứ mệnh Artemis II di chuyển vào vùng khuất sau Mặt trăng, mất liên lạc với Trái đất trong khoảng 40 phút.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-06T23:42:31.603690+07:00",
+      "fetched": "2026-04-06T23:42:31.603840+07:00"
+    },
+    {
+      "id": "a2168fbb89f7ceaa76c0c689f62b4cde",
+      "title": "Vắng Bích Thủy, HCĐG Lào Cai vẫn thắng áp đảo trận ra quân bóng chuyền quốc gia",
+      "link": "https://tuoitre.vn/vang-bich-thuy-hcdg-lao-cai-van-thang-ap-dao-tran-ra-quan-bong-chuyen-quoc-gia-20260406215519896.htm",
+      "summary": "Tối 6-4, tại Giải bóng chuyền vô địch quốc gia các CLB 2026, HCĐG Lào Cai giành chiến thắng áp đảo trước Geleximco Hưng Yên với tỉ số 3-0 (25-15, 25-12, 25-10).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-06T23:42:31.603559+07:00",
+      "fetched": "2026-04-06T23:42:31.603679+07:00"
+    },
+    {
+      "id": "60cbb59d176b7320d8a7ee3a6020e06f",
+      "title": "Trung Đông tối 6-4: Iran bác ngừng bắn, đưa ra 10 điều kiện đáp trả đề xuất của Mỹ",
+      "link": "https://tuoitre.vn/trung-dong-toi-6-4-iran-bac-ngung-ban-dua-ra-10-dieu-kien-dap-tra-de-xuat-cua-my-20260406220710571.htm",
+      "summary": "Theo truyền thông Iran, nước này bác bỏ đề xuất ngừng bắn của Mỹ, nhấn mạnh yêu cầu chấm dứt chiến tranh vĩnh viễn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-06T23:42:31.603418+07:00",
+      "fetched": "2026-04-06T23:42:31.603546+07:00"
+    },
+    {
+      "id": "3e1dc367ece5c629b725ec89f61b6d9b",
+      "title": "2 năm 'trắng' doanh thu bất động sản, Lideco lấy gì để trả người lao động 23 triệu/tháng?",
+      "link": "https://tuoitre.vn/2-nam-trang-doanh-thu-bat-dong-san-lideco-lay-gi-de-tra-nguoi-lao-dong-23-trieu-thang-20260406213130528.htm",
+      "summary": "Năm 2026, CTCP Phát triển Đô thị Từ Liêm -Lideco (NTL) sẽ tiếp tục không có doanh thu từ bất động sản. Tuy nhiên, bộ máy nhân sự với gần 100 người vẫn được chi trả thu nhập bình quân 23 triệu đồng/tháng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-06T23:42:31.603196+07:00",
+      "fetched": "2026-04-06T23:42:31.603404+07:00"
+    },
     {
       "id": "2858d47429ffaedc63f74dce4598d512",
       "title": "Trung Quốc ra mắt súng điện từ cầm tay bắn tới 2.000 viên/phút, không khói, không vỏ đạn",
@@ -453,6 +583,126 @@ window.newsData_2026_04_06 = {
       "fetched": "2026-04-06T17:53:36.515232+07:00"
     },
     {
+      "id": "8ed17627dd550c13fd8bdb953d0b30b5",
+      "title": "Iran phản đối tạm ngừng bắn, ông Trump cảnh báo điều tồi tệ",
+      "link": "https://thanhnien.vn/iran-phan-doi-tam-ngung-ban-ong-trump-canh-bao-dieu-toi-te-185260406231142934.htm",
+      "summary": "Iran đã phản hồi đề xuất ngừng bắn nhưng Tổng thống Mỹ Donald Trump cho rằng câu trả lời này chưa đủ tốt và khẳng định hạn chót mà ông đưa ra là đề nghị cuối cùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-06T16:36:00+07:00",
+      "fetched": "2026-04-06T23:42:30.468805+07:00"
+    },
+    {
+      "id": "af4fe120c9b50fb2727541662daedee3",
+      "title": "Quyết định ly hôn người vợ sống chết đòi bỏ tôi",
+      "link": "https://vnexpress.net/quyet-dinh-ly-hon-nguoi-vo-song-chet-doi-bo-toi-5059275.html",
+      "summary": "Tôi yêu vợ nhưng thật sự trong thâm tâm tôi, em không xứng đáng làm một người vợ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-06T16:20:02+07:00",
+      "fetched": "2026-04-06T23:42:28.048335+07:00"
+    },
+    {
+      "id": "967c0b045255d68e2aff5ca5a7431199",
+      "title": "Huy động tàu cỡ lớn chở dầu từ Trung Đông về Việt Nam",
+      "link": "https://vnexpress.net/huy-dong-tau-co-lon-cho-dau-tu-trung-dong-ve-viet-nam-5059279.html",
+      "summary": "Cục Hàng hải và Đường thủy Việt Nam được giao huy động các tàu vận tải cỡ lớn chở dầu, khí hóa lỏng LPG, LNG từ Trung Đông về Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-06T15:47:17+07:00",
+      "fetched": "2026-04-06T23:42:28.048510+07:00"
+    },
+    {
+      "id": "be7336fec550835d3f39a8e68182f1a6",
+      "title": "Mừng 5 năm ra mắt thị trường Việt Nam, VALORANT tổ chức sự kiện lớn tại TP.HCM",
+      "link": "https://thanhnien.vn/mung-5-nam-ra-mat-thi-truong-viet-nam-valorant-to-chuc-su-kien-lon-tai-tphcm-185260406222547703.htm",
+      "summary": "Nhân dịp kỷ niệm 5 năm ra mắt tại thị trường Việt Nam, tựa game VALORANT đã 'chơi lớn' khi mang một sự kiện quốc tế chưa từng có đến TP.HCM, đánh dấu bước tiến quan trọng của cộng đồng esports trong nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-06T15:43:00+07:00",
+      "fetched": "2026-04-06T23:42:30.468973+07:00"
+    },
+    {
+      "id": "7da38b11bc1bf12c43e8fb7fab3c7ef6",
+      "title": "Iran chuyển đề xuất ngừng bắn 10 điểm cho Mỹ",
+      "link": "https://vnexpress.net/iran-chuyen-de-xuat-ngung-ban-10-diem-cho-my-5059276.html",
+      "summary": "Iran cho biết đã chuyển đề xuất 10 điểm để ngừng bắn với Mỹ thông qua trung gian Pakistan, nhưng ông Trump cho rằng những gì Tehran nêu ra \"không đủ tốt\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-06T15:40:38+07:00",
+      "fetched": "2026-04-06T23:42:28.048674+07:00"
+    },
+    {
+      "id": "7da38b11bc1bf12c43e8fb7fab3c7ef6",
+      "title": "Iran chuyển đề xuất ngừng bắn 10 điểm cho Mỹ",
+      "link": "https://vnexpress.net/iran-chuyen-de-xuat-ngung-ban-10-diem-cho-my-5059276.html",
+      "summary": "Iran cho biết đã chuyển đề xuất 10 điểm để ngừng bắn với Mỹ thông qua trung gian Pakistan, nhưng ông Trump cho rằng những gì Tehran nêu ra \"không đủ tốt\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-06T15:40:38+07:00",
+      "fetched": "2026-04-06T23:42:33.293821+07:00"
+    },
+    {
+      "id": "8875d15630fb17a0e179508e2d06a902",
+      "title": "Xe chở 100 con lợn bệnh vào Nam tiêu thụ",
+      "link": "https://vnexpress.net/xe-cho-100-con-lon-benh-vao-nam-tieu-thu-5059244.html",
+      "summary": "Tài xế chở 100 con lợn bị nhiễm dịch tả châu Phi từ Hưng Yên vào miền Nam tiêu thụ, khi qua phường Nam Đông Hà thì bị phát hiện và tiêu hủy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-06T15:36:52+07:00",
+      "fetched": "2026-04-06T23:42:28.048861+07:00"
+    },
+    {
+      "id": "92fa98bb14e38b4cca713cd66be1053a",
+      "title": "Bảng xếp hạng đội tuyển Việt Nam mới nhất: Tốp 1 vì điều đặc biệt, đẩy Thái Lan xuống thứ hai",
+      "link": "https://thanhnien.vn/bang-xep-hang-doi-tuyen-viet-nam-moi-nhat-top-1-vi-dieu-dac-biet-day-thai-lan-xuong-thu-hai-185260406222102296.htm",
+      "summary": "Sau lượt trận đầu tiên của giải futsal Đông Nam Á 2026 khép lại, đội tuyển Việt Nam đang đứng ở vị trí nhất bảng A, xếp trên chủ nhà Thái Lan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-06T15:27:00+07:00",
+      "fetched": "2026-04-06T23:42:30.469127+07:00"
+    },
+    {
+      "id": "418df38c056167934e730d70776f651f",
+      "title": "Điểm mặt loạt sai phạm của Bảo Tín Minh Châu trước khi ông chủ bị bắt",
+      "link": "https://thanhnien.vn/diem-mat-loat-sai-pham-cua-bao-tin-minh-chau-truoc-khi-ong-chu-bi-bat-1852604062149453.htm",
+      "summary": "Trước khi lộ chuyện sử dụng 2 hệ thống phần mềm để quản lý, kê khai báo cáo thuế, gây thiệt hại cho ngân sách khoảng 150 tỉ đồng, Bảo Tín Minh Châu từng bị chỉ ra nhiều vi phạm về chế độ hóa đơn, chứng từ, thuế...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-06T15:26:00+07:00",
+      "fetched": "2026-04-06T23:42:30.469277+07:00"
+    },
+    {
+      "id": "03ca85c55bdd240f166453353df5a6d2",
+      "title": "Ngân hàng chật vật thu hồi 5.800 lượng vàng doanh nghiệp vay lúc giá 17 triệu đồng",
+      "link": "https://vnexpress.net/ngan-hang-chat-vat-thu-hoi-5-800-luong-vang-doanh-nghiep-vay-luc-gia-17-trieu-dong-5059113.html",
+      "summary": "Vay 5.800 lượng vàng từ lúc giá 17 triệu mỗi lượng năm 2009, một doanh nghiệp thủy hải sản không thể trả được trong nhiều năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-06T15:10:36+07:00",
+      "fetched": "2026-04-06T23:42:28.049024+07:00"
+    },
+    {
+      "id": "03ca85c55bdd240f166453353df5a6d2",
+      "title": "Ngân hàng chật vật thu hồi 5.800 lượng vàng doanh nghiệp vay lúc giá 17 triệu đồng",
+      "link": "https://vnexpress.net/ngan-hang-chat-vat-thu-hoi-5-800-luong-vang-doanh-nghiep-vay-luc-gia-17-trieu-dong-5059113.html",
+      "summary": "Vay 5.800 lượng vàng từ lúc giá 17 triệu mỗi lượng năm 2009, một doanh nghiệp thủy hải sản không thể trả được trong nhiều năm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-06T15:10:36+07:00",
+      "fetched": "2026-04-06T23:42:34.343207+07:00"
+    },
+    {
+      "id": "483e148ee83c831abd249c3d6f86ea56",
+      "title": "Điều tra trách nhiệm 26 bếp ăn trường học nhập lợn bệnh từ Công ty Cường Phát",
+      "link": "https://vnexpress.net/dieu-tra-trach-nhiem-26-bep-an-truong-hoc-nhap-lon-benh-tu-cong-ty-cuong-phat-5059274.html",
+      "summary": "Giám đốc Công an Hà Nội Nguyễn Thanh Tùng yêu cầu cơ quan điều tra \"chứng minh bằng được\" các bếp ăn trường học, tập thể có hay không trách nhiệm trong việc nhập lợn bệnh làm suất ăn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-06T15:02:25+07:00",
+      "fetched": "2026-04-06T23:42:28.049182+07:00"
+    },
+    {
       "id": "3912561eba33ba95e3104d77293c3a88",
       "title": "Bộ Công Thương hỏa tốc yêu cầu siết kinh doanh, vận chuyển xăng dầu ở biên giới",
       "link": "https://tuoitre.vn/bo-cong-thuong-hoa-toc-yeu-cau-siet-kinh-doanh-van-chuyen-xang-dau-o-bien-gioi-20260406124133101.htm",
@@ -633,6 +883,16 @@ window.newsData_2026_04_06 = {
       "fetched": "2026-04-06T21:43:08.213424+07:00"
     },
     {
+      "id": "55e322af095efea09fdea5db3a6fc9da",
+      "title": "Hai học sinh khai gian tuổi để thi đánh giá năng lực",
+      "link": "https://vnexpress.net/hai-hoc-sinh-khai-gian-tuoi-de-thi-danh-gia-nang-luc-5059180.html",
+      "summary": "Hai học sinh lớp 11 ở Khánh Hòa cố ý điền sai năm sinh để được thi đánh giá năng lực của Đại học Quốc gia TP HCM, bị phát hiện trước giờ phát đề.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-06T14:23:30+07:00",
+      "fetched": "2026-04-06T23:42:28.049344+07:00"
+    },
+    {
       "id": "4fab4f7cc00d79aa696533244546f400",
       "title": "Bản quyền EURO 2028 tại Việt Nam: Không phải VTV, ‘ông lớn’ khác dần lộ diện",
       "link": "https://thanhnien.vn/ban-quyen-euro-2028-tai-viet-nam-khong-phai-vtv-ong-lon-khac-dan-lo-dien-18526040620581222.htm",
@@ -681,6 +941,16 @@ window.newsData_2026_04_06 = {
       "category": "Tổng hợp",
       "published": "2026-04-06T14:00:16+07:00",
       "fetched": "2026-04-06T21:43:05.238118+07:00"
+    },
+    {
+      "id": "7be4fa3cb346c3d06a3c125007f9faa1",
+      "title": "Cà phê hầu gái ở Nhật Bản",
+      "link": "https://vnexpress.net/ca-phe-hau-gai-o-nhat-ban-5059230.html",
+      "summary": "Sau hơn 20 năm, mô hình cà phê hầu gái (Maid Cafe) ở Nhật thoát khỏi định kiến về một sở thích kỳ quặc, trở thành ngành công nghiệp dịch vụ hái ra tiền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-06T14:00:16+07:00",
+      "fetched": "2026-04-06T23:42:28.049659+07:00"
     },
     {
       "id": "d4b90c06c9873d4d2911359061733c77",
