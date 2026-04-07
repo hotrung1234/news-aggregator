@@ -1,7 +1,157 @@
 window.newsData_2026_04_07 = {
   "date": "2026-04-07",
-  "lastUpdated": "2026-04-07T05:34:04.036675+07:00",
+  "lastUpdated": "2026-04-07T09:06:52.153555+07:00",
   "articles": [
+    {
+      "id": "f0fb63a1854dd89a5aa8b3c8c0da62eb",
+      "title": "Solo Leveling hụt đề cử Anime của năm 2026, gây tiếc nuối sau chiến thắng gây tranh cãi",
+      "link": "https://tuoitre.vn/solo-leveling-hut-de-cu-anime-cua-nam-2026-gay-tiec-nuoi-sau-chien-thang-gay-tranh-cai-20260406223449119.htm",
+      "summary": "Dù từng 'làm mưa làm gió' tại mùa giải trước, phần 2 của Solo Leveling lại bất ngờ không góp mặt ở hạng mục Anime của năm tại Crunchyroll Anime Awards 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T09:06:46.555984+07:00",
+      "fetched": "2026-04-07T09:06:46.556095+07:00"
+    },
+    {
+      "id": "3426a0d499533bd95457690eb0223f05",
+      "title": "7 công thức phối đồ công sở mùa hè cho dân văn phòng",
+      "link": "https://tuoitre.vn/7-cong-thuc-phoi-do-cong-so-mua-he-cho-dan-van-phong-20260406223747334.htm",
+      "summary": "Nếu đang cần vài lựa chọn để 'sống sót' qua những tháng hè nóng bức sắp tới, thì đây chính là cẩm nang phong cách thời trang công sở dành cho bạn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T09:06:46.555856+07:00",
+      "fetched": "2026-04-07T09:06:46.555972+07:00"
+    },
+    {
+      "id": "45e54ae5adca345e15a778a9df5e5bc3",
+      "title": "Tin tức thế giới 7-4: Iran bác bỏ đề xuất ngừng bắn của Mỹ; Artemis II phá kỷ lục bay xa nhất",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-7-4-iran-bac-bo-de-xuat-ngung-ban-cua-my-artemis-ii-pha-ky-luc-bay-xa-nhat-20260407073010433.htm",
+      "summary": "Ông Trump dọa bỏ tù phóng viên tiết lộ chiến dịch giải cứu phi công ở Iran; Ông Zelensky giữ nguyên đề xuất ngừng bắn với Nga.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T09:06:46.555730+07:00",
+      "fetched": "2026-04-07T09:06:46.555845+07:00"
+    },
+    {
+      "id": "78d9dbe2dc398be274f4f2bacf26729f",
+      "title": "Mua Honda SH 95 triệu, đi 2 năm bán 87 triệu: Người dùng nói gì?",
+      "link": "https://tuoitre.vn/mua-honda-sh-95-trieu-di-2-nam-ban-87-trieu-nguoi-dung-noi-gi-20260406172201366.htm",
+      "summary": "Trong bối cảnh xe máy mất dần vai trò tài sản tích lũy, Honda SH vẫn duy trì giá trị nhờ thương hiệu, nhu cầu ổn định và tâm lý người tiêu dùng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T09:06:46.555605+07:00",
+      "fetched": "2026-04-07T09:06:46.555719+07:00"
+    },
+    {
+      "id": "18c9dbc403c59fa5da57558286649598",
+      "title": "Cứu 2 người mắc kẹt trong đám cháy nhà dân lúc rạng sáng",
+      "link": "https://tuoitre.vn/cuu-2-nguoi-mac-ket-trong-dam-chay-nha-dan-luc-rang-sang-20260407074056883.htm",
+      "summary": "Đám cháy xuất phát tại khu vực tầng 1 của nhà dân ở xã Bình Minh (Hà Nội), tỏa nhiều khói, khí độc. Lực lượng chức năng đã kịp thời cứu và đưa 2 nạn nhân mắc kẹt ra ngoài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T09:06:46.555377+07:00",
+      "fetched": "2026-04-07T09:06:46.555593+07:00"
+    },
+    {
+      "id": "e838254d39679a4527394dbc1afc5176",
+      "title": "Trùng hợp lạ: Các hoa hậu Việt gần đây hay tên... Linh, tên Linh hợp với vương miện?",
+      "link": "https://tuoitre.vn/trung-hop-la-cac-hoa-hau-viet-gan-day-hay-ten-linh-ten-linh-hop-voi-vuong-mien-20260407062126894.htm",
+      "summary": "Từ Hoa hậu Việt Nam, Miss World Vietnam đến nhiều cuộc thi sắc đẹp khác, không ít người đẹp đăng quang đều mang tên Linh. Phải chăng các cô gái tên Linh có 'duyên' với vương miện?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T09:06:46.555238+07:00",
+      "fetched": "2026-04-07T09:06:46.555365+07:00"
+    },
+    {
+      "id": "097383f05d9f618bdbc083043e96d407",
+      "title": "Chấm dứt hợp đồng lao động, gây khó khăn cho người nhiễm HIV sẽ bị xử phạt 10-20 triệu đồng",
+      "link": "https://tuoitre.vn/cham-dut-hop-dong-lao-dong-gay-kho-khan-cho-nguoi-nhiem-hiv-se-bi-xu-phat-10-20-trieu-dong-20260406160852111.htm",
+      "summary": "Chính phủ vừa ban hành Nghị định 90 quy định xử phạt vi phạm hành chính trong lĩnh vực y tế, trong đó dành riêng các điều khoản xử lý hành vi kỳ thị, phân biệt đối xử với người nhiễm HIV.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T09:06:46.555090+07:00",
+      "fetched": "2026-04-07T09:06:46.555225+07:00"
+    },
+    {
+      "id": "d469af244a9c53a2d403e7054df56964",
+      "title": "Luật đô thị đặc biệt: Linh hoạt quy hoạch để TP.HCM tự 'may áo phát triển'",
+      "link": "https://tuoitre.vn/luat-do-thi-dac-biet-linh-hoat-quy-hoach-de-tp-hcm-tu-may-ao-phat-trien-20260406233414271.htm",
+      "summary": "Quy hoạch là công cụ nền tảng để tầm nhìn, mục tiêu phát triển kinh tế - xã hội, đô thị của TP.HCM trong kỷ nguyên mới được triển khai đúng hướng và sẽ được cụ thể hóa vào dự thảo Luật Đô thị đặc biệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T09:06:46.554960+07:00",
+      "fetched": "2026-04-07T09:06:46.555078+07:00"
+    },
+    {
+      "id": "c15b6cc589f80f1f6fce7cac08aca64c",
+      "title": "Tận hưởng giấc ngủ ‘5 sao’ nhờ công nghệ cánh vẫy gió kép",
+      "link": "https://tuoitre.vn/tan-huong-giac-ngu-5-sao-nho-cong-nghe-canh-vay-gio-kep-20260406103130857.htm",
+      "summary": "Ngủ đủ 8 tiếng từ lâu đã được xem là ‘chuẩn vàng’ cho một cơ thể khỏe mạnh. Nhưng thực tế, không ít người vẫn thức dậy trong trạng thái uể oải, thiếu năng lượng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T09:06:46.554836+07:00",
+      "fetched": "2026-04-07T09:06:46.554949+07:00"
+    },
+    {
+      "id": "0597329e13ce392952864ec15332fc9b",
+      "title": "VNETWORK: Doanh nghiệp Việt đầu tư bảo mật nhưng chỉ 1/3 đạt mức bảo vệ tương xứng",
+      "link": "https://tuoitre.vn/vnetwork-doanh-nghiep-viet-dau-tu-bao-mat-nhung-chi-1-3-dat-muc-bao-ve-tuong-xung-20260406143627128.htm",
+      "summary": "Khảo sát trên 500 CISO (Chief Information Security Officer - giám đốc an ninh thông tin) và lãnh đạo công nghệ từ VNETWORK cho thấy: doanh nghiệp Việt không thiếu quyết tâm bảo mật, mà cần tối ưu lại cách phân bổ đầu tư và nâng cao năng lực vận hành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T09:06:46.554711+07:00",
+      "fetched": "2026-04-07T09:06:46.554824+07:00"
+    },
+    {
+      "id": "ccee6c686454f71cada608d6eb8e3d03",
+      "title": "Xổ số kết hợp Viễn thông - Vietlott SMS",
+      "link": "https://tuoitre.vn/xo-so-ket-hop-vien-thong-vietlott-sms-20260406165429993.htm",
+      "summary": "Ra mắt lần đầu vào tháng 12-2020, Vietlott SMS được triển khai cho chủ thuê bao của ba nhà mạng lớn MobiFone, VinaPhone và Viettel.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T09:06:46.554587+07:00",
+      "fetched": "2026-04-07T09:06:46.554699+07:00"
+    },
+    {
+      "id": "1fc559a6dd3534364f14b7fd44ade903",
+      "title": "Ba mảng kinh doanh khởi sắc, Masan trước cơ hội tăng tốc năm 2026",
+      "link": "https://tuoitre.vn/ba-mang-kinh-doanh-khoi-sac-masan-truoc-co-hoi-tang-toc-nam-2026-20260406180848809.htm",
+      "summary": "Lần đầu tiên trong nhiều năm, nhiều mảng chiến lược của Masan cùng phát huy sức mạnh trong một thời điểm, tạo tiền đề cho một chu kỳ tăng trưởng lợi nhuận có chiều sâu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T09:06:46.554458+07:00",
+      "fetched": "2026-04-07T09:06:46.554575+07:00"
+    },
+    {
+      "id": "9d1e675453d8d2b0f762b52d1c68f908",
+      "title": "Vì sao không nên tập thể thao một mình?",
+      "link": "https://tuoitre.vn/vi-sao-khong-nen-tap-the-thao-mot-minh-20260329094638789.htm",
+      "summary": "Tập luyện thể thao được xem là chìa khóa cải thiện sức khỏe, nhưng việc duy trì thói quen này không phải lúc nào cũng dễ dàng khi chỉ có một mình. Nhiều nghiên cứu cho thấy tập luyện cùng người khác giúp nâng cao hiệu quả, duy trì kết quả lâu dài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T09:06:46.554323+07:00",
+      "fetched": "2026-04-07T09:06:46.554446+07:00"
+    },
+    {
+      "id": "925b1a7bf1b17c2d8fa3c68efff5028b",
+      "title": "Tạo động lực cho giai đoạn phát triển mới",
+      "link": "https://tuoitre.vn/tao-dong-luc-cho-giai-doan-phat-trien-moi-20260407080105058.htm",
+      "summary": "Theo Chủ tịch Quốc hội Trần Thanh Mẫn, trong bối cảnh thực hiện mục tiêu phấn đấu tăng trưởng hai con số, Quốc hội và các đại biểu Quốc hội khóa XVI cần tiếp tục kế thừa, phát huy thành tựu của các nhiệm kỳ trước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T09:06:46.554155+07:00",
+      "fetched": "2026-04-07T09:06:46.554309+07:00"
+    },
+    {
+      "id": "cb38f00483254419a009c7716c178d72",
+      "title": "Vượt 'gió ngược', mở đường cho tăng trưởng",
+      "link": "https://tuoitre.vn/vuot-gio-nguoc-mo-duong-cho-tang-truong-20260407081048655.htm",
+      "summary": "Hôm qua, ngay sau phiên khai mạc, Quốc hội khóa XVI đã tiến hành bầu Chủ tịch, các phó chủ tịch, các ủy viên Ủy ban Thường vụ Quốc hội. Chủ tịch Quốc hội khóa XVI Trần Thanh Mẫn đã tuyên thệ nhậm chức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T09:06:46.553930+07:00",
+      "fetched": "2026-04-07T09:06:46.554140+07:00"
+    },
     {
       "id": "3692c568ae3c34c2dbd8cbe85bdd2a71",
       "title": "Đi phỏng vấn còn được nhận tiền: Làm quá hay sự trân trọng?",
@@ -41,6 +191,116 @@ window.newsData_2026_04_07 = {
       "category": "Tổng hợp",
       "published": "2026-04-07T03:35:09.727834+07:00",
       "fetched": "2026-04-07T03:35:09.728063+07:00"
+    },
+    {
+      "id": "c160e7717ac1bc4a1a424f26eeab4740",
+      "title": "Hôm nay đóng cổng vé Super Early Bird VnExpress Marathon Cần Thơ 2026",
+      "link": "https://vnexpress.net/hom-nay-dong-cong-super-early-bird-vnexpress-marathon-can-tho-2026-5059114.html",
+      "summary": "Giai đoạn Super Early Bird (SEB) của VnExpress Marathon Cần Thơ 2026, cơ hội để runner đăng ký với mức phí tốt nhất, sẽ khép lại lúc 24h hôm nay (7/4).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T02:05:00+07:00",
+      "fetched": "2026-04-07T09:06:41.648267+07:00"
+    },
+    {
+      "id": "eb90fcd4dca1d04c7e2c7813058e83ef",
+      "title": "Trường Quốc tế Canada CIS & Sedbergh Vietnam trao 30 suất học bổng Tài năng 2026 – 2027",
+      "link": "https://thanhnien.vn/truong-quoc-te-canada-cis-sedbergh-vietnam-trao-30-suat-hoc-bong-tai-nang-2026-2027-185260406214151215.htm",
+      "summary": "Ngày 4.4, hệ thống Trường Quốc tế CIS & Sedbergh Vietnam tổ chức lễ vinh danh và trao học bổng Tài năng đợt 1 năm 2026 cho 30 học sinh xuất sắc ở nhiều lĩnh vực như học thuật, nghệ thuật, thể thao và hoạt động cộng đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T02:03:00+07:00",
+      "fetched": "2026-04-07T09:06:44.481992+07:00"
+    },
+    {
+      "id": "291e716e5beeccf09423558d4e40f266",
+      "title": "Carlsen đứt chuỗi vô địch 4 giải cờ vua",
+      "link": "https://vnexpress.net/carlsen-dut-chuoi-vo-dich-4-giai-co-vua-5059353.html",
+      "summary": "Kỳ thủ số một thế giới Magnus Carlsen giành giải ba, sau nhà vô địch Vincent Keymer và á quân Maxime Vachier-Lagrave tại giải cờ 960 Grenke.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T02:01:12+07:00",
+      "fetched": "2026-04-07T09:06:41.648447+07:00"
+    },
+    {
+      "id": "2d5ac85508eabbb2e2acfda2c4fda3b5",
+      "title": "Sun World Ha Nam ưu đãi giá vé hè từ 150.000 đồng",
+      "link": "https://vnexpress.net/sun-world-ha-nam-uu-dai-gia-ve-he-tu-150-000-dong-5059337.html",
+      "summary": "Sun World Ha Nam mở cửa trở lại từ ngày 12/4 với hệ thống đường trượt hiện đại và không gian giải trí đậm chất văn hóa rối nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T02:00:08+07:00",
+      "fetched": "2026-04-07T09:06:41.648623+07:00"
+    },
+    {
+      "id": "76acf5b82995ae22f47163023efa9061",
+      "title": "Bạn trai khiến tôi sợ hãi dù mới sống thử",
+      "link": "https://vnexpress.net/ban-trai-khien-toi-so-hai-du-moi-song-thu-5059177.html",
+      "summary": "Chỉ vì một câu nói không vừa ý, anh nổi nóng, dùng lời lẽ nặng nề với tôi; tôi đòi xuống xe, anh kéo tay lại, bóp rất mạnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T02:00:00+07:00",
+      "fetched": "2026-04-07T09:06:41.648784+07:00"
+    },
+    {
+      "id": "46035ef329fca91b959d6720922cc28f",
+      "title": "5 mẫu đồng hồ Patek Philippe Nautilus nổi bật trong 50 năm",
+      "link": "https://vnexpress.net/5-mau-dong-ho-patek-philippe-nautilus-noi-bat-trong-50-nam-5059359.html",
+      "summary": "Năm mẫu Nautilus tiêu biểu của Patek Philippe phản ánh quá trình phát triển 50 năm, từ thiết kế biểu tượng đến các đột phá cơ học và sức hút trên thị trường sưu tầm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T02:00:00+07:00",
+      "fetched": "2026-04-07T09:06:41.648939+07:00"
+    },
+    {
+      "id": "07e3b3d0fd9a11c5ac6ac3ccaaa52893",
+      "title": "Tê tay cảnh báo sớm đột quỵ",
+      "link": "https://vnexpress.net/te-tay-canh-bao-som-dot-quy-5059335.html",
+      "summary": "Tê tay thoáng qua trong vài phút có thể xảy ra khi não thiếu máu tạm thời, là dấu hiệu cảnh báo sớm đột quỵ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T02:00:00+07:00",
+      "fetched": "2026-04-07T09:06:41.649092+07:00"
+    },
+    {
+      "id": "35d3216b38b8b2a2aaeb16176da2422a",
+      "title": "Nhồi máu não ở tuổi 22",
+      "link": "https://vnexpress.net/nhoi-mau-nao-o-tuoi-22-5059331.html",
+      "summary": "Vy, 22 tuổi, từng 4 lần phẫu thuật dị tật tim bẩm sinh tím, nay mất ngủ, mệt mỏi, hụt hơi, bác sĩ chẩn đoán nhồi máu não.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T02:00:00+07:00",
+      "fetched": "2026-04-07T09:06:41.649276+07:00"
+    },
+    {
+      "id": "fded61b1dcb54c15d5da653aaf564b4f",
+      "title": "Hành trình gìn giữ di sản cơ khí của Audemars Piguet",
+      "link": "https://vnexpress.net/hanh-trinh-gin-giu-di-san-co-khi-cua-audemars-piguet-5058246.html",
+      "summary": "Năm 1875, hai nhà chế tác đồng hồ Jules Louis Audemars và Edward Auguste Piguet cùng thành lập xưởng đồng hồ đầu tiên tại làng Le Brassus, cái nôi của ngành đồng hồ xa xỉ Thuỵ Sĩ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T02:00:00+07:00",
+      "fetched": "2026-04-07T09:06:41.649434+07:00"
+    },
+    {
+      "id": "e461edd2ea3dc0a72a031eecb25cc2d6",
+      "title": "Nuôi 'sâm nước' miền Tây, mỗi năm lợi nhuận gần nửa tỉ đồng",
+      "link": "https://thanhnien.vn/nuoi-sam-nuoc-mien-tay-moi-nam-loi-nhuan-gan-nua-ti-dong-185260406192739122.htm",
+      "summary": "Tốt nghiệp ĐH với tấm bằng dược sĩ, nhiều năm làm việc trong ngành dược nhưng anh Võ Lê Hoàng Tuấn (34 tuổi) lại chọn rẽ sang nông nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T02:00:00+07:00",
+      "fetched": "2026-04-07T09:06:44.482158+07:00"
+    },
+    {
+      "id": "bb21b2abb8485741ea4198e8019de266",
+      "title": "Lineker: 'Có dấu hiệu hoảng loạn ở Arsenal'",
+      "link": "https://vnexpress.net/lineker-co-dau-hieu-hoang-loan-o-arsenal-5059270.html",
+      "summary": "Theo cựu danh thủ Gary Lineker, việc hàng loạt cầu thủ rút khỏi các ĐTQG, kết hợp với hai thất bại liên tiếp trước Man City và Southampton, cho thấy sự hoảng loạn của Arsenal.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T01:58:48+07:00",
+      "fetched": "2026-04-07T09:06:41.649589+07:00"
     },
     {
       "id": "c2fff05f7be3718f7d09f8759be2f309",
@@ -193,6 +453,326 @@ window.newsData_2026_04_07 = {
       "fetched": "2026-04-07T01:54:50.541162+07:00"
     },
     {
+      "id": "b6f0d9c61a87579c8e1e9adab428b2fb",
+      "title": "Uống nước lá ổi hạ đường huyết: Hiệu quả đến đâu?",
+      "link": "https://thanhnien.vn/uong-nuoc-la-oi-ha-duong-huyet-hieu-qua-den-dau-185260407085451517.htm",
+      "summary": "Lá ổi từ lâu được dùng hỗ trợ tiêu hóa, kiểm soát đường huyết. Tuy nhiên, việc uống nước lá ổi để 'hạ đường huyết nhanh' cần hiểu đúng, tránh lạm dụng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T01:54:00+07:00",
+      "fetched": "2026-04-07T09:06:44.482340+07:00"
+    },
+    {
+      "id": "60d19804451773fa5b7f00fef974acc0",
+      "title": "Giá vàng hôm nay 7.4.2026: Trong nước giảm nhẹ dù thế giới đi lên",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-742026-trong-nuoc-giam-nhe-du-the-gioi-di-len-185260407084526255.htm",
+      "summary": "Giá vàng miếng SJC giảm nhẹ vào đầu ngày bất chấp kim loại quý thế giới tăng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T01:53:00+07:00",
+      "fetched": "2026-04-07T09:06:44.482491+07:00"
+    },
+    {
+      "id": "71280a2cd95889d7bcd6d028d8570adf",
+      "title": "Tìm thấy thi thể nam sinh mất tích trên biển Quy Nhơn",
+      "link": "https://thanhnien.vn/tim-thay-thi-the-nam-sinh-mat-tich-tren-bien-quy-nhon-185260407080227644.htm",
+      "summary": "Nam sinh lớp 12 mất tích khi tắm biển Quy Nhơn đã được tìm thấy, sau nhiều ngày lực lượng chức năng và ngư dân nỗ lực tìm kiếm trên biển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T01:51:00+07:00",
+      "fetched": "2026-04-07T09:06:44.482642+07:00"
+    },
+    {
+      "id": "35bddf272ac78dea6502efa1368bce47",
+      "title": "Toyota bán nhiều xe điện hơn Ford",
+      "link": "https://vnexpress.net/toyota-ban-nhieu-xe-dien-hon-ford-5057918.html",
+      "summary": "Trong quý I, chỉ riêng mẫu bZ của Toyota có doanh số hơn 10.000, so với toàn bộ xe điện bán ra của Ford là 7.000.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T01:48:31+07:00",
+      "fetched": "2026-04-07T09:06:41.649747+07:00"
+    },
+    {
+      "id": "951550d5cc7ff9a4d4d3842b5ba8b0e8",
+      "title": "Giá xăng dầu hôm nay 7.4.2026: Kỳ vọng dầu diesel giảm",
+      "link": "https://thanhnien.vn/gia-xang-dau-hom-nay-742026-ky-vong-dau-diesel-giam-185260407083147545.htm",
+      "summary": "Giá dầu thô thế giới tăng nhẹ trong phiên giao dịch đầu tuần, tuy vậy, giá thành phẩm trên thị trường châu Á giảm, đẩy kỳ vọng giá xăng dầu trong nước có thể giảm tại kỳ điều hành tuần này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T01:48:00+07:00",
+      "fetched": "2026-04-07T09:06:44.482790+07:00"
+    },
+    {
+      "id": "8e45f20af16443ddb2097c6dcda7ae9f",
+      "title": "Giá USD hôm nay 7.4.2026: Đô tự do lao dốc",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-742026-do-tu-do-lao-doc-185260407080725754.htm",
+      "summary": "Giá USD trong các ngân hàng tăng nhẹ trong khi thế giới đi ngang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T01:47:00+07:00",
+      "fetched": "2026-04-07T09:06:44.482945+07:00"
+    },
+    {
+      "id": "7cd4c64a29b0376aba059611e52914c6",
+      "title": "Giá Bitcoin hôm nay 7.4.2026: Liên tục rung lắc theo chiến sự ở Iran",
+      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-742026-lien-tuc-rung-lac-theo-chien-su-o-iran-185260407071137163.htm",
+      "summary": "Giá Bitcoin hôm nay lấy lại được mốc 70.000 USD nhưng nhanh chóng lao dốc về lại 68.000 USD khi tình hình chiến sự tại Iran tiếp tục căng thẳng và Strategy nối lại chuỗi tích lũy BTC.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T01:44:00+07:00",
+      "fetched": "2026-04-07T09:06:44.483102+07:00"
+    },
+    {
+      "id": "496f344133befc1a4f588c978f708faf",
+      "title": "Bayern được ví như đạo quân Sparta trước đại chiến Real",
+      "link": "https://vnexpress.net/bayern-duoc-vi-nhu-dao-quan-sparta-truoc-dai-chien-real-5059265.html",
+      "summary": "Bayern Munich cán mốc 300 bàn chỉ sau 99 trận dưới thời HLV Vincent Kompany, trở thành cỗ máy tấn công đáng gờm trước cuộc chạm trán Real Madrid ở tứ kết Champions League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T01:42:30+07:00",
+      "fetched": "2026-04-07T09:06:41.649910+07:00"
+    },
+    {
+      "id": "496f344133befc1a4f588c978f708faf",
+      "title": "Bayern được ví như đạo quân Sparta trước đại chiến Real",
+      "link": "https://vnexpress.net/bayern-duoc-vi-nhu-dao-quan-sparta-truoc-dai-chien-real-5059265.html",
+      "summary": "Bayern Munich cán mốc 300 bàn chỉ sau 99 trận dưới thời HLV Vincent Kompany, trở thành cỗ máy tấn công đáng gờm trước cuộc chạm trán Real Madrid ở tứ kết Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-07T01:42:30+07:00",
+      "fetched": "2026-04-07T09:06:52.147312+07:00"
+    },
+    {
+      "id": "12045b4e2feb3dbcbf8ce0969e74e886",
+      "title": "Giám đốc Công an Hà Nội đề nghị tăng hình phạt hành vi hủy hoại giống nòi",
+      "link": "https://thanhnien.vn/giam-doc-cong-an-ha-noi-de-nghi-tang-hinh-phat-hanh-vi-huy-hoai-giong-noi-185260407081608719.htm",
+      "summary": "Bức xúc trước việc 300 tấn thịt lợn bẩn tuồn vào bếp ăn các trường mầm non, Giám đốc Công an Hà Nội, đề nghị tăng hình phạt đối với hành vi buôn bán thực phẩm bẩn này lên mức cao nhất, bởi các sai phạm này là liên quan đến hủy hoại giống nòi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T01:42:00+07:00",
+      "fetched": "2026-04-07T09:06:44.483280+07:00"
+    },
+    {
+      "id": "2d33d2b69af38c6dddf53bb5fce7eee2",
+      "title": "Phi hành đoàn Artemis II quan sát nhật thực đặc biệt",
+      "link": "https://vnexpress.net/phi-hanh-doan-artemis-ii-quan-sat-nhat-thuc-dac-biet-5059314.html",
+      "summary": "Phi hành đoàn Artemis Ii trên tàu Orion vừa bay vào vùng Mặt Trăng che khuất Mặt Trời, tạo nên nhật thực đặc biệt kéo dài gần một tiếng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T01:40:47+07:00",
+      "fetched": "2026-04-07T09:06:41.650099+07:00"
+    },
+    {
+      "id": "8d40ecab30ddf98451bb0e719b14dc3e",
+      "title": "Cách sử dụng sổ BHXH, thẻ BHYT điện tử",
+      "link": "https://thanhnien.vn/cach-su-dung-so-bhxh-the-bhyt-dien-tu-185260406175711746.htm",
+      "summary": "Sổ bảo hiểm xã hội (BHXH) và thẻ bảo hiểm y tế (BHYT) bản điện tử chính thức được áp dụng thống nhất trên phạm vi cả nước từ ngày 3.2. Tuy nhiên, đến nay nhiều người dân vẫn lúng túng khi sử dụng trong làm thủ tục hoặc đi khám, chữa bệnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T01:39:00+07:00",
+      "fetched": "2026-04-07T09:06:44.483429+07:00"
+    },
+    {
+      "id": "c0ee8635ee0e51db33e3c2f1c23d9e81",
+      "title": "Bối cảnh gây sốt của phim 'Hẹn em ngày nhật thực'",
+      "link": "https://vnexpress.net/boi-canh-gay-sot-cua-phim-hen-em-ngay-nhat-thuc-5059089.html",
+      "summary": "Cảnh đẹp của nhà thờ Làng Sông (Gia Lai), biển Làng Lò (Đăk Lăk) được khán giả tìm kiếm sau hiệu ứng của phim \"Hẹn em ngày nhật thực\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T01:36:39+07:00",
+      "fetched": "2026-04-07T09:06:41.650297+07:00"
+    },
+    {
+      "id": "9667e4e41415570f7b456b008550c3cc",
+      "title": "Nhiều người Mỹ giàu lên mà không biết",
+      "link": "https://vnexpress.net/nhieu-nguoi-my-giau-len-ma-khong-biet-5059162.html",
+      "summary": "Tỷ lệ người Mỹ gia nhập nhóm trung lưu bậc cao đã tăng gấp ba lần trong nửa thế kỷ qua, nhờ thu nhập tăng và thói quen quản lý tài chính tốt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T01:34:51+07:00",
+      "fetched": "2026-04-07T09:06:41.650454+07:00"
+    },
+    {
+      "id": "4252dbe8420c5f3c198837ae1d9782db",
+      "title": "Lễ hội ngắn nhất Nhật Bản diễn ra trong 20 giây",
+      "link": "https://vnexpress.net/le-hoi-ngan-nhat-nhat-ban-dien-ra-trong-20-giay-5059273.html",
+      "summary": "Enrei Onodachi Memorial Festival được biết đến là lễ hội ngắn nhất Nhật Bản khi diễn ra trong 15-20 giây là kết thúc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T01:30:00+07:00",
+      "fetched": "2026-04-07T09:06:41.650614+07:00"
+    },
+    {
+      "id": "dce476909b276ad994ec400bba9354b9",
+      "title": "Mua vàng theo giấy hẹn tại Bảo Tín Minh Châu có rủi ro không?",
+      "link": "https://thanhnien.vn/mua-vang-theo-giay-hen-tai-bao-tin-minh-chau-co-rui-ro-khong-185260406233714185.htm",
+      "summary": "Theo cảnh sát, việc người dân mua vàng qua giấy hẹn là giao dịch dân sự giữa người dân và doanh nghiệp và Bảo Tín Minh Châu phải đảm bảo. Nếu doanh nghiệp không trả được vàng, có tố giác thì cảnh sát sẽ làm rõ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T01:24:00+07:00",
+      "fetched": "2026-04-07T09:06:44.483576+07:00"
+    },
+    {
+      "id": "ebcdc2864df964fd59913256c0ebc053",
+      "title": "Những tấm lòng vàng 7.4.2026",
+      "link": "https://thanhnien.vn/nhung-tam-long-vang-742026-18526040623420411.htm",
+      "summary": "Giúp chị Đỗ Thị Hiền - Phú Yên cũ (nhân vật được đề cập trong bài viết: Xin giúp cô gái trẻ bị bại liệt có tiền phẫu thuật trên Thanh Niên ngày 10.9.2024):",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T01:21:00+07:00",
+      "fetched": "2026-04-07T09:06:44.483719+07:00"
+    },
+    {
+      "id": "6dfb9d2a718b06fc80e8fd3aa97d6c2d",
+      "title": "Buôn bán tràn ra lề đường",
+      "link": "https://thanhnien.vn/buon-ban-tran-ra-le-duong-185260406165540669.htm",
+      "summary": "Bạn đọc phản ánh, trên QL51, tại Km 16, thuộc ấp 5, xã An Phước, tỉnh Đồng Nai (trước đây là xã An Phước, H.Long Thành), có một số người che dù lấn chiếm lề đường buôn bán, rất nguy hiểm (ảnh).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T01:21:00+07:00",
+      "fetched": "2026-04-07T09:06:45.815734+07:00"
+    },
+    {
+      "id": "4409d7119941f27c18ab47d89b5a5fc2",
+      "title": "Giá heo hơi hôm nay 7.4.2026: 'Thủ phủ chăn nuôi' tăng giá",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-742026-thu-phu-chan-nuoi-tang-gia-18526040616344924.htm",
+      "summary": "Giá heo hơi tiếp tục tăng nhẹ ở một số tỉnh thành miền Trung và miền Nam. Tuy nhiên, dù giá heo hơi trong nước neo cao nhưng kim ngạch nhập khẩu 3 tháng đầu năm nay lại giảm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T01:21:00+07:00",
+      "fetched": "2026-04-07T09:06:45.816178+07:00"
+    },
+    {
+      "id": "7d745402b1420baac4e26c3e5690bfef",
+      "title": "Cụ ông mù lòa sống vất vả một mình",
+      "link": "https://thanhnien.vn/cu-ong-mu-loa-song-vat-va-mot-minh-185260406182133527.htm",
+      "summary": "Cụ Võ Thành (79 tuổi, ở thôn An Hòa, xã Hoài Ân, tỉnh Gia Lai) hiện sống một mình trong căn nhà nhỏ. Mắt mù lòa, tuổi già bệnh tật, bữa ăn của cụ nhiều khi chỉ là gói mì tôm sống nhờ vào sự giúp đỡ của bà con lối xóm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T01:20:00+07:00",
+      "fetched": "2026-04-07T09:06:45.816371+07:00"
+    },
+    {
+      "id": "14395dc2edba1e3aefc2de70c3bb0d5b",
+      "title": "Cậu bé nhặt bóng trộm chỉ dẫn của Donnarumma",
+      "link": "https://vnexpress.net/cau-be-nhat-bong-trom-chi-dan-cua-donnarumma-5059296.html",
+      "summary": "Afan Cizmic, 14 tuổi, được dư luận Bosnia & Herzegovina ca ngợi vì lấy được tài liệu cản luân lưu của thủ môn Gianluigi Donnarumma ở trận tranh vé vớt World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-07T00:53:03+07:00",
+      "fetched": "2026-04-07T09:06:52.147489+07:00"
+    },
+    {
+      "id": "f5d9b390e43b8bab5207314fc80b099a",
+      "title": "Những cuộc đại chiến ở tứ kết Champions League",
+      "link": "https://vnexpress.net/nhung-cuoc-dai-chien-o-tu-ket-champions-league-5059281.html",
+      "summary": "Real Madrid - Bayern Munich là một trong những cuộc đại chiến được chờ đợi nhất ở tứ kết Champions League tuần này.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-07T00:48:45+07:00",
+      "fetched": "2026-04-07T09:06:52.147103+07:00"
+    },
+    {
+      "id": "059a2294b87983767569498642f3f060",
+      "title": "Ông Trump nói Greenland là lý do Mỹ muốn rời NATO",
+      "link": "https://vnexpress.net/ong-trump-noi-greenland-la-ly-do-my-muon-roi-nato-5059306.html",
+      "summary": "Tổng thống Trump tuyên bố Mỹ muốn có Greenland nhưng NATO không chịu giao hòn đảo, coi đó là lý do hàng đầu khiến ông muốn rút khỏi liên minh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-07T00:43:55+07:00",
+      "fetched": "2026-04-07T09:06:47.577869+07:00"
+    },
+    {
+      "id": "b8a7f83cbdcfedf07558f3383d660570",
+      "title": "Tướng Iran thiệt mạng trong cuộc truy tìm phi công Mỹ",
+      "link": "https://vnexpress.net/tuong-iran-thiet-mang-trong-cuoc-truy-tim-phi-cong-my-5059303.html",
+      "summary": "4 sĩ quan Iran, trong đó có một chuẩn tướng, đã thiệt mạng khi giao tranh với lực lượng Mỹ tham gia chiến dịch giải cứu phi công F-15E.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-07T00:18:53+07:00",
+      "fetched": "2026-04-07T09:06:47.578048+07:00"
+    },
+    {
+      "id": "50fc83e233695939465f16e067f95953",
+      "title": "Artemis II lập kỷ lục mới về khoảng cách",
+      "link": "https://vnexpress.net/artemis-ii-lap-ky-luc-moi-ve-khoang-cach-5059292.html",
+      "summary": "Phi hành đoàn Artemis II lập kỷ lục bay xa nhất trong lịch sử nhân loại, với khoảng cách 406.771 km so với Trái Đất.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-06T23:31:40+07:00",
+      "fetched": "2026-04-07T09:06:51.070432+07:00"
+    },
+    {
+      "id": "c8b45ff954ad818cb0e12be44e3cde84",
+      "title": "Ông Trump: Mỹ có thể phá hủy toàn bộ cầu, nhà máy điện Iran trong 4 giờ",
+      "link": "https://vnexpress.net/ong-trump-my-co-the-pha-huy-toan-bo-cau-nha-may-dien-iran-trong-4-gio-5059300.html",
+      "summary": "Ông Trump tuyên bố Mỹ có kế hoạch phá hủy toàn bộ cầu và nhà máy điện Iran trong 4 giờ, nếu Tehran không tuân thủ hạn chót đề ra.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-06T23:22:26+07:00",
+      "fetched": "2026-04-07T09:06:47.578237+07:00"
+    },
+    {
+      "id": "87964bd0488410fe062cc8b44b597ecc",
+      "title": "Ngôi sao WNBA tăng lương hơn 500% sau thỏa thuận lịch sử",
+      "link": "https://vnexpress.net/ngoi-sao-wnba-tang-luong-hon-500-sau-thoa-thuan-lich-su-5059050.html",
+      "summary": "Thỏa ước lao động tập thể mới giúp mức lương của các ngôi sao WNBA tăng vọt, trong đó Caitlin Clark nhận mức đãi ngộ cao gấp hơn 5 lần chỉ sau một năm.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-06T23:05:42+07:00",
+      "fetched": "2026-04-07T09:06:52.147649+07:00"
+    },
+    {
+      "id": "9bb70259bffb9c608af8749d7a51bad8",
+      "title": "Được - mất của kinh tế Mỹ sau một năm công bố thuế đối ứng",
+      "link": "https://vnexpress.net/duoc-mat-cua-kinh-te-my-sau-mot-nam-cong-bo-thue-doi-ung-5059041.html",
+      "summary": "Một năm từ 'Ngày Giải phóng', Nhà Trắng nêu thành tựu hút đầu tư, giảm thâm hụt nhưng chuyên gia, giới đầu tư lo hiệu quả tăng trưởng kém đi.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-06T23:00:00+07:00",
+      "fetched": "2026-04-07T09:06:48.656667+07:00"
+    },
+    {
+      "id": "90f044627f88d105fc24bf99cc4172ce",
+      "title": "Ngôi sao tốc độ Mỹ lập kỳ tích dù xuất phát cuối",
+      "link": "https://vnexpress.net/ngoi-sao-toc-do-my-lap-ky-tich-du-xuat-phat-cuoi-5059293.html",
+      "summary": "Mỹ nhân tốc độ Sha’Carri Richardson trở thành một trong ba nữ VĐV từng vô địch giải chạy Stawell Gift từ vị trí cuối cùng, sau các đối thủ gần 10 mét.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-06T22:50:23+07:00",
+      "fetched": "2026-04-07T09:06:52.147814+07:00"
+    },
+    {
+      "id": "f06b1290cb5e27eaad3e5c124910c754",
+      "title": "Arsenal bị chế giễu vì bài tập lạ",
+      "link": "https://vnexpress.net/arsenal-bi-che-gieu-vi-bai-tap-la-5059285.html",
+      "summary": "Nhiều CĐV mỉa mai Arsenal vì những bài tập lạ với bóng và bút, trước trận gặp Sporting ở lượt đi tứ kết Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-06T22:46:26+07:00",
+      "fetched": "2026-04-07T09:06:52.147970+07:00"
+    },
+    {
+      "id": "44adf07489601897776772397e07e40c",
+      "title": "Phi hành đoàn Artemis II gián đoạn kết nối với Trái Đất trong 40 phút",
+      "link": "https://vnexpress.net/phi-hanh-doan-artemis-ii-bi-co-lap-phia-sau-mat-trang-5059290.html",
+      "summary": "Từ 18h44 ngày 6/4 (5h44 ngày 7/4 giờ Hà Nội), trong lúc bay vòng qua phía xa của Mặt Trăng, Artemis II hoàn toàn gián đoạn kết nối với Trái Đất.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-06T22:44:00+07:00",
+      "fetched": "2026-04-07T09:06:51.070609+07:00"
+    },
+    {
+      "id": "c2dfa45483123025fce15d381a16bc2c",
+      "title": "Cầu thủ Bayern mạnh miệng trước khi đấu Real",
+      "link": "https://vnexpress.net/cau-thu-bayern-manh-mieng-truoc-khi-dau-real-5059298.html",
+      "summary": "Lennart Karl, 18 tuổi, tự tin về sức mạnh của Bayern Munich trước khi lên đường sang Madrid đấu Real ở lượt đi tứ kết Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-06T22:40:35+07:00",
+      "fetched": "2026-04-07T09:06:52.148124+07:00"
+    },
+    {
       "id": "9818c49fd21b1b04fb51c819a9c9d7a6",
       "title": "Tiêu điểm quốc tế 7.4: Phát ngôn dậy sóng của ông Trump | Chuyến bay ngang mặt trăng lịch sử",
       "link": "https://thanhnien.vn/tieu-diem-quoc-te-74-phat-ngon-day-song-cua-ong-trump-chuyen-bay-ngang-mat-trang-lich-su-185260407001118636.htm",
@@ -341,6 +921,16 @@ window.newsData_2026_04_07 = {
       "category": "Tổng hợp",
       "published": "2026-04-06T22:00:00+07:00",
       "fetched": "2026-04-07T05:33:53.731829+07:00"
+    },
+    {
+      "id": "9b5142524abf7e5df72a16a46f9c2833",
+      "title": "Cuộc sống đầy lo âu của thủy thủ mắc kẹt ở vịnh Ba Tư",
+      "link": "https://vnexpress.net/cuoc-song-day-lo-au-cua-thuy-thu-mac-ket-o-vinh-ba-tu-5058920.html",
+      "summary": "Các thủy thủ mắc kẹt trên tàu ở vịnh Ba Tư phải sinh tồn trong điều kiện ngày càng khắc nghiệt, thiếu lương thực, nước ngọt và đối mặt nguy cơ bị tấn công.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-06T22:00:00+07:00",
+      "fetched": "2026-04-07T09:06:47.578410+07:00"
     },
     {
       "id": "14c12b314a80cbaaffb76414892a265e",
@@ -511,6 +1101,16 @@ window.newsData_2026_04_07 = {
       "category": "Công nghệ",
       "published": "2026-04-06T18:13:06+07:00",
       "fetched": "2026-04-07T03:35:16.451258+07:00"
+    },
+    {
+      "id": "4c09463c293376c6d1691c32f45fead7",
+      "title": "Artemis II bay qua phía sau Mặt Trăng, phá kỷ lục 'bay xa Trái Đất nhất'",
+      "link": "https://vnexpress.net/artemis-ii-bay-qua-phia-sau-mat-trang-pha-ky-luc-bay-xa-trai-dat-nhat-5059264.html",
+      "summary": "Artemis II đang thực hiện chuyến bay vòng qua Mặt Trăng với thời gian quan sát chính khoảng 6,5 tiếng, chuẩn bị xác lập hàng loạt cột mốc quan trọng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-06T18:13:06+07:00",
+      "fetched": "2026-04-07T09:06:51.070774+07:00"
     },
     {
       "id": "a8ce4ceb8402bdef8e4464bad036d4f2",
@@ -861,6 +1461,16 @@ window.newsData_2026_04_07 = {
       "category": "Công nghệ",
       "published": "2026-04-06T13:15:00+07:00",
       "fetched": "2026-04-07T01:54:56.432187+07:00"
+    },
+    {
+      "id": "fa3bad847529c480c877b959a349732c",
+      "title": "Các cột mốc lịch sử Artemis II dự kiến xác lập sáng nay",
+      "link": "https://vnexpress.net/cac-cot-moc-lich-su-artemis-ii-du-kien-xac-lap-sang-nay-5059250.html",
+      "summary": "Sáng 7/4 (giờ Hà Nội), phi hành đoàn Artemis II dự kiến đạt nhiều cột mốc quan trọng như cách xa Trái Đất nhất.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-06T13:15:00+07:00",
+      "fetched": "2026-04-07T09:06:51.070933+07:00"
     },
     {
       "id": "734dd5e19d2871bb0370bc6914978698",
