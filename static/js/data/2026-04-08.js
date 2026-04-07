@@ -1,6 +1,6 @@
 window.newsData_2026_04_08 = {
   "date": "2026-04-08",
-  "lastUpdated": "2026-04-08T01:59:52.243405+07:00",
+  "lastUpdated": "2026-04-08T03:43:11.056106+07:00",
   "articles": [
     {
       "id": "7f9c3b74c68f4a578a56798ef98389d2",
@@ -151,6 +151,86 @@ window.newsData_2026_04_08 = {
       "category": "Tổng hợp",
       "published": "2026-04-08T01:59:46.459314+07:00",
       "fetched": "2026-04-08T01:59:46.459553+07:00"
+    },
+    {
+      "id": "17aa26711e39aaf5c2d33e17611dae93",
+      "title": "Chứng khoán Việt Nam được nâng hạng",
+      "link": "https://vnexpress.net/chung-khoan-viet-nam-duoc-nang-hang-5059738.html",
+      "summary": "FTSE Russell sáng nay xác nhận chứng khoán Việt Nam chính thức được nâng hạng từ thị trường cận biên lên mới nổi thứ cấp từ ngày 21/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T20:32:39+07:00",
+      "fetched": "2026-04-08T03:42:58.726889+07:00"
+    },
+    {
+      "id": "17aa26711e39aaf5c2d33e17611dae93",
+      "title": "Chứng khoán Việt Nam được nâng hạng",
+      "link": "https://vnexpress.net/chung-khoan-viet-nam-duoc-nang-hang-5059738.html",
+      "summary": "FTSE Russell sáng nay xác nhận chứng khoán Việt Nam chính thức được nâng hạng từ thị trường cận biên lên mới nổi thứ cấp từ ngày 21/9.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-07T20:32:39+07:00",
+      "fetched": "2026-04-08T03:43:06.768584+07:00"
+    },
+    {
+      "id": "d0c83616e37317b88a6f3f59b9d6b2e2",
+      "title": "Nhiều ngành sản xuất 'vạ lây' vì gián đoạn sản phẩm từ dầu mỏ",
+      "link": "https://vnexpress.net/nhieu-nganh-san-xuat-va-lay-vi-gian-doan-san-pham-tu-dau-mo-5059490.html",
+      "summary": "Xung đột Trung Đông gây tắc nghẽn eo biển Hormuz, khiến nguyên liệu hóa dầu khan hiếm, đẩy nhiều ngành từ bao bì đến y tế vào cuộc khủng hoảng chi phí mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T20:00:00+07:00",
+      "fetched": "2026-04-08T03:42:58.727054+07:00"
+    },
+    {
+      "id": "d0c83616e37317b88a6f3f59b9d6b2e2",
+      "title": "Nhiều ngành sản xuất 'vạ lây' vì gián đoạn sản phẩm từ dầu mỏ",
+      "link": "https://vnexpress.net/nhieu-nganh-san-xuat-va-lay-vi-gian-doan-san-pham-tu-dau-mo-5059490.html",
+      "summary": "Xung đột Trung Đông gây tắc nghẽn eo biển Hormuz, khiến nguyên liệu hóa dầu khan hiếm, đẩy nhiều ngành từ bao bì đến y tế vào cuộc khủng hoảng chi phí mới.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-07T20:00:00+07:00",
+      "fetched": "2026-04-08T03:43:06.768760+07:00"
+    },
+    {
+      "id": "66fac57c4e7955b2c258a0d0b0fe5319",
+      "title": "Chủ lò mổ chó bị bắt",
+      "link": "https://vnexpress.net/chu-lo-mo-cho-bi-bat-5059652.html",
+      "summary": "Phạm Tuấn Giang, 42 tuổi, bị cáo buộc tiêu thụ và tiếp tay cho hai đồng phạm trộm hàng chục con chó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T19:00:00+07:00",
+      "fetched": "2026-04-08T03:42:58.727193+07:00"
+    },
+    {
+      "id": "216622ab4e83ec5217a68d4bef7a41f2",
+      "title": "Những người Mỹ quay lại làm việc sau khi nghỉ hưu",
+      "link": "https://vnexpress.net/nhung-nguoi-my-quay-lai-lam-viec-sau-khi-nghi-huu-5059432.html",
+      "summary": "Trước khi bắt đầu ca làm đêm, Goldberg đọc lại những lời nhắc trong cuốn sổ nhỏ: \"Đừng để bị phạt. Phải dừng hẳn xe. Lùi xe cẩn thận. Chú ý người đi bộ và xe đạp\" .",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T19:00:00+07:00",
+      "fetched": "2026-04-08T03:42:58.727324+07:00"
+    },
+    {
+      "id": "216622ab4e83ec5217a68d4bef7a41f2",
+      "title": "Những người Mỹ quay lại làm việc sau khi nghỉ hưu",
+      "link": "https://vnexpress.net/nhung-nguoi-my-quay-lai-lam-viec-sau-khi-nghi-huu-5059432.html",
+      "summary": "Trước khi bắt đầu ca làm đêm, Goldberg đọc lại những lời nhắc trong cuốn sổ nhỏ: \"Đừng để bị phạt. Phải dừng hẳn xe. Lùi xe cẩn thận. Chú ý người đi bộ và xe đạp\" .",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-07T19:00:00+07:00",
+      "fetched": "2026-04-08T03:43:04.818723+07:00"
+    },
+    {
+      "id": "ae5b4ffaebdbe0e8a02702dd6a93b811",
+      "title": "Làm gì để hồi sinh Bắc Hưng Hải?",
+      "link": "https://vnexpress.net/lam-gi-de-hoi-sinh-bac-hung-hai-5050203.html",
+      "summary": "Để hồi sinh Bắc Hưng Hải, chuyên gia cho rằng phải kiểm soát hơn 583.000 triệu m3 nước xả thải mỗi ngày và có cơ chế phối hợp giữa bốn địa phương trong lưu vực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T18:39:39+07:00",
+      "fetched": "2026-04-08T03:42:58.727463+07:00"
     },
     {
       "id": "83e33b14fcbff6c96ec74d3cbbcdf5ca",
