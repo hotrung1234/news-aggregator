@@ -1,7 +1,157 @@
 window.newsData_2026_04_07 = {
   "date": "2026-04-07",
-  "lastUpdated": "2026-04-07T20:13:37.917996+07:00",
+  "lastUpdated": "2026-04-07T22:05:19.720990+07:00",
   "articles": [
+    {
+      "id": "c332fb0b288f820d1a4e2a3c3c121c81",
+      "title": "Khai trương văn phòng kinh doanh Infinity tại Quảng Ninh và Hưng Yên",
+      "link": "https://tuoitre.vn/khai-truong-van-phong-kinh-doanh-infinity-tai-quang-ninh-va-hung-yen-20260407171429779.htm",
+      "summary": "Trong bối cảnh nhu cầu tiếp cận dịch vụ tư vấn tài chính tại địa phương ngày càng rõ nét, Công ty TNHH Bảo hiểm Nhân thọ Chubb Việt Nam (Chubb Life Việt Nam) khai trương văn phòng kinh doanh Infinity (văn phòng Infinity) tại Quảng Ninh và Hưng Yên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T22:05:13.524311+07:00",
+      "fetched": "2026-04-07T22:05:13.524446+07:00"
+    },
+    {
+      "id": "fff71a25135c16d644b0190f65249886",
+      "title": "Chuỗi thành tích học thuật ấn tượng của học sinh Royal School",
+      "link": "https://tuoitre.vn/chuoi-thanh-tich-hoc-thuat-an-tuong-cua-hoc-sinh-royal-school-20260407170138748.htm",
+      "summary": "Bí quyết giúp học sinh Royal School ghi nhận thành tích mới liên tục nằm ở tinh thần nghiêm túc, hết mình, phong thái tự tin cùng nền tảng kiến thức vững chắc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T22:05:13.524185+07:00",
+      "fetched": "2026-04-07T22:05:13.524299+07:00"
+    },
+    {
+      "id": "1e4ca52129bbd4e445b285ad2498e7be",
+      "title": "Dự đoán tỉ số Champions League: Real Madrid hòa Bayern Munich 2-2",
+      "link": "https://tuoitre.vn/du-doan-ti-so-champions-league-real-madrid-hoa-bayern-munich-2-2-20260407190554297.htm",
+      "summary": "Dù có lợi thế sân nhà, Real Madrid vẫn gặp phải nhiều khó khăn khi chạm trán Bayern Munich ở lượt đi tứ kết Champions League, diễn ra lúc 2h ngày 8-4 (giờ Việt Nam).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T22:05:13.524055+07:00",
+      "fetched": "2026-04-07T22:05:13.524173+07:00"
+    },
+    {
+      "id": "e5d6111f9863c2f1c7f26b43d46200e6",
+      "title": "Trung Đông tối 7-4: Mỹ tấn công đảo dầu Kharg, nhiều cây cầu tại Iran cũng bị không kích",
+      "link": "https://tuoitre.vn/trung-dong-toi-7-4-my-tan-cong-dao-dau-kharg-nhieu-cay-cau-tai-iran-cung-bi-khong-kich-20260407191431734.htm",
+      "summary": "Nhiều vụ nổ đã xảy ra trên đảo Kharg. Nhiều cây cầu tại Iran cũng bị không kích. Qatar cảnh báo xung đột Trung Đông cận ngưỡng mất kiểm soát.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T22:05:13.523930+07:00",
+      "fetched": "2026-04-07T22:05:13.524040+07:00"
+    },
+    {
+      "id": "d57c35d25fa7d963f8c8f7bed1d00baa",
+      "title": "TP.HCM điều động, giới thiệu nhân sự để bầu Chủ tịch Hội Liên hiệp Phụ nữ, Hội Chữ thập đỏ",
+      "link": "https://tuoitre.vn/tp-hcm-dieu-dong-gioi-thieu-nhan-su-de-bau-chu-tich-hoi-lien-hiep-phu-nu-hoi-chu-thap-do-20260407190155975.htm",
+      "summary": "Phó trưởng đoàn chuyên trách Đoàn đại biểu Quốc hội TP.HCM khóa XV Nguyễn Thị Ngọc Xuân và Phó trưởng Ban Văn hóa - Xã hội, HĐND TP.HCM (nhiệm kỳ 2021-2026) Nguyễn Minh Nhựt được điều động nhận công tác mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T22:05:13.523808+07:00",
+      "fetched": "2026-04-07T22:05:13.523918+07:00"
+    },
+    {
+      "id": "d8f5b440eff222e80ee60eabd98184da",
+      "title": "Ca ung thư vú tại Việt Nam tăng và trẻ hóa, làm sao phát hiện sớm, tránh bỏ sót?",
+      "link": "https://tuoitre.vn/ca-ung-thu-vu-tai-viet-nam-tang-va-tre-hoa-lam-sao-phat-hien-som-tranh-bo-sot-20260407185410689.htm",
+      "summary": "Cùng xu hướng chung của thế giới, bệnh ung thư vú tại Việt Nam vẫn là một trong những bệnh lý ác tính hàng đầu ở phụ nữ. Điều này đặt ra yêu cầu cấp thiết trong nâng cao hiệu quả tầm soát, chẩn đoán sớm và quản lý bệnh toàn diện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T22:05:13.523686+07:00",
+      "fetched": "2026-04-07T22:05:13.523797+07:00"
+    },
+    {
+      "id": "a634fa4c2c97ad32ca622ea05b267f60",
+      "title": "Thắng đậm 7-1, tuyển futsal Việt Nam gửi thách thức đến Thái Lan",
+      "link": "https://tuoitre.vn/thang-dam-7-1-tuyen-futsal-viet-nam-gui-thach-thuc-den-thai-lan-20260407194235976.htm",
+      "summary": "Đội tuyển futsal Việt Nam đã thắng đậm Timor Leste 7-1, trước khi chạm trán chủ nhà Thái Lan ở lượt cuối bảng A Giải futsal Đông Nam Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T22:05:13.523561+07:00",
+      "fetched": "2026-04-07T22:05:13.523675+07:00"
+    },
+    {
+      "id": "f12d67d76463019a8a87cae2f875427d",
+      "title": "Quảng Trị có 4 học sinh đuối nước trong 5 ngày cao điểm nắng nóng đầu mùa",
+      "link": "https://tuoitre.vn/quang-tri-co-4-hoc-sinh-duoi-nuoc-trong-5-ngay-cao-diem-nang-nong-dau-mua-20260407190035354.htm",
+      "summary": "Mới đây nhất, nam học sinh lớp 8 xuống kênh thủy lợi ở xã Triệu Phong tắm cùng bạn thì bị cuốn trôi. Từ ngày 3-4 đến nay, Quảng Trị có 4 học sinh đuối nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T22:05:13.523425+07:00",
+      "fetched": "2026-04-07T22:05:13.523550+07:00"
+    },
+    {
+      "id": "dbbfde6150a8f06c01a78b8cce250ff5",
+      "title": "Kim Long Motor sản xuất xe tải, hoàn thiện hệ sinh thái ô tô",
+      "link": "https://tuoitre.vn/kim-long-motor-san-xuat-xe-tai-hoan-thien-he-sinh-thai-o-to-2026040614084663.htm",
+      "summary": "Vừa qua, Kim Long Motor khánh thành nhà máy sản xuất xe tải, đánh dấu bước tiến trong chiến lược phát triển sản phẩm và xây dựng hệ sinh thái sản xuất ô tô.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T22:05:13.523266+07:00",
+      "fetched": "2026-04-07T22:05:13.523411+07:00"
+    },
+    {
+      "id": "dec81fc373654fe4223995365d62e6aa",
+      "title": "Nhóm Âu Lạc bất ngờ quay lại ‘gom hàng’, thành cổ đông lớn của ACB",
+      "link": "https://tuoitre.vn/nhom-au-lac-bat-ngo-quay-lai-gom-hang-thanh-co-dong-lon-cua-acb-20260407185939444.htm",
+      "summary": "Con gái Chủ tịch Âu Lạc vừa chi hàng chục tỉ đồng mua thêm 931.700 cổ phiếu ACB, nâng tỉ lệ nắm giữ của nhóm cổ đông liên quan tại ngân hàng vượt ngưỡng 5%.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T22:05:13.523142+07:00",
+      "fetched": "2026-04-07T22:05:13.523255+07:00"
+    },
+    {
+      "id": "91a061fa24a4de289a66d99332065854",
+      "title": "Bệnh nhi 3 tháng tuổi sốc phản vệ nặng sau khi uống sữa công thức",
+      "link": "https://tuoitre.vn/benh-nhi-3-thang-tuoi-soc-phan-ve-nang-sau-khi-uong-sua-cong-thuc-20260407194451337.htm",
+      "summary": "Khoảng 1 giờ sau khi uống sữa công thức, trẻ sơ sinh 3 tháng tuổi bắt đầu nổi ban đỏ, sau đó lan nhanh toàn thân, được gia đình đưa vào bệnh viện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T22:05:13.523016+07:00",
+      "fetched": "2026-04-07T22:05:13.523130+07:00"
+    },
+    {
+      "id": "127427c469dc9feb23c20eecdd75a673",
+      "title": "Chủ tịch Quốc hội chủ trì trao các nghị quyết của Quốc hội, Ủy ban Thường vụ Quốc hội về cán bộ",
+      "link": "https://tuoitre.vn/chu-tich-quoc-hoi-chu-tri-trao-cac-nghi-quyet-cua-quoc-hoi-uy-ban-thuong-vu-quoc-hoi-ve-can-bo-20260407195922895.htm",
+      "summary": "Chủ tịch Quốc hội Trần Thanh Mẫn đã chủ trì lễ trao các nghị quyết của Quốc hội và Ủy ban Thường vụ Quốc hội về công tác cán bộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T22:05:13.522890+07:00",
+      "fetched": "2026-04-07T22:05:13.523005+07:00"
+    },
+    {
+      "id": "716f3b06757ae1f77cbcf402c15b8a57",
+      "title": "Tối hậu thư sắp đến hạn, ông Trump dọa Iran: 'Cả một nền văn minh có thể biến mất trong đêm nay'",
+      "link": "https://tuoitre.vn/toi-hau-thu-sap-den-han-ong-trump-doa-iran-ca-mot-nen-van-minh-co-the-bien-mat-trong-dem-nay-20260407200231546.htm",
+      "summary": "Ông Trump tiếp tục đưa ra cảnh báo cứng rắn, nếu Iran không đạt thỏa thuận và mở lại eo biển Hormuz trước thời hạn tối hậu thư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T22:05:13.522759+07:00",
+      "fetched": "2026-04-07T22:05:13.522878+07:00"
+    },
+    {
+      "id": "7a493a04e7d10c3fde5155ef0db72189",
+      "title": "Lãnh đạo các nước chúc mừng Tổng Bí thư, Chủ tịch nước Tô Lâm",
+      "link": "https://tuoitre.vn/lanh-dao-cac-nuoc-chuc-mung-tong-bi-thu-chu-tich-nuoc-to-lam-20260407200335928.htm",
+      "summary": "Ngay trong ngày 7-4, được tin Tổng Bí thư Tô Lâm được bầu giữ chức Chủ tịch nước, lãnh đạo cấp cao nhiều nước đã có điện, thư và thông điệp chúc mừng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T22:05:13.522619+07:00",
+      "fetched": "2026-04-07T22:05:13.522746+07:00"
+    },
+    {
+      "id": "facd090ad1cd251209cfab756ed2f57f",
+      "title": "VTV Bình Điền Long An, LPBank Ninh Bình thể hiện sức mạnh",
+      "link": "https://tuoitre.vn/vtv-binh-dien-long-an-lpbank-ninh-binh-the-hien-suc-manh-20260407200635125.htm",
+      "summary": "Tối 7-4, tại Giải bóng chuyền vô địch quốc gia các CLB 2026, hai đội bóng mạnh là VTV Bình Điền Long An và LPBank Ninh Bình cùng giành kết quả có lợi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T22:05:13.522386+07:00",
+      "fetched": "2026-04-07T22:05:13.522605+07:00"
+    },
     {
       "id": "ecb2d13f62e44937d0d1815fbad721d0",
       "title": "Khởi tố nhóm người trộm chó ở Đắk Lắk",
@@ -453,6 +603,326 @@ window.newsData_2026_04_07 = {
       "fetched": "2026-04-07T15:58:35.168594+07:00"
     },
     {
+      "id": "1ab25f551a7b8659287b4739afc1393c",
+      "title": "Phóng viên Mỹ kể chuyến đi 12 giờ lái xe xuyên Iran",
+      "link": "https://vnexpress.net/phong-vien-my-ke-chuyen-di-12-gio-lai-xe-xuyen-iran-5059435.html",
+      "summary": "Các phóng viên hãng tin Mỹ AP chứng kiến cảnh nhà cửa bị tàn phá và tìm hiểu suy nghĩ của người dân Iran trên chặng đường từ biên giới Thổ Nhĩ Kỳ tới thủ đô Tehran.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T15:03:33+07:00",
+      "fetched": "2026-04-07T22:05:09.923211+07:00"
+    },
+    {
+      "id": "9365f611881e72c87fc023ad8ea9618b",
+      "title": "Đề xuất mở rộng diện ngân hàng được nhận tiền gửi Quỹ Bảo hiểm xã hội",
+      "link": "https://vnexpress.net/de-xuat-mo-rong-dien-ngan-hang-duoc-nhan-tien-gui-quy-bao-hiem-xa-hoi-5059666.html",
+      "summary": "Chính phủ đề xuất ngân hàng có vốn doanh nghiệp nhà nước 50% trở lên được nhận tiền gửi của Quỹ Bảo hiểm xã hội, song chuyên gia và đại diện Công đoàn lo ngại rủi ro.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T15:02:39+07:00",
+      "fetched": "2026-04-07T22:05:09.923427+07:00"
+    },
+    {
+      "id": "36b96e51533e71dbad5c7a5d16917a4d",
+      "title": "Quản trị viên nhiều fanpage lớn ở Hải Phòng bị bắt",
+      "link": "https://vnexpress.net/quan-tri-vien-nhieu-fanpage-lon-o-hai-phong-bi-bat-5059719.html",
+      "summary": "Lợi dụng quyền quản trị các hội nhóm Facebook có hàng trăm nghìn thành viên, Lâm và Tài cho đăng tải thông tin tiêu cực để ép chủ doanh nghiệp ký hợp đồng \"xử lý khủng hoảng\" truyền thông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T14:49:43+07:00",
+      "fetched": "2026-04-07T22:05:09.923596+07:00"
+    },
+    {
+      "id": "a13b6fba8afe16f2d339c9541453a315",
+      "title": "Giải oan cho ngành học bị mang định kiến ‘trên trời’",
+      "link": "https://thanhnien.vn/giai-oan-cho-nganh-hoc-bi-mang-dinh-kien-tren-troi-185260407211617101.htm",
+      "summary": "Vốn bị định kiến là ngành học 'trên trời', vật lý thiên văn đã được PGS Nguyễn Quỳnh Lan 'giải oan' bằng những ứng dụng thực tiễn bất ngờ tại buổi giao lưu khoa học với học sinh Trường THPT chuyên Chu Văn An.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T14:46:00+07:00",
+      "fetched": "2026-04-07T22:05:12.702266+07:00"
+    },
+    {
+      "id": "6dd4b446c11fa1cf8580d7610c954181",
+      "title": "Ông Trump dọa ‘nền văn minh Iran có thể biến mất’, Tehran phản ứng",
+      "link": "https://thanhnien.vn/ong-trump-doa-nen-van-minh-iran-co-the-bien-mat-tehran-phan-ung-185260407212453068.htm",
+      "summary": "Tổng thống Mỹ Donald Trump ngày 7.4 đã đưa ra những cảnh báo mới với Iran, trong khi ‘tối hậu thư’ ông dành cho Tehran gần đến hạn chót.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T14:33:00+07:00",
+      "fetched": "2026-04-07T22:05:12.702457+07:00"
+    },
+    {
+      "id": "ae49dbb865ac5951ea23bbac4791486e",
+      "title": "Hà Nội dự kiến đấu giá gần 730 ha đất, thu về 63.000 tỉ",
+      "link": "https://thanhnien.vn/ha-noi-du-kien-dau-gia-gan-730-ha-dat-thu-ve-63000-ti-185260407212129925.htm",
+      "summary": "Theo kế hoạch được ban hành, trong năm 2026, toàn thành phố dự kiến tổ chức đấu giá 306 dự án, khu đất với tổng diện gần 730 ha. Tổng số tiền trúng đấu giá dự kiến thu được khoảng 63.000 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T14:31:00+07:00",
+      "fetched": "2026-04-07T22:05:12.702617+07:00"
+    },
+    {
+      "id": "fcfbe1412853b74a411ab13089b7f94c",
+      "title": "Xe XCB-01 và XTC-02 sắp được Bộ Quốc phòng sản xuất hàng loạt hiện đại ra sao?",
+      "link": "https://thanhnien.vn/xe-xcb-01-va-xtc-02-sap-duoc-bo-quoc-phong-san-xuat-hang-loat-hien-dai-ra-sao-185260407205042584.htm",
+      "summary": "Xe chiến đấu bộ binh XCB-01 và xe thiết giáp chở quân chiến đấu XTC-02 do Việt Nam chế tạo sắp được Bộ Quốc phòng đưa vào sản xuất hàng loạt đều là những loại xe hiện đại, tính cơ động cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T14:27:00+07:00",
+      "fetched": "2026-04-07T22:05:12.702768+07:00"
+    },
+    {
+      "id": "52ab4e92a615f8309709c38acefc6ce9",
+      "title": "NASA công bố ảnh 'Trái Đất lặn' nhìn từ phía xa Mặt Trăng",
+      "link": "https://vnexpress.net/nasa-cong-bo-anh-trai-dat-lan-nhin-tu-phia-xa-mat-trang-5059704.html",
+      "summary": "NASA công bố ảnh chụp đầu tiên từ phía xa của Mặt Trăng trong nhiệm vụ Artemis II, trong đó Trái Đất đang khuất dần sau đường chân trời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T14:14:17+07:00",
+      "fetched": "2026-04-07T22:05:09.923758+07:00"
+    },
+    {
+      "id": "52ab4e92a615f8309709c38acefc6ce9",
+      "title": "NASA công bố ảnh 'Trái Đất lặn' nhìn từ phía xa Mặt Trăng",
+      "link": "https://vnexpress.net/nasa-cong-bo-anh-trai-dat-lan-nhin-tu-phia-xa-mat-trang-5059704.html",
+      "summary": "NASA công bố ảnh chụp đầu tiên từ phía xa của Mặt Trăng trong nhiệm vụ Artemis II, cho thấy Trái Đất đang khuất dần.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-07T14:14:17+07:00",
+      "fetched": "2026-04-07T22:05:18.858009+07:00"
+    },
+    {
+      "id": "2c6e38116e5689d466377b79e1af56df",
+      "title": "Hoàng Đức thông qua 'Áo ấm đến trường' tiếp sức học sinh nghèo hiếu học",
+      "link": "https://thanhnien.vn/hoang-duc-thong-qua-ao-am-den-truong-tiep-suc-hoc-sinh-ngheo-hieu-hoc-18526040719460833.htm",
+      "summary": "Quả bóng vàng Việt Nam Nguyễn Hoàng Đức thông qua Báo Sài Gòn Giải Phóng và UB MTTQVN xã Bình Lợi (TP.HCM) đã trao 50 suất học bổng cùng 250 áo khoác tặng các em học sinh vượt khó vươn lên trong học tập.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T13:57:00+07:00",
+      "fetched": "2026-04-07T22:05:12.702918+07:00"
+    },
+    {
+      "id": "815440cebf5f5269d67739a63a6b9f21",
+      "title": "Tối hậu thư sắp hết hạn, ông Trump đe dọa 'xóa sổ nền văn minh Iran'",
+      "link": "https://vnexpress.net/toi-hau-thu-sap-het-han-ong-trump-de-doa-xoa-so-nen-van-minh-iran-5059695.html",
+      "summary": "Ông Trump cảnh báo nền văn minh Iran \"sẽ bị diệt vong\" nếu Tehran không đáp ứng tối hậu thư của ông về mở lại eo biển Hormuz.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T13:56:33+07:00",
+      "fetched": "2026-04-07T22:05:09.923924+07:00"
+    },
+    {
+      "id": "815440cebf5f5269d67739a63a6b9f21",
+      "title": "Tối hậu thư sắp hết hạn, ông Trump đe dọa 'xóa sổ nền văn minh Iran'",
+      "link": "https://vnexpress.net/toi-hau-thu-sap-het-han-ong-trump-de-doa-xoa-so-nen-van-minh-iran-5059695.html",
+      "summary": "Ông Trump cảnh báo nền văn minh Iran \"sẽ bị diệt vong\" nếu Tehran không đáp ứng tối hậu thư của ông về mở lại eo biển Hormuz.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-07T13:56:33+07:00",
+      "fetched": "2026-04-07T22:05:14.558487+07:00"
+    },
+    {
+      "id": "9eb7c1320abd8f1512462db0926779e4",
+      "title": "Vây bắt cá sấu 'khủng' gần khu dân cư",
+      "link": "https://thanhnien.vn/vay-bat-ca-sau-khung-gan-khu-dan-cu-185260407202303823.htm",
+      "summary": "Chính quyền xã Đường Hoa (Quảng Ninh) vừa huy động lực lượng bắt một con cá sấu cỡ lớn đang bò dưới mương nước gần khu dân cư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T13:53:00+07:00",
+      "fetched": "2026-04-07T22:05:12.703066+07:00"
+    },
+    {
+      "id": "08f9ec2edf240952e84369b73ad19318",
+      "title": "Lan truyền đề thi đánh giá năng lực tự biên 'giống hoàn toàn' đề chính thức",
+      "link": "https://thanhnien.vn/lan-truyen-de-thi-danh-gia-nang-luc-tu-bien-giong-hoan-toan-de-chinh-thuc-185260407203831532.htm",
+      "summary": "Trung tâm luyện thi đánh giá năng lực quảng cáo có 'đề chính thức' trong bối cảnh đơn vị tổ chức không công bố đề thi, đặt ra nghi vấn về nguồn gốc các tài liệu này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T13:50:00+07:00",
+      "fetched": "2026-04-07T22:05:12.703214+07:00"
+    },
+    {
+      "id": "77f3e65a6c01418058ffd981da263be8",
+      "title": "Đại án Đông Á Bank: Bộ Công an kêu gọi 2 tổng giám đốc ra đầu thú",
+      "link": "https://thanhnien.vn/dai-an-dong-a-bank-bo-cong-an-keu-goi-2-tong-giam-doc-ra-dau-thu-185260407200741314.htm",
+      "summary": "Để phục vụ điều tra, truy tố và xét xử, Bộ Công an yêu cầu ông Nguyễn Thiện Nhân, Tổng giám đốc Công ty CP vốn Thái Thịnh và Nguyễn Ngọc Minh, Tổng giám đốc Công ty CP vốn Thái Thịnh Đà Lạt, ra đầu thú.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T13:50:00+07:00",
+      "fetched": "2026-04-07T22:05:12.703381+07:00"
+    },
+    {
+      "id": "9dc641ad018e2439126071ced3187782",
+      "title": "Nhiệt độ nhiều nơi vượt 40 độ C",
+      "link": "https://vnexpress.net/nhiet-do-nhieu-noi-vuot-40-do-c-5059703.html",
+      "summary": "Cả nước bước vào ngày thứ hai của đợt nắng nóng diện rộng, nhiệt độ tăng thêm 1-2 độ C so với hôm trước, nhiều điểm ở Bắc Bộ và Trung Bộ ghi nhận trên 40 độ C.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T13:49:04+07:00",
+      "fetched": "2026-04-07T22:05:09.924092+07:00"
+    },
+    {
+      "id": "a09f37382e084e5dabe1892540e66814",
+      "title": "15 tỉnh nắng nóng gay gắt, nhiều nơi trên 41 độ C",
+      "link": "https://thanhnien.vn/15-tinh-nang-nong-gay-gat-nhieu-noi-tren-41-do-c-185260407202323213.htm",
+      "summary": "Trong ngày 7.4, 15 tỉnh, thành trên cả nước xảy ra nắng nóng diện rộng, trong đó, Nghệ An là nơi nắng nóng gay gắt nhất với nhiệt độ 41,9 độ C.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T13:45:00+07:00",
+      "fetched": "2026-04-07T22:05:12.703544+07:00"
+    },
+    {
+      "id": "4ee109a819d3f51fe201d87e853ab923",
+      "title": "Xúc động: Tìm thấy hài cốt liệt sĩ còn nguyên tăng võng và dây điện thông tin",
+      "link": "https://thanhnien.vn/xuc-dong-tim-thay-hai-cot-liet-si-con-nguyen-tang-vong-va-day-dien-thong-tin-185260407203650375.htm",
+      "summary": "Hưởng ứng “Chiến dịch 500 ngày đêm đẩy mạnh thực hiện tìm kiếm, quy tập và xác định danh tính hài cốt liệt sĩ” của Ban Chỉ đạo quốc gia về tìm kiếm, quy tập và xác định danh tính hài cốt liệt sĩ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T13:44:00+07:00",
+      "fetched": "2026-04-07T22:05:12.703691+07:00"
+    },
+    {
+      "id": "5e577eb22d43afebca51038c5a98d146",
+      "title": "Đấu súng căng thẳng bên ngoài Lãnh sự quán Israel tại Thổ Nhĩ Kỳ",
+      "link": "https://thanhnien.vn/dau-sung-cang-thang-ben-ngoai-lanh-su-quan-israel-tai-tho-nhi-ky-185260407194015179.htm",
+      "summary": "Một kẻ tấn công đã thiệt mạng và hai kẻ khác bị thương khi đụng độ với cảnh sát bên ngoài tòa Lãnh sự quán Israel tại thành phố Istanbul (Thổ Nhĩ Kỳ) ngày 7.4.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T13:43:00+07:00",
+      "fetched": "2026-04-07T22:05:12.703836+07:00"
+    },
+    {
+      "id": "d5ce4037edb126c1c3d42f7646f9c02e",
+      "title": "'Sập bẫy' của người mua chung đất",
+      "link": "https://vnexpress.net/sap-bay-cua-nguoi-mua-chung-dat-5059681.html",
+      "summary": "Anh Việt tin tưởng Nguyễn Lê Duy Dũng sẽ làm sổ đỏ cho thửa đất không có giấy tờ khi hai người góp vốn mua và bị chiếm đoạt 2,7 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T13:35:52+07:00",
+      "fetched": "2026-04-07T22:05:09.924245+07:00"
+    },
+    {
+      "id": "651da7e61949bf32355a02916e62a417",
+      "title": "Các huyền thoại Bayern chỉ 'ngán' Real Madrid",
+      "link": "https://vnexpress.net/cac-huyen-thoai-bayern-chi-ngan-real-madrid-5059689.html",
+      "summary": "Cả cựu Chủ tịch Bayern Munich Uli Hoeness và huyền thoại CLB Paul Breitner đều dành sự ngưỡng mộ đặc biệt cho Real Madrid, đối thủ vòng tứ kết Champions League của thầy trò Vincent Kompany.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T13:34:54+07:00",
+      "fetched": "2026-04-07T22:05:09.924428+07:00"
+    },
+    {
+      "id": "651da7e61949bf32355a02916e62a417",
+      "title": "Các huyền thoại Bayern chỉ 'ngán' Real Madrid",
+      "link": "https://vnexpress.net/cac-huyen-thoai-bayern-chi-ngan-real-madrid-5059689.html",
+      "summary": "Cả cựu Chủ tịch Bayern Munich Uli Hoeness và huyền thoại CLB Paul Breitner đều dành sự ngưỡng mộ đặc biệt cho Real Madrid, đối thủ vòng tứ kết Champions League của thầy trò Vincent Kompany.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-07T13:34:54+07:00",
+      "fetched": "2026-04-07T22:05:19.708494+07:00"
+    },
+    {
+      "id": "c9c965abe9127e3d3fa6195a85e59605",
+      "title": "Kỷ lục mới, hôm nay nhiệt độ cao nhất lên gần 42 độ C",
+      "link": "https://thanhnien.vn/ky-luc-moi-hom-nay-nhiet-do-cao-nhat-len-gan-42-do-c-185260407203058295.htm",
+      "summary": "Hôm nay (7.4), nắng nóng đặc biệt gay gắt, nhiệt độ cao nhất lên tới 41,9 độ C. So với ngày hôm trước, mức nhiệt cao nhất tăng thêm đến 1,6 độ C. Tổng cộng, cả nước có 12 điểm nhiệt độ vượt ngưỡng 40 độ C.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T13:32:00+07:00",
+      "fetched": "2026-04-07T22:05:12.703985+07:00"
+    },
+    {
+      "id": "157ad094f2191605536ad62af9ea7c81",
+      "title": "Một cuộc gặp đúng lúc, biết đâu là cả một hành trình",
+      "link": "https://vnexpress.net/mot-cuoc-gap-dung-luc-biet-dau-la-ca-mot-hanh-trinh-5059449.html",
+      "summary": "Em 26 tuổi, là nhân viên văn phòng, sống tại Bình Phước, tính cách khá trầm và ít nói, rõ ràng và chân thành trong các mối quan hệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T13:31:46+07:00",
+      "fetched": "2026-04-07T22:05:09.924536+07:00"
+    },
+    {
+      "id": "ca49520828489fef5d6e3f904190fb53",
+      "title": "Tìm người đồng hành cùng viết nên chương mới giữa lòng Hà Nội",
+      "link": "https://vnexpress.net/tim-nguoi-dong-hanh-cung-viet-nen-chuong-moi-giua-long-ha-noi-5059400.html",
+      "summary": "Chào em - người con gái có thể cũng đang tìm kiếm một bến đỗ bình yên như anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T13:31:36+07:00",
+      "fetched": "2026-04-07T22:05:09.924627+07:00"
+    },
+    {
+      "id": "769c190ba05650704d6932ed12894f0e",
+      "title": "Khối nước lớn đục thủng trần nhà ga sân bay ở Indonesia",
+      "link": "https://vnexpress.net/khoi-nuoc-lon-duc-thung-tran-nha-ga-san-bay-o-indonesia-5059701.html",
+      "summary": "Mưa lớn khiến khối nước đục thủng trần, đổ như thác xuống sảnh nhà ga T3 sân bay quốc tế Soekarno-Hatta, cảng hàng không lớn thứ ba Đông Nam Á, ngày 6/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T13:31:06+07:00",
+      "fetched": "2026-04-07T22:05:09.924783+07:00"
+    },
+    {
+      "id": "12c9f59180b2eee1b4f7f798e7dfcbbc",
+      "title": "Các ủy ban của Quốc hội kiện toàn nhân sự",
+      "link": "https://vnexpress.net/cac-uy-ban-cua-quoc-hoi-kien-toan-nhan-su-5059678.html",
+      "summary": "Ngày 7/4, Hội đồng Dân tộc và một số Ủy ban của Quốc hội kiện toàn nhân sự phó chủ nhiệm và các đại biểu hoạt động chuyên trách khóa 16.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T13:30:30+07:00",
+      "fetched": "2026-04-07T22:05:09.924941+07:00"
+    },
+    {
+      "id": "ff613141adaaa8b91a0017117b6d863e",
+      "title": "Người Việt bệnh tật nhiều do lối sống 'nhà giàu'",
+      "link": "https://vnexpress.net/nguoi-viet-benh-tat-nhieu-do-loi-song-nha-giau-5059608.html",
+      "summary": "Thói quen ăn uống thừa năng lượng và sống lười vận động \"như nhà giàu\" khiến người Việt đối mặt với bệnh không lây nhiễm đe dọa sức khỏe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T13:30:00+07:00",
+      "fetched": "2026-04-07T22:05:09.925094+07:00"
+    },
+    {
+      "id": "ea0be2eca89b04c040cc6cee58724833",
+      "title": "Giữ chồng bằng cách không ghen tuông và không kiểm soát",
+      "link": "https://vnexpress.net/giu-chong-bang-cach-khong-ghen-tuong-va-khong-kiem-soat-5059407.html",
+      "summary": "Mục tiêu của tôi khá đơn giản: trong khoảng thời gian còn ở bên nhau, cả hai có thể sống vui vẻ và thoải mái nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T13:30:00+07:00",
+      "fetched": "2026-04-07T22:05:09.925244+07:00"
+    },
+    {
+      "id": "4c84bad1df60abab595438c3926643af",
+      "title": "Đột phá công nghệ pin mặt trời tích hợp vào mái ngói",
+      "link": "https://thanhnien.vn/dot-pha-cong-nghe-pin-mat-troi-tich-hop-vao-mai-ngoi-18526040411355567.htm",
+      "summary": "Giải pháp pin mặt trời tích hợp vào ngói giúp tận dụng mái nhà tạo điện hằng ngày đồng thời giảm chi phí lắp đặt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T13:29:00+07:00",
+      "fetched": "2026-04-07T22:05:12.704131+07:00"
+    },
+    {
+      "id": "e37df7008bdb456a801625e17783cad5",
+      "title": "Nguy cơ tiềm tàng với điện thoại cũ cất giữ trong nhà",
+      "link": "https://thanhnien.vn/nguy-co-tiem-tang-voi-dien-thoai-cu-cat-giu-trong-nha-185260407110852692.htm",
+      "summary": "Điện thoại cũ không chỉ là một thiết bị công nghệ lỗi thời mà còn tiềm ẩn nhiều rủi ro, đặc biệt liên quan đến pin.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T13:23:00+07:00",
+      "fetched": "2026-04-07T22:05:12.704272+07:00"
+    },
+    {
+      "id": "9b741dc33c763ee1850fcf4a6f270d85",
+      "title": "Nước nào có nhiều xe đạp hơn dân số?",
+      "link": "https://vnexpress.net/nuoc-nao-co-nhieu-xe-dap-hon-dan-so-5059674.html",
+      "summary": "Nước này có 17 triệu dân, nhưng số xe đạp lên tới gần 23 triệu. Đây là quốc gia nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-07T13:18:24+07:00",
+      "fetched": "2026-04-07T22:05:09.925427+07:00"
+    },
+    {
       "id": "7b4802fd59282a8ec68d5a788bee8ae3",
       "title": "Đạn pháo thông minh Krasnopol đồng bộ với UAV sau khi Nga nâng cấp",
       "link": "https://thanhnien.vn/dan-phao-thong-minh-krasnopol-dong-bo-voi-uav-sau-khi-nga-nang-cap-185260407173207802.htm",
@@ -481,6 +951,36 @@ window.newsData_2026_04_07 = {
       "category": "Tổng hợp",
       "published": "2026-04-07T13:00:00+07:00",
       "fetched": "2026-04-07T20:13:29.744602+07:00"
+    },
+    {
+      "id": "ee100c1734dc503412f82516036d0ee3",
+      "title": "Mỹ không kích đảo Kharg của Iran",
+      "link": "https://vnexpress.net/my-khong-kich-dao-kharg-cua-iran-5059685.html",
+      "summary": "Mỹ đã không kích các mục tiêu quân sự, và có thể cả cảng xuất khẩu dầu, trên đảo Kharg, huyết mạch dầu mỏ của Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-07T12:58:42+07:00",
+      "fetched": "2026-04-07T22:05:14.558660+07:00"
+    },
+    {
+      "id": "ac6abe7015cf8bc975821e0e0ded8a05",
+      "title": "Tâm trạng của người dân Iran trước tối hậu thư của ông Trump",
+      "link": "https://vnexpress.net/tam-trang-cua-nguoi-dan-iran-truoc-toi-hau-thu-cua-ong-trump-5059471.html",
+      "summary": "Người dân Iran tìm mua máy phát điện, tích trữ nhu yếu phẩm hoặc tính đường sơ tán, khi Mỹ đe dọa phá hủy hạ tầng năng lượng nếu Tehran không mở eo biển Hormuz.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-07T12:58:09+07:00",
+      "fetched": "2026-04-07T22:05:14.558824+07:00"
+    },
+    {
+      "id": "c55fe6d3bdee8fef197fb679d2127c31",
+      "title": "Iran dọa tung đòn đáp trả Mỹ vượt ra ngoài Trung Đông",
+      "link": "https://vnexpress.net/iran-doa-tung-don-dap-tra-my-vuot-ra-ngoai-trung-dong-5059682.html",
+      "summary": "Vệ binh Iran cảnh báo nếu Washington đi quá giới hạn, nước này sẽ tung đòn trả đũa vượt ra ngoài Trung Đông và khiến Mỹ cùng đồng minh mất đi nguồn dầu khí của khu vực.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-07T12:57:03+07:00",
+      "fetched": "2026-04-07T22:05:14.558986+07:00"
     },
     {
       "id": "0ae15253cd7c81864137f7d1d3294c14",
