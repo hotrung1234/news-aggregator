@@ -1,7 +1,157 @@
 window.newsData_2026_04_08 = {
   "date": "2026-04-08",
-  "lastUpdated": "2026-04-08T09:07:48.228942+07:00",
+  "lastUpdated": "2026-04-08T12:45:22.816626+07:00",
   "articles": [
+    {
+      "id": "cbb5b25f920bb154aa70dc611f6cc7d1",
+      "title": "Mũi Né lọt top 10 điểm đến xu hướng toàn cầu năm 2026",
+      "link": "https://tuoitre.vn/mui-ne-lot-top-10-diem-den-xu-huong-toan-cau-nam-2026-20260408110901401.htm",
+      "summary": "Sở hữu biển xanh, nắng vàng cùng những đồi cát trải dài đến vô tận, Mũi Né là một trong những cái tên lọt top 10 điểm đến xu hướng toàn cầu năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T12:45:14.738287+07:00",
+      "fetched": "2026-04-08T12:45:14.738400+07:00"
+    },
+    {
+      "id": "b6867ffa1246629f72b68f61077f6ee9",
+      "title": "Con gái Angelina Jolie khiến mạng xã hội 'dậy sóng' trong MV K-pop",
+      "link": "https://tuoitre.vn/con-gai-angelina-jolie-khien-mang-xa-hoi-day-song-trong-mv-k-pop-20260408112025524.htm",
+      "summary": "Ở tuổi 19, Shiloh Jolie dường như là sự hồi sinh đương đại của phong cách thẩm mỹ mà Angelina Jolie từng định hình vào cuối thập niên 1990 và đầu những năm 2000.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T12:45:14.738159+07:00",
+      "fetched": "2026-04-08T12:45:14.738275+07:00"
+    },
+    {
+      "id": "b1ee3cd3bbbfda8b025222e3e938bd80",
+      "title": "Đắk Lắk đề nghị tăng hỗ trợ cán bộ đi làm xa nhà lên 7 triệu đồng/tháng",
+      "link": "https://tuoitre.vn/dak-lak-de-nghi-tang-ho-tro-can-bo-di-lam-xa-nha-len-7-trieu-dong-thang-20260408101204605.htm",
+      "summary": "Mức hỗ trợ hiện tại cho cán bộ công tác xa nhà của tỉnh Đắk Lắk được cho là thấp nên đang được đề nghị điều chỉnh tăng phù hợp với chi phí thực tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T12:45:14.738032+07:00",
+      "fetched": "2026-04-08T12:45:14.738147+07:00"
+    },
+    {
+      "id": "eab20564abc87899e4c4e628f68a5401",
+      "title": "Arsenal là đội duy nhất bất bại ở Champions League",
+      "link": "https://tuoitre.vn/arsenal-la-doi-duy-nhat-bat-bai-o-champions-league-20260408114831497.htm",
+      "summary": "Arsenal là CLB duy nhất vẫn chưa để thua trận nào ở Champions League mùa này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T12:45:14.737902+07:00",
+      "fetched": "2026-04-08T12:45:14.738016+07:00"
+    },
+    {
+      "id": "3129bfa8cf4ed494f4f39ea46c1e226b",
+      "title": "Cầu thủ Duy Mạnh mất đồng hồ xa xỉ hơn 1 tỉ đồng",
+      "link": "https://tuoitre.vn/cau-thu-duy-manh-mat-dong-ho-xa-xi-hon-1-ti-dong-20260408113530513.htm",
+      "summary": "Đỗ Duy Mạnh xin sự trợ giúp của cộng đồng mạng sau khi bị mất chiếc đồng hồ có giá trị hơn 1 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T12:45:14.737770+07:00",
+      "fetched": "2026-04-08T12:45:14.737891+07:00"
+    },
+    {
+      "id": "43750078d4967fa9df20f8858e04c280",
+      "title": "Nhà khoa học hồi hương: Biến kỳ vọng thành năng lực nghiên cứu",
+      "link": "https://tuoitre.vn/nha-khoa-hoc-hoi-huong-bien-ky-vong-thanh-nang-luc-nghien-cuu-2026040809171016.htm",
+      "summary": "Thu hút nhà khoa học trở về từ nước ngoài được xem là một hướng đi quan trọng để nâng cao năng lực khoa học - công nghệ và đào tạo của một quốc gia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T12:45:14.737617+07:00",
+      "fetched": "2026-04-08T12:45:14.737739+07:00"
+    },
+    {
+      "id": "2ff2b383189baa1122e36447a2324660",
+      "title": "Giải bóng chuyền vô địch quốc gia 2026: Thử thách từ thể thức thi đấu",
+      "link": "https://tuoitre.vn/giai-bong-chuyen-vo-dich-quoc-gia-2026-thu-thach-tu-the-thuc-thi-dau-20260408102447368.htm",
+      "summary": "Dù hứa hẹn mang đến sự hấp dẫn cho Giải bóng chuyền vô địch quốc gia các CLB 2026, nhưng thể thức thi đấu mới của giải cũng sẽ là thử thách cho các đội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T12:45:14.737489+07:00",
+      "fetched": "2026-04-08T12:45:14.737605+07:00"
+    },
+    {
+      "id": "68bea17d8286e7269a20089d55996020",
+      "title": "Bắt giữ người hành hung nhân viên gác chắn ở Thanh Khê, Đà Nẵng",
+      "link": "https://tuoitre.vn/bat-giu-nguoi-hanh-hung-nhan-vien-gac-chan-o-thanh-khe-da-nang-20260408113403558.htm",
+      "summary": "Công an phường Thanh Khê, Đà Nẵng đã ra quyết định tạm giữ đối tượng hành hung nhân viên gác chắn tàu hỏa ở Thanh Khê, Đà Nẵng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T12:45:14.737366+07:00",
+      "fetched": "2026-04-08T12:45:14.737478+07:00"
+    },
+    {
+      "id": "786ffe1a06c91f5dc1c5e49ed9078aa0",
+      "title": "Ông Nguyễn Hải Ninh giữ chức Chánh Văn phòng Trung ương Đảng",
+      "link": "https://tuoitre.vn/ong-nguyen-hai-ninh-giu-chuc-chanh-van-phong-trung-uong-dang-20260408080714657.htm",
+      "summary": "Bộ Chính trị đã phân công, bổ nhiệm ông Nguyễn Hải Ninh, Ủy viên Trung ương Đảng, Bộ trưởng Bộ Tư pháp, giữ chức Chánh Văn phòng Trung ương Đảng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T12:45:14.737244+07:00",
+      "fetched": "2026-04-08T12:45:14.737355+07:00"
+    },
+    {
+      "id": "866d2ef5f0b1053e30771df39eccb73b",
+      "title": "Học sinh TP.HCM đăng ký nguyện vọng lớp 10 từ 22-4",
+      "link": "https://tuoitre.vn/hoc-sinh-tp-hcm-dang-ky-nguyen-vong-lop-10-tu-22-4-20260408115115797.htm",
+      "summary": "Học sinh lớp 9 tại TP.HCM sẽ đăng ký nguyện vọng lớp 10 từ ngày 22 đến 28-4, được điều chỉnh trong đầu tháng 5 trước khi kỳ thi diễn ra đầu tháng 6.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T12:45:14.737116+07:00",
+      "fetched": "2026-04-08T12:45:14.737232+07:00"
+    },
+    {
+      "id": "f7cb7703c97a30da8d87e9f16e30ce96",
+      "title": "Triển khai Nghị quyết Đại hội XIV của Đảng cho đội ngũ báo chí, xuất bản, văn nghệ sĩ, trí thức",
+      "link": "https://tuoitre.vn/trien-khai-nghi-quyet-dai-hoi-xiv-cua-dang-cho-doi-ngu-bao-chi-xuat-ban-van-nghe-si-tri-thuc-20260408114722654.htm",
+      "summary": "Tuổi Trẻ Online trân trọng giới thiệu toàn văn bài phát biểu của Phó trưởng Ban Tuyên giáo và Dân vận Trung ương Trần Thanh Lâm tại Hội nghị toàn quốc nghiên cứu, học tập, quán triệt và triển khai thực hiện Nghị quyết Đại hội XIV của Đảng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T12:45:14.736989+07:00",
+      "fetched": "2026-04-08T12:45:14.737104+07:00"
+    },
+    {
+      "id": "96348a9d83e9184dd47de4058d5fa869",
+      "title": "Bí thư Hà Nội Nguyễn Duy Ngọc giữ chức Trưởng Ban Tổ chức Trung ương",
+      "link": "https://tuoitre.vn/bi-thu-ha-noi-nguyen-duy-ngoc-giu-chuc-truong-ban-to-chuc-trung-uong-2026040807513981.htm",
+      "summary": "Bí thư Thành ủy Hà Nội Nguyễn Duy Ngọc đã được Bộ Chính trị phân công, bổ nhiệm giữ chức Trưởng Ban Tổ chức Trung ương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T12:45:14.736856+07:00",
+      "fetched": "2026-04-08T12:45:14.736976+07:00"
+    },
+    {
+      "id": "55c4fc4a9345bab13ec04f4524cd9e7d",
+      "title": "Chú rể gặp nạn vì vướng dây kéo xe tải giữa đường",
+      "link": "https://tuoitre.vn/chu-re-gap-nan-vi-vuong-day-keo-xe-tai-giua-duong-20260408115626487.htm",
+      "summary": "Dây kéo xe tải căng ngang đường không cảnh báo khiến nam thanh niên vướng dây, ngã xuống đường bị thương. Được biết thanh niên gặp nạn đúng ngày cưới của mình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T12:45:14.736697+07:00",
+      "fetched": "2026-04-08T12:45:14.736842+07:00"
+    },
+    {
+      "id": "99caf4128658a99280beba35b0bfecb6",
+      "title": "Khởi công hai dự án nhà máy xử lý nước thải tập trung hơn 1.000 tỉ đồng ở Phú Quốc",
+      "link": "https://tuoitre.vn/khoi-cong-hai-du-an-nha-may-xu-ly-nuoc-thai-tap-trung-hon-1-000-ti-dong-o-phu-quoc-20260408114251713.htm",
+      "summary": "Ngày 8-4, dự án nhà máy xử lý nước thải tập trung ở khu vực An Thới và dự án nhà máy xử lý nước thải tập trung ở Dương Đông (đặc khu Phú Quốc, tỉnh An Giang) được khởi công. Dự án trên sẽ xử lý nước thải đảm bảo vệ sinh môi trường trên đảo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T12:45:14.736557+07:00",
+      "fetched": "2026-04-08T12:45:14.736685+07:00"
+    },
+    {
+      "id": "fcf0505ca64daafa9490941ca34fa47a",
+      "title": "Câu chuyện cô gái người Anh hiến tạng tại Việt Nam: Tri ân nghĩa cử cao đẹp ‘không biên giới’",
+      "link": "https://tuoitre.vn/cau-chuyen-co-gai-nguoi-anh-hien-tang-tai-viet-nam-tri-an-nghia-cu-cao-dep-khong-bien-gioi-20260408113611884.htm",
+      "summary": "Sáng 8-4, tại Hà Nội, Bệnh viện Hữu nghị Việt Đức đã tổ chức lễ tri ân gia đình cô gái người Anh hiến tạng cứu người, khép lại một câu chuyện buồn bằng một thông điệp nhân văn sâu sắc về sự sống và nghĩa cử cao đẹp vượt qua mọi biên giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T12:45:14.736323+07:00",
+      "fetched": "2026-04-08T12:45:14.736542+07:00"
+    },
     {
       "id": "3a7b348b3561aa870a0604cecae65461",
       "title": "Người dân phản ánh nước sinh hoạt có bọt trắng, doanh nghiệp vào cuộc",
@@ -153,6 +303,16 @@ window.newsData_2026_04_08 = {
       "fetched": "2026-04-08T09:07:42.412672+07:00"
     },
     {
+      "id": "25e218c622894f5f99a700d3e8bc0548",
+      "title": "Ông Nguyễn Hải Ninh làm Chánh văn phòng Trung ương Đảng",
+      "link": "https://thanhnien.vn/ong-nguyen-hai-ninh-lam-chanh-van-phong-trung-uong-dang-185260408122712827.htm",
+      "summary": "Bộ Chính trị điều động, bổ nhiệm ông Nguyễn Hải Ninh giữ chức Chánh văn phòng Trung ương Đảng thay ông Phạm Gia Túc vừa được Quốc hội phê chuẩn bổ nhiệm làm Phó thủ tướng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T05:44:00+07:00",
+      "fetched": "2026-04-08T12:45:13.656170+07:00"
+    },
+    {
       "id": "a6e0f2b4366c4d0b9bf70382fb14a35f",
       "title": "FTSE Russell: Việt Nam vượt rà soát nâng hạng, nhiều cổ phiếu sẽ vào chỉ số toàn cầu",
       "link": "https://tuoitre.vn/ftse-russell-viet-nam-vuot-ra-soat-nang-hang-nhieu-co-phieu-se-vao-chi-so-toan-cau-20260407223645311.htm",
@@ -171,6 +331,536 @@ window.newsData_2026_04_08 = {
       "category": "Tổng hợp",
       "published": "2026-04-08T05:35:29.108886+07:00",
       "fetched": "2026-04-08T05:35:29.109137+07:00"
+    },
+    {
+      "id": "e03c60356b7fc4b6cd811effa0d61030",
+      "title": "Cô gái bất ngờ nổi tiếng với bộ ảnh xinh như mỹ nhân thời xưa",
+      "link": "https://thanhnien.vn/co-gai-bat-ngo-noi-tieng-voi-bo-anh-xinh-nhu-my-nhan-thoi-xua-185260408123630128.htm",
+      "summary": "Chỉ với bộ ảnh chụp một cách ngẫu hứng tại công viên Thống Nhất (Hà Nội), cô gái này bỗng dưng nổi tiếng. Dân mạng những ngày qua rần rần tìm kiếm danh tính của cô gái này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T05:34:00+07:00",
+      "fetched": "2026-04-08T12:45:13.656340+07:00"
+    },
+    {
+      "id": "fc5046b4dac2026057ef4749190bb0e1",
+      "title": "Đại tướng Phan Văn Giang làm Phó thủ tướng Chính phủ",
+      "link": "https://thanhnien.vn/dai-tuong-phan-van-giang-lam-pho-thu-tuong-chinh-phu-185260407135321097.htm",
+      "summary": "Đại tướng, Bộ trưởng Bộ Quốc phòng Phan Văn Giang được bổ nhiệm Phó thủ tướng Chính phủ nhiệm kỳ 2026 - 2031 kiêm Bộ trưởng Bộ Quốc phòng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T05:32:00+07:00",
+      "fetched": "2026-04-08T12:45:13.656497+07:00"
+    },
+    {
+      "id": "66aba46416601f3344fc01cae5774822",
+      "title": "Conte tự ứng tuyển ghế HLV tuyển Italy",
+      "link": "https://vnexpress.net/conte-tu-ung-tuyen-ghe-hlv-tuyen-italy-5059988.html",
+      "summary": "HLV Antonio Conte tự nhận phù hợp để dẫn dắt tuyển Italy, đồng thời thừa nhận tương lai của ông tại Napoli hiện vẫn đang bị bỏ ngỏ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-08T05:31:32+07:00",
+      "fetched": "2026-04-08T12:45:22.809571+07:00"
+    },
+    {
+      "id": "f400dbeb12c5e265af0283d2b913167c",
+      "title": "[VIDEO] Danh sách 17 bộ trưởng, trưởng ngành của Chính phủ",
+      "link": "https://thanhnien.vn/video-danh-sach-17-bo-truong-truong-nganh-cua-chinh-phu-185260408123149298.htm",
+      "summary": "Sáng 8.4, Quốc hội đã phê chuẩn bộ máy của Chính phủ nhiệm kỳ 2026 - 2031 với 6 phó thủ tướng, 17 bộ trưởng, trưởng ngành. Trong đó, có 9 lãnh đạo bộ lần đầu tham gia Chính phủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T05:31:00+07:00",
+      "fetched": "2026-04-08T12:45:13.656650+07:00"
+    },
+    {
+      "id": "bad18ef1ec6e8d3c2c2c33194a463262",
+      "title": "[VIDEO] Chân dung 6 Phó thủ tướng Chính phủ nhiệm kỳ 2026 - 2031",
+      "link": "https://thanhnien.vn/video-chan-dung-6-pho-thu-tuong-chinh-phu-nhiem-ky-2026-2031-185260408114403893.htm",
+      "summary": "6 phó thủ tướng Chính phủ nhiệm kỳ 2026 - 2031 vừa được Quốc hội phê chuẩn bổ nhiệm có 2 ủy viên Bộ Chính trị, 1 ủy viên Ban Bí thư và 3 ủy viên Trung ương Đảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T05:30:00+07:00",
+      "fetched": "2026-04-08T12:45:13.656831+07:00"
+    },
+    {
+      "id": "8cb541d0701a8b16d709c1c6d2723850",
+      "title": "3 nữ thành viên Chính phủ nhiệm kỳ mới",
+      "link": "https://thanhnien.vn/3-nu-thanh-vien-chinh-phu-nhiem-ky-moi-185260408100640513.htm",
+      "summary": "Chính phủ nhiệm kỳ 2026 - 2031 với 23 thành viên, trong đó có 3 nữ thành viên, gồm 1 phó thủ tướng và 2 bộ trưởng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T05:30:00+07:00",
+      "fetched": "2026-04-08T12:45:13.656987+07:00"
+    },
+    {
+      "id": "550b4521e59d039548eaf88bab82dc37",
+      "title": "9 bộ trưởng lần đầu tham gia Chính phủ",
+      "link": "https://thanhnien.vn/9-bo-truong-lan-dau-tham-gia-chinh-phu-185260408003601822.htm",
+      "summary": "Sáng 8.4, Quốc hội đã phê chuẩn bộ máy của Chính phủ nhiệm kỳ 2026 - 2031 với 6 phó thủ tướng, 17 bộ trưởng, trưởng ngành. Trong đó, có 9 lãnh đạo bộ lần đầu tham gia Chính phủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T05:29:00+07:00",
+      "fetched": "2026-04-08T12:45:13.657135+07:00"
+    },
+    {
+      "id": "de5fe3ce551527eaf0381d7ed8ec616e",
+      "title": "Ông Vũ Hải Quân giữ chức Bộ trưởng Bộ Khoa học và Công nghệ",
+      "link": "https://vnexpress.net/ong-vu-hai-quan-giu-chuc-bo-truong-bo-khoa-hoc-va-cong-nghe-5059734.html",
+      "summary": "PGS.TS Vũ Hải Quân, Thứ trưởng Thường trực Bộ Khoa học và Công nghệ, được Quốc hội phê chuẩn bổ nhiệm giữ chức Bộ trưởng nhiệm kỳ 2026-2031.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-08T05:28:15+07:00",
+      "fetched": "2026-04-08T12:45:21.130835+07:00"
+    },
+    {
+      "id": "5624f28e2c3dcc19cb40c52c73187118",
+      "title": "Chân dung 6 Phó thủ tướng nhiệm kỳ 2026 - 2031",
+      "link": "https://thanhnien.vn/chan-dung-6-pho-thu-tuong-nhiem-ky-2026-2031-185260407105832403.htm",
+      "summary": "6 phó thủ tướng Chính phủ nhiệm kỳ 2026 - 2031 vừa được Quốc hội phê chuẩn bổ nhiệm có 2 ủy viên Bộ Chính trị, 1 ủy viên Ban Bí thư và 3 ủy viên Trung ương Đảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T05:27:00+07:00",
+      "fetched": "2026-04-08T12:45:13.657282+07:00"
+    },
+    {
+      "id": "2dd70f3e1e4baef87c192b8210c611e3",
+      "title": "Quốc hội phê chuẩn bổ nhiệm 6 phó thủ tướng",
+      "link": "https://thanhnien.vn/quoc-hoi-phe-chuan-bo-nhiem-6-pho-thu-tuong-185260408100814456.htm",
+      "summary": "Chính phủ nhiệm kỳ 2026 - 2031 của tân Thủ tướng Lê Minh Hưng gồm 6 phó thủ tướng và 17 bộ trưởng, trưởng các cơ quan ngang bộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T05:25:00+07:00",
+      "fetched": "2026-04-08T12:45:13.657428+07:00"
+    },
+    {
+      "id": "514bbc7a1d9dc2c1d66f2a522c40546b",
+      "title": "Bí thư Thành ủy Hà Nội Nguyễn Duy Ngọc làm Trưởng ban Tổ chức Trung ương",
+      "link": "https://thanhnien.vn/bi-thu-thanh-uy-ha-noi-nguyen-duy-ngoc-lam-truong-ban-to-chuc-trung-uong-185260408121411869.htm",
+      "summary": "Bí thư Thành ủy Hà Nội Nguyễn Duy Ngọc được Bộ Chính trị điều động, phân công giữ chức Trưởng ban Tổ chức Trung ương, thay ông Lê Minh Hưng vừa được bầu làm Thủ tướng Chính phủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T05:23:00+07:00",
+      "fetched": "2026-04-08T12:45:13.657573+07:00"
+    },
+    {
+      "id": "bbd39673dcdc01e1ca8f1a204c7ee645",
+      "title": "Công an Huế mời chủ tạp hóa đánh liên tiếp vào mặt nam sinh, lên làm việc",
+      "link": "https://thanhnien.vn/cong-an-hue-moi-chu-tap-hoa-danh-lien-tiep-vao-mat-nam-sinh-len-lam-viec-185260408105941184.htm",
+      "summary": "Sau khi đoạn clip chủ quán tạp hóa đánh liên tục vào mặt một nam sinh đăng tải lên mạng xã hội, Công an phường Mỹ Thượng, thành phố Huế đã vào cuộc xác minh, đồng thời mời các bên lên làm việc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T05:20:00+07:00",
+      "fetched": "2026-04-08T12:45:13.657729+07:00"
+    },
+    {
+      "id": "adef014c1d6f85fbfeb1e0f2cedfcd79",
+      "title": "TP.HCM trưa nắng đứng bóng, nhiều người 'phơi mình' trên những tuyến đường vắng bóng cây xanh",
+      "link": "https://thanhnien.vn/tphcm-trua-nang-dung-bong-nhieu-nguoi-phoi-minh-tren-nhung-tuyen-duong-vang-bong-cay-xanh-185260407121836216.htm",
+      "summary": "Đợt cao điểm nắng nóng, nhiều người ở TP.HCM phải \"phơi mình\" ngoài đường vào giờ trưa trên những tuyến đường vắng bóng cây xanh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T05:12:00+07:00",
+      "fetched": "2026-04-08T12:45:13.657910+07:00"
+    },
+    {
+      "id": "fe16f76553ea58685e742f37af5d6be9",
+      "title": "Camera trong xe lật tẩy lời khai của tài xế bắt cóc bé gái 7 tuổi",
+      "link": "https://vnexpress.net/camera-trong-xe-lat-tay-loi-khai-cua-tai-xe-bat-coc-be-gai-7-tuoi-5059987.html",
+      "summary": "Hình ảnh Athena Strand, 7 tuổi, hoảng sợ quỳ gối trong xe ngay trước khi bị sát hại đã vạch trần lời biện hộ gian dối của tài xế Tanner Horner.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T05:11:22+07:00",
+      "fetched": "2026-04-08T12:45:10.353057+07:00"
+    },
+    {
+      "id": "113212f305777fd423326ec1d8db7afd",
+      "title": "TP HCM đẩy sớm lịch đăng ký thi lớp 10",
+      "link": "https://vnexpress.net/huong-dan-lich-dang-ky-dieu-chinh-nguyen-vong-thi-lop-10-cua-tp-hcm-nam-2026-5059983.html",
+      "summary": "Học sinh TP HCM bắt đầu đăng ký nguyện vọng lớp 10 từ ngày 22/4, sớm hơn 10 ngày do lịch thi sớm hơn năm ngoái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T05:08:44+07:00",
+      "fetched": "2026-04-08T12:45:10.353236+07:00"
+    },
+    {
+      "id": "7965fa3d361f6ea3bec87c6f4f443eed",
+      "title": "Nhiều trường quân đội xét điểm thi đánh giá năng lực ĐH Quốc gia TP.HCM",
+      "link": "https://thanhnien.vn/nhieu-truong-quan-doi-xet-diem-thi-danh-gia-nang-luc-dh-quoc-gia-tphcm-185260408113835419.htm",
+      "summary": "Trong số gần 120 trường xét điểm thi đánh giá năng lực ĐH Quốc gia TP.HCM năm 2026, có hơn chục trường quân đội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T05:08:00+07:00",
+      "fetched": "2026-04-08T12:45:13.658058+07:00"
+    },
+    {
+      "id": "1d3721ab7eafdedf8a1bd4f2da84ae1b",
+      "title": "Bộ trưởng Tư pháp Nguyễn Hải Ninh làm Chánh Văn phòng Trung ương Đảng",
+      "link": "https://vnexpress.net/bo-truong-tu-phap-nguyen-hai-ninh-lam-chanh-van-phong-trung-uong-dang-5059986.html",
+      "summary": "Ông Nguyễn Hải Ninh, Bộ trưởng Tư pháp, được điều động, bổ nhiệm giữ chức Chánh Văn phòng Trung ương Đảng, thay ông Phạm Gia Túc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T05:06:12+07:00",
+      "fetched": "2026-04-08T12:45:10.353415+07:00"
+    },
+    {
+      "id": "c938e6fbf86194ee8591054f1625fb5e",
+      "title": "Đề xuất nâng trợ cấp hưu trí xã hội lên 600.000 đồng từ 1/7",
+      "link": "https://vnexpress.net/de-xuat-nang-tro-cap-huu-tri-xa-hoi-len-600-000-dong-tu-1-7-5059926.html",
+      "summary": "Bộ Y tế đề xuất nâng trợ cấp hưu trí xã hội, chuẩn trợ giúp xã hội lên 600.000 đồng mỗi tháng, tăng 20% so với hiện hành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T05:05:46+07:00",
+      "fetched": "2026-04-08T12:45:10.353581+07:00"
+    },
+    {
+      "id": "166e09ebc0aae2a4b00cebb4db5b14ec",
+      "title": "OpenClaw dính lỗ hổng bảo mật nghiêm trọng",
+      "link": "https://vnexpress.net/openclaw-dinh-lo-hong-bao-mat-nghiem-trong-5059869.html",
+      "summary": "OpenClaw bị phát hiện tồn tại lỗ hổng bảo mật nghiêm trọng, cho phép kẻ tấn công âm thầm chiếm quyền kiểm soát quản trị hoàn toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T05:03:04+07:00",
+      "fetched": "2026-04-08T12:45:10.353739+07:00"
+    },
+    {
+      "id": "166e09ebc0aae2a4b00cebb4db5b14ec",
+      "title": "OpenClaw dính lỗ hổng bảo mật nghiêm trọng",
+      "link": "https://vnexpress.net/openclaw-dinh-lo-hong-bao-mat-nghiem-trong-5059869.html",
+      "summary": "OpenClaw bị phát hiện tồn tại lỗ hổng bảo mật nghiêm trọng, cho phép kẻ tấn công âm thầm chiếm quyền kiểm soát quản trị hoàn toàn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-08T05:03:04+07:00",
+      "fetched": "2026-04-08T12:45:21.131660+07:00"
+    },
+    {
+      "id": "77a26e4e623635c1fc310aa69415f97e",
+      "title": "Tay đua đội Thanh Hóa bất ngờ giành chiến thắng ở Cúp xe đạp truyền hình TP.HCM",
+      "link": "https://thanhnien.vn/tay-dua-doi-thanh-hoa-bat-ngo-gianh-chien-thang-o-cup-xe-dap-truyen-hinh-tphcm-185260408114211304.htm",
+      "summary": "Màn cạnh tranh nước rút với tốc độ gần 70 km/giờ mang về chiến thắng ấn tượng cho tay đua người Nga Anton Popov trong màu áo đội Thanh Hóa tại chặng 6 Cúp xe đạp truyền hình TP.HCM - Tôn Đông Á.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T05:01:00+07:00",
+      "fetched": "2026-04-08T12:45:13.658212+07:00"
+    },
+    {
+      "id": "721d3006e071680902b518a9d8abd733",
+      "title": "Món tráng miệng Nữ hoàng Anh yêu thích gây 'bão' mạng",
+      "link": "https://vnexpress.net/mon-trang-mieng-nu-hoang-anh-yeu-thich-gay-bao-mang-5059839.html",
+      "summary": "Trào lưu \"cheesecake\" lành mạnh từ sữa chua Hy Lạp và bánh quy đang gây sốt trên mạng xã hội thực chất là món tráng miệng yêu thích của cố Nữ hoàng Anh Elizabeth II từ hơn 30 năm trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T05:00:42+07:00",
+      "fetched": "2026-04-08T12:45:10.353936+07:00"
+    },
+    {
+      "id": "aa0d15c30ee2c5c14f464e9155a9771f",
+      "title": "Đình chỉ hiệu trưởng vì thịt bán trú nhiễm tả lợn, khuẩn Ecoli",
+      "link": "https://vnexpress.net/dinh-chi-hieu-truong-vi-thit-ban-tru-nhiem-ta-lon-khuan-ecoli-5059964.html",
+      "summary": "Hiệu trưởng Mầm non Hòa Bình bị đình chỉ 15 ngày để điều tra, sau khi hơn 100 phụ huynh cho con nghỉ học vì phát hiện thịt bán trú có \"màu lạ\", dương tính khuẩn Ecoli và tả lợn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T05:00:24+07:00",
+      "fetched": "2026-04-08T12:45:10.354100+07:00"
+    },
+    {
+      "id": "1c973ca69a1baf15bed9e3b6816bee41",
+      "title": "Vietjet nâng số chuyến bay nội địa lên gần 3.800 dịp 30/4",
+      "link": "https://vnexpress.net/vietjet-nang-so-chuyen-bay-noi-dia-len-gan-3-800-dip-30-4-5059936.html",
+      "summary": "Vietjet mở thêm 500 chuyến bay, tương ứng tăng hơn 15%, nâng tổng chuyến nội địa lên gần 3.800 giai đoạn 25/4-5/5, đáp ứng nhu cầu cao điểm dịp nghỉ lễ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T05:00:00+07:00",
+      "fetched": "2026-04-08T12:45:10.354255+07:00"
+    },
+    {
+      "id": "d254a9290d755391a3bd35d3f019f650",
+      "title": "Long Châu, Bayer, Omron phối hợp tầm soát sức khỏe người dân",
+      "link": "https://vnexpress.net/long-chau-bayer-omron-phoi-hop-tam-soat-suc-khoe-nguoi-dan-5059924.html",
+      "summary": "Long Châu cùng các đối tác y tế triển khai tầm soát tim mạch, đột quỵ, rung nhĩ mô toàn quốc, giúp người dân chủ động phòng bệnh, hưởng ứng ngày Sức khỏe toàn dân (7/4).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T05:00:00+07:00",
+      "fetched": "2026-04-08T12:45:10.354408+07:00"
+    },
+    {
+      "id": "a05f4ecc5e78f9090d3ea1bfc3b05d49",
+      "title": "Mẹ bầu nên ăn uống, nghỉ ngơi thế nào khi nắng nóng?",
+      "link": "https://vnexpress.net/me-bau-nen-an-uong-nghi-ngoi-the-nao-khi-nang-nong-5059904.html",
+      "summary": "Tôi đang mang thai 27 tuần, gần đây nắng nóng nên cảm thấy mệt mỏi, chán ăn. Làm sao để ngon miệng hơn, không ảnh hưởng đến sự phát triển của thai nhi? (Yến Nhung, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T05:00:00+07:00",
+      "fetched": "2026-04-08T12:45:10.354560+07:00"
+    },
+    {
+      "id": "e9f0268c4bdb0c7e74f40a3fe6998c5e",
+      "title": "5 lý do nên ăn măng",
+      "link": "https://vnexpress.net/5-ly-do-nen-an-mang-5055289.html",
+      "summary": "Măng chứa nhiều chất xơ cùng vitamin, khoáng chất, hỗ trợ tiêu hóa, góp phần tăng cường hệ miễn dịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T05:00:00+07:00",
+      "fetched": "2026-04-08T12:45:10.354715+07:00"
+    },
+    {
+      "id": "bf97b6462de1eae6b3d790fa107c335f",
+      "title": "Nam thanh niên bị tấn công bằng hung khí sau va chạm giao thông",
+      "link": "https://thanhnien.vn/nam-thanh-nien-bi-tan-cong-bang-hung-khi-sau-va-cham-giao-thong-185260408111606048.htm",
+      "summary": "Sau va chạm với ô tô và ngã xuống đường, nam thanh niên bất ngờ bị người đàn ông mặc áo xe ôm công nghệ dùng hung khí tấn công tại khu vực Công trường Mê Linh (TP.HCM).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T05:00:00+07:00",
+      "fetched": "2026-04-08T12:45:13.658358+07:00"
+    },
+    {
+      "id": "b8d0d2c78f9e1b0184e1d9603178cd8b",
+      "title": "'Anh hùng quốc gia' Australia bị bắt vì cáo buộc tội ác chiến tranh",
+      "link": "https://vnexpress.net/anh-hung-quoc-gia-australia-bi-bat-vi-cao-buoc-toi-ac-chien-tranh-5059862.html",
+      "summary": "Roberts-Smith, cựu binh được ca ngợi là \"anh hùng quốc gia\" của Australia, bị bắt với cáo buộc phạm tội ác chiến tranh khi tham chiến ở Afghanistan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T04:58:29+07:00",
+      "fetched": "2026-04-08T12:45:10.354893+07:00"
+    },
+    {
+      "id": "b8d0d2c78f9e1b0184e1d9603178cd8b",
+      "title": "'Anh hùng quốc gia' Australia bị bắt vì cáo buộc tội ác chiến tranh",
+      "link": "https://vnexpress.net/anh-hung-quoc-gia-australia-bi-bat-vi-cao-buoc-toi-ac-chien-tranh-5059862.html",
+      "summary": "Roberts-Smith, cựu binh được ca ngợi là \"anh hùng quốc gia\" của Australia, bị bắt với cáo buộc phạm tội ác chiến tranh khi tham chiến ở Afghanistan.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-08T04:58:29+07:00",
+      "fetched": "2026-04-08T12:45:16.604765+07:00"
+    },
+    {
+      "id": "2673d5c529cc60b25de8469038e0bb3a",
+      "title": "Bí thư Hà Nội Nguyễn Duy Ngọc làm Trưởng ban Tổ chức Trung ương",
+      "link": "https://vnexpress.net/bi-thu-ha-noi-nguyen-duy-ngoc-lam-truong-ban-to-chuc-trung-uong-5059972.html",
+      "summary": "Bí thư Thành ủy Hà Nội Nguyễn Duy Ngọc được Bộ Chính trị điều động, phân công giữ chức Trưởng ban Tổ chức Trung ương, thay ông Lê Minh Hưng vừa được bầu làm Thủ tướng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T04:49:06+07:00",
+      "fetched": "2026-04-08T12:45:10.355045+07:00"
+    },
+    {
+      "id": "3b58a04386b2f389139f87af01a52053",
+      "title": "Lucescu - 'Ánh sáng' của bóng đá Romania đã tắt",
+      "link": "https://vnexpress.net/lucescu-anh-sang-cua-bong-da-romania-da-tat-5059939.html",
+      "summary": "HLV Mircea Lucescu, một trong những biểu tượng vĩ đại của bóng đá Romania, qua đời đêm 7/4 tại Bệnh viện Đại học Bucharest, không lâu sau thất bại ở trận tranh vé vớt World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T04:40:41+07:00",
+      "fetched": "2026-04-08T12:45:10.355209+07:00"
+    },
+    {
+      "id": "3b58a04386b2f389139f87af01a52053",
+      "title": "Lucescu - 'Ánh sáng' của bóng đá Romania đã tắt",
+      "link": "https://vnexpress.net/lucescu-anh-sang-cua-bong-da-romania-da-tat-5059939.html",
+      "summary": "HLV Mircea Lucescu, một biểu tượng vĩ đại của bóng đá Romania, qua đời đêm 7/4 tại thủ đô Bucharest, không lâu sau thất bại ở trận tranh vé vớt World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-08T04:40:41+07:00",
+      "fetched": "2026-04-08T12:45:22.808926+07:00"
+    },
+    {
+      "id": "006609ab8fdd6a2f7faec4e569e94e30",
+      "title": "Ôtô Trung Quốc lần đầu bán nhiều nhất tháng tại Anh",
+      "link": "https://vnexpress.net/oto-trung-quoc-lan-dau-ban-nhieu-nhat-thang-tai-anh-5059914.html",
+      "summary": "Jaecoo J7 bàn giao nhiều xe hơn Ford, Nissan, Kia, vươn lên vị trí dẫn đầu doanh số trong tháng 3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-08T04:40:09+07:00",
+      "fetched": "2026-04-08T12:45:10.355367+07:00"
+    },
+    {
+      "id": "cd21ab63d541826170a29324acd2f910",
+      "title": "Người gốc Việt tử vong trong trại giam của ICE",
+      "link": "https://vnexpress.net/nguoi-goc-viet-tu-vong-trong-trai-giam-cua-ice-5059843.html",
+      "summary": "Tuan Van Bui, người gốc Việt có hàng chục tiền án, tử vong trong trại giam của ICE ở bang Indiana, nguyên nhân chưa được làm rõ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-08T04:37:44+07:00",
+      "fetched": "2026-04-08T12:45:16.604947+07:00"
+    },
+    {
+      "id": "73a59e9bc45b7cdfd7cec845ad5aa444",
+      "title": "Chủ casino Phú Quốc lỗ nặng nhất 6 năm",
+      "link": "https://vnexpress.net/chu-casino-phu-quoc-lo-nang-nhat-6-nam-5059826.html",
+      "summary": "Năm 2025, chủ chuỗi casino Corona và nghỉ dưỡng Vinpearl Resort, Discovery, VinOasis, Safari Phú Quốc lỗ 918 tỷ đồng, mức nặng nhất trong 6 năm qua.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-08T04:25:59+07:00",
+      "fetched": "2026-04-08T12:45:18.313648+07:00"
+    },
+    {
+      "id": "e0079e83e031f32f1b4065eb27ab72b7",
+      "title": "Người Iran đổ ra đường sau lệnh ngừng bắn",
+      "link": "https://vnexpress.net/nguoi-iran-do-ra-duong-sau-lenh-ngung-ban-5059871.html",
+      "summary": "Người dân Iran tập trung trên đường phố Tehran, vẫy cờ và hô khẩu hiệu sau khi lệnh ngừng bắn hai tuần với Mỹ được công bố.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-08T04:10:28+07:00",
+      "fetched": "2026-04-08T12:45:16.605108+07:00"
+    },
+    {
+      "id": "407a449fc944fd69b8a3abf940a4df68",
+      "title": "Hà Nội dự kiến đấu giá 306 khu đất năm nay",
+      "link": "https://vnexpress.net/ha-noi-du-kien-dau-gia-306-khu-dat-nam-nay-5059920.html",
+      "summary": "Năm 2026, TP Hà Nội dự kiến đấu giá 306 dự án, khu đất với quy mô gần 729 ha, không gồm diện tích xây dựng hạ tầng kỹ thuật.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-08T04:06:23+07:00",
+      "fetched": "2026-04-08T12:45:18.312359+07:00"
+    },
+    {
+      "id": "b5aa158992263d0b1dd5c5a6444c125b",
+      "title": "Kompany: 'Cặp đấu giữa Bayern và Real chưa kết thúc'",
+      "link": "https://vnexpress.net/kompany-cap-dau-giua-bayern-va-real-chua-ket-thuc-5059890.html",
+      "summary": "Dù thắng Real Madrid ở lượt đi tứ kết Champions League, HLV Vincent Kompany không yên tâm, kêu gọi các cầu thủ Bayern Munich đừng vội ăn mừng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-08T03:59:32+07:00",
+      "fetched": "2026-04-08T12:45:22.809727+07:00"
+    },
+    {
+      "id": "272ecb3dd5d7e812b811637b8420f1d8",
+      "title": "Chủ tịch Quốc hội Trần Thanh Mẫn sắp công tác tại Thổ Nhĩ Kỳ, Italy",
+      "link": "https://vnexpress.net/chu-tich-quoc-hoi-tran-thanh-man-sap-cong-tac-tai-tho-nhi-ky-italy-5059877.html",
+      "summary": "Chủ tịch Quốc hội Trần Thanh Mẫn sẽ dự Đại hội đồng lần thứ 152 của Liên minh Nghị viện thế giới, có các hoạt động song phương tại Thổ Nhĩ Kỳ và thăm Italy.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-08T03:53:17+07:00",
+      "fetched": "2026-04-08T12:45:16.605295+07:00"
+    },
+    {
+      "id": "0a91b896df31419a66ef83554ae4e66a",
+      "title": "Raya được ca ngợi là thủ môn hay nhất thế giới",
+      "link": "https://vnexpress.net/raya-duoc-ca-ngoi-la-thu-mon-hay-nhat-the-gioi-5059863.html",
+      "summary": "Tiền đạo Kai Havertz tán dương đồng đội David Raya - thủ thành có nhiều pha cản phá quan trọng khi Arsenal thắng Sporting 1-0 ở lượt đi tứ kết Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-08T03:47:24+07:00",
+      "fetched": "2026-04-08T12:45:22.809912+07:00"
+    },
+    {
+      "id": "b2a5ebb099e1367d70cea50c677661d6",
+      "title": "Israel thừa nhận đánh trúng giáo đường Do Thái ở Tehran",
+      "link": "https://vnexpress.net/israel-thua-nhan-danh-trung-giao-duong-do-thai-o-tehran-5059784.html",
+      "summary": "Quân đội Israel thừa nhận đã đánh trúng giáo đường Do Thái tại Tehran trong trận tập kích nhằm vào một chỉ huy cấp cao của Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-08T03:43:24+07:00",
+      "fetched": "2026-04-08T12:45:16.605458+07:00"
+    },
+    {
+      "id": "2eadc3f8abbc80a55c32840826b0b714",
+      "title": "Nhà Trắng: Lệnh ngừng bắn với Iran là chiến thắng",
+      "link": "https://vnexpress.net/nha-trang-lenh-ngung-ban-voi-iran-la-chien-thang-5059847.html",
+      "summary": "Nhà Trắng gọi thỏa thuận ngừng bắn hai tuần giữa Mỹ và Iran là chiến thắng của Washington vì các mục tiêu quân sự cốt lõi đã hoàn thành.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-08T03:32:11+07:00",
+      "fetched": "2026-04-08T12:45:16.605615+07:00"
+    },
+    {
+      "id": "8dd99f72e76cda0da6813ce023be5199",
+      "title": "Ronaldo nguy cơ bị trừ 6 bàn thắng",
+      "link": "https://vnexpress.net/ronaldo-nguy-co-bi-tru-6-ban-thang-5059798.html",
+      "summary": "Cristiano Ronaldo có thể bị trừ 6 bàn thắng tại giải đấu chưa được FIFA công nhận.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-08T03:30:47+07:00",
+      "fetched": "2026-04-08T12:45:22.810067+07:00"
+    },
+    {
+      "id": "15ec81c48efa151575f2c9b449b44742",
+      "title": "Bộ trưởng Lục quân Mỹ 'xung đột với ông Hegseth'",
+      "link": "https://vnexpress.net/bo-truong-luc-quan-my-xung-dot-voi-ong-hegseth-5059802.html",
+      "summary": "Bộ trưởng Lục quân Mỹ dường như bất đồng với Bộ trưởng Quốc phòng Hegseth về nhiều vấn đề, trong đó có thăng chức cho các tướng lĩnh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-08T03:27:56+07:00",
+      "fetched": "2026-04-08T12:45:16.605790+07:00"
+    },
+    {
+      "id": "8425eec3c6e0668ada1161209ff39993",
+      "title": "Hãng xe được miễn tái chế pin điện tới 2029",
+      "link": "https://vnexpress.net/hang-xe-duoc-mien-tai-che-pin-dien-toi-2029-5059766.html",
+      "summary": "Tỷ lệ tái chế bắt buộc với pin xe điện, hybrid được giảm về 0% và duy trì tới 2029, theo nghị định mới của Chính phủ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-08T03:14:39+07:00",
+      "fetched": "2026-04-08T12:45:18.313826+07:00"
+    },
+    {
+      "id": "80c234d2377a6299c7eead1a5109ee8a",
+      "title": "Giá vàng tăng hơn 4 triệu đồng một lượng",
+      "link": "https://vnexpress.net/gia-vang-hom-nay-8-4-2026-5059860.html",
+      "summary": "Mỗi lượng vàng sáng nay tăng 4,5 triệu đồng lên 177 triệu, mức cao nhất hai tuần qua.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-08T03:06:37+07:00",
+      "fetched": "2026-04-08T12:45:18.312530+07:00"
+    },
+    {
+      "id": "ad185e443c2076c559b1c885da71f38b",
+      "title": "Vợ lính Mỹ bị giam gần một tuần trong cơ sở của ICE",
+      "link": "https://vnexpress.net/vo-linh-my-bi-giam-gan-mot-tuan-trong-co-so-cua-ice-5059829.html",
+      "summary": "Vợ một binh sĩ Mỹ bị đặc vụ ICE bắt tại căn cứ quân sự ở bang Louisiana và giam gần một tuần tại cơ sở cách đó hơn 100 km, do không có tình trạng cư trú hợp pháp.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-08T03:06:20+07:00",
+      "fetched": "2026-04-08T12:45:16.605950+07:00"
+    },
+    {
+      "id": "6ecd69d37233b264663acd8a7e505310",
+      "title": "Tại sao sau 54 năm Mỹ mới quay lại Mặt Trăng?",
+      "link": "https://vnexpress.net/tai-sao-sau-54-nam-my-moi-quay-lai-mat-trang-5059699.html",
+      "summary": "Nhiệm vụ Artemis II đánh dấu sự trở lại Mặt Trăng của Mỹ, sau nhiều thập kỷ gián đoạn bởi nhiều nguyên nhân, trong đó công nghệ chỉ là một yếu tố.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-08T03:00:00+07:00",
+      "fetched": "2026-04-08T12:45:21.131012+07:00"
+    },
+    {
+      "id": "963c4bdab09a0c2026f5b38dc53854e0",
+      "title": "Triều Tiên liên tiếp phóng tên lửa đạn đạo",
+      "link": "https://vnexpress.net/trieu-tien-lien-tiep-phong-ten-lua-dan-dao-5059799.html",
+      "summary": "Triều Tiên khai hỏa loạt tên lửa ra vùng biển phía đông, đánh dấu vụ phóng thứ hai trong hai ngày liên tiếp.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-08T02:55:01+07:00",
+      "fetched": "2026-04-08T12:45:16.606102+07:00"
+    },
+    {
+      "id": "8cdf1ba2a2234b408e9a33d0506d23a2",
+      "title": "LPBank sẽ trả cổ tức 30% bằng tiền",
+      "link": "https://vnexpress.net/lpbank-se-tra-co-tuc-30-bang-tien-5059761.html",
+      "summary": "Ngân hàng Lộc Phát Việt Nam (LPBank) dự kiến trả cổ tức năm 2025 tỷ lệ 30% bằng tiền.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-08T02:39:12+07:00",
+      "fetched": "2026-04-08T12:45:18.313980+07:00"
+    },
+    {
+      "id": "673df457834e66ed153ada0fd9d9bc7d",
+      "title": "Casino Royal Quảng Ninh thoát lỗ sau 6 năm",
+      "link": "https://vnexpress.net/casino-royal-quang-ninh-thoat-lo-sau-6-nam-5059806.html",
+      "summary": "Đẩy mạnh tiếp thị, ưu đãi và hoa hồng cho hướng dẫn viên giúp doanh thu RIC - chủ quản casino Royal Hạ Long - thoát lỗ sau 6 năm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-08T02:35:48+07:00",
+      "fetched": "2026-04-08T12:45:18.312690+07:00"
+    },
+    {
+      "id": "3c400bc0d1396cc1f403eea5e1cb6d1a",
+      "title": "'Vua nước rút' phải rời giải xe đạp xuyên Việt",
+      "link": "https://vnexpress.net/vua-nuoc-rut-phai-roi-giai-xe-dap-xuyen-viet-5059838.html",
+      "summary": "Chấn thương do va chạm vào bảng quảng cáo ở chặng 5 khiến cua-rơ Nguyễn Văn Bình (TP HCM) phải chia tay cuộc đua xe đạp xuyên Việt 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-08T02:21:21+07:00",
+      "fetched": "2026-04-08T12:45:22.810223+07:00"
     },
     {
       "id": "51e887889394e0100097a149cf703126",
@@ -351,6 +1041,16 @@ window.newsData_2026_04_08 = {
       "category": "Tổng hợp",
       "published": "2026-04-08T01:59:46.459314+07:00",
       "fetched": "2026-04-08T01:59:46.459553+07:00"
+    },
+    {
+      "id": "598140266cd302c481e9474de22191e7",
+      "title": "Sindarov tiến gần chung kết cờ vua thế giới 2026",
+      "link": "https://vnexpress.net/sindarov-tien-gan-chung-ket-co-vua-the-gioi-2026-5059830.html",
+      "summary": "Javokhir Sindarov nâng cách biệt với vị trí thứ hai lên hai điểm, sau khi Fabiano Caruana thất bại trước Hikaru Nakamura ở vòng 8 Candidates 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-08T01:54:21+07:00",
+      "fetched": "2026-04-08T12:45:22.809102+07:00"
     },
     {
       "id": "31ffa61d1d36b22008c7c836f62683c2",
@@ -711,6 +1411,16 @@ window.newsData_2026_04_08 = {
       "category": "Thế giới",
       "published": "2026-04-07T22:57:14+07:00",
       "fetched": "2026-04-08T09:07:43.277753+07:00"
+    },
+    {
+      "id": "9c8cf72c4054bc12a2f0c1000df35d2e",
+      "title": "Mỹ - Iran đạt thỏa thuận về ngừng bắn, mở cửa eo biển Hormuz trong hai tuần",
+      "link": "https://vnexpress.net/my-iran-dat-thoa-thuan-ve-ngung-ban-mo-cua-eo-bien-hormuz-trong-hai-tuan-5059771.html",
+      "summary": "Mỹ và Iran đồng ý ngừng bắn trong hai tuần, Tehran sẽ cho phép tàu thuyền đi qua eo biển Hormuz trong thời gian này \"với sự điều phối từ lực lượng vũ trang\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-07T22:57:14+07:00",
+      "fetched": "2026-04-08T12:45:16.606261+07:00"
     },
     {
       "id": "601cad3fcd63a59d47d72c0c3c38086a",
