@@ -1,7 +1,27 @@
 window.newsData_2026_04_09 = {
   "date": "2026-04-09",
-  "lastUpdated": "2026-04-09T02:12:19.627428+07:00",
+  "lastUpdated": "2026-04-09T03:39:08.170711+07:00",
   "articles": [
+    {
+      "id": "0372565fb9d3e5f09114d3f246213754",
+      "title": "Thời tiết hôm nay 9-4: Nắng nóng gay gắt, tia bức xạ gây cảm giác bỏng rát",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-9-4-nang-nong-gay-gat-tia-buc-xa-gay-cam-giac-bong-rat-20260408165356849.htm",
+      "summary": "Hôm nay 9-4, thời tiết cả nước nắng nóng gay gắt, trời không mây, tia bức xạ ảnh hưởng trực tiếp xuống mặt đất khiến cảm giác càng thêm bỏng rát.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-09T03:39:01.712249+07:00",
+      "fetched": "2026-04-09T03:39:01.712368+07:00"
+    },
+    {
+      "id": "bf6aeab36d50865fdda2f6597c253d90",
+      "title": "Bí thư Thành ủy Trần Lưu Quang làm Trưởng Đoàn đại biểu Quốc hội TP.HCM",
+      "link": "https://tuoitre.vn/bi-thu-thanh-uy-tran-luu-quang-lam-truong-doan-dai-bieu-quoc-hoi-tp-hcm-20260408232303398.htm",
+      "summary": "Ủy ban Thường vụ Quốc hội phê chuẩn kết quả bầu ông Trần Lưu Quang - Ủy viên Bộ Chính trị, Bí thư Thành ủy TP.HCM - giữ chức Trưởng Đoàn đại biểu Quốc hội khóa XVI TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-09T03:39:01.711976+07:00",
+      "fetched": "2026-04-09T03:39:01.712219+07:00"
+    },
     {
       "id": "250e59bb1126ff8182da452bba478ca9",
       "title": "Triển lãm quốc phòng quốc tế 2026: Diện tích trưng bày khoảng 24.000m2",
