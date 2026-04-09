@@ -1,7 +1,77 @@
 window.newsData_2026_04_10 = {
   "date": "2026-04-10",
-  "lastUpdated": "2026-04-10T00:04:28.367915+07:00",
+  "lastUpdated": "2026-04-10T02:01:32.206812+07:00",
   "articles": [
+    {
+      "id": "20246faa4773e0dea29fdf60a168fce0",
+      "title": "Tổng thống lâm thời Venezuela, Thủ tướng Nga chúc mừng lãnh đạo chủ chốt Việt Nam",
+      "link": "https://tuoitre.vn/tong-thong-lam-thoi-venezuela-thu-tuong-nga-chuc-mung-lanh-dao-chu-chot-viet-nam-20260409221849102.htm",
+      "summary": "Lãnh đạo các nước, chính đảng Nga, Brunei, Nhật Bản, Venezuela, Nam Phi, Kazakhstan, Angola, Thụy Điển, Thụy Sĩ... đã gửi điện, thư và thông điệp chúc mừng lãnh đạo chủ chốt Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T02:01:22.872754+07:00",
+      "fetched": "2026-04-10T02:01:22.872869+07:00"
+    },
+    {
+      "id": "e5cb700db4b3b20768ebd422d9a8f89c",
+      "title": "Jun Phạm bất ngờ gỡ MV Truth or dare? trong đêm",
+      "link": "https://tuoitre.vn/jun-pham-bat-ngo-go-mv-truth-or-dare-trong-dem-20260409222708599.htm",
+      "summary": "Ê kíp của Jun Phạm quyết định ngừng phát hành MV Truth or dare? từ tối 9-4, sẵn sàng phối hợp, liên hệ làm việc với Sở Văn hóa và Thể thao TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T02:01:22.872619+07:00",
+      "fetched": "2026-04-10T02:01:22.872742+07:00"
+    },
+    {
+      "id": "a13c8a510b1a6c140a591bda2698da36",
+      "title": "Bắt hai vợ chồng dụ dỗ thiếu nữ sang Trung Quốc lấy chồng",
+      "link": "https://tuoitre.vn/bat-hai-vo-chong-du-do-thieu-nu-sang-trung-quoc-lay-chong-20260409210536368.htm",
+      "summary": "Bộ đội biên phòng tỉnh Lào Cai phá thành công chuyên án, bắt giữ hai vợ chồng lên mạng xã hội dụ dỗ, lừa bán người sang Trung Quốc với thủ đoạn lấy chồng Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T02:01:22.872468+07:00",
+      "fetched": "2026-04-10T02:01:22.872605+07:00"
+    },
+    {
+      "id": "4dafab1f8e81e4e11c1ea2b3f1f8586a",
+      "title": "Chính phủ: Các bộ ngành, địa phương tiếp tục sắp xếp bên trong để tinh gọn, mạnh",
+      "link": "https://tuoitre.vn/chinh-phu-cac-bo-nganh-dia-phuong-tiep-tuc-sap-xep-ben-trong-de-tinh-gon-manh-20260409211530043.htm",
+      "summary": "Chính phủ vừa có Nghị quyết số 105 ban hành chương trình hành động thực hiện Kết luận số 210 của Ban Chấp hành Trung ương về tiếp tục xây dựng, hoàn thiện tổ chức bộ máy của hệ thống chính trị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T02:01:22.872338+07:00",
+      "fetched": "2026-04-10T02:01:22.872456+07:00"
+    },
+    {
+      "id": "61cf5f874a92e4159e05e7a378f85a67",
+      "title": "IMF ước tính cần hỗ trợ đến 50 tỉ USD do ảnh hưởng chiến sự Trung Đông",
+      "link": "https://tuoitre.vn/imf-uoc-tinh-can-ho-tro-den-50-ti-usd-do-anh-huong-chien-su-trung-dong-20260409230130034.htm",
+      "summary": "IMF nói dự kiến cần hỗ trợ đến 50 tỉ USD cho các nước bị ảnh hưởng bởi chiến sự Trung Đông, đồng thời giảm dự báo tăng trưởng toàn cầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T02:01:22.872205+07:00",
+      "fetched": "2026-04-10T02:01:22.872326+07:00"
+    },
+    {
+      "id": "ec499881976d9e219c171ee5b856c766",
+      "title": "Giá vàng thế giới bất ngờ bật tăng",
+      "link": "https://tuoitre.vn/gia-vang-the-gioi-bat-ngo-bat-tang-202604092328532.htm",
+      "summary": "23h hôm nay, 9-4, giá vàng thế giới bất ngờ tăng đến 76,7 USD/ounce và tiến sát ngưỡng 4.800 USD/ounce.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T02:01:22.872065+07:00",
+      "fetched": "2026-04-10T02:01:22.872192+07:00"
+    },
+    {
+      "id": "505771dcf24c147b750d981289b324da",
+      "title": "Anh tuyên bố phát hiện, chặn tàu ngầm Nga thăm dò ở Bắc Đại Tây Dương",
+      "link": "https://tuoitre.vn/anh-tuyen-bo-phat-hien-tau-ngam-nga-tham-do-o-bac-dai-tay-duong-20260409233119903.htm",
+      "summary": "Bộ trưởng Quốc phòng Anh nói tàu chiến và máy bay của London đã theo dõi và chặn các tàu ngầm Nga đang khảo sát cơ sở hạ tầng dưới biển quan trọng ở Bắc Đại Tây Dương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T02:01:22.871825+07:00",
+      "fetched": "2026-04-10T02:01:22.872050+07:00"
+    },
     {
       "id": "c643af903e4eee45f8c911d51463d26c",
       "title": "Một phường ở TP.HCM đặt mục tiêu trở thành phường không ma túy vào năm 2028",
@@ -153,6 +223,86 @@ window.newsData_2026_04_10 = {
       "fetched": "2026-04-10T00:04:21.605486+07:00"
     },
     {
+      "id": "f850c29ae3e8a71fdc26a7e8820ce0cf",
+      "title": "5 loại đồ uống giúp an thần, ngủ ngon",
+      "link": "https://vnexpress.net/5-loai-do-uong-giup-an-than-ngu-ngon-5060113.html",
+      "summary": "Uống trà hoa cúc, sữa ấm hoặc trà bạc hà có thể hỗ trợ cải thiện chất lượng giấc ngủ nhờ giúp thư giãn, giảm căng thẳng và lo âu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-09T18:02:00+07:00",
+      "fetched": "2026-04-10T02:01:18.505085+07:00"
+    },
+    {
+      "id": "8b05a28b186967173b300c85a6c04d6e",
+      "title": "Viêm màng bồ đào",
+      "link": "https://vnexpress.net/suc-khoe/cam-nang/viem-mang-bo-dao-416",
+      "summary": "Viêm màng bồ đào là tình trạng sưng viêm ở lớp giữa của mắt, gây đỏ mắt, đau nhức, nhìn mờ, sợ ánh sáng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-09T18:02:00+07:00",
+      "fetched": "2026-04-10T02:01:18.505259+07:00"
+    },
+    {
+      "id": "9dfc68cc2f42c406fcf0af01a5607b85",
+      "title": "Mỹ lập sân bay dã chiến ở Iran để cứu phi công thế nào",
+      "link": "https://vnexpress.net/my-lap-san-bay-da-chien-o-iran-de-cuu-phi-cong-the-nao-5060055.html",
+      "summary": "Lực lượng Mỹ dường như đã biến đường băng ít sử dụng trong lãnh thổ Iran thành căn cứ dã chiến phục vụ nỗ lực cứu phi công F-15E.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-09T18:00:00+07:00",
+      "fetched": "2026-04-10T02:01:18.505420+07:00"
+    },
+    {
+      "id": "9dfc68cc2f42c406fcf0af01a5607b85",
+      "title": "Mỹ lập sân bay dã chiến ở Iran để cứu phi công thế nào",
+      "link": "https://vnexpress.net/my-lap-san-bay-da-chien-o-iran-de-cuu-phi-cong-the-nao-5060055.html",
+      "summary": "Lực lượng Mỹ dường như đã biến đường băng ít sử dụng trong lãnh thổ Iran thành căn cứ dã chiến phục vụ nỗ lực cứu phi công F-15E.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-09T18:00:00+07:00",
+      "fetched": "2026-04-10T02:01:24.906036+07:00"
+    },
+    {
+      "id": "2ab126b04d6eadedba85f1cf8842396c",
+      "title": "Hành trình xây dựng đế chế tỷ USD của doanh nhân 'vợ Đường Tăng'",
+      "link": "https://vnexpress.net/hanh-trinh-xay-dung-de-che-ty-usd-cua-doanh-nhan-vo-duong-tang-5060406.html",
+      "summary": "Bà Trần Lệ Hoa đi lên từ nghèo khó, để lại khối tài sản tỷ USD cùng di sản văn hóa về nghệ thuật gỗ tử đàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-09T17:28:54+07:00",
+      "fetched": "2026-04-10T02:01:18.505578+07:00"
+    },
+    {
+      "id": "833974a00a61ae54e7d5e3a24c6a3533",
+      "title": "9 'nguyên tắc vàng' trong ăn uống giúp trái tim khỏe mạnh",
+      "link": "https://thanhnien.vn/9-nguyen-tac-vang-trong-an-uong-giup-trai-tim-khoe-manh-185260409170032757.htm",
+      "summary": "Chế độ ăn ảnh hưởng trực tiếp đến sức khỏe tim mạch. Theo Hiệp hội Tim mạch Mỹ, 9 'nguyên tắc vàng' trong ăn uống sau đây có thể giúp bảo vệ tim và giảm nguy cơ bệnh lâu dài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-09T17:15:00+07:00",
+      "fetched": "2026-04-10T02:01:21.862014+07:00"
+    },
+    {
+      "id": "0205b1c2efcf03dde895d0a2ee6998f7",
+      "title": "Món canh quen thuộc không ngờ là 'bài thuốc' trị huyết áp cao cực hay",
+      "link": "https://thanhnien.vn/mon-canh-quen-thuoc-khong-ngo-la-bai-thuoc-tri-huyet-ap-cao-cuc-hay-185260409202312206.htm",
+      "summary": "Huyết áp cao gây hậu quả nghiêm trọng như đột quỵ, suy tim và tổn thương thận. Tuy nhiên, chúng ta có thể kiểm soát bằng cách tập thể dục, giảm căng thẳng và duy trì cân nặng ổn định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-09T17:12:00+07:00",
+      "fetched": "2026-04-10T02:01:21.862182+07:00"
+    },
+    {
+      "id": "8dbc1f75d9c1c09a571c0fb526923411",
+      "title": "Phát hiện tiền tiểu đường: Làm ngay 4 điều này",
+      "link": "https://thanhnien.vn/phat-hien-tien-tieu-duong-lam-ngay-4-dieu-nay-185260409135616229.htm",
+      "summary": "Tiền tiểu đường là giai đoạn 'chuyển tiếp' giữa mức đường huyết bình thường và bệnh tiểu đường. Ở giai đoạn này, đường huyết đã tăng cao hơn bình thường nhưng chưa đạt ngưỡng chẩn đoán tiểu đường loại 2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-09T17:09:00+07:00",
+      "fetched": "2026-04-10T02:01:21.862341+07:00"
+    },
+    {
       "id": "4051fa60e01d40f8814b394dacb87784",
       "title": "Tình hình Iran, Trung Đông mới nhất ngày 10.4",
       "link": "https://thanhnien.vn/tinh-hinh-iran-trung-dong-moi-nhat-ngay-104-185260409212018554.htm",
@@ -161,6 +311,46 @@ window.newsData_2026_04_10 = {
       "category": "Tổng hợp",
       "published": "2026-04-09T17:04:00+07:00",
       "fetched": "2026-04-10T00:04:20.687933+07:00"
+    },
+    {
+      "id": "cf155a92898acb5e7567edf25eb927d4",
+      "title": "Quan hệ 3-4 lần mỗi đêm có gây yếu sinh lý về sau?",
+      "link": "https://vnexpress.net/quan-he-3-4-lan-moi-dem-co-gay-yeu-sinh-ly-ve-sau-5059170.html",
+      "summary": "Tôi 26 tuổi, vừa lấy vợ hơn một tháng, có đêm quan hệ đến 3-4 lần, nhờ bác sĩ tư vấn tần suất liên tục như vậy có bất thường và ảnh hưởng đến sinh lý, khả năng sinh sản về sau? (Huy, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-09T17:03:00+07:00",
+      "fetched": "2026-04-10T02:01:18.505762+07:00"
+    },
+    {
+      "id": "c480e8c8afa5aba993032ea9bc149bb1",
+      "title": "4 con giáp 'ngồi rung đùi' cũng có tiền rơi vào túi",
+      "link": "https://vnexpress.net/van-may-12-con-giap-con-giap-may-man-hom-nay-4-con-giap-ngoi-rung-dui-cung-co-tien-roi-vao-tui-5060383.html",
+      "summary": "Trong dòng chảy không ngừng của vận mệnh, có những giai đoạn mà tài lộc đến một cách bất ngờ, nhẹ nhàng như \"gió thoảng mây bay\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-09T17:02:00+07:00",
+      "fetched": "2026-04-10T02:01:18.505929+07:00"
+    },
+    {
+      "id": "af2ef76d66541d8a0e442e589e843327",
+      "title": "Hiện trạng đôi bờ sông Hương sau 5 năm quy hoạch",
+      "link": "https://vnexpress.net/hien-trang-doi-bo-song-huong-sau-5-nam-quy-hoach-5056584.html",
+      "summary": "Sau 5 năm ban hành quy hoạch chi tiết hai bờ sông Hương từ đồi Vọng Cảnh về phố cổ Bao Vinh, đoạn sông đã đẹp hơn, có nhiều không gian đi bộ ngắm cảnh dành cho du khách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-09T17:01:22+07:00",
+      "fetched": "2026-04-10T02:01:18.506083+07:00"
+    },
+    {
+      "id": "d290808c72e2b794449045546b3546a5",
+      "title": "Điều gì xảy ra khi uống nước trái cây giảm cân?",
+      "link": "https://vnexpress.net/dieu-gi-xay-ra-khi-uong-nuoc-trai-cay-giam-can-5059618.html",
+      "summary": "Uống nước ép giúp bổ sung vi chất nhưng không phải cách giảm cân bền vững do thiếu chất xơ, protein và ảnh hưởng chuyển hóa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-09T17:01:00+07:00",
+      "fetched": "2026-04-10T02:01:18.506239+07:00"
     },
     {
       "id": "c8dde4b8074fbc35ff6bd39e9e54c887",
@@ -181,6 +371,106 @@ window.newsData_2026_04_10 = {
       "category": "Tổng hợp",
       "published": "2026-04-09T17:00:00+07:00",
       "fetched": "2026-04-10T00:04:20.688262+07:00"
+    },
+    {
+      "id": "3fabe13258a3165e848cff57aac38f6c",
+      "title": "Thi hành xong hơn 6.500 tỷ đồng trong các vụ án tham nhũng",
+      "link": "https://vnexpress.net/thi-hanh-xong-hon-6-500-ty-dong-trong-cac-vu-an-tham-nhung-5060619.html",
+      "summary": "Trong 6 tháng, ngành thi hành án dân sự đã thi hành xong hơn 2.000 việc, đạt hơn 6.500 tỷ đồng liên quan tài sản bị chiếm đoạt, thất thoát trong các vụ án hình sự về tham nhũng, kinh tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-09T17:00:00+07:00",
+      "fetched": "2026-04-10T02:01:18.506395+07:00"
+    },
+    {
+      "id": "b2ec6ed1719e0454220d91ec08e42c26",
+      "title": "Tranh cãi du khách nhảy múa tại điểm ngắm hoa anh đào ở Nhật",
+      "link": "https://vnexpress.net/tranh-cai-du-khach-nhay-mua-tai-diem-ngam-hoa-anh-dao-o-nhat-5060615.html",
+      "summary": "Sự khác biệt về quy tắc ứng xử của khách du lịch đang gây áp lực lên mùa hoa anh đào Nhật Bản, làm nảy sinh những tranh luận gay gắt về tình trạng quá tải du lịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-09T17:00:00+07:00",
+      "fetched": "2026-04-10T02:01:18.506554+07:00"
+    },
+    {
+      "id": "c9351f7ef72b61b1b66dd72ac6b8a2c6",
+      "title": "Có phải vì hơn tôi 4 tuổi nên vợ không hào hứng chuyện chăn gối",
+      "link": "https://vnexpress.net/co-phai-vi-hon-toi-4-tuoi-nen-vo-khong-hao-hung-chuyen-chan-goi-5060560.html",
+      "summary": "Mỗi lần gần gũi tôi, vợ không cảm xúc, như kiểu làm cho xong việc; mỗi tháng vợ chồng gần gũi chỉ 4-5 lần, có tháng đôi ba lần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-09T17:00:00+07:00",
+      "fetched": "2026-04-10T02:01:18.506732+07:00"
+    },
+    {
+      "id": "7f022c56957facd5cea5925eacbddf66",
+      "title": "Tôi bị âm 9 triệu mỗi tháng sau khi nghỉ hưu sớm ở tuổi 38",
+      "link": "https://vnexpress.net/tu-do-tai-chinh-fire-toi-am-9-trieu-moi-thang-sau-khi-nghi-huu-som-o-tuoi-38-5060476.html",
+      "summary": "Mỗi tháng tôi có thu nhập 16 triệu mà không cần làm gì, nhưng chi tiêu cho cả gia đình hết 25 triệu, phải trích quỹ dự phòng bù vào.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-09T17:00:00+07:00",
+      "fetched": "2026-04-10T02:01:18.506883+07:00"
+    },
+    {
+      "id": "f09153917ae6701885762354d4d721d4",
+      "title": "Hàng xóm cũ cho trổ cửa sổ, hàng xóm mới bắt bịt, tôi phải làm sao?",
+      "link": "https://vnexpress.net/hang-xom-cu-cho-tro-cua-so-hang-xom-moi-bat-bit-toi-phai-lam-sao-5060154.html",
+      "summary": "Tôi và hàng xóm cũ thân thiết nên họ cho tôi mở cửa sổ sang đất bên đó cho thoáng, nhưng khu đất vừa bán đất cho người khác, và hàng xóm mới lại bắt tôi bịt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-09T17:00:00+07:00",
+      "fetched": "2026-04-10T02:01:18.507042+07:00"
+    },
+    {
+      "id": "84c80520ad8ed59f03cc569859714df6",
+      "title": "Bảo Trúc: 'Tôi vẫn tin vào hôn nhân sau hai lần đổ vỡ'",
+      "link": "https://vnexpress.net/bao-truc-toi-van-tin-vao-hon-nhan-sau-hai-lan-do-vo-5060038.html",
+      "summary": "Diễn viên Bảo Trúc nói không mang tâm lý \"chim sợ cành cong\" sau hai lần đổ vỡ tình cảm, tìm thấy điểm tựa vững chắc bên chồng sắp cưới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-09T17:00:00+07:00",
+      "fetched": "2026-04-10T02:01:18.507199+07:00"
+    },
+    {
+      "id": "214b2e4f94429b08c125535f2af3fb2d",
+      "title": "Bộ Nông nghiệp và Môi trường: Bắc Hưng Hải sẽ thay đổi từ năm 2030",
+      "link": "https://vnexpress.net/bo-nong-nghiep-va-moi-truong-bac-hung-hai-se-thay-doi-tu-nam-2030-5048787.html",
+      "summary": "Đến năm 2030, khi các hạng mục chính đưa vào vận hành, Bắc Hưng Hải sẽ cải thiện rõ rệt về chất lượng nước và cảnh quan, theo Bộ Nông nghiệp và Môi trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-09T17:00:00+07:00",
+      "fetched": "2026-04-10T02:01:18.507355+07:00"
+    },
+    {
+      "id": "ecd92233e24270701fead5a5a651d30f",
+      "title": "Maguire: 'Đừng gắn tôi với câu chuyện hồi sinh ở Man Utd'",
+      "link": "https://vnexpress.net/maguire-dung-gan-toi-voi-cau-chuyen-hoi-sinh-o-man-utd-5060629.html",
+      "summary": "Trung vệ Harry Maguire tự nhận xét bản thân chơi tốt một cách ổn định ở 6 trong 7 mùa khoác áo Man Utd.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-09T17:00:00+07:00",
+      "fetched": "2026-04-10T02:01:32.201434+07:00"
+    },
+    {
+      "id": "348ab94cbfed22965666db2075e160e8",
+      "title": "Áo đấu ứng dụng AI cho World Cup gặp trục trặc",
+      "link": "https://vnexpress.net/ao-dau-ung-dung-ai-cho-world-cup-gap-truc-trac-5060609.html",
+      "summary": "Bộ sưu tập áo đấu công nghệ cao cho World Cup 2026 của Nike nhận nhiều lời khen khi ra mắt, nhưng nhanh chóng gây tranh cãi vì lỗi phồng ở đường may vai, buộc nhãn hàng Mỹ phải lên tiếng và tìm cách khắc phục.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-09T17:00:00+07:00",
+      "fetched": "2026-04-10T02:01:32.201632+07:00"
+    },
+    {
+      "id": "39dc78bf2f29c5d436bc13843bec7b32",
+      "title": "Runner bị bóc mẽ xăm thành tích marathon nhanh hơn thực tế",
+      "link": "https://vnexpress.net/runner-bi-boc-me-xam-thanh-tich-marathon-nhanh-hon-thuc-te-5060603.html",
+      "summary": "Sau mỗi cuộc đua marathon, đội ngũ bắt lỗi trực tuyến - được gọi là \"cảnh sát Strava\" đối chiếu dữ liệu và vạch trần trào lưu xăm thành tích \"ảo\" của nhiều runner.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-09T17:00:00+07:00",
+      "fetched": "2026-04-10T02:01:32.201802+07:00"
     },
     {
       "id": "f4857a4f0e36f85f3ee28b03860e46c0",
