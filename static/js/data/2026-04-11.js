@@ -1,6 +1,6 @@
 window.newsData_2026_04_11 = {
   "date": "2026-04-11",
-  "lastUpdated": "2026-04-11T01:47:48.488714+07:00",
+  "lastUpdated": "2026-04-11T03:33:17.604007+07:00",
   "articles": [
     {
       "id": "7de4080f9bea46398c00daea548d3e98",
@@ -151,6 +151,36 @@ window.newsData_2026_04_11 = {
       "category": "Tổng hợp",
       "published": "2026-04-11T01:47:41.616883+07:00",
       "fetched": "2026-04-11T01:47:41.617087+07:00"
+    },
+    {
+      "id": "c5a97f34d7da0de55c8a56a5f42f63ba",
+      "title": "4 cách loại bỏ mỡ nội tạng không cần nhịn ăn",
+      "link": "https://vnexpress.net/4-cach-loai-bo-mo-noi-tang-khong-can-nhin-an-5060440.html",
+      "summary": "Mỡ nội tạng nguy hiểm hơn mỡ dưới da, nhưng có thể giảm hiệu quả bằng cách bổ sung polyphenol, chất xơ hòa tan, tinh bột kháng và tăng tỷ lệ protein.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T20:04:00+07:00",
+      "fetched": "2026-04-11T03:33:06.453196+07:00"
+    },
+    {
+      "id": "6aa9a5433d9711a250a37e0b4debcc0c",
+      "title": "Lịch thi đấu V-League hấp dẫn hôm nay: Bước ngoặt trụ hạng đã đến với HAGL",
+      "link": "https://thanhnien.vn/lich-thi-dau-v-league-hap-dan-hom-nay-buoc-ngoat-tru-hang-da-den-voi-hagl-18526041023031078.htm",
+      "summary": "Chuyến làm khách trên sân Thiên Trường (18 giờ hôm nay 11.4) hứa hẹn bão táp với HAGL, khi thầy trò HLV Lê Quang Trãi phải đối mặt chủ nhà Nam Định đang thăng hoa tại V-League.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T19:28:00+07:00",
+      "fetched": "2026-04-11T03:33:09.712666+07:00"
+    },
+    {
+      "id": "7c192c1ab9d5cca0f897c81713fd1d36",
+      "title": "Lộ trình đưa Quảng Ninh lên thành phố trung ương",
+      "link": "https://vnexpress.net/lo-trinh-dua-quang-ninh-len-thanh-pho-trung-uong-5061081.html",
+      "summary": "Đề án thành lập TP Quảng Ninh trực thuộc trung ương sẽ được trình Chính phủ trong tháng 5, một tháng sau được trình Quốc hội xem xét.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T18:32:11+07:00",
+      "fetched": "2026-04-11T03:33:06.453379+07:00"
     },
     {
       "id": "13aae936e42d106bb678664c9badbe9a",
