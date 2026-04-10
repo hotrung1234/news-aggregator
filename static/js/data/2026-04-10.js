@@ -1,6 +1,6 @@
 window.newsData_2026_04_10 = {
   "date": "2026-04-10",
-  "lastUpdated": "2026-04-10T12:56:06.749542+07:00",
+  "lastUpdated": "2026-04-10T14:25:22.957284+07:00",
   "articles": [
     {
       "id": "c2eb5e21688dd4ba5ab3e75fd7d54d4c",
@@ -303,6 +303,336 @@ window.newsData_2026_04_10 = {
       "fetched": "2026-04-10T09:12:43.482826+07:00"
     },
     {
+      "id": "32c662d688c035a7dfddea65013a3ec1",
+      "title": "Trường ĐH Hoa Sen trao học bổng toàn phần cho Bích Thùy, mở rộng đào tạo kinh tế thể thao",
+      "link": "https://thanhnien.vn/truong-dh-hoa-sen-trao-hoc-bong-toan-phan-cho-bich-thuy-mo-rong-dao-tao-kinh-te-the-thao-185260410140622698.htm",
+      "summary": "Trường ĐH Hoa Sen cho thấy quyết tâm giải bài toán nhân lực ngành Kinh tế thể thao khi trao học bổng toàn phần cho tuyển thủ nữ Việt Nam Bích Thùy và triển khai 5 chương trình đào tạo, mở rộng hợp tác doanh nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T07:24:00+07:00",
+      "fetched": "2026-04-10T14:25:13.163547+07:00"
+    },
+    {
+      "id": "950711a764e3c5a0ee13fa9395cfd851",
+      "title": "Cua rơ Việt Nam solo ấn tượng ở Cúp xe đạp truyền hình TP.HCM",
+      "link": "https://thanhnien.vn/cua-ro-viet-nam-solo-an-tuong-o-cup-xe-dap-truyen-hinh-tphcm-185260410140647097.htm",
+      "summary": "Các cua rơ Việt Nam thi đấu đầy nỗ lực ở chặng 8 Cúp xe đạp truyền hình TP.HCM - Tôn Đông Á diễn ra hôm nay từ Đồng Hới (Quảng Trị) đến TP.Huế dài 178 km.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T07:22:00+07:00",
+      "fetched": "2026-04-10T14:25:13.163724+07:00"
+    },
+    {
+      "id": "8373d00f10ce3f6324223353fec5acc7",
+      "title": "Lần đầu tiên ở Việt Nam, xã cung cấp miễn phí sách giáo khoa cho học sinh",
+      "link": "https://thanhnien.vn/lan-dau-tien-o-viet-nam-xa-cung-cap-mien-phi-sach-giao-khoa-cho-hoc-sinh-185260410125802777.htm",
+      "summary": "Từ năm học 2026 - 2027, hơn 7.000 học sinh tại xã Hòa Vang (thành phố Đà Nẵng) sẽ được cấp sách giáo khoa hoàn toàn miễn phí. Đây là một bước đi chưa từng có tiền lệ ở cấp cơ sở, đánh dấu nỗ lực tiên phong hiện thực hóa Nghị quyết số 71-NQ/TW của Bộ Chính trị về về đột phá phát triển giáo dục và đào...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T07:20:00+07:00",
+      "fetched": "2026-04-10T14:25:13.163917+07:00"
+    },
+    {
+      "id": "d8737d0b5edfa387df157798d9aa157f",
+      "title": "Bệnh viện Đa khoa Quốc tế Nam Sài Gòn nâng chuẩn xét nghiệm, đạt ISO 15189:2022",
+      "link": "https://thanhnien.vn/benh-vien-da-khoa-quoc-te-nam-sai-gon-nang-chuan-xet-nghiem-dat-iso-151892022-185260410141942033.htm",
+      "summary": "Bệnh viện Đa khoa Quốc tế Nam Sài Gòn vừa được công nhận đạt tiêu chuẩn ISO 15189:2022 - tiêu chuẩn quốc tế khắt khe trong lĩnh vực xét nghiệm y học, khẳng định năng lực chuyên môn và định hướng phát triển theo chuẩn quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T07:06:00+07:00",
+      "fetched": "2026-04-10T14:25:13.164089+07:00"
+    },
+    {
+      "id": "a257f7489754b40ba612b816ffaa2324",
+      "title": "Đại biểu lo giới trẻ lệch chuẩn vì 'phim cung đấu, mô típ tổng tài'",
+      "link": "https://thanhnien.vn/dai-bieu-lo-gioi-tre-lech-chuan-vi-phim-cung-dau-mo-tip-tong-tai-185260410125622005.htm",
+      "summary": "Đại biểu Hà Thị Anh Thư bày tỏ lo ngại trước tình trạng nở rộ 'phim cung đấu, mô típ tổng tài', cùng đó là các thông tin xấu độc trên không gian mạng, nếu không ngăn chặn kịp thời sẽ ảnh hưởng tiêu cực đến giới trẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T07:06:00+07:00",
+      "fetched": "2026-04-10T14:25:13.164250+07:00"
+    },
+    {
+      "id": "b8c96ad443c779556527894e77a664bb",
+      "title": "Chàng trai giảm hơn 60 kg nhờ chạy bộ",
+      "link": "https://thanhnien.vn/chang-trai-giam-hon-60-kg-nho-chay-bo-185260409213600405.htm",
+      "summary": "Từ cân nặng gần 140 kg, chàng trai ở TP.HCM khiến nhiều người bất ngờ khi \"lột xác\" ngoạn mục sau 9 tháng giảm hơn 60 kg nhờ kiên trì đi bộ, chạy bộ và thay đổi lối sống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T07:03:00+07:00",
+      "fetched": "2026-04-10T14:25:13.164402+07:00"
+    },
+    {
+      "id": "e05a17eb27cd24857937a6e4efe0e1ca",
+      "title": "‘Nợ’ thơ qua ‘Linh thoại’ của Võ Văn Luyến",
+      "link": "https://thanhnien.vn/no-tho-qua-linh-thoai-cua-vo-van-luyen-185260410130154518.htm",
+      "summary": "Trong bài thơ Linh thoại, cũng là bài lấy đặt tên cho tựa tập thơ mới xuất bản của nhà thơ Võ Văn Luyến, tôi chú ý một câu: \"Thương con chữ ba chìm bảy nổi\". Bài thơ anh viết trong một lần đến Tây nguyên, hèn chi lại có \"huyền ức từ trăm năm/vỗ mê những chú voi im lặng\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T07:00:00+07:00",
+      "fetched": "2026-04-10T14:25:13.164552+07:00"
+    },
+    {
+      "id": "b9dd4edc0bfe558db3dc40a2eeda1e8b",
+      "title": "Bản phối nâu - trắng cho ngày nắng, chiếm trọn mọi ánh nhìn",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ban-phoi-nau-trang-cho-ngay-nang-chiem-tron-moi-anh-nhin-185260409153919534.htm",
+      "summary": "Sự giao thoa giữa sắc nâu trầm ấm và sắc trắng tinh khôi đã tạo nên những bản phối thanh lịch, đầy lôi cuốn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T07:00:00+07:00",
+      "fetched": "2026-04-10T14:25:13.164708+07:00"
+    },
+    {
+      "id": "714af28a9d8da79f96d1035c5a2998f2",
+      "title": "MacBook Neo 'cháy hàng' tại Việt Nam",
+      "link": "https://vnexpress.net/macbook-neo-chay-hang-tai-viet-nam-5060593.html",
+      "summary": "Người dùng phải chờ 3-5 ngày khi mua MacBook Neo tại một số hệ thống bán lẻ trong nước, hoặc 2-4 tuần nếu đặt trên Apple Store Online.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-10T07:00:00+07:00",
+      "fetched": "2026-04-10T14:25:21.870866+07:00"
+    },
+    {
+      "id": "95485caedbbf44a5acaf3a0d182e115c",
+      "title": "Tìm bạn gái năng động ở Lâm Đồng",
+      "link": "https://vnexpress.net/tim-ban-gai-nang-dong-o-lam-dong-5059944.html",
+      "summary": "Mẫu bạn gái anh quan tâm: dễ nhìn là được, tư duy mở, tính tình năng động, thích thể thao, sinh hoạt lành mạnh, có đam mê riêng càng tốt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T06:54:31+07:00",
+      "fetched": "2026-04-10T14:25:09.775549+07:00"
+    },
+    {
+      "id": "c7f784ac10fdafae311ccff4d2fa8d9f",
+      "title": "Hoàng Dương Điền Điềm đóng Sở Kiều liệu có vượt qua cái bóng Triệu Lệ Dĩnh?",
+      "link": "https://thanhnien.vn/hoang-duong-dien-diem-dong-so-kieu-lieu-co-vuot-qua-cai-bong-trieu-le-dinh-185260410135355851.htm",
+      "summary": "Khi thông tin Hoàng Dương Điền Điềm đảm nhận vai nữ chính trong phần tiếp theo của 'Sở Kiều Truyện' được công bố, mạng xã hội Trung Quốc lập tức bùng nổ tranh luận. Không phải vì cô là gương mặt xa lạ, mà bởi vai diễn này từng gắn liền với tên tuổi của Triệu Lệ Dĩnh, một trong những 'nữ hoàng rating...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T06:53:00+07:00",
+      "fetched": "2026-04-10T14:25:13.164887+07:00"
+    },
+    {
+      "id": "71540b004653aebb01b35db8f5beec43",
+      "title": "Cầu lông hướng tới 'kỷ nguyên 3x15'",
+      "link": "https://vnexpress.net/cau-long-huong-toi-ky-nguyen-3x15-5060773.html",
+      "summary": "Liên đoàn Cầu lông Thế giới (BWF) đang xem xét áp dụng hệ thống tính điểm theo thể thức 3 set và mỗi set 15 điểm, thay vì 21 điểm như hiện tại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T06:45:37+07:00",
+      "fetched": "2026-04-10T14:25:09.775787+07:00"
+    },
+    {
+      "id": "fc896be25861da20ff368f92c11379aa",
+      "title": "Vùng Vịnh 'nhẹ nhõm nhưng lo âu' với thỏa thuận ngừng bắn Mỹ - Iran",
+      "link": "https://vnexpress.net/vung-vinh-nhe-nhom-nhung-lo-au-voi-thoa-thuan-ngung-ban-my-iran-5060451.html",
+      "summary": "Các nước vùng Vịnh trải qua những giờ phút bình yên hiếm hoi khi Mỹ - Iran đạt thỏa thuận ngừng bắn, nhưng lo ngại về hậu quả kinh tế nếu Tehran tiếp tục siết kiểm soát eo biển Hormuz.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T06:44:53+07:00",
+      "fetched": "2026-04-10T14:25:09.775998+07:00"
+    },
+    {
+      "id": "fc896be25861da20ff368f92c11379aa",
+      "title": "Vùng Vịnh 'nhẹ nhõm nhưng lo âu' với thỏa thuận ngừng bắn Mỹ - Iran",
+      "link": "https://vnexpress.net/vung-vinh-nhe-nhom-nhung-lo-au-voi-thoa-thuan-ngung-ban-my-iran-5060451.html",
+      "summary": "Các nước vùng Vịnh trải qua những giờ phút bình yên hiếm hoi khi Mỹ - Iran đạt thỏa thuận ngừng bắn, nhưng lo ngại về hậu quả kinh tế nếu Tehran tiếp tục siết kiểm soát eo biển Hormuz.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-10T06:44:53+07:00",
+      "fetched": "2026-04-10T14:25:16.184341+07:00"
+    },
+    {
+      "id": "5cb201c18c71bb55b32e764193915fe1",
+      "title": "Bữa ăn nghi gây ngộ độc cho 148 học sinh TP HCM có gà kho, bánh flan",
+      "link": "https://vnexpress.net/bua-an-nghi-gay-ngo-doc-cho-148-hoc-sinh-tp-hcm-co-ga-kho-banh-flan-5060859.html",
+      "summary": "Sở An toàn Thực phẩm TP HCM bước đầu ghi nhận bữa ăn nghi ngờ gây ngộ độc cho 148 học sinh Trường Tiểu học Bình Quới Tây có các món gà kho gừng, canh bắp cải, dưa leo xào, bánh flan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T06:39:13+07:00",
+      "fetched": "2026-04-10T14:25:09.776167+07:00"
+    },
+    {
+      "id": "e7d33143b9e17e1ad4c9e949e752fa2a",
+      "title": "Vụ 42 cây mai vàng ở Côn Đảo: Phải chứng minh lâm sản, mới xử phạt được",
+      "link": "https://thanhnien.vn/vu-42-cay-mai-vang-o-con-dao-chua-du-can-cu-de-xu-phat-185260410104829808.htm",
+      "summary": "Theo các chuyên gia pháp lý, nếu kiểm lâm không chứng minh được cây mai vàng ở Côn Đảo là lâm sản thì đó là tài sản hợp pháp của người dân, không thể xử phạt 3 triệu đồng và tịch thu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T06:38:00+07:00",
+      "fetched": "2026-04-10T14:25:13.165040+07:00"
+    },
+    {
+      "id": "83bdba17f9119bcdbf0b3e4b992411d7",
+      "title": "Khách đổ đến check in vườn Cúc Phương mùa bướm",
+      "link": "https://vnexpress.net/khach-do-den-check-in-vuon-cuc-phuong-mua-buom-5060160.html",
+      "summary": "Mùa bướm tại Vườn quốc gia Cúc Phương xuất hiện sớm hơn 3 tuần, thu hút du khách đến tham quan, săn ảnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T06:30:09+07:00",
+      "fetched": "2026-04-10T14:25:09.776406+07:00"
+    },
+    {
+      "id": "d69b97f83e48953da41cb917c0c43edd",
+      "title": "Giữa mùa nắng nóng gay gắt, vì sao người trẻ đổ xô trồng cây ở ban công?",
+      "link": "https://thanhnien.vn/giua-mua-nang-nong-gay-gat-vi-sao-nguoi-tre-do-xo-trong-cay-o-ban-cong-185260410124836461.htm",
+      "summary": "Những ngày nắng nóng gay gắt tại TP.HCM khiến không gian sống trở của nhiều người nên ngột ngạt hơn. Trong điều kiện diện tích hạn chế, nhiều người trẻ tận dụng ban công để trồng cây, bố trí lại không gian như một cách cải thiện cảm giác sống. Tuy nhiên, không phải ai cũng có thể tạo được một góc xa...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T06:30:00+07:00",
+      "fetched": "2026-04-10T14:25:13.165191+07:00"
+    },
+    {
+      "id": "cca404aa837e5e81a8d1291b5bad454b",
+      "title": "Công an TP.HCM bắt 9 bị can Công ty mua bán nợ Nhất Tín đòi nợ thuê",
+      "link": "https://thanhnien.vn/cong-an-tphcm-bat-9-bi-can-cong-ty-mua-ban-no-nhat-tin-doi-no-thue-185260410125102366.htm",
+      "summary": "Công ty TNHH mua bán nợ Nhất Tín núp bóng hoạt động mua bán nợ để đòi nợ thuê. 9 người thuộc công ty này bị Công an TP.HCM bắt bắt tạm giam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T06:29:00+07:00",
+      "fetched": "2026-04-10T14:25:13.165345+07:00"
+    },
+    {
+      "id": "91fb693430c59bdd27d76187b60c1f0f",
+      "title": "Tính năng UAV hơn 200 triệu USD của Mỹ mất tích gần Iran",
+      "link": "https://vnexpress.net/tinh-nang-uav-hon-200-trieu-usd-cua-my-mat-tich-gan-iran-5060842.html",
+      "summary": "UAV MQ-4C trang bị radar quan sát được khu vực rộng 5.200 km2 chỉ với một lần quét, có thể làm nhiệm vụ trinh sát và tuần thám hàng hải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T06:27:16+07:00",
+      "fetched": "2026-04-10T14:25:09.776576+07:00"
+    },
+    {
+      "id": "91fb693430c59bdd27d76187b60c1f0f",
+      "title": "Tính năng UAV hơn 200 triệu USD của Mỹ mất tích gần Iran",
+      "link": "https://vnexpress.net/tinh-nang-uav-hon-200-trieu-usd-cua-my-mat-tich-gan-iran-5060842.html",
+      "summary": "UAV MQ-4C trang bị radar quan sát được khu vực rộng 5.200 km2 chỉ với một lần quét, có thể làm nhiệm vụ trinh sát và tuần thám hàng hải.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-10T06:27:16+07:00",
+      "fetched": "2026-04-10T14:25:16.184522+07:00"
+    },
+    {
+      "id": "37c9a1c7fe8aa825a0cd053f79935a0c",
+      "title": "Hàng loạt 'mặt tiền vàng' trung tâm TP.HCM ế ẩm bỏ trống",
+      "link": "https://thanhnien.vn/hang-loat-mat-tien-vang-trung-tam-tphcm-e-am-bo-trong-185260409185806036.htm",
+      "summary": "Hàng loạt 'mặt tiền vàng' trung tâm TP.HCM đang bị bỏ trống trong nhiều tháng, thậm chí kéo dài qua nhiều năm, gây lãng phí lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T06:24:00+07:00",
+      "fetched": "2026-04-10T14:25:13.165493+07:00"
+    },
+    {
+      "id": "b09c307c5fb335b9c2ad4b5afa89c3be",
+      "title": "Samsung lần đầu đưa dòng Galaxy A vào thử nghiệm One UI 8.5",
+      "link": "https://thanhnien.vn/samsung-lan-dau-dua-dong-galaxy-a-vao-thu-nghiem-one-ui-85-185260410101627579.htm",
+      "summary": "Samsung phá bỏ giới hạn khi One UI 8.5 Beta không còn là sân chơi của riêng các mẫu flagship.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T06:23:00+07:00",
+      "fetched": "2026-04-10T14:25:13.165651+07:00"
+    },
+    {
+      "id": "865ecbca424df7cd0c05e7332c9d2311",
+      "title": "Định vị 'cá voi bơi trên biển Gia Lai' cho khách du lịch",
+      "link": "https://vnexpress.net/dinh-vi-ca-voi-boi-tren-bien-gia-lai-cho-khach-du-lich-5058020.html",
+      "summary": "Cục trưởng Du lịch Nguyễn Trùng Khánh đề nghị tỉnh Gia Lai giới thiệu chi tiết các trải nghiệm mới lạ sau sáp nhập để xóa bỏ sự bối rối của du khách về địa giới hành chính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T06:21:49+07:00",
+      "fetched": "2026-04-10T14:25:09.776736+07:00"
+    },
+    {
+      "id": "3a5315471cf56f6c662bdde6ed335167",
+      "title": "Biến hóa phép tính '0 - 9 = 3' chỉ với một que diêm",
+      "link": "https://vnexpress.net/cau-do-que-diem-di-chuyen-que-diem-bien-hoa-phep-tinh-0-9-3-chi-voi-mot-que-diem-5060354.html",
+      "summary": "Đây là một màn đố que diêm cực kỳ \"lươn lẹo\" nhưng cũng siêu thú vị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T06:21:00+07:00",
+      "fetched": "2026-04-10T14:25:09.776925+07:00"
+    },
+    {
+      "id": "e6baddd7a0a60e3a1ffd36e0208c19af",
+      "title": "Chủ tịch UBND tỉnh Đồng Tháp chỉ đạo xử lý hơn 500 nhà, đất dôi dư",
+      "link": "https://thanhnien.vn/chu-tich-ubnd-tinh-dong-thap-chi-dao-xu-ly-hon-500-nha-dat-doi-du-185260410121647138.htm",
+      "summary": "Chủ tịch UBND tỉnh Đồng Tháp đã có những chỉ đạo liên quan việc 500 cơ sở nhà, đất dôi dư sau sáp nhập tỉnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T06:20:00+07:00",
+      "fetched": "2026-04-10T14:25:13.165807+07:00"
+    },
+    {
+      "id": "7908e7be4f861592393257bfd316a16e",
+      "title": "Thủ tướng: Không chấp nhận tăng trưởng nóng, đánh đổi bất ổn vĩ mô",
+      "link": "https://vnexpress.net/thu-tuong-khong-chap-nhan-tang-truong-nong-danh-doi-bat-on-vi-mo-5060809.html",
+      "summary": "Theo Thủ tướng Lê Minh Hưng, tăng trưởng phải đi kèm với ổn định và kiểm soát các cân đối lớn về cung cầu, tài chính, Việt Nam không chấp nhận tăng trưởng nóng, bất ổn vĩ mô.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T06:09:48+07:00",
+      "fetched": "2026-04-10T14:25:09.777087+07:00"
+    },
+    {
+      "id": "7908e7be4f861592393257bfd316a16e",
+      "title": "Thủ tướng: Không chấp nhận tăng trưởng nóng, đánh đổi bất ổn vĩ mô",
+      "link": "https://vnexpress.net/thu-tuong-khong-chap-nhan-tang-truong-nong-danh-doi-bat-on-vi-mo-5060809.html",
+      "summary": "Theo Thủ tướng Lê Minh Hưng, tăng trưởng phải đi kèm với ổn định và kiểm soát các cân đối lớn về cung cầu, tài chính, Việt Nam không chấp nhận tăng trưởng nóng, bất ổn vĩ mô.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-10T06:09:48+07:00",
+      "fetched": "2026-04-10T14:25:18.179860+07:00"
+    },
+    {
+      "id": "74487b872007a443d218da7793b1f035",
+      "title": "Đi cạnh nhau, em tin anh sẽ tự hào",
+      "link": "https://vnexpress.net/di-canh-nhau-em-tin-anh-se-tu-hao-5059947.html",
+      "summary": "Mong anh ở Hà Nội, có sự trưởng thành, sâu sắc, tương đồng em một chút; nếu anh xuất sắc, em rất tự hào về điều đó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T06:02:32+07:00",
+      "fetched": "2026-04-10T14:25:09.777185+07:00"
+    },
+    {
+      "id": "abc78363084562f5e3632ce5036945e4",
+      "title": "Nửa đêm, mẹ chồng lén vào phòng chúng tôi tắt điều hòa",
+      "link": "https://vnexpress.net/song-chung-voi-me-chong-nua-dem-me-chong-len-vao-phong-chung-toi-tat-dieu-hoa-5060835.html",
+      "summary": "Phòng là không gian riêng của hai vợ chồng, việc vào phòng lúc đêm khuya rồi tự ý tắt máy lạnh làm tôi thấy không thoải mái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T06:00:00+07:00",
+      "fetched": "2026-04-10T14:25:09.777346+07:00"
+    },
+    {
+      "id": "10fde11cbad865f175d3db369c4481d2",
+      "title": "Bác sĩ chỉ 'khung giờ vàng' giúp bảo vệ thận và não mùa nóng",
+      "link": "https://vnexpress.net/bac-si-chi-khung-gio-vang-giup-bao-ve-than-va-nao-mua-nong-5060777.html",
+      "summary": "Mọi người nên làm việc trong khung giờ từ 5h đến 9h, hạn chế ra đường lúc 12h-13h chiều, dành thời gian buổi chiều từ 17h -19h để vận động, thư giãn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T06:00:00+07:00",
+      "fetched": "2026-04-10T14:25:09.777509+07:00"
+    },
+    {
+      "id": "5e4bcc8a4d2acbb241447f6577425bc8",
+      "title": "Vaccine và công nghệ AI ứng dụng vào điều trị ung thư tụy",
+      "link": "https://vnexpress.net/vaccine-va-cong-nghe-ai-ung-dung-vao-dieu-tri-ung-thu-tuy-5060813.html",
+      "summary": "Vaccine và AI được ứng dụng vào điều trị ung thư tụy, mở hướng điều trị mới, giúp phát hiện sớm, tăng cơ hội điều trị bệnh thành công.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T06:00:00+07:00",
+      "fetched": "2026-04-10T14:25:09.777661+07:00"
+    },
+    {
+      "id": "7cea66efb859a3e18d99959895d9bcf9",
+      "title": "Lợi ích ít biết khi nhắm mắt vài phút",
+      "link": "https://vnexpress.net/loi-ich-it-biet-khi-nham-mat-vai-phut-5060749.html",
+      "summary": "Nhắm mắt vài phút giúp giảm kích thích thị giác, cho mắt nghỉ ngơi, đồng thời hỗ trợ não tập trung và tăng cảm giác thư giãn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T06:00:00+07:00",
+      "fetched": "2026-04-10T14:25:09.777811+07:00"
+    },
+    {
       "id": "e7950e327716c3cf7f4999f8311ab342",
       "title": "Công an xử lý nhóm người dùng hung khí ẩu đả trên đường Tăng Nhơn Phú, TP.HCM",
       "link": "https://thanhnien.vn/cong-an-xu-ly-nhom-nguoi-dung-hung-khi-au-da-tren-duong-tang-nhon-phu-tphcm-18526041012361186.htm",
@@ -521,6 +851,16 @@ window.newsData_2026_04_10 = {
       "category": "Kinh doanh",
       "published": "2026-04-10T05:02:43+07:00",
       "fetched": "2026-04-10T12:56:01.326782+07:00"
+    },
+    {
+      "id": "ed6b19898ee83fab2f3803d15eb6b78a",
+      "title": "Lý do ảnh của Artemis II xuất hiện sao còn Apollo tối đen",
+      "link": "https://vnexpress.net/ly-do-anh-cua-artemis-ii-xuat-hien-sao-con-apollo-toi-den-5060547.html",
+      "summary": "Ảnh không gian của Artemis II thu hút sự chú ý khi hiện rõ những ngôi sao trên nền vũ trụ, điều hiếm thấy trong ảnh của chương trình Apollo.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-10T05:00:00+07:00",
+      "fetched": "2026-04-10T14:25:21.871075+07:00"
     },
     {
       "id": "878f74a30b36f7c479c0702a5b3b6d86",
