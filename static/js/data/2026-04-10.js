@@ -1,7 +1,157 @@
 window.newsData_2026_04_10 = {
   "date": "2026-04-10",
-  "lastUpdated": "2026-04-10T17:51:34.262880+07:00",
+  "lastUpdated": "2026-04-10T20:03:54.387470+07:00",
   "articles": [
+    {
+      "id": "f12f5d07b868962daf1b68ff3eec6011",
+      "title": "Thái Lan phát động chiến dịch đổi dầu ăn đã qua sử dụng lấy nhiên liệu",
+      "link": "https://tuoitre.vn/thai-lan-phat-dong-chien-dich-doi-dau-an-da-qua-su-dung-lay-nhien-lieu-2026041016260369.htm",
+      "summary": "Người dân có thể mang 2 lít dầu ăn đã qua sử dụng đến các trạm xăng để đổi lấy 1 lít nhiên liệu loại thường, dầu diesel hoặc xăng pha cồn, nhưng không bao gồm các loại nhiên liệu cao cấp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T20:03:45.419421+07:00",
+      "fetched": "2026-04-10T20:03:45.419538+07:00"
+    },
+    {
+      "id": "740285d04dc27aa1059bbd3cc76302fa",
+      "title": "Khi niềm tin lên ngôi, gian hàng chính hãng trở thành 'đầu tàu'",
+      "link": "https://tuoitre.vn/khi-niem-tin-len-ngoi-gian-hang-chinh-hang-tro-thanh-dau-tau-20260410174548031.htm",
+      "summary": "Theo dữ liệu từ sàn thương mại điện tử, hệ thống gian hàng chính hãng (LazMall) tăng trưởng doanh số (GMV) gấp 15 lần so với ngày thường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T20:03:45.419285+07:00",
+      "fetched": "2026-04-10T20:03:45.419410+07:00"
+    },
+    {
+      "id": "52055deea4ab151e531624ecea961f7f",
+      "title": "Khánh Hòa ký kết hợp đồng đầu tư dự án Nhà máy nhiệt điện LNG Cà Ná",
+      "link": "https://tuoitre.vn/khanh-hoa-ky-ket-hop-dong-dau-tu-du-an-nha-may-nhiet-dien-lng-ca-na-20260410172604738.htm",
+      "summary": "UBND tỉnh Khánh Hòa vừa phối hợp với Liên danh Trung Nam - Sideros River ký kết hợp đồng đầu tư kinh doanh dự án Nhà máy nhiệt điện LNG Cà Ná có công suất 1.500MW.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T20:03:45.419097+07:00",
+      "fetched": "2026-04-10T20:03:45.419266+07:00"
+    },
+    {
+      "id": "57237fb99bd2b3f532ccda63564c9b76",
+      "title": "Ô tô tông nhau tại giao lộ TP.HCM: 1 xe lật ngửa, 1 xe lật ngang",
+      "link": "https://tuoitre.vn/o-to-tong-nhau-tai-giao-lo-tp-hcm-1-xe-lat-ngua-1-xe-lat-ngang-20260410174644207.htm",
+      "summary": "Hai xe ô tô tông nhau tại giao lộ thuộc phường Bình Dương, là phường nhiều khu công nghiệp nhất TP.HCM. Cả hai xe đều bị lật ngã ra đường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T20:03:45.418976+07:00",
+      "fetched": "2026-04-10T20:03:45.419086+07:00"
+    },
+    {
+      "id": "bc6dff2a03bfe4ea1ed691ded5abd4da",
+      "title": "Thường trực Ban Bí thư Trần Cẩm Tú hội kiến Thủ tướng Campuchia Hun Manet",
+      "link": "https://tuoitre.vn/thuong-truc-ban-bi-thu-tran-cam-tu-hoi-kien-thu-tuong-campuchia-hun-manet-2026041017363267.htm",
+      "summary": "Ngày 10-4 tại thủ đô Phnom Penh, trong khuôn khổ chuyến thăm chính thức Campuchia, Ủy viên Bộ Chính trị, Thường trực Ban Bí thư Trần Cẩm Tú đã hội kiến Thủ tướng Campuchia Hun Manet.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T20:03:45.418852+07:00",
+      "fetched": "2026-04-10T20:03:45.418965+07:00"
+    },
+    {
+      "id": "bb19ffee761572548b543c4abe4e4b76",
+      "title": "FourS Tower: an cư, đầu tư tại trung tâm Nam Đà Nẵng",
+      "link": "https://tuoitre.vn/fours-tower-an-cu-dau-tu-tai-trung-tam-nam-da-nang-20260410181212744.htm",
+      "summary": "Trong bối cảnh khu Nam Đà Nẵng đang chuyển mình mạnh mẽ, FourS Tower xuất hiện như một nhân tố đột phá, đem đến đặc quyền an cư và cơ hội đầu tư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T20:03:45.418727+07:00",
+      "fetched": "2026-04-10T20:03:45.418841+07:00"
+    },
+    {
+      "id": "04beccc37ab5abafa22def79ddb65e3f",
+      "title": "Phát hiện nhiều thi thể có dấu hiệu bị cháy trong căn nhà ở Gia Lai",
+      "link": "https://tuoitre.vn/phat-hien-nhieu-thi-the-co-dau-hieu-bi-chay-trong-can-nha-o-gia-lai-20260410180108011.htm",
+      "summary": "Thăm nhà chị ruột, người đàn ông tại xã Cát Tiến, tỉnh Gia Lai, bàng hoàng phát hiện ngôi nhà như vừa xảy ra một vụ nổ với nhiều thương vong bên trong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T20:03:45.418597+07:00",
+      "fetched": "2026-04-10T20:03:45.418714+07:00"
+    },
+    {
+      "id": "4ea43dc04546c4d78442e64437880421",
+      "title": "Quốc vương Campuchia bị chẩn đoán mắc ung thư tuyến tiền liệt",
+      "link": "https://tuoitre.vn/quoc-vuong-campuchia-bi-chan-doan-mac-ung-thu-tuyen-tien-liet-20260410165640515.htm",
+      "summary": "Quốc vương Norodom Sihamoni cho biết ông bị chẩn đoán mắc ung thư tuyến tiền liệt, và sẽ ở lại Trung Quốc trong thời gian dài để điều trị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T20:03:45.418472+07:00",
+      "fetched": "2026-04-10T20:03:45.418585+07:00"
+    },
+    {
+      "id": "0268d65022478390a2fbe8df260a2a59",
+      "title": "Nhiều ngân hàng đồng loạt giảm lãi suất sau cam kết đồng thuận",
+      "link": "https://tuoitre.vn/nhieu-ngan-hang-dong-loat-giam-lai-suat-sau-cam-ket-dong-thuan-20260410175840544.htm",
+      "summary": "Ngày 10-4, nhiều ngân hàng đã đồng loạt công bố giảm lãi suất huy động, theo cam kết đồng thuận tại cuộc họp với Ngân hàng Nhà nước chiều 9-4.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T20:03:45.418345+07:00",
+      "fetched": "2026-04-10T20:03:45.418460+07:00"
+    },
+    {
+      "id": "8e3263cc3d2e8108f5f099ae3f905f7f",
+      "title": "Ấn tượng chuỗi hoạt động chào mừng Đại hội Thể dục thể thao TP.HCM lần thứ I",
+      "link": "https://tuoitre.vn/an-tuong-chuoi-hoat-dong-chao-mung-dai-hoi-the-duc-the-thao-tp-hcm-lan-thu-i-20260410175440834.htm",
+      "summary": "Chương trình diễu hành đường phố chào mừng Đại hội Thể dục thể thao TP.HCM lần thứ I năm 2026 tại phường Tân Uyên đã thu hút hơn 1.200 người tham gia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T20:03:45.418176+07:00",
+      "fetched": "2026-04-10T20:03:45.418330+07:00"
+    },
+    {
+      "id": "1c1f10c402e9b32725d196815aa332d6",
+      "title": "Xe tải chế thêm thùng dưới gầm xe để chở 1.200 lít dầu diesel qua biên giới",
+      "link": "https://tuoitre.vn/xe-tai-che-them-thung-duoi-gam-xe-de-cho-1-200-lit-dau-diesel-qua-bien-gioi-2026041018063321.htm",
+      "summary": "Ngày 10-4, Phòng Cảnh sát kinh tế Công an tỉnh Quảng Trị cho biết vừa phối hợp các lực lượng chức năng phát hiện, bắt giữ vụ tài xế xe tải vận chuyển trái phép hàng hóa qua biên giới với thủ đoạn tinh vi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T20:03:45.418046+07:00",
+      "fetched": "2026-04-10T20:03:45.418163+07:00"
+    },
+    {
+      "id": "0e5775e8a2e6ba62a4e8c09529fd1907",
+      "title": "Tổng Bí thư, Chủ tịch nước trao quyết định chỉ định nhân sự Đảng ủy Quốc hội nhiệm kỳ 2025-2030",
+      "link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-trao-quyet-dinh-chi-dinh-nhan-su-dang-uy-quoc-hoi-nhiem-ky-2025-2030-20260410182135032.htm",
+      "summary": "Chiều 10-4, Tổng Bí thư, Chủ tịch nước Tô Lâm đã dự và trao các quyết định của Bộ Chính trị về công tác cán bộ tại Đảng ủy Quốc hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T20:03:45.417916+07:00",
+      "fetched": "2026-04-10T20:03:45.418034+07:00"
+    },
+    {
+      "id": "1a946f935ff8b136fe8c7b769e531baa",
+      "title": "PV GAS nhập khẩu thêm gần 60.000 tấn LNG từ Đông Nam Á để cung ứng cho sản xuất điện",
+      "link": "https://tuoitre.vn/pv-gas-nhap-khau-them-gan-60-000-tan-lng-tu-dong-nam-a-de-cung-ung-cho-san-xuat-dien-20260410175008645.htm",
+      "summary": "Tổng công ty Khí Việt Nam (PV GAS) đã hoàn tất tiếp nhận 2 chuyến tàu LNG với tổng sản lượng khoảng 60.000 tấn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T20:03:45.417782+07:00",
+      "fetched": "2026-04-10T20:03:45.417903+07:00"
+    },
+    {
+      "id": "932dbcd24674c6f78fd5255e52da8e9b",
+      "title": "Trường đại học An ninh nhân dân gặp mặt, chúc Tết học viên Campuchia dịp Chôl Chnăm Thmây",
+      "link": "https://tuoitre.vn/truong-dai-hoc-an-ninh-nhan-dan-gap-mat-chuc-tet-hoc-vien-campuchia-dip-chol-chnam-thmay-20260410175927391.htm",
+      "summary": "Nhân dịp Tết cổ truyền Chôl Chnăm Thmây năm 2026, Trường đại học An ninh nhân dân tổ chức buổi gặp mặt, tặng quà và gửi lời chúc mừng đến toàn thể học viên Campuchia đang học tập tại trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T20:03:45.417639+07:00",
+      "fetched": "2026-04-10T20:03:45.417770+07:00"
+    },
+    {
+      "id": "967196ffc7b2a91c62d47523f385f1bd",
+      "title": "6G sẽ mở đường cho nền kinh tế AI ở Việt Nam",
+      "link": "https://tuoitre.vn/6g-se-mo-duong-cho-nen-kinh-te-ai-o-viet-nam-20260410171838249.htm",
+      "summary": "6G dự kiến sẽ là hạ tầng phục vụ cho việc ứng dụng AI trên toàn thế giới trong tương lai gần. Đầy sẽ là cơ hội để các doanh nghiệp Việt Nam tham gia và khai thác sớm các nhu cầu trong nền kinh tế AI.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T20:03:45.417395+07:00",
+      "fetched": "2026-04-10T20:03:45.417623+07:00"
+    },
     {
       "id": "507f34846f32e2d668560a2844047695",
       "title": "Ông Phạm Gia Túc làm Phó thủ tướng thường trực, phân công nhiệm vụ các Phó thủ tướng",
@@ -303,6 +453,46 @@ window.newsData_2026_04_10 = {
       "fetched": "2026-04-10T16:05:30.895574+07:00"
     },
     {
+      "id": "f8a757b6386198a8123c87da2a6cee20",
+      "title": "Xem nhanh 20h ngày 10.4: Nắng nóng đổ lửa, tài xế ám ảnh dừng đèn đỏ, chuyển sang mưu sinh đêm khuya",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-104-nang-nong-do-lua-tai-xe-am-anh-dung-den-do-chuyen-sang-muu-sinh-dem-khuya-185260410190438114.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 10.4 có nhiều tin tức đáng chú ý về: Nắng nóng: Tài xế chạy đêm ‘đỡ cực lại nhiều cuốc’, chuyên gia cảnh báo sốc nhiệt; nắng nóng 'nướng' mặt đường nhựa, dừng đèn đỏ cũng thành nỗi ám ảnh mưu sinh;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T13:00:00+07:00",
+      "fetched": "2026-04-10T20:03:44.401905+07:00"
+    },
+    {
+      "id": "033124f609943fe16cb821a983ea8877",
+      "title": "Váy chấm bi sang trọng, tinh tế mà vẫn lãng mạn",
+      "link": "https://thanhnien.vn/thoi-trang-tre/vay-cham-bi-sang-trong-tinh-te-ma-van-lang-man-185260402075732843.htm",
+      "summary": "Váy chấm bi là kiểu trang phục nữ tính, mang tinh thần của thời trang cổ điển qua các họa tiết chấm tròn nhỏ trên nền vải khác màu tương phản. Một chiếc váy chấm bi đẹp đủ để nàng thể hiện gu thời trang tinh tế, sang trọng và sự lãng mạn của tâm hồn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T13:00:00+07:00",
+      "fetched": "2026-04-10T20:03:44.402082+07:00"
+    },
+    {
+      "id": "20c004588b6d33e441f905282a70e79d",
+      "title": "Bộ Nội vụ khẳng định sẽ không hoán đổi ngày làm việc để kéo dài nghỉ lễ",
+      "link": "https://thanhnien.vn/bo-noi-vu-khang-dinh-se-khong-hoan-doi-ngay-lam-viec-de-keo-dai-nghi-le-185260410194556285.htm",
+      "summary": "Không có chủ trương điều chỉnh lịch nghỉ và Bộ Nội vụ cũng không đề xuất phương án hoán đổi ngày làm việc để kéo dài kỳ nghỉ. Do đó, không có phương án hoán đổi để nghỉ liền 9 ngày trong dịp này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T12:58:00+07:00",
+      "fetched": "2026-04-10T20:03:44.402262+07:00"
+    },
+    {
+      "id": "120168af3b09dda4ebab3b969e708687",
+      "title": "Đội tuyển Việt Nam thua tiếc nuối trước Indonesia, lỡ hẹn chung kết futsal Đông Nam Á",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-thua-tiec-nuoi-truoc-indonesia-lo-hen-chung-ket-futsal-dong-nam-a-185260410192113193.htm",
+      "summary": "Đội tuyển Việt Nam tạo ra nhiều cơ hội nhưng không tận dụng thành công, chấp nhận thua 2-3 trước Indonesia và lỡ hẹn chung kết sau trận đấu đầy tiếc nuối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T12:57:00+07:00",
+      "fetched": "2026-04-10T20:03:44.402423+07:00"
+    },
+    {
       "id": "c2eb5e21688dd4ba5ab3e75fd7d54d4c",
       "title": "Ông Lê Ngọc Châu làm Bí thư Thành ủy Hải Phòng",
       "link": "https://tuoitre.vn/ong-le-ngoc-chau-lam-bi-thu-thanh-uy-hai-phong-20260410103339428.htm",
@@ -453,6 +643,306 @@ window.newsData_2026_04_10 = {
       "fetched": "2026-04-10T12:55:58.942674+07:00"
     },
     {
+      "id": "9c364ea1fd9142707d33612344e4f54d",
+      "title": "Phi công lo mất việc vì từ chối bay qua vùng chiến sự Trung Đông",
+      "link": "https://vnexpress.net/phi-cong-lo-mat-viec-vi-tu-choi-bay-qua-vung-chien-su-trung-dong-5061046.html",
+      "summary": "Nhiều phi công lo ngại bị kỷ luật, cắt lương hoặc sa thải nếu từ chối thực hiện các chuyến bay qua không phận Trung Đông trong bối cảnh xung đột leo thang.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T12:45:55+07:00",
+      "fetched": "2026-04-10T20:03:41.150055+07:00"
+    },
+    {
+      "id": "b009bfddc7801cac82b9c0c778cb49eb",
+      "title": "Quyết định của Bộ Chính trị về nhân sự Đảng ủy Quốc hội nhiệm kỳ 2025 - 2030",
+      "link": "https://thanhnien.vn/quyet-dinh-cua-bo-chinh-tri-ve-nhan-su-dang-uy-quoc-hoi-nhiem-ky-2025-2030-185260410191955189.htm",
+      "summary": "Chiều 10.4, tại Hà Nội, Đảng ủy Quốc hội tổ chức hội nghị công bố Quyết định của Bộ Chính trị về công tác cán bộ. Tổng Bí thư, Chủ tịch nước Tô Lâm dự và trao quyết định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T12:40:00+07:00",
+      "fetched": "2026-04-10T20:03:44.402576+07:00"
+    },
+    {
+      "id": "7bae194f64a60548a6bfc90c6a93e8fe",
+      "title": "Bà Nguyễn Thị Như Loan bị phạt 18 tháng tù treo",
+      "link": "https://vnexpress.net/ba-nguyen-thi-nhu-loan-bi-phat-18-thang-tu-treo-5061063.html",
+      "summary": "Tòa áp dụng nhiều tình tiết giảm nhẹ cùng Nghị quyết 68, tuyên bà Nguyễn Thị Như Loan, cựu CEO Quốc Cường Gia Lai, 18 tháng tù nhưng được hưởng án treo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T12:37:07+07:00",
+      "fetched": "2026-04-10T20:03:41.150260+07:00"
+    },
+    {
+      "id": "aa91f84c58fe2b9f475d9722bb4b499c",
+      "title": "Đại biểu Quốc hội bàn chuyện ai quản lý tiền công đức",
+      "link": "https://thanhnien.vn/dai-bieu-quoc-hoi-ban-chuyen-ai-quan-ly-tien-cong-duc-185260410164306738.htm",
+      "summary": "Cho ý kiến về dự luật Tín ngưỡng, tôn giáo (sửa đổi), nhiều đại biểu lưu ý việc quản lý tài chính, sử dụng tiền cúng dường, công đức, ủng hộ, quyên góp của tín đồ, bá tánh chưa thể hiện rõ trong dự thảo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T12:37:00+07:00",
+      "fetched": "2026-04-10T20:03:44.402725+07:00"
+    },
+    {
+      "id": "a6a365c268649f8b0cc256cb6b76c18f",
+      "title": "Đại biểu Quốc hội lo 'tát nước theo mưa' khi xăng dầu tăng giá",
+      "link": "https://thanhnien.vn/dai-bieu-quoc-hoi-lo-tat-nuoc-theo-mua-khi-xang-dau-tang-gia-18526041017493125.htm",
+      "summary": "Bàn về nghị quyết về thuế xăng dầu, Đại biểu Trần Hoàng Ngân đề nghị phải có thanh, kiểm tra để đảm bảo tình hình ổn định giá cả, tránh tình trạng 'tát nước theo mưa': khi giá xăng dầu tăng, hàng hóa khác tăng nhưng khi giá giảm thì hàng hóa vẫn neo ở giá cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T12:32:00+07:00",
+      "fetched": "2026-04-10T20:03:44.402877+07:00"
+    },
+    {
+      "id": "66a253d9034e2617ea8f4fc47ed8f6ce",
+      "title": "Xe máy số Honda Dash 125 2026 nhập khẩu Malaysia về Việt Nam, giá 88 triệu đồng",
+      "link": "https://thanhnien.vn/xe-may-so-honda-dash-125-2026-nhap-khau-malaysia-ve-viet-nam-gia-88-trieu-dong-185260410103451751.htm",
+      "summary": "Phiên bản mới nhất của dòng xe máy số Honda Dash 125 2026 nhập khẩu nguyên chiếc từ Malaysia, sở hữu thiết kế thể thao, động cơ 125cc cho công suất lớn hơn các mẫu xe cùng phân khúc... vừa gia nhập thị trường Việt Nam với 4 lựa chọn màu sắc, giá 88 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T12:32:00+07:00",
+      "fetched": "2026-04-10T20:03:44.403030+07:00"
+    },
+    {
+      "id": "877ec2e4998b567cd4464486a30f710c",
+      "title": "Trường ĐH Nha Trang khép lại giải TNSV THACO cup 2026, ngày tổng kết giàu cảm xúc",
+      "link": "https://thanhnien.vn/truong-dh-nha-trang-khep-lai-giai-tnsv-thaco-cup-2026-ngay-tong-ket-giau-cam-xuc-185260410192242659.htm",
+      "summary": "Sau một tháng đăng cai TNSV THACO Cup 2026 và giải bóng đá TNSV quốc tế lần II - 2026 cúp THACO, Trường ĐH Nha Trang khép lại hành trình bằng cột mốc lịch sử, lần đầu tiến vào tứ kết trong nước và bán kết quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T12:31:00+07:00",
+      "fetched": "2026-04-10T20:03:44.403201+07:00"
+    },
+    {
+      "id": "7befc5535e5988a06c832d84a53ed6c7",
+      "title": "Ô tô con nhập làn ẩu trên cao tốc, tài xế bị phạt 5 triệu đồng",
+      "link": "https://thanhnien.vn/o-to-con-nhap-lan-au-tren-cao-toc-tai-xe-bi-phat-5-trieu-dong-185260410153004223.htm",
+      "summary": "Chiếc ô tô con phóng bạt mạng, bất chấp luật giao thông và nguy hiểm, chuyển cùng lúc 3 làn đường để nhập vào cao tốc, suýt gây tai nạn với các phương tiện cùng chiều.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T12:31:00+07:00",
+      "fetched": "2026-04-10T20:03:44.403382+07:00"
+    },
+    {
+      "id": "42603497bc223197e10e2cda679cd514",
+      "title": "Bị phạt tù vì chuyển nhượng đất không qua đấu giá",
+      "link": "https://thanhnien.vn/bi-phat-tu-vi-chuyen-nhuong-dat-khong-qua-dau-gia-185260410155443948.htm",
+      "summary": "Theo tòa, các bị cáo nhận thức rõ khu đất 39 - 39B Bến Vân Đồn là tài sản nhà nước nhưng vẫn chuyển nhượng khu đất không qua định giá, đấu giá, gây thiệt hại cho ngân sách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T12:28:00+07:00",
+      "fetched": "2026-04-10T20:03:44.403531+07:00"
+    },
+    {
+      "id": "29a6db73e97903c0724eb17885f7a75b",
+      "title": "Tầm soát ung thư tổng quát tại Bệnh viện Đa khoa quốc tế Nam Sài Gòn",
+      "link": "https://thanhnien.vn/tam-soat-ung-thu-tong-quat-tai-benh-vien-da-khoa-quoc-te-nam-sai-gon-185260410192752649.htm",
+      "summary": "Tỷ lệ chữa trị thành công ung thư ở giai đoạn sớm lên đến 80%. Nhưng phần lớn ung thư giai đoạn đầu gần như không có triệu chứng rõ ràng. Tầm soát ung thư tổng quát sớm chính là cách để tăng cơ hội sống",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T12:27:00+07:00",
+      "fetched": "2026-04-10T20:03:44.403676+07:00"
+    },
+    {
+      "id": "52c6da1ea1d3d2c42808261e4f60deac",
+      "title": "Xuất hiện người trúng độc đắc 79,1 tỉ đồng vé số Vietlott Mega 6/45 tối nay",
+      "link": "https://thanhnien.vn/xuat-hien-nguoi-trung-doc-dac-791-ti-dong-ve-so-vietlott-mega-6-45-toi-nay-185260410190129354.htm",
+      "summary": "Tối 10.4, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Mega 6/45, lần này xuất hiện một người trúng giải Jackpot với số tiền là 79,1 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T12:24:00+07:00",
+      "fetched": "2026-04-10T20:03:44.403819+07:00"
+    },
+    {
+      "id": "eb5c43a0c80c7bc2aaf8210eebfbe29a",
+      "title": "Highlight bán kết đội tuyển Việt Nam 2-3 Indonesia: Thất bại đáng tiếc, lỡ hẹn chung kết futsal Đông Nam Á",
+      "link": "https://thanhnien.vn/highlight-ban-ket-doi-tuyen-viet-nam-2-3-indonesia-that-bai-dang-tiec-lo-hen-chung-ket-futsal-dong-nam-a-18526041019175267.htm",
+      "summary": "Đội tuyển Việt Nam hai lần rút ngắn tỷ số nhưng không thể lật ngược thế trận, chấp nhận thua 2-3 trước Indonesia và lỡ cơ hội góp mặt ở chung kết futsal Đông Nam Á.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T12:17:00+07:00",
+      "fetched": "2026-04-10T20:03:44.403965+07:00"
+    },
+    {
+      "id": "729c7dc547f011c4ac28bb1233754e14",
+      "title": "Phó chủ tịch UBND TP.HCM nêu 5 nhiệm vụ trọng tâm của TP học tập toàn cầu",
+      "link": "https://thanhnien.vn/pho-chu-tich-ubnd-tphcm-neu-5-nhiem-vu-trong-tam-cua-tp-hoc-tap-toan-cau-185260410181104477.htm",
+      "summary": "Chiều nay, 10.4, UBND TP.HCM tổ chức hội nghị Hội nghị đánh giá kết quả thực hiện công tác xây dựng TP học tập toàn cầu UNESCO trên địa bàn TPHCM (giai đoạn 2024-2030) năm 2025 và triển khai phương hướng, nhiệm vụ năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T12:13:00+07:00",
+      "fetched": "2026-04-10T20:03:44.404115+07:00"
+    },
+    {
+      "id": "99a9ce30fe7fe1ce84008c400ebab9ba",
+      "title": "Hai lần đổ bể 'doanh nghiệp một người' của tôi",
+      "link": "https://vnexpress.net/khai-thue-ke-toan-doanh-nghiep-mot-nguoi-5060960.html",
+      "summary": "Tôi hai lần mở 'doanh nghiệp một người' nhưng đều gặp khó khăn với 'khai báo kế toán'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T12:00:00+07:00",
+      "fetched": "2026-04-10T20:03:41.150434+07:00"
+    },
+    {
+      "id": "9e20d26f8077ade229da92632b877f28",
+      "title": "Thời trang xa xỉ của HLV đội Real Madrid",
+      "link": "https://vnexpress.net/thoi-trang-xa-xi-cua-hlv-doi-real-madrid-5060955.html",
+      "summary": "Álvaro Arbeloa - huấn luyện viên Real Madrid - thường mặc thiết kế đắt tiền của Louis Vuitton, Brunello Cucinelli.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T12:00:00+07:00",
+      "fetched": "2026-04-10T20:03:41.150596+07:00"
+    },
+    {
+      "id": "228a93bc3e48d6cea6e7612a9c7ddc7b",
+      "title": "AI đang khiến sinh viên 'na ná nhau' thế nào",
+      "link": "https://vnexpress.net/ai-dang-khien-sinh-vien-na-na-nhau-the-nao-5060802.html",
+      "summary": "Việc sinh viên sử dụng AI gây lo ngại khi nhiều bài luận, quan điểm cá nhân hiện có cách trình bày hoặc nội dung tương tự nhau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T12:00:00+07:00",
+      "fetched": "2026-04-10T20:03:41.150753+07:00"
+    },
+    {
+      "id": "a445d92d019b1deb3daf41e07712439c",
+      "title": "NATO tìm cách xoa dịu ông Trump",
+      "link": "https://vnexpress.net/nato-tim-cach-xoa-diu-ong-trump-5060668.html",
+      "summary": "Tổng thống Trump tức giận đe dọa rút khỏi NATO vì liên minh không hỗ trợ Mỹ trong cuộc chiến Iran, buộc lãnh đạo khối này tìm cách xoa dịu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T12:00:00+07:00",
+      "fetched": "2026-04-10T20:03:41.150908+07:00"
+    },
+    {
+      "id": "9764cd69b45866626079e8cda8de6aa5",
+      "title": "VinFast bán gần 28.000 ôtô điện tháng 3",
+      "link": "https://vnexpress.net/vinfast-ban-gan-28-000-oto-dien-thang-3-5061059.html",
+      "summary": "VinFast tiếp tục là hãng ôtô bán chạy nhất thị trường Việt, mức tăng 127% so với cùng kỳ năm ngoái, cho thấy xu hướng người dùng chuyển đổi sang xe thuần điện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T12:00:00+07:00",
+      "fetched": "2026-04-10T20:03:41.151066+07:00"
+    },
+    {
+      "id": "75d31ffb68afe2153fc09b491f442a71",
+      "title": "Thương hiệu Purcotton ra mắt thị trường Việt Nam",
+      "link": "https://vnexpress.net/thuong-hieu-purcotton-ra-mat-thi-truong-viet-nam-5061048.html",
+      "summary": "Thương hiệu phong cách sống Purcotton chính thức ra mắt thị trường Việt Nam từ tháng 4, mang đến hệ sinh thái sản phẩm từ bông cotton tự nhiên với triết lý ưu tiên sức khỏe và sự bền vững.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T12:00:00+07:00",
+      "fetched": "2026-04-10T20:03:41.151238+07:00"
+    },
+    {
+      "id": "9900535f527f8dd4ed0b5f486fba9bc6",
+      "title": "Những món giải nhiệt mùa hè có thể hại thận",
+      "link": "https://vnexpress.net/nhung-mon-giai-nhiet-mua-he-co-the-hai-than-5060941.html",
+      "summary": "Nước ngọt, trà sữa hay nước ép đóng chai thường được ưa chuộng vào mùa hè, nhưng uống lượng lớn có thể khiến cơ thể khó bù nước hiệu quả, tăng gánh nặng cho thận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T12:00:00+07:00",
+      "fetched": "2026-04-10T20:03:41.151404+07:00"
+    },
+    {
+      "id": "c38e84198c81b4e8bd9de3dfb0b650d6",
+      "title": "Ngành Quản trị Kinh doanh theo hướng quốc tế tại trường Đại học Thăng Long",
+      "link": "https://vnexpress.net/nganh-quan-tri-kinh-doanh-theo-huong-quoc-te-tai-truong-dai-hoc-thang-long-5060087.html",
+      "summary": "Sinh viên chương trình Quản trị Kinh doanh định hướng chuẩn nghề nghiệp quốc tế có cơ hội thực tập tại doanh nghiệp đa quốc gia và tìm kiếm việc làm ngay trong quá trình học.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T12:00:00+07:00",
+      "fetched": "2026-04-10T20:03:41.151562+07:00"
+    },
+    {
+      "id": "a445d92d019b1deb3daf41e07712439c",
+      "title": "NATO tìm cách xoa dịu ông Trump",
+      "link": "https://vnexpress.net/nato-tim-cach-xoa-diu-ong-trump-5060668.html",
+      "summary": "Tổng thống Trump tức giận đe dọa rút khỏi NATO vì liên minh không hỗ trợ Mỹ trong cuộc chiến Iran, buộc lãnh đạo khối này tìm cách xoa dịu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-10T12:00:00+07:00",
+      "fetched": "2026-04-10T20:03:47.420414+07:00"
+    },
+    {
+      "id": "228a93bc3e48d6cea6e7612a9c7ddc7b",
+      "title": "AI đang khiến sinh viên 'na ná nhau' thế nào",
+      "link": "https://vnexpress.net/ai-dang-khien-sinh-vien-na-na-nhau-the-nao-5060802.html",
+      "summary": "Việc sinh viên sử dụng AI gây lo ngại khi nhiều bài luận, quan điểm cá nhân hiện có cách trình bày hoặc nội dung tương tự nhau.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-10T12:00:00+07:00",
+      "fetched": "2026-04-10T20:03:52.525673+07:00"
+    },
+    {
+      "id": "9b9fd5d4f7abbade3f3b5b0ab90c7c0d",
+      "title": "Quốc vương Campuchia mắc ung thư",
+      "link": "https://vnexpress.net/quoc-vuong-campuchia-mac-ung-thu-5061052.html",
+      "summary": "Quốc vương Campuchia Norodom Sihamoni thông báo ông được chẩn đoán mắc ung thư tuyến tiền liệt và sẽ ở Trung Quốc điều trị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T11:18:14+07:00",
+      "fetched": "2026-04-10T20:03:41.151715+07:00"
+    },
+    {
+      "id": "9b9fd5d4f7abbade3f3b5b0ab90c7c0d",
+      "title": "Quốc vương Campuchia mắc ung thư",
+      "link": "https://vnexpress.net/quoc-vuong-campuchia-mac-ung-thu-5061052.html",
+      "summary": "Quốc vương Campuchia Norodom Sihamoni thông báo ông được chẩn đoán mắc ung thư tuyến tiền liệt và sẽ ở Trung Quốc điều trị.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-10T11:18:14+07:00",
+      "fetched": "2026-04-10T20:03:47.420597+07:00"
+    },
+    {
+      "id": "0bd3b05ecf1fe237d287e66710296fc6",
+      "title": "Ông Trần Khải Hoàn làm Tổng giám đốc Ngân hàng Nam Á",
+      "link": "https://vnexpress.net/ong-tran-khai-hoan-lam-tong-giam-doc-ngan-hang-nam-a-5061017.html",
+      "summary": "Sau hai năm giữ vị trí quyền Tổng giám đốc, ông Trần Khải Hoàn chính thức được bổ nhiệm làm Tổng giám đốc Nam A Bank từ 10/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T11:07:54+07:00",
+      "fetched": "2026-04-10T20:03:41.151872+07:00"
+    },
+    {
+      "id": "ca3fb433d6460652c12b5683bc86ae52",
+      "title": "Đề xuất giảm thuế với xăng, dầu về 0 đến hết năm",
+      "link": "https://vnexpress.net/de-xuat-giam-thue-voi-xang-dau-ve-0-den-het-nam-5061041.html",
+      "summary": "PGS. TS Trần Hoàng Ngân kiến nghị giảm thuế với xăng, dầu về 0 đến hết năm nay, thay vì 30/6 như Chính phủ đang đề xuất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T11:06:13+07:00",
+      "fetched": "2026-04-10T20:03:41.152030+07:00"
+    },
+    {
+      "id": "ca3fb433d6460652c12b5683bc86ae52",
+      "title": "Đề xuất giảm thuế với xăng, dầu về 0 đến hết năm",
+      "link": "https://vnexpress.net/de-xuat-giam-thue-voi-xang-dau-ve-0-den-het-nam-5061041.html",
+      "summary": "PGS. TS Trần Hoàng Ngân kiến nghị giảm thuế với xăng, dầu về 0 đến hết năm nay, thay vì 30/6 như Chính phủ đang đề xuất.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-10T11:06:13+07:00",
+      "fetched": "2026-04-10T20:03:48.521675+07:00"
+    },
+    {
+      "id": "618db9810630eb7760d3cc0ca4605e1f",
+      "title": "Vợ cũ của bạn trai đòi trả con cho anh để đi lấy chồng",
+      "link": "https://vnexpress.net/yeu-nguoi-tung-co-gia-dinh-vo-cu-cua-ban-trai-doi-tra-con-cho-anh-de-di-lay-chong-5060964.html",
+      "summary": "Cô ấy chuẩn bị lấy chồng mới, gia đình chồng không muốn cô ấy mang con riêng theo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T11:00:00+07:00",
+      "fetched": "2026-04-10T20:03:41.152181+07:00"
+    },
+    {
+      "id": "993a7185f66a78b074e7c92e14496fe2",
+      "title": "Khởi tố vụ án xe tải tuột dốc làm 3 người chết",
+      "link": "https://vnexpress.net/khoi-to-vu-an-xe-tai-tuot-doc-lam-3-nguoi-chet-5061044.html",
+      "summary": "Cảnh sát xác định tài xế không thực hiện các biện pháp đảm bảo an toàn khi đậu xe tải trên triền núi Tà Zôn, gây ra vụ tai nạn thương tâm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-10T10:59:16+07:00",
+      "fetched": "2026-04-10T20:03:41.152382+07:00"
+    },
+    {
       "id": "0df76907761ec8fc44661455dfc47490",
       "title": "Bệnh viện 1.000 tỉ đồng đặt hàng sinh viên khối ngành sức khỏe Trường ĐH Cửu Long",
       "link": "https://thanhnien.vn/benh-vien-1000-ti-dong-dat-hang-sinh-vien-khoi-nganh-suc-khoe-truong-dh-cuu-long-185260410161616113.htm",
@@ -461,6 +951,16 @@ window.newsData_2026_04_10 = {
       "category": "Tổng hợp",
       "published": "2026-04-10T10:49:00+07:00",
       "fetched": "2026-04-10T17:51:27.035357+07:00"
+    },
+    {
+      "id": "fcdbc14d5d21c561223b991d74498cf2",
+      "title": "Pakistan cấm đường, phong tỏa khách sạn để tổ chức đàm phán Iran - Mỹ",
+      "link": "https://vnexpress.net/pakistan-cam-duong-phong-toa-khach-san-de-to-chuc-dam-phan-iran-my-5060971.html",
+      "summary": "Pakistan chặn mọi lối vào khu vực bán kính 3 km quanh khách sạn Serena ở thủ đô Islamabad để chuẩn bị cho cuộc đàm phán giữa Iran và Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-10T10:47:16+07:00",
+      "fetched": "2026-04-10T20:03:47.420762+07:00"
     },
     {
       "id": "873903bce921a6a03289c15d093c53c9",
