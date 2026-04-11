@@ -1,7 +1,147 @@
 window.newsData_2026_04_11 = {
   "date": "2026-04-11",
-  "lastUpdated": "2026-04-11T13:57:53.471335+07:00",
+  "lastUpdated": "2026-04-11T15:39:10.923715+07:00",
   "articles": [
+    {
+      "id": "b031c043fe96c87b322fd8c90893532d",
+      "title": "Bệnh Parkinson - nhận diện sớm, điều trị đúng để sống chủ động hơn mỗi ngày",
+      "link": "https://tuoitre.vn/benh-parkinson-nhan-dien-som-dieu-tri-dung-de-song-chu-dong-hon-moi-ngay-20260411111713387.htm",
+      "summary": "Những cập nhật gần đây cho thấy tiếp cận bệnh Parkinson không chỉ dừng lại ở kiểm soát triệu chứng vận động, mà hướng đến mục tiêu toàn diện hơn là duy trì khả năng sinh hoạt độc lập và nâng cao chất lượng cuộc sống cho người bệnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T15:39:03.985341+07:00",
+      "fetched": "2026-04-11T15:39:03.985468+07:00"
+    },
+    {
+      "id": "c4694acbe4f451878050c5b14e8438e5",
+      "title": "Có phải cha mẹ 'không biết buồn'?",
+      "link": "https://tuoitre.vn/co-phai-cha-me-khong-biet-buon-20260411102741738.htm",
+      "summary": "Nhiều người lớn vẫn nói 'Ngày xưa có ai trầm cảm đâu mà vẫn sống tốt'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T15:39:03.985158+07:00",
+      "fetched": "2026-04-11T15:39:03.985327+07:00"
+    },
+    {
+      "id": "d2b4b7db81516fce895a78033c1bd7d5",
+      "title": "Khởi tố tài xế cầm hồ sơ vi phạm giao thông rồi 'cố thủ' trong xe Mercedes",
+      "link": "https://tuoitre.vn/khoi-to-tai-xe-cam-ho-so-vi-pham-giao-thong-roi-co-thu-trong-xe-mercedes-20260411121556716.htm",
+      "summary": "Tài xế Hoàng Xuân Khoát tự ý cầm hồ sơ vi phạm, mang ra xe ô tô Mercedes GLA 50 rồi khóa cửa xe và không hợp tác với công an.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T15:39:03.985038+07:00",
+      "fetched": "2026-04-11T15:39:03.985147+07:00"
+    },
+    {
+      "id": "dba1b8dd83e754a47b5baf676ea544c6",
+      "title": "Cứ ngỡ đi siêu xe hàng chục tỉ đến đám cưới rất ngầu, tài xế nhận cái kết 'dở khóc dở cười'",
+      "link": "https://tuoitre.vn/cu-ngo-di-sieu-xe-hang-chuc-ti-den-dam-cuoi-la-rat-ngau-tai-xe-nhan-cai-ket-do-khoc-do-cuoi-20260411113941573.htm",
+      "summary": "Việc lái siêu xe Lamborghini trị giá tương đương hàng chục tỉ đồng đến đám cưới tưởng sẽ là màn xuất hiện ấn tượng, nhưng lại biến thành tình huống “dở khóc dở cười” khi xe bị cảnh sát chặn vì không có bảo hiểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T15:39:03.984917+07:00",
+      "fetched": "2026-04-11T15:39:03.985027+07:00"
+    },
+    {
+      "id": "7e37e1bf8078a770dff5f60328c5ed3c",
+      "title": "Tổng Bí thư, Chủ tịch nước trao danh hiệu Anh hùng cho Lực lượng Tham mưu Công an nhân dân",
+      "link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-trao-danh-hieu-anh-hung-cho-luc-luong-tham-muu-cong-an-nhan-dan-20260411121912808.htm",
+      "summary": "Ngày 11-4, Bộ Công an tổ chức lễ kỷ niệm 80 năm Ngày truyền thống Lực lượng Tham mưu Công an nhân dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T15:39:03.984793+07:00",
+      "fetched": "2026-04-11T15:39:03.984905+07:00"
+    },
+    {
+      "id": "119d13c2ca5060efe9bd6df2137f0e33",
+      "title": "Nhà Trắng công bố thiết kế 'khải hoàn môn' mạ vàng",
+      "link": "https://tuoitre.vn/nha-trang-cong-bo-thiet-ke-khai-hoan-mon-ma-vang-20260411125808523.htm",
+      "summary": "Nhà Trắng công bố cổng vòm mạ vàng gần nghĩa trang Arlington, thể hiện tham vọng tái định hình diện mạo Washington của ông Trump.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T15:39:03.984667+07:00",
+      "fetched": "2026-04-11T15:39:03.984781+07:00"
+    },
+    {
+      "id": "5b7e3ab718cc008ace53a52f55092608",
+      "title": "Chủ tịch Quốc hội đến Rome, bắt đầu thăm Ý",
+      "link": "https://tuoitre.vn/chu-tich-quoc-hoi-den-rome-bat-dau-tham-y-20260411131816885.htm",
+      "summary": "Dự kiến Chủ tịch Quốc hội Trần Thanh Mẫn sẽ hội đàm với các nhà lãnh đạo cấp cao nhất của Ý, gặp Giáo hoàng Leo XIV.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T15:39:03.984534+07:00",
+      "fetched": "2026-04-11T15:39:03.984651+07:00"
+    },
+    {
+      "id": "bbab4f026d712f900390ccbbda69570d",
+      "title": "Nữ du khách Pháp gãy chân khi đi xe máy ở Măng Đen, được công an hỗ trợ kịp thời",
+      "link": "https://tuoitre.vn/nu-du-khach-phap-gay-chan-khi-di-xe-may-o-mang-den-duoc-cong-an-ho-tro-kip-thoi-20260411123115792.htm",
+      "summary": "Nữ du khách Pháp bị gãy chân và được công an cùng người dân nhanh chóng hỗ trợ đưa đi cấp cứu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T15:39:03.984398+07:00",
+      "fetched": "2026-04-11T15:39:03.984522+07:00"
+    },
+    {
+      "id": "ae810932ab95a67f4b0366fd50332eff",
+      "title": "Phi hành đoàn Artemis II rạng rỡ sau sứ mệnh lịch sử",
+      "link": "https://tuoitre.vn/phi-hanh-doan-artemis-ii-rang-ro-sau-su-menh-lich-su-20260411134143446.htm",
+      "summary": "NASA công bố ảnh phi hành đoàn Artemis II rạng rỡ khi hạ cánh ngoài khơi California, khép lại hành trình bay quanh Mặt trăng trong 10 ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T15:39:03.984188+07:00",
+      "fetched": "2026-04-11T15:39:03.984383+07:00"
+    },
+    {
+      "id": "3784b33ec81db53730aa9f341e2532cd",
+      "title": "Phát hiện nam thanh niên dương tính ma túy, nằm chết trên cầu",
+      "link": "https://tuoitre.vn/phat-hien-nam-thanh-nien-duong-tinh-ma-tuy-nam-chet-tren-cau-20260411125036091.htm",
+      "summary": "Theo công an, anh Tạo nghiện ma túy, nguyên nhân tử vong là do suy tim cấp, suy hô hấp cấp, phù phổi cấp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T15:39:03.984056+07:00",
+      "fetched": "2026-04-11T15:39:03.984175+07:00"
+    },
+    {
+      "id": "12d8153de0938c3eac00acca1abc7b65",
+      "title": "Phái đoàn Mỹ đến Pakistan, chuẩn bị đàm phán với Iran",
+      "link": "https://tuoitre.vn/phai-doan-my-den-pakistan-chuan-bi-dam-phan-voi-iran-20260411140407669.htm",
+      "summary": "Một nguồn tin cấp cao tiết lộ Phó tổng thống JD Vance là người đóng vai trò thúc đẩy việc Mỹ và Iran quyết định đàm phán chấm dứt xung đột.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T15:39:03.983900+07:00",
+      "fetched": "2026-04-11T15:39:03.984043+07:00"
+    },
+    {
+      "id": "dadb8b0bafcb5a986e712aaf7149a550",
+      "title": "Ngày hội Pháp ngữ 2026 lan tỏa tiếng Pháp trong giới trẻ TP.HCM",
+      "link": "https://tuoitre.vn/ngay-hoi-phap-ngu-2026-lan-toa-tieng-phap-trong-gioi-tre-tp-hcm-20260411133947569.htm",
+      "summary": "Ngày hội Pháp ngữ 2026 tại TP.HCM thu hút đông đảo học sinh, sinh viên tham gia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T15:39:03.983760+07:00",
+      "fetched": "2026-04-11T15:39:03.983888+07:00"
+    },
+    {
+      "id": "0a38ce5a0086c0737110912dc6a8755a",
+      "title": "Có nên bỏ quy định người dân đi công chứng phải chụp ảnh cùng công chứng viên?",
+      "link": "https://tuoitre.vn/co-nen-bo-quy-dinh-nguoi-dan-di-cong-chung-phai-chup-anh-cung-cong-chung-vien-20260411141747248.htm",
+      "summary": "Việc bỏ quy định chụp ảnh tiếp tục tạo ra hai ý kiến phản đối và đồng tình khác nhau.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T15:39:03.983598+07:00",
+      "fetched": "2026-04-11T15:39:03.983738+07:00"
+    },
+    {
+      "id": "4107f4aae962654723fd4ba4a7444654",
+      "title": "Khánh thành nhà dưỡng lão Láng Sen, sẽ chăm sóc miễn phí 300 cụ già neo đơn",
+      "link": "https://tuoitre.vn/khanh-thanh-nha-duong-lao-lang-sen-se-cham-soc-mien-phi-300-cu-gia-neo-don-20260411143315215.htm",
+      "summary": "Sáng 11-4, Tòa Giám mục Long Xuyên đã tổ chức thánh lễ tạ ơn, khánh thành Cơ sở bảo trợ xã hội chăm sóc người cao tuổi Láng Sen.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T15:39:03.983345+07:00",
+      "fetched": "2026-04-11T15:39:03.983582+07:00"
+    },
     {
       "id": "bc1a247c25a714ddd45049c5ce1ac85c",
       "title": "Quảng Ngãi ra Hải Phòng học cách bứt tốc kinh tế biển",
@@ -451,6 +591,366 @@ window.newsData_2026_04_11 = {
       "category": "Tổng hợp",
       "published": "2026-04-11T09:00:52.381533+07:00",
       "fetched": "2026-04-11T09:00:52.381783+07:00"
+    },
+    {
+      "id": "4eb8cea83e0753ccb90b4d347c30bbaf",
+      "title": "Chàng trai gây chú ý với bánh kem 12 con giáp, có mẫu giá 5 triệu đồng",
+      "link": "https://thanhnien.vn/chang-trai-gay-chu-y-voi-banh-kem-12-con-giap-co-mau-gia-toi-5-trieu-185260411151101071.htm",
+      "summary": "Những chiếc bánh kem tạo hình 12 con giáp sống động của anh Phùng Văn Hữu (36 tuổi, quê Quảng Ngãi, ngụ tỉnh Bình Dương cũ) khiến nhiều người trầm trồ. Không chỉ cầu kỳ trong từng chi tiết, có mẫu bánh còn được khách đặt với giá lên đến vài triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T08:25:00+07:00",
+      "fetched": "2026-04-11T15:39:03.080507+07:00"
+    },
+    {
+      "id": "d15b0a3e1cc114cb82c5d1b1856ea284",
+      "title": "Học sinh tham dự ngày hội ngôn ngữ có nhiều người học đứng thứ 4 trên thế giới",
+      "link": "https://thanhnien.vn/hoc-sinh-tham-du-ngay-hoi-ngon-ngu-co-nhieu-nguoi-hoc-dung-thu-4-tren-the-gioi-185260411135005418.htm",
+      "summary": "Ngày 11.4, tại Trường THPT Nguyễn Thị Minh Khai (P.Xuân Hoà), Sở GD-ĐT TP.HCM phối hợp với Đại sứ quán Pháp tại Việt Nam, Tổng Lãnh sự quán Pháp tại TP.HCM và Viện Pháp tại Việt Nam tổ chức Ngày hội Pháp ngữ năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T08:23:00+07:00",
+      "fetched": "2026-04-11T15:39:03.080688+07:00"
+    },
+    {
+      "id": "d9fbc07ff9ee8e0b4a84a6349187648e",
+      "title": "Lý do nhiều người thích nhìn trộm màn hình smartphone người khác",
+      "link": "https://thanhnien.vn/ly-do-nhieu-nguoi-thich-nhin-trom-man-hinh-smartphone-nguoi-khac-185260411072605505.htm",
+      "summary": "Báo cáo của công ty nghiên cứu thị trường Censuswide cho thấy hơn một nửa người dùng ở châu Âu thừa nhận từng nhìn trộm màn hình người lạ ở nơi công cộng do cả tò mò và vô tình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T08:14:00+07:00",
+      "fetched": "2026-04-11T15:39:03.080855+07:00"
+    },
+    {
+      "id": "e84bded597ad5240e6dd549d772cd85f",
+      "title": "Nhiều khu vực ở TP.HCM cúp nước đêm 11.4 do sự cố đường ống",
+      "link": "https://thanhnien.vn/nhieu-khu-vuc-o-tphcm-cup-nuoc-dem-114-do-su-co-duong-ong-185260411145549733.htm",
+      "summary": "Nhiều khu vực ở TP.HCM sẽ cúp nước hay có nước yếu từ đêm 11.4 đến rạng sáng 12.4 để khắc phục sự cố rò rỉ đường ống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T08:07:00+07:00",
+      "fetched": "2026-04-11T15:39:03.081014+07:00"
+    },
+    {
+      "id": "ff4dc12c154f547576cc8a3eec8480b3",
+      "title": "Nghệ sĩ nhân dân Xuân Bắc giao lưu cùng thiếu nhi",
+      "link": "https://thanhnien.vn/nghe-si-nhan-dan-xuan-bac-giao-luu-cung-thieu-nhi-185260411145211052.htm",
+      "summary": "Ngày hội \"Thiếu nhi Việt Nam - Học tập tốt, rèn luyện chăm\", thu hút sự tham gia của 1.500 thiếu nhi và các thầy cô giáo là tổng phụ trách Đội. Đặc biệt nghệ sĩ nhân dân Xuân Bắc đã tham dự và giao lưu cùng thiếu nhi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T08:05:00+07:00",
+      "fetched": "2026-04-11T15:39:03.081173+07:00"
+    },
+    {
+      "id": "21e18d21c4d1ffdd69022ddd376f029d",
+      "title": "Nhiều tấm gương học sinh tiêu biểu đã được tuyên dương",
+      "link": "https://thanhnien.vn/nhieu-tam-guong-hoc-sinh-tieu-bieu-da-duoc-tuyen-duong-185260411143309377.htm",
+      "summary": "Theo Thành đoàn Hà Nội, qua phong trào \"Học sinh 3 rèn luyện\", \"Học sinh 3 tốt\", nhiều tấm gương học sinh tiêu biểu đã được phát hiện, tuyên dương và lan tỏa, trở thành nguồn cảm hứng tích cực trong học tập, rèn luyện và cống hiến vì cộng đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T08:04:00+07:00",
+      "fetched": "2026-04-11T15:39:03.081373+07:00"
+    },
+    {
+      "id": "eb767133f47e50b42420087a2f556631",
+      "title": "Samsung và NIC phát triển giáo dục STEM cho học sinh Việt",
+      "link": "https://vnexpress.net/samsung-va-nic-phat-trien-giao-duc-stem-cho-hoc-sinh-viet-5061158.html",
+      "summary": "Samsung kết hợp cùng Trung tâm Đổi mới sáng tạo quốc gia NIC tổ chức chương trình Solve for Tomorrow 2026 nhằm thúc đẩy giáo dục STEM ở Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T08:02:21+07:00",
+      "fetched": "2026-04-11T15:39:00.193484+07:00"
+    },
+    {
+      "id": "eb767133f47e50b42420087a2f556631",
+      "title": "Samsung và NIC phát triển giáo dục STEM cho học sinh Việt",
+      "link": "https://vnexpress.net/samsung-va-nic-phat-trien-giao-duc-stem-cho-hoc-sinh-viet-5061158.html",
+      "summary": "Samsung kết hợp cùng Trung tâm Đổi mới sáng tạo quốc gia NIC tổ chức chương trình Solve for Tomorrow 2026 nhằm thúc đẩy giáo dục STEM ở Việt Nam.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-11T08:02:21+07:00",
+      "fetched": "2026-04-11T15:39:10.038537+07:00"
+    },
+    {
+      "id": "60f2fb188388922efc52a8baa703cdd5",
+      "title": "Man Utd, Arsenal, Chelsea và PSG tranh mua học trò cũ của Carrick",
+      "link": "https://vnexpress.net/man-utd-arsenal-chelsea-va-psg-tranh-mua-hoc-tro-cu-cua-carrick-5061113.html",
+      "summary": "Tiền vệ công Morgan Rogers vừa gia hạn hợp đồng với Aston Villa tháng 11/2025, nhưng 4 ông lớn đang đua tranh tuyển mộ anh trong hè 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T08:02:11+07:00",
+      "fetched": "2026-04-11T15:39:00.193670+07:00"
+    },
+    {
+      "id": "60f2fb188388922efc52a8baa703cdd5",
+      "title": "Man Utd, Arsenal, Chelsea và PSG tranh mua học trò cũ của Carrick",
+      "link": "https://vnexpress.net/man-utd-arsenal-chelsea-va-psg-tranh-mua-hoc-tro-cu-cua-carrick-5061113.html",
+      "summary": "Tiền vệ công Morgan Rogers vừa gia hạn hợp đồng với Aston Villa tháng 11/2025, nhưng 4 ông lớn đang đua tranh tuyển mộ anh trong hè 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-11T08:02:11+07:00",
+      "fetched": "2026-04-11T15:39:10.914690+07:00"
+    },
+    {
+      "id": "59d93121ce1f9ec6977811414d6ed45d",
+      "title": "Hà Nội, TP HCM lọt top 10 thành phố có giá thuê văn phòng cao nhất châu Á",
+      "link": "https://vnexpress.net/ha-noi-tp-hcm-lot-top-10-thanh-pho-co-gia-thue-van-phong-cao-nhat-chau-a-5061208.html",
+      "summary": "Hai đô thị lớn nhất cả nwocs xếp thứ 5 và 6 trong top 10 thành phố có giá thuê văn phòng hạng A cao nhất khu vực, trên Bangkok, Kuala Lumpur theo JLL.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T08:01:17+07:00",
+      "fetched": "2026-04-11T15:39:00.193842+07:00"
+    },
+    {
+      "id": "4fbaeb8970292677a65ab0f5157e1e25",
+      "title": "Ba người khiêng lợn, ai nặng nhất?",
+      "link": "https://vnexpress.net/cau-do-iq-thu-tai-suy-luan-ba-nguoi-khieng-lon-ai-nang-nhat-5060798.html",
+      "summary": "Nhìn qua thì tưởng câu hỏi đơn giản, nhưng xem kỹ lại thấy không đơn giản chút nào đâu nha.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T08:00:00+07:00",
+      "fetched": "2026-04-11T15:39:00.194021+07:00"
+    },
+    {
+      "id": "0eadd34177b239e6d560cd74f1a507ba",
+      "title": "ICE có thể truy quét mạng lưới 'du lịch sinh con' lấy quốc tịch Mỹ",
+      "link": "https://vnexpress.net/ice-co-the-truy-quet-mang-luoi-du-lich-sinh-con-lay-quoc-tich-my-5061218.html",
+      "summary": "Mỹ đang lên kế hoạch triệt phá những đường dây môi giới đưa phụ nữ mang thai đến Mỹ sinh con nhằm lấy quốc tịch cho đứa trẻ, theo Reuters.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T07:58:12+07:00",
+      "fetched": "2026-04-11T15:39:00.194184+07:00"
+    },
+    {
+      "id": "0eadd34177b239e6d560cd74f1a507ba",
+      "title": "ICE có thể truy quét mạng lưới 'du lịch sinh con' lấy quốc tịch Mỹ",
+      "link": "https://vnexpress.net/ice-co-the-truy-quet-mang-luoi-du-lich-sinh-con-lay-quoc-tich-my-5061218.html",
+      "summary": "Mỹ đang lên kế hoạch triệt phá những đường dây môi giới đưa phụ nữ mang thai đến Mỹ sinh con nhằm lấy quốc tịch cho đứa trẻ, theo Reuters.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-11T07:58:12+07:00",
+      "fetched": "2026-04-11T15:39:05.455253+07:00"
+    },
+    {
+      "id": "9288f1bf62aa9577679c00e53da6a158",
+      "title": "Con trai út Michael Jackson hiếm hoi đi thảm đỏ",
+      "link": "https://vnexpress.net/con-trai-ut-michael-jackson-hiem-hoi-di-tham-do-5061203.html",
+      "summary": "Bigi - con út của danh ca Michael Jackson - gây chú ý khi dự buổi ra mắt phim tiểu sử về cha cùng anh trai và họ hàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T07:55:22+07:00",
+      "fetched": "2026-04-11T15:39:00.194373+07:00"
+    },
+    {
+      "id": "48e088b3c5b6a86c3b9ace4e81c34299",
+      "title": "Hành trình về Trái Đất của phi hành đoàn Artemis II",
+      "link": "https://vnexpress.net/hanh-trinh-ve-trai-dat-cua-phi-hanh-doan-artemis-ii-5061199.html",
+      "summary": "Sau khi  quanh Mặt Trăng, tàu Orion chở phi hành đoàn Artemis II tái nhập khí quyển, bung dù giảm tốc và đáp xuống Thái Bình Dương an toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T07:51:41+07:00",
+      "fetched": "2026-04-11T15:39:00.194534+07:00"
+    },
+    {
+      "id": "48e088b3c5b6a86c3b9ace4e81c34299",
+      "title": "Hành trình về Trái Đất của phi hành đoàn Artemis II",
+      "link": "https://vnexpress.net/hanh-trinh-ve-trai-dat-cua-phi-hanh-doan-artemis-ii-5061199.html",
+      "summary": "Sau khi  quanh Mặt Trăng, tàu Orion chở phi hành đoàn Artemis II tái nhập khí quyển, bung dù giảm tốc và đáp xuống Thái Bình Dương an toàn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-11T07:51:41+07:00",
+      "fetched": "2026-04-11T15:39:10.037534+07:00"
+    },
+    {
+      "id": "6a2ed3628aebad781e6d29b91e3af43d",
+      "title": "TP.HCM ký kết với Vùng Cảnh sát biển 3 tăng cường bảo vệ chủ quyền biển đảo",
+      "link": "https://thanhnien.vn/tphcm-ky-ket-voi-vung-canh-sat-bien-3-tang-cuong-bao-ve-chu-quyen-bien-dao-185260411134606477.htm",
+      "summary": "Ủy ban MTTQ Việt Nam TP.HCM và Bộ Tư lệnh Vùng Cảnh sát biển 3 đã ký kết chương trình phối hợp giai đoạn 2026 - 2030, hướng tới tăng cường tuyên truyền, đồng hành với ngư dân và chăm lo lực lượng nơi tuyến đầu biển đảo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T07:46:00+07:00",
+      "fetched": "2026-04-11T15:39:03.081533+07:00"
+    },
+    {
+      "id": "7af80b15741bf98d000a4f12f0aa44c5",
+      "title": "Quy định mới về công tác chính trị, tư tưởng trong Đảng",
+      "link": "https://vnexpress.net/quy-dinh-moi-ve-cong-tac-chinh-tri-tu-tuong-trong-dang-5061104.html",
+      "summary": "Quy định 19 của Trung ương xác định công tác chính trị, tư tưởng là nhiệm vụ nền tảng, yêu cầu nâng cao trách nhiệm tổ chức đảng, cán bộ, đảng viên, người đứng đầu, giữ vững sự thống nhất trong toàn hệ thống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T07:45:06+07:00",
+      "fetched": "2026-04-11T15:39:00.194695+07:00"
+    },
+    {
+      "id": "320393508ab581cf936cb7031ec0d41a",
+      "title": "Trường Y Dược - Đại học Trà Vinh: Đưa tri thức y khoa đến gần người dân",
+      "link": "https://thanhnien.vn/truong-y-duoc-dai-hoc-tra-vinh-dua-tri-thuc-y-khoa-den-gan-nguoi-dan-185260411114336695.htm",
+      "summary": "Hội nghị khoa học sức khỏe 2026, Trường Y Dược - Đại học Trà Vinh kết nối nghiên cứu với thực tiễn, hướng tri thức y khoa phục vụ cộng đồng, nhất là vùng khó khăn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T07:44:00+07:00",
+      "fetched": "2026-04-11T15:39:03.081689+07:00"
+    },
+    {
+      "id": "cb5abfe391ae543f396a3f79577de134",
+      "title": "Cuộc đấu trên bàn đàm phán của Mỹ và Iran",
+      "link": "https://vnexpress.net/cuoc-dau-tren-ban-dam-phan-cua-my-va-iran-5061135.html",
+      "summary": "Iran bước vào bàn đàm phán ở Pakistan với \"lá bài tẩy\" Hormuz, nhưng Mỹ tin rằng họ có thể khai thông eo biển bằng cách này hay cách khác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T07:42:00+07:00",
+      "fetched": "2026-04-11T15:39:00.194855+07:00"
+    },
+    {
+      "id": "cb5abfe391ae543f396a3f79577de134",
+      "title": "Cuộc đấu trên bàn đàm phán của Mỹ và Iran",
+      "link": "https://vnexpress.net/cuoc-dau-tren-ban-dam-phan-cua-my-va-iran-5061135.html",
+      "summary": "Iran bước vào bàn đàm phán ở Pakistan với \"lá bài tẩy\" Hormuz, nhưng Mỹ tin rằng họ có thể khai thông eo biển bằng cách này hay cách khác.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-11T07:42:00+07:00",
+      "fetched": "2026-04-11T15:39:05.455436+07:00"
+    },
+    {
+      "id": "3ff289e02289ad19bf9d02e3698cd378",
+      "title": "Cháy căn hộ tầng 10 chung cư ở TP HCM",
+      "link": "https://vnexpress.net/chay-can-ho-tang-10-chung-cu-o-tp-hcm-5061214.html",
+      "summary": "Đám cháy bùng lên tại căn hộ ở tầng 10 trong chung cư 45 tầng trên đường Nguyễn Hữu Cảnh (quận Bình Thạnh cũ), nhiều cư dân phải sơ tán, trưa 11/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T07:41:19+07:00",
+      "fetched": "2026-04-11T15:39:00.195017+07:00"
+    },
+    {
+      "id": "502742d41ced18e92e8f700c3bc2426e",
+      "title": "Tiêm vaccine cúm hàng năm có làm quá tải miễn dịch?",
+      "link": "https://vnexpress.net/tiem-vaccine-cum-hang-nam-co-lam-qua-tai-mien-dich-5061210.html",
+      "summary": "Tôi đã tiêm vaccine cúm hai năm liên tiếp và thấy ngừa cúm hiệu quả. Tuần tới, tôi có hẹn lịch tiêm mũi nhắc, có làm quá tải miễn dịch? (Thiên An, 30 tuổi, Phú Thọ)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T07:30:00+07:00",
+      "fetched": "2026-04-11T15:39:00.195171+07:00"
+    },
+    {
+      "id": "8ea32049e0381699cf56a411fa19a533",
+      "title": "Văn phòng Bộ Công an nhận danh hiệu Anh hùng Lực lượng vũ trang nhân dân",
+      "link": "https://vnexpress.net/van-phong-bo-cong-an-nhan-danh-hieu-anh-hung-luc-luong-vu-trang-nhan-dan-5061212.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm đã trao tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Văn phòng Bộ Công an, tại lễ kỷ niệm 80 năm tham mưu Công an nhân dân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T07:28:38+07:00",
+      "fetched": "2026-04-11T15:39:00.195354+07:00"
+    },
+    {
+      "id": "2cdc42364077222171c79d2ad7beb39f",
+      "title": "Vé số trúng độc đắc 79,1 tỉ đồng của Vietlott được bán ra ở đâu?",
+      "link": "https://thanhnien.vn/ve-so-trung-doc-dac-791-ti-dong-cua-vietlott-duoc-ban-ra-o-dau-185260411132356433.htm",
+      "summary": "Sáng 11.4, Vietlott thông báo tờ vé số độc đắc loại hình xổ số Mega 6/45 với số tiền là 79,1 tỉ đồng được bán ra tại TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T07:28:00+07:00",
+      "fetched": "2026-04-11T15:39:03.081839+07:00"
+    },
+    {
+      "id": "8548f7bc57688e70fc5aaab8851f6b4d",
+      "title": "Sài Gòn qua lăng kính tuổi thơ của Phạm Công Luận",
+      "link": "https://thanhnien.vn/sai-gon-qua-lang-kinh-tuoi-tho-cua-pham-cong-luan-185260411124721666.htm",
+      "summary": "Nhà văn, nhà báo Phạm Công Luận vừa ra mắt hai tác phẩm mới Bát tiên xóm con chuột và Lãng khách chợ Ga. Đây là bộ đôi tác phẩm mang đậm dấu ấn ký ức và văn hóa Sài Gòn, dành cho thiếu nhi và cả những độc giả từng đi qua tuổi thơ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T07:14:00+07:00",
+      "fetched": "2026-04-11T15:39:03.081989+07:00"
+    },
+    {
+      "id": "c63759f52a8b28b24898ad55c52c8fe9",
+      "title": "Vì sao phụ nữ muốn ngủ nhiều hơn nam giới?",
+      "link": "https://vnexpress.net/vi-sao-phu-nu-muon-ngu-nhieu-hon-nam-gioi-5061082.html",
+      "summary": "Dù có thời gian ngủ trung bình dài hơn nam giới, phụ nữ lại dễ gặp các vấn đề về giấc ngủ và cảm thấy kiệt sức hơn do khác biệt về sinh học và áp lực xã hội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T07:13:06+07:00",
+      "fetched": "2026-04-11T15:39:00.195516+07:00"
+    },
+    {
+      "id": "c777740049218585a6c56207f70b07b6",
+      "title": "Dinh dưỡng khoa học: 'Chìa khóa vàng' kiểm soát bệnh tiểu đường",
+      "link": "https://thanhnien.vn/dinh-duong-khoa-hoc-chia-khoa-vang-kiem-soat-benh-tieu-duong-185260411141118525.htm",
+      "summary": "Dinh dưỡng đóng vai trò cốt lõi trong kiểm soát đường huyết và ngăn ngừa biến chứng nguy hiểm của bệnh tiểu đường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T07:11:00+07:00",
+      "fetched": "2026-04-11T15:39:03.082187+07:00"
+    },
+    {
+      "id": "f396ca175422f6eaa575d699e2d9ea99",
+      "title": "iPhone 5c bị lãng quên bất ngờ gây sốt trở lại",
+      "link": "https://thanhnien.vn/iphone-5c-bi-lang-quen-bat-ngo-gay-sot-tro-lai-185260411092723966.htm",
+      "summary": "Chiếc iPhone 5c đang trải qua một cuộc hồi sinh thú vị, không phải vì nó là một sản phẩm bị lãng quên, mà vì sức hút đặc biệt từ Gen Z.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T07:07:00+07:00",
+      "fetched": "2026-04-11T15:39:03.082382+07:00"
+    },
+    {
+      "id": "0cc71fee0cba9221fccdbe3a211033b9",
+      "title": "Tòa án Mỹ nghi ngờ tính pháp lý của thuế nhập khẩu 10%",
+      "link": "https://vnexpress.net/toa-an-my-nghi-ngo-tinh-phap-ly-cua-thue-nhap-khau-10-5061177.html",
+      "summary": "Các thẩm phán cho rằng thâm hụt thương mại lớn có thể không đủ là lý do để ông Trump áp thuế nhập khẩu diện rộng như vậy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T07:05:58+07:00",
+      "fetched": "2026-04-11T15:39:00.195678+07:00"
+    },
+    {
+      "id": "0cc71fee0cba9221fccdbe3a211033b9",
+      "title": "Tòa án Mỹ nghi ngờ tính pháp lý của thuế nhập khẩu 10%",
+      "link": "https://vnexpress.net/toa-an-my-nghi-ngo-tinh-phap-ly-cua-thue-nhap-khau-10-5061177.html",
+      "summary": "Các thẩm phán cho rằng thâm hụt thương mại lớn có thể không đủ là lý do để ông Trump áp thuế nhập khẩu diện rộng như vậy.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-11T07:05:58+07:00",
+      "fetched": "2026-04-11T15:39:06.955982+07:00"
+    },
+    {
+      "id": "0f6a98b38f8fdabd091d947f22b3051b",
+      "title": "'Món quà của sự sống' đạt giải nhất cuộc tuyển chọn kịch bản phim tài liệu",
+      "link": "https://thanhnien.vn/mon-qua-cua-su-song-dat-giai-nhat-cuoc-tuyen-chon-kich-ban-phim-tai-lieu-185260411114132324.htm",
+      "summary": "'Món quà của sự sống' của tác giả Nguyễn Thị Phương Lan đạt giải nhất trong cuộc tuyển chọn kịch bản phim tài liệu năm 2025 - 2026 với chủ đề 'Việt Nam - những giá trị còn mãi' do Đài Truyền hình Việt Nam tổ chức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T07:05:00+07:00",
+      "fetched": "2026-04-11T15:39:03.082543+07:00"
+    },
+    {
+      "id": "b53563364a362cd42e13132bae0088e2",
+      "title": "Xử lý cơ sở giết mổ gia cầm vứt lông gà xuống sông gây ô nhiễm",
+      "link": "https://thanhnien.vn/xu-ly-co-so-giet-mo-gia-cam-vut-long-ga-xuong-song-gay-o-nhiem-185260411125703496.htm",
+      "summary": "Làm nghề giết mổ gia cầm tại nhà, ông N.V.H không xử lý chất thải đúng quy định mà thuê người vứt lông gà xuống đoạn sông gần chợ khiến nhiều người bức xúc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T07:02:00+07:00",
+      "fetched": "2026-04-11T15:39:03.082698+07:00"
+    },
+    {
+      "id": "59a11b6abe8509a3e12f7b131e428a72",
+      "title": "Vì sao đột quỵ cần cấp cứu khẩn?",
+      "link": "https://vnexpress.net/vi-sao-dot-quy-can-cap-cuu-khan-5060951.html",
+      "summary": "Đột quỵ tiến triển rất nhanh, khiến não mất khoảng 2 triệu tế bào mỗi phút khi không được điều trị, nên can thiệp kịp thời là yếu tố quyết định sống còn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T07:00:00+07:00",
+      "fetched": "2026-04-11T15:39:00.195838+07:00"
+    },
+    {
+      "id": "1134ed791393b4a6e3ab9dab92403dc5",
+      "title": "Lịch thi đấu billiards mới nhất: Chiêm Hồng Thái chạm trán 'vua thời gian'",
+      "link": "https://thanhnien.vn/lich-thi-dau-billiards-moi-nhat-chiem-hong-thai-cham-tran-vua-thoi-gian-185260411135318956.htm",
+      "summary": "Chiêm Hồng Thái và Trần Thanh Lực là 2 niềm kỳ vọng của carom 3 băng Việt Nam góp mặt tranh tài tại vòng knock-out giải World Cup billiards Bogota 2026 đang diễn ra tại Colombia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T07:00:00+07:00",
+      "fetched": "2026-04-11T15:39:03.082849+07:00"
     },
     {
       "id": "7aa8645c019134a637c4e6c62164d90f",
