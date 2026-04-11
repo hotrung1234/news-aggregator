@@ -1,6 +1,6 @@
 window.newsData_2026_04_12 = {
   "date": "2026-04-12",
-  "lastUpdated": "2026-04-12T03:29:33.005096+07:00",
+  "lastUpdated": "2026-04-12T05:29:20.757470+07:00",
   "articles": [
     {
       "id": "f64b9c59d812e045249d0e68e1fea7fa",
@@ -151,6 +151,216 @@ window.newsData_2026_04_12 = {
       "category": "Tổng hợp",
       "published": "2026-04-12T01:40:17.538014+07:00",
       "fetched": "2026-04-12T01:40:17.538248+07:00"
+    },
+    {
+      "id": "f24f6509b7d53d696c601bd5760f0387",
+      "title": "Cuộc bầu cử không chỉ của Hungary",
+      "link": "https://thanhnien.vn/cuoc-bau-cu-khong-chi-cua-hungary-185260411213801898.htm",
+      "summary": "Cuộc bầu cử quốc hội vào ngày 12.4 được xem là một thời khắc quan trọng trong lịch sử hiện đại của Hungary, và sẽ được EU, Nga cũng như Mỹ theo dõi sát sao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T22:20:00+07:00",
+      "fetched": "2026-04-12T05:29:13.107074+07:00"
+    },
+    {
+      "id": "63173f353948e116c5e7a17de0ba7d10",
+      "title": "Đề xuất lập ủy ban đánh giá năng lực ông Trump",
+      "link": "https://thanhnien.vn/de-xuat-lap-uy-ban-danh-gia-nang-luc-ong-trump-185260411230622133.htm",
+      "summary": "Nghị sĩ đảng Dân chủ Jamie Raskin ngày 10.4 cho biết sẽ trình lên Hạ viện Mỹ dự luật thành lập một ủy ban đặc biệt nhằm đánh giá năng lực thực hiện nhiệm vụ của tổng thống, theo Reuters.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T22:17:00+07:00",
+      "fetched": "2026-04-12T05:29:13.107222+07:00"
+    },
+    {
+      "id": "b3b0c9fa3cec996a29b0b11cc04574f5",
+      "title": "Tử vi ngày 12 tháng 4: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-12-thang-4-con-giap-nao-may-man-hom-nay-185260412002442781.htm",
+      "summary": "Tử vi ngày 12 tháng 4 mang đến những gợi ý tham khảo cho 12 con giáp ngày cuối tuần. Điểm đáng chú ý là 'đổi nhịp sống'. Sau những ngày làm việc liên tục, nhiều người cần điều chỉnh lại cách sinh hoạt để tránh hụt năng lượng. Tài lộc không đến từ việc cố gắng hơn, mà từ việc bạn biết dừng đúng lúc v...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T22:15:00+07:00",
+      "fetched": "2026-04-12T05:29:13.107358+07:00"
+    },
+    {
+      "id": "3449389d43e990985890ec5c269c569d",
+      "title": "Chiến sự Ukraine ngày 1.508: Nga tạm dừng hoạt động quân sự dịp Lễ Phục sinh",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1508-nga-tam-dung-hoat-dong-quan-su-dip-le-phuc-sinh-185260411102515237.htm",
+      "summary": "Nga tuyên bố ngừng mọi hoạt động quân sự trong thời gian thỏa thuận ngừng bắn dịp Lễ Phục sinh với Ukraine có hiệu lực, và hai bên đã có cuộc trao trả tù nhân mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T22:13:00+07:00",
+      "fetched": "2026-04-12T05:29:13.107493+07:00"
+    },
+    {
+      "id": "0f4e0f82c2091cb1ce0ba7018f9a726b",
+      "title": "Việt Nam bứt tốc giao thông xanh",
+      "link": "https://thanhnien.vn/viet-nam-but-toc-giao-thong-xanh-185260411215157015.htm",
+      "summary": "Cú sốc giá xăng dầu cùng đợt nắng nóng lịch sử đang vô tình tạo thành bệ phóng đẩy giao thông xanh chuyển mình thần tốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T22:09:00+07:00",
+      "fetched": "2026-04-12T05:29:13.107637+07:00"
+    },
+    {
+      "id": "71f9f7109a0148ec85d4120fc3d9b824",
+      "title": "Trung Quốc, thị trường tiêu thụ lớn của Việt Nam",
+      "link": "https://thanhnien.vn/trung-quoc-thi-truong-tieu-thu-lon-cua-viet-nam-185260411182802698.htm",
+      "summary": "Với lợi thế về vị trí địa lý, văn hóa, thị trường 1,5 tỉ dân ở Trung Quốc đang vươn lên trở thành nơi tiêu thụ hàng đầu các mặt hàng xuất khẩu chủ lực từ VN.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T22:08:00+07:00",
+      "fetched": "2026-04-12T05:29:13.107765+07:00"
+    },
+    {
+      "id": "d2187ffe3f76e85bee18c852c239d83c",
+      "title": "Dấu hiệu cảnh báo ung thư miệng không nên bỏ qua",
+      "link": "https://vnexpress.net/dau-hieu-canh-bao-ung-thu-mieng-khong-nen-bo-qua-5060563.html",
+      "summary": "Ung thư miệng thường khởi phát âm thầm với loét lâu lành, mảng trắng hoặc đỏ trong miệng, kèm khó nhai, nuốt hoặc cảm giác bất thường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T22:05:00+07:00",
+      "fetched": "2026-04-12T05:29:10.273954+07:00"
+    },
+    {
+      "id": "620670171228b6c2d135a1bfcbcf2181",
+      "title": "Tư lệnh Pakistan đứng sau bước ngoặt ngoại giao Mỹ - Iran",
+      "link": "https://vnexpress.net/tu-lenh-pakistan-dung-sau-buoc-ngoat-ngoai-giao-my-iran-5061129.html",
+      "summary": "Tư lệnh Lục quân Pakistan Munir đã tận dụng quan hệ tốt giữa nước này với cả Mỹ lẫn Iran để thúc đẩy hai nước ngừng bắn và nối lại đàm phán.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T22:00:00+07:00",
+      "fetched": "2026-04-12T05:29:10.274109+07:00"
+    },
+    {
+      "id": "7ae8399e31dd30b141582986e3ca06d4",
+      "title": "10 thay đổi dự kiến trên iPhone 18 Pro",
+      "link": "https://vnexpress.net/10-thay-doi-du-kien-tren-iphone-18-pro-5058375.html",
+      "summary": "Dựa trên thông tin từ chuỗi cung ứng, người dùng có thể phần nào thấy được \"chân dung\" của iPhone 18 Pro và 18 Pro Max.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T22:00:00+07:00",
+      "fetched": "2026-04-12T05:29:10.274246+07:00"
+    },
+    {
+      "id": "bacf9f01d899dd03ab38d8c0e85dbebd",
+      "title": "Honda Super-N - kei-car điện bán ở châu Âu",
+      "link": "https://vnexpress.net/honda-super-n-kei-car-dien-ban-o-chau-au-5061132.html",
+      "summary": "Super-N kết hợp giữa dòng kei-car truyền thống, hộp số ảo, chế độ tăng công suất và năng lượng của những chiếc hatchback thể thao những năm 1980.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T22:00:00+07:00",
+      "fetched": "2026-04-12T05:29:10.274382+07:00"
+    },
+    {
+      "id": "1679abfcefc031eabd666618777aa200",
+      "title": "Triển vọng nào cho đàm phán Mỹ - Iran?",
+      "link": "https://thanhnien.vn/trien-vong-nao-cho-dam-phan-my-iran-185260411230124968.htm",
+      "summary": "Mỹ và Iran đã bước vào cuộc đàm phán cấp cao trực tiếp để giải quyết cuộc xung đột hiện tại giữa bối cảnh còn tồn tại nhiều thách thức và rào cản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T22:00:00+07:00",
+      "fetched": "2026-04-12T05:29:13.107892+07:00"
+    },
+    {
+      "id": "f027bd272c0c9477e157e9028a92299f",
+      "title": "Ngày 12.4 là ngày gì theo lịch dương, lịch âm hôm nay mà người Việt quan tâm?",
+      "link": "https://thanhnien.vn/ngay-124-la-ngay-gi-theo-lich-duong-lich-am-hom-nay-ma-nguoi-viet-quan-tam-18526041121032246.htm",
+      "summary": "Theo lịch dương, lịch âm hôm nay ngày 12.4 là có phải ngày đặc biệt ở Việt Nam và trên thế giới?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T22:00:00+07:00",
+      "fetched": "2026-04-12T05:29:13.108018+07:00"
+    },
+    {
+      "id": "620670171228b6c2d135a1bfcbcf2181",
+      "title": "Tư lệnh Pakistan đứng sau bước ngoặt ngoại giao Mỹ - Iran",
+      "link": "https://vnexpress.net/tu-lenh-pakistan-dung-sau-buoc-ngoat-ngoai-giao-my-iran-5061129.html",
+      "summary": "Tư lệnh Lục quân Pakistan Munir đã tận dụng quan hệ tốt giữa nước này với cả Mỹ lẫn Iran để thúc đẩy hai nước ngừng bắn và nối lại đàm phán.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-11T22:00:00+07:00",
+      "fetched": "2026-04-12T05:29:15.675614+07:00"
+    },
+    {
+      "id": "7ae8399e31dd30b141582986e3ca06d4",
+      "title": "10 thay đổi dự kiến trên iPhone 18 Pro",
+      "link": "https://vnexpress.net/10-thay-doi-du-kien-tren-iphone-18-pro-5058375.html",
+      "summary": "Dựa trên thông tin từ chuỗi cung ứng, người dùng có thể phần nào thấy được \"chân dung\" của iPhone 18 Pro và 18 Pro Max.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-11T22:00:00+07:00",
+      "fetched": "2026-04-12T05:29:18.884264+07:00"
+    },
+    {
+      "id": "eb6fa45e6742d1c78e75193ba1e5efc5",
+      "title": "Hạ viện Mỹ sẽ điều trần với nạn nhân Epstein",
+      "link": "https://thanhnien.vn/ha-vien-my-se-dieu-tran-voi-nan-nhan-epstein-185260411231438978.htm",
+      "summary": "Chủ tịch Ủy ban Giám sát Hạ viện Mỹ James Comer ngày 10.4 cho biết Quốc hội sẽ tổ chức các phiên điều trần với các nạn nhân của cố tỉ ấu dâm phú Jeffrey Epstein, sau khi Đệ nhất phu nhân Melania Trump kêu gọi lấy lời khai công khai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T21:48:00+07:00",
+      "fetched": "2026-04-12T05:29:13.108150+07:00"
+    },
+    {
+      "id": "23634981dfd9299c3e32934d73777eb5",
+      "title": "Vụ 42 cây mai vàng ở Côn Đảo: Khi nào phải chứng minh hồ sơ lâm sản?",
+      "link": "https://thanhnien.vn/vu-42-cay-mai-vang-o-con-dao-khi-nao-phai-chung-minh-ho-so-lam-san-185260411171800764.htm",
+      "summary": "Trong vụ tịch thu 42 cây mai vàng ở Côn Đảo, người dân không cần bảng kê lâm sản khi không có nguồn gốc khai thác từ rừng; không thuộc loài nguy cấp quý hiếm, bảo tồn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T21:31:00+07:00",
+      "fetched": "2026-04-12T05:29:13.108276+07:00"
+    },
+    {
+      "id": "5b2ccf8f322b89e45d5fdb2a7ada1ae0",
+      "title": "Tình hình Trung Đông sáng 12.4: Chờ thông tin mới nhất từ cuộc đàm phán Mỹ - Iran",
+      "link": "https://thanhnien.vn/tinh-hinh-trung-dong-sang-124-cho-thong-tin-moi-nhat-tu-cuoc-dam-phan-my-iran-185260411214054139.htm",
+      "summary": "Cuộc đàm phán cấp cao nhất giữa Mỹ và Iran trong nhiều thập niên tiếp tục diễn ra tại Pakistan và thế giới vẫn đang dõi theo rất sát sao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T21:30:00+07:00",
+      "fetched": "2026-04-12T05:29:13.108400+07:00"
+    },
+    {
+      "id": "a640b29c7c153e5cd9887a646020532c",
+      "title": "Billiards: Chiêm Hồng Thái đánh bại 'vua thời gian', vào tứ kết theo kịch bản bất ngờ",
+      "link": "https://thanhnien.vn/billiards-chiem-hong-thai-danh-bai-vua-thoi-gian-vao-tu-ket-theo-kich-ban-bat-ngo-18526041202145036.htm",
+      "summary": "Tay cơ trẻ của Việt Nam Chiêm Hồng Thái đã có màn trình diễn xuất sắc ở vòng đấu knock-out để giành chiến thắng đầy thuyết phục trước Jeremy Bury, qua đó lấy vé vào chơi tứ kết giải World Cup billiards Bogota 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T21:05:00+07:00",
+      "fetched": "2026-04-12T05:29:13.108528+07:00"
+    },
+    {
+      "id": "a7bca3110c44c342573f78771bf625b1",
+      "title": "Philippines dừng ưu đãi ôtô xăng, mở đường cho kỷ nguyên xe điện",
+      "link": "https://vnexpress.net/philippines-dung-uu-dai-oto-xang-mo-duong-cho-ky-nguyen-xe-dien-5061175.html",
+      "summary": "Manila kết thúc chương trình hỗ trợ sản xuất ôtô từ 2015, chuyển ngân sách sang các ưu đãi tài chính và phi tài chính để thúc đẩy xe điện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T21:00:00+07:00",
+      "fetched": "2026-04-12T05:29:10.274516+07:00"
+    },
+    {
+      "id": "a424418211de582ea9dc300008872730",
+      "title": "Artemis 2 hoàn thành sứ mệnh lịch sử",
+      "link": "https://thanhnien.vn/artemis-2-hoan-thanh-su-menh-lich-su-185260411205746382.htm",
+      "summary": "Sáng qua (giờ VN), tàu vũ trụ Orion chở theo 4 phi hành gia Mỹ và Canada đã hạ cánh an toàn bằng dù xuống Thái Bình Dương, theo Reuters.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T21:00:00+07:00",
+      "fetched": "2026-04-12T05:29:13.108666+07:00"
+    },
+    {
+      "id": "40e3f4a030f6eb56095513345a48aa62",
+      "title": "Dự báo dân số Việt Nam giảm mạnh: Đừng đổ lỗi cho phụ nữ ‘lười sinh con’",
+      "link": "https://thanhnien.vn/du-bao-dan-so-viet-nam-giam-manh-dung-do-loi-cho-phu-nu-luoi-sinh-con-185260411191952263.htm",
+      "summary": "Giáo sư - tiến sĩ Nguyễn Thiện Nhân nhấn mạnh, đừng nói phụ nữ TP.HCM 'lười sinh con', bởi phía sau mức sinh thấp là những rào cản rất thực tế về thu nhập, nhà ở và chi phí nuôi dạy con.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T21:00:00+07:00",
+      "fetched": "2026-04-12T05:29:13.108795+07:00"
     },
     {
       "id": "01915dcb776e8ba5785700a464498384",
