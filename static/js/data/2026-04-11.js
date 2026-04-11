@@ -1,7 +1,157 @@
 window.newsData_2026_04_11 = {
   "date": "2026-04-11",
-  "lastUpdated": "2026-04-11T12:24:10.203361+07:00",
+  "lastUpdated": "2026-04-11T13:57:53.471335+07:00",
   "articles": [
+    {
+      "id": "bc1a247c25a714ddd45049c5ce1ac85c",
+      "title": "Quảng Ngãi ra Hải Phòng học cách bứt tốc kinh tế biển",
+      "link": "https://tuoitre.vn/quang-ngai-ra-hai-phong-hoc-cach-but-toc-kinh-te-bien-20260411102724251.htm",
+      "summary": "Lãnh đạo Quảng Ngãi ra Hải Phòng học hỏi kinh nghiệm, quyết tâm tháo gỡ các \"điểm nghẽn\" trong phát triển công nghiệp và kinh tế biển.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T13:57:47.399716+07:00",
+      "fetched": "2026-04-11T13:57:47.399807+07:00"
+    },
+    {
+      "id": "844feb76e1c0701f218098360851692f",
+      "title": "‘Bí quyết’ Đà Nẵng tháo gỡ 1.981 dự án, đất đai vướng kết luận thanh tra, bản án",
+      "link": "https://tuoitre.vn/bi-quyet-da-nang-thao-go-1-981-du-an-dat-dai-vuong-ket-luan-thanh-tra-ban-an-20260411095231959.htm",
+      "summary": "Đến nay Đà Nẵng đã xử lý 1.981 dự án, đất đai vướng kết luận thanh tra, bản án. Điều gì đứng sau kết quả này?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T13:57:47.399597+07:00",
+      "fetched": "2026-04-11T13:57:47.399704+07:00"
+    },
+    {
+      "id": "f3cbc893d94b01c924cc965b3ecb0d31",
+      "title": "Làn sóng máy tính lượng tử sau cơn sốt AI",
+      "link": "https://tuoitre.vn/lan-song-may-tinh-luong-tu-sau-con-sot-ai-20260410231901369.htm",
+      "summary": "Hàng loạt công ty máy tính lượng tử lên sàn, dòng tiền lan rộng toàn ngành, cho thấy công nghệ này bắt đầu bước vào giai đoạn thương mại hóa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T13:57:47.399493+07:00",
+      "fetched": "2026-04-11T13:57:47.399589+07:00"
+    },
+    {
+      "id": "d539c474ac11ac152fadc1ce1106b084",
+      "title": "Không cho ủy quyền ký giấy chứng tử, chủ tịch xã đi họp cả tháng, người dân làm thế nào?",
+      "link": "https://tuoitre.vn/khong-cho-uy-quyen-ky-giay-chung-tu-chu-tich-xa-di-hop-ca-thang-nguoi-dan-lam-the-nao-20260411104319565.htm",
+      "summary": "Đại biểu Quốc hội đề nghị sửa dự Luật Hộ tịch, cho phép chủ tịch UBND cấp xã ủy quyền ký giấy khai sinh, khai tử.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T13:57:47.399394+07:00",
+      "fetched": "2026-04-11T13:57:47.399485+07:00"
+    },
+    {
+      "id": "c1bb6de08b0c2c6f15e8311177d8289e",
+      "title": "Nắng nóng gay gắt làm gia tăng nguy cơ đột quỵ",
+      "link": "https://tuoitre.vn/nang-nong-gay-gat-lam-gia-tang-nguy-co-dot-quy-2026041111251638.htm",
+      "summary": "Hiện khoa bệnh lý mạch máu não Bệnh viện Nhân dân 115 đang điều trị khoảng 200 bệnh nhân đột quỵ, phần lớn trong độ tuổi từ 50 đến 70.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T13:57:47.399294+07:00",
+      "fetched": "2026-04-11T13:57:47.399386+07:00"
+    },
+    {
+      "id": "2eab1dac18c817af0eaf393cb9be7986",
+      "title": "Nhiều phường ở TP.HCM ra quân chỉnh trang đô thị, dọn dẹp môi trường",
+      "link": "https://tuoitre.vn/nhieu-phuong-o-tp-hcm-ra-quan-chinh-trang-do-thi-don-dep-moi-truong-20260411100219098.htm",
+      "summary": "Các phường xử lý lấn chiếm vỉa hè, lòng đường, quảng cáo sai quy định, trật tự xây dựng, dọn dẹp rác thải.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T13:57:47.399192+07:00",
+      "fetched": "2026-04-11T13:57:47.399286+07:00"
+    },
+    {
+      "id": "fed02904233ea7e06e856155c787c34a",
+      "title": "Đạp gió 2026 bị tố hát nhép trong đêm diễn đầu tiên",
+      "link": "https://tuoitre.vn/dap-gio-2026-bi-to-hat-nhep-trong-dem-dien-dau-tien-2026041111034813.htm",
+      "summary": "Chủ đề Đạp gió 2026 bị tố hát nhép toàn bộ trong đêm công diễn đầu tiên' đang leo lên top 1 hot search ở Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T13:57:47.399080+07:00",
+      "fetched": "2026-04-11T13:57:47.399183+07:00"
+    },
+    {
+      "id": "6c8ea4e57070adad2c86e44fa2ba396b",
+      "title": "Phái đoàn Iran 71 người tới Islamabad đàm phán với Mỹ",
+      "link": "https://tuoitre.vn/phai-doan-iran-71-nguoi-toi-islamabad-dam-phan-voi-my-2026041111171125.htm",
+      "summary": "Đoàn 71 người do Chủ tịch Quốc hội Iran dẫn đầu đến Islamabad, chuẩn bị đàm phán với Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T13:57:47.398977+07:00",
+      "fetched": "2026-04-11T13:57:47.399071+07:00"
+    },
+    {
+      "id": "9a6078fc9a24b8c51ab4d7ac9710bf48",
+      "title": "Sạt lở bờ sông Hậu dài 50m, ăn sâu vào bờ 8m, di dời 660 tấn gạo",
+      "link": "https://tuoitre.vn/sat-lo-bo-song-hau-dai-50m-an-sau-vao-bo-8m-di-doi-660-tan-gao-20260411112812333.htm",
+      "summary": "Nguyên nhân sạt lở là do mực nước sông Hậu đang xuống thấp, kết hợp nền đất cát yếu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T13:57:47.398874+07:00",
+      "fetched": "2026-04-11T13:57:47.398969+07:00"
+    },
+    {
+      "id": "f2c51ff42ac333d496955da1b8d0d59d",
+      "title": "U17 Việt Nam đến Indonesia, sẵn sàng cạnh tranh ở bảng 'tử thần'",
+      "link": "https://tuoitre.vn/u17-viet-nam-den-indonesia-san-sang-canh-tranh-o-bang-tu-than-20260411115042843.htm",
+      "summary": "Tối 10-4, đội tuyển U17 Việt Nam đã có mặt tại Indonesia để chuẩn bị tranh tài ở Giải U17 Đông Nam Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T13:57:47.398761+07:00",
+      "fetched": "2026-04-11T13:57:47.398864+07:00"
+    },
+    {
+      "id": "6277d33f2050460422215172eee48ff3",
+      "title": "Vụ 4 người chết cháy tại Gia Lai: Nghi do tự sát, Bộ Công an vào cuộc",
+      "link": "https://tuoitre.vn/vu-4-nguoi-chet-chay-tai-gia-lai-nghi-do-tu-sat-bo-cong-an-vao-cuoc-20260411113502957.htm",
+      "summary": "Công an Gia Lai xác định bước đầu vụ cháy khiến 4 người chết có khả năng do tự sát, song vẫn tiếp tục điều tra nguyên nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T13:57:47.398635+07:00",
+      "fetched": "2026-04-11T13:57:47.398751+07:00"
+    },
+    {
+      "id": "8318d57febc8ccf663f33df6c61e63cc",
+      "title": "Ớt rớt giá còn 5.000 đồng/kg, nông dân Quảng Ngãi lao đao",
+      "link": "https://tuoitre.vn/ot-rot-gia-con-5-000-dong-kg-nong-dan-quang-ngai-lao-dao-20260411114141896.htm",
+      "summary": "Những ngày này, tại các vùng trồng ớt ở Quảng Ngãi, không khí thu hoạch trở nên trầm lắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T13:57:47.398523+07:00",
+      "fetched": "2026-04-11T13:57:47.398626+07:00"
+    },
+    {
+      "id": "e7e87206599367783e3f48f857129833",
+      "title": "Tình báo Mỹ: Iran còn hàng ngàn tên lửa, có thể khôi phục bệ phóng",
+      "link": "https://tuoitre.vn/tinh-bao-my-iran-con-hang-ngan-ten-lua-co-the-khoi-phuc-be-phong-20260411113132512.htm",
+      "summary": "Tình báo Mỹ cho rằng Iran vẫn còn hàng ngàn tên lửa đạn đạo và có thể tái kích hoạt bệ phóng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T13:57:47.398412+07:00",
+      "fetched": "2026-04-11T13:57:47.398515+07:00"
+    },
+    {
+      "id": "2d558fcbb1e30944275bc15018f8d206",
+      "title": "Vỉa hè đại lộ ngàn tỉ nứt toác vì bị lấn chiếm",
+      "link": "https://tuoitre.vn/via-he-dai-lo-ngan-ti-nut-toac-vi-bi-lan-chiem-2026041015000579.htm",
+      "summary": "Nhiều đoạn vỉa hè đại lộ Võ Nguyên Giáp hư hỏng do bị chiếm dụng làm nơi đỗ xe, buôn bán, mở lối vào công trình trái phép.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T13:57:47.398289+07:00",
+      "fetched": "2026-04-11T13:57:47.398402+07:00"
+    },
+    {
+      "id": "cd97b3a4aa367c721c08b6994250cd95",
+      "title": "Quảng Ngãi hỗ trợ chi phí khám sức khỏe cho các cặp vợ chồng trước khi cưới",
+      "link": "https://tuoitre.vn/quang-ngai-ho-tro-chi-phi-kham-suc-khoe-cho-cac-cap-vo-chong-truoc-khi-cuoi-2026041111150553.htm",
+      "summary": "UBND tỉnh có tờ trình hỗ trợ kinh phí khám sức khỏe tiền hôn nhân và Thường trực HĐND tỉnh thống nhất chủ trương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T13:57:47.398052+07:00",
+      "fetched": "2026-04-11T13:57:47.398275+07:00"
+    },
     {
       "id": "93b4cac0914b9278c881d213a637ee8d",
       "title": "Phi hành đoàn Artemis II rời tàu Orion, ông Trump mời sớm thăm Nhà Trắng",
@@ -303,6 +453,256 @@ window.newsData_2026_04_11 = {
       "fetched": "2026-04-11T09:00:52.381783+07:00"
     },
     {
+      "id": "7aa8645c019134a637c4e6c62164d90f",
+      "title": "Đội tuyển Việt Nam đá tới... 2 AFF Cup trong năm 2026: Lo cho thầy Kim",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-da-toi-2-aff-cup-trong-nam-2026-lo-cho-thay-kim-185260411133711099.htm",
+      "summary": "Với việc AFF Cup và FIFA ASEAN Cup diễn ra chỉ cách nhau 1 tháng, đội tuyển Việt Nam đứng trước chặng cày ải khắc nghiệt, đòi hỏi lực lượng có chiều sâu mới có thể trụ vững.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T06:39:00+07:00",
+      "fetched": "2026-04-11T13:57:44.703587+07:00"
+    },
+    {
+      "id": "23701f3c4e5d522f8cf8c24d15f416f8",
+      "title": "Hơn 660 sinh viên tranh tài Olympic toán học toàn quốc",
+      "link": "https://thanhnien.vn/hon-660-sinh-vien-tranh-tai-olympic-toan-hoc-toan-quoc-185260411105253553.htm",
+      "summary": "Hơn 660 sinh viên từ 90 trường đại học đã tham dự kỳ thi Olympic toán học toàn quốc lần thứ 32 được tổ chức tại Gia Lai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T06:39:00+07:00",
+      "fetched": "2026-04-11T13:57:44.703758+07:00"
+    },
+    {
+      "id": "5dd564d6aa07fafe011716ea6a860b34",
+      "title": "Người Việt mua sắm hơn 27.600 ô tô điện VinFast, Limo Green bán chạy nhất",
+      "link": "https://thanhnien.vn/nguoi-viet-mua-sam-hon-27600-o-to-dien-vinfast-limo-green-ban-chay-nhat-185260410195936772.htm",
+      "summary": "Vượt qua giai đoạn thấp điểm do kỳ nghỉ Tết Nguyên đán, doanh số VinFast trong tháng 3 lập kỷ lục với hơn 27.600 xe. Sự bùng nổ của mẫu Limo Green góp phần giúp hãng xe Việt dẫn đầu thị trường ô tô.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T06:39:00+07:00",
+      "fetched": "2026-04-11T13:57:44.703895+07:00"
+    },
+    {
+      "id": "8cd583218a0cb91438c2796d990b8310",
+      "title": "Vì sao Trường ĐH Đồng Nai có chính sách thu hút nhiều giảng viên chất lượng cao?",
+      "link": "https://thanhnien.vn/vi-sao-truong-dh-dong-nai-co-chinh-sach-thu-hut-nhieu-giang-vien-chat-luong-cao-185260411105723084.htm",
+      "summary": "Hôm qua (10.4), tại kỳ họp thứ 2, HĐND tỉnh Đồng Nai khóa XI (nhiệm kỳ 2026 – 2031), HĐND tỉnh đã thông qua Nghị quyết quy định chính sách thu hút, hỗ trợ nguồn nhân lực chất lượng cao làm việc tại Tr...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T06:28:00+07:00",
+      "fetched": "2026-04-11T13:57:46.447064+07:00"
+    },
+    {
+      "id": "20c04644850702696341a9d3c25f0873",
+      "title": "Drone Hezbollah tấn công loạt xe tăng tối tân của Israel",
+      "link": "https://vnexpress.net/drone-hezbollah-tan-cong-loat-xe-tang-toi-tan-cua-israel-5061185.html",
+      "summary": "Lực lượng Hezbollah công bố video triển khai drone tự sát tập kích xe tăng Merkava 4M cùng thiết giáp Israel đang hoạt động tại miền nam Lebanon.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-11T06:24:58+07:00",
+      "fetched": "2026-04-11T13:57:48.687852+07:00"
+    },
+    {
+      "id": "42ff93e1eebec084311bb6c46bada6a6",
+      "title": "Người dân Lebanon kể gì về trận không kích tàn khốc của Israel?",
+      "link": "https://thanhnien.vn/nguoi-dan-lebanon-ke-gi-ve-tran-khong-kich-tan-khoc-cua-israel-185260411124948213.htm",
+      "summary": "Nhiều gia đình đau lòng đến nhận dạng thi thể người thân của mình sau cuộc không kích chết người của Israel vào Lebanon hôm 8.4. Iran đã bày tỏ nghi ngờ về cuộc đàm phán dự kiến diễn ra vào ngày 11.4 tại Pakistan, và yêu cầu một lệnh ngừng bắn phải được thực hiện ở Lebanon trước khi các hòa đàm với ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T06:20:00+07:00",
+      "fetched": "2026-04-11T13:57:46.447474+07:00"
+    },
+    {
+      "id": "d85b0857c4201da67d07c0fd6452242a",
+      "title": "Tại sao ăn sáng quá no lại khiến bạn mệt mỏi và buồn ngủ hơn?",
+      "link": "https://thanhnien.vn/tai-sao-an-sang-qua-no-lai-khien-ban-met-moi-va-buon-ngu-hon-185260411021327286.htm",
+      "summary": "Chúng ta thường bảo nhau phải 'ăn sáng như một vị vua' để có đủ năng lượng cho cả ngày dài. Thế nhưng đã bao giờ bạn rơi vào tình trạng sau khi bụng no căng thì cơn buồn ngủ và cảm giác kém tập trung kéo đến?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T06:19:00+07:00",
+      "fetched": "2026-04-11T13:57:46.447628+07:00"
+    },
+    {
+      "id": "3b2c78b5e948001512a8609235671829",
+      "title": "Học sinh Trường Bình Quới Tây nghi ngộ độc thực phẩm: Salmonella là gì, ủ bệnh bao lâu?",
+      "link": "https://thanhnien.vn/hoc-sinh-truong-binh-quoi-tay-nghi-ngo-doc-thuc-pham-salmonella-la-gi-u-benh-bao-lau-185260411081243638.htm",
+      "summary": "Liên quan đến vụ 153 ca bệnh là học sinh Trường tiểu học Bình Quới Tây (TP.HCM) nghi bị ngộ độc thực phẩm, kết quả xét nghiệm bước đầu từ Sở Y tế TP.HCM cho thấy có 7/10 mẫu phân của học sinh dương tính với vi khuẩn Salmonella. Vậy Salmonella là gì, có thể ủ bệnh trong bao lâu?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T06:18:00+07:00",
+      "fetched": "2026-04-11T13:57:46.447785+07:00"
+    },
+    {
+      "id": "e2610b19cccf5dae748c99c66974a339",
+      "title": "Lệnh ngừng bắn Mỹ-Iran rạn nứt trước thềm đàm phán tại Pakistan",
+      "link": "https://thanhnien.vn/lenh-ngung-ban-my-iran-ran-nut-truoc-them-dam-phan-tai-pakistan-185260411115322695.htm",
+      "summary": "Thỏa thuận ngừng bắn mong manh kéo dài hai tuần giữa Mỹ và Iran tiếp tục leo thang vào hôm 10.4, một ngày trước khi hai bên dự kiến đàm phán tại Pakistan. Washington cáo buộc Tehran vi phạm các cam kết về eo biển Hormuz và Israel tấn công Lebanon, điều mà Iran cho là vi phạm thỏa thuận ngừng bắn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T06:15:00+07:00",
+      "fetched": "2026-04-11T13:57:46.447916+07:00"
+    },
+    {
+      "id": "69cceffbc084a7a2d656e3cab9bcaced",
+      "title": "Niềm tin tiêu dùng của người Mỹ thấp kỷ lục",
+      "link": "https://vnexpress.net/niem-tin-tieu-dung-cua-nguoi-my-thap-ky-luc-5061145.html",
+      "summary": "Xung đột tại Trung Đông kéo lạm phát tại Mỹ lên cao, đẩy niềm tin tiêu dùng xuống thấp kỷ lục trong tháng 4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T06:13:17+07:00",
+      "fetched": "2026-04-11T13:57:41.126797+07:00"
+    },
+    {
+      "id": "69cceffbc084a7a2d656e3cab9bcaced",
+      "title": "Niềm tin tiêu dùng của người Mỹ thấp kỷ lục",
+      "link": "https://vnexpress.net/niem-tin-tieu-dung-cua-nguoi-my-thap-ky-luc-5061145.html",
+      "summary": "Xung đột tại Trung Đông kéo lạm phát tại Mỹ lên cao, đẩy niềm tin tiêu dùng xuống thấp kỷ lục trong tháng 4.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-11T06:13:17+07:00",
+      "fetched": "2026-04-11T13:57:49.725688+07:00"
+    },
+    {
+      "id": "565bfe7eb677a5d80314a54adf798d9b",
+      "title": "10 ôtô bán nhiều nhất thị trường Việt Nam quý I",
+      "link": "https://vnexpress.net/oto-xe-may/v-car/doanh-so/10-oto-ban-nhieu-nhat-thi-truong-viet-nam-quy-i-5061183.html",
+      "summary": "Ôtô VinFast góp 5 xe vào danh sách bán chạy ba tháng đầu năm 2026, Limo Green dẫn đầu với 12.471 xe mới bàn giao tới tay khách Việt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T06:10:56+07:00",
+      "fetched": "2026-04-11T13:57:41.126965+07:00"
+    },
+    {
+      "id": "d4812c4ce752ae43190ee5e0d691c4b3",
+      "title": "Gen Z theo đuổi mốt bodysuit khoét hông",
+      "link": "https://vnexpress.net/gen-z-theo-duoi-mot-bodysuit-khoet-hong-5060375.html",
+      "summary": "Bodysuit xẻ hông cao sexy được nhiều cô gái lựa chọn khi mùa hè đang về.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T06:06:51+07:00",
+      "fetched": "2026-04-11T13:57:41.127105+07:00"
+    },
+    {
+      "id": "d8c393150a5e3cc540c1300cd1297a88",
+      "title": "Bi kịch nợ nần của tiến sĩ 200 lần xin việc thất bại",
+      "link": "https://vnexpress.net/bi-kich-no-nan-cua-tien-si-200-lan-xin-viec-that-bai-5061110.html",
+      "summary": "Sarah Dallas, 32 tuổi, gánh khoản nợ 76.000 bảng sau khi bị nộp đơn xin việc 200 lần vẫn bị từ chối vì \"thừa trình độ nhưng thiếu kinh nghiệm\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T06:05:20+07:00",
+      "fetched": "2026-04-11T13:57:41.127236+07:00"
+    },
+    {
+      "id": "6e52688973d9c45904f79a120102bfe1",
+      "title": "Phát Tiến khẳng định năng lực cung ứng: Bàn giao 50 xe máy điện Honda ICON e:",
+      "link": "https://thanhnien.vn/phat-tien-khang-dinh-nang-luc-cung-ung-ban-giao-50-xe-may-dien-honda-icon-e-18526041113123529.htm",
+      "summary": "Sáng 10.4.2026, tại HEAD Phát Tiến 6, Hệ thống HEAD Phát Tiến đã tổ chức lễ bàn giao 50 xe máy điện Honda ICON e: cho Công ty cổ phần Vietmoto - Hệ sinh thái dịch vụ xe máy toàn diện từ cho thuê, mua bán đến bảo dưỡng và hỗ trợ pháp lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T06:04:00+07:00",
+      "fetched": "2026-04-11T13:57:46.448045+07:00"
+    },
+    {
+      "id": "ab6a557c37b0c562ab037b798ad44542",
+      "title": "Điều tra vụ nhiều học sinh bị dâm ô và nhiều vụ hiếp dâm ở An Giang",
+      "link": "https://thanhnien.vn/dieu-tra-vu-nhieu-hoc-sinh-bi-dam-o-va-nhieu-vu-hiep-dam-o-an-giang-185260411115021516.htm",
+      "summary": "Lực lượng công an đã khởi tố, bắt tạm giam nhiều bị can có hành vi hiếp dâm, dâm ô trẻ em ở An Giang; trong đó Nguyễn Thành Võ (19 tuổi, ở xã Châu Thành) khai nhận dâm ô đối với 15 nữ sinh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T06:01:00+07:00",
+      "fetched": "2026-04-11T13:57:46.448179+07:00"
+    },
+    {
+      "id": "2b93bb01068b8f46a04f4a3237ce0f1e",
+      "title": "Học sinh Việt 'đánh vật' môn Hóa vì tính toán quá nhiều",
+      "link": "https://vnexpress.net/hoc-sinh-viet-danh-vat-mon-hoa-vi-tinh-toan-qua-nhieu-5061151.html",
+      "summary": "Học sinh của tôi như những 'thợ giải toán' có phản xạ cực tốt với các con số và phương trình, nhưng lại rỗng tuếch về tư duy Hóa học.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T06:00:00+07:00",
+      "fetched": "2026-04-11T13:57:41.127364+07:00"
+    },
+    {
+      "id": "ad25adb8bd378000a3be56ae7f066392",
+      "title": "Ở nhà thuê, lương 25 triệu đồng hay về quê với lương chục triệu",
+      "link": "https://vnexpress.net/o-nha-thue-luong-25-trieu-dong-hay-ve-que-voi-luong-chuc-trieu-5061002.html",
+      "summary": "Tôi làm việc ở môi trường nào mới là tốt nhất cho việc phát triển sự nghiệp của một người đàn ông sau này?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T06:00:00+07:00",
+      "fetched": "2026-04-11T13:57:41.127494+07:00"
+    },
+    {
+      "id": "138205b6f48305d8023cd87bfdcd3349",
+      "title": "Vĩnh biệt nhạc sĩ Ngô Tùng Văn",
+      "link": "https://thanhnien.vn/vinh-biet-nhac-si-ngo-tung-van-185260411121735014.htm",
+      "summary": "Sáng sớm ngày 11.4, tôi vào Facebook theo thói quen, chợt choáng váng khi đọc được dòng chữ \"Ngô Tùng Văn tổng chào anh chị em nhé. Cám ơn anh chị em đã đi cùng Tùng Văn một cuộc đời trọn vẹn…\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T05:35:00+07:00",
+      "fetched": "2026-04-11T13:57:46.448310+07:00"
+    },
+    {
+      "id": "a4ca5a9f63ee172440e4753fbed0c3bd",
+      "title": "Phim của IU hút khán giả ngày đầu lên sóng",
+      "link": "https://vnexpress.net/phim-cua-iu-hut-khan-gia-ngay-dau-len-song-5061167.html",
+      "summary": "Tập đầu \"Phu nhân đại quân thế kỷ 21\" - có IU, Byeon Woo Seok đóng chính - đạt tỷ suất người xem cao, nhận đánh giá tích cực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T05:29:37+07:00",
+      "fetched": "2026-04-11T13:57:41.127618+07:00"
+    },
+    {
+      "id": "3208b4187d5baab7ca80ca8575fe5c22",
+      "title": "Cận cảnh radar tỷ USD sau khi hứng đòn tập kích của Iran",
+      "link": "https://vnexpress.net/can-canh-radar-ty-usd-sau-khi-hung-don-tap-kich-cua-iran-5061164.html",
+      "summary": "Hình ảnh mới công bố cho thấy \"radar mắt thần\" AN/FPS-132 tại Qatar có thể đã hứng tổn thất nặng hơn so với thông tin ban đầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T05:28:37+07:00",
+      "fetched": "2026-04-11T13:57:41.127769+07:00"
+    },
+    {
+      "id": "3208b4187d5baab7ca80ca8575fe5c22",
+      "title": "Cận cảnh radar tỷ USD sau khi hứng đòn tập kích của Iran",
+      "link": "https://vnexpress.net/can-canh-radar-ty-usd-sau-khi-hung-don-tap-kich-cua-iran-5061164.html",
+      "summary": "Hình ảnh mới công bố cho thấy \"radar mắt thần\" AN/FPS-132 tại Qatar có thể đã hứng tổn thất nặng hơn so với thông tin ban đầu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-11T05:28:37+07:00",
+      "fetched": "2026-04-11T13:57:48.688007+07:00"
+    },
+    {
+      "id": "763750a22656aa12895fb2295d87e435",
+      "title": "Cận cảnh biệt thự Pháp trên khu 'đất vàng' ven sông Hương trước khi bị tháo dỡ",
+      "link": "https://thanhnien.vn/can-canh-biet-thu-phap-tren-khu-dat-vang-ven-song-huong-truoc-khi-bi-thao-do-185260411112146881.htm",
+      "summary": "Sau khi khảo sát và đánh giá phương án di dời không khả thi do công trình xuống cấp, thành phố Huế quyết định tháo dỡ ngôi biệt thự Pháp tại số 26 Lê Lợi để thực hiện dự án du lịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T05:27:00+07:00",
+      "fetched": "2026-04-11T13:57:46.448436+07:00"
+    },
+    {
+      "id": "e9ca0ba74757181f3d9b7b10e470d1f4",
+      "title": "Xung đột Lebanon đe dọa thỏa thuận ngừng bắn Mỹ - Iran",
+      "link": "https://vnexpress.net/xung-dot-lebanon-de-doa-thoa-thuan-ngung-ban-my-iran-5060921.html",
+      "summary": "Các đợt không kích từ Israel vào Lebanon đang đe dọa phá vỡ lệnh ngừng bắn với Iran, khi các bên tranh cãi về phạm vi thực thi của thỏa thuận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T05:26:37+07:00",
+      "fetched": "2026-04-11T13:57:41.127896+07:00"
+    },
+    {
+      "id": "e9ca0ba74757181f3d9b7b10e470d1f4",
+      "title": "Xung đột Lebanon đe dọa thỏa thuận ngừng bắn Mỹ - Iran",
+      "link": "https://vnexpress.net/xung-dot-lebanon-de-doa-thoa-thuan-ngung-ban-my-iran-5060921.html",
+      "summary": "Các đợt không kích từ Israel vào Lebanon đang đe dọa phá vỡ lệnh ngừng bắn với Iran, khi các bên tranh cãi về phạm vi thực thi của thỏa thuận.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-11T05:26:37+07:00",
+      "fetched": "2026-04-11T13:57:48.688147+07:00"
+    },
+    {
       "id": "818d8087ecaa2c27d84ca86134883766",
       "title": "4 thi thể cháy xém trong căn nhà ở Gia Lai: Có thể là tự sát",
       "link": "https://thanhnien.vn/4-thi-the-chay-xem-trong-can-nha-o-gia-lai-co-the-la-tu-sat-1852604111128431.htm",
@@ -393,6 +793,46 @@ window.newsData_2026_04_11 = {
       "fetched": "2026-04-11T12:24:03.181912+07:00"
     },
     {
+      "id": "47a13637d1392fe8e38ef2cf4375f43d",
+      "title": "Vì sao mắt dễ khô, mỏi khi nắng nóng?",
+      "link": "https://vnexpress.net/vi-sao-mat-de-kho-moi-khi-nang-nong-5060992.html",
+      "summary": "Nắng nóng gay gắt, chỉ số tia UV ở mức cao khiến mắt phải điều tiết nhiều hơn cùng với ngồi nhiều giờ trong máy lạnh càng làm tăng cảm giác khô, mỏi mắt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T05:00:00+07:00",
+      "fetched": "2026-04-11T13:57:41.128151+07:00"
+    },
+    {
+      "id": "fa8f6a1e1824d520e578d4b2966aaddc",
+      "title": "Đòi tiền mặt và bồi thường khi bị từ chối lên máy bay vì kín chỗ",
+      "link": "https://vnexpress.net/doi-tien-mat-va-boi-thuong-khi-bi-tu-choi-len-may-bay-vi-kin-cho-5060490.html",
+      "summary": "Hành khách nên yêu cầu hãng hàng không bồi thường bằng tiền mặt và cung cấp văn bản giải thích nếu bị từ chối lên máy bay do quá số ghế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T05:00:00+07:00",
+      "fetched": "2026-04-11T13:57:41.128275+07:00"
+    },
+    {
+      "id": "038b3a03dfad1c8c311d2d256163bda5",
+      "title": "Đầu thú sau khi dâm ô bé gái hàng xóm",
+      "link": "https://vnexpress.net/dau-thu-sau-khi-dam-o-be-gai-hang-xom-5061190.html",
+      "summary": "Sau hai tháng dâm ô bé gái 13 tuổi gần nhà, Lê Hoài Phong, 50 tuổi, đến công an xã đầu thú.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T04:56:41+07:00",
+      "fetched": "2026-04-11T13:57:41.128392+07:00"
+    },
+    {
+      "id": "e334def50586bbbba5a4a6a94e2e9f91",
+      "title": "Tài xế taxi cầm gạch đánh hành khách",
+      "link": "https://vnexpress.net/tai-xe-taxi-cam-gach-danh-hanh-khach-5061186.html",
+      "summary": "Tài xế Nguyễn Anh Tuấn cầm hai viên gạch tấn công vợ chồng khách hàng do mâu thuẫn trong quá trình đi taxi, bị họ phản ánh lên tổng đài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T04:54:10+07:00",
+      "fetched": "2026-04-11T13:57:41.128521+07:00"
+    },
+    {
       "id": "44c4b7b53ccb061bb8cd7dc16b4becff",
       "title": "Tài xế bị tố hành hung khách sau chuyến taxi bất ổn",
       "link": "https://thanhnien.vn/tai-xe-bi-to-hanh-hung-khach-sau-chuyen-taxi-bat-on-185260411115432679.htm",
@@ -411,6 +851,16 @@ window.newsData_2026_04_11 = {
       "category": "Tổng hợp",
       "published": "2026-04-11T04:50:00+07:00",
       "fetched": "2026-04-11T12:24:03.182152+07:00"
+    },
+    {
+      "id": "ac14e80a6871d822640e5ca8f568fc41",
+      "title": "Giám đốc Công an tỉnh Gia Lai thông tin vụ 4 người tử vong trong nhà",
+      "link": "https://vnexpress.net/giam-doc-cong-an-tinh-gia-lai-thong-tin-vu-4-nguoi-tu-vong-trong-nha-5061179.html",
+      "summary": "Thiếu tướng Lê Quang Nhân cho biết, nhận định sơ bộ ban đầu cho thấy 4 người tử vong trong căn nhà ở xã Cát Tiến có khả năng liên quan ý định tự sát của một nạn nhân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T04:49:22+07:00",
+      "fetched": "2026-04-11T13:57:41.128642+07:00"
     },
     {
       "id": "b3d98d7875354af491b1da29b8421488",
