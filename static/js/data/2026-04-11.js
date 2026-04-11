@@ -1,7 +1,157 @@
 window.newsData_2026_04_11 = {
   "date": "2026-04-11",
-  "lastUpdated": "2026-04-11T09:01:00.156308+07:00",
+  "lastUpdated": "2026-04-11T12:24:10.203361+07:00",
   "articles": [
+    {
+      "id": "93b4cac0914b9278c881d213a637ee8d",
+      "title": "Phi hành đoàn Artemis II rời tàu Orion, ông Trump mời sớm thăm Nhà Trắng",
+      "link": "https://tuoitre.vn/phi-hanh-doan-artemis-ii-roi-tau-orion-ong-trump-moi-som-tham-nha-trang-20260411091222161.htm",
+      "summary": "Đến 8h30 sáng 11-4 (giờ Việt Nam), cả 4 phi hành gia của sứ mệnh Artemis II đã rời khỏi tàu Orion sau 10 ngày thực hiện nhiệm vụ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T12:24:04.056958+07:00",
+      "fetched": "2026-04-11T12:24:04.057073+07:00"
+    },
+    {
+      "id": "bec00a93e6d4dfbd30ab3fedb7e6ce57",
+      "title": "Công an xác minh vụ tài xế taxi dùng gạch 'nói chuyện' với hành khách",
+      "link": "https://tuoitre.vn/cong-an-xac-minh-vu-tai-xe-taxi-dung-gach-noi-chuyen-voi-hanh-khach-20260411085209851.htm",
+      "summary": "Mâu thuẫn về đi taxi, giữa hành khách và tài xế xảy ra cãi vã. Nam tài xế taxi dùng gạch để 'nói chuyện' với hành khách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T12:24:04.056863+07:00",
+      "fetched": "2026-04-11T12:24:04.056949+07:00"
+    },
+    {
+      "id": "39f1816d2f3e0f5ac4386c3d953ca853",
+      "title": "Chủ tịch Quốc hội lên đường dự IPU-152 ở Thổ Nhĩ Kỳ và thăm Ý",
+      "link": "https://tuoitre.vn/chu-tich-quoc-hoi-len-duong-du-ipu-152-o-tho-nhi-ky-va-tham-y-20260411084636931.htm",
+      "summary": "Đây là chuyến công tác nước ngoài chính thức đầu tiên của Chủ tịch Quốc hội Trần Thanh Mẫn sau Đại hội XIV, bầu cử Quốc hội khóa XVI.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T12:24:04.056764+07:00",
+      "fetched": "2026-04-11T12:24:04.056854+07:00"
+    },
+    {
+      "id": "b16e3f81931eb6da4aa4663f52766d6a",
+      "title": "Chiếc áo của luật sư",
+      "link": "https://tuoitre.vn/chiec-ao-cua-luat-su-20260411082524796.htm",
+      "summary": "Hãy trau dồi kiến thức và trui rèn bản lĩnh sao cho xứng đáng với chiếc áo mình khoác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T12:24:04.056656+07:00",
+      "fetched": "2026-04-11T12:24:04.056755+07:00"
+    },
+    {
+      "id": "2f319ad334221c1b7283e3a01d379445",
+      "title": "Nghệ sĩ Tô Châu đóng cặp cùng Mỹ Hằng, nhớ một thời ở Nhà hát Trần Hữu Trang",
+      "link": "https://tuoitre.vn/nghe-si-to-chau-dong-cap-cung-my-hang-nho-mot-thoi-o-nha-hat-tran-huu-trang-20260411072915627.htm",
+      "summary": "Nghệ sĩ Tô Châu vừa lần đầu tiên đóng cặp cùng nghệ sĩ Mỹ Hằng trong vở cải lương Nhị kiếp kỳ duyên, diễn tại Nhà hát Trần Hữu Trang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T12:24:04.056562+07:00",
+      "fetched": "2026-04-11T12:24:04.056648+07:00"
+    },
+    {
+      "id": "d5cfeef529383df03555ac14892e6379",
+      "title": "Dự án cao tốc Hồ Tràm - sân bay Long Thành có cầu cạn trên cao qua khu bảo tồn thiên nhiên",
+      "link": "https://tuoitre.vn/du-an-cao-toc-ho-tram-san-bay-long-thanh-co-cau-can-tren-cao-qua-khu-bao-ton-thien-nhien-20260410141548794.htm",
+      "summary": "Đoạn cuối tuyến cao tốc Hồ Tràm - sân bay Long Thành qua khu vực rừng Bình Châu - Phước Bửu sẽ làm cầu cạn đi trên cao với 8 làn xe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T12:24:04.056465+07:00",
+      "fetched": "2026-04-11T12:24:04.056554+07:00"
+    },
+    {
+      "id": "3f1fd862e20845102629c6c82ad592c3",
+      "title": "Số học sinh nghi ngộ độc thực phẩm tại Trường tiểu học Bình Quới Tây tăng lên 184 em",
+      "link": "https://tuoitre.vn/so-hoc-sinh-nghi-ngo-doc-thuc-pham-tai-truong-tieu-hoc-binh-quoi-tay-tang-len-184-em-20260411095159121.htm",
+      "summary": "Tính đến sáng 11-4, số học sinh nghi ngộ độc thực phẩm tại Trường tiểu học Bình Quới Tây (TP.HCM) tiếp tục tăng lên 184 ca.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T12:24:04.056364+07:00",
+      "fetched": "2026-04-11T12:24:04.056456+07:00"
+    },
+    {
+      "id": "3d3c335dc3524c81fd3a124fb68b85af",
+      "title": "Xe điện vào đợt hút khách mới",
+      "link": "https://tuoitre.vn/xe-dien-vao-dot-hut-khach-moi-2026041023075737.htm",
+      "summary": "Thị trường xe điện tại TP.HCM sôi động hơn hẳn so với vài tháng trước khi nhiều mẫu ô tô, xe máy điện liên tục ra mắt với giá dễ tiếp cận hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T12:24:04.056265+07:00",
+      "fetched": "2026-04-11T12:24:04.056355+07:00"
+    },
+    {
+      "id": "b82b980521456e59e16a218869984098",
+      "title": "Phường Bình Hưng Hòa nhiều rác thải tồn đọng",
+      "link": "https://tuoitre.vn/phuong-binh-hung-hoa-nhieu-rac-thai-ton-dong-2026041015565396.htm",
+      "summary": "Rác trôi nổi trên kênh, rác chất thành từng đống dọc đường, rác hợp thành từng khu trong nghĩa địa...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T12:24:04.056165+07:00",
+      "fetched": "2026-04-11T12:24:04.056257+07:00"
+    },
+    {
+      "id": "ad41b2448b0d40fc76cf6d37c2a63327",
+      "title": "Đại biểu Quốc hội đề xuất bỏ quy định bắt buộc công chứng giao dịch bất động sản",
+      "link": "https://tuoitre.vn/dai-bieu-quoc-hoi-de-xuat-bo-quy-dinh-bat-buoc-cong-chung-giao-dich-bat-dong-san-20260411100504395.htm",
+      "summary": "Sáng 11-4, Quốc hội thảo luận về dự luật sửa đổi, bổ sung một số điều của Luật Công chứng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T12:24:04.056063+07:00",
+      "fetched": "2026-04-11T12:24:04.056156+07:00"
+    },
+    {
+      "id": "6d2df45a55862ad30c3504b1c5b81ea7",
+      "title": "Cung đường Cát Bà đẹp như mơ",
+      "link": "https://tuoitre.vn/cung-duong-cat-ba-dep-nhu-mo-20260411091737874.htm",
+      "summary": "Những cung đường Cát Bà uốn lượn với hoa giấy nở rộ đẹp như mơ, khiến du khách say đắm quên lối về.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T12:24:04.055958+07:00",
+      "fetched": "2026-04-11T12:24:04.056053+07:00"
+    },
+    {
+      "id": "8c5c05b8bdcfb09e8557ff40531d7102",
+      "title": "Các runner sẽ được trải nghiệm đường đua tốt nhất tại Cần Giờ",
+      "link": "https://tuoitre.vn/cac-runner-se-duoc-trai-nghiem-duong-dua-tot-nhat-tai-can-gio-20260411103333768.htm",
+      "summary": "VnExpress Marathon Green Paradise Cần Giờ được kỳ vọng mang đến đường đua khác biệt và hướng đến cảm nhận trọn vẹn cho các runner.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T12:24:04.055848+07:00",
+      "fetched": "2026-04-11T12:24:04.055945+07:00"
+    },
+    {
+      "id": "8808c1055bc01fce06f3e72434a56cfb",
+      "title": "Xe máy chở 3 tông vào gốc cây, 2 người chết",
+      "link": "https://tuoitre.vn/xe-may-cho-3-tong-vao-goc-cay-2-nguoi-chet-20260411095122383.htm",
+      "summary": "Xe máy chở 3 người tông vào gốc cây bên đường, khiến 2 người thiệt mạng, 1 người bị thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T12:24:04.055699+07:00",
+      "fetched": "2026-04-11T12:24:04.055837+07:00"
+    },
+    {
+      "id": "8b221de827bc9e0820dc6adf43e52042",
+      "title": "Cột mốc lớn trong sự nghiệp của kỳ thủ Phí Mạnh Cường",
+      "link": "https://tuoitre.vn/cot-moc-lon-trong-su-nghiep-cua-ky-thu-phi-manh-cuong-20260411092548089.htm",
+      "summary": "Phí Mạnh Cường vừa gây sốc cho làng cờ tướng Việt Nam khi đánh bại nhà vô địch thế giới Lại Lý Huynh ở tứ kết Giải vô địch quốc gia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T12:24:04.055566+07:00",
+      "fetched": "2026-04-11T12:24:04.055688+07:00"
+    },
+    {
+      "id": "2929d0c6d804ad55a367f4c63f81f8d9",
+      "title": "Xã đầu tiên miễn phí sách giáo khoa cho học sinh: Dự kiến mỗi cuốn dùng 7-10 năm",
+      "link": "https://tuoitre.vn/xa-dau-tien-mien-phi-sach-giao-khoa-cho-hoc-sinh-du-kien-moi-cuon-dung-7-10-nam-20260411090528729.htm",
+      "summary": "Gần 7.000 học sinh tại xã Hòa Vang (Đà Nẵng) được mượn sách giáo khoa miễn phí từ thư viện dùng chung, không phải mua sách nữa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T12:24:04.055314+07:00",
+      "fetched": "2026-04-11T12:24:04.055552+07:00"
+    },
     {
       "id": "6abad40b072e64893eae9b7db15f102a",
       "title": "Hoa hậu người Mỹ Yolina Lindquist dạo phố, check-in bưu điện, đường sách TP.HCM",
@@ -153,6 +303,396 @@ window.newsData_2026_04_11 = {
       "fetched": "2026-04-11T09:00:52.381783+07:00"
     },
     {
+      "id": "818d8087ecaa2c27d84ca86134883766",
+      "title": "4 thi thể cháy xém trong căn nhà ở Gia Lai: Có thể là tự sát",
+      "link": "https://thanhnien.vn/4-thi-the-chay-xem-trong-can-nha-o-gia-lai-co-the-la-tu-sat-1852604111128431.htm",
+      "summary": "Cơ quan công an nhận định ban đầu vụ 4 thi thể cháy xém trong căn nhà ở Gia Lai có thể liên quan tới ý định tự sát.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T05:19:00+07:00",
+      "fetched": "2026-04-11T12:24:03.180997+07:00"
+    },
+    {
+      "id": "06bafbaf037b1d83a2c59cc26e2e677c",
+      "title": "Ca sĩ Kyo York cùng Phúc Anh đưa bản sắc 54 dân tộc Việt Nam 'xuất ngoại'",
+      "link": "https://thanhnien.vn/ca-si-kyo-york-cung-phuc-anh-dua-ban-sac-54-dan-toc-viet-nam-xuat-ngoai-185260411121736295.htm",
+      "summary": "Nối tiếp thành công của dự án xác lập Kỷ lục Việt Nam, ca sĩ Phúc Anh vừa bắt tay cùng Kyo York ra mắt MV 54 dân tộc Việt Nam phiên bản tiếng Anh. Sản phẩm không chỉ là bước đi chiến lược đưa văn hóa Việt ra thế giới mà còn là hành trình đầy cảm xúc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T05:17:00+07:00",
+      "fetched": "2026-04-11T12:24:03.181149+07:00"
+    },
+    {
+      "id": "28b2dc19a4b01ea17a6dbdcffca1672a",
+      "title": "Xuyên đêm trấn áp thanh thiếu niên gây náo loạn đường phố Đà Nẵng",
+      "link": "https://thanhnien.vn/xuyen-dem-tran-ap-thanh-thieu-nien-gay-nao-loan-duong-pho-da-nang-185260411110832443.htm",
+      "summary": "Công an ra quân xuyên đêm trấn áp thanh thiếu niên tụ tập, chạy xe gây náo loạn đường phố Đà Nẵng. Hàng chục trường hợp vi phạm bị xử lý, nhiều phương tiện bị tạm giữ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T05:12:00+07:00",
+      "fetched": "2026-04-11T12:24:03.181278+07:00"
+    },
+    {
+      "id": "da0ede3e642c5edad26101e87dcea085",
+      "title": "4 nhóm người nên ăn tỏi mỗi ngày để cải thiện sức khỏe",
+      "link": "https://thanhnien.vn/4-nhom-nguoi-nen-an-toi-moi-ngay-de-cai-thien-suc-khoe-185260410193014775.htm",
+      "summary": "Khi được đập dập hoặc băm nhỏ, tỏi tạo ra allicin, một hợp chất có hoạt tính sinh học mạnh. Nhiều nghiên cứu cho thấy các hợp chất này có khả năng chống ô xy hóa, chống viêm và bảo vệ tim mạch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T05:11:00+07:00",
+      "fetched": "2026-04-11T12:24:03.181407+07:00"
+    },
+    {
+      "id": "e35737fa17afab6b2cfc596391994069",
+      "title": "Nhà mạng khuyến khích xác thực thông tin thuê bao trước ngày quy định",
+      "link": "https://vnexpress.net/nha-mang-khuyen-khich-xac-thuc-thong-tin-thue-bao-truoc-ngay-quy-dinh-5061108.html",
+      "summary": "Chưa đến thời gian cần xác thực thông tin (15/4) nhưng một số nhà mạng đã triển khai tính năng trên ứng dụng và khuyến khích người dùng cập nhật để tránh quá tải.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-11T05:06:10+07:00",
+      "fetched": "2026-04-11T12:24:09.113636+07:00"
+    },
+    {
+      "id": "79227c9f8311e47aa48d20b1f182d720",
+      "title": "Galaxy S26 bất ngờ hút khách, Samsung vội vã tăng sản lượng",
+      "link": "https://thanhnien.vn/galaxy-s26-bat-ngo-hut-khach-samsung-voi-va-tang-san-luong-185260411111730671.htm",
+      "summary": "Samsung đang đẩy mạnh sản xuất dòng Galaxy S26 trong tháng 4 này do nhu cầu vượt xa dự kiến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T05:03:00+07:00",
+      "fetched": "2026-04-11T12:24:03.181527+07:00"
+    },
+    {
+      "id": "0a7c1b805ff945955dc26092d36a27df",
+      "title": "Hãnh diện ‘món ăn quốc dân’ của giới trẻ lọt top 3 ngon nhất thế giới",
+      "link": "https://thanhnien.vn/hanh-dien-mon-an-quoc-dan-cua-gioi-tre-lot-top-3-ngon-nhat-the-gioi-185260411120140645.htm",
+      "summary": "Từ món ăn nhanh quen thuộc trên từng góc phố, bánh mì Việt Nam vươn tầm thế giới khi góp mặt trong top bánh mì kẹp ngon nhất hành tinh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T05:00:00+07:00",
+      "fetched": "2026-04-11T12:24:03.181647+07:00"
+    },
+    {
+      "id": "0582eac2187c62a6e3378e8cb7fc480b",
+      "title": "Hai phần mềm CPU-Z và HWMonitor nổi tiếng bị cài mã độc",
+      "link": "https://thanhnien.vn/hai-phan-mem-cpu-z-va-hwmonitor-noi-tieng-bi-cai-ma-doc-185260411113426201.htm",
+      "summary": "Vụ việc CPU-Z và HWMonitor dính mã độc đang đưa hàng triệu PC vào tầm ngắm của tin tặc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T05:00:00+07:00",
+      "fetched": "2026-04-11T12:24:03.181786+07:00"
+    },
+    {
+      "id": "bfbdc25a0e49d8755774f3256de0a655",
+      "title": "Tóc Tiên chuyển hướng phong cách, gây ấn tượng tại thảm đỏ",
+      "link": "https://thanhnien.vn/thoi-trang-tre/toc-tien-chuyen-huong-phong-cach-gay-an-tuong-tai-tham-do-185260411111728553.htm",
+      "summary": "Tại sự kiện khai trương cửa hàng thời trang nam đầu tiên của Louis Vuitton tại Việt Nam, Tóc Tiên nhanh chóng trở thành tâm điểm truyền thông khi xuất hiện với diện mạo nữ tính, ngọt ngào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T05:00:00+07:00",
+      "fetched": "2026-04-11T12:24:03.181912+07:00"
+    },
+    {
+      "id": "44c4b7b53ccb061bb8cd7dc16b4becff",
+      "title": "Tài xế bị tố hành hung khách sau chuyến taxi bất ổn",
+      "link": "https://thanhnien.vn/tai-xe-bi-to-hanh-hung-khach-sau-chuyen-taxi-bat-on-185260411115432679.htm",
+      "summary": "Một tài xế taxi Mai Linh đã bị công an mời đến trụ sở để làm việc sau khi bị tố hành hung khách do tranh cãi về đường đi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T04:54:00+07:00",
+      "fetched": "2026-04-11T12:24:03.182029+07:00"
+    },
+    {
+      "id": "39a421988615608e8845d4ea0bd0eda9",
+      "title": "Ben Affleck tặng lại phần sở hữu biệt thự 60 triệu USD cho Jennifer Lopez",
+      "link": "https://thanhnien.vn/ben-affleck-tang-lai-phan-so-huu-biet-thu-60-trieu-usd-cho-jennifer-lopez-185260411111808064.htm",
+      "summary": "Page Six đưa tin ngày 10.4, nam diễn viên Ben Affleck đã tặng toàn bộ phần sở hữu của mình trong căn biệt thự trị giá hơn 60 triệu USD cho vợ cũ Jennifer Lopez.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T04:50:00+07:00",
+      "fetched": "2026-04-11T12:24:03.182152+07:00"
+    },
+    {
+      "id": "b3d98d7875354af491b1da29b8421488",
+      "title": "Phim lập kỷ lục phòng vé Hàn Quốc đổ bộ rạp Việt, lấy nước mắt người xem",
+      "link": "https://thanhnien.vn/phim-lap-ky-luc-phong-ve-han-quoc-do-bo-rap-viet-lay-nuoc-mat-nguoi-xem-185260410151933367.htm",
+      "summary": "Mới đây, phim điện ảnh Hàn Quốc Dưới bóng điện hạ chính thức khởi chiếu tại các rạp Việt Nam. Trước đó, trong các suất chiếu sớm, bộ phim đã nhận được nhiều ý kiến phản hồi tích cực từ khán giả nhờ nội dung dung hòa giữa yếu tố cảm xúc và tính giải trí.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T04:47:00+07:00",
+      "fetched": "2026-04-11T12:24:03.182275+07:00"
+    },
+    {
+      "id": "416be04d00ad9a621462019fe9c27fd1",
+      "title": "Khoảnh khắc phi hành đoàn Artemis 2 hạ cánh trên Thái Bình Dương",
+      "link": "https://vnexpress.net/khoanh-khac-phi-hanh-doan-artemis-2-ha-canh-tren-thai-binh-duong-5061191.html",
+      "summary": "Tàu Orion bung dù, đưa phi hành đoàn Artemis II hạ cánh an toàn xuống biển Thái Bình Dương sáng 11/4 (giờ Hà Nội), khép lại hành trình gần 10 ngày bay quanh Mặt Trăng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T04:40:32+07:00",
+      "fetched": "2026-04-11T12:24:00.129300+07:00"
+    },
+    {
+      "id": "5d167eeb353e6743eb4207625789de36",
+      "title": "Tình báo Mỹ đánh giá gì về Iran kho tên lửa còn lại của Iran?",
+      "link": "https://thanhnien.vn/tinh-bao-my-danh-gia-gi-ve-iran-kho-ten-lua-con-lai-cua-iran-185260411113401866.htm",
+      "summary": "Tình báo Mỹ nhận định Iran vẫn còn hàng ngàn tên lửa đạn đạo có thể phóng bằng những bệ phóng hiện đang được cất giấu trong các cơ sở ngầm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T04:36:00+07:00",
+      "fetched": "2026-04-11T12:24:03.182393+07:00"
+    },
+    {
+      "id": "d63dbc2df6500e08b42269dff3449110",
+      "title": "Tài xế taxi Mai Linh bị tố hành hung khách",
+      "link": "https://thanhnien.vn/tai-xe-taxi-mai-linh-bi-to-hanh-hung-khach-185260411095120393.htm",
+      "summary": "Một tài xế taxi Mai Linh đã bị công an mời đến trụ sở để làm việc sau khi bị tố hành hung khách do tranh cãi về đường đi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T04:36:00+07:00",
+      "fetched": "2026-04-11T12:24:03.182506+07:00"
+    },
+    {
+      "id": "3568e22c0af04b4a3ea14a25d83cb083",
+      "title": "Mariah Carey bán nhà 27 triệu USD",
+      "link": "https://vnexpress.net/mariah-carey-ban-nha-27-trieu-usd-5061141.html",
+      "summary": "Danh ca Mariah Carey bán penthouse ba tầng trị giá 27 triệu USD (khoảng 711 tỷ đồng) ở New York sau gần 30 năm sống tại đây.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T04:34:07+07:00",
+      "fetched": "2026-04-11T12:24:00.129463+07:00"
+    },
+    {
+      "id": "d051314e1465aab80175c4851cffcc26",
+      "title": "Lý do Tuấn Hưng trở lại show thực tế",
+      "link": "https://thanhnien.vn/ly-do-tuan-hung-tro-lai-show-thuc-te-185260411110730834.htm",
+      "summary": "Sau khi tham gia ‘Anh trai vượt ngàn chông gai 2024’, Tuấn Hưng tiếp tục gây chú ý khi góp mặt trong chương trình ‘Mẹ vắng nhà ba là siêu nhân 2026’. Nam ca sĩ lần đầu chia sẻ lý do nhận lời, giữa những lo ngại về áp lực dư luận và mong muốn dành thời gian cho con.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T04:34:00+07:00",
+      "fetched": "2026-04-11T12:24:03.182626+07:00"
+    },
+    {
+      "id": "caf5b0b17e149a47a26b3f3441480e8d",
+      "title": "Số học sinh Trường tiểu học Bình Quới Tây TP.HCM nghi ngộ độc thực phẩm gia tăng",
+      "link": "https://thanhnien.vn/so-hoc-sinh-truong-tieu-hoc-binh-quoi-tay-tphcm-nghi-ngo-doc-thuc-pham-gia-tang-185260411105117975.htm",
+      "summary": "Tính đến sáng 11.4, các cơ sở y tế trên địa bàn TP.HCM ghi nhận 184 học sinh Trường tiểu học Bình Quới Tây đến khám, điều trị nghi ngộ độc thực phẩm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T04:33:00+07:00",
+      "fetched": "2026-04-11T12:24:03.182763+07:00"
+    },
+    {
+      "id": "6269911ac9165b1021b6d28cb4eddee0",
+      "title": "Cháy kho đông lạnh ở Hà Nội, nhiều xe máy bị thiêu rụi",
+      "link": "https://vnexpress.net/chay-kho-dong-lanh-o-ha-noi-nhieu-xe-may-bi-thieu-rui-5061182.html",
+      "summary": "Kho đông lạnh nằm trong khu dân cư thuộc phường Khương Đình bốc cháy ngùn ngụt, ít nhất 6 xe máy và một xe tải cũ bị thiêu rụi, sáng 11/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T04:32:21+07:00",
+      "fetched": "2026-04-11T12:24:00.129611+07:00"
+    },
+    {
+      "id": "c59ccef291136687bb4e7a9bc895e5d8",
+      "title": "Vua Đinh Tiên Hoàng lấy niên hiệu là gì sau khi lên ngôi?",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-vua-dinh-tien-hoang-lay-nien-hieu-la-gi-sau-khi-len-ngoi-5057026.html",
+      "summary": "Sau 2 năm lên ngôi, Đinh Tiên Hoàng mới đặt niên hiệu cho mình, niên hiệu này tồn tại từ năm 970 - 979.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T04:32:00+07:00",
+      "fetched": "2026-04-11T12:24:00.129765+07:00"
+    },
+    {
+      "id": "eba377ba69bd9724fd1c390a36172e07",
+      "title": "Số học sinh TP HCM ngộ độc thực phẩm tăng lên 184",
+      "link": "https://vnexpress.net/so-hoc-sinh-tp-hcm-ngo-doc-thuc-pham-tang-len-184-5061161.html",
+      "summary": "Thêm 36 học sinh Trường Tiểu học Bình Quới Tây nhập viện với triệu chứng nghi ngộ độc thực phẩm, nâng tổng số ca lên 184 tính đến sáng 11/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T04:23:51+07:00",
+      "fetched": "2026-04-11T12:24:00.129899+07:00"
+    },
+    {
+      "id": "0c417f83fbe0d83f35ca9ff8f2add0a8",
+      "title": "Iran có thể đã mất dấu thủy lôi ở eo biển Hormuz",
+      "link": "https://vnexpress.net/iran-co-the-da-mat-dau-thuy-loi-o-eo-bien-hormuz-5061157.html",
+      "summary": "Iran không cho lượng lớn tàu hàng đi qua eo biển Hormuz vì chưa thể xác định vị trí toàn bộ thủy lôi đã triển khai, theo quan chức Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T04:17:43+07:00",
+      "fetched": "2026-04-11T12:24:00.130030+07:00"
+    },
+    {
+      "id": "0c417f83fbe0d83f35ca9ff8f2add0a8",
+      "title": "Iran có thể đã mất dấu thủy lôi ở eo biển Hormuz",
+      "link": "https://vnexpress.net/iran-co-the-da-mat-dau-thuy-loi-o-eo-bien-hormuz-5061157.html",
+      "summary": "Iran không cho lượng lớn tàu hàng đi qua eo biển Hormuz vì chưa thể xác định vị trí toàn bộ thủy lôi đã triển khai, theo quan chức Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-11T04:17:43+07:00",
+      "fetched": "2026-04-11T12:24:05.556163+07:00"
+    },
+    {
+      "id": "95ec01d9b191c910e207be0ef90c113e",
+      "title": "Từ thương lái sầu riêng thành Giám đốc Công ty Nhất Tín đòi nợ thuê",
+      "link": "https://vnexpress.net/tu-thuong-lai-sau-rieng-thanh-giam-doc-cong-ty-nhat-tin-doi-no-thue-5061168.html",
+      "summary": "Hồ Minh Đạt khai từng buôn sầu riêng, sau đó được bạn bè rủ rê thành lập Công ty Mua bán nợ Nhất Tín, tuyển đàn em xăm trổ, chuyên khủng bố để đòi nợ thuê.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T04:06:09+07:00",
+      "fetched": "2026-04-11T12:24:00.130152+07:00"
+    },
+    {
+      "id": "cb4ea71bcaf27b33f083f8a9272127e3",
+      "title": "Tối nào bạn gái cũng bên tôi nhưng thích nghe người khác tán tỉnh",
+      "link": "https://vnexpress.net/toi-nao-ban-gai-cung-ben-toi-nhung-thich-nghe-nguoi-khac-tan-tinh-5061003.html",
+      "summary": "Em sợ hãi, mất dần cảm giác với tôi, bắt đầu nghĩ nhiều về tương lai, lại đem lòng yêu người ở Hà Nội, dù chỉ quen hơn một tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T04:00:00+07:00",
+      "fetched": "2026-04-11T12:24:00.130279+07:00"
+    },
+    {
+      "id": "b90e40b92768e136f0e223884a864e35",
+      "title": "Lính Mỹ kể về cuộc tập kích UAV của Iran vào căn cứ ở Kuwait",
+      "link": "https://vnexpress.net/linh-my-ke-ve-cuoc-tap-kich-uav-cua-iran-vao-can-cu-o-kuwait-5060675.html",
+      "summary": "Binh sĩ Mỹ cho biết dù căn cứ của họ ở Shuaiba được mô tả là \"có hệ thống bảo vệ kiên cố\", UAV Iran vẫn có thể xuyên thủng lớp phòng thủ trong đòn tập kích tháng trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T04:00:00+07:00",
+      "fetched": "2026-04-11T12:24:00.130401+07:00"
+    },
+    {
+      "id": "277833ed2671bcc24fa29a6f2b684e81",
+      "title": "7 cách đơn giản giúp giảm mỡ gan tự nhiên",
+      "link": "https://vnexpress.net/7-cach-don-gian-giup-giam-mo-gan-tu-nhien-5060515.html",
+      "summary": "Giảm cân, ăn uống lành mạnh, tập luyện, hạn chế đường, uống cà phê hợp lý có thể giúp cải thiện chức năng gan, giảm chất béo tích tụ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T04:00:00+07:00",
+      "fetched": "2026-04-11T12:24:00.130529+07:00"
+    },
+    {
+      "id": "12816e72c9041a4cac6954218975975e",
+      "title": "Truyền thuốc loãng xương sớm hơn lịch hẹn được không?",
+      "link": "https://vnexpress.net/truyen-thuoc-loang-xuong-som-hon-lich-hen-duoc-khong-5061028.html",
+      "summary": "Bác sĩ hẹn tôi truyền thuốc chữa loãng xương lần hai sau một năm nhưng tôi muốn truyền sớm hơn được không, có ảnh hưởng gì không? (Thúy Ngọc, Vĩnh Long)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T04:00:00+07:00",
+      "fetched": "2026-04-11T12:24:00.130651+07:00"
+    },
+    {
+      "id": "b1c0d60c65d08c66f235dfd3ab043ce7",
+      "title": "Thức khuya có gây rối loạn nội tiết tố nữ?",
+      "link": "https://vnexpress.net/thuc-khuya-co-gay-roi-loan-noi-tiet-to-nu-5061021.html",
+      "summary": "Tôi thường xuyên thức đến 1h-2h để làm việc. Gần đây, kinh nguyệt bắt đầu thất thường, kèm nổi mụn, dễ mệt mỏi. Thức khuya kéo dài có ảnh hưởng đến nội tiết tố nữ? (Minh Anh, 32 tuổi, Nghệ An)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T04:00:00+07:00",
+      "fetched": "2026-04-11T12:24:00.130792+07:00"
+    },
+    {
+      "id": "c274ebc0dffc3640ec5bed08dd369dfd",
+      "title": "Nguyên nhân người lớn tuổi dễ mất ngủ",
+      "link": "https://vnexpress.net/nguyen-nhan-nguoi-lon-tuoi-de-mat-ngu-5061008.html",
+      "summary": "Khó ngủ, mất ngủ ở người lớn tuổi thường liên quan đến lão hóa thần kinh, bệnh mạn tính, tác dụng phụ của thuốc điều trị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T04:00:00+07:00",
+      "fetched": "2026-04-11T12:24:00.130937+07:00"
+    },
+    {
+      "id": "2dab43f7ed08a13bd27a8830d7efe9e2",
+      "title": "Lactacyd kết hợp ca sĩ Orange ra mắt sản phẩm mới",
+      "link": "https://vnexpress.net/lactacyd-ket-hop-ca-si-orange-ra-mat-san-pham-moi-5055669.html",
+      "summary": "Lactacyd hợp tác cùng ca sĩ Orange ra mắt MV \"Tự tin là chính em\" nhằm giới thiệu hai dòng sữa tắm Ever Fresh và Healthy Bright, mở rộng danh mục chăm sóc cơ thể.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T04:00:00+07:00",
+      "fetched": "2026-04-11T12:24:00.131066+07:00"
+    },
+    {
+      "id": "b90e40b92768e136f0e223884a864e35",
+      "title": "Lính Mỹ kể về cuộc tập kích UAV của Iran vào căn cứ ở Kuwait",
+      "link": "https://vnexpress.net/linh-my-ke-ve-cuoc-tap-kich-uav-cua-iran-vao-can-cu-o-kuwait-5060675.html",
+      "summary": "Binh sĩ Mỹ cho biết dù căn cứ của họ ở Shuaiba được mô tả là \"có hệ thống bảo vệ kiên cố\", UAV Iran vẫn có thể xuyên thủng lớp phòng thủ trong đòn tập kích tháng trước.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-11T04:00:00+07:00",
+      "fetched": "2026-04-11T12:24:05.556321+07:00"
+    },
+    {
+      "id": "78984427db53733201b366184ff7921d",
+      "title": "Tôi làm IT ngồi máy tính 12 tiếng một ngày vẫn hơn chạy xe ôm công nghệ",
+      "link": "https://vnexpress.net/toi-lam-it-ngoi-may-tinh-12-tieng-mot-ngay-van-hon-chay-xe-om-cong-nghe-5061150.html",
+      "summary": "Sau khi ra trường, tôi cũng lông bông, làm này kia, tính chạy xe ôm công nghệ, nhưng rẽ hướng vào ngành IT.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-11T03:55:00+07:00",
+      "fetched": "2026-04-11T12:24:00.131191+07:00"
+    },
+    {
+      "id": "13086b56df981537cd724db5d3bb69af",
+      "title": "Messi, Ronaldo hay Alcaraz nhận lương thế nào?",
+      "link": "https://vnexpress.net/messi-ronaldo-hay-alcaraz-nhan-luong-the-nao-5061133.html",
+      "summary": "Chưa tính khoản tiền tài trợ từ các nhãn hàng, những siêu sao hàng đầu của các môn thể thao khác nhau cũng đã bỏ túi số tiền lương khổng lồ từ đơn vị chủ quản.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-11T03:52:40+07:00",
+      "fetched": "2026-04-11T12:24:10.196446+07:00"
+    },
+    {
+      "id": "39e1f0f3ebf23b3422453b2e16ced91d",
+      "title": "Mận hậu đầu mùa 250.000 đồng một kg vẫn hút khách",
+      "link": "https://vnexpress.net/man-hau-dau-mua-250-000-dong-mot-kg-van-hut-khach-5060937.html",
+      "summary": "Mận hậu Sơn La đầu mùa đang được bán tại TP HCM với giá tới 250.000 đồng một kg, cao hơn 5-10% so với cùng kỳ và tiệm cận nhiều loại trái cây nhập khẩu.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-11T03:28:58+07:00",
+      "fetched": "2026-04-11T12:24:06.651155+07:00"
+    },
+    {
+      "id": "8bfaaa45cc419835ffc6e8c09f8671e1",
+      "title": "Cựu thủ môn Newcastle bịa chuyện về Rooney",
+      "link": "https://vnexpress.net/cuu-thu-mon-newcastle-bia-chuyen-ve-rooney-5061103.html",
+      "summary": "Cựu thủ môn Shay Given gây phẫn nộ khi kể một câu chuyện không có thật về Wayne Rooney.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-11T03:19:49+07:00",
+      "fetched": "2026-04-11T12:24:10.196756+07:00"
+    },
+    {
+      "id": "b8bab1330c05c09daf859cf937ce614c",
+      "title": "Người Iran vừa mừng vừa lo với lệnh ngừng bắn",
+      "link": "https://vnexpress.net/nguoi-iran-vua-mung-vua-lo-voi-lenh-ngung-ban-5061005.html",
+      "summary": "Đa số người dân Iran hoan nghênh thỏa thuận ngừng bắn, nhưng e ngại cuộc chiến còn lâu mới kết thúc vì nhiều vấn đề lớn chưa được giải quyết.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-11T03:01:42+07:00",
+      "fetched": "2026-04-11T12:24:05.556459+07:00"
+    },
+    {
+      "id": "a60d0a5c5b5bd0a460b48fb8b49b9d7e",
+      "title": "Dàn máy bay Mỹ bị tổn thất sau 6 tuần xung đột với Iran",
+      "link": "https://vnexpress.net/dan-may-bay-my-bi-ton-that-sau-6-tuan-xung-dot-voi-iran-5061153.html",
+      "summary": "Dữ liệu nguồn mở cho thấy ít nhất 39 máy bay Mỹ đã bị phá hủy và hư hại trong chiến sự, con số thực tế có thể cao hơn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-11T02:57:06+07:00",
+      "fetched": "2026-04-11T12:24:05.556587+07:00"
+    },
+    {
+      "id": "d5f6314b7df0212ccc3010fe8ca0c12b",
+      "title": "Ông Trump hứa thúc đẩy kinh tế Hungary nếu ông Orban đắc cử",
+      "link": "https://vnexpress.net/ong-trump-hua-thuc-day-kinh-te-hungary-neu-ong-orban-dac-cu-5061137.html",
+      "summary": "Tổng thống Trump cam kết mang \"sức mạnh kinh tế\" của Mỹ tới Hungary nếu đảng của Thủ tướng Orban giành chiến thắng trong cuộc bầu cử cuối tuần này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-11T02:18:17+07:00",
+      "fetched": "2026-04-11T12:24:05.556713+07:00"
+    },
+    {
       "id": "34e5dafc4fce10f1bf94b7cdc03dc8df",
       "title": "Tuyến giữa đội tuyển Việt Nam: Bài toán chưa lời giải bên cạnh Hoàng Đức",
       "link": "https://thanhnien.vn/tuyen-giua-doi-tuyen-viet-nam-bai-toan-chua-loi-giai-ben-canh-hoang-duc-185260411085516286.htm",
@@ -161,6 +701,16 @@ window.newsData_2026_04_11 = {
       "category": "Tổng hợp",
       "published": "2026-04-11T01:59:00+07:00",
       "fetched": "2026-04-11T09:00:51.463347+07:00"
+    },
+    {
+      "id": "a37cc1b4018af2416fadaa58eb82acf8",
+      "title": "Hasselbaink: 'Arteta may mắn còn tại vị ở Arsenal'",
+      "link": "https://vnexpress.net/hasselbaink-arteta-may-man-con-tai-vi-o-arsenal-5061140.html",
+      "summary": "Cựu tiền đạo Chelsea Jimmy Floyd Hasselbaink cho rằng Mikel Arteta chưa đáp ứng kỳ vọng và may mắn khi vẫn giữ được ghế HLV trưởng ở Arsenal.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-11T01:57:23+07:00",
+      "fetched": "2026-04-11T12:24:10.196893+07:00"
     },
     {
       "id": "21ce2d82d4f66bb0820c0c9823b3844a",
@@ -381,6 +931,16 @@ window.newsData_2026_04_11 = {
       "category": "Công nghệ",
       "published": "2026-04-11T01:40:36+07:00",
       "fetched": "2026-04-11T09:00:58.644829+07:00"
+    },
+    {
+      "id": "f35387f782554292c7802cbb3426e79d",
+      "title": "Phi hành đoàn Artemis II rời khỏi tàu Orion trên biển",
+      "link": "https://vnexpress.net/phi-hanh-doan-artemis-ii-roi-khoi-tau-orion-tren-bien-5061139.html",
+      "summary": "Cả bốn phi hành gia đã rời khỏi tàu Orion, khoảng 90 phút sau khi đáp xuống Thái Bình Dương lúc 7h07 ngày 11/4 (giờ Hà Nội).",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-11T01:33:36+07:00",
+      "fetched": "2026-04-11T12:24:09.113814+07:00"
     },
     {
       "id": "19385c327ba4716ad824d499d66f6491",
@@ -1241,6 +1801,16 @@ window.newsData_2026_04_11 = {
       "category": "Thể thao",
       "published": "2026-04-10T15:41:23+07:00",
       "fetched": "2026-04-11T01:47:48.485393+07:00"
+    },
+    {
+      "id": "e835f37227e2b090d6d3720f14538e3a",
+      "title": "HLV Popov sửng cồ với trọng tài V-League",
+      "link": "https://vnexpress.net/hlv-popov-sung-co-voi-trong-tai-v-league-5061088.html",
+      "summary": "HLV Velizar Popov ném thẻ sau khi bị truất quyền chỉ đạo cuối trận Thể Công thắng Thanh Hóa 1-0, ở vòng 18 V-League 2025-2026 tối 10/4.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-10T15:41:23+07:00",
+      "fetched": "2026-04-11T12:24:10.197782+07:00"
     },
     {
       "id": "5662a606778a08508ac3726e8704b82f",
