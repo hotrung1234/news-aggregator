@@ -1,7 +1,157 @@
 window.newsData_2026_04_12 = {
   "date": "2026-04-12",
-  "lastUpdated": "2026-04-12T21:37:35.322246+07:00",
+  "lastUpdated": "2026-04-12T23:35:48.858500+07:00",
   "articles": [
+    {
+      "id": "971f83bc1d2df4ff14824859d70076e4",
+      "title": "NÓNG: Ông Trump tuyên bố phong tỏa eo biển Hormuz",
+      "link": "https://tuoitre.vn/nong-ong-trump-tuyen-bo-phong-toa-eo-bien-hormuz-20260412205337528.htm",
+      "summary": "Tổng thống Mỹ thông báo hải quân nước này sẽ bắt đầu phong tỏa eo biển Hormuz và cấm tàu bè từ bất kỳ nước nào đã trả tiền cho Iran đi qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T23:35:40.751531+07:00",
+      "fetched": "2026-04-12T23:35:40.751640+07:00"
+    },
+    {
+      "id": "41507f909b773e64da2dbf7d13319736",
+      "title": "Chủ tịch Quốc hội mong sinh viên Việt tại Ý tiếp thu khoa học công nghệ, đóng góp cho quê hương",
+      "link": "https://tuoitre.vn/chu-tich-quoc-hoi-mong-sinh-vien-viet-tai-y-tiep-thu-khoa-hoc-cong-nghe-dong-gop-cho-que-huong-20260412210320111.htm",
+      "summary": "Trong khuôn khổ chuyến thăm chính thức Ý, sáng 12-4 giờ địa phương tại thành phố Milan, Chủ tịch Quốc hội Trần Thanh Mẫn đã gặp hội sinh viên và các lưu học sinh tiêu biểu của Việt Nam tại Ý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T23:35:40.751413+07:00",
+      "fetched": "2026-04-12T23:35:40.751517+07:00"
+    },
+    {
+      "id": "d178838137dbcf8c582861ee5f798db1",
+      "title": "Ấn Độ: Chủ xe điện bị phạt vì không có giấy kiểm định khí thải đầy tranh cãi",
+      "link": "https://tuoitre.vn/an-do-chu-xe-dien-bi-phat-vi-khong-co-giay-kiem-dinh-khi-thai-day-tranh-cai-20260412090339079.htm",
+      "summary": "Dù xe điện không thuộc diện phải kiểm tra khí thải, một chủ xe tại Ấn Độ vẫn bị cảnh sát phạt vì không có giấy chứng nhận kiểm định khí thải. Vụ việc đang gây tranh cãi trên mạng xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T23:35:40.751297+07:00",
+      "fetched": "2026-04-12T23:35:40.751403+07:00"
+    },
+    {
+      "id": "18395a116cab091a1327ec7bf6cc3e7c",
+      "title": "Thủ môn Phạm Văn Tú ghi bàn từ sân nhà cho tuyển futsal Việt Nam",
+      "link": "https://tuoitre.vn/thu-mon-pham-van-tu-ghi-ban-tu-san-nha-cho-tuyen-futsal-viet-nam-20260412201853286.htm",
+      "summary": "Lối chơi power play của các cầu thủ Úc đã tạo điều kiện thuận lợi cho thủ thành Phạm Văn Tú ghi bàn ấn định tỉ số 4-0 cho tuyển futsal Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T23:35:40.751182+07:00",
+      "fetched": "2026-04-12T23:35:40.751287+07:00"
+    },
+    {
+      "id": "4123073be27e6e4265f6950c0817f09b",
+      "title": "Bắt giữ 2 nghi phạm trộm 30 lượng vàng 9999",
+      "link": "https://tuoitre.vn/bat-giu-2-nghi-pham-trom-30-luong-vang-9999-2026041221184279.htm",
+      "summary": "Ngày 12-4, Công an tỉnh Đồng Tháp cho biết Phòng Cảnh sát hình sự Công an tỉnh Đồng Tháp đã phối hợp với các đơn vị bắt giữ hai nghi phạm liên quan vụ trộm khoảng 30 lượng vàng 9999 xảy ra tại một cơ sở kinh doanh trên địa bàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T23:35:40.751059+07:00",
+      "fetched": "2026-04-12T23:35:40.751171+07:00"
+    },
+    {
+      "id": "9f0b1fff2dd669b156036bf233fbcc93",
+      "title": "Giá xăng dầu biến động, TP.HCM kiến nghị miễn giảm phí đường bộ hỗ trợ doanh nghiệp vận tải",
+      "link": "https://tuoitre.vn/gia-xang-dau-bien-dong-tp-hcm-kien-nghi-mien-giam-phi-duong-bo-ho-tro-doanh-nghiep-van-tai-2026041221090796.htm",
+      "summary": "Nhằm tháo gỡ khó khăn cho doanh nghiệp vận tải trước biến động giá xăng dầu, Sở Xây dựng TP.HCM đề xuất miễn, giảm một số loại phí đường bộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T23:35:40.750935+07:00",
+      "fetched": "2026-04-12T23:35:40.751049+07:00"
+    },
+    {
+      "id": "c7f300da2b512202875c6a270994f52b",
+      "title": "Triệu Tử Kỳ bóc phốt Đạp gió 2026, Trang Pháp lên tiếng sau khi thua sốc",
+      "link": "https://tuoitre.vn/trieu-tu-ky-boc-phot-dap-gio-2026-trang-phap-len-tieng-sau-khi-thua-soc-20260412202017261.htm",
+      "summary": "Sau đêm công diễn đầu tiên, Đạp gió 2026 vướng vào tâm điểm tranh cãi trên mạng xã hội Trung Quốc và Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T23:35:40.750800+07:00",
+      "fetched": "2026-04-12T23:35:40.750905+07:00"
+    },
+    {
+      "id": "010edd661a3b13ad94ecb6d15ad5c19f",
+      "title": "Cầu thủ nhập tịch Đỗ Hoàng Hên thể hiện đẳng cấp vượt trội",
+      "link": "https://tuoitre.vn/cau-thu-nhap-tich-do-hoang-hen-the-hien-dang-cap-vuot-troi-20260412213912759.htm",
+      "summary": "Tiền đạo nhập tịch Đỗ Hoàng Hên tiếp tục thể hiện tầm quan trọng khi đóng góp dấu giầy vào 2 bàn trong chiến thắng 3-0 của CLB Hà Nội trước Hà Tĩnh tối 12-4.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T23:35:40.750683+07:00",
+      "fetched": "2026-04-12T23:35:40.750789+07:00"
+    },
+    {
+      "id": "fc69529be26882c024cec8503f43eb6e",
+      "title": "Đình Bắc dứt điểm từ ngoài vòng 16m50, mở tỉ số cho Công An Hà Nội",
+      "link": "https://tuoitre.vn/dinh-bac-dut-diem-tu-ngoai-vong-16m50-mo-ti-so-cho-cong-an-ha-noi-20260412205741481.htm",
+      "summary": "Tiền đạo Nguyễn Đình Bắc tỏa sáng với pha dứt điểm từ ngoài vòng cấm, mở tỉ số từ rất sớm cho CLB Công An Hà Nội trong trận gặp PVF-CAND ở vòng 18 V-League 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T23:35:40.750569+07:00",
+      "fetched": "2026-04-12T23:35:40.750673+07:00"
+    },
+    {
+      "id": "9040687dba97dd2061eb15f7f74b5a59",
+      "title": "Sinlaku mạnh lên thành siêu bão, mạnh nhất thế giới từ đầu năm",
+      "link": "https://tuoitre.vn/sinlaku-manh-len-thanh-sieu-bao-manh-nhat-the-gioi-tu-dau-nam-20260412220218525.htm",
+      "summary": "Tối 12-4, sức gió vùng tâm siêu bão Sinlaku đã tăng lên 190km/h, tương đương cấp 16, giật trên cấp 17. Đây là lần thứ ba kể từ năm 1977, khu vực tây bắc Thái Bình Dương mới xuất hiện một siêu bão trong tháng 4.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T23:35:40.750453+07:00",
+      "fetched": "2026-04-12T23:35:40.750559+07:00"
+    },
+    {
+      "id": "1259c8c4429af3e5d0a154bb4e742e7a",
+      "title": "Lê Văn Thuận lại ghi bàn thắng vàng cho Ninh Bình",
+      "link": "https://tuoitre.vn/le-van-thuan-lai-ghi-ban-thang-vang-cho-ninh-binh-20260412220729886.htm",
+      "summary": "Lê Văn Thuận tiếp tục tỏa sáng từ ghế dự bị khi ghi bàn thắng ấn định tỉ số 2-1 cho CLB Ninh Bình trước Becamex TP.HCM ở vòng 18 V-League 2025-2026 diễn ra tối 12-4.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T23:35:40.750337+07:00",
+      "fetched": "2026-04-12T23:35:40.750442+07:00"
+    },
+    {
+      "id": "dac9d6caadbadb99200f4e6b4f214373",
+      "title": "Bảng xếp hạng V-League vòng 18: CLB Đà Nẵng xuống chót bảng",
+      "link": "https://tuoitre.vn/bang-xep-hang-v-league-vong-18-clb-da-nang-xuong-chot-bang-20260412222949008.htm",
+      "summary": "CLB SHB Đà Nẵng đã rơi xuống vị trí cuối cùng bảng xếp hạng sau khi vòng 18 V-League 2025-2026 khép lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T23:35:40.750218+07:00",
+      "fetched": "2026-04-12T23:35:40.750326+07:00"
+    },
+    {
+      "id": "39038ec7bbe93b2c838cf8d796775304",
+      "title": "Ông Trump kể chuyện đàm phán với Iran ở Pakistan",
+      "link": "https://tuoitre.vn/ong-trump-ke-chuyen-dam-phan-voi-iran-o-pakistan-20260412222901521.htm",
+      "summary": "Tổng thống Mỹ chia sẻ nhiều chi tiết hậu trường đàm phán với Iran ở Pakistan, trong đó có chi tiết then chốt khiến đàm phán sụp đổ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T23:35:40.750094+07:00",
+      "fetched": "2026-04-12T23:35:40.750207+07:00"
+    },
+    {
+      "id": "d0ce39c527c7f170d16e825a832cdb57",
+      "title": "Đánh bại ĐKVĐ Indonesia, tuyển futsal Thái Lan lần thứ 17 vô địch Đông Nam Á",
+      "link": "https://tuoitre.vn/danh-bai-dkvd-indonesia-tuyen-futsal-thai-lan-lan-thu-17-vo-dich-dong-nam-a-20260412222313578.htm",
+      "summary": "Đêm 12-4, tuyển futsal Thái Lan đã đánh bại đương kim vô địch Indonesia 2-1 ở trận chung kết Giải futsal Đông Nam Á 2026 và lần thứ 17 đăng quang tại giải.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T23:35:40.749960+07:00",
+      "fetched": "2026-04-12T23:35:40.750083+07:00"
+    },
+    {
+      "id": "ee35e7b21f69272de5f1eed8e03a4832",
+      "title": "Nhà ga quốc tế Đà Nẵng liên tiếp đạt chuẩn 5 sao trong 3 năm",
+      "link": "https://tuoitre.vn/nha-ga-quoc-te-da-nang-lien-tiep-dat-chuan-5-sao-trong-3-nam-20260412165230624.htm",
+      "summary": "Nhà ga hành khách quốc tế T2  Đà Nẵng tiếp tục được Skytrax công nhận đạt chuẩn 5 sao trong năm 2026, đây là năm thứ ba liên tiếp nhà ga này được xếp hạng cao nhất dành cho nhà ga sân bay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T23:35:40.749772+07:00",
+      "fetched": "2026-04-12T23:35:40.749945+07:00"
+    },
     {
       "id": "af020b5dbb6ddf8a6011df78942fcf91",
       "title": "Thanh Thúy xếp hạng bao nhiêu khi chia tay giải bóng chuyền Nhật Bản?",
@@ -433,6 +583,26 @@ window.newsData_2026_04_12 = {
       "fetched": "2026-04-12T17:35:51.456395+07:00"
     },
     {
+      "id": "4f47ffddbda825602dbe1927434d4158",
+      "title": "Văn Thuận ghi bàn phút 90+3, Ninh Bình đánh bại Becamex TP.HCM kịch tính",
+      "link": "https://thanhnien.vn/van-thuan-ghi-ban-phut-903-ninh-binh-danh-bai-becamex-tphcm-kich-tinh-185260412222444504.htm",
+      "summary": "Hồ Tấn Tài ghi bàn trong ngày trở lại nhưng Becamex TP.HCM vẫn nhận thất bại 1-2 trước Ninh Bình, khi Văn Thuận tỏa sáng với pha đánh đầu quyết định ở phút 90+3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T15:53:00+07:00",
+      "fetched": "2026-04-12T23:35:39.263965+07:00"
+    },
+    {
+      "id": "47677c6851459033830982f641804699",
+      "title": "Đình Bắc tiếp tục ghi bàn, CLB CAHN vẫn bị PVF CAND ‘cầm chân’",
+      "link": "https://thanhnien.vn/dinh-bac-tiep-tuc-ghi-ban-clb-cahn-van-bi-pvf-cand-cam-chan-185260412221605566.htm",
+      "summary": "Nguyễn Đình Bắc ghi bàn trận thứ 2 liên tiếp nhưng không thể giúp CLB CAHN giành trọn 3 điểm, khi đội đầu bảng bị PVF CAND cầm hòa 1-1 ở vòng 18 V-League.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T15:53:00+07:00",
+      "fetched": "2026-04-12T23:35:39.264131+07:00"
+    },
+    {
       "id": "73712d2868510a20181b0bc74f54dd0c",
       "title": "Bữa ăn bán trú và 'người chưa bị lộ'",
       "link": "https://tuoitre.vn/bua-an-ban-tru-va-nguoi-chua-bi-lo-2026041208025496.htm",
@@ -583,6 +753,136 @@ window.newsData_2026_04_12 = {
       "fetched": "2026-04-12T15:43:36.389289+07:00"
     },
     {
+      "id": "d6f02fffc7dd899f479148fbcf4381b8",
+      "title": "Justin Bieber gây chú ý tại lễ hội âm nhạc Coachella",
+      "link": "https://vnexpress.net/justin-bieber-gay-chu-y-tai-le-hoi-am-nhac-coachella-5061534.html",
+      "summary": "Justin Bieber gợi nhớ giai đoạn đầu sự nghiệp khi biểu diễn \"Baby\", \"Beauty and a Beat\" tại Coachella - lễ hội âm nhạc lớn nhất Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T15:39:47+07:00",
+      "fetched": "2026-04-12T23:35:36.415925+07:00"
+    },
+    {
+      "id": "332765ea3be3eaa927a7440ab2829a41",
+      "title": "Mỹ loại biên tàu ngầm hạt nhân sau khi tốn 800 triệu USD sửa chữa",
+      "link": "https://vnexpress.net/my-loai-bien-tau-ngam-hat-nhan-sau-khi-ton-800-trieu-usd-sua-chua-5061513.html",
+      "summary": "Mỹ loại biên tàu ngầm USS Boise sau hơn 10 năm đại tu, do ước tính sẽ cần 3 tỷ USD để đưa chiến hạm trở lại hoạt động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T15:25:55+07:00",
+      "fetched": "2026-04-12T23:35:36.416098+07:00"
+    },
+    {
+      "id": "332765ea3be3eaa927a7440ab2829a41",
+      "title": "Mỹ loại biên tàu ngầm hạt nhân sau khi tốn 800 triệu USD sửa chữa",
+      "link": "https://vnexpress.net/my-loai-bien-tau-ngam-hat-nhan-sau-khi-ton-800-trieu-usd-sua-chua-5061513.html",
+      "summary": "Mỹ loại biên tàu ngầm USS Boise sau hơn 10 năm đại tu, do ước tính sẽ cần 3 tỷ USD để đưa chiến hạm trở lại hoạt động.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-12T15:25:55+07:00",
+      "fetched": "2026-04-12T23:35:42.511004+07:00"
+    },
+    {
+      "id": "e7e02042c0d2b0e0294a646ba872b2c4",
+      "title": "Đánh bại Úc thuyết phục, đội tuyển Việt Nam giành HCĐ futsal Đông Nam Á 2026",
+      "link": "https://thanhnien.vn/danh-bai-uc-thuyet-phuc-doi-tuyen-viet-nam-gianh-hcd-futsal-dong-nam-a-2026-185260412213946815.htm",
+      "summary": "Với màn trình diễn thuyết phục, đội tuyển Việt Nam không chỉ giành tấm HCĐ mà còn nhận được phần thưởng nóng từ VFF, ghi nhận nỗ lực và thành tích tại giải đấu năm nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T15:04:00+07:00",
+      "fetched": "2026-04-12T23:35:39.264285+07:00"
+    },
+    {
+      "id": "7c930e82ad20a99f229c8f76ef3e62c7",
+      "title": "Tottenham lún sâu ở nhóm xuống hạng",
+      "link": "https://vnexpress.net/tottenham-lun-sau-o-nhom-xuong-hang-5061538.html",
+      "summary": "Tottenham thua chủ nhà Sunderland 0-1 ở trận đầu dưới trướng tân HLV Roberto de Zerbi, tiếp tục đứng thứ 18 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T15:02:41+07:00",
+      "fetched": "2026-04-12T23:35:36.416254+07:00"
+    },
+    {
+      "id": "7c930e82ad20a99f229c8f76ef3e62c7",
+      "title": "Tottenham lún sâu ở nhóm xuống hạng",
+      "link": "https://vnexpress.net/tottenham-lun-sau-o-nhom-xuong-hang-5061538.html",
+      "summary": "Tottenham thua chủ nhà Sunderland 0-1 ở trận đầu dưới trướng tân HLV Roberto de Zerbi, tiếp tục đứng thứ 18 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-12T15:02:41+07:00",
+      "fetched": "2026-04-12T23:35:48.846302+07:00"
+    },
+    {
+      "id": "bdfc40ae7e398bd27da472eddb91b67e",
+      "title": "Cặp đôi tranh cãi vì một cây bút được tặng nhưng viết không ra mực",
+      "link": "https://vnexpress.net/cap-doi-tranh-cai-vi-mot-cay-but-duoc-tang-nhung-viet-khong-ra-muc-5061499.html",
+      "summary": "Cuộc tranh cãi nổ ra khi tôi cho rằng 'bút không viết được thì tặng làm gì', còn người yêu cho đó là đồ kỷ niệm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T15:00:00+07:00",
+      "fetched": "2026-04-12T23:35:36.416407+07:00"
+    },
+    {
+      "id": "ea19d8ab58be2814b3bd4b0f3c555036",
+      "title": "Highlight Quảng Ninh 0-0 Bắc Ninh: Giằng co chia điểm",
+      "link": "https://thanhnien.vn/highlight-quang-ninh-0-0-bac-ninh-giang-co-chia-diem-185260412215932613.htm",
+      "summary": "Trận đấu giữa Quảng Ninh và Bắc Ninh diễn ra giằng co nhưng thiếu điểm nhấn, khi cả hai đội không thể tận dụng cơ hội để ghi bàn, khép lại với tỷ số hòa 0-0.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T14:59:00+07:00",
+      "fetched": "2026-04-12T23:35:39.264438+07:00"
+    },
+    {
+      "id": "514d103fb34616df5c9e8dcb09e82b8c",
+      "title": "Highlight CLB Becamex TP.HCM 1-0 Ninh Bình: Sao U.23 Việt Nam tỏa sáng",
+      "link": "https://thanhnien.vn/highlight-clb-becamex-tphcm-1-0-ninh-binh-sao-u23-viet-nam-toa-sang-185260412215721848.htm",
+      "summary": "Thất bại ở những giây cuối cùng khiến Becamex TP.HCM không giấu được sự tiếc nuối, trong khi CLB Ninh Bình có thêm một chiến thắng quan trọng với dấu ấn của cầu thủ U.23 Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T14:57:00+07:00",
+      "fetched": "2026-04-12T23:35:39.264589+07:00"
+    },
+    {
+      "id": "384f8810d82b64cf65a2324db85e2841",
+      "title": "Hà Nội FC 3-0 Hà Tĩnh",
+      "link": "https://vnexpress.net/ha-noi-fc-3-0-ha-tinh-5061540.html",
+      "summary": "Các bàn của Xuân Mạnh, Hoàng Hên và Daniel Passira giúp Hà Nội FC lấy trọn ba điểm trên sân nhà ở vòng 18 V-League 2025-2026 tối 12/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T14:56:09+07:00",
+      "fetched": "2026-04-12T23:35:36.416551+07:00"
+    },
+    {
+      "id": "0d21152959abb742918bf845c395ebd9",
+      "title": "Các phim nổi bật về phiêu lưu vũ trụ",
+      "link": "https://vnexpress.net/cac-phim-noi-bat-ve-phieu-luu-vu-tru-5061382.html",
+      "summary": "\"Gravity\", \"Project Hail Mary\" tái hiện môi trường không trọng lực nguy hiểm, làm nổi bật bản năng sinh tồn của con người trong vũ trụ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T14:55:57+07:00",
+      "fetched": "2026-04-12T23:35:36.416694+07:00"
+    },
+    {
+      "id": "aaca63eaa0c3203dcb533f7524e71489",
+      "title": "Highlight CLB PVF CAND 1-1 CLB Công an Hà Nội: Đình Bắc lập công",
+      "link": "https://thanhnien.vn/highlight-clb-pvf-cand-1-1-clb-cong-an-ha-noi-dinh-bac-lap-cong-18526041221542656.htm",
+      "summary": "Kết quả hòa 1-1 khiến CLB CAHN chấm dứt chuỗi 11 trận thắng liên tiếp tại V-League và họ hiện có 45 điểm, khoảng cách với đội xếp sau là Thể Công đã bị thu hẹp xuống còn 7 điểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T14:54:00+07:00",
+      "fetched": "2026-04-12T23:35:39.264735+07:00"
+    },
+    {
+      "id": "b12490e25b4a1e315b4d14aa9046686f",
+      "title": "Trần Thị Thanh Thúy rời Nhật Bản, báo tin vui cho CLB VTV Bình Điền Long An",
+      "link": "https://thanhnien.vn/tran-thi-thanh-thuy-roi-nhat-ban-bao-tin-vui-cho-clb-vtv-binh-dien-long-an-185260412214757589.htm",
+      "summary": "Ngôi sao số 1 bóng chuyền nữ Việt Nam Trần Thị Thanh Thúy vừa khép lại mùa giải thành công tại giải vô địch bóng chuyền Nhật Bản và sẽ về nước, kịp khoác áo CLB VTV Bình Điền Long An ở 2 lượt trận cuối vòng 1 giải bóng chuyền vô địch quốc gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T14:49:00+07:00",
+      "fetched": "2026-04-12T23:35:39.264882+07:00"
+    },
+    {
       "id": "3a533a27045ac1a951f8e555c0bd92e3",
       "title": "Highlight đội tuyển Việt Nam 3-0 Úc: Giành HCĐ thuyết phục",
       "link": "https://thanhnien.vn/highlight-doi-tuyen-viet-nam-3-0-uc-gianh-hcd-thuyet-phuc-185260412213658706.htm",
@@ -591,6 +891,46 @@ window.newsData_2026_04_12 = {
       "category": "Tổng hợp",
       "published": "2026-04-12T14:37:00+07:00",
       "fetched": "2026-04-12T21:37:28.011135+07:00"
+    },
+    {
+      "id": "22056031a27ebb14716baea008a14ad2",
+      "title": "VAR giúp Hà Nội FC thoát thẻ đỏ ở V-League",
+      "link": "https://vnexpress.net/var-giup-ha-noi-fc-thoat-the-do-o-v-league-5061536.html",
+      "summary": "Trung vệ Nguyễn Thành Chung thoát thẻ đỏ nhờ VAR trong trận Hà Nội FC hạ Hà Tĩnh 3-0 ở vòng 18 V-League 2025-2026, tối nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T14:33:46+07:00",
+      "fetched": "2026-04-12T23:35:36.416839+07:00"
+    },
+    {
+      "id": "22056031a27ebb14716baea008a14ad2",
+      "title": "VAR giúp Hà Nội FC thoát thẻ đỏ ở V-League",
+      "link": "https://vnexpress.net/var-giup-ha-noi-fc-thoat-the-do-o-v-league-5061536.html",
+      "summary": "Trung vệ Nguyễn Thành Chung thoát thẻ đỏ nhờ VAR trong trận Hà Nội FC hạ Hà Tĩnh 3-0 ở vòng 18 V-League 2025-2026, tối nay.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-12T14:33:46+07:00",
+      "fetched": "2026-04-12T23:35:48.846475+07:00"
+    },
+    {
+      "id": "daf54e3c92cf0f3c0852346527517d70",
+      "title": "PVF-CAND 1-1 Công an Hà Nội",
+      "link": "https://vnexpress.net/pvf-cand-1-1-cong-an-ha-noi-5061531.html",
+      "summary": "Nguyễn Đình Bắc mở tỷ số, nhưng không thể giúp Công an Hà Nội lấy trọn ba điểm trên sân đội chót bảng ở vòng 18 V-League 2026-2027.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T14:29:08+07:00",
+      "fetched": "2026-04-12T23:35:36.417008+07:00"
+    },
+    {
+      "id": "a84083d94c87667bb1d6957f18d79ad6",
+      "title": "Becamex TP HCM 1-2 Ninh Bình",
+      "link": "https://vnexpress.net/becamex-tp-hcm-1-2-ninh-binh-5061533.html",
+      "summary": "Lê Văn Thuận ghi bàn ở phút bù, giúp Ninh Bình lấy trọn ba điểm trên sân Gò Đậu ở vòng 18 V-League 2025-2026 tối 12/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T14:28:47+07:00",
+      "fetched": "2026-04-12T23:35:36.417156+07:00"
     },
     {
       "id": "c8acad7d6755b34c978ea1c06f9ae013",
@@ -641,6 +981,16 @@ window.newsData_2026_04_12 = {
       "category": "Tổng hợp",
       "published": "2026-04-12T14:18:00+07:00",
       "fetched": "2026-04-12T21:37:28.011929+07:00"
+    },
+    {
+      "id": "e4388847ac9c47b24d749eb89d81f4a6",
+      "title": "Ba người bị bắt sau vụ nổ súng truy sát ở Đồng Tháp",
+      "link": "https://vnexpress.net/ba-nguoi-bi-bat-sau-vu-no-sung-truy-sat-o-dong-thap-5061522.html",
+      "summary": "Sau gần một tuần nổ súng, cầm dao truy sát khiến hai người bị thương, Nguyễn Thành Tiến, 27 tuổi, cùng hai đồng phạm bị công an bắt giữ để điều tra về hàng loạt hành vi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T14:16:35+07:00",
+      "fetched": "2026-04-12T23:35:36.417452+07:00"
     },
     {
       "id": "65b52301686897a1fea14d1b1821dfe5",
