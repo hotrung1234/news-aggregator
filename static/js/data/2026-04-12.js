@@ -1,7 +1,157 @@
 window.newsData_2026_04_12 = {
   "date": "2026-04-12",
-  "lastUpdated": "2026-04-12T12:52:11.587610+07:00",
+  "lastUpdated": "2026-04-12T14:10:21.121983+07:00",
   "articles": [
+    {
+      "id": "65b52301686897a1fea14d1b1821dfe5",
+      "title": "Xe container ôm cua cuốn người phụ nữ đi xe đạp vào gầm",
+      "link": "https://tuoitre.vn/xe-container-om-cua-cuon-nguoi-phu-nu-di-xe-dap-vao-gam-20260412114624259.htm",
+      "summary": "Ôm cua rẽ phải, xe container va chạm xe đạp, cuốn người phụ nữ vào gầm tại ngã ba ở TP.HCM, nạn nhân bị thương nặng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T14:10:12.521806+07:00",
+      "fetched": "2026-04-12T14:10:12.521933+07:00"
+    },
+    {
+      "id": "7dff5a8091c30aa98ae9b0678d2e57c4",
+      "title": "Lữ đoàn Đặc công 126 anh hùng, tinh nhuệ, thiện chiến, chuyên sâu, hiện đại",
+      "link": "https://tuoitre.vn/lu-doan-dac-cong-126-anh-hung-tinh-nhue-thien-chien-chuyen-sau-hien-dai-20260404222603897.htm",
+      "summary": "Với truyền thống \"anh dũng mưu trí - khắc phục khó khăn - đoàn kết lập công - chiến thắng liên tục\", Lữ đoàn Đặc công 126 (Quân chủng Hải quân) đã vượt qua muôn vàn thử thách, lập nhiều chiến công đặc biệt xuất sắc trên chiến trường sông, biển.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T14:10:12.521666+07:00",
+      "fetched": "2026-04-12T14:10:12.521794+07:00"
+    },
+    {
+      "id": "256c16cd619af4ac84749337b1885f9a",
+      "title": "Những căn nhà đầu tiên được tháo dỡ, nhường chỗ cho dự án mở rộng quốc lộ 13",
+      "link": "https://tuoitre.vn/nhung-can-nha-dau-tien-duoc-thao-do-nhuong-cho-cho-du-an-mo-rong-quoc-lo-13-20260411185922967.htm",
+      "summary": "Dọc quốc lộ 13 đoạn từ cầu Bình Triệu đến cầu Vĩnh Bình, nhiều hộ dân bắt đầu tháo dỡ nhà cửa, bàn giao mặt bằng để phục vụ dự án mở rộng đường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T14:10:12.521539+07:00",
+      "fetched": "2026-04-12T14:10:12.521654+07:00"
+    },
+    {
+      "id": "7ffaa35b0d522cd226013dc3f6998139",
+      "title": "Hai trẻ chết đuối khi theo người thân ra đập nước bắt cá",
+      "link": "https://tuoitre.vn/hai-tre-chet-duoi-khi-theo-nguoi-than-ra-dap-nuoc-bat-ca-20260412114913723.htm",
+      "summary": "Hai trẻ 10 và 13 tuổi ở Đắk Lắk chết đuối sau khi theo người thân ra đập nước bắt cá, dù được phát hiện và đưa đi cấp cứu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T14:10:12.521379+07:00",
+      "fetched": "2026-04-12T14:10:12.521526+07:00"
+    },
+    {
+      "id": "adc9dda1f5b2a49fc963ae8cf2b20e09",
+      "title": "Giá dầu tăng: Hàn Quốc và Thái Lan tăng trợ cấp tiền, Malaysia canh trạm xăng",
+      "link": "https://tuoitre.vn/gia-dau-tang-han-quoc-va-thai-lan-tang-tro-cap-tien-malaysia-canh-tram-xang-20260412114036675.htm",
+      "summary": "Giữa cú sốc năng lượng do xung đột Trung Đông, nhiều quốc gia châu Á đồng loạt triển khai biện pháp ứng phó và hỗ trợ người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T14:10:12.521250+07:00",
+      "fetched": "2026-04-12T14:10:12.521367+07:00"
+    },
+    {
+      "id": "0f2d6d1b539cf148183ee8a3767d9463",
+      "title": "Minh Châu qua đời để lại món quà đặc biệt, mẹ viết kịch bản phim nối dài sự sống, đạt giải nhất",
+      "link": "https://tuoitre.vn/minh-chau-qua-doi-de-lai-mon-qua-dac-biet-me-viet-kich-ban-phim-noi-dai-su-song-dat-giai-nhat-20260412114248418.htm",
+      "summary": "Kịch bản tái hiện 20 năm chiến đấu với bệnh loạn dưỡng cơ - một căn bệnh hiếm của thế giới, của hai mẹ con Nguyễn Minh Châu vừa đoạt giải nhất Cuộc tuyển chọn kịch bản phim tài liệu năm 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T14:10:12.521123+07:00",
+      "fetched": "2026-04-12T14:10:12.521239+07:00"
+    },
+    {
+      "id": "0f20955ba2a0001917b6e2dede659c2e",
+      "title": "7 con quỷ yếu nhất trong Thanh gươm diệt quỷ",
+      "link": "https://tuoitre.vn/7-con-quy-yeu-nhat-trong-thanh-guom-diet-quy-20260412101712935.htm",
+      "summary": "Không phải mọi con quỷ trong Thanh gươm diệt quỷ đều sở hữu sức mạnh áp đảo như Thập Nhị Quỷ Nguyệt. Tuy nhiên, ngay cả những kẻ bị xem là 'yếu nhất' cũng đủ khiến các kiếm sĩ diệt quỷ phải trả giá nếu mất cảnh giác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T14:10:12.520995+07:00",
+      "fetched": "2026-04-12T14:10:12.521111+07:00"
+    },
+    {
+      "id": "d062b4ce1d65fd63aa976043aeb46c66",
+      "title": "Va chạm giao thông thành màn tấu hài khó đỡ, người khen đáng yêu, người băn khoăn tội quấy rối",
+      "link": "https://tuoitre.vn/va-cham-giao-thong-thanh-man-tau-hai-kho-do-nguoi-khen-dang-yeu-nguoi-ban-khoan-toi-quay-roi-2026041110411737.htm",
+      "summary": "Từ một pha va chạm thành màn 'tấu hài' khó đỡ, dân mạng vừa cười vừa tranh luận, bởi cách làm này hoàn toàn có thể hóa giải vấn đề nhẹ nhàng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T14:10:12.520865+07:00",
+      "fetched": "2026-04-12T14:10:12.520983+07:00"
+    },
+    {
+      "id": "0b897956fe8a2324772e65fbfbaf45c8",
+      "title": "Sứa về chợ quê, gọi hè bằng vị mát lành",
+      "link": "https://tuoitre.vn/sua-ve-cho-que-goi-he-bang-vi-mat-lanh-20260412084106338.htm",
+      "summary": "Ở vùng quê Đà Nẵng, sứa không phải món cao sang. Sứa gần gũi như con cá chuồn, trái mít non hay rổ rau vườn nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T14:10:12.520737+07:00",
+      "fetched": "2026-04-12T14:10:12.520853+07:00"
+    },
+    {
+      "id": "4b620d1818f88dae8f461544bdeffd46",
+      "title": "Từ 18-5, tăng gấp đôi mức phạt tiền với hành vi ngoại tình",
+      "link": "https://tuoitre.vn/tu-18-5-tang-gap-doi-muc-phat-tien-voi-hanh-vi-ngoai-tinh-20260412120453109.htm",
+      "summary": "Theo quy định mới, vợ hoặc chồng ngoại tình có thể bị phạt 5-10 triệu đồng, khoảng gấp đôi mức cũ là 3-5 triệu đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T14:10:12.520605+07:00",
+      "fetched": "2026-04-12T14:10:12.520725+07:00"
+    },
+    {
+      "id": "c84929c5ca1b9239860d58ee1e03dd87",
+      "title": "Đại biểu đề nghị Hà Nội cho đỗ xe trên vỉa hè có điều kiện, giãn dân, di dân ra khỏi nội đô",
+      "link": "https://tuoitre.vn/dai-bieu-de-nghi-ha-noi-cho-do-xe-tren-via-he-co-dieu-kien-gian-dan-di-dan-ra-khoi-noi-do-20260412120404859.htm",
+      "summary": "Sáng 12-4, tại phiên thảo luận về dự án Luật Thủ đô (sửa đổi), góp ý về giải quyết vấn đề giao thông đô thị Hà Nội, đại biểu Nguyễn Văn Cảnh (Gia Lai) nêu ý kiến liên quan đến việc sử dụng bãi đỗ xe và giảm ùn tắc giao thông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T14:10:12.520416+07:00",
+      "fetched": "2026-04-12T14:10:12.520592+07:00"
+    },
+    {
+      "id": "d0b55a0fa47785bae83d029dd72f8616",
+      "title": "Ngắm cầu Phước An có độ tĩnh không lớn nhất Việt Nam sắp về đích",
+      "link": "https://tuoitre.vn/ngam-cau-phuoc-an-co-do-tinh-khong-lon-nhat-viet-nam-sap-ve-dich-20260412120042136.htm",
+      "summary": "Cầu Phước An bắc qua sông Thị Vải nối Đồng Nai với TP.HCM - một trong ba cây cầu có độ tĩnh không lớn nhất Việt Nam - hiện đã đạt hơn 80% khối lượng, dự kiến hợp long vào tháng 6-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T14:10:12.520258+07:00",
+      "fetched": "2026-04-12T14:10:12.520381+07:00"
+    },
+    {
+      "id": "ad479b3dba5b0ded70ff1fc8c67e9ffa",
+      "title": "Vụ cháy ở phường Tân Thới Hiệp, 2 người chết: Tiếng kêu cứu khắp căn trọ, hàng xóm nỗ lực cứu người",
+      "link": "https://tuoitre.vn/vu-chay-o-phuong-tan-thoi-hiep-2-nguoi-chet-tieng-keu-cuu-khap-can-tro-hang-xom-no-luc-cuu-nguoi-20260412121619807.htm",
+      "summary": "Con hẻm bên hông nhà trọ nhỏ, hẹp nên khi ngọn lửa bùng lên dữ dội và cột khói cuồn cuộn, bao trùm khu vực khiến những người hàng xóm ứng cứu gặp khó khăn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T14:10:12.520116+07:00",
+      "fetched": "2026-04-12T14:10:12.520245+07:00"
+    },
+    {
+      "id": "c617b5c9caef3951d59add349ec82808",
+      "title": "Ai là võ sư mạnh nhất làng kung fu đương đại Trung Quốc?",
+      "link": "https://tuoitre.vn/ai-la-vo-su-manh-nhat-lang-kung-fu-duong-dai-trung-quoc-20260411235155415.htm",
+      "summary": "Ai mạnh nhất làng võ kung fu đương đại của Trung Quốc? Một chủ đề hấp dẫn từng được tranh luận rất nhiều trong cộng đồng hâm mộ võ thuật đại lục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T14:10:12.519959+07:00",
+      "fetched": "2026-04-12T14:10:12.520102+07:00"
+    },
+    {
+      "id": "c92ebd9995e3a69e038861d27ac7dd75",
+      "title": "Những chia sẻ đầu tiên của phi hành đoàn Artemis II sau khi trở về Trái đất",
+      "link": "https://tuoitre.vn/nhung-chia-se-dau-tien-cua-phi-hanh-doan-artemis-ii-sau-khi-tro-ve-trai-dat-2026041212212212.htm",
+      "summary": "Phi hành đoàn Artemis II đã nhận được sự chào đón nồng nhiệt tại Houston khi trở về sau chuyến bay lịch sử quanh Mặt trăng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T14:10:12.519710+07:00",
+      "fetched": "2026-04-12T14:10:12.519940+07:00"
+    },
     {
       "id": "1ba7fecf0a97065f3e270b2f849dfaa1",
       "title": "Bảo mật an toàn cho hệ sinh thái tài sản số",
@@ -303,6 +453,216 @@ window.newsData_2026_04_12 = {
       "fetched": "2026-04-12T09:22:41.908656+07:00"
     },
     {
+      "id": "f64828889679a9474af1e7ac026264a5",
+      "title": "Làm chủ trang phục màu nâu cho ngày hè",
+      "link": "https://thanhnien.vn/thoi-trang-tre/lam-chu-trang-phuc-mau-nau-cho-ngay-he-185260411163212434.htm",
+      "summary": "Không rực rỡ như sắc đỏ hay quyền lực như màu đen, màu nâu thời thượng đang len lỏi vào tủ đồ của những tín đồ sành điệu như một bản tuyên ngôn về sự tinh tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T07:00:00+07:00",
+      "fetched": "2026-04-12T14:10:11.385308+07:00"
+    },
+    {
+      "id": "7809260a93eed1c9f85fde4785b2597e",
+      "title": "Đà Nẵng sẽ di dời gần 400.000 ngôi mộ để tái thiết không gian đô thị",
+      "link": "https://thanhnien.vn/da-nang-se-di-doi-gan-400000-ngoi-mo-de-tai-thiet-khong-gian-do-thi-185260412125735156.htm",
+      "summary": "Trước áp lực phát triển đô thị và nguy cơ ô nhiễm môi trường, thành phố Đà Nẵng lên kế hoạch di dời gần 400.000 ngôi mộ tại khu vực phía đông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T06:48:00+07:00",
+      "fetched": "2026-04-12T14:10:11.385528+07:00"
+    },
+    {
+      "id": "ed59c9ae5a8e660d6c6427aa92819991",
+      "title": "Khám phá nút âm lượng trên smartphone",
+      "link": "https://thanhnien.vn/kham-pha-nut-am-luong-tren-smartphone-185260412082939062.htm",
+      "summary": "Mặc dù smartphone là thiết bị mà người dùng sử dụng hằng ngày, nhưng có thể họ chưa khám phá hết những tính năng ẩn thú vị của nó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T06:40:00+07:00",
+      "fetched": "2026-04-12T14:10:11.385700+07:00"
+    },
+    {
+      "id": "449505722bda1706c3bf0aebecb0b918",
+      "title": "TP.HCM: Nhà cạnh xưởng inox, sống như có động đất?",
+      "link": "https://thanhnien.vn/tphcm-nha-canh-xuong-inox-song-nhu-co-dong-dat-185260411142551345.htm",
+      "summary": "Người dân phản ánh xưởng inox gây tiếng ồn, rung lắc làm nứt tường nhà; chủ xưởng inox thừa nhận có tiếng động nhưng đang tìm cách khắc phục triệt để.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T06:39:00+07:00",
+      "fetched": "2026-04-12T14:10:11.385869+07:00"
+    },
+    {
+      "id": "a352ce36f300dd722bbf2776288036fc",
+      "title": "Sứ mệnh Mặt Trăng tiếp theo sau thành công của Artemis II là gì?",
+      "link": "https://vnexpress.net/su-menh-mat-trang-tiep-theo-sau-thanh-cong-cua-artemis-ii-la-gi-5061435.html",
+      "summary": "Sau chuyến bay vòng quanh Mặt Trăng, NASA bước vào giai đoạn tiếp theo của chương trình Artemis, hướng tới đổ bộ và xây căn cứ trên thiên thể này.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-12T06:38:06+07:00",
+      "fetched": "2026-04-12T14:10:19.617316+07:00"
+    },
+    {
+      "id": "8e7f3e623137120ba7fe0013301e01df",
+      "title": "Hàn Quốc khôi phục tuyến tàu du lịch đến biên giới Triều Tiên",
+      "link": "https://vnexpress.net/han-quoc-khoi-phuc-tuyen-tau-du-lich-den-bien-gioi-trieu-tien-5061432.html",
+      "summary": "Hàn Quốc chính thức khôi phục tuyến tàu du lịch từ Seoul đến ga Dorasan, điểm dừng cuối cùng sát ranh giới quân sự hai nước, sau 6 năm tạm dừng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T06:32:16+07:00",
+      "fetched": "2026-04-12T14:10:08.192172+07:00"
+    },
+    {
+      "id": "3d877c282382276327be0cc76947da1e",
+      "title": "Đề xuất cấm xích lô ở Nha Trang: Sinh kế người lao động sẽ ra sao?",
+      "link": "https://thanhnien.vn/de-xuat-cam-xich-lo-o-nha-trang-sinh-ke-nguoi-lao-dong-se-ra-sao-185260412123040877.htm",
+      "summary": "Ngày 12.4, UBND phường Nha Trang cho biết đã có văn bản gửi UBND tỉnh Khánh Hòa báo cáo tình hình hoạt động, đồng thời đề xuất cấm xích lô lưu thông trên địa bàn do tiềm ẩn nhiều nguy cơ mất an toàn giao thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T06:31:00+07:00",
+      "fetched": "2026-04-12T14:10:11.386026+07:00"
+    },
+    {
+      "id": "e163eb60239e0cfe5b25b7eb9cc5ae8b",
+      "title": "Lịch thi đấu billiards mới nhất: Trần Thanh Lực đụng cao thủ người Đức tại bán kết",
+      "link": "https://thanhnien.vn/lich-thi-dau-billiards-moi-nhat-tran-thanh-luc-dung-cao-thu-nguoi-duc-tai-ban-ket-185260412122050874.htm",
+      "summary": "Trần Thanh Lực là cơ thủ duy nhất của carom 3 băng Việt Nam góp mặt tại vòng bán kết giải World Cup billiards Bogota 2026 đang diễn ra tại Colombia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T06:19:00+07:00",
+      "fetched": "2026-04-12T14:10:11.386180+07:00"
+    },
+    {
+      "id": "9cd47346009d8d27fda2158054b48641",
+      "title": "Đột nhập sân bay, chém hỏng vận tải cơ chục triệu USD của Mỹ",
+      "link": "https://vnexpress.net/dot-nhap-san-bay-chem-hong-van-tai-co-chuc-trieu-usd-cua-my-5061423.html",
+      "summary": "Một người đàn ông trèo lên vận tải cơ C-130H của Mỹ rồi dùng rìu phá hoại, khiến phi cơ bị hư hỏng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T06:14:30+07:00",
+      "fetched": "2026-04-12T14:10:08.192378+07:00"
+    },
+    {
+      "id": "9cd47346009d8d27fda2158054b48641",
+      "title": "Đột nhập sân bay, chém hỏng vận tải cơ chục triệu USD của Mỹ",
+      "link": "https://vnexpress.net/dot-nhap-san-bay-chem-hong-van-tai-co-chuc-trieu-usd-cua-my-5061423.html",
+      "summary": "Một người đàn ông trèo lên vận tải cơ C-130H của Mỹ rồi dùng rìu phá hoại, khiến phi cơ bị hư hỏng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-12T06:14:30+07:00",
+      "fetched": "2026-04-12T14:10:14.389939+07:00"
+    },
+    {
+      "id": "7b85abaf47598a86420f9160c6383ef4",
+      "title": "Timeline hồi phục sau cắt chỉ: Chăm sóc vết thương không để lại sẹo",
+      "link": "https://thanhnien.vn/timeline-hoi-phuc-sau-cat-chi-cham-soc-vet-thuong-khong-de-lai-seo-18526041213171093.htm",
+      "summary": "Việc tháo chỉ không đồng nghĩa với việc vết thương đã lành hoàn toàn. Trên thực tế, đây chỉ là bước khởi đầu của quá trình hồi phục sâu bên trong da - nơi quyết định bạn có bị sẹo lồi, sẹo thâm hay không.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T06:05:00+07:00",
+      "fetched": "2026-04-12T14:10:11.386338+07:00"
+    },
+    {
+      "id": "73f2a9aacf4335a41f44e768560b809c",
+      "title": "Đại học Quốc tế công bố công thức tính điểm xét tuyển tổng hợp",
+      "link": "https://vnexpress.net/cong-thuc-tinh-diem-xet-tuyen-ma-xet-tuyen-bang-quy-doi-ielts-cua-truong-dai-hoc-quoc-te-dai-hoc-quoc-gia-tp-hcm-5049352.html",
+      "summary": "Năm 2026, trường Đại học Quốc tế tuyển 2.300 sinh viên, 99% được xét bằng cách kết hợp nhiều đầu điểm thay vì riêng biệt như các năm trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T06:03:15+07:00",
+      "fetched": "2026-04-12T14:10:08.192585+07:00"
+    },
+    {
+      "id": "c169a3d47ccdd8926539ed1b5f5ffbf9",
+      "title": "Xe cứu thương lật ngang khi va chạm xe bán tải: ai sai?",
+      "link": "https://vnexpress.net/xe-cuu-thuong-lat-ngang-khi-va-cham-xe-ban-tai-ai-sai-5061431.html",
+      "summary": "Xe cứu thương lao nhanh qua ngã tư đúng lúc xe bán tải đi tới nên xảy ra tai nạn tại ngã tư Nguyễn Tất Thành - Trường Chinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T06:02:54+07:00",
+      "fetched": "2026-04-12T14:10:08.192753+07:00"
+    },
+    {
+      "id": "b13b1539c04a8af26239ad05406e9ff6",
+      "title": "Tay đua người Belarus 'làm mưa làm gió' ở Cúp xe đạp truyền hình TP.HCM",
+      "link": "https://thanhnien.vn/tay-dua-nguoi-belarus-lam-mua-lam-gio-o-cup-xe-dap-truyen-hinh-tphcm-185260412121136665.htm",
+      "summary": "Ngoại binh người Belarus, tay đua Marchuk Dzianis thi đấu trong màu áo đội Kenda Đồng Nai thể hiện sức mạnh nước rút vượt trội so với các đối thủ ở Cúp xe đạp truyền hình TP.HCM - Tôn Đông Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T06:02:00+07:00",
+      "fetched": "2026-04-12T14:10:11.386517+07:00"
+    },
+    {
+      "id": "eb2eeebfe2a1ba5b1246149166c9844b",
+      "title": "Từ ngày 18.5, Chủ tịch UBND cấp xã được tước chứng chỉ hành nghề luật sư khi nào?",
+      "link": "https://thanhnien.vn/tu-ngay-185-chu-tich-ubnd-cap-xa-duoc-tuoc-chung-chi-hanh-nghe-luat-su-khi-nao-185260412115229593.htm",
+      "summary": "Chủ tịch UBND cấp xã có quyền phạt cảnh cáo và phạt tiền luật sư đến 25 triệu đồng về vi phạm hành chính; còn Giám đốc Sở Tư pháp phạt đến 40 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T06:02:00+07:00",
+      "fetched": "2026-04-12T14:10:11.386681+07:00"
+    },
+    {
+      "id": "b9dc396c84579d3d872c3e30c7c00cdb",
+      "title": "Liền kề Vinhomes Golden City từ 6,5 tỷ đồng",
+      "link": "https://vnexpress.net/lien-ke-vinhomes-golden-city-tu-6-5-ty-dong-5061437.html",
+      "summary": "Sản phẩm liền kề tại Vinhomes Golden City (Dương Kinh, Hải Phòng) có mức giá từ 6,5 tỷ đồng, hướng đến cả nhu cầu ở thực và đầu tư, với khả năng sử dụng linh hoạt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T06:00:00+07:00",
+      "fetched": "2026-04-12T14:10:08.192922+07:00"
+    },
+    {
+      "id": "5759e8f7a89107e06370e9c8822af6e2",
+      "title": "Dấu hiệu nào ở mắt có thể cảnh báo thiếu magie?",
+      "link": "https://vnexpress.net/dau-hieu-nao-o-mat-co-the-canh-bao-thieu-magie-5061281.html",
+      "summary": "Thiếu magie không chỉ ảnh hưởng sức khỏe mà còn để lộ những dấu hiệu ở đôi mắt, dù thường dễ bị bỏ qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T06:00:00+07:00",
+      "fetched": "2026-04-12T14:10:08.193088+07:00"
+    },
+    {
+      "id": "1ee9aef4f99bc527accea6d817aa9f76",
+      "title": "VFF: Trọng tài sai khi không thổi 11m cho Xuân Son",
+      "link": "https://vnexpress.net/vff-trong-tai-sai-khi-khong-thoi-11m-cho-xuan-son-5061440.html",
+      "summary": "Ban trọng tài VFF xác định Nguyễn Trung Kiên đã sai khi không cho Nam Định hưởng phạt đền trong trận thua HAGL 1-2 ở vòng 18 V-League 2025-2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T05:58:02+07:00",
+      "fetched": "2026-04-12T14:10:08.193247+07:00"
+    },
+    {
+      "id": "1ee9aef4f99bc527accea6d817aa9f76",
+      "title": "VFF: Trọng tài sai khi không thổi 11m cho Xuân Son",
+      "link": "https://vnexpress.net/vff-trong-tai-sai-khi-khong-thoi-11m-cho-xuan-son-5061440.html",
+      "summary": "Ban trọng tài VFF xác định Nguyễn Trung Kiên đã sai khi không cho Nam Định hưởng phạt đền trong trận thua HAGL 1-2 ở vòng 18 V-League 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-12T05:58:02+07:00",
+      "fetched": "2026-04-12T14:10:21.113640+07:00"
+    },
+    {
+      "id": "8b95bbddd17ce64d41b82d51d8bbedb9",
+      "title": "Alcaraz - Sinner: Chung kết 'bom tấn' ở Monte Carlo",
+      "link": "https://vnexpress.net/alcaraz-sinner-chung-ket-bom-tan-o-monte-carlo-5061438.html",
+      "summary": "Cặp kỳ phùng địch thủ vĩ đại của quần vợt sẽ tái đấu sau gần nửa năm, ở chung kết Monte Carlo Masters.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T05:50:45+07:00",
+      "fetched": "2026-04-12T14:10:08.193428+07:00"
+    },
+    {
+      "id": "8b95bbddd17ce64d41b82d51d8bbedb9",
+      "title": "Alcaraz - Sinner: Chung kết 'bom tấn' ở Monte Carlo",
+      "link": "https://vnexpress.net/alcaraz-sinner-chung-ket-bom-tan-o-monte-carlo-5061438.html",
+      "summary": "Cặp kỳ phùng địch thủ vĩ đại của quần vợt sẽ tái đấu sau gần nửa năm, ở chung kết Monte Carlo Masters.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-12T05:50:45+07:00",
+      "fetched": "2026-04-12T14:10:21.113830+07:00"
+    },
+    {
       "id": "75ca6b4317620a4ed87859f752c90569",
       "title": "Mâu thuẫn tình cảm, lập tài khoản ảo bôi nhọ người khác trên mạng",
       "link": "https://thanhnien.vn/mau-thuan-tinh-cam-lap-tai-khoan-ao-boi-nho-nguoi-khac-tren-mang-185260412115509698.htm",
@@ -323,6 +683,16 @@ window.newsData_2026_04_12 = {
       "fetched": "2026-04-12T12:52:05.041187+07:00"
     },
     {
+      "id": "a6048dfabd1e38255cb921377e2e10b9",
+      "title": "Con trai 16 tuổi của Hồ Ngọc Hà dự sự kiện cùng loạt sao",
+      "link": "https://vnexpress.net/con-trai-16-tuoi-cua-ho-ngoc-ha-du-su-kien-cung-loat-sao-5061428.html",
+      "summary": "Subeo, 16 tuổi - con trai lớn của Hồ Ngọc Hà - gây chú ý khán giả với chiều cao gần 1,8 m khi dự sự kiện cùng  nhiều sao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T05:31:40+07:00",
+      "fetched": "2026-04-12T14:10:08.193593+07:00"
+    },
+    {
       "id": "e5caaac86db99100380164b56f02fcc9",
       "title": "Bắt đối tượng truy nã quốc tế lẩn trốn trong chung cư ở Đà Nẵng",
       "link": "https://thanhnien.vn/bat-doi-tuong-truy-na-quoc-te-lan-tron-trong-chung-cu-o-da-nang-185260412120801229.htm",
@@ -331,6 +701,16 @@ window.newsData_2026_04_12 = {
       "category": "Tổng hợp",
       "published": "2026-04-12T05:31:00+07:00",
       "fetched": "2026-04-12T12:52:05.041343+07:00"
+    },
+    {
+      "id": "30306cd7a2936a6d548889921787ed07",
+      "title": "'Ngọc nữ Nhật Bản' Yuko Araki kết hôn",
+      "link": "https://vnexpress.net/ngoc-nu-nhat-ban-yuko-araki-ket-hon-5061399.html",
+      "summary": "Yuko Araki - diễn viên được mệnh danh \"ngọc nữ\" showbiz Nhật - kết hôn với ca sĩ Yuto Nakajima.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-12T05:30:17+07:00",
+      "fetched": "2026-04-12T14:10:08.193752+07:00"
     },
     {
       "id": "7e6e98721b13f2867922ff005a9cafdc",
@@ -603,6 +983,16 @@ window.newsData_2026_04_12 = {
       "fetched": "2026-04-12T12:52:10.122141+07:00"
     },
     {
+      "id": "30903d5db84c0cb1e7217ec27d55613e",
+      "title": "Phi hành đoàn Artemis II: 'Trái Đất như thuyền cứu sinh lơ lửng trong vũ trụ'",
+      "link": "https://vnexpress.net/phi-hanh-doan-artemis-ii-trai-dat-nhu-thuyen-cuu-sinh-lo-lung-trong-vu-tru-5061401.html",
+      "summary": "Các phi hành gia Artemis II cho biết đã trở nên gắn bó sau chuyến bay đến Mặt Trăng, đồng thời cũng trân trọng cuộc sống trên Trái Đất hơn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-12T04:05:27+07:00",
+      "fetched": "2026-04-12T14:10:19.617535+07:00"
+    },
+    {
       "id": "7230d5759d9298a0923772409592cb4b",
       "title": "Mỹ nêu bất đồng trong đàm phán với Iran",
       "link": "https://vnexpress.net/my-neu-bat-dong-trong-dam-phan-voi-iran-5061404.html",
@@ -621,6 +1011,16 @@ window.newsData_2026_04_12 = {
       "category": "Thế giới",
       "published": "2026-04-12T04:03:21+07:00",
       "fetched": "2026-04-12T12:52:07.143652+07:00"
+    },
+    {
+      "id": "d1fa3a672fcb9ff420a87fa175c985ea",
+      "title": "Mỹ, Iran nêu bất đồng trong đàm phán",
+      "link": "https://vnexpress.net/my-iran-neu-bat-dong-trong-dam-phan-5061404.html",
+      "summary": "Phó tổng thống Vance cho biết Iran từ chối những điều khoản \"khá linh hoạt\" từ Mỹ, trong khi Tehran chỉ trích Washington đưa ra \"yêu cầu quá đáng\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-12T04:03:21+07:00",
+      "fetched": "2026-04-12T14:10:14.390129+07:00"
     },
     {
       "id": "c783b69c8a297c5b0939271d21b41000",
