@@ -1,6 +1,6 @@
 window.newsData_2026_04_14 = {
   "date": "2026-04-14",
-  "lastUpdated": "2026-04-14T00:00:54.838941+07:00",
+  "lastUpdated": "2026-04-14T02:11:28.327006+07:00",
   "articles": [
     {
       "id": "c57d35499061d11972a175229812877c",
@@ -153,6 +153,146 @@ window.newsData_2026_04_14 = {
       "fetched": "2026-04-14T00:00:45.437279+07:00"
     },
     {
+      "id": "475b5ebe61872b1a6382b4ad5d9138e6",
+      "title": "Lợi ích ít biết của hạt đu đủ",
+      "link": "https://vnexpress.net/loi-ich-it-biet-cua-hat-du-du-5061285.html",
+      "summary": "Hạt đu đủ giàu chất chống oxy hóa, axit béo không bão hòa và chất xơ, giúp bảo vệ tế bào, hỗ trợ tiêu hóa và góp phần cải thiện sức khỏe tim mạch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T18:00:00+07:00",
+      "fetched": "2026-04-14T02:11:16.791482+07:00"
+    },
+    {
+      "id": "6c49fbaf840932aed887381b7003ea6a",
+      "title": "Hiện trạng Khu tập thể Thanh Xuân Bắc được đề xuất cải tạo",
+      "link": "https://vnexpress.net/hien-trang-khu-tap-the-thanh-xuan-bac-duoc-de-xuat-cai-tao-5061862.html",
+      "summary": "60 toà chung cư vừa được chủ đầu tư khu Phú Mỹ Hưng đề xuất cải tạo đã xuống cấp sau hơn 40 năm sử dụng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T17:16:00+07:00",
+      "fetched": "2026-04-14T02:11:16.791664+07:00"
+    },
+    {
+      "id": "66270b12e942e6149dc35d5e65128d71",
+      "title": "Ít ai ngờ: 'Thủ phạm' quen thuộc này làm nguy cơ đau tim tăng gấp đôi",
+      "link": "https://thanhnien.vn/it-ai-ngo-thu-pham-quen-thuoc-nay-lam-nguy-co-dau-tim-tang-gap-doi-185260410201618031.htm",
+      "summary": "Đau tim và đột quỵ là nỗi lo lớn, thường liên quan huyết áp cao, cholesterol, hút thuốc, tiểu đường, béo phì và ít vận động. Tuy nhiên, một thói quen hằng ngày ít ai ngờ có thể làm tăng gấp đôi nguy cơ đau tim.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T17:12:00+07:00",
+      "fetched": "2026-04-14T02:11:19.606971+07:00"
+    },
+    {
+      "id": "61238e1b4992d0b684f1b306fb2c78d3",
+      "title": "Uống dầu cá omega-3 hằng ngày: Thêm tác dụng bất ngờ",
+      "link": "https://thanhnien.vn/uong-dau-ca-omega-3-hang-ngay-them-tac-dung-bat-ngo-18526041322430158.htm",
+      "summary": "Nhiều người duy trì thói quen bổ sung dầu cá omega-3 để tận dụng các lợi ích cho sức khỏe, từ bảo vệ tim mạch, tăng cường chức năng não, cải thiện thị lực đến hỗ trợ xương khớp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T17:10:00+07:00",
+      "fetched": "2026-04-14T02:11:19.607123+07:00"
+    },
+    {
+      "id": "836b0220bbd52b8c2b0b6660a1dea44e",
+      "title": "Đau vai không rõ nguyên nhân có phải là dấu hiệu của ung thư gan?",
+      "link": "https://thanhnien.vn/dau-vai-khong-ro-nguyen-nhan-co-phai-la-dau-hieu-cua-ung-thu-gan-185260413225831564.htm",
+      "summary": "Theo Hiệp hội Ung thư Mỹ (American Cancer Society), đau ở vùng bả vai phải có liên quan đến những dấu hiệu sớm của ung thư gan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T17:09:00+07:00",
+      "fetched": "2026-04-14T02:11:19.607258+07:00"
+    },
+    {
+      "id": "8751dbb5a4a8d4a3f8f0dbf7c1e0f223",
+      "title": "Chủ tịch Vinhomes: Thị trường bất động sản bước vào giai đoạn phục hồi có chọn lọc",
+      "link": "https://vnexpress.net/chu-tich-vinhomes-thi-truong-bat-dong-san-buoc-vao-giai-doan-phuc-hoi-co-chon-loc-5061981.html",
+      "summary": "Theo Chủ tịch HĐQT Vinhomes Phạm Thiếu Hoa, cốt lõi của bất động sản 2026 vẫn là những sản phẩm ở thực và thị trường vào giai đoạn phục hồi nhưng có chọn lọc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T17:08:00+07:00",
+      "fetched": "2026-04-14T02:11:16.791810+07:00"
+    },
+    {
+      "id": "8751dbb5a4a8d4a3f8f0dbf7c1e0f223",
+      "title": "Chủ tịch Vinhomes: Thị trường bất động sản bước vào giai đoạn phục hồi có chọn lọc",
+      "link": "https://vnexpress.net/chu-tich-vinhomes-thi-truong-bat-dong-san-buoc-vao-giai-doan-phuc-hoi-co-chon-loc-5061981.html",
+      "summary": "Theo Chủ tịch HĐQT Vinhomes Phạm Thiếu Hoa, cốt lõi của bất động sản 2026 vẫn là những sản phẩm ở thực và thị trường vào giai đoạn phục hồi nhưng có chọn lọc.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-13T17:08:00+07:00",
+      "fetched": "2026-04-14T02:11:23.180384+07:00"
+    },
+    {
+      "id": "5c10b606b29cd2d3f0d8e2b38a7aa87f",
+      "title": "Nhà phong cách Japandi 200 m2 con gái ở xa xây tặng mẹ",
+      "link": "https://vnexpress.net/nha-phong-cach-japandi-200-m2-con-gai-o-xa-xay-tang-me-5061650.html",
+      "summary": "Căn nhà được KTS thiết kế theo phong cách Japandi, biến từng góc nhỏ thành không gian sống thư thái cho người mẹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T17:05:00+07:00",
+      "fetched": "2026-04-14T02:11:16.791948+07:00"
+    },
+    {
+      "id": "7fe5c63caedf1312605e9157d4605c11",
+      "title": "Uống rượu ngâm mỗi ngày để 'khỏe sinh lý'?",
+      "link": "https://vnexpress.net/uong-ruou-ngam-moi-ngay-de-khoe-sinh-ly-5061625.html",
+      "summary": "Chồng tôi mỗi ngày đều uống vài cốc rượu ngâm để khỏe mạnh, tăng bản lĩnh, phong độ, liệu rượu ngâm có trị được yếu sinh lý thật không?(Tùng, 29 tuổi, Hà Nội).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T17:03:00+07:00",
+      "fetched": "2026-04-14T02:11:16.792083+07:00"
+    },
+    {
+      "id": "c8029a4c19685cef30c98df4d7249698",
+      "title": "Ba con giáp định sẵn giàu sang, hưởng lộc trời ban từ giữa tháng 4",
+      "link": "https://vnexpress.net/van-may-12-con-giap-con-giap-may-man-hom-nay-ba-con-giap-dinh-san-giau-sang-huong-loc-troi-ban-tu-giua-thang-4-5061808.html",
+      "summary": "Những nỗ lực trước đây giờ đây bắt đầu \"đơm hoa kết trái\", mang lại thành quả xứng đáng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T17:02:00+07:00",
+      "fetched": "2026-04-14T02:11:16.792214+07:00"
+    },
+    {
+      "id": "27d7b7b2901dd24e05d530a3b5197b56",
+      "title": "Hàng xa xỉ thất thu ở Trung Đông vì chiến sự",
+      "link": "https://vnexpress.net/hang-xa-xi-that-thu-o-trung-dong-vi-chien-su-5061794.html",
+      "summary": "Xung đột Trung Đông khiến tiêu thụ hàng xa xỉ ở Dubai và Abu Dhabi - hai thị trường đang tăng trưởng mạnh - quay đầu sụt giảm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T17:02:00+07:00",
+      "fetched": "2026-04-14T02:11:16.792345+07:00"
+    },
+    {
+      "id": "0b04371a9a7c1613975ab5fac0196de0",
+      "title": "4 triệu chứng vào ban đêm cảnh báo thận không khỏe",
+      "link": "https://vnexpress.net/4-trieu-chung-vao-ban-dem-canh-bao-than-khong-khoe-5061279.html",
+      "summary": "Sưng phù chân, thường xuyên thức giấc đi tiểu, mắc hội chứng chân không yên, khó thở gây rối loạn giấc ngủ có thể là những dấu hiệu cảnh báo thận không khỏe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T17:02:00+07:00",
+      "fetched": "2026-04-14T02:11:16.792477+07:00"
+    },
+    {
+      "id": "27d7b7b2901dd24e05d530a3b5197b56",
+      "title": "Hàng xa xỉ thất thu ở Trung Đông vì chiến sự",
+      "link": "https://vnexpress.net/hang-xa-xi-that-thu-o-trung-dong-vi-chien-su-5061794.html",
+      "summary": "Xung đột Trung Đông khiến tiêu thụ hàng xa xỉ ở Dubai và Abu Dhabi - hai thị trường đang tăng trưởng mạnh - quay đầu sụt giảm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-13T17:02:00+07:00",
+      "fetched": "2026-04-14T02:11:23.180540+07:00"
+    },
+    {
+      "id": "feca4466e9bf9ac30c4d120585c985fc",
+      "title": "TP HCM di dời hơn 400 cây xanh làm metro Bến Thành - Tham Lương",
+      "link": "https://vnexpress.net/tp-hcm-di-doi-hon-400-cay-xanh-lam-metro-ben-thanh-tham-luong-5061926.html",
+      "summary": "Thành phố giải tỏa hơn 400 cây xanh dọc nhiều đường từ khu trung tâm về cửa ngõ phía tây bắc, lấy mặt bằng thi công metro số 2, đoạn Bến Thành - Tham Lương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T17:00:34+07:00",
+      "fetched": "2026-04-14T02:11:16.792632+07:00"
+    },
+    {
       "id": "e3028563f4c2e0062c02efa2a11b5029",
       "title": "Iran chưa chốt dự World Cup, FIFA tính phương án dự phòng",
       "link": "https://thanhnien.vn/iran-chua-chot-du-world-cup-fifa-tinh-phuong-an-du-phong-185260413193456282.htm",
@@ -161,6 +301,96 @@ window.newsData_2026_04_14 = {
       "category": "Tổng hợp",
       "published": "2026-04-13T17:00:00+07:00",
       "fetched": "2026-04-14T00:00:44.452310+07:00"
+    },
+    {
+      "id": "caec7cab4a19673ba14f54408732acff",
+      "title": "Dùng thuốc nổ phá dỡ khách sạn 23 tầng ở Miami",
+      "link": "https://vnexpress.net/dung-thuoc-no-pha-do-khach-san-23-tang-o-miami-5061972.html",
+      "summary": "Khách sạn Mandarin Oriental 23 tầng bị đánh sập bằng thuốc nổ sáng 12/4, đây là cuộc phá dỡ lớn nhất thành phố này trong hơn một thập kỷ qua để nhường chỗ cho dự án mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T17:00:00+07:00",
+      "fetched": "2026-04-14T02:11:16.792770+07:00"
+    },
+    {
+      "id": "3630ebe2774b7581e7e1763cdabdee51",
+      "title": "Kế hoạch thâm nhập giáo phái, phá đường dây bóc lột tình dục",
+      "link": "https://vnexpress.net/ke-hoach-tham-nhap-giao-phai-pha-duong-day-boc-lot-tinh-duc-5061943.html",
+      "summary": "Chuyên gia Christine Marie cùng chồng thâm nhập giáo phái đa thê để ghi lại các vụ lạm dụng tình dục trẻ em của 'nhà tiên tri' có hơn 20 vợ Sam Bateman, cung cấp bằng chứng cho FBI.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T17:00:00+07:00",
+      "fetched": "2026-04-14T02:11:16.792895+07:00"
+    },
+    {
+      "id": "fbee50cf75f3c93e5e576b805072f7e1",
+      "title": "Hai mẹ con trộm tài sản của nhiều du khách ở Nha Trang",
+      "link": "https://vnexpress.net/hai-me-con-trom-tai-san-cua-nhieu-du-khach-o-nha-trang-5061932.html",
+      "summary": "Nguyễn Thị Loan cùng con gái và đồng phạm tìm sơ hở của các du khách nước ngoài tại bãi biển Nha Trang, sau đó trộm tài sản bán lấy tiền tiêu xài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T17:00:00+07:00",
+      "fetched": "2026-04-14T02:11:16.793019+07:00"
+    },
+    {
+      "id": "ba2eececa51e13c52b5269904a2d540d",
+      "title": "Có nên nghỉ làm ở tuổi 40 để chăm lo cho chồng con",
+      "link": "https://vnexpress.net/co-nen-nghi-lam-o-tuoi-40-de-cham-lo-cho-chong-con-5061866.html",
+      "summary": "Công việc stress, lại lo lắng cho con trai 6 tuổi chậm nói khiến tôi muốn dành thời gian nhiều hơn cho con, muốn nghỉ làm sớm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T17:00:00+07:00",
+      "fetched": "2026-04-14T02:11:16.793139+07:00"
+    },
+    {
+      "id": "f1f0f3c03426c9e2ea5fd55f8c212aca",
+      "title": "Lúa rớt giá, nông dân miền Tây lo thua lỗ",
+      "link": "https://vnexpress.net/lua-rot-gia-nong-dan-mien-tay-lo-thua-lo-5061774.html",
+      "summary": "Dù năng suất cao, nông dân tại Đồng Tháp, An Giang vẫn đối mặt nguy cơ thua lỗ khi giá lúa giảm, chi phí sản xuất tăng và thị trường tiêu thụ chững lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T17:00:00+07:00",
+      "fetched": "2026-04-14T02:11:16.793265+07:00"
+    },
+    {
+      "id": "1a92d37eff348c638a099c00726f8977",
+      "title": "Sách đồng ghi chiến tích đánh giặc của vua Lê Thánh Tông",
+      "link": "https://vnexpress.net/sach-dong-ghi-chien-tich-danh-giac-cua-vua-le-thanh-tong-5061733.html",
+      "summary": "Bảo vật sách đồng Khâm ban của vua Lê Thánh Tông kể lại sự kiện vua dẫn quân đánh thắng giặc Chiêm Thành cùng sự trợ giúp của thần linh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T17:00:00+07:00",
+      "fetched": "2026-04-14T02:11:16.793388+07:00"
+    },
+    {
+      "id": "532ff1667ee427e8f85fc2590e4ebb65",
+      "title": "Peter Magyar - người khép lại 16 năm cầm quyền của Thủ tướng Hungary",
+      "link": "https://vnexpress.net/peter-magyar-nguoi-khep-lai-16-nam-cam-quyen-cua-thu-tuong-hungary-5061582.html",
+      "summary": "Từ thành viên đảng cầm quyền, ông Magyar đã chuyển sang phe đối lập và đánh bại Thủ tướng Orban bằng kết quả áp đảo trong cuộc bầu cử cuối tuần trước.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-13T17:00:00+07:00",
+      "fetched": "2026-04-14T02:11:21.902384+07:00"
+    },
+    {
+      "id": "d1924fe9b6affc3dec89a875c4612ca3",
+      "title": "Cầu thủ 20 tuổi bị bắn chết trên xe chở đội bóng",
+      "link": "https://vnexpress.net/cau-thu-20-tuoi-bi-ban-chet-tren-xe-cho-doi-bong-5061960.html",
+      "summary": "Cầu thủ 20 tuổi Dominic Frimpong thiệt mạng sau khi xe chở đội Berekum Chelsea bị tấn công bằng súng trên đường trở về từ một trận đấu tại giải VĐQG.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-13T17:00:00+07:00",
+      "fetched": "2026-04-14T02:11:28.322207+07:00"
+    },
+    {
+      "id": "b9498293ee1b279673d62e01ebabc214",
+      "title": "Lineker: 'Arsenal sa sút vì giáo áo kỳ quặc của Arteta'",
+      "link": "https://vnexpress.net/lineker-arsenal-sa-sut-vi-giao-ao-ky-quac-cua-arteta-5061953.html",
+      "summary": "Theo cựu tiền đạo Gary Lineker, các phương pháp tập luyện gượng gạo của HLV Mikel Arteta là một trong những nguyên nhân khiến Arsenal chững lại trong cuộc đua vô địch Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-13T17:00:00+07:00",
+      "fetched": "2026-04-14T02:11:28.322364+07:00"
     },
     {
       "id": "90705cc8b31d1c68d6f1ab9043c050b0",
