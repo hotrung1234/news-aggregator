@@ -1,7 +1,37 @@
 window.newsData_2026_04_14 = {
   "date": "2026-04-14",
-  "lastUpdated": "2026-04-14T03:51:39.453413+07:00",
+  "lastUpdated": "2026-04-14T05:40:02.284041+07:00",
   "articles": [
+    {
+      "id": "21236c5b6b00fc42c02622808785f5b2",
+      "title": "Thời tiết hôm nay 14-4: Nắng nóng cả nước nhưng đang giảm dần",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-14-4-nang-nong-ca-nuoc-nhung-dang-giam-dan-20260413173753876.htm",
+      "summary": "Hôm nay 14-4, thời tiết nắng nóng vẫn còn duy trì nhưng sẽ bắt đầu hạ nhiệt và thu hẹp dần, mưa sẽ xuất hiện trong thời gian tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-14T05:39:56.737513+07:00",
+      "fetched": "2026-04-14T05:39:56.737659+07:00"
+    },
+    {
+      "id": "d62b198f49e9c47603361e4e98d9c43f",
+      "title": "Tin tức sáng 14-4: Đề xuất người hưởng án treo và đang thời gian thử thách không được nhận con nuôi",
+      "link": "https://tuoitre.vn/tin-tuc-sang-14-4-de-xuat-nguoi-huong-an-treo-va-dang-thoi-gian-thu-thach-khong-duoc-nhan-con-nuoi-20260413223850642.htm",
+      "summary": "Tin tức đáng chú ý: Ủy ban Thường vụ Quốc hội cho ý kiến tờ trình thành lập thành phố Đồng Nai; Đề xuất người hưởng án treo và đang thời gian thử thách không được nhận con nuôi...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-14T05:39:56.737368+07:00",
+      "fetched": "2026-04-14T05:39:56.737500+07:00"
+    },
+    {
+      "id": "c71b83803a6c04d580bbd274bc737801",
+      "title": "Nâng tầm kết nối chiến lược Việt Nam và Trung Quốc trong giai đoạn phát triển mới",
+      "link": "https://tuoitre.vn/nang-tam-ket-noi-chien-luoc-viet-nam-va-trung-quoc-trong-giai-doan-phat-trien-moi-20260413225508296.htm",
+      "summary": "Trước thềm chuyến thăm cấp Nhà nước đến Trung Quốc, Tổng Bí thư, Chủ tịch nước Tô Lâm đã có bài viết đăng trên Nhân Dân nhật báo của Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-14T05:39:56.737123+07:00",
+      "fetched": "2026-04-14T05:39:56.737352+07:00"
+    },
     {
       "id": "c57d35499061d11972a175229812877c",
       "title": "Thủ tướng Lê Minh Hưng: Bộ trưởng chịu trách nhiệm nếu để lọt thủ tục không đáp ứng yêu cầu",
@@ -151,6 +181,246 @@ window.newsData_2026_04_14 = {
       "category": "Tổng hợp",
       "published": "2026-04-14T00:00:45.437040+07:00",
       "fetched": "2026-04-14T00:00:45.437279+07:00"
+    },
+    {
+      "id": "bfd6acb7ee87fda8efdab632612e13c8",
+      "title": "Mòn mỏi 20 năm trong khu quy hoạch 'treo', chỉ dám sửa mái tôn cho qua ngày",
+      "link": "https://thanhnien.vn/mon-moi-20-nam-trong-khu-quy-hoach-treo-chi-dam-sua-mai-ton-cho-qua-ngay-185260413094620605.htm",
+      "summary": "Hơn 20 năm kể từ khi được phê duyệt, dự án khu III – Nam Lý Chiêu Hoàng (P.Bình Phú, TP.HCM) vẫn chưa thể “thay da đổi thịt” như kỳ vọng, nơi đây vẫn tồn tại những căn nhà tạm bợ, cuộc sống chật vật vì vướng quy hoạch kéo dài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T22:37:00+07:00",
+      "fetched": "2026-04-14T05:39:55.982703+07:00"
+    },
+    {
+      "id": "2a412070b0e286dc940704ad1f3ec8f0",
+      "title": "Mỹ gia tăng áp lực, Iran cứng rắn",
+      "link": "https://thanhnien.vn/my-gia-tang-ap-luc-iran-cung-ran-185260413230923256.htm",
+      "summary": "Mỹ phong tỏa toàn bộ tàu thuyền ra vào các cảng của Iran qua eo biển Hormuz, khiến Iran đe dọa tấn công các tàu quân sự gần eo biển này cũng như các cảng trong khu vực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T22:33:00+07:00",
+      "fetched": "2026-04-14T05:39:55.982875+07:00"
+    },
+    {
+      "id": "505c50499229b66ca35805bc6836ff89",
+      "title": "Tiêu điểm quốc tế 14.4: Mỹ phong tỏa eo Hormuz | Iran lo bảo vệ cơ sở hạt nhân",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-144-my-phong-toa-eo-hormuz-iran-lo-bao-ve-co-so-hat-nhan-185260413230343158.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin Tiêu điểm quốc tế 14.4 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T22:30:00+07:00",
+      "fetched": "2026-04-14T05:39:55.983031+07:00"
+    },
+    {
+      "id": "5c24fc8f30334e18902c9d831bb2bf8c",
+      "title": "Vụ sạt lở đường ven sông Tây Ninh: Xác định nguyên nhân ban đầu",
+      "link": "https://thanhnien.vn/vu-sat-lo-duong-ven-song-tay-ninh-xac-dinh-nguyen-nhan-ban-dau-185260413194907974.htm",
+      "summary": "Lãnh đạo Sở Nông nghiệp và Môi trường tỉnh Tây Ninh đã đến kiểm tra và chỉ đạo xử lý vụ đường dân sinh ven sông bị sạt lở nghiêm trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T22:30:00+07:00",
+      "fetched": "2026-04-14T05:39:55.983184+07:00"
+    },
+    {
+      "id": "45cd376da0c2c47911419931a7681c90",
+      "title": "Nhà thờ gần 140 năm tuổi ở miền Tây mang kiến trúc Gothic Pháp độc đáo",
+      "link": "https://thanhnien.vn/nha-tho-gan-140-nam-tuoi-o-mien-tay-mang-kien-truc-gothic-phap-doc-dao-185260412125904715.htm",
+      "summary": "Tọa lạc tại Vĩnh Long, nhà thờ Mặc Bắc gần 10 năm tuổi là một trong những công trình Công giáo lâu đời bậc nhất miền Tây, nổi bật với kiến trúc Gothic Pháp, tháp chuông cao và không gian xanh bao quanh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T22:30:00+07:00",
+      "fetched": "2026-04-14T05:39:55.983343+07:00"
+    },
+    {
+      "id": "c3626c010ee2f3547794226e2b73edba",
+      "title": "Kiến tạo môi trường để người dân, doanh nghiệp phát triển",
+      "link": "https://thanhnien.vn/kien-tao-moi-truong-de-nguoi-dan-doanh-nghiep-phat-trien-18526041320055182.htm",
+      "summary": "Ngày 13.4, Ban Tuyên giáo - Dân vận T.Ư tổ chức Hội nghị toàn quốc quán triệt và triển khai thực hiện Nghị quyết Hội nghị lần thứ 2 Ban Chấp hành T.Ư Đảng khóa XIV.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T22:20:00+07:00",
+      "fetched": "2026-04-14T05:39:55.983496+07:00"
+    },
+    {
+      "id": "5482f122b0eb63a4e6b8e472ed0dc5d6",
+      "title": "Tử vi ngày 14 tháng 4: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-14-thang-4-con-giap-nao-may-man-hom-nay-185260413234728595.htm",
+      "summary": "Tử vi ngày 14 tháng 4 mang đến những gợi ý tham khảo cho 12 con giáp. Điểm nổi bật là 'tái định vị mục tiêu'. Sau một khoảng thời gian làm việc liên tục, nhiều người nhận ra mình cần điều chỉnh hướng đi để phù hợp hơn. Tài lộc không đến từ việc làm thêm, mà từ việc bạn chọn lại đúng mục tiêu để theo...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T22:15:00+07:00",
+      "fetched": "2026-04-14T05:39:55.983671+07:00"
+    },
+    {
+      "id": "1e4c4970f876ae10d59e69f299814b5e",
+      "title": "Lịch âm hôm nay: Ngày 14.4 là ngày gì mà nhiều người mong may mắn tài lộc?",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-ngay-144-la-ngay-gi-ma-nhieu-nguoi-mong-may-man-tai-loc-185260413141829594.htm",
+      "summary": "Ngày 14.4 theo lịch dương, lịch âm hôm nay là gì? Theo lịch vạn niên, hôm nay có phải ngày đẹp mà nhiều người mong may mắn tài lộc gõ cửa?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T22:05:00+07:00",
+      "fetched": "2026-04-14T05:39:55.983821+07:00"
+    },
+    {
+      "id": "c2859201fbe475c8545054cc1893fd54",
+      "title": "Cảnh báo nguy cơ liệt do tự kéo giãn cột sống cổ",
+      "link": "https://thanhnien.vn/canh-bao-nguy-co-liet-do-tu-keo-gian-cot-song-co-185260413190246895.htm",
+      "summary": "Gần đây, trên mạng lan truyền các clip hướng dẫn tự kéo giãn cột sống bằng dây đai treo để trị đau cổ vai gáy, thoát vị đĩa đệm cột sống cổ. Bác sĩ chuyên khoa nói gì về việc này?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T22:03:00+07:00",
+      "fetched": "2026-04-14T05:39:55.983970+07:00"
+    },
+    {
+      "id": "245061c66530e90b461dae6ad39a4814",
+      "title": "Thí điểm luật sư công: Sở Tư pháp nói gì về việc thuê thêm luật sư tư?",
+      "link": "https://thanhnien.vn/thi-diem-luat-su-cong-so-tu-phap-noi-gi-ve-viec-thue-them-luat-su-tu-185260413223811955.htm",
+      "summary": "Theo Sở Tư pháp TP.HCM, ngoài luật sư công, trong trường hợp cần thiết nhà nước có thể thuê thêm luật sư tư để phối hợp với luật sư công giải quyết công việc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T22:00:00+07:00",
+      "fetched": "2026-04-14T05:39:55.984123+07:00"
+    },
+    {
+      "id": "d42814c9072521d7bb14369590fa764d",
+      "title": "Cuộc bầu cử làm rung chuyển châu Âu",
+      "link": "https://thanhnien.vn/cuoc-bau-cu-lam-rung-chuyen-chau-au-185260413215347033.htm",
+      "summary": "Trong cuộc bầu cử mang tính bước ngoặt, các cử tri Hungary đã chấm dứt 16 năm cầm quyền liên tiếp của Thủ tướng Viktor Orban, đồng minh hiếm hoi của Mỹ lẫn Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T22:00:00+07:00",
+      "fetched": "2026-04-14T05:39:55.984273+07:00"
+    },
+    {
+      "id": "97c7b6c9a6eb8283cdb3907b53a853cb",
+      "title": "Sứ giả trẻ - nhịp cầu sống động trong giao lưu văn hóa",
+      "link": "https://thanhnien.vn/su-gia-tre-nhip-cau-song-dong-trong-giao-luu-van-hoa-185260413185318898.htm",
+      "summary": "Đặt chân tới những \"địa chỉ đỏ\" nơi Chủ tịch Hồ Chí Minh đã ghi dấu ấn tại Trung Quốc, thế hệ trẻ hai nước Việt - Trung cảm nhận được sứ mệnh của mình là vun đắp, lan tỏa tình hữu nghị giữa hai quốc gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T22:00:00+07:00",
+      "fetched": "2026-04-14T05:39:55.984426+07:00"
+    },
+    {
+      "id": "22df661c671b082574cff90b81052c1d",
+      "title": "50 năm phát triển cùng thành phố, ngành điện biết mấy ân tình",
+      "link": "https://thanhnien.vn/50-nam-phat-trien-cung-thanh-pho-nganh-dien-biet-may-an-tinh-185260413085952885.htm",
+      "summary": "TP.HCM nơi hội tụ những tinh hoa, những công trình kiến trúc, là trung tâm thương mại mà bất cứ du khách hay người dân nào của Việt Nam khi đặt chân tới thành phố này đều có chung một cảm xúc 'xa là nhớ, gần là thương'. 50 hình thành và phát triển cùng thành phố, ngành điện cũng bấy ân tình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T22:00:00+07:00",
+      "fetched": "2026-04-14T05:39:55.984574+07:00"
+    },
+    {
+      "id": "75cc5ac01d6ee9f32404c891463197fb",
+      "title": "Tập thể dục bao lâu để thấy được kết quả",
+      "link": "https://thanhnien.vn/tap-the-duc-bao-lau-de-thay-duoc-ket-qua-185260410222407032.htm",
+      "summary": "Việc tập thể dục thường khiến nhiều người nản lòng khi không thấy kết quả ngay lập tức. Tuy nhiên, theo chuyên trang sức khỏe Healthline, cơ thể đã bắt đầu thay đổi tích cực gần như ngay từ những buổi tập đầu tiên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T22:00:00+07:00",
+      "fetched": "2026-04-14T05:39:55.984753+07:00"
+    },
+    {
+      "id": "4071c11a0229955ffbbcf079f0dc4a03",
+      "title": "Điều gì có thể xảy ra sau khi đàm phán Mỹ - Iran đổ vỡ?",
+      "link": "https://vnexpress.net/dieu-gi-co-the-xay-ra-sau-khi-dam-phan-my-iran-do-vo-5061596.html",
+      "summary": "Đàm phán tại Pakistan thất bại khiến Mỹ và Iran trở lại thế đối đầu, nguy cơ khiến xung đột bùng phát trở lại khi lệnh ngừng bắn tạm thời kết thúc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-13T22:00:00+07:00",
+      "fetched": "2026-04-14T05:39:57.619207+07:00"
+    },
+    {
+      "id": "7cb9aa57c33849287927b412c817cf16",
+      "title": "Một số AI 'bao che' nhau để tránh bị tắt",
+      "link": "https://vnexpress.net/mot-so-ai-bao-che-nhau-de-tranh-bi-tat-5060631.html",
+      "summary": "Một số mô hình AI hàng đầu bị phát hiện gian lận, đánh cắp dữ liệu nhằm cứu \"đồng nghiệp\" AI khác khỏi bị tắt nguồn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-13T22:00:00+07:00",
+      "fetched": "2026-04-14T05:40:01.425941+07:00"
+    },
+    {
+      "id": "5a0d1668eaab0f038bb595c8ecbf7a7f",
+      "title": "Chiến sự Ukraine ngày 1.510: Lệnh ngừng bắn hết hạn, Ukraine bí mật phóng tên lửa?",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1510-lenh-ngung-ban-het-han-ukraine-bi-mat-phong-ten-lua-185260413213409548.htm",
+      "summary": "Lệnh ngừng bắn dịp lễ Phục sinh giữa Nga và Ukraine kết thúc, trong khi có thông tin Ukraine từng hai lần âm thầm phóng tên lửa lên không gian.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T21:33:00+07:00",
+      "fetched": "2026-04-14T05:39:55.984911+07:00"
+    },
+    {
+      "id": "9efb40d933df6562aa0a6d508ba437ae",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm nêu 4 trọng tâm hợp tác Việt - Trung trong giai đoạn mới",
+      "link": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-to-lam-neu-4-trong-tam-hop-tac-viet-trung-trong-giai-doan-moi-5061997.html",
+      "summary": "Trước chuyến thăm cấp nhà nước đến Trung Quốc, Tổng Bí thư, Chủ tịch nước Tô Lâm cho rằng hai bên cần tập trung làm tốt \"bốn việc lớn\" để thúc đẩy quan hệ và nâng tầm kết nối chiến lược.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T21:30:00+07:00",
+      "fetched": "2026-04-14T05:39:53.272509+07:00"
+    },
+    {
+      "id": "9efb40d933df6562aa0a6d508ba437ae",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm nêu 4 trọng tâm hợp tác Việt - Trung trong giai đoạn mới",
+      "link": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-to-lam-neu-4-trong-tam-hop-tac-viet-trung-trong-giai-doan-moi-5061997.html",
+      "summary": "Trước chuyến thăm cấp nhà nước đến Trung Quốc, Tổng Bí thư, Chủ tịch nước Tô Lâm cho rằng hai bên cần tập trung làm tốt \"bốn việc lớn\" để thúc đẩy quan hệ và nâng tầm kết nối chiến lược.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-13T21:30:00+07:00",
+      "fetched": "2026-04-14T05:39:57.619383+07:00"
+    },
+    {
+      "id": "ca1ed66e69df40da77a8bdd217341fc5",
+      "title": "Cư dân chung cư cũ ở Hải Phòng mừng lo trước cuộc đại di dời",
+      "link": "https://vnexpress.net/cu-dan-chung-cu-cu-o-hai-phong-mung-lo-truoc-cuoc-dai-di-doi-5061951.html",
+      "summary": "Sống trong chung cư cấp D nguy cơ đổ sập, nhiều hộ dân ở Hải Phòng mong chờ đến ngày di dời, nhưng cũng canh cánh nỗi lo không đủ tiền mua nhà mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T21:00:00+07:00",
+      "fetched": "2026-04-14T05:39:53.272714+07:00"
+    },
+    {
+      "id": "3f45286bdf5139166f62a2d76d3d06b9",
+      "title": "Uống nước chanh mỗi sáng có giúp thải độc, giảm cân?",
+      "link": "https://vnexpress.net/uong-nuoc-chanh-moi-sang-co-giup-thai-doc-giam-can-5059484.html",
+      "summary": "Uống nước chanh buổi sáng không phải \"công thức thải độc\" hay giảm cân như nhiều người nghĩ, lợi ích thực tế khá hạn chế, thậm chí có thể gây hại cho răng, dạ dày nếu lạm dụng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T21:00:00+07:00",
+      "fetched": "2026-04-14T05:39:53.272887+07:00"
+    },
+    {
+      "id": "265a30bcf7aa62e0b91d91f9dab63402",
+      "title": "Cảnh sát giao thông dùng drone đi tuần trong phố",
+      "link": "https://vnexpress.net/canh-sat-giao-thong-dung-drone-di-tuan-trong-pho-5061806.html",
+      "summary": "Những chiếc drone cất và hạ cánh ngay trên các trụ đèn, kết hợp camera giám sát để ghi nhận vi phạm và đảm bảo an toàn giao thông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T21:00:00+07:00",
+      "fetched": "2026-04-14T05:39:53.273049+07:00"
+    },
+    {
+      "id": "22e87a7536e3a062309be5a298d867ed",
+      "title": "Man Utd thua sốc Leeds ngay tại Old Trafford",
+      "link": "https://vnexpress.net/man-utd-thua-soc-leeds-ngay-tai-old-trafford-5062006.html",
+      "summary": "Trung vệ Lisandro Martinez nhận thẻ đỏ vì kéo tóc đối thủ, khi Man Utd thua đội khách Leeds 1-2 ở trận muộn vòng 32 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-13T20:55:32+07:00",
+      "fetched": "2026-04-14T05:39:53.273215+07:00"
+    },
+    {
+      "id": "22e87a7536e3a062309be5a298d867ed",
+      "title": "Man Utd thua sốc Leeds ngay tại Old Trafford",
+      "link": "https://vnexpress.net/man-utd-thua-soc-leeds-ngay-tai-old-trafford-5062006.html",
+      "summary": "Trung vệ Lisandro Martinez nhận thẻ đỏ vì kéo tóc đối thủ, khi Man Utd thua đội khách Leeds 1-2 ở trận muộn vòng 32 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-13T20:55:32+07:00",
+      "fetched": "2026-04-14T05:40:02.278234+07:00"
     },
     {
       "id": "5b90c8ec19c35cbbe1d0347f02056cab",
