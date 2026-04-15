@@ -1,6 +1,6 @@
 window.newsData_2026_04_16 = {
   "date": "2026-04-16",
-  "lastUpdated": "2026-04-16T02:12:33.190384+07:00",
+  "lastUpdated": "2026-04-16T03:43:09.264528+07:00",
   "articles": [
     {
       "id": "58369be33f8f448c70a2620a38d6b7db",
@@ -191,6 +191,16 @@ window.newsData_2026_04_16 = {
       "category": "Tổng hợp",
       "published": "2026-04-16T00:00:06.691779+07:00",
       "fetched": "2026-04-16T00:00:06.692007+07:00"
+    },
+    {
+      "id": "21807ce3f204d8602d9cdff9421442d7",
+      "title": "Người dân dọn nhà, giao mặt bằng thi công cầu Tứ Liên",
+      "link": "https://vnexpress.net/nguoi-dan-don-nha-giao-mat-bang-thi-cong-cau-tu-lien-5062726.html",
+      "summary": "Hàng trăm hộ dân tại khu vực dự án cầu Tứ Liên đang khẩn trương tháo dỡ nhà cửa, di dời tài sản để bàn giao mặt bằng, góp phần đẩy nhanh tiến độ thi công công trình trọng điểm của Hà Nội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-15T19:00:00+07:00",
+      "fetched": "2026-04-16T03:42:55.299410+07:00"
     },
     {
       "id": "efead8aac028ea593044a2095a2442d6",
