@@ -1,7 +1,27 @@
 window.newsData_2026_04_17 = {
   "date": "2026-04-17",
-  "lastUpdated": "2026-04-17T03:43:58.982178+07:00",
+  "lastUpdated": "2026-04-17T05:37:17.844296+07:00",
   "articles": [
+    {
+      "id": "2b0539d409b8a8f3f457dc6bf3f6dc66",
+      "title": "Nhà vô địch pickleball Phúc Huỳnh đổi hướng đánh đôi",
+      "link": "https://tuoitre.vn/nha-vo-dich-pickleball-phuc-huynh-doi-huong-danh-doi-20260417000702887.htm",
+      "summary": "Phúc Huỳnh sẽ tập trung cho nội dung đánh đôi khi lựa chọn được vũ khí mới cùng đối tác là Đạt \"Trố\" trong những kế hoạch thi đấu pickleball trong năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T05:37:10.207175+07:00",
+      "fetched": "2026-04-17T05:37:10.207304+07:00"
+    },
+    {
+      "id": "cc9a5b40aa9fc4c7150bb1333cf8fac4",
+      "title": "Thời tiết hôm nay 17-4: Bắc Bộ mưa to; Nam Bộ ngày nắng, chiều mưa dông",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-17-4-bac-bo-mua-to-nam-bo-ngay-nang-chieu-mua-dong-20260416162356857.htm",
+      "summary": "Hôm nay 17-4, nhiều nơi như Bắc Bộ, cao nguyên Trung Bộ mưa to. Nam Bộ ngày nắng, chiều tối có mưa dông giải nhiệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T05:37:10.206928+07:00",
+      "fetched": "2026-04-17T05:37:10.207159+07:00"
+    },
     {
       "id": "3d1fdfbd068f167a133b76d4a5275541",
       "title": "Ông Bùi Thành Nhơn rời ghế chủ tịch, ai thay thế để dẫn dắt NovaGroup?",
@@ -223,6 +243,176 @@ window.newsData_2026_04_17 = {
       "fetched": "2026-04-17T00:11:23.833861+07:00"
     },
     {
+      "id": "6584feaaa267b1f3c24da49fe5201b3c",
+      "title": "CSGT phạt đơn vị thi công trên cao tốc TP.HCM - Long Thành - Dầu Giây",
+      "link": "https://thanhnien.vn/csgt-phat-don-vi-thi-cong-tren-cao-toc-tphcm-long-thanh-dau-giay-1852604162000154.htm",
+      "summary": "CSGT vừa lập biên bản phạt một đơn vị thi công trên tuyến cao tốc TP.HCM - Long Thành - Dầu Giây 1- - 14 triệu đồng vì vi phạm quy định bảo đảm an toàn giao thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T22:30:00+07:00",
+      "fetched": "2026-04-17T05:37:09.163647+07:00"
+    },
+    {
+      "id": "c612fa4f86ae9ff5240c6b6e9d76c684",
+      "title": "Mỹ 'thả bom kinh tế' vào Iran",
+      "link": "https://thanhnien.vn/my-tha-bom-kinh-te-vao-iran-185260416221026278.htm",
+      "summary": "Sau nhiều tuần tiến hành các chiến dịch quân sự rầm rộ, Mỹ được cho là đang chuyển qua gây sức ép kinh tế lên Iran, với các lệnh phong tỏa và cấm vận mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T22:15:00+07:00",
+      "fetched": "2026-04-17T05:37:09.163815+07:00"
+    },
+    {
+      "id": "a0a0919240aeefde7d8958226b3c4843",
+      "title": "Mua vé số khi đi chùa, người phụ nữ trúng hơn 1 tỉ xổ số miền Nam",
+      "link": "https://thanhnien.vn/mua-ve-so-khi-di-chua-nguoi-phu-nu-trung-hon-1-ti-xo-so-mien-nam-18526041619094848.htm",
+      "summary": "Người phụ nữ ở Cà Mau mua vé số khi đi chùa thắp hương bất ngờ trúng hơn 1 tỉ đồng xổ số miền Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T22:15:00+07:00",
+      "fetched": "2026-04-17T05:37:09.163994+07:00"
+    },
+    {
+      "id": "b9b57bbf1a88243fd2603e543031cd9f",
+      "title": "Chiến sự Ukraine ngày 1.513: Nga - Ukraine ‘ăn miếng trả miếng’ quy mô lớn",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1513-nga-ukraine-an-mieng-tra-mieng-quy-mo-lon-185260416220011833.htm",
+      "summary": "Nga tuyên bố tiến hành đợt tấn công lớn vào nhiều khu vực ở Ukraine trong ngày 16.4. Kyiv cũng đáp trả với các cuộc không kích vào hạ tầng năng lượng của đối thủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T22:10:00+07:00",
+      "fetched": "2026-04-17T05:37:09.164157+07:00"
+    },
+    {
+      "id": "3a6de8aa1ff7e1273344ce04559b09cd",
+      "title": "CLB Hà Nội quyết đua vào tốp 3",
+      "link": "https://thanhnien.vn/clb-ha-noi-quyet-dua-vao-top-3-185260416215202148.htm",
+      "summary": "Tiếp Becamex TP.HCM trên sân Hàng Đẫy lúc 19 giờ 15 hôm nay (17.4) ở vòng 19 V-League 2025-2026 là cơ hội để CLB Hà Nội đua vào tốp 3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T22:08:00+07:00",
+      "fetched": "2026-04-17T05:37:09.164312+07:00"
+    },
+    {
+      "id": "0221d3d21f9273ca39ebc76324218e93",
+      "title": "Giám mục Công giáo Mỹ ủng hộ Giáo hoàng Leo trong tranh luận với chính quyền ông Trump",
+      "link": "https://thanhnien.vn/giam-muc-cong-giao-my-ung-ho-giao-hoang-leo-trong-tranh-luan-voi-chinh-quyen-ong-trump-185260416222804888.htm",
+      "summary": "Hội đồng Giám mục Công giáo tại Mỹ ủng hộ những phát biểu của Giáo hoàng Leo XIV về vấn đề Iran sau khi Phó tổng thống Mỹ JD Vance cho rằng Giáo hoàng nên “thận trọng khi đề cập những vấn đề thần học”.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T22:05:00+07:00",
+      "fetched": "2026-04-17T05:37:09.164462+07:00"
+    },
+    {
+      "id": "77b03733fe6cb1e696ab93591fb56904",
+      "title": "Hé lộ chiến thuật mới của Ukraine",
+      "link": "https://thanhnien.vn/he-lo-chien-thuat-moi-cua-ukraine-185260416221420185.htm",
+      "summary": "Bộ Quốc phòng Ukraine đang bắt đầu áp dụng mô hình tác chiến mới trên các mặt trận, và một cánh quân đã triển khai rô bốt bộ binh ra chiến trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T22:05:00+07:00",
+      "fetched": "2026-04-17T05:37:09.164609+07:00"
+    },
+    {
+      "id": "e6ea205153bc19eb0c26a3fc2eabd92c",
+      "title": "Video robot hình người đuổi lợn rừng gây sốt",
+      "link": "https://vnexpress.net/video-robot-hinh-nguoi-duoi-lon-rung-gay-sot-5063120.html",
+      "summary": "Một robot hình người mang tên Edward Warchocki trở thành hiện tượng mạng xã hội khi chạy đuổi theo lợn rừng ở thủ đô Warsaw.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T22:00:00+07:00",
+      "fetched": "2026-04-17T05:37:05.991562+07:00"
+    },
+    {
+      "id": "7303f062f8ebfa9682efbe64d9130f27",
+      "title": "Tiến sĩ Việt và mối duyên với huyền thoại Toán học Trung Quốc",
+      "link": "https://vnexpress.net/tien-si-viet-va-moi-duyen-voi-huyen-thoai-toan-hoc-trung-quoc-5062775.html",
+      "summary": "Từ dự định làm thầy giáo dạy toán, Đặng Quang Tuấn có hành trình đầy bất ngờ, đến Đại học Thanh Hoa nghiên cứu với sự dẫn dắt của GS Shing Tung Yau – người Trung Quốc đầu tiên đoạt giải Fields.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T22:00:00+07:00",
+      "fetched": "2026-04-17T05:37:05.991751+07:00"
+    },
+    {
+      "id": "fcb43d77d8e9dcd88a3c7ff53d4aacf2",
+      "title": "Có nên gộp bữa sáng với trưa?",
+      "link": "https://vnexpress.net/co-nen-gop-bua-sang-voi-trua-5060568.html",
+      "summary": "Tôi thường xuyên không ăn sáng và thấy sức khỏe vẫn ổn nhưng vợ luôn ép ăn, nói không ăn thì không có sức, tụt huyết áp, tiểu đường, tôi nên làm thế nào?(Hoàng, 28 tuổi, Hà Nội).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T22:00:00+07:00",
+      "fetched": "2026-04-17T05:37:05.991921+07:00"
+    },
+    {
+      "id": "4877a36174424be10e4fe6bc35c4fa28",
+      "title": "Lịch âm hôm nay mùng 1 tháng 3: Ngày 17.4 là ngày gì?",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-mung-1-thang-3-ngay-174-la-ngay-gi-185260416130648626.htm",
+      "summary": "Ngày 17.4 là ngày gì theo lịch dương, lịch âm hôm nay mà nhiều người quan tâm, chia sẻ?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T22:00:00+07:00",
+      "fetched": "2026-04-17T05:37:09.164766+07:00"
+    },
+    {
+      "id": "e6ea205153bc19eb0c26a3fc2eabd92c",
+      "title": "Video robot hình người đuổi lợn rừng gây sốt",
+      "link": "https://vnexpress.net/video-robot-hinh-nguoi-duoi-lon-rung-gay-sot-5063120.html",
+      "summary": "Một robot hình người mang tên Edward Warchocki trở thành hiện tượng mạng xã hội khi chạy đuổi theo lợn rừng ở thủ đô Warsaw.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-16T22:00:00+07:00",
+      "fetched": "2026-04-17T05:37:16.826616+07:00"
+    },
+    {
+      "id": "94837194d26aa8549b27e2a90dc9ee12",
+      "title": "Victoria Beckham lần đầu lên tiếng về vụ bất hòa với con lớn",
+      "link": "https://vnexpress.net/victoria-beckham-lan-dau-len-tieng-ve-vu-bat-hoa-voi-con-lon-5063403.html",
+      "summary": "Nhà thiết kế Victoria Beckham cho biết vợ chồng cô cố gắng trở thành những phụ huynh tốt khi được hỏi về con lớn Brooklyn trong bài phỏng vấn mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T21:55:59+07:00",
+      "fetched": "2026-04-17T05:37:05.992113+07:00"
+    },
+    {
+      "id": "480c02c2c7087fe03fa86b58fda7a65e",
+      "title": "Ukraine hé lộ mô hình tác chiến mới",
+      "link": "https://thanhnien.vn/ukraine-he-lo-mo-hinh-tac-chien-moi-185260416175415564.htm",
+      "summary": "Theo Reuters, Bộ Quốc phòng Ukraine ngày 15.4 thông báo nước này đang triển khai một mô hình tác chiến mới tích hợp hệ thống vũ khí không người lái với hoạt động bộ binh, và đã đạt kết quả ban đầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T21:44:00+07:00",
+      "fetched": "2026-04-17T05:37:09.164917+07:00"
+    },
+    {
+      "id": "dd1a2ff24aeb01dfbea0dc673a0b86fd",
+      "title": "Tình hình Trung Đông mới nhất ngày 17.4: Tổng thống Trump báo tin mừng",
+      "link": "https://thanhnien.vn/tinh-hinh-iran-trung-dong-moi-nhat-ngay-174-dong-thai-moi-phia-israel-185260416223000908.htm",
+      "summary": "Xung đột ở Trung Đông đã bước qua ngày thứ 49 với nhiều diễn biến mới nhưng triển vọng về việc chấm dứt cuộc chiến vẫn còn mịt mờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T21:30:00+07:00",
+      "fetched": "2026-04-17T05:37:09.165092+07:00"
+    },
+    {
+      "id": "947bae724abf79ae0d2419a236bee8b0",
+      "title": "Tesla kiện chính quyền vì không được tự bán xe",
+      "link": "https://vnexpress.net/tesla-kien-chinh-quyen-vi-khong-duoc-tu-ban-xe-5062965.html",
+      "summary": "Tesla kiện bang North Dakota khi bang này chặn kế hoạch mở đại lý của hãng tại đây mà không sử dụng mô hình nhượng quyền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T21:29:00+07:00",
+      "fetched": "2026-04-17T05:37:05.992279+07:00"
+    },
+    {
+      "id": "8a7c12047dbc5a97c50c2cfbbde5cffa",
+      "title": "Tiệm tóc ‘thanh toán bằng nụ cười’ cho người khó khăn ở Huế",
+      "link": "https://thanhnien.vn/tiem-toc-thanh-toan-bang-nu-cuoi-cho-nguoi-kho-khan-o-hue-185260416113629473.htm",
+      "summary": "Tại các góc đường Ngô Quyền, Nguyễn Trường Tộ (thành phố Huế), một nhóm thợ tóc trẻ đã duy trì hoạt động cắt tóc miễn phí cho người lao động nghèo hơn một năm qua. Thù lao cho mỗi lần phục vụ được nhóm định nghĩa là những nụ cười.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T21:00:00+07:00",
+      "fetched": "2026-04-17T05:37:09.165246+07:00"
+    },
+    {
       "id": "0bf7e4e593b328ded0a5a488d132d571",
       "title": "Mỹ chật vật hạ giá thịt bò",
       "link": "https://vnexpress.net/my-chat-vat-ha-gia-thit-bo-5063149.html",
@@ -241,6 +431,16 @@ window.newsData_2026_04_17 = {
       "category": "Tổng hợp",
       "published": "2026-04-16T20:06:00+07:00",
       "fetched": "2026-04-17T03:43:50.902749+07:00"
+    },
+    {
+      "id": "f4f68221877500969b28b74b28c26814",
+      "title": "Súc miệng bằng dầu dừa giúp trắng răng, giảm hôi",
+      "link": "https://vnexpress.net/suc-mieng-bang-dau-dua-giup-trang-rang-giam-hoi-5062621.html",
+      "summary": "Súc miệng bằng dầu dừa đúng cách kết hợp vệ sinh răng miệng sạch sẽ có thể giúp hạn chế vi khuẩn, mảng bám và hôi miệng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T20:00:00+07:00",
+      "fetched": "2026-04-17T05:37:05.992587+07:00"
     },
     {
       "id": "3970ec6e7d016dc9104f930ac63bc4d0",
