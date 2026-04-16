@@ -1,6 +1,6 @@
 window.newsData_2026_04_17 = {
   "date": "2026-04-17",
-  "lastUpdated": "2026-04-17T02:07:47.587674+07:00",
+  "lastUpdated": "2026-04-17T03:43:58.982178+07:00",
   "articles": [
     {
       "id": "3d1fdfbd068f167a133b76d4a5275541",
@@ -221,6 +221,36 @@ window.newsData_2026_04_17 = {
       "category": "Tổng hợp",
       "published": "2026-04-17T00:11:23.833614+07:00",
       "fetched": "2026-04-17T00:11:23.833861+07:00"
+    },
+    {
+      "id": "0bf7e4e593b328ded0a5a488d132d571",
+      "title": "Mỹ chật vật hạ giá thịt bò",
+      "link": "https://vnexpress.net/my-chat-vat-ha-gia-thit-bo-5063149.html",
+      "summary": "Giá thịt bò ở Mỹ đang ở gần mức kỷ lục nhưng khó có cách hạ nhiệt do hạn chế nguồn cung nội địa lẫn nhập khẩu.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-16T20:09:31+07:00",
+      "fetched": "2026-04-17T03:43:54.750136+07:00"
+    },
+    {
+      "id": "bd4ae3eaa1fb864cdbc82cc348ad57ce",
+      "title": "Đội tuyển nữ Việt Nam bước sang chương mới",
+      "link": "https://thanhnien.vn/doi-tuyen-nu-viet-nam-buoc-sang-chuong-moi-185260416215549737.htm",
+      "summary": "Đội tuyển nữ VN sẽ có nhiều thay đổi lớn dưới sự dẫn dắt của tân HLV trưởng Hoàng Văn Phúc - người thay thế ông Mai Đức Chung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-16T20:06:00+07:00",
+      "fetched": "2026-04-17T03:43:50.902749+07:00"
+    },
+    {
+      "id": "3970ec6e7d016dc9104f930ac63bc4d0",
+      "title": "Nhân viên taxi Vinasun thu nhập bình quân hơn 13 triệu đồng mỗi tháng",
+      "link": "https://vnexpress.net/nhan-vien-taxi-vinasun-thu-nhap-binh-quan-hon-13-trieu-dong-moi-thang-5063393.html",
+      "summary": "Doanh thu giảm mạnh nhưng thu nhập mỗi tháng của nhân viên taxi Vinasun năm ngoái cải thiện từ 12,9 triệu đồng lên 13,18 triệu đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-16T19:59:26+07:00",
+      "fetched": "2026-04-17T03:43:54.750310+07:00"
     },
     {
       "id": "a1be374e9781eac7a77f6b6641f69f7f",
