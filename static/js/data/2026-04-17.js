@@ -1,7 +1,157 @@
 window.newsData_2026_04_17 = {
   "date": "2026-04-17",
-  "lastUpdated": "2026-04-17T05:37:17.844296+07:00",
+  "lastUpdated": "2026-04-17T09:22:51.104914+07:00",
   "articles": [
+    {
+      "id": "d5517924ea6d5bd012654d7803f25c2e",
+      "title": "Trung Đông sáng 17-4: Lệnh ngừng bắn Israel - Lebanon có hiệu lực, nhiều quốc gia hoan nghênh",
+      "link": "https://tuoitre.vn/trung-dong-sang-17-4-lenh-ngung-ban-israel-lebanon-co-hieu-luc-nhieu-quoc-gia-hoan-nghenh-20260417065909683.htm",
+      "summary": "Ông Trump hy vọng 'Hezbollah sẽ hành xử đúng mực'; Tiếng súng vang lên tại ngoại ô Beirut sau lệnh ngừng bắn; Iran hoan nghênh thỏa thuận ngừng bắn Israel - Lebanon... là một số tin tức đáng chú ý về tình hình chiến sự Trung Đông sáng 17-4.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T09:22:42.419558+07:00",
+      "fetched": "2026-04-17T09:22:42.419648+07:00"
+    },
+    {
+      "id": "4a62509d1ab73016b6f9977fe9739556",
+      "title": "Quỳnh Kool không chỉ Bước chân vào đời mới khóc nhiều",
+      "link": "https://tuoitre.vn/quynh-kool-khong-chi-buoc-chan-vao-doi-moi-khoc-nhieu-20260416231310053.htm",
+      "summary": "Quỳnh Kool - người chị gây 'ức chế' trong phim Bước chân vào đời vì khóc quá nhiều, là khách mời trong chương trình Sao check, phát sóng tối 16-4 trên VTV3.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T09:22:42.419450+07:00",
+      "fetched": "2026-04-17T09:22:42.419549+07:00"
+    },
+    {
+      "id": "6718b081ab0f3846114dc9d32ded6166",
+      "title": "Xe máy điện đi xa như ô tô, chạy tới 320km/sạc, giá rẻ hơn Honda Lead",
+      "link": "https://tuoitre.vn/xe-may-dien-di-xa-nhu-o-to-chay-toi-320km-sac-gia-re-hon-honda-lead-20260416155006877.htm",
+      "summary": "Sở hữu tầm hoạt động lên tới 320km cùng mức giá dễ tiếp cận, mẫu xe máy điện mới của Ola Electric được xem là đối thủ đáng gờm trong phân khúc xe ga phổ thông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T09:22:42.419345+07:00",
+      "fetched": "2026-04-17T09:22:42.419441+07:00"
+    },
+    {
+      "id": "122cf7427dff40ae3dfc17c7e69ad374",
+      "title": "Đọc nhanh 17-4: Giá dầu bật tăng trở lại; ông Phạm Nhật Vượng mở một công ty phim ảnh mới",
+      "link": "https://tuoitre.vn/doc-nhanh-17-4-gia-dau-bat-tang-tro-lai-ong-pham-nhat-vuong-mo-mot-cong-ty-phim-anh-moi-20260417070149801.htm",
+      "summary": "Giá dầu thế giới tiếp tục đi lên trong phiên 17-4 khi cuộc đàm phán hòa bình Mỹ - Iran tiến gần đến thỏa thuận. Trong nước, loạt thông tin đáng chú ý về doanh nghiệp thu hút sự quan tâm của thị trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T09:22:42.419246+07:00",
+      "fetched": "2026-04-17T09:22:42.419337+07:00"
+    },
+    {
+      "id": "47a2bff956166f6140c535451bc626af",
+      "title": "Chứng khoán 17-4: Nhà đầu tư nên làm gì khi thị trường liên tục ‘xanh vỏ đỏ lòng’?",
+      "link": "https://tuoitre.vn/chung-khoan-17-4-nha-dau-tu-nen-lam-gi-khi-thi-truong-lien-tuc-xanh-vo-do-long-20260417071350587.htm",
+      "summary": "Chuyên gia khuyến nghị nhà đầu tư chứng khoán cần kiên nhẫn trong giai đoạn rất khó giao dịch này, hoặc cân nhắc tái cơ cấu sang cổ phiếu có tín hiệu về kỹ thuật, dòng tiền.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T09:22:42.419146+07:00",
+      "fetched": "2026-04-17T09:22:42.419237+07:00"
+    },
+    {
+      "id": "e8e910889d880f73fbda17e77e1a0def",
+      "title": "Những màn biến hình 'không phải Super Saiyan' ấn tượng nhất Dragon Ball Z",
+      "link": "https://tuoitre.vn/nhung-man-bien-hinh-khong-phai-super-saiyan-an-tuong-nhat-dragon-ball-z-20260416213343326.htm",
+      "summary": "Không chỉ nổi tiếng với Super Saiyan, Dragon Ball Z còn sở hữu nhiều màn biến hình đáng nhớ khác. Từ Majin Vegeta đến Ultimate Gohan, loạt khoảnh khắc này góp phần làm nên sức hút và tầm ảnh hưởng của bộ anime kinh điển.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T09:22:42.419038+07:00",
+      "fetched": "2026-04-17T09:22:42.419137+07:00"
+    },
+    {
+      "id": "a0d828e7f37dc473a65e98e88f414193",
+      "title": "Giấy xác nhận khuyết tật mỗi nơi mỗi kiểu, trình xong vẫn bị nghi ngờ",
+      "link": "https://tuoitre.vn/giay-xac-nhan-khuyet-tat-moi-noi-moi-kieu-trinh-xong-van-bi-nghi-ngo-20260416192614295.htm",
+      "summary": "Giấy xác nhận khuyết tật không chỉ là giấy tờ hành chính, mà chính là 'chìa khóa' để người khuyết tật tiếp cận các chính sách như miễn giảm vé giao thông, tham quan - hỗ trợ y tế, giáo dục và các chính sách an sinh khác…",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T09:22:42.418927+07:00",
+      "fetched": "2026-04-17T09:22:42.419029+07:00"
+    },
+    {
+      "id": "ae79997165333f1ac2fd5e85e4aed2fb",
+      "title": "'Cấm' hộ kinh doanh nhỏ xuất hóa đơn: Nhiều bất cập, gây khó cho hộ kinh doanh",
+      "link": "https://tuoitre.vn/cam-ho-kinh-doanh-nho-xuat-hoa-don-nhieu-bat-cap-gay-kho-cho-ho-kinh-doanh-20260416231509144.htm",
+      "summary": "Sau khi Thuế cơ sở 7 tỉnh Đắk Lắk, Thuế cơ sở 3 tỉnh Khánh Hòa, Thuế cơ sở 1 tỉnh Quảng Ngãi... phát thông báo yêu cầu hộ kinh doanh có doanh thu dưới 500 triệu đồng ngừng sử dụng hóa đơn, đã có nhiều ý kiến trái chiều.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T09:22:42.418798+07:00",
+      "fetched": "2026-04-17T09:22:42.418917+07:00"
+    },
+    {
+      "id": "d8c4b714c50cebba2797e14dd624ec1c",
+      "title": "Ứng dụng gọi thợ 5Sao: Xóa bỏ nỗi lo bảo hành khi sửa chữa nhà cửa",
+      "link": "https://tuoitre.vn/ung-dung-goi-tho-5sao-xoa-bo-noi-lo-bao-hanh-khi-sua-chua-nha-cua-20260416143824181.htm",
+      "summary": "Sự khác biệt của một dịch vụ chuyên nghiệp nằm ở trách nhiệm sau khi hoàn thành công việc. Bằng việc số hóa quy trình bảo hành và cam kết đồng hành dài hạn, ứng dụng gọi thợ 5Sao xóa bỏ nỗi lo về hỏng hóc tái diễn, mang lại sự an tâm cho gia đình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T09:22:42.418405+07:00",
+      "fetched": "2026-04-17T09:22:42.418784+07:00"
+    },
+    {
+      "id": "2f0cf289a1298a399631d0cffd4196aa",
+      "title": "Tiền điện leo thang mùa nắng: Dùng sao cho hợp lý?",
+      "link": "https://tuoitre.vn/tien-dien-leo-thang-mua-nang-dung-sao-cho-hop-ly-20260416163553865.htm",
+      "summary": "Công ty Điện lực Khánh Hòa tăng cường công tác bảo trì lưới điện nhằm đáp ứng nhu cầu sử dụng điện mùa nắng nóng - Ảnh: DNCC",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T09:22:40.302436+07:00",
+      "fetched": "2026-04-17T09:22:42.418370+07:00"
+    },
+    {
+      "id": "8f80e3c6cc41161e8e5f0c55f990c7bd",
+      "title": "80 năm ngành Thống kê: Từ căn nhà mái lá vùng Sơn Dương đến cơ quan thống kê quốc gia",
+      "link": "https://tuoitre.vn/80-nam-nganh-thong-ke-tu-can-nha-mai-la-vung-son-duong-den-co-quan-thong-ke-quoc-gia-20260416225556111.htm",
+      "summary": "Khởi đầu từ căn nhà lá vùng Sơn Dương (Tuyên Quang) với vài cán bộ chuyên trách, đến nay Cục Thống kê đã trở thành cơ quan thống kê quốc gia chuyên nghiệp, cung cấp số liệu tin cậy và xây dựng kịch bản kinh tế đất nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T09:22:40.302333+07:00",
+      "fetched": "2026-04-17T09:22:40.302427+07:00"
+    },
+    {
+      "id": "da3329ff9cfa763f46084b2b170610ba",
+      "title": "Vì sao dự án cải tạo kênh Hàng Bàng chưa thể về đích?",
+      "link": "https://tuoitre.vn/vi-sao-du-an-cai-tao-kenh-hang-bang-chua-the-ve-dich-2026041707434732.htm",
+      "summary": "Dù đã hoàn thành phần lớn, dự án cải tạo kênh Hàng Bàng (TP.HCM) giai đoạn 2 với tổng kinh phí khoảng 1.900 tỉ đồng vẫn chưa thể về đích vì 120m cuối phía sau chợ Bình Tây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T09:22:40.302228+07:00",
+      "fetched": "2026-04-17T09:22:40.302324+07:00"
+    },
+    {
+      "id": "c7b5be7f307111fef1d2dcd6fe6e2aae",
+      "title": "Đề xuất sửa đổi, bổ sung nghị định 168: Thêm một 'dây an toàn' cho người dân",
+      "link": "https://tuoitre.vn/de-xuat-sua-doi-bo-sung-nghi-dinh-168-them-mot-day-an-toan-cho-nguoi-dan-20260417080512747.htm",
+      "summary": "Dư luận đang hướng sự quan tâm đến đề xuất sửa đổi, bổ sung một số điều khoản trong nghị định 168. Trong đó khá nhiều ý kiến đồng tình, ủng hộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T09:22:40.302118+07:00",
+      "fetched": "2026-04-17T09:22:40.302219+07:00"
+    },
+    {
+      "id": "990549282a13cbdca0aee6d6d0bf7bda",
+      "title": "Vietlott: Kênh phân phối xổ số qua điện thoại đạt 4 triệu tài khoản",
+      "link": "https://tuoitre.vn/vietlott-kenh-phan-phoi-xo-so-qua-dien-thoai-dat-4-trieu-tai-khoan-20260416201208248.htm",
+      "summary": "Kênh phân phối xổ số qua điện thoại của Công ty Xổ số Điện toán Việt Nam (ứng dụng hỗ trợ Vietlott SMS) vừa cán mốc 4 triệu tài khoản đăng ký dự thưởng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T09:22:40.301994+07:00",
+      "fetched": "2026-04-17T09:22:40.302109+07:00"
+    },
+    {
+      "id": "f9dc2fed8483fda9dbd703daff5e74e6",
+      "title": "Giáo sư toán Phùng Hồ Hải nhận giải thưởng Humboldt của Đức",
+      "link": "https://tuoitre.vn/giao-su-toan-phung-ho-hai-nhan-giai-thuong-humboldt-cua-duc-20260417060301008.htm",
+      "summary": "Giáo sư Phùng Hồ Hải, 56 tuổi, là chuyên gia trong lĩnh vực đại số và hình học đại số. Ông từng được đặc cách công nhận chức danh giáo sư năm 2012.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T09:22:40.301760+07:00",
+      "fetched": "2026-04-17T09:22:40.301980+07:00"
+    },
     {
       "id": "2b0539d409b8a8f3f457dc6bf3f6dc66",
       "title": "Nhà vô địch pickleball Phúc Huỳnh đổi hướng đánh đôi",
@@ -21,6 +171,56 @@ window.newsData_2026_04_17 = {
       "category": "Tổng hợp",
       "published": "2026-04-17T05:37:10.206928+07:00",
       "fetched": "2026-04-17T05:37:10.207159+07:00"
+    },
+    {
+      "id": "7ee70fc152979a4e20841dcf13352f65",
+      "title": "Sau 8 năm, quy mô thi đánh giá năng lực 'phình to' tới mức nào?",
+      "link": "https://thanhnien.vn/sau-8-nam-quy-mo-thi-danh-gia-nang-luc-phinh-to-toi-muc-nao-185260410164707434.htm",
+      "summary": "Sau gần một thập kỷ tổ chức, kỳ thi đánh giá năng lực của ĐH Quốc gia TP.HCM vẫn luôn duy trì sức hút, thể hiện qua việc liên tục đổ xô kỷ lục của chính mình ở nhiều khía cạnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T02:19:00+07:00",
+      "fetched": "2026-04-17T09:22:39.105503+07:00"
+    },
+    {
+      "id": "289f1530dd3230432f9ce613083f947a",
+      "title": "Bất động sản đã đóng góp lớn vào kỷ lục ngân sách 2025",
+      "link": "https://thanhnien.vn/bat-dong-san-da-dong-gop-lon-vao-ki-luc-ngan-sach-2025-185260416202104463.htm",
+      "summary": "Kết quả đó cũng là tiền đề cho câu hỏi gợi mở của Phó tổng biên tập Báo Thanh Niên Lâm Hiếu Dũng tại Hội thảo \"Tín dụng BĐS, kiểm soát thế nào để phát triển\" do Báo Thanh Niên tổ chức sáng nay 17.4 \"có nên siết bất động sản vào lúc này\", khi kinh tế đang cần tăng tốc?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T02:17:00+07:00",
+      "fetched": "2026-04-17T09:22:39.105671+07:00"
+    },
+    {
+      "id": "1f46ac70a17d28d5eeb092471416910c",
+      "title": "Gỡ bỏ ngay hơn 100 tiện ích mở rộng cho Chrome",
+      "link": "https://thanhnien.vn/go-bo-ngay-hon-100-tien-ich-mo-rong-cho-chrome-185260417085541781.htm",
+      "summary": "Báo cáo mới từ Socket chỉ ra những nguy hiểm khi tải xuống các tiện ích mở rộng cho Chrome, với những hệ lụy nghiêm trọng cho an ninh mạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T02:15:00+07:00",
+      "fetched": "2026-04-17T09:22:39.105802+07:00"
+    },
+    {
+      "id": "c7fbaabff4a11c8f0a6cd569104a5559",
+      "title": "Người Đức và người Nhật ngày càng mua nhiều xe Trung Quốc",
+      "link": "https://vnexpress.net/nguoi-duc-va-nguoi-nhat-ngay-cang-mua-nhieu-xe-trung-quoc-5063445.html",
+      "summary": "Doanh số của BYD tại Nhật Bản tăng gấp đôi trong tháng 3, còn ở Đức cũng ghi nhận mức tăng trưởng trong quý I.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T02:14:00+07:00",
+      "fetched": "2026-04-17T09:22:35.452726+07:00"
+    },
+    {
+      "id": "b1fc364664b4cedb257105de4fdd1644",
+      "title": "Đi bộ buổi sáng hay chiều tốt hơn cho tim: Kết quả gây bất ngờ",
+      "link": "https://thanhnien.vn/di-bo-buoi-sang-hay-chieu-tot-hon-cho-tim-ket-qua-gay-bat-ngo-185260417070639383.htm",
+      "summary": "Tập thể dục giúp giảm nguy cơ mắc bệnh tim, đột quỵ và tiểu đường. Tuy nhiên, tùy vào mục tiêu sức khỏe, thời điểm vận động hiệu quả nhất trong ngày có thể khác nhau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T02:12:00+07:00",
+      "fetched": "2026-04-17T09:22:39.105925+07:00"
     },
     {
       "id": "3d1fdfbd068f167a133b76d4a5275541",
@@ -91,6 +291,316 @@ window.newsData_2026_04_17 = {
       "category": "Tổng hợp",
       "published": "2026-04-17T02:07:38.491617+07:00",
       "fetched": "2026-04-17T02:07:38.491853+07:00"
+    },
+    {
+      "id": "f3eb75c687e45ba87f430bcb2289edad",
+      "title": "Tôi tự tin làm vợ tốt nhưng mãi chưa tìm được chồng ở tuổi U40",
+      "link": "https://vnexpress.net/toi-tu-tin-minh-se-la-mot-nguoi-vo-tot-nhung-lai-chan-nan-vi-mai-chua-tim-duoc-manh-ghep-phu-hop-o-tuoi-u40-5063451.html",
+      "summary": "Nhìn lại bản thân cũng thấy ổn, tuy không xinh đẹp nhưng chẳng khó nhìn, đặc biệt là tôi biết cư xử.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T02:06:49+07:00",
+      "fetched": "2026-04-17T09:22:35.452889+07:00"
+    },
+    {
+      "id": "5c8e2e66412d320214f02bbcb7958be9",
+      "title": "Không phải bôi là đủ: 4 kem chống nắng giữ da sáng khỏe dù nắng 40 độ",
+      "link": "https://thanhnien.vn/khong-phai-boi-la-du-4-kem-chong-nang-giu-da-sang-khoe-du-nang-40-do-185260417091740195.htm",
+      "summary": "Dưới cái nắng 'đổ lửa' 40 độ C, kem chống nắng là 'áo giáp' sống còn cho làn da. Nhưng nếu chỉ bôi theo thói quen mà bỏ qua chỉ số quang phổ rộng hay khả năng kháng nhiệt, da bạn vẫn sạm nám, lão hóa. Vậy cùng điểm danh 4 kem chống nắng thế hệ mới giúp bảo vệ tầng sâu và giữ da sáng khỏe bền vững bấ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T02:06:00+07:00",
+      "fetched": "2026-04-17T09:22:39.106074+07:00"
+    },
+    {
+      "id": "c158c56f070c11bc9a4fb7550bb721db",
+      "title": "Giá heo hơi hôm nay 17.4.2026: Đồng loạt chững lại",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-1742026-dong-loat-chung-lai-185260417085506061.htm",
+      "summary": "Sau nhịp điều chỉnh tăng đều trên cả nước, giá heo hơi đồng loạt chững lại và giao dịch trong khoảng 63.000 - 69.000 đồng/kg.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T02:06:00+07:00",
+      "fetched": "2026-04-17T09:22:39.106247+07:00"
+    },
+    {
+      "id": "7b44d7cd114d7e5db1cd4563482288c9",
+      "title": "Diễn viên 'Thần điêu hiệp lữ' 1983 qua đời",
+      "link": "https://vnexpress.net/dien-vien-than-dieu-hiep-lu-1983-qua-doi-5063464.html",
+      "summary": "Tài tử Hong Kong Phan Hoành Bân, đóng \"Thần điêu hiệp lữ\" cùng Lưu Đức Hoa, mất ở tuổi 64.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T02:00:44+07:00",
+      "fetched": "2026-04-17T09:22:35.453032+07:00"
+    },
+    {
+      "id": "1403b330e1b509e88c1994cb5b660b69",
+      "title": "Tái tạo da bằng công nghệ Plasma Complex như nào?",
+      "link": "https://vnexpress.net/tai-tao-da-bang-cong-nghe-plasma-complex-nhu-nao-5063457.html",
+      "summary": "Plasma Complex là công nghệ tận dụng máu tự thân để tạo khung đỡ sinh học và nguồn tín hiệu phục hồi ngay trong mô, từ đó hỗ trợ làn da tái tạo theo hướng tự nhiên và bền vững.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T02:00:00+07:00",
+      "fetched": "2026-04-17T09:22:35.453167+07:00"
+    },
+    {
+      "id": "014406b24afd2a77024abc87554e4f5d",
+      "title": "Loạt công nghệ nâng tầm chất lượng sống của máy lạnh Toshiba Inverter F2 Series",
+      "link": "https://vnexpress.net/loat-cong-nghe-nang-tam-chat-luong-song-cua-may-lanh-toshiba-inverter-f2-series-5063380.html",
+      "summary": "Toshiba vừa ra mắt dòng máy lạnh Inverter trung cấp - F2 Series tích hợp các công nghệ bảo vệ sức khỏe, giữ sạch bầu không khí cũng như kết nối Internet, nâng cấp trải nghiệm cho người dùng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T02:00:00+07:00",
+      "fetched": "2026-04-17T09:22:35.453293+07:00"
+    },
+    {
+      "id": "430b856502015e91db7cee82f67b86b7",
+      "title": "TH đồng hành phát triển nguồn nhân lực vùng biên Quảng Ngãi",
+      "link": "https://vnexpress.net/th-dong-hanh-phat-trien-nguon-nhan-luc-vung-bien-quang-ngai-5062991.html",
+      "summary": "Quỹ Vì Tầm Vóc Việt và Tập đoàn TH triển khai chuỗi hoạt động tài trợ giáo dục, an sinh xã hội, tuyển dụng nhân sự tại Quảng Ngãi, đặc biệt là vùng biên giới Mô Rai, giữa tháng 4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T02:00:00+07:00",
+      "fetched": "2026-04-17T09:22:35.453413+07:00"
+    },
+    {
+      "id": "d21d886d66a9bf10da06409d67ae5c86",
+      "title": "IBSA công bố cố vấn y khoa khu vực châu Á",
+      "link": "https://vnexpress.net/ibsa-cong-bo-co-van-y-khoa-khu-vuc-chau-a-5061023.html",
+      "summary": "Tập đoàn dược IBSA (Thụy Sĩ) chọn bác sĩ Tô Lan Phương là thành viên Hội đồng cố vấn y khoa IBSA khu vực châu Á - Thái Bình Dương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T02:00:00+07:00",
+      "fetched": "2026-04-17T09:22:35.453555+07:00"
+    },
+    {
+      "id": "1436f95381d92cd9f2f3f044c78d77aa",
+      "title": "Cuộc sống của nữ MC sau 3 năm ‘tố’ bị một cầu thủ nổi tiếng 'gạ gẫm'",
+      "link": "https://thanhnien.vn/cuoc-song-cua-nu-mc-sau-3-nam-to-bi-mot-cau-thu-noi-tieng-ga-gam-185260416185430933.htm",
+      "summary": "Sau thời gian dài giữ im lặng, Én bạc 2023 Thu Hà lần đầu chia sẻ thẳng thắn về sự cố từng gây xôn xao mạng xã hội cách đây 3 năm. Nữ MC thừa nhận bản thân đã thiếu thận trọng khi chia sẻ câu chuyện cá nhân lên mạng, dẫn đến nhiều hệ lụy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T02:00:00+07:00",
+      "fetched": "2026-04-17T09:22:39.106380+07:00"
+    },
+    {
+      "id": "fe777aaed15947c2d74cad023549e5d8",
+      "title": "Lối sống không tiền mặt: 4 triệu người chọn giải trí có thưởng qua Vietlott SMS",
+      "link": "https://thanhnien.vn/loi-song-khong-tien-mat-4-trieu-nguoi-chon-giai-tri-co-thuong-qua-vietlott-sms-185260416183156616.htm",
+      "summary": "Mới đây, Vietlott vừa chính thức công bố kênh phân phối xổ số qua điện thoại (ứng dụng hỗ trợ Vietlott SMS) đã cán mốc 4 triệu tài khoản đăng ký sau hơn 5 năm vận hành. Đây là cột mốc khẳng định vị thế hàng đầu của đơn vị trong xu hướng số hóa ngành giải trí có thưởng tại Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T02:00:00+07:00",
+      "fetched": "2026-04-17T09:22:39.106502+07:00"
+    },
+    {
+      "id": "2caacca8313218a84893fc76f212ea88",
+      "title": "Giá vé máy bay lễ 30.4 - 1.5 cao ngang vé tết",
+      "link": "https://thanhnien.vn/gia-ve-may-bay-le-304-15-cao-ngang-ve-tet-185260417085453295.htm",
+      "summary": "Dữ liệu khảo sát giá vé trên một số đường bay của Cục Hàng không Việt Nam cho thấy, giá vé máy bay dịp lễ 30.4 - 1.5 cao tương đương mức giá được ghi nhận trong dịp Tết Nguyên đán 2026 và tăng nhẹ  so với cùng kỳ năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T01:56:00+07:00",
+      "fetched": "2026-04-17T09:22:39.106639+07:00"
+    },
+    {
+      "id": "72d6a6f9b54a111baf4a52475778b074",
+      "title": "TP.HCM sắp làm tuyến đường hơn 17.000 tỉ chạy thẳng tới Tây Ninh",
+      "link": "https://thanhnien.vn/tphcm-sap-lam-tuyen-duong-hon-17000-ti-chay-thang-toi-tay-ninh-185260417063340523.htm",
+      "summary": "Sở Xây dựng TP.HCM vừa có tờ trình trình Hội đồng thẩm định TP.HCM báo cáo nghiên cứu tiền khả thi dự án xây dựng đường mở mới phía Tây Bắc (từ đường Vành đai 2 đến giáp ranh tỉnh Tây Ninh).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T01:48:00+07:00",
+      "fetched": "2026-04-17T09:22:39.106756+07:00"
+    },
+    {
+      "id": "babbcd7198f134637d135ea076c4baf6",
+      "title": "Việt Nam vào top 5 điểm đến tốt nhất cho nữ du khách độc hành",
+      "link": "https://thanhnien.vn/viet-nam-vao-top-5-diem-den-tot-nhat-cho-nu-du-khach-doc-hanh-185260415142733851.htm",
+      "summary": "Du lịch một mình không phải là điều mới lạ, ngày càng nhiều người đặt các chuyến đi quốc tế một mình theo tiếng gọi của sự tự do và phiêu lưu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T01:47:00+07:00",
+      "fetched": "2026-04-17T09:22:39.106871+07:00"
+    },
+    {
+      "id": "25f3b441bce2ba0c3e361f2db8f50fa0",
+      "title": "Giá vàng hôm nay 17.4.2026: Tiếp tục đi lùi xuống sát 170 triệu đồng",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-1742026-tiep-tuc-di-lui-xuong-sat-170-trieu-dong-18526041707213901.htm",
+      "summary": "Giá vàng thế giới vẫn trên đà giảm đẩy thị trường trong nước đi lùi xuống sát 170 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T01:46:00+07:00",
+      "fetched": "2026-04-17T09:22:39.106983+07:00"
+    },
+    {
+      "id": "4563cd644e99b99727c3cd3262c503a5",
+      "title": "Bác sĩ TP HCM ra quân khám sức khỏe miễn phí cho dân",
+      "link": "https://vnexpress.net/bac-si-tp-hcm-ra-quan-kham-suc-khoe-mien-phi-cho-dan-5063452.html",
+      "summary": "Hàng trăm y bác sĩ từ hơn 100 bệnh viện tỏa về 168 trạm y tế trên toàn TP HCM để khám sàng lọc và lập hồ sơ sức khỏe điện tử miễn phí cho người dân, sáng 17/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T01:43:11+07:00",
+      "fetched": "2026-04-17T09:22:35.453693+07:00"
+    },
+    {
+      "id": "da75bf48f02b3e4f48f205b07a097a6d",
+      "title": "Hai người đi xe máy lao đầu vào ôtô ở khúc cua",
+      "link": "https://vnexpress.net/hai-nguoi-di-xe-may-lao-dau-vao-oto-o-khuc-cua-5063443.html",
+      "summary": "Tốc độ cao, hai người đi xe máy lao thẳng vào đầu ôtô khi qua một khúc cua tại Cái Nhum.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T01:42:16+07:00",
+      "fetched": "2026-04-17T09:22:35.453819+07:00"
+    },
+    {
+      "id": "7df164243b27e5d5735fe7f1f3f5da6c",
+      "title": "Giá USD hôm nay 17.4.2026: Đô la Mỹ đứng yên trong khi EUR, bảng Anh đi xuống",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-1742026-do-la-my-dung-yen-trong-khi-eur-bang-anh-di-xuong-185260417082930094.htm",
+      "summary": "Các ngân hàng không thay đổi giá USD trong khi giảm giá các ngoại tệ khác. Đồng bạc xanh trên thị trường thế giới tăng sau chuỗi ngày giảm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T01:42:00+07:00",
+      "fetched": "2026-04-17T09:22:39.107096+07:00"
+    },
+    {
+      "id": "4e386a8adf936bf8812fa46eb706f474",
+      "title": "Lebanon cáo buộc Israel vi phạm lệnh ngừng bắn",
+      "link": "https://vnexpress.net/lebanon-cao-buoc-israel-vi-pham-lenh-ngung-ban-5063447.html",
+      "summary": "Beirut nói rằng Tel Aviv vi phạm thỏa thuận ngừng bắn, nã pháo vào một số ngôi làng ở miền nam Lebanon.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T01:38:00+07:00",
+      "fetched": "2026-04-17T09:22:35.453942+07:00"
+    },
+    {
+      "id": "4e386a8adf936bf8812fa46eb706f474",
+      "title": "Lebanon cáo buộc Israel vi phạm lệnh ngừng bắn",
+      "link": "https://vnexpress.net/lebanon-cao-buoc-israel-vi-pham-lenh-ngung-ban-5063447.html",
+      "summary": "Beirut nói rằng Tel Aviv vi phạm thỏa thuận ngừng bắn, nã pháo vào một số ngôi làng ở miền nam Lebanon.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-17T01:38:00+07:00",
+      "fetched": "2026-04-17T09:22:44.351568+07:00"
+    },
+    {
+      "id": "ecd28486f1c6c0dca72e768c20547f27",
+      "title": "Trung Quốc - thị trường khách quốc tế lớn nhất của du lịch Việt",
+      "link": "https://vnexpress.net/trung-quoc-thi-truong-khach-quoc-te-lon-nhat-cua-du-lich-viet-5062090.html",
+      "summary": "Từ năm 2008, khi Việt Nam bắt đầu thống kê lượng khách quốc tế, Trung Quốc liên tục đứng đầu trong danh sách các thị trường gửi khách nhiều nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T01:36:32+07:00",
+      "fetched": "2026-04-17T09:22:35.454065+07:00"
+    },
+    {
+      "id": "6d82d69b00ab06a2373ee20195f193d6",
+      "title": "Tìm người tri kỷ ở tuổi 48 liệu có muộn quá không anh",
+      "link": "https://vnexpress.net/tim-nguoi-tri-ky-o-tuoi-48-lieu-co-muon-qua-khong-anh-5062895.html",
+      "summary": "Em là kiểu phụ nữ truyền thống, suy nghĩ đơn giản, yêu sự bình yên, tử tế và chân thành",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T01:36:25+07:00",
+      "fetched": "2026-04-17T09:22:35.454153+07:00"
+    },
+    {
+      "id": "6883be69abeeb41f2e0a667ecc9aed64",
+      "title": "Đã có điểm thi đánh giá năng lực ĐH Quốc gia TP.HCM, tra cứu tại đâu?",
+      "link": "https://thanhnien.vn/da-co-diem-thi-danh-gia-nang-luc-dh-quoc-gia-tphcm-tra-cuu-tai-dau-185260417082456768.htm",
+      "summary": "Sáng nay ĐH Quốc gia TP.HCM công bố điểm thi đánh giá năng lực đợt 1 năm 2026. Thí sinh tra cứu điểm thi tại đâu?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T01:36:00+07:00",
+      "fetched": "2026-04-17T09:22:39.107216+07:00"
+    },
+    {
+      "id": "5ccffb032468cb94d0465eb0fc660893",
+      "title": "Messi bất ngờ mua CLB Tây Ban Nha, David Beckham lên tiếng về biến động Inter Miami",
+      "link": "https://thanhnien.vn/messi-bat-ngo-mua-clb-tay-ban-nha-david-beckham-len-tieng-ve-bien-dong-inter-miami-185260417083359522.htm",
+      "summary": "Messi vừa chính thức trở thành ông chủ mới của CLB UE Cornella đang thi đấu giải hạng 5 tại Tây Ban Nha, động thái này diễn ra giữa biến động lớn ở Inter Miami khiến ông chủ tịch David Beckham phải lên tiếng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T01:34:00+07:00",
+      "fetched": "2026-04-17T09:22:39.107331+07:00"
+    },
+    {
+      "id": "831d67ffa3861a05a6b0a1ec3217e7ab",
+      "title": "Dựng màn kịch 'để lại dép trên cầu' để trốn tội trộm",
+      "link": "https://vnexpress.net/dung-man-kich-de-lai-dep-tren-cau-de-tron-toi-trom-5063418.html",
+      "summary": "Sau khi trộm xe máy, hai thiếu niên để lại dép và thư tuyệt mệnh trên cầu Thạch Bích, khiến nhiều người đi tìm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T01:33:37+07:00",
+      "fetched": "2026-04-17T09:22:35.454278+07:00"
+    },
+    {
+      "id": "9df0a5113e93314de6664b3e7165297d",
+      "title": "Thủ tướng kêu gọi doanh nghiệp Mỹ đầu tư năng lượng, công nghệ",
+      "link": "https://vnexpress.net/thu-tuong-keu-goi-doanh-nghiep-my-dau-tu-nang-luong-cong-nghe-5063367.html",
+      "summary": "Thủ tướng Lê Minh Hưng ủng hộ các doanh nghiệp hàng đầu của Mỹ đầu tư vào thị trường năng lượng và chuyển giao công nghệ tại Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T01:33:01+07:00",
+      "fetched": "2026-04-17T09:22:35.454407+07:00"
+    },
+    {
+      "id": "9df0a5113e93314de6664b3e7165297d",
+      "title": "Thủ tướng kêu gọi doanh nghiệp Mỹ đầu tư năng lượng, công nghệ",
+      "link": "https://vnexpress.net/thu-tuong-keu-goi-doanh-nghiep-my-dau-tu-nang-luong-cong-nghe-5063367.html",
+      "summary": "Thủ tướng Lê Minh Hưng ủng hộ các doanh nghiệp hàng đầu của Mỹ đầu tư vào thị trường năng lượng và chuyển giao công nghệ tại Việt Nam.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-17T01:33:01+07:00",
+      "fetched": "2026-04-17T09:22:46.285009+07:00"
+    },
+    {
+      "id": "0f44b3e634fec5b9e4dfc5c570f245ff",
+      "title": "Đã đến lúc mình ở bên nhau rồi anh nhỉ",
+      "link": "https://vnexpress.net/da-den-luc-minh-o-ben-nhau-roi-anh-nhi-5062894.html",
+      "summary": "Em nấu ăn ngon và là cô gái khá tự lập nhưng chưa bao giờ nghĩ đời mình sẽ không cần một người yêu, người chồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T01:32:47+07:00",
+      "fetched": "2026-04-17T09:22:35.454486+07:00"
+    },
+    {
+      "id": "2ae601dfa10cc54ceb11f15fefc0aa38",
+      "title": "Ông Medvedev dọa nhắm mục tiêu cơ sở sản xuất UAV cho Ukraine ở châu Âu",
+      "link": "https://vnexpress.net/ong-medvedev-doa-nham-muc-tieu-co-so-san-xuat-uav-cho-ukraine-o-chau-au-5063291.html",
+      "summary": "Phó chủ tịch Hội đồng An ninh Nga cảnh báo cơ sở chế tạo UAV cho Ukraine tại châu Âu sẽ được coi là \"mục tiêu tiềm năng\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-17T01:17:28+07:00",
+      "fetched": "2026-04-17T09:22:44.351731+07:00"
+    },
+    {
+      "id": "2c10bb080cc81a5f38074c4c4ee10e2a",
+      "title": "Đầu số viễn thông 1515 được đấu giá một tỷ đồng",
+      "link": "https://vnexpress.net/dau-so-vien-thong-1515-duoc-dau-gia-mot-ty-dong-5063392.html",
+      "summary": "Đầu số dịch vụ giải đáp thông tin 1515 được bán ở mức một tỷ đồng, trong phiên đấu giá quyền sử dụng mã, số viễn thông ngày 16/4.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-17T01:00:00+07:00",
+      "fetched": "2026-04-17T09:22:50.031994+07:00"
+    },
+    {
+      "id": "3f285508fe8858a583f4857392d8725c",
+      "title": "Giá dầu lên sát 100 USD",
+      "link": "https://vnexpress.net/gia-dau-len-sat-100-usd-5063437.html",
+      "summary": "Mỗi thùng Brent quanh 98 USD, tăng gần 5%, trong khi chỉ số S&P 500 và Nasdaq Composite lập kỷ lục phiên thứ hai liên tiếp.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-17T00:57:04+07:00",
+      "fetched": "2026-04-17T09:22:46.285168+07:00"
+    },
+    {
+      "id": "bad5f742f03319ec7ad38b09511e57c0",
+      "title": "40 nước sắp họp bàn về mở lại eo biển Hormuz",
+      "link": "https://vnexpress.net/40-nuoc-sap-hop-ban-ve-mo-lai-eo-bien-hormuz-5063428.html",
+      "summary": "Thủ tướng Anh và Tổng thống Pháp sẽ chủ trì cuộc họp với lãnh đạo từ khoảng 40 nước nhằm thảo luận về nỗ lực mở lại eo biển Hormuz.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-17T00:33:03+07:00",
+      "fetched": "2026-04-17T09:22:44.351898+07:00"
     },
     {
       "id": "aefee813a4305f204d2b9d88e2032d64",
@@ -241,6 +751,36 @@ window.newsData_2026_04_17 = {
       "category": "Tổng hợp",
       "published": "2026-04-17T00:11:23.833614+07:00",
       "fetched": "2026-04-17T00:11:23.833861+07:00"
+    },
+    {
+      "id": "0aa21ba881145ea7a1557294732b365d",
+      "title": "Messi mua một CLB ở Tây Ban Nha",
+      "link": "https://vnexpress.net/messi-mua-mot-clb-o-tay-ban-nha-5063427.html",
+      "summary": "Lionel Messi lần đầu sở hữu một đội bóng tại châu Âu khi mua lại Cornella, đội bóng đang thi đấu ở hạng Năm Tây Ban Nha, mở ra bước đi mới trong sự nghiệp ngoài sân cỏ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-16T23:45:54+07:00",
+      "fetched": "2026-04-17T09:22:51.098928+07:00"
+    },
+    {
+      "id": "2a6fb2ac7fe1b2dabc89a7ab8d02a6f6",
+      "title": "Ông Trump tuyên bố Iran 'đồng ý giao uranium đã làm giàu'",
+      "link": "https://vnexpress.net/ong-trump-tuyen-bo-iran-dong-y-giao-uranium-da-lam-giau-5063419.html",
+      "summary": "Tổng thống Trump nói thỏa thuận hòa bình giữa Washington và Tehran đang \"rất gần\", rằng Iran đồng ý bàn giao kho uranium đã làm giàu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-16T23:25:06+07:00",
+      "fetched": "2026-04-17T09:22:44.352059+07:00"
+    },
+    {
+      "id": "d981610823f499b5f8f567b3764c67f6",
+      "title": "Xác định hai cặp đấu bán kết Europa League",
+      "link": "https://vnexpress.net/xac-dinh-hai-cap-dau-ban-ket-europa-league-5063420.html",
+      "summary": "Aston Villa - Nottingham Forest và Braga - Freiburg là hai cặp bán kết được chờ đợi ở Europa League 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-16T22:53:05+07:00",
+      "fetched": "2026-04-17T09:22:51.098636+07:00"
     },
     {
       "id": "6584feaaa267b1f3c24da49fe5201b3c",
@@ -673,6 +1213,16 @@ window.newsData_2026_04_17 = {
       "fetched": "2026-04-17T02:07:47.582864+07:00"
     },
     {
+      "id": "008968d38af6afe350bb4581dd26d8e5",
+      "title": "Được đối thủ 'biếu bàn thắng' sau khi hỏng phạt đền",
+      "link": "https://vnexpress.net/duoc-doi-thu-bieu-ban-thang-sau-khi-hong-phat-den-5063150.html",
+      "summary": "Sebastian Ferreira sút hỏng phạt đền, nhưng vẫn kết thúc tình huống bằng bàn thắng nhờ sự giúp đỡ của đối thủ ở giải vô địch Paraguay.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-16T17:00:00+07:00",
+      "fetched": "2026-04-17T09:22:51.099187+07:00"
+    },
+    {
       "id": "f9d108d661e5da2945646d1a1b2be61c",
       "title": "Ông Trump: Israel và Lebanon chấp nhận ngừng bắn 10 ngày",
       "link": "https://vnexpress.net/ong-trump-israel-va-lebanon-chap-nhan-ngung-ban-10-ngay-5063399.html",
@@ -1021,6 +1571,16 @@ window.newsData_2026_04_17 = {
       "category": "Kinh doanh",
       "published": "2026-04-16T13:17:28+07:00",
       "fetched": "2026-04-17T00:11:26.363399+07:00"
+    },
+    {
+      "id": "d23fd5731ffaa0b849db43c45e54a59b",
+      "title": "Đề xuất không quy định cứng ngưỡng doanh thu miễn thuế với hộ kinh doanh",
+      "link": "https://vnexpress.net/de-xuat-khong-quy-dinh-cung-nguong-doanh-thu-mien-thue-voi-ho-kinh-doanh-5063271.html",
+      "summary": "Bộ Tài chính đề xuất Chính phủ quy định ngưỡng doanh thu miễn thuế thu nhập cá nhân, giá trị gia tăng của hộ kinh doanh, thay vì cố định 500 triệu đồng như hiện hành.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-16T13:17:28+07:00",
+      "fetched": "2026-04-17T09:22:46.285846+07:00"
     },
     {
       "id": "5f08c53f917b86f4704e341eb1a77540",
