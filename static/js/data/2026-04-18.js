@@ -1,7 +1,177 @@
 window.newsData_2026_04_18 = {
   "date": "2026-04-18",
-  "lastUpdated": "2026-04-18T05:35:45.382070+07:00",
+  "lastUpdated": "2026-04-18T09:05:37.794915+07:00",
   "articles": [
+    {
+      "id": "b642d94f91a9c11b05ab8e3c763f14d1",
+      "title": "Thời tiết hôm nay 18-4: Bắc Bộ và Bắc Trung Bộ mưa ngày; Nam Bộ nắng nóng, chiều mưa dông vài nơi",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-18-4-bac-bo-va-bac-trung-bo-mua-ngay-nam-bo-nang-nong-chieu-mua-dong-vai-noi-20260417181236929.htm",
+      "summary": "Hôm nay 18-4, nắng nóng tại miền Bắc đã dịu bớt sau nhiều trận mưa lớn. Miền Nam mưa chỉ lác đác vài nơi, người dân đang trông chờ một cơn mưa lớn giải nhiệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T09:05:28.900145+07:00",
+      "fetched": "2026-04-18T09:05:28.900232+07:00"
+    },
+    {
+      "id": "62db39b1fd573e9fe02e88a001b12f71",
+      "title": "Tin tức sáng 18-4: Hơn 100.000 ca tử vong mỗi năm do các bệnh liên quan đến khói thuốc",
+      "link": "https://tuoitre.vn/tin-tuc-sang-18-4-hon-100-000-ca-tu-vong-moi-nam-do-cac-benh-lien-quan-den-khoi-thuoc-20260417232118768.htm",
+      "summary": "Tin tức đáng chú ý: Hơn 100.000 ca tử vong mỗi năm do các bệnh liên quan đến khói thuốc; Đại tướng Nguyễn Trọng Nghĩa dự lễ khởi công trường học 49 tỉ đồng ở Đồng Tháp; Nối lại mạch máu, dây thần kinh cổ tay bị đứt lìa cho người dân tại Côn Đảo...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T09:05:28.900049+07:00",
+      "fetched": "2026-04-18T09:05:28.900137+07:00"
+    },
+    {
+      "id": "6346daf592e4d396b42f2af6602062aa",
+      "title": "Bầu Đức và giấc mơ lớn với bóng đá trẻ Việt Nam",
+      "link": "https://tuoitre.vn/bau-duc-va-giac-mo-lon-voi-bong-da-tre-viet-nam-20260417234636527.htm",
+      "summary": "Hơn 25 năm làm bóng đá, ông bầu Đoàn Nguyên Đức vẫn luôn chăm chút cho công tác đào tạo và phát triển bóng đá trẻ cho CLB Hoàng Anh Gia Lai lẫn cho bóng đá Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T09:05:28.899952+07:00",
+      "fetched": "2026-04-18T09:05:28.900040+07:00"
+    },
+    {
+      "id": "ab09ce92eba2a3592e1698a8aba71200",
+      "title": "Xóa bỏ rào cản cho người khuyết tật: Từ trợ giúp đến trao quyền",
+      "link": "https://tuoitre.vn/xoa-bo-rao-can-cho-nguoi-khuyet-tat-tu-tro-giup-den-trao-quyen-20260417233752813.htm",
+      "summary": "Xóa bỏ rào cản không chỉ là khẩu hiệu mà là yêu cầu thực chất, với cam kết không để ai bị bỏ lại phía sau, tạo điều kiện để người khuyết tật tự chủ và đóng góp cho xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T09:05:28.899854+07:00",
+      "fetched": "2026-04-18T09:05:28.899943+07:00"
+    },
+    {
+      "id": "9afc0294a37074f607fd758741ca1476",
+      "title": "Xuất cảnh trên 12 tháng để làm việc, có phải đăng ký tạm vắng không?",
+      "link": "https://tuoitre.vn/xuat-canh-tren-12-thang-de-lam-viec-co-phai-dang-ky-tam-vang-khong-20260417134043973.htm",
+      "summary": "Tôi có hộ khẩu thường trú. Khi xuất cảnh ra nước ngoài làm việc trên 12 tháng, tôi có cần đăng ký tạm vắng với công an địa phương không?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T09:05:28.899740+07:00",
+      "fetched": "2026-04-18T09:05:28.899844+07:00"
+    },
+    {
+      "id": "91ca7a8dd11c4d011a68868b1bbfa1a9",
+      "title": "Hà Việt Dũng và ký ức siêu mẫu bán nước mía kiếm sống",
+      "link": "https://tuoitre.vn/ha-viet-dung-va-ky-uc-sieu-mau-ban-nuoc-mia-kiem-song-20260418011923712.htm",
+      "summary": "Hành trình từ chàng trai miền sơn cước đến diễn viên quen mặt màn ảnh của Hà Việt Dũng là câu chuyện điển hình về nghị lực vượt khó.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T09:05:28.899642+07:00",
+      "fetched": "2026-04-18T09:05:28.899731+07:00"
+    },
+    {
+      "id": "2d7913765e5f20cab46cdc2af85ffe73",
+      "title": "Làm mới tủ đồ mùa hè với 7 xu hướng trang sức chiếm sóng sàn diễn",
+      "link": "https://tuoitre.vn/lam-moi-tu-do-mua-he-voi-7-xu-huong-trang-suc-chiem-song-san-dien-2026041722325176.htm",
+      "summary": "Các biểu tượng phong cách luôn xem trang sức không chỉ là phụ kiện, đó là nét chấm phá cuối cùng giúp tổng thể trở nên trọn vẹn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T09:05:28.899541+07:00",
+      "fetched": "2026-04-18T09:05:28.899634+07:00"
+    },
+    {
+      "id": "4c8db799cea8db82dd36123467dc9a6e",
+      "title": "Invincible mùa 4 bất ngờ 'tái hợp' hai giọng nói huyền thoại Transformers",
+      "link": "https://tuoitre.vn/invincible-mua-4-bat-ngo-tai-hop-hai-giong-noi-huyen-thoai-transformers-20260418003411758.htm",
+      "summary": "Tập áp chót của Invincible mùa 4 không chỉ đẩy cao cao trào cuộc chiến giữa Mark Grayson và đế chế Viltrumite, mà còn gây chú ý với một chi tiết ẩn liên quan đến Transformers - điểm nhấn thú vị dành cho những khán giả tinh ý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T09:05:28.899441+07:00",
+      "fetched": "2026-04-18T09:05:28.899533+07:00"
+    },
+    {
+      "id": "3099a4d30c869e9c4f8f5702326af564",
+      "title": "HYBE làm phim về K-pop, mời cả ngôi sao K-pop Demon Hunters đóng chính",
+      "link": "https://tuoitre.vn/hybe-lam-phim-ve-k-pop-moi-ca-ngoi-sao-k-pop-demon-hunters-dong-chinh-20260417205110405.htm",
+      "summary": "HYBE America chính thức công bố dự án điện ảnh K-pop Superstar: The Movie tại CinemaCon 2026. Phim có sự góp mặt của ngôi sao K-pop Demon Hunters và nhóm nhạc nữ KATSEYE.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T09:05:28.899336+07:00",
+      "fetched": "2026-04-18T09:05:28.899432+07:00"
+    },
+    {
+      "id": "6e6190d6e222561905d5351dde1c6579",
+      "title": "Lịch trực tiếp U17 Đông Nam Á ngày 18-4: Thái Lan đấu Lào",
+      "link": "https://tuoitre.vn/lich-truc-tiep-u17-dong-nam-a-ngay-18-4-thai-lan-dau-lao-20260417163508491.htm",
+      "summary": "U17 Thái Lan sẽ chạm trán U17 Lào ở lượt trận cuối vòng bảng Giải U17 Đông Nam Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T09:05:28.899226+07:00",
+      "fetched": "2026-04-18T09:05:28.899327+07:00"
+    },
+    {
+      "id": "a6614d72d33d17e423146ef64634e15c",
+      "title": "Tin tức thế giới 18-4: Mỹ nói đạt thỏa thuận với Iran 1-2 ngày tới; Giá dầu giảm sâu, gần 10%",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-18-4-my-noi-dat-thoa-thuan-voi-iran-1-2-ngay-toi-gia-dau-giam-sau-gan-10-20260418054921702.htm",
+      "summary": "Ukraine cảnh báo Nga có thể lôi kéo Belarus tham chiến trở lại; Ông Trump ra lệnh cấm Israel ném bom Lebanon.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T09:05:28.899101+07:00",
+      "fetched": "2026-04-18T09:05:28.899215+07:00"
+    },
+    {
+      "id": "9457d4a0e92484d226d998369f0726c7",
+      "title": "Lịch trực tiếp Giải bóng chuyền vô địch quốc gia ngày 18-4",
+      "link": "https://tuoitre.vn/lich-truc-tiep-giai-bong-chuyen-vo-dich-quoc-gia-ngay-18-4-20260418010304679.htm",
+      "summary": "Ngày 18-4, Giải bóng chuyền vô địch quốc gia các CLB 2026 sẽ chứng kiến màn đại chiến giữa VTV Bình Điền Long An và Binh Chủng Thông Tin.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T09:05:28.898852+07:00",
+      "fetched": "2026-04-18T09:05:28.899087+07:00"
+    },
+    {
+      "id": "153e0ca45cae9445d86e6ebf59b29940",
+      "title": "Mưa lớn trên 70 mm, cảnh báo 3 tỉnh nguy cơ lũ quét, sạt lở đất",
+      "link": "https://thanhnien.vn/mua-lon-tren-70-mm-canh-bao-3-tinh-nguy-co-lu-quet-sat-lo-dat-185260418073313785.htm",
+      "summary": "Mưa lớn trong sáng sớm hôm nay 18.4 ở một số nơi trên 70 mm. Trung tâm Dự báo khí tượng thủy văn quốc gia đã phát cảnh báo nguy cơ xảy ra lũ quét, sạt lở đất ở 3 tỉnh phía bắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T02:04:00+07:00",
+      "fetched": "2026-04-18T09:05:27.465424+07:00"
+    },
+    {
+      "id": "8122cd5a8d43026b52f43d2ba5792ef0",
+      "title": "Vì sao nên tránh sử dụng vali màu sắc sặc sỡ khi đi máy bay?",
+      "link": "https://thanhnien.vn/vi-sao-nen-tranh-su-dung-vali-mau-sac-sac-so-khi-di-may-bay-185260309151033294.htm",
+      "summary": "Một chiếc vali màu đỏ, xanh dương hoặc xanh lá cây có thể là lựa chọn nguy hiểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T02:03:00+07:00",
+      "fetched": "2026-04-18T09:05:27.465578+07:00"
+    },
+    {
+      "id": "5de1d9719af77eabfce9f0e5e997094b",
+      "title": "Giá USD hôm nay 18.4.2026: Xuống mức thấp nhất trong nhiều tuần",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-1842026-xuong-muc-thap-nhat-trong-nhieu-tuan-185260418083534348.htm",
+      "summary": "Giá USD trong ngân hàng thương mại giữ nguyên trong những ngày qua, trong khi đồng bạc xanh trên thị trường thế giới xuống mức thấp trong nhất nhiều tuần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T02:02:00+07:00",
+      "fetched": "2026-04-18T09:05:27.465713+07:00"
+    },
+    {
+      "id": "60526a567dceed123c7c4417d7f622fa",
+      "title": "Giá vàng hôm nay 18.4.2026: Bật tăng 1 triệu đồng khi eo biển Hormuz được lưu thông",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-1842026-bat-tang-1-trieu-dong-khi-eo-bien-hormuz-duoc-luu-thong-185260418082545028.htm",
+      "summary": "Giá vàng thế giới lẫn trong nước cùng tăng cao khi eo biển Hormuz được mở lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T02:02:00+07:00",
+      "fetched": "2026-04-18T09:05:27.465859+07:00"
+    },
+    {
+      "id": "a1d5d2e380781cfaa25d9d3fc19c426e",
+      "title": "Nhiều công việc có thu nhập từ 15 - 30 triệu đồng/tháng đang cần tuyển",
+      "link": "https://thanhnien.vn/nhieu-cong-viec-co-thu-nhap-tu-15-30-trieu-dong-thang-dang-can-tuyen-185260417171625703.htm",
+      "summary": "Nhiều doanh nghiệp đưa ra hàng loạt việc làm lương cao cho người lao động. Có vị trí thu nhập lên tới hàng chục triệu đồng mỗi tháng nếu ứng viên đủ năng lực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T02:00:00+07:00",
+      "fetched": "2026-04-18T09:05:27.465995+07:00"
+    },
     {
       "id": "4268b0535c0aef5e6a624da5f15ebe5b",
       "title": "Đặt nguyện vọng vào lớp 10 Hà Nội: Sát giờ chót vẫn 'tim đập chân run'",
@@ -151,6 +321,386 @@ window.newsData_2026_04_18 = {
       "category": "Tổng hợp",
       "published": "2026-04-18T01:56:14.396239+07:00",
       "fetched": "2026-04-18T01:56:14.396462+07:00"
+    },
+    {
+      "id": "bdd80f67a312d569f78dd09083525929",
+      "title": "Sức ép kinh tế có thể thúc đẩy Iran mở lại Hormuz",
+      "link": "https://vnexpress.net/suc-ep-kinh-te-co-the-thuc-day-iran-mo-lai-hormuz-5063135.html",
+      "summary": "Thiệt hại từ xung đột và vòng phong tỏa của Mỹ nhiều khả năng đã thúc đẩy Iran nhượng bộ, mở lại eo biển Hormuz để cứu vãn nền kinh tế, theo các chuyên gia.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-18T01:43:08+07:00",
+      "fetched": "2026-04-18T09:05:30.665216+07:00"
+    },
+    {
+      "id": "3d745defae3a3515db0513c1bffa8e59",
+      "title": "Hai bệnh viện ở TP.HCM phối hợp phẫu thuật ca ung thư cổ tử cung tái phát",
+      "link": "https://thanhnien.vn/hai-benh-vien-o-tphcm-phoi-hop-phau-thuat-ca-ung-thu-co-tu-cung-tai-phat-185260417201613136.htm",
+      "summary": "Bệnh viện Ung bướu TP.HCM phối hợp Bệnh viện Nhân dân Gia Định vừa phẫu thuật thành công cho một bệnh nhân ung thư cổ tử cung tái phát.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T01:42:00+07:00",
+      "fetched": "2026-04-18T09:05:27.466118+07:00"
+    },
+    {
+      "id": "ec33216209891e33081c573f55ec5417",
+      "title": "Các đội tuyển châu Á biến động lớn trước World Cup, cựu HLV đội Nam Định bị sa thải",
+      "link": "https://thanhnien.vn/cac-doi-tuyen-chau-a-bien-dong-lon-truoc-world-cup-cuu-hlv-doi-nam-dinh-bi-sa-thai-185260418082440154.htm",
+      "summary": "Ả Rập Xê Út trở thành đội đầu tiên gây bất ngờ khi sa thải HLV Herve Renard chỉ chưa đầy hai tháng trước khi World Cup 2026 khởi tranh, trong khi đó đội tuyển Nhật Bản bổ sung chuyên gia sút phạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T01:30:00+07:00",
+      "fetched": "2026-04-18T09:05:27.466240+07:00"
+    },
+    {
+      "id": "d5a85a3933373147612b682cb7f65520",
+      "title": "Loại chấn thương bất ngờ với người chơi pickleball lớn tuổi",
+      "link": "https://thanhnien.vn/loai-chan-thuong-bat-ngo-voi-nguoi-choi-pickleball-lon-tuoi-185260415185151723.htm",
+      "summary": "Tổn thương mắt liên quan đến môn pickleball hiện đang gia tăng ở Mỹ, theo một nghiên cứu được công bố trên tạp chí khoa học Nature.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T01:29:00+07:00",
+      "fetched": "2026-04-18T09:05:27.466363+07:00"
+    },
+    {
+      "id": "252e2ae1355ac863396a087c5da1dba6",
+      "title": "Đột kích 'điểm nóng' khai thác vàng trái phép ở Đà Nẵng",
+      "link": "https://thanhnien.vn/dot-kich-diem-nong-khai-thac-vang-trai-phep-o-da-nang-185260418072440963.htm",
+      "summary": "Lực lượng chức năng thành phố Đà Nẵng vừa phát hiện nhiều hầm vàng cùng hàng trăm ký quặng, máy móc chôn giấu tinh vi. Vụ việc hé lộ dấu hiệu tổ chức khai thác vàng trái phép quy mô, hoạt động chủ yếu vào ban đêm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T01:25:00+07:00",
+      "fetched": "2026-04-18T09:05:27.466489+07:00"
+    },
+    {
+      "id": "01483edc64e7efba169292647f439191",
+      "title": "Bằng Cường: NSƯT Hoài Linh không còn quan trọng cát sê",
+      "link": "https://thanhnien.vn/bang-cuong-nsut-hoai-linh-khong-con-quan-trong-cat-se-185260418012315582.htm",
+      "summary": "Ca sĩ Bằng Cường tổ chức đêm nhạc 'Yêu đời ta hát' đánh dấu cột mốc 25 năm trong sự nghiệp. Đáng chú ý, nam ca sĩ tiết lộ NSƯT Hoài Linh nhận lời tham gia không vì cát sê, mà xuất phát từ tình cảm dành cho đàn em và sự trân trọng với giá trị nghề nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T01:25:00+07:00",
+      "fetched": "2026-04-18T09:05:27.466609+07:00"
+    },
+    {
+      "id": "255dd4244caefca31482e941256062fe",
+      "title": "Nhật Bản nới lỏng xuất khẩu vũ khí, khách hàng tiềm năng lộ diện",
+      "link": "https://thanhnien.vn/nhat-ban-noi-long-xuat-khau-vu-khi-khach-hang-tiem-nang-lo-dien-185260417124343067.htm",
+      "summary": "Lo ngại trước những động thái của Tổng thống Mỹ Donald Trump, các đồng minh của Mỹ đang theo dõi sát sao đợt mở cửa lớn nhất của thị trường vũ khí Nhật Bản kể từ Thế chiến thứ 2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T01:24:00+07:00",
+      "fetched": "2026-04-18T09:05:27.466730+07:00"
+    },
+    {
+      "id": "5865769b4317a84b95dfe52eda61fe4f",
+      "title": "Loạt nước sẵn sàng tham gia bảo vệ tuyến hàng hải Hormuz",
+      "link": "https://thanhnien.vn/loat-nuoc-san-sang-tham-gia-bao-ve-tuyen-hang-hai-hormuz-185260418075537568.htm",
+      "summary": "Hơn chục quốc gia ngày 17.4 tuyên bố sẵn sàng tham gia một sứ mệnh quốc tế nhằm bảo vệ hoạt động vận chuyển hàng hải tại eo biển Hormuz khi điều kiện cho phép.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T01:21:00+07:00",
+      "fetched": "2026-04-18T09:05:27.466865+07:00"
+    },
+    {
+      "id": "ece6fe7749acd7ce3ff29b103f9a2593",
+      "title": "Vân Sơn nói gì khi làm chồng Lê Khánh trên màn ảnh rộng?",
+      "link": "https://thanhnien.vn/van-son-noi-gi-khi-lam-chong-le-khanh-tren-man-anh-rong-18526041723202847.htm",
+      "summary": "Nghệ sĩ Vân Sơn chia sẻ cơ duyên nhận lời đóng phim điện ảnh ‘Đại tiệc trăng máu 8’, đồng thời bày tỏ sự ngưỡng mộ với dàn diễn viên, đặc biệt là Lê Khánh và đạo diễn Charlie Nguyễn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T01:18:00+07:00",
+      "fetched": "2026-04-18T09:05:27.466987+07:00"
+    },
+    {
+      "id": "18d3336f05d9b499b83ab2835ab98f23",
+      "title": "Ông Trump nói sẽ đưa uranium của Iran sang Mỹ, Tehran bác bỏ",
+      "link": "https://thanhnien.vn/ong-trump-noi-se-dua-uranium-cua-iran-sang-my-tehran-bac-bo-185260418073640709.htm",
+      "summary": "Tổng thống Donald Trump cho biết vật liệu hạt nhân của Iran sẽ được đưa sang Mỹ, trong khi Tehran bác bỏ và đe dọa phong tỏa eo biển Hormuz nếu các cảng của Iran tiếp tục bị tấn công.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T01:15:00+07:00",
+      "fetched": "2026-04-18T09:05:27.467109+07:00"
+    },
+    {
+      "id": "2ca318173beff3d677b01618538d791e",
+      "title": "Đã xác thực SIM chính chủ, có cần xác nhận trên VNeID?",
+      "link": "https://vnexpress.net/da-xac-thuc-sim-chinh-chu-co-can-xac-nhan-tren-vneid-5063635.html",
+      "summary": "Số điện thoại của tôi đã được nhà mạng xác thực, gắn với CCCD, tôi có cần xác nhận trên VNeID nữa không?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T01:00:00+07:00",
+      "fetched": "2026-04-18T09:05:24.050919+07:00"
+    },
+    {
+      "id": "71f4e4b9c95035072d3d4b8740f27d5c",
+      "title": "Thanh niên kêu trời vì câu được cua biển khổng lồ",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-thanh-nien-keu-troi-vi-cau-duoc-cua-bien-khong-lo-5063589.html",
+      "summary": "Thấy cần câu rung mạnh, thanh niên vội chạy ra kiểm tra và bất ngờ khi kéo lên một con cua biển khổng lồ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T01:00:00+07:00",
+      "fetched": "2026-04-18T09:05:24.051084+07:00"
+    },
+    {
+      "id": "6284fc7eb733f60c9af4f65bc45a3818",
+      "title": "Vinhomes tung gói hỗ trợ lãi suất mua nhà tối đa 6% một năm",
+      "link": "https://vnexpress.net/vinhomes-tung-goi-ho-tro-lai-suat-mua-nha-toi-da-6-mot-nam-5063912.html",
+      "summary": "Vinhomes áp dụng mức lãi suất đến 6% mỗi năm trong 5 năm cho người mua nhà từ 20/4 đến 20/7, đồng thời mở rộng ưu đãi với các giao dịch trước đó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T01:00:00+07:00",
+      "fetched": "2026-04-18T09:05:24.051223+07:00"
+    },
+    {
+      "id": "a1340f9d21d7ae0f3b1c9cf0c2c47ebc",
+      "title": "Trục ven sông mở không gian phát triển đô thị Đông Bắc TP HCM",
+      "link": "https://vnexpress.net/truc-ven-song-mo-khong-gian-phat-trien-do-thi-dong-bac-tp-hcm-5063910.html",
+      "summary": "Ven sông Sài Gòn trở thành khu vực phát triển đô thị mới, nơi kết hợp không gian sống, tiện ích và kết nối thuận tiện, đáp ứng nhu cầu ở thực tại khu Đông Bắc TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T01:00:00+07:00",
+      "fetched": "2026-04-18T09:05:24.051368+07:00"
+    },
+    {
+      "id": "65145a4bb6d3935d2af68afdeab3b505",
+      "title": "4 quan niệm chưa đúng về suy tim",
+      "link": "https://vnexpress.net/4-quan-niem-chua-dung-ve-suy-tim-5063703.html",
+      "summary": "Suy tim giống nhồi máu cơ tim, tình trạng này không xảy ra đột ngột, không có cách chữa khỏi bệnh là những cách hiểu chưa đúng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T01:00:00+07:00",
+      "fetched": "2026-04-18T09:05:24.051500+07:00"
+    },
+    {
+      "id": "f29b10f833edc27817cde79b2030f554",
+      "title": "Sinh viên làm các thức uống hấp dẫn từ sa kê",
+      "link": "https://thanhnien.vn/sinh-vien-lam-cac-thuc-uong-hap-dan-tu-sa-ke-185260417223555481.htm",
+      "summary": "Bằng sự sáng tạo và khéo léo, một nhóm sinh viên ở Cần Thơ đã \"hô biến\" phần lá và trái sa kê thành những thức uống hấp dẫn để nâng tầm giá trị loài cây này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T01:00:00+07:00",
+      "fetched": "2026-04-18T09:05:27.467233+07:00"
+    },
+    {
+      "id": "2ca318173beff3d677b01618538d791e",
+      "title": "Đã xác thực SIM chính chủ, có cần xác nhận trên VNeID?",
+      "link": "https://vnexpress.net/da-xac-thuc-sim-chinh-chu-co-can-xac-nhan-tren-vneid-5063635.html",
+      "summary": "Số điện thoại của tôi đã được nhà mạng xác thực, gắn với CCCD, tôi có cần xác nhận trên VNeID nữa không?",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-18T01:00:00+07:00",
+      "fetched": "2026-04-18T09:05:35.830835+07:00"
+    },
+    {
+      "id": "bc3763e7ea4bf9521239d8d00a4eb0cd",
+      "title": "Tỷ lệ chọi lớp 10 công lập ở Hà Nội cao nhất 1/3,36",
+      "link": "https://vnexpress.net/ty-le-choi-lop-10-o-120-truong-thpt-cong-lap-cua-ha-noi-cao-nhat-1-3-36-5063922.html",
+      "summary": "Tỷ lệ chọi lớp 10 ở Hà Nội đã vượt 1/3, nhóm có mức cạnh tranh dưới 1 gần như không còn, trong mùa thi mà số suất học công lập chỉ đạt 55% - thấp nhất thập kỷ qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T00:56:26+07:00",
+      "fetched": "2026-04-18T09:05:24.051635+07:00"
+    },
+    {
+      "id": "04d5fd8fca25b2bab9f17e6796223a7a",
+      "title": "Loạt tàu ngần ngại qua eo biển Hormuz sau thông báo mở cửa",
+      "link": "https://vnexpress.net/loat-tau-ngan-ngai-qua-eo-bien-hormuz-sau-thong-bao-mo-cua-5063931.html",
+      "summary": "Nhiều tàu hàng chưa sẵn sàng đi qua eo biển Hormuz sau khi Iran mở cửa, dường như do lo ngại thủy lôi và thiếu hướng dẫn an toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T00:54:11+07:00",
+      "fetched": "2026-04-18T09:05:24.051776+07:00"
+    },
+    {
+      "id": "04d5fd8fca25b2bab9f17e6796223a7a",
+      "title": "Loạt tàu ngần ngại qua eo biển Hormuz sau thông báo mở cửa",
+      "link": "https://vnexpress.net/loat-tau-ngan-ngai-qua-eo-bien-hormuz-sau-thong-bao-mo-cua-5063931.html",
+      "summary": "Nhiều tàu hàng chưa sẵn sàng đi qua eo biển Hormuz sau khi Iran mở cửa, dường như do lo ngại thủy lôi và thiếu hướng dẫn an toàn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-18T00:54:11+07:00",
+      "fetched": "2026-04-18T09:05:30.665370+07:00"
+    },
+    {
+      "id": "886b31cdb9d39766c867af67e1715ae7",
+      "title": "Pha đánh lái cứu mạng người đi bộ trong đêm",
+      "link": "https://vnexpress.net/pha-danh-lai-cuu-mang-nguoi-di-bo-trong-dem-5063755.html",
+      "summary": "Tại quốc lộ không đèn, lái xe bị lóa mắt do đèn pha ôtô đối diện ngay khi có người đi bộ sang đường, hôm 16/4 tại Phùng Khắc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T00:34:00+07:00",
+      "fetched": "2026-04-18T09:05:24.051919+07:00"
+    },
+    {
+      "id": "806717246eadabc2aaadbe1565463aa1",
+      "title": "Iran dọa tiếp tục đóng eo biển Hormuz",
+      "link": "https://vnexpress.net/iran-doa-tiep-tuc-dong-eo-bien-hormuz-5063930.html",
+      "summary": "Chủ tịch Quốc hội Iran cảnh báo nước này sẽ đóng cửa eo biển Hormuz một lần nữa nếu Mỹ duy trì chiến dịch phong tỏa cảng biển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T00:22:52+07:00",
+      "fetched": "2026-04-18T09:05:24.052057+07:00"
+    },
+    {
+      "id": "806717246eadabc2aaadbe1565463aa1",
+      "title": "Iran dọa tiếp tục đóng eo biển Hormuz",
+      "link": "https://vnexpress.net/iran-doa-tiep-tuc-dong-eo-bien-hormuz-5063930.html",
+      "summary": "Chủ tịch Quốc hội Iran cảnh báo nước này sẽ đóng cửa eo biển Hormuz một lần nữa nếu Mỹ duy trì chiến dịch phong tỏa cảng biển.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-18T00:22:52+07:00",
+      "fetched": "2026-04-18T09:05:30.665509+07:00"
+    },
+    {
+      "id": "dc121f6ca84ebad56442084f85e21d95",
+      "title": "Hãng bay có 'giường ngủ hạng phổ thông' đầu tiên trên thế giới",
+      "link": "https://vnexpress.net/hang-bay-co-giuong-ngu-hang-pho-thong-dau-tien-tren-the-gioi-5063921.html",
+      "summary": "Hãng Air New Zealandra mắt mô hình \"giường ngủ hạng phổ thông\" đầu tiên trên thế giới, mang đến lựa chọn nghỉ ngơi riêng tư cho hành khách trên các chuyến bay đường dài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T00:00:00+07:00",
+      "fetched": "2026-04-18T09:05:24.052237+07:00"
+    },
+    {
+      "id": "c2ac62bccd2aa2be53714471333b4d93",
+      "title": "AI Grok tiếp tục bị phát hiện tạo ảnh khiêu dâm",
+      "link": "https://vnexpress.net/ai-grok-tiep-tuc-bi-phat-hien-tao-anh-khieu-dam-5063064.html",
+      "summary": "Chatbot Grok của Elon Musk vẫn tạo nội dung mang tính chất khiêu dâm, tình dục hóa bất chấp cam kết của ông và xAI cách đây vài tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T00:00:00+07:00",
+      "fetched": "2026-04-18T09:05:24.052410+07:00"
+    },
+    {
+      "id": "e2ce90930ab1c0e0fad24c7fe93b282d",
+      "title": "Các sai lầm khiến xe trượt tự do trên vũng nước",
+      "link": "https://vnexpress.net/cac-sai-lam-khien-xe-truot-tu-do-tren-vung-nuoc-5063644.html",
+      "summary": "Giữ tốc độ cao, phanh gấp, đánh lái đột ngột hay lốp mòn là những lỗi phổ biến khiến xe dễ mất kiểm soát trên mặt đường trơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T00:00:00+07:00",
+      "fetched": "2026-04-18T09:05:24.052559+07:00"
+    },
+    {
+      "id": "c2ac62bccd2aa2be53714471333b4d93",
+      "title": "AI Grok tiếp tục bị phát hiện tạo ảnh khiêu dâm",
+      "link": "https://vnexpress.net/ai-grok-tiep-tuc-bi-phat-hien-tao-anh-khieu-dam-5063064.html",
+      "summary": "Chatbot Grok của Elon Musk vẫn tạo nội dung mang tính chất khiêu dâm, tình dục hóa bất chấp cam kết của ông và xAI cách đây vài tháng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-18T00:00:00+07:00",
+      "fetched": "2026-04-18T09:05:35.831272+07:00"
+    },
+    {
+      "id": "fbdfeb0557a0cb246b32252efa69f7a4",
+      "title": "Mỹ, Iran ra tuyên bố trái ngược về kho uranium làm giàu",
+      "link": "https://vnexpress.net/my-iran-ra-tuyen-bo-trai-nguoc-ve-kho-uranium-lam-giau-5063927.html",
+      "summary": "Ông Trump tuyên bố Mỹ sẽ tiếp nhận số uranium của Iran và đưa về nước, trong khi Tehran khẳng định chúng \"sẽ không được chuyển giao\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T23:55:51+07:00",
+      "fetched": "2026-04-18T09:05:24.052715+07:00"
+    },
+    {
+      "id": "fbdfeb0557a0cb246b32252efa69f7a4",
+      "title": "Mỹ, Iran ra tuyên bố trái ngược về kho uranium làm giàu",
+      "link": "https://vnexpress.net/my-iran-ra-tuyen-bo-trai-nguoc-ve-kho-uranium-lam-giau-5063927.html",
+      "summary": "Ông Trump tuyên bố Mỹ sẽ tiếp nhận số uranium của Iran và đưa về nước, trong khi Tehran khẳng định chúng \"sẽ không được chuyển giao\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-17T23:55:51+07:00",
+      "fetched": "2026-04-18T09:05:30.665640+07:00"
+    },
+    {
+      "id": "fd40b4e34233ba9bec9bdbbc013c4461",
+      "title": "Vì sao mưa đá, giông lốc liên tiếp xuất hiện ở miền Bắc?",
+      "link": "https://vnexpress.net/vi-sao-mua-da-giong-loc-lien-tiep-xuat-hien-o-mien-bac-5063924.html",
+      "summary": "Mưa đá, giông lốc liên tiếp là hệ quả khi khối khí nóng ẩm tương tác mạnh với không khí lạnh cuối mùa, tạo mây đối lưu khổng lồ trút băng xuống mặt đất, hiện tượng được dự báo gia tăng do biến đổi khí hậu, theo chuyên gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T23:41:57+07:00",
+      "fetched": "2026-04-18T09:05:24.052914+07:00"
+    },
+    {
+      "id": "4bcc84d03aaa0ac484294755d08bd570",
+      "title": "Cơn đại địa chấn của làng cờ tướng Trung Quốc",
+      "link": "https://vnexpress.net/con-dai-dia-chan-cua-lang-co-tuong-trung-quoc-5063724.html",
+      "summary": "Ba đợt công bố kỷ luật trong vòng chưa đầy hai năm đã tạo nên một cơn địa chấn chưa từng có trong lịch sử cờ tướng Trung Quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-17T23:37:36+07:00",
+      "fetched": "2026-04-18T09:05:24.053087+07:00"
+    },
+    {
+      "id": "4bcc84d03aaa0ac484294755d08bd570",
+      "title": "Cơn đại địa chấn của làng cờ tướng Trung Quốc",
+      "link": "https://vnexpress.net/con-dai-dia-chan-cua-lang-co-tuong-trung-quoc-5063724.html",
+      "summary": "Ba đợt công bố kỷ luật trong vòng chưa đầy hai năm đã tạo nên một cơn địa chấn chưa từng có trong lịch sử cờ tướng Trung Quốc.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-17T23:37:36+07:00",
+      "fetched": "2026-04-18T09:05:37.788830+07:00"
+    },
+    {
+      "id": "eb2c3169be2627cab0272c24242a3d8b",
+      "title": "Tiger Woods tìm cách che giấu hồ sơ thuốc",
+      "link": "https://vnexpress.net/tiger-woods-tim-cach-che-giau-ho-so-thuoc-5063865.html",
+      "summary": "Các công tố viên đã tìm cách tiếp cận hồ sơ thuốc kê đơn của golfer huyền thoại Tiger Woods sau vụ gây tai nạn giao thông, trong khi phía luật sư phản đối với lý do quyền riêng tư.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-17T23:35:05+07:00",
+      "fetched": "2026-04-18T09:05:37.789509+07:00"
+    },
+    {
+      "id": "477a5af45cfa39f8edc4cfeb59a75173",
+      "title": "Guardiola: 'Mọi chuyện kết thúc nếu Man City thua'",
+      "link": "https://vnexpress.net/guardiola-moi-chuyen-ket-thuc-neu-man-city-thua-5063901.html",
+      "summary": "Trước cuộc đại chiến ở vòng 33 tuần này, HLV Pep Guardiola khẳng định Man City sẽ hết cửa vô địch Ngoại hạng Anh nếu thua Arsenal.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-17T23:26:41+07:00",
+      "fetched": "2026-04-18T09:05:37.788987+07:00"
+    },
+    {
+      "id": "a24485baca8a39c505ceb7aedbd22438",
+      "title": "10 năm trắng tay của Mbappe ở Champions League",
+      "link": "https://vnexpress.net/10-nam-trang-tay-cua-mbappe-o-champions-league-5063908.html",
+      "summary": "Sau một thập kỷ chinh chiến, Kylian Mbappe vẫn chưa thể chạm tay vào danh hiệu Champions League, trong khi đội bóng cũ PSG đứng trước cơ hội đăng quang lần thứ hai liên tiếp.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-17T23:14:20+07:00",
+      "fetched": "2026-04-18T09:05:37.789123+07:00"
+    },
+    {
+      "id": "89c480d8d6a528138626df5c164d09aa",
+      "title": "Arteta phủ nhận khả năng cầu hòa Man City",
+      "link": "https://vnexpress.net/arteta-phu-nhan-kha-nang-cau-hoa-man-city-5063909.html",
+      "summary": "HLV Mikel Arteta khẳng định Arsenal sẽ hướng đến chiến thắng khi làm khách của Man City ở vòng 33 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-17T23:04:35+07:00",
+      "fetched": "2026-04-18T09:05:37.789254+07:00"
+    },
+    {
+      "id": "d96e86dec81f014c0aafe7fbe24f999b",
+      "title": "Nạn nhân của tinh tinh trở thành nhà vô địch đấu vật",
+      "link": "https://vnexpress.net/nan-nhan-cua-tinh-tinh-tro-thanh-nha-vo-dich-dau-vat-5063675.html",
+      "summary": "12 năm sau khi bị đàn tinh tinh tấn công khiến khuôn mặt biến dạng, Dunia Sibomana-Rodriguez trở thành nhà vô địch đấu vật cấp trung học.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-17T22:50:24+07:00",
+      "fetched": "2026-04-18T09:05:37.789632+07:00"
+    },
+    {
+      "id": "57705c9bc6a74689518a0fba97678bf6",
+      "title": "Kỳ thủ Khương Duy sắp giành thêm chuẩn Đại kiện tướng",
+      "link": "https://vnexpress.net/ky-thu-khuong-duy-sap-gianh-them-chuan-dai-kien-tuong-5063878.html",
+      "summary": "Kỳ thủ 15 tuổi Đầu Khương Duy dẫn đầu sau bảy vòng giải cờ vua Bangkok Mở rộng, tiến sát chuẩn Đại kiện tướng thứ hai.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-17T22:33:11+07:00",
+      "fetched": "2026-04-18T09:05:37.789382+07:00"
     },
     {
       "id": "d241799b59d414cd71136ba72ce92d74",
