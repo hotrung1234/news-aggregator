@@ -1,6 +1,6 @@
 window.newsData_2026_04_19 = {
   "date": "2026-04-19",
-  "lastUpdated": "2026-04-19T01:43:49.747829+07:00",
+  "lastUpdated": "2026-04-19T03:33:36.196959+07:00",
   "articles": [
     {
       "id": "86918f45455bd0679f0ec51a77abf437",
@@ -153,6 +153,36 @@ window.newsData_2026_04_19 = {
       "fetched": "2026-04-19T01:43:42.979195+07:00"
     },
     {
+      "id": "05a3e44bf534fc5d604c6e6072f09114",
+      "title": "Thịt tươi và thịt đông lạnh: Loại nào giữ dinh dưỡng tốt hơn?",
+      "link": "https://thanhnien.vn/thit-tuoi-va-thit-dong-lanh-loai-nao-giu-dinh-duong-tot-hon-185260418000611907.htm",
+      "summary": "Trong suy nghĩ của nhiều người, thịt tươi thường được xem là lựa chọn tốt hơn so với thịt đông lạnh vì cảm giác tự nhiên, mềm và ngon hơn. Nhưng dưới góc độ khoa học dinh dưỡng, vấn đề này không đơn giản như vậy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T20:20:00+07:00",
+      "fetched": "2026-04-19T03:33:27.810809+07:00"
+    },
+    {
+      "id": "382b02246b8ba64fe9abb8401a39fb06",
+      "title": "Rơi chiến thắng phút bù, Tottenham ngụp lặn trong nhóm đèn đỏ",
+      "link": "https://vnexpress.net/roi-chien-thang-phut-bu-tottenham-ngup-lan-trong-nhom-den-do-5064199.html",
+      "summary": "Tottenham vẫn chưa thể thoát khỏi nhóm xuống hạng sau khi bị đội khách Brighton cầm hòa 2-2 với bàn quyết định ở phút 95, vòng 33 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T19:23:22+07:00",
+      "fetched": "2026-04-19T03:33:24.872059+07:00"
+    },
+    {
+      "id": "382b02246b8ba64fe9abb8401a39fb06",
+      "title": "Rơi chiến thắng phút bù, Tottenham ngụp lặn trong nhóm đèn đỏ",
+      "link": "https://vnexpress.net/roi-chien-thang-phut-bu-tottenham-ngup-lan-trong-nhom-den-do-5064199.html",
+      "summary": "Tottenham vẫn chưa thể thoát khỏi nhóm xuống hạng sau khi bị đội khách Brighton cầm hòa 2-2 với bàn quyết định ở phút 95, vòng 33 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-18T19:23:22+07:00",
+      "fetched": "2026-04-19T03:33:36.192545+07:00"
+    },
+    {
       "id": "150feec0ca4bf15e4d1ca4f3763eb5d4",
       "title": "Kiều hối chuyển về TP HCM giảm mạnh đầu năm",
       "link": "https://vnexpress.net/kieu-hoi-chuyen-ve-tp-hcm-giam-manh-dau-nam-5064192.html",
@@ -171,6 +201,16 @@ window.newsData_2026_04_19 = {
       "category": "Thế giới",
       "published": "2026-04-18T18:00:00+07:00",
       "fetched": "2026-04-19T01:43:44.162835+07:00"
+    },
+    {
+      "id": "4ab72ea917a5a42ba4d2b4d47503df10",
+      "title": "Lợi ích sức khỏe của omega-3",
+      "link": "https://vnexpress.net/loi-ich-suc-khoe-cua-omega-3-5063712.html",
+      "summary": "Omega-3 là nhóm axit béo thiết yếu mà cơ thể không thể tự tổng hợp, đóng vai trò quan trọng đối với tim mạch, não bộ, thị lực và làn da",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-18T18:00:00+07:00",
+      "fetched": "2026-04-19T03:33:24.872497+07:00"
     },
     {
       "id": "ddd2e054dbb06c6960f8090cb19598e2",
