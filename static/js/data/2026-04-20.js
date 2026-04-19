@@ -1,7 +1,37 @@
 window.newsData_2026_04_20 = {
   "date": "2026-04-20",
-  "lastUpdated": "2026-04-20T01:44:36.536115+07:00",
+  "lastUpdated": "2026-04-20T03:34:21.757995+07:00",
   "articles": [
+    {
+      "id": "a25eb697b7271535d3abc48fc2cc9d60",
+      "title": "Chung kết FVPL Spring 2026 tìm được nhà tân vô địch",
+      "link": "https://tuoitre.vn/chung-ket-fvpl-spring-2026-tim-duoc-nha-tan-vo-dich-20260420010315016.htm",
+      "summary": "FPT Polytechnic từ vị thế nhánh thua đã vượt qua những thế lực như đương kim vô địch NK, TKO và đối thủ trong trận chung kết - SGLX để chạm tay vào chức vô địch đầu tiên trong lịch sử.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T03:34:12.689824+07:00",
+      "fetched": "2026-04-20T03:34:12.689929+07:00"
+    },
+    {
+      "id": "b4e1a08eb4b4dbe097ee396ae7e96e2e",
+      "title": "Gục ngã ở Etihad, Arsenal chỉ còn hơn Man City 3 điểm",
+      "link": "https://tuoitre.vn/guc-nga-o-etihad-arsenal-chi-con-hon-man-city-3-diem-20260420011641257.htm",
+      "summary": "Rạng sáng 20-4, chủ nhà Man City đã đánh bại Arsenal 2-1 trên sân Etihad ở vòng 33 Giải ngoại hạng Anh (Premier League), qua đó đe dọa ngôi đầu bảng của đối thủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T03:34:12.689698+07:00",
+      "fetched": "2026-04-20T03:34:12.689814+07:00"
+    },
+    {
+      "id": "65937ea3694ee1f9d6b4af0b85c38bbe",
+      "title": "Công An TP.HCM vô địch bóng chuyền nam Đại hội TDTT thành phố",
+      "link": "https://tuoitre.vn/cong-an-tp-hcm-vo-dich-bong-chuyen-nam-dai-hoi-tdtt-thanh-pho-20260420012637816.htm",
+      "summary": "Tối 19-4, đội Công An TP.HCM đã trở thành nhà vô địch bóng chuyền nam Đại hội Thể dục thể thao TP.HCM 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T03:34:12.689462+07:00",
+      "fetched": "2026-04-20T03:34:12.689684+07:00"
+    },
     {
       "id": "7cebff44180963923489b1d238417c88",
       "title": "Ông Trump tố Iran 'vi phạm hoàn toàn' thỏa thuận ngừng bắn",
@@ -151,6 +181,36 @@ window.newsData_2026_04_20 = {
       "category": "Tổng hợp",
       "published": "2026-04-20T01:44:29.683083+07:00",
       "fetched": "2026-04-20T01:44:29.683323+07:00"
+    },
+    {
+      "id": "6904d53462feabe87c7ae4999356e046",
+      "title": "Sôi động cuộc đua xe đạp quanh Thành cổ",
+      "link": "https://thanhnien.vn/soi-dong-cuoc-dua-xe-dap-quanh-thanh-co-185260419195705211.htm",
+      "summary": "Từ vùng đất từng khắc ghi những năm tháng chiến tranh khốc liệt, Thành cổ Quảng Trị rộn ràng nhịp bánh xe tại giải đua xe đạp 'Chung tay kiến tạo hòa bình' năm 2026. Sự kiện mở ra một ngày hội thể thao sôi động, đồng thời lan tỏa mạnh mẽ thông điệp về hòa bình, kết nối và phát triển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T19:35:00+07:00",
+      "fetched": "2026-04-20T03:34:11.644652+07:00"
+    },
+    {
+      "id": "99e8ec987497b3fdf41bc22bc6b0a586",
+      "title": "Nạn đục trộm bình xăng ở Mỹ khi giá nhiên liệu tăng",
+      "link": "https://vnexpress.net/nan-duc-trom-binh-xang-o-my-khi-gia-nhien-lieu-tang-5064260.html",
+      "summary": "Chỉ với những dụng cụ đơn giản, kẻ trộm có thể khoan thủng bình xăng rồi rút nhiên liệu, khiến chủ xe phải gánh những khoản sửa chữa tốn kém.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-19T19:00:00+07:00",
+      "fetched": "2026-04-20T03:34:08.331183+07:00"
+    },
+    {
+      "id": "99e8ec987497b3fdf41bc22bc6b0a586",
+      "title": "Nạn đục trộm bình xăng ở Mỹ khi giá nhiên liệu tăng",
+      "link": "https://vnexpress.net/nan-duc-trom-binh-xang-o-my-khi-gia-nhien-lieu-tang-5064260.html",
+      "summary": "Chỉ với những dụng cụ đơn giản, kẻ trộm có thể khoan thủng bình xăng rồi rút nhiên liệu, khiến chủ xe phải gánh những khoản sửa chữa tốn kém.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-19T19:00:00+07:00",
+      "fetched": "2026-04-20T03:34:14.654692+07:00"
     },
     {
       "id": "a40194e35ea5689dcdf2ff7093b8bce9",
