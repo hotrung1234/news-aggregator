@@ -1,6 +1,6 @@
 window.newsData_2026_04_21 = {
   "date": "2026-04-21",
-  "lastUpdated": "2026-04-21T00:01:26.496317+07:00",
+  "lastUpdated": "2026-04-21T02:01:08.370661+07:00",
   "articles": [
     {
       "id": "e381027a68fb631adbe6f4c54cc84855",
@@ -153,6 +153,106 @@ window.newsData_2026_04_21 = {
       "fetched": "2026-04-21T00:01:17.682489+07:00"
     },
     {
+      "id": "26ebde13b4dfea73d99d1ee9ea207368",
+      "title": "Lòng đỏ trứng và phát hiện mới bất ngờ trong hỗ trợ điều trị ung thư",
+      "link": "https://thanhnien.vn/long-do-trung-va-phat-hien-moi-bat-ngo-trong-ho-tro-dieu-tri-ung-thu-185260421013254856.htm",
+      "summary": "Tìm kiếm các phương pháp bổ trợ để tối ưu hóa liệu pháp miễn dịch trong điều trị ung thư đang là ưu tiên hàng đầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T18:32:00+07:00",
+      "fetched": "2026-04-21T02:00:57.804493+07:00"
+    },
+    {
+      "id": "f8266985c51049e782d5bd4ac77ad60a",
+      "title": "Các hãng dầu khí tìm nơi khai thác mới ngoài Trung Đông",
+      "link": "https://vnexpress.net/cac-hang-dau-khi-tim-noi-khai-thac-moi-ngoai-trung-dong-5064747.html",
+      "summary": "Exxon Mobil, Chevron, BP đang rót hàng tỷ USD tìm kiếm các mỏ dầu khí mới ở những khu vực ít chịu rủi ro từ xung đột tại Trung Đông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T17:10:00+07:00",
+      "fetched": "2026-04-21T02:00:54.493338+07:00"
+    },
+    {
+      "id": "f8266985c51049e782d5bd4ac77ad60a",
+      "title": "Các hãng dầu khí tìm nơi khai thác mới ngoài Trung Đông",
+      "link": "https://vnexpress.net/cac-hang-dau-khi-tim-noi-khai-thac-moi-ngoai-trung-dong-5064747.html",
+      "summary": "Exxon Mobil, Chevron, BP đang rót hàng tỷ USD tìm kiếm các mỏ dầu khí mới ở những khu vực ít chịu rủi ro từ xung đột tại Trung Đông.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-20T17:10:00+07:00",
+      "fetched": "2026-04-21T02:01:03.380298+07:00"
+    },
+    {
+      "id": "ba6f855ab738908af57e0e7ef0ad1395",
+      "title": "Mỹ chạy đua tự chủ đất hiếm để giảm phụ thuộc Trung Quốc",
+      "link": "https://vnexpress.net/my-chay-dua-tu-chu-dat-hiem-de-giam-phu-thuoc-trung-quoc-5064668.html",
+      "summary": "Mỹ đẩy mạnh khai thác đất hiếm tại châu Phi và mở rộng hợp tác chiến lược cùng EU, Australia để giảm phụ thuộc nguồn cung từ Trung Quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T17:05:00+07:00",
+      "fetched": "2026-04-21T02:00:54.493536+07:00"
+    },
+    {
+      "id": "ba6f855ab738908af57e0e7ef0ad1395",
+      "title": "Mỹ chạy đua tự chủ đất hiếm để giảm phụ thuộc Trung Quốc",
+      "link": "https://vnexpress.net/my-chay-dua-tu-chu-dat-hiem-de-giam-phu-thuoc-trung-quoc-5064668.html",
+      "summary": "Mỹ đẩy mạnh khai thác đất hiếm tại châu Phi và mở rộng hợp tác chiến lược cùng EU, Australia để giảm phụ thuộc nguồn cung từ Trung Quốc.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-20T17:05:00+07:00",
+      "fetched": "2026-04-21T02:01:03.380501+07:00"
+    },
+    {
+      "id": "71b043dc99cd342911ba0b77502ebede",
+      "title": "Nơi 13 liệt sĩ hy sinh khi cứu hộ ở Rào Trăng trở thành di tích lịch sử",
+      "link": "https://vnexpress.net/noi-13-liet-si-hy-sinh-khi-cuu-ho-o-rao-trang-tro-thanh-di-tich-lich-su-5064884.html",
+      "summary": "Nhà tưởng niệm liệt sĩ tại tiểu khu 67, phường Phong Điền, nơi 13 chiến sĩ hy sinh khi cứu hộ ở thủy điện Rào Trăng 3, được công nhận là di tích.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T17:03:40+07:00",
+      "fetched": "2026-04-21T02:00:54.493712+07:00"
+    },
+    {
+      "id": "ca477f582039e313ae4eb9cfcfaec133",
+      "title": "4 con giáp bước vào chu kỳ thành công rực rỡ",
+      "link": "https://vnexpress.net/van-may-12-con-giap-con-giap-may-man-hom-nay-4-con-giap-buoc-vao-chu-ky-thanh-cong-ruc-ro-5064692.html",
+      "summary": "Và từ hôm nay chính là bước ngoặt đáng chú ý với 4 con giáp dưới đây, khi sự nghiệp bắt đầu có dấu hiệu \"bật chế độ tăng tốc\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T17:02:00+07:00",
+      "fetched": "2026-04-21T02:00:54.493876+07:00"
+    },
+    {
+      "id": "9c295b6f31cde86b7c233f4ae89308c9",
+      "title": "Sốt cao không dứt một tuần, người đàn ông được chẩn đoán bệnh lạ từ thú nuôi",
+      "link": "https://vnexpress.net/sot-cao-khong-dut-mot-tuan-nguoi-dan-ong-duoc-chan-doan-benh-la-tu-thu-nuoi-5064196.html",
+      "summary": "Sau một tuần sốt cao không dứt và kháng thuốc kháng sinh, người đàn ông tại Thâm Quyến được chẩn đoán mắc sốt Q, một căn bệnh truyền nhiễm hiếm gặp lây từ động vật sang người qua vi khuẩn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T17:02:00+07:00",
+      "fetched": "2026-04-21T02:00:54.494036+07:00"
+    },
+    {
+      "id": "d4fd958bed67de2bb686be5033a61ec1",
+      "title": "Điện Máy Xanh lãi hơn tỷ đồng mỗi giờ",
+      "link": "https://vnexpress.net/dien-may-xanh-lai-hon-ty-dong-moi-gio-5064859.html",
+      "summary": "Đạt lợi nhuận hơn 1 tỷ đồng mỗi giờ trong quý I, Điện máy Xanh đang đẩy nhanh việc mở rộng hệ sinh thái để chuẩn bị IPO năm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T17:01:00+07:00",
+      "fetched": "2026-04-21T02:00:54.494198+07:00"
+    },
+    {
+      "id": "d4fd958bed67de2bb686be5033a61ec1",
+      "title": "Điện Máy Xanh lãi hơn tỷ đồng mỗi giờ",
+      "link": "https://vnexpress.net/dien-may-xanh-lai-hon-ty-dong-moi-gio-5064859.html",
+      "summary": "Đạt lợi nhuận hơn 1 tỷ đồng mỗi giờ trong quý I, Điện máy Xanh đang đẩy nhanh việc mở rộng hệ sinh thái để chuẩn bị IPO năm nay.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-20T17:01:00+07:00",
+      "fetched": "2026-04-21T02:01:03.380665+07:00"
+    },
+    {
       "id": "242edcf596f95874531a8d9890589b40",
       "title": "Sức hút đặc biệt của U.17 Việt Nam",
       "link": "https://thanhnien.vn/suc-hut-dac-biet-cua-u17-viet-nam-185260420215058185.htm",
@@ -161,6 +261,136 @@ window.newsData_2026_04_21 = {
       "category": "Tổng hợp",
       "published": "2026-04-20T17:00:00+07:00",
       "fetched": "2026-04-21T00:01:16.668708+07:00"
+    },
+    {
+      "id": "0ff710425f1e01ee59d781d799a60046",
+      "title": "'Cần học Hàn Quốc, Singapore về phát triển nhân lực chất lượng cao'",
+      "link": "https://vnexpress.net/can-hoc-han-quoc-singapore-ve-phat-trien-nhan-luc-chat-luong-cao-5064875.html",
+      "summary": "Đại biểu Nguyễn Thị Lan cho rằng nhân lực chất lượng cao là yếu tố quyết định, Việt Nam cần học kinh nghiệm từ các quốc gia đi trước để tạo đột phá thực chất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T17:00:00+07:00",
+      "fetched": "2026-04-21T02:00:54.494385+07:00"
+    },
+    {
+      "id": "e1a152edef2b4dc0d65f2c4287eff421",
+      "title": "Người phụ nữ buôn 143 kg ma túy ở TP HCM thoát án tử hình",
+      "link": "https://vnexpress.net/nguoi-phu-nu-buon-143-kg-ma-tuy-o-tp-hcm-thoat-an-tu-hinh-5064856.html",
+      "summary": "Phan Thị Bích Trâm bị cùng chồng tham gia mua bán hơn 143 kg ma túy, song phạm tội lúc mang thai, đang nuôi 4 con nhỏ, nên tòa tuyên phạt 20 năm tù.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T17:00:00+07:00",
+      "fetched": "2026-04-21T02:00:54.494496+07:00"
+    },
+    {
+      "id": "62937ac296b5592e0197da5918d642a7",
+      "title": "20 phút giành giật sự sống cho nam sinh bị sóng cuốn ở Ninh Bình",
+      "link": "https://vnexpress.net/20-phut-gianh-giat-su-song-cho-nam-sinh-bi-song-cuon-o-ninh-binh-5064852.html",
+      "summary": "Thấy nam sinh chới với giữa biển, Nông Đức Thiện nói với bạn “nhảy xuống thì phải cùng sống” rồi lao ra cứu, đưa nạn nhân vào bờ, ép tim sơ cứu suốt 20 phút.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T17:00:00+07:00",
+      "fetched": "2026-04-21T02:00:54.494656+07:00"
+    },
+    {
+      "id": "25925e26884045c6b398b86395878dda",
+      "title": "Giá nhựa đường tăng, nguy cơ chậm bảo trì đường bộ",
+      "link": "https://vnexpress.net/gia-nhua-duong-tang-nguy-co-cham-bao-tri-duong-bo-5064847.html",
+      "summary": "Do giá xăng dầu và nhựa đường tăng mạnh, các gói thầu bảo trì đường bộ của Cục Đường bộ Việt Nam dự kiến tăng chi phí khoảng 946 tỷ đồng, tương đương 28%.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T17:00:00+07:00",
+      "fetched": "2026-04-21T02:00:54.494818+07:00"
+    },
+    {
+      "id": "9c6f47d57f43b1c612f0964022eb48ee",
+      "title": "Rooney: 'Man City có thể phải trả giá vì mừng như vô địch'",
+      "link": "https://vnexpress.net/rooney-man-city-co-the-phai-tra-gia-vi-mung-nhu-vo-dich-5064842.html",
+      "summary": "Cựu tiền đạo Wayne Rooney cho rằng Man City đã phản ứng thái quá sau trận thắng Arsenal, và điều đó có thể khiến họ trả giá ở Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T17:00:00+07:00",
+      "fetched": "2026-04-21T02:00:54.494983+07:00"
+    },
+    {
+      "id": "1ef2e73d299a7361459aa26592006357",
+      "title": "Loạt giải pháp giữ khách xe buýt khi miễn vé toàn hệ thống",
+      "link": "https://vnexpress.net/loat-giai-phap-giu-khach-xe-buyt-khi-mien-ve-toan-he-thong-5064833.html",
+      "summary": "Ngoài miễn phí vé, ngành chức năng đề xuất tái cấu trúc mạng lưới, ưu tiên hạ tầng và đồng bộ vận hành nhằm nâng sức hút giao thông công cộng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T17:00:00+07:00",
+      "fetched": "2026-04-21T02:00:54.495138+07:00"
+    },
+    {
+      "id": "88735db6e4dda15d6bcc6f9843be2663",
+      "title": "Siêu El Nino năm nay có thể gây ra khủng hoảng năng lượng",
+      "link": "https://vnexpress.net/sieu-el-nino-nam-nay-co-the-gay-ra-khung-hoang-nang-luong-5064829.html",
+      "summary": "El Nino năm nay có thể gây khó khăn cho quang điện, thủy điện, làm trầm trọng thêm mức tăng giá nhiên liệu hóa thạch do xung đột Trung Đông, theo các chuyên gia thời tiết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T17:00:00+07:00",
+      "fetched": "2026-04-21T02:00:54.495292+07:00"
+    },
+    {
+      "id": "6f608bc1657b6f41144821e6dd9f33a9",
+      "title": "Bố mẹ đi 130 km mới biết quên con ở trạm xăng",
+      "link": "https://vnexpress.net/bo-me-di-130-km-moi-biet-quen-con-o-tram-xang-5064823.html",
+      "summary": "Nghĩ rằng bé gái 6 tuổi đang ngồi trên xe khác của người thân, cặp vợ chồng lái ôtô hơn 130 km mới phát hiện bỏ quên con tại trạm xăng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T17:00:00+07:00",
+      "fetched": "2026-04-21T02:00:54.495482+07:00"
+    },
+    {
+      "id": "fc6e50ccf8dc670a043c717a5f3d78d5",
+      "title": "Cuộc sống bí mật của nữ tù nhân vượt ngục trong 32 năm lẩn trốn",
+      "link": "https://vnexpress.net/cuoc-song-bi-mat-cua-nu-tu-nhan-vuot-nguc-trong-32-nam-lan-tron-5064820.html",
+      "summary": "Nhận án 99 năm tù vì tội giết người ở tuổi 21, Margo Freshwater trèo rào trốn khỏi nhà tù, trở về quê cũ sinh sống mà không bị phát hiện suốt 32 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T17:00:00+07:00",
+      "fetched": "2026-04-21T02:00:54.495648+07:00"
+    },
+    {
+      "id": "88735db6e4dda15d6bcc6f9843be2663",
+      "title": "Siêu El Nino năm nay có thể gây ra khủng hoảng năng lượng",
+      "link": "https://vnexpress.net/sieu-el-nino-nam-nay-co-the-gay-ra-khung-hoang-nang-luong-5064829.html",
+      "summary": "El Nino năm nay có thể gây khó khăn cho quang điện, thủy điện, làm trầm trọng thêm mức tăng giá nhiên liệu hóa thạch do xung đột Trung Đông, theo các chuyên gia thời tiết.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-20T17:00:00+07:00",
+      "fetched": "2026-04-21T02:01:06.430081+07:00"
+    },
+    {
+      "id": "9c6f47d57f43b1c612f0964022eb48ee",
+      "title": "Rooney: 'Man City có thể phải trả giá vì mừng như vô địch'",
+      "link": "https://vnexpress.net/rooney-man-city-co-the-phai-tra-gia-vi-mung-nhu-vo-dich-5064842.html",
+      "summary": "Cựu tiền đạo Wayne Rooney cho rằng Man City đã phản ứng thái quá sau trận thắng Arsenal, và điều đó có thể khiến họ trả giá ở Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-20T17:00:00+07:00",
+      "fetched": "2026-04-21T02:01:08.365558+07:00"
+    },
+    {
+      "id": "a8d0d91774bf5dfa2b87b6a6a4fa919c",
+      "title": "Haaland: 'Bạn gái không thích tôi xô xát với Gabriel'",
+      "link": "https://vnexpress.net/haaland-ban-gai-khong-thich-toi-xo-xat-voi-gabriel-5064848.html",
+      "summary": "Tiền đạo Erling Haaland tiết lộ bạn gái không hài lòng khi thấy anh chi chít vết xước sau màn va chạm căng thẳng với Gabriel trong trận Man City thắng Arsenal ở Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-20T17:00:00+07:00",
+      "fetched": "2026-04-21T02:01:08.365737+07:00"
+    },
+    {
+      "id": "8c23d0fa8edeff9fcc0991f389c99a24",
+      "title": "CLB hạng 5 Tây Ban Nha vươn tầm nhờ sức hút Messi",
+      "link": "https://vnexpress.net/clb-hang-5-tay-ban-nha-vuon-tam-nho-suc-hut-messi-5064843.html",
+      "summary": "Thương vụ Lionel Messi mua lại Cornella tạo hiệu ứng bùng nổ: lượng người theo dõi tăng vọt, CĐV đổ về sân, áo đấu số 10 cháy hàng dù chưa kịp sản xuất.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-20T17:00:00+07:00",
+      "fetched": "2026-04-21T02:01:08.365901+07:00"
     },
     {
       "id": "2acdf3bfd57a84455175d91ae47b4e4f",
