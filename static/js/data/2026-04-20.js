@@ -1,7 +1,157 @@
 window.newsData_2026_04_20 = {
   "date": "2026-04-20",
-  "lastUpdated": "2026-04-20T20:23:58.376716+07:00",
+  "lastUpdated": "2026-04-20T22:14:23.920096+07:00",
   "articles": [
+    {
+      "id": "00d9ddf1b00a867812a35f6ec3586185",
+      "title": "ACECOOK Việt Nam động thổ trung tâm nghiên cứu và phát triển mới",
+      "link": "https://tuoitre.vn/acecook-viet-nam-dong-tho-trung-tam-nghien-cuu-va-phat-trien-moi-2026042019433948.htm",
+      "summary": "Ngày 20-4, Công ty Cổ phần Acecook Việt Nam tiến hành tổ chức Lễ động thổ dự án Trung tâm Nghiên cứu và Phát triển mới mang tên D-GROOVE tại Khu công nghiệp Tân Bình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T22:14:14.726586+07:00",
+      "fetched": "2026-04-20T22:14:14.726724+07:00"
+    },
+    {
+      "id": "82f54b635fd7a3a1ee47cd97571b911a",
+      "title": "Đầu tư cho văn hóa là đầu tư cho tương lai, xóa bỏ tư duy văn hóa là 'phụ trợ'",
+      "link": "https://tuoitre.vn/dau-tu-cho-van-hoa-la-dau-tu-cho-tuong-lai-xoa-bo-tu-duy-van-hoa-la-phu-tro-20260420190321969.htm",
+      "summary": "Đó là phát biểu của ông Trần Thanh Lâm - Ủy viên Trung ương Đảng, Phó trưởng Ban Tuyên giáo và Dân vận Trung ương - tại tọa đàm Văn hóa trong kỷ nguyên số - Từ bản sắc đến sức mạnh mềm quốc gia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T22:14:14.726459+07:00",
+      "fetched": "2026-04-20T22:14:14.726570+07:00"
+    },
+    {
+      "id": "fcb791333c2531a929deef62c264897b",
+      "title": "Ký hợp đồng mua bán khí mỏ Nam Du và U Minh, bổ sung 4,2 tỉ m³ khí cho khu vực Tây Nam Bộ",
+      "link": "https://tuoitre.vn/ky-hop-dong-mua-ban-khi-mo-nam-du-va-u-minh-bo-sung-4-2-ti-m-khi-cho-khu-vuc-tay-nam-bo-20260420184214468.htm",
+      "summary": "Ngày 20-4, Tập đoàn Công nghiệp - Năng lượng quốc gia Việt Nam (Petrovietnam) đã tổ chức lễ ký kết và trao các văn kiện của dự án phát triển mỏ Nam Du, lô 46/07 và mỏ U Minh, lô 51 giữa Petrovietnam, Tổng công ty Khí Việt Nam (PV Gas) và các đối tác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T22:14:14.726335+07:00",
+      "fetched": "2026-04-20T22:14:14.726447+07:00"
+    },
+    {
+      "id": "71b42951b3d0d085d8f3bcfa2ff8319f",
+      "title": "Kỳ vương Trung Quốc gây thất vọng vì... đánh đâu thua đó",
+      "link": "https://tuoitre.vn/ky-vuong-trung-quoc-gay-that-vong-vi-danh-dau-thua-do-20260420194503611.htm",
+      "summary": "Sau khi lên ngôi kỳ vương - danh hiệu dành cho người vô địch đơn nam cờ tướng Trung Quốc, Vương Vũ Bác lại có phong độ không mấy ấn tượng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T22:14:14.726206+07:00",
+      "fetched": "2026-04-20T22:14:14.726323+07:00"
+    },
+    {
+      "id": "1871da507cec7ef8aa90f7af4e684080",
+      "title": "Quốc vương Campuchia phẫu thuật ung thư thành công tại Bắc Kinh",
+      "link": "https://tuoitre.vn/quoc-vuong-campuchia-phau-thuat-ung-thu-thanh-cong-tai-bac-kinh-20260420200626799.htm",
+      "summary": "Quốc vương Campuchia đã trải qua ca phẫu thuật thành công tại Bắc Kinh, sau khi ông thông báo bị ung thư tuyến tiền liệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T22:14:14.726085+07:00",
+      "fetched": "2026-04-20T22:14:14.726195+07:00"
+    },
+    {
+      "id": "9bf6bd80362a6218a8eafc15cc803a3e",
+      "title": "Nhặt được túi xách hơn 200 triệu, học sinh lớp 8 ở Long An nhờ công an trả lại người đánh rơi",
+      "link": "https://tuoitre.vn/nhat-duoc-tui-xach-hon-200-trieu-hoc-sinh-lop-8-o-long-an-nho-cong-an-tra-lai-nguoi-danh-roi-20260420200622587.htm",
+      "summary": "Khi nhặt được trên đường túi xách đựng một số lượng lớn tiền mặt bên trong, em học sinh đã đem đến trình báo công an. Công an đã xác minh, tìm được người đánh rơi để em học sinh trả tận tay cho người này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T22:14:14.725958+07:00",
+      "fetched": "2026-04-20T22:14:14.726073+07:00"
+    },
+    {
+      "id": "e381027a68fb631adbe6f4c54cc84855",
+      "title": "Thủ tướng quyết định kéo dài thời gian giữ chức vụ với hai cán bộ thuộc Bộ Quốc phòng",
+      "link": "https://tuoitre.vn/thu-tuong-quyet-dinh-keo-dai-thoi-gian-giu-chuc-vu-voi-hai-can-bo-thuoc-bo-quoc-phong-20260420201349406.htm",
+      "summary": "Ngày 20-4, Thủ tướng Lê Minh Hưng vừa ký các quyết định về việc kéo dài thời gian giữ chức vụ Chính ủy Quân khu 2 và Phó tư lệnh Bộ đội biên phòng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T22:14:14.725821+07:00",
+      "fetched": "2026-04-20T22:14:14.725946+07:00"
+    },
+    {
+      "id": "54eadbe89173bcc91cfaecb4a79ff1de",
+      "title": "Diễn viên 'Starship Troopers' Patrick Muldoon qua đời",
+      "link": "https://tuoitre.vn/dien-vien-starship-troopers-patrick-muldoon-qua-doi-20260420203227015.htm",
+      "summary": "Diễn viên Patrick Muldoon, nổi tiếng qua các phim Days of Our Lives, Melrose Place và Starship Troopers, đột ngột qua đời ở tuổi 57 sau cơn đau tim dữ dội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T22:14:14.725687+07:00",
+      "fetched": "2026-04-20T22:14:14.725809+07:00"
+    },
+    {
+      "id": "548ab255d195159fbc1af57e97b88596",
+      "title": "Người đàn ông hơn 60 năm nhặt lá rụng, vỏ hành để 'vẽ' tranh",
+      "link": "https://tuoitre.vn/nguoi-dan-ong-hon-60-nam-nhat-la-rung-vo-hanh-de-ve-tranh-2026042020161093.htm",
+      "summary": "Có một người đàn ông Hà Nội hơn 60 năm nhặt lá khô mang về dệt lên hàng trăm bức tranh, chỉ để thỏa mãn niềm đam mê với thiên nhiên và hội họa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T22:14:14.725540+07:00",
+      "fetched": "2026-04-20T22:14:14.725673+07:00"
+    },
+    {
+      "id": "dff8e146f940cf558e3c3389bdba2d17",
+      "title": "CSGT bỏ tiền túi trả thay shipper bị đòi bồi thường, dân mạng ca ngợi",
+      "link": "https://tuoitre.vn/csgt-bo-tien-tui-tra-thay-shipper-bi-doi-boi-thuong-dan-mang-ca-ngoi-20260420163441149.htm",
+      "summary": "Một đoạn video ghi lại vụ va chạm giao thông nhẹ ở Trung Quốc giữa shipper và một người đàn ông lớn tuổi đang lan truyền mạnh trên mạng xã hội, thu hút sự quan tâm nhờ cách xử lý đầy nhân văn của cảnh sát giao thông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T22:14:14.725412+07:00",
+      "fetched": "2026-04-20T22:14:14.725528+07:00"
+    },
+    {
+      "id": "6cc7001d917c1178a309afb0403ce5e8",
+      "title": "'Ngưỡng chịu thuế với hộ kinh doanh nên từ 2 tỉ đồng'",
+      "link": "https://tuoitre.vn/nguong-chiu-thue-voi-ho-kinh-doanh-nen-tu-2-ti-dong-20260420203926297.htm",
+      "summary": "Ủy ban Kinh tế và Tài chính của Quốc hội cho rằng ngưỡng chịu thuế với hộ kinh doanh nên từ 2 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T22:14:14.725285+07:00",
+      "fetched": "2026-04-20T22:14:14.725400+07:00"
+    },
+    {
+      "id": "5ec5716b97c987577c4981caeff64779",
+      "title": "Trung Đông tối 20-4: Iran đang xem xét tích cực việc đàm phán với Mỹ, ông Tập nói về Hormuz",
+      "link": "https://tuoitre.vn/trung-dong-toi-20-4-iran-dang-xem-xet-tich-cuc-viec-dam-phan-voi-my-ong-tap-noi-ve-hormuz-20260420205017163.htm",
+      "summary": "Chủ tịch Trung Quốc Tập Cận Bình nhấn mạnh cần duy trì hoạt động lưu thông bình thường qua eo biển Hormuz.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T22:14:14.725154+07:00",
+      "fetched": "2026-04-20T22:14:14.725273+07:00"
+    },
+    {
+      "id": "87db885fe0eb41eab872df3dc048e280",
+      "title": "Chủ tịch Quốc hội Trần Thanh Mẫn ký nghị quyết thành lập 10 phường thuộc tỉnh Đồng Nai",
+      "link": "https://tuoitre.vn/chu-tich-quoc-hoi-tran-thanh-man-ky-nghi-quyet-thanh-lap-10-phuong-thuoc-tinh-dong-nai-20260420204908599.htm",
+      "summary": "Chủ tịch Quốc hội Trần Thanh Mẫn đã ký nghị quyết của Ủy ban Thường vụ Quốc hội về việc thành lập 10 phường thuộc tỉnh Đồng Nai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T22:14:14.725015+07:00",
+      "fetched": "2026-04-20T22:14:14.725142+07:00"
+    },
+    {
+      "id": "d95f7ed0768eddecbd39e88e56c32631",
+      "title": "Thủ tướng yêu cầu bộ trưởng, chủ tịch tỉnh chỉ đạo tổng rà soát văn bản pháp luật",
+      "link": "https://tuoitre.vn/thu-tuong-yeu-cau-bo-truong-chu-tich-tinh-chi-dao-tong-ra-soat-van-ban-phap-luat-20260420203537164.htm",
+      "summary": "Phó thủ tướng Lê Tiến Châu vừa ký công điện số 32 của Thủ tướng Chính phủ về việc tổ chức thực hiện tổng rà soát hệ thống văn bản quy phạm pháp luật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T22:14:14.724857+07:00",
+      "fetched": "2026-04-20T22:14:14.725001+07:00"
+    },
+    {
+      "id": "dc54377387aab792754f688fcd96026c",
+      "title": "Tử hình 2 người trong đường dây mua bán, vận chuyển 143 kg ma túy xuyên quốc gia",
+      "link": "https://tuoitre.vn/tu-hinh-2-nguoi-trong-duong-day-mua-ban-van-chuyen-143-kg-ma-tuy-xuyen-quoc-gia-20260420210640999.htm",
+      "summary": "Tối ngày 20-4, TAND TP.HCM đã tuyên án đối với 9 bị cáo trong vụ án mua bán, vận chuyển trái phép chất ma túy với quy mô đặc biệt lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T22:14:14.724580+07:00",
+      "fetched": "2026-04-20T22:14:14.724836+07:00"
+    },
     {
       "id": "102c6e23c9f51722d6108ac6a4ee4e0a",
       "title": "Ổn định tuyển sinh đến 2030, siết đầu vào và tăng tự chủ đại học",
@@ -451,6 +601,256 @@ window.newsData_2026_04_20 = {
       "category": "Tổng hợp",
       "published": "2026-04-20T16:55:53.349721+07:00",
       "fetched": "2026-04-20T16:55:53.349954+07:00"
+    },
+    {
+      "id": "f6af833ad20e4b9bdb2177be49d2e96d",
+      "title": "Lộ diện ‘phiên bản 2.0’ cực chất của Trương Tiến Anh, cánh phải đội tuyển Việt Nam bớt mong manh",
+      "link": "https://thanhnien.vn/lo-dien-phien-ban-20-cuc-chat-cua-truong-tien-anh-canh-phai-doi-tuyen-viet-nam-bot-mong-manh-185260420152719349.htm",
+      "summary": "Cầu thủ trẻ Phạm Minh Phúc ghi dấu ấn ở các vòng đấu gần đây trong màu áo CLB Công an Hà Nội, đấy cũng là lời giải để HLV Kim Sang-sik tìm nhân sự bổ sung cho cánh phải của đội tuyển Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T14:50:00+07:00",
+      "fetched": "2026-04-20T22:14:13.647875+07:00"
+    },
+    {
+      "id": "ac639117d1ab92afbebbe7e37f9b7b1e",
+      "title": "Iran mở lại các sân bay ở Tehran",
+      "link": "https://vnexpress.net/iran-mo-lai-cac-san-bay-o-tehran-5064853.html",
+      "summary": "Iran mở lại hàng loạt sân bay chính ở thủ đô Tehran, sau nhiều tuần đóng cửa vì xung đột với Mỹ và Israel.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T14:34:31+07:00",
+      "fetched": "2026-04-20T22:14:10.394141+07:00"
+    },
+    {
+      "id": "ac639117d1ab92afbebbe7e37f9b7b1e",
+      "title": "Iran mở lại các sân bay ở Tehran",
+      "link": "https://vnexpress.net/iran-mo-lai-cac-san-bay-o-tehran-5064853.html",
+      "summary": "Iran mở lại hàng loạt sân bay chính ở thủ đô Tehran, sau nhiều tuần đóng cửa vì xung đột với Mỹ và Israel.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-20T14:34:31+07:00",
+      "fetched": "2026-04-20T22:14:16.743893+07:00"
+    },
+    {
+      "id": "c23c1eef71ca7f4534e8751ffeaba369",
+      "title": "Hình ảnh gây chú ý của Ngọc Trinh và Xuân Lan",
+      "link": "https://thanhnien.vn/hinh-anh-gay-chu-y-cua-ngoc-trinh-va-xuan-lan-185260420185904258.htm",
+      "summary": "Sau loạt hình ảnh 'nhá hàng' đầy ẩn ý, dự án điện ảnh 'Thẩm mỹ viện âm phủ' chính thức tung poster và trailer, nhanh chóng thu hút sự chú ý của khán giả trước thềm ra rạp. Không chỉ gây tò mò bởi đề tài kinh dị pha màu sắc tâm linh, bộ phim còn tạo hiệu ứng mạnh nhờ tạo hình ám ảnh của dàn diễn viên...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T14:34:00+07:00",
+      "fetched": "2026-04-20T22:14:13.648065+07:00"
+    },
+    {
+      "id": "79b7615cdd15178544472c8616cb8f02",
+      "title": "Khống chế ổ dịch viêm não mô cầu tại trại giam ở Cà Mau",
+      "link": "https://vnexpress.net/khong-che-o-dich-viem-nao-mo-cau-tai-trai-giam-o-ca-mau-5064835.html",
+      "summary": "Trung tâm Kiểm soát bệnh tật (CDC) tỉnh Cà Mau thông báo đã khống chế ổ dịch viêm não mô cầu tại Trại giam Cái Tàu, xã Khánh An, sau thời gian giám sát và xử lý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T14:30:19+07:00",
+      "fetched": "2026-04-20T22:14:10.394263+07:00"
+    },
+    {
+      "id": "763438add73259d217d6cfb18032380f",
+      "title": "Quảng Trị phát hiện hố sụt có thác nước dài gần 600 m",
+      "link": "https://vnexpress.net/quang-tri-phat-hien-ho-sut-co-thac-nuoc-dai-gan-600-m-5064855.html",
+      "summary": "Đoàn thám hiểm hang động Anh - Việt vừa phát hiện một hang động dạng hố sụt dài khoảng 583 m, bên trong có thác nước, trong Vườn Quốc gia Phong Nha - Kẻ Bàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T14:29:57+07:00",
+      "fetched": "2026-04-20T22:14:10.394442+07:00"
+    },
+    {
+      "id": "7fee76b0b7dd9e02c27d8f45e7e7863d",
+      "title": "Tuyến đường sắt đô thị Đà Nẵng gần 266.000 tỉ đồng sẽ khởi công đầu năm 2027",
+      "link": "https://thanhnien.vn/tuyen-duong-sat-do-thi-da-nang-gan-266000-ti-dong-se-khoi-cong-dau-nam-2027-185260420200135035.htm",
+      "summary": "Tuyến đường sắt đô thị với tổng vốn gần 266.000 tỉ đồng của tập đoàn THACO, dự kiến khởi công đầu năm 2027, mở ra trục kết nối chiến lược từ sân bay quốc tế Đà Nẵng đến Chu Lai, tạo cú hích lớn cho phát triển kinh tế - du lịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T14:02:00+07:00",
+      "fetched": "2026-04-20T22:14:13.648231+07:00"
+    },
+    {
+      "id": "0562f3915c9e952d33a84422f8baa5ec",
+      "title": "Tôi như 'ăn xin' mỗi lần muốn gần gũi vợ",
+      "link": "https://vnexpress.net/sex-toi-nhu-an-xin-moi-lan-muon-gan-gui-vo-5064509.html",
+      "summary": "Chuyện là chúng tôi kết hôn được bảy năm nhưng số lần vợ chủ động trong chuyện đó, tôi đếm được trên đầu ngón tay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T14:00:00+07:00",
+      "fetched": "2026-04-20T22:14:10.394604+07:00"
+    },
+    {
+      "id": "aa3d9e722ac42f3c02c7cc05c2a8131e",
+      "title": "Acecook Việt Nam xây dựng Trung tâm Nghiên cứu và Phát triển mới",
+      "link": "https://thanhnien.vn/acecook-viet-nam-xay-dung-trung-tam-nghien-cuu-va-phat-trien-moi-185260420203216712.htm",
+      "summary": "Ngày 20.4.2026, Công ty cổ phần Acecook Việt Nam tiến hành tổ chức Lễ động thổ dự án Trung tâm Nghiên cứu và Phát triển mới mang tên D-GROOVE tại Khu công nghiệp Tân Bình (TP.HCM). Dự án đánh dấu bước tiến quan trọng trong chiến lược nâng cao năng lực nghiên cứu, đổi mới sáng tạo và hiện thực hóa tầ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T14:00:00+07:00",
+      "fetched": "2026-04-20T22:14:13.648389+07:00"
+    },
+    {
+      "id": "89a7459727a48ce2fad6f544b6c48c71",
+      "title": "Những điều dễ nhầm lẫn khi sử dụng Wi-Fi",
+      "link": "https://thanhnien.vn/nhung-dieu-de-nham-lan-khi-su-dung-wi-fi-185260417153600987.htm",
+      "summary": "Với sự phát triển vượt bậc trong công nghệ trong những năm qua, Wi-Fi đã trở thành một phần thiết yếu trong cuộc sống hằng ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T13:58:00+07:00",
+      "fetched": "2026-04-20T22:14:13.648541+07:00"
+    },
+    {
+      "id": "1e71155763564fd9bac89db1d1d96a0a",
+      "title": "Gen Z tại TP HCM trúng Jackpot gần 80 tỷ đồng",
+      "link": "https://vnexpress.net/gen-z-tai-tp-hcm-trung-jackpot-gan-80-ty-dong-5064845.html",
+      "summary": "Một Gen Z làm văn phòng tại TP HCM vừa trúng Jackpot trị giá gần 80 tỷ đồng, nhận về khoảng 71 tỷ sau khi trừ thuế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T13:47:06+07:00",
+      "fetched": "2026-04-20T22:14:10.394799+07:00"
+    },
+    {
+      "id": "1e71155763564fd9bac89db1d1d96a0a",
+      "title": "Gen Z tại TP HCM trúng Jackpot gần 80 tỷ đồng",
+      "link": "https://vnexpress.net/gen-z-tai-tp-hcm-trung-jackpot-gan-80-ty-dong-5064845.html",
+      "summary": "Một Gen Z làm văn phòng tại TP HCM vừa trúng Jackpot trị giá gần 80 tỷ đồng, nhận về khoảng 71 tỷ sau khi trừ thuế.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-20T13:47:06+07:00",
+      "fetched": "2026-04-20T22:14:18.561925+07:00"
+    },
+    {
+      "id": "a7f79b8a73ca655f96c8d7ceba4a5104",
+      "title": "Báo chí thời AI: Biến giá trị văn hóa thành câu chuyện truyền cảm hứng",
+      "link": "https://thanhnien.vn/bao-chi-thoi-ai-bien-gia-tri-van-hoa-thanh-cau-chuyen-truyen-cam-hung-185260420181658942.htm",
+      "summary": "\"Trong bối cảnh kỷ nguyên số và sự bùng nổ của trí tuệ nhân tạo (AI), TP.HCM xác định phương châm 'càng hội nhập sâu, bản sắc càng phải đậm; càng số hóa mạnh, nhân văn càng phải cao\", Phó bí thư Thành ủy TP.HCM Văn Thị Bạch Tuyết nói.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T13:47:00+07:00",
+      "fetched": "2026-04-20T22:14:13.648722+07:00"
+    },
+    {
+      "id": "cf108ba7a11a463f5dce45a54a31664f",
+      "title": "Tính năng Cruise Control trên xe máy hoạt động ra sao, khi nào nên sử dụng?",
+      "link": "https://thanhnien.vn/tinh-nang-cruise-control-tren-xe-may-hoat-dong-ra-sao-khi-nao-nen-su-dung-185260418181935934.htm",
+      "summary": "Nhiều dòng xe máy hiện nay đã bắt đầu được trang bị tính năng Cruise Control (còn gọi là kiểm soát hành trình hay ga tự động) xuất hiện trên nhiều dòng xe máy điện tại Việt Nam. Tuy nhiên, không phải người dùng nào cũng hiểu rõ và biết cách sử dụng hợp lý tính năng này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T13:47:00+07:00",
+      "fetched": "2026-04-20T22:14:13.648887+07:00"
+    },
+    {
+      "id": "6180caacf9846ed8ee29c6199da53fc3",
+      "title": "Sao trẻ thăng hoa ở V-League, U.23 Việt Nam tự tin hướng đến ASIAD 20",
+      "link": "https://thanhnien.vn/sao-tre-thang-hoa-o-v-league-u23-viet-nam-tu-tin-huong-den-asiad-20-185260420201204356.htm",
+      "summary": "Những màn thể hiện ấn tượng của các cầu thủ trẻ như Văn Thuận, Thành Trung hay Cao Văn Bình đang mở ra nhiều kỳ vọng cho U.23 Việt Nam trong hành trình hướng tới đấu trường châu Á.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T13:45:00+07:00",
+      "fetched": "2026-04-20T22:14:13.649038+07:00"
+    },
+    {
+      "id": "400236d5218dc33b716c7a1fc7492ae4",
+      "title": "Gần 360 kg nghi thuốc nổ giấu trong bao tải ở Quảng Ngãi",
+      "link": "https://vnexpress.net/gan-360-kg-nghi-thuoc-no-giau-trong-bao-tai-o-quang-ngai-5064839.html",
+      "summary": "Từ một bao tải nghi vấn trên xe máy, lực lượng chức năng mở rộng kiểm tra, phát hiện gần 360 kg chất nghi thuốc nổ giấu trong quán ăn ven biển ở xã Vạn Tường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T13:44:42+07:00",
+      "fetched": "2026-04-20T22:14:10.394971+07:00"
+    },
+    {
+      "id": "4c30d54b5a1ab64d70c986c06edb7ace",
+      "title": "Hành trình Từ Trái Tim 'khơi dậy' khát vọng lớn của thanh niên Tây Bắc",
+      "link": "https://thanhnien.vn/hanh-trinh-tu-trai-tim-khoi-day-khat-vong-lon-cua-thanh-nien-tay-bac-185260420210217722.htm",
+      "summary": "Trong hành trình hơn 2.500 km qua 5 tỉnh của Tây Bắc, những cuốn sách quý, những câu chuyện truyền cảm hứng của Hành trình Từ Trái Tim đã mở ra những chuyển biến rõ ràng trong nhận thức, thôi thúc người trẻ dám bước ra khỏi vùng an toàn, nuôi dưỡng ước mơ và hướng tới đóng góp cho sự phát triển của ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T13:44:00+07:00",
+      "fetched": "2026-04-20T22:14:13.649202+07:00"
+    },
+    {
+      "id": "148597c8956f5e81fc5d76c119a70803",
+      "title": "Nước nào có tốc độ Internet nhanh nhất Đông Nam Á?",
+      "link": "https://vnexpress.net/nuoc-nao-co-toc-do-internet-nhanh-nhat-dong-nam-a-5064825.html",
+      "summary": "Tốc độ mạng cố định của nước này gấp 3,5 lần trung bình thế giới nhờ hệ thống cáp quang dày đặc. Bạn có biết đây là nước nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T13:35:45+07:00",
+      "fetched": "2026-04-20T22:14:10.395135+07:00"
+    },
+    {
+      "id": "91092ab46bec155e4bbd55c85ae72377",
+      "title": "Viêm não mô cầu: Sau ca tử vong, 10 ngày qua Cà Mau chưa có ca mới",
+      "link": "https://thanhnien.vn/viem-nao-mo-cau-sau-ca-tu-vong-10-ngay-qua-ca-mau-chua-co-ca-moi-185260420193331902.htm",
+      "summary": "Sau ca tử vong do viêm não mô cầu, 10 ngày qua Cà Mau chưa ghi nhận ca mới. Ngành y tế tiếp tục giám sát, khuyến cáo người dân chủ động phòng bệnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T13:35:00+07:00",
+      "fetched": "2026-04-20T22:14:13.649351+07:00"
+    },
+    {
+      "id": "3d67a21082568f9c07ad655a3695d324",
+      "title": "Tìm thân nhân 3 trẻ sơ sinh bị bỏ rơi tại phường Gò Vấp, TP.HCM",
+      "link": "https://thanhnien.vn/tim-than-nhan-3-tre-so-sinh-bi-bo-roi-tai-phuong-go-vap-tphcm-185260420195527405.htm",
+      "summary": "UBND phường Gò Vấp (TP.HCM) phát đi thông báo tìm người thân cho 3 trẻ sơ sinh bị bỏ rơi liên tiếp trong hơn 10 ngày qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T13:34:00+07:00",
+      "fetched": "2026-04-20T22:14:13.649500+07:00"
+    },
+    {
+      "id": "99ab1ac662299627b2b17b6fd045f232",
+      "title": "Hòa Phát nộp ngân sách 6.000 tỉ đồng trong 4 tháng đầu năm",
+      "link": "https://thanhnien.vn/hoa-phat-nop-ngan-sach-6000-ti-dong-trong-4-thang-dau-nam-185260420204338496.htm",
+      "summary": "Trong 4 tháng đầu năm 2026, Tập đoàn Hòa Phát đóng góp ngân sách nhà nước khoảng 6.000 tỉ đồng tại 20 tỉnh thành trên cả nước, tăng gần 10% so với cùng kỳ năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T13:33:00+07:00",
+      "fetched": "2026-04-20T22:14:13.649678+07:00"
+    },
+    {
+      "id": "c972f7fcb1068e2e5a9942271c71137c",
+      "title": "Cựu tổng thống thân Nga thắng áp đảo trong cuộc bầu cử Bulgaria",
+      "link": "https://thanhnien.vn/cuu-tong-thong-than-nga-thang-ap-dao-trong-cuoc-bau-cu-bulgaria-185260420195143763.htm",
+      "summary": "Cựu Tổng thống Rumen Radev đã thắng lớn trong cuộc bầu cử quốc hội hôm 19.4 tại Bulgaria, mở ra cơ hội để Nga tăng cường quan hệ với thành viên Liên minh châu Âu (EU) lẫn Tổ chức Hiệp ước Bắc Đại Tây Dương (NATO).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T13:32:00+07:00",
+      "fetched": "2026-04-20T22:14:13.649840+07:00"
+    },
+    {
+      "id": "f64e615fec0ac9e5f2bc8245c42cf92c",
+      "title": "8 thương hiệu tai nghe cân nhắc trước khi mua",
+      "link": "https://thanhnien.vn/8-thuong-hieu-tai-nghe-can-nhac-truoc-khi-mua-185260417133051849.htm",
+      "summary": "Tại sao 8 hãng tai nghe danh tiếng này lại bị người dùng chấm điểm thấp kỷ lục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T13:31:00+07:00",
+      "fetched": "2026-04-20T22:14:13.649989+07:00"
+    },
+    {
+      "id": "f85bb1aa1fce36aebfcc28f3d7920bbe",
+      "title": "Lính Mỹ đu dây từ trực thăng khống chế tàu hàng Iran",
+      "link": "https://vnexpress.net/linh-my-du-day-tu-truc-thang-khong-che-tau-hang-iran-5064841.html",
+      "summary": "Bộ Tư lệnh Trung tâm Mỹ công bố video ghi lại cảnh thủy quân lục chiến đổ bộ từ trực thăng xuống tàu Touska trên biển Arab, sau khi chiến hạm USS Spruance nã pháo khiến tàu mất khả năng cơ động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T13:30:51+07:00",
+      "fetched": "2026-04-20T22:14:10.395292+07:00"
+    },
+    {
+      "id": "4bc1a48ea29120ed072f8f7336faffe5",
+      "title": "BÍ QUYẾT ÔN THI THPT 2026 | Môn sinh học | Chuyên đề 1 | Cơ chế phân tử của hiện tượng di truyền",
+      "link": "https://thanhnien.vn/bi-quyet-on-thi-thpt-2026-mon-sinh-hoc-chuyen-de-1-co-che-phan-tu-cua-hien-tuong-di-truyen-185260418092730681.htm",
+      "summary": "Chương trình hướng dẫn học sinh làm bài thi môn sinh học, kỳ thi THPT quốc gia 2026. Buổi hướng dẫn \"Bí quyết ôn thi THPT 2026\" do thầy Võ Thanh Bình, Trường THPT chuyên Lê Hồng Phong, TP.HCM – thực hiện. Chương trình được phát trên các kênh thanhnien.vn, Facebook.com/thanhnien và YouTube Báo Thanh ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-20T13:30:00+07:00",
+      "fetched": "2026-04-20T22:14:13.650151+07:00"
     },
     {
       "id": "092dad9921040855afa51b4c72927eb0",
