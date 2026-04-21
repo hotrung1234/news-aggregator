@@ -1,6 +1,6 @@
 window.newsData_2026_04_22 = {
   "date": "2026-04-22",
-  "lastUpdated": "2026-04-22T02:07:24.948364+07:00",
+  "lastUpdated": "2026-04-22T03:49:35.209518+07:00",
   "articles": [
     {
       "id": "b1d661e3479859bcbfe537fafcb4f11a",
@@ -151,6 +151,36 @@ window.newsData_2026_04_22 = {
       "category": "Tổng hợp",
       "published": "2026-04-22T02:07:18.445115+07:00",
       "fetched": "2026-04-22T02:07:18.445345+07:00"
+    },
+    {
+      "id": "1ae517f9583c75cffb0537f8b5665b01",
+      "title": "PNJ lãi kỷ lục",
+      "link": "https://vnexpress.net/pnj-lai-ky-luc-5065400.html",
+      "summary": "Mảng vàng miếng và nhẫn trơn mang về gần 7.400 tỷ đồng, góp phần tạo ra doanh thu và lợi nhuận cao kỷ lục cho PNJ trong quý I.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T19:07:35+07:00",
+      "fetched": "2026-04-22T03:49:24.316483+07:00"
+    },
+    {
+      "id": "1ae517f9583c75cffb0537f8b5665b01",
+      "title": "PNJ lãi kỷ lục",
+      "link": "https://vnexpress.net/pnj-lai-ky-luc-5065400.html",
+      "summary": "Mảng vàng miếng và nhẫn trơn mang về gần 7.400 tỷ đồng, góp phần tạo ra doanh thu và lợi nhuận cao kỷ lục cho PNJ trong quý I.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-21T19:07:35+07:00",
+      "fetched": "2026-04-22T03:49:31.331762+07:00"
+    },
+    {
+      "id": "25575516bd2918ea206610f4402a16ec",
+      "title": "Khám trước khi cưới vợ, thanh niên phát hiện teo tinh hoàn",
+      "link": "https://vnexpress.net/kham-truoc-khi-cuoi-vo-thanh-nien-phat-hien-teo-tinh-hoan-5064982.html",
+      "summary": "Trong lần đi khám sức khỏe trước kết hôn, nam thanh niên 28 tuổi bất ngờ khi được chẩn đoán teo tinh hoàn trái do giãn tĩnh mạch tinh kéo dài, dù không có triệu chứng rõ ràng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T19:00:00+07:00",
+      "fetched": "2026-04-22T03:49:24.316677+07:00"
     },
     {
       "id": "2c95998fe05b6af666a2fab5d41985a3",
