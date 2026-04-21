@@ -1,7 +1,57 @@
 window.newsData_2026_04_22 = {
   "date": "2026-04-22",
-  "lastUpdated": "2026-04-22T03:49:35.209518+07:00",
+  "lastUpdated": "2026-04-22T05:35:49.206814+07:00",
   "articles": [
+    {
+      "id": "cf24128edb80f36a96729b2e2abaf3c1",
+      "title": "Thời tiết hôm nay 22-4: Tối nay Bắc Bộ mưa to, Nam Bộ nắng nóng",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-22-4-toi-nay-bac-bo-mua-to-nam-bo-nang-nong-20260421164439339.htm",
+      "summary": "Ảnh hưởng không khí lạnh nên từ tối nay 22-4, thời tiết Bắc Bộ có mưa dù ngày nắng nóng. Nam Bộ ngày nắng oi bức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T05:35:40.958037+07:00",
+      "fetched": "2026-04-22T05:35:40.958156+07:00"
+    },
+    {
+      "id": "a5c4d01173c5adb86d1bcae0474e28ea",
+      "title": "Chó thả rông chạy khắp cầu thang chung cư",
+      "link": "https://tuoitre.vn/cho-tha-rong-chay-khap-cau-thang-chung-cu-20260421135259971.htm",
+      "summary": "Chó thả rông nhiều nơi, tiềm ẩn hiểm họa lây nhiễm bệnh, cắn người, gây sợ hãi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T05:35:40.957877+07:00",
+      "fetched": "2026-04-22T05:35:40.958024+07:00"
+    },
+    {
+      "id": "8979603517618341907c3e76bb1bee98",
+      "title": "Lịch trực tiếp bán kết U17 Đông Nam Á: Việt Nam đấu Úc",
+      "link": "https://tuoitre.vn/lich-truc-tiep-ban-ket-u17-dong-nam-a-viet-nam-dau-uc-20260421180625078.htm",
+      "summary": "Đội tuyển U17 Việt Nam sẽ chạm trán U17 Úc ở trận bán kết Giải vô địch U17 Đông Nam Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T05:35:40.957744+07:00",
+      "fetched": "2026-04-22T05:35:40.957865+07:00"
+    },
+    {
+      "id": "22018c8e8f7561a1457ade5077b779e8",
+      "title": "Muốn phát triển phải chuyển đổi xanh",
+      "link": "https://tuoitre.vn/muon-phat-trien-phai-chuyen-doi-xanh-20260421225724933.htm",
+      "summary": "Chuyển đổi năng lượng xanh không còn là xu hướng mà đã trở thành yêu cầu bắt buộc nếu Việt Nam muốn đảm bảo an ninh năng lượng và duy trì tăng trưởng trong dài hạn. Đây cũng là yêu cầu, tiêu chuẩn được thị trường quốc tế đặt ra với các doanh nghiệp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T05:35:40.957601+07:00",
+      "fetched": "2026-04-22T05:35:40.957732+07:00"
+    },
+    {
+      "id": "243850c495642f177237c1c0dfcc937b",
+      "title": "Tin tức sáng 22-4: Hơn 123.000 người nộp hồ sơ hưởng trợ cấp thất nghiệp",
+      "link": "https://tuoitre.vn/tin-tuc-sang-22-4-hon-123-000-nguoi-nop-ho-so-huong-tro-cap-that-nghiep-2026042116470913.htm",
+      "summary": "Một số tin tức đáng chú ý: Hôm nay, Quốc hội thảo luận thành lập thành phố Đồng Nai, thí điểm luật sư công; Kiến nghị xây dựng nghị quyết mới cho nhóm bảo trợ xã hội đặc thù.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T05:35:40.957410+07:00",
+      "fetched": "2026-04-22T05:35:40.957585+07:00"
+    },
     {
       "id": "b1d661e3479859bcbfe537fafcb4f11a",
       "title": "Bé gái 8 tuổi người Việt giành huy chương vàng giải cờ vua thế giới",
@@ -151,6 +201,196 @@ window.newsData_2026_04_22 = {
       "category": "Tổng hợp",
       "published": "2026-04-22T02:07:18.445115+07:00",
       "fetched": "2026-04-22T02:07:18.445345+07:00"
+    },
+    {
+      "id": "96b690490d941867995ebad08890dad1",
+      "title": "Tiêu điểm quốc tế ngày 22.4: Đàm phán có cứu vãn ngừng bắn? | Ukraine đánh mạnh dầu khí Nga",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-ngay-224-dam-phan-co-cuu-van-ngung-ban-ukraine-danh-manh-dau-khi-nga-185260421233153403.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 22.4.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T22:30:00+07:00",
+      "fetched": "2026-04-22T05:35:39.782291+07:00"
+    },
+    {
+      "id": "f734f731598109129c603c324e966f3f",
+      "title": "Tử vi ngày 22 tháng 4: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-22-thang-4-con-giap-nao-may-man-hom-nay-18526042205294976.htm",
+      "summary": "Tử vi ngày 22 tháng 4 mang đến những gợi ý tham khảo cho 12 con giáp. Điểm đáng chú ý là 'tối ưu nguồn lực cá nhân' - không phải ai làm nhiều hơn sẽ thắng, mà là ai dùng đúng sức đúng lúc. Tài lộc  phụ thuộc vào cách bạn phân bổ thời gian, tiền bạc và năng lượng một cách hợp lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T22:29:00+07:00",
+      "fetched": "2026-04-22T05:35:39.782461+07:00"
+    },
+    {
+      "id": "1a0829e35f291491b692807f1641b386",
+      "title": "Ngành điện TP.HCM nửa thế kỷ 'khúc hoan ca' tự hào",
+      "link": "https://thanhnien.vn/nganh-dien-tphcm-nua-the-ky-khuc-hoan-ca-tu-hao-185260421092428423.htm",
+      "summary": "Cho đến nay hẳn nhiều người vẫn còn nhớ những năm sau ngày đất nước thống nhất một Sài Gòn đô thị sau này là TP.HCM với nhiều khó khăn trong bối cảnh nguồn điện thiếu thốn cho sản xuất, dịch vụ  và phục vụ sinh hoạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T22:28:00+07:00",
+      "fetched": "2026-04-22T05:35:39.782622+07:00"
+    },
+    {
+      "id": "aa31b0d47d2bc9ab62747c701d022c50",
+      "title": "TP.HCM: Nhóm học sinh lớp 5 viết giấy nhục mạ bạn, các bên nói gì?",
+      "link": "https://thanhnien.vn/tphcm-nhom-hoc-sinh-lop-5-viet-giay-nhuc-ma-ban-cac-ben-noi-gi-185260421191946152.htm",
+      "summary": "Nhóm học sinh lớp 5 viết giấy với từ ngữ thô tục, nhục mạ 1 bạn. Vụ việc được phát hiện khi một phụ huynh thấy con mình khóc, nói không muốn đi học, chị tìm thấy tờ giấy ghi nhiều từ gây sốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T22:26:00+07:00",
+      "fetched": "2026-04-22T05:35:39.782783+07:00"
+    },
+    {
+      "id": "c5b756b9e00c96a03ee8ff0aad8f97be",
+      "title": "Lịch vạn niên, lịch âm hôm nay: Ngày 22.4 là ngày gì?",
+      "link": "https://thanhnien.vn/lich-van-nien-lich-am-hom-nay-ngay-224-la-ngay-gi-185260421090337633.htm",
+      "summary": "Theo lịch dương, lịch âm hôm nay 22.4 là ngày gì mà nhiều người Việt Nam cũng như trên khắp thế giới quan tâm, chia sẻ?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T22:18:00+07:00",
+      "fetched": "2026-04-22T05:35:39.782964+07:00"
+    },
+    {
+      "id": "c062bc11b7c840943fc699994baccb22",
+      "title": "Bán cơm tấm ngày nóng như đổ lửa ở TP.HCM: Trên nắng gắt, dưới than hồng",
+      "link": "https://thanhnien.vn/ban-com-tam-ngay-nong-nhu-do-lua-o-tphcm-tren-nang-gat-duoi-than-hong-185260421155026374.htm",
+      "summary": "Dưới ánh nắng chiều oi ả ở TP.HCM, chị Nguyễn Ngọc Thùy Duyên thoăn thoắt trở từng vỉ thịt nướng. Không chỉ hứng trọn cái nắng trên đầu, người bán cơm tấm còn phải đối mặt với sức nóng hầm hập từ bếp than trước mặt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T22:11:00+07:00",
+      "fetched": "2026-04-22T05:35:39.783125+07:00"
+    },
+    {
+      "id": "5fd8dd825b18a9712c0da9cfae7ebae0",
+      "title": "Ngộ độc thực phẩm: Vì sao cùng ăn 1 món nhưng người ngộ độc, người lại không?",
+      "link": "https://thanhnien.vn/ngo-doc-thuc-pham-vi-sao-cung-an-1-mon-nhung-nguoi-ngo-doc-nguoi-lai-khong-185260421200236208.htm",
+      "summary": "Cùng ăn một món nhưng có người bị ngộ độc, người khác lại không. Sự khác biệt nằm ở miễn dịch, lượng ăn, cơ địa và cách bảo quản, chế biến thực phẩm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T22:02:00+07:00",
+      "fetched": "2026-04-22T05:35:39.783288+07:00"
+    },
+    {
+      "id": "60ce8c3a214857ff11885baffac57769",
+      "title": "Nhà xe dè dặt tăng chuyến trước cao điểm lễ",
+      "link": "https://vnexpress.net/nha-xe-de-dat-tang-chuyen-truoc-cao-diem-le-5065305.html",
+      "summary": "Nhu cầu đi lại dịp 30/4–1/5 dự báo tăng, nhưng nhiều doanh nghiệp vận tải tại TP HCM thận trọng kế hoạch tăng chuyến do áp lực chi phí, nhất là giá nhiên liệu biến động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T22:00:00+07:00",
+      "fetched": "2026-04-22T05:35:36.494096+07:00"
+    },
+    {
+      "id": "c56f270c5d81d716f631c0427890f003",
+      "title": "Nguyên tắc '1 chiếc đĩa, 5 bữa nhỏ' - chìa khóa sống khỏe của Phần Lan",
+      "link": "https://vnexpress.net/nguyen-tac-1-chiec-dia-5-bua-nho-chia-khoa-song-khoe-cua-phan-lan-5064082.html",
+      "summary": "Không chỉ dẫn đầu thế giới về chỉ số hạnh phúc, người Phần Lan còn sở hữu bí quyết sống khỏe nhờ duy trì mô hình đĩa ăn cân bằng cùng thói quen chia nhỏ 5 bữa mỗi ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T22:00:00+07:00",
+      "fetched": "2026-04-22T05:35:36.494284+07:00"
+    },
+    {
+      "id": "e307d85ff8d63ef76024d3578da26f8e",
+      "title": "Cách công ty công nghệ Trung Quốc chuyển hóa AI thành lợi nhuận",
+      "link": "https://vnexpress.net/cach-cong-ty-cong-nghe-trung-quoc-chuyen-hoa-ai-thanh-loi-nhuan-5061856.html",
+      "summary": "Khi Mỹ chạy đua phô diễn sức mạnh mô hình, các công ty AI Trung Quốc bắt đầu cố gắng ứng dụng vào đời sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T22:00:00+07:00",
+      "fetched": "2026-04-22T05:35:36.494450+07:00"
+    },
+    {
+      "id": "5f64aeff216581154d9d5493cc09d2f3",
+      "title": "Con người có thể nghe tiếng còi tàu cách xa thế nào?",
+      "link": "https://vnexpress.net/con-nguoi-co-the-nghe-tieng-coi-tau-cach-xa-the-nao-5065348.html",
+      "summary": "Thông thường tiếng còi tàu có thể nghe được từ 1-2 km, tùy vào điều kiện môi trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T22:00:00+07:00",
+      "fetched": "2026-04-22T05:35:36.494625+07:00"
+    },
+    {
+      "id": "e307d85ff8d63ef76024d3578da26f8e",
+      "title": "Cách công ty công nghệ Trung Quốc chuyển hóa AI thành lợi nhuận",
+      "link": "https://vnexpress.net/cach-cong-ty-cong-nghe-trung-quoc-chuyen-hoa-ai-thanh-loi-nhuan-5061856.html",
+      "summary": "Khi Mỹ chạy đua phô diễn sức mạnh mô hình, các công ty AI Trung Quốc bắt đầu cố gắng ứng dụng vào đời sống.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-21T22:00:00+07:00",
+      "fetched": "2026-04-22T05:35:47.167172+07:00"
+    },
+    {
+      "id": "704db408860db7ebb85fa70906bbc99a",
+      "title": "Nhật Bản rộng đường xuất khẩu vũ khí sau khi dỡ hạn chế",
+      "link": "https://thanhnien.vn/nhat-ban-rong-duong-xuat-khau-vu-khi-sau-khi-do-han-che-18526042121442947.htm",
+      "summary": "Nhật Bản ngày 21.4 công bố cuộc cải tổ lớn nhất về quy định xuất khẩu quốc phòng trong nhiều thập kỷ, bãi bỏ các hạn chế đối với việc bán vũ khí ra nước ngoài và mở đường cho việc xuất khẩu tàu chiến, tên lửa và các loại vũ khí khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T21:48:00+07:00",
+      "fetched": "2026-04-22T05:35:39.783442+07:00"
+    },
+    {
+      "id": "62cbe79200234edef44a8232d550a35e",
+      "title": "Tình hình Iran, Trung Đông mới nhất ngày 22.4: Ông Trump gia hạn lệnh ngừng bắn",
+      "link": "https://thanhnien.vn/tinh-hinh-iran-trung-dong-moi-nhat-ngay-224-thoa-thuan-ngung-ban-con-lai-rat-mong-manh-185260421234520413.htm",
+      "summary": "Thỏa thuận ngừng bắn mong manh giữa Mỹ và Iran sắp hết hạn và triển vọng vòng đàm phán thứ hai vẫn rất mịt mờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T21:30:00+07:00",
+      "fetched": "2026-04-22T05:35:39.783595+07:00"
+    },
+    {
+      "id": "13a9b7c88c268601b35602d486565b7c",
+      "title": "Bác sĩ chia sẻ 4 bí quyết sống thọ, sống khỏe",
+      "link": "https://thanhnien.vn/bac-si-chia-se-4-bi-quyet-song-tho-song-khoe-185260421023750994.htm",
+      "summary": "Theo chuyên gia, những thay đổi nhỏ nhưng duy trì đều đặn có thể chủ động nâng cao sức khỏe, phòng bệnh mạn tính, hướng tới một cuộc sống chất lượng, sống thọ, sống khỏe hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T21:12:00+07:00",
+      "fetched": "2026-04-22T05:35:39.783746+07:00"
+    },
+    {
+      "id": "f5aadfb8f37660230db251e39f0e0e47",
+      "title": "Toàn cảnh xa lộ Hà Nội sắp được mở rộng với vốn đầu tư 4.900 tỉ đồng",
+      "link": "https://thanhnien.vn/toan-canh-xa-lo-ha-noi-sap-duoc-mo-rong-voi-von-dau-tu-4900-ti-dong-185260421144643251.htm",
+      "summary": "TP.HCM đang lên kế hoạch cải tạo quy mô lớn xa lộ Hà Nội - trục giao thông huyết mạch kết nối khu vực trung tâm với cửa ngõ phía đông, với tổng chiều dài khoảng 15,7 km, từ cầu Sài Gòn đến nút giao Tân Vạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T21:11:00+07:00",
+      "fetched": "2026-04-22T05:35:39.783894+07:00"
+    },
+    {
+      "id": "3d92d280eda371aa1f7c50ef39ac9118",
+      "title": "Mỹ - Iran trước ngưỡng cửa đàm phán mới",
+      "link": "https://thanhnien.vn/my-iran-truoc-nguong-cua-dam-phan-moi-185260421215841201.htm",
+      "summary": "Bàn đàm phán giữa Iran và Mỹ đang rơi vào thế giằng co, khi hai bên vừa để ngỏ đối thoại vừa gia tăng sức ép, đẩy khu vực tới ranh giới mong manh giữa hòa dịu và leo thang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T21:00:00+07:00",
+      "fetched": "2026-04-22T05:35:39.784073+07:00"
+    },
+    {
+      "id": "c1edb233263be1619d4fa6f2fb4c2391",
+      "title": "Chelsea thảm bại dưới tay Brighton",
+      "link": "https://vnexpress.net/chelsea-tham-bai-duoi-tay-brighton-5065423.html",
+      "summary": "Chelsea chìm trong khủng hoảng khi thua chủ nhà Brighton 0-3 ở vòng 34 Ngoại hạng Anh, đánh dấu thất bại thứ năm liên tiếp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T20:53:55+07:00",
+      "fetched": "2026-04-22T05:35:36.494791+07:00"
+    },
+    {
+      "id": "c1edb233263be1619d4fa6f2fb4c2391",
+      "title": "Chelsea thảm bại dưới tay Brighton",
+      "link": "https://vnexpress.net/chelsea-tham-bai-duoi-tay-brighton-5065423.html",
+      "summary": "Chelsea chìm trong khủng hoảng khi thua chủ nhà Brighton 0-3 ở vòng 34 Ngoại hạng Anh, đánh dấu thất bại thứ năm liên tiếp.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-21T20:53:55+07:00",
+      "fetched": "2026-04-22T05:35:49.201604+07:00"
     },
     {
       "id": "1ae517f9583c75cffb0537f8b5665b01",
