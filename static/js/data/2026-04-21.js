@@ -1,7 +1,157 @@
 window.newsData_2026_04_21 = {
   "date": "2026-04-21",
-  "lastUpdated": "2026-04-21T20:19:54.522949+07:00",
+  "lastUpdated": "2026-04-21T22:10:02.662953+07:00",
   "articles": [
+    {
+      "id": "382d020cf6c243fd13ac23e3094d4bd1",
+      "title": "Diễn biến mới vụ Mỹ nổ súng, bắt giữ tàu Iran chở hàng từ Trung Quốc",
+      "link": "https://tuoitre.vn/dien-bien-moi-vu-my-no-sung-bat-giu-tau-iran-cho-hang-tu-trung-quoc-20260421184711771.htm",
+      "summary": "Bộ Ngoại giao Iran lên án việc Mỹ bắt giữ tàu hàng Touska, yêu cầu Washington thả ngay tàu và toàn bộ thủy thủ đoàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T22:09:55.797277+07:00",
+      "fetched": "2026-04-21T22:09:55.797399+07:00"
+    },
+    {
+      "id": "19d3a2e9bfc20115878e35bb6bdef805",
+      "title": "Quốc hội Anh thông qua dự luật cấm 'cả một thế hệ' mua thuốc lá suốt đời",
+      "link": "https://tuoitre.vn/quoc-hoi-anh-thong-qua-du-luat-cam-ca-mot-the-he-mua-thuoc-la-suot-doi-20260421191610676.htm",
+      "summary": "Theo dự luật nói trên, trẻ em ở Anh sinh vào hoặc sau ngày 1-1-2009 sẽ bị cấm mua thuốc lá suốt đời.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T22:09:55.797149+07:00",
+      "fetched": "2026-04-21T22:09:55.797266+07:00"
+    },
+    {
+      "id": "98eae08530012ce509c4c840e0abe3f6",
+      "title": "Doanh nghiệp biến bã mía thành điện, tiết kiệm chi phí vận hành",
+      "link": "https://tuoitre.vn/doanh-nghiep-bien-ba-mia-thanh-dien-tiet-kiem-chi-phi-van-hanh-20260421191932166.htm",
+      "summary": "Tận dụng phụ phẩm từ hoạt động sản xuất, Công ty cổ phần Thành Thành Công - Biên Hòa (AgriS) đã biến bã mía thành điện giúp tiết kiệm rất nhiều chi phí.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T22:09:55.796988+07:00",
+      "fetched": "2026-04-21T22:09:55.797136+07:00"
+    },
+    {
+      "id": "4a17ec9eb09b220cc0d43ebe8e84d6bb",
+      "title": "Sớm xử lý sai phạm, tháo gỡ khó khăn, vướng mắc cho dự án sân bay Long Thành",
+      "link": "https://tuoitre.vn/kiem-kiem-tien-do-du-an-san-bay-long-thanh-day-nhanh-dieu-tra-xu-ly-sai-pham-20260421191536699.htm",
+      "summary": "Văn phòng Chính phủ có thông báo kết luận của Phó thủ tướng thường trực Phạm Gia Túc tại cuộc họp kiểm điểm tiến độ triển khai dự án đầu tư xây dựng Cảng hàng không quốc tế Long Thành giai đoạn 1.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T22:09:55.796859+07:00",
+      "fetched": "2026-04-21T22:09:55.796973+07:00"
+    },
+    {
+      "id": "49e5de448b27ffe3d50f8ed6c0a83b8e",
+      "title": "Tổng thống Hàn Quốc đến Hà Nội, bắt đầu thăm cấp Nhà nước Việt Nam",
+      "link": "https://tuoitre.vn/tong-thong-han-quoc-den-ha-noi-bat-dau-tham-cap-nha-nuoc-viet-nam-2026042116163624.htm",
+      "summary": "Đây là chuyến thăm cấp Nhà nước đầu tiên của Tổng thống Hàn Quốc Lee Jae Myung đến Việt Nam trên cương vị mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T22:09:55.796733+07:00",
+      "fetched": "2026-04-21T22:09:55.796847+07:00"
+    },
+    {
+      "id": "b686ea7a527314f8c69b22745ed2af03",
+      "title": "Tuổi trẻ cả nước đóng góp hơn 171 tỉ đồng làm công trình thanh niên",
+      "link": "https://tuoitre.vn/tuoi-tre-ca-nuoc-dong-gop-hon-171-ti-dong-lam-cong-trinh-thanh-nien-20260421191917377.htm",
+      "summary": "Tổng kết Tháng Thanh niên (tháng 3-2026), tuổi trẻ cả nước đã làm hơn 15.000 công trình thanh niên, tổng trị giá hơn 17 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T22:09:55.796607+07:00",
+      "fetched": "2026-04-21T22:09:55.796722+07:00"
+    },
+    {
+      "id": "df944260151df9d04505abf4b84aee16",
+      "title": "Đà Nẵng sẽ công khai việc điều chỉnh hoặc hủy bỏ 'quy hoạch treo' trong quý 3",
+      "link": "https://tuoitre.vn/da-nang-se-cong-khai-viec-dieu-chinh-hoac-huy-bo-quy-hoach-treo-trong-quy-iii-20260421173355712.htm",
+      "summary": "Thành ủy Đà Nẵng yêu cầu hoàn thành rà soát và công bố công khai việc điều chỉnh, hoặc hủy bỏ các \"quy hoạch treo\" không còn phù hợp trong quý 3-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T22:09:55.796476+07:00",
+      "fetched": "2026-04-21T22:09:55.796595+07:00"
+    },
+    {
+      "id": "176c7af4af8c2a5542e34a0d298820e9",
+      "title": "Việt Nam vươn thành nền kinh tế lớn thứ hai Đông Nam Á, vượt Thái Lan về GDP theo sức mua",
+      "link": "https://tuoitre.vn/viet-nam-vuon-thanh-nen-kinh-te-lon-thu-hai-dong-nam-a-vuot-thai-lan-ve-gdp-theo-suc-mua-20260421192713761.htm",
+      "summary": "Quỹ Tiền tệ quốc tế (IMF) dự báo Việt Nam tăng trưởng nhanh nhất ASEAN6 giai đoạn 2026-2031, vượt Thái Lan cùng loạt quốc gia để trở thành nền kinh tế lớn thứ hai Đông Nam Á, theo GDP sức mua tương đương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T22:09:55.796327+07:00",
+      "fetched": "2026-04-21T22:09:55.796453+07:00"
+    },
+    {
+      "id": "bc582da4c3b68e5ab3502de9e63d410a",
+      "title": "Tuyển nữ Việt Nam tụt 1 bậc vẫn xếp số 1 Đông Nam Á, hơn Thái Lan 13 bậc",
+      "link": "https://tuoitre.vn/tuyen-nu-viet-nam-tut-1-bac-van-xep-so-1-dong-nam-a-hon-thai-lan-13-bac-2026042119235512.htm",
+      "summary": "Đêm 21-4, Liên đoàn Bóng đá thế giới (FIFA) đã công bố bảng xếp hạng mới nhất dành cho các đội tuyển bóng đá nữ. Theo đó Việt Nam tụt 1 bậc xuống hạng 37 thế giới nhưng vẫn dẫn đầu Đông Nam Á, hơn Thái Lan đến 13 bậc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T22:09:55.796197+07:00",
+      "fetched": "2026-04-21T22:09:55.796315+07:00"
+    },
+    {
+      "id": "8905087abd057234b8dd86df759e2c3d",
+      "title": "Trùng tu di tích lăng Tự Đức: Còn nhiều điều tranh luận về yếu tố gốc",
+      "link": "https://tuoitre.vn/trung-tu-di-tich-lang-tu-duc-con-nhieu-dieu-tranh-luan-ve-yeu-to-goc-20260421190247555.htm",
+      "summary": "Ngày 21-4, Trung tâm Bảo tồn di tích cố đô Huế vừa tổ chức cuộc họp lắng nghe thêm các ý kiến chuyên môn liên quan đến yếu tố gốc của các công trình bên trong di tích lăng Vua Tự Đức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T22:09:55.796056+07:00",
+      "fetched": "2026-04-21T22:09:55.796185+07:00"
+    },
+    {
+      "id": "f5c47b089aca12beb0481c26c8dffe92",
+      "title": "Bắt shipper chờ 5 phút, lặp lại 10-15 lần/ngày là thành cả tiếng đồng hồ",
+      "link": "https://tuoitre.vn/bat-shipper-cho-5-phut-lap-lai-10-15-lan-ngay-la-thanh-ca-tieng-dong-ho-20260415120813686.htm",
+      "summary": "Câu chuyện mua hàng cho shipper chờ dài cổ khiến nhiều tranh luận cho rằng người giao hàng cũng là người đi làm, có KPI, có áp lực, có ngày mệt như bất kỳ ai. Không ai thích bị chờ lâu cả, đừng làm khó nhau.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T22:09:55.795906+07:00",
+      "fetched": "2026-04-21T22:09:55.796025+07:00"
+    },
+    {
+      "id": "df06393acb82fd7809caf7f64ec063eb",
+      "title": "Mời bia giao lưu nhưng bị nhìn lại nên đuổi chém người, 2 công nhân lãnh án",
+      "link": "https://tuoitre.vn/moi-bia-giao-luu-nhung-bi-nhin-lai-nen-duoi-chem-nguoi-2-cong-nhan-lanh-an-20260421173954341.htm",
+      "summary": "Ngày 21-4, Tòa án nhân dân tỉnh Tây Ninh đã mở phiên xét xử sơ thẩm, tuyên phạt Lê Tấn Đạt (39 tuổi, quê Vĩnh Long) và Nguyễn Trọng Nguyễn (25 tuổi, quê Cà Mau) mỗi người 12 năm tù cùng về tội giết người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T22:09:55.795773+07:00",
+      "fetched": "2026-04-21T22:09:55.795894+07:00"
+    },
+    {
+      "id": "48acfff760f99619590245737cf1031a",
+      "title": "Triệu phú dùng xe Porsche trộn xi măng vá ổ gà, mạng xã hội dậy sóng",
+      "link": "https://tuoitre.vn/trieu-phu-dung-xe-porsche-tron-xi-mang-va-o-ga-mang-xa-hoi-day-song-20260421155003141.htm",
+      "summary": "Một doanh nhân tại Ấn Độ gây chú ý khi dùng chính chiếc Porsche hạng sang làm 'bàn trộn xi măng' để vá ổ gà trên đường. Hành động này khiến cộng đồng mạng tranh cãi gay gắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T22:09:55.795640+07:00",
+      "fetched": "2026-04-21T22:09:55.795762+07:00"
+    },
+    {
+      "id": "15e1bbde0465946391b5a72e2c2bb6b9",
+      "title": "Bé trai đá bóng ra đường làm một người bị tai nạn tử vong, cơ quan chức năng nói gì?",
+      "link": "https://tuoitre.vn/be-trai-da-bong-ra-duong-lam-mot-nguoi-bi-tai-nan-tu-vong-co-quan-chuc-nang-noi-gi-20260421194717839.htm",
+      "summary": "Ngày 21-4, lực lượng chức năng tỉnh Vĩnh Long cho biết đang làm rõ vụ tai nạn giao thông xảy ra trên tỉnh lộ 908 làm một người đàn ông tử vong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T22:09:55.795498+07:00",
+      "fetched": "2026-04-21T22:09:55.795628+07:00"
+    },
+    {
+      "id": "531694b655052485c5379b65395fa97a",
+      "title": "Hai tay vợt Sabalenka và Alcaraz đoạt giải 'Oscar thể thao'",
+      "link": "https://tuoitre.vn/hai-tay-vot-sabalenka-va-alcaraz-doat-giai-oscar-the-thao-20260421194757167.htm",
+      "summary": "Hai tay vợt Aryna Sabalenka và Carlos Alcaraz lần lượt được vinh danh là Nữ vận động viên và Nam vận động viên xuất sắc nhất năm tại Madrid vào chiều ngày 21-4 ở Lễ trao giải Laureus, được biết đến như là \"Oscar thể thao\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T22:09:55.795261+07:00",
+      "fetched": "2026-04-21T22:09:55.795483+07:00"
+    },
     {
       "id": "6313f56948b6668fb409da38135cae34",
       "title": "UEH ra mắt không gian học tập bằng trải nghiệm số",
@@ -453,6 +603,266 @@ window.newsData_2026_04_21 = {
       "fetched": "2026-04-21T16:22:45.643930+07:00"
     },
     {
+      "id": "25e4348b167e50ad2cb3c6faec5e64c0",
+      "title": "Xét xử cựu Trưởng công an Phú Quốc trong vụ bán đất rừng, lừa gần 68 tỉ",
+      "link": "https://thanhnien.vn/xet-xu-cuu-truong-cong-an-phu-quoc-trong-vu-ban-dat-rung-lua-gan-68-ti-185260421194121282.htm",
+      "summary": "TAND tỉnh An Giang xét xử bị cáo Lê Văn Mót (60 tuổi, cựu đại tá - Trưởng công an TP.Phú Quốc) về tội lừa đảo chiếm đoạt tài sản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T14:38:00+07:00",
+      "fetched": "2026-04-21T22:09:54.969658+07:00"
+    },
+    {
+      "id": "2d39cb07ee506626b30713a85a6bd62c",
+      "title": "HLV Philippe Troussier có thể trở lại Việt Nam, tiếp tục làm bóng đá trẻ?",
+      "link": "https://thanhnien.vn/hlv-philippe-troussier-co-the-tro-lai-viet-nam-tiep-tuc-lam-bong-da-tre-185260421211605978.htm",
+      "summary": "Cựu HLV Philippe Troussier được cho là có thể sớm trở lại Việt Nam, nhưng lần này với vai trò phát triển bóng đá trẻ thay vì dẫn dắt đội tuyển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T14:35:00+07:00",
+      "fetched": "2026-04-21T22:09:54.969835+07:00"
+    },
+    {
+      "id": "5b798b6e2a1d7eeed71602766343aa67",
+      "title": "Võ Minh Lâm gây chú ý khi kết hợp cùng học trò Đàm Vĩnh Hưng",
+      "link": "https://thanhnien.vn/vo-minh-lam-gay-chu-y-khi-ket-hop-cung-hoc-tro-dam-vinh-hung-185260421210438701.htm",
+      "summary": "NSƯT Võ Minh Lâm gây chú ý khi bắt tay cùng ca sĩ Minh Sang, học trò của Đàm Vĩnh Hưng trong MV ‘Ánh Sao Việt Nam’.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T14:35:00+07:00",
+      "fetched": "2026-04-21T22:09:54.969991+07:00"
+    },
+    {
+      "id": "6f37c824b45133176fa06a8b928aec6b",
+      "title": "Chiêu trò tinh vi đánh cắp tiền của người dùng Apple",
+      "link": "https://thanhnien.vn/chieu-tro-tinh-vi-danh-cap-tien-cua-nguoi-dung-apple-185260420215342999.htm",
+      "summary": "Khi hệ thống bảo mật của gã khổng lồ Apple bị tin tặc biến thành công cụ lừa đảo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T14:28:00+07:00",
+      "fetched": "2026-04-21T22:09:54.970171+07:00"
+    },
+    {
+      "id": "17f995d997a2c0c594f7fc53444e259d",
+      "title": "Người hát lô tô giật điện thoại của khách nước ngoài",
+      "link": "https://vnexpress.net/nguoi-hat-lo-to-giat-dien-thoai-cua-khach-nuoc-ngoai-5065392.html",
+      "summary": "Phạm Minh Khoa, nhân viên đoàn lô tô lưu động, bị bắt sau một ngày giật điện thoại của nam du khách Ukraine tại khu vực phường An Hải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T14:26:34+07:00",
+      "fetched": "2026-04-21T22:09:49.251800+07:00"
+    },
+    {
+      "id": "23f6bb23e1b27b685daee4a7279760d7",
+      "title": "Ông Trump thông báo vừa chặn 'món quà' do Trung Quốc chuyển Iran",
+      "link": "https://thanhnien.vn/ong-trump-thong-bao-vua-chan-mon-qua-do-trung-quoc-chuyen-iran-185260421205242268.htm",
+      "summary": "Tổng thống Mỹ Donald Trump cho biết lực lượng Mỹ đã chặn một tàu chở 'món quà từ Trung Quốc' gửi cho Iran, trong bối cảnh Tehran bị nghi đang tận dụng thời gian ngừng bắn để bổ sung quân nhu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T14:15:00+07:00",
+      "fetched": "2026-04-21T22:09:54.970333+07:00"
+    },
+    {
+      "id": "bda5ef04f17a38562968071777a8ab21",
+      "title": "Giới hạn tàu du lịch trên vịnh Hạ Long để tránh quá tải",
+      "link": "https://vnexpress.net/gioi-han-tau-du-lich-tren-vinh-ha-long-de-tranh-qua-tai-5065347.html",
+      "summary": "Các cơ quan sẽ tính toán ngưỡng chịu tải môi trường, giới hạn số tàu và khu vực khai thác du lịch trên vịnh Hạ Long nhằm giảm áp lực lên di sản, bảo vệ cảnh quan và hệ sinh thái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T14:13:06+07:00",
+      "fetched": "2026-04-21T22:09:49.251982+07:00"
+    },
+    {
+      "id": "c9c427e379ddbe93473cca09c411a199",
+      "title": "Đà Nẵng xử lý mỏ đất 11 triệu m3 chồng lấn Khu thương mại tự do",
+      "link": "https://vnexpress.net/da-nang-xu-ly-mo-dat-11-trieu-m3-chong-lan-khu-thuong-mai-tu-do-5065391.html",
+      "summary": "Chủ tịch UBND TP Đà Nẵng Nguyễn Mạnh Hùng yêu cầu khai thác mỏ đất tại xã Bà Nà theo cao độ quy hoạch để sớm bàn giao mặt bằng sạch cho dự án Khu thương mại tự do.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T14:06:57+07:00",
+      "fetched": "2026-04-21T22:09:49.252177+07:00"
+    },
+    {
+      "id": "076240891f91818f6dce9194980dc272",
+      "title": "Cắn răng chi tiền triệu cho con học môn liên kết vì xen giờ học chính khóa",
+      "link": "https://vnexpress.net/can-rang-chi-tien-trieu-cho-con-hoc-mon-lien-ket-vi-xen-gio-hoc-chinh-khoa-5065256.html",
+      "summary": "'Sau một tháng con bị lên phòng hội đồng ngồi, tôi vội vàng viết đơn xin tự nguyện cho con học môn liên kết như cả lớp'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T14:06:03+07:00",
+      "fetched": "2026-04-21T22:09:49.252342+07:00"
+    },
+    {
+      "id": "0f528b82967eb41d35eb7791c598a6fb",
+      "title": "Người dân nước nào uống cà phê nhiều nhất thế giới?",
+      "link": "https://vnexpress.net/nguoi-dan-nuoc-nao-uong-ca-phe-nhieu-nhat-the-gioi-5065315.html",
+      "summary": "Với trung bình 5,31 tách mỗi ngày, người dân nước này tiêu thụ cà phê nhiều nhất thế giới. Đó có phải là Việt Nam?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T14:02:00+07:00",
+      "fetched": "2026-04-21T22:09:49.252500+07:00"
+    },
+    {
+      "id": "69a0d22bd170802ff8c843f79fab4009",
+      "title": "Xe số tự động: Khi nào nên thay dầu động cơ, dầu hộp số?",
+      "link": "https://thanhnien.vn/xe-so-tu-dong-khi-nao-nen-thay-dau-dong-co-dau-hop-so-185260417151308699.htm",
+      "summary": "Dầu động cơ, dầu hộp số là những dung dịch quan trọng cần được thay thế định kỳ sau một thời gian sử dụng ô tô số tự động, tuy nhiên không phải bất kỳ ai sử dụng ô tô… cũng nắm rõ thời điểm để thay dầu động cơ, dầu hộp số trên ô tô số tự động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T14:00:00+07:00",
+      "fetched": "2026-04-21T22:09:54.970488+07:00"
+    },
+    {
+      "id": "12d5cb291c4947d9aaf67ee2a3a1dbc4",
+      "title": "'Đà Nẵng cần bỏ kè cứng, trả lại không gian cho sông Hàn'",
+      "link": "https://vnexpress.net/da-nang-can-bo-ke-cung-tra-lai-khong-gian-cho-song-han-5065368.html",
+      "summary": "Chuyên gia cho rằng TP Đà Nẵng cần thay thế hệ thống kè bêtông bằng hạ tầng mềm, phục hồi không gian ven sông và kiên trì lộ trình dài hạn để hướng tới đô thị sinh thái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T13:56:19+07:00",
+      "fetched": "2026-04-21T22:09:49.252661+07:00"
+    },
+    {
+      "id": "065e9e37a9cb61e49f52ed6b996d6525",
+      "title": "Xe tải cố tình tạt đầu ô tô con, gây va chạm rồi bỏ chạy",
+      "link": "https://thanhnien.vn/xe-tai-co-tinh-tat-dau-o-to-con-gay-va-cham-roi-bo-chay-185260421165336463.htm",
+      "summary": "Đoạn đường dẫn có hẳn hai làn nhưng tài xế xe tải vẫn cố tình tạt đầu, gây va chạm với ô tô con, khiến gương chiếu hậu bên trái của xe bị bẻ gãy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T13:56:00+07:00",
+      "fetched": "2026-04-21T22:09:54.970640+07:00"
+    },
+    {
+      "id": "acdcc8d9e7b26b1791fc2a93b7c72bfa",
+      "title": "Kết quả xổ số Vietlott Power 6/55 tối 21.4, giải độc đắc tăng 33,5 tỉ đồng",
+      "link": "https://thanhnien.vn/ket-qua-xo-so-vietlott-power-6-55-toi-214-giai-doc-dac-tang-335-ti-dong-185260421203022667.htm",
+      "summary": "Tối 21.4, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Power 6/55, không có người trúng độc đắc nên số tiền cộng dồn là 33,5 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T13:43:00+07:00",
+      "fetched": "2026-04-21T22:09:54.970795+07:00"
+    },
+    {
+      "id": "47123ddc833fd637790fdfae81a8395a",
+      "title": "Xử lý người vứt lượng lớn mảnh chai, kính vỡ xuống sông ở Cần Thơ",
+      "link": "https://thanhnien.vn/xu-ly-nguoi-vut-luong-lon-manh-chai-kinh-vo-xuong-song-o-can-tho-185260421192153401.htm",
+      "summary": "Một người đàn ông chở 4 bao chứa mảnh vỡ thủy tinh định đổ xuống sông Chàng Ré thì bị Công an Cần Thơ bắt quả tang. Trước đó, người này đã vứt nhiều kính vỡ, mảnh thủy tinh xuống sông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T13:40:00+07:00",
+      "fetched": "2026-04-21T22:09:54.970944+07:00"
+    },
+    {
+      "id": "2bec062e242742d13c0bcf361f631b25",
+      "title": "Thị trường robot hút bụi Việt Nam 'ngày càng nóng'",
+      "link": "https://thanhnien.vn/thi-truong-robot-hut-bui-viet-nam-ngay-cang-nong-185260421165646371.htm",
+      "summary": "Việt Nam là thị trường robot hút bụi thông minh năng động hàng đầu khu vực, có sự chuyển dịch rõ rệt sang phân khúc cao cấp và dần trở thành cuộc đua khốc liệt của những \"gã khổng lồ\" công nghệ toàn cầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T13:37:00+07:00",
+      "fetched": "2026-04-21T22:09:54.971143+07:00"
+    },
+    {
+      "id": "2097003825f841c5290c52ea185f2fe3",
+      "title": "Thả rắn hổ mang chúa 10 kg bắt trong bệnh viện về rừng",
+      "link": "https://vnexpress.net/tha-ran-ho-mang-chua-10-kg-bat-trong-benh-vien-ve-rung-5065378.html",
+      "summary": "Hổ mang chúa dài 3 m, nặng 10 kg do người dân bắt trong khuôn viên Bệnh viện Đại học Y Dược Buôn Ma Thuột đã được kiểm lâm thả về Vườn quốc gia Chư Yang Sin, ngày 21/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T13:36:35+07:00",
+      "fetched": "2026-04-21T22:09:49.252818+07:00"
+    },
+    {
+      "id": "0a84a24cfc2282b096e78ca4effa4596",
+      "title": "Những người xa lạ xuyên đêm tìm nam sinh mất tích ở Tam Đảo",
+      "link": "https://vnexpress.net/nhung-nguoi-xa-la-xuyen-dem-tim-nam-sinh-mat-tich-o-tam-dao-5065360.html",
+      "summary": "Giữa đêm núi lạnh, sương dày phủ kín, hàng trăm người không quen biết từ các nhóm leo núi cùng người dân địa phương và lực lượng chức năng cùng tỏa vào rừng sâu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T13:36:21+07:00",
+      "fetched": "2026-04-21T22:09:49.252989+07:00"
+    },
+    {
+      "id": "839d3b5d6b7f6f59f7f1ed138f3802e1",
+      "title": "Hải quân Iran 'giúp tàu dầu vượt qua vòng phong tỏa của Mỹ'",
+      "link": "https://vnexpress.net/hai-quan-iran-giup-tau-dau-vuot-qua-vong-phong-toa-cua-my-5065353.html",
+      "summary": "Iran thông báo một tàu dầu đã cập bến an toàn nhờ chiến dịch hộ tống của lực lượng hải quân nước này, bất chấp lệnh phong tỏa của Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T13:36:02+07:00",
+      "fetched": "2026-04-21T22:09:49.253177+07:00"
+    },
+    {
+      "id": "839d3b5d6b7f6f59f7f1ed138f3802e1",
+      "title": "Hải quân Iran 'giúp tàu dầu vượt qua vòng phong tỏa của Mỹ'",
+      "link": "https://vnexpress.net/hai-quan-iran-giup-tau-dau-vuot-qua-vong-phong-toa-cua-my-5065353.html",
+      "summary": "Iran thông báo một tàu dầu đã cập bến an toàn nhờ chiến dịch hộ tống của lực lượng hải quân nước này, bất chấp lệnh phong tỏa của Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-21T13:36:02+07:00",
+      "fetched": "2026-04-21T22:09:57.351456+07:00"
+    },
+    {
+      "id": "c6266c38d76e3646fbfaa4aead8645da",
+      "title": "Hơn 1.300 bà mẹ tại TP.HCM đã nhận thưởng 5 triệu đồng khi sinh đủ hai con",
+      "link": "https://thanhnien.vn/hon-1300-ba-me-tai-tphcm-da-nhan-thuong-5-trieu-dong-khi-sinh-du-hai-con-185260421201845346.htm",
+      "summary": "TP.HCM đã chuyển khoản tiền hỗ trợ 5 triệu đồng cho hơn 1.300 bà mẹ sinh đủ hai con, đồng thời hỗ trợ 3 triệu đồng cho hàng nghìn trường hợp sinh con thứ hai trước đó, trong nỗ lực kéo mức sinh đang ở ngưỡng thấp. Song song với hỗ trợ tài chính, thành phố đưa dịch vụ y tế xuống tận cơ sở, giúp người...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T13:27:00+07:00",
+      "fetched": "2026-04-21T22:09:54.971303+07:00"
+    },
+    {
+      "id": "b2dbf6a214fe392d429cf2e2c3b56ae0",
+      "title": "Nóng: HLV Troussier sắp trở lại Việt Nam trong vai trò mới, tái ngộ trợ lý cũ?",
+      "link": "https://thanhnien.vn/nong-hlv-troussier-sap-tro-lai-viet-nam-trong-vai-tro-moi-tai-ngo-tro-ly-cu-185260421201347822.htm",
+      "summary": "Cựu HLV Philippe Troussier có thể trở lại Việt Nam trong tương lai gần để tiếp tục đóng góp cho sự phát triển của bóng đá trẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T13:26:00+07:00",
+      "fetched": "2026-04-21T22:09:54.971461+07:00"
+    },
+    {
+      "id": "f4863a56afad713881d771764ed38503",
+      "title": "Bí quyết ôn thi tốt nghiệp THPT đạt điểm cao: Hiện tượng di truyền môn sinh học",
+      "link": "https://thanhnien.vn/bi-quyet-on-thi-tot-nghiep-thpt-dat-diem-cao-hien-tuong-di-truyen-mon-sinh-hoc-185260420142732105.htm",
+      "summary": "Vào lúc 20 giờ 30 hôm nay 21.4, Báo Thanh Niên phát sóng chương trình Bí quyết ôn thi tốt nghiệp THPT đạt điểm cao năm 2026 môn sinh học.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T13:25:00+07:00",
+      "fetched": "2026-04-21T22:09:54.971613+07:00"
+    },
+    {
+      "id": "a99680643390bb6351948d7ab76b85e5",
+      "title": "Thuduc House được gỡ toàn bộ lệnh cưỡng chế thuế",
+      "link": "https://vnexpress.net/thuduc-house-duoc-go-toan-bo-lenh-cuong-che-thue-5065377.html",
+      "summary": "Thuduc House được Thuế TP HCM chấm dứt các biện pháp cưỡng chế như dừng làm thủ tục hải quan với hàng xuất nhập khẩu, ngừng sử dụng hóa đơn và phong tỏa tài khoản ngân hàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T13:20:53+07:00",
+      "fetched": "2026-04-21T22:09:49.253339+07:00"
+    },
+    {
+      "id": "a99680643390bb6351948d7ab76b85e5",
+      "title": "Thuduc House được gỡ toàn bộ lệnh cưỡng chế thuế",
+      "link": "https://vnexpress.net/thuduc-house-duoc-go-toan-bo-lenh-cuong-che-thue-5065377.html",
+      "summary": "Thuduc House được Thuế TP HCM chấm dứt các biện pháp cưỡng chế như dừng làm thủ tục hải quan với hàng xuất nhập khẩu, ngừng sử dụng hóa đơn và phong tỏa tài khoản ngân hàng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-21T13:20:53+07:00",
+      "fetched": "2026-04-21T22:09:59.284149+07:00"
+    },
+    {
+      "id": "88dc54a509bc01daa1cb0a1cc289c397",
+      "title": "Tổng thống Hàn Quốc và phu nhân bắt đầu chuyến thăm cấp nhà nước tới Việt Nam",
+      "link": "https://thanhnien.vn/tong-thong-han-quoc-va-phu-nhan-bat-dau-chuyen-tham-cap-nha-nuoc-toi-viet-nam-185260421200738569.htm",
+      "summary": "Chiều tối 21.4, Tổng thống Hàn Quốc Lee Jae Myung và phu nhân đến Hà Nội, bắt đầu thăm cấp nhà nước tới Việt Nam từ ngày 21- 24.4, theo lời mời của Tổng Bí thư, Chủ tịch nước Tô Lâm và phu nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T13:20:00+07:00",
+      "fetched": "2026-04-21T22:09:54.971762+07:00"
+    },
+    {
       "id": "75889e46b80e228af3b9982009895ae9",
       "title": "NATO 'đấu khẩu' Nga, Trung Quốc về hạt nhân",
       "link": "https://thanhnien.vn/nato-dau-khau-nga-trung-quoc-ve-hat-nhan-185260421200424349.htm",
@@ -693,6 +1103,26 @@ window.newsData_2026_04_21 = {
       "fetched": "2026-04-21T20:19:45.989122+07:00"
     },
     {
+      "id": "dabfd17f0de83b652920465f2dc2be84",
+      "title": "Vợ sắp cưới từng định cưới người khác trong khi yêu tôi",
+      "link": "https://vnexpress.net/vo-sap-cuoi-tung-dinh-cuoi-nguoi-khac-trong-khi-yeu-toi-5065260.html",
+      "summary": "Nếu không có chuyện này, bạn gái thực sự là một người tuyệt vời; với tôi, em là tất cả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T13:00:00+07:00",
+      "fetched": "2026-04-21T22:09:49.253504+07:00"
+    },
+    {
+      "id": "e8e69acdd8fa165357ee70f202a5f16f",
+      "title": "Hôn nhân của diễn viên Hà Việt Dũng",
+      "link": "https://vnexpress.net/hon-nhan-cua-dien-vien-ha-viet-dung-5064708.html",
+      "summary": "Hà Việt Dũng, 39 tuổi, nói may mắn bởi có vợ là hậu phương vững chắc, không ghen khi anh đóng cảnh tình cảm trên phim.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T13:00:00+07:00",
+      "fetched": "2026-04-21T22:09:49.253666+07:00"
+    },
+    {
       "id": "31de279998583e4929b339bf42d1f304",
       "title": "Cuộc sống kín tiếng của NSND là 'lãng tử màn ảnh' chuyên đóng vai 'ông Tây'",
       "link": "https://thanhnien.vn/cuoc-song-kin-tieng-cua-nsnd-la-lang-tu-man-anh-chuyen-dong-vai-ong-tay-185260421184825179.htm",
@@ -701,6 +1131,36 @@ window.newsData_2026_04_21 = {
       "category": "Tổng hợp",
       "published": "2026-04-21T12:58:00+07:00",
       "fetched": "2026-04-21T20:19:45.989271+07:00"
+    },
+    {
+      "id": "43d627bd8158cae4c05bf6e3eb6a7f7d",
+      "title": "Nữ sinh lớp 5 bị nhóm bạn viết thư nhục mạ",
+      "link": "https://vnexpress.net/nu-sinh-lop-5-bi-nhom-ban-viet-thu-nhuc-ma-5065300.html",
+      "summary": "Nữ sinh lớp 5 bị nhóm bạn viết thư kèm ký hiệu để nói xấu với nhiều từ ngữ tục tĩu, gia đình và trường đang tranh cãi cách giải quyết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T12:57:55+07:00",
+      "fetched": "2026-04-21T22:09:49.253825+07:00"
+    },
+    {
+      "id": "8f900457d678b1d67d16aa7a9b79b1fb",
+      "title": "Robot hình người của Mỹ nâng tạ 29 kg",
+      "link": "https://vnexpress.net/robot-hinh-nguoi-cua-my-nang-ta-29-kg-5065350.html",
+      "summary": "Robot hình người Digit của startup Mỹ Agility Robotics thử nghiệm nâng tạ 29 kg, chứng minh khả năng phối hợp khéo léo giữa các bộ phận cơ thể.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-21T12:57:33+07:00",
+      "fetched": "2026-04-21T22:09:49.253986+07:00"
+    },
+    {
+      "id": "8f900457d678b1d67d16aa7a9b79b1fb",
+      "title": "Robot hình người của Mỹ nâng tạ 29 kg",
+      "link": "https://vnexpress.net/robot-hinh-nguoi-cua-my-nang-ta-29-kg-5065350.html",
+      "summary": "Robot hình người Digit của startup Mỹ Agility Robotics thử nghiệm nâng tạ 29 kg, chứng minh khả năng phối hợp khéo léo giữa các bộ phận cơ thể.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-21T12:57:33+07:00",
+      "fetched": "2026-04-21T22:10:01.292334+07:00"
     },
     {
       "id": "f40324cf2d346c9c47a0a299ab1be100",
