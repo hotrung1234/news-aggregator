@@ -1,7 +1,157 @@
 window.newsData_2026_04_22 = {
   "date": "2026-04-22",
-  "lastUpdated": "2026-04-22T20:21:02.646395+07:00",
+  "lastUpdated": "2026-04-22T22:10:17.293656+07:00",
   "articles": [
+    {
+      "id": "e15ba3c4ef58a34c6b795ab60ea435d5",
+      "title": "Vờ đẩy giúp xe hết xăng, lợi dụng cướp điện thoại",
+      "link": "https://tuoitre.vn/vo-day-giup-xe-het-xang-loi-dung-cuop-dien-thoai-20260422191858916.htm",
+      "summary": "Ngày 22-4, Cơ quan cảnh sát điều tra Công an TP Cần Thơ đã ra quyết định tạm giữ hình sự đối với Nguyễn Thanh Cường về hành vi cướp giật tài sản để tiếp tục điều tra làm rõ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T22:10:11.304842+07:00",
+      "fetched": "2026-04-22T22:10:11.304935+07:00"
+    },
+    {
+      "id": "c2d580008df82f4539d3889bba6c2bcf",
+      "title": "Điều tra vụ bé gái 2 tuổi bị ô tô cán chết tại cây xăng ở TP.HCM",
+      "link": "https://tuoitre.vn/dieu-tra-vu-be-gai-2-tuoi-bi-o-to-can-chet-tai-cay-xang-o-tp-hcm-20260422191812194.htm",
+      "summary": "Bé gái 2 tuổi được người lớn để nằm chơi ở khu vực cây xăng, ô tô vào đổ xăng không chú ý cán qua người khiến bé tử vong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T22:10:11.304736+07:00",
+      "fetched": "2026-04-22T22:10:11.304834+07:00"
+    },
+    {
+      "id": "6749ea79b76ce8613987efe3f405d0f0",
+      "title": "Iran tuyên bố bắt giữ 2 tàu cố vượt qua eo biển Hormuz",
+      "link": "https://tuoitre.vn/iran-tuyen-bo-bat-giu-2-tau-co-vuot-qua-eo-bien-hormuz-2026042219244349.htm",
+      "summary": "Ngày 22-4, Lực lượng Vệ binh cách mạng Hồi giáo Iran (IRGC) thông báo đã bắt giữ hai tàu chở container đang tìm cách đi qua eo biển Hormuz.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T22:10:11.304626+07:00",
+      "fetched": "2026-04-22T22:10:11.304714+07:00"
+    },
+    {
+      "id": "2c0f0abf490e3bbb85897c5c185a536b",
+      "title": "Đại học Quốc tế RMIT giành ngôi quán quân cuộc thi sáng tạo toàn cầu dành cho giới trẻ",
+      "link": "https://tuoitre.vn/dai-hoc-quoc-te-rmit-gianh-ngoi-quan-quan-cuoc-thi-sang-tao-toan-cau-danh-cho-gioi-tre-20260422185526909.htm",
+      "summary": "Chiều 22-4, trải qua các vòng thi đầy kịch tính, \"ALT\" - ALTERNATIVE của Đại học Quốc tế RMIT đã giành tấm vé đại diện Việt Nam tranh tài tại vòng chung kết toàn cầu ở Paris (Pháp).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T22:10:11.304528+07:00",
+      "fetched": "2026-04-22T22:10:11.304618+07:00"
+    },
+    {
+      "id": "8e2a901e59f42c8f3c6ff2511f73577a",
+      "title": "PNJ công bố sẽ 'lấn sân' mảng cầm đồ",
+      "link": "https://tuoitre.vn/pnj-cong-bo-se-lan-san-mang-cam-do-20260422185106888.htm",
+      "summary": "PNJ đặt mục tiêu lợi nhuận kỷ lục năm 2026, đồng thời hé lộ kế hoạch “lấn sân” cầm đồ, mở rộng hệ sinh thái và khẳng định đã hoàn tất các biện pháp khắc phục theo yêu cầu của thanh tra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T22:10:11.304429+07:00",
+      "fetched": "2026-04-22T22:10:11.304517+07:00"
+    },
+    {
+      "id": "4a252efe9b2ba5db264cefef75b7b8a9",
+      "title": "Chứng khoán Việt đang ở đâu so với giá vàng?",
+      "link": "https://tuoitre.vn/chung-khoan-viet-dang-o-dau-so-voi-gia-vang-20260422185600168.htm",
+      "summary": "Sau nhịp điều chỉnh đầu tháng 4-2026, chứng khoán Việt Nam đã trở lại quỹ đạo tăng trưởng. Nhưng đặt cạnh đà tăng của vàng trong thời gian qua, VN-Index đang ở đâu trong tương quan dòng tiền?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T22:10:11.304330+07:00",
+      "fetched": "2026-04-22T22:10:11.304420+07:00"
+    },
+    {
+      "id": "affab29aff070a21c16994677eec3717",
+      "title": "3 con nghiện trong đường dây vận chuyển 10kg ma túy  cùng lãnh án chung thân",
+      "link": "https://tuoitre.vn/3-con-nghien-trong-duong-day-van-chuyen-10kg-ma-tuy-cung-lanh-an-chung-than-20260422194303593.htm",
+      "summary": "Sau khi được Hiển đặt vấn đề, Bảo đã rủ thêm Đức là người gần nhà để vận chuyển gần 10kg ma túy từ Campuchia về Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T22:10:11.304228+07:00",
+      "fetched": "2026-04-22T22:10:11.304321+07:00"
+    },
+    {
+      "id": "b288acfa6aa2cb1b4594b3480221aa69",
+      "title": "Việt Nam và Hàn Quốc trao nhiều văn kiện hợp tác, có cả điện hạt nhân",
+      "link": "https://tuoitre.vn/viet-nam-va-han-quoc-trao-nhieu-van-kien-hop-tac-co-ca-dien-hat-nhan-20260422193032148.htm",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm và Tổng thống Hàn Quốc Lee Jae Myung cùng chứng kiến việc trao các văn kiện hợp tác giữa hai nước sau hội đàm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T22:10:11.304119+07:00",
+      "fetched": "2026-04-22T22:10:11.304215+07:00"
+    },
+    {
+      "id": "4090dd69c0b262bc63f0e387d70ff4ed",
+      "title": "Đoàn doanh nghiệp Hàn Quốc hùng hậu đến Việt Nam phát đi tín hiệu gì?",
+      "link": "https://tuoitre.vn/doan-doanh-nghiep-han-quoc-hung-hau-den-viet-nam-phat-di-tin-hieu-gi-20260422193100431.htm",
+      "summary": "Theo chuyên gia Hàn Quốc, trong bối cảnh chi phí lao động tại Việt Nam tăng lên và môi trường kinh tế toàn cầu biến động, các doanh nghiệp Hàn Quốc không còn xem Việt Nam đơn thuần là trung tâm gia công, mà là đối tác công nghệ cao quan trọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T22:10:11.304015+07:00",
+      "fetched": "2026-04-22T22:10:11.304110+07:00"
+    },
+    {
+      "id": "ef5a6a972e5a1b95eb9ece6ef1de1314",
+      "title": "Ukraine sẽ nhận khoản vay 106 tỉ USD từ EU sau khi Hungary bỏ quyền phủ quyết",
+      "link": "https://tuoitre.vn/ukraine-se-nhan-khoan-vay-106-ti-usd-tu-eu-sau-khi-hungary-bo-quyen-phu-quyet-20260422202014126.htm",
+      "summary": "Sau phiên họp của EU, Ukraine cuối cùng sẽ bắt đầu nhận khoản vay trị giá 90 tỉ euro (106 tỉ USD) từ khối này, sau khi Hungary dỡ bỏ quyền phủ quyết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T22:10:11.303911+07:00",
+      "fetched": "2026-04-22T22:10:11.304006+07:00"
+    },
+    {
+      "id": "fb853ac789a14a4de3e4366ccc567d1a",
+      "title": "Cha tham gia kháng chiến, con là ca sĩ nay hát ‘Việt Nam khúc kiêu hùng’",
+      "link": "https://tuoitre.vn/cha-tham-gia-chong-my-con-la-ca-si-nay-hat-viet-nam-khuc-kieu-hung-tu-hao-oi-viet-nam-20260422191944702.htm",
+      "summary": "Buổi họp báo của ca sĩ Anh Quân Idol giới thiệu MV Việt Nam khúc kiêu hùng chiều 22-4 xúc động khi bố anh lên sân khấu chia sẻ về một thời không thể nào quên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T22:10:11.303803+07:00",
+      "fetched": "2026-04-22T22:10:11.303902+07:00"
+    },
+    {
+      "id": "f6cbae4bdaec3084441aeed208f8aea4",
+      "title": "Trần Ngọc Vàng: Không có hình tượng nào để mất khi đóng phim 'Heo năm móng'",
+      "link": "https://tuoitre.vn/tran-ngoc-vang-khong-co-hinh-tuong-nao-de-mat-khi-dong-phim-heo-nam-mong-20260422195205883.htm",
+      "summary": "Lấy cảm hứng từ truyền thuyết ở miền Tây, phim Heo năm móng đưa yếu tố tín ngưỡng dân gian lên màn ảnh với cách kể tập trung vào không khí và tâm lý nhân vật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T22:10:11.303665+07:00",
+      "fetched": "2026-04-22T22:10:11.303793+07:00"
+    },
+    {
+      "id": "9d2a51a369580de7df8d22688f88e8be",
+      "title": "Tổng thống Lee Jae Myung: Việt - Hàn là quan hệ đặc biệt, thân thiết như anh em",
+      "link": "https://tuoitre.vn/tong-thong-lee-jae-myung-viet-han-la-quan-he-dac-biet-than-thiet-nhu-anh-em-20260422202423246.htm",
+      "summary": "Tổng thống Lee Jae Myung khẳng định Hàn Quốc sẽ là đối tác đáng tin cậy, đồng hành cùng Việt Nam trong việc thực hiện hai mục tiêu 100 năm vào năm 2030 và 2045.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T22:10:11.303546+07:00",
+      "fetched": "2026-04-22T22:10:11.303656+07:00"
+    },
+    {
+      "id": "7e97ae5f96b98d1f35613bd5d5d0bc84",
+      "title": "Ngân hàng Nhà nước: Đề nghị hưởng ứng, ủng hộ chương trình 'Ngày Tài chính số năm 2026'",
+      "link": "https://tuoitre.vn/ngan-hang-nha-nuoc-de-nghi-huong-ung-ung-ho-chuong-trinh-ngay-tai-chinh-so-nam-2026-20260422202409003.htm",
+      "summary": "Chương trình Ngày không tiền mặt năm 2026 đánh dấu bước chuyển mới khi được đổi tên thành Ngày Tài chính số với chủ đề: “Thanh toán thông minh thúc đẩy tài chính số”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T22:10:11.303408+07:00",
+      "fetched": "2026-04-22T22:10:11.303536+07:00"
+    },
+    {
+      "id": "75983e983d71e14e11278074319c8332",
+      "title": "Xe tải tông xe đầu kéo đang dừng ở làn khẩn cấp làm 1 người chết, Cục CSGT phát cảnh báo",
+      "link": "https://tuoitre.vn/xe-tai-tong-xe-dau-keo-dang-dung-o-lan-khan-cap-lam-1-nguoi-chet-cuc-csgt-phat-canh-bao-20260422205124189.htm",
+      "summary": "Ngày 22-4, Cục Cảnh sát giao thông đưa ra cảnh báo sau vụ tai nạn nghiêm trọng liên quan một ô tô dừng ở làn khẩn cấp trên cao tốc Pháp Vân - Cầu Giẽ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T22:10:11.303142+07:00",
+      "fetched": "2026-04-22T22:10:11.303392+07:00"
+    },
     {
       "id": "3288b7d30d7445aae36879966948987c",
       "title": "Video: Ông Trump livestream đọc Kinh Thánh sau tranh cãi với Giáo hoàng",
@@ -453,6 +603,36 @@ window.newsData_2026_04_22 = {
       "fetched": "2026-04-22T16:24:39.086961+07:00"
     },
     {
+      "id": "88eed7d16743b63c81d1dfc99beb9fba",
+      "title": "Lịch thi đấu chung kết U.17 Việt Nam - Malaysia mới nhất: Khi nào, xem trực tiếp ở đâu?",
+      "link": "https://thanhnien.vn/lich-thi-dau-chung-ket-u17-viet-nam-malaysia-moi-nhat-khi-nao-xem-truc-tiep-o-dau-185260422220532982.htm",
+      "summary": "Tại trận chung kết giải U.17 Đông Nam Á 2026 diễn ra vào ngày 24.4, U.17 Việt Nam sẽ có màn tái đấu với đội tuyển U.17 Malaysia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T15:06:00+07:00",
+      "fetched": "2026-04-22T22:10:09.925948+07:00"
+    },
+    {
+      "id": "a9a8574a202e58b6140173437e902a3f",
+      "title": "Ca sĩ Tố My đăng clip đính chính",
+      "link": "https://thanhnien.vn/ca-si-to-my-dang-clip-dinh-chinh-185260422203004262.htm",
+      "summary": "Tố My chia sẻ việc một số nhà sáng tạo nội dung đăng tải clip cô trình diễn trên sân khấu nhưng lại lồng ghép bản thu âm khiến khán giả hiểu lầm nữ ca sĩ đang hát nhép.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T15:06:00+07:00",
+      "fetched": "2026-04-22T22:10:09.926100+07:00"
+    },
+    {
+      "id": "541efcbe5a341dfa395194f3168f556a",
+      "title": "Bản phối sắc xanh dịu dàng sánh đôi cùng đen cá tính",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ban-phoi-sac-xanh-diu-dang-sanh-doi-cung-den-ca-tinh-185260421001724343.htm",
+      "summary": "Sắc xanh và đen chính là một trong những cặp màu không quá phô trương nhưng luôn đủ sức tạo ấn tượng, bản phối này mang đến cảm giác cân bằng hoàn hảo cho những ngày nắng nóng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T15:00:00+07:00",
+      "fetched": "2026-04-22T22:10:09.926232+07:00"
+    },
+    {
       "id": "85e7fbac61a968f5f0f1fee4d5358d9c",
       "title": "Giỗ Tổ Hùng Vương: Thảo cầm viên miễn phí khu lễ hội theo khung giờ mỗi ngày",
       "link": "https://tuoitre.vn/gio-to-hung-vuong-thao-cam-vien-mien-phi-khu-le-hoi-theo-khung-gio-moi-ngay-20260422115907365.htm",
@@ -603,6 +783,286 @@ window.newsData_2026_04_22 = {
       "fetched": "2026-04-22T14:57:50.897222+07:00"
     },
     {
+      "id": "cbb6e35b400d806e48bd26760ca4ba4d",
+      "title": "Đột kích sòng bạc trung tâm Đà Nẵng, bắt nữ nghi phạm thu tiền xâu trăm triệu",
+      "link": "https://thanhnien.vn/dot-kich-song-bac-trung-tam-da-nang-bat-nu-nghi-pham-thu-tien-xau-tram-trieu-185260422193716006.htm",
+      "summary": "Công an thành phố Đà Nẵng đột kích sòng bạc trong kiệt đường Hải Phòng, bắt 11 người cùng nữ nghi phạm cầm đầu thu tiền xâu, thu lợi lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T14:51:00+07:00",
+      "fetched": "2026-04-22T22:10:09.926357+07:00"
+    },
+    {
+      "id": "d0c7068990b75d73d25cd5521bca56e7",
+      "title": "Samsung mang tính năng chia sẻ dữ liệu 'chạm là xong' lên One UI 9",
+      "link": "https://thanhnien.vn/samsung-mang-tinh-nang-chia-se-du-lieu-cham-la-xong-len-one-ui-9-185260422090233671.htm",
+      "summary": "Samsung sắp tung đòn nhắm vào Apple khi One UI 9 có tính năng chạm để gửi còn xịn hơn iPhone.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T14:47:00+07:00",
+      "fetched": "2026-04-22T22:10:09.926491+07:00"
+    },
+    {
+      "id": "bb46798dd875f42ed1a4f2eaa48a89b1",
+      "title": "Việt - Hàn nỗ lực đạt kim ngạch thương mại 150 tỷ USD",
+      "link": "https://vnexpress.net/viet-han-no-luc-dat-kim-ngach-thuong-mai-150-ty-usd-5065902.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm và Tổng thống Hàn Quốc Lee Jae Myung hội đàm, trao đổi các biện pháp tăng cường hợp tác chiến lược và kinh tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T14:40:50+07:00",
+      "fetched": "2026-04-22T22:10:07.015317+07:00"
+    },
+    {
+      "id": "bb46798dd875f42ed1a4f2eaa48a89b1",
+      "title": "Việt - Hàn nỗ lực đạt kim ngạch thương mại 150 tỷ USD",
+      "link": "https://vnexpress.net/viet-han-no-luc-dat-kim-ngach-thuong-mai-150-ty-usd-5065902.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm và Tổng thống Hàn Quốc Lee Jae Myung hội đàm, trao đổi các biện pháp tăng cường hợp tác chiến lược và kinh tế.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-22T14:40:50+07:00",
+      "fetched": "2026-04-22T22:10:13.016085+07:00"
+    },
+    {
+      "id": "157a685cfc842335ead0b671a4c67de5",
+      "title": "Dàn tuyển thủ trọng điểm thể thao Việt Nam được chăm sóc đặc biệt cho ASIAD 20",
+      "link": "https://thanhnien.vn/dan-tuyen-thu-trong-diem-the-thao-viet-nam-duoc-cham-soc-dac-biet-cho-asiad-20-185260422204534647.htm",
+      "summary": "Các tuyển thủ đang trong quá trình chuẩn bị cho ASIAD 20 (tháng 9 tại Nhật Bản) như Nguyễn Quang Thuấn (bơi), Nguyễn Thị Thật (xe đạp), Bạc Thị Khiêm (taekwondo), Nguyễn Phước Đến (đấu kiếm) được chăm sóc đặc biệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T14:33:00+07:00",
+      "fetched": "2026-04-22T22:10:09.926621+07:00"
+    },
+    {
+      "id": "9ea7ecaa9edac45988fc8f3b925875f6",
+      "title": "Việt Nam thắng ngược Australia để vào chung kết U17 Đông Nam Á",
+      "link": "https://vnexpress.net/viet-nam-thang-nguoc-australia-de-vao-chung-ket-u17-dong-nam-a-5065893.html",
+      "summary": "Việt Nam ngược dòng hạ Australia 2-1 ở bán kết tối 22/4, để tái ngộ Malaysia trong trận chung kết U17 Đông Nam Á 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T14:32:10+07:00",
+      "fetched": "2026-04-22T22:10:07.015479+07:00"
+    },
+    {
+      "id": "9ea7ecaa9edac45988fc8f3b925875f6",
+      "title": "Việt Nam thắng ngược Australia để vào chung kết U17 Đông Nam Á",
+      "link": "https://vnexpress.net/viet-nam-thang-nguoc-australia-de-vao-chung-ket-u17-dong-nam-a-5065893.html",
+      "summary": "Việt Nam ngược dòng hạ Australia 2-1 ở bán kết vào tối nay, để tái ngộ Malaysia ở chung kết U17 Đông Nam Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-22T14:32:10+07:00",
+      "fetched": "2026-04-22T22:10:17.280671+07:00"
+    },
+    {
+      "id": "219f0df790d889d2007675b3f79bf156",
+      "title": "Tam Triều Dâng tạo sức hút với váy áo cắt xẻ",
+      "link": "https://vnexpress.net/tam-trieu-dang-tao-suc-hut-voi-vay-ao-cat-xe-5065780.html",
+      "summary": "Tam Triều Dâng - diễn viên \"Vì mẹ anh phán chia tay\" - theo đuổi mốt khoe nội y, áo yếm và corset ở tuổi 28.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T14:30:00+07:00",
+      "fetched": "2026-04-22T22:10:07.015618+07:00"
+    },
+    {
+      "id": "5b94ec25886ccef9ee5babb946c66395",
+      "title": "Người đàn bà 'thuê hai sát thủ giết người' ra đầu thú",
+      "link": "https://vnexpress.net/nguoi-dan-ba-thue-hai-sat-thu-giet-nguoi-ra-dau-thu-5065897.html",
+      "summary": "Trần Thị Xuân Hương ra đầu thú sau 6 năm lẩn trốn tính từ khi bỏ 300 triệu đồng thuê hai sát thủ giết người do mâu thuẫn trong làm ăn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T14:17:33+07:00",
+      "fetched": "2026-04-22T22:10:07.015769+07:00"
+    },
+    {
+      "id": "5f5d9d00d926f07616e1061c85e85344",
+      "title": "Vệ sinh điện thoại như thế nào cho đúng?",
+      "link": "https://thanhnien.vn/ve-sinh-dien-thoai-nhu-the-nao-cho-dung-185260422104317127.htm",
+      "summary": "Điện thoại bẩn gấp 10 lần bồn cầu và các chuyên gia chỉ ra cách 'cấp cứu' đúng chuẩn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T14:13:00+07:00",
+      "fetched": "2026-04-22T22:10:09.926768+07:00"
+    },
+    {
+      "id": "e257d042f6ed89eea29ffb183d5a5088",
+      "title": "Hàng chục người hò hét, rượt đuổi náo loạn đường phố",
+      "link": "https://vnexpress.net/hang-chuc-nguoi-ho-het-ruot-duoi-nao-loan-duong-pho-5065896.html",
+      "summary": "Cảnh sát xác định có dấu hiệu tội phạm trong vụ nhóm thanh thiếu niên mang hung khí, chạy xe tốc độ cao, rượt đuổi, nẹt pô gây náo loạn khu trung tâm Đông Hà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T14:05:08+07:00",
+      "fetched": "2026-04-22T22:10:07.015904+07:00"
+    },
+    {
+      "id": "42bb3dd7a8c9ea80be82c00dfb366d14",
+      "title": "Nước nào có nhiều kim tự tháp gấp đôi Ai Cập?",
+      "link": "https://vnexpress.net/nuoc-nao-co-nhieu-kim-tu-thap-gap-doi-ai-cap-5065829.html",
+      "summary": "Ai Cập nổi tiếng về kim tự tháp, nhưng không dẫn đầu về số lượng, có quốc gia nhiều gấp đôi. Theo bạn, đây là nước nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T14:02:00+07:00",
+      "fetched": "2026-04-22T22:10:07.016035+07:00"
+    },
+    {
+      "id": "be9acba3d029e069273aeea70d14f558",
+      "title": "Áp lực vì tuần nào cũng phải về nhà bố mẹ chồng hai, ba lần",
+      "link": "https://vnexpress.net/ap-luc-vi-tuan-nao-cung-phai-ve-nha-bo-me-chong-hai-ba-lan-5065892.html",
+      "summary": "Không khí mỗi lần về nhà chồng không được tự nhiên, tôi lúc nào cũng trong trạng thái phải giữ ý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T14:00:00+07:00",
+      "fetched": "2026-04-22T22:10:07.016162+07:00"
+    },
+    {
+      "id": "68225eabc56611b7c9eb58e7b38bd693",
+      "title": "ICE bắt giam vợ lính Mỹ",
+      "link": "https://vnexpress.net/ice-bat-giam-vo-linh-my-5065636.html",
+      "summary": "Người vợ gốc El Salvador của một trung sĩ lục quân Mỹ bị ICE bắt do chưa có thẻ xanh, dù cô đã được cấp giấy phép lao động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T14:00:00+07:00",
+      "fetched": "2026-04-22T22:10:07.016296+07:00"
+    },
+    {
+      "id": "68225eabc56611b7c9eb58e7b38bd693",
+      "title": "ICE bắt giam vợ lính Mỹ",
+      "link": "https://vnexpress.net/ice-bat-giam-vo-linh-my-5065636.html",
+      "summary": "Người vợ gốc El Salvador của một trung sĩ lục quân Mỹ bị ICE bắt do chưa có thẻ xanh, dù cô đã được cấp giấy phép lao động.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-22T14:00:00+07:00",
+      "fetched": "2026-04-22T22:10:13.016242+07:00"
+    },
+    {
+      "id": "ab6fe120d34c33a374e0ca41556cd842",
+      "title": "Loạt nhà khoa học Mỹ chết, mất tích, FBI vào cuộc điều tra",
+      "link": "https://vnexpress.net/loat-nha-khoa-hoc-my-chet-mat-tich-fbi-vao-cuoc-dieu-tra-5065887.html",
+      "summary": "FBI vào cuộc điều tra sau khi ít nhất 10 trường hợp nhà khoa học thuộc các lĩnh vực nhạy cảm qua đời hoặc mất tích bí ẩn trong 4 năm qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T13:56:21+07:00",
+      "fetched": "2026-04-22T22:10:07.016432+07:00"
+    },
+    {
+      "id": "ab6fe120d34c33a374e0ca41556cd842",
+      "title": "Loạt nhà khoa học Mỹ chết, mất tích, FBI vào cuộc điều tra",
+      "link": "https://vnexpress.net/loat-nha-khoa-hoc-my-chet-mat-tich-fbi-vao-cuoc-dieu-tra-5065887.html",
+      "summary": "FBI vào cuộc điều tra sau khi ít nhất 10 trường hợp nhà khoa học thuộc các lĩnh vực nhạy cảm qua đời hoặc mất tích bí ẩn trong 4 năm qua.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-22T13:56:21+07:00",
+      "fetched": "2026-04-22T22:10:13.016381+07:00"
+    },
+    {
+      "id": "874040fb74fac7d4f398fce651d5a626",
+      "title": "'Ôm' vô-lăng Mercedes E300 AMG vòng quay đảo Ngọc: Điều gì giá trị hơn chất sang?",
+      "link": "https://thanhnien.vn/om-vo-lang-mercedes-e300-amg-vong-quay-dao-ngoc-dieu-gi-gia-tri-hon-chat-sang-185260420224921869.htm",
+      "summary": "Một ngày cầm lái Mercedes E300 AMG đời mới vòng quanh đảo Ngọc (Phú Quốc) dễ dàng cảm nhận được điều thú vị về trải nghiệm sử dụng, cảm xúc vận hành chiếc xe này bên cạnh chất sang vốn có.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T13:56:00+07:00",
+      "fetched": "2026-04-22T22:10:09.926903+07:00"
+    },
+    {
+      "id": "78b3b68cf07fda423617746fe2b69bdd",
+      "title": "'Điểm mờ' trong vụ cựu trưởng Công an Phú Quốc bị cáo buộc lừa đảo",
+      "link": "https://vnexpress.net/diem-mo-trong-vu-cuu-truong-cong-an-phu-quoc-bi-cao-buoc-lua-dao-5065755.html",
+      "summary": "Ông Lê Văn Mót phủ nhận vai trò lừa đảo, trong khi các bị hại khẳng định mọi giao dịch đều xuất phát từ ông, khiến dòng tiền gần 68 tỷ đồng còn nhiều \"điểm mờ\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T13:54:48+07:00",
+      "fetched": "2026-04-22T22:10:07.016557+07:00"
+    },
+    {
+      "id": "56a78f866064ac9ffe4e805bd865a074",
+      "title": "Ngân hàng của 'bầu' Hiển đổi logo",
+      "link": "https://vnexpress.net/ngan-hang-cua-bau-hien-doi-logo-5065874.html",
+      "summary": "SHB công bố thay đổi nhận diện, tặng tiền mặt cho gần 3.000 cổ đông trực tiếp dự đại hội thường niên năm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T13:49:24+07:00",
+      "fetched": "2026-04-22T22:10:07.016684+07:00"
+    },
+    {
+      "id": "56a78f866064ac9ffe4e805bd865a074",
+      "title": "Ngân hàng của 'bầu' Hiển đổi logo",
+      "link": "https://vnexpress.net/ngan-hang-cua-bau-hien-doi-logo-5065874.html",
+      "summary": "SHB công bố thay đổi nhận diện, tặng tiền mặt cho gần 3.000 cổ đông trực tiếp dự đại hội thường niên năm nay.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-22T13:49:24+07:00",
+      "fetched": "2026-04-22T22:10:14.171451+07:00"
+    },
+    {
+      "id": "bb800d9ab2a6fce882a1e7ccb5e87052",
+      "title": "Sau hit 120 triệu view, Anh Quân Idol hát tình ca đất nước",
+      "link": "https://thanhnien.vn/sau-hit-120-trieu-view-anh-quan-idol-hat-tinh-ca-dat-nuoc-185260422202744501.htm",
+      "summary": "Anh Quân Idol vừa ra mắt MV 'Việt Nam khúc kiêu hùng'. Trước đó, anh có hit 'E là không thể' đã cán mốc 120 triệu lượt xem.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T13:45:00+07:00",
+      "fetched": "2026-04-22T22:10:09.927024+07:00"
+    },
+    {
+      "id": "363c9a4ebe1896c03333acd3bddc8456",
+      "title": "Đưa doanh nghiệp đến trường phổ thông để hướng nghiệp sớm cho học sinh",
+      "link": "https://thanhnien.vn/dua-doanh-nghiep-den-truong-pho-thong-de-huong-nghiep-som-cho-hoc-sinh-185260422202242341.htm",
+      "summary": "Nhiều chuyên gia nhận định nên tạo điều kiện để người học tiếp xúc với doanh nghiệp ngay từ bậc phổ thông thay vì đợi tới khi học sinh lên ĐH, trong bối cảnh trí tuệ nhân tạo (AI) đang đổi thay các ngành nghề.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T13:45:00+07:00",
+      "fetched": "2026-04-22T22:10:09.927146+07:00"
+    },
+    {
+      "id": "e71855781c32928318127cafafd10b2d",
+      "title": "HLV Kim Sang-sik ‘đãi cát tìm vàng’, U.23 Việt Nam sẵn sàng cho ASIAD 20",
+      "link": "https://thanhnien.vn/hlv-kim-sang-sik-dai-cat-tim-vang-u23-viet-nam-san-sang-cho-asiad-20-185260422202135185.htm",
+      "summary": "Nhiều cầu thủ U.21 thi đấu nổi bật tại V-League giúp HLV Kim Sang-sik có thêm lựa chọn, tạo nền tảng để U.23 Việt Nam hướng đến ASIAD 20.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T13:42:00+07:00",
+      "fetched": "2026-04-22T22:10:09.927262+07:00"
+    },
+    {
+      "id": "b9e8725984565feec006470bab351c3e",
+      "title": "Quan chức Indonesia muốn thu phí eo biển Malacca tương tự Iran ở eo biển Hormuz",
+      "link": "https://thanhnien.vn/quan-chuc-indonesia-muon-thu-phi-eo-bien-malacca-tuong-tu-iran-o-eo-bien-hormuz-185260422201157259.htm",
+      "summary": "Bộ trưởng Tài chính Indonesia Purbaya Yudhi Sadewa đưa ra ý tưởng thu phí tàu thuyền đi qua eo biển Malacca, trong khi phía Singapore và Malaysia cho rằng tàu thuyền phải được qua lại tự do ở eo biển này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T13:41:00+07:00",
+      "fetched": "2026-04-22T22:10:09.927379+07:00"
+    },
+    {
+      "id": "915c018a3f31b0727b6e91f1cf25c6d3",
+      "title": "HLV Chu Đình Nghiêm có thể dẫn dắt CLB Ninh Bình từ mùa tới",
+      "link": "https://thanhnien.vn/hlv-chu-dinh-nghiem-co-the-dan-dat-clb-ninh-binh-tu-mua-toi-185260422202008278.htm",
+      "summary": "HLV Chu Đình Nghiêm được cho là sẽ chia tay CLB Hải Phòng sau mùa giải 2025-2026 để chuyển sang dẫn dắt CLB Ninh Bình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T13:40:00+07:00",
+      "fetched": "2026-04-22T22:10:09.927501+07:00"
+    },
+    {
+      "id": "fb882a57120e67c8b6ca537da7f023f3",
+      "title": "Nhiều hãng ô tô cân nhắc quay lại sản xuất xe sedan",
+      "link": "https://thanhnien.vn/nhieu-hang-o-to-can-nhac-quay-lai-san-xuat-xe-sedan-185260421160003365.htm",
+      "summary": "Trong bối cảnh giá bán ô tô mới đang có xu hướng gia tăng, các quy định về tiêu chuẩn khí thải, tiết kiệm nhiên liệu ngày càng nghiêm ngặt… nhiều hãng ô tô đang cân nhắc quay lại sản xuất dòng xe sedan vốn đã bị thờ ơ thậm chí khai tử những năm trước đây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T13:40:00+07:00",
+      "fetched": "2026-04-22T22:10:09.927623+07:00"
+    },
+    {
+      "id": "eb8ef5cea886ed61e8a1eb0e7d53843c",
+      "title": "Nguy cơ tiềm ẩn từ ổ cắm điện USB nhiều người bỏ qua",
+      "link": "https://thanhnien.vn/nguy-co-tiem-an-tu-o-cam-dien-usb-nhieu-nguoi-bo-qua-185260422091922306.htm",
+      "summary": "Với hầu hết smartphone hiện nay đều trang bị cổng USB-C, việc tìm kiếm bộ sạc hoặc ổ cắm điện hỗ trợ USB-C trở nên dễ dàng hơn bao giờ hết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T13:35:00+07:00",
+      "fetched": "2026-04-22T22:10:09.927764+07:00"
+    },
+    {
       "id": "4288f4ce03435f55d89a39bfe47f32c8",
       "title": "Học trong lòng sân khấu qua vở kịch ‘Song diện’",
       "link": "https://thanhnien.vn/hoc-trong-long-san-khau-qua-vo-kich-song-dien-185260422200735057.htm",
@@ -611,6 +1071,26 @@ window.newsData_2026_04_22 = {
       "category": "Tổng hợp",
       "published": "2026-04-22T13:15:00+07:00",
       "fetched": "2026-04-22T20:20:51.315796+07:00"
+    },
+    {
+      "id": "9122b742192d50252601d8d4498dad2c",
+      "title": "Ngưỡng doanh thu chịu thuế với hộ kinh doanh được đề xuất lên 1 tỷ đồng",
+      "link": "https://vnexpress.net/nguong-doanh-thu-chiu-thue-voi-ho-kinh-doanh-duoc-de-xuat-len-1-ty-dong-5065883.html",
+      "summary": "Bộ Tài chính lấy ý kiến để nâng doanh thu chịu thuế lên 1 tỷ đồng mỗi năm với hộ kinh doanh và lần đầu quy định ngưỡng chịu thuế với doanh nghiệp nhỏ & vừa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T13:14:31+07:00",
+      "fetched": "2026-04-22T22:10:07.016852+07:00"
+    },
+    {
+      "id": "9122b742192d50252601d8d4498dad2c",
+      "title": "Ngưỡng doanh thu chịu thuế với hộ kinh doanh được đề xuất lên 1 tỷ đồng",
+      "link": "https://vnexpress.net/nguong-doanh-thu-chiu-thue-voi-ho-kinh-doanh-duoc-de-xuat-len-1-ty-dong-5065883.html",
+      "summary": "Bộ Tài chính lấy ý kiến để nâng doanh thu chịu thuế lên 1 tỷ đồng mỗi năm với hộ kinh doanh và lần đầu quy định ngưỡng chịu thuế với doanh nghiệp nhỏ & vừa.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-22T13:14:31+07:00",
+      "fetched": "2026-04-22T22:10:14.171621+07:00"
     },
     {
       "id": "798330e2c669f3e6f9a25aef64696309",
@@ -681,6 +1161,26 @@ window.newsData_2026_04_22 = {
       "category": "Tổng hợp",
       "published": "2026-04-22T13:00:00+07:00",
       "fetched": "2026-04-22T20:20:51.316923+07:00"
+    },
+    {
+      "id": "1033c21f8ec12c57ca62817831cde35d",
+      "title": "Bài toán mua hai mảnh đất dưỡng già nhưng bị đánh thuế như dân đầu cơ",
+      "link": "https://vnexpress.net/thue-bat-dong-san-thu-hai-bai-toan-mua-hai-manh-dat-duong-gia-nhung-bi-danh-thue-nhu-dan-dau-co-5065769.html",
+      "summary": "Gửi tiết kiệm cả đời không mua nổi nhà Sài Gòn nên tôi mua hai mảnh đất quê dưỡng già, liệu có bị đánh thuế bất động sản thứ hai?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T13:00:00+07:00",
+      "fetched": "2026-04-22T22:10:07.016981+07:00"
+    },
+    {
+      "id": "4869e5669385a51db783b4f15756429a",
+      "title": "MB tặng loa thanh toán, miễn phí 5 năm cho hộ kinh doanh",
+      "link": "https://vnexpress.net/mb-tang-loa-thanh-toan-mien-phi-5-nam-cho-ho-kinh-doanh-5064445.html",
+      "summary": "Ngân hàng TMCP Quân đội (MB) tặng loa thanh toán, miễn phí sử dụng thiết bị trong 5 năm cho khách hàng mở tài khoản hộ kinh doanh, áp dụng từ tháng 4/2026 .",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T13:00:00+07:00",
+      "fetched": "2026-04-22T22:10:07.017105+07:00"
     },
     {
       "id": "bf38e810981b90301a1f27720c56343e",
@@ -841,6 +1341,16 @@ window.newsData_2026_04_22 = {
       "category": "Tổng hợp",
       "published": "2026-04-22T12:58:32.100268+07:00",
       "fetched": "2026-04-22T12:58:32.100490+07:00"
+    },
+    {
+      "id": "a3c1fe3cccbee56279bef096c9bb7d20",
+      "title": "Mưa đá 30 phút trên đỉnh Fansipan",
+      "link": "https://vnexpress.net/mua-da-30-phut-tren-dinh-fansipan-5065886.html",
+      "summary": "Chiều 22/4, mưa giông kèm mưa đá kéo dài khoảng 30 phút trên đỉnh núi Fansipan, đường kính viên đá 1-3 cm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-22T12:54:54+07:00",
+      "fetched": "2026-04-22T22:10:07.017230+07:00"
     },
     {
       "id": "071520d378459176a21e41a21880b1f1",
