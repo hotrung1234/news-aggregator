@@ -1,7 +1,17 @@
 window.newsData_2026_04_24 = {
   "date": "2026-04-24",
-  "lastUpdated": "2026-04-24T03:49:12.916746+07:00",
+  "lastUpdated": "2026-04-24T05:40:34.075160+07:00",
   "articles": [
+    {
+      "id": "3156cedde788e0557a297b15519af918",
+      "title": "Lịch trực tiếp chung kết U17 Đông Nam Á: Việt Nam đấu Malaysia",
+      "link": "https://tuoitre.vn/lich-truc-tiep-chung-ket-u17-dong-nam-a-viet-nam-dau-malaysia-20260423174623589.htm",
+      "summary": "Đội tuyển U17 Việt Nam sẽ chạm trán U17 Malaysia ở trận chung kết Giải U17 Đông Nam Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T05:40:26.896759+07:00",
+      "fetched": "2026-04-24T05:40:26.896979+07:00"
+    },
     {
       "id": "ef37dd689bc1c91ae847bec22a062876",
       "title": "Phở đã trở thành món ăn quốc dân của cả Việt Nam và Hàn Quốc",
@@ -171,6 +181,186 @@ window.newsData_2026_04_24 = {
       "category": "Tổng hợp",
       "published": "2026-04-24T00:16:37.218985+07:00",
       "fetched": "2026-04-24T00:16:37.219211+07:00"
+    },
+    {
+      "id": "ad30a3296efbe6cfdc31648af78cf2e3",
+      "title": "Xôn xao 'bé trai 12 tuổi bị đánh chết vì 100.000 đồng': Thực hư ra sao?",
+      "link": "https://thanhnien.vn/xon-xao-be-trai-12-tuoi-bi-danh-chet-vi-100000-dong-thuc-hu-ra-sao-185260423220909654.htm",
+      "summary": "Liên quan đến đoạn clip xôn xao mạng xã hội về việc một bé trai 12 tuổi bị hành hung dẫn đến tử vong, Công an tỉnh Tây Ninh khẳng định đây là tin giả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T22:36:00+07:00",
+      "fetched": "2026-04-24T05:40:25.458860+07:00"
+    },
+    {
+      "id": "7e59ce4adec68fda6a92932b9809b27a",
+      "title": "Nga ra điều kiện khó cho Ukraine",
+      "link": "https://thanhnien.vn/nga-ra-dieu-kien-kho-cho-ukraine-185260423202220741.htm",
+      "summary": "Người phát ngôn Dmitry Peskov của Điện Kremlin hôm qua tuyên bố Tổng thống Vladimir Putin chỉ gặp Tổng thống Ukraine Volodymyr Zelensky để hoàn tất các thỏa thuận chấm dứt xung đột và chỉ tại Moscow.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T22:35:00+07:00",
+      "fetched": "2026-04-24T05:40:25.459034+07:00"
+    },
+    {
+      "id": "a03add73719026feccaa3d62b70a3cd6",
+      "title": "Ám ảnh 'hàm ếch' bờ Đông sông Vàm Cỏ Tây: Ngủ không dám đóng cửa vì sợ nhà sập",
+      "link": "https://thanhnien.vn/am-anh-ham-ech-bo-dong-song-vam-co-tay-ngu-khong-dam-dong-cua-vi-so-nha-sap-185260423193128828.htm",
+      "summary": "Những ngày gần đây, tình trạng sạt lở tại bờ Đông sông Vàm Cỏ Tây, đoạn qua ấp 2 (xã Mỹ Thạnh, Tây Ninh), đang diễn biến phức tạp, có dấu hiệu lan rộng và ăn sâu vào khu dân cư, đe dọa trực tiếp đến đời sống người dân ven sông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T22:35:00+07:00",
+      "fetched": "2026-04-24T05:40:25.459193+07:00"
+    },
+    {
+      "id": "07c3c6f5fcb21771c76e31fbf6424d1b",
+      "title": "Tiêu điểm quốc tế 24.4: Campuchia bắt 2 tướng nhận hối lộ | Indonesia muốn thu phí eo Malacca",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-244-campuchia-bat-2-tuong-nhan-hoi-lo-indonesia-muon-thu-phi-eo-malacca-185260423231607728.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 24.4.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T22:30:00+07:00",
+      "fetched": "2026-04-24T05:40:25.459350+07:00"
+    },
+    {
+      "id": "9984c4b8f9e601b786a35b472422f796",
+      "title": "Xử lý dứt điểm tình trạng ùn ứ rác sinh hoạt tại Trạm trung chuyển Bình Chánh",
+      "link": "https://thanhnien.vn/xu-ly-dut-diem-tinh-trang-un-u-rac-sinh-hoat-tai-tram-trung-chuyen-binh-chanh-18526042319474124.htm",
+      "summary": "Sau phản ánh của Báo Thanh Niên, Sở Nông nghiệp và Môi trường đã chỉ đạo xử lý dứt điểm tình trạng ùn ứ rác sinh hoạt tại Trạm trung chuyển Bình Chánh, xã Bình Chánh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T22:30:00+07:00",
+      "fetched": "2026-04-24T05:40:25.459534+07:00"
+    },
+    {
+      "id": "7e99a8ed319b7059855c65c0af1449b3",
+      "title": "Giấc mơ đổi đời của bố tôi...",
+      "link": "https://thanhnien.vn/giac-mo-doi-doi-cua-bo-toi-185260422113340391.htm",
+      "summary": "'Bố mẹ ơi! Trong con đã có điện rồi, mọi người ở đây ai cũng phấn khởi lắm bố mẹ ạ!'. Tôi vẫn còn nhớ như in lời reo vui trong bức thư bố gửi cho ông bà nội ở quê nhà miền Bắc vào khoảng những năm 1990.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T22:23:00+07:00",
+      "fetched": "2026-04-24T05:40:25.459687+07:00"
+    },
+    {
+      "id": "3e8c0a5b089692f6e757a8a69a9002ac",
+      "title": "Mùa nóng ăn gì để mát người mà không hại gan, thận, tim mạch?",
+      "link": "https://thanhnien.vn/mua-nong-an-gi-de-mat-nguoi-ma-khong-hai-gan-than-tim-mach-185260423233519825.htm",
+      "summary": "Mùa nóng ăn uống không chỉ để 'giải nhiệt' mà còn phải bảo vệ gan, thận và tim mạch. Bác sĩ chia sẻ cách chọn thực phẩm đúng giúp cơ thể khỏe hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T22:18:00+07:00",
+      "fetched": "2026-04-24T05:40:25.459838+07:00"
+    },
+    {
+      "id": "ecda3ae24808b5fd274cde9ac2cafe93",
+      "title": "Tử vi ngày 24 tháng 4: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-24-thang-4-con-giap-nao-may-man-hom-nay-185260423225324109.htm",
+      "summary": "Tử vi ngày 24 tháng 4 mang đến những gợi ý tham khảo cho 12 con giáp. Điểm nổi bật là 'đọc tín hiệu sớm', những ai nhận ra xu hướng trước khi nó rõ ràng sẽ có lợi thế. Tài lộc hôm nay không đến từ may mắn bất ngờ, mà từ việc bạn tinh ý nhận ra cơ hội đang hình thành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T22:15:00+07:00",
+      "fetched": "2026-04-24T05:40:25.459988+07:00"
+    },
+    {
+      "id": "e8c2f88844a858fc81b6dbdd54a7758c",
+      "title": "Khởi tố nữ bị can mua bán hóa đơn trái phép trốn thuế hơn 8,6 tỉ đồng",
+      "link": "https://thanhnien.vn/khoi-to-nu-bi-can-mua-ban-hoa-don-trai-phep-tron-thue-hon-86-ti-dong-185260423222013628.htm",
+      "summary": "Công an thành phố Đà Nẵng bắt tạm giam nữ bị can, làm rõ đường dây mua bán hóa đơn để hợp thức doanh thu, trốn thuế hơn 8,6 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T22:12:00+07:00",
+      "fetched": "2026-04-24T05:40:25.460136+07:00"
+    },
+    {
+      "id": "928555758f6d1f410e108766735d8032",
+      "title": "Lịch thi đấu V-League mới nhất: Trận đấu quan trọng của Hoàng Hên và Hà Nội, quyết thắng Ninh Bình",
+      "link": "https://thanhnien.vn/lich-thi-dau-v-league-moi-nhat-tran-dau-quan-trong-cua-hoang-hen-va-clb-ha-noi-quyet-thang-ninh-binh-185260423205122952.htm",
+      "summary": "Đỗ Hoàng Hên và CLB Hà Nội có trận đấu rất quan trọng ở vòng 20 V-League 2025 - 2026 để tranh chấp vị trí thứ 3 với CLB Ninh Bình mùa giải năm nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T22:10:00+07:00",
+      "fetched": "2026-04-24T05:40:25.460293+07:00"
+    },
+    {
+      "id": "32440c7c583bf6d0963b8a6aca473acb",
+      "title": "Căng thẳng Mexico - Mỹ sau cái chết của 2 'đặc vụ CIA'",
+      "link": "https://thanhnien.vn/cang-thang-mexico-my-sau-cai-chet-cua-2-dac-vu-cia-185260423202511733.htm",
+      "summary": "AFP hôm qua (23.4) đưa tin cuộc tranh cãi giữa chính phủ Mexico và Nhà Trắng nhanh chóng leo thang theo sau cái chết của 2 người Mỹ trong một chiến dịch truy quét ma túy ở Mexico.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T22:10:00+07:00",
+      "fetched": "2026-04-24T05:40:25.460489+07:00"
+    },
+    {
+      "id": "fc00062d989c46227928102b687b2b5d",
+      "title": "Vì sao TP.HCM sau 22 giờ, các biển quảng cáo 'rủ nhau' giảm sáng và... tắt điện?",
+      "link": "https://thanhnien.vn/vi-sao-tphcm-sau-22-gio-cac-bien-quang-cao-ru-nhau-giam-sang-va-tat-dien-185260423213348908.htm",
+      "summary": "Tối 23.4 tại TP.HCM, bất ngờ hệ thống chiếu sáng quảng cáo, trang trí ngoài trời sau 22 giờ đồng loạt 'rủ nhau' tắt điện, hoặc giảm công suất hoạt động. Một giải pháp trước mắt cho mùa khô năm nay ở một trong những địa bàn tiêu thụ điện đặc biệt lớn như siêu đô thị TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T22:00:00+07:00",
+      "fetched": "2026-04-24T05:40:25.460647+07:00"
+    },
+    {
+      "id": "a3dff08d3e68ef434457ce613e6450d8",
+      "title": "Chiến sự Ukraine ngày 1.520: Nga bị tập kích, một nước NATO tiếp sức cho Ukraine",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1520-nga-bi-tap-kich-mot-nuoc-nato-tiep-suc-cho-ukraine-185260423185948019.htm",
+      "summary": "Bộ Quốc phòng Nga tuyên bố đã bắn hạ hơn 150 máy bay không người lái do Ukraine phóng vào 9 tỉnh của Nga và một số khu vực khác trong 11 giờ đồng hồ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T22:00:00+07:00",
+      "fetched": "2026-04-24T05:40:25.460794+07:00"
+    },
+    {
+      "id": "33fb62a3ef46181e03f428a030d2c3bf",
+      "title": "Vải mất mùa, giá đầu vụ lập đỉnh 120.000 đồng/kg",
+      "link": "https://thanhnien.vn/vai-mat-mua-gia-dau-vu-lap-dinh-120000-dong-kg-185260423182403487.htm",
+      "summary": "Ở Bắc Ninh, Hải Phòng năm nay mất mùa vải. Ngay từ đầu vụ, giá vải chín sớm của một số nhà vườn được thương lái mua buôn lên tới 120.000 đồng/kg, cao chưa từng có trong những mùa vải trước đây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T22:00:00+07:00",
+      "fetched": "2026-04-24T05:40:25.460947+07:00"
+    },
+    {
+      "id": "927d978bf1a1341b6351be9c313a0892",
+      "title": "Lịch âm hôm nay: Ngày 24.4 là ngày gì mà nhiều người Việt quan tâm?",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-ngay-244-la-ngay-gi-ma-nhieu-nguoi-viet-quan-tam-185260423073806842.htm",
+      "summary": "Theo lịch dương, lịch âm hôm nay 24.4 là ngày gì mà nhiều người Việt Nam quan tâm?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T22:00:00+07:00",
+      "fetched": "2026-04-24T05:40:25.461098+07:00"
+    },
+    {
+      "id": "01b238b94892ab19b17482c5894ce114",
+      "title": "'Ngoại giao pháo hạm' giữa Mỹ và Iran ở eo biển Hormuz",
+      "link": "https://vnexpress.net/ngoai-giao-phao-ham-giua-my-va-iran-o-eo-bien-hormuz-5065985.html",
+      "summary": "Mỹ và Iran đang bước vào cuộc đấu căng thẳng với vòng \"phong tỏa kép\" nhằm siết chặt yết hầu kinh tế của đối phương tại Hormuz, buộc bên kia phải nhượng bộ trước.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-23T22:00:00+07:00",
+      "fetched": "2026-04-24T05:40:28.637193+07:00"
+    },
+    {
+      "id": "cab28347176c07467c3b659ea437afa1",
+      "title": "Mất nhà vì khoản nợ 400 USD với ban quản trị khu dân cư",
+      "link": "https://vnexpress.net/mat-nha-vi-khoan-no-400-usd-voi-ban-quan-tri-khu-dan-cu-5060940.html",
+      "summary": "Taylor Sanders trễ hạn nộp 400 USD tiền phí và bị ban quản trị khu dân cư bị tịch thu ngôi nhà ở Bắc Carolina rồi bán phát mãi với giá bèo bọt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-23T21:00:00+07:00",
+      "fetched": "2026-04-24T05:40:22.220131+07:00"
+    },
+    {
+      "id": "cab28347176c07467c3b659ea437afa1",
+      "title": "Mất nhà vì khoản nợ 400 USD với ban quản trị khu dân cư",
+      "link": "https://vnexpress.net/mat-nha-vi-khoan-no-400-usd-voi-ban-quan-tri-khu-dan-cu-5060940.html",
+      "summary": "Taylor Sanders trễ hạn nộp 400 USD tiền phí và bị ban quản trị khu dân cư bị tịch thu ngôi nhà ở Bắc Carolina rồi bán phát mãi với giá bèo bọt.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-23T21:00:00+07:00",
+      "fetched": "2026-04-24T05:40:28.637373+07:00"
     },
     {
       "id": "9a650b8bbdcbf9772d565b3306d167b9",
