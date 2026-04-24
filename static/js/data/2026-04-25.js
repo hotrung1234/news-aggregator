@@ -1,6 +1,6 @@
 window.newsData_2026_04_25 = {
   "date": "2026-04-25",
-  "lastUpdated": "2026-04-25T01:44:45.294639+07:00",
+  "lastUpdated": "2026-04-25T03:42:47.961095+07:00",
   "articles": [
     {
       "id": "176462d6099944776c1c912c034ba54a",
@@ -151,6 +151,16 @@ window.newsData_2026_04_25 = {
       "category": "Tổng hợp",
       "published": "2026-04-25T01:44:39.103016+07:00",
       "fetched": "2026-04-25T01:44:39.103238+07:00"
+    },
+    {
+      "id": "e35c5512bfffd35141ebdd2b0231af0f",
+      "title": "TP HCM sẵn sàng đối phó dịch bệnh mới",
+      "link": "https://vnexpress.net/tp-hcm-san-sang-doi-pho-dich-benh-moi-5066874.html",
+      "summary": "TP HCM khởi động Chương trình Ký ức Covid-19, đúc kết bài học từ quá khứ để xây dựng kịch bản phòng ngự vững chắc, chủ động trước nguy cơ đại dịch tương lai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-24T19:00:00+07:00",
+      "fetched": "2026-04-25T03:42:34.796917+07:00"
     },
     {
       "id": "e9f7d68fd51c52aa576557c6d2e687f0",
