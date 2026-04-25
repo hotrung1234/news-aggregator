@@ -1,7 +1,17 @@
 window.newsData_2026_04_26 = {
   "date": "2026-04-26",
-  "lastUpdated": "2026-04-26T03:35:29.689442+07:00",
+  "lastUpdated": "2026-04-26T05:34:26.702582+07:00",
   "articles": [
+    {
+      "id": "6e7870d9c6e9df10b744fb113900283b",
+      "title": "Nhà không cần khóa cửa, hàng xóm mang qua mang lại tô canh nóng, thời đó đã thành xa xưa?",
+      "link": "https://tuoitre.vn/nha-khong-can-khoa-cua-hang-xom-mang-qua-mang-lai-to-canh-nong-thoi-do-da-thanh-xa-xua-20260422111311801.htm",
+      "summary": "Có những giá trị không ồn ào, không phô trương, nhưng lại bền bỉ đi cùng đời sống con người qua nhiều thế hệ. Tình làng nghĩa xóm là một trong số đó.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T05:34:18.835655+07:00",
+      "fetched": "2026-04-26T05:34:18.835906+07:00"
+    },
     {
       "id": "08a340e8aeea7a12d9e2c5a4f44097c0",
       "title": "Thời tiết hôm nay 26-4: Nam Bộ ngày nắng nóng, miền Trung mưa rào và dông",
@@ -161,6 +171,196 @@ window.newsData_2026_04_26 = {
       "category": "Tổng hợp",
       "published": "2026-04-26T01:46:54.200016+07:00",
       "fetched": "2026-04-26T01:46:54.200250+07:00"
+    },
+    {
+      "id": "fa17165ce652bb5be8f9e7dea6312afb",
+      "title": "Tiêu điểm quốc tế 26.4: G7 cảnh báo vũ khí hạt nhân | Mỹ mở rộng phong tỏa Iran",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-264-g7-canh-bao-vu-khi-hat-nhan-my-mo-rong-phong-toa-iran-1852604252251576.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 26.4.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-25T22:30:00+07:00",
+      "fetched": "2026-04-26T05:34:17.772519+07:00"
+    },
+    {
+      "id": "d3d7d53690348c0b60db6adfb1466c22",
+      "title": "Cuộc sống tuổi 87 của NSND Hùng Minh - Mã Tắc trong vở 'Tiếng trống Mê Linh'",
+      "link": "https://thanhnien.vn/cuoc-song-tuoi-87-cua-nsnd-hung-minh-ma-tac-trong-vo-tieng-trong-me-linh-185260425205311482.htm",
+      "summary": "Ở tuổi U.90, NSND Hùng Minh sống giản dị trong căn nhà thuê, đối mặt với những vấn đề sức khỏe tuổi già. Dẫu vậy, ông vẫn giữ trọn tình yêu với sân khấu, xem việc còn được khán giả yêu thương, nhớ đến là niềm hạnh phúc lớn nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-25T22:30:00+07:00",
+      "fetched": "2026-04-26T05:34:17.772671+07:00"
+    },
+    {
+      "id": "2b26f45a85776241121f652d3af1033d",
+      "title": "Mẹ bỉm sữa 'hồi sinh' lá mít khô thành tranh thêu giá tiền triệu",
+      "link": "https://thanhnien.vn/me-bim-sua-hoi-sinh-la-mit-kho-thanh-tranh-theu-gia-tien-trieu-185260424180311507.htm",
+      "summary": "Từ những chiếc lá mít khô tưởng chừng bỏ đi, một mẹ bỉm sữa ở Lâm Đồng thêu thành tranh độc đáo, mỗi bức có giá từ 1 triệu đồng nhờ sự tỉ mỉ và kiên nhẫn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-25T22:30:00+07:00",
+      "fetched": "2026-04-26T05:34:17.772803+07:00"
+    },
+    {
+      "id": "e700635ec8ac7dddee93ca10397bcf20",
+      "title": "Đình cổ ở TP.HCM còn giữ sắc phong vua Tự Đức 173 năm: Có gì đặc biệt?",
+      "link": "https://thanhnien.vn/dinh-co-o-tphcm-con-giu-sac-phong-vua-tu-duc-173-nam-co-gi-dac-biet-185260422142829012.htm",
+      "summary": "Đình cổ Bình Hòa gần 200 năm tuổi giữa TP.HCM không chỉ giữ kiến trúc Nam bộ mà còn lưu sắc phong vua Tự Đức từ năm 1853.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-25T22:19:00+07:00",
+      "fetched": "2026-04-26T05:34:17.772949+07:00"
+    },
+    {
+      "id": "d4b94105ee3afb24830dabf2791e89db",
+      "title": "Tử vi ngày 26 tháng 4: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-26-thang-4-con-giap-nao-may-man-hom-nay-185260425215412917.htm",
+      "summary": "Tử vi ngày 26 tháng 4 mang đến những gợi ý tham khảo cho 12 con giáp. Điểm cần chú ý  là 'đảo chiều nhịp suy nghĩ', có những việc càng cố giải quyết càng rối, nhưng khi bạn buông ra một chút lại tự nhiên thông suốt. Tài lộc không đến từ việc kiểm soát mọi thứ, mà từ việc biết khi nào nên thả lỏng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-25T22:15:00+07:00",
+      "fetched": "2026-04-26T05:34:17.773078+07:00"
+    },
+    {
+      "id": "25f621dbe4e65eeb508dd69e40e7fd5c",
+      "title": "Chiến sự Ukraine ngày 1.522: Dnipro hứng đòn không kích lớn, ông Zelensky mở rộng đối tác",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1522-dnipro-hung-don-khong-kich-lon-ong-zelensky-mo-rong-doi-tac-185260425215406256.htm",
+      "summary": "Tổng thống Ukraine Volodymyr Zelensky ngày 25.4 đã có chuyến công du đầu tiên đến Azerbaijan trong 4 năm. Tại Azerbaijan, ông Zelensky nhắc lại lập trường sẵn sàng đàm phán với Nga để chấm dứt xung đột.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-25T22:15:00+07:00",
+      "fetched": "2026-04-26T05:34:17.773201+07:00"
+    },
+    {
+      "id": "125897b139c697cc6adb1e448240ab76",
+      "title": "Cầu vượt nút giao An Phú hiện đại nhất TP.HCM thông xe dịp 30.4",
+      "link": "https://thanhnien.vn/cau-vuot-nut-giao-an-phu-hien-dai-nhat-tphcm-thong-xe-dip-304-185260425213232764.htm",
+      "summary": "Cận ngày 30.4, nhánh cầu vượt N3 nút giao An Phú được thi công xuyên ngày đêm để kịp thông xe. Công trình góp phần giảm kẹt xe cửa ngõ phía đông TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-25T22:05:00+07:00",
+      "fetched": "2026-04-26T05:34:17.773328+07:00"
+    },
+    {
+      "id": "085d2f64759f929656151c81d9459609",
+      "title": "TP HCM tính đưa buýt mini vào đường nhỏ, khu dân cư",
+      "link": "https://vnexpress.net/tp-hcm-tinh-dua-buyt-mini-vao-duong-nho-khu-dan-cu-5066424.html",
+      "summary": "Thành phố nghiên cứu triển khai xe buýt cỡ nhỏ chạy theo nhu cầu (DRT) để vào đường hẹp, khu dân cư, kết nối hành khách với các tuyến buýt trục chính và metro.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-25T22:00:00+07:00",
+      "fetched": "2026-04-26T05:34:14.711678+07:00"
+    },
+    {
+      "id": "35cfa5be8a86bfa24afa0ac3587105f1",
+      "title": "Điều gì xảy ra khi bạn hút thuốc lá?",
+      "link": "https://vnexpress.net/dieu-gi-xay-ra-khi-ban-hut-thuoc-la-5065910.html",
+      "summary": "Hút thuốc lá làm tổn thương đường hô hấp, thường biểu hiện bằng ho kéo dài kèm theo đờm và có thể là dấu hiệu sớm của ung thư phổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-25T22:00:00+07:00",
+      "fetched": "2026-04-26T05:34:14.711847+07:00"
+    },
+    {
+      "id": "7a0a49b5854b1f8bdd53e4794d5091a7",
+      "title": "Zeekr 8X - SUV hybrid cỡ lớn mạnh 1.381 mã lực",
+      "link": "https://vnexpress.net/zeekr-8x-suv-hybrid-co-lon-manh-1-381-ma-luc-5066735.html",
+      "summary": "8X được xây dựng trên nền tảng kiến trúc hybrid SEA-S với hệ thống điện áp 900 V, kết hợp động cơ 2.0 với hai hoặc ba môtơ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-25T22:00:00+07:00",
+      "fetched": "2026-04-26T05:34:14.712025+07:00"
+    },
+    {
+      "id": "0d01e905b84dc0f55d99e9f5b758f1a2",
+      "title": "TP.HCM: Công an xã Bình Mỹ khám phá nhanh vụ trộm vàng trong 10 giờ",
+      "link": "https://thanhnien.vn/tphcm-cong-an-xa-binh-my-kham-pha-nhanh-vu-trom-vang-trong-10-gio-185260425210137331.htm",
+      "summary": "Chỉ trong 10 giờ, Công an xã Bình Mỹ, TP.HCM đã xác định được nghi phạm gây ra vụ trộm vàng, bắt giữ đối tượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-25T22:00:00+07:00",
+      "fetched": "2026-04-26T05:34:17.773454+07:00"
+    },
+    {
+      "id": "c6c406ac2bc06081d8bb41e8c2f05a2c",
+      "title": "Lịch âm hôm nay mùng 10 tháng 3: Ngày 26.4 là ngày gì?",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-mung-10-thang-3-ngay-264-la-ngay-gi-185260425161904477.htm",
+      "summary": "Ngày 26.4 hôm nay là ngày Giỗ tổ Hùng Vương (mùng 10 tháng 3). Theo lịch vạn niên, lịch âm hôm nay còn là ngày gì đặc biệt?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-25T22:00:00+07:00",
+      "fetched": "2026-04-26T05:34:17.773573+07:00"
+    },
+    {
+      "id": "d345b193eb7a933c866379739a228a3f",
+      "title": "Vườn quốc gia Kon Ka Kinh: Nơi phục hồi sự sống cho động vật hoang dã",
+      "link": "https://thanhnien.vn/vuon-quoc-gia-kon-ka-kinh-noi-phuc-hoi-su-song-cho-dong-vat-hoang-da-185260425145159097.htm",
+      "summary": "Vườn quốc gia Kon Ka Kinh là món quà vô giá mà thiên nhiên ban tặng cho Gia Lai cũng như nhân loại. Ở đây còn có những con người tâm huyết đang ngày đêm thực hiện sứ mệnh trả lại sự sống cho hàng trăm loài động vật hoang dã quý hiếm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-25T22:00:00+07:00",
+      "fetched": "2026-04-26T05:34:17.773694+07:00"
+    },
+    {
+      "id": "835fa27822036bb4db60393414f13d33",
+      "title": "Hạm đội Trung Quốc tập trận gần Philippines",
+      "link": "https://thanhnien.vn/ham-doi-trung-quoc-tap-tran-gan-philippines-185260425173321379.htm",
+      "summary": "Theo tờ South China Morning Post tối 24.4, quân đội Trung Quốc đã tiến hành các cuộc tập trận ở vùng biển phía đông một hòn đảo của Philippines gần Đài Loan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-25T21:40:00+07:00",
+      "fetched": "2026-04-26T05:34:17.773811+07:00"
+    },
+    {
+      "id": "5492bc820fc061471d4477742ad2efa0",
+      "title": "Tình hình Iran, Trung Đông mới nhất ngày 26.4: Diễn biến bất ngờ",
+      "link": "https://thanhnien.vn/tinh-hinh-iran-trung-dong-moi-nhat-ngay-264-dien-bien-bat-ngo-185260425214519019.htm",
+      "summary": "Phái đoàn Iran đã rời Pakistan mà không có cuộc đàm phán trực tiếp nào với phía Mỹ, không lâu sau Tổng thống Donald Trump cũng thông báo hủy chuyến đi của các đặc phái viên Mỹ tới Pakistan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-25T21:30:00+07:00",
+      "fetched": "2026-04-26T05:34:17.773956+07:00"
+    },
+    {
+      "id": "404c8a7f5eafc894d3640aa14067cde9",
+      "title": "Thao trường của những người lính trẻ Vùng 2 Hải quân",
+      "link": "https://thanhnien.vn/thao-truong-cua-nhung-nguoi-linh-tre-vung-2-hai-quan-185260425173258821.htm",
+      "summary": "Nắng, gió thao trường ở Trung tâm huấn luyện Vùng 2 Hải quân đã từng ngày hun đúc lên ý chí, kỷ luật, tôi rèn bản lĩnh cho những người lính trẻ Vùng 2 Hải quân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-25T21:28:00+07:00",
+      "fetched": "2026-04-26T05:34:17.774080+07:00"
+    },
+    {
+      "id": "03e36b8d11d0772bd9cbb4e20f684c95",
+      "title": "Ukraine tố Nga tấn công xuyên đêm",
+      "link": "https://thanhnien.vn/ukraine-to-nga-tan-cong-xuyen-dem-185260425215337927.htm",
+      "summary": "Không quân Ukraine hôm qua cho biết Nga tấn công nước này xuyên đêm bằng 619 UAV và 47 tên lửa tại nhiều nơi, trong đó TP.Dnipro (tỉnh Dnipropetrovsk) ở phía đông nam là mục tiêu chính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-25T21:17:00+07:00",
+      "fetched": "2026-04-26T05:34:17.774198+07:00"
+    },
+    {
+      "id": "b1f6c996ceb1c78a0df98cc3dd8498bc",
+      "title": "Vật thể lạ rơi trước đầu ôtô trong trạm thu phí",
+      "link": "https://vnexpress.net/vat-the-la-roi-truoc-dau-oto-trong-tram-thu-phi-5067165.html",
+      "summary": "Ôtô qua trạm thu phí bỏ hoang thì vật thể lạ bất ngờ rơi xuống trước đầu xe, không va chạm nhưng vướng gầm, tiềm ẩn nguy hiểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-25T21:00:00+07:00",
+      "fetched": "2026-04-26T05:34:14.712167+07:00"
+    },
+    {
+      "id": "c99a1e06ea885a88f2661ee76d5c43a5",
+      "title": "CLB Hà Nội Tasco Auto lần đầu vô địch Cúp bóng chuyền Hùng Vương",
+      "link": "https://thanhnien.vn/clb-ha-noi-tasco-auto-lan-dau-vo-dich-cup-bong-chuyen-hung-vuong-185260426030720314.htm",
+      "summary": "Đội bóng chuyền nữ thủ đô, CLB Hà Nội Tasco Auto đăng quang thuyết phục ở Cúp bóng chuyền Hùng Vương 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-25T21:00:00+07:00",
+      "fetched": "2026-04-26T05:34:17.774318+07:00"
     },
     {
       "id": "1628ff1d264dc5276b634c0b2bac6896",
