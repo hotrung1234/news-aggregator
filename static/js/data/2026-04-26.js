@@ -1,7 +1,157 @@
 window.newsData_2026_04_26 = {
   "date": "2026-04-26",
-  "lastUpdated": "2026-04-26T09:30:17.816691+07:00",
+  "lastUpdated": "2026-04-26T13:05:07.868692+07:00",
   "articles": [
+    {
+      "id": "06b81a98ad2529469b8ec8ebf1829820",
+      "title": "Chủ quán bán đồ ăn không cắt ngắn móng tay, không đeo găng tay có thể bị phạt tới 4 triệu đồng",
+      "link": "https://tuoitre.vn/chu-quan-ban-do-an-khong-cat-ngan-mong-tay-khong-deo-gang-tay-co-the-bi-phat-toi-4-trieu-dong-20260426092802088.htm",
+      "summary": "Bộ Tư pháp đang thẩm định hồ sơ dự thảo nghị định thay thế Nghị định 115/2018 của Chính phủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T13:05:01.680561+07:00",
+      "fetched": "2026-04-26T13:05:01.680652+07:00"
+    },
+    {
+      "id": "513dc402578cc4479281695d8ec8eee4",
+      "title": "Tranh cãi quanh chuyện Ronaldo không uống sữa",
+      "link": "https://tuoitre.vn/tranh-cai-quanh-chuyen-ronaldo-khong-uong-sua-20260425205831088.htm",
+      "summary": "Không chỉ tránh tuyệt đối đồ uống có ga và cồn, Ronaldo còn nổi tiếng với chế độ dinh dưỡng \"nói không với sữa\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T13:05:01.680459+07:00",
+      "fetched": "2026-04-26T13:05:01.680552+07:00"
+    },
+    {
+      "id": "e4509b51911d4fc1837b79a5481f85fe",
+      "title": "Khám phá thác nước đẹp như mái tóc thiếu nữ Vân Kiều",
+      "link": "https://tuoitre.vn/kham-pha-thac-nuoc-dep-nhu-mai-toc-thieu-nu-van-kieu-20260425170206657.htm",
+      "summary": "Thác Tà Puồng ở tây Trường Sơn tỏa ra trắng xóa như mái tóc sơn nữ Vân Kiều.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T13:05:01.680368+07:00",
+      "fetched": "2026-04-26T13:05:01.680451+07:00"
+    },
+    {
+      "id": "72ae720e590e407a05f4195e63c63053",
+      "title": "Biển người về Đền Hùng ngày giỗ Tổ Hùng Vương",
+      "link": "https://tuoitre.vn/bien-nguoi-ve-den-hung-ngay-gio-to-hung-vuong-2026042610080283.htm",
+      "summary": "Sáng 26-4, mùng 10-3 âm lịch, hàng chục nghìn người dân về Đền Hùng (Phú Thọ) dâng hương giỗ Tổ Hùng Vương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T13:05:01.680274+07:00",
+      "fetched": "2026-04-26T13:05:01.680360+07:00"
+    },
+    {
+      "id": "beb7244597c4360dcdb8571e4c5871d5",
+      "title": "Đồng tiền đẫm máu từ ma túy Mỹ Latin - Kỳ 8: UAV lắp thiết bị nổ tự chế của bọn gieo cái chết đen",
+      "link": "https://tuoitre.vn/dong-tien-dam-mau-tu-ma-tuy-my-latin-ky-8-uav-lap-thiet-bi-no-tu-che-cua-bon-gieo-cai-chet-den-20260426100201906.htm",
+      "summary": "Trong các vụ đụng độ ở Mexico, các băng ma túy đã học cách kết hợp sử dụng thiết bị nổ tự chế, chiến hào và công sự, xe bọc thép và UAV.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T13:05:01.680181+07:00",
+      "fetched": "2026-04-26T13:05:01.680266+07:00"
+    },
+    {
+      "id": "6a947cf558ca10158b113ed84c7a5ca6",
+      "title": "Phương Thanh: Từ vẽ đến ống kính, 'pha màu' cho những vai diễn nhiều lớp",
+      "link": "https://tuoitre.vn/phuong-thanh-tu-ve-den-ong-kinh-pha-mau-cho-nhung-vai-dien-nhieu-lop-20260425110231309.htm",
+      "summary": "Từ một sinh viên mỹ thuật rẽ ngang sang điện ảnh, Phương Thanh đang 'vẽ' những chân dung đầu tiên đầy thú vị trên màn bạc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T13:05:01.680087+07:00",
+      "fetched": "2026-04-26T13:05:01.680173+07:00"
+    },
+    {
+      "id": "e0d31a6bb0f7bb8c729aae8d61ca8c69",
+      "title": "Bản đồ Việt Nam làm từ xôi nước cốt dừa, nặng 600kg",
+      "link": "https://tuoitre.vn/ban-do-viet-nam-lam-tu-xoi-nuoc-cot-dua-nang-600kg-20260426095940755.htm",
+      "summary": "Bản đồ Việt Nam \"khủng\" với quy mô ngang 2m, dài 2,6m, dày hơn 10cm và nặng khoảng 600kg đã xác lập kỷ lục Việt Nam vào sáng nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T13:05:01.679990+07:00",
+      "fetched": "2026-04-26T13:05:01.680078+07:00"
+    },
+    {
+      "id": "851f54e39597ef7e533822a5919350d9",
+      "title": "Hàng chục nhà đầu tư chờ cơ chế vận hành trung tâm tài chính TP.HCM, Đà Nẵng",
+      "link": "https://tuoitre.vn/hang-chuc-nha-dau-tu-cho-co-che-van-hanh-trung-tam-tai-chinh-tp-hcm-da-nang-20260426101912853.htm",
+      "summary": "TP.HCM đã trao chứng nhận cam kết thành viên trung tâm tài chính cho 15 nhà đầu tư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T13:05:01.679867+07:00",
+      "fetched": "2026-04-26T13:05:01.679975+07:00"
+    },
+    {
+      "id": "bab225da9288d8f3bc5855437c840092",
+      "title": "Câu lạc bộ của những người bạn nghe bằng trái tim, 'nói' bằng ngón tay",
+      "link": "https://tuoitre.vn/cau-lac-bo-cua-nhung-nguoi-ban-nghe-bang-trai-tim-noi-bang-ngon-tay-20260426095747047.htm",
+      "summary": "Không phải người khiếm thính nhưng họ đã học ngôn ngữ ký hiệu để thấu hiểu và sẻ chia, trở thành cầu nối giữa hai thế giới âm thanh và thinh lặng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T13:05:01.679754+07:00",
+      "fetched": "2026-04-26T13:05:01.679858+07:00"
+    },
+    {
+      "id": "c958142a2e8404f645a6c5e571f1e151",
+      "title": "Thay đổi khung giờ tính giá điện, người dân cần chú ý gì; Một phương án tăng lương hưu từ 1-7",
+      "link": "https://tuoitre.vn/thay-doi-khung-gio-tinh-gia-dien-nguoi-dan-can-chu-y-gi-mot-phuong-an-tang-luong-huu-tu-1-7-20260424174153586.htm",
+      "summary": "Những thông tin thu hút nhiều bạn đọc phản hồi tuần qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T13:05:01.679655+07:00",
+      "fetched": "2026-04-26T13:05:01.679745+07:00"
+    },
+    {
+      "id": "fe14c6d65d0fc6ee2341f18bc8775352",
+      "title": "Dùng công nghệ 'tầm soát sức khỏe' để dưỡng cây xanh, hạn chế việc đốn bỏ",
+      "link": "https://tuoitre.vn/dung-cong-nghe-tam-soat-suc-khoe-de-duong-cay-xanh-han-che-viec-don-bo-20260424095514359.htm",
+      "summary": "Nên có công nghệ 'tầm soát sức khỏe' để phát hiện sớm sâu bệnh và dưỡng cây xanh, khi không thể chữa mới phải đốn hạ và trồng cây mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T13:05:01.679554+07:00",
+      "fetched": "2026-04-26T13:05:01.679646+07:00"
+    },
+    {
+      "id": "b95e5f378dcc24ebf0e2fc11cc3bc37a",
+      "title": "Thanh gươm và bà mẹ, lời thề trung thành với Tổ quốc",
+      "link": "https://tuoitre.vn/thanh-guom-va-ba-me-loi-the-trung-thanh-voi-to-quoc-20260425223541798.htm",
+      "summary": "Đây là vở kịch cách mạng mới duy nhất của TP.HCM ra mắt trong dịp giỗ Tổ Hùng Vương và lễ 30-4 năm nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T13:05:01.679450+07:00",
+      "fetched": "2026-04-26T13:05:01.679545+07:00"
+    },
+    {
+      "id": "41ab8da946eda394ee4d3c5297c37b33",
+      "title": "Truy tìm cô gái đi xe máy ngược chiều ở làn 100km/h trên cao tốc",
+      "link": "https://tuoitre.vn/truy-tim-co-gai-di-xe-may-nguoc-chieu-o-lan-100km-h-tren-cao-toc-20260426105614882.htm",
+      "summary": "Sự việc khiến một số ô tô đi đúng chiều phải giảm tốc độ, đánh lái tránh xảy ra va chạm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T13:05:01.679341+07:00",
+      "fetched": "2026-04-26T13:05:01.679441+07:00"
+    },
+    {
+      "id": "88cc85e6f8dba91e088effce0c0fbb64",
+      "title": "Dự báo thời tiết tuần từ 26-4 đến 2-5: Bắc Bộ mát mẻ, Nam Bộ nắng gắt",
+      "link": "https://tuoitre.vn/du-bao-thoi-tiet-tuan-tu-26-4-den-2-5-bac-bo-mat-me-nam-bo-nang-gat-20260425161909052.htm",
+      "summary": "Tuần này thời tiết Bắc Bộ khả năng có mưa dông vào dịp lễ, Trung bộ mưa rào, Nam Bộ nắng nóng diện rộng, chiều tối lác đác có mưa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T13:05:01.679213+07:00",
+      "fetched": "2026-04-26T13:05:01.679331+07:00"
+    },
+    {
+      "id": "d4ab881cc40e8f70c026f3ac83740e6c",
+      "title": "Đình chỉ hoạt động Liên đoàn Yoga Khánh Hòa vì chưa hoàn tất sáp nhập",
+      "link": "https://tuoitre.vn/dinh-chi-hoat-dong-lien-doan-yoga-khanh-hoa-vi-chua-hoan-tat-sap-nhap-20260426104036847.htm",
+      "summary": "UBND tỉnh Khánh Hòa vừa quyết định đình chỉ hoạt động có thời hạn đối với Liên đoàn Yoga tỉnh này do chưa hoàn thành thủ tục sáp nhập.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T13:05:01.678963+07:00",
+      "fetched": "2026-04-26T13:05:01.679200+07:00"
+    },
     {
       "id": "4bd7914d3d868892f79c08e6ca5fc314",
       "title": "Đón đọc Đặc san Tuổi Trẻ 30-4: Những câu chuyện lần đầu tiên được kể",
@@ -153,6 +303,56 @@ window.newsData_2026_04_26 = {
       "fetched": "2026-04-26T09:30:09.074270+07:00"
     },
     {
+      "id": "6a7568f4fcead57c61c09fff8aa0d941",
+      "title": "Nhánh cây đa di sản trăm tuổi gãy đổ, hàng chục người bên dưới hoảng hốt",
+      "link": "https://thanhnien.vn/nhanh-cay-da-di-san-tram-tuoi-gay-do-hang-chuc-nguoi-ben-duoi-hoang-hot-185260426123504593.htm",
+      "summary": "Nhánh của cây đa di sản hàng trăm năm tuổi ở phường Trương Quang Trọng (Quảng Ngãi) bất ngờ gãy đổ khi nhiều người đang làm lễ Giỗ tổ Hùng Vương, khiến hàng chục người hoảng hốt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T06:03:00+07:00",
+      "fetched": "2026-04-26T13:05:00.387737+07:00"
+    },
+    {
+      "id": "fceab411f16280f3b102a119a5b2ab9c",
+      "title": "Tay đua Hà Nội Đặng Thành Được lập kỳ tích ở Cúp xe đạp truyền hình TP.HCM",
+      "link": "https://thanhnien.vn/tay-dua-ha-noi-dang-thanh-duoc-lap-ky-tich-o-cup-xe-dap-truyen-hinh-tphcm-185260426123207533.htm",
+      "summary": "Không được đánh giá cao từ đầu nhưng tay đua Đặng Thành Được (Hà Nội) gặt hái thành công rực rỡ ở Cúp xe đạp truyền hình TP.HCM - Tôn Đông Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T05:57:00+07:00",
+      "fetched": "2026-04-26T13:05:00.387899+07:00"
+    },
+    {
+      "id": "18619d39cf0fe3960bda32065d4f52b7",
+      "title": "Ngày Giỗ tổ, nghĩ về lòng biết ơn trong kỷ nguyên AI",
+      "link": "https://thanhnien.vn/ngay-gio-to-nghi-ve-long-biet-on-trong-ky-nguyen-ai-185260426105436618.htm",
+      "summary": "Nếu một phẩm chất làm nên vẻ đẹp sâu xa nhất của con người, có lẽ đó không phải là trí tuệ, cũng không phải là sức mạnh. Đó là lòng biết ơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T05:44:00+07:00",
+      "fetched": "2026-04-26T13:05:00.388036+07:00"
+    },
+    {
+      "id": "77a976dd8b0efc7d5d381995343252c0",
+      "title": "Công an TP.HCM bắt vợ chồng sản xuất thuốc giảm cân Emo’s chứa chất cấm",
+      "link": "https://thanhnien.vn/cong-an-tphcm-bat-vo-chong-san-xuat-thuoc-giam-can-emos-chua-chat-cam-18526042612183373.htm",
+      "summary": "Công an TP.HCM đã khởi tố, bắt tạm giam một cặp vợ chồng để điều tra hành vi sản xuất, buôn bán thuốc giảm cân nhãn hiệu Emo’s có chứa chất cấm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T05:37:00+07:00",
+      "fetched": "2026-04-26T13:05:00.388163+07:00"
+    },
+    {
+      "id": "d3014cfd877f076dfec3ff0ce4d46f95",
+      "title": "Người TP HCM dâng lễ giỗ Tổ trong ngôi đền 100 tuổi",
+      "link": "https://vnexpress.net/nguoi-tp-hcm-dang-le-gio-to-trong-ngoi-den-100-tuoi-5067294.html",
+      "summary": "Sáng 24/4, hàng nghìn người dân đổ về đền Hùng tuổi đời tròn thế kỷ trong Thảo Cầm Viên và ở Khu tưởng niệm các vua Hùng để dâng hương, làm lễ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T05:36:51+07:00",
+      "fetched": "2026-04-26T13:04:57.354924+07:00"
+    },
+    {
       "id": "6e7870d9c6e9df10b744fb113900283b",
       "title": "Nhà không cần khóa cửa, hàng xóm mang qua mang lại tô canh nóng, thời đó đã thành xa xưa?",
       "link": "https://tuoitre.vn/nha-khong-can-khoa-cua-hang-xom-mang-qua-mang-lai-to-canh-nong-thoi-do-da-thanh-xa-xua-20260422111311801.htm",
@@ -161,6 +361,306 @@ window.newsData_2026_04_26 = {
       "category": "Tổng hợp",
       "published": "2026-04-26T05:34:18.835655+07:00",
       "fetched": "2026-04-26T05:34:18.835906+07:00"
+    },
+    {
+      "id": "25920ed3c3663df506c96f35116c9ad6",
+      "title": "Tài xế kể lại cách xử lý khi xe mất phanh",
+      "link": "https://vnexpress.net/tai-xe-ke-lai-cach-xu-ly-khi-xe-mat-phanh-5067257.html",
+      "summary": "Mất phanh khi rời cao tốc, tài xế tại Pennsylvania vẫn kiểm soát xe an toàn, chia sẻ kỹ năng xử lý khẩn cấp thu hút hàng triệu lượt xem.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T05:29:20+07:00",
+      "fetched": "2026-04-26T13:04:57.355089+07:00"
+    },
+    {
+      "id": "040731230fe4d5f615c6fb18e8d466fd",
+      "title": "Miền Bắc tuần tới có mưa",
+      "link": "https://vnexpress.net/mien-bac-tuan-toi-co-mua-5067304.html",
+      "summary": "Gió đông nam ẩm cùng với không khí lạnh yếu khiến tuần tới miền Bắc có mưa, một số nơi ở đồng bằng và ven biển có thể mưa lớn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T05:27:50+07:00",
+      "fetched": "2026-04-26T13:04:57.355233+07:00"
+    },
+    {
+      "id": "d8ab638b14465f351279a9db7a5256a9",
+      "title": "Ông Trump gọi nghi phạm nổ súng ở dạ tiệc Nhà Trắng là ‘kẻ bệnh hoạn’",
+      "link": "https://thanhnien.vn/ong-trump-goi-nghi-pham-no-sung-o-da-tiec-nha-trang-la-ke-benh-hoan-185260426122255823.htm",
+      "summary": "Tổng thống Donald Trump và Đệ nhất phu nhân Melania Trump đã được các nhân viên Mật vụ đưa ra khỏi buổi dạ tiệc của Hiệp hội Phóng viên Nhà Trắng vào tối 25.4 sau khi một người đàn ông dùng súng bắn vào nhân viên an ninh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T05:27:00+07:00",
+      "fetched": "2026-04-26T13:05:00.388285+07:00"
+    },
+    {
+      "id": "34ebc4ac67b1e12bf073fe5cd0639400",
+      "title": "Xưởng thực phẩm giảm cân chứa chất cấm bị phát hiện ở TP HCM",
+      "link": "https://vnexpress.net/xuong-thuc-pham-giam-can-chua-chat-cam-bi-phat-hien-o-tp-hcm-5067306.html",
+      "summary": "Trần Thị Như Hảo, 27 tuổi, mở công ty sản xuất thực phẩm chức năng nhãn hiệu Emo's, chứa chất cấm có nguy cơ gây đau tim, tăng huyết áp, quảng cáo là giảm cân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T05:22:17+07:00",
+      "fetched": "2026-04-26T13:04:57.355377+07:00"
+    },
+    {
+      "id": "06774a77735218fbfa02e923ece08270",
+      "title": "Mùng 10 tháng 3, biển người đổ về đền tưởng niệm các Vua Hùng ở TP.HCM",
+      "link": "https://thanhnien.vn/mung-10-thang-3-bien-nguoi-do-ve-den-tuong-niem-cac-vua-hung-o-tphcm-185260426115154448.htm",
+      "summary": "Sáng 26.4 (mùng 10 tháng 3 âm lịch), người dân TP.HCM đổ về đền tưởng niệm các Vua Hùng, dâng hương dịp Giỗ tổ Hùng Vương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T05:09:00+07:00",
+      "fetched": "2026-04-26T13:05:00.388404+07:00"
+    },
+    {
+      "id": "087ef55523325330980b22938594de9f",
+      "title": "Trời nắng nóng nên uống nước bao nhiêu độ để tốt cho sức khỏe?",
+      "link": "https://thanhnien.vn/troi-nang-nong-nen-uong-nuoc-bao-nhieu-do-de-tot-cho-suc-khoe-185260424153022525.htm",
+      "summary": "Khi cái nóng càng gay gắt, nhiều người trong chúng ta tìm đến những thức uống lạnh để giải nhiệt. Tuy nhiên, nhiệt độ nước quá lạnh sẽ không tốt cho sức khỏe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T05:05:00+07:00",
+      "fetched": "2026-04-26T13:05:00.388522+07:00"
+    },
+    {
+      "id": "c308e3271cc8289afc8a8c0e99172c5f",
+      "title": "Ăn cơm nguội giảm cân được không?",
+      "link": "https://vnexpress.net/an-com-nguoi-giam-can-duoc-khong-5067271.html",
+      "summary": "Tôi thấy mọi người nói ăn cơm nguội giảm cân nhanh hơn ăn cơm nóng, liệu có đúng và nên ăn thế nào để hiệu quả? (Hương, 30 tuổi, Hà Nội).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T05:00:00+07:00",
+      "fetched": "2026-04-26T13:04:57.355507+07:00"
+    },
+    {
+      "id": "e2d9d6ac4be9a949376e50272dcedf3d",
+      "title": "Bác sĩ quân y 32 tuổi tìm người thương ở Hà Nội",
+      "link": "https://vnexpress.net/bac-si-quan-y-32-tuoi-tim-nguoi-thuong-o-ha-noi-5066543.html",
+      "summary": "Anh có lòng bao dung và vị tha, hay đi làm việc thiện nguyện với bạn bè đồng nghiệp, được mọi người nhận xét là gần gũi, thiện cảm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T05:00:00+07:00",
+      "fetched": "2026-04-26T13:04:57.355607+07:00"
+    },
+    {
+      "id": "c6edfe801f9f0417f243d985d9db732b",
+      "title": "Vua nào Nhà Tiền Lý không mang họ Lý?",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-vua-nao-nha-tien-ly-khong-mang-ho-ly-5065741.html",
+      "summary": "Nhà Tiền Lý kéo dài 61 năm, tổng cộng ba đời vua, trong đó có hai vua họ Lý và một vua không phải họ Lý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T05:00:00+07:00",
+      "fetched": "2026-04-26T13:04:57.355740+07:00"
+    },
+    {
+      "id": "3a2c5eeec115431598d8d7c8af725fb5",
+      "title": "Hong Leong là ngân hàng SME có trải nghiệm khách hàng tốt nhất Đông Nam Á",
+      "link": "https://vnexpress.net/hong-leong-la-ngan-hang-sme-co-trai-nghiem-khach-hang-tot-nhat-dong-nam-a-5067310.html",
+      "summary": "Ngân hàng Hong Leong Việt Nam (HLB) được vinh danh tại 3 hạng mục giải thưởng tại lễ trao giải The Digital Banker Digital CX Awards 2026, nhờ các sáng kiến số hóa và cải thiện trải nghiệm khách hàng doanh nghiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T05:00:00+07:00",
+      "fetched": "2026-04-26T13:04:57.355870+07:00"
+    },
+    {
+      "id": "abdc84eebb71ea36884279a784fdc506",
+      "title": "Dấu hiệu chu kỳ kinh không rụng trứng",
+      "link": "https://vnexpress.net/dau-hieu-chu-ky-kinh-khong-rung-trung-5067181.html",
+      "summary": "Chu kỳ kinh không đều, lượng máu bất thường, thân nhiệt không tăng, khó thụ thai tự nhiên là dấu hiệu cảnh báo nữ giới vẫn có kinh nguyệt nhưng không rụng trứng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T05:00:00+07:00",
+      "fetched": "2026-04-26T13:04:57.356013+07:00"
+    },
+    {
+      "id": "8e5092af67bbab7ade02a9a0ebf0311b",
+      "title": "Gợi ý thực đơn giúp người tiểu đường kiểm soát đường huyết",
+      "link": "https://vnexpress.net/goi-y-thuc-don-giup-nguoi-tieu-duong-kiem-soat-duong-huyet-5067083.html",
+      "summary": "Bữa sáng, trưa và tối của người tiểu đường cần được cân đối đầy đủ protein, chất xơ để giúp no lâu và hạn chế tăng đường huyết sau ăn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T05:00:00+07:00",
+      "fetched": "2026-04-26T13:04:57.356142+07:00"
+    },
+    {
+      "id": "e38135951bc177c5f4f86f02670dedbb",
+      "title": "Cần Giờ dự báo có mưa dịp VnExpress Marathon",
+      "link": "https://vnexpress.net/can-gio-du-bao-co-mua-dip-vnexpress-marathon-5066908.html",
+      "summary": "Giải chạy tại Cần Giờ dự kiến diễn ra trong điều kiện thời tiết nóng ẩm, xen kẽ khả năng xuất hiện mưa dông trong hai ngày 30/4 và 1/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T05:00:00+07:00",
+      "fetched": "2026-04-26T13:04:57.356264+07:00"
+    },
+    {
+      "id": "461f0465ea12e2a4258d09fc95ba3c70",
+      "title": "‘Môn đăng hộ đối’ kiểu người trẻ: Không giàu vẫn cưới, miễn cùng hệ giá trị",
+      "link": "https://thanhnien.vn/mon-dang-ho-doi-kieu-nguoi-tre-khong-giau-van-cuoi-mien-cung-he-gia-tri-185260425141341541.htm",
+      "summary": "Người trẻ ngày nay có thể yêu mà không cần \"môn đăng hộ đối\", với họ điều quan trọng nhất trong một mối quan hệ là sự đồng điệu về hệ giá trị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T05:00:00+07:00",
+      "fetched": "2026-04-26T13:05:00.388643+07:00"
+    },
+    {
+      "id": "5329d8e6b400c91ae315d83477fc90c7",
+      "title": "Denim on denim - công thức phối đồ 'cứ mặc là đẹp'",
+      "link": "https://thanhnien.vn/thoi-trang-tre/denim-on-denim-cong-thuc-phoi-do-cu-mac-la-dep-185260424162148763.htm",
+      "summary": "Chỉ với vài món denim quen thuộc, nàng đã có thể tạo nên diện mạo thời thượng, cá tính mà không cần phối cầu kỳ. Công thức phối đồ denim on denim với sự đồng điệu chất liệu giúp tổng thể luôn hài hòa và dễ ứng dụng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T05:00:00+07:00",
+      "fetched": "2026-04-26T13:05:00.388767+07:00"
+    },
+    {
+      "id": "f33bfdaf009a10d247256a6bb5d22232",
+      "title": "Lái xe chạy ngược chiều, tài xế xe bán tải bị CSGT phạt gần 20 triệu đồng",
+      "link": "https://thanhnien.vn/lai-xe-chay-nguoc-chieu-tai-xe-xe-ban-tai-bi-csgt-phat-gan-20-trieu-dong-185260424212801811.htm",
+      "summary": "Bất chấp đường quốc lộ đang có đông phương tiện di chuyển, tài xế vẫn liều lĩnh lái xe bán tải chạy ngược chiều, thậm chí hiên ngay đi trên làn đường sát dải phân cách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T04:55:00+07:00",
+      "fetched": "2026-04-26T13:05:00.388909+07:00"
+    },
+    {
+      "id": "818455ce92a4393130247b7fef42838f",
+      "title": "Dấu hiệu nhận biết ô tô đã qua sử dụng có lịch sử thay dầu muộn",
+      "link": "https://thanhnien.vn/dau-hieu-nhan-biet-o-to-da-qua-su-dung-co-lich-su-thay-dau-muon-18526042213490863.htm",
+      "summary": "Những chiếc ô tô đã qua sử dụng thường xuyên thay dầu động cơ muộn hoặc lâu ngày không thay dầu thường có những dấu hiệu để nhận biết, do đó người mua ô tô hay thuê xe cần nắm để phòng ngừa rủi ro.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T04:55:00+07:00",
+      "fetched": "2026-04-26T13:05:00.389056+07:00"
+    },
+    {
+      "id": "24563c789cdacdb1d724667b1ecd1127",
+      "title": "Honda đẩy mạnh 'thu cũ đổi mới', hỗ trợ người mua xe máy mới 1,5 triệu đồng",
+      "link": "https://thanhnien.vn/honda-day-manh-thu-cu-doi-moi-ho-tro-nguoi-mua-xe-may-moi-15-trieu-dong-185260425102559932.htm",
+      "summary": "Mở rộng quy mô tổ chức, hỗ trợ mạnh tay đến 1,5 triệu đồng cho khách mua xe máy mới, Honda Việt Nam cũng đang tăng tốc trong cuộc đua \"thu cũ đổi mới\", khi áp lực cạnh tranh và nhu cầu thay thế phương tiện gia tăng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T04:54:00+07:00",
+      "fetched": "2026-04-26T13:05:00.389189+07:00"
+    },
+    {
+      "id": "5257045b1a14121d751c10880acd8c86",
+      "title": "Bún suông hơn nửa thế kỷ ở miền Tây: Chả tôm giống con đuông làm nên hương vị riêng",
+      "link": "https://thanhnien.vn/bun-suong-hon-nua-the-ky-o-mien-tay-cha-tom-giong-con-duong-lam-nen-huong-vi-rieng-185260423095923934.htm",
+      "summary": "Bún suông với vị nước dùng thanh tao, những sợi chả tôm uốn lượn sắc cam hòa quyện cùng dàn \"topping\" dân dã đặc trưng níu chân thực khách suốt hơn nửa thế kỷ qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T04:54:00+07:00",
+      "fetched": "2026-04-26T13:05:00.389310+07:00"
+    },
+    {
+      "id": "0ca0974f454844df1fbc220a70c94e1e",
+      "title": "Trang trọng lễ Giỗ tổ Hùng Vương tại TP.HCM",
+      "link": "https://thanhnien.vn/trang-trong-le-gio-to-hung-vuong-tai-tphcm-185260426082138389.htm",
+      "summary": "Sáng 26.4 (10.3 âm lịch), Thành ủy, HĐND, UBND, UBMTTQ Việt Nam TP.HCM long trọng tổ chức lễ Giỗ tổ Hùng Vương tại Đền tưởng niệm các Vua Hùng và Đền thờ Đức Lễ Thành hầu Nguyễn Hữu Cảnh, trong khuôn viên Công viên Lịch sử - Văn hóa dân tộc (P.Long Bình, TP.HCM).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T04:48:00+07:00",
+      "fetched": "2026-04-26T13:05:00.389429+07:00"
+    },
+    {
+      "id": "9d21f03bd56caff177431bd9c69cd4ea",
+      "title": "Hẹn nhau giải quyết mâu thuẫn, 1 người bị chém lìa tay",
+      "link": "https://thanhnien.vn/hen-nhau-giai-quyet-mau-thuan-1-nguoi-bi-chem-lia-tay-185260426103026845.htm",
+      "summary": "Mâu thuẫn chuyện bạn gái, 2 nhóm thanh thiếu niên ở tỉnh Vĩnh Long hẹn nhau giải quyết khiến 1 người bị chém lìa tay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T04:37:00+07:00",
+      "fetched": "2026-04-26T13:05:00.389552+07:00"
+    },
+    {
+      "id": "ac5e9a63f37f9ba2c5b61df3dd0c03a7",
+      "title": "Fulham 1-0 Aston Villa",
+      "link": "https://vnexpress.net/fulham-1-0-aston-villa-5067319.html",
+      "summary": "Đội bóng của Unai Emery bất ngờ gục ngã ở vòng 34, lỡ cơ hội vào top 3 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T04:35:53+07:00",
+      "fetched": "2026-04-26T13:04:57.356382+07:00"
+    },
+    {
+      "id": "72d98cfda1c0409de54b6107a674e80a",
+      "title": "'Khó có Nguyễn Huy Thiệp thứ hai'",
+      "link": "https://vnexpress.net/kho-co-nguyen-huy-thiep-thu-hai-5067048.html",
+      "summary": "Theo Tiến sĩ Mai Anh Tuấn, trong tương lai gần sẽ khó có thể xuất hiện một Nguyễn Huy Thiệp thứ hai trên văn đàn Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T04:33:55+07:00",
+      "fetched": "2026-04-26T13:04:57.356499+07:00"
+    },
+    {
+      "id": "ea332b24122780a735ec6ee5bac6b048",
+      "title": "West Ham 2-1 Everton",
+      "link": "https://vnexpress.net/west-ham-2-1-everton-5067317.html",
+      "summary": "Pha làm bàn ở phút bù của Callum Wilson giúp West Ham giành chiến thắng quan trọng tại vòng 34 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T04:29:53+07:00",
+      "fetched": "2026-04-26T13:04:57.356621+07:00"
+    },
+    {
+      "id": "63c4f4080a82c6b67f38f443ccfba35e",
+      "title": "Khoảnh khắc tay súng cố xông vào bữa tiệc có ông Trump",
+      "link": "https://vnexpress.net/khoanh-khac-tay-sung-co-xong-vao-bua-tiec-co-ong-trump-5067287.html",
+      "summary": "Video cho thấy nghi phạm chạy nhanh qua chốt an ninh để tiếp cận bữa tiệc mà Tổng thống tham dự ở khách sạn Washington Hilton.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T04:26:58+07:00",
+      "fetched": "2026-04-26T13:04:57.356743+07:00"
+    },
+    {
+      "id": "63c4f4080a82c6b67f38f443ccfba35e",
+      "title": "Khoảnh khắc tay súng cố xông vào bữa tiệc có ông Trump",
+      "link": "https://vnexpress.net/khoanh-khac-tay-sung-co-xong-vao-bua-tiec-co-ong-trump-5067287.html",
+      "summary": "Video cho thấy nghi phạm chạy nhanh qua chốt an ninh để tiếp cận bữa tiệc mà Tổng thống tham dự ở khách sạn Washington Hilton.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-26T04:26:58+07:00",
+      "fetched": "2026-04-26T13:05:02.793366+07:00"
+    },
+    {
+      "id": "657f6af4c402b1819b39b1537e220a37",
+      "title": "iPhone 18 có thể bị giảm thông số so với iPhone 17",
+      "link": "https://vnexpress.net/iphone-18-co-the-bi-giam-thong-so-so-voi-iphone-17-5067299.html",
+      "summary": "iPhone 18 có thể dùng loại màn hình cấp thấp hơn, vi xử lý yếu hơn so với iPhone 17 để giảm giá thành.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-26T04:19:17+07:00",
+      "fetched": "2026-04-26T13:05:06.131619+07:00"
+    },
+    {
+      "id": "c2b013ee8fa77433c4d0cd1fa16c5534",
+      "title": "Yamal bị đánh giá thấp hơn Cherki",
+      "link": "https://vnexpress.net/yamal-bi-danh-gia-thap-hon-cherki-5066486.html",
+      "summary": "Theo tiền đạo Georges Mikautadze, Rayan Cherki giỏi hơn Lamine Yamal về mặt bóng đá.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-26T04:16:35+07:00",
+      "fetched": "2026-04-26T13:05:07.859994+07:00"
+    },
+    {
+      "id": "f21f30332655be738f8664a40bc8443c",
+      "title": "Cá mập tụ tập ăn xác cá voi, loạt bãi biển Australia đóng cửa",
+      "link": "https://vnexpress.net/ca-map-tu-tap-an-xac-ca-voi-loat-bai-bien-australia-dong-cua-5067278.html",
+      "summary": "Các bãi biển ở phía nam Sydney phải đóng cửa sau khi đàn cá mập trắng và cá mập bò tập trung gần bờ để ăn xác cá voi.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-26T03:41:37+07:00",
+      "fetched": "2026-04-26T13:05:02.793522+07:00"
+    },
+    {
+      "id": "4e469a4ec524c443ec6c329999908e88",
+      "title": "Guardiola: 'Định nghĩa về Man City không chỉ là Champions League'",
+      "link": "https://vnexpress.net/guardiola-dinh-nghia-ve-man-city-khong-chi-la-champions-league-5067228.html",
+      "summary": "HLV Pep Guardiola tự hào khi Man City lập kỷ lục lần thứ tư liên tiếp vào chung kết Cup FA, nhưng khẳng định đội nhà còn \"quá xa\" khả năng giành cú ăn ba quốc nội.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-26T03:37:31+07:00",
+      "fetched": "2026-04-26T13:05:07.859503+07:00"
     },
     {
       "id": "08a340e8aeea7a12d9e2c5a4f44097c0",
@@ -173,6 +673,26 @@ window.newsData_2026_04_26 = {
       "fetched": "2026-04-26T03:35:23.264506+07:00"
     },
     {
+      "id": "d0a9c34c594d99d553e89d27298e5cf7",
+      "title": "Chương trình radio thể dục buổi sáng có tuổi đời trăm năm ở Nhật",
+      "link": "https://vnexpress.net/chuong-trinh-radio-the-duc-buoi-sang-co-tuoi-doi-tram-nam-o-nhat-5067210.html",
+      "summary": "Đúng 6h30 mỗi buổi sáng, đài phát thanh Nhật Bản phát chương trình Radio Taiso đã tồn tại gần 100 năm, hướng dẫn người dân tập thể dục cho ngày mới.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-26T03:31:14+07:00",
+      "fetched": "2026-04-26T13:05:02.793658+07:00"
+    },
+    {
+      "id": "440d6ece9d07e8067b7330ed470c9759",
+      "title": "Messi im tiếng hai trận liên tiếp ở MLS",
+      "link": "https://vnexpress.net/messi-im-tieng-hai-tran-lien-tiep-o-mls-5067225.html",
+      "summary": "Inter Miami phải chịu hòa New England Revolution 1-1 ngay trên sân nhà NU tại vòng 10, khi thủ quân Lionel Messi không ghi bàn trận thứ hai liên tiếp ở giải bóng đá nhà nghề Mỹ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-26T03:08:18+07:00",
+      "fetched": "2026-04-26T13:05:07.859675+07:00"
+    },
+    {
       "id": "f7c8beb19f2ca135e86209030ce59dc5",
       "title": "Đại tá, nhà văn Nguyễn Minh Ngọc\nViết về chiến tranh đâu phải để ngợi ca…",
       "link": "https://thanhnien.vn/dai-ta-nha-van-nguyen-minh-ngocviet-ve-chien-tranh-dau-phai-de-ngoi-ca-185260426082335186.htm",
@@ -181,6 +701,16 @@ window.newsData_2026_04_26 = {
       "category": "Tổng hợp",
       "published": "2026-04-26T02:30:00+07:00",
       "fetched": "2026-04-26T09:30:07.918506+07:00"
+    },
+    {
+      "id": "fcc06db39331859b847e07fccaa7ccb0",
+      "title": "Nga tập kích thành phố Ukraine 'trong hơn 20 giờ liên tiếp'",
+      "link": "https://vnexpress.net/nga-tap-kich-thanh-pho-ukraine-trong-hon-20-gio-lien-tiep-5067211.html",
+      "summary": "Ukraine nói thành phố Dnipro ở tỉnh Dnipropetrovsk của nước này bị tên lửa, UAV Nga tấn công trong hơn 20 giờ liên tục, khiến 8 người thiệt mạng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-26T02:25:39+07:00",
+      "fetched": "2026-04-26T13:05:02.793791+07:00"
     },
     {
       "id": "335d91f436422a78ba3e4265a1f9f58e",
