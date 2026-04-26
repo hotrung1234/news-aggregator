@@ -1,7 +1,147 @@
 window.newsData_2026_04_26 = {
   "date": "2026-04-26",
-  "lastUpdated": "2026-04-26T21:39:56.466605+07:00",
+  "lastUpdated": "2026-04-26T23:39:10.663127+07:00",
   "articles": [
+    {
+      "id": "8f08c0c448f4f3d1c988b2b7163d1e1b",
+      "title": "Nghi phạm nổ súng ở dạ tiệc phóng viên Nhà Trắng không hợp tác, có thể nhắm vào ông Trump",
+      "link": "https://tuoitre.vn/nghi-pham-no-sung-o-da-tiec-phong-vien-nha-trang-khong-hop-tac-co-the-nham-vao-ong-trump-20260426210839184.htm",
+      "summary": "Quyền Bộ trưởng Tư pháp Mỹ cập nhật tình hình vụ nổ súng tại dạ tiệc ông Trump tham dự, trong khi Anh xem xét các vấn đề liên quan đến chuyến thăm Mỹ của Vua Charles ngày 27-4.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T23:39:03.787448+07:00",
+      "fetched": "2026-04-26T23:39:03.787566+07:00"
+    },
+    {
+      "id": "5f9fa4c4e486f5156977c73070b958f0",
+      "title": "Trung Quốc phát triển công nghệ biến than thành điện gần như không phát thải carbon",
+      "link": "https://tuoitre.vn/trung-quoc-phat-trien-cong-nghe-bien-than-thanh-dien-gan-nhu-khong-phat-thai-carbon-20260426204638353.htm",
+      "summary": "Các nhà khoa học Trung Quốc đã phát triển một công nghệ mới cho phép tạo ra điện từ than với hiệu suất cao hơn phương pháp đốt truyền thống và gần như không phát thải CO₂",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T23:39:03.787300+07:00",
+      "fetched": "2026-04-26T23:39:03.787435+07:00"
+    },
+    {
+      "id": "9aba6b47ff9c8e7439f31fef8d8469c4",
+      "title": "Công an yêu cầu thanh niên đá vào mặt nữ quản lý quán nhậu đến trụ sở làm việc",
+      "link": "https://tuoitre.vn/cong-an-yeu-cau-thanh-nien-da-vao-mat-nu-quan-ly-quan-nhau-den-tru-so-lam-viec-20260426212039969.htm",
+      "summary": "Sau khi đá vào mặt nữ quản lý quán nhậu ở Nha Trang, thanh niên gây ra vụ việc đã rời khỏi tỉnh Khánh Hòa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T23:39:03.787176+07:00",
+      "fetched": "2026-04-26T23:39:03.787289+07:00"
+    },
+    {
+      "id": "7f7b549d47edcfbeb13660e785d1858e",
+      "title": "Đạp gió 2026 giữ lại toàn 'chị đẹp hát dở', khán giả lo Trang Pháp ra về sớm",
+      "link": "https://tuoitre.vn/dap-gio-2026-giu-lai-toan-chi-dep-hat-do-khan-gia-lo-trang-phap-ra-ve-som-20260426213826178.htm",
+      "summary": "Trước ồn ào tại show Đạp gió 2026 khi ê kíp loại toàn những chị đẹp có kỹ năng hát và trình diễn tốt, khán giả đang sợ Trang Pháp sẽ rơi vào tầm ngắm ở công diễn 3.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T23:39:03.787047+07:00",
+      "fetched": "2026-04-26T23:39:03.787164+07:00"
+    },
+    {
+      "id": "4a06e74f7bc1d189f8959df46080784f",
+      "title": "Độc đáo đêm trình diễn áo dài trên cây cầu lâu đời nhất bắc  qua sông Hàn",
+      "link": "https://tuoitre.vn/doc-dao-dem-trinh-dien-ao-dai-tren-cay-cau-lau-doi-nhat-bac-qua-song-han-20260426194752612.htm",
+      "summary": "Tối 26-4, đông đảo người dân và du khách có mặt tại cây cầu đi bộ Nguyễn Văn Trỗi để thưởng thức các tiết mục trình diễn áo dài đặc sắc trong khuôn khổ Lễ hội Áo dài Đà Nẵng 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T23:39:03.786917+07:00",
+      "fetched": "2026-04-26T23:39:03.787036+07:00"
+    },
+    {
+      "id": "2d72023fddbb2e16c1740022c7511059",
+      "title": "Đình Bắc lập hat-trick giúp CLB Công An Hà Nội tiến gần ngôi vương V-League",
+      "link": "https://tuoitre.vn/dinh-bac-lap-hat-trick-giup-clb-cong-an-ha-noi-tien-gan-ngoi-vuong-v-league-20260426144047747.htm",
+      "summary": "Tối 26-4, CLB Công An Hà Nội đánh bại Sông Lam Nghệ An 4-2, trong đó có một cú hat-trick của Nguyễn Đình Bắc ở vòng 20 LPBank V-League 2025 - 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T23:39:03.786788+07:00",
+      "fetched": "2026-04-26T23:39:03.786906+07:00"
+    },
+    {
+      "id": "42701a92fb4d3361c167e1593110db28",
+      "title": "Thái Lan bắt công dân Indonesia nghi lừa đảo người Mỹ 10 triệu USD",
+      "link": "https://tuoitre.vn/thai-lan-bat-cong-dan-indonesia-nghi-lua-dao-nguoi-my-10-trieu-usd-20260426215412007.htm",
+      "summary": "Cảnh sát Thái Lan đã phối hợp FBI bắt giữ một nghi phạm lừa đảo trực tuyến nhắm vào người Mỹ và sẽ dẫn độ đối tượng này sang Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T23:39:03.786650+07:00",
+      "fetched": "2026-04-26T23:39:03.786772+07:00"
+    },
+    {
+      "id": "24eb2d799801565d39d9cb74f47740da",
+      "title": "Cầu lông Trung Quốc gặp chuyện khó tin, chủ tịch liên đoàn đột ngột 'mất tích'",
+      "link": "https://tuoitre.vn/cau-long-trung-quoc-gap-chuyen-kho-tin-chu-tich-lien-doan-dot-ngot-mat-tich-20260426200845101.htm",
+      "summary": "Theo truyền thông Trung Quốc, Liên đoàn Cầu lông Trung Quốc (CBA) đã đột ngột mất liên lạc hoàn toàn với chủ tịch của họ - ông Zhang Jun (Trương Quân).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T23:39:03.786522+07:00",
+      "fetched": "2026-04-26T23:39:03.786639+07:00"
+    },
+    {
+      "id": "77548582e27c783817af997de9f26d28",
+      "title": "Ông Park Hang Seo ăn mừng 'khúc cua' chiến thắng của Bắc Ninh",
+      "link": "https://tuoitre.vn/ong-park-hang-seo-an-mung-khuc-cua-chien-thang-cua-bac-ninh-20260426222625449.htm",
+      "summary": "HLV Park Hang Seo cất công về Phú Thọ để xem CLB Bắc Ninh đánh bại chủ nhà Xuân Thiện Phú Thọ ở vòng 16 Giải hạng nhất quốc gia 2025-2026 vào tối 26-4.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T23:39:03.786356+07:00",
+      "fetched": "2026-04-26T23:39:03.786509+07:00"
+    },
+    {
+      "id": "b4e08681f84c35a679ba4841375d96e9",
+      "title": "Lạc giữa rừng Tây Yên Tử, 2 du khách được giải cứu sau nhiều giờ",
+      "link": "https://tuoitre.vn/lac-giua-rung-tay-yen-tu-2-du-khach-duoc-giai-cuu-sau-nhieu-gio-20260426223229822.htm",
+      "summary": "Sau 4 tiếng tìm kiếm, lực lượng chức năng tại xã Tây Yên Tử đã tìm được 2 du khách lạc trong rừng, trong đó có 1 người bị ong đốt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T23:39:03.786230+07:00",
+      "fetched": "2026-04-26T23:39:03.786344+07:00"
+    },
+    {
+      "id": "b237bbaa691d4b925cc7ee0f22aa6477",
+      "title": "Tổng Bí thư, Chủ tịch nước dâng hương tưởng nhớ các lãnh đạo tiền bối",
+      "link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-dang-huong-tuong-nho-cac-lanh-dao-tien-boi-20260426220747207.htm",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm đã thành kính dâng hoa, dâng hương tưởng nhớ các đồng chí lãnh đạo tiền bối và tri ân những công lao đóng góp to lớn, cống hiến trọn đời cho Đảng, cho dân tộc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T23:39:03.786101+07:00",
+      "fetched": "2026-04-26T23:39:03.786218+07:00"
+    },
+    {
+      "id": "59238b83577606f0bc5ad824da83f6a9",
+      "title": "Mũi Né được kỳ vọng trở thành trung tâm du lịch mang tầm quốc tế",
+      "link": "https://tuoitre.vn/mui-ne-duoc-ky-vong-tro-thanh-trung-tam-du-lich-mang-tam-quoc-te-20260426215647123.htm",
+      "summary": "Tối 26-4, UBND tỉnh Lâm Đồng tổ chức lễ công bố quy hoạch chung xây dựng khu du lịch quốc gia Mũi Né đến năm 2040, tầm nhìn đến năm 2050.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T23:39:03.785968+07:00",
+      "fetched": "2026-04-26T23:39:03.786089+07:00"
+    },
+    {
+      "id": "aba07c271c7425c310c8c92b6b6671b5",
+      "title": "Đánh bom bằng ô tô lần hai trong một tháng tại Bắc Ireland",
+      "link": "https://tuoitre.vn/danh-bom-bang-o-to-lan-hai-trong-mot-thang-tai-bac-ireland-20260426224537419.htm",
+      "summary": "Nhóm tấn công khống chế xe chở hàng, buộc tài xế lái chiếc xe được gắn thiết bị nổ đến đậu ngay trước một đồn cảnh sát rồi kích nổ xe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T23:39:03.785820+07:00",
+      "fetched": "2026-04-26T23:39:03.785956+07:00"
+    },
+    {
+      "id": "8ff4194d63f1daba434e261cae8867cd",
+      "title": "Bộ trưởng Quốc phòng Mali bị hạ sát: Đòn giáng mạnh vào Nga?",
+      "link": "https://tuoitre.vn/bo-truong-quoc-phong-mali-bi-ha-sat-don-giang-manh-vao-nga-20260426230412858.htm",
+      "summary": "Bộ trưởng Quốc phòng Mali thiệt mạng trong vụ tấn công vào nhà riêng gần căn cứ quân sự bên ngoài thủ đô Bamako.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T23:39:03.785581+07:00",
+      "fetched": "2026-04-26T23:39:03.785804+07:00"
+    },
     {
       "id": "45fed2c2a6971e75e6e3fa45fb922ef6",
       "title": "Chiêm ngưỡng bản đồ Việt Nam từ xôi nước cốt dừa",
@@ -453,6 +593,16 @@ window.newsData_2026_04_26 = {
       "fetched": "2026-04-26T17:42:40.608338+07:00"
     },
     {
+      "id": "4f57540bbf3efdad0f5e6204ea300dd0",
+      "title": "Quật ngã CLB Biên Phòng, đội Công an TP.HCM vô địch Cúp bóng chuyền Hùng Vương 2026",
+      "link": "https://thanhnien.vn/quat-nga-clb-bien-phong-doi-cong-an-tphcm-vo-dich-cup-bong-chuyen-hung-vuong-2026-18526042623240209.htm",
+      "summary": "Đội Công an TP.HCM xuất sắc đánh bại CLB Biên Phòng ở chung kết Cúp bóng chuyền Hùng Vương diễn ra tối nay (26.4) tại Phú Thọ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T16:25:00+07:00",
+      "fetched": "2026-04-26T23:39:03.036472+07:00"
+    },
+    {
       "id": "df18272cd5e1f910a8f33093dc9ba3a3",
       "title": "Tay chèo TP.HCM làm nên lịch sử cho canoeing Việt Nam",
       "link": "https://tuoitre.vn/tay-cheo-tp-hcm-lam-nen-lich-su-cho-canoeing-viet-nam-20260426130349926.htm",
@@ -603,6 +753,126 @@ window.newsData_2026_04_26 = {
       "fetched": "2026-04-26T15:57:10.445573+07:00"
     },
     {
+      "id": "f6ad67b5015800152e35ad944e51ce7d",
+      "title": "Lễ hội bánh dân gian Nam bộ năm 2026 có gì đặc biệt?",
+      "link": "https://thanhnien.vn/le-hoi-banh-dan-gian-nam-bo-nam-2026-co-gi-dac-biet-18526042621001905.htm",
+      "summary": "Lễ hội bánh dân gian Nam bộ lần thứ 13 tại TP.Cần Thơ có hơn 300 gian hàng. Ngoài những món ăn ngon, du khách còn được trải nghiệm nhiều hoạt động hấp dẫn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T15:36:00+07:00",
+      "fetched": "2026-04-26T23:39:03.036645+07:00"
+    },
+    {
+      "id": "983c0266eccb7d4c2331c0ba5d4c3164",
+      "title": "Đình Bắc lập hat-trick, CLB CAHN thắng đậm SLNA để tiến gần chức vô địch",
+      "link": "https://thanhnien.vn/dinh-bac-lap-hat-trick-clb-cahn-thang-dam-slna-de-tien-gan-chuc-vo-dich-185260426220831374.htm",
+      "summary": "Nguyễn Đình Bắc tỏa sáng với cú hat-trick giúp CLB Công an Hà Nội đánh bại SLNA 4-2 ở vòng 20 V-League, qua đó nới rộng khoảng cách và tiến gần hơn đến ngôi vô địch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T15:25:00+07:00",
+      "fetched": "2026-04-26T23:39:03.036802+07:00"
+    },
+    {
+      "id": "1a5978d150cba4d678b85dc89387b9e8",
+      "title": "Highlight CLB CAHN 4-2 SLNA: Đình Bắc rực sáng",
+      "link": "https://thanhnien.vn/highlight-clb-cahn-4-2-slna-dinh-bac-ruc-sang-185260426220132932.htm",
+      "summary": "Nguyễn Đình Bắc tỏa sáng rực rỡ với cú hat-trick, giúp CLB Công an Hà Nội đánh bại SLNA 4-2 trong trận cầu nhiều cảm xúc tại vòng 20 V-League.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T15:01:00+07:00",
+      "fetched": "2026-04-26T23:39:03.036958+07:00"
+    },
+    {
+      "id": "f3de28c5b56c88c76705c3bc6f5c81b3",
+      "title": "Yêu từ cái nhìn đầu tiên với chân váy ca rô cổ điển",
+      "link": "https://thanhnien.vn/thoi-trang-tre/yeu-tu-cai-nhin-dau-tien-voi-chan-vay-ca-ro-co-dien-185260425165349052.htm",
+      "summary": "Không cần đến những thiết kế cầu kỳ, chân váy ca rô cổ điển vẫn luôn giữ vị trí đặc biệt trong tủ đồ của phái đẹp nhờ khả năng dung hòa giữa nét truyền thống và tinh thần hiện đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T15:00:00+07:00",
+      "fetched": "2026-04-26T23:39:03.037112+07:00"
+    },
+    {
+      "id": "853e9b9a36964692637ee0c5f2885627",
+      "title": "Bộ trưởng Quốc phòng Mali bị phiến quân hạ sát",
+      "link": "https://vnexpress.net/bo-truong-quoc-phong-mali-bi-phien-quan-ha-sat-5067407.html",
+      "summary": "Bộ trưởng Quốc phòng Mali Camara thiệt mạng khi phiến quân đánh bom xe trước nhà riêng của ông, trong bối cảnh giao tranh xảy ra ở nhiều nơi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T14:44:27+07:00",
+      "fetched": "2026-04-26T23:39:00.471004+07:00"
+    },
+    {
+      "id": "853e9b9a36964692637ee0c5f2885627",
+      "title": "Bộ trưởng Quốc phòng Mali bị phiến quân hạ sát",
+      "link": "https://vnexpress.net/bo-truong-quoc-phong-mali-bi-phien-quan-ha-sat-5067407.html",
+      "summary": "Bộ trưởng Quốc phòng Mali Camara thiệt mạng khi phiến quân đánh bom xe trước nhà riêng của ông, trong bối cảnh giao tranh xảy ra ở nhiều nơi.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-26T14:44:27+07:00",
+      "fetched": "2026-04-26T23:39:05.248544+07:00"
+    },
+    {
+      "id": "4eedca0e94df88689eb987d0b29e9c8f",
+      "title": "Ôtô đám cưới kẹt giữa gác chắn khi tàu sắp tới",
+      "link": "https://vnexpress.net/oto-dam-cuoi-ket-giua-gac-chan-khi-tau-sap-toi-5067416.html",
+      "summary": "Dù đèn đỏ đã bật, ôtô 7 chỗ dự đám cưới vượt qua đường ngang, mắc kẹt giữa thanh chắn và đường ray khi tàu sắp tới, nhân viên đường sắt phải mở lối thoát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T14:40:00+07:00",
+      "fetched": "2026-04-26T23:39:00.471183+07:00"
+    },
+    {
+      "id": "c462923c618aceb66aac3a0137114703",
+      "title": "Nam sinh Phú Thọ giành vé vào chung kết Olympia đúng ngày Giỗ Tổ",
+      "link": "https://vnexpress.net/nam-sinh-phu-tho-gianh-ve-vao-chung-ket-olympia-dung-ngay-gio-to-5067411.html",
+      "summary": "Lý Thái Dương là học sinh Phú Thọ đầu tiên giành vé vào chung kết Đường lên đỉnh Olympia, trong ngày Giỗ tổ Hùng Vương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T14:32:34+07:00",
+      "fetched": "2026-04-26T23:39:00.471348+07:00"
+    },
+    {
+      "id": "02365dffd8781793b7498c5d10b4c367",
+      "title": "CLB Công an TP.HCM thắng sát nút Hà Tĩnh, HLV Lê Huỳnh Đức tạm giải tỏa áp lực",
+      "link": "https://thanhnien.vn/clb-cong-an-tphcm-thang-sat-nut-ha-tinh-hlv-le-huynh-duc-tam-giai-toa-ap-luc-185260426211100257.htm",
+      "summary": "CLB Công an TP.HCM giành chiến thắng tối thiểu 1-0 trên sân Hà Tĩnh ở vòng 20 V-League, qua đó chấm dứt chuỗi trận đáng thất vọng và giúp HLV Lê Huỳnh Đức phần nào giảm bớt áp lực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T14:25:00+07:00",
+      "fetched": "2026-04-26T23:39:03.037262+07:00"
+    },
+    {
+      "id": "8b8302752d997546ccc3895a7959df3f",
+      "title": "Đà Nẵng hòa kịch tính Thể Công Viettel, vẫn thấp thỏm cuộc đua trụ hạng",
+      "link": "https://thanhnien.vn/da-nang-hoa-kich-tinh-the-cong-viettel-van-thap-thom-cuoc-dua-tru-hang-185260426211003712.htm",
+      "summary": "CLB Đà Nẵng và Thể Công Viettel tạo nên màn rượt đuổi tỷ số nghẹt thở 3-3 ở vòng 20 V-League, nhưng 1 điểm có được vẫn chưa giúp đội bóng sông Hàn thoát khỏi tình thế nguy hiểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T14:25:00+07:00",
+      "fetched": "2026-04-26T23:39:03.037433+07:00"
+    },
+    {
+      "id": "1b7da2dcec4a4e3165b57261d7b97be2",
+      "title": "Đình Bắc lần đầu ghi hat-trick ở V-League",
+      "link": "https://vnexpress.net/dinh-bac-lan-dau-ghi-hat-trick-o-v-league-5067420.html",
+      "summary": "Tiền đạo Nguyễn Đình Bắc lập cột mốc mới khi Công an Hà Nội hạ SLNA 4-2 ở vòng 20 V-League 2025-2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T14:22:01+07:00",
+      "fetched": "2026-04-26T23:39:00.471534+07:00"
+    },
+    {
+      "id": "1b7da2dcec4a4e3165b57261d7b97be2",
+      "title": "Đình Bắc lần đầu ghi hat-trick ở V-League",
+      "link": "https://vnexpress.net/dinh-bac-lan-dau-ghi-hat-trick-o-v-league-5067420.html",
+      "summary": "Tiền đạo Nguyễn Đình Bắc lập cột mốc mới khi Công an Hà Nội hạ SLNA 4-2 ở vòng 20 V-League 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-26T14:22:01+07:00",
+      "fetched": "2026-04-26T23:39:10.651507+07:00"
+    },
+    {
       "id": "99ef355468899fa0c2fe2b3070e70976",
       "title": "Bảng xếp hạng V-League mới nhất: HAGL báo động đỏ, dần lộ diện đối thủ phải xuống hạng",
       "link": "https://thanhnien.vn/bang-xep-hang-v-league-moi-nhat-hagl-bao-dong-do-dan-lo-dien-doi-thu-phai-xuong-hang-185260426204801706.htm",
@@ -611,6 +881,16 @@ window.newsData_2026_04_26 = {
       "category": "Tổng hợp",
       "published": "2026-04-26T14:20:00+07:00",
       "fetched": "2026-04-26T21:39:49.596524+07:00"
+    },
+    {
+      "id": "cfe3e10a3e1b1ce9931c095124e61552",
+      "title": "Kẻ cướp táo tợn trên cầu Rạch Miễu 2 bị bắt",
+      "link": "https://vnexpress.net/ke-cuop-tao-ton-tren-cau-rach-mieu-2-bi-bat-5067421.html",
+      "summary": "Lê Văn Cang, 41 tuổi, chặn xin tiền người phụ nữ trên cầu Rạch Miễu 2 không được nên dùng dao đe dọa cướp tài sản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T14:11:44+07:00",
+      "fetched": "2026-04-26T23:39:00.471699+07:00"
     },
     {
       "id": "c1b4b2bafa1ea570581ad26a74841bd6",
@@ -631,6 +911,36 @@ window.newsData_2026_04_26 = {
       "category": "Thế giới",
       "published": "2026-04-26T14:00:00+07:00",
       "fetched": "2026-04-26T21:39:51.586286+07:00"
+    },
+    {
+      "id": "f1edb35a453d0560d657416b7fa8c587",
+      "title": "Gia đình bạn trai hủy hôn ngay sau khi tôi bị thai lưu",
+      "link": "https://vnexpress.net/gia-dinh-ban-trai-huy-hon-ngay-sau-khi-toi-bi-thai-luu-5067366.html",
+      "summary": "Bố mẹ anh ngay hôm đó gọi điện nói rằng ông bà đi xem thầy phán tôi kim lâu, rằng ông mơ điềm xấu...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T14:00:00+07:00",
+      "fetched": "2026-04-26T23:39:00.472015+07:00"
+    },
+    {
+      "id": "bbfd6ad4652ee68ed29fa131d59687b5",
+      "title": "6 điểm đến nhộn nhịp dịp 30/4 trên cả nước",
+      "link": "https://vnexpress.net/6-diem-den-nhon-nhip-dip-30-4-tren-ca-nuoc-5067409.html",
+      "summary": "Dịp lễ Giỗ tổ Hùng Vương và 30/4 - 1/5, nhiều điểm du lịch nhộn nhịp với sắc hoa, lễ hội, dòng du khách đến tận hưởng kỳ nghỉ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T14:00:00+07:00",
+      "fetched": "2026-04-26T23:39:00.472185+07:00"
+    },
+    {
+      "id": "4ff47043c0cead628c0cce91b54a9154",
+      "title": "Đàn cá heo bơi sát tàu ở biển Quy Nhơn",
+      "link": "https://vnexpress.net/dan-ca-heo-boi-sat-tau-o-bien-quy-nhon-5067396.html",
+      "summary": "Đàn cá heo gần 100 con bất ngờ xuất hiện ở vùng biển Quy Nhơn Đông, bơi sát mũi tàu khoảng 30 phút khiến nhiều khiến người thích thú.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T13:59:30+07:00",
+      "fetched": "2026-04-26T23:39:00.472346+07:00"
     },
     {
       "id": "193cbb6fbe73e937d169eb9b56b5f3d3",
