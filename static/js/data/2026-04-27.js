@@ -1,6 +1,6 @@
 window.newsData_2026_04_27 = {
   "date": "2026-04-27",
-  "lastUpdated": "2026-04-27T01:50:23.378381+07:00",
+  "lastUpdated": "2026-04-27T03:35:33.324424+07:00",
   "articles": [
     {
       "id": "7f7b549d47edcfbeb13660e785d1858e",
@@ -151,6 +151,26 @@ window.newsData_2026_04_27 = {
       "category": "Tổng hợp",
       "published": "2026-04-27T01:50:16.074687+07:00",
       "fetched": "2026-04-27T01:50:16.074932+07:00"
+    },
+    {
+      "id": "006c973190d9f4d2a0b272e546a99c76",
+      "title": "Da chưa chảy xệ có cần nâng cơ?",
+      "link": "https://vnexpress.net/da-chua-chay-xe-co-can-nang-co-5067247.html",
+      "summary": "Tôi bắt đầu xuất hiện nếp nhăn mảnh ở khóe mắt, da kém săn chắc nhưng chưa chảy xệ. Tôi có nên can thiệp nâng cơ sớm không? (Ánh Thu, 25 tuổi, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T20:00:00+07:00",
+      "fetched": "2026-04-27T03:35:18.699434+07:00"
+    },
+    {
+      "id": "71d4cfd932ddaffbef038227fe83cbbb",
+      "title": "Tưởng mụn thịt hóa sùi mào gà",
+      "link": "https://vnexpress.net/tuong-mun-thit-hoa-sui-mao-ga-5067243.html",
+      "summary": "Sau hai tháng quan hệ không an toàn, anh Quân, 49 tuổi, xuất hiện các nốt nhỏ ở vùng kín, tưởng là mụn thịt song bác sĩ chẩn đoán sùi mào gà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-26T19:00:00+07:00",
+      "fetched": "2026-04-27T03:35:18.699598+07:00"
     },
     {
       "id": "ab624d36bbd3948ddc91e1b31feb09aa",
