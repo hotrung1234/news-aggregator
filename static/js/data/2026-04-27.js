@@ -1,7 +1,157 @@
 window.newsData_2026_04_27 = {
   "date": "2026-04-27",
-  "lastUpdated": "2026-04-27T13:25:40.228709+07:00",
+  "lastUpdated": "2026-04-27T17:11:56.275346+07:00",
   "articles": [
+    {
+      "id": "de97273d2a5360ed5aadf8e6b283d673",
+      "title": "Nhiều hoạt động sôi nổi chào đón runner đến với VnExpress Marathon Green Paradise Cần Giờ",
+      "link": "https://tuoitre.vn/nhieu-hoat-dong-soi-noi-chao-don-runner-den-voi-vnexpress-marathon-green-paradise-can-gio-20260427133908602.htm",
+      "summary": "Các runner sẽ có những phút giây hòa mình vào không khí lễ hội sôi nổi, hào hứng trước khi tranh tài tại VnExpress Marathon Green Paradise Cần Giờ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T17:11:48.324897+07:00",
+      "fetched": "2026-04-27T17:11:48.324968+07:00"
+    },
+    {
+      "id": "81f73b9ea60558519311ff299cda2e32",
+      "title": "Khởi công hạng mục dân dụng sân bay Phan Thiết",
+      "link": "https://tuoitre.vn/khoi-cong-hang-muc-dan-dung-san-bay-phan-thiet-20260427132055564.htm",
+      "summary": "Ngày 27-4, tỉnh Lâm Đồng cùng Tập đoàn Sun Group khởi công dự án sân bay Phan Thiết (hạng mục dân dụng).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T17:11:48.324819+07:00",
+      "fetched": "2026-04-27T17:11:48.324890+07:00"
+    },
+    {
+      "id": "413f30aee68658e4aa9154e31da96678",
+      "title": "Xếp hạng V-League vòng 20: PVF-CAND bét bảng",
+      "link": "https://tuoitre.vn/xep-hang-v-league-vong-20-pvf-cand-bet-bang-20260427131201664.htm",
+      "summary": "Vị trí cuối bảng của LPBank V-League 1 2025-2026 đã đổi chủ sau khi vòng 20 khép lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T17:11:48.324744+07:00",
+      "fetched": "2026-04-27T17:11:48.324813+07:00"
+    },
+    {
+      "id": "57cb5ba29a9827b788c0c23790a4aeaf",
+      "title": "Mali bất ổn nghiêm trọng sau khi Bộ trưởng Quốc phòng bị hạ sát",
+      "link": "https://tuoitre.vn/khung-hoang-tai-mali-bo-truong-quoc-phong-thiet-mang-phien-quan-kiem-soat-mien-bac-20260427133428269.htm",
+      "summary": "Một loạt cuộc tấn công phối hợp trên toàn lãnh thổ Mali cuối tuần qua đã đẩy quốc gia Tây Phi này vào tình trạng bất ổn nghiêm trọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T17:11:48.324670+07:00",
+      "fetched": "2026-04-27T17:11:48.324738+07:00"
+    },
+    {
+      "id": "1484392323958c99aaef83ec80e5c18c",
+      "title": "Cháy nổ tàu cá ở An Giang khiến 5 người bị thương",
+      "link": "https://tuoitre.vn/chay-no-tau-ca-o-an-giang-khien-5-nguoi-bi-thuong-20260427140718028.htm",
+      "summary": "Một vụ cháy nổ tàu cá ở xã Bình An (tỉnh An Giang) vừa xảy ra khiến 5 người bị thương và gây thiệt hại nhiều về tài sản. Địa phương đang điều tra làm rõ vụ việc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T17:11:48.324598+07:00",
+      "fetched": "2026-04-27T17:11:48.324664+07:00"
+    },
+    {
+      "id": "fd75af41ca8cb53b37c93ea866e4dd3b",
+      "title": "Vì sao chú vịt Karoo không xuất hiện trong One Piece live-action mùa 2",
+      "link": "https://tuoitre.vn/vi-sao-chu-vit-karoo-khong-xuat-hien-trong-one-piece-live-action-mua-2-20260427133449111.htm",
+      "summary": "Nhà sản xuất loạt phim One Piece live-action của Netflix xác nhận nhân vật vịt Karoo từng được lên kế hoạch xuất hiện ở mùa 2 nhưng cuối cùng không góp mặt. Nhân vật này dự kiến sẽ ra mắt ở mùa 3 cùng đại chiến Alabasta.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T17:11:48.324523+07:00",
+      "fetched": "2026-04-27T17:11:48.324591+07:00"
+    },
+    {
+      "id": "17f24e89814d4e398bb13229bf191509",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm thăm và làm việc với TP.HCM",
+      "link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-tham-va-lam-viec-voi-tp-hcm-20260427005823157.htm",
+      "summary": "Chiều 27-4, Tổng Bí thư, Chủ tịch nước Tô Lâm cùng đoàn công tác Trung ương đến thăm và làm việc với Ban Thường vụ Thành ủy TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T17:11:48.324445+07:00",
+      "fetched": "2026-04-27T17:11:48.324516+07:00"
+    },
+    {
+      "id": "a483705b47aff17d52c84d0ebeca3e79",
+      "title": "Con trai cụ Đô Trinh kể ký ức về Tiếng trống Mê Linh",
+      "link": "https://tuoitre.vn/con-trai-cu-do-trinh-ke-ky-uc-ve-tieng-trong-me-linh-20260427131855428.htm",
+      "summary": "Vở Tiếng trống Mê Linh bản màu do HTV phục chế lại không chỉ khiến khán giả cải lương hứng khởi, mà những câu chuyện xoay quanh vở diễn vẫn tiếp tục được công chúng quan tâm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T17:11:48.324355+07:00",
+      "fetched": "2026-04-27T17:11:48.324424+07:00"
+    },
+    {
+      "id": "3f6a6606ec81286125d60d2d91445070",
+      "title": "Cụ ông 77 tuổi vỡ òa khi lần đầu làm giấy khai sinh, căn cước",
+      "link": "https://tuoitre.vn/cu-ong-77-tuoi-vo-oa-khi-lan-dau-lam-giay-khai-sinh-can-cuoc-20260427051406298.htm",
+      "summary": "Nhiều người 'trắng' thông tin, không có giấy tờ tùy thân bày tỏ niềm vui khi được UBND, Công an phường, xã ở TP.HCM chủ động rà soát, hỗ trợ làm giấy khai sinh, cấp thẻ căn cước sau hàng chục năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T17:11:48.324279+07:00",
+      "fetched": "2026-04-27T17:11:48.324348+07:00"
+    },
+    {
+      "id": "87d72d7fa1302a663298890ecddacef7",
+      "title": "Toàn văn nội dung nói chuyện của Tổng Bí thư, Chủ tịch nước Tô Lâm với người lao động TP.HCM",
+      "link": "https://tuoitre.vn/toan-van-noi-dung-noi-chuyen-cua-tong-bi-thu-chu-tich-nuoc-to-lam-voi-nguoi-lao-dong-tp-hcm-20260427144033019.htm",
+      "summary": "Tuổi Trẻ Online xin trân trọng giới thiệu toàn văn nội dung nói chuyện của Tổng Bí thư, Chủ tịch nước Tô Lâm với công nhân, người lao động TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T17:11:48.324201+07:00",
+      "fetched": "2026-04-27T17:11:48.324273+07:00"
+    },
+    {
+      "id": "e827e949de96e6c64e880d9047d20681",
+      "title": "Cảnh báo chiêu lừa 'phạt nguội 50.000 VND' qua website giả dịch vụ công để chiếm thẻ ngân hàng",
+      "link": "https://tuoitre.vn/canh-bao-chieu-lua-phat-nguoi-50-000-vnd-qua-website-gia-dich-vu-cong-de-chiem-the-ngan-hang-20260427145237114.htm",
+      "summary": "Thời gian gần đây, nhiều người nhận được tin nhắn thông báo 'phạt nguội 50.000 VND' qua website giả mạo dịch vụ công, công an cảnh báo đây là thủ đoạn lừa đảo, người dân cần cảnh giác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T17:11:48.324116+07:00",
+      "fetched": "2026-04-27T17:11:48.324193+07:00"
+    },
+    {
+      "id": "bd6dd7f8e12ad7d73141681d840415f8",
+      "title": "Gặp mặt tri ân nữ du kích Củ Chi, những bông hoa đất thép",
+      "link": "https://tuoitre.vn/gap-mat-tri-an-nu-du-kich-cu-chi-nhung-bong-hoa-dat-thep-20260427145333742.htm",
+      "summary": "Ngày 27-4, thường trực Hội Cựu chiến binh TP.HCM phối hợp thường trực Hội Doanh nhân cựu chiến binh TP.HCM tổ chức gặp mặt đại biểu nữ du kích Củ Chi, nhân dịp kỷ niệm 51 năm Ngày Giải phóng miền Nam, thống nhất đất nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T17:11:48.324018+07:00",
+      "fetched": "2026-04-27T17:11:48.324108+07:00"
+    },
+    {
+      "id": "edca54db7c6d9edde3689e1c9d81b1c3",
+      "title": "Người dân trở lại Hà Nội sau kỳ nghỉ Giỗ Tổ, nhiều cửa ngõ giao thông thuận lợi",
+      "link": "https://tuoitre.vn/nguoi-dan-tro-lai-ha-noi-sau-ky-nghi-gio-to-nhieu-cua-ngo-giao-thong-thuan-loi-20260427145607535.htm",
+      "summary": "Chiều 27-4, trong khi ùn ứ xuất hiện tại cuối tuyến cao tốc Pháp Vân - vành đai 3, đường Cổ Linh, thì các cửa ngõ khác và tuyến đường nội đô Hà Nội có lượng xe vừa phải, đi lại thuận lợi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T17:11:48.323931+07:00",
+      "fetched": "2026-04-27T17:11:48.324011+07:00"
+    },
+    {
+      "id": "92972eee5843d495b6deb2baa79ba773",
+      "title": "Yuji Itadori đã rất mạnh nhưng chưa vượt qua 5 cái tên này trong Jujutsu Kaisen",
+      "link": "https://tuoitre.vn/yuji-itadori-da-rat-manh-nhung-chua-vuot-qua-5-cai-ten-nay-trong-jujutsu-kaisen-20260427020337307.htm",
+      "summary": "Dù đạt tới ngưỡng sức mạnh rất cao ở cuối truyện, Yuji Itadori vẫn chưa thể sánh ngang với những cái tên đứng đầu trong Jujutsu Kaisen, nơi quy tụ các pháp sư và lời nguyền mạnh nhất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T17:11:48.323831+07:00",
+      "fetched": "2026-04-27T17:11:48.323923+07:00"
+    },
+    {
+      "id": "436624844dba144b77865c497ca72d27",
+      "title": "Giải thể hộ kinh doanh, có cần đóng mã bảo hiểm xã hội?",
+      "link": "https://tuoitre.vn/giai-the-ho-kinh-doanh-co-can-dong-ma-bao-hiem-xa-hoi-20260417115719393.htm",
+      "summary": "Tôi là chủ hộ hộ kinh doanh ngành phân phối hàng hóa và vừa chuyển sang thuế kê khai từ 1-1-2026. Hộ kinh doanh của tôi là cá thể và chỉ có mình tôi làm việc, không thuê nhân viên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T17:11:48.323625+07:00",
+      "fetched": "2026-04-27T17:11:48.323821+07:00"
+    },
     {
       "id": "b8bd3d44ddd5b4d009951f166204b974",
       "title": "Cựu thủ môn tuyển Argentina đấm 'vỡ mặt' đối thủ",
@@ -151,6 +301,46 @@ window.newsData_2026_04_27 = {
       "category": "Tổng hợp",
       "published": "2026-04-27T13:25:30.132879+07:00",
       "fetched": "2026-04-27T13:25:30.133101+07:00"
+    },
+    {
+      "id": "c130390bbf0961977fa4cb9331bd07f8",
+      "title": "Toàn cảnh 17h: Tài xế xe cưới mắc kẹt đường ray nói gì? | Bức thư chấn động trước vụ tấn công ở Mỹ",
+      "link": "https://thanhnien.vn/toan-canh-17h-tai-xe-xe-cuoi-mac-ket-duong-ray-noi-gi-buc-thu-chan-dong-truoc-vu-tan-cong-o-my-185260427144449759.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T09:58:00+07:00",
+      "fetched": "2026-04-27T17:11:47.232322+07:00"
+    },
+    {
+      "id": "168916a12eb2064ae405dd51144247b2",
+      "title": "Thủ lĩnh Hezbollah quyết đối đầu, phản đối đàm phán trực tiếp với Israel",
+      "link": "https://thanhnien.vn/thu-linh-hezbollah-quyet-doi-dau-phan-doi-dam-phan-truc-tiep-voi-israel-185260427165158765.htm",
+      "summary": "Thủ lĩnh Hezbollah phản đối đàm phán với Israel, trong khi Ngoại trưởng Iran đổ lỗi cho Mỹ về việc đàm phán đổ vỡ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T09:56:00+07:00",
+      "fetched": "2026-04-27T17:11:47.232440+07:00"
+    },
+    {
+      "id": "5f717292b715f1bb4585cde3448c9d17",
+      "title": "Xổ số miền Nam ngày 27 tháng 4: Người trúng đài Cà Mau xuất hiện sớm",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-27-thang-4-nguoi-trung-dai-ca-mau-xuat-hien-som-18526042715274447.htm",
+      "summary": "Sau khi có kết quả xổ số miền Nam ngày 27 tháng 4, 1 người trúng 5 tờ vé số đài Cà Mau được đại lý đổi thưởng sớm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T09:53:00+07:00",
+      "fetched": "2026-04-27T17:11:47.232543+07:00"
+    },
+    {
+      "id": "a5932610d6c9c1be22a7245b0c3747fc",
+      "title": "Đua trụ hạng hấp dẫn bậc nhất lịch sử V-League",
+      "link": "https://thanhnien.vn/dua-tru-hang-hap-dan-bac-nhat-lich-su-v-league-185260427163249913.htm",
+      "summary": "Cuộc đua sinh tồn ở V-League 2025 - 2026 đang dần gói gọn thành màn cạnh tranh giữa CLB Đà Nẵng và PVF-CAND.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T09:49:00+07:00",
+      "fetched": "2026-04-27T17:11:47.232641+07:00"
     },
     {
       "id": "fc26caae8911d6c2bae6e20bf090ba04",
@@ -303,6 +493,316 @@ window.newsData_2026_04_27 = {
       "fetched": "2026-04-27T09:32:11.036902+07:00"
     },
     {
+      "id": "a3d384fe70d6366972b7dad89c19172a",
+      "title": "VFF đề xuất đặc biệt, AFC đã gật đầu: U.17 Việt Nam sang châu Á không phải chỉ 23 cầu thủ",
+      "link": "https://thanhnien.vn/vff-de-xuat-dac-biet-afc-da-gat-dau-u17-viet-nam-sang-chau-a-khong-phai-chi-23-cau-thu-185260427125106651.htm",
+      "summary": "Tương tự như khi thi đấu tại giải U.17 Đông Nam Á 2026, đội tuyển U.17 Việt Nam sẽ sang Ả Rập Xê Út tham dự VCK U.17 châu Á 2026 với lực lượng gồm 26 cầu thủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T09:32:00+07:00",
+      "fetched": "2026-04-27T17:11:47.232737+07:00"
+    },
+    {
+      "id": "2a92ecb39e71489ecbea53842ade7621",
+      "title": "Nobu Danang: Di sản vượt ẩm thực, định hình khẩu vị sống và đầu tư toàn cầu",
+      "link": "https://thanhnien.vn/nobu-danang-di-san-vuot-am-thuc-dinh-hinh-khau-vi-song-va-dau-tu-toan-cau-185260427164206866.htm",
+      "summary": "Trong hành trình chinh phục thế giới bằng thứ ngôn ngữ gần gũi nhất là 'taste' (hương vị), Nobu Hospitality đã chính thức chọn Việt Nam là tọa độ tiếp theo để lan tỏa phong cách sống khác biệt. Không chỉ là một nơi cư trú, Nobu Danang là điểm chạm đa giác quan, nơi gu thẩm mỹ và những giá trị sống đ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T09:31:00+07:00",
+      "fetched": "2026-04-27T17:11:47.232834+07:00"
+    },
+    {
+      "id": "3203cd4587bbab25e7b53c30d3c029c3",
+      "title": "BÍ QUYẾT ÔN THI THPT 2026 | Môn toán | Chuyên đề 3 |  Tính diện tích hình phẳng",
+      "link": "https://thanhnien.vn/bi-quyet-on-thi-thpt-2026-mon-toan-chuyen-de-3-tinh-dien-tich-hinh-phang-185260424170626196.htm",
+      "summary": "Chương trình hướng dẫn học sinh làm bài thi môn toán, kỳ thi THPT quốc gia 2026. Buổi hướng dẫn \"Bí quyết ôn thi THPT 2026\" do thầy Trần Văn Toàn – nguyên Tổ trưởng tổ toán, Trường THPT Marie Curie (TP.HCM) – thực hiện. Chương trình được phát trên các kênh thanhnien.vn, Facebook.com/thanhnien và You...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T09:30:00+07:00",
+      "fetched": "2026-04-27T17:11:47.232932+07:00"
+    },
+    {
+      "id": "ee951f379398d986f0760f9f671ee279",
+      "title": "Bí quyết ôn thi tốt nghiệp THPT đạt điểm cao: Ứng dụng của tích phân",
+      "link": "https://thanhnien.vn/bi-quyet-on-thi-tot-nghiep-thpt-dat-diem-cao-ung-dung-cua-tich-phan-185260423192049728.htm",
+      "summary": "Vào lúc 16 giờ 30 ngày 27.4, Báo Thanh Niên phát sóng chuyên đề số 3 của môn toán trong chương trình Bí quyết ôn thi tốt nghiệp THPT đạt điểm cao năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T09:27:00+07:00",
+      "fetched": "2026-04-27T17:11:47.233027+07:00"
+    },
+    {
+      "id": "c6ce749d7a54e64d37c6b0716aa9705d",
+      "title": "Toàn văn phát biểu của Tổng Bí thư, Chủ tịch nước Tô Lâm với công nhân, người lao động TP.HCM",
+      "link": "https://thanhnien.vn/toan-van-phat-bieu-cua-tong-bi-thu-chu-tich-nuoc-to-lam-voi-cong-nhan-nguoi-lao-dong-tphcm-18526042716112646.htm",
+      "summary": "Sáng 27.4, trong chuyến công tác tại TP.HCM, Tổng Bí thư, Chủ tịch nước Tô Lâm có buổi nói chuyện với hơn 200 công nhân lao động ở phường Chánh Hiệp (TP.HCM), đại diện cho hơn 2,7 triệu công đoàn viên ở TP.HCM. Báo Thanh Niên đăng toàn văn bài phát biểu của Tổng Bí thư, Chủ tịch nước trong buổi gặp ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T09:24:00+07:00",
+      "fetched": "2026-04-27T17:11:47.233138+07:00"
+    },
+    {
+      "id": "70e4346512571405169bb84c241ca10e",
+      "title": "Phòng test đóng cửa, giá sầu riêng chạm đáy",
+      "link": "https://thanhnien.vn/phong-test-dong-cua-gia-sau-rieng-cham-day-185260427133049558.htm",
+      "summary": "Đồng Tháp và Tây Ninh đang vào cao điểm thu hoạch, nhưng giá thu mua sầu riêng giảm sâu khiến cả nông dân lẫn thương lái chật vật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T09:16:00+07:00",
+      "fetched": "2026-04-27T17:11:47.233240+07:00"
+    },
+    {
+      "id": "01a06643cb7649cdfdcefaa49c155913",
+      "title": "Israel điều tra cáo buộc 'quân nhân hôi của' ở miền nam Lebanon",
+      "link": "https://vnexpress.net/israel-dieu-tra-cao-buoc-quan-nhan-hoi-cua-o-mien-nam-lebanon-5067560.html",
+      "summary": "Quân đội Israel tiến hành điều tra các cáo buộc về tình trạng lực lượng đồn trú ở miền nam Lebanon trộm cắp tài sản.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-27T09:13:36+07:00",
+      "fetched": "2026-04-27T17:11:49.837571+07:00"
+    },
+    {
+      "id": "841cb8f7aeb2fde1f60bca5ec6eea55c",
+      "title": "HLV Kim Sang-sik tìm những 'họng pháo' cho đội tuyển Việt Nam ở nơi ít ai ngờ",
+      "link": "https://thanhnien.vn/hlv-kim-sang-sik-tim-nhung-hong-phao-cho-doi-tuyen-viet-nam-o-noi-it-ai-ngo-185260427161147882.htm",
+      "summary": "Dù CLB Becamex TP.HCM không có một thứ hạng tốt trên bảng xếp hạng, đội bóng này lại sở hữu những nhân tố mà HLV Kim Sang-sik cần để tăng sức cạnh tranh trên hàng công đội tuyển Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T09:13:00+07:00",
+      "fetched": "2026-04-27T17:11:47.233333+07:00"
+    },
+    {
+      "id": "32d746bc6917eb99814e9f1e4118ad44",
+      "title": "Xuất khống hóa đơn giết mổ hơn 20.000 con heo cho Công ty C.P",
+      "link": "https://vnexpress.net/xuat-khong-hoa-don-giet-mo-hon-20-000-con-heo-cho-cong-ty-c-p-5067569.html",
+      "summary": "Vũ Biển, chủ cơ sở giết mổ, bị cáo buộc mua bán trái phép hóa đơn, xuất khống hóa đơn gia công hàng chục nghìn con heo cho các chi nhánh Công ty chăn nuôi C.P Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T09:04:46+07:00",
+      "fetched": "2026-04-27T17:11:44.275122+07:00"
+    },
+    {
+      "id": "b2982cf67318a1ad4d5f927449d954f5",
+      "title": "Sun Group khởi công sân bay Phan Thiết 3.900 tỉ đồng",
+      "link": "https://thanhnien.vn/sun-group-khoi-cong-san-bay-phan-thiet-3900-ti-dong-185260427154036309.htm",
+      "summary": "UBND tỉnh Lâm Đồng và Tập đoàn Sun Group hôm nay (27.4) tổ chức lễ khởi công dự án Cảng hàng không Phan Thiết - hạng mục hàng không dân dụng. Sự kiện đánh dấu một kỷ nguyên kết nối hàng không mới cho vùng đất Mũi Né - Phan Thiết và khu vực Nam Trung bộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T09:04:00+07:00",
+      "fetched": "2026-04-27T17:11:47.233427+07:00"
+    },
+    {
+      "id": "71f64d1319d74279d43293d38d73cecd",
+      "title": "Nghệ sĩ thổn thức khi xem 'Tiếng trống Mê Linh' sau gần 50 năm",
+      "link": "https://thanhnien.vn/nghe-si-thon-thuc-khi-xem-tieng-trong-me-linh-sau-gan-50-nam-185260427143439716.htm",
+      "summary": "Vừa qua, Đài Phát thanh - Truyền hình TP.HCM (HTV) đã phục chế màu, phát sóng vở cải lương Tiếng trống Mê Linh trên HTV9 và HTVC Thuần Việt. Gần nửa thế kỷ trôi qua nhưng tác phẩm vẫn khiến người xem bồi hồi, thổn thức khi hình ảnh những nghệ sĩ gạo cội 'trở lại' đầy chân thực trên màn ảnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T09:03:00+07:00",
+      "fetched": "2026-04-27T17:11:47.233518+07:00"
+    },
+    {
+      "id": "4bf0be215d1b542124839f24cdab7927",
+      "title": "Tôi để tiền dưỡng già thay vì sắm nhà thừa kế cho con",
+      "link": "https://vnexpress.net/toi-de-tien-duong-gia-thay-vi-sam-nha-thua-ke-cho-con-5067570.html",
+      "summary": "Tôi không có ý định gồng gánh con mãi, cũng không muốn đặt kỳ vọng rằng sau này con phải quay lại gánh vác cha mẹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T09:02:37+07:00",
+      "fetched": "2026-04-27T17:11:44.275252+07:00"
+    },
+    {
+      "id": "1621a5699d3e4ca071a4f96586699e12",
+      "title": "Tàu phát nổ, 5 người bị thương",
+      "link": "https://vnexpress.net/tau-phat-no-5-nguoi-bi-thuong-5067562.html",
+      "summary": "Tàu thu mua hải sản neo tại bến phà Tắc Cậu, xã Bình An, bất ngờ phát nổ trưa 27/4, khiến 5 người bị thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T09:01:46+07:00",
+      "fetched": "2026-04-27T17:11:44.275366+07:00"
+    },
+    {
+      "id": "f1598eac28a4a8d96515d38e3b7f9dbc",
+      "title": "Nếu không tính toán kỹ, du học có thể là một canh bạc",
+      "link": "https://vnexpress.net/neu-khong-tinh-toan-ky-du-hoc-co-the-la-mot-canh-bac-5067546.html",
+      "summary": "Theo tôi không chỉ là tài chính mà còn là kỹ năng, sự quyết tâm và một lộ trình tương lai đủ rõ để biến việc đi học thành một khoản đầu tư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T09:00:00+07:00",
+      "fetched": "2026-04-27T17:11:44.275469+07:00"
+    },
+    {
+      "id": "f26ff605e6d86476b0700c882df95dfc",
+      "title": "Lọc máu - phương pháp cứu sống bệnh nhân thập tử nhất sinh",
+      "link": "https://vnexpress.net/loc-mau-phuong-phap-cuu-song-benh-nhan-thap-tu-nhat-sinh-5067260.html",
+      "summary": "Khoảng 30-50% số bệnh nhân hồi sức cấp cứu phải lọc máu liên tục, bảo vệ đa tạng giúp giữ mạng sống cho người bệnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T09:00:00+07:00",
+      "fetched": "2026-04-27T17:11:44.275570+07:00"
+    },
+    {
+      "id": "cb61472bb4657c2eee865a475f9da5e3",
+      "title": "Xổ số miền Nam ngày 27 tháng 4 - Kết quả xổ số hôm nay thứ hai",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-27-thang-4-ket-qua-xo-so-hom-nay-thu-hai-185260427153322446.htm",
+      "summary": "Xem kết quả xổ số miền Nam ngày 27 tháng 4. Xổ số miền Bắc, xổ số miền Trung, xổ số điện toán trực tiếp nhanh hôm nay thứ hai ngày 27.4.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T09:00:00+07:00",
+      "fetched": "2026-04-27T17:11:47.233616+07:00"
+    },
+    {
+      "id": "2b4dd1e63d79daffe4ee4d67a6e4607d",
+      "title": "Xuống phố rạng rỡ cùng set đồ áo ống, quần vải rộng",
+      "link": "https://thanhnien.vn/thoi-trang-tre/xuong-pho-rang-ro-cung-set-do-ao-ong-quan-vai-rong-18526042616215504.htm",
+      "summary": "Áo ống phối cùng quần vải ống rộng là combo thời trang vừa thoải mái vừa tôn dáng, phù hợp cho những buổi dạo phố năng động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T09:00:00+07:00",
+      "fetched": "2026-04-27T17:11:47.233713+07:00"
+    },
+    {
+      "id": "ec0b686678697835df4f21b5711f426d",
+      "title": "'Khu dân cư cảnh báo xe điện đi chậm'",
+      "link": "https://vnexpress.net/khu-dan-cu-canh-bao-xe-dien-di-cham-5067561.html",
+      "summary": "Xe điện hay xăng vào khu dân cư cũng cần phải đi chậm, nhưng tại sao xe điện lại có cảnh báo riêng?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T08:42:54+07:00",
+      "fetched": "2026-04-27T17:11:44.275668+07:00"
+    },
+    {
+      "id": "d4f88e5386febfde8a65e198ad4df450",
+      "title": "Phía sau câu chuyện bé gái đòi ngủ cạnh mộ ông bà",
+      "link": "https://vnexpress.net/phia-sau-cau-chuyen-be-gai-doi-ngu-canh-mo-ong-ba-5067331.html",
+      "summary": "Một bé gái ở tỉnh Quý Châu kiên quyết không về nhà, đòi ngủ lại nghĩa trang để được ở cạnh ông bà nội vừa qua đời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T08:22:19+07:00",
+      "fetched": "2026-04-27T17:11:44.275764+07:00"
+    },
+    {
+      "id": "ff94fd7cccd626cfb4813989f898c533",
+      "title": "Cua-rơ New Zealand lần thứ tư thắng chặng giải xe đạp xuyên Việt",
+      "link": "https://vnexpress.net/cua-ro-new-zealand-lan-thu-tu-thang-chang-giai-xe-dap-xuyen-viet-5067550.html",
+      "summary": "Tay đua Patrick Patterson ra xe đúng thời điểm để giành chiến thắng trên đất Tây đô ở chặng 22 cuộc đua xe đạp xuyên Việt tranh Cup Truyền hình HTV 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T08:06:40+07:00",
+      "fetched": "2026-04-27T17:11:44.275859+07:00"
+    },
+    {
+      "id": "ff94fd7cccd626cfb4813989f898c533",
+      "title": "Cua-rơ New Zealand lần thứ tư thắng chặng giải xe đạp xuyên Việt",
+      "link": "https://vnexpress.net/cua-ro-new-zealand-lan-thu-tu-thang-chang-giai-xe-dap-xuyen-viet-5067550.html",
+      "summary": "Tay đua Patrick Patterson ra xe đúng thời điểm để giành chiến thắng trên đất Tây đô ở chặng 22 cuộc đua xe đạp xuyên Việt tranh Cup Truyền hình HTV 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-27T08:06:40+07:00",
+      "fetched": "2026-04-27T17:11:56.269402+07:00"
+    },
+    {
+      "id": "1d807d78565b099dc2a405e9e76a4967",
+      "title": "CEO Dat Bike: 'Đánh đổi mọi thứ để tối ưu hoá khả năng rực rỡ'",
+      "link": "https://vnexpress.net/ceo-dat-bike-danh-doi-moi-thu-de-toi-uu-hoa-kha-nang-ruc-ro-5067526.html",
+      "summary": "Là một người trẻ, cũng từng loay hoay với ý niệm \"Nếu cả đời không rực rỡ thì sao?\", Nguyễn Bá Cảnh Sơn tìm ra con đường riêng để trả lời câu hỏi đó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T08:00:00+07:00",
+      "fetched": "2026-04-27T17:11:44.275957+07:00"
+    },
+    {
+      "id": "9b9512f620827967e222996797b65d0d",
+      "title": "Cách Apple bảo mật với các sản phẩm mới",
+      "link": "https://vnexpress.net/cach-apple-bao-mat-voi-cac-san-pham-moi-5066429.html",
+      "summary": "Để ngăn chặn việc rò rỉ hình ảnh quảng cáo và thiết kế sản phẩm mới, Apple thiết lập những quy tắc bảo mật khắt khe, từ kiểm soát nhân viên vệ sinh đến mã hóa dữ liệu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T08:00:00+07:00",
+      "fetched": "2026-04-27T17:11:44.276064+07:00"
+    },
+    {
+      "id": "9b9512f620827967e222996797b65d0d",
+      "title": "Cách Apple bảo mật với các sản phẩm mới",
+      "link": "https://vnexpress.net/cach-apple-bao-mat-voi-cac-san-pham-moi-5066429.html",
+      "summary": "Để ngăn chặn việc rò rỉ hình ảnh quảng cáo và thiết kế sản phẩm mới, Apple thiết lập những quy tắc bảo mật khắt khe, từ kiểm soát nhân viên vệ sinh đến mã hóa dữ liệu.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-04-27T08:00:00+07:00",
+      "fetched": "2026-04-27T17:11:54.827666+07:00"
+    },
+    {
+      "id": "c9ece26bb53e989aa120a1cff0e42f11",
+      "title": "4 chiêu tìm dấu vết ngoại tình trên điện thoại",
+      "link": "https://vnexpress.net/4-chieu-tim-dau-vet-ngoai-tinh-tren-dien-thoai-5067539.html",
+      "summary": "Kẻ ngoại tình ngày càng sành sỏi khi dùng ứng dụng ngụy trang và tin nhắn tự xóa trên điện thoại để che giấu bạn đời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T07:58:26+07:00",
+      "fetched": "2026-04-27T17:11:44.276161+07:00"
+    },
+    {
+      "id": "5eabc5cd6bfbac10d0eca4eff3b43cea",
+      "title": "Carlsen tìm lại mạch vô địch",
+      "link": "https://vnexpress.net/carlsen-tim-lai-mach-vo-dich-5067542.html",
+      "summary": "Chỉ dùng máy tính bảng khi thi đấu trực tuyến, Magnus Carlsen vẫn vô địch giải Chesscom Open, nhận 50.000 USD và suất dự Esports World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T07:51:39+07:00",
+      "fetched": "2026-04-27T17:11:44.276262+07:00"
+    },
+    {
+      "id": "5eabc5cd6bfbac10d0eca4eff3b43cea",
+      "title": "Carlsen tìm lại mạch vô địch",
+      "link": "https://vnexpress.net/carlsen-tim-lai-mach-vo-dich-5067542.html",
+      "summary": "Chỉ dùng máy tính bảng khi thi đấu trực tuyến, Magnus Carlsen vẫn vô địch giải Chesscom Open, nhận 50.000 USD và suất dự Esports World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-27T07:51:39+07:00",
+      "fetched": "2026-04-27T17:11:56.268958+07:00"
+    },
+    {
+      "id": "3a49702097cfe70c453adddc5b319577",
+      "title": "Triều Tiên mở bảo tàng tưởng niệm binh sĩ tử trận tại Nga",
+      "link": "https://vnexpress.net/trieu-tien-mo-bao-tang-tuong-niem-binh-si-tu-tran-tai-nga-5067552.html",
+      "summary": "Triều Tiên mở cửa bảo tàng tưởng niệm các binh sĩ nước này thiệt mạng khi chiến đấu trong xung đột Nga - Ukraine, giữa lúc Bình Nhưỡng - Moskva đẩy mạnh hợp tác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T07:46:08+07:00",
+      "fetched": "2026-04-27T17:11:44.276355+07:00"
+    },
+    {
+      "id": "3a49702097cfe70c453adddc5b319577",
+      "title": "Triều Tiên mở bảo tàng tưởng niệm binh sĩ tử trận tại Nga",
+      "link": "https://vnexpress.net/trieu-tien-mo-bao-tang-tuong-niem-binh-si-tu-tran-tai-nga-5067552.html",
+      "summary": "Triều Tiên mở cửa bảo tàng tưởng niệm các binh sĩ nước này thiệt mạng khi chiến đấu trong xung đột Nga - Ukraine, giữa lúc Bình Nhưỡng - Moskva đẩy mạnh hợp tác.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-27T07:46:08+07:00",
+      "fetched": "2026-04-27T17:11:49.837691+07:00"
+    },
+    {
+      "id": "613c083bb0f992d79cb1316815d7a488",
+      "title": "'Bốn mùa Việt Nam' - khơi nguồn yêu thương",
+      "link": "https://vnexpress.net/bon-mua-viet-nam-khoi-nguon-yeu-thuong-5067207.html",
+      "summary": "Nhà thơ Lữ Mai truyền tải tình yêu thiên nhiên, gia đình, biết trân trọng cuộc sống cho trẻ, trong tập thơ ''Bốn mùa Việt Nam''.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T07:38:44+07:00",
+      "fetched": "2026-04-27T17:11:44.276454+07:00"
+    },
+    {
+      "id": "7126c660d46230a7f96984960a2c5f3d",
+      "title": "Hơn 10.000 du khách dự lễ hội du lịch biển Sầm Sơn 2026",
+      "link": "https://vnexpress.net/hon-10-000-du-khach-du-le-hoi-du-lich-bien-sam-son-2026-5067553.html",
+      "summary": "Lễ hội du lịch biển Sầm Sơn 2026 do tỉnh Thanh Hóa phối hợp Tập đoàn Sun Group khai mạc tối 25/4, với nhiều chương trình nghệ thuật kết hợp pháo hoa, trình diễn ánh sáng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T07:30:00+07:00",
+      "fetched": "2026-04-27T17:11:44.276550+07:00"
+    },
+    {
       "id": "6e61af3150eabf0efda2b81860f6b8b3",
       "title": "Bùi Lan Hương lần đầu làm concert giao lưu fan",
       "link": "https://vnexpress.net/bui-lan-huong-lan-dau-lam-concert-giao-luu-fan-5067486.html",
@@ -351,6 +851,16 @@ window.newsData_2026_04_27 = {
       "category": "Tổng hợp",
       "published": "2026-04-27T06:00:00+07:00",
       "fetched": "2026-04-27T13:25:28.496845+07:00"
+    },
+    {
+      "id": "5269c89ab2bd37e57384a39bee385866",
+      "title": "Vietjet chia cổ tức 30%, thu hút đầu tư quốc tế",
+      "link": "https://vnexpress.net/vietjet-chia-co-tuc-30-thu-hut-dau-tu-quoc-te-5067547.html",
+      "summary": "Công ty cổ phần Hàng không Vietjet (Vietjet) dự kiến chia cổ tức 30% bằng cổ phiếu sau khi ghi nhận lợi nhuận năm 2025 tăng hơn 50%, vượt kế hoạch đề ra.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-27T06:00:00+07:00",
+      "fetched": "2026-04-27T17:11:51.558266+07:00"
     },
     {
       "id": "413c5012222962bd0c40de9adc3e1c6a",
