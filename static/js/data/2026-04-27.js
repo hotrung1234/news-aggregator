@@ -1,7 +1,97 @@
 window.newsData_2026_04_27 = {
   "date": "2026-04-27",
-  "lastUpdated": "2026-04-27T20:46:14.671056+07:00",
+  "lastUpdated": "2026-04-27T22:44:49.461669+07:00",
   "articles": [
+    {
+      "id": "0c86ccf666d5fa9a3cfb6e3a9c94b38a",
+      "title": "Thương lượng hiệu quả, 101 chủ tịch công đoàn giúp hơn 382.000 lao động hưởng lợi",
+      "link": "https://tuoitre.vn/thuong-luong-hieu-qua-101-chu-tich-cong-doan-giup-hon-382-000-lao-dong-huong-loi-20260427185817251.htm",
+      "summary": "Qua đối thoại, thương lượng, hơn 101 thỏa ước lao động tập thể được ký kết đã mang lợi ích cho trên 382.000 người, số tiền làm lợi hơn 6.000 tỉ đồng/năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T22:44:42.789324+07:00",
+      "fetched": "2026-04-27T22:44:42.789421+07:00"
+    },
+    {
+      "id": "23853fa404f9f5b63f7ca4b0fc054f95",
+      "title": "Chiến sự Iran giúp Trung Quốc 'thắng lớn' trên thị trường năng lượng",
+      "link": "https://tuoitre.vn/chien-su-iran-giup-trung-quoc-thang-lon-tren-thi-truong-nang-luong-20260427192030495.htm",
+      "summary": "Cuộc chiến tại Iran đang khiến thế giới tăng tốc chuyển sang năng lượng sạch trong bối cảnh nguồn cung dầu mỏ bị gián đoạn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T22:44:42.789218+07:00",
+      "fetched": "2026-04-27T22:44:42.789315+07:00"
+    },
+    {
+      "id": "a9dda41af53d436a7597fb5e56255a5a",
+      "title": "Đánh cắp bí mật thương mại, cựu kỹ sư TSMC lãnh 10 năm tù",
+      "link": "https://tuoitre.vn/danh-cap-bi-mat-thuong-mai-cuu-ky-su-tsmc-linh-10-nam-tu-20260427191946627.htm",
+      "summary": "Đài Loan đã tuyên án 10 năm tù với cựu nhân viên TSMC vì đánh cắp bí mật thương mại để phục vụ công việc ở công ty mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T22:44:42.789112+07:00",
+      "fetched": "2026-04-27T22:44:42.789209+07:00"
+    },
+    {
+      "id": "f4f0ec1dda57d8fd1d6ebd0d20d8021e",
+      "title": "Trung Đông tối 27-4: Đức nói Iran đang làm Mỹ bẽ mặt; 7 tàu đi qua eo biển Hormuz",
+      "link": "https://tuoitre.vn/trung-dong-toi-27-4-duc-noi-iran-dang-lam-my-be-mat-7-tau-di-qua-eo-bien-hormuz-20260427201026353.htm",
+      "summary": "Thủ tướng Đức bất ngờ chỉ trích mạnh mẽ xung đột Mỹ - Iran và cho rằng Tehran đã khiến Washington bẽ mặt. Trong khi đó Pakistan vẫn đang nỗ lực thu hẹp khoảng cách giữa Mỹ và Iran.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T22:44:42.789003+07:00",
+      "fetched": "2026-04-27T22:44:42.789103+07:00"
+    },
+    {
+      "id": "d702913a734bc371edf38c7bcd807bed",
+      "title": "CLB futsal Chánh Hưng Thái Sơn Nam tiến sát ngôi vô địch Đại hội TDTT TP.HCM, số bàn thắng ‘khủng’",
+      "link": "https://tuoitre.vn/tuyen-futsal-viet-nam-mini-tien-sat-ngoi-vo-dich-voi-con-so-ky-luc-20260427201259421.htm",
+      "summary": "Đội tuyển futsal Chánh Hưng Thái Sơn Nam vào bán kết sau chiến thắng 12-1 trước CLB futsal Bình Chánh ở trận tứ kết môn futsal Đại hội TDTT TP.HCM lần thứ nhất năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T22:44:42.788881+07:00",
+      "fetched": "2026-04-27T22:44:42.788993+07:00"
+    },
+    {
+      "id": "6f5d581a20444ed58ca3fc096292ca98",
+      "title": "Xác minh clip người nước ngoài tấn công tài xế sau va chạm giao thông ở Đà Nẵng",
+      "link": "https://tuoitre.vn/xac-minh-clip-nguoi-nuoc-ngoai-tan-cong-tai-xe-sau-va-cham-giao-thong-o-da-nang-20260427195017943.htm",
+      "summary": "Một đoạn clip lan truyền trên mạng xã hội ghi lại cảnh một người nước ngoài có hành vi tấn công tài xế ô tô sau va chạm giao thông tại Đà Nẵng khiến nhiều người bức xúc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T22:44:42.788769+07:00",
+      "fetched": "2026-04-27T22:44:42.788871+07:00"
+    },
+    {
+      "id": "2c9641012f2b061ce950783e56b49588",
+      "title": "Hiệp hội Cờ tướng Trung Quốc thông báo 'xóa sổ' 45% số kỳ vương",
+      "link": "https://tuoitre.vn/hiep-hoi-co-tuong-trung-quoc-thong-bao-xoa-so-45-so-ky-vuong-20260427204956051.htm",
+      "summary": "Hiệp hội Cờ tướng Trung Quốc (CXA) khiến người hâm mộ đại lục ngỡ ngàng khi rút gọn danh sách kỳ vương chỉ còn 12 người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T22:44:42.788655+07:00",
+      "fetched": "2026-04-27T22:44:42.788759+07:00"
+    },
+    {
+      "id": "82dc28020ea44d15f74361a3cf9a8a4d",
+      "title": "Thủ tướng Đức gợi ý Ukraine chấp nhận nhượng đất đổi hòa bình và gia nhập EU",
+      "link": "https://tuoitre.vn/thu-tuong-duc-goi-y-ukraine-chap-nhan-nhuong-dat-doi-hoa-binh-va-gia-nhap-eu-20260427204109532.htm",
+      "summary": "Thủ tướng Đức cho rằng việc Ukraine chấp nhận mất một phần lãnh thổ trong thỏa thuận hòa bình với Nga có thể mở đường cho nước này gia nhập Liên minh châu Âu (EU).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T22:44:42.788534+07:00",
+      "fetched": "2026-04-27T22:44:42.788645+07:00"
+    },
+    {
+      "id": "94127282e031a665a3910bc1d1ac7720",
+      "title": "Cứu 2 du khách Ấn Độ suýt đuối nước trên biển Đà Nẵng",
+      "link": "https://tuoitre.vn/cuu-2-du-khach-an-do-suyt-duoi-nuoc-tren-bien-da-nang-20260427201051704.htm",
+      "summary": "Hai du khách Ấn Độ tắm ngoài khu vực giăng phao an toàn bị sóng cuốn trôi ở biển Đà Nẵng đã may mắn được cứu hộ kịp thời.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T22:44:42.788315+07:00",
+      "fetched": "2026-04-27T22:44:42.788520+07:00"
+    },
     {
       "id": "28a26ebbae229f92001d03764e80c611",
       "title": "Đạo diễn Tử chiến trên không trở lại với phim kinh dị nặng đô Sợi chỉ đỏ",
@@ -301,6 +391,186 @@ window.newsData_2026_04_27 = {
       "category": "Tổng hợp",
       "published": "2026-04-27T17:11:48.323625+07:00",
       "fetched": "2026-04-27T17:11:48.323821+07:00"
+    },
+    {
+      "id": "94bb6d5cf6e0bc7cf276d10c4e12eaf1",
+      "title": "Sau vòng 16 giải hạng nhất: Chờ cú nước rút chặng quyết định",
+      "link": "https://thanhnien.vn/sau-vong-16-giai-hang-nhat-cho-cu-nuoc-rut-chang-quyet-dinh-185260427205712602.htm",
+      "summary": "Vòng 16 giải HNQG Bia Sao Vàng 2025-2026 chứng kiến cuộc đua thăng hạng và trụ hạng ngày càng căng thẳng khi các CLB bắt đầu tăng tốc ở giai đoạn quyết định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T15:21:00+07:00",
+      "fetched": "2026-04-27T22:44:41.577299+07:00"
+    },
+    {
+      "id": "aa18775cff985d03b7daaf35bb064f9e",
+      "title": "Hà Nội 'hồi sinh' nhà tái định cư bỏ hoang hàng chục năm",
+      "link": "https://vnexpress.net/ha-noi-hoi-sinh-nha-tai-dinh-cu-bo-hoang-hang-chuc-nam-5067622.html",
+      "summary": "Dự án nhà tái định cư N01 (Cầu Giấy) với gần 300 căn hộ nằm giữa ngã tư Duy Tân - Trần Thái Tông, sau hàng chục năm đắp chiếu, đang được gấp rút hoàn thiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T15:18:35+07:00",
+      "fetched": "2026-04-27T22:44:38.336755+07:00"
+    },
+    {
+      "id": "51efaf0b74cdc12f382fe430c924b863",
+      "title": "Người phụ nữ bị sát hại tại nhà riêng",
+      "link": "https://vnexpress.net/nguoi-phu-nu-bi-sat-hai-tai-nha-rieng-5067643.html",
+      "summary": "Sau tiếng kêu cứu thất thanh, người dân phát hiện bà Nguyễn Thị Thu Hiền, 46 tuổi, đã tử vong với nhiều vết thương, bên cạnh là con dao dính máu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T15:15:28+07:00",
+      "fetched": "2026-04-27T22:44:38.336908+07:00"
+    },
+    {
+      "id": "94c1eb0f718ed427bfc0f79fd91f6357",
+      "title": "Mong em biết quan tâm và sống tình cảm",
+      "link": "https://vnexpress.net/mong-em-biet-quan-tam-va-song-tinh-cam-5067634.html",
+      "summary": "Anh thích trẻ con, thích cái cảm giác đi làm về dù mệt nhưng khi mở cửa ra, con lại ríu rít chạy ra đón mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T14:59:31+07:00",
+      "fetched": "2026-04-27T22:44:38.337016+07:00"
+    },
+    {
+      "id": "b8c4f4d9fcea3d1856e89723d6bf7e89",
+      "title": "Người đàn ông hướng nội, sống ở Mỹ tìm người thương",
+      "link": "https://vnexpress.net/nguoi-dan-ong-huong-noi-song-o-my-tim-nguoi-thuong-5067635.html",
+      "summary": "Mình 36 tuổi, sống và làm việc tại California (Mỹ), có công việc ổn định, ngoài ra kinh doanh thêm một quán ăn nhỏ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T14:59:21+07:00",
+      "fetched": "2026-04-27T22:44:38.337098+07:00"
+    },
+    {
+      "id": "42ccd8063c6e02be4affb12c61386f96",
+      "title": "Biệt thự Cầu Đá Nha Trang mở cửa đón khách sau hơn 10 năm dừng hoạt động",
+      "link": "https://thanhnien.vn/biet-thu-cau-da-nha-trang-mo-cua-don-khach-sau-hon-10-nam-dung-hoat-dong-185260427162847022.htm",
+      "summary": "Di tích Biệt thự Cầu Đá tại Nha Trang, nơi vua Bảo Đại và hoàng hậu Nam Phương thường xuyên đến nghỉ dưỡng nên được gọi là Lầu Bảo Đại, chính thức mở cửa đón khách trở lại sau hơn 10 năm đóng cửa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T14:54:00+07:00",
+      "fetched": "2026-04-27T22:44:41.577448+07:00"
+    },
+    {
+      "id": "58ea26f72d144371c3e187cf5e4da289",
+      "title": "Jennifer Lopez giữ dáng nhờ sự kỷ luật",
+      "link": "https://vnexpress.net/jennifer-lopez-giu-dang-nho-su-ky-luat-5067611.html",
+      "summary": "Ca sĩ Jennifer Lopez cho biết ở tuổi 57 cô nghiêm túc trong chế độ ăn uống và luyện tập để giúp cơ thể săn chắc, dẻo dai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T14:42:56+07:00",
+      "fetched": "2026-04-27T22:44:38.337233+07:00"
+    },
+    {
+      "id": "5e86312ea8e768ea0a887da09f58a312",
+      "title": "Bí thư Hà Nội 'chốt' tiến độ nút giao 'dị dạng' 785 tỉ đồng",
+      "link": "https://thanhnien.vn/bi-thu-ha-noi-chot-tien-do-nut-giao-di-dang-785-ti-dong-185260427205042071.htm",
+      "summary": "Sau khi thị sát nút giao 'dị dạng' trên đường Phạm Tu, Bí thư Thành ủy Hà Nội đã yêu cầu các địa phương sớm bàn giao mặt bằng, đồng thời yêu cầu chủ đầu tư hoàn thiện nút giao trước ngày 31.12 để khai thác, sử dụng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T14:33:00+07:00",
+      "fetched": "2026-04-27T22:44:41.577587+07:00"
+    },
+    {
+      "id": "87acc40abe26322fb2ecb2471c3e2144",
+      "title": "Đại tướng Nguyễn Trọng Nghĩa viếng nghĩa trang, thăm gia đình chính sách tại Gia Lai",
+      "link": "https://thanhnien.vn/dai-tuong-nguyen-trong-nghia-vieng-nghia-trang-tham-gia-dinh-chinh-sach-tai-gia-lai-185260427204035606.htm",
+      "summary": "Đại tướng Nguyễn Trọng Nghĩa đã đến viếng nghĩa trang liệt sĩ, thăm tặng quà gia đình chính sách tại  Gia Lai nhân kỷ niệm 51 năm ngày thống nhất đất nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T14:29:00+07:00",
+      "fetched": "2026-04-27T22:44:41.577716+07:00"
+    },
+    {
+      "id": "419506ec501c7f809dc869b6344a7bba",
+      "title": "HLV Kim Sang-sik tìm lời giải hàng công đội tuyển Việt Nam từ CLB Becamex TP.HCM",
+      "link": "https://thanhnien.vn/hlv-kim-sang-sik-tim-loi-giai-hang-cong-doi-tuyen-viet-nam-tu-clb-becamex-tphcm-18526042720591702.htm",
+      "summary": "Dù không có thứ hạng cao, CLB Becamex TP.HCM vẫn mang đến nhiều tín hiệu tích cực khi sở hữu những nhân tố có thể tăng sức cạnh tranh cho hàng công đội tuyển Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T14:21:00+07:00",
+      "fetched": "2026-04-27T22:44:41.577844+07:00"
+    },
+    {
+      "id": "c8f221be6f2ee9baa92e1d86a44a843f",
+      "title": "Thể thức FIFA ASEAN Cup dần rõ ràng, đội tuyển Việt Nam rộng cửa cạnh tranh chức vô địch",
+      "link": "https://thanhnien.vn/the-thuc-fifa-asean-cup-dan-ro-rang-doi-tuyen-viet-nam-rong-cua-canh-tranh-chuc-vo-dich-185260427205525675.htm",
+      "summary": "Thể thức thi đấu mới của FIFA ASEAN Cup đang dần hé lộ, mở ra cơ hội thuận lợi để đội tuyển Việt Nam cạnh tranh danh hiệu ở sân chơi khu vực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T14:21:00+07:00",
+      "fetched": "2026-04-27T22:44:41.577974+07:00"
+    },
+    {
+      "id": "f7bf06456f8bd794057ee3e6050945fb",
+      "title": "Vingroup lọt top 5 công ty có vốn hóa lớn nhất Đông Nam Á",
+      "link": "https://vnexpress.net/vingroup-lot-top-5-cong-ty-co-von-hoa-lon-nhat-dong-nam-a-5067613.html",
+      "summary": "Nhờ việc cổ phiếu VIC tăng gần 60% trong một tháng qua, Vingroup đã lọt top 5 công ty lớn nhất Đông Nam Á về vốn hóa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T13:53:19+07:00",
+      "fetched": "2026-04-27T22:44:38.337368+07:00"
+    },
+    {
+      "id": "f7bf06456f8bd794057ee3e6050945fb",
+      "title": "Vingroup lọt top 5 công ty có vốn hóa lớn nhất Đông Nam Á",
+      "link": "https://vnexpress.net/vingroup-lot-top-5-cong-ty-co-von-hoa-lon-nhat-dong-nam-a-5067613.html",
+      "summary": "Nhờ việc cổ phiếu VIC tăng gần 60% trong một tháng qua, Vingroup đã lọt top 5 công ty lớn nhất Đông Nam Á về vốn hóa.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-27T13:53:19+07:00",
+      "fetched": "2026-04-27T22:44:45.487780+07:00"
+    },
+    {
+      "id": "c0a0098e03dd1751b6c65516fa4c76e9",
+      "title": "Thủ tướng Đức: Ukraine có thể phải nhượng lãnh thổ để dọn đường vào EU",
+      "link": "https://vnexpress.net/thu-tuong-duc-ukraine-co-the-phai-nhuong-lanh-tho-de-don-duong-vao-eu-5067615.html",
+      "summary": "Thủ tướng Merz cho rằng Ukraine có thể phải chấp nhận mất một phần lãnh thổ trong thỏa thuận hòa bình với Nga để dọn đường gia nhập EU.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T13:51:52+07:00",
+      "fetched": "2026-04-27T22:44:38.337499+07:00"
+    },
+    {
+      "id": "c0a0098e03dd1751b6c65516fa4c76e9",
+      "title": "Thủ tướng Đức: Ukraine có thể phải nhượng lãnh thổ để dọn đường vào EU",
+      "link": "https://vnexpress.net/thu-tuong-duc-ukraine-co-the-phai-nhuong-lanh-tho-de-don-duong-vao-eu-5067615.html",
+      "summary": "Thủ tướng Merz cho rằng Ukraine có thể phải chấp nhận mất một phần lãnh thổ trong thỏa thuận hòa bình với Nga để dọn đường gia nhập EU.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-27T13:51:52+07:00",
+      "fetched": "2026-04-27T22:44:43.706805+07:00"
+    },
+    {
+      "id": "209622483847bb0dcb452745215562ae",
+      "title": "Cha qua đời, Diệp Tuyền tranh chấp tài sản với… người giúp việc",
+      "link": "https://thanhnien.vn/cha-qua-doi-diep-tuyen-tranh-chap-tai-san-voi-nguoi-giup-viec-185260427174005116.htm",
+      "summary": "Diệp Tuyền đang vướng vào vụ kiện với người giúp việc, liên quan đến tài sản cha cô để lại trước khi mất. Nữ diễn viên đau lòng khi đến nay cha chưa có nơi yên nghỉ thực sự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T13:50:00+07:00",
+      "fetched": "2026-04-27T22:44:41.578113+07:00"
+    },
+    {
+      "id": "19e553cd6f22e9c48166715e159b9395",
+      "title": "Chỉ 3% nhà đầu tư dự đoán đúng thị trường",
+      "link": "https://vnexpress.net/chi-3-nha-dau-tu-du-doan-dung-thi-truong-5067593.html",
+      "summary": "Một nghiên cứu cho thấy chỉ 3% nhà đầu tư có hiểu biết và nắm bắt thông tin tốt mới dự đoán chính xác thị trường và hành động sớm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T13:46:09+07:00",
+      "fetched": "2026-04-27T22:44:38.337629+07:00"
+    },
+    {
+      "id": "19e553cd6f22e9c48166715e159b9395",
+      "title": "Chỉ 3% nhà đầu tư dự đoán đúng thị trường",
+      "link": "https://vnexpress.net/chi-3-nha-dau-tu-du-doan-dung-thi-truong-5067593.html",
+      "summary": "Một nghiên cứu cho thấy chỉ 3% nhà đầu tư có hiểu biết và nắm bắt thông tin tốt mới dự đoán chính xác thị trường và hành động sớm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-27T13:46:09+07:00",
+      "fetched": "2026-04-27T22:44:45.487931+07:00"
     },
     {
       "id": "90d8379dc0dbbcfd76683c6b757a8ead",
@@ -801,6 +1071,16 @@ window.newsData_2026_04_27 = {
       "category": "Thể thao",
       "published": "2026-04-27T10:05:58+07:00",
       "fetched": "2026-04-27T20:46:14.662555+07:00"
+    },
+    {
+      "id": "63f15be6010752b881bf6dfdb895a537",
+      "title": "Kỳ tích công nghệ và dinh dưỡng đằng sau kỷ lục marathon thế giới",
+      "link": "https://vnexpress.net/ky-tich-cong-nghe-va-dinh-duong-dang-sau-ky-luc-marathon-the-gioi-5067590.html",
+      "summary": "Yếu tố con người, vốn là đặc trưng của các VĐV thế hệ trước, giờ đang dần lùi bước trước tầm ảnh hưởng ngày càng lớn của những đôi giày chạy và gel năng lượng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-27T10:05:58+07:00",
+      "fetched": "2026-04-27T22:44:49.452335+07:00"
     },
     {
       "id": "2c778b2c004bd7954058cd6f1de8b96a",
