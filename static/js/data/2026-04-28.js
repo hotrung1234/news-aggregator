@@ -1,7 +1,27 @@
 window.newsData_2026_04_28 = {
   "date": "2026-04-28",
-  "lastUpdated": "2026-04-28T03:59:03.812907+07:00",
+  "lastUpdated": "2026-04-28T05:49:57.005218+07:00",
   "articles": [
+    {
+      "id": "58fe367f723ec38136cfe21c1e6e70e8",
+      "title": "Lịch trực tiếp bán kết lượt đi Champions League 2025-2026",
+      "link": "https://tuoitre.vn/lich-truc-tiep-ban-ket-luot-di-champions-league-2025-2026-20260427175735741.htm",
+      "summary": "Rạng sáng 29 và 30-4 sẽ diễn ra các trận đấu lượt đi vòng bán kết Champions League: PSG gặp Bayern Munich và Atletico Madrid đụng độ Arsenal.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T05:49:48.378679+07:00",
+      "fetched": "2026-04-28T05:49:48.378807+07:00"
+    },
+    {
+      "id": "a7e924e596cc85dd20f3076613ae7acd",
+      "title": "Cậu bé không nói chuyện với ai trong lớp, cô làm gì để chạm đến trái tim em?!",
+      "link": "https://tuoitre.vn/cau-be-khong-noi-chuyen-voi-ai-trong-lop-co-lam-gi-de-cham-den-trai-tim-em-20260422153041564.htm",
+      "summary": "Một cậu học trò khiến tôi chú ý ngay từ những ngày đầu. Không phải vì em học giỏi hay nghịch ngợm, mà vì em luôn ngồi một mình ở một góc lớp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T05:49:48.378495+07:00",
+      "fetched": "2026-04-28T05:49:48.378664+07:00"
+    },
     {
       "id": "ca86abdeee2901f7bd23cba36da5da69",
       "title": "Thời tiết hôm nay 28-4: Nam Bộ nắng nóng diện rộng, Bắc Bộ đón không khí lạnh",
@@ -171,6 +191,236 @@ window.newsData_2026_04_28 = {
       "category": "Tổng hợp",
       "published": "2026-04-28T00:19:32.545637+07:00",
       "fetched": "2026-04-28T00:19:32.545867+07:00"
+    },
+    {
+      "id": "22ef1c3a6ae2fa15a236ec1e2a1c5799",
+      "title": "Lừa bán ‘đồng đen’ 300 tỉ đồng, nhận 300 triệu tiền cọc rồi bỏ trốn",
+      "link": "https://thanhnien.vn/lua-ban-dong-den-300-ti-dong-nhan-300-trieu-tien-coc-roi-bo-tron-185260427221702555.htm",
+      "summary": "Công an tỉnh An Giang đang tạm giữ 6 người trong nhóm dàn dựng lừa đảo bán 'đồng đen' với giá 300 tỉ đồng. Khi bị hại đưa 300 triệu đồng tiền đặt cọc thì cả nhóm nhanh chóng tẩu thoát để chia tiền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T22:47:00+07:00",
+      "fetched": "2026-04-28T05:49:47.470714+07:00"
+    },
+    {
+      "id": "ccfdd6e415fda680f4cf86d8ff5be596",
+      "title": "'Giấc mơ là ốc sên' tranh giải Cành cọ vàng cho phim ngắn tại LHP Cannes",
+      "link": "https://thanhnien.vn/giac-mo-la-oc-sen-tranh-giai-canh-co-vang-cho-phim-ngan-tai-lhp-cannes-185260427225112518.htm",
+      "summary": "Phim ngắn Giấc mơ là ốc sên (The dream is a snail) của đạo diễn Nguyễn Thiên Ân chính thức được chọn tranh giải tại Liên hoan phim Cannes lần thứ 79 (diễn ra từ ngày 12 - 23.5 tại TP.Cannes, Pháp).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T22:45:00+07:00",
+      "fetched": "2026-04-28T05:49:47.470880+07:00"
+    },
+    {
+      "id": "c1c7e68bedae8b0f514ad6bbbb47422a",
+      "title": "Chuẩn bị 5.000 nhân lực game phục vụ giáo dục lịch sử, văn hóa",
+      "link": "https://thanhnien.vn/chuan-bi-5000-nhan-luc-game-phuc-vu-giao-duc-lich-su-van-hoa-185260427200519881.htm",
+      "summary": "Ngành công nghiệp game VN đang nằm trong chiến lược phát triển của Chính phủ khi mới đây Chính phủ ban hành Nghị quyết số 30/NQ-CP về Chương trình hành động thực hiện Nghị quyết 80-NQ/TW của Bộ Chính trị về phát triển văn hóa VN.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T22:45:00+07:00",
+      "fetched": "2026-04-28T05:49:47.471037+07:00"
+    },
+    {
+      "id": "d7b58f0107e72d1093b6e44a12982fe4",
+      "title": "Mua ủng hộ người bán dạo, khách trúng hơn 6 tỉ đồng xổ số miền Nam",
+      "link": "https://thanhnien.vn/mua-ung-ho-nguoi-ban-dao-khach-trung-hon-6-ti-dong-xo-so-mien-nam-185260427153453225.htm",
+      "summary": "Người đàn ông ở Vĩnh Long trúng độc đắc 3 tờ xổ số miền Nam cùng 7 tờ trúng an ủi khi mua ủng hộ người bán dạo trong lúc ngồi uống cà phê.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T22:45:00+07:00",
+      "fetched": "2026-04-28T05:49:47.471186+07:00"
+    },
+    {
+      "id": "5624c45b12e19d92d9418bbbd3684d96",
+      "title": "Mưu sinh trên sông Trà: Nương phù sa mà sống, theo con nước mà đi",
+      "link": "https://thanhnien.vn/muu-sinh-tren-song-tra-nuong-phu-sa-ma-song-theo-con-nuoc-ma-di-185260427194148828.htm",
+      "summary": "Cuối dòng sông Trà (Quảng Ngãi), những bãi bồi phù sa màu mỡ không chỉ bồi đắp đất đai mà còn nuôi sống bao phận người. Từ đánh bắt cá đến chăn nuôi, trồng trọt, người dân cần mẫn mưu sinh theo từng con nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T22:40:00+07:00",
+      "fetched": "2026-04-28T05:49:47.471364+07:00"
+    },
+    {
+      "id": "42083e691a9efd22be1e7d98022e3a33",
+      "title": "Chăm lo đời sống công nhân, người lao động là nhiệm vụ chính trị quan trọng",
+      "link": "https://thanhnien.vn/cham-lo-doi-song-cong-nhan-nguoi-lao-dong-la-nhiem-vu-chinh-tri-quan-trong-185260427232501933.htm",
+      "summary": "Ngày 27.4, Tổng Bí thư, Chủ tịch nước Tô Lâm đã có buổi trò chuyện với hơn 200 công nhân, người lao động ở P.Chánh Hiệp, đại diện cho hơn 2,7 triệu công đoàn viên của TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T22:39:00+07:00",
+      "fetched": "2026-04-28T05:49:47.471518+07:00"
+    },
+    {
+      "id": "d1da4aa7c6f406dfc4a84a0c357e1886",
+      "title": "Thú vị 'trạm nghe chim kể chuyện': Trò chuyện với loài chim bằng AI",
+      "link": "https://thanhnien.vn/thu-vi-tram-nghe-chim-ke-chuyen-tro-chuyen-voi-loai-chim-bang-ai-185260427212210115.htm",
+      "summary": "Ngày 26.4.2026, UBND phường Hương Trà tổ chức khánh thành công trình 'Trạm nghe chim kể chuyện'. Đây là sự kiện trong chuỗi hoạt động lễ hội du lịch phía nam Đà Nẵng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T22:39:00+07:00",
+      "fetched": "2026-04-28T05:49:47.471671+07:00"
+    },
+    {
+      "id": "97bc31467a06820c99acec72930ba0ee",
+      "title": "Từ vụ mì tươi 'tẩm' hóa chất: Siết hậu kiểm, tăng chế tài, làm rõ 'lỗ hổng' quản lý",
+      "link": "https://thanhnien.vn/tu-vu-mi-tuoi-tam-hoa-chat-siet-hau-kiem-tang-che-tai-lam-ro-lo-hong-quan-ly-185260427201917801.htm",
+      "summary": "Từ vụ 2.800 tấn mì 'tẩm' hóa chất bị phát hiện, bạn đọc kiến nghị xử lý tương xứng với hành vi của các bị can, đồng thời củng cố cơ chế giám sát và làm rõ trách nhiệm quản lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T22:35:00+07:00",
+      "fetched": "2026-04-28T05:49:47.471823+07:00"
+    },
+    {
+      "id": "dc75e50813125c806342bfc422487dad",
+      "title": "Sinh viên ĐHQG TP.HCM nơm nớp đi đường tạm, mong chờ một điều suốt nhiều năm",
+      "link": "https://thanhnien.vn/sinh-vien-dhqg-tphcm-nom-nop-di-duong-tam-mong-cho-mot-dieu-suot-nhieu-nam-185260424220305262.htm",
+      "summary": "Hạ tầng khu đô thị Đại học Quốc gia TP.HCM đang từng bước chuyển động, với nhiều hạng mục được triển khai và điều chỉnh theo hướng đồng bộ hơn. Cùng với đó, kỳ vọng về một hệ thống giao thông thuận tiện, kết nối hiệu quả từ khu học tập đến metro và các trục chính cũng ngày càng rõ nét trong cộng đồn...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T22:35:00+07:00",
+      "fetched": "2026-04-28T05:49:47.471973+07:00"
+    },
+    {
+      "id": "64c594ad66c232131ffcfca33f7a39b2",
+      "title": "Thỏa thuận nào để kết thúc chiến sự Iran?",
+      "link": "https://thanhnien.vn/thoa-thuan-nao-de-ket-thuc-chien-su-iran-185260427223317557.htm",
+      "summary": "Xung đột Mỹ - Iran tiếp tục duy trì lệnh ngừng bắn, đồng thời tiếp tục bế tắc về ngoại giao, vậy đâu là giải pháp để kết thúc chiến sự?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T22:32:00+07:00",
+      "fetched": "2026-04-28T05:49:47.472118+07:00"
+    },
+    {
+      "id": "b65f59fa22302e757c2a971fcb83867a",
+      "title": "Tiêu điểm quốc tế ngày 28.4: Nước nào 'chi đậm' nhất cho quân sự? | Người xin thẻ xanh Mỹ cần chú ý",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-ngay-284-nuoc-nao-chi-dam-nhat-cho-quan-su-nguoi-xin-the-xanh-my-can-chu-y-185260428004519951.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 28.4.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T22:30:00+07:00",
+      "fetched": "2026-04-28T05:49:47.472265+07:00"
+    },
+    {
+      "id": "1dc60a743621129e7165bd0d5c181f91",
+      "title": "Tử vi ngày 28 tháng 4: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-28-thang-4-con-giap-nao-may-man-hom-nay-185260427220122735.htm",
+      "summary": "Tử vi ngày 28 tháng 4 mang đến những gợi ý tham khảo cho 12 con giáp. Điểm đáng chú ý là ra quyết định nhanh nhưng phải đúng. Nhiều việc cần xử lý gấp trước kỳ nghỉ, nhưng nếu hấp tấp sẽ dễ sai. Tài lộc không nằm ở tốc độ, mà ở việc bạn chọn đúng việc để ưu tiên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T22:15:00+07:00",
+      "fetched": "2026-04-28T05:49:47.472442+07:00"
+    },
+    {
+      "id": "b502cb78039c632363865d94dfdb0141",
+      "title": "Bộ trưởng Quốc phòng bị ám sát, Mali khủng hoảng an ninh",
+      "link": "https://thanhnien.vn/bo-truong-quoc-phong-bi-am-sat-mali-khung-hoang-an-ninh-185260427203838309.htm",
+      "summary": "Hãng Reuters ngày 27.4 đưa tin Bộ trưởng Quốc phòng Mali Sadio Camara đã thiệt mạng sau cuộc tấn công vào nhà riêng của ông, trong bối cảnh các tay súng nổi dậy tấn công đồng loạt tại nhiều nơi ở quốc gia Tây Phi này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T22:15:00+07:00",
+      "fetched": "2026-04-28T05:49:47.472595+07:00"
+    },
+    {
+      "id": "945eb723bf5c646664d303ce40bdbb19",
+      "title": "Cách chọn chất béo lành mạnh cho người bị gan nhiễm mỡ",
+      "link": "https://thanhnien.vn/cach-chon-chat-beo-lanh-manh-cho-nguoi-bi-gan-nhiem-mo-185260427185304415.htm",
+      "summary": "Gan nhiễm mỡ gây tổn thương, viêm và rối loạn chức năng gan, góp phần dẫn đến viêm gan và xơ hóa gan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T22:06:00+07:00",
+      "fetched": "2026-04-28T05:49:47.472745+07:00"
+    },
+    {
+      "id": "30c3f5a63b8cd69e031e887fd7b14625",
+      "title": "Man Utd hạ Brentford, cách suất Champions League một trận thắng",
+      "link": "https://vnexpress.net/man-utd-ha-brentford-cach-suat-champions-league-mot-tran-thang-5067673.html",
+      "summary": "Casemiro và Benjamin Sesko ghi bàn giúp Man Utd thắng đội khách Brentford 2-1 ở trận muộn vòng 34 Ngoại hạng Anh, để giữ vững vị trí thứ ba.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T22:04:07+07:00",
+      "fetched": "2026-04-28T05:49:44.586751+07:00"
+    },
+    {
+      "id": "30c3f5a63b8cd69e031e887fd7b14625",
+      "title": "Man Utd hạ Brentford, cách suất Champions League một trận thắng",
+      "link": "https://vnexpress.net/man-utd-ha-brentford-cach-suat-champions-league-mot-tran-thang-5067673.html",
+      "summary": "Casemiro và Benjamin Sesko ghi bàn giúp Man Utd thắng đội khách Brentford 2-1 ở trận muộn vòng 34 Ngoại hạng Anh, để giữ vững vị trí thứ ba.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-27T22:04:07+07:00",
+      "fetched": "2026-04-28T05:49:56.999652+07:00"
+    },
+    {
+      "id": "3fa2a5735ac8501128680e2a9cb11b37",
+      "title": "Trao hơn 510 triệu đồng bạn đọc giúp các hoàn cảnh khó khăn, bệnh tật",
+      "link": "https://thanhnien.vn/trao-hon-510-trieu-dong-ban-doc-giup-cac-hoan-canh-kho-khan-benh-tat-18526042716013796.htm",
+      "summary": "Tiếp tục hành trình kết nối yêu thương, Báo Thanh Niên vừa chuyển hơn 510 triệu đồng do bạn đọc đóng góp đến nhiều hoàn cảnh ngặt nghèo trên cả nước, góp phần tiếp thêm hy vọng cho những phận đời kém may mắn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T22:03:00+07:00",
+      "fetched": "2026-04-28T05:49:47.472908+07:00"
+    },
+    {
+      "id": "0f1f3a24ae988c420d26ee4f80b6bd2f",
+      "title": "Diện mạo hai biệt thự ở di tích lầu Bảo Đại sau trùng tu",
+      "link": "https://vnexpress.net/dien-mao-hai-biet-thu-o-di-tich-lau-bao-dai-sau-trung-tu-5067588.html",
+      "summary": "Hai tòa Vọng Nguyệt và Nghinh Phong trong di tích lầu Bảo Đại hơn 100 tuổi, phường Nha Trang, được trùng tu, mở cửa đón khách sau 5 năm ngưng hoạt động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T22:00:00+07:00",
+      "fetched": "2026-04-28T05:49:44.586936+07:00"
+    },
+    {
+      "id": "741a5a9a19f8070987fa69907b52a3f6",
+      "title": "Tình bạn của nghệ sĩ Công Lý - Xuân Bắc",
+      "link": "https://vnexpress.net/tinh-ban-cua-nghe-si-cong-ly-xuan-bac-5067556.html",
+      "summary": "Nghệ sĩ Xuân Bắc thường tranh thủ thời gian thăm diễn viên Công Lý, động viên đồng nghiệp cải thiện sức khỏe sau biến cố đột quỵ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T22:00:00+07:00",
+      "fetched": "2026-04-28T05:49:44.587104+07:00"
+    },
+    {
+      "id": "f74e4b36b67fa78d00a6fe20ae61ecd6",
+      "title": "Kịch bản di dời uranium khỏi Iran và bài toán hậu cần của Mỹ",
+      "link": "https://vnexpress.net/kich-ban-di-doi-uranium-khoi-iran-va-bai-toan-hau-can-cua-my-5064641.html",
+      "summary": "Dù có nhiều kinh nghiệm, Mỹ vẫn sẽ đối mặt những thử thách phức tạp nhất lịch sử khi tìm cách di dời kho uranium làm giàu khỏi Iran.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T22:00:00+07:00",
+      "fetched": "2026-04-28T05:49:44.587296+07:00"
+    },
+    {
+      "id": "8b47299d574767a15125f0f3dd48bf5b",
+      "title": "Land Rover Defender Trophy - SUV off-road hạng sang giá 7,489 tỷ đồng",
+      "link": "https://vnexpress.net/land-rover-defender-trophy-suv-off-road-hang-sang-gia-7-489-ty-dong-5067559.html",
+      "summary": "Defender 110 phiên bản đặc biệt dự kiến về Việt Nam tháng 7, động cơ mild-hybrid 3.0 6 xi-lanh công suất 400 mã lực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T22:00:00+07:00",
+      "fetched": "2026-04-28T05:49:44.587463+07:00"
+    },
+    {
+      "id": "f74e4b36b67fa78d00a6fe20ae61ecd6",
+      "title": "Kịch bản di dời uranium khỏi Iran và bài toán hậu cần của Mỹ",
+      "link": "https://vnexpress.net/kich-ban-di-doi-uranium-khoi-iran-va-bai-toan-hau-can-cua-my-5064641.html",
+      "summary": "Dù có nhiều kinh nghiệm, Mỹ vẫn sẽ đối mặt những thử thách phức tạp nhất lịch sử khi tìm cách di dời kho uranium làm giàu khỏi Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-27T22:00:00+07:00",
+      "fetched": "2026-04-28T05:49:50.010637+07:00"
+    },
+    {
+      "id": "e43026259e2dcdd0f9db388f46428586",
+      "title": "Smart Concept #2 - xe điện mini Đức dùng nền tảng Trung Quốc",
+      "link": "https://vnexpress.net/smart-concept-2-xe-dien-mini-duc-dung-nen-tang-trung-quoc-5065959.html",
+      "summary": "Mẫu xe điện mới được thiết kế bởi hãng Đức và sử dụng nền tảng do Geely cung cấp, ra mắt tại Triển lãm Ôtô Bắc Kinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-27T21:00:00+07:00",
+      "fetched": "2026-04-28T05:49:44.587627+07:00"
     },
     {
       "id": "883069c45fffb5a359169d57ff022dad",
