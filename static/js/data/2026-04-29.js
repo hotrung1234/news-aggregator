@@ -1,6 +1,6 @@
 window.newsData_2026_04_29 = {
   "date": "2026-04-29",
-  "lastUpdated": "2026-04-29T02:28:27.964504+07:00",
+  "lastUpdated": "2026-04-29T04:04:34.876311+07:00",
   "articles": [
     {
       "id": "3607a3b332c7dd71b0d13fc7dfcc2e62",
@@ -151,6 +151,46 @@ window.newsData_2026_04_29 = {
       "category": "Tổng hợp",
       "published": "2026-04-29T02:28:18.923767+07:00",
       "fetched": "2026-04-29T02:28:18.924070+07:00"
+    },
+    {
+      "id": "adca5689ba7bd4acb8433e936b01e200",
+      "title": "Nhận diện sức mạnh các đối thủ của U.17 Việt Nam tại U.17 châu Á 2026",
+      "link": "https://thanhnien.vn/nhan-dien-suc-manh-cac-doi-thu-cua-u17-viet-nam-tai-u17-chau-a-2026-185260428194718445.htm",
+      "summary": "U.17 Việt Nam bước ra sân chơi châu lục với nhiều kỳ vọng, nhưng hành trình vượt qua vòng bảng sẽ không dễ dàng khi phải đối đầu 3 đối thủ có phong cách và trình độ khác nhau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T21:00:00+07:00",
+      "fetched": "2026-04-29T04:04:27.729774+07:00"
+    },
+    {
+      "id": "7da5cf416df1422e427cc6b8d25826d9",
+      "title": "Ông Trump: 'Iran nói họ đang trên bờ vực sụp đổ'",
+      "link": "https://vnexpress.net/ong-trump-iran-noi-ho-dang-tren-bo-vuc-sup-do-5068054.html",
+      "summary": "Tổng thống Trump cho biết Iran nói với Mỹ rằng họ \"đang trên bờ vực sụp đổ\" và đề nghị Washington dỡ lệnh phong tỏa với cảng biển của nước này càng sớm càng tốt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T19:35:27+07:00",
+      "fetched": "2026-04-29T04:04:24.842106+07:00"
+    },
+    {
+      "id": "7da5cf416df1422e427cc6b8d25826d9",
+      "title": "Ông Trump: 'Iran nói họ đang trên bờ vực sụp đổ'",
+      "link": "https://vnexpress.net/ong-trump-iran-noi-ho-dang-tren-bo-vuc-sup-do-5068054.html",
+      "summary": "Tổng thống Trump cho biết Iran nói với Mỹ rằng họ \"đang trên bờ vực sụp đổ\" và đề nghị Washington dỡ lệnh phong tỏa với cảng biển của nước này càng sớm càng tốt.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-28T19:35:27+07:00",
+      "fetched": "2026-04-29T04:04:29.546436+07:00"
+    },
+    {
+      "id": "6f9a8b39bcfbf8651fe8726547f69873",
+      "title": "4 sai lầm phổ biến gây hại cho thận",
+      "link": "https://vnexpress.net/4-sai-lam-pho-bien-gay-hai-cho-than-5063401.html",
+      "summary": "Việc ăn gạo lứt, hạt dinh dưỡng hay dùng muối thấp natri có thể làm tăng gánh nặng bài tiết phospho và kali, khiến bệnh thận trầm trọng hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-28T19:00:00+07:00",
+      "fetched": "2026-04-29T04:04:24.842327+07:00"
     },
     {
       "id": "c73d22f304c26fd8b781b48066ad203e",
