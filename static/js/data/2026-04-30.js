@@ -1,7 +1,17 @@
 window.newsData_2026_04_30 = {
   "date": "2026-04-30",
-  "lastUpdated": "2026-04-30T02:20:45.309660+07:00",
+  "lastUpdated": "2026-04-30T04:01:02.177233+07:00",
   "articles": [
+    {
+      "id": "06a3bddebf994e897ee283e505affea5",
+      "title": "Thời tiết hôm nay lễ 30-4: Hai miền Nam, Bắc nắng nóng, Trung Bộ mưa dông",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-le-30-4-hai-mien-nam-bac-nang-nong-trung-bo-mua-dong-20260429155808852.htm",
+      "summary": "Hôm nay 30-4, thời tiết hai miền Nam - Bắc nắng, có nơi nắng nóng. Trung Bộ mưa rào, chiều tối mưa to.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T04:00:57.089222+07:00",
+      "fetched": "2026-04-30T04:00:57.089435+07:00"
+    },
     {
       "id": "657ef07acfcc1c6b958fd97b8ad6c578",
       "title": "Ngôi sao 70 triệu euro của Chelsea bị cấm thi đấu 4 năm",
