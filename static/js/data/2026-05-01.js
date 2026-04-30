@@ -1,7 +1,37 @@
 window.newsData_2026_05_01 = {
   "date": "2026-05-01",
-  "lastUpdated": "2026-05-01T00:17:25.033282+07:00",
+  "lastUpdated": "2026-05-01T02:16:11.607113+07:00",
   "articles": [
+    {
+      "id": "9382a89d8394e3eeddf28c15122eb094",
+      "title": "Rực rỡ pháo hoa đêm nghệ thuật 'Đồng Nai dòng chảy lịch sử - khát vọng tương lai'",
+      "link": "https://tuoitre.vn/ruc-ro-phao-hoa-dem-nghe-thuat-dong-nai-dong-chay-lich-su-khat-vong-tuong-lai-20260430234911442.htm",
+      "summary": "Chương trình nghệ thuật “Đồng Nai dòng chảy lịch sử - khát vọng tương lai” chào mừng ngày thống nhất đất nước và sự kiện thành lập thành phố Đồng Nai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T02:16:03.776884+07:00",
+      "fetched": "2026-05-01T02:16:03.777006+07:00"
+    },
+    {
+      "id": "61641222ca12370b1c158fa5d1531526",
+      "title": "Trung Đông tối 30-4: Lãnh tụ tối cao Iran gửi thư cho người dân",
+      "link": "https://tuoitre.vn/trung-dong-toi-30-4-lanh-tu-toi-cao-iran-gui-thu-cho-nguoi-dan-2026043023505537.htm",
+      "summary": "Giới lãnh đạo Iran ra thông điệp nước này chắc chắn kiểm soát eo biển Hormuz, trong khi ông Trump chỉ trích những phát ngôn của đồng minh về tình hình Trung Đông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T02:16:03.776738+07:00",
+      "fetched": "2026-05-01T02:16:03.776871+07:00"
+    },
+    {
+      "id": "479cf5279cb87705ddf598ef58ffbd87",
+      "title": "Ngày đầu nghỉ lễ: Du khách đến Phú Yên đông như trẩy hội từ sáng đến tối",
+      "link": "https://tuoitre.vn/ngay-dau-nghi-le-du-khach-den-phu-yen-dong-nhu-tray-hoi-tu-sang-den-toi-20260430224056596.htm",
+      "summary": "Kỳ nghỉ lễ 30-4, 1-5 khu vực phường Tuy Hòa, Đắk Lắk (trước thuộc Phú Yên) đón lượng lớn du khách đổ về tham quan, vui chơi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T02:16:03.776471+07:00",
+      "fetched": "2026-05-01T02:16:03.776722+07:00"
+    },
     {
       "id": "f94d77aca5cb3c993f21a2578ea983ab",
       "title": "Khai trương Vienna House by Wyndham Charm Long Hai",
@@ -151,6 +181,106 @@ window.newsData_2026_05_01 = {
       "category": "Tổng hợp",
       "published": "2026-05-01T00:17:19.564727+07:00",
       "fetched": "2026-05-01T00:17:19.564966+07:00"
+    },
+    {
+      "id": "ce5b24467c636a4156796e5edc5f1e2b",
+      "title": "Cá tươi hay cá đông lạnh: Loại nào thực sự tốt hơn cho sức khỏe?",
+      "link": "https://thanhnien.vn/ca-tuoi-hay-ca-dong-lanh-loai-nao-thuc-su-tot-hon-cho-suc-khoe-185260501003553923.htm",
+      "summary": "Trong suy nghĩ của nhiều người, cá tươi luôn được xem là tốt hơn so với cá đông lạnh. Nhưng thực tế, giá trị dinh dưỡng của cá còn phụ thuộc vào thời điểm đánh bắt, điều kiện bảo quản và thời gian lưu trữ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T19:15:00+07:00",
+      "fetched": "2026-05-01T02:16:02.829902+07:00"
+    },
+    {
+      "id": "f6eba1ce01d5b7a4e779219853e52470",
+      "title": "Bữa sáng với cháo: Lợi ích thật sự và điều cần tránh",
+      "link": "https://thanhnien.vn/bua-sang-voi-chao-loi-ich-that-su-va-dieu-can-tranh-185260430213013189.htm",
+      "summary": "Cháo là món ăn sáng quen thuộc trong nhiều gia đình châu Á. Nhẹ bụng, dễ tiêu nhưng liệu có đủ dinh dưỡng cho bữa sáng? Các chuyên gia cho rằng lợi ích của cháo phụ thuộc vào cách nấu và cách kết hợp thực phẩm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T18:07:00+07:00",
+      "fetched": "2026-05-01T02:16:02.830081+07:00"
+    },
+    {
+      "id": "2634a098c8fef5d08277b5495ff98bc7",
+      "title": "Ăn thịt cháy xém: Những nguy cơ sức khỏe ít được chú ý",
+      "link": "https://thanhnien.vn/an-thit-chay-xem-nhung-nguy-co-suc-khoe-it-duoc-chu-y-185260501003250237.htm",
+      "summary": "Các món thịt nướng, chiên hoặc áp chảo thường được nhiều người thích nhờ hương vị đậm đà và mùi thơm đặc trưng. Tuy nhiên, phần cháy xém lại là nơi hình thành nhiều hợp chất hóa học có khả năng gây hại cho sức khỏe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T17:50:00+07:00",
+      "fetched": "2026-05-01T02:16:02.830246+07:00"
+    },
+    {
+      "id": "e61c0768db11982ee0216db490869db1",
+      "title": "TP HCM dự kiến xây mới hai cụm chung cư xuống cấp với vốn trên 8.400 tỷ đồng",
+      "link": "https://vnexpress.net/tp-hcm-du-kien-xay-moi-hai-cum-chung-cu-xuong-cap-voi-von-tren-8-400-ty-dong-5068293.html",
+      "summary": "Hai cụm chung cư cũ Ngô Gia Tự và Ấn Quang tại phường Vườn Lài đang được TP HCM mời đầu tư xây dựng mới, với tổng vốn dự kiến hơn 8.413 tỷ đồng, nhằm thay thế 23 lô nhà ở xuống cấp lâu năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T17:49:12+07:00",
+      "fetched": "2026-05-01T02:15:59.845444+07:00"
+    },
+    {
+      "id": "60a6b94afb495a1342203ff05df202fa",
+      "title": "Giới trẻ phương Tây bám giảng đường để 'trú bão' thất nghiệp",
+      "link": "https://vnexpress.net/sinh-vien-phuong-tay-dua-nhau-hoc-thac-si-vi-so-that-nghiep-5068350.html",
+      "summary": "Weston-Edwards, 22 tuổi, cử nhân chính trị học lên thạc sĩ sau khi mất vị trí thực tập tại công ty du lịch vào tay một thạc sĩ Lịch sử.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T17:48:00+07:00",
+      "fetched": "2026-05-01T02:15:59.845629+07:00"
+    },
+    {
+      "id": "57c7d16dec387948d6289de1bf3d1b55",
+      "title": "Novaland lãi gần 10 tỷ đồng mỗi ngày",
+      "link": "https://vnexpress.net/novaland-lai-gan-10-ty-dong-moi-ngay-5068697.html",
+      "summary": "Quý đầu năm, lợi nhuận sau thuế của Novaland đạt 860 tỷ đồng, cải thiện mạnh so với khoản lỗ cùng kỳ, trung bình mỗi ngày lãi gần 10 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T17:34:51+07:00",
+      "fetched": "2026-05-01T02:15:59.845834+07:00"
+    },
+    {
+      "id": "57c7d16dec387948d6289de1bf3d1b55",
+      "title": "Novaland lãi gần 10 tỷ đồng mỗi ngày",
+      "link": "https://vnexpress.net/novaland-lai-gan-10-ty-dong-moi-ngay-5068697.html",
+      "summary": "Quý đầu năm, lợi nhuận sau thuế của Novaland đạt 860 tỷ đồng, cải thiện mạnh so với khoản lỗ cùng kỳ, trung bình mỗi ngày lãi gần 10 tỷ đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-30T17:34:51+07:00",
+      "fetched": "2026-05-01T02:16:07.002545+07:00"
+    },
+    {
+      "id": "43a07dbf46ae1b838aa76d3b96f3d852",
+      "title": "Du khách chen chân ngắm pháo hoa ven biển Cần Giờ",
+      "link": "https://vnexpress.net/du-khach-chen-chan-ngam-phao-hoa-ven-bien-can-gio-5068769.html",
+      "summary": "Hàng nghìn người đứng chật kín đại lộ Thời Đại tại Vinhomes Green Paradise, check-in cùng khoảnh khắc pháo hoa thắp sáng bầu trời Cần Giờ, đêm 30/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T17:25:00+07:00",
+      "fetched": "2026-05-01T02:15:59.845997+07:00"
+    },
+    {
+      "id": "b3cb97cee0863f5e6f4423b34bfbf0bb",
+      "title": "Kinh tế châu Âu đi ngang",
+      "link": "https://vnexpress.net/kinh-te-chau-au-di-ngang-5068740.html",
+      "summary": "Tăng trưởng GDP quý I của châu Âu tăng 0,1% so với quý IV/2025, được giới chuyên gia đánh giá là \"gây thất vọng\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T17:21:38+07:00",
+      "fetched": "2026-05-01T02:15:59.846155+07:00"
+    },
+    {
+      "id": "b3cb97cee0863f5e6f4423b34bfbf0bb",
+      "title": "Kinh tế châu Âu đi ngang",
+      "link": "https://vnexpress.net/kinh-te-chau-au-di-ngang-5068740.html",
+      "summary": "Tăng trưởng GDP quý I của châu Âu tăng 0,1% so với quý IV/2025, được giới chuyên gia đánh giá là \"gây thất vọng\".",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-30T17:21:38+07:00",
+      "fetched": "2026-05-01T02:16:07.002756+07:00"
     },
     {
       "id": "60d3feba170194ccc93dd949118d70b6",
