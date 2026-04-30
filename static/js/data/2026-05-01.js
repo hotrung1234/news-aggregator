@@ -1,6 +1,6 @@
 window.newsData_2026_05_01 = {
   "date": "2026-05-01",
-  "lastUpdated": "2026-05-01T02:16:11.607113+07:00",
+  "lastUpdated": "2026-05-01T03:57:40.397411+07:00",
   "articles": [
     {
       "id": "9382a89d8394e3eeddf28c15122eb094",
@@ -181,6 +181,16 @@ window.newsData_2026_05_01 = {
       "category": "Tổng hợp",
       "published": "2026-05-01T00:17:19.564727+07:00",
       "fetched": "2026-05-01T00:17:19.564966+07:00"
+    },
+    {
+      "id": "909dffa303dd66a8f96b362b714c55d2",
+      "title": "Kinh tế Mỹ tăng tốc",
+      "link": "https://vnexpress.net/kinh-te-my-tang-toc-5068751.html",
+      "summary": "Sau khi chậm lại vào cuối năm 2025, tăng trưởng GDP Mỹ tăng tốc trong quý I nhờ chi tiêu công phục hồi.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-04-30T20:05:36+07:00",
+      "fetched": "2026-05-01T03:57:36.462819+07:00"
     },
     {
       "id": "ce5b24467c636a4156796e5edc5f1e2b",
