@@ -1,7 +1,117 @@
 window.newsData_2026_04_30 = {
   "date": "2026-04-30",
-  "lastUpdated": "2026-04-30T20:48:10.340773+07:00",
+  "lastUpdated": "2026-04-30T22:45:46.566928+07:00",
   "articles": [
+    {
+      "id": "908c858c824a3e2d3243029fbf924df8",
+      "title": "Ông trùm tội phạm ra tranh cử nghị sĩ Ireland",
+      "link": "https://tuoitre.vn/ong-trum-toi-pham-ra-tranh-cu-nghi-si-ireland-20260430194611809.htm",
+      "summary": "\"Nhà sư\" Gerard Hutch, người từng bị tòa án Ireland xác định là thủ lĩnh gia tộc tội phạm khét tiếng ở Dublin, được xác nhận tranh cử nghị sĩ nước này lần hai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T22:45:37.945672+07:00",
+      "fetched": "2026-04-30T22:45:37.945759+07:00"
+    },
+    {
+      "id": "6d0991ebb5006f16aee1af14292b6326",
+      "title": "Nhìn lại Nghị quyết 188 sau một năm mở đường tăng tốc cho metro TP.HCM",
+      "link": "https://tuoitre.vn/nhin-lai-nghi-quyet-188-sau-mot-nam-mo-duong-tang-toc-cho-metro-tp-hcm-20260430191605526.htm",
+      "summary": "Hơn một năm sau khi Nghị quyết 188 được áp dụng (từ tháng 2-2025), hệ thống metro của TP.HCM chuyển động rõ hơn từ thủ tục đến các bước triển khai song song, những dự án đã đi nhanh hơn một cách trông thấy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T22:45:37.945571+07:00",
+      "fetched": "2026-04-30T22:45:37.945663+07:00"
+    },
+    {
+      "id": "3b16e2002a96946fa800b3bc0dd3485b",
+      "title": "Trung Quốc lần thứ 2 trao suất đặc cách dự 'siêu giải' cờ tướng cho Lại Lý Huynh",
+      "link": "https://tuoitre.vn/trung-quoc-lan-thu-2-trao-suat-dac-cach-du-sieu-giai-co-tuong-cho-lai-ly-huynh-20260430193920372.htm",
+      "summary": "Người hâm mộ cờ tướng Việt Nam đón tin vui lớn khi ban tổ chức Giải cờ tướng Kỳ Thành Bôi (Giải Trung Quốc - ASEAN Cup) 2026 đã chính thức trao suất đặc cách dự vòng chung kết cho Lại Lý Huynh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T22:45:37.945456+07:00",
+      "fetched": "2026-04-30T22:45:37.945561+07:00"
+    },
+    {
+      "id": "b159aa07ed1baa2010b0abdbf6069014",
+      "title": "Hết thời hạn, Phúc Sơn vẫn không đối thoại với khách hàng mua đất tại sân bay Nha Trang",
+      "link": "https://tuoitre.vn/het-thoi-han-phuc-son-van-khong-doi-thoai-voi-khach-hang-mua-dat-tai-san-bay-nha-trang-20260430193114222.htm",
+      "summary": "Theo kết luận cuộc họp với dân “góp vốn” mua đất dự án tại sân bay Nha Trang, lãnh đạo UBND tỉnh Khánh Hòa đề nghị Công ty CP Tập đoàn Phúc Sơn đối thoại với các nhà đầu tư trong tháng 4-2026, nhưng hết ngày 30-4, chủ dự án vẫn “làm thinh”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T22:45:37.945358+07:00",
+      "fetched": "2026-04-30T22:45:37.945447+07:00"
+    },
+    {
+      "id": "6021af01945b15b2c565c6982f7b9eb4",
+      "title": "Người cha dũng cảm lao xuống đường ray cứu con thoát chết trong gang tấc khi đoàn tàu chạy qua",
+      "link": "https://tuoitre.vn/nguoi-cha-dung-cam-lao-xuong-duong-ray-cuu-con-thoat-chet-trong-gang-tac-khi-doan-tau-chay-qua-20260430195752093.htm",
+      "summary": "Một người cha ở Bangladesh được nhiều người tán dương vì dũng cảm lao xuống đường ray để cứu con khi đoàn tàu chạy qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T22:45:37.945261+07:00",
+      "fetched": "2026-04-30T22:45:37.945349+07:00"
+    },
+    {
+      "id": "01e11d64ee7019008cac00c24b7791eb",
+      "title": "Sôi động Giải vô địch cờ vua các câu lạc bộ quốc gia 2026",
+      "link": "https://tuoitre.vn/soi-dong-giai-vo-dich-co-vua-cac-cau-lac-bo-quoc-gia-2026-20260430161354718.htm",
+      "summary": "Ngày 30-4, Giải vô địch cờ vua các câu lạc bộ quốc gia 2026 đã chính thức khai mạc ở TP.HCM. Giải đấu diễn ra ngày đầu tiên với không khí vô cùng sôi động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T22:45:37.945161+07:00",
+      "fetched": "2026-04-30T22:45:37.945252+07:00"
+    },
+    {
+      "id": "3ff895b2c709bc83a1e546d8ab0e4d9b",
+      "title": "Bí ẩn ‘ma ám’: khoa học chỉ ra thủ phạm bất ngờ",
+      "link": "https://tuoitre.vn/bi-an-ma-am-khoa-hoc-chi-ra-thu-pham-bat-ngo-20260428135417758.htm",
+      "summary": "Nghiên cứu cho thấy cảm giác ‘ma ám’ có thể do sóng hạ âm - âm thanh dưới ngưỡng nghe - gây căng thẳng, ảo giác mà con người không nhận ra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T22:45:37.945057+07:00",
+      "fetched": "2026-04-30T22:45:37.945152+07:00"
+    },
+    {
+      "id": "1bc1b8e0f6e70bc073598986768f6f97",
+      "title": "Gỡ vướng vật liệu cho dự án sân bay Cà Mau 2.400 tỉ",
+      "link": "https://tuoitre.vn/go-vuong-vat-lieu-cho-du-an-san-bay-ca-mau-2-400-ti-2026043020092756.htm",
+      "summary": "Ngày 30-4, Binh đoàn 12 (Tổng công ty Xây dựng Trường Sơn) phối hợp UBND tỉnh Cà Mau tổ chức lễ phát động đợt thi đua cao điểm “60 ngày đêm lao động quyết thắng” tại dự án mở rộng, nâng cấp Cảng hàng không Cà Mau.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T22:45:37.944934+07:00",
+      "fetched": "2026-04-30T22:45:37.945047+07:00"
+    },
+    {
+      "id": "c714b2a3f237dda8e7b4d601acf885d3",
+      "title": "Bóp còi xin vượt gây ồn ào, hai người đàn ông đánh nhau trên đường bị Công an TP.HCM bắt tạm giam",
+      "link": "https://tuoitre.vn/bop-coi-xin-vuot-gay-on-ao-hai-nguoi-dan-ong-danh-nhau-tren-duong-bi-cong-an-tp-hcm-bat-tam-giam-20260430210240576.htm",
+      "summary": "Vì bấm còi hối thúc xin vượt gây ồn ào, hai người xảy ra mâu thuẫn trên đường, cự cãi rồi đánh nhau gây náo loạn, Cơ quan Cảnh sát điều tra Công an TP.HCM đã khởi tố, bắt giữ cả hai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T22:45:37.944820+07:00",
+      "fetched": "2026-04-30T22:45:37.944924+07:00"
+    },
+    {
+      "id": "c40aa9d655a3626928b4fba2a321b706",
+      "title": "Pháo hoa rực sáng Vinhomes Green Paradise Cần Giờ chào đón các runner",
+      "link": "https://tuoitre.vn/phao-hoa-ruc-sang-vinhomes-green-paradise-can-gio-chao-don-cac-runner-20260430201106136.htm",
+      "summary": "Gần 5.000 runner và gia đình đã đổ về khu vô đô thị Vinhomes Green Paradise Cần Giờ để hoàn tất các thủ tục và tham gia các hoạt động trước giờ xuất phát.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T22:45:37.944695+07:00",
+      "fetched": "2026-04-30T22:45:37.944810+07:00"
+    },
+    {
+      "id": "ed77ca5e6960a26455617830ce9b7a64",
+      "title": "Israel chặn thuyền cứu trợ Gaza trên vùng biển quốc tế, nhiều nước phản đối",
+      "link": "https://tuoitre.vn/israel-chan-thuyen-cuu-tro-gaza-tren-vung-bien-quoc-te-nhieu-nuoc-phan-doi-20260430210204602.htm",
+      "summary": "Israel chặn và bắt giữ thủy thủ đoàn một đội tàu dân sự chở hàng viện trợ cho Dải Gaza, dù đội tàu này đang trên vùng biển quốc tế cách Gaza hàng trăm hải lý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T22:45:37.944442+07:00",
+      "fetched": "2026-04-30T22:45:37.944682+07:00"
+    },
     {
       "id": "af2dc6a027f518bc4e14fcd64bc307c8",
       "title": "Chính phủ kéo dài việc giảm thuế nhập khẩu xăng dầu về 0% đến hết 30-6",
@@ -301,6 +411,306 @@ window.newsData_2026_04_30 = {
       "category": "Tổng hợp",
       "published": "2026-04-30T17:03:41.037553+07:00",
       "fetched": "2026-04-30T17:03:41.037746+07:00"
+    },
+    {
+      "id": "d67031db7bd6d977fa4b23c0a160fb8f",
+      "title": "Ngắm pháo hoa rực sáng trên bầu trời TP.HCM đêm 30.4",
+      "link": "https://thanhnien.vn/ngam-phao-hoa-ruc-sang-tren-bau-troi-tphcm-dem-304-185260430222856757.htm",
+      "summary": "Pháo hoa rực sáng trên bầu trời TP.HCM đêm 30.4.2026, hàng nghìn người dân và du khách đã cùng hòa mình vào không khí kỷ niệm đầy tự hào, khi thành phố khoác lên mình vẻ lung linh, sống động trong ngày lễ lớn của đất nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T15:37:00+07:00",
+      "fetched": "2026-04-30T22:45:36.489449+07:00"
+    },
+    {
+      "id": "e56719b18c53a97ee192e87b2e0673d4",
+      "title": "Bộ trưởng Hegseth: Mỹ không sa lầy ở Iran",
+      "link": "https://vnexpress.net/bo-truong-hegseth-my-khong-sa-lay-o-iran-5068746.html",
+      "summary": "Bộ trưởng Quốc phòng Mỹ phản pháo phe Dân chủ trong phiên điều trần trước quốc hội, bác bỏ quan điểm rằng xung đột ở Iran là \"vũng lầy\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T15:36:50+07:00",
+      "fetched": "2026-04-30T22:45:32.927384+07:00"
+    },
+    {
+      "id": "e58239fd2f65a35f28e535c806c8c539",
+      "title": "Khách đổ xô du lịch biển ngày đầu nghỉ lễ 30/4",
+      "link": "https://vnexpress.net/khach-do-xo-du-lich-bien-ngay-dau-nghi-le-30-4-5068753.html",
+      "summary": "Nhiều điểm đến trên cả nước đón lượng khách cao gấp nhiều lần, đặc biệt tại các khu vực có bãi biển, đảo nhỏ trong ngày đầu tiên kỳ nghỉ lễ 30/4-1/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T15:30:11+07:00",
+      "fetched": "2026-04-30T22:45:32.927551+07:00"
+    },
+    {
+      "id": "af81a91dd26b12f6638901233efa7ab6",
+      "title": "Hà Nội gỡ lệnh cấm ô tô tải pickup chạy trong nội đô giờ cao điểm",
+      "link": "https://thanhnien.vn/ha-noi-go-lenh-cam-o-to-tai-pickup-chay-trong-noi-do-gio-cao-diem-185260430221005638.htm",
+      "summary": "UBND TP.Hà Nội đã sửa đổi, bổ sung quy định về thời gian hoạt động của các loại phương tiện trong phạm vi hạn chế, trong đó cho phép các loại xe ô tô tải pickup được hoạt động 24/24 giờ trong khu vực nội đô.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T15:27:00+07:00",
+      "fetched": "2026-04-30T22:45:36.489599+07:00"
+    },
+    {
+      "id": "f93730da49d5cfcff1372cf966db1b90",
+      "title": "Hà Nội cho phép xe bán tải hoạt động cả ngày",
+      "link": "https://vnexpress.net/ha-noi-cho-phep-xe-ban-tai-hoat-dong-ca-ngay-5068770.html",
+      "summary": "UBND TP Hà Nội vừa quyết định cho phép xe bán tải được phép hoạt động 24/24h trên địa bàn thành phố, thay vì chỉ chạy ngoài giờ cao điểm như trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T15:24:24+07:00",
+      "fetched": "2026-04-30T22:45:32.927692+07:00"
+    },
+    {
+      "id": "91d378bb09a18c3f6a1707891a4a106e",
+      "title": "TP.HCM rực sáng pháo hoa chào mừng 51 năm đất nước thống nhất",
+      "link": "https://thanhnien.vn/tphcm-ruc-sang-phao-hoa-chao-mung-51-nam-dat-nuoc-thong-nhat-185260430201431971.htm",
+      "summary": "Tối 30.4, hàng ngàn người dân và du khách đổ về khu vực trung tâm TP.HCM để chiêm ngưỡng màn pháo hoa chào mừng 51 năm đất nước thống nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T15:23:00+07:00",
+      "fetched": "2026-04-30T22:45:36.489731+07:00"
+    },
+    {
+      "id": "73db82894170814161ff539e9de089c3",
+      "title": "Pháo hoa rực sáng bầu trời TP HCM, Đồng Nai đêm 30/4",
+      "link": "https://vnexpress.net/phao-hoa-ruc-sang-bau-troi-tp-hcm-dong-nai-dem-30-4-5068748.html",
+      "summary": "Hàng nghìn người tại TP HCM và Đồng Nai đổ ra quảng trường, bờ sông, thưởng thức những màn pháo hoa rực sáng mừng 51 năm thống nhất đất nước và dấu mốc phát triển mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T15:21:06+07:00",
+      "fetched": "2026-04-30T22:45:32.927831+07:00"
+    },
+    {
+      "id": "e7584568843a899375382e0b1c11c83c",
+      "title": "Mỹ nhân 'Giày thủy tinh' được khen tươi như hoa",
+      "link": "https://vnexpress.net/my-nhan-giay-thuy-tinh-duoc-khen-tuoi-nhu-hoa-5068530.html",
+      "summary": "Minh tinh Kim Hyun Joo - 49 tuổi, đóng \"Giày thủy tinh\" - diện đa phong cách trong bộ ảnh mới, được fan khen sắc vóc, thần thái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T15:00:00+07:00",
+      "fetched": "2026-04-30T22:45:32.927966+07:00"
+    },
+    {
+      "id": "f324698308aacae73d8e0a85560bda09",
+      "title": "Lãnh tụ tối cao Iran ra tuyên bố thách thức Mỹ",
+      "link": "https://thanhnien.vn/lanh-tu-toi-cao-iran-ra-tuyen-bo-thach-thuc-my-185260430213842439.htm",
+      "summary": "Lãnh tụ tối cao Iran tuyên bố quốc gia vùng Vịnh sẽ bảo vệ \"năng lực hạt nhân và tên lửa\" của mình như một tài sản quốc gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T14:39:00+07:00",
+      "fetched": "2026-04-30T22:45:36.489853+07:00"
+    },
+    {
+      "id": "bc3d130c66ba6e182154052a528e5e98",
+      "title": "Sát hại bạn trai vì không được đưa đi ăn nhà hàng",
+      "link": "https://vnexpress.net/sat-hai-ban-trai-vi-khong-duoc-dua-di-an-nha-hang-5068763.html",
+      "summary": "Mikayla Kloth, 27 tuổi, khai đâm vào ngực Lukas Rosch, 25 tuổi, vì cô muốn ra ngoài ăn tối nhưng anh này lại mang đùi gà, gia vị đến nấu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T14:37:55+07:00",
+      "fetched": "2026-04-30T22:45:32.928119+07:00"
+    },
+    {
+      "id": "d0242dc6deca9f8563dee87f5c61379f",
+      "title": "Drone Hezbollah tập kích trận địa pháo Israel, 12 lính bị thương",
+      "link": "https://vnexpress.net/drone-hezbollah-tap-kich-tran-dia-phao-israel-12-linh-bi-thuong-5068752.html",
+      "summary": "Quân đội Israel xác nhận một trận địa pháo binh bị drone của Hezbollah tập kích, khiến một xe quân sự bốc cháy và 12 binh sĩ bị thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T14:34:20+07:00",
+      "fetched": "2026-04-30T22:45:32.928251+07:00"
+    },
+    {
+      "id": "d0242dc6deca9f8563dee87f5c61379f",
+      "title": "Drone Hezbollah tập kích trận địa pháo Israel, 12 lính bị thương",
+      "link": "https://vnexpress.net/drone-hezbollah-tap-kich-tran-dia-phao-israel-12-linh-bi-thuong-5068752.html",
+      "summary": "Quân đội Israel xác nhận một trận địa pháo binh bị drone của Hezbollah tập kích, khiến một xe quân sự bốc cháy và 12 binh sĩ bị thương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-30T14:34:20+07:00",
+      "fetched": "2026-04-30T22:45:39.945467+07:00"
+    },
+    {
+      "id": "845ddc07ef112fdf1e9acf56e5ef15de",
+      "title": "Nguồn gốc bất ngờ của mã QR",
+      "link": "https://thanhnien.vn/nguon-goc-bat-ngo-cua-ma-qr-185260429231859985.htm",
+      "summary": "Hàng tỉ người đang dùng mã QR mỗi ngày, nhưng mấy ai biết nó vốn là... một bàn cờ?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T14:33:00+07:00",
+      "fetched": "2026-04-30T22:45:36.489972+07:00"
+    },
+    {
+      "id": "48f25c33184adeebd6cea485fff1bb62",
+      "title": "Sasco tổ chức loạt hoạt động phục vụ khách dịp lễ 30/4",
+      "link": "https://vnexpress.net/sasco-to-chuc-loat-hoat-dong-phuc-vu-khach-dip-le-30-4-5068762.html",
+      "summary": "Trong dịp cao điểm lễ Giỗ tổ Hùng Vương và 30/4-1/5, Sasco triển khai nhiều hoạt động tại Sân bay Tân Sơn Nhất, hướng đến nâng cao trải nghiệm và quảng bá văn hóa Việt tới hành khách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T14:30:00+07:00",
+      "fetched": "2026-04-30T22:45:32.928383+07:00"
+    },
+    {
+      "id": "81e4ed8cd20247433524fd947843e485",
+      "title": "Diễn viên Huỳnh Kiến An: U.70 vẫn mê nghề, hôn nhân viên mãn bên vợ đẹp",
+      "link": "https://thanhnien.vn/dien-vien-huynh-kien-an-u70-van-me-nghe-hon-nhan-vien-man-ben-vo-dep-185260429164018553.htm",
+      "summary": "Ở tuổi U.70, diễn viên Huỳnh Kiến An vẫn miệt mài với nghệ thuật, giữ trọn đam mê. Không chỉ ghi dấu với loạt vai phản diện, ông còn khiến nhiều người ngưỡng mộ bởi cuộc sống hôn nhân viên mãn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T14:26:00+07:00",
+      "fetched": "2026-04-30T22:45:36.490114+07:00"
+    },
+    {
+      "id": "9810332fdc2b157968fb6fa71fd873ca",
+      "title": "Runner cắm trại qua đêm trước chặng chạy xuyên rừng Cần Giờ",
+      "link": "https://vnexpress.net/runner-cam-trai-qua-dem-truoc-chang-chay-xuyen-rung-can-gio-5068747.html",
+      "summary": "Nhiều runner đến Cần Giờ từ sớm, dựng lều chờ VnExpress Marathon Green Paradise khởi tranh khi các khách sạn, cơ sở lưu trú ven biển kín khách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T14:24:59+07:00",
+      "fetched": "2026-04-30T22:45:32.928524+07:00"
+    },
+    {
+      "id": "0b1cad7c6d08abdfa900603de5a15477",
+      "title": "Nữ ca sĩ bỏ việc văn phòng đi hát, chật vật với cát sê 300.000 đồng",
+      "link": "https://thanhnien.vn/nu-ca-si-bo-viec-van-phong-di-hat-chat-vat-voi-cat-se-300000-dong-185260430182220934.htm",
+      "summary": "Trần Thủy Tiên trở thành quán quân 'Tỏa sáng sao đôi 2026'. Đằng sau thành tích đó là một hành trình miệt mài với nhiều chông gai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T14:21:00+07:00",
+      "fetched": "2026-04-30T22:45:36.490234+07:00"
+    },
+    {
+      "id": "d66b465a89ebe4e7ab79c6ff3df3fc94",
+      "title": "Kéo dài giảm thuế nhập khẩu xăng dầu về 0% đến hết ngày 30.6",
+      "link": "https://thanhnien.vn/keo-dai-giam-thue-nhap-khau-xang-dau-ve-0-den-het-ngay-306-185260430211333802.htm",
+      "summary": "Ngày 30.4, Chính phủ ban hành Nghị quyết số 25 về việc kéo dài thời gian áp dụng ưu đãi thuế nhập khẩu một số mặt hàng xăng dầu, nguyên liệu sản xuất xăng dầu...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T14:19:00+07:00",
+      "fetched": "2026-04-30T22:45:36.490352+07:00"
+    },
+    {
+      "id": "64d1b3f2232e380808f72681877f0821",
+      "title": "Đàn em tiết lộ tính cách của Lý Thu Thảo thời đóng phim 'Ngọc trong đá'",
+      "link": "https://thanhnien.vn/dan-em-tiet-lo-tinh-cach-cua-ly-thu-thao-thoi-dong-phim-ngoc-trong-da-185260430185756484.htm",
+      "summary": "Việt Trinh chia sẻ thời điểm đóng phim 'Ngọc trong đá', Lý Thu Thảo dù đã là hoa hậu nổi tiếng song vẫn giữ sự thân thiện, sẵn sàng hỗ trợ cô trong quá trình làm việc cùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T14:18:00+07:00",
+      "fetched": "2026-04-30T22:45:36.490474+07:00"
+    },
+    {
+      "id": "4c9563842eb50050a410314be06e8ba7",
+      "title": "Triệt phá đường dây 326 công ty 'ma': Hợp thức hóa hóa đơn khống 3.800 tỉ đồng",
+      "link": "https://thanhnien.vn/triet-pha-duong-day-326-cong-ty-ma-hop-thuc-hoa-hoa-don-khong-3800-ti-dong-185260430211241048.htm",
+      "summary": "Công an TP.HCM triệt phá đường dây 326 công ty 'ma' do Lê Văn Hiền cầm đầu, mua bán hàng chục ngàn hóa đơn khống, hợp thức hóa dòng tiền hơn 3.800 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T14:15:00+07:00",
+      "fetched": "2026-04-30T22:45:36.490588+07:00"
+    },
+    {
+      "id": "5d322ed1ab196b2f9a297c81c6f599aa",
+      "title": "Nga tuyên bố tiếp tục hiện diện quân sự ở Mali",
+      "link": "https://vnexpress.net/nga-tuyen-bo-tiep-tuc-hien-dien-quan-su-o-mali-5068721.html",
+      "summary": "Nga bác bỏ lời kêu gọi rút quân từ phiến quân Tuareg ở Mali, tuyên bố lực lượng của họ sẽ tiếp tục hiện diện tại quốc gia này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T14:11:47+07:00",
+      "fetched": "2026-04-30T22:45:32.928650+07:00"
+    },
+    {
+      "id": "5d322ed1ab196b2f9a297c81c6f599aa",
+      "title": "Nga tuyên bố tiếp tục hiện diện quân sự ở Mali",
+      "link": "https://vnexpress.net/nga-tuyen-bo-tiep-tuc-hien-dien-quan-su-o-mali-5068721.html",
+      "summary": "Nga bác bỏ lời kêu gọi rút quân từ phiến quân Tuareg ở Mali, tuyên bố lực lượng của họ sẽ tiếp tục hiện diện tại quốc gia này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-30T14:11:47+07:00",
+      "fetched": "2026-04-30T22:45:39.945625+07:00"
+    },
+    {
+      "id": "d5fd563f3a8843f90bb8f0cbe03aa65b",
+      "title": "Ngọc Sơn ngẫu hứng khoe vũ đạo ở tuổi U.60",
+      "link": "https://thanhnien.vn/ngoc-son-ngau-hung-khoe-vu-dao-o-tuoi-u60-18526043019461628.htm",
+      "summary": "Trong một đêm nhạc ở Bắc Ninh, bên cạnh những màn trình diễn máu lửa, ca sĩ Ngọc Sơn gây chú ý khi bí mật tổ chức sinh nhật cho Phương Thanh trước đông đảo khán giả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T14:11:00+07:00",
+      "fetched": "2026-04-30T22:45:36.490703+07:00"
+    },
+    {
+      "id": "1901113335470ffe43ecd5f7b0c40b1c",
+      "title": "Diễn viên bị đồn 'bóng' vì chuyên giả gái, sống hạnh phúc bên vợ và 5 con",
+      "link": "https://thanhnien.vn/dien-vien-bi-don-bong-vi-chuyen-gia-gai-song-hanh-phuc-ben-vo-va-5-con-185260429163839351.htm",
+      "summary": "Dù đã 'về chung nhà' và có 5 con với bà xã kém tuổi, Duy Khương vẫn không tránh khỏi những bàn tán về giới tính khi thường xuyên đảm nhận các vai giả gái. Nam diễn viên cho biết anh và vợ không bận tâm đến những lời đồn, bởi điều quan trọng nhất vẫn là sự tin tưởng và đồng hành trong hôn nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T14:07:00+07:00",
+      "fetched": "2026-04-30T22:45:36.490832+07:00"
+    },
+    {
+      "id": "b46f7f08f0ee8f5cbfa222c042d7c807",
+      "title": "Mainoo gia hạn với Man Utd, tăng 500% lương",
+      "link": "https://vnexpress.net/mainoo-gia-han-voi-man-utd-tang-500-luong-5068742.html",
+      "summary": "Man Utd thông báo gia hạn hợp đồng với tiền vệ 21 tuổi Kobbie Mainoo đến năm 2031, kèm mức lương tăng lên 150.000 bảng (202.000 USD) mỗi tuần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T14:06:21+07:00",
+      "fetched": "2026-04-30T22:45:32.928778+07:00"
+    },
+    {
+      "id": "b46f7f08f0ee8f5cbfa222c042d7c807",
+      "title": "Mainoo gia hạn với Man Utd, tăng 500% lương",
+      "link": "https://vnexpress.net/mainoo-gia-han-voi-man-utd-tang-500-luong-5068742.html",
+      "summary": "Man Utd thông báo gia hạn hợp đồng với tiền vệ 21 tuổi Kobbie Mainoo đến năm 2031, kèm mức lương tăng lên 150.000 bảng (202.000 USD) mỗi tuần.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-04-30T14:06:21+07:00",
+      "fetched": "2026-04-30T22:45:46.556069+07:00"
+    },
+    {
+      "id": "440c6a62a334691d96bd604d5e4689e4",
+      "title": "Ai là nữ tướng đầu tiên của Quân đội nhân dân Việt Nam?",
+      "link": "https://vnexpress.net/ai-la-nu-tuong-dau-tien-cua-quan-doi-nhan-dan-viet-nam-5068714.html",
+      "summary": "Bà là nữ tướng đầu tiên của Quân đội nhân dân Việt Nam, theo lời của Chủ tịch Hồ Chí Minh là \"Cả thế giới chỉ nước ta có vị tướng quân gái như vậy\". Bạn có biết bà là ai?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T14:00:00+07:00",
+      "fetched": "2026-04-30T22:45:32.928900+07:00"
+    },
+    {
+      "id": "eed0a66115b728298547f7a5c7e34af1",
+      "title": "Khám phá những tính năng tiện lợi của USB-C",
+      "link": "https://thanhnien.vn/kham-pha-nhung-tinh-nang-tien-loi-cua-usb-c-185260424175152971.htm",
+      "summary": "USB-C đã trở thành một phần không thể thiếu trong cuộc sống hiện đại, nhưng nhiều người chỉ sử dụng nó như một cổng sạc hoặc truyền dữ liệu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T14:00:00+07:00",
+      "fetched": "2026-04-30T22:45:36.490951+07:00"
+    },
+    {
+      "id": "b6632a05f753b7c6baf3caeb38de6d6a",
+      "title": "Ông Medvedev hoài nghi vai trò trung gian hòa giải của Mỹ",
+      "link": "https://vnexpress.net/ong-medvedev-hoai-nghi-vai-tro-trung-gian-hoa-giai-cua-my-5068712.html",
+      "summary": "Phó chủ tịch Hội đồng An ninh Nga cho rằng Mỹ khó lòng đóng vai trò trung gian hiệu quả trong các cuộc xung đột trên thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-04-30T13:59:59+07:00",
+      "fetched": "2026-04-30T22:45:32.929032+07:00"
+    },
+    {
+      "id": "b6632a05f753b7c6baf3caeb38de6d6a",
+      "title": "Ông Medvedev hoài nghi vai trò trung gian hòa giải của Mỹ",
+      "link": "https://vnexpress.net/ong-medvedev-hoai-nghi-vai-tro-trung-gian-hoa-giai-cua-my-5068712.html",
+      "summary": "Phó chủ tịch Hội đồng An ninh Nga cho rằng Mỹ khó lòng đóng vai trò trung gian hiệu quả trong các cuộc xung đột trên thế giới.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-04-30T13:59:59+07:00",
+      "fetched": "2026-04-30T22:45:39.945762+07:00"
     },
     {
       "id": "cfe80e4d3d7495a2f2912f6983542abb",
