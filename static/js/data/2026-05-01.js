@@ -1,7 +1,157 @@
 window.newsData_2026_05_01 = {
   "date": "2026-05-01",
-  "lastUpdated": "2026-05-01T16:43:12.363506+07:00",
+  "lastUpdated": "2026-05-01T18:04:16.957195+07:00",
   "articles": [
+    {
+      "id": "77a8e11c76882235b4d95dfa5e95de89",
+      "title": "Giá dầu có thể lập đỉnh mới 200 USD/thùng khi thị trường lo thiếu hụt kéo dài",
+      "link": "https://tuoitre.vn/gia-dau-co-the-lap-dinh-moi-200-usd-thung-khi-thi-truong-lo-thieu-hut-keo-dai-20260501162455549.htm",
+      "summary": "Giá dầu thế giới đang đứng trước nguy cơ tăng vọt lên mức kỷ lục mới khi căng thẳng Mỹ - Iran tiếp tục gây gián đoạn nguồn cung.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T18:04:07.147202+07:00",
+      "fetched": "2026-05-01T18:04:07.147289+07:00"
+    },
+    {
+      "id": "eae1bbd5e2fdc739b0f635e6a0e860b7",
+      "title": "'Con AI', robot: nhân sự mới của doanh nghiệp",
+      "link": "https://tuoitre.vn/con-ai-robot-nhan-su-moi-cua-doanh-nghiep-20260427142404665.htm",
+      "summary": "Chuyển đổi số không còn là một \"từ khóa\" thời thượng hay một lựa chọn mang tính bổ trợ. Đối với cộng đồng doanh nghiệp Việt Nam hiện nay, đó đã trở thành cuộc đua sinh tồn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T18:04:07.147107+07:00",
+      "fetched": "2026-05-01T18:04:07.147194+07:00"
+    },
+    {
+      "id": "29f0c8c34efe219e19f39d42a3ec1d38",
+      "title": "Ca ngộ độc bánh mì ở Quảng Trị tăng lên 64 người, đình chỉ cơ sở",
+      "link": "https://tuoitre.vn/ca-ngo-doc-banh-mi-o-quang-tri-tang-len-64-nguoi-dinh-chi-co-so-20260501162439715.htm",
+      "summary": "Số bệnh nhân nghi ngộ độc thực phẩm do ăn bánh mì tại xã miền núi Quảng Trị tăng thêm 18 người, cơ sở bánh mì liên quan bị tạm đình chỉ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T18:04:07.147012+07:00",
+      "fetched": "2026-05-01T18:04:07.147099+07:00"
+    },
+    {
+      "id": "67f41b2cfd82c4bee638f2338e4747b9",
+      "title": "5.000 runner xuyên rừng, chạm biển, Vinhomes Green Paradise bừng sức sống sau 1 năm khởi công",
+      "link": "https://tuoitre.vn/5-000-runner-xuyen-rung-cham-bien-vinhomes-green-paradise-bung-suc-song-sau-1-nam-khoi-cong-20260501164828839.htm",
+      "summary": "Bàn chân ‘đi race’ chuyển động cùng sự thay đổi của ‘kỳ quan đô thị’ Vinhomes Green Paradise Cần Giờ hiện lên ngày một rõ nét ở cửa ngõ đông nam TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T18:04:07.146918+07:00",
+      "fetched": "2026-05-01T18:04:07.147004+07:00"
+    },
+    {
+      "id": "05e9c1f37aa5380aa9df3b832a82108b",
+      "title": "Làm du lịch đúng cách, ngôi làng ở Quảng Ngãi đón cả ngàn du khách ghé chơi dịp lễ",
+      "link": "https://tuoitre.vn/lam-du-lich-dung-cach-ngoi-lang-o-quang-ngai-don-ca-ngan-du-khach-ghe-choi-dip-le-20260501145320409.htm",
+      "summary": "Người dân làng Bình Thành, xã Phước Giang, tỉnh Quảng Ngãi tận dụng cánh đồng quê, cùng những món ăn dân dã tổ chức lễ hội du lịch, thu hút cả ngàn khách mỗi đêm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T18:04:07.146824+07:00",
+      "fetched": "2026-05-01T18:04:07.146909+07:00"
+    },
+    {
+      "id": "3d0ed80848a6c88841e90cfeeeda86bf",
+      "title": "Xe điện Hyundai Ioniq 5 có bản nâng cấp: Tăng dung lượng pin, tinh chỉnh nhẹ thiết kế",
+      "link": "https://tuoitre.vn/xe-dien-hyundai-ioniq-5-co-ban-nang-cap-tang-dung-luong-pin-tinh-chinh-nhe-thiet-ke-20260501113449922.htm",
+      "summary": "Mẫu SUV điện Hyundai Ioniq 5 bước sang phiên bản mới với các nâng cấp đồng bộ về trang bị, tiện ích và an toàn, đồng thời cải thiện hiệu suất vận hành thông qua bộ pin dung lượng lớn hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T18:04:07.146729+07:00",
+      "fetched": "2026-05-01T18:04:07.146816+07:00"
+    },
+    {
+      "id": "9a4bb9f8730ed270c1daa8a1adc89a71",
+      "title": "Từ Hà Nội vào Quảng Trị tắm biển, cha cứu con bị sóng cuốn rồi mất tích",
+      "link": "https://tuoitre.vn/tu-ha-noi-vao-quang-tri-tam-bien-cha-cuu-con-bi-song-cuon-roi-mat-tich-20260501165139193.htm",
+      "summary": "Hai cha con ở Hà Nội đến tắm biển ở xã Vĩnh Hoàng (Quảng Trị) thì người con bị sóng cuốn. Người cha phát hiện, bơi ra đẩy được con vào bờ rồi mất tích.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T18:04:07.146632+07:00",
+      "fetched": "2026-05-01T18:04:07.146721+07:00"
+    },
+    {
+      "id": "f73d58434ca489dfb413f37870f89b8a",
+      "title": "Ukraine điều 'binh sĩ' robot ra chiến trường",
+      "link": "https://tuoitre.vn/ukraine-dieu-binh-si-robot-ra-chien-truong-20260501165422447.htm",
+      "summary": "Vũ khí điều khiển từ xa đã được sử dụng từ lâu, nhưng AI đang tiến gần đến giai đoạn có thể tham gia quyết định trên chiến trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T18:04:07.146533+07:00",
+      "fetched": "2026-05-01T18:04:07.146623+07:00"
+    },
+    {
+      "id": "dc560aad80c670c79726c937bf7e00ae",
+      "title": "Tạm giữ người đàn ông cho học sinh vay lãi nặng",
+      "link": "https://tuoitre.vn/tam-giu-nguoi-dan-ong-cho-hoc-sinh-vay-lai-nang-20260501164035846.htm",
+      "summary": "Công an tỉnh Quảng Ninh đã tạm giữ người đàn ông cho học sinh vay lãi nặng từ 3.000 đến 5.000 đồng/triệu/ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T18:04:07.146432+07:00",
+      "fetched": "2026-05-01T18:04:07.146524+07:00"
+    },
+    {
+      "id": "792fb8fd5206d75832260519724ae287",
+      "title": "'Ông lớn' 40.000 cửa hàng tiện lợi Trung Quốc đặt chân vào Việt Nam",
+      "link": "https://tuoitre.vn/ong-lon-40-000-cua-hang-tien-loi-trung-quoc-dat-chan-vao-viet-nam-20260501171346276.htm",
+      "summary": "Meiyijia, chuỗi cửa hàng tiện lợi lớn nhất Trung Quốc, đang chính thức mở rộng sang thị trường tiêu dùng Đông Nam Á, với các cửa hàng đầu tiên tại Việt Nam và Malaysia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T18:04:07.146310+07:00",
+      "fetched": "2026-05-01T18:04:07.146422+07:00"
+    },
+    {
+      "id": "7fd17b0f78678fa8e6f14f2bbff8ed3b",
+      "title": "Chị em Tú Sương, Quế Trân liên tục đối đầu",
+      "link": "https://tuoitre.vn/chi-em-tu-suong-que-tran-lien-tuc-doi-dau-20260501170529756.htm",
+      "summary": "Trong vở Đức Tả quân Lê Văn Duyệt - Người mang 9 án tử ra mắt khán giả dịp lễ năm nay, chị em Tú Sương, Quế Trân đã có màn đối đầu cực gắt khiến khán giả cải lương đánh giá là một trong những lớp hay của vở.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T18:04:07.146206+07:00",
+      "fetched": "2026-05-01T18:04:07.146301+07:00"
+    },
+    {
+      "id": "6821a0d695e59bc7289bfba8342b1614",
+      "title": "TP.HCM: người dân đổ xô coi xiếc, chơi lễ ở phố thị lẫn vùng ven xanh mát",
+      "link": "https://tuoitre.vn/tp-hcm-nguoi-dan-do-xo-coi-xiec-choi-le-o-pho-thi-lan-vung-ven-xanh-mat-20260501164808107.htm",
+      "summary": "Hàng loạt điểm vui chơi tại TP.HCM hút đông đảo du khách trong và ngoài nước vào dịp lễ lớn, với chuỗi trải nghiệm đa dạng như xem xiếc, biểu diễn nghệ thuật hay mua sắm, thưởng thức ẩm thực... kết hợp không gian đô thị và thiên nhiên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T18:04:07.146093+07:00",
+      "fetched": "2026-05-01T18:04:07.146197+07:00"
+    },
+    {
+      "id": "bda52e5ea1e60f4b964f40875c1ab81d",
+      "title": "Kiến tạo nhà ở xã hội hiện đại theo mô hình TOD ở TP.HCM",
+      "link": "https://tuoitre.vn/kien-tao-nha-o-xa-hoi-hien-dai-theo-mo-hinh-tod-o-tp-hcm-20260425160941131.htm",
+      "summary": "TP.HCM đang quy hoạch nhiều nhóm quỹ đất cho nhu cầu phát triển nhà ở xã hội. Trong đó gắn quỹ đất với quy hoạch phát triển TOD ở TP là một xu thế nhằm kiến tạo nhà ở xã hội bền vững trong tổng thể phát triển đô thị hiện đại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T18:04:07.145979+07:00",
+      "fetched": "2026-05-01T18:04:07.146083+07:00"
+    },
+    {
+      "id": "b780ce10adbaf0c9d077eeab49320e6b",
+      "title": "Chào nhau giữa cõi cà phê",
+      "link": "https://tuoitre.vn/chao-nhau-giua-coi-ca-phe-20260426143407916.htm",
+      "summary": "Liên hợp quốc vừa công nhận có Ngày Cà phê thế giới cho thấy sự quan tâm và ủng hộ rộng rãi với cà phê, sinh kế bền vững cho hàng triệu người trên thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T18:04:07.145854+07:00",
+      "fetched": "2026-05-01T18:04:07.145969+07:00"
+    },
+    {
+      "id": "bd0b8bdf213df0ba5a152b24added21b",
+      "title": "Mỹ hành quyết tử tù 70 tuổi sau gần 50 năm chờ thi hành án",
+      "link": "https://tuoitre.vn/my-hanh-quyet-tu-tu-70-tuoi-sau-gan-50-nam-cho-thi-hanh-an-20260501172544269.htm",
+      "summary": "Mỹ đã tiến hành hai vụ hành quyết trong ngày 30-4, trong đó có một tử tù tại bang Florida đã chờ thi hành án gần nửa thế kỷ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T18:04:07.145612+07:00",
+      "fetched": "2026-05-01T18:04:07.145841+07:00"
+    },
     {
       "id": "eaa88b81b78f2a20bbfd1a9e7bff7891",
       "title": "Thông xe nhánh cầu vượt N3 thuộc nút giao An Phú",
@@ -303,6 +453,246 @@ window.newsData_2026_05_01 = {
       "fetched": "2026-05-01T13:34:02.275571+07:00"
     },
     {
+      "id": "a38f6a7e208fbb2a2eda892a74c9e87d",
+      "title": "U.17 Việt Nam đến Tây Á rất an toàn, VFF lo mọi chi phí phát sinh: Khát khao lấy vé World Cup",
+      "link": "https://thanhnien.vn/u17-viet-nam-den-tay-a-rat-an-toan-vff-lo-moi-chi-phi-phat-sinh-khat-khao-lay-ve-world-cup-185260501175017125.htm",
+      "summary": "Sau hành trình di chuyển từ Hà Nội khởi hành lúc 2 giờ sáng 1.5, nối chuyến tại Doha, đội tuyển U.17 Việt Nam đã đặt chân tới Jeddah - Ả Rập Xê Út vào lúc 10 giờ theo giờ địa phương cùng ngày (14 giờ theo giờ Việt Nam), chính thức bước vào giai đoạn chuẩn bị cuối cùng cho vòng chung kết U.17 châu Á ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T11:03:00+07:00",
+      "fetched": "2026-05-01T18:04:06.045470+07:00"
+    },
+    {
+      "id": "21a4c1ab659cf34b5525a284e7803189",
+      "title": "Pháo hoa rực sáng từ tòa tháp 55 tầng tại TP HCM tối 30/4",
+      "link": "https://vnexpress.net/phao-hoa-ruc-sang-tu-toa-thap-55-tang-tai-tp-hcm-toi-30-4-5068950.html",
+      "summary": "Tòa tháp Saigon Marina IFC dùng hơn 90 giàn pháo và hàng nghìn ống phun hoa, hỏa thuật các loại, kết hợp trình diễn LED đa sắc, hút hàng nghìn người tham quan, check-in vào đêm 30/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T11:00:00+07:00",
+      "fetched": "2026-05-01T18:04:02.556701+07:00"
+    },
+    {
+      "id": "336a6f6724e62970c7d0b338b6a850f4",
+      "title": "Ở bên bồ hơn 4 năm vì dục vọng, giờ tôi biết mình yêu em thật lòng",
+      "link": "https://vnexpress.net/o-ben-bo-hon-4-nam-vi-duc-vong-gio-toi-biet-minh-yeu-em-that-long-5068891.html",
+      "summary": "Em cũng không bao giờ nghĩ người níu kéo mối quan hệ này lại là tôi, nhưng em bảo không còn tình cảm với tôi nữa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T11:00:00+07:00",
+      "fetched": "2026-05-01T18:04:02.556862+07:00"
+    },
+    {
+      "id": "31eed89f0da6b249f6a89318ca9ea13e",
+      "title": "Đã quan hệ tình dục nhiều năm, tiêm HPV còn tác dụng không?",
+      "link": "https://vnexpress.net/da-quan-he-tinh-duc-nhieu-nam-tiem-hpv-con-tac-dung-khong-5068358.html",
+      "summary": "Tôi trải qua nhiều mối tình và đã quan hệ tình dục nhiều năm thì việc tiêm vaccine HPV có còn hiệu quả không? (Thái An, 33 tuổi, Hải Phòng)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T11:00:00+07:00",
+      "fetched": "2026-05-01T18:04:02.557007+07:00"
+    },
+    {
+      "id": "baa11c1c80e681ba53195e030c2d37bc",
+      "title": "Đội của cố vấn Park Hang-seo thắng ngược ĐH Văn Hiến: Bám đuổi quyết liệt Trường Tươi Đồng Nai",
+      "link": "https://thanhnien.vn/doi-cua-co-van-park-hang-seo-thang-nguoc-dh-van-hien-bam-duoi-quyet-liet-truong-tuoi-dong-nai-185260501175717049.htm",
+      "summary": "Chiều 1.5, ở vòng 17 giải hạng nhất 2025-2026, CLB Bắc Ninh của cố vấn Park Hang-seo bị đội ĐH Văn Hiến dẫn trước 1 bàn nhưng vẫn thi đấu đầy bản lĩnh để thắng ngược 2-1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T10:58:00+07:00",
+      "fetched": "2026-05-01T18:04:06.045619+07:00"
+    },
+    {
+      "id": "171ed5022d1274787a7e4c3bc72355d9",
+      "title": "Báo Thái Lan đau đớn vì đội nhà bị U.17 nữ Việt Nam chia điểm, HLV Wiwasukhu chỉ thẳng điểm yếu",
+      "link": "https://thanhnien.vn/bao-thai-lan-dau-don-vi-doi-nha-bi-u17-nu-viet-nam-chia-diem-hlv-wiwasukhu-chi-thang-diem-yeu-185260501174012965.htm",
+      "summary": "Truyền thông Thái Lan không giấu được sự tiếc nuối khi đội tuyển nữ U.17 nước này để tuột chiến thắng trước U.17 Việt Nam ở trận ra quân bảng A giải vô địch U.17 nữ châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T10:45:00+07:00",
+      "fetched": "2026-05-01T18:04:06.045749+07:00"
+    },
+    {
+      "id": "ac16ad177b18751506149c3caddc5037",
+      "title": "Cà Mau bắt giữ đối tượng bị truy nã về hành di hiếp dâm",
+      "link": "https://thanhnien.vn/ca-mau-bat-giu-doi-tuong-bi-truy-na-ve-hanh-di-hiep-dam-185260501170114115.htm",
+      "summary": "Sau hơn một tháng trốn truy nã về hành vi hiếp dâm, Lê Văn Sò (38 tuổi, ở tỉnh Cà Mau) bị công an bắt giữ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T10:45:00+07:00",
+      "fetched": "2026-05-01T18:04:06.045874+07:00"
+    },
+    {
+      "id": "bbfbf965086dee4970c818072dab2c52",
+      "title": "Một du khách Hà Nội mất tích khi cứu con bị sóng biển cuốn",
+      "link": "https://thanhnien.vn/mot-du-khach-ha-noi-mat-tich-khi-cuu-con-bi-song-bien-cuon-185260501165713719.htm",
+      "summary": "Sau khi bơi ra cứu con bị sóng cuốn khi đang tắm biển ở Quảng Trị, ông D.H.N (du khách Hà Nội) cũng gặp nạn, mất tích.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T10:43:00+07:00",
+      "fetched": "2026-05-01T18:04:06.045995+07:00"
+    },
+    {
+      "id": "b8ab9bf9351206eb591ae5a140493559",
+      "title": "Tôi sinh hai con 'cực nhưng đáng'",
+      "link": "https://vnexpress.net/toi-sinh-hai-con-cuc-nhung-dang-5068932.html",
+      "summary": "Sau tất cả những đắn đo và trải nghiệm, tôi thấy may mắn vì mình đã không dừng lại ở việc sinh một con.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T10:42:37+07:00",
+      "fetched": "2026-05-01T18:04:02.557138+07:00"
+    },
+    {
+      "id": "94c09a93c36881632e37d653e851fcf5",
+      "title": "Đà Nẵng: Ô tô bốc cháy khi đang đổ xăng, 2 người tử vong trong xe",
+      "link": "https://thanhnien.vn/da-nang-o-to-boc-chay-khi-dang-do-xang-2-nguoi-tu-vong-trong-xe-185260501170251985.htm",
+      "summary": "Một vụ cháy ô tô xảy ra ngay tại trạm xăng trên quốc lộ 1 ở thành phố Đà Nẵng khiến nhiều người hoảng loạn. Dù được dập lửa kịp thời, vẫn có 2 nạn nhân mắc kẹt trong xe và tử vong, ô tô bị thiêu rụi một phần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T10:39:00+07:00",
+      "fetched": "2026-05-01T18:04:06.046117+07:00"
+    },
+    {
+      "id": "901d877ce5f230667b1c32d9566ab925",
+      "title": "Tay đua trẻ tử vong sau sự cố mất lái ở giải đua mô tô ở Cần Thơ",
+      "link": "https://thanhnien.vn/tay-dua-tre-tu-vong-sau-su-co-mat-lai-o-giai-dua-mo-to-o-can-tho-185260501173114977.htm",
+      "summary": "Tai nạn nghiêm trọng tại giải đua mô tô Cúp vô địch quốc gia 2026 ở TP.Cần Thơ khiến tay đua Đinh Hoàng Quốc Hiếu tử vong sau khi gặp sự cố mất lái ở vòng chung kết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T10:36:00+07:00",
+      "fetched": "2026-05-01T18:04:06.046240+07:00"
+    },
+    {
+      "id": "f6c0ba81566f1806c0724611f6b710ea",
+      "title": "Triển lãm Tổ quốc bình yên: 'Chạm' vào lịch sử bằng công nghệ và trái tim",
+      "link": "https://thanhnien.vn/trien-lam-to-quoc-binh-yen-cham-vao-lich-su-bang-cong-nghe-va-trai-tim-185260501170259469.htm",
+      "summary": "Giữa dòng người tấp nập dưới chân cầu Rồng dịp lễ 30.4 - 1.5, triển lãm 'Tổ quốc bình yên' thu hút đông đảo người xem với hành trình 80 năm An ninh nhân dân được tái hiện bằng công nghệ hiện đại, mang đến những trải nghiệm 'chạm' vào lịch sử đầy cảm xúc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T10:36:00+07:00",
+      "fetched": "2026-05-01T18:04:06.046362+07:00"
+    },
+    {
+      "id": "7648631ea85b29ee5b808fc11b9d67c8",
+      "title": "Người dân Hà Nội đổ đến công viên cắm trại",
+      "link": "https://vnexpress.net/nguoi-dan-ha-noi-do-den-cong-vien-cam-trai-5068915.html",
+      "summary": "Thay vì đi xa, nhiều gia đình chọn đến công viên để cắm trại, tận hưởng không gian xanh và thư giãn, tránh cảnh đông đúc dịp nghỉ lễ 30/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T10:30:17+07:00",
+      "fetched": "2026-05-01T18:04:02.557268+07:00"
+    },
+    {
+      "id": "c9c76004c82492ef3d8c3279965a8c67",
+      "title": "Người phụ nữ cướp giật nhiều vàng của chủ tiệm",
+      "link": "https://vnexpress.net/nguoi-phu-nu-cuop-giat-nhieu-vang-cua-chu-tiem-5068942.html",
+      "summary": "Người phụ nữ vào tiệm vàng ở xã Đức Thọ giả vờ hỏi mua hàng rồi cướp nhiều trang sức, sau đó được người đàn ông chở đi bằng xe máy, chiều 1/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T10:28:51+07:00",
+      "fetched": "2026-05-01T18:04:02.557409+07:00"
+    },
+    {
+      "id": "acc44b49cd821c35088ba528199b4a39",
+      "title": "Điểm tin 17h: Chính phủ bãi bỏ 184 thủ tục hành chính và 890 điều kiện kinh doanh | Israel nêu khả năng sớm nối lại chiến dịch tấn công Iran",
+      "link": "https://vnexpress.net/diem-tin-17h-chinh-phu-bai-bo-184-thu-tuc-hanh-chinh-va-890-dieu-kien-kinh-doanh-israel-neu-kha-nang-som-noi-lai-chien-dich-tan-cong-iran-5068943.html",
+      "summary": "Chính sách nổi bật có hiệu lực từ tháng 5; Nhân viên đường sắt bị tàu tông tử vong...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T10:25:12+07:00",
+      "fetched": "2026-05-01T18:04:02.557541+07:00"
+    },
+    {
+      "id": "fef6de2d8af4a129bbecf32edef9ef0e",
+      "title": "Tay đua môtô tông hàng rào, tử nạn tại giải vô địch quốc gia",
+      "link": "https://vnexpress.net/tay-dua-moto-tong-hang-rao-tu-nan-tai-giai-vo-dich-quoc-gia-5068937.html",
+      "summary": "Khi vào khúc cua, tay đua 29 tuổi điều khiển chiếc Exciter bị trượt dài, tông vào hàng rào và tử vong tại vòng chung kết giải đua môtô quốc gia diễn ra ở sân vận động Cần Thơ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T10:03:43+07:00",
+      "fetched": "2026-05-01T18:04:02.557666+07:00"
+    },
+    {
+      "id": "125423ee60cbce80ce066854de4aba81",
+      "title": "Xổ số miền Nam ngày 1 tháng 5: Vé trúng độc đắc đài Bình Dương xuất hiện",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-1-thang-5-ve-trung-doc-dac-dai-binh-duong-xuat-hien-185260501165854791.htm",
+      "summary": "Sau khi có kết quả xổ số miền Nam ngày 1 tháng 5, một đại lý vé số ở TP.HCM thông báo đã bán trúng 16 vé độc đắc đài Bình Dương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T10:01:00+07:00",
+      "fetched": "2026-05-01T18:04:06.046504+07:00"
+    },
+    {
+      "id": "fb21ecaa7efa44d85fd77781f4044048",
+      "title": "UAV hơn 200 triệu USD của Mỹ hư hại khi đang bay",
+      "link": "https://vnexpress.net/uav-hon-200-trieu-usd-cua-my-hu-hai-khi-dang-bay-5068911.html",
+      "summary": "UAV trinh sát MQ-4C Mỹ bị hư hại ở trên không song đã hạ cánh an toàn, là sự cố nghiêm trọng thứ hai trong chưa đầy một tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T10:00:37+07:00",
+      "fetched": "2026-05-01T18:04:02.557794+07:00"
+    },
+    {
+      "id": "fb21ecaa7efa44d85fd77781f4044048",
+      "title": "UAV hơn 200 triệu USD của Mỹ hư hại khi đang bay",
+      "link": "https://vnexpress.net/uav-hon-200-trieu-usd-cua-my-hu-hai-khi-dang-bay-5068911.html",
+      "summary": "UAV trinh sát MQ-4C Mỹ bị hư hại ở trên không song đã hạ cánh an toàn, là sự cố nghiêm trọng thứ hai trong chưa đầy một tháng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-01T10:00:37+07:00",
+      "fetched": "2026-05-01T18:04:09.200205+07:00"
+    },
+    {
+      "id": "98830dac78020d8f46396e7a93f782ff",
+      "title": "PVOIL bán xăng sinh học E10 từ giữa tháng 5",
+      "link": "https://vnexpress.net/pvoil-ban-xang-sinh-hoc-e10-tu-giua-thang-5-5068933.html",
+      "summary": "Tổng công ty Dầu Việt Nam - CTCP (PVOIL) cho biết đã hoàn tất chuẩn bị và sẽ triển khai kinh doanh xăng sinh học E10 trên phạm vi toàn quốc từ ngày 15/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T10:00:00+07:00",
+      "fetched": "2026-05-01T18:04:02.557913+07:00"
+    },
+    {
+      "id": "a6d5e3da962faf7c9b462767a410c586",
+      "title": "Toàn cảnh 17h: Gia Lai có ca ‘vi khuẩn ăn thịt người’ | Bất cập người nước ngoài thuê xe máy",
+      "link": "https://thanhnien.vn/toan-canh-17h-gia-lai-co-ca-vi-khuan-an-thit-nguoi-bat-cap-nguoi-nuoc-ngoai-thue-xe-may-185260501163507714.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T10:00:00+07:00",
+      "fetched": "2026-05-01T18:04:06.046620+07:00"
+    },
+    {
+      "id": "5e9ec7f9e66e0957b94bbbdcad2e0cdd",
+      "title": "Mỹ đổ 700 tỉ USD vào AI gây áp lực lớn lên Trung Quốc",
+      "link": "https://thanhnien.vn/my-do-700-ti-usd-vao-ai-gay-ap-luc-lon-len-trung-quoc-185260501162712998.htm",
+      "summary": "Các công ty công nghệ lớn của Mỹ đang chi khoảng 700 tỉ USD cho vốn đầu tư vào trí tuệ nhân tạo (AI), cao gấp nhiều lần so với khoảng 105 tỉ USD tại Trung Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T09:52:00+07:00",
+      "fetched": "2026-05-01T18:04:06.046735+07:00"
+    },
+    {
+      "id": "0713a580ff7d943d8dd17ebccb71b988",
+      "title": "Gia đình ba người thương vong sau va chạm với ô tô",
+      "link": "https://vnexpress.net/gia-dinh-ba-nguoi-thuong-vong-sau-va-cham-voi-o-to-5068923.html",
+      "summary": "Vụ tai nạn nghiêm trọng xảy ra vào trưa ngày 1/5 khiến một người đàn ông tử vong tại chỗ, vợ và con trai bị thương nặng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T09:50:06+07:00",
+      "fetched": "2026-05-01T18:04:02.558276+07:00"
+    },
+    {
+      "id": "c2b39db2e049a488988ffc326cfe1983",
+      "title": "Học phí Đại học Công nghệ Thông tin tăng cao nhất 40%",
+      "link": "https://vnexpress.net/lo-trinh-tang-hoc-phi-dai-hoc-cong-nghe-thong-tin-tu-2026-den-2030-chi-tiet-5068928.html",
+      "summary": "Học phí năm 2026 của trường Đại học Công nghệ Thông tin (UIT) dự kiến khoảng 41,8-140 triệu đồng một năm, tăng 9-40% so với năm ngoái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T09:49:42+07:00",
+      "fetched": "2026-05-01T18:04:02.558533+07:00"
+    },
+    {
       "id": "818e22e0083beaabb3dc609fe083d341",
       "title": "Tin tức thế giới 1-5: Ông Trump nói Iran 'rất muốn' đạt thỏa thuận; Mỹ - Venezuela nối lại đường bay",
       "link": "https://tuoitre.vn/tin-tuc-the-gioi-1-5-ong-trump-noi-iran-rat-muon-dat-thoa-thuan-my-venezuela-noi-lai-duong-bay-20260501061944495.htm",
@@ -451,6 +841,36 @@ window.newsData_2026_05_01 = {
       "category": "Tổng hợp",
       "published": "2026-05-01T09:47:14.644467+07:00",
       "fetched": "2026-05-01T09:47:14.644685+07:00"
+    },
+    {
+      "id": "f77006435b621b5aa46f0ee34904b926",
+      "title": "Vụ ngộ độc nghi do ăn bánh mì ở Quảng Trị: Thêm 18 bệnh nhân nhập viện",
+      "link": "https://thanhnien.vn/vu-ngo-doc-nghi-do-an-banh-mi-o-quang-tri-them-18-benh-nhan-nhap-vien-18526050116103413.htm",
+      "summary": "Liên quan đến vụ hàng chục bệnh nhân nhập viện do ngộ độc nghi ăn bánh mì tại Quảng Trị, đến chiều nay 1.5 đã ghi nhận thêm 18 bệnh nhân có triệu chứng tương tự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T09:46:00+07:00",
+      "fetched": "2026-05-01T18:04:06.046848+07:00"
+    },
+    {
+      "id": "a0fc228ada112be03a781a19bba9365d",
+      "title": "Cứu 4 du khách Hà Nội bị nước cuốn xa bờ ở biển Cửa Tùng",
+      "link": "https://thanhnien.vn/cuu-4-du-khach-ha-noi-bi-nuoc-cuon-xa-bo-o-bien-cua-tung-185260501162619546.htm",
+      "summary": "Sau hơn nửa giờ đồng hồ vật lộn với sóng lớn, các nhân viên trong đội cứu hộ tại bãi tắm Cửa Tùng (Quảng Trị) cùng người dân đã cứu sống 4 du khách bị sóng cuốn xa bờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T09:43:00+07:00",
+      "fetched": "2026-05-01T18:04:06.046960+07:00"
+    },
+    {
+      "id": "7b7c47f0f7503601b6b9d90c6f9bfb10",
+      "title": "Biển Sầm Sơn đông nghịt khách",
+      "link": "https://vnexpress.net/bien-sam-son-dong-nghit-khach-5068761.html",
+      "summary": "Hàng nghìn du khách từ các nơi đổ về biển Sầm Sơn tắm, vui chơi trong dịp nghỉ lễ 30/4-1/5, nhiều tuyến đường quanh khu vực bị ùn tắc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T09:42:51+07:00",
+      "fetched": "2026-05-01T18:04:02.558756+07:00"
     },
     {
       "id": "8f2d9d2fe7c8faa341dbb87f318dc092",
