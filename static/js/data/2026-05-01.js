@@ -1,7 +1,17 @@
 window.newsData_2026_05_01 = {
   "date": "2026-05-01",
-  "lastUpdated": "2026-05-01T21:52:51.233910+07:00",
+  "lastUpdated": "2026-05-01T23:55:16.781951+07:00",
   "articles": [
+    {
+      "id": "2cbd97b8604b665beeb02c33b72fa993",
+      "title": "Iran gửi đề xuất đàm phán mới với Mỹ",
+      "link": "https://tuoitre.vn/iran-gui-de-xuat-dam-phan-moi-voi-my-20260501214149967.htm",
+      "summary": "Chính quyền Iran đã gửi đề xuất mới nhất về đàm phán với Mỹ cho Pakistan, trong bối cảnh có lo ngại về đợt tấn công mới của Washington.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T23:55:09.955076+07:00",
+      "fetched": "2026-05-01T23:55:09.955289+07:00"
+    },
     {
       "id": "685fe220418e6df7dc576b18d50d1b82",
       "title": "Vinhomes Green Paradise Cần Giờ khiến TP.HCM ‘mơ lớn' về du lịch thể thao, tại sao không?",
@@ -573,6 +583,196 @@ window.newsData_2026_05_01 = {
       "fetched": "2026-05-01T16:43:04.947658+07:00"
     },
     {
+      "id": "3b41fd3d39e1398cdb39f204a37f5b67",
+      "title": "Ông Trump tăng thuế nhập khẩu với ôtô châu Âu lên 25%",
+      "link": "https://vnexpress.net/ong-trump-tang-thue-nhap-khau-voi-oto-chau-au-len-25-5068996.html",
+      "summary": "Tổng thống Mỹ tuyên bố sẽ nâng thuế nhập khẩu với xe hơi từ Liên minh châu ÂU (EU) vì khối này không tuân thủ thỏa thuận thương mại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T16:34:17+07:00",
+      "fetched": "2026-05-01T23:55:05.172450+07:00"
+    },
+    {
+      "id": "3b41fd3d39e1398cdb39f204a37f5b67",
+      "title": "Ông Trump tăng thuế nhập khẩu với ôtô châu Âu lên 25%",
+      "link": "https://vnexpress.net/ong-trump-tang-thue-nhap-khau-voi-oto-chau-au-len-25-5068996.html",
+      "summary": "Tổng thống Mỹ tuyên bố sẽ nâng thuế nhập khẩu với xe hơi từ Liên minh châu ÂU (EU) vì khối này không tuân thủ thỏa thuận thương mại.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-01T16:34:17+07:00",
+      "fetched": "2026-05-01T23:55:12.655094+07:00"
+    },
+    {
+      "id": "9b2984cbea91f37a561b690e762b933d",
+      "title": "Siêu tàu sân bay Mỹ 'đã rời Trung Đông'",
+      "link": "https://vnexpress.net/sieu-tau-san-bay-my-da-roi-trung-dong-5068978.html",
+      "summary": "Tàu sân bay Ford trị giá gần 13 tỷ USD của Mỹ đã rút khỏi Trung Đông sau khi tham gia chiến dịch tập kích Iran, theo AFP.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T16:30:18+07:00",
+      "fetched": "2026-05-01T23:55:05.172629+07:00"
+    },
+    {
+      "id": "5e40e9ed10c90a55e61e2052acaf0c7f",
+      "title": "Iran gửi đề xuất đàm phán mới cho Mỹ",
+      "link": "https://vnexpress.net/iran-gui-de-xuat-dam-phan-moi-cho-my-5068979.html",
+      "summary": "Giới chức Iran chuyển đề xuất đàm phán mới cho Mỹ thông qua Pakistan trong lúc các cuộc thảo luận giữa hai bên đang lâm vào bế tắc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T16:17:58+07:00",
+      "fetched": "2026-05-01T23:55:05.172795+07:00"
+    },
+    {
+      "id": "5e40e9ed10c90a55e61e2052acaf0c7f",
+      "title": "Iran gửi đề xuất đàm phán mới cho Mỹ",
+      "link": "https://vnexpress.net/iran-gui-de-xuat-dam-phan-moi-cho-my-5068979.html",
+      "summary": "Giới chức Iran chuyển đề xuất đàm phán mới cho Mỹ thông qua Pakistan trong lúc các cuộc thảo luận giữa hai bên đang lâm vào bế tắc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-01T16:17:58+07:00",
+      "fetched": "2026-05-01T23:55:11.307974+07:00"
+    },
+    {
+      "id": "04ff990e7c2e94e3e4bf133047fb80e5",
+      "title": "Bố tử vong khi cứu con giữa sóng biển",
+      "link": "https://vnexpress.net/bo-tu-vong-khi-cuu-con-giua-song-bien-5068955.html",
+      "summary": "Người đàn ông 46 tuổi lao xuống biển cứu con, đưa được con vào gần bờ nhưng bản thân bị dòng nước cuốn ra xa và tử vong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T15:53:06+07:00",
+      "fetched": "2026-05-01T23:55:05.172981+07:00"
+    },
+    {
+      "id": "dcc896c53bf66ffade7066eac4578e17",
+      "title": "Nam Định 2-0 CA TP HCM",
+      "link": "https://vnexpress.net/nam-dinh-2-0-ca-tp-hcm-5068990.html",
+      "summary": "Vắng Xuân Son, nhưng Nam Định vẫn thắng trận đá sớm vòng 21 V-League 2025-2026 chiều 1/5, nhờ các bàn của ngoại binh Bremer và tiền đạo Văn Vĩ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T15:51:10+07:00",
+      "fetched": "2026-05-01T23:55:05.173152+07:00"
+    },
+    {
+      "id": "3e20047fcc40c45905e5a4b592909feb",
+      "title": "Hà Nội FC 2-1 Đà Nẵng",
+      "link": "https://vnexpress.net/ha-noi-fc-2-1-da-nang-5068988.html",
+      "summary": "Hai cú đánh đầu thành bàn của Anh Tiếp và Xuân Mạnh giúp Hà Nội FC giành trọn ba điểm trong trận đá sớm vòng 21 V-League 2025-2026 tối 1/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T15:42:31+07:00",
+      "fetched": "2026-05-01T23:55:05.173315+07:00"
+    },
+    {
+      "id": "4e56c162cb2447cd29a2d3dcd2f95d24",
+      "title": "Cận cảnh giải cứu cụ ông 92 tuổi khỏi đám cháy",
+      "link": "https://thanhnien.vn/can-canh-giai-cuu-cu-ong-92-tuoi-khoi-dam-chay-185260501213056605.htm",
+      "summary": "Một vụ cháy nhà ở kết hợp kinh doanh xảy ra ngay khu vực trung tâm TP.HCM trong đêm 30.4, lực lượng Cảnh sát PCCC đã kịp thời khống chế đám cháy và giải cứu an toàn 4 người mắc kẹt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T15:34:00+07:00",
+      "fetched": "2026-05-01T23:55:08.918470+07:00"
+    },
+    {
+      "id": "c652ffecfdc1e28c8f8f7b1fde73377a",
+      "title": "Thủ tướng Nhật Bản Takaichi Sanae đến Hà Nội, bắt đầu thăm chính thức Việt Nam",
+      "link": "https://thanhnien.vn/thu-tuong-nhat-ban-takaichi-sanae-den-ha-noi-bat-dau-tham-chinh-thuc-viet-nam-185260501221838034.htm",
+      "summary": "Chiều tối 1.5, Thủ tướng Nhật Bản Takaichi Sanae đến Hà Nội, bắt đầu chuyến thăm chính thức Việt Nam từ ngày 1 - 3.5, theo lời mời của Thủ tướng Lê Minh Hưng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T15:29:00+07:00",
+      "fetched": "2026-05-01T23:55:08.918635+07:00"
+    },
+    {
+      "id": "38995eedf47519db5c9a3e1bea0f0b83",
+      "title": "Cầu thủ bị đuổi vì húc đầu ở V-League",
+      "link": "https://vnexpress.net/cau-thu-bi-duoi-vi-huc-dau-o-v-league-5068985.html",
+      "summary": "Hậu vệ Vũ Tiến Long lĩnh thẻ đỏ sau khi tranh cãi rồi húc đầu vào Đỗ Phi Long ở phút bù thứ 5 trận Hà Nội FC thắng Đà Nẵng 2-1 tại vòng 21 V-League 2025-2026 ngày 1/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T15:25:12+07:00",
+      "fetched": "2026-05-01T23:55:05.173485+07:00"
+    },
+    {
+      "id": "38995eedf47519db5c9a3e1bea0f0b83",
+      "title": "Cầu thủ bị đuổi vì húc đầu ở V-League",
+      "link": "https://vnexpress.net/cau-thu-bi-duoi-vi-huc-dau-o-v-league-5068985.html",
+      "summary": "Hậu vệ Vũ Tiến Long lĩnh thẻ đỏ sau khi tranh cãi rồi húc đầu vào Đỗ Phi Long ở phút bù thứ 5 trận Hà Nội FC thắng Đà Nẵng 2-1 tại vòng 21 V-League 2025-2026 ngày 1/5.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-01T15:25:12+07:00",
+      "fetched": "2026-05-01T23:55:16.770632+07:00"
+    },
+    {
+      "id": "4f0969a6ccd4093ab497a09d7a2da50a",
+      "title": "Những kỷ lục World Cup chờ Messi xô đổ",
+      "link": "https://thanhnien.vn/nhung-ky-luc-world-cup-cho-messi-xo-do-185260501213858096.htm",
+      "summary": "Ở tuổi 39, Lionel Messi vẫn còn cơ hội tiếp tục phá vỡ nhiều kỷ lục lịch sử tại World Cup 2026, qua đó gia tăng di sản vĩ đại trong sự nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T15:13:00+07:00",
+      "fetched": "2026-05-01T23:55:08.918790+07:00"
+    },
+    {
+      "id": "66d552a38b29a9884a930f8a7a2066d5",
+      "title": "CLB Hà Nội thắng kịch tính Đà Nẵng, tạm vượt Ninh Bình để chiếm tốp 3",
+      "link": "https://thanhnien.vn/clb-ha-noi-thang-kich-tinh-da-nang-tam-vuot-ninh-binh-de-chiem-top-3-185260501221020141.htm",
+      "summary": "CLB Hà Nội vượt qua Đà Nẵng 2-1 trong trận đấu nhiều tranh cãi và kịch tính, qua đó tiếp tục củng cố vị trí trong tốp 4 V-League.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T15:12:00+07:00",
+      "fetched": "2026-05-01T23:55:08.918958+07:00"
+    },
+    {
+      "id": "266c26f48d22bb3d623e5b98a0b59cac",
+      "title": "Highlight CLB Hà Nội 2-1 Đà Nẵng: Chiến thắng nhọc nhằn",
+      "link": "https://thanhnien.vn/highlight-clb-ha-noi-2-1-da-nang-chien-thang-nhoc-nhan-18526050122063442.htm",
+      "summary": "CLB Hà Nội giành chiến thắng 2-1 trước Đà Nẵng sau trận đấu nhiều khó khăn, qua đó tiếp tục bám trụ trong nhóm tốp 4 V-League.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T15:06:00+07:00",
+      "fetched": "2026-05-01T23:55:08.919117+07:00"
+    },
+    {
+      "id": "eb61afd26663bae8f4d35104f005db13",
+      "title": "Những người Mỹ siết hầu bao vì nỗi lo mất việc",
+      "link": "https://vnexpress.net/nhung-nguoi-my-siet-hau-bao-vi-noi-lo-mat-viec-5066926.html",
+      "summary": "Dù các báo cáo kinh tế vẫn tích cực, nhiều người Mỹ đang thắt chặt chi tiêu do nỗi lo thất nghiệp, phản ánh khác biệt giữa số liệu và cảm nhận thực tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T14:54:44+07:00",
+      "fetched": "2026-05-01T23:55:05.173652+07:00"
+    },
+    {
+      "id": "eb61afd26663bae8f4d35104f005db13",
+      "title": "Những người Mỹ siết hầu bao vì nỗi lo mất việc",
+      "link": "https://vnexpress.net/nhung-nguoi-my-siet-hau-bao-vi-noi-lo-mat-viec-5066926.html",
+      "summary": "Dù các báo cáo kinh tế vẫn tích cực, nhiều người Mỹ đang thắt chặt chi tiêu do nỗi lo thất nghiệp, phản ánh khác biệt giữa số liệu và cảm nhận thực tế.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-01T14:54:44+07:00",
+      "fetched": "2026-05-01T23:55:11.308154+07:00"
+    },
+    {
+      "id": "04baa2078642a984e93cac79250a48bb",
+      "title": "Tàu hỏa đâm vào ôtô tại Indonesia, 4 người chết",
+      "link": "https://vnexpress.net/tau-hoa-dam-vao-oto-tai-indonesia-4-nguoi-chet-5068969.html",
+      "summary": "4 người thiệt mạng khi tàu hỏa đâm phải ôtô ở Indonesia, trong điều kiện thời tiết bất lợi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T14:53:17+07:00",
+      "fetched": "2026-05-01T23:55:05.173813+07:00"
+    },
+    {
+      "id": "04baa2078642a984e93cac79250a48bb",
+      "title": "Tàu hỏa đâm vào ôtô tại Indonesia, 4 người chết",
+      "link": "https://vnexpress.net/tau-hoa-dam-vao-oto-tai-indonesia-4-nguoi-chet-5068969.html",
+      "summary": "4 người thiệt mạng khi tàu hỏa đâm phải ôtô ở Indonesia, trong điều kiện thời tiết bất lợi.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-01T14:53:17+07:00",
+      "fetched": "2026-05-01T23:55:11.308314+07:00"
+    },
+    {
       "id": "a2532542dd368a8a5c929f992dfd73e4",
       "title": "TP.HCM: Giám đốc người Hàn Quốc mất tích khi chèo thuyền sup ở hồ Đá Đen",
       "link": "https://thanhnien.vn/tphcm-giam-doc-nguoi-han-quoc-mat-tich-khi-cheo-thuyen-sup-o-ho-da-den-185260501204718682.htm",
@@ -601,6 +801,16 @@ window.newsData_2026_05_01 = {
       "category": "Tổng hợp",
       "published": "2026-05-01T14:30:58+07:00",
       "fetched": "2026-05-01T21:52:36.805775+07:00"
+    },
+    {
+      "id": "c28ae69f8d8af6216473e06fc987e4b4",
+      "title": "Đôi nam nữ cướp giật nhiều vàng của chủ tiệm bị bắt",
+      "link": "https://vnexpress.net/doi-nam-nu-cuop-giat-nhieu-vang-cua-chu-tiem-bi-bat-5068976.html",
+      "summary": "Đôi nam nữ bị bắt sau hơn 5 tiếng vào tiệm vàng ở xã Đức Thọ, vờ mua hàng rồi cướp nhiều dây chuyền, sau đó lái xe máy tẩu thoát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-01T14:30:58+07:00",
+      "fetched": "2026-05-01T23:55:05.173990+07:00"
     },
     {
       "id": "523bb12c88f1e1a2a3c39e303525eed8",
