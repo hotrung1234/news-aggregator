@@ -1,6 +1,6 @@
 window.newsData_2026_05_02 = {
   "date": "2026-05-02",
-  "lastUpdated": "2026-05-02T21:43:11.159217+07:00",
+  "lastUpdated": "2026-05-02T23:42:38.153582+07:00",
   "articles": [
     {
       "id": "250d18ed6668fb0714dd525707968806",
@@ -453,6 +453,26 @@ window.newsData_2026_05_02 = {
       "fetched": "2026-05-02T17:48:31.501696+07:00"
     },
     {
+      "id": "067d1fd4cf753e14454698c4e2170345",
+      "title": "Thủ tướng Takaichi: Việt - Nhật sẽ xây dựng hệ thống dự trữ dầu khu vực",
+      "link": "https://vnexpress.net/thu-tuong-takaichi-viet-nhat-se-xay-dung-he-thong-du-tru-dau-khu-vuc-5069160.html",
+      "summary": "Thủ tướng Takaichi Sanae phát biểu chính sách tại Đại học Quốc gia Hà Nội, cho biết Nhật sẽ hỗ trợ Việt Nam về an ninh năng lượng, trong đó có xây dựng hệ thống dự trữ dầu khu vực cũng như phát triển các nguồn năng lượng mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T16:03:39+07:00",
+      "fetched": "2026-05-02T23:42:27.083850+07:00"
+    },
+    {
+      "id": "067d1fd4cf753e14454698c4e2170345",
+      "title": "Thủ tướng Takaichi: Việt - Nhật sẽ xây dựng hệ thống dự trữ dầu khu vực",
+      "link": "https://vnexpress.net/thu-tuong-takaichi-viet-nhat-se-xay-dung-he-thong-du-tru-dau-khu-vuc-5069160.html",
+      "summary": "Thủ tướng Takaichi Sanae phát biểu chính sách tại Đại học Quốc gia Hà Nội, cho biết Nhật sẽ hỗ trợ Việt Nam về an ninh năng lượng, trong đó có xây dựng hệ thống dự trữ dầu khu vực cũng như phát triển các nguồn năng lượng mới.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-02T16:03:39+07:00",
+      "fetched": "2026-05-02T23:42:32.279379+07:00"
+    },
+    {
       "id": "355536cd6f6fd266fc18cf36eb4de843",
       "title": "Chìa khóa hiện thực - khát vọng tăng trưởng",
       "link": "https://tuoitre.vn/chia-khoa-hien-thuc-khat-vong-tang-truong-20260427134852464.htm",
@@ -601,6 +621,126 @@ window.newsData_2026_05_02 = {
       "category": "Tổng hợp",
       "published": "2026-05-02T16:02:52.705812+07:00",
       "fetched": "2026-05-02T16:02:52.706040+07:00"
+    },
+    {
+      "id": "ea60086e70300c1e7abd5ae3d20f8cce",
+      "title": "Che giấu 835 tỷ đồng bán kim cương, túi Hermes qua mạng",
+      "link": "https://vnexpress.net/che-giau-835-ty-dong-ban-kim-cuong-tui-hermes-qua-mang-5069206.html",
+      "summary": "Trong hơn 5 năm bán kim cương, túi xách, đồng hồ Hermes qua mạng, Nguyễn Thị Thu Hường bị cáo buộc che giấu 835 tỷ đồng doanh thu để trốn thuế 12,5 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T15:58:36+07:00",
+      "fetched": "2026-05-02T23:42:27.084029+07:00"
+    },
+    {
+      "id": "abe905cfad2758ca5062ab47071ea46a",
+      "title": "Trung Quốc ngăn chặn lệnh cấm vận của Mỹ đối với 5 công ty",
+      "link": "https://thanhnien.vn/trung-quoc-ngan-chan-lenh-cam-van-cua-my-doi-voi-5-cong-ty-185260502225055643.htm",
+      "summary": "Bộ Thương mại Trung Quốc ngày 2.5 thông báo đã ban hành lệnh cấm để ngăn chặn các lệnh cấm vận của Mỹ đối với 5 công ty Trung Quốc bị cáo buộc mua dầu của Iran, theo Tân Hoa xã.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T15:57:00+07:00",
+      "fetched": "2026-05-02T23:42:29.847372+07:00"
+    },
+    {
+      "id": "5ea4587ea713f4cbf98355d7e1979003",
+      "title": "Tàu dầu bị cướp ngoài khơi Yemen",
+      "link": "https://vnexpress.net/tau-dau-bi-cuop-ngoai-khoi-yemen-5069205.html",
+      "summary": "Những kẻ tấn công chưa rõ danh tính đã cướp một tàu chở dầu ngoài khơi Yemen, trên vịnh Aden, rồi điều khiển con tàu hướng về phía Somalia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T15:49:45+07:00",
+      "fetched": "2026-05-02T23:42:27.084200+07:00"
+    },
+    {
+      "id": "5ea4587ea713f4cbf98355d7e1979003",
+      "title": "Tàu dầu bị cướp ngoài khơi Yemen",
+      "link": "https://vnexpress.net/tau-dau-bi-cuop-ngoai-khoi-yemen-5069205.html",
+      "summary": "Những kẻ tấn công chưa rõ danh tính đã cướp một tàu chở dầu ngoài khơi Yemen, trên vịnh Aden, rồi điều khiển con tàu hướng về phía Somalia.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-02T15:49:45+07:00",
+      "fetched": "2026-05-02T23:42:32.279553+07:00"
+    },
+    {
+      "id": "8e8ae3a2262f14d519530b229d3bbf91",
+      "title": "Trường Tươi Đồng Nai thắng đậm Thanh niên TP.HCM 6-0, vững vàng ngôi đầu",
+      "link": "https://thanhnien.vn/truong-tuoi-dong-nai-thang-dam-thanh-nien-tphcm-6-0-vung-vang-ngoi-dau-18526050221534209.htm",
+      "summary": "Trường Tươi Đồng Nai thể hiện sức mạnh vượt trội khi đánh bại Thanh niên TP.HCM với tỷ số đậm, qua đó tiếp tục giữ vững vị trí dẫn đầu giải hạng nhất quốc gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T15:27:00+07:00",
+      "fetched": "2026-05-02T23:42:29.847540+07:00"
+    },
+    {
+      "id": "9f0eabda82079b3b44f855c55810d252",
+      "title": "400 drone xếp hình sân bay Long Thành chào mừng Đồng Nai lên thành phố",
+      "link": "https://thanhnien.vn/400-drone-xep-hinh-san-bay-long-thanh-chao-mung-dong-nai-len-thanh-pho-185260502205710036.htm",
+      "summary": "400 drone xếp hình sân bay Long Thành, thành phố bên sông, biểu tượng chú nai, chim hạc… chào mừng Đồng Nai lên thành phố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T15:24:00+07:00",
+      "fetched": "2026-05-02T23:42:29.847727+07:00"
+    },
+    {
+      "id": "c111e2acabe5faf4391170aab9bae723",
+      "title": "Đồng Nai tiến gần vé lên V-League",
+      "link": "https://vnexpress.net/dong-nai-tien-gan-ve-len-v-league-5069197.html",
+      "summary": "Đánh bại Thanh niên TP HCM 6-0 tối 2/5, CLB Trường tươi Đồng Nai chuẩn bị giành vé thăng hạng V-League 2026-2027.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T15:13:36+07:00",
+      "fetched": "2026-05-02T23:42:27.084358+07:00"
+    },
+    {
+      "id": "c111e2acabe5faf4391170aab9bae723",
+      "title": "Đồng Nai tiến gần vé lên V-League",
+      "link": "https://vnexpress.net/dong-nai-tien-gan-ve-len-v-league-5069197.html",
+      "summary": "Đánh bại Thanh niên TP HCM 6-0 tối 2/5, CLB Trường tươi Đồng Nai chuẩn bị giành vé thăng hạng V-League 2026-2027.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-02T15:13:36+07:00",
+      "fetched": "2026-05-02T23:42:38.142204+07:00"
+    },
+    {
+      "id": "2006674857cf4b3b688d2dfe63e87875",
+      "title": "Giông lốc giật tung mái nhà, phá hủy hoa màu",
+      "link": "https://vnexpress.net/giong-loc-giat-tung-mai-nha-pha-huy-hoa-mau-5069190.html",
+      "summary": "Chiều 2/5, Điện Biên, Thái Nguyên, Lào Cai, Phú Thọ, Hà Nội ghi nhận giông lốc, mưa đá gây thiệt hại nhà cửa và hoa màu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T14:53:13+07:00",
+      "fetched": "2026-05-02T23:42:27.084522+07:00"
+    },
+    {
+      "id": "4de3e722888947cf40957fd0edaa2136",
+      "title": "Highlight Trường Tươi Đồng Nai 6-0 CLB Thanh niên TP.HCM: Không thể cản bước",
+      "link": "https://thanhnien.vn/highlight-truong-tuoi-dong-nai-6-0-clb-thanh-nien-tphcm-khong-the-can-buoc-185260502215027012.htm",
+      "summary": "Trường Tươi Đồng Nai áp đảo hoàn toàn Thanh niên TP.HCM với chiến thắng đậm, tiếp tục khẳng định sức mạnh và vị thế dẫn đầu giải hạng nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T14:50:00+07:00",
+      "fetched": "2026-05-02T23:42:29.847885+07:00"
+    },
+    {
+      "id": "c756857a703ad82824bdad2d9f54ebec",
+      "title": "TP.HCM: Giải cứu người đàn ông rơi xuống giếng sâu 35 m giữa rẫy",
+      "link": "https://thanhnien.vn/tphcm-giai-cuu-nguoi-dan-ong-roi-xuong-gieng-sau-35-m-giua-ray-185260502212304157.htm",
+      "summary": "Rơi xuống giếng sâu khoảng 35 m giữa khu rẫy, người đàn ông được lực lượng Cảnh sát PCCC triển khai ròng rọc, đưa lên an toàn sau gần 1 giờ nỗ lực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T14:45:00+07:00",
+      "fetched": "2026-05-02T23:42:29.848038+07:00"
+    },
+    {
+      "id": "dcd26946606f1bccd1241fb5b6859b97",
+      "title": "Highlight U.17 nữ Việt Nam 2-2 Thái Lan: Rượt đuổi kiên cường",
+      "link": "https://thanhnien.vn/highlight-u17-nu-viet-nam-2-2-thai-lan-ruot-duoi-kien-cuong-185260502214438367.htm",
+      "summary": "U.17 nữ Việt Nam thể hiện tinh thần chiến đấu bền bỉ khi 2 lần gỡ hòa trước Thái Lan, giành 1 điểm quý giá trong trận ra quân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-02T14:44:00+07:00",
+      "fetched": "2026-05-02T23:42:29.848188+07:00"
     },
     {
       "id": "46407366162263323a64c75daf82146c",
