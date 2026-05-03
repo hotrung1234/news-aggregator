@@ -1,7 +1,157 @@
 window.newsData_2026_05_03 = {
   "date": "2026-05-03",
-  "lastUpdated": "2026-05-03T09:38:54.296982+07:00",
+  "lastUpdated": "2026-05-03T13:24:23.061535+07:00",
   "articles": [
+    {
+      "id": "f0b650a15b2145555d0bd3de2e5a48a7",
+      "title": "Quy trình thực hiện sáp nhập thôn, tổ dân phố",
+      "link": "https://tuoitre.vn/quy-trinh-thuc-hien-sap-nhap-thon-to-dan-pho-20260503104152969.htm",
+      "summary": "Về nhiệm vụ quý 2-2026, Ban Bí thư đã yêu cầu khẩn trương hoàn thành việc sắp xếp tổ dân phố, thôn, bản. Dưới đây là quy trình sáp nhập thôn, tổ dân phố theo quy định hiện hành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T13:24:15.586042+07:00",
+      "fetched": "2026-05-03T13:24:15.586160+07:00"
+    },
+    {
+      "id": "65826436d92c548ae1d3bfb6675bface",
+      "title": "Huấn luyện viên mù và đội banh kỳ lạ",
+      "link": "https://tuoitre.vn/huan-luyen-vien-mu-va-doi-banh-ky-la-20260503104621854.htm",
+      "summary": "Mấy năm trước, vùng biên Thường Phước (Đồng Tháp) rộ chuyện lạ kỳ \"ông thầy mù\" Phan Văn Sanh dạy đá banh. Nhiều người nghe, chỉ cười xòa... Mấy năm qua rồi, huấn luyện viên mù ngày ấy - bây giờ ra sao? Có phải chỉ là chuyện giật gân mạng xã hội?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T13:24:15.585907+07:00",
+      "fetched": "2026-05-03T13:24:15.586027+07:00"
+    },
+    {
+      "id": "3eb39f3c5d63b9464c8571c77e50d607",
+      "title": "Dự báo thời tiết từ 3-5 đến 9-5: Miền Trung nắng nóng, Nam Bộ ngày nắng, chiều mưa",
+      "link": "https://tuoitre.vn/du-bao-thoi-tiet-tu-3-5-den-9-5-mien-trung-nang-nong-nam-bo-ngay-nang-chieu-mua-20260502171816686.htm",
+      "summary": "Tuần này, thời tiết Bắc Bộ có những cơn mưa to. Trung Bộ nắng nóng, Nam Bộ chiều tối có mưa chuyển mùa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T13:24:15.585761+07:00",
+      "fetched": "2026-05-03T13:24:15.585894+07:00"
+    },
+    {
+      "id": "fa91c945c4e0d5ef0c3916855899ac20",
+      "title": "Giải cứu, thả 20 con cò ốc quý hiếm bị mắc lưới về tự nhiên ở Đồng Tháp",
+      "link": "https://tuoitre.vn/giai-cuu-tha-20-ca-the-co-oc-quy-hiem-bi-mac-luoi-ve-tu-nhien-o-dong-thap-20260503095202248.htm",
+      "summary": "Một đàn cò ốc quý hiếm bị mắc bẫy giữa đồng ruộng ở xã An Long, tỉnh Đồng Tháp đã được người dân phát hiện, báo tin cho lực lượng chức năng kịp thời giải cứu và thả về môi trường tự nhiên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T13:24:15.585633+07:00",
+      "fetched": "2026-05-03T13:24:15.585750+07:00"
+    },
+    {
+      "id": "f40ddcae2bdb3657c986380421e897a6",
+      "title": "Cuộc trở về kỳ lạ của những báu vật - Kỳ 1: Bức tượng rùa và nỗi ám ảnh của tướng Mỹ",
+      "link": "https://tuoitre.vn/cuoc-tro-ve-ky-la-cua-nhung-bau-vat-ky-1-buc-tuong-rua-va-noi-am-anh-cua-tuong-my-20260503105450662.htm",
+      "summary": "Để chữa lành cho hội chứng 'Vietnam Syndrome', William Weise quyết định trở lại ngôi làng xưa để trả bức tượng từng được ông mang theo như \"kỷ vật chiến lợi phẩm\" gần suốt 15 năm binh nghiệp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T13:24:15.585509+07:00",
+      "fetched": "2026-05-03T13:24:15.585621+07:00"
+    },
+    {
+      "id": "5ca663c50a3fb9424f5385d0deb473d5",
+      "title": "An Giang: Một bé trai sơ sinh bị bỏ rơi ven đường",
+      "link": "https://tuoitre.vn/an-giang-mot-be-trai-so-sinh-bi-bo-roi-ven-duong-20260503105353242.htm",
+      "summary": "Ngày 3-5, bà Nguyễn Thị Mai Thu - Phó chủ tịch UBND xã Cần Đăng, tỉnh An Giang - đã ký thông báo tìm cha, mẹ cho bé trai sơ sinh bị bỏ rơi ven đường, gần cầu Bà Chủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T13:24:15.585372+07:00",
+      "fetched": "2026-05-03T13:24:15.585498+07:00"
+    },
+    {
+      "id": "0b35362979bbfaad451dec09852855f4",
+      "title": "Sau bản màu Tiếng trống Mê Linh, khán giả ‘đòi’ HTV làm tiếp Bên cầu dệt lụa",
+      "link": "https://tuoitre.vn/sau-ban-mau-tieng-trong-me-linh-khan-gia-doi-htv-lam-tiep-ben-cau-det-lua-20260503110638293.htm",
+      "summary": "Sau khi HTV phát sóng vở cải lương Tiếng trống Mê Linh phục chế bản màu, nhiều khán giả đã mong muốn nhà đài ‘tô màu’ tiếp vở cải lương Bên cầu dệt lụa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T13:24:15.585242+07:00",
+      "fetched": "2026-05-03T13:24:15.585361+07:00"
+    },
+    {
+      "id": "8e330096851cf6b106bde65417978ef3",
+      "title": "Rạn nứt Mỹ - NATO: Cuộc chiến Iran là giọt nước tràn ly",
+      "link": "https://tuoitre.vn/ran-nut-my-nato-cuoc-chien-iran-la-giot-nuoc-tran-ly-20260503063326532.htm",
+      "summary": "Mỹ tuyên bố rút 5.000 binh sĩ khỏi Đức giữa lúc căng thẳng giữa Washington và các đồng minh NATO leo thang vì cuộc chiến Iran. Liệu liên minh xuyên Đại Tây Dương tồn tại gần tám thập niên có đứng vững?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T13:24:15.585106+07:00",
+      "fetched": "2026-05-03T13:24:15.585222+07:00"
+    },
+    {
+      "id": "d2a55b058b94869c4d6f0451c7f0f484",
+      "title": "Vòng 21 V-League 2025 - 2026: Ngày về của Hoàng Đức",
+      "link": "https://tuoitre.vn/vong-21-v-league-2025-2026-ngay-ve-cua-hoang-duc-20260503062220451.htm",
+      "summary": "19h15 tối 3-5, CLB Thể Công - Viettel sẽ tiếp Ninh Bình trên sân Hàng Đẫy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T13:24:15.584978+07:00",
+      "fetched": "2026-05-03T13:24:15.585095+07:00"
+    },
+    {
+      "id": "1d541d5543a15cd2bb20cb8a0d443ee8",
+      "title": "Du khách lên mạng tố khách sạn ở Đắk Lắk phụ thu nhiều khoản 'trên trời dưới đất'",
+      "link": "https://tuoitre.vn/du-khach-len-mang-to-khach-san-o-dak-lak-phu-thu-nhieu-khoan-tren-troi-duoi-dat-20260503102550129.htm",
+      "summary": "Khách đăng lên mạng xã hội tố 1 khách sạn tại khu phố Vịnh Hòa, phường Sông Cầu, Đắk Lắk (trước là Phú Yên) phụ thu khủng dịp nghỉ lễ 30-4 và 1-5.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T13:24:15.584823+07:00",
+      "fetched": "2026-05-03T13:24:15.584965+07:00"
+    },
+    {
+      "id": "39bf7377c82793f824410271dec68539",
+      "title": "Messi và Ronaldo 'lười' nhất làng bóng đá?",
+      "link": "https://tuoitre.vn/messi-va-ronaldo-luoi-nhat-lang-bong-da-20260503102708629.htm",
+      "summary": "Trung tâm Nghiên cứu bóng đá CIES vừa công bố một danh sách những cầu thủ \"lười\" nhất thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T13:24:15.584697+07:00",
+      "fetched": "2026-05-03T13:24:15.584811+07:00"
+    },
+    {
+      "id": "4d86109dd7f48846357eccf535262449",
+      "title": "Tín hiệu tích cực từ du lịch dịp 30-4, nhiều sản phẩm mới giúp gia tăng sức hút",
+      "link": "https://tuoitre.vn/tin-hieu-tich-cuc-tu-du-lich-dip-30-4-nhieu-san-pham-moi-giup-gia-tang-suc-hut-20260503081952147.htm",
+      "summary": "Ngành du lịch Việt Nam đang ghi nhận nhiều tín hiệu tích cực trong giai đoạn đại lễ 30-4 và 1-5, đồng thời hướng đến mục tiêu doanh thu khoảng 1,125 triệu tỉ đồng trong năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T13:24:15.584569+07:00",
+      "fetched": "2026-05-03T13:24:15.584686+07:00"
+    },
+    {
+      "id": "57df56581f97ae8e00198a4081fce1dc",
+      "title": "The Devil Wears Prada 2 mở màn bùng nổ phòng vé",
+      "link": "https://tuoitre.vn/the-devil-wears-prada-2-mo-man-bung-no-phong-ve-20260503110621133.htm",
+      "summary": "The Devil Wears Prada 2 đang tạo \"cú nổ\" lớn tại phòng vé toàn cầu, đạt 115 triệu USD ngay trong ngày mở màn và được kỳ vọng chạm mốc 180 triệu USD trong tuần đầu tiên ra mắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T13:24:15.584435+07:00",
+      "fetched": "2026-05-03T13:24:15.584557+07:00"
+    },
+    {
+      "id": "b271f406243ecb03c83dc574cb812fbc",
+      "title": "Hàn Quốc thắng sốc Trung Quốc ở Giải vô địch bóng bàn thế giới",
+      "link": "https://tuoitre.vn/han-quoc-thang-soc-trung-quoc-o-giai-vo-dich-bong-ban-the-gioi-2026050311240356.htm",
+      "summary": "\"Địa chấn\" xuất hiện ngay ở lượt trận thứ 2, giai đoạn vòng bảng của Giải vô địch bóng bàn thế giới 2026, khi vị vua tuyệt đối môn banh nhựa là Trung Quốc bất ngờ thua sốc đội Hàn Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T13:24:15.584293+07:00",
+      "fetched": "2026-05-03T13:24:15.584423+07:00"
+    },
+    {
+      "id": "fa082a5dbf31d6524c57b94dc8880c48",
+      "title": "Nghẹt thở cứu ca đứt lìa động mạch cổ, ngưng tim: Ép tim 20 phút, vừa mổ vừa hồi sức",
+      "link": "https://tuoitre.vn/nghet-tho-cuu-ca-dut-lia-dong-mach-co-ngung-tim-ep-tim-20-phut-vua-mo-vua-hoi-suc-20260503112916413.htm",
+      "summary": "Bị đứt lìa động mạch cổ, chỉ ít phút nhập viện, thanh niên 20 tuổi bị ngưng tim, ngưng thở. Các bác sĩ ép tim ngoài lồng ngực 20 phút, sau đó vừa phẫu thuật vừa tiếp tục truyền máu và hồi sức tích cực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T13:24:15.584089+07:00",
+      "fetched": "2026-05-03T13:24:15.584278+07:00"
+    },
     {
       "id": "46170f54deead2e0bd218424e437b251",
       "title": "Gyokeres lập cú đúp giúp Arsenal hơn Man City 6 điểm",
@@ -153,6 +303,86 @@ window.newsData_2026_05_03 = {
       "fetched": "2026-05-03T09:38:45.840376+07:00"
     },
     {
+      "id": "524397566dfac3a30b683bc362388bc0",
+      "title": "Võ sĩ Việt Nam tung cú móc trái cực hiểm, thắng knock-out tay đấm Thái Lan",
+      "link": "https://thanhnien.vn/vo-si-viet-nam-tung-cu-moc-trai-cuc-hiem-thang-knock-out-tay-dam-thai-lan-185260503130657124.htm",
+      "summary": "Tối 2.5, sự kiện quyền anh Ho Tram Power Clash đã diễn ra tại xã Hồ Tràm (TP.HCM). Sự chú ý đổ dồn vào các cuộc so tài của 3 võ sĩ Việt Nam, trong đó ấn tượng nhất chính là màn thư hùng giữa Thái Hoàng Huy và Rakmit Assada (Thái Lan) ở hạng cân 58,97 kg.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T06:10:00+07:00",
+      "fetched": "2026-05-03T13:24:14.396042+07:00"
+    },
+    {
+      "id": "5c45fb2769d46680d5929b81684f3881",
+      "title": "Người trẻ không còn mặn mà với công việc ổn định?",
+      "link": "https://thanhnien.vn/nguoi-tre-khong-con-man-ma-voi-cong-viec-on-dinh-185260503115145221.htm",
+      "summary": "Không còn xem công việc ổn định toàn thời gian là lựa chọn mặc định, một bộ phận người trẻ đang chủ động rẽ hướng: làm tự do, kinh doanh nhỏ, nhận việc theo dự án hoặc kết hợp nhiều nguồn thu nhập cùng lúc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T06:10:00+07:00",
+      "fetched": "2026-05-03T13:24:14.396207+07:00"
+    },
+    {
+      "id": "24fbea94612222a01c0b1ece435d9bd7",
+      "title": "Flick đi xem ảo thuật thay vì chờ Real sảy chân",
+      "link": "https://vnexpress.net/flick-di-xem-ao-thuat-thay-vi-cho-real-say-chan-5069283.html",
+      "summary": "HLV Hansi Flick dự định cùng vợ đi xem buổi biểu diễn ảo thuật, thay vì chờ Real sảy chân để giúp Barca sớm đăng quang La Liga.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T06:00:00+07:00",
+      "fetched": "2026-05-03T13:24:11.436677+07:00"
+    },
+    {
+      "id": "c0c22d1b97ca2b0c2bb9c952cf8edb81",
+      "title": "Đau dạ dày có nên ăn sữa chua?",
+      "link": "https://vnexpress.net/dau-da-day-co-nen-an-sua-chua-5069159.html",
+      "summary": "Sữa chua chứa nhiều acid nên không tốt cho người bị dạ dày, đặc biệt là ăn lúc đói, điều này đúng không? (Hoàng, 21 tuổi, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T06:00:00+07:00",
+      "fetched": "2026-05-03T13:24:11.436852+07:00"
+    },
+    {
+      "id": "5096766e4a116b4328cf6fbbbde07422",
+      "title": "Khánh Hòa đăng cai Ngày hội văn hóa Chăm toàn quốc lần thứ 6",
+      "link": "https://thanhnien.vn/khanh-hoa-dang-cai-ngay-hoi-van-hoa-cham-toan-quoc-lan-thu-6-185260503090828919.htm",
+      "summary": "Khánh Hòa sẽ đăng cai Ngày hội văn hóa dân tộc Chăm lần thứ 6 cấp quốc gia vào cuối tháng 6, quy tụ đồng bào Chăm từ 7 tỉnh, thành phố trên cả nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T06:00:00+07:00",
+      "fetched": "2026-05-03T13:24:14.396360+07:00"
+    },
+    {
+      "id": "dba351cee206ee4a88837ee8444db96c",
+      "title": "Carlsen thắng Đại kiện tướng đầu tiên ở cờ chuẩn sau gần một năm",
+      "link": "https://vnexpress.net/carlsen-thang-dai-kien-tuong-dau-tien-o-co-chuan-sau-gan-mot-nam-5069315.html",
+      "summary": "Magnus Carlsen thắng Đại kiện tướng Nils Grandelius tại vòng hai cờ tiêu chuẩn TePe Sigeman 2026, để vươn lên nhóm đầu giải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T05:56:28+07:00",
+      "fetched": "2026-05-03T13:24:11.437072+07:00"
+    },
+    {
+      "id": "0e599c7a4ff1ba5d4f85b606ca318b13",
+      "title": "Tràng An đông nghẹt du khách ngày khai hội",
+      "link": "https://vnexpress.net/trang-an-dong-nghet-du-khach-ngay-khai-hoi-5069311.html",
+      "summary": "Hàng nghìn du khách tập trung tại khu vực bến thuyền và sông Sào Khê để tham dự lễ hội Tràng An năm 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T05:43:39+07:00",
+      "fetched": "2026-05-03T13:24:11.437244+07:00"
+    },
+    {
+      "id": "8826152bd84b9d9d1f196de4c1b566de",
+      "title": "Dịp lễ, trực thăng bay xuyên đêm ra Trường Sa cấp cứu 2 bệnh nhân nặng",
+      "link": "https://thanhnien.vn/dip-le-truc-thang-bay-xuyen-dem-ra-truong-sa-cap-cuu-2-benh-nhan-nang-185260503120133857.htm",
+      "summary": "Trong kỳ nghỉ lễ, Bệnh viện Quân y 175 đã phối hợp tổ chức chuyến bay cấp cứu bằng trực thăng, đưa 2 bệnh nhân từ đảo Trường Sa Lớn (đặc khu Trường Sa) về đất liền điều trị chuyên sâu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T05:40:00+07:00",
+      "fetched": "2026-05-03T13:24:14.396511+07:00"
+    },
+    {
       "id": "108892b6c614a6ef1dac536cac73f4f7",
       "title": "Thời tiết hôm nay 3-5: Bắc Bộ mưa to, Nam Bộ ngày nắng, chiều tối mưa",
       "link": "https://tuoitre.vn/thoi-tiet-hom-nay-3-5-bac-bo-mua-to-nam-bo-ngay-nang-chieu-toi-mua-20260502170726365.htm",
@@ -161,6 +391,326 @@ window.newsData_2026_05_03 = {
       "category": "Tổng hợp",
       "published": "2026-05-03T05:37:33.728866+07:00",
       "fetched": "2026-05-03T05:37:33.729024+07:00"
+    },
+    {
+      "id": "6a66c993149be742cfc05c838b8411ac",
+      "title": "Du học về nhưng lương tôi thua xa bạn học trong nước",
+      "link": "https://vnexpress.net/du-hoc-ve-nhung-luong-toi-thua-xa-ban-hoc-trong-nuoc-5069302.html",
+      "summary": "Tôi mất gần ba năm đầu sau khi du học về nước mới tìm được một công việc ổn định, lương thấp hơn cả một người bạn học trong nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T05:30:00+07:00",
+      "fetched": "2026-05-03T13:24:11.437409+07:00"
+    },
+    {
+      "id": "04a821a50fbe6becc6129805739efaf4",
+      "title": "Bác sĩ ép tim cứu bé trai bị điện giật ngừng thở",
+      "link": "https://vnexpress.net/bac-si-ep-tim-cuu-be-trai-bi-dien-giat-ngung-tho-5069305.html",
+      "summary": "Bé trai bị điện giật ngưng thở tại khu du lịch biển Quỳnh, Phó giám đốc Bệnh viện Đa khoa Quỳnh Lưu Hồ Khắc Thủy tình cờ có mặt chạy đến ép tim cứu sống em.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T05:20:30+07:00",
+      "fetched": "2026-05-03T13:24:11.437581+07:00"
+    },
+    {
+      "id": "3bbf9c990f86cf5b8a97e6d95c836b40",
+      "title": "Tàu Iran chở gần 2 triệu thùng dầu 'vượt vòng phong tỏa của Mỹ'",
+      "link": "https://vnexpress.net/tau-iran-cho-gan-2-trieu-thung-dau-vuot-vong-phong-toa-cua-my-5069280.html",
+      "summary": "Tàu hàng cỡ lớn của Iran, chở theo lượng dầu trị giá khoảng 220 triệu USD, dường như đã vượt qua vòng phong tỏa cảng biển do Mỹ áp đặt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T05:19:26+07:00",
+      "fetched": "2026-05-03T13:24:11.437746+07:00"
+    },
+    {
+      "id": "3bbf9c990f86cf5b8a97e6d95c836b40",
+      "title": "Tàu Iran chở gần 2 triệu thùng dầu 'vượt vòng phong tỏa của Mỹ'",
+      "link": "https://vnexpress.net/tau-iran-cho-gan-2-trieu-thung-dau-vuot-vong-phong-toa-cua-my-5069280.html",
+      "summary": "Tàu hàng cỡ lớn của Iran, chở theo lượng dầu trị giá khoảng 220 triệu USD, dường như đã vượt qua vòng phong tỏa cảng biển do Mỹ áp đặt.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-03T05:19:26+07:00",
+      "fetched": "2026-05-03T13:24:17.119627+07:00"
+    },
+    {
+      "id": "72f8201ea104ef610a96fdbdcfb40dfc",
+      "title": "Mối tình 'thần bài' Tạ Hiền và cô gái kém 49 tuổi",
+      "link": "https://vnexpress.net/moi-tinh-than-bai-ta-hien-va-co-gai-kem-49-tuoi-5069287.html",
+      "summary": "Coco, bạn gái cũ của tài tử Hong Kong Tạ Hiền, lần đầu tiết lộ cách ông chinh phục phụ nữ và lý do họ chia tay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T05:14:55+07:00",
+      "fetched": "2026-05-03T13:24:11.437928+07:00"
+    },
+    {
+      "id": "c2b9644af679e97bbe596671512e87df",
+      "title": "Siêu phẩm Italjet Roadster 400 nhận đơn đặt hàng, 30 xe sẽ về Việt Nam",
+      "link": "https://thanhnien.vn/sieu-pham-italjet-roadster-400-nhan-don-dat-hang-30-xe-se-ve-viet-nam-185260502192554233.htm",
+      "summary": "Mẫu xe tay ga Italjet Roadster 400 Limited Edition xuất xưởng giới hạn 777 chiếc bắt đầu nhận đơn đặt hàng, phía đơn vị nhập khẩu, phân phối cho biết mẫu xe này sẽ về Việt Nam vào cuối năm nay và chỉ có đúng 30 chiếc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T05:14:00+07:00",
+      "fetched": "2026-05-03T13:24:14.396660+07:00"
+    },
+    {
+      "id": "351539045ae3b6e6c0734201e5756768",
+      "title": "Tuyển sinh lớp 10 tại Khánh Hòa: Nhiều trường có tỷ lệ 'chọi' cao",
+      "link": "https://thanhnien.vn/tuyen-sinh-lop-10-tai-khanh-hoa-nhieu-truong-co-ty-le-choi-cao-185260503105517207.htm",
+      "summary": "Các trường THPT tại Khánh Hòa vừa công bố số lượng học sinh đăng ký nguyện vọng 1 vào lớp 10 năm học 2026 - 2027, trong đó nhiều trường có số hồ sơ vượt xa chỉ tiêu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T05:12:00+07:00",
+      "fetched": "2026-05-03T13:24:14.396807+07:00"
+    },
+    {
+      "id": "0f40e84dd956309f291dec2df243067e",
+      "title": "Nhà ở xã hội giáp vịnh Hạ Long dự kiến từ 1,1 tỷ đồng một căn",
+      "link": "https://vnexpress.net/nha-o-xa-hoi-giap-vinh-ha-long-du-kien-tu-1-1-ty-dong-mot-can-5069285.html",
+      "summary": "Khu nhà xã hội tại phường Hà Tu có hơn 600 căn, giá dự kiến 23,6 triệu đồng một m2, tương đương từ 1,1 tỷ đồng mỗi căn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T05:09:31+07:00",
+      "fetched": "2026-05-03T13:24:11.438084+07:00"
+    },
+    {
+      "id": "ee6552012d4fb712d8aef0bed2b9de1c",
+      "title": "Lái xe áp dụng sai quy tắc ra, vào cao tốc bị phạt tới 6 triệu",
+      "link": "https://thanhnien.vn/lai-xe-ap-dung-sai-quy-tac-ra-vao-cao-toc-bi-phat-toi-6-trieu-185260429101958803.htm",
+      "summary": "Nhiều tài xế vẫn chưa biết quy tắc ra, vào cao tốc theo luật Trật tự an toàn giao thông đường bộ 2024, dẫn đến nhập, thoát làn tùy tiện, dễ dẫn đến tai nạn giao thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T05:06:00+07:00",
+      "fetched": "2026-05-03T13:24:14.396985+07:00"
+    },
+    {
+      "id": "1cc9808ab9e38ddfb398a94b01c9551a",
+      "title": "Cuốn sách tạo cảm hứng cho phim 'The Devil Wears Prada'",
+      "link": "https://vnexpress.net/cuon-sach-tao-cam-hung-cho-phim-the-devil-wears-prada-5069272.html",
+      "summary": "Lauren Weisberger, tác giả tiểu thuyết \"The Devil Wears Prada\", xuất bản cuốn sách sau thời gian làm trợ lý cho bà trùm thời trang Anna Wintour.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T05:02:03+07:00",
+      "fetched": "2026-05-03T13:24:11.438237+07:00"
+    },
+    {
+      "id": "967f5d678f2dd7aec721a31865b29ed0",
+      "title": "Quy trình thay lốp dự phòng cho ô tô?",
+      "link": "https://thanhnien.vn/quy-trinh-thay-lop-du-phong-cho-o-to-185260429103519795.htm",
+      "summary": "Thay lốp dự phòng là kỹ năng cần thiết nhưng không phải lái xe nào cũng thực hiện đúng cách. Việc nắm vững quy trình từ khâu đảm bảo an toàn đến kỹ thuật siết ốc giúp tài xế chủ động xử lý khi gặp sự cố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T05:02:00+07:00",
+      "fetched": "2026-05-03T13:24:14.397137+07:00"
+    },
+    {
+      "id": "7166aeb440fcfb73049e03f6333a077c",
+      "title": "Arsenal được dự đoán vô địch nếu đua hiệu số với Man City",
+      "link": "https://vnexpress.net/arsenal-duoc-du-doan-vo-dich-neu-dua-hieu-so-voi-man-city-5069277.html",
+      "summary": "Các cựu danh thủ Jamie Redknapp và Paul Merson đều tin Arsenal sẽ vượt Man City nếu cuộc đua vô địch Ngoại hạng Anh được định đoạt bằng hiệu số.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T05:00:00+07:00",
+      "fetched": "2026-05-03T13:24:11.438393+07:00"
+    },
+    {
+      "id": "38b3bb04c23b53c082719c85f6551538",
+      "title": "Chị dâu xấu về ngoại hình lại thích thể hiện bản thân",
+      "link": "https://vnexpress.net/chi-dau-xau-ve-ngoai-hinh-lai-thich-the-hien-ban-than-5069263.html",
+      "summary": "Chị ghét những người giỏi hơn, đẹp hơn hay khéo léo hơn, thường nói xấu sau lưng họ, hạ thấp và hạ nhục người khác để nâng mình lên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T05:00:00+07:00",
+      "fetched": "2026-05-03T13:24:11.438543+07:00"
+    },
+    {
+      "id": "b4dbc93e2d5c3a65a00c14b592cc9a79",
+      "title": "Châu Tuyết Vân muốn chạy 21km sau VM Green Paradise Cần Giờ",
+      "link": "https://vnexpress.net/chau-tuyet-van-chay-bo-5068671.html",
+      "summary": "\"Hoa khôi làng võ\" Châu Tuyết Vân cho rằng không khí của giải marathon tại Cần Giờ tạo động lực để cô đặt mục tiêu chạy 21km trong tương lai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T05:00:00+07:00",
+      "fetched": "2026-05-03T13:24:11.438703+07:00"
+    },
+    {
+      "id": "9fa2ebc8938559c4bf16ee0651b92f3e",
+      "title": "Cảm hứng vintage từ chân váy lụa, áo cardigan len",
+      "link": "https://thanhnien.vn/thoi-trang-tre/cam-hung-vintage-tu-chan-vay-lua-ao-cardigan-len-185260423155055233.htm",
+      "summary": "Thời trang vintage không chỉ có những chiếc váy gợi cảm giác cổ điển, lãng mạn mà còn hiện diện trong đời sống thường ngày qua những bản phối từ chân váy lụa, cardigan và áo len họa tiết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T05:00:00+07:00",
+      "fetched": "2026-05-03T13:24:14.397285+07:00"
+    },
+    {
+      "id": "7166aeb440fcfb73049e03f6333a077c",
+      "title": "Arsenal được dự đoán vô địch nếu đua hiệu số với Man City",
+      "link": "https://vnexpress.net/arsenal-duoc-du-doan-vo-dich-neu-dua-hieu-so-voi-man-city-5069277.html",
+      "summary": "Các cựu danh thủ Jamie Redknapp và Paul Merson đều tin Arsenal sẽ vượt Man City nếu cuộc đua vô địch Ngoại hạng Anh được định đoạt bằng hiệu số.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-03T05:00:00+07:00",
+      "fetched": "2026-05-03T13:24:23.054605+07:00"
+    },
+    {
+      "id": "e8fe8046f2a25cf4b126cbf67d0037c3",
+      "title": "Cựu luật sư làm giàu nhờ nghề dọn phân chó",
+      "link": "https://vnexpress.net/cuu-luat-su-lam-giau-nho-nghe-don-phan-cho-5069224.html",
+      "summary": "Cựu luật sư Emma Garner, 45 tuổi, ở West Yorkshire có thu nhập 100.000 bảng mỗi năm, mua được nhà nhờ khởi nghiệp bằng dịch vụ dọn phân chó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T04:58:56+07:00",
+      "fetched": "2026-05-03T13:24:11.438857+07:00"
+    },
+    {
+      "id": "45a86c9e3992de1cd570697e093f7cb4",
+      "title": "Nhiều hiệu trưởng, hiệu phó là ứng viên nhà giáo nhân dân, nhà giáo ưu tú",
+      "link": "https://thanhnien.vn/nhieu-hieu-truong-hieu-pho-la-ung-vien-nha-giao-nhan-dan-nha-giao-uu-tu-18526050311192578.htm",
+      "summary": "Trong danh sách 103 nhà giáo được đề nghị xét tặng danh hiệu nhà giáo nhân dân, nhà giáo ưu tú có nhiều ứng viên đang là hiệu trưởng, hiệu phó các trường ĐH và lãnh đạo ĐH.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T04:57:00+07:00",
+      "fetched": "2026-05-03T13:24:14.397431+07:00"
+    },
+    {
+      "id": "c969496329808a851b3200617f530f8f",
+      "title": "Bắn chết 3 bạn vì bị bôi kem vào mặt tại tiệc sinh nhật",
+      "link": "https://vnexpress.net/ban-chet-3-ban-vi-bi-boi-kem-vao-mat-tai-tiec-sinh-nhat-5069292.html",
+      "summary": "Tiệc sinh nhật của Jeetu Saini trở thành hiện trường án mạng từ một trò đùa tưởng chừng vui và vô hại: bôi bánh kem lên mặt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T04:45:50+07:00",
+      "fetched": "2026-05-03T13:24:11.439042+07:00"
+    },
+    {
+      "id": "27ad1ede5af1e88e1c23a4d9ba4bfb7d",
+      "title": "Bệnh viện Nguyễn Tri Phương cứu người đứt lìa động mạch cổ do tai nạn",
+      "link": "https://thanhnien.vn/benh-vien-nguyen-tri-phuong-cuu-nguoi-dut-lia-dong-mach-co-do-tai-nan-185260503105600076.htm",
+      "summary": "Bệnh viện Nguyễn Tri Phương vừa tiếp nhận, cứu thành công bệnh nhân bị đa chấn thương vùng ngực, đứt lìa động mạch cổ trái, nguy kịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T04:39:00+07:00",
+      "fetched": "2026-05-03T13:24:14.397584+07:00"
+    },
+    {
+      "id": "0f3d331169a9d85333ee8b4ecdf448e9",
+      "title": "Trang hỏi đáp trực tuyến Ask.com đóng cửa sau 30 năm",
+      "link": "https://vnexpress.net/trang-hoi-dap-truc-tuyen-ask-com-dong-cua-sau-30-nam-5069257.html",
+      "summary": "Ask.com, công cụ tìm kiếm và dịch vụ hỏi đáp trực tuyến từng được nhiều người dùng ưa thích, tuyên bố ngừng hoạt động từ 1/5.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-03T04:38:09+07:00",
+      "fetched": "2026-05-03T13:24:21.305860+07:00"
+    },
+    {
+      "id": "a46b0b7084094f39ce9db1b8ee34a665",
+      "title": "Say xỉn, vờ vào tiệm sửa xe khi bị CSGT TP.HCM kiểm tra nồng độ cồn",
+      "link": "https://thanhnien.vn/say-xin-vo-vao-tiem-sua-xe-khi-bi-csgt-tphcm-kiem-tra-nong-do-con-185260503112434917.htm",
+      "summary": "Nhiều tình huống 'dở khóc, dở cười' khi người vi phạm bị các tổ công tác Trạm CSGT Tây Bắc (Phòng CSGT Công an TP.HCM) kiểm tra nồng độ cồn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T04:36:00+07:00",
+      "fetched": "2026-05-03T13:24:14.397736+07:00"
+    },
+    {
+      "id": "f889e364cb218767fdcd076dfa2c0f80",
+      "title": "Tòa kêu gọi kẻ cầm đầu tổ chức khủng bố Đào Minh Quân đầu thú",
+      "link": "https://thanhnien.vn/toa-keu-goi-ke-cam-dau-to-chuc-khung-bo-dao-minh-quan-dau-thu-185260503111421079.htm",
+      "summary": "TAND TP.HCM chuẩn bị xét xử sơ thẩm và kêu gọi bị cáo Đào Minh Quân - kẻ cầm đầu tổ chức khủng bố 'Chính phủ quốc gia Việt Nam lâm thời' cùng 5 bị cáo khác ra đầu thú.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T04:32:00+07:00",
+      "fetched": "2026-05-03T13:24:14.397909+07:00"
+    },
+    {
+      "id": "10098dda4c47672711234754df2ca155",
+      "title": "Mây đối lưu phát triển mạnh, dự báo hôm nay Hà Nội mưa đá, giông lốc",
+      "link": "https://thanhnien.vn/may-doi-luu-phat-trien-manh-du-bao-hom-nay-ha-noi-mua-da-giong-loc-185260503111124315.htm",
+      "summary": "Mưa đá ở Hà Nội và 6 tỉnh miền Bắc trong ngày 2.5 khiến 5 người bị thương, 350 nhà dân bị tốc mái. Dự báo thời tiết hôm nay 3.5, mây đối lưu đang phát triển mạnh, nhiều xã phường Hà Nội mưa đá, mưa giông trở lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T04:27:00+07:00",
+      "fetched": "2026-05-03T13:24:14.398069+07:00"
+    },
+    {
+      "id": "9d03df04b6ee083193ae94b70a199c0f",
+      "title": "Làm sạch bụi mịn sau khi di chuyển nhiều ngày nắng nóng giúp da khỏe, sạch sâu",
+      "link": "https://thanhnien.vn/lam-sach-bui-min-sau-khi-di-chuyen-nhieu-ngay-nang-nong-giup-da-khoe-sach-sau-185260503113550235.htm",
+      "summary": "Cách làm sạch bụi mịn hiệu quả sau khi di chuyển nhiều ngày dưới nắng nóng giúp da sạch sâu, hạn chế mụn và phục hồi nhanh chóng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-03T04:26:00+07:00",
+      "fetched": "2026-05-03T13:24:14.398223+07:00"
+    },
+    {
+      "id": "c2e62682e16b34360ea52e43a8e3867b",
+      "title": "Doanh nghiệp dịch vụ khoan dầu khí lãi đậm",
+      "link": "https://vnexpress.net/doanh-nghiep-dich-vu-khoan-dau-khi-lai-dam-5069245.html",
+      "summary": "PVD vừa báo lãi sau thuế 300 tỷ đồng trong quý I, tăng hơn 100% so với cùng kỳ năm ngoái, nhờ hiệu suất vận hành giàn khoan cải thiện.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-03T04:23:08+07:00",
+      "fetched": "2026-05-03T13:24:18.761751+07:00"
+    },
+    {
+      "id": "14ae73d8d01aecd6c08920f814eb7535",
+      "title": "Inoue thắng trận quyền Anh lớn nhất trong lịch sử Nhật Bản",
+      "link": "https://vnexpress.net/inoue-thang-tran-quyen-anh-lon-nhat-trong-lich-su-nhat-ban-5069294.html",
+      "summary": "Naoya Inoue, có biệt danh \"Quái thú\", thắng điểm Junto Nakatani để bảo vệ bốn đai vô địch hạng siêu gà và nối dài mạch toàn thắng trong sự nghiệp nhà nghề.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-03T04:19:04+07:00",
+      "fetched": "2026-05-03T13:24:23.055130+07:00"
+    },
+    {
+      "id": "4a8e0bc633d2f7883b39d20186714ddc",
+      "title": "Kênh truyền hình Lebanon hứng chỉ trích vì chế Hezbollah thành Angry Birds",
+      "link": "https://vnexpress.net/kenh-truyen-hinh-lebanon-hung-chi-trich-vi-che-hezbollah-thanh-angry-birds-5069259.html",
+      "summary": "Kênh LBCI của Lebanon đối mặt làn sóng phản đối sau khi chế hình thủ lĩnh và các thành viên Hezbollah thành nhân vật trong trò chơi Angry Birds.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-03T03:58:18+07:00",
+      "fetched": "2026-05-03T13:24:17.119798+07:00"
+    },
+    {
+      "id": "a4d8dbd10afb40a13350c86588b78e17",
+      "title": "Lại Lý Huynh được mời dự siêu giải cờ tướng Trung Quốc",
+      "link": "https://vnexpress.net/lai-ly-huynh-duoc-moi-du-sieu-giai-co-tuong-trung-quoc-5069199.html",
+      "summary": "Đương kim vô địch thế giới Lại Lý Huynh được mời dự siêu giải Xuân Thu Đại Diệp cùng các kỳ thủ mạnh nhất Trung Quốc như Mạnh Thần, Mạnh Phồn Duệ hay Tào Nham Lỗi.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-03T03:48:24+07:00",
+      "fetched": "2026-05-03T13:24:23.054780+07:00"
+    },
+    {
+      "id": "e8dc5f4e98e3db4492b95d6f923f4e2b",
+      "title": "Trung Quốc thua ở giải bóng bàn đồng đội thế giới sau 26 năm",
+      "link": "https://vnexpress.net/trung-quoc-thua-o-giai-bong-ban-dong-doi-the-gioi-sau-26-nam-5069275.html",
+      "summary": "Lần đầu kể từ năm 2000, Trung Quốc mới lại thua một trận ở giải bóng bàn đồng đội thế giới, khi thất bại 1-3 trước Hàn Quốc tại bảng 1.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-03T03:19:55+07:00",
+      "fetched": "2026-05-03T13:24:23.054968+07:00"
+    },
+    {
+      "id": "603c299c2a2ed86272a7abfa7b493b2a",
+      "title": "Nghi phạm mưu sát ông Trump xin gỡ giám sát tự sát",
+      "link": "https://vnexpress.net/nghi-pham-muu-sat-ong-trump-xin-go-giam-sat-tu-sat-5069231.html",
+      "summary": "Luật sư đề nghị thẩm phán bãi bỏ biện pháp phòng ngừa tự sát đối với nghi phạm Cole Allen, người đang bị giam sau vụ mưu sát ông Trump.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-03T03:06:46+07:00",
+      "fetched": "2026-05-03T13:24:17.119983+07:00"
+    },
+    {
+      "id": "79f7c212b8b1bbe1beb492f150844bf1",
+      "title": "Arteta: 'Arsenal khó bị đánh bại khi thi đấu gắn kết'",
+      "link": "https://vnexpress.net/arteta-arsenal-kho-bi-danh-bai-khi-thi-dau-gan-ket-5069270.html",
+      "summary": "HLV Mikel Arteta hài lòng với màn trình diễn giàu năng lượng và hiệu quả của Arsenal trong trận thắng Fulham 3-0 ở vòng 35 Ngoại hạng Anh, qua đó tạo lợi thế lớn trong cuộc đua vô địch.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-03T03:01:45+07:00",
+      "fetched": "2026-05-03T13:24:23.055287+07:00"
     },
     {
       "id": "e684dba32c261b5ec5b10fda8e547432",
