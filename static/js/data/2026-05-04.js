@@ -1,7 +1,157 @@
 window.newsData_2026_05_04 = {
   "date": "2026-05-04",
-  "lastUpdated": "2026-05-04T17:10:58.002356+07:00",
+  "lastUpdated": "2026-05-04T20:52:05.093157+07:00",
   "articles": [
+    {
+      "id": "373eac414c0af470104005bf621d37a2",
+      "title": "Vì sao số liệu khách đến Đà Lạt lớn mà cảm giác 'không thấy đông'?",
+      "link": "https://tuoitre.vn/vi-sao-so-lieu-khach-den-da-lat-lon-ma-cam-giac-khong-thay-dong-20260504161733633.htm",
+      "summary": "Ngành chức năng tỉnh Lâm Đồng công bố du lịch Đà Lạt và toàn tỉnh thắng lớn trong 2 kỳ nghỉ lễ vừa qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T20:51:58.527346+07:00",
+      "fetched": "2026-05-04T20:51:58.527458+07:00"
+    },
+    {
+      "id": "5f4b863ee87d10c64b5ecd3aea4ee7ec",
+      "title": "Xuồng chở 14 khách đắm trên vịnh Hạ Long, 3 người bị thương",
+      "link": "https://tuoitre.vn/xuong-cho-14-khach-dam-tren-vinh-ha-long-3-nguoi-bi-thuong-20260504173847271.htm",
+      "summary": "Trong quá trình đưa du khách từ hang Luồn, vịnh Hạ Long về tàu Leona Cruise, xuồng chuyển tải bị mất lái, va chạm vào phao neo và bị đắm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T20:51:58.527221+07:00",
+      "fetched": "2026-05-04T20:51:58.527330+07:00"
+    },
+    {
+      "id": "bf8147513e22b807ce2846f72329d0e0",
+      "title": "Iran tuyên bố bắn trúng chiến hạm Mỹ cố vượt eo biển Hormuz, Mỹ bác bỏ",
+      "link": "https://tuoitre.vn/iran-tuyen-bo-ban-trung-chien-ham-my-co-vuot-eo-bien-hormuz-my-bac-bo-20260504180603034.htm",
+      "summary": "Iran nói tàu chiến Mỹ bị 2 tên lửa của họ bắn trúng ngày 4-5 khi qua eo Hormuz, nhưng Bộ Tư lệnh Trung tâm Mỹ đã bác bỏ tin này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T20:51:58.527102+07:00",
+      "fetched": "2026-05-04T20:51:58.527210+07:00"
+    },
+    {
+      "id": "6cc7a3a241c4f7b4331bb336e0f74b5f",
+      "title": "Công an truy tìm Trần Trung Hiếu, người bị tố lừa đảo gần 2 tỉ đồng",
+      "link": "https://tuoitre.vn/cong-an-truy-tim-tran-trung-hieu-nguoi-bi-to-lua-dao-gan-2-ti-dong-20260504175644866.htm",
+      "summary": "Theo đơn tố giác, Trần Trung Hiếu đã lừa đảo chiếm đoạt gần 2 tỉ đồng thông qua hình thức nhận nhập tiền hàng hoá để kinh doanh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T20:51:58.526982+07:00",
+      "fetched": "2026-05-04T20:51:58.527091+07:00"
+    },
+    {
+      "id": "3822dcc4174fcbef488c8945bd028b66",
+      "title": "Bà Hà Thị Nga thông tin về 'đại hội hết sức đặc biệt' và nhân sự khóa mới của MTTQ Việt Nam",
+      "link": "https://tuoitre.vn/ba-ha-thi-nga-thong-tin-ve-dai-hoi-het-suc-dac-biet-va-nhan-su-khoa-moi-cua-mttq-viet-nam-20260504181117125.htm",
+      "summary": "Phó chủ tịch - Tổng thư ký Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam Hà Thị Nga nhấn mạnh Đại hội đại biểu toàn quốc Mặt trận Tổ quốc Việt Nam lần thứ XI là đại hội hết sức đặc biệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T20:51:58.526849+07:00",
+      "fetched": "2026-05-04T20:51:58.526971+07:00"
+    },
+    {
+      "id": "1adc892b6812fb8585a2538a2699dc74",
+      "title": "Tỉ phú Jeff Bezos tài trợ Met Gala: Đêm hội xa hoa của giới siêu giàu",
+      "link": "https://tuoitre.vn/ti-phu-jeff-bezos-tai-tro-met-gala-dem-hoi-xa-hoa-cua-gioi-sieu-giau-20260504102707794.htm",
+      "summary": "Met Gala tại New York từ lâu là sự kiện xa hoa bậc nhất lịch sử thời trang, phản chiếu mối liên kết ngày càng chặt chẽ giữa nhà thiết kế, người nổi tiếng và giới tinh hoa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T20:51:58.526710+07:00",
+      "fetched": "2026-05-04T20:51:58.526820+07:00"
+    },
+    {
+      "id": "e0c79b92a6603436bb1159803224e246",
+      "title": "G-DRAGON bị lên án vì trang phục xúc phạm người da đen",
+      "link": "https://tuoitre.vn/g-dragon-bi-len-an-vi-trang-phuc-xuc-pham-nguoi-da-den-20260504180129461.htm",
+      "summary": "Trang phục biểu diễn của G-DRAGON tại một đêm nhạc ở Macau gây tranh cãi vì chứa cụm từ bị cho là xúc phạm người da đen, buộc công ty quản lý phải lên tiếng xin lỗi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T20:51:58.526588+07:00",
+      "fetched": "2026-05-04T20:51:58.526699+07:00"
+    },
+    {
+      "id": "66f7c35a6097ae67cbfc70c2362376ed",
+      "title": "Không được đóng bù bảo hiểm xã hội: Làm sao để lương hưu không bị ảnh hưởng?",
+      "link": "https://tuoitre.vn/khong-duoc-dong-bu-bao-hiem-xa-hoi-lam-sao-de-luong-huu-khong-bi-anh-huong-20260504174355794.htm",
+      "summary": "Người tham gia bảo hiểm xã hội tự nguyện không được truy đóng cho thời gian đã bỏ trống, đồng nghĩa với quyền lợi hưởng lương hưu bị ảnh hưởng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T20:51:58.526467+07:00",
+      "fetched": "2026-05-04T20:51:58.526577+07:00"
+    },
+    {
+      "id": "6db3a930c4c592072120a49600452bba",
+      "title": "ACV lãi kỷ lục 3.346 tỉ đồng trong quý 1",
+      "link": "https://tuoitre.vn/acv-lai-ky-luc-3-346-ti-dong-trong-quy-1-20260504180553799.htm",
+      "summary": "ACV đạt hơn 3.346 tỉ đồng lợi nhuận sau thuế trong quý 1-2026, tăng 7,2% so với cùng kỳ năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T20:51:58.526346+07:00",
+      "fetched": "2026-05-04T20:51:58.526456+07:00"
+    },
+    {
+      "id": "bad53cf2c2ba80ce05692ab5343e57ea",
+      "title": "Bé trai 5 tuổi đứt lìa hai ngón tay khi chơi xe điện tự chế",
+      "link": "https://tuoitre.vn/be-trai-5-tuoi-dut-lia-hai-ngon-tay-khi-choi-xe-dien-tu-che-20260504180155123.htm",
+      "summary": "Khi chơi xe điện tự chế tại quảng trường, tay của một bé trai 5 tuổi bị cuốn vào bánh xe, khiến đứt lìa ngón cái và ngón trỏ của bàn tay phải.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T20:51:58.526224+07:00",
+      "fetched": "2026-05-04T20:51:58.526335+07:00"
+    },
+    {
+      "id": "ce78046f171207d1908d0cc3e7dab879",
+      "title": "Thủ tướng Lê Minh Hưng tham dự Hội nghị cấp cao ASEAN lần thứ 48",
+      "link": "https://tuoitre.vn/thu-tuong-le-minh-hung-tham-du-hoi-nghi-cap-cao-asean-lan-thu-48-20260504182859051.htm",
+      "summary": "Thủ tướng Lê Minh Hưng dẫn đầu đoàn đại biểu cấp cao Việt Nam tham dự Hội nghị cấp cao ASEAN lần thứ 48 tại Cebu, Philippines từ ngày 7 đến 8-5.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T20:51:58.526098+07:00",
+      "fetched": "2026-05-04T20:51:58.526212+07:00"
+    },
+    {
+      "id": "60ddcf6c22bc161873c57b05d131468c",
+      "title": "Bí thư Cần Thơ: Giải phóng mặt bằng quốc lộ 91 phải đạt 100%, không chấp nhận 'lốm đốm'",
+      "link": "https://tuoitre.vn/bi-thu-can-tho-giai-phong-mat-bang-quoc-lo-91-phai-dat-100-khong-chap-nhan-lom-dom-20260504181708547.htm",
+      "summary": "Về công tác giải phóng mặt bằng, Bí thư Cần Thơ cho biết Trung tâm Phát triển quỹ đất thành phố đang phụ trách tới 200 dự án cùng lúc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T20:51:58.525966+07:00",
+      "fetched": "2026-05-04T20:51:58.526086+07:00"
+    },
+    {
+      "id": "c941e83245328ea1eded3dcb4347a5ff",
+      "title": "Đồng Tháp tháo gỡ điểm nghẽn cho ngành hàng sầu riêng",
+      "link": "https://tuoitre.vn/dong-thap-thao-go-diem-nghen-cho-nganh-hang-sau-rieng-20260504175641761.htm",
+      "summary": "Ngành hàng sầu riêng Đồng Tháp đang bước vào vụ thu hoạch chính vụ, với những áp lực lớn về thị trường và tiêu chuẩn xuất khẩu. Trước tình hình này, lãnh đạo tỉnh cùng các sở, ngành đang triển khai nhiều giải pháp cấp bách nhằm hỗ trợ nông dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T20:51:58.525784+07:00",
+      "fetched": "2026-05-04T20:51:58.525951+07:00"
+    },
+    {
+      "id": "58f8644da4d9150842e4d9506abafedc",
+      "title": "Iran treo cổ 3 người bị cáo buộc là điệp viên Mossad kích động biểu tình",
+      "link": "https://tuoitre.vn/iran-treo-co-3-nguoi-bi-cao-buoc-la-diep-vien-mossad-kich-dong-bieu-tinh-20260504182801674.htm",
+      "summary": "Những người bị Iran hành quyết bị cáo buộc là điệp viên Mossad, đã châm ngòi các cuộc biểu tình bạo lực diễn ra hồi cuối năm ngoái.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T20:51:58.525644+07:00",
+      "fetched": "2026-05-04T20:51:58.525771+07:00"
+    },
+    {
+      "id": "dfa11f12dc8049d23008d0cd27ce5242",
+      "title": "Nhầm lẫn thương hiệu lan rộng: Prudential Việt Nam lên tiếng làm rõ",
+      "link": "https://tuoitre.vn/nham-lan-thuong-hieu-lan-rong-prudential-viet-nam-len-tieng-lam-ro-2026050418554879.htm",
+      "summary": "Trước những thông tin lan truyền trên không gian mạng liên quan đến vụ việc của Prudential Life Insurance tại Nhật Bản, Công ty TNHH Bảo hiểm Nhân thọ Prudential Việt Nam vừa chính thức lên tiếng nhằm làm rõ các hiểu lầm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T20:51:58.525416+07:00",
+      "fetched": "2026-05-04T20:51:58.525629+07:00"
+    },
     {
       "id": "98bf8763955014963d5702a24b73e133",
       "title": "Cảnh sà lan đổ vật liệu xuống biển Hội An gây xôn xao, chính quyền khẳng định không có việc xả thải",
@@ -153,6 +303,36 @@ window.newsData_2026_05_04 = {
       "fetched": "2026-05-04T17:10:51.590635+07:00"
     },
     {
+      "id": "6b920c21f03f951e55953a9ade7d5cfe",
+      "title": "Mua Toyota Vios 3 năm trước, hiện chủ xe lỗ bao nhiêu?",
+      "link": "https://thanhnien.vn/mua-toyota-vios-3-nam-truoc-hien-chu-xe-lo-bao-nhieu-185260420222709956.htm",
+      "summary": "Sau 3 năm sử dụng, nhiều chiếc Toyota Vios đời 2023 hiện chỉ có giá khoảng 340 - 435 triệu đồng trên thị trường xe cũ, khấu hao hơn 40% giá trị so với lúc mua xe mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T13:46:00+07:00",
+      "fetched": "2026-05-04T20:51:57.420103+07:00"
+    },
+    {
+      "id": "ec9349b30fea30d95723c1573a18e5f3",
+      "title": "Đột nhập villa ở Hội An trộm 2 iPhone đời mới, nghi phạm nhiều tiền án bị bắt",
+      "link": "https://thanhnien.vn/dot-nhap-villa-o-hoi-an-trom-2-iphone-doi-moi-nghi-pham-nhieu-tien-an-bi-bat-185260504191239954.htm",
+      "summary": "Sau khi đột nhập một villa tại Hội An, lấy trộm 2 điện thoại iPhone đời mới cùng nhiều tài sản giá trị của khách lưu trú, nghi phạm có nhiều tiền án nhanh chóng bị bắt giữ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T13:43:00+07:00",
+      "fetched": "2026-05-04T20:51:57.420277+07:00"
+    },
+    {
+      "id": "4d6ca0678a5e5d8b80d92c60d14d6eea",
+      "title": "Chia buồn",
+      "link": "https://thanhnien.vn/chia-buon-185260504200754101.htm",
+      "summary": "Được tin cụ bà LƯƠNG THỊ PHƯỢC, sinh năm 1941, là nhạc mẫu anh Dương Danh Hữu (Đức Trung), Ủy viên Ban biên tập, Tổng thư ký Tòa soạn hội tụ Báo Thanh Niên, đã từ trần lúc 5 giờ 27 ngày 4.5.2026 (nhằm ngày 18 tháng 3 năm Bính Ngọ), hưởng thọ 86 tuổi;",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T13:41:00+07:00",
+      "fetched": "2026-05-04T20:51:57.420431+07:00"
+    },
+    {
       "id": "dc4f93168f1fe49d35d97eb419057c0d",
       "title": "Giá dầu giảm sau thông tin Mỹ sẽ hộ tống tàu trung lập qua eo Hormuz",
       "link": "https://tuoitre.vn/gia-dau-giam-sau-thong-tin-my-se-ho-tong-tau-trung-lap-qua-eo-hormuz-20260504102601696.htm",
@@ -301,6 +481,326 @@ window.newsData_2026_05_04 = {
       "category": "Tổng hợp",
       "published": "2026-05-04T13:36:16.286509+07:00",
       "fetched": "2026-05-04T13:36:16.286746+07:00"
+    },
+    {
+      "id": "77a5a3dd1a37986f016c6a67fce9b8e7",
+      "title": "Iran nói đã ngăn tàu chiến Mỹ tiến vào eo biển Hormuz, Mỹ lên tiếng",
+      "link": "https://thanhnien.vn/iran-noi-da-ngan-tau-chien-my-tien-vao-eo-bien-hormuz-my-len-tieng-185260504200818888.htm",
+      "summary": "Iran tuyên bố đã ngăn một tàu chiến Mỹ tiến vào eo biển Hormuz, trong bối cảnh Mỹ tìm cách hỗ trợ các tàu thương mại bị mắc kẹt rời khỏi eo biển này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T13:34:00+07:00",
+      "fetched": "2026-05-04T20:51:57.420581+07:00"
+    },
+    {
+      "id": "f7be3eb34da4c7aaf028f0326335e989",
+      "title": "Cấp cứu đường không xuyên đêm đưa 2 bệnh nhân từ Trường Sa về đất liền",
+      "link": "https://thanhnien.vn/cap-cuu-duong-khong-xuyen-dem-dua-2-benh-nhan-tu-truong-sa-ve-dat-lien-185260504192545945.htm",
+      "summary": "Rạng sáng 3.5.2026, Bệnh viện Quân Y 175 phối hợp cùng lực lượng quân y tại đảo Trường Sa Lớn khẩn trương đưa hai bệnh nhân về đất liền, chạy đua với thời gian để giành lại sự sống trong điều kiện thời tiết bất lợi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T13:32:00+07:00",
+      "fetched": "2026-05-04T20:51:57.420745+07:00"
+    },
+    {
+      "id": "e6aaded06faf583b503cd22b9baa15c5",
+      "title": "Bí quyết ôn thi tốt nghiệp THPT đạt điểm cao: Sắp xếp hội thoại trong tiếng Anh",
+      "link": "https://thanhnien.vn/bi-quyet-on-thi-tot-nghiep-thpt-dat-diem-cao-sap-xep-hoi-thoai-trong-tieng-anh-185260503153124078.htm",
+      "summary": "Vào lúc 20 giờ 30 ngày 4.5, Báo Thanh Niên phát sóng chuyên đề số 5 của môn tiếng Anh trong chương trình Bí quyết ôn thi tốt nghiệp THPT đạt điểm cao năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T13:30:00+07:00",
+      "fetched": "2026-05-04T20:51:57.420926+07:00"
+    },
+    {
+      "id": "a6c7f9415f73367b53343a9ea891fd3d",
+      "title": "Nước có thể dập tắt đám cháy từ pin lithium?",
+      "link": "https://thanhnien.vn/nuoc-co-the-dap-tat-dam-chay-tu-pin-lithium-185260501110252945.htm",
+      "summary": "Pin lithium hiện diện trong hầu hết thiết bị công nghệ, từ điện thoại thông minh đến ô tô điện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T13:30:00+07:00",
+      "fetched": "2026-05-04T20:51:57.421083+07:00"
+    },
+    {
+      "id": "1640c82bf1cbfcc6a570a565e6865f5e",
+      "title": "BÍ QUYẾT ÔN THI THPT 2026 | Môn tiếng Anh | Chuyên đề 5 | Sắp xếp các câu trong đoạn hội thoại",
+      "link": "https://thanhnien.vn/bi-quyet-on-thi-thpt-2026-mon-tieng-anh-chuyen-de-5-sap-xep-cac-cau-trong-doan-hoi-thoai-185260430134613346.htm",
+      "summary": "Chương trình hướng dẫn học sinh làm bài thi môn tiếng Anh, kỳ thi tốt nghiệp THPT 2026. Buổi hướng dẫn \"Bí quyết ôn thi THPT 2026\" do cô Trương Thị Cẩm Hân, Trường Quốc tế Á Châu, TP.HCM, thực hiện. Chương trình được phát trên các kênh thanhnien.vn, Facebook.com/thanhnien và YouTube Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T13:30:00+07:00",
+      "fetched": "2026-05-04T20:51:57.421232+07:00"
+    },
+    {
+      "id": "8735e60c2f334287d2749f0712333cbc",
+      "title": "Người dân Hà Nội mặc áo khoác giữa mùa hè oi bức?",
+      "link": "https://thanhnien.vn/nguoi-dan-ha-noi-mac-ao-khoac-giua-mua-he-oi-buc-185260504200601376.htm",
+      "summary": "Sáng sớm 4.5, do ảnh hưởng của không khí lạnh nhiệt độ tại Hà Nội và các tỉnh thuộc Tây Bắc Bộ và Đông Bắc Bộ đột ngột giảm nhiệt, không còn cảnh nắng nóng gay gắt nhiều người dân tại Thủ đô phải mặc thêm áo khoác khi ra đường. Trong khi đó, thời tiết thay đổi thất thường còn cảnh báo tăng nguy cơ m...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T13:28:00+07:00",
+      "fetched": "2026-05-04T20:51:57.421381+07:00"
+    },
+    {
+      "id": "fa56cb63c94bf4f30406ab2a0cba4065",
+      "title": "Bảng xếp hạng U.17 Việt Nam mới nhất: Tụt xuống hạng 3 sau trận thua Trung Quốc, Thái Lan tốp 2",
+      "link": "https://thanhnien.vn/bang-xep-hang-u17-viet-nam-moi-nhat-tut-xuong-hang-3-sau-tran-thua-trung-quoc-thai-lan-top-2-185260504202334783.htm",
+      "summary": "U.17 nữ Việt Nam nhận thất bại 0-3 trước U.17 nữ Trung Quốc, qua đó rơi xuống vị trí thứ 3 bảng A và gặp bất lợi trước lượt trận cuối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T13:27:00+07:00",
+      "fetched": "2026-05-04T20:51:57.421526+07:00"
+    },
+    {
+      "id": "f907e0bba2b4a5bccc92761c2c4b5ed7",
+      "title": "Drama bùng nổ: Fan Bạch Lộc tấn công, đòi khởi kiện phía Angelababy",
+      "link": "https://thanhnien.vn/drama-bung-no-fan-bach-loc-tan-cong-doi-khoi-kien-phia-angelababy-185260504183104583.htm",
+      "summary": "Tranh cãi giữa người hâm mộ Bạch Lộc và Angelababy đang leo thang khi một bộ phận fan kêu gọi khởi kiện, xoay quanh vị trí 'chị cả gameshow' và tiêu chuẩn làm nghề của nghệ sĩ, Sohu đưa tin ngày 3.5.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T13:26:00+07:00",
+      "fetched": "2026-05-04T20:51:57.421676+07:00"
+    },
+    {
+      "id": "28542a116124a99622b046987f3a5799",
+      "title": "Lễ hội pháo hoa quốc tế: Sân khấu 'biến hình' với siêu vòm 40 m bên sông Hàn",
+      "link": "https://thanhnien.vn/le-hoi-phao-hoa-quoc-te-san-khau-bien-hinh-voi-sieu-vom-40-m-ben-song-han-185260504184702404.htm",
+      "summary": "Lần đầu tiên tại Lễ hội pháo hoa quốc tế Đà Nẵng 2026 (DIFF), sân khấu được trang bị hệ vòm cơ khí khổng lồ cùng công nghệ hiện đại, có thể 'biến hình' trong chưa đầy 70 giây, hứa hẹn tạo nên đại cảnh bùng nổ bên sông Hàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T13:24:00+07:00",
+      "fetched": "2026-05-04T20:51:57.421823+07:00"
+    },
+    {
+      "id": "bc1c6eb71318c57110b3735007d92d74",
+      "title": "H'Hen Niê hé lộ cơ ngơi mới ở TP.HCM",
+      "link": "https://thanhnien.vn/hhen-nie-he-lo-co-ngoi-moi-o-tphcm-185260504193849082.htm",
+      "summary": "Trên trang cá nhân, H'Hen Niê có bài đăng dài chia sẻ về cơ ngơi mới của mình ở TP.HCM. Người đẹp cho biết đây là món quà cô tự thưởng cho mình sau quãng thời gian miệt mài làm việc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T13:22:00+07:00",
+      "fetched": "2026-05-04T20:51:57.421999+07:00"
+    },
+    {
+      "id": "e275633e14f93f6f3f228214bc84e557",
+      "title": "Mái tôn ở trường tiểu học bị cuốn xuống sân trường sau cơn giông lốc",
+      "link": "https://thanhnien.vn/mai-ton-o-truong-tieu-hoc-bi-cuon-xuong-san-truong-sau-con-dong-loc-185260504192250837.htm",
+      "summary": "Mái tôn một dãy nhà của trường tiểu học đã bị cuốn rơi xuống sân trường trong cơn giông lốc. Thời điểm đó học sinh đang ở trong lớp học nên không có trò hay thầy cô bị ảnh hưởng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T13:09:00+07:00",
+      "fetched": "2026-05-04T20:51:57.422156+07:00"
+    },
+    {
+      "id": "5ac54646d714073af1e8a319f1162e5f",
+      "title": "Apple âm thầm 'gom sạch' RAM, flagship Android gặp khó",
+      "link": "https://thanhnien.vn/apple-am-tham-gom-sach-ram-flagship-android-gap-kho-18526050418515186.htm",
+      "summary": "Nước đi kiểm soát nguồn RAM của Apple đang khiến thị trường smartphone rung chuyển, đặc biệt là các mẫu flagship Android vốn phụ thuộc chi phí linh kiện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T13:07:00+07:00",
+      "fetched": "2026-05-04T20:51:57.422311+07:00"
+    },
+    {
+      "id": "cc5d23b9d4b072bd79608b7fef4eda0a",
+      "title": "Thủ tướng sắp dự Hội nghị Cấp cao ASEAN",
+      "link": "https://vnexpress.net/thu-tuong-sap-du-hoi-nghi-cap-cao-asean-5069810.html",
+      "summary": "Thủ tướng Lê Minh Hưng sắp tham dự Hội nghị Cấp cao ASEAN lần thứ 48 tại Philippines, theo Bộ Ngoại giao.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-04T13:04:27+07:00",
+      "fetched": "2026-05-04T20:51:59.782107+07:00"
+    },
+    {
+      "id": "a66f87bfaa3acace6e09574d47a7544b",
+      "title": "Ăn ngô thay cơm được không?",
+      "link": "https://vnexpress.net/an-ngo-thay-com-duoc-khong-5061588.html",
+      "summary": "Tôi đang giảm cân, không muốn ăn cơm nên chuyển sang ăn ngô luộc, ngô hấp để cơ thể hấp thụ ít calo, liệu có đảm bảo sức khỏe?(Hoa, 22 tuổi, Hà Nội).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T13:00:00+07:00",
+      "fetched": "2026-05-04T20:51:54.242246+07:00"
+    },
+    {
+      "id": "47e6a3b81a5604d35f526bfba0e57eb6",
+      "title": "Giá sách giáo khoa năm học mới dự kiến giảm 13%",
+      "link": "https://vnexpress.net/gia-sach-giao-khoa-nam-hoc-moi-du-kien-giam-13-5069786.html",
+      "summary": "Thứ trưởng Bộ Giáo dục và Đào tạo Phạm Ngọc Thưởng cho biết Nhà xuất bản Giáo dục Việt Nam sẽ giảm 13% giá sách giáo khoa và cung ứng đủ cho năm học 2026-2027.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T12:59:54+07:00",
+      "fetched": "2026-05-04T20:51:54.242420+07:00"
+    },
+    {
+      "id": "08e6979c6f15bbf695d8acab39c107f5",
+      "title": "Nhóm người nước ngoài bị bắt vì đánh đập bạn, ép trả nợ thay",
+      "link": "https://vnexpress.net/nhom-nguoi-nuoc-ngoai-bi-bat-vi-danh-dap-ban-ep-tra-no-thay-5069815.html",
+      "summary": "Hai người đàn ông Trung Quốc và một người Việt bị bắt tạm giam với cáo buộc khống chế, hành hung một du khách để cưỡng đoạt nhiều tài sản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T12:53:25+07:00",
+      "fetched": "2026-05-04T20:51:54.242587+07:00"
+    },
+    {
+      "id": "75f0a90a913ffbb4dd6e79e04415219b",
+      "title": "'Bệnh viện Bạch Mai 2, Việt Đức 2 cơ bản gỡ xong vướng mắc'",
+      "link": "https://vnexpress.net/benh-vien-bach-mai-2-viet-duc-2-co-ban-go-xong-vuong-mac-5069788.html",
+      "summary": "Thứ trưởng Bộ Y tế Lê Đức Luận cho biết phần lớn vướng mắc tại hai dự án Bệnh viện Bạch Mai 2 và Việt Đức 2 đã được xử lý, đang hoàn thiện để đưa vào hoạt động trong quý 2/2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T12:50:31+07:00",
+      "fetched": "2026-05-04T20:51:54.242752+07:00"
+    },
+    {
+      "id": "63c69ff69100870264a4faec8ae09667",
+      "title": "Tham gia bán rẻ cổ phiếu, Phó tổng giám đốc Công ty Nguyễn Kim lĩnh 2 năm tù",
+      "link": "https://vnexpress.net/tham-gia-ban-re-co-phieu-pho-tong-giam-doc-cong-ty-nguyen-kim-linh-2-nam-tu-5069813.html",
+      "summary": "Tòa ghi nhận ông Phạm Nhật Vinh phạm tội với vai trò không đáng kể trong vụ bán rẻ 9 triệu cổ phiếu Sadeco, từ nước ngoài về đầu thú, ăn năn hối cải, nên giảm nhẹ hình phạt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T12:44:48+07:00",
+      "fetched": "2026-05-04T20:51:54.242932+07:00"
+    },
+    {
+      "id": "f551f5692dafacb3037e9d854b43b714",
+      "title": "Biến động tỷ lệ chọi lớp 10 các trường top đầu TP HCM",
+      "link": "https://vnexpress.net/bien-dong-ty-le-choi-lop-10-o-16-truong-top-dau-cua-tp-hcm-nam-2026-5069754.html",
+      "summary": "Hầu hết trong 16 trường THPT lấy điểm chuẩn lớp 10 cao nhất năm ngoái có tỷ lệ chọi từ 2 trở lên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T12:41:14+07:00",
+      "fetched": "2026-05-04T20:51:54.243090+07:00"
+    },
+    {
+      "id": "bab697444cdf8b20f4819e11ada67929",
+      "title": "6 gã đàn ông dàn cảnh cướp gần 2 kg vàng của người nước ngoài",
+      "link": "https://vnexpress.net/6-ga-dan-ong-dan-canh-cuop-gan-2-kg-vang-cua-nguoi-nuoc-ngoai-5069803.html",
+      "summary": "Khi người nước ngoài mang gần 2 kg vàng (khoảng 7,5 tỷ đồng) đến giao dịch, nhóm Phạm Văn Thùy dùng đèn khò nung chảy thành một khối rồi bất ngờ cướp, bỏ trốn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T12:12:47+07:00",
+      "fetched": "2026-05-04T20:51:54.243248+07:00"
+    },
+    {
+      "id": "3ab17eb3ce8d981fff1e0fa8341f071e",
+      "title": "151 học sinh được miễn thi tốt nghiệp THPT và xét thẳng đại học",
+      "link": "https://vnexpress.net/danh-sach-151-thi-sinh-duoc-mien-thi-tot-nghiep-thpt-va-xet-tuyen-thang-dai-hoc-nam-2026-chi-tiet-nhat-5069802.html",
+      "summary": "Số học sinh lớp 12 được miễn thi tốt nghiệp và ưu tiên xét tuyển thẳng vào đại học, cao đẳng năm nay cao nhất kể từ năm 2021.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T12:08:56+07:00",
+      "fetched": "2026-05-04T20:51:54.243410+07:00"
+    },
+    {
+      "id": "290ba886fb861a0c073095b18e64710c",
+      "title": "'Người bạn du học Tiến sĩ ở Pháp tụt hậu sau tôi 3 năm'",
+      "link": "https://vnexpress.net/du-hoc-ve-nuoc-nguoi-ban-du-hoc-tien-si-o-phap-di-sau-toi-3-nam-5069705.html",
+      "summary": "'Người bạn học Tiến sĩ ở Pháp góp ý phần mềm quản lý do đội ngũ trong nước phát triển, nhưng toàn thứ chúng tôi đã bàn 3-5 năm trước'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T12:00:00+07:00",
+      "fetched": "2026-05-04T20:51:54.243569+07:00"
+    },
+    {
+      "id": "c75c4e2d7aeee51427d3076ca8f97b04",
+      "title": "Ảo ảnh Mặt Trăng chưa được giải mã sau hàng nghìn năm",
+      "link": "https://vnexpress.net/ao-anh-mat-trang-chua-duoc-giai-ma-sau-hang-nghin-nam-5069631.html",
+      "summary": "Con người thường thấy Mặt Trăng rất lớn khi mọc hoặc lặn, lớn hơn so với khi ở trên cao, nhưng cảm nhận về kích thước này không đúng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T12:00:00+07:00",
+      "fetched": "2026-05-04T20:51:54.243722+07:00"
+    },
+    {
+      "id": "dc2561b602e1b96dbb3026e3c611a216",
+      "title": "10 điểm nhấn tại GameVerse 2026",
+      "link": "https://vnexpress.net/10-diem-nhan-tai-gameverse-2026-5069777.html",
+      "summary": "Vietnam GameVerse 2026 diễn ra ngày 8–9/5 với các hoạt động trưng bày, thi đấu Esports, cosplay, hội thảo, kết nối doanh nghiệp hay fan meeting.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T12:00:00+07:00",
+      "fetched": "2026-05-04T20:51:54.243901+07:00"
+    },
+    {
+      "id": "a867c8ed413839bfc8f964cb10c7ab26",
+      "title": "Dàn sao xuất hiện tại Vietnam GameVerse 2026 cuối tuần này",
+      "link": "https://vnexpress.net/dan-sao-xuat-hien-tai-vietnam-gameverse-2026-cuoi-tuan-nay-5069720.html",
+      "summary": "Nhiều ca sĩ, rapper, tuyển thủ Esports nổi tiếng sẽ quy tụ tại Ngày hội Game Việt Nam 2026 trong hai ngày 8-9/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T12:00:00+07:00",
+      "fetched": "2026-05-04T20:51:54.244059+07:00"
+    },
+    {
+      "id": "e5387b8637529012ec08c03327406574",
+      "title": "Vaccine cúm có thể giảm nguy cơ mắc Alzheimer ở người già",
+      "link": "https://vnexpress.net/vaccine-cum-co-the-giam-nguy-co-mac-alzheimer-o-nguoi-gia-5069596.html",
+      "summary": "Nghiên cứu mới cho thấy việc tiêm đủ vaccine cúm liều cao có thể hỗ trợ phòng bệnh Alzheimer nhiều hơn so với liều tiêm chuẩn, tới 55%.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T12:00:00+07:00",
+      "fetched": "2026-05-04T20:51:54.244208+07:00"
+    },
+    {
+      "id": "7a193982f453884b8b3d05250b50d3ce",
+      "title": "Bệnh viện Phương Đông: 'Chuyển đổi số không chỉ là công nghệ'",
+      "link": "https://vnexpress.net/benh-vien-phuong-dong-chuyen-doi-so-khong-chi-la-cong-nghe-5062340.html",
+      "summary": "Số hóa quy trình quản trị giúp nâng cao chất lượng điều trị và tối ưu vận hành bệnh viện, theo ông Nguyễn Công Minh - Phó giám đốc Bệnh viện Đa khoa Phương Đông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T12:00:00+07:00",
+      "fetched": "2026-05-04T20:51:54.244356+07:00"
+    },
+    {
+      "id": "c75c4e2d7aeee51427d3076ca8f97b04",
+      "title": "Ảo ảnh Mặt Trăng chưa được giải mã sau hàng nghìn năm",
+      "link": "https://vnexpress.net/ao-anh-mat-trang-chua-duoc-giai-ma-sau-hang-nghin-nam-5069631.html",
+      "summary": "Con người thường thấy Mặt Trăng rất lớn khi mọc hoặc lặn, lớn hơn so với khi ở trên cao, nhưng cảm nhận về kích thước này không đúng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-04T12:00:00+07:00",
+      "fetched": "2026-05-04T20:52:03.833916+07:00"
+    },
+    {
+      "id": "bf610d591150673bf24f806bdda0b34d",
+      "title": "Khách tố khách sạn ở Phú Yên 'chặt chém' phí dịch vụ",
+      "link": "https://vnexpress.net/khach-to-khach-san-o-phu-yen-chat-chem-phi-dich-vu-5069770.html",
+      "summary": "Du khách bức xúc vì bị thu phí phục vụ hơn 5 triệu đồng khi mang đồ ăn đến, trong khi chủ khách sạn nói phải dọn dẹp cho 30 người đến 1h hôm sau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-04T11:59:03+07:00",
+      "fetched": "2026-05-04T20:51:54.244512+07:00"
+    },
+    {
+      "id": "9d8db1353523de8542444bd2776b28c0",
+      "title": "Áo trục xuất ba nhà ngoại giao Nga vì 'rừng ăng-ten' tại sứ quán",
+      "link": "https://vnexpress.net/ao-truc-xuat-ba-nha-ngoai-giao-nga-vi-rung-ang-ten-tai-su-quan-5069785.html",
+      "summary": "Áo trục xuất ba nhân viên đại sứ quán Nga với cáo buộc làm gián điệp liên quan đến các hệ thống ăng-ten trên nóc sứ quán ở Vienna, động thái bị Moskva phản đối.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-04T11:49:32+07:00",
+      "fetched": "2026-05-04T20:51:59.782277+07:00"
+    },
+    {
+      "id": "ff43d79aa676600f517f7df3a86369a8",
+      "title": "Iran tuyên bố phóng tên lửa vào tàu chiến Mỹ, Washington bác bỏ",
+      "link": "https://vnexpress.net/iran-tuyen-bo-phong-ten-lua-vao-tau-chien-my-washington-bac-bo-5069751.html",
+      "summary": "Truyền thông Iran đưa tin rằng lực lượng nước này đã phóng hai tên lửa vào một tàu chiến Mỹ tại eo biển Hormuz, nhưng Bộ tư lệnh Trung tâm Mỹ bác bỏ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-04T10:43:49+07:00",
+      "fetched": "2026-05-04T20:51:59.782434+07:00"
+    },
+    {
+      "id": "03f06d8d143b1d7c65d6ba3704b64d81",
+      "title": "Mỹ trao trả tàu hàng Iran từng bị bắn thủng phòng máy",
+      "link": "https://vnexpress.net/my-trao-tra-tau-hang-iran-tung-bi-ban-thung-phong-may-5069699.html",
+      "summary": "Tàu hàng Iran cùng thủy thủ đoàn bị chiến hạm Mỹ nổ súng và bắt giữ hồi tháng trước đã được chuyển giao cho Pakistan, chuẩn bị hồi hương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-04T10:18:01+07:00",
+      "fetched": "2026-05-04T20:51:59.782604+07:00"
     },
     {
       "id": "5b9462356fa5be5550276ae05d7c45ef",
