@@ -1,6 +1,6 @@
 window.newsData_2026_05_06 = {
   "date": "2026-05-06",
-  "lastUpdated": "2026-05-06T02:15:11.587999+07:00",
+  "lastUpdated": "2026-05-06T03:59:23.278018+07:00",
   "articles": [
     {
       "id": "81be31c2b42a32d3706328e15e1619bd",
@@ -183,6 +183,16 @@ window.newsData_2026_05_06 = {
       "fetched": "2026-05-06T00:20:50.660340+07:00"
     },
     {
+      "id": "003ea6ef2c68f8e6f60def99253b2d6e",
+      "title": "86 ngày cứu chàng trai ngưng tim khi chơi thể thao",
+      "link": "https://vnexpress.net/86-ngay-cuu-chang-trai-ngung-tim-khi-choi-the-thao-5070338.html",
+      "summary": "Nguy kịch do ngưng tim đột ngột khi đang chơi thể thao, chàng trai 18 tuổi được y bác sĩ Bệnh viện Nhân dân 115 hồi sinh sau hành trình 86 ngày điều trị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-05T20:00:00+07:00",
+      "fetched": "2026-05-06T03:59:11.606023+07:00"
+    },
+    {
       "id": "219bf53074f4649c8187ab884932af17",
       "title": "Hơn 80% người trẻ Mỹ nói 'kinh tế quốc gia tồi tệ'",
       "link": "https://vnexpress.net/hon-80-nguoi-tre-my-noi-kinh-te-quoc-gia-toi-te-5070215.html",
@@ -191,6 +201,16 @@ window.newsData_2026_05_06 = {
       "category": "Thế giới",
       "published": "2026-05-05T19:00:00+07:00",
       "fetched": "2026-05-06T02:15:06.663087+07:00"
+    },
+    {
+      "id": "eb0036b8276fd70ee413bc9ace40d589",
+      "title": "Ăn hải sản mỗi ngày, người đàn ông suy thận",
+      "link": "https://vnexpress.net/an-hai-san-moi-ngay-nguoi-dan-ong-suy-than-5069838.html",
+      "summary": "Kết quả xét nghiệm của ông Lý, 64 tuổi, cho thấy chức năng thận suy giảm nghiêm trọng do thói quen ăn hải sản quá độ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-05T19:00:00+07:00",
+      "fetched": "2026-05-06T03:59:11.606374+07:00"
     },
     {
       "id": "c66dd8550b6174a5fb9459c18860e9a0",
