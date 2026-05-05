@@ -1,6 +1,6 @@
 window.newsData_2026_05_06 = {
   "date": "2026-05-06",
-  "lastUpdated": "2026-05-06T03:59:23.278018+07:00",
+  "lastUpdated": "2026-05-06T05:52:47.069100+07:00",
   "articles": [
     {
       "id": "81be31c2b42a32d3706328e15e1619bd",
@@ -181,6 +181,226 @@ window.newsData_2026_05_06 = {
       "category": "Tổng hợp",
       "published": "2026-05-06T00:20:50.660154+07:00",
       "fetched": "2026-05-06T00:20:50.660340+07:00"
+    },
+    {
+      "id": "150b2de0e23782a4e0e2f46d24eb17fb",
+      "title": "Kẹt quốc lộ, nhìn từ đầu tư công",
+      "link": "https://thanhnien.vn/ket-quoc-lo-nhin-tu-dau-tu-cong-185260505160024777.htm",
+      "summary": "Tiền \"ứ\" trong Kho bạc Nhà nước không giải ngân được trong khi nhiều tuyến quốc lộ từ Bắc vào Nam kẹt cứng là nghịch lý đang diễn ra hiện nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-05T22:52:00+07:00",
+      "fetched": "2026-05-06T05:52:40.097837+07:00"
+    },
+    {
+      "id": "00a0b19bf15cab16b39b1104774977ee",
+      "title": "Phe ly khai kích hoạt tiến trình tách Alberta khỏi Canada",
+      "link": "https://thanhnien.vn/phe-ly-khai-kich-hoat-tien-trinh-tach-alberta-khoi-canada-185260505181824914.htm",
+      "summary": "Ngày 4.5 (giờ địa phương), phe ủng hộ Alberta ly khai Canada thông báo đã nộp gần 302.000 chữ ký cho phía cơ quan bầu cử, kèm theo kiến nghị yêu cầu kích hoạt cuộc trưng cầu dân ý đòi độc lập cho tỉnh bang giàu dầu mỏ với 5 triệu dân của quốc gia Bắc Mỹ, theo AP.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-05T22:46:00+07:00",
+      "fetched": "2026-05-06T05:52:40.098030+07:00"
+    },
+    {
+      "id": "6cccd203f1d5c47ae56568a330e4aa49",
+      "title": "Tuyển sinh lớp 10 tại TP.HCM sau sáp nhập có 'hạ nhiệt'?",
+      "link": "https://thanhnien.vn/tuyen-sinh-lop-10-tai-tphcm-sau-sap-nhap-co-ha-nhiet-18526050519242092.htm",
+      "summary": "Theo số liệu học sinh đăng ký nguyện vọng 1 vào lớp 10 các trường THPT công lập năm học 2026-2027 do Sở GD-ĐT TP.HCM công bố, có khoảng 79,4% sẽ trúng tuyển vào trường công. Bên cạnh đó, tỷ lệ chọi vào các trường THPT năm nay có phần \"hạ nhiệt\" so với năm trước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-05T22:45:00+07:00",
+      "fetched": "2026-05-06T05:52:40.098188+07:00"
+    },
+    {
+      "id": "dba8d7fd2d1c0390cb7d41d5acfe41fc",
+      "title": "Xuất hiện hình ảnh mì Quảng có màu lạ ở chợ Huế, chính quyền lập tức kiểm tra",
+      "link": "https://thanhnien.vn/xuat-hien-hinh-anh-mi-quang-co-mau-la-o-cho-hue-chinh-quyen-lap-tuc-kiem-tra-185260505124624015.htm",
+      "summary": "Tiếp nhận thông tin từ một bài đăng trên mạng xã hội về việc sợi mì Quảng bán ở chợ Bến Ngự có màu lạ, chính quyền phường Thuận Hóa, thành phố Huế đã lập tức lập đoàn kiểm tra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-05T22:45:00+07:00",
+      "fetched": "2026-05-06T05:52:40.098342+07:00"
+    },
+    {
+      "id": "132cee1da0204322feb143a15b85efd1",
+      "title": "Miễn phí vé, buýt điện, buýt sông: Vậy điều gì còn thiếu để TP.HCM hút khách?",
+      "link": "https://thanhnien.vn/mien-phi-ve-buyt-dien-buyt-song-vay-dieu-gi-con-thieu-de-tphcm-hut-khach-185260429101856695.htm",
+      "summary": "Trong bối cảnh thành phố đang chịu sức ép từ gần 13 triệu phương tiện, mục tiêu tăng 30% lượng khách đi xe buýt cùng đề xuất miễn phí hơn 135 tuyến được kỳ vọng tạo cú hích lớn. Nhưng để người dân rời xe máy và chọn giao thông công cộng mỗi ngày, TP.HCM còn cần nhiều hơn một tấm vé miễn phí.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-05T22:37:00+07:00",
+      "fetched": "2026-05-06T05:52:40.098493+07:00"
+    },
+    {
+      "id": "84e3c88768abfbd19d633a2b04942e11",
+      "title": "CSGT TP.HCM vào trường dạy học sinh tránh 'điểm mù' xe tải",
+      "link": "https://thanhnien.vn/csgt-tphcm-vao-truong-day-hoc-sinh-tranh-diem-mu-xe-tai-185260505130943242.htm",
+      "summary": "CSGT TP.HCM hướng dẫn học sinh về điểm mù xe tải và các kỹ năng an toàn. Chương trình giúp nâng cao ý thức giao thông và trang bị kiến thức cần thiết để tránh tai nạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-05T22:35:00+07:00",
+      "fetched": "2026-05-06T05:52:40.098644+07:00"
+    },
+    {
+      "id": "b6c96591ab89fe5a1eabcb5ecf657817",
+      "title": "Tiêu điểm quốc tế ngày 6.5: Eo biển Hormuz lại sóng gió | Súng nổ gần Nhà Trắng",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-ngay-65-eo-bien-hormuz-lai-song-gio-sung-no-gan-nha-trang-185260506012529545.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 6.5.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-05T22:30:00+07:00",
+      "fetched": "2026-05-06T05:52:40.098791+07:00"
+    },
+    {
+      "id": "16eafad1df0f9e516658f022b936f1de",
+      "title": "Đang bán hàng, tiểu thương ở chợ được gọi đi... khám mắt",
+      "link": "https://thanhnien.vn/dang-ban-hang-tieu-thuong-o-cho-duoc-goi-di-kham-mat-185260505143614389.htm",
+      "summary": "Ngày 5.5, tiểu thương, người lao động làm việc ở chợ Thủ Dầu Một (phường Thủ Dầu Một) được gọi đi khám mắt miễn phí, bác sĩ đem thiết bị y tế đến tận nơi phục vụ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-05T22:30:00+07:00",
+      "fetched": "2026-05-06T05:52:40.098965+07:00"
+    },
+    {
+      "id": "50d356fe6fc94aaaae6be2bf9713e0e3",
+      "title": "HLV Simeone xô xát với lãnh đạo Arsenal",
+      "link": "https://vnexpress.net/hlv-simeone-xo-xat-voi-lanh-dao-arsenal-5070362.html",
+      "summary": "HLV Diego Simeone va chạm với Giám đốc thể thao Arsenal Andrea Berta ở những phút cuối trận bán kết lượt về Champions League, nơi Atletico thua 0-1.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-05T22:15:56+07:00",
+      "fetched": "2026-05-06T05:52:47.063836+07:00"
+    },
+    {
+      "id": "1dcc1c2df5ec8604c038d98c675fdfee",
+      "title": "Tử vi ngày 6 tháng 5: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-6-thang-5-con-giap-nao-may-man-hom-nay-1852605052309207.htm",
+      "summary": "Tử vi ngày 6 tháng 5 mang đến những gợi ý tham khảo cho 12 con giáp. Điểm đáng chú ý là quyết định giữ hay đổi, có những điều nên tiếp tục kiên trì, nhưng cũng có việc cần dứt khoát thay đổi. Tài lộc không nằm ở việc cố gắng nhiều hơn, mà ở việc bạn chọn đúng hướng để đi tiếp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-05T22:15:00+07:00",
+      "fetched": "2026-05-06T05:52:40.099116+07:00"
+    },
+    {
+      "id": "c77ef4cacc5e7ac8de2dcb6e10a9a7b2",
+      "title": "Lý do sốc vụ rượt đuổi suốt 10 km, chặn đầu xe cấp cứu  để đập phá ở Quảng Ngãi",
+      "link": "https://thanhnien.vn/kinh-hoang-canh-ruot-duoi-chan-dau-xe-cap-cuu-suot-10-km-tai-quang-ngai-185260505210919353.htm",
+      "summary": "Sau khi uống rượu, một người đàn ông ở Quảng Ngãi đã dùng dao gây thương tích cho 2 người rồi rượt đuổi, chặn đầu và đập phá xe cấp cứu suốt hơn 10 km gây bức xúc dư luận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-05T22:13:00+07:00",
+      "fetched": "2026-05-06T05:52:40.099266+07:00"
+    },
+    {
+      "id": "4b511c7451d0e2db41dc96577c0264ae",
+      "title": "Thái Lan hủy thỏa thuận 25 năm với Campuchia về hợp tác năng lượng",
+      "link": "https://thanhnien.vn/thai-lan-huy-thoa-thuan-25-nam-voi-campuchia-ve-hop-tac-nang-luong-185260505234002268.htm",
+      "summary": "Thái Lan ngày 5.5 chính thức hủy thỏa thuận kéo dài 25 năm qua với Campuchia liên quan việc hợp tác thăm dò năng lượng ngoài khơi, bất chấp lời kêu gọi tiếp tục duy trì của Phnom Penh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-05T22:04:00+07:00",
+      "fetched": "2026-05-06T05:52:40.099415+07:00"
+    },
+    {
+      "id": "76bb6bec6fcb46b67bb2f837e3edb223",
+      "title": "Hỏi quán ăn đắt hay rẻ: Ranh giới nào giữa chia sẻ và vi phạm?",
+      "link": "https://thanhnien.vn/hoi-quan-an-dat-hay-re-ranh-gioi-nao-giua-chia-se-va-vi-pham-185260505214827226.htm",
+      "summary": "Dịp lễ 30.4 - 1.5.2026, chính quyền địa phương và công an phải vào cuộc để xác minh, xử lý những bài viết đăng trên mạng tưởng chừng như bâng quơ: quán ăn đắt hay rẻ?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-05T22:00:00+07:00",
+      "fetched": "2026-05-06T05:52:40.099579+07:00"
+    },
+    {
+      "id": "4f60fd6eecd515d5db4c1b85e2be46bb",
+      "title": "Quà nhỏ, ý nghĩa lớn trong Tháng Công nhân",
+      "link": "https://thanhnien.vn/qua-nho-y-nghia-lon-trong-thang-cong-nhan-185260505191317357.htm",
+      "summary": "Không mang tính phong trào, Tháng Công nhân năm nay, nhiều hoạt động thiết thực được công đoàn tổ chức: đối thoại, hỗ trợ nhu yếu phẩm, xây nhà cho công nhân khó khăn, dã ngoại, đào tạo kỹ năng mới...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-05T22:00:00+07:00",
+      "fetched": "2026-05-06T05:52:40.099728+07:00"
+    },
+    {
+      "id": "82bd5e6bf0739bbc7389b6a22ffcff42",
+      "title": "Kênh Sơn Tịnh, Quảng Ngãi: Người dân phải sống bên dòng kênh chết?",
+      "link": "https://thanhnien.vn/kenh-son-tinh-quang-ngai-nguoi-dan-phai-song-ben-dong-kenh-chet-185260505183426405.htm",
+      "summary": "Hai bên bờ cây cối vẫn xanh, nhưng không khí thì đặc quánh mùi hôi. Một dòng nước đen kịt, bốc mùi nồng nặc đang ngày đêm đe dọa cuộc sống của người dân sống dọc kênh chìm Sơn Tịnh (tỉnh Quảng Ngãi).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-05T22:00:00+07:00",
+      "fetched": "2026-05-06T05:52:40.099874+07:00"
+    },
+    {
+      "id": "4b8843236908a67394c59e3d19da3e34",
+      "title": "Lịch âm hôm nay: Ngày 6.5 là ngày gì mà nhiều người quan tâm?",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-ngay-65-la-ngay-gi-ma-nhieu-nguoi-quan-tam-185260505182230703.htm",
+      "summary": "Theo lịch vạn niên, lịch âm hôm nay ngày 6.6 là ngày gì mà nhiều người Việt quan tâm, chia sẻ?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-05T22:00:00+07:00",
+      "fetched": "2026-05-06T05:52:40.100051+07:00"
+    },
+    {
+      "id": "da267b568bfdf3383e28718d005c11c3",
+      "title": "Lý do sản phụ Hàn Quốc phải vượt hàng trăm km để sinh con",
+      "link": "https://vnexpress.net/ly-do-san-phu-han-quoc-phai-vuot-hang-tram-km-de-sinh-con-5069904.html",
+      "summary": "Tình trạng thiếu bác sĩ và khác biệt năng lực theo vùng miền đang khiến nhiều sản phụ Hàn Quốc phải vượt hàng trăm km mới tìm được bệnh viện phù hợp.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-05T22:00:00+07:00",
+      "fetched": "2026-05-06T05:52:41.839668+07:00"
+    },
+    {
+      "id": "5a56dcd32ac7b1f95a18bd8312de866c",
+      "title": "Nữ game thủ tự chế 'căn phòng CPU'",
+      "link": "https://vnexpress.net/nu-game-thu-tu-che-can-phong-cpu-5069663.html",
+      "summary": "Soda Baka, reviewer công nghệ người Trung Quốc, tạo căn phòng với hình dáng CPU, đủ không gian cho một người có thể làm việc và chơi game bên trong.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-05T22:00:00+07:00",
+      "fetched": "2026-05-06T05:52:46.149108+07:00"
+    },
+    {
+      "id": "baee750704008bab63b9a73d91d7b030",
+      "title": "Sabalenka kêu gọi các tay vợt dọa tẩy chay Grand Slam",
+      "link": "https://vnexpress.net/sabalenka-keu-goi-cac-tay-vot-doa-tay-chay-grand-slam-5070356.html",
+      "summary": "Tay vợt nữ số một thế giới Aryna Sabalenka nói các ngôi sao quần vợt có thể phải tẩy chay Grand Slam để buộc ban tổ chức chia phần doanh thu lớn hơn cho VĐV.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-05T21:52:57+07:00",
+      "fetched": "2026-05-06T05:52:37.136392+07:00"
+    },
+    {
+      "id": "baee750704008bab63b9a73d91d7b030",
+      "title": "Sabalenka kêu gọi các tay vợt dọa tẩy chay Grand Slam",
+      "link": "https://vnexpress.net/sabalenka-keu-goi-cac-tay-vot-doa-tay-chay-grand-slam-5070356.html",
+      "summary": "Tay vợt nữ số một thế giới Aryna Sabalenka nói các ngôi sao quần vợt có thể phải tẩy chay Grand Slam để buộc ban tổ chức chia phần doanh thu lớn hơn cho VĐV.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-05T21:52:57+07:00",
+      "fetched": "2026-05-06T05:52:47.063498+07:00"
+    },
+    {
+      "id": "531afb7725edb6807c8d0f38b5aa2cf1",
+      "title": "Arsenal hạ Atletico, vào chung kết Champions League",
+      "link": "https://vnexpress.net/arsenal-ha-atletico-vao-chung-ket-champions-league-5070361.html",
+      "summary": "Bukayo Saka ghi bàn duy nhất giúp Arsenal hạ Atletico Madrid 1-0 ở lượt về bán kết, qua đó vào chung kết Champions League với chiến thắng chung cuộc 2-1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-05T20:59:07+07:00",
+      "fetched": "2026-05-06T05:52:37.136577+07:00"
+    },
+    {
+      "id": "951a448df5eca731f3c06775d57b148d",
+      "title": "Arsenal vào chung kết Champions League sau 20 năm",
+      "link": "https://vnexpress.net/arsenal-vao-chung-ket-champions-league-sau-20-nam-5070361.html",
+      "summary": "Bukayo Saka ghi bàn duy nhất giúp Arsenal hạ Atletico Madrid 1-0 ở lượt về bán kết, để vào chung kết Champions League với tổng tỷ số 2-1.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-05T20:59:07+07:00",
+      "fetched": "2026-05-06T05:52:47.063673+07:00"
     },
     {
       "id": "003ea6ef2c68f8e6f60def99253b2d6e",
@@ -1161,6 +1381,16 @@ window.newsData_2026_05_06 = {
       "category": "Công nghệ",
       "published": "2026-05-05T03:01:09+07:00",
       "fetched": "2026-05-06T00:20:54.946853+07:00"
+    },
+    {
+      "id": "6d063309d4ec5b3cc5b9b890717c0a63",
+      "title": "Cơ thủ Trung Quốc vô địch snooker thế giới, nhận 676.000 USD",
+      "link": "https://vnexpress.net/co-thu-trung-quoc-vo-dich-snooker-the-gioi-nhan-676-000-usd-5069948.html",
+      "summary": "Cơ thủ 22 tuổi Wu Yize thắng Shaun Murphy 18-17 trong trận chung kết nghẹt thở tại Sheffield, để trở thành nhà vô địch snooker thế giới trẻ nhất trong 36 năm.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-05T02:27:55+07:00",
+      "fetched": "2026-05-06T05:52:47.065771+07:00"
     },
     {
       "id": "258009bc4bd6e5d9a274302025712c96",
