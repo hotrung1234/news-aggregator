@@ -1,7 +1,17 @@
 window.newsData_2026_05_07 = {
   "date": "2026-05-07",
-  "lastUpdated": "2026-05-07T02:42:34.276288+07:00",
+  "lastUpdated": "2026-05-07T04:08:08.429190+07:00",
   "articles": [
+    {
+      "id": "d64a21601ae23e0ee8320c74eb067f9e",
+      "title": "Việt Nam đánh bại Yemen ở trận ra quân Giải U17 châu Á 2026",
+      "link": "https://tuoitre.vn/viet-nam-danh-bai-yemen-o-tran-ra-quan-giai-u17-chau-a-2026-20260506105103176.htm",
+      "summary": "Rạng sáng 7-5, U17 Việt Nam đã đánh bại U17 Yemen 1-0 ở trận ra quân bảng C Giải U17 châu Á 2026 tại Saudi Arabia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T04:08:02.640461+07:00",
+      "fetched": "2026-05-07T04:08:02.640557+07:00"
+    },
     {
       "id": "e3794e491b157a6bf4f307e11088d4a4",
       "title": "U17 Việt Nam - U17 Yemen (hiệp 2) 0-0: Chờ hiệp 2 bùng nổ",
@@ -161,6 +171,36 @@ window.newsData_2026_05_07 = {
       "category": "Tổng hợp",
       "published": "2026-05-07T00:27:13.017049+07:00",
       "fetched": "2026-05-07T00:27:13.017297+07:00"
+    },
+    {
+      "id": "7fb4b50ae3659daea80094db55c2ebda",
+      "title": "PSG quá bản lĩnh, cầm chân Bayern Munich ngay tại 'hang hùm': Hiên ngang vào chung kết đấu Arsenal",
+      "link": "https://thanhnien.vn/psg-qua-ban-linh-cam-chan-bayern-munich-ngay-tai-hang-hum-hien-ngang-vao-chung-ket-dau-arsenal-18526050704030677.htm",
+      "summary": "Rạng sáng 7.5 (giờ Việt Nam), HLV Luis Enrique đã ra đấu pháp hợp lý để giúp PSG có trận hòa 1-1 ở trận bán kết lượt về Cúp C1 châu Âu trước Bayern Munich, qua đó giành chiến thắng với tổng tỷ số 6-4.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T21:04:00+07:00",
+      "fetched": "2026-05-07T04:08:01.609554+07:00"
+    },
+    {
+      "id": "00b515a1eb8ae66ddc54a56951361baf",
+      "title": "Giật mình nửa đêm rồi khó ngủ lại: Khi nào cần đi khám?",
+      "link": "https://thanhnien.vn/giat-minh-nua-dem-roi-kho-ngu-lai-khi-nao-can-di-kham-185260506200652729.htm",
+      "summary": "Nhiều người từng trải qua cảm giác đang ngủ ngon thì bất ngờ tỉnh giấc lúc nửa đêm, nhìn đồng hồ thấy mới 2 - 3 giờ sáng rồi trằn trọc mãi không ngủ lại được. Đôi khi, thức giấc giữa đêm có thể là dấu hiệu bất thường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T20:04:00+07:00",
+      "fetched": "2026-05-07T04:08:01.609699+07:00"
+    },
+    {
+      "id": "b509e0bf8ae1b8bcfdb310dd5a4b70db",
+      "title": "U.17 Việt Nam thắng quả cảm Yemen, mở toang cánh cửa World Cup",
+      "link": "https://thanhnien.vn/u17-viet-nam-thang-qua-cam-yemen-mo-toang-canh-cua-world-cup-185260506232924074.htm",
+      "summary": "Chiến thắng 1-0 trước U.17 Yemen giúp U.17 Việt Nam tạo lợi thế trên đường đua giành vé vượt qua vòng bảng VCK U.17 châu Á 2026, tương đương suất dự U.17 World Cup.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T19:49:00+07:00",
+      "fetched": "2026-05-07T04:08:01.609835+07:00"
     },
     {
       "id": "82154dfa3adf56ee44aca78a2286a906",
