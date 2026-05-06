@@ -1,7 +1,17 @@
 window.newsData_2026_05_07 = {
   "date": "2026-05-07",
-  "lastUpdated": "2026-05-07T00:27:20.401235+07:00",
+  "lastUpdated": "2026-05-07T02:42:34.276288+07:00",
   "articles": [
+    {
+      "id": "e3794e491b157a6bf4f307e11088d4a4",
+      "title": "U17 Việt Nam - U17 Yemen (hiệp 2) 0-0: Chờ hiệp 2 bùng nổ",
+      "link": "https://tuoitre.vn/u17-viet-nam-u17-yemen-hiep-2-0-0-cho-hiep-2-bung-no-20260506105103176.htm",
+      "summary": "U17 Việt Nam và Yemen hòa nhau 0-0 sau 45 phút thi đấu đầu tiên. Hy vọng hiệp 2 sẽ là thời gian bùng nổ của U17 Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T02:42:26.602890+07:00",
+      "fetched": "2026-05-07T02:42:26.602984+07:00"
+    },
     {
       "id": "89a081dba26c4196f0d8da2ce0c92be8",
       "title": "Ông Trump: Chiến dịch Cuồng nộ chỉ chấm dứt nếu Iran đồng ý với những gì đã thống nhất",
@@ -151,6 +161,76 @@ window.newsData_2026_05_07 = {
       "category": "Tổng hợp",
       "published": "2026-05-07T00:27:13.017049+07:00",
       "fetched": "2026-05-07T00:27:13.017297+07:00"
+    },
+    {
+      "id": "82154dfa3adf56ee44aca78a2286a906",
+      "title": "Bảng xếp hạng U.17 châu Á mới nhất: U.17 Việt Nam bất ngờ dẫn đầu, Hàn Quốc và UAE cùng tốp 2",
+      "link": "https://thanhnien.vn/bang-xep-hang-u17-chau-a-moi-nhat-u17-viet-nam-bat-ngo-dan-dau-han-quoc-va-uae-cung-top-2-185260507022841026.htm",
+      "summary": "Sau lượt trận đầu tiên trong khuôn khổ bảng C U.17 châu Á 2026, U.17 Việt Nam dẫn đầu bảng C với 3 điểm, trong khi U.17 Hàn Quốc và U.17 UAE xếp sau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T19:34:00+07:00",
+      "fetched": "2026-05-07T02:42:25.340317+07:00"
+    },
+    {
+      "id": "8ec864ff6645371117e62d06bfb3eb0b",
+      "title": "Việt Nam lần đầu thắng ở VCK U17 châu Á sau 10 năm",
+      "link": "https://vnexpress.net/viet-nam-lan-dau-thang-o-vck-u17-chau-a-sau-10-nam-5070840.html",
+      "summary": "Việt Nam hạ Yemen 1-0 ở lượt ra quân bảng C vòng chung kết U17 châu Á 2026 rạng sáng nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T19:07:03+07:00",
+      "fetched": "2026-05-07T02:42:22.155823+07:00"
+    },
+    {
+      "id": "8ec864ff6645371117e62d06bfb3eb0b",
+      "title": "Việt Nam lần đầu thắng ở VCK U17 châu Á sau 10 năm",
+      "link": "https://vnexpress.net/viet-nam-lan-dau-thang-o-vck-u17-chau-a-sau-10-nam-5070840.html",
+      "summary": "Việt Nam hạ Yemen 1-0 ở lượt ra quân bảng C vòng chung kết U17 châu Á 2026 rạng sáng nay.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-06T19:07:03+07:00",
+      "fetched": "2026-05-07T02:42:34.271645+07:00"
+    },
+    {
+      "id": "5c82a907162ea5bf75604c45578f0a39",
+      "title": "Nike chưa thể phục hồi với chiến lược 'Win Now'",
+      "link": "https://vnexpress.net/nike-chua-the-phuc-hoi-voi-chien-luoc-win-now-5070718.html",
+      "summary": "Sau 18 tháng triển khai chiến lược vực dậy \"Chiến thắng ngay\", thị phần của Nike tiếp tục sụt giảm khiến giới đầu tư Phố Wall mất dần kiên nhẫn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T18:10:00+07:00",
+      "fetched": "2026-05-07T02:42:22.155988+07:00"
+    },
+    {
+      "id": "5c82a907162ea5bf75604c45578f0a39",
+      "title": "Nike chưa thể phục hồi với chiến lược 'Win Now'",
+      "link": "https://vnexpress.net/nike-chua-the-phuc-hoi-voi-chien-luoc-win-now-5070718.html",
+      "summary": "Sau 18 tháng triển khai chiến lược vực dậy \"Chiến thắng ngay\", thị phần của Nike tiếp tục sụt giảm khiến giới đầu tư Phố Wall mất dần kiên nhẫn.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-06T18:10:00+07:00",
+      "fetched": "2026-05-07T02:42:29.629302+07:00"
+    },
+    {
+      "id": "e90a0e2495249f408b84ab695d5ec070",
+      "title": "5 dấu hiệu sớm cảnh báo ung thư đại trực tràng",
+      "link": "https://vnexpress.net/5-dau-hieu-som-canh-bao-ung-thu-dai-truc-trang-5070236.html",
+      "summary": "Một số triệu chứng ung thư đại trực tràng có thể xuất hiện sớm như đau bụng kéo dài, thay đổi thói quen đại tiện và sụt cân không rõ nguyên nhân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T18:00:00+07:00",
+      "fetched": "2026-05-07T02:42:22.156142+07:00"
+    },
+    {
+      "id": "c9f94ed1e305d495340adda0451c25fc",
+      "title": "5 loại quả người tiểu đường có thể ăn mỗi tuần",
+      "link": "https://vnexpress.net/5-loai-qua-nguoi-tieu-duong-co-the-an-moi-tuan-5070713.html",
+      "summary": "Quả mọng, bơ, táo và ổi giàu chất xơ, chất chống oxy hóa tốt cho sức khỏe, ít làm tăng đường huyết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-06T18:00:00+07:00",
+      "fetched": "2026-05-07T02:42:22.156304+07:00"
     },
     {
       "id": "afa8f654b745717024477ca00162b0ac",
