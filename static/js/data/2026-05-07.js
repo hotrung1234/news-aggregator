@@ -1,7 +1,157 @@
 window.newsData_2026_05_07 = {
   "date": "2026-05-07",
-  "lastUpdated": "2026-05-07T05:50:58.776188+07:00",
+  "lastUpdated": "2026-05-07T09:37:13.304580+07:00",
   "articles": [
+    {
+      "id": "d4064c02b408fc5bd9dad89994ab36d4",
+      "title": "Tranh cãi gia đình Tây đăng tuyển bảo mẫu 375.000 đồng/ngày tiếp tục chia đôi mạng xã hội",
+      "link": "https://tuoitre.vn/tranh-cai-gia-dinh-tay-dang-tuyen-bao-mau-375-000-dong-ngay-tiep-tuc-chia-doi-mang-xa-hoi-20260506232535474.htm",
+      "summary": "Sau bài đăng tuyển 'travel nanny' (bảo mẫu đi du lịch cùng gia đình) của một du khách nước ngoài với mức thù lao 375.000 đồng/ngày gây tranh cãi những ngày qua, làn sóng phản hồi từ cộng đồng mạng tiếp tục chia thành hai luồng rõ rệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T09:37:05.270598+07:00",
+      "fetched": "2026-05-07T09:37:05.270706+07:00"
+    },
+    {
+      "id": "6f2ecad78d8e41adff8c4bc63adab16b",
+      "title": "Phim Việt sống nhờ viral: Con dao hai lưỡi của phòng vé",
+      "link": "https://tuoitre.vn/phim-viet-song-nho-viral-con-dao-hai-luoi-cua-phong-ve-20260506233110667.htm",
+      "summary": "Các nhà sản xuất giờ đây không chỉ dùng cách lan truyền trên mạng xã hội (viral) để quảng bá phim mà còn để 'giải cứu' phòng vé.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T09:37:05.270503+07:00",
+      "fetched": "2026-05-07T09:37:05.270589+07:00"
+    },
+    {
+      "id": "6c35462327f3cb50839fe2cb2987db53",
+      "title": "Cháo gà nấu với hạt kê, món ngon tiếp sức cho sĩ tử đi thi",
+      "link": "https://tuoitre.vn/chao-ga-nau-voi-hat-ke-mon-ngon-tiep-suc-cho-si-tu-di-thi-20260506213150702.htm",
+      "summary": "Từ hạt kê, có thể chế biến nhiều món, trong đó phổ biến và dễ ăn nhất là cháo gà nấu với hạt kê - thường gọi là cháo 'song kê'. Món ăn này kết hợp nguồn đạm từ thịt gà với tinh bột và vi chất từ hạt kê, tạo thành bữa ăn nhẹ, dễ tiêu hóa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T09:37:05.270409+07:00",
+      "fetched": "2026-05-07T09:37:05.270495+07:00"
+    },
+    {
+      "id": "024740213fd834925333ea38705fd9c7",
+      "title": "Venezuela thay ‘át chủ bài’ trước giờ G, đường đua MGI All Stars nóng lên",
+      "link": "https://tuoitre.vn/venezuela-thay-at-chu-bai-truoc-gio-g-duong-dua-mgi-all-stars-nong-len-20260507042726055.htm",
+      "summary": "Sthefany Gutiérrez rút lui sát giờ G khiến Venezuela phải thay đổi đại diện tại MGI All Stars 2026. Gabriela De La Cruz - á hậu Miss Supranational 2019 thay thế, đường đua thêm phần kịch tính.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T09:37:05.270313+07:00",
+      "fetched": "2026-05-07T09:37:05.270401+07:00"
+    },
+    {
+      "id": "d79f57222fa81a06b23e45198943424b",
+      "title": "Hào quang trang sức kim cương thắp sáng thảm đỏ Liên hoan phim Cannes",
+      "link": "https://tuoitre.vn/hao-quang-trang-suc-kim-cuong-thap-sang-tham-do-lien-hoan-phim-cannes-20260506230817377.htm",
+      "summary": "Liên hoan phim Cannes từ lâu được xem là sự kiện có sức ảnh hưởng bậc nhất để phô diễn những tuyệt phẩm trang sức kim cương kỳ ảo nhất thế giới, kể từ khi ra đời vào năm 1946.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T09:37:05.270215+07:00",
+      "fetched": "2026-05-07T09:37:05.270305+07:00"
+    },
+    {
+      "id": "8d16ca029ae17745e441b5ec138a6de5",
+      "title": "4 anime được mong chờ nhất từ studio đứng sau Thanh gươm diệt quỷ",
+      "link": "https://tuoitre.vn/4-anime-duoc-mong-cho-nhat-tu-studio-dung-sau-thanh-guom-diet-quy-20260506230251599.htm",
+      "summary": "Ufotable - studio hoạt hình nổi tiếng với Thanh gươm diệt quỷ - đang phát triển 4 dự án anime lớn, từ Genshin Impact cho đến phần tiếp theo của Vô hạn thành. Tất cả đều nhận được sự kỳ vọng rất lớn từ người hâm mộ toàn cầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T09:37:05.270115+07:00",
+      "fetched": "2026-05-07T09:37:05.270206+07:00"
+    },
+    {
+      "id": "a426f2a7c84c27aa121d8c6ab82c0cf8",
+      "title": "Đường chuyền xé toạc hàng phòng ngự Yemen của U17 Việt Nam",
+      "link": "https://tuoitre.vn/duong-chuyen-xe-toac-hang-phong-ngu-yemen-cua-u17-viet-nam-20260507023933398.htm",
+      "summary": "Sau nhiều nỗ lực tấn công, tiền vệ Chu Ngọc Nguyễn Lực (sinh năm 2009) đã kiến tạo thuận lợi để Đậu Quang Hưng ghi bàn mở tỉ số cho U17 Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T09:37:05.270013+07:00",
+      "fetched": "2026-05-07T09:37:05.270106+07:00"
+    },
+    {
+      "id": "351999e366e56625fa9a53f1a37d5ba9",
+      "title": "Tin tức thế giới 7-5: Nga cảnh báo đánh lớn vào Kiev; Ông Trump dọa ném bom Iran mạnh hơn",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-7-5-nga-canh-bao-danh-lon-vao-kiev-ong-trump-doa-nem-bom-iran-manh-hon-20260507054213909.htm",
+      "summary": "Ông Trump nói có thể đạt thỏa thuận với Iran nhưng dọa ném bom mạnh hơn nếu không thành; Nga cảnh báo các nhà ngoại giao sơ tán khỏi Kiev.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T09:37:05.269913+07:00",
+      "fetched": "2026-05-07T09:37:05.270005+07:00"
+    },
+    {
+      "id": "846ae60166512cf17a99a5328df40646",
+      "title": "Bayern Munich bất lực, PSG vào chung kết Champions League",
+      "link": "https://tuoitre.vn/bayern-munich-bat-luc-psg-vao-chung-ket-champions-league-20260507043833862.htm",
+      "summary": "Rạng sáng 7-5, PSG đã giành vé vào chung kết Champions League sau khi hòa chủ nhà Bayern Munich 1-1 ở bán kết lượt về. PSG thắng tổng tỉ số 6-5 sau hai lượt trận (lượt đi PSG thắng 5-4 trên sân nhà).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T09:37:05.269809+07:00",
+      "fetched": "2026-05-07T09:37:05.269903+07:00"
+    },
+    {
+      "id": "e15b0f65da052f6055b5838c6772373d",
+      "title": "U17 Hàn Quốc thoát thua trước U17 UAE",
+      "link": "https://tuoitre.vn/u17-han-quoc-thoat-thua-truoc-u17-uae-20260507035548684.htm",
+      "summary": "Dù đã tạo nên bất ngờ khi dẫn trước U17 Hàn Quốc trong phần lớn thời gian của trận đấu, U17 UAE đã không thể bảo toàn lợi thế khi đánh rơi 2 điểm trong những phút cuối tại lượt trận đầu tiên của bảng C giải U17 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T09:37:05.269691+07:00",
+      "fetched": "2026-05-07T09:37:05.269799+07:00"
+    },
+    {
+      "id": "6f7092b762438af07396be0ec592e09f",
+      "title": "U17 Hàn Quốc giữ được 1 điểm nhờ đẳng cấp ngôi sao",
+      "link": "https://tuoitre.vn/u17-han-quoc-giu-duoc-1-diem-nho-dang-cap-ngoi-sao-20260507024640917.htm",
+      "summary": "Rạng sáng 7-5, Ahn Joo Wan có pha xử lý đẳng cấp để giúp U17 Hàn Quốc có được 1 điểm trong lượt trận đầu tiên tại bảng C giải U17 châu Á.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T09:37:05.269588+07:00",
+      "fetched": "2026-05-07T09:37:05.269682+07:00"
+    },
+    {
+      "id": "9e075e2e9dd4ea063884fe1b2a42811d",
+      "title": "Xác định cặp đấu, thời gian đá chung kết Champions League",
+      "link": "https://tuoitre.vn/xac-dinh-cap-dau-thoi-gian-da-chung-ket-champions-league-20260507051529641.htm",
+      "summary": "Sau trận bán kết lượt về giữa Bayern Munich - PSG rạng sáng 7-5, Champions League đã xác định được 2 đội vào chung kết, thời gian và địa điểm của trận đấu cuối cùng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T09:37:05.269482+07:00",
+      "fetched": "2026-05-07T09:37:05.269579+07:00"
+    },
+    {
+      "id": "5252a80850f04ca05553e40b993f57f3",
+      "title": "VinFast lộ xe máy điện lạ: Dáng thể thao, ghi đông trần, người Việt thiết kế",
+      "link": "https://tuoitre.vn/vinfast-lo-xe-may-dien-la-dang-the-thao-ghi-dong-tran-nguoi-viet-thiet-ke-20260506131055376.htm",
+      "summary": "Trong hai mẫu xe máy điện mới được VinFast hé lộ, một mẫu gây chú ý với thiết kế hoàn toàn mới do đội ngũ người Việt thực hiện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T09:37:05.269370+07:00",
+      "fetched": "2026-05-07T09:37:05.269472+07:00"
+    },
+    {
+      "id": "2064c9b08fb4bb466ed6c914056fbbc6",
+      "title": "Trung Đông sáng 7-5: Iran chế giễu ông Trump; Israel lần đầu tấn công Beirut hậu ngừng bắn",
+      "link": "https://tuoitre.vn/trung-dong-sang-7-5-iran-che-gieu-ong-trump-israel-lan-dau-tan-cong-beirut-hau-ngung-ban-20260507071951231.htm",
+      "summary": "Ông Trump dự đoán cuộc chiến với Iran sẽ sớm kết thúc; Nhà đàm phán hàng đầu Iran chế giễu Mỹ vì ngừng hộ tống tàu qua eo biển Hormuz... là một số tin tức đáng chú ý về Trung Đông sáng 7-5.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T09:37:05.269243+07:00",
+      "fetched": "2026-05-07T09:37:05.269360+07:00"
+    },
+    {
+      "id": "1a33fc91723f21649f26ace483904d6d",
+      "title": "Phát hiện dấu vết mực khổng lồ, lớn bằng xe buýt dưới đáy biển Úc",
+      "link": "https://tuoitre.vn/phat-hien-dau-vet-muc-khong-lo-lon-bang-xe-buyt-duoi-day-bien-uc-20260506214904341.htm",
+      "summary": "Khảo sát ngoài khơi Úc phát hiện dấu vết mực khổng lồ và hàng trăm loài hiếm, cho thấy hệ sinh thái biển sâu còn rất ít được biết đến.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T09:37:05.268990+07:00",
+      "fetched": "2026-05-07T09:37:05.269229+07:00"
+    },
     {
       "id": "d64a21601ae23e0ee8320c74eb067f9e",
       "title": "Việt Nam đánh bại Yemen ở trận ra quân Giải U17 châu Á 2026",
@@ -21,6 +171,386 @@ window.newsData_2026_05_07 = {
       "category": "Tổng hợp",
       "published": "2026-05-07T02:42:26.602890+07:00",
       "fetched": "2026-05-07T02:42:26.602984+07:00"
+    },
+    {
+      "id": "655668b436fed5fc1304cd83ebcbac57",
+      "title": "Vướng quy hoạch bô xít: Trường học chực chờ sập, học sinh phải 'học nhờ, học đậu'",
+      "link": "https://thanhnien.vn/vuong-quy-hoach-bo-xit-truong-hoc-chuc-cho-sap-hoc-sinh-phai-hoc-nho-hoc-dau-185260507084453911.htm",
+      "summary": "Lớp học xuống cấp nghiêm trọng, hàng trăm học sinh thiếu phòng học, phải học nhờ tại nhà văn hóa nhiều năm nay. Tình cảnh xót xa này vẫn đang tiếp diễn chỉ vì vướng quy hoạch bô xít. Quá sốt ruột trước sự an toàn của học sinh và chất lượng giảng dạy, các nhà trường đã không thể tiếp tục chờ đợi mà p...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T02:30:00+07:00",
+      "fetched": "2026-05-07T09:37:04.220238+07:00"
+    },
+    {
+      "id": "db382b249b7576ec92b6f6421af3d253",
+      "title": "Chó dại lao vào nhà cắn người phụ nữ 6 vết sâu, Cà Mau xuất hiện ổ dịch mới",
+      "link": "https://thanhnien.vn/cho-dai-lao-vao-nha-can-nguoi-phu-nu-6-vet-sau-ca-mau-xuat-hien-o-dich-moi-18526050708572038.htm",
+      "summary": "Đang ở trong nhà, 1 phụ nữ bất ngờ bị chó dại lao vào cắn gây nhiều vết thương sâu. Ngay sau đó, địa phương phải khẩn cấp khoanh vùng ổ dịch và triển khai tiêm hơn 1.100 liều vắc xin phòng dại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T02:28:00+07:00",
+      "fetched": "2026-05-07T09:37:04.220394+07:00"
+    },
+    {
+      "id": "cab3c1dae3f1f612f369a79b8baf630b",
+      "title": "Nhà thờ Đồng Tiến 'không cột' ở TP.HCM, dấu ấn người thiết kế Dinh Độc Lập",
+      "link": "https://thanhnien.vn/nha-tho-dong-tien-khong-cot-o-tphcm-dau-an-nguoi-thiet-ke-dinh-doc-lap-185260504163210696.htm",
+      "summary": "Khám phá lòng nhà thờ không cột đầu tiên ở TP.HCM, do kiến trúc sư Ngô Viết Thụ (tác giả Dinh Độc Lập) thiết kế, mang đậm kiến trúc hiện đại hiếm có.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T02:28:00+07:00",
+      "fetched": "2026-05-07T09:37:04.220533+07:00"
+    },
+    {
+      "id": "305879ee85e5c69ad724697b78ec4780",
+      "title": "Quyết Chiến, Phương Vinh ra quân giải vô địch châu Á hôm nay",
+      "link": "https://vnexpress.net/quyet-chien-phuong-vinh-ra-quan-giai-vo-dich-chau-a-hom-nay-5070848.html",
+      "summary": "Các cơ thủ hàng đầu Việt Nam như Trần Quyết Chiến, Bao Phương Vinh bắt đầu đấu giải vô địch carom châu Á khởi tranh trên sân nhà ngày 7/5.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-07T02:18:12+07:00",
+      "fetched": "2026-05-07T09:37:13.299681+07:00"
+    },
+    {
+      "id": "ae932ab1abd406b8c093bbab52f5fd3c",
+      "title": "U.17 Việt Nam phá dớp 10 năm không thắng ở châu Á, HLV Roland xúc động ôm từng học trò…",
+      "link": "https://thanhnien.vn/u17-viet-nam-pha-dop-10-nam-khong-thang-o-chau-a-hlv-roland-xuc-dong-om-tung-hoc-tro-185260507085748427.htm",
+      "summary": "Chiến thắng 1-0 trước U.17 Yemen vào rạng sáng 7.5 không chỉ giúp thầy trò HLV Cristiano Roland tạm vươn lên dẫn đầu bảng C mà còn khép lại chuỗi 10 năm không thắng của bóng đá trẻ Việt Nam tại sân chơi châu lục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T02:16:00+07:00",
+      "fetched": "2026-05-07T09:37:04.220663+07:00"
+    },
+    {
+      "id": "b3534cc453b19437c93cc8fa2a3c0177",
+      "title": "Hàng triệu điện thoại Galaxy cũ sắp nhận được tính năng 'đỉnh' của S26",
+      "link": "https://thanhnien.vn/hang-trieu-dien-thoai-galaxy-cu-sap-nhan-duoc-tinh-nang-dinh-cua-s26-185260506213342483.htm",
+      "summary": "Samsung xóa bỏ ranh giới phần cứng, biến camera điện thoại Galaxy cũ thành máy quay chuyên nghiệp chỉ bằng một bản cập nhật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T02:14:00+07:00",
+      "fetched": "2026-05-07T09:37:04.220805+07:00"
+    },
+    {
+      "id": "912eec7ff0d2d3f5421f99349e0e418d",
+      "title": "Tòa án Mỹ công bố 'thư tuyệt mệnh' của tỷ phú ấu dâm Epstein",
+      "link": "https://vnexpress.net/toa-an-my-cong-bo-thu-tuyet-menh-cua-ty-phu-au-dam-epstein-5070862.html",
+      "summary": "Thẩm phán Mỹ công bố thư tuyệt mệnh được cho là do tỷ phú ấu dâm Epstein viết vài tuần trước khi tự tử trong nhà tù ở New York.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-07T02:13:14+07:00",
+      "fetched": "2026-05-07T09:37:06.915865+07:00"
+    },
+    {
+      "id": "696e70e0800eac085c534a631f4672db",
+      "title": "Highlight U.17 Úc 4-0 U.17 Ấn Độ: Chiến thắng tưng bừng",
+      "link": "https://thanhnien.vn/highlight-u17-uc-4-0-u17-an-do-chien-thang-tung-bung-185260507090925442.htm",
+      "summary": "U.17 Úc thể hiện sức mạnh vượt trội khi dễ dàng đánh bại U.17 Ấn Độ với tỷ số 4-0, qua đó tạo màn khởi đầu ấn tượng bằng chiến thắng tưng bừng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T02:09:00+07:00",
+      "fetched": "2026-05-07T09:37:04.220932+07:00"
+    },
+    {
+      "id": "3e2786f46eabb590c9c7e3d44d343706",
+      "title": "Highlight U.17 Hàn Quốc 1-1 U.17 UAE: Ứng cử viên vô địch bị cầm hòa",
+      "link": "https://thanhnien.vn/highlight-u17-han-quoc-1-1-u17-uae-ung-cu-vien-vo-dich-bi-cam-hoa-185260507090813567.htm",
+      "summary": "U.17 Hàn Quốc gây thất vọng khi để U.17 UAE cầm hòa 1-1 trong trận đấu họ kiểm soát thế trận nhưng không thể tận dụng cơ hội để giành trọn 3 điểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T02:08:00+07:00",
+      "fetched": "2026-05-07T09:37:04.221059+07:00"
+    },
+    {
+      "id": "0304c6472c755ea582931376abe995fd",
+      "title": "Đồng Nai sắp làm đường trên cao hơn 16.000 tỉ đồng dọc quốc lộ 51",
+      "link": "https://thanhnien.vn/dong-nai-sap-lam-duong-tren-cao-hon-16000-ti-dong-doc-quoc-lo-51-185260506154254994.htm",
+      "summary": "Đồng Nai dự kiến đầu tư hơn 16.400 tỉ đồng xây dựng tuyến đường trên cao dọc quốc lộ 51, đoạn từ ngã tư Vũng Tàu đến cao tốc Biên Hòa - Vũng Tàu. Dự án được kỳ vọng giảm ùn tắc tại cửa ngõ phía đông TP.HCM, tăng kết nối liên vùng và thúc đẩy phát triển kinh tế khu vực trọng điểm phía Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T02:05:00+07:00",
+      "fetched": "2026-05-07T09:37:04.221181+07:00"
+    },
+    {
+      "id": "be7dd580e8b0a97b7c0e5d1d043db12d",
+      "title": "Ballack phẫn nộ với trọng tài trận Bayern - PSG",
+      "link": "https://vnexpress.net/ballack-phan-no-voi-trong-tai-tran-bayern-psg-5070889.html",
+      "summary": "Cựu cầu thủ Michael Ballack mất bình tĩnh trong lúc bình luận trận Bayern hòa 1-1 với PSG ở lượt về bán kết Champions League, vì loạt quyết định tranh cãi của trọng tài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T02:01:20+07:00",
+      "fetched": "2026-05-07T09:37:01.205975+07:00"
+    },
+    {
+      "id": "be7dd580e8b0a97b7c0e5d1d043db12d",
+      "title": "Ballack phẫn nộ với trọng tài trận Bayern - PSG",
+      "link": "https://vnexpress.net/ballack-phan-no-voi-trong-tai-tran-bayern-psg-5070889.html",
+      "summary": "Cựu cầu thủ Michael Ballack mất bình tĩnh trong lúc bình luận trận Bayern hòa 1-1 với PSG ở lượt về bán kết Champions League, vì loạt quyết định tranh cãi của trọng tài.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-07T02:01:20+07:00",
+      "fetched": "2026-05-07T09:37:13.299424+07:00"
+    },
+    {
+      "id": "035a905f5c69aad3d0a6c0aa0c1ecfdb",
+      "title": "Ổ dịch Hantavirus trên tàu du lịch Đại Tây Dương tăng lên 8 ca",
+      "link": "https://vnexpress.net/o-dich-hantavirus-tren-tau-du-lich-dai-tay-duong-tang-len-8-ca-5070857.html",
+      "summary": "Tổ chức Y tế Thế giới (WHO) vừa xác nhận 8 người nhiễm Hantavirus chủng Andes trên tàu du lịch MV Hondius, đồng thời khẩn trương truy vết tiếp xúc toàn cầu nhằm ngăn chặn dịch bùng phát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T02:01:03+07:00",
+      "fetched": "2026-05-07T09:37:01.206142+07:00"
+    },
+    {
+      "id": "18a49cb215e2679626ab11d472d18b03",
+      "title": "Món gián chiên giòn của Trung Quốc",
+      "link": "https://vnexpress.net/mon-gian-chien-gion-cua-trung-quoc-5070788.html",
+      "summary": "Món gián chiên giòn tại một số nơi ở Trung Quốc được chế biến từ gián nuôi trong trang trại, chiên hai lần để tạo lớp vỏ giòn, bên trong béo ngậy khiến nhiều thực khách vừa e dè vừa muốn thưởng thức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T02:00:00+07:00",
+      "fetched": "2026-05-07T09:37:01.206282+07:00"
+    },
+    {
+      "id": "4f3303e4a0ad054ba1cbdb840d4fb6c0",
+      "title": "Stefano Ricci đưa 'nghệ nhân may đo' Italy đến Việt Nam",
+      "link": "https://vnexpress.net/stefano-ricci-dua-nghe-nhan-may-do-italy-den-viet-nam-5070858.html",
+      "summary": "Thương hiệu menswear cao cấp Stefano Ricci tổ chức sự kiện trải nghiệm tại Hà Nội và TP HCM, mang nghệ nhân từ Florence đến phục vụ khách hàng theo lịch hẹn riêng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T02:00:00+07:00",
+      "fetched": "2026-05-07T09:37:01.206419+07:00"
+    },
+    {
+      "id": "5d6b44e17d7866a757967b4fa63fe812",
+      "title": "Bác sĩ ba nước kết hợp chữa vô sinh cho người phụ nữ",
+      "link": "https://vnexpress.net/bac-si-ba-nuoc-ket-hop-chua-vo-sinh-cho-nguoi-phu-nu-5070826.html",
+      "summary": "Chị Minh vô sinh 10 năm, được bác sĩ Việt Nam và Đức điều trị bệnh lý tử cung, sau đó chuyển phôi thụ tinh ống nghiệm tại Czech thành công.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T02:00:00+07:00",
+      "fetched": "2026-05-07T09:37:01.206548+07:00"
+    },
+    {
+      "id": "12c8adfcdc2fd2df37e431404c075992",
+      "title": "Đất Nam Holdings tiếp tục phân phối dự án Dragon Eden giai đoạn 2",
+      "link": "https://vnexpress.net/dat-nam-holdings-tiep-tuc-phan-phoi-du-an-dragon-eden-giai-doan-2-5069709.html",
+      "summary": "Đất Nam Holdings tiếp tục là đại lý phân phối chiến lược dự án Dragon trong giai đoạn 2, sau khi dẫn đầu kết quả bán hàng ở giai đoạn trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T02:00:00+07:00",
+      "fetched": "2026-05-07T09:37:01.206684+07:00"
+    },
+    {
+      "id": "727423b8686f26b192da4e65d9720532",
+      "title": "Ôn thi tốt nghiệp THPT: Làm sao để không sai lại lỗi cũ?",
+      "link": "https://thanhnien.vn/on-thi-tot-nghiep-thpt-lam-sao-de-khong-sai-lai-loi-cu-185260506234530523.htm",
+      "summary": "Trong quá trình ôn thi tốt nghiệp THPT, không ai có thể tránh khỏi việc mắc phải các lỗi sai. Thủ khoa cũng từng rất nhiều lần sai khi giải đề, nhưng biết cách học từ những lỗi sai đó đã giúp các bạn chiến thắng được kỳ thi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T02:00:00+07:00",
+      "fetched": "2026-05-07T09:37:04.221303+07:00"
+    },
+    {
+      "id": "f45ed96c68944e133e266e1071892c92",
+      "title": "Các sân bay Việt Nam siết chặt kiểm soát dịch lở mồm long móng",
+      "link": "https://thanhnien.vn/cac-san-bay-viet-nam-siet-chat-kiem-soat-dich-lo-mom-long-mong-185260507085753299.htm",
+      "summary": "Cục Hàng không Việt Nam vừa phát văn bản gửi các đơn vị trong ngành hàng không về tăng cường kiểm soát, ngăn chặn virus lở mồm long móng Serotype SAT1 xâm nhập vào Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T01:59:00+07:00",
+      "fetched": "2026-05-07T09:37:04.221424+07:00"
+    },
+    {
+      "id": "a4d4a7a721127e3d8d1fa0237c32c712",
+      "title": "Khánh Hòa sắp có sân bay thứ 2 'song kiếm' cùng Cảng Cam Ranh",
+      "link": "https://thanhnien.vn/khanh-hoa-sap-co-san-bay-thu-2-song-kiem-cung-cang-cam-ranh-185260507085028864.htm",
+      "summary": "Bộ Xây dựng vừa phê duyệt Quy hoạch Cảng hàng không Thành Sơn thời kỳ 2021 - 2030, tầm nhìn đến năm 2050, vị trí tại phường Đô Vinh, tỉnh Khánh Hòa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T01:57:00+07:00",
+      "fetched": "2026-05-07T09:37:04.221541+07:00"
+    },
+    {
+      "id": "f4ce172b1d5764ec1fb491a8ec4215fd",
+      "title": "Xe máy rẽ trái kiểu 'tự nộp mình cho thần chết'",
+      "link": "https://vnexpress.net/xe-may-re-trai-kieu-tu-nop-minh-cho-than-chet-5070856.html",
+      "summary": "Từ góc khuất của chiếc xe tải đi cùng chiều, người đi xe máy tạt ngang đường ngay khi ôtô ở hướng ngược chiều đi tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T01:56:00+07:00",
+      "fetched": "2026-05-07T09:37:01.206848+07:00"
+    },
+    {
+      "id": "48a655f9bffd293f927394494b0c9e03",
+      "title": "U.17 Thái Lan làm gì sau khi Việt Nam và Indonesia đều thắng trận ra quân giải châu Á?",
+      "link": "https://thanhnien.vn/u17-thai-lan-lam-gi-sau-khi-viet-nam-va-indonesia-deu-thang-tran-ra-quan-giai-chau-a-185260507085319052.htm",
+      "summary": "U.17 Thái Lan và Myanmar (cùng bảng A) là hai đại diện của khu vực Đông Nam Á đều ra quân với thất bại ở giải U.17 châu Á, trong khi U.17 Việt Nam tiếp bước theo Indonesia đều có chiến thắng cùng tỷ số 1-0 trước các đối thủ của mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T01:55:00+07:00",
+      "fetched": "2026-05-07T09:37:04.221662+07:00"
+    },
+    {
+      "id": "22d67fdf39c14c2788e9839f4405b18e",
+      "title": "Khoảnh khắc HLV Roland ôm từng học trò: U.17 Việt Nam chấm dứt 10 năm không thắng ở châu Á",
+      "link": "https://thanhnien.vn/khoanh-khac-hlv-roland-om-tung-hoc-tro-u17-viet-nam-cham-dut-10-nam-khong-thang-o-chau-a-185260507084445592.htm",
+      "summary": "HLV Cristiano Roland ôm chầm từng học trò trong phòng thay đồ sau chiến thắng 1-0 của U.17 Việt Nam trước U.17 Yemen ở lượt trận mở màn bảng C VCK U.17 châu Á 2026. Chiến thắng 1-0 trước U.17 Yemen không chỉ giúp đội tuyển trẻ Việt Nam vươn lên dẫn đầu bảng C mà còn chấm dứt 10 năm chờ đợi một trận ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T01:53:00+07:00",
+      "fetched": "2026-05-07T09:37:04.221801+07:00"
+    },
+    {
+      "id": "ad6304b9a523e724577c6e750aa060fd",
+      "title": "Kênh chìm Sơn Tịnh đen đặc, bốc mùi: UBND tỉnh Quảng Ngãi chỉ đạo kiểm tra",
+      "link": "https://thanhnien.vn/kenh-chim-son-tinh-den-dac-boc-mui-ubnd-tinh-quang-ngai-chi-dao-kiem-tra-185260507075852654.htm",
+      "summary": "Tình trạng ô nhiễm kéo dài trên kênh chìm Sơn Tịnh khiến nước đen đặc, bốc mùi hôi nồng nặc, ảnh hưởng đời sống hàng trăm hộ dân. UBND tỉnh Quảng Ngãi đã chỉ đạo khẩn trương kiểm tra, làm rõ nguyên nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T01:49:00+07:00",
+      "fetched": "2026-05-07T09:37:04.221934+07:00"
+    },
+    {
+      "id": "d505612b5601cfa6d9b87baa3894077a",
+      "title": "Giá vàng hôm nay 7.5.2026: Bật tăng 1,5 triệu đồng lên trên 167 triệu đồng mỗi lượng",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-752026-bat-tang-15-trieu-dong-len-tren-167-trieu-dong-moi-luong-185260507075510682.htm",
+      "summary": "Giá vàng trong nước tăng trở lại theo đà đi lên của thế giới sau khi dầu thô lao dốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T01:49:00+07:00",
+      "fetched": "2026-05-07T09:37:04.222056+07:00"
+    },
+    {
+      "id": "044bc467c1599431d6ddaea888e1c837",
+      "title": "Hậu trường Heidi Klum hóa 'tượng sống' tại Met Gala",
+      "link": "https://vnexpress.net/hau-truong-heidi-klum-hoa-tuong-song-tai-met-gala-5070625.html",
+      "summary": "Êkíp quét 3D toàn bộ cơ thể Heidi Klum sau đó tạo hình trang phục và mặt nạ bằng cao su latex để \"biến\" cô thành bức tượng nữ tu của thế kỷ 19.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T01:44:22+07:00",
+      "fetched": "2026-05-07T09:37:01.206987+07:00"
+    },
+    {
+      "id": "18acae2f84864e3a0252ce32dbb18357",
+      "title": "Nga dùng chiến thuật 'đánh dồn dập', vắt kiệt phòng không Ukraine",
+      "link": "https://vnexpress.net/nga-dung-chien-thuat-danh-don-dap-vat-kiet-phong-khong-ukraine-5070728.html",
+      "summary": "Quan chức Ukraine nói Nga đang tiến hành những đợt tập kích ngắn, diễn ra cả ngày lẫn đêm nhằm làm phòng không đối phương kiệt sức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T01:34:23+07:00",
+      "fetched": "2026-05-07T09:37:01.207119+07:00"
+    },
+    {
+      "id": "18acae2f84864e3a0252ce32dbb18357",
+      "title": "Nga dùng chiến thuật 'đánh dồn dập', vắt kiệt phòng không Ukraine",
+      "link": "https://vnexpress.net/nga-dung-chien-thuat-danh-don-dap-vat-kiet-phong-khong-ukraine-5070728.html",
+      "summary": "Quan chức Ukraine nói Nga đang tiến hành những đợt tập kích ngắn, diễn ra cả ngày lẫn đêm nhằm làm phòng không đối phương kiệt sức.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-07T01:34:23+07:00",
+      "fetched": "2026-05-07T09:37:06.916026+07:00"
+    },
+    {
+      "id": "f1c9a215e76a6df12150442f91af0ea3",
+      "title": "Tiêm kích Mỹ chặn tàu Iran vượt vòng phong tỏa",
+      "link": "https://vnexpress.net/tiem-kich-my-chan-tau-iran-vuot-vong-phong-toa-5070852.html",
+      "summary": "Tiêm kích Mỹ đã bắn và vô hiệu hóa bánh lái của một tàu chở dầu treo cờ Iran khi nó cố vượt vòng phong tỏa cảng biển mà Washington áp đặt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T01:33:41+07:00",
+      "fetched": "2026-05-07T09:37:01.207242+07:00"
+    },
+    {
+      "id": "f1c9a215e76a6df12150442f91af0ea3",
+      "title": "Tiêm kích Mỹ chặn tàu Iran vượt vòng phong tỏa",
+      "link": "https://vnexpress.net/tiem-kich-my-chan-tau-iran-vuot-vong-phong-toa-5070852.html",
+      "summary": "Tiêm kích Mỹ đã bắn và vô hiệu hóa bánh lái của một tàu chở dầu treo cờ Iran khi nó cố vượt vòng phong tỏa cảng biển mà Washington áp đặt.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-07T01:33:41+07:00",
+      "fetched": "2026-05-07T09:37:06.916168+07:00"
+    },
+    {
+      "id": "7433153ccb1e2408957a1bffbe2aaef8",
+      "title": "Em như con nít, ngây ngô và trong veo",
+      "link": "https://vnexpress.net/em-nhu-con-nit-ngay-ngo-va-trong-veo-5070478.html",
+      "summary": "Nếu có thể cùng nhau nắm tay đi bên nhau đến lúc hai mái tóc đã bạc phơ thì thật tốt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T01:29:49+07:00",
+      "fetched": "2026-05-07T09:37:01.207325+07:00"
+    },
+    {
+      "id": "6569a76681ec8cb2456c3be85ca8cde7",
+      "title": "Bên trong Woven City - đô thị thử nghiệm 10 tỷ USD của Toyota",
+      "link": "https://vnexpress.net/ben-trong-woven-city-do-thi-thu-nghiem-10-ty-usd-cua-toyota-5070827.html",
+      "summary": "Toyota dùng thành phố thử nghiệm dưới chân núi Phú Sĩ để phát triển AI giao thông, hạ tầng đô thị và công nghệ di chuyển tương lai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T01:26:52+07:00",
+      "fetched": "2026-05-07T09:37:01.207455+07:00"
+    },
+    {
+      "id": "196c89c8133620a2141d560e7cf65cba",
+      "title": "Một người tử vong, 5 cấp cứu sau bữa canh nấm rừng",
+      "link": "https://vnexpress.net/mot-nguoi-tu-vong-5-cap-cuu-sau-bua-canh-nam-rung-5070825.html",
+      "summary": "6 người ở xã Phiêng Pằn nghi bị ngộ độc sau khi ăn canh nấm mọc tự nhiên, trong đó một người tử vong, các trường hợp còn lại đang được điều trị tích cực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T01:22:46+07:00",
+      "fetched": "2026-05-07T09:37:01.207579+07:00"
+    },
+    {
+      "id": "f90cd9b2b255b570b718f995b49c096b",
+      "title": "Ấn Độ coi Việt Nam là đối tác hàng đầu trong chính sách 'Hành động hướng Đông'",
+      "link": "https://vnexpress.net/an-do-coi-viet-nam-la-doi-tac-hang-dau-trong-chinh-sach-hanh-dong-huong-dong-5070859.html",
+      "summary": "Tổng thống Droupadi Murmu hội kiến với Tổng Bí thư, Chủ tịch nước Tô Lâm, khẳng định Ấn Độ luôn coi Việt Nam là đối tác châu Á quan trọng hàng đầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T01:17:42+07:00",
+      "fetched": "2026-05-07T09:37:01.207711+07:00"
+    },
+    {
+      "id": "f90cd9b2b255b570b718f995b49c096b",
+      "title": "Ấn Độ coi Việt Nam là đối tác hàng đầu trong chính sách 'Hành động hướng Đông'",
+      "link": "https://vnexpress.net/an-do-coi-viet-nam-la-doi-tac-hang-dau-trong-chinh-sach-hanh-dong-huong-dong-5070859.html",
+      "summary": "Tổng thống Droupadi Murmu hội kiến với Tổng Bí thư, Chủ tịch nước Tô Lâm, khẳng định Ấn Độ luôn coi Việt Nam là đối tác châu Á quan trọng hàng đầu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-07T01:17:42+07:00",
+      "fetched": "2026-05-07T09:37:06.916306+07:00"
+    },
+    {
+      "id": "772b873918f078402cde4b9d12c28079",
+      "title": "Ngân Hòa: 'Tôi giữ tinh thần lạc quan khi điều trị suy thận'",
+      "link": "https://vnexpress.net/ngan-hoa-toi-giu-tinh-than-lac-quan-khi-dieu-tri-suy-than-5070069.html",
+      "summary": "Diễn viên Ngân Hòa cho biết đóng vai phản diện trong \"Bóng ma hạnh phúc\" khi điều trị suy thận, giữ tinh thần tích cực để gắn bó diễn xuất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T01:15:00+07:00",
+      "fetched": "2026-05-07T09:37:01.207857+07:00"
+    },
+    {
+      "id": "20c64d15fcf7713a81b394a036f659d0",
+      "title": "Tranh cãi về hai lỗi chạm tay nhưng không bị phạt của PSG trước Bayern",
+      "link": "https://vnexpress.net/tranh-cai-ve-hai-loi-cham-tay-nhung-khong-bi-phat-cua-psg-truoc-bayern-5070861.html",
+      "summary": "Hai pha liên tiếp ở các phút 29 và 31 các cầu thủ PSG để bóng chạm tay, gồm một tình huống trong vùng 16m50, nhưng cả hai lần Bayern Munich đều không được hưởng lợi từ quyết định của trọng tài.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-07T01:13:39+07:00",
+      "fetched": "2026-05-07T09:37:13.298594+07:00"
+    },
+    {
+      "id": "f5a741b7031121635d8befae42146efc",
+      "title": "Kompany phàn nàn trọng tài sau khi bị loại khỏi Champions League",
+      "link": "https://vnexpress.net/kompany-phan-nan-trong-tai-sau-khi-bi-loai-khoi-champions-league-5070850.html",
+      "summary": "HLV Vincent Kompany cho rằng Bayern Munich chịu nhiều quyết định bất lợi từ trọng tài trong cả hai lượt bán kết gặp PSG, qua đó lỡ cơ hội vào chung kết Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-07T01:06:58+07:00",
+      "fetched": "2026-05-07T09:37:13.298749+07:00"
     },
     {
       "id": "89a081dba26c4196f0d8da2ce0c92be8",
@@ -171,6 +701,56 @@ window.newsData_2026_05_07 = {
       "category": "Tổng hợp",
       "published": "2026-05-07T00:27:13.017049+07:00",
       "fetched": "2026-05-07T00:27:13.017297+07:00"
+    },
+    {
+      "id": "adbcad7e0323ecf70ba23f9c2ae0c497",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm đề nghị thúc đẩy hình thành Đối tác số Việt Nam - Ấn Độ",
+      "link": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-to-lam-de-nghi-thuc-day-hinh-thanh-doi-tac-so-viet-nam-an-do-5070851.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm đề nghị Việt Nam - Ấn Độ xây dựng các không gian hợp tác mới về khoa học, công nghệ, trong đó thúc đẩy hình thành Đối tác số giữa hai nước.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-07T00:18:14+07:00",
+      "fetched": "2026-05-07T09:37:06.916449+07:00"
+    },
+    {
+      "id": "d30f04ca219a77518a5521b1a3817e4a",
+      "title": "Thị trưởng Madrid: 'Atletico không đá với Arsenal, mà với UEFA'",
+      "link": "https://vnexpress.net/thi-truong-madrid-atletico-khong-da-voi-arsenal-ma-voi-uefa-5070802.html",
+      "summary": "Thị trưởng thành phố Madrid, Jose Luis Martinez-Almeida cho rằng Atletico bị xử ép trong trận thua Arsenal ở bán kết Champions League, vì tác động của UEFA.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-06T23:58:24+07:00",
+      "fetched": "2026-05-07T09:37:13.298908+07:00"
+    },
+    {
+      "id": "86bd5ef3e31636cd0e5ebf16a153a7c2",
+      "title": "Nga dọa trả đũa Ukraine, cảnh báo phái đoàn ngoại giao sơ tán khỏi Kiev",
+      "link": "https://vnexpress.net/nga-doa-tra-dua-ukraine-canh-bao-phai-doan-ngoai-giao-so-tan-khoi-kiev-5070845.html",
+      "summary": "Nga cho biết sẽ tung đòn trả đũa nhằm vào Kiev và cảnh báo các phái đoàn ngoại giao sẵn sàng sơ tán nếu Ukraine phá hoại lễ kỷ niệm Ngày Chiến thắng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-06T23:54:55+07:00",
+      "fetched": "2026-05-07T09:37:06.916582+07:00"
+    },
+    {
+      "id": "2aa17478abb3ea5b3acefb874887a582",
+      "title": "Enrique: 'PSG phòng ngự như thiên thần'",
+      "link": "https://vnexpress.net/enrique-psg-phong-ngu-nhu-thien-than-5070847.html",
+      "summary": "HLV Luis Enrique đề cao tinh thần thi đấu kiên cường của trong PSG trong trận hòa Bayern 1-1 ở lượt về bán kết Champions League, đồng thời nhấn mạnh tham vọng bảo vệ ngôi vương.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-06T23:17:30+07:00",
+      "fetched": "2026-05-07T09:37:13.299040+07:00"
+    },
+    {
+      "id": "9a50721c05812fec2250a522b7e6fb59",
+      "title": "Tay vợt Nhật Bản cúi gập người sau khi thắng đối thủ 62 tuổi",
+      "link": "https://vnexpress.net/tay-vot-nhat-ban-cui-gap-nguoi-sau-khi-thang-doi-thu-62-tuoi-5070831.html",
+      "summary": "Sau khi thắng áp đảo lão tướng 62 tuổi Ni Xialian, tay vợt Nhật Bản Hina Hayata liên tục cúi người về phía đối thủ, tại giải bóng bàn đồng đội thế giới 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-06T23:04:42+07:00",
+      "fetched": "2026-05-07T09:37:13.299556+07:00"
     },
     {
       "id": "5c14902c35022bd280d38de4e24f9697",
