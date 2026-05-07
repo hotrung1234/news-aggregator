@@ -1,6 +1,6 @@
 window.newsData_2026_05_08 = {
   "date": "2026-05-08",
-  "lastUpdated": "2026-05-08T02:40:35.449452+07:00",
+  "lastUpdated": "2026-05-08T04:02:05.414795+07:00",
   "articles": [
     {
       "id": "469716862413ba19bb892408479788ec",
@@ -151,6 +151,36 @@ window.newsData_2026_05_08 = {
       "category": "Tổng hợp",
       "published": "2026-05-08T02:40:29.982288+07:00",
       "fetched": "2026-05-08T02:40:29.982502+07:00"
+    },
+    {
+      "id": "4daa3af2ea8f5b804a126d6872217ddf",
+      "title": "Nhóm PETA chôn chân vào khối bê tông phản đối 'ngược đãi bò'",
+      "link": "https://vnexpress.net/nhom-peta-chon-chan-vao-khoi-be-tong-phan-doi-nguoc-dai-bo-5070995.html",
+      "summary": "Các nhà hoạt động vì quyền động vật PETA chôn chân vào khối bê tông trước trụ sở PepsiCo, cáo buộc tập đoàn này mua đường từ các trang trại \"ngược đãi bò\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T20:00:00+07:00",
+      "fetched": "2026-05-08T04:01:56.974322+07:00"
+    },
+    {
+      "id": "704e8749cb5d615538ba39dc5f803c8a",
+      "title": "Phân biệt triệu chứng do virus Hanta với các bệnh truyền nhiễm khác",
+      "link": "https://vnexpress.net/phan-biet-trieu-chung-do-virus-hanta-voi-cac-benh-truyen-nhiem-khac-5071175.html",
+      "summary": "Triệu chứng bệnh do virus Hanta từ chuột dễ nhầm với cúm, sốt xuất huyết hay sốt siêu vi, song khác ở chỗ đi tiểu ít, phù mặt hoặc chân, tụt huyết áp, khó thở sau 3-5 ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-07T20:00:00+07:00",
+      "fetched": "2026-05-08T04:01:56.974459+07:00"
+    },
+    {
+      "id": "4daa3af2ea8f5b804a126d6872217ddf",
+      "title": "Nhóm PETA chôn chân vào khối bê tông phản đối 'ngược đãi bò'",
+      "link": "https://vnexpress.net/nhom-peta-chon-chan-vao-khoi-be-tong-phan-doi-nguoc-dai-bo-5070995.html",
+      "summary": "Các nhà hoạt động vì quyền động vật PETA chôn chân vào khối bê tông trước trụ sở PepsiCo, cáo buộc tập đoàn này mua đường từ các trang trại \"ngược đãi bò\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-07T20:00:00+07:00",
+      "fetched": "2026-05-08T04:02:01.841037+07:00"
     },
     {
       "id": "3f98f62062b3167d52b655fe10a7db29",
