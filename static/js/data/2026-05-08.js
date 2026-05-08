@@ -1,7 +1,157 @@
 window.newsData_2026_05_08 = {
   "date": "2026-05-08",
-  "lastUpdated": "2026-05-08T09:42:51.431981+07:00",
+  "lastUpdated": "2026-05-08T12:54:26.723148+07:00",
   "articles": [
+    {
+      "id": "bccc360a026c3b18067157b19a160a2e",
+      "title": "Thêm hơn 250 chương trình đào tạo đại học được thu học phí vượt trần",
+      "link": "https://tuoitre.vn/them-hon-250-chuong-trinh-dao-tao-dai-hoc-duoc-thu-hoc-phi-vuot-tran-20260508105803227.htm",
+      "summary": "Đến cuối tháng 2-2026, đã có hơn 3.200 chương trình đào tạo của các trường đại học, cao đẳng sư phạm đạt tiêu chuẩn chất lượng, được phép thu học phí vượt mức trần.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T12:54:20.302908+07:00",
+      "fetched": "2026-05-08T12:54:20.303025+07:00"
+    },
+    {
+      "id": "2f1288f20bc2b23a756f258c91a0e157",
+      "title": "Nâng chất giáo dục thể chất - Bài 2: Háo hức với các môn tự chọn",
+      "link": "https://tuoitre.vn/nang-chat-giao-duc-the-chat-bai-2-hao-huc-voi-cac-mon-tu-chon-20260508093855739.htm",
+      "summary": "Thiếu sân bãi, dụng cụ luyện tập dẫn đến học sinh không hứng thú môn thể dục, rèn luyện thể chất trong trường học là thực tế đang đặt ra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T12:54:20.302780+07:00",
+      "fetched": "2026-05-08T12:54:20.302893+07:00"
+    },
+    {
+      "id": "d57e32957f7e0ac492602c508d5eae82",
+      "title": "FIFA ASEAN Cup 2026 có tiền thưởng khủng, Trung Quốc và Ấn Độ được mời tham dự",
+      "link": "https://tuoitre.vn/fifa-asean-cup-2026-co-tien-thuong-khung-trung-quoc-va-an-do-duoc-moi-tham-du-20260508111735027.htm",
+      "summary": "Liên đoàn Bóng đá thế giới (FIFA) đã đưa thêm thông tin chi tiết về FIFA ASEAN Cup 2026 sau các cuộc thảo luận tại đại hội vừa qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T12:54:20.302655+07:00",
+      "fetched": "2026-05-08T12:54:20.302769+07:00"
+    },
+    {
+      "id": "c2c4d8e6e8a923c8933e4f67c6abd023",
+      "title": "Honda thêm một thứ cho xe máy điện để có cảm giác như lái xe xăng",
+      "link": "https://tuoitre.vn/honda-them-mot-thu-cho-xe-may-dien-de-co-cam-giac-nhu-lai-xe-xang-20260508094114715.htm",
+      "summary": "Honda vừa hé lộ bằng sáng chế hệ thống côn điện tử mô phỏng cho xe máy điện, không chỉ tái tạo thao tác 'bóp - nhả côn' mà còn mô phỏng cả cảm giác rung và độ 'ăn côn' như xe xăng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T12:54:20.302527+07:00",
+      "fetched": "2026-05-08T12:54:20.302644+07:00"
+    },
+    {
+      "id": "315626041972fb4bda3c38ad4831f6e9",
+      "title": "Phân quyền toàn diện để chính quyền đô thị đặc biệt phản ứng nhanh với mọi biến động",
+      "link": "https://tuoitre.vn/phan-quyen-toan-dien-de-chinh-quyen-do-thi-dac-biet-phan-ung-nhanh-voi-moi-bien-dong-20260508103207424.htm",
+      "summary": "Nhiều đại biểu đồng tình kiến nghị phân quyền triệt để, toàn diện cho chính quyền đô thị đặc biệt trên tất cả các ngành, lĩnh vực, trừ các lĩnh vực then chốt về an ninh quốc phòng, đối ngoại, thể chế chính trị...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T12:54:20.302374+07:00",
+      "fetched": "2026-05-08T12:54:20.302514+07:00"
+    },
+    {
+      "id": "6a220620371a3ead22429c0ec0860fcd",
+      "title": "Đại hội bất thường Hóa chất Đức Giang 'nóng ran' vụ ban lãnh đạo mới",
+      "link": "https://tuoitre.vn/dai-hoi-bat-thuong-hoa-chat-duc-giang-nong-ran-vu-ban-lanh-dao-moi-20260508112609134.htm",
+      "summary": "Nhiều cổ đông quan tâm, chất vấn về ban lãnh đạo mới của Tập đoàn Hóa chất Đức Giang. Trong đó có những lo lắng liệu những người mới có tầm nhìn, năng lực như lãnh đạo cũ hay không.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T12:54:20.302248+07:00",
+      "fetched": "2026-05-08T12:54:20.302363+07:00"
+    },
+    {
+      "id": "d6f8da925c1fda8ba68b96489ac37d2c",
+      "title": "UBND TP.HCM chỉ đạo thu ngân sách năm 2026 đạt 1 triệu tỉ đồng",
+      "link": "https://tuoitre.vn/ubnd-tp-hcm-chi-dao-thu-ngan-sach-nam-2026-dat-1-trieu-ti-dong-20260508112650271.htm",
+      "summary": "Thu ngân sách TP.HCM năm 2026 đạt 1 triệu tỉ đồng là một trong các nhiệm vụ trọng tâm, cấp bách mà UBND TP.HCM vừa chỉ đạo nhằm bảo đảm triển khai các kết luận của Trung ương về tăng trưởng 2 con số.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T12:54:20.302113+07:00",
+      "fetched": "2026-05-08T12:54:20.302235+07:00"
+    },
+    {
+      "id": "c61adbf3acb5c3ff8dfc45892ca08cc5",
+      "title": "Lễ đón trọng thể Tổng Bí thư, Chủ tịch nước Tô Lâm thăm cấp Nhà nước Sri Lanka",
+      "link": "https://tuoitre.vn/le-don-trong-the-tong-bi-thu-chu-tich-nuoc-to-lam-tham-cap-nha-nuoc-sri-lanka-20260508114901698.htm",
+      "summary": "Lễ đón chính thức Tổng Bí thư, Chủ tịch nước Tô Lâm và đoàn đại biểu cấp cao Việt Nam đã được tổ chức trọng thể tại Phủ Tổng thống Sri Lanka.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T12:54:20.301988+07:00",
+      "fetched": "2026-05-08T12:54:20.302102+07:00"
+    },
+    {
+      "id": "905d42f13cea4511af962230a6985a07",
+      "title": "Khai mạc Hội nghị cấp cao ASEAN 48: Thời điểm quyết định của ASEAN",
+      "link": "https://tuoitre.vn/khai-mac-hoi-nghi-cap-cao-asean-48-thoi-diem-quyet-dinh-cua-asean-20260508111734466.htm",
+      "summary": "Thủ tướng Lê Minh Hưng dẫn đầu đoàn đại biểu cấp cao Việt Nam dự phiên khai mạc Hội nghị cấp cao ASEAN lần thứ 48 tại Cebu, Philippines.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T12:54:20.301865+07:00",
+      "fetched": "2026-05-08T12:54:20.301977+07:00"
+    },
+    {
+      "id": "dfe5eef0e35fdd3bf42c65f4b820d86d",
+      "title": "Lý do nguyên Thứ trưởng Lê Tấn Dũng nhận 500 triệu nhưng không bị xử lý hình sự",
+      "link": "https://tuoitre.vn/ly-do-nguyen-thu-truong-le-tan-dung-nhan-500-trieu-nhung-khong-bi-xu-ly-hinh-su-20260508114508057.htm",
+      "summary": "Nguyên Thứ trưởng Lê Tấn Dũng được cấp dưới đưa 500 triệu, nhưng ông được xác định không bàn bạc, thỏa thuận và đã nộp lại số tiền này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T12:54:20.301741+07:00",
+      "fetched": "2026-05-08T12:54:20.301854+07:00"
+    },
+    {
+      "id": "4293bb3b51149ef257403d491e201b08",
+      "title": "Trao giải Tuổi Xanh 2026: Học sinh TP.HCM gây ấn tượng với tư duy kể chuyện bằng ảnh",
+      "link": "https://tuoitre.vn/trao-giai-tuoi-xanh-2026-hoc-sinh-tp-hcm-gay-an-tuong-voi-tu-duy-ke-chuyen-bang-anh-20260508110751029.htm",
+      "summary": "Qua góc nhìn của học sinh, những khoảnh khắc rất đời thường nơi cảng cá Bình Châu trở nên sống động và giàu cảm xúc trong hội thi ảnh Tuổi Xanh 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T12:54:20.301614+07:00",
+      "fetched": "2026-05-08T12:54:20.301729+07:00"
+    },
+    {
+      "id": "8383db52a28c4ce607d0279ef80f4317",
+      "title": "Hiện tượng chưa từng thấy: Hàng nghìn con bọ tạo vòng tròn dưới đèn đường",
+      "link": "https://tuoitre.vn/hien-tuong-chua-tung-thay-hang-nghin-con-bo-tao-vong-tron-duoi-den-duong-20260508113226637.htm",
+      "summary": "Nghiên cứu tại Israel phát hiện hàng nghìn con bọ chân đều xoay vòng dưới đèn đường, có thể do ô nhiễm ánh sáng gây ra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T12:54:20.301482+07:00",
+      "fetched": "2026-05-08T12:54:20.301603+07:00"
+    },
+    {
+      "id": "ba5633a523895ea1eac35b1b55fdda81",
+      "title": "Đừng đổ lỗi cho AI",
+      "link": "https://tuoitre.vn/dung-do-loi-cho-ai-20260508085405535.htm",
+      "summary": "Trí tuệ nhân tạo (AI) ngày càng thể hiện vai trò hỗ trợ đắc lực cho đời sống con người. Tuy nhiên, lạm dụng AI lắm khi gây ra phiền nhiễu, vi phạm pháp luật, gây nguy hiểm cho xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T12:54:20.301327+07:00",
+      "fetched": "2026-05-08T12:54:20.301468+07:00"
+    },
+    {
+      "id": "648d60158a61f5157a2b9b19cbf4f2e6",
+      "title": "Bánh canh cua Dũng Râu 45.000 đồng một tô mà ú nụ 6 loại topping",
+      "link": "https://tuoitre.vn/banh-canh-cua-dung-rau-45-000-dong-mot-to-ma-u-nu-6-loai-topping-20260508101127948.htm",
+      "summary": "Giữa trưa nắng như đổ lửa, quán bánh canh cua Dũng Râu trên góc đường Đỗ Thị Lời (TP.HCM) vẫn tấp nập người ra vào.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T12:54:20.301181+07:00",
+      "fetched": "2026-05-08T12:54:20.301314+07:00"
+    },
+    {
+      "id": "35df43d4d3b7598a40fb74628058f597",
+      "title": "Thanh Hoa, cô gái vàng xiếc TP.HCM, tốt nghiệp đạo diễn với vở Thánh Gióng",
+      "link": "https://tuoitre.vn/thanh-hoa-co-gai-vang-xiec-tp-hcm-tot-nghiep-dao-dien-voi-vo-thanh-giong-2026050809545759.htm",
+      "summary": "Nghệ sĩ xiếc Thanh Hoa, người mấy năm qua liên tiếp đạt những giải thưởng về xiếc quốc tế, vừa tốt nghiệp đạo diễn sân khấu với vở kịch xiếc Thánh Gióng hùng thiên sử tích.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T12:54:20.300951+07:00",
+      "fetched": "2026-05-08T12:54:20.301165+07:00"
+    },
     {
       "id": "d510c33b9ed78a36782e47fe936a3740",
       "title": "Mê vị phở Bắc, Kim Tử Long mở luôn quán phở Bắc",
@@ -183,6 +333,466 @@ window.newsData_2026_05_08 = {
       "fetched": "2026-05-08T05:58:42.114822+07:00"
     },
     {
+      "id": "cf8b32aaf21a06e0f12e480b619f175e",
+      "title": "Việt Nam đăng cai giải Thể thao điện tử Đông Nam Á từ năm 2026",
+      "link": "https://thanhnien.vn/viet-nam-dang-cai-giai-the-thao-dien-tu-dong-nam-a-tu-nam-2026-185260508122617634.htm",
+      "summary": "Bắt đầu từ năm 2026, Việt Nam sẽ trở thành quốc gia chủ nhà thường niên của giải đấu Thể thao điện tử Đông Nam Á - SEA Esports Nations Cup (SNC).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T05:52:00+07:00",
+      "fetched": "2026-05-08T12:54:19.514030+07:00"
+    },
+    {
+      "id": "27aa1ae51a24c3bab7c95727e6fba189",
+      "title": "Thông tin mới nhất vụ bé trai 2 tuổi bị bạo hành dã man ở TP.HCM",
+      "link": "https://thanhnien.vn/thong-tin-moi-nhat-vu-be-trai-2-tuoi-bi-bao-hanh-da-man-o-tphcm-185260508121747531.htm",
+      "summary": "Thứ trưởng Bộ Y tế Nguyễn Tri Thức thăm bé trai 2 tuổi bị bạo hành dã man ở TP.HCM. Ông đánh giá cao mô hình 'một cửa' hỗ trợ trẻ em bị xâm hại, bạo hành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T05:50:00+07:00",
+      "fetched": "2026-05-08T12:54:19.514201+07:00"
+    },
+    {
+      "id": "134f9abc0838884fa03cbe624a81e6f5",
+      "title": "HLV người Nhật Bản: U.17 nữ Việt Nam phải nỗ lực hơn nữa",
+      "link": "https://thanhnien.vn/hlv-nguoi-nhat-ban-u17-nu-viet-nam-phai-no-luc-hon-nua-185260508124134053.htm",
+      "summary": "Phát biểu sau trận thắng U.17 nữ Myanmar ở trận cuối cùng tại vòng bảng VCK giải U.17 nữ châu Á 2026, HLV trưởng U.17 nữ Việt Nam - Okiyama Masahiko đánh giá các học trò của ông vẫn phải nỗ lực hơn nữa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T05:47:00+07:00",
+      "fetched": "2026-05-08T12:54:19.514365+07:00"
+    },
+    {
+      "id": "fc1755d7e81201566ce39793669ecc39",
+      "title": "Rừng thông 3 lá ở Lạc Dương bị cưa hạ, nằm la liệt gây xót xa",
+      "link": "https://thanhnien.vn/rung-thong-3-la-o-lac-duong-bi-cua-ha-nam-la-liet-gay-xot-xa-185260508114049205.htm",
+      "summary": "Hơn 2.900 m² rừng thông 3 lá tại xã Lạc Dương, tỉnh Lâm Đồng, bị cưa hạ nằm la liệt gần quốc lộ 27C, khiến nhiều người xót xa; hiện cơ quan chức năng đang điều tra, truy tìm thủ phạm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T05:46:00+07:00",
+      "fetched": "2026-05-08T12:54:19.514568+07:00"
+    },
+    {
+      "id": "ff1d465dd9062fd305ee34364604641b",
+      "title": "Thứ trưởng Bộ Tư pháp Nguyễn Thanh Tú: TP.HCM cần gì trong luật Đô thị đặc biệt?",
+      "link": "https://thanhnien.vn/thu-truong-bo-tu-phap-nguyen-thanh-tu-tphcm-can-gi-trong-luat-do-thi-dac-biet-185260508105017682.htm",
+      "summary": "Tại hội thảo góp ý dự thảo luật Đô thị đặc biệt, thứ trưởng Bộ Tư pháp Nguyễn Thanh Tú nhấn mạnh việc xây dựng một đạo luật 'đo ni đóng giày' cần tập trung vào phân quyền, liên kết vùng và huy động nguồn lực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T05:41:00+07:00",
+      "fetched": "2026-05-08T12:54:19.514724+07:00"
+    },
+    {
+      "id": "9c2e12b942cc11a87e55d352c8e00cb3",
+      "title": "Người dân kỳ vọng gì vào mô hình đường 3 chiều trên 'điểm nóng' Cộng Hòa?",
+      "link": "https://thanhnien.vn/nguoi-dan-ky-vong-gi-vao-mo-hinh-duong-3-chieu-tren-diem-nong-cong-hoa-185260508114232227.htm",
+      "summary": "Tuyến đường Cộng Hòa đang thay diện mạo khi dải phân cách được tháo dỡ để triển khai mô hình \"đường 3 chiều\" linh hoạt. Đây là giải pháp kỳ vọng giải tỏa áp lực giao thông tại \"điểm nóng\" này vào giờ cao điểm. Liệu phương án điều tiết mới có giúp người dân thoát nỗi lo trễ giờ làm thường trực?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T05:37:00+07:00",
+      "fetched": "2026-05-08T12:54:19.514874+07:00"
+    },
+    {
+      "id": "3b5d524770f5ffdbca91139d78fcb9b1",
+      "title": "Công ty điện mặt trời của Trung Nam lỗ gần 1.000 tỷ đồng",
+      "link": "https://vnexpress.net/cong-ty-dien-mat-troi-cua-trung-nam-lo-gan-1-000-ty-dong-5071456.html",
+      "summary": "Trung Nam Thuận Nam, chủ đầu tư nhà máy điện mặt trời 450 MW ở Khánh Hòa, năm ngoái lỗ trước thuế 970 tỷ đồng, nâng lỗ lũy kế lên trên 1.800 tỷ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-08T05:32:52+07:00",
+      "fetched": "2026-05-08T12:54:22.794707+07:00"
+    },
+    {
+      "id": "7a85e801cf86f0563a6753fc03e3a345",
+      "title": "Quán quân UOB POY Việt Nam nhận 500 triệu đồng, tranh tài khu vực Đông Nam Á",
+      "link": "https://thanhnien.vn/quan-quan-uob-poy-viet-nam-nhan-500-trieu-dong-tranh-tai-khu-vuc-dong-nam-a-185260508113011881.htm",
+      "summary": "Ngày 8.5, cuộc thi UOB Painting of the Year (UOB POY) mùa 4 chính thức khởi động tại Việt Nam nhằm tiếp tục tìm kiếm và nâng đỡ các tài năng hội họa trong khu vực Đông Nam Á.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T05:30:00+07:00",
+      "fetched": "2026-05-08T12:54:19.515020+07:00"
+    },
+    {
+      "id": "6bbdd0380e83f8f1bd31078d2c2ef14a",
+      "title": "TP.HCM khởi công loạt dự án giao thông trọng điểm trước ngày 2.7",
+      "link": "https://thanhnien.vn/tphcm-khoi-cong-loat-du-an-giao-thong-trong-diem-truoc-ngay-27-185260508113624628.htm",
+      "summary": "Từ nay đến ngày 2.7, TP.HCM chuẩn bị điều kiện pháp lý, thủ tục để khởi công loạt dự án hạ tầng trọng điểm, kỷ niệm 50 năm ngày thành phố mang tên Bác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T05:22:00+07:00",
+      "fetched": "2026-05-08T12:54:19.515177+07:00"
+    },
+    {
+      "id": "2e31ecba99b67723872186a1ceb59c5e",
+      "title": "Phiên chợ công nhân ngành khoa học và công nghệ",
+      "link": "https://vnexpress.net/phien-cho-cong-nhan-nganh-khoa-hoc-va-cong-nghe-5071468.html",
+      "summary": "Bộ Khoa học và Công nghệ tổ chức phiên chợ cùng nhiều hoạt động nhằm hưởng ứng Tháng công nhân 2026.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-08T05:20:20+07:00",
+      "fetched": "2026-05-08T12:54:25.307992+07:00"
+    },
+    {
+      "id": "ef33239c651d344e72cf3c02be140402",
+      "title": "Thi lớp 10 TP.HCM: Tình hình thí sinh điều chỉnh nguyện vọng đến ngày cuối",
+      "link": "https://thanhnien.vn/thi-lop-10-tphcm-tinh-hinh-thi-sinh-dieu-chinh-nguyen-vong-den-ngay-cuoi-18526050811450666.htm",
+      "summary": "17 giờ hôm nay, 8.5, là kết thúc việc điều chỉnh nguyện vọng lớp 10 năm học 2026-2027 tại TP.HCM. Đây là lần điều chỉnh duy nhất của thí sinh để chuẩn bị cho kỳ thi lớp 10 sẽ diễn ra vào ngày 1-2.6. Ghi nhận ban đầu cho thấy học sinh điều chỉnh không ồ ạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T05:16:00+07:00",
+      "fetched": "2026-05-08T12:54:19.515323+07:00"
+    },
+    {
+      "id": "adddfd16c3e577634fb48dd6ce0717bb",
+      "title": "Nhà văn Huỳnh Trọng Khang: 'Sống đẹp' từ những điều tử tế nhỏ bé",
+      "link": "https://thanhnien.vn/nha-van-huynh-trong-khang-song-dep-tu-nhung-dieu-tu-te-nho-be-18526050808480329.htm",
+      "summary": "Trở lại với 'Sống đẹp' lần VI, nhà văn Huỳnh Trọng Khang kỳ vọng tìm thấy nhiều câu chuyện tử tế, mộc mạc nhưng đủ sức chạm và truyền cảm hứng tích cực cho cộng đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T05:15:00+07:00",
+      "fetched": "2026-05-08T12:54:19.515494+07:00"
+    },
+    {
+      "id": "483541c0a1bb324c83baa1f9aec51ec4",
+      "title": "Việt Nam đăng cai Cup Thể thao điện tử Đông Nam Á từ 2026",
+      "link": "https://vnexpress.net/viet-nam-dang-cai-cup-the-thao-dien-tu-dong-nam-a-tu-2026-5071454.html",
+      "summary": "Liên đoàn Thể thao điện tử Đông Nam Á (SEAEF), Vietnam GameVerse và VNGGames hợp tác tổ chức thường niên giải đấu giữa các đội tuyển quốc gia SEA Esports Nations Cup từ năm 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T05:08:00+07:00",
+      "fetched": "2026-05-08T12:54:16.849345+07:00"
+    },
+    {
+      "id": "e17f33574c8ecfbe064c8660dd27e21b",
+      "title": "Đội hình 'đẹp như mơ' của đội Trung Quốc ở giải bóng chuyền VTV9 - Bình Điền",
+      "link": "https://thanhnien.vn/doi-hinh-dep-nhu-mo-cua-doi-trung-quoc-o-giai-bong-chuyen-vtv9-binh-dien-185260508105724628.htm",
+      "summary": "CLB Giang Tô (Trung Quốc) được đánh giá là ứng viên hàng đầu cho danh hiệu vô địch giải bóng chuyền nữ quốc tế VTV9 - Bình Điền 2026 sắp khởi tranh tại Tây Ninh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T05:06:00+07:00",
+      "fetched": "2026-05-08T12:54:19.515647+07:00"
+    },
+    {
+      "id": "3cd4f60cb09ff022debedc1129c1aefb",
+      "title": "Dương Cẩm Lynh trải lòng về gia đình sau sóng gió",
+      "link": "https://thanhnien.vn/duong-cam-lynh-trai-long-ve-gia-dinh-sau-song-gio-185260508103419139.htm",
+      "summary": "Tham gia chương trình 'Chị em gỡ rối', ngoài đưa ra lời khuyên cho khán giả, Dương Cẩm Lynh còn có những phút bày tỏ quan điểm về giá trị của gia đình sau những thăng trầm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T05:05:00+07:00",
+      "fetched": "2026-05-08T12:54:19.515803+07:00"
+    },
+    {
+      "id": "5ec71da2a27aa689f9aa7a52f4415c75",
+      "title": "Audi Việt Nam giảm giá 300 triệu đồng xe tồn kho từ 2024",
+      "link": "https://vnexpress.net/audi-viet-nam-giam-gia-300-trieu-dong-xe-ton-kho-tu-2024-5071030.html",
+      "summary": "Hãng xe sang Đức tung chương trình khuyến mãi giảm giá bán trong hai tháng 5, 6 cho nhiều mẫu xe sản xuất năm 2024 và 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T05:02:11+07:00",
+      "fetched": "2026-05-08T12:54:16.849560+07:00"
+    },
+    {
+      "id": "1c306cdc13c848541ac6e6b1632db05b",
+      "title": "4 chìa khóa Arsenal cần để hạ PSG",
+      "link": "https://vnexpress.net/4-chia-khoa-arsenal-can-de-ha-psg-5071246.html",
+      "summary": "Arsenal sẽ phải dùng kỷ luật, bóng chết và tài năng của Bukayo Saka nếu muốn hạ PSG ở chung kết Champions League ngày 30/5 tại Budapest, theo Telegraph.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T05:00:00+07:00",
+      "fetched": "2026-05-08T12:54:16.849730+07:00"
+    },
+    {
+      "id": "e0f53911bcafa3007f8fc71c027b7f43",
+      "title": "Cú giao bóng dưới tay có đáng bị kỳ thị?",
+      "link": "https://vnexpress.net/cu-giao-bong-duoi-tay-co-dang-bi-ky-thi-5070597.html",
+      "summary": "Cú giao bóng dưới tay thường bị xem là \"tiểu xảo\" trong tennis, nhưng làng banh nỉ đang thay đổi cách nhìn về chiêu thức này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T05:00:00+07:00",
+      "fetched": "2026-05-08T12:54:16.849889+07:00"
+    },
+    {
+      "id": "b94497fab0bfb0bd5ced1bbfc2de9811",
+      "title": "V-Green hợp tác PVOil triển khai hơn 3.000 tủ đổi pin",
+      "link": "https://vnexpress.net/v-green-hop-tac-pvoil-trien-khai-hon-3-000-tu-doi-pin-5071452.html",
+      "summary": "Hơn 3.000 tủ đổi pin xe máy điện VinFast dự kiến lắp đặt tại chuỗi cửa hàng xăng dầu của PVOil trên toàn quốc, sau lễ ký hợp tác hôm 7/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T05:00:00+07:00",
+      "fetched": "2026-05-08T12:54:16.850047+07:00"
+    },
+    {
+      "id": "ff90655db492bbc9393d26c0bc22e7f5",
+      "title": "Dấu hiệu nào ở mắt có thể cảnh báo đột quỵ?",
+      "link": "https://vnexpress.net/dau-hieu-nao-o-mat-co-the-canh-bao-dot-quy-5071404.html",
+      "summary": "Nhiều người nghĩ mờ mắt chỉ do mỏi mắt hoặc tuổi tác, song đây cũng có thể là dấu hiệu đột quỵ do tắc mạch máu nuôi thần kinh thị giác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T05:00:00+07:00",
+      "fetched": "2026-05-08T12:54:16.850207+07:00"
+    },
+    {
+      "id": "953c21470ac3d903c6087941c6b13dc2",
+      "title": "Cảnh báo: 5 dấu hiệu da thiếu collagen ‘trầm trọng’ mà 99% chị em đều bỏ qua",
+      "link": "https://thanhnien.vn/canh-bao-5-dau-hieu-da-thieu-collagen-tram-trong-ma-99-chi-em-deu-bo-qua-185260508122556809.htm",
+      "summary": "Collagen chiếm đến 70% cấu trúc da nhưng từ sau tuổi 25, mỗi năm cơ thể mất đi khoảng 1.5% lượng protein quý giá này. Đáng lo ngại là quá trình thiếu hụt diễn ra âm thầm và chỉ đến khi các dấu hiệu lão hóa lộ rõ, cấu trúc nền của da đã bị đứt gãy. Lúc này, chị em mới nhận ra thì khó mà cải thiện đượ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T05:00:00+07:00",
+      "fetched": "2026-05-08T12:54:19.515956+07:00"
+    },
+    {
+      "id": "c95a09dbf78e6bf2038fd6b9dd6184fc",
+      "title": "Vạch kẻ đường màu trắng mới trên đường Cộng Hòa là gì, đè lên có bị phạt?",
+      "link": "https://thanhnien.vn/vach-ke-duong-mau-trang-moi-tren-duong-cong-hoa-la-gi-de-len-co-bi-phat-185260508105531331.htm",
+      "summary": "Vạch trắng nét liền mới xuất hiện giữa đường Cộng Hòa khiến nhiều người thắc mắc có được đè lên khi quay đầu xe hay không, vi phạm liệu có bị CSGT xử phạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T05:00:00+07:00",
+      "fetched": "2026-05-08T12:54:19.516108+07:00"
+    },
+    {
+      "id": "d56bff0e5140dc99d51888a2d298107b",
+      "title": "Sức hấp dẫn của áo sơ mi denim: Tối giản nhưng 'chất'",
+      "link": "https://thanhnien.vn/thoi-trang-tre/suc-hap-dan-cua-ao-so-mi-denim-toi-gian-nhung-chat-185260505160338604.htm",
+      "summary": "Không cần quá nhiều chi tiết, một chiếc áo sơ mi denim vẫn đủ tạo điểm nhấn với vẻ ngoài gọn gàng nhưng đầy cá tính, giúp nàng dễ dàng hoàn thiện phong cách vừa đơn giản vừa cuốn hút.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T05:00:00+07:00",
+      "fetched": "2026-05-08T12:54:19.516262+07:00"
+    },
+    {
+      "id": "b94497fab0bfb0bd5ced1bbfc2de9811",
+      "title": "V-Green hợp tác PVOil triển khai hơn 3.000 tủ đổi pin",
+      "link": "https://vnexpress.net/v-green-hop-tac-pvoil-trien-khai-hon-3-000-tu-doi-pin-5071452.html",
+      "summary": "Hơn 3.000 tủ đổi pin xe máy điện VinFast dự kiến lắp đặt tại chuỗi cửa hàng xăng dầu của PVOil trên toàn quốc, sau lễ ký hợp tác hôm 7/5.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-08T05:00:00+07:00",
+      "fetched": "2026-05-08T12:54:22.796037+07:00"
+    },
+    {
+      "id": "1c306cdc13c848541ac6e6b1632db05b",
+      "title": "4 chìa khóa Arsenal cần để hạ PSG",
+      "link": "https://vnexpress.net/4-chia-khoa-arsenal-can-de-ha-psg-5071246.html",
+      "summary": "Arsenal sẽ phải dùng kỷ luật, bóng chết và tài năng của Bukayo Saka nếu muốn hạ PSG ở chung kết Champions League ngày 30/5 tại Budapest, theo Telegraph.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-08T05:00:00+07:00",
+      "fetched": "2026-05-08T12:54:26.715506+07:00"
+    },
+    {
+      "id": "e0f53911bcafa3007f8fc71c027b7f43",
+      "title": "Cú giao bóng dưới tay có đáng bị kỳ thị?",
+      "link": "https://vnexpress.net/cu-giao-bong-duoi-tay-co-dang-bi-ky-thi-5070597.html",
+      "summary": "Cú giao bóng dưới tay thường bị xem là \"tiểu xảo\" trong tennis, nhưng làng banh nỉ đang thay đổi cách nhìn về chiêu thức này.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-08T05:00:00+07:00",
+      "fetched": "2026-05-08T12:54:26.715697+07:00"
+    },
+    {
+      "id": "f5175e619075f597c12237fe10196bb0",
+      "title": "Hãng máy lạnh duy nhất trên sàn lãi kỷ lục",
+      "link": "https://vnexpress.net/hang-may-lanh-duy-nhat-tren-san-lai-ky-luc-5071398.html",
+      "summary": "Nhờ đẩy mạnh chương trình bán hàng, chính sách giá và chiết khấu, Nagakawa ghi nhận doanh thu và lợi nhuận kỷ lục trong quý đầu năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T04:57:38+07:00",
+      "fetched": "2026-05-08T12:54:16.850358+07:00"
+    },
+    {
+      "id": "f5175e619075f597c12237fe10196bb0",
+      "title": "Hãng máy lạnh duy nhất trên sàn lãi kỷ lục",
+      "link": "https://vnexpress.net/hang-may-lanh-duy-nhat-tren-san-lai-ky-luc-5071398.html",
+      "summary": "Nhờ đẩy mạnh chương trình bán hàng, chính sách giá và chiết khấu, Nagakawa ghi nhận doanh thu và lợi nhuận kỷ lục trong quý đầu năm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-08T04:57:38+07:00",
+      "fetched": "2026-05-08T12:54:22.794889+07:00"
+    },
+    {
+      "id": "b43edbf8b7b2543897a1826b054c581f",
+      "title": "Dàn mỹ nhân phá cách trên thảm đỏ",
+      "link": "https://vnexpress.net/dan-my-nhan-pha-cach-tren-tham-do-5071415.html",
+      "summary": "Nhã Phương, Trương Quỳnh Anh, Diệp Lâm Anh, Ninh Dương Lan Ngọc chưng diện đa phong cách tại sự kiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T04:56:31+07:00",
+      "fetched": "2026-05-08T12:54:16.850547+07:00"
+    },
+    {
+      "id": "661b4e0e924114e87701d4ff386e4215",
+      "title": "Một trường Y tăng gấp đôi học phí",
+      "link": "https://vnexpress.net/hoc-phi-hoc-vien-y-duoc-hoc-co-truyen-viet-nam-phuong-an-tuyen-sinh-nam-2026-5071390.html",
+      "summary": "Học viện Y Dược học cổ truyền Việt Nam dự kiến thu 56-58 triệu đồng học phí năm học tới, tăng 1,8-2 lần so với năm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T04:53:10+07:00",
+      "fetched": "2026-05-08T12:54:16.850714+07:00"
+    },
+    {
+      "id": "bf76dc4dd99658ac0fe9ef30fe5fd44a",
+      "title": "Gánh nặng của Hoàng tử Nhật Bản giữa vòng vây truyền thông",
+      "link": "https://vnexpress.net/ganh-nang-cua-hoang-tu-nhat-ban-giua-vong-vay-truyen-thong-5071395.html",
+      "summary": "Tin đồn về bạn gái, thách thức an ninh đối với cuộc sống đại học, cho đến tranh cãi quanh người kế vị đang bủa vây Hoàng tử Hisahito.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T04:43:52+07:00",
+      "fetched": "2026-05-08T12:54:16.850874+07:00"
+    },
+    {
+      "id": "bf76dc4dd99658ac0fe9ef30fe5fd44a",
+      "title": "Gánh nặng của Hoàng tử Nhật Bản giữa vòng vây truyền thông",
+      "link": "https://vnexpress.net/ganh-nang-cua-hoang-tu-nhat-ban-giua-vong-vay-truyen-thong-5071395.html",
+      "summary": "Tin đồn về bạn gái, thách thức an ninh đối với cuộc sống đại học, cho đến tranh cãi quanh người kế vị đang bủa vây Hoàng tử Hisahito.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-08T04:43:52+07:00",
+      "fetched": "2026-05-08T12:54:21.593185+07:00"
+    },
+    {
+      "id": "44a10c2794380576577cba656c29a3c4",
+      "title": "Quốc hội kiện toàn nhân sự nhiều ủy ban chuyên môn",
+      "link": "https://vnexpress.net/quoc-hoi-kien-toan-nhan-su-nhieu-uy-ban-chuyen-mon-5071465.html",
+      "summary": "Ủy ban Thường vụ Quốc hội vừa phê chuẩn nhiều nhân sự giữ vị trí phó chủ tịch, phó chủ nhiệm và đại biểu Quốc hội hoạt động chuyên trách tại các cơ quan, ủy ban của Quốc hội khóa 16.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T04:41:16+07:00",
+      "fetched": "2026-05-08T12:54:16.851036+07:00"
+    },
+    {
+      "id": "e6ed2f9971b8a0cb48cce4ad127e969b",
+      "title": "Quận Cam bồi thường 450.000 USD cho tình nguyện viên bị chó cắn",
+      "link": "https://vnexpress.net/quan-cam-boi-thuong-450-000-usd-cho-tinh-nguyen-vien-bi-cho-can-5071434.html",
+      "summary": "Chính quyền quận Cam bồi thường 450.000 USD cho nữ tình nguyện viên bị chó cắn tại cơ sở chăm sóc động vật ở Tustin và phải khâu ít nhất 46 mũi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T04:38:44+07:00",
+      "fetched": "2026-05-08T12:54:16.851188+07:00"
+    },
+    {
+      "id": "e6ed2f9971b8a0cb48cce4ad127e969b",
+      "title": "Quận Cam bồi thường 450.000 USD cho tình nguyện viên bị chó cắn",
+      "link": "https://vnexpress.net/quan-cam-boi-thuong-450-000-usd-cho-tinh-nguyen-vien-bi-cho-can-5071434.html",
+      "summary": "Chính quyền quận Cam bồi thường 450.000 USD cho nữ tình nguyện viên bị chó cắn tại cơ sở chăm sóc động vật ở Tustin và phải khâu ít nhất 46 mũi.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-08T04:38:44+07:00",
+      "fetched": "2026-05-08T12:54:21.593368+07:00"
+    },
+    {
+      "id": "52875d91b6a76994c02f4902a175bbed",
+      "title": "Quán bò bía Hà Nội khách phải xếp hàng chờ mua",
+      "link": "https://vnexpress.net/quan-bo-bia-ha-noi-khach-phai-xep-hang-cho-mua-5067023.html",
+      "summary": "Khách kiên nhẫn xếp hàng chờ thưởng thức món bò bía  của ông Nguyễn Văn Thành nhờ hương vị thơm ngon cũng như ánh nhìn ''gây tò mò'' của chủ quán.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T04:37:26+07:00",
+      "fetched": "2026-05-08T12:54:16.851346+07:00"
+    },
+    {
+      "id": "9552190bbc9a5cf6661489ffaadd65b8",
+      "title": "Nhật Bản có thể đã chi hơn 60 tỷ USD cứu đồng yen",
+      "link": "https://vnexpress.net/nhat-ban-co-the-da-chi-hon-60-ty-usd-cuu-dong-yen-5071431.html",
+      "summary": "Sau khi giá yen xuống thấp nhất gần 2 năm so với đôla Mỹ, giới chức Nhật Bản được cho là đã can thiệp để hỗ trợ nội tệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T04:32:38+07:00",
+      "fetched": "2026-05-08T12:54:16.851527+07:00"
+    },
+    {
+      "id": "9552190bbc9a5cf6661489ffaadd65b8",
+      "title": "Nhật Bản có thể đã chi hơn 60 tỷ USD cứu đồng yen",
+      "link": "https://vnexpress.net/nhat-ban-co-the-da-chi-hon-60-ty-usd-cuu-dong-yen-5071431.html",
+      "summary": "Sau khi giá yen xuống thấp nhất gần 2 năm so với đôla Mỹ, giới chức Nhật Bản được cho là đã can thiệp để hỗ trợ nội tệ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-08T04:32:38+07:00",
+      "fetched": "2026-05-08T12:54:22.795055+07:00"
+    },
+    {
+      "id": "fb518436db5e1a044332c01274755ad8",
+      "title": "'Hoa khôi' cầu lông Nguyễn Thùy Linh giao lưu runner VM Cần Thơ 2026",
+      "link": "https://vnexpress.net/hoa-khoi-cau-long-nguyen-thuy-linh-giao-luu-runner-vm-can-tho-2026-5071205.html",
+      "summary": "Nguyễn Thùy Linh - tay vợt nữ số một Việt Nam sẽ tham gia giao lưu cùng người hâm mộ tại gian hàng Herbalife Việt Nam, expo VnExpress Marathon Cần Thơ 2026, tổ chức ở công viên Sông Hậu, ngày 8-9/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T04:32:00+07:00",
+      "fetched": "2026-05-08T12:54:16.851683+07:00"
+    },
+    {
+      "id": "6fa9681aba5041cc254baedb91c8e2b2",
+      "title": "Giám đốc tạo bản sao AI cho nhân viên trút giận",
+      "link": "https://vnexpress.net/giam-doc-tao-ban-sao-ai-cho-nhan-vien-trut-gian-5071287.html",
+      "summary": "Giám đốc công ty Klarna tạo ra phiên bản AI của chính mình để làm \"bao cát\", giúp nhân viên giải tỏa bức xúc trong giai đoạn cắt giảm ngân sách.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-08T04:00:00+07:00",
+      "fetched": "2026-05-08T12:54:25.307287+07:00"
+    },
+    {
+      "id": "b36198885cc83deaf4d41108eb3fc63f",
+      "title": "Cuộc đấu hỏa lực ở Hormuz khiến triển vọng hòa bình Mỹ - Iran thêm xa vời",
+      "link": "https://vnexpress.net/cuoc-dau-hoa-luc-o-hormuz-khien-trien-vong-hoa-binh-my-iran-them-xa-voi-5070395.html",
+      "summary": "Chiến thuật gây sức ép tối đa của ông Trump đang vấp phải sự kháng cự quyết liệt từ Iran, khiến mục tiêu chấm dứt xung đột bằng chiến thắng trở nên xa vời.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-08T03:59:32+07:00",
+      "fetched": "2026-05-08T12:54:21.593559+07:00"
+    },
+    {
+      "id": "5231ae282718587053a6e61513cd6956",
+      "title": "Hàng nghìn người xếp hàng dự Vietnam GameVerse 2026",
+      "link": "https://vnexpress.net/hang-nghin-nguoi-xep-hang-du-vietnam-gameverse-2026-5071444.html",
+      "summary": "Buổi sáng đầu tiên của Vietnam GameVerse 2026 chứng kiến dòng người dài hàng trăm mét vào dự ngày hội lớn nhất của ngành game Việt.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-08T03:49:08+07:00",
+      "fetched": "2026-05-08T12:54:26.715863+07:00"
+    },
+    {
+      "id": "466e22f829a63e524505830aa42a7ad5",
+      "title": "Ông Kim Jong-un thị sát dàn pháo tự hành có thể uy hiếp Seoul",
+      "link": "https://vnexpress.net/ong-kim-jong-un-thi-sat-dan-phao-tu-hanh-co-the-uy-hiep-seoul-5071383.html",
+      "summary": "Lãnh đạo Kim Jong-un cùng quan chức Triều Tiên thị sát mẫu pháo tự hành mới, đạt tầm bắn 60 km và đủ sức bắn tới thủ đô Hàn Quốc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-08T03:34:49+07:00",
+      "fetched": "2026-05-08T12:54:21.593729+07:00"
+    },
+    {
+      "id": "6f878727c5da676d7b6554640ab788e6",
+      "title": "Hoài nghi phủ bóng hồ sơ UFO sắp được Lầu Năm Góc công bố",
+      "link": "https://vnexpress.net/hoai-nghi-phu-bong-ho-so-ufo-sap-duoc-lau-nam-goc-cong-bo-5070547.html",
+      "summary": "Lầu Năm Góc sắp công bố hồ sơ về UFO theo yêu cầu của ông Trump, song chuyên gia cho rằng công chúng không nên kỳ vọng có phát hiện chấn động.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-08T03:11:42+07:00",
+      "fetched": "2026-05-08T12:54:21.593909+07:00"
+    },
+    {
+      "id": "1e9bb6db2a465cea736b6e61bfb314b8",
+      "title": "Vinpearl hợp tác với ba 'ông lớn' lữ hành Ấn Độ",
+      "link": "https://vnexpress.net/vinpearl-hop-tac-voi-ba-ong-lon-lu-hanh-an-do-5071401.html",
+      "summary": "Vinpearl ký hợp tác với Thomas Cook India, SOTC Travel và MakeMyTrip nhằm khai thác thị trường 1,47 tỷ dân, đưa Việt Nam trở thành điểm đến ưu tiên của du khách Ấn Độ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-08T03:00:00+07:00",
+      "fetched": "2026-05-08T12:54:22.796189+07:00"
+    },
+    {
+      "id": "a1df3fc8322ded0d1e7dee71ed796bc6",
+      "title": "Khoảnh khắc Iran phóng tên lửa nhằm vào loạt tàu chiến Mỹ",
+      "link": "https://vnexpress.net/khoanh-khac-iran-phong-ten-lua-nham-vao-loat-tau-chien-my-5071342.html",
+      "summary": "Iran công bố video triển khai UAV, tên lửa tập kích các chiến hạm Mỹ đi qua eo biển Hormuz, nhưng Washington nói không tàu nào bị đánh trúng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-08T02:49:10+07:00",
+      "fetched": "2026-05-08T12:54:21.594069+07:00"
+    },
+    {
       "id": "fd2048ac292bbf9ba4a5a3dca3b0c824",
       "title": "Thanh Hóa: Rác ngập đường phố sau mưa lớn",
       "link": "https://thanhnien.vn/thanh-hoa-rac-ngap-duong-pho-sau-mua-lon-185260508093154805.htm",
@@ -341,6 +951,16 @@ window.newsData_2026_05_08 = {
       "category": "Tổng hợp",
       "published": "2026-05-08T02:40:29.982288+07:00",
       "fetched": "2026-05-08T02:40:29.982502+07:00"
+    },
+    {
+      "id": "90768ef9535f431b410d930b28944e79",
+      "title": "Bố mẹ Mỹ chây ì tiền cấp dưỡng sẽ bị hủy hộ chiếu",
+      "link": "https://vnexpress.net/bo-me-my-chay-i-tien-cap-duong-se-bi-huy-ho-chieu-5071367.html",
+      "summary": "Bộ Ngoại giao Mỹ bắt đầu thu hồi hộ chiếu của hàng nghìn công dân nợ tiền cấp dưỡng cho con cái, có thể từ mức 2.500 USD trở lên.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-08T02:39:29+07:00",
+      "fetched": "2026-05-08T12:54:21.594221+07:00"
     },
     {
       "id": "70d79a1249b0053cc23115177ab2e2ee",
@@ -743,6 +1363,16 @@ window.newsData_2026_05_08 = {
       "fetched": "2026-05-08T09:42:46.110056+07:00"
     },
     {
+      "id": "b755a7ad124f7b2065fd0a98954b878c",
+      "title": "Tòa án Mỹ bác bỏ thuế 10% của ông Trump",
+      "link": "https://vnexpress.net/toa-an-my-bac-bo-thue-10-cua-ong-trump-5071311.html",
+      "summary": "Tòa án Thương mại Quốc tế Mỹ (CIT) phán quyết bác bỏ thuế nhập khẩu 10% của Mỹ, nhưng chỉ chặn áp dụng với bang Washington và 2 doanh nghiệp nhỏ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-08T00:36:44+07:00",
+      "fetched": "2026-05-08T12:54:22.795216+07:00"
+    },
+    {
       "id": "fb9e1021cfd0bf57e84fcaaddacbf1f0",
       "title": "Ronaldo cán mốc 100 bàn tại Saudi League",
       "link": "https://vnexpress.net/ronaldo-can-moc-100-ban-tai-saudi-league-5071326.html",
@@ -771,6 +1401,16 @@ window.newsData_2026_05_08 = {
       "category": "Công nghệ",
       "published": "2026-05-08T00:00:00+07:00",
       "fetched": "2026-05-08T09:42:49.496027+07:00"
+    },
+    {
+      "id": "60d244c3e0ab9430086074df7bfabeac",
+      "title": "Rắc rối khi mua phải SIM từng đăng ký tài khoản ngân hàng",
+      "link": "https://vnexpress.net/rac-roi-khi-mua-phai-sim-tung-dang-ky-tai-khoan-ngan-hang-5071061.html",
+      "summary": "Nhiều người dùng gặp rắc rối khi mua SIM mới nhưng số điện thoại đã được chủ cũ đăng ký tài khoản ngân hàng, mạng xã hội.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-08T00:00:00+07:00",
+      "fetched": "2026-05-08T12:54:25.307670+07:00"
     },
     {
       "id": "d101cefe6f44a8c238385e457a271cca",
