@@ -1,7 +1,157 @@
 window.newsData_2026_05_08 = {
   "date": "2026-05-08",
-  "lastUpdated": "2026-05-08T12:54:26.723148+07:00",
+  "lastUpdated": "2026-05-08T14:26:04.448110+07:00",
   "articles": [
+    {
+      "id": "f07b8cb9ea13d71b616eaee13a096f7e",
+      "title": "'Căn nhà úp ngược' chưa xong mà đã thu hút giới trẻ check-in rầm rộ",
+      "link": "https://tuoitre.vn/can-nha-up-nguoc-chua-xong-ma-da-thu-hut-gioi-tre-check-in-ram-ro-20260508103004822.htm",
+      "summary": "Hàng loạt hình ảnh về một căn “nhà úp ngược” tại vùng Bảy Núi thu hút sự quan tâm lớn trên mạng xã hội bởi thiết kế độc lạ với phần mái chúc xuống đất. Nhiều bạn trẻ đã tìm đến khu vực này check-in rầm rộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T14:25:55.916207+07:00",
+      "fetched": "2026-05-08T14:25:55.916347+07:00"
+    },
+    {
+      "id": "8df87f91fd15493cfc48ba839cb83d66",
+      "title": "Giảm mức án cho Việt kiều Úc từ chung thân xuống 18 năm tù",
+      "link": "https://tuoitre.vn/giam-muc-an-cho-viet-kieu-uc-tu-chung-than-xuong-18-nam-tu-20260508120256542.htm",
+      "summary": "Việc gia đình bị hại làm đơn, trực tiếp đến dự phiên tòa để xin giảm hình phạt là tình tiết chính để tòa đưa ra kết luận về mức án.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T14:25:55.916081+07:00",
+      "fetched": "2026-05-08T14:25:55.916196+07:00"
+    },
+    {
+      "id": "62c6bc01c9f2b15e5bae32f81c99eb32",
+      "title": "Chặn ô tô khác trên cao tốc để chửi bới, tài xế khai vì 'xe phía trước không cho vượt'",
+      "link": "https://tuoitre.vn/chan-o-to-khac-tren-cao-toc-de-chui-boi-tai-xe-khai-vi-xe-phia-truoc-khong-cho-vuot-20260508125922088.htm",
+      "summary": "Theo tài xế H., chiếc xe phía trước đi với tốc độ chậm, anh nhiều lần nháy đèn nhưng xe phía trước không cho vượt. Đoạn cao tốc này đang hạn chế tốc độ do đang thi công mở rộng đồng thời chỉ có 2 làn xe chạy cho cả 2 chiều.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T14:25:55.915957+07:00",
+      "fetched": "2026-05-08T14:25:55.916070+07:00"
+    },
+    {
+      "id": "a076cd70f660719bf530f4245281b19e",
+      "title": "Bao Phương Vinh ngược dòng ngoạn mục trước ngôi sao số 1 thế giới tại giải châu Á",
+      "link": "https://tuoitre.vn/bao-phuong-vinh-nguoc-dong-ngoan-muc-truoc-ngoi-sao-so-1-the-gioi-tai-giai-chau-a-20260508120934364.htm",
+      "summary": "Sáng 8-5, tại vòng 16 Giải billiards vô địch carom châu Á 2026, Bao Phương Vinh tạo ra chiến thắng kịch tính trước Cho Myung Woo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T14:25:55.915832+07:00",
+      "fetched": "2026-05-08T14:25:55.915946+07:00"
+    },
+    {
+      "id": "69f18ea6fb77a61402cecf2735ec9d10",
+      "title": "Bộ Giáo dục siết chuẩn trường nghề: Tối thiểu 60% tốt nghiệp đúng hạn, 70% có việc làm",
+      "link": "https://tuoitre.vn/bo-giao-duc-siet-chuan-truong-nghe-toi-thieu-60-tot-nghiep-dung-han-70-co-viec-lam-20260508115638609.htm",
+      "summary": "Bộ Giáo dục và Đào tạo đưa ra 10 chỉ số đánh giá hoạt động của các trường nghề, như tỉ lệ nhập học phải đạt tối thiểu 50%, tỉ lệ tốt nghiệp đúng hạn tối thiểu 60%...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T14:25:55.915694+07:00",
+      "fetched": "2026-05-08T14:25:55.915820+07:00"
+    },
+    {
+      "id": "35a7d5b23450b61cd02252eb3100352e",
+      "title": "Thứ trưởng Bộ Y tế Nguyễn Tri Thức: Bạo hành trẻ em là một dạng 'tội phạm ẩn', rất khó phát hiện",
+      "link": "https://tuoitre.vn/thu-truong-bo-y-te-nguyen-tri-thuc-bao-hanh-tre-em-la-mot-dang-toi-pham-an-rat-kho-phat-hien-2026050812165286.htm",
+      "summary": "Thứ trưởng Bộ Y tế Nguyễn Tri Thức cho rằng bạo hành trẻ em là một dạng \"tội phạm ẩn\", nếu không có giải pháp ngăn chặn để xảy ra sự việc rồi mới can thiệp thì coi như đã thất bại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T14:25:55.915568+07:00",
+      "fetched": "2026-05-08T14:25:55.915683+07:00"
+    },
+    {
+      "id": "12069d4161ff38fc7106f2aa70b4be4e",
+      "title": "Văn bản dùng buộc tội cựu hiệu trưởng vụ 'thu sai tiền dạy thêm' bị Bộ Tư pháp kết luận trái luật",
+      "link": "https://tuoitre.vn/van-ban-dung-buoc-toi-cuu-hieu-truong-vu-thu-sai-tien-day-them-bi-bo-tu-phap-ket-luan-trai-luat-2026050812335028.htm",
+      "summary": "Quy định áp “giá trần” tiền dạy thêm - căn cứ dùng để kết tội cựu Hiệu trưởng THCS Ba Đình Nguyễn Thị Bình - vừa bị Bộ Tư pháp kết luận có nội dung trái pháp luật, ban hành không đúng thẩm quyền. Ngay sau đó, UBND Hà Nội đã bãi bỏ văn bản này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T14:25:55.915441+07:00",
+      "fetched": "2026-05-08T14:25:55.915556+07:00"
+    },
+    {
+      "id": "b78671187dff1bca3dd09a4c33275d58",
+      "title": "TP.HCM: Cử tri Cần Giờ phản ảnh thiếu nước sạch, kiến nghị thúc tiến độ các dự án giao thông",
+      "link": "https://tuoitre.vn/tp-hcm-cu-tri-can-gio-phan-anh-thieu-nuoc-sach-kien-nghi-thuc-tien-do-cac-du-an-giao-thong-20260508082332923.htm",
+      "summary": "Cử tri xã Cần Giờ (TP.HCM) phản ảnh trên địa bàn xã nước chảy rất yếu, có lúc không đáp ứng đủ nhu cầu sinh hoạt và kiến nghị đẩy nhanh các dự án giao thông đang triển khai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T14:25:55.915288+07:00",
+      "fetched": "2026-05-08T14:25:55.915429+07:00"
+    },
+    {
+      "id": "4e35247800be3b4e01e70045eeb04b94",
+      "title": "Vòng 22 V-League 2025 - 2026: Ám ảnh ở cuối bảng",
+      "link": "https://tuoitre.vn/vong-22-v-league-2025-2026-am-anh-o-cuoi-bang-20260508055839965.htm",
+      "summary": "CLB Đà Nẵng có trận đấu sớm nhất vòng 22 khi tiếp Becamex TP.HCM để xóa bỏ ám ảnh về 1 điểm mà họ luôn bị ghìm ở cuối bảng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T14:25:55.915163+07:00",
+      "fetched": "2026-05-08T14:25:55.915277+07:00"
+    },
+    {
+      "id": "623aa6f1e8b2c544c5beb5c98fcfb440",
+      "title": "Iran chính thức lập cơ quan kiểm soát tàu qua eo biển Hormuz",
+      "link": "https://tuoitre.vn/iran-chinh-thuc-lap-co-quan-kiem-soat-tau-qua-eo-bien-hormuz-20260508124445519.htm",
+      "summary": "Iran đã lập một cơ quan mới để kiểm soát, cấp phép và thu phí các tàu đi qua eo biển Hormuz khi căng thẳng với Mỹ tiếp tục leo thang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T14:25:55.915033+07:00",
+      "fetched": "2026-05-08T14:25:55.915151+07:00"
+    },
+    {
+      "id": "ee6bd26ec2cbc6395ec81983942ec099",
+      "title": "Chấp thuận đấu nối tạm vào cao tốc Trung Lương - Mỹ Thuận để thi công trạm dừng nghỉ",
+      "link": "https://tuoitre.vn/chap-thuan-dau-noi-tam-vao-cao-toc-trung-luong-my-thuan-de-thi-cong-tram-dung-nghi-20260508131411943.htm",
+      "summary": "Sau nhiều năm tuyến cao tốc Trung Lương - Mỹ Thuận không có trạm dừng nghỉ vì chủ đầu tư không thể đưa máy móc vào công trường để thi công, đến nay \"nút thắt\" này đã được tháo gỡ, máy móc, thiết bị sẽ được chuyển vào dự án từ đường cao tốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T14:25:55.914902+07:00",
+      "fetched": "2026-05-08T14:25:55.915021+07:00"
+    },
+    {
+      "id": "a844211263ebbe3b4b6f1f4feefefb78",
+      "title": "Chuyên gia y tế TP.HCM: Đau cổ vai gáy không có cơ chế trực tiếp gây ra đột quỵ",
+      "link": "https://tuoitre.vn/chuyen-gia-y-te-tp-hcm-dau-co-vai-gay-khong-co-co-che-truc-tiep-gay-ra-dot-quy-20260508132430266.htm",
+      "summary": "Liên quan các quảng cáo “giải cơ chuyên sâu” giúp chữa và phòng ngừa đột quỵ, Chủ tịch Hội đột quỵ TP.HCM và các y bác sĩ khác nhấn mạnh đau cổ vai gáy không có cơ chế trực tiếp gây ra đột quỵ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T14:25:55.914769+07:00",
+      "fetched": "2026-05-08T14:25:55.914890+07:00"
+    },
+    {
+      "id": "c830f63afdf538bb636ba895309dae4e",
+      "title": "Bác sĩ than khó khi ‘điện tâm đồ phải đủ 15 phút’ mới được thanh toán bảo hiểm y tế",
+      "link": "https://tuoitre.vn/bac-si-than-kho-khi-dien-tam-do-phai-du-15-phut-moi-duoc-thanh-toan-bao-hiem-y-te-20260508115240907.htm",
+      "summary": "Sau khi được gỡ vướng về quy định “chụp X-quang đủ 6 phút” mới đủ điều kiện thanh toán bảo hiểm y tế, nhiều bác sĩ chia sẻ một số hướng dẫn quy trình kỹ thuật chuyên môn khác cũng đang gây khó cho hoạt động khám chữa bệnh và thanh toán bảo hiểm y tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T14:25:55.914635+07:00",
+      "fetched": "2026-05-08T14:25:55.914757+07:00"
+    },
+    {
+      "id": "5cf47c42e1ce9ed64d442d71c841a584",
+      "title": "Rue Miche Annual Runway 2026 - Pulse quy tụ 11 thương hiệu thiết kế Việt",
+      "link": "https://tuoitre.vn/rue-miche-annual-runway-2026-pulse-quy-tu-11-thuong-hieu-thiet-ke-viet-20260508111113685.htm",
+      "summary": "Chương trình thời trang thường niên Rue Miche Annual Runway 2026 - Pulse vừa diễn ra vào ngày 18-4 vừa qua, quy tụ 11 thương hiệu thiết kế Việt Nam, đánh dấu một cột mốc mới trong hành trình phát triển của hệ sinh thái Rue Miche.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T14:25:55.914493+07:00",
+      "fetched": "2026-05-08T14:25:55.914622+07:00"
+    },
+    {
+      "id": "f6370e05039834fec4f1b2af02440666",
+      "title": "Honda SH Vetro đến Việt Nam: Giá 235 triệu, dàn áo trong suốt, máy 150cc, số lượng hạn chế",
+      "link": "https://tuoitre.vn/honda-sh-vetro-den-viet-nam-gia-235-trieu-dan-ao-trong-suot-may-150cc-so-luong-han-che-20260508084909116.htm",
+      "summary": "Mức giá của Honda SH Vetro Blue 2026 có thể khiến nhiều người bất ngờ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T14:25:55.914247+07:00",
+      "fetched": "2026-05-08T14:25:55.914477+07:00"
+    },
     {
       "id": "bccc360a026c3b18067157b19a160a2e",
       "title": "Thêm hơn 250 chương trình đào tạo đại học được thu học phí vượt trần",
@@ -303,6 +453,276 @@ window.newsData_2026_05_08 = {
       "fetched": "2026-05-08T09:42:42.707138+07:00"
     },
     {
+      "id": "f8b52211fa2671ff073561f2e719485d",
+      "title": "Sắp ra mắt truyện tranh 'Kính vạn hoa' mừng sinh nhật nhà văn Nguyễn Nhật Ánh",
+      "link": "https://thanhnien.vn/sap-ra-mat-truyen-tranh-kinh-van-hoa-mung-sinh-nhat-nha-van-nguyen-nhat-anh-185260508134236835.htm",
+      "summary": "Sau thành công trên màn ảnh nhỏ và rạp phim, bộ 3 Quý Ròm, Nhỏ Hạnh, Tiểu Long sẽ tái ngộ người hâm mộ qua định dạng truyện tranh Kính vạn hoa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T07:25:00+07:00",
+      "fetched": "2026-05-08T14:25:54.834690+07:00"
+    },
+    {
+      "id": "44268896764c5674f4071c396d0f3485",
+      "title": "Bắt tài xế đe dọa cặp vợ chồng, thu 700.000 đồng/cuốc xe",
+      "link": "https://thanhnien.vn/bat-tai-xe-de-doa-cap-vo-chong-thu-700000-dong-cuoc-xe-185260508134605797.htm",
+      "summary": "Phòng Cảnh sát hình sự Công an Hà Nội vừa bắt giữ một nghi phạm liên quan đến vụ cặp vợ chồng bị đe dọa, thu 700.000 đồng/cuốc xe ôm gây xôn xao dư luận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T07:23:00+07:00",
+      "fetched": "2026-05-08T14:25:54.834857+07:00"
+    },
+    {
+      "id": "5e273dccff93a2b14c548e9691bccb28",
+      "title": "U.17 Việt Nam càng đá càng giống... U.23: HLV Kim Sang-sik tặng áo 'phù thủy' cho Roland",
+      "link": "https://thanhnien.vn/u17-viet-nam-cang-da-cang-giong-u23-hlv-kim-sang-sik-tang-ao-phu-thuy-cho-roland-185260508133753959.htm",
+      "summary": "Hành trình vươn ra biển lớn châu Á của U.17 Việt Nam có nhiều điểm tương đồng đàn anh U.23: cùng vô địch Đông Nam Á, bất bại suốt nhiều trận và thắng một đội Tây Á trong trận ra quân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T07:21:00+07:00",
+      "fetched": "2026-05-08T14:25:54.835013+07:00"
+    },
+    {
+      "id": "828b77a42a5e7679149783e6f3fbdd0c",
+      "title": "Đánh giá cán bộ tòa án theo sản phẩm công việc",
+      "link": "https://thanhnien.vn/danh-gia-can-bo-toa-an-theo-san-pham-cong-viec-185260508133324149.htm",
+      "summary": "Chủ tịch Quốc hội Trần Thanh Mẫn đề nghị, ngành tòa án nhân dân siết chặt đánh giá cán bộ theo sản phẩm công việc, gắn với kết quả xét xử, trách nhiệm cá nhân và người đứng đầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T07:19:00+07:00",
+      "fetched": "2026-05-08T14:25:54.835166+07:00"
+    },
+    {
+      "id": "8f02d255ab13ea83e5129dc6884ab8e0",
+      "title": "Phạt tài xế 45 triệu vì cố tình lái ô tô đánh võng, chèn đường xe khác",
+      "link": "https://thanhnien.vn/phat-tai-xe-45-trieu-vi-co-tinh-lai-o-to-danh-vong-chen-duong-xe-khac-185260508114930729.htm",
+      "summary": "Không rõ trước đó có mâu thuẫn hay không, nhưng hành vi cố tình lái ô tô lạng lách đánh võng, chèn đường các xe khác của tài xế khiến nhiều người không khỏi bức xúc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T07:19:00+07:00",
+      "fetched": "2026-05-08T14:25:54.835344+07:00"
+    },
+    {
+      "id": "4d38c99f47f44ac2462347a4df2aa9a1",
+      "title": "Thủ tướng Lê Minh Hưng bắt đầu các hoạt động tại Hội nghị cấp cao ASEAN 48",
+      "link": "https://thanhnien.vn/thu-tuong-le-minh-hung-bat-dau-cac-hoat-dong-tai-hoi-nghi-cap-cao-asean-48-1852605081338582.htm",
+      "summary": "Ngày 8.5, tại Cebu, Philippines, Thủ tướng Lê Minh Hưng dự lễ khai mạc và phiên toàn thể Hội nghị cấp cao ASEAN lần thứ 48. Dự kiến chiều cùng ngày, Thủ tướng sẽ tham dự phiên họp hẹp của hội nghị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T07:18:00+07:00",
+      "fetched": "2026-05-08T14:25:54.835501+07:00"
+    },
+    {
+      "id": "7436603b3250f1f24478baf21c9b5f25",
+      "title": "Ngã vào nồi nước sôi và hành trình 16 giờ 'trao trả' gương mặt",
+      "link": "https://thanhnien.vn/nga-vao-noi-nuoc-soi-va-hanh-trinh-16-gio-trao-tra-guong-mat-185260508133138164.htm",
+      "summary": "Suốt 3 năm sống trong bóng tối, khuôn mặt biến dạng vì bỏng nặng, miệng chỉ mở được khoảng 1 cm, người đàn ông ở Phú Thọ từng nghĩ cuộc sống đã khép lại sau tai nạn ngã vào nồi nước sôi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T07:08:00+07:00",
+      "fetched": "2026-05-08T14:25:54.835650+07:00"
+    },
+    {
+      "id": "44b798f9dfad25676ea5b25cc4001589",
+      "title": "Hạ tầng dần định hình giá trị bất động sản Bến Lức",
+      "link": "https://thanhnien.vn/ha-tang-dan-dinh-hinh-gia-tri-bat-dong-san-ben-luc-185260508115918835.htm",
+      "summary": "Các tuyến kết nối lớn quanh khu tây TP.HCM bước vào giai đoạn hoàn thiện, khiến nhà đầu tư quan tâm hơn đến khả năng hình thành dòng cư dân và thương mại thực tại Bến Lức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T07:00:00+07:00",
+      "fetched": "2026-05-08T14:25:54.835804+07:00"
+    },
+    {
+      "id": "7c42619c985a62a7d1053e1eae69c501",
+      "title": "Đà Nẵng Food Tour 2026: Đưa ẩm thực xứ Quảng thành sản phẩm du lịch đặc trưng",
+      "link": "https://thanhnien.vn/da-nang-food-tour-2026-dua-am-thuc-xu-quang-thanh-san-pham-du-lich-dac-trung-185260508114237391.htm",
+      "summary": "Đà Nẵng kỳ vọng thông qua Food Tour 2026 sẽ biến ẩm thực xứ Quảng từ 'món ngon địa phương' thành sản phẩm du lịch có bản sắc, đủ sức giữ chân và kéo du khách quay trở lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T07:00:00+07:00",
+      "fetched": "2026-05-08T14:25:54.835951+07:00"
+    },
+    {
+      "id": "c33685f9053d541d804e1d93ecd55d03",
+      "title": "Mô hình dữ liệu và AI đưa TNEX vào Top 100 Ngân hàng số toàn cầu 2026",
+      "link": "https://thanhnien.vn/mo-hinh-du-lieu-va-ai-dua-tnex-vao-top-100-ngan-hang-so-toan-cau-2026-185260508085032788.htm",
+      "summary": "Được xếp hạng #65 trong World's Top 100 Digital Banks Ranking 2026, TNEX cho thấy vai trò ngày càng quan trọng của công nghệ, dữ liệu và trí tuệ nhân tạo trong việc định hình tương lai tài chính tiêu dùng số tại Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T07:00:00+07:00",
+      "fetched": "2026-05-08T14:25:54.836098+07:00"
+    },
+    {
+      "id": "09b0d80c3a44b07abc2689fb43750fbb",
+      "title": "'Ôn thi mãi không vào?', thủ khoa chỉ ra nguyên nhân nhiều thí sinh mắc phải",
+      "link": "https://thanhnien.vn/on-thi-mai-khong-vao-thu-khoa-chi-ra-nguyen-nhan-nhieu-thi-sinh-mac-phai-185260508072248065.htm",
+      "summary": "Từng áp lực đến mức quá tải khi ôn thi tốt nghiệp THPT, nữ thủ khoa đã tìm ra nhiều cách đơn giản để vượt qua cảm giác chán học. Những bí quyết này đang được nhiều học sinh chia sẻ vì quá đúng với tâm trạng mùa thi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T07:00:00+07:00",
+      "fetched": "2026-05-08T14:25:54.836251+07:00"
+    },
+    {
+      "id": "4b933b3d245779d0f60527c55bbc40e8",
+      "title": "FC Mobile trao thưởng 15.000 USD trong giải đấu tại Vietnam GameVerse",
+      "link": "https://vnexpress.net/fc-mobile-trao-thuong-15-000-usd-trong-giai-dau-tai-vietnam-gameverse-5071504.html",
+      "summary": "Garena tổ chức FC Mobile Invitation Cup 2026, ngày 9/5, trong khuôn khổ Vietnam GameVerse, quy tụ tuyển thủ Việt Nam và quốc tế tranh tài với tổng giải thưởng 15.000 USD.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-08T07:00:00+07:00",
+      "fetched": "2026-05-08T14:26:04.441291+07:00"
+    },
+    {
+      "id": "a64d4e6cad2cdd4c832dfae938313a6e",
+      "title": "Họ chạy kiểu 'điền vào chỗ trống', tôi muốn giữ khoảng cách an toàn cũng… bó tay",
+      "link": "https://thanhnien.vn/ho-chay-kieu-dien-vao-cho-trong-toi-muon-giu-khoang-cach-an-toan-cung-bo-tay-185260505073449457.htm",
+      "summary": "Lái xe trên cao tốc đông đúc vào dịp lễ, tôi cố giữ khoảng cách an toàn nhưng vẫn liên tục bị xe khác tạt đầu, chèn đường, lấp hết các khoảng trống. Tôi tự hỏi liệu có cách nào để không bị cuốn theo dòng xe mà vẫn đảm bảo an toàn?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T06:46:00+07:00",
+      "fetched": "2026-05-08T14:25:54.836427+07:00"
+    },
+    {
+      "id": "3348805e2d6bf1d09c05e6c34379c45d",
+      "title": "Masterise Homes nối dài chuỗi công nhận quốc tế cho năng lực định chuẩn hàng hiệu",
+      "link": "https://thanhnien.vn/masterise-homes-noi-dai-chuoi-cong-nhan-quoc-te-cho-nang-luc-dinh-chuan-hang-hieu-185260508135308526.htm",
+      "summary": "Masterise Homes tiếp tục ghi dấu trên bản đồ bất động sản khu vực khi năm thứ hai liên tiếp được vinh danh tại Asia Pacific Property Awards (APPA), một trong những hệ thống giải thưởng uy tín của ngành bất động sản châu Á - Thái Bình Dương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T06:40:00+07:00",
+      "fetched": "2026-05-08T14:25:54.836576+07:00"
+    },
+    {
+      "id": "1c9c5a4e85b189cfd8e534142f9227e8",
+      "title": "Apple sắp khai tử MacBook Neo giá 599 USD dù bán chạy",
+      "link": "https://thanhnien.vn/apple-sap-khai-tu-macbook-neo-gia-599-usd-du-ban-chay-185260508122815742.htm",
+      "summary": "Apple có thể phải ngừng sản xuất phiên bản MacBook Neo 256 GB do chi phí tăng cao và nguồn cung khan hiếm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T06:40:00+07:00",
+      "fetched": "2026-05-08T14:25:54.836725+07:00"
+    },
+    {
+      "id": "2fdd8571f1edfad682fb116c2b35f2ce",
+      "title": "'Cha đẻ BTS' bị tái đề nghị bắt giữ vì cáo buộc gian lận 140 triệu USD",
+      "link": "https://thanhnien.vn/cha-de-bts-bi-tai-de-nghi-bat-giu-vi-cao-buoc-gian-lan-140-trieu-usd-185260508131732633.htm",
+      "summary": "Cảnh sát Hàn Quốc được cho là đã tái đề nghị lệnh bắt giữ đối với 'cha đẻ BTS' - Chủ tịch HYBE Bang Si Hyuk vì liên quan đến các cáo buộc gian lận giao dịch chứng khoán trước thềm đợt phát hành cổ phiếu lần đầu ra công chúng (IPO) của công ty, Kbizoom đưa tin.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T06:30:00+07:00",
+      "fetched": "2026-05-08T14:25:54.836877+07:00"
+    },
+    {
+      "id": "1651bf1b09384b20cbfae20e67c58355",
+      "title": "Di chuyển 1 que diêm biến phép tính sai thành đúng",
+      "link": "https://vnexpress.net/cau-do-que-diem-di-chuyen-que-diem-di-chuyen-1-que-diem-bien-phep-tinh-sai-thanh-dung-5070549.html",
+      "summary": "Nào, thử sức xem bạn có đủ \"não nhanh mắt lẹ\" để tìm ra cách di chuyển thần thánh đó không nhé!",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T06:20:00+07:00",
+      "fetched": "2026-05-08T14:25:51.472487+07:00"
+    },
+    {
+      "id": "93c359ac9be35424b2b8846d2669f779",
+      "title": "Phó thủ tướng: Không thể tỉnh nào cũng làm sân bay",
+      "link": "https://vnexpress.net/pho-thu-tuong-khong-the-tinh-nao-cung-lam-san-bay-5071499.html",
+      "summary": "Phó thủ tướng Thường trực Phạm Gia Túc cho rằng việc đầu tư sân bay phải tính toán tổng thể, tránh dàn trải, nếu địa phương nào cũng có sân bay nhưng hiệu quả khai thác thấp sẽ lãng phí nguồn lực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T06:11:52+07:00",
+      "fetched": "2026-05-08T14:25:51.472675+07:00"
+    },
+    {
+      "id": "6ad304eb1ea01af3338107c7848a11f1",
+      "title": "Chuyên gia: Đừng để TP HCM tiếp tục 'đi xin' khi có Luật đô thị đặc biệt",
+      "link": "https://vnexpress.net/chuyen-gia-dung-de-tp-hcm-tiep-tuc-di-xin-khi-co-luat-do-thi-dac-biet-5071497.html",
+      "summary": "Đô thị đặc biệt cần trao quyền tự chủ thực chất cho TP HCM trong quản trị, tài chính, quy hoạch và tổ chức bộ máy để chủ động phát triển thay vì phụ thuộc cơ chế xin - cho.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T06:10:00+07:00",
+      "fetched": "2026-05-08T14:25:51.472841+07:00"
+    },
+    {
+      "id": "def1875c2661ff96e4a0ae62068d9cd4",
+      "title": "CEO Hóa chất Đức Giang: Sẽ kế thừa ý chí, tầm nhìn của ông Đào Hữu Huyền",
+      "link": "https://vnexpress.net/ceo-hoa-chat-duc-giang-se-ke-thua-y-chi-tam-nhin-cua-ong-dao-huu-huyen-5071498.html",
+      "summary": "Ông Lưu Bách Đạt, Tổng giám đốc Hóa chất Đức Giang, hứa dàn lãnh đạo mới sẽ vận hành tốt doanh nghiệp, kế thừa ý chí, tầm nhìn của cựu Chủ tịch Đào Hữu Huyền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T06:09:09+07:00",
+      "fetched": "2026-05-08T14:25:51.473006+07:00"
+    },
+    {
+      "id": "def1875c2661ff96e4a0ae62068d9cd4",
+      "title": "CEO Hóa chất Đức Giang: Sẽ kế thừa ý chí, tầm nhìn của ông Đào Hữu Huyền",
+      "link": "https://vnexpress.net/ceo-hoa-chat-duc-giang-se-ke-thua-y-chi-tam-nhin-cua-ong-dao-huu-huyen-5071498.html",
+      "summary": "Ông Lưu Bách Đạt, Tổng giám đốc Hóa chất Đức Giang, hứa dàn lãnh đạo mới sẽ vận hành tốt doanh nghiệp, kế thừa ý chí, tầm nhìn của cựu Chủ tịch Đào Hữu Huyền.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-08T06:09:09+07:00",
+      "fetched": "2026-05-08T14:25:59.495139+07:00"
+    },
+    {
+      "id": "25c9662adfdecdc2d95fb94dd73d8efa",
+      "title": "Đại Nghĩa rèn thể lực thi Anh trai vượt ngàn chông gai",
+      "link": "https://vnexpress.net/dai-nghia-ren-the-luc-thi-anh-trai-vuot-ngan-chong-gai-5070907.html",
+      "summary": "Diễn viên Đại Nghĩa nói mỗi ngày đạp xe 40 km rèn thể lực chuẩn bị cho \"Anh trai vượt ngàn chông gai 2026\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T06:08:47+07:00",
+      "fetched": "2026-05-08T14:25:51.473163+07:00"
+    },
+    {
+      "id": "a6bc31837a1ff15bbb86703a94ee4975",
+      "title": "'Thuê nhà 12 triệu lời hơn mua chung cư 7 tỷ'",
+      "link": "https://vnexpress.net/gia-chung-cu-ha-noi-gia-chung-cu-tp-hcm-o-thue-12-trieu-mot-thang-loi-hon-mua-chung-cu-7-ty-5071450.html",
+      "summary": "Căn hộ 'hai ngủ' giá hơn 7 tỷ, tương đương 50 năm tiền thuê, chưa tính lãi suất và các chi phí phát sinh, vậy tội gì tôi phải mua?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T06:00:00+07:00",
+      "fetched": "2026-05-08T14:25:51.473349+07:00"
+    },
+    {
+      "id": "c8d7264053bc87f2c5a6e97cbc145672",
+      "title": "Nhiều người bảo tôi 'điên' vì mua máy tính 3000 USD cho con chơi game",
+      "link": "https://vnexpress.net/quan-ly-chi-tieu-nhieu-nguoi-bao-toi-dien-vi-mua-may-tinh-3000-usd-cho-con-choi-game-5070255.html",
+      "summary": "Tuy tôi sống đơn giản cho bản thân nhưng đối với gia đình hay bạn bè thì hoàn toàn trái ngược.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T06:00:00+07:00",
+      "fetched": "2026-05-08T14:25:51.473523+07:00"
+    },
+    {
+      "id": "7ac276123e5b9c131e7a20fd31171f27",
+      "title": "Máy hút sữa thông minh giá 13 triệu đồng",
+      "link": "https://vnexpress.net/may-hut-sua-thong-minh-gia-13-trieu-dong-5071291.html",
+      "summary": "Máy hút sữa Eufy S1 Pro có thiết kế nhỏ gọn cùng khả năng theo dõi qua ứng dụng nhưng giá cao so với mặt bằng chung.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T06:00:00+07:00",
+      "fetched": "2026-05-08T14:25:51.473686+07:00"
+    },
+    {
+      "id": "fbc4466f4259e131ad0738f7f46e3014",
+      "title": "Hà Nội Ford đạt danh hiệu Đại lý của năm 2025",
+      "link": "https://vnexpress.net/ha-noi-ford-dat-danh-hieu-dai-ly-cua-nam-2025-5070783.html",
+      "summary": "Hà Nội Ford xác lập cột mốc quan trọng trong hành trình phát triển, được hãng xe Mỹ vinh danh Đại lý xuất sắc toàn quốc năm 2025 trong sự kiện ở Pattaya, Thái Lan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T06:00:00+07:00",
+      "fetched": "2026-05-08T14:25:51.473851+07:00"
+    },
+    {
+      "id": "7ac276123e5b9c131e7a20fd31171f27",
+      "title": "Máy hút sữa thông minh giá 13 triệu đồng",
+      "link": "https://vnexpress.net/may-hut-sua-thong-minh-gia-13-trieu-dong-5071291.html",
+      "summary": "Máy hút sữa Eufy S1 Pro có thiết kế nhỏ gọn cùng khả năng theo dõi qua ứng dụng nhưng giá cao so với mặt bằng chung.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-08T06:00:00+07:00",
+      "fetched": "2026-05-08T14:26:02.428703+07:00"
+    },
+    {
       "id": "3059bdec0e69bee776c2fa5ca5aa3cf5",
       "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm đến Sri Lanka, Thủ tướng Amarasuriya đón tại sân bay",
       "link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-den-sri-lanka-thu-tuong-amarasuriya-don-tai-san-bay-20260507230055619.htm",
@@ -333,6 +753,16 @@ window.newsData_2026_05_08 = {
       "fetched": "2026-05-08T05:58:42.114822+07:00"
     },
     {
+      "id": "bbbc40e68cf5cc9f8bb1d9b694b8ffed",
+      "title": "Chim hồng hoàng quý hiếm xuất hiện ở trung tâm TP HCM",
+      "link": "https://vnexpress.net/chim-hong-hoang-quy-hiem-xuat-hien-o-trung-tam-tp-hcm-5071500.html",
+      "summary": "Con chim hồng hoàng, loài thuộc danh mục quý hiếm, nguy cấp và bị đe dọa tuyệt chủng, xuất hiện trên cây xanh ở đường Nguyễn Công Trứ, phường Sài Gòn, trưa 8/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T05:55:20+07:00",
+      "fetched": "2026-05-08T14:25:51.474005+07:00"
+    },
+    {
       "id": "cf8b32aaf21a06e0f12e480b619f175e",
       "title": "Việt Nam đăng cai giải Thể thao điện tử Đông Nam Á từ năm 2026",
       "link": "https://thanhnien.vn/viet-nam-dang-cai-giai-the-thao-dien-tu-dong-nam-a-tu-nam-2026-185260508122617634.htm",
@@ -351,6 +781,16 @@ window.newsData_2026_05_08 = {
       "category": "Tổng hợp",
       "published": "2026-05-08T05:50:00+07:00",
       "fetched": "2026-05-08T12:54:19.514201+07:00"
+    },
+    {
+      "id": "724936cc5665e5124335d2bcc15c9e17",
+      "title": "Bé 2 tuổi bị mẹ và người tình bạo hành sẽ được trung tâm bảo trợ nuôi dưỡng",
+      "link": "https://vnexpress.net/be-2-tuoi-bi-me-va-nguoi-tinh-bao-hanh-se-duoc-trung-tam-bao-tro-nuoi-duong-5071486.html",
+      "summary": "Sau một tuần điều trị chấn thương do bị mẹ và nhân tình bạo hành, bé trai 2 tuổi đang được y bác sĩ Nhi đồng 1 cưu mang và dự kiến khi xuất viện sẽ trao trung tâm bảo trợ xã hội nuôi dưỡng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T05:47:52+07:00",
+      "fetched": "2026-05-08T14:25:51.474162+07:00"
     },
     {
       "id": "134f9abc0838884fa03cbe624a81e6f5",
@@ -393,6 +833,26 @@ window.newsData_2026_05_08 = {
       "fetched": "2026-05-08T12:54:19.514874+07:00"
     },
     {
+      "id": "ebf335bb0e013df2799012921a0b2c10",
+      "title": "Thực hư chủ hàng dồn nước dừa thừa bán cho khách",
+      "link": "https://vnexpress.net/thuc-hu-chu-hang-don-nuoc-dua-thua-ban-cho-khach-5071475.html",
+      "summary": "Chính quyền xã Hải Thịnh xác định người phụ nữ trong video chỉ gom nước dừa thừa mang về nấu ăn, không có việc bán lại cho khách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T05:34:41+07:00",
+      "fetched": "2026-05-08T14:25:51.474356+07:00"
+    },
+    {
+      "id": "0455f66fd892cde325d27d068f28d1c5",
+      "title": "200 gian ẩm thực cho khách trải nghiệm ở food tour ở Đà Nẵng",
+      "link": "https://vnexpress.net/200-gian-am-thuc-cho-khach-trai-nghiem-o-food-tour-o-da-nang-5071315.html",
+      "summary": "Lễ hội ẩm thực diễn ra cuối tháng 5 với hơn 200 gian hàng, quy tụ tinh hoa ẩm thực xứ Quảng và các hoạt động trải nghiệm thực tế cho du khách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T05:33:08+07:00",
+      "fetched": "2026-05-08T14:25:51.474524+07:00"
+    },
+    {
       "id": "3b5d524770f5ffdbca91139d78fcb9b1",
       "title": "Công ty điện mặt trời của Trung Nam lỗ gần 1.000 tỷ đồng",
       "link": "https://vnexpress.net/cong-ty-dien-mat-troi-cua-trung-nam-lo-gan-1-000-ty-dong-5071456.html",
@@ -411,6 +871,16 @@ window.newsData_2026_05_08 = {
       "category": "Tổng hợp",
       "published": "2026-05-08T05:30:00+07:00",
       "fetched": "2026-05-08T12:54:19.515020+07:00"
+    },
+    {
+      "id": "150692025b43669a9c8599df1d6f27a8",
+      "title": "Những câu cằn nhằn của vợ âm thầm phá hủy hôn nhân",
+      "link": "https://vnexpress.net/nhung-cau-can-nhan-cua-vo-am-tham-pha-huy-hon-nhan-5071253.html",
+      "summary": "Các chuyên gia tâm lý Mỹ chỉ ra những câu nói lúc nóng giận của người vợ có thể làm tổn thương lòng tự trọng của chồng và gây rạn nứt hôn nhân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T05:22:15+07:00",
+      "fetched": "2026-05-08T14:25:51.474831+07:00"
     },
     {
       "id": "6bbdd0380e83f8f1bd31078d2c2ef14a",
