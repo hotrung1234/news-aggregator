@@ -1,6 +1,6 @@
 window.newsData_2026_05_09 = {
   "date": "2026-05-09",
-  "lastUpdated": "2026-05-09T02:13:12.922717+07:00",
+  "lastUpdated": "2026-05-09T03:56:46.310256+07:00",
   "articles": [
     {
       "id": "18fffc86757d8bedf53c1dc83df87cb1",
@@ -231,6 +231,16 @@ window.newsData_2026_05_09 = {
       "category": "Tổng hợp",
       "published": "2026-05-09T00:13:39.329093+07:00",
       "fetched": "2026-05-09T00:13:39.329319+07:00"
+    },
+    {
+      "id": "032174da55591fe30933afa65be1f44c",
+      "title": "Bữa sáng với món này giúp huyết áp ổn định hơn",
+      "link": "https://thanhnien.vn/bua-sang-voi-mon-nay-giup-huyet-ap-on-dinh-hon-185260508214312296.htm",
+      "summary": "Bơ là loại trái cây giàu kali, chất xơ và chất béo không bão hòa tốt cho tim mạch. Nhiều chuyên gia dinh dưỡng cho rằng thêm bơ vào bữa sáng có thể giúp duy trì năng lượng ổn định và hỗ trợ kiểm soát huyết áp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T20:19:00+07:00",
+      "fetched": "2026-05-09T03:56:38.802634+07:00"
     },
     {
       "id": "26ee20b51a486a82b24ee3cd02313be6",
