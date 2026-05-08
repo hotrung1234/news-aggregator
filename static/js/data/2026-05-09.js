@@ -1,7 +1,87 @@
 window.newsData_2026_05_09 = {
   "date": "2026-05-09",
-  "lastUpdated": "2026-05-09T00:13:48.057500+07:00",
+  "lastUpdated": "2026-05-09T02:13:12.922717+07:00",
   "articles": [
+    {
+      "id": "18fffc86757d8bedf53c1dc83df87cb1",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm mong người Việt tại Sri Lanka phát huy bản sắc văn hóa dân tộc",
+      "link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-mong-nguoi-viet-tai-sri-lanka-phat-huy-ban-sac-van-hoa-dan-toc-20260508223152755.htm",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm đã gặp gỡ cán bộ cơ quan đại diện và cộng đồng người Việt Nam tại Sri Lanka.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T02:13:06.208924+07:00",
+      "fetched": "2026-05-09T02:13:06.209015+07:00"
+    },
+    {
+      "id": "c12bc2313ae0c16e0630b02a62e1f4df",
+      "title": "Shin Hyun Bin ngã hai lần trên thảm đỏ Baeksang nhưng vẫn xinh như tiên cá",
+      "link": "https://tuoitre.vn/shin-hyun-bin-nga-hai-lan-tren-tham-do-baeksang-nhung-van-xinh-nhu-tien-ca-20260508224816197.htm",
+      "summary": "Diễn viên Shin Hyun Bin của phim Hospital Playlist gây chú ý khi liên tiếp vấp ngã trên thảm đỏ Baeksang Arts Awards 2026 nhưng vẫn giữ thần thái rạng rỡ và thanh lịch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T02:13:06.208821+07:00",
+      "fetched": "2026-05-09T02:13:06.208914+07:00"
+    },
+    {
+      "id": "db1fb095f70c01d09a7001003fe1d0b6",
+      "title": "Khai mạc Lễ hội Hoa phượng đỏ Hải Phòng 2026",
+      "link": "https://tuoitre.vn/khai-mac-le-hoi-hoa-phuong-do-hai-phong-2026-20260508215435665.htm",
+      "summary": "Tối 8-5, tại quảng trường Trung tâm chính trị - hành chính, thành phố Hải Phòng tổ chức khai mạc Lễ hội Hoa phượng đỏ với chủ đề 'Hải Phòng - Hội tụ - Tỏa sáng'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T02:13:06.208698+07:00",
+      "fetched": "2026-05-09T02:13:06.208811+07:00"
+    },
+    {
+      "id": "e942afd7aa39841d51f761e3620c287f",
+      "title": "Nhạc sĩ Dương Cầm công bố chương trình Phòng khách 3 thế hệ, cam kết chỉ hát live, không hát nhép",
+      "link": "https://tuoitre.vn/nhac-si-duong-cam-cong-bo-chuong-trinh-phong-khach-3-the-he-cam-ket-chi-hat-live-khong-hat-nhep-20260508225445012.htm",
+      "summary": "Phòng khách 3 thế hệ sẽ chỉ có hát live, không có hát nhép. Điều này cũng phù hợp với tính chất của chuỗi chương trình gắn kết các thế hệ, quan trọng ở cảm xúc thật, truyền đạt thật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T02:13:06.208596+07:00",
+      "fetched": "2026-05-09T02:13:06.208689+07:00"
+    },
+    {
+      "id": "cc0d1164926e455726022cc85da97647",
+      "title": "'Dưới bóng điện hạ' trượt giải, Hyun Bin là Thị đế Baeksang 2026",
+      "link": "https://tuoitre.vn/duoi-bong-dien-ha-truot-giai-hyun-bin-la-thi-de-baeksang-2026-20260508224927208.htm",
+      "summary": "Lễ trao giải nghệ thuật Baeksang lần thứ 62 chính thức tìm được chủ nhân cho các hạng mục lớn trong lĩnh vực điện ảnh và truyền hình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T02:13:06.208491+07:00",
+      "fetched": "2026-05-09T02:13:06.208587+07:00"
+    },
+    {
+      "id": "a744fe52d3576ddf31fe13b9fc0795b2",
+      "title": "Nhóm thanh niên mang hung khí vào quán cà phê chém người tử vong",
+      "link": "https://tuoitre.vn/nhom-thanh-nien-mang-hung-khi-vao-quan-ca-phe-chem-nguoi-tu-vong-20260508225741854.htm",
+      "summary": "Nhóm thanh niên mang hung khí xông vào quán cà phê ở xã Tân Lộc, tỉnh Cà Mau tấn công bốn thanh thiếu niên đang ngồi bên trong làm một người tử vong tại chỗ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T02:13:06.208378+07:00",
+      "fetched": "2026-05-09T02:13:06.208481+07:00"
+    },
+    {
+      "id": "dee34769b70703bc7ca272df1931fc65",
+      "title": "Mỹ tung video bắn hai tàu treo cờ Iran cố vượt vòng phong tỏa",
+      "link": "https://tuoitre.vn/my-tung-video-ban-hai-tau-treo-co-iran-co-vuot-vong-phong-toa-20260508231608878.htm",
+      "summary": "Quân đội Mỹ nổ súng và vô hiệu hóa hai tàu chở dầu treo cờ Iran bị cáo buộc tìm cách vượt qua lệnh phong tỏa của Washington.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T02:13:06.208252+07:00",
+      "fetched": "2026-05-09T02:13:06.208368+07:00"
+    },
+    {
+      "id": "bc2d3409e2e3f5e47106c911e17bc186",
+      "title": "Thời tiết hôm nay 9-5: Bắc Bộ có nơi mưa to; Nam Bộ ngày nắng, chiều mưa",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-9-5-bac-bo-co-noi-mua-to-nam-bo-ngay-nang-chieu-mua-20260508161736313.htm",
+      "summary": "Hôm nay 9-5, thời tiết Bắc Bộ có nơi mưa to, đề phòng dông lốc nguy hiểm. Nam Bộ ngày nắng nóng nhưng chiều tối sẽ có mưa rào vì đang bước vào mùa mưa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T02:13:06.207989+07:00",
+      "fetched": "2026-05-09T02:13:06.208238+07:00"
+    },
     {
       "id": "e2d1edd1df3fdf3482ae4e67be5ac3eb",
       "title": "Dấu ấn tốt đẹp từ chuyến công tác dự Hội nghị cấp cao ASEAN 48 của Thủ tướng",
@@ -151,6 +231,106 @@ window.newsData_2026_05_09 = {
       "category": "Tổng hợp",
       "published": "2026-05-09T00:13:39.329093+07:00",
       "fetched": "2026-05-09T00:13:39.329319+07:00"
+    },
+    {
+      "id": "26ee20b51a486a82b24ee3cd02313be6",
+      "title": "Cuộc chiến đòi bồi thường vì chính sách cấm đuổi người thuê nhà thời Covid-19",
+      "link": "https://vnexpress.net/cuoc-chien-doi-boi-thuong-vi-chinh-sach-cam-duoi-nguoi-thue-nha-thoi-covid-19-5071423.html",
+      "summary": "Hơn 1.500 chủ nhà ở Mỹ đệ đơn kiện đòi chính phủ bồi thường thiệt hại vì lệnh cấm đuổi người thuê không trả tiền được CDC ban hành thời đại dịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T19:00:00+07:00",
+      "fetched": "2026-05-09T02:13:01.726642+07:00"
+    },
+    {
+      "id": "a53ca7f8bdddf486aa4cbcc96a718b25",
+      "title": "Tân vương V-League sắp lộ diện",
+      "link": "https://thanhnien.vn/tan-vuong-v-league-sap-lo-dien-185260508194252591.htm",
+      "summary": "Cuộc đua vô địch V-League 2025 - 2026 có thể hạ màn ngay vòng 22, khi CLB Công an Hà Nội đã ở rất gần bục vinh quang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T18:09:00+07:00",
+      "fetched": "2026-05-09T02:13:04.809859+07:00"
+    },
+    {
+      "id": "35716b28475a52589a145c37a728cb47",
+      "title": "5 thực phẩm nên hạn chế sau tuổi 50",
+      "link": "https://vnexpress.net/5-thuc-pham-nen-han-che-sau-tuoi-50-5071145.html",
+      "summary": "Hạn chế thực phẩm nhiều đường bổ sung, muối, chất béo xấu và bia rượu ở tuổi 50 có thể giảm nguy cơ mắc các bệnh lý mạn tính khi về già.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T18:03:00+07:00",
+      "fetched": "2026-05-09T02:13:01.726825+07:00"
+    },
+    {
+      "id": "6c8db9fa651b9e57d802c1d75b7de3bd",
+      "title": "Lưới phòng thủ giúp tàu chiến Mỹ đối mặt 'mưa hỏa lực' của Iran",
+      "link": "https://vnexpress.net/luoi-phong-thu-giup-tau-chien-my-doi-mat-mua-hoa-luc-cua-iran-5071421.html",
+      "summary": "Các khu trục hạm Mỹ được trang bị radar cảnh giới hiện đại và hàng chục tên lửa các loại, cho phép đối mặt với đòn tấn công của Iran.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T18:00:00+07:00",
+      "fetched": "2026-05-09T02:13:01.726965+07:00"
+    },
+    {
+      "id": "6c8db9fa651b9e57d802c1d75b7de3bd",
+      "title": "Lưới phòng thủ giúp tàu chiến Mỹ đối mặt 'mưa hỏa lực' của Iran",
+      "link": "https://vnexpress.net/luoi-phong-thu-giup-tau-chien-my-doi-mat-mua-hoa-luc-cua-iran-5071421.html",
+      "summary": "Các khu trục hạm Mỹ được trang bị radar cảnh giới hiện đại và hàng chục tên lửa các loại, cho phép đối mặt với đòn tấn công của Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-08T18:00:00+07:00",
+      "fetched": "2026-05-09T02:13:07.121043+07:00"
+    },
+    {
+      "id": "ab9be2a7711c47b4c629d48df8674346",
+      "title": "Uống nước dừa mỗi ngày: Lợi ích và rủi ro ít người để ý",
+      "link": "https://thanhnien.vn/uong-nuoc-dua-moi-ngay-loi-ich-va-rui-ro-it-nguoi-de-y-18526050814213664.htm",
+      "summary": "Nước dừa được xem là lựa chọn lành mạnh vì có nguồn gốc tự nhiên và giải khát nhanh. Nhưng điều cần lưu ý là tự nhiên không có nghĩa là uống càng nhiều càng tốt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T17:58:00+07:00",
+      "fetched": "2026-05-09T02:13:04.810015+07:00"
+    },
+    {
+      "id": "42989192332609112b5fc3a9e4197f9b",
+      "title": "Việt Nam - Sri Lanka nhất trí thúc đẩy hợp tác khoa học công nghệ",
+      "link": "https://vnexpress.net/viet-nam-sri-lanka-nhat-tri-thuc-day-hop-tac-khoa-hoc-cong-nghe-5071729.html",
+      "summary": "Việt Nam và Sri Lanka ra tuyên bố chung, nhất trí mở rộng hợp tác trên nhiều lĩnh vực, trong đó có khoa học công nghệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T17:20:32+07:00",
+      "fetched": "2026-05-09T02:13:01.727099+07:00"
+    },
+    {
+      "id": "42989192332609112b5fc3a9e4197f9b",
+      "title": "Việt Nam - Sri Lanka nhất trí thúc đẩy hợp tác khoa học công nghệ",
+      "link": "https://vnexpress.net/viet-nam-sri-lanka-nhat-tri-thuc-day-hop-tac-khoa-hoc-cong-nghe-5071729.html",
+      "summary": "Việt Nam và Sri Lanka ra tuyên bố chung, nhất trí mở rộng hợp tác trên nhiều lĩnh vực, trong đó có khoa học công nghệ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-08T17:20:32+07:00",
+      "fetched": "2026-05-09T02:13:07.121199+07:00"
+    },
+    {
+      "id": "96cf92944bfeec551ba2db6360bff5a4",
+      "title": "Mỹ chờ Iran sớm phản hồi đề xuất hòa bình",
+      "link": "https://vnexpress.net/my-cho-iran-som-phan-hoi-de-xuat-hoa-binh-5071710.html",
+      "summary": "Ngoại trưởng Mỹ Rubio nói nước này đang chờ Iran sớm phản hồi đề xuất về cuộc xung đột hiện nay, mong đó là \"đề nghị nghiêm túc\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-08T17:20:12+07:00",
+      "fetched": "2026-05-09T02:13:01.727233+07:00"
+    },
+    {
+      "id": "96cf92944bfeec551ba2db6360bff5a4",
+      "title": "Mỹ chờ Iran sớm phản hồi đề xuất hòa bình",
+      "link": "https://vnexpress.net/my-cho-iran-som-phan-hoi-de-xuat-hoa-binh-5071710.html",
+      "summary": "Ngoại trưởng Mỹ Rubio nói nước này đang chờ Iran sớm phản hồi đề xuất về cuộc xung đột hiện nay, mong đó là \"đề nghị nghiêm túc\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-08T17:20:12+07:00",
+      "fetched": "2026-05-09T02:13:07.121337+07:00"
     },
     {
       "id": "f5772b4851f115b88f4c2bbdeb557034",
@@ -341,6 +521,26 @@ window.newsData_2026_05_09 = {
       "category": "Tổng hợp",
       "published": "2026-05-08T17:00:00+07:00",
       "fetched": "2026-05-09T00:13:38.256373+07:00"
+    },
+    {
+      "id": "8e420c942d88a5395b0537068941afdb",
+      "title": "Sinner: 'Tiền thưởng cho thấy 4 Grand Slam không tôn trọng các tay vợt'",
+      "link": "https://vnexpress.net/sinner-tien-thuong-cho-thay-4-grand-slam-khong-ton-trong-cac-tay-vot-5071676.html",
+      "summary": "Phương án phân bổ tiền thưởng tại Roland Garros 2026 làm bùng lên làn sóng phản đối từ các tay vợt, và Jannik Sinner là cái tên mới nhất công khai chỉ trích sự thiếu công bằng của ban tổ chức các giải Grand Slam.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-08T17:00:00+07:00",
+      "fetched": "2026-05-09T02:13:12.917895+07:00"
+    },
+    {
+      "id": "d8c58e6f3016d2cc72f1e48b7dcfb61d",
+      "title": "Carragher: 'Arsenal cần thắng hai trận nữa để trở thành bất tử'",
+      "link": "https://vnexpress.net/carragher-arsenal-can-thang-hai-tran-nua-de-tro-thanh-bat-tu-5071651.html",
+      "summary": "Trên mục góc nhìn của báo Anh Telegraph, cựu danh thủ Jamie Carragher cho rằng chỉ cần hai chiến thắng nữa, thầy trò Mikel Arteta sẽ đứng chung hàng ngũ với thế hệ \"Bất bại\" của Arsene Wenger dưới danh xưng \"Những vị thần bất tử\".",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-08T17:00:00+07:00",
+      "fetched": "2026-05-09T02:13:12.918052+07:00"
     },
     {
       "id": "97cbedd118fdd990d5a86732256a6d44",
