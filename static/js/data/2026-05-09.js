@@ -1,7 +1,157 @@
 window.newsData_2026_05_09 = {
   "date": "2026-05-09",
-  "lastUpdated": "2026-05-09T20:11:29.840625+07:00",
+  "lastUpdated": "2026-05-09T21:48:04.125093+07:00",
   "articles": [
+    {
+      "id": "eae13c9ddb85e0c6b633d1238b7bdd60",
+      "title": "Khởi tố vụ trang trại heo NewHope Thanh Hóa xả hàng ngàn tấn chất thải",
+      "link": "https://tuoitre.vn/khoi-to-vu-trang-trai-heo-newhope-thanh-hoa-xa-hang-ngan-tan-chat-thai-20260509181728693.htm",
+      "summary": "Công an tỉnh Thanh Hóa khởi tố vụ án 'gây ô nhiễm môi trường', khởi tố 3 bị can liên quan việc xả hơn 5,8 triệu kg chất thải chưa qua xử lý tại trang trại heo của Công ty NewHope Thanh Hóa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T21:47:57.688977+07:00",
+      "fetched": "2026-05-09T21:47:57.689090+07:00"
+    },
+    {
+      "id": "aacef0e5afe2674a711564cb2f018e80",
+      "title": "Dấu ấn Việt Nam tại Hội nghị cấp cao ASEAN lần 48",
+      "link": "https://tuoitre.vn/dau-an-cua-viet-nam-tai-hoi-nghi-cap-cao-asean-lan-48-20260509164955228.htm",
+      "summary": "Chỉ trong hơn 30 giờ đồng hồ, Thủ tướng Lê Minh Hưng đã có một lịch làm việc dày đặc với khoảng 20 hoạt động song phương và đa phương quan trọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T21:47:57.688850+07:00",
+      "fetched": "2026-05-09T21:47:57.688966+07:00"
+    },
+    {
+      "id": "ed3dd02e864ce67be1a76be93e113a36",
+      "title": "Chứng ngưng thở khi ngủ ảnh hưởng gần 1 tỉ người",
+      "link": "https://tuoitre.vn/chung-ngung-tho-khi-ngu-anh-huong-gan-1-ti-nguoi-20260508133404987.htm",
+      "summary": "Chứng ngưng thở khi ngủ hiện ảnh hưởng gần 1 tỉ người trên toàn thế giới nhưng vẫn thường xuyên không được chẩn đoán, đặc biệt ở phụ nữ và nhiều nhóm bệnh nhân khác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T21:47:57.688719+07:00",
+      "fetched": "2026-05-09T21:47:57.688839+07:00"
+    },
+    {
+      "id": "f76bbe8c26b4e947b823fda5b696a17c",
+      "title": "100 điều bạn tự hào về Việt Nam là gì?",
+      "link": "https://tuoitre.vn/100-dieu-ban-tu-hao-ve-viet-nam-la-gi-20260509192040202.htm",
+      "summary": "Mỗi người Việt Nam có thể có danh sách 100 điều mà mình tự hào về đất nước rất riêng. Và nhóm biên soạn cuốn sách ‘100 điều tự hào Việt Nam’ cũng đưa ra một danh sách họ cho rằng có thể nhận sự đồng thuận của số đông bạn đọc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T21:47:57.688587+07:00",
+      "fetched": "2026-05-09T21:47:57.688708+07:00"
+    },
+    {
+      "id": "ff3c926adc46a398d4f4d8ee2cad6470",
+      "title": "Brooklyn xéo xắt sau phát ngôn 'cố làm người mẹ tốt' của Victoria Beckham?",
+      "link": "https://tuoitre.vn/brooklyn-xeo-xat-sau-phat-ngon-co-lam-nguoi-me-tot-cua-victoria-beckham-20260509190528708.htm",
+      "summary": "Sau khi Victoria Beckham khẳng định luôn cố gắng làm mẹ tốt, không gây áp lực cho con cái trong podcast gần đây, Brooklyn liền có động thái 'đáp trả' mẹ ruột trên Instagram.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T21:47:57.688460+07:00",
+      "fetched": "2026-05-09T21:47:57.688576+07:00"
+    },
+    {
+      "id": "b123a5bdba929c26e5f2aec38cac574b",
+      "title": "Trương Lăng Hách gặp khó khi cố thoát mác 'tướng quân kem nền'",
+      "link": "https://tuoitre.vn/truong-lang-hach-gap-kho-khi-co-thoat-mac-tuong-quan-kem-nen-20260509191610446.htm",
+      "summary": "Cởi bỏ trang phục lộng lẫy của thể loại cổ trang, Trương Lăng Hách chịu hàng loạt áp lực về chuyên môn, giới hạn thể lực và khả năng thích nghi với môi trường khắc nghiệt trong phim mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T21:47:57.688325+07:00",
+      "fetched": "2026-05-09T21:47:57.688449+07:00"
+    },
+    {
+      "id": "ad43ea7f260090e59da44e5f60c16c13",
+      "title": "108 phạm nhân ở trại giam Tống Lê Chân đủ điều kiện đề nghị đặc xá",
+      "link": "https://tuoitre.vn/108-pham-nhan-o-trai-giam-tong-le-chan-du-dieu-kien-de-nghi-dac-xa-20260509192547756.htm",
+      "summary": "Trong số 108 phạm nhân tại trại giam Tống Lê Chân đủ điều kiện đề nghị đặc xá, có 4 trường hợp liên quan các vụ án thuộc diện Ban Chỉ đạo Trung ương về phòng chống tham nhũng, tiêu cực theo dõi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T21:47:57.688173+07:00",
+      "fetched": "2026-05-09T21:47:57.688312+07:00"
+    },
+    {
+      "id": "ea3b1446a3e91ba776682cf03e0fffac",
+      "title": "Tai nạn lạ kỳ: Người đi bộ trên đường băng bị máy bay tông trúng",
+      "link": "https://tuoitre.vn/tai-nan-la-ky-nguoi-di-bo-tren-duong-bang-bi-may-bay-tong-trung-20260509190051308.htm",
+      "summary": "Một chiếc máy bay tại sân bay quốc tế Denver của Mỹ đã phải hủy cất cánh sau khi đâm vào một người đi bộ trên đường băng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T21:47:57.688045+07:00",
+      "fetched": "2026-05-09T21:47:57.688157+07:00"
+    },
+    {
+      "id": "5bc479cd772983a84988d96d6d5cd381",
+      "title": "Du khách thích thú xem vật bãi biển quốc tế ở Đà Nẵng",
+      "link": "https://tuoitre.vn/du-khach-thich-thu-xem-vat-bai-bien-quoc-te-o-da-nang-20260509185416924.htm",
+      "summary": "Gần 100 vận động viên tạo nên những màn so tài sôi động trên bãi biển Mỹ Khê, thu hút đông đảo du khách theo dõi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T21:47:57.687918+07:00",
+      "fetched": "2026-05-09T21:47:57.688034+07:00"
+    },
+    {
+      "id": "b20729ae67fa9e70f844be7c656332d9",
+      "title": "Thủ môn U17 nữ Việt Nam nói gì trước trận gặp Úc?",
+      "link": "https://tuoitre.vn/thu-mon-u17-nu-viet-nam-noi-gi-truoc-tran-gap-uc-20260509192527352.htm",
+      "summary": "Phát biểu trước trận tứ kết Giải U17 nữ châu Á 2026, thủ môn Trần Thị Cẩm My đánh giá cao U17 nữ Úc nhưng tự tin U17 nữ Việt Nam có thể cạnh tranh được.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T21:47:57.687790+07:00",
+      "fetched": "2026-05-09T21:47:57.687907+07:00"
+    },
+    {
+      "id": "6d696b0fe64b9998b1b1975d13894321",
+      "title": "Cứu kịp cháu bé 3 tuổi rơi xuống từ trần thạch cao",
+      "link": "https://tuoitre.vn/cuu-kip-chau-be-3-tuoi-roi-xuong-tu-tran-thach-cao-2026050919451623.htm",
+      "summary": "Cháu bé 3 tuổi ở Đông Triều, tỉnh Quảng Ninh khi đi tìm đồ chơi đã rơi xuyên qua trần thạch cao, may mắn được người đàn ông đỡ kịp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T21:47:57.687662+07:00",
+      "fetched": "2026-05-09T21:47:57.687778+07:00"
+    },
+    {
+      "id": "48568e5b236bf786162b9e542f392418",
+      "title": "CLB Quảng Ninh thua đau bởi 1 cú sút đổi hướng",
+      "link": "https://tuoitre.vn/clb-quang-ninh-thua-dau-boi-1-cu-sut-doi-huong-20260509200819858.htm",
+      "summary": "CLB Đồng Tháp thắng Quảng Ninh 1-0 ngay tại sân Cẩm Phả bằng một cú đá phạt đi chạm hàng rào đổi hướng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T21:47:57.687530+07:00",
+      "fetched": "2026-05-09T21:47:57.687650+07:00"
+    },
+    {
+      "id": "49e1cde74ee7d968250b8526602a6b71",
+      "title": "Nhật Bản tái đấu Trung Quốc ở chung kết bóng bàn nữ thế giới",
+      "link": "https://tuoitre.vn/nhat-ban-tai-dau-trung-quoc-o-chung-ket-bong-ban-nu-the-gioi-20260509194347153.htm",
+      "summary": "Bất ngờ đã không xảy ra ở vòng bán kết nội dung nữ Giải vô địch bóng bàn đồng đội thế giới tối 9-5, khi 2 đội mạnh nhất là Nhật Bản và Trung Quốc đều dễ dàng giành vé vào chung kết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T21:47:57.687392+07:00",
+      "fetched": "2026-05-09T21:47:57.687519+07:00"
+    },
+    {
+      "id": "58bd34f179c65977d1e728aad0dc7acc",
+      "title": "Khám phá xu hướng mới tại triển lãm Quốc tế giấy, bao bì và quảng cáo",
+      "link": "https://tuoitre.vn/kham-pha-xu-huong-moi-tai-trien-lam-quoc-te-giay-bao-bi-va-quang-cao-20260509173043886.htm",
+      "summary": "Khám phá xu hướng mới tại triển lãm Quốc tế giấy, bao bì và quảng cáo",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T21:47:57.687209+07:00",
+      "fetched": "2026-05-09T21:47:57.687377+07:00"
+    },
+    {
+      "id": "bcb0a09bb95a15d706ed4242128bd5d8",
+      "title": "NÓNG: Thủ tướng Thái Lan lên tiếng về vụ bắt thanh niên Trung Quốc tình nghi khủng bố",
+      "link": "https://tuoitre.vn/nong-thu-tuong-thai-lan-len-tieng-ve-vu-bat-thanh-nien-trung-quoc-tinh-nghi-khung-bo-20260509201452184.htm",
+      "summary": "Ngày 9-5, Thủ tướng Thái Lan ra lệnh mở rộng điều tra vụ một công dân Trung Quốc bị phát hiện tàng trữ vũ khí tại tỉnh Chonburi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T21:47:57.686983+07:00",
+      "fetched": "2026-05-09T21:47:57.687194+07:00"
+    },
     {
       "id": "f0ae15ecf688ebab2e9d0b6456705394",
       "title": "Ngang nhiên xóa số điện thoại nóng, số cứu hộ trên cao tốc giữa ban ngày",
@@ -433,6 +583,256 @@ window.newsData_2026_05_09 = {
       "fetched": "2026-05-09T16:16:36.428750+07:00"
     },
     {
+      "id": "0583aa096825ab370a05a1d34fd12936",
+      "title": "U.17 Việt Nam quyết vượt thử thách U.17 Hàn Quốc, hướng tới vé World Cup",
+      "link": "https://thanhnien.vn/u17-viet-nam-quyet-vuot-thu-thach-u17-han-quoc-huong-toi-ve-world-cup-185260509213945696.htm",
+      "summary": "Đội tuyển U.17 Việt Nam đang có tinh thần rất tốt sau chiến thắng trước U.17 Yemen và hướng tới mục tiêu tạo bất ngờ trước U.17 Hàn Quốc ở lượt trận thứ 2 bảng C giải U.17 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T14:39:00+07:00",
+      "fetched": "2026-05-09T21:47:56.817315+07:00"
+    },
+    {
+      "id": "ee63a880c4a957661c35aee3bf79a1fb",
+      "title": "Để đội cuối bảng Long An cầm hòa, CLB TP.HCM vuột mất tốp 3 chỉ sau 1 tuần",
+      "link": "https://thanhnien.vn/de-doi-cuoi-bang-long-an-cam-hoa-clb-tphcm-vuot-mat-top-3-chi-sau-1-tuan-185260509204216889.htm",
+      "summary": "CLB TP.HCM gây thất vọng khi bị đội áp chót Long An cầm hòa 0-0 ngay trên sân nhà ở vòng 18 giải hạng nhất quốc gia. Kết quả này khiến đội bóng thành phố đánh mất vị trí trong tốp 3 chỉ sau đúng 1 tuần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T14:37:00+07:00",
+      "fetched": "2026-05-09T21:47:56.817482+07:00"
+    },
+    {
+      "id": "a4864ae83855b494f603d2ad5bbe1f84",
+      "title": "Nam thần Thái Lan gây sốc khi cắt đứt quan hệ với mẹ ruột",
+      "link": "https://thanhnien.vn/nam-than-thai-lan-gay-soc-khi-cat-dut-quan-he-voi-me-ruot-185260509212836533.htm",
+      "summary": "Sau những ồn ào kéo dài kể từ khi chia tay minh tinh Baifern Pimchanok, nam thần Thái Lan Nine Naphat chính thức lên tiếng xác nhận đã chấm dứt liên lạc với mẹ ruột và tìm hướng đi riêng cho cuộc sống của mình, theo Thairath.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T14:28:00+07:00",
+      "fetched": "2026-05-09T21:47:56.817637+07:00"
+    },
+    {
+      "id": "431bd859c116576e5111c53801b4b696",
+      "title": "Học sinh lớp 6 bị điện giật tử vong khi trèo mái nhà lấy bóng",
+      "link": "https://vnexpress.net/hoc-sinh-lop-6-bi-dien-giat-tu-vong-khi-treo-mai-nha-lay-bong-5071978.html",
+      "summary": "Nam sinh 12 tuổi ở phường Đô Vinh trèo lên mái nhà nhặt bóng, va vào dây điện và tử vong dù được đưa đi cấp cứu, chiều 9/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T14:09:07+07:00",
+      "fetched": "2026-05-09T21:47:53.758794+07:00"
+    },
+    {
+      "id": "5897ec69f1bf352087905dd9ff111597",
+      "title": "Bốn năm chồng chỉ quan hệ với tôi chưa đến chục lần",
+      "link": "https://vnexpress.net/bon-nam-chong-chi-quan-he-voi-toi-chua-den-chuc-lan-5071853.html",
+      "summary": "Tôi có khuôn mặt ưa nhìn, cao 1m65, da sáng, sinh xong về dáng nhanh, cũng chưa phát hiện chồng có biểu hiện ngoại tình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T14:00:00+07:00",
+      "fetched": "2026-05-09T21:47:53.758973+07:00"
+    },
+    {
+      "id": "debd35f5e5b08cce1e1be164fcdf0e78",
+      "title": "Hà Nội thua Thanh Hóa dù chơi hơn người",
+      "link": "https://vnexpress.net/ha-noi-thua-thanh-hoa-du-choi-hon-nguoi-5071967.html",
+      "summary": "Hà Nội FC chơi hơn người cả hiệp hai, nhưng vẫn thua Thanh Hóa 0-1 ở vòng 22 dẫn đến mất vị trí thứ ba V-League 2025-2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T13:50:52+07:00",
+      "fetched": "2026-05-09T21:47:53.759144+07:00"
+    },
+    {
+      "id": "debd35f5e5b08cce1e1be164fcdf0e78",
+      "title": "Hà Nội thua Thanh Hóa dù chơi hơn người",
+      "link": "https://vnexpress.net/ha-noi-thua-thanh-hoa-du-choi-hon-nguoi-5071967.html",
+      "summary": "Hà Nội FC chơi hơn người cả hiệp hai, nhưng vẫn thua Thanh Hóa 0-1 ở vòng 22 dẫn đến mất vị trí thứ ba V-League 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-09T13:50:52+07:00",
+      "fetched": "2026-05-09T21:48:04.113376+07:00"
+    },
+    {
+      "id": "eb19ec9db1415d2324b89cd291a9eb8b",
+      "title": "Váy áo mùa hè tôn dáng của Trúc Diễm",
+      "link": "https://vnexpress.net/vay-ao-mua-he-ton-dang-cua-truc-diem-5071842.html",
+      "summary": "Người mẫu Trương Tri Trúc Diễm thường diện váy ngắn, áo khoét ngực vừa phải giúp tôn đường cong và vẻ tinh tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T13:50:08+07:00",
+      "fetched": "2026-05-09T21:47:53.759334+07:00"
+    },
+    {
+      "id": "6087d2efd1f5a2619a7dd1c3bd313e7a",
+      "title": "Highlight CLB Phú Thọ 2-0 ĐH Văn Hiến: Chủ nhà thắng dễ",
+      "link": "https://thanhnien.vn/highlight-clb-phu-tho-2-0-dh-van-hien-chu-nha-thang-de-185260509204543823.htm",
+      "summary": "CLB Phú Thọ thi đấu lấn lướt và giành chiến thắng thuyết phục 2-0 trước ĐH Văn Hiến ở vòng 18 giải hạng nhất quốc gia 2025-2026, qua đó cải thiện đáng kể vị trí trên bảng xếp hạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T13:48:00+07:00",
+      "fetched": "2026-05-09T21:47:56.817787+07:00"
+    },
+    {
+      "id": "b1601d03ed61c2d81e0ba07cd296cb16",
+      "title": "Highlight CLB Thanh Hóa 1-0 CLB Hà Nội: Dấu ấn Ngọc Mỹ",
+      "link": "https://thanhnien.vn/highlight-clb-thanh-hoa-1-0-clb-ha-noi-dau-an-ngoc-my-185260509204654475.htm",
+      "summary": "Nguyễn Ngọc Mỹ tiếp tục ghi dấu ấn với bàn thắng duy nhất giúp Đông Á Thanh Hóa đánh bại CLB Hà Nội 1-0 ở vòng 22 V-League 2025-2026. Kết quả này khiến đội bóng thủ đô bị bật khỏi tốp 3 trên bảng xếp hạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T13:46:00+07:00",
+      "fetched": "2026-05-09T21:47:56.817950+07:00"
+    },
+    {
+      "id": "156b28ac95e85d4030260795b25e3833",
+      "title": "Kế hoạch bí mật trở lại Hoàng gia Anh của Meghan Markle bị bại lộ?",
+      "link": "https://thanhnien.vn/ke-hoach-bi-mat-tro-lai-hoang-gia-anh-cua-meghan-markle-bi-bai-lo-185260509204424308.htm",
+      "summary": "Meghan Markle được cho là đang âm thầm tìm đường 'tái hòa nhập' cuộc sống Hoàng gia Anh và lấy lại vị thế của mình, theo Daily Express.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T13:44:00+07:00",
+      "fetched": "2026-05-09T21:47:56.818099+07:00"
+    },
+    {
+      "id": "c26abaee35425e6464bead8c8f65f88f",
+      "title": "Vẻ quyến rũ của Trương Quỳnh Anh ở tuổi 37",
+      "link": "https://thanhnien.vn/ve-quyen-ru-cua-truong-quynh-anh-o-tuoi-37-185260509201023576.htm",
+      "summary": "Loạt ảnh diện bikini của Trương Quỳnh Anh được đăng tải trên trang cá nhân khiến nhiều người xuýt xoa vì sắc vóc gợi cảm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T13:44:00+07:00",
+      "fetched": "2026-05-09T21:47:56.818253+07:00"
+    },
+    {
+      "id": "3122a7dd44190cc6a986bd24b4aab528",
+      "title": "Nhắc khách đội mũ bảo hiểm, tài xế công nghệ bị 1 sao: Cục CSGT nói gì?",
+      "link": "https://thanhnien.vn/nhac-khach-doi-mu-bao-hiem-tai-xe-cong-nghe-bi-1-sao-cuc-csgt-noi-gi-185260509203017977.htm",
+      "summary": "Từ chuyện tài xế công nghệ bị khách đánh giá 1 sao vì nhắc đội mũ bảo hiểm nhưng phản ánh không được giải quyết, Cục CSGT cho rằng hãng xe công nghệ cần trách nhiệm hơn với an toàn giao thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T13:40:00+07:00",
+      "fetched": "2026-05-09T21:47:56.818436+07:00"
+    },
+    {
+      "id": "c169af87037def86274355c163e18197",
+      "title": "Ngọc Mỹ tỏa sáng, CLB Hà Nội ‘sảy chân’ trước Thanh Hóa",
+      "link": "https://thanhnien.vn/ngoc-my-toa-sang-clb-ha-noi-say-chan-truoc-thanh-hoa-185260509205618494.htm",
+      "summary": "Bàn thắng duy nhất của Nguyễn Ngọc Mỹ giúp Đông Á Thanh Hóa đánh bại CLB Hà Nội 1-0 ở vòng 22 V-League 2025-2026. Thất bại này khiến đội bóng thủ đô bị bật khỏi tốp 3 sau chuỗi 4 trận toàn thắng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T13:37:00+07:00",
+      "fetched": "2026-05-09T21:47:56.818586+07:00"
+    },
+    {
+      "id": "247677459c6cd14c56989af01ebf41fd",
+      "title": "Hoàng Đức tỏa sáng, Ninh Bình đánh bại Hải Phòng để áp sát tốp đầu",
+      "link": "https://thanhnien.vn/hoang-duc-toa-sang-ninh-binh-danh-bai-hai-phong-de-ap-sat-top-dau-18526050920442198.htm",
+      "summary": "Hoàng Đức tiếp tục cho thấy vai trò đầu tàu khi góp công lớn trong chiến thắng 2-1 của CLB Ninh Bình trước Hải Phòng ở vòng 22 V-League 2025-2026. Kết quả này giúp đội bóng cố đô vượt qua CLB Hà Nội và tiếp tục bám sát tốp đầu bảng xếp hạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T13:37:00+07:00",
+      "fetched": "2026-05-09T21:47:56.818739+07:00"
+    },
+    {
+      "id": "08e399c3c2da17efec4019590e828602",
+      "title": "TunTun đánh rơi HCV tiếc nuối, Total Football VNG vẫn 'đốt cháy' GameVerse 2026",
+      "link": "https://thanhnien.vn/tuntun-danh-roi-hcv-tiec-nuoi-total-football-vng-van-dot-chay-gameverse-2026-185260509202154642.htm",
+      "summary": "Từ màn lội ngược dòng khó tin của tuyển Thái Lan trước TunTun trong trận chung kết đến bầu không khí cuồng nhiệt tại booth Total Football VNG, Vietnam GameVerse 2026 tiếp tục mang đến những khoảnh khắc cảm xúc và sôi động dành cho cộng đồng game thủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T13:35:00+07:00",
+      "fetched": "2026-05-09T21:47:56.818905+07:00"
+    },
+    {
+      "id": "ccec49ef5f92b429d1bd4851eb9ce2a2",
+      "title": "Huế xây cầu vượt đường sắt",
+      "link": "https://vnexpress.net/hue-xay-cau-vuot-duong-sat-5071910.html",
+      "summary": "Thành phố Huế sẽ xây cầu vượt đường sắt tại nút giao vành đai 3 với Quốc lộ 1A nhằm giảm ùn tắc, bảo đảm an toàn giao thông khu vực cửa ngõ phía Bắc thành phố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T13:33:33+07:00",
+      "fetched": "2026-05-09T21:47:53.759501+07:00"
+    },
+    {
+      "id": "539910a958aebd4ea7ec5570d6311923",
+      "title": "Bí quyết ôn thi tốt nghiệp THPT đạt điểm cao: Quyền và nghĩa vụ của công dân",
+      "link": "https://thanhnien.vn/bi-quyet-on-thi-tot-nghiep-thpt-dat-diem-cao-quyen-va-nghia-vu-cua-cong-dan-185260509080814516.htm",
+      "summary": "Vào lúc 20 giờ 30 ngày 9.5, Báo Thanh Niên phát sóng chuyên đề số 6 của môn giáo dục kinh tế và pháp luật trong chương trình Bí quyết ôn thi tốt nghiệp THPT đạt điểm cao năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T13:30:00+07:00",
+      "fetched": "2026-05-09T21:47:56.819053+07:00"
+    },
+    {
+      "id": "72c498e7111181860534856c15692eb5",
+      "title": "BÍ QUYẾT ÔN THI THPT 2026 | Môn giáo dục kinh tế và pháp luật | Chuyên đề 6 | Một số quyền và nghĩa vụ của công dân về kinh tế",
+      "link": "https://thanhnien.vn/bi-quyet-on-thi-thpt-2026-mon-giao-duc-kinh-te-va-phap-luat-chuyen-de-6-mot-so-quyen-va-nghia-vu-cua-cong-dan-ve-kinh-te-185260430135649063.htm",
+      "summary": "Chương trình hướng dẫn học sinh làm bài thi môn giáo dục kinh tế và pháp luật, kỳ thi THPT quốc gia 2026. Buổi hướng dẫn \"Bí quyết ôn thi THPT 2026\" do cô Võ Hậu – Trường THPT Marie Curie (TP.HCM) – thực hiện. Chương trình được phát trên các kênh thanhnien.vn, Facebook.com/thanhnien và YouTube Báo T...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T13:30:00+07:00",
+      "fetched": "2026-05-09T21:47:56.819207+07:00"
+    },
+    {
+      "id": "c010ab4494daccc40f3cda490b3f1656",
+      "title": "Chelsea cầm hòa Liverpool, dứt chuỗi sáu trận thua",
+      "link": "https://vnexpress.net/chelsea-cam-hoa-liverpool-dut-chuoi-sau-tran-thua-5071975.html",
+      "summary": "Liverpool chưa thể đảm bảo suất Champions League mùa tới, khi hòa đội khách Chelsea 1-1 ở trận sớm vòng 36 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T13:27:19+07:00",
+      "fetched": "2026-05-09T21:47:53.759665+07:00"
+    },
+    {
+      "id": "c010ab4494daccc40f3cda490b3f1656",
+      "title": "Chelsea cầm hòa Liverpool, dứt chuỗi sáu trận thua",
+      "link": "https://vnexpress.net/chelsea-cam-hoa-liverpool-dut-chuoi-sau-tran-thua-5071975.html",
+      "summary": "Liverpool chưa thể đảm bảo suất Champions League mùa tới, khi hòa đội khách Chelsea 1-1 ở trận sớm vòng 36 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-09T13:27:19+07:00",
+      "fetched": "2026-05-09T21:48:04.113551+07:00"
+    },
+    {
+      "id": "ee2c480cefa339bcd423ba2489508e52",
+      "title": "Bảng xếp hạng V-League mới nhất: Ninh Bình chen chân vào tốp 3, HAGL ‘tốp 4’ từ dưới lên",
+      "link": "https://thanhnien.vn/bang-xep-hang-v-league-moi-nhat-ninh-binh-chen-chan-vao-top-3-hagl-top-4-tu-duoi-len-185260509201347172.htm",
+      "summary": "Với chiến thắng ở trận đấu thuộc vòng 22, CLB Ninh Bình đã chen chân vào tốp 3 đội đứng đầu bảng xếp hạng V-League. Trong khi đó, CLB Hà Nội với trận thua sốc bị tụt 1 bậc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T13:21:00+07:00",
+      "fetched": "2026-05-09T21:47:56.819381+07:00"
+    },
+    {
+      "id": "0a3a59f2c14751d497ae56c7b7d2c6a5",
+      "title": "Highlight Ninh Bình 2-1 Hải Phòng: Dấu ấn Hoàng Đức",
+      "link": "https://thanhnien.vn/highlight-ninh-binh-2-1-hai-phong-dau-an-hoang-duc-185260509201956768.htm",
+      "summary": "Hoàng Đức tiếp tục tỏa sáng với màn trình diễn nổi bật, góp công lớn giúp Ninh Bình FC đánh bại Hải Phòng 2-1 ở vòng 22 V-League 2025-2026. Chiến thắng này giúp đội bóng cố đô áp sát tốp đầu bảng xếp hạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T13:19:00+07:00",
+      "fetched": "2026-05-09T21:47:56.819543+07:00"
+    },
+    {
+      "id": "36d4144b91757dcab43814c627c30f8f",
+      "title": "Sản xuất cà phê muối giả, 2 giám đốc bị khởi tố",
+      "link": "https://vnexpress.net/san-xuat-ca-phe-muoi-gia-2-giam-doc-bi-khoi-to-5071971.html",
+      "summary": "Hàng trăm nghìn gói cà phê giả các thương hiệu nổi tiếng vừa bị cảnh sát thu giữ tại nhà máy của Công ty Cổ phần Detech Konnai, nhiều người đã bị khởi tố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T13:18:10+07:00",
+      "fetched": "2026-05-09T21:47:53.759833+07:00"
+    },
+    {
+      "id": "c2d3eff9534769e01ea0c7059103e54c",
+      "title": "Sản phụ nặng 140 kg khó khăn vượt cạn",
+      "link": "https://vnexpress.net/san-phu-nang-140-kg-kho-khan-vuot-can-5071959.html",
+      "summary": "Sản phụ mang thai 37 tuần bị tiền sản giật, béo phì nặng, trải qua thai kỳ khó khăn vừa sinh mổ đón bé trai 4,6 kg.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T13:16:00+07:00",
+      "fetched": "2026-05-09T21:47:53.759995+07:00"
+    },
+    {
       "id": "53d06530ac96c99cbc28de88ab1b06d6",
       "title": "BLV Quang Huy làm Phó chủ tịch VTF, H'Hen Niê là đại sứ tennis Việt Nam",
       "link": "https://tuoitre.vn/blv-quang-huy-lam-pho-chu-tich-vtf-h-hen-nie-la-dai-su-tennis-viet-nam-20260509112843126.htm",
@@ -643,6 +1043,36 @@ window.newsData_2026_05_09 = {
       "fetched": "2026-05-09T20:11:22.360228+07:00"
     },
     {
+      "id": "792715f45d57e5438d37595a9d294602",
+      "title": "Nước nào xuất khẩu cà phê nhiều nhất thế giới?",
+      "link": "https://vnexpress.net/viet-nam-xuat-khau-ca-phe-nhieu-thu-may-the-gioi-5071943.html",
+      "summary": "Xuất khẩu cà phê của nước này năm 2025 đạt gần 15 tỷ USD, nhiều nhất thế giới. Đây là Brazil hay Việt Nam?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T13:00:00+07:00",
+      "fetched": "2026-05-09T21:47:53.760156+07:00"
+    },
+    {
+      "id": "b4011e96d936f0cd849ff27edea86627",
+      "title": "Việt Nam chi gần tỷ USD nhập hạt điều trong một tháng",
+      "link": "https://vnexpress.net/viet-nam-chi-gan-ty-usd-nhap-hat-dieu-trong-mot-thang-5071916.html",
+      "summary": "Là nước xuất khẩu điều nhân lớn nhất thế giới, nhưng riêng tháng 4, các doanh nghiệp Việt đã chi gần 943 triệu USD để nhập khẩu điều thô - cao nhất kỷ lục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T12:58:16+07:00",
+      "fetched": "2026-05-09T21:47:53.760345+07:00"
+    },
+    {
+      "id": "b4011e96d936f0cd849ff27edea86627",
+      "title": "Việt Nam chi gần tỷ USD nhập hạt điều trong một tháng",
+      "link": "https://vnexpress.net/viet-nam-chi-gan-ty-usd-nhap-hat-dieu-trong-mot-thang-5071916.html",
+      "summary": "Là nước xuất khẩu điều nhân lớn nhất thế giới, nhưng riêng tháng 4, các doanh nghiệp Việt đã chi gần 943 triệu USD để nhập khẩu điều thô - cao nhất kỷ lục.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-09T12:58:16+07:00",
+      "fetched": "2026-05-09T21:48:00.841804+07:00"
+    },
+    {
       "id": "6b6afc824736d177fe01dd659e4a2963",
       "title": "Chỉ 1 Hoàng Đức vẫn giúp Ninh Bình thắng dễ đội khó chịu nhất V-League",
       "link": "https://thanhnien.vn/chi-1-hoang-duc-van-giup-ninh-binh-thang-de-doi-kho-chiu-nhat-v-league-185260509195600959.htm",
@@ -661,6 +1091,26 @@ window.newsData_2026_05_09 = {
       "category": "Tổng hợp",
       "published": "2026-05-09T12:48:00+07:00",
       "fetched": "2026-05-09T20:11:22.360497+07:00"
+    },
+    {
+      "id": "577996c6a0d589f76f407e7c3293914e",
+      "title": "Hóc lông lợn khi ăn bánh mì thịt",
+      "link": "https://vnexpress.net/hoc-long-lon-khi-an-banh-mi-thit-5070947.html",
+      "summary": "Sau khi ăn bánh mì thịt pate, người phụ nữ 47 tuổi đau, vướng họng, đi khám phát hiện dị vật là sợi lông lợn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T12:46:11+07:00",
+      "fetched": "2026-05-09T21:47:53.760504+07:00"
+    },
+    {
+      "id": "3bcc710da444517bb8e8abe74581ac10",
+      "title": "Chặn đường đánh tới tấp người yêu của bạn gái cũ",
+      "link": "https://vnexpress.net/chan-duong-danh-toi-tap-nguoi-yeu-cua-ban-gai-cu-5071963.html",
+      "summary": "Thấy bạn gái cũ được người khác chở đi chơi, nam xe ôm công nghệ 28 tuổi chặn xe, xông vào đánh tới tấp \"tình địch\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T12:45:15+07:00",
+      "fetched": "2026-05-09T21:47:53.760673+07:00"
     },
     {
       "id": "031454df0e4acaf418dd703d729efe59",
@@ -691,6 +1141,16 @@ window.newsData_2026_05_09 = {
       "category": "Thế giới",
       "published": "2026-05-09T12:35:07+07:00",
       "fetched": "2026-05-09T20:11:25.066722+07:00"
+    },
+    {
+      "id": "cc263d23efb3d3a06c71d7ddf15eaa2f",
+      "title": "Đề nghị điều tra người xóa số điện thoại khẩn cấp trên cao tốc",
+      "link": "https://vnexpress.net/de-nghi-dieu-tra-nguoi-xoa-so-dien-thoai-khan-cap-tren-cao-toc-5071939.html",
+      "summary": "Một người đàn ông lái xe tải bị tố cáo dùng dụng cụ cạo xóa số điện thoại hỗ trợ khẩn cấp trên cao tốc Bùng - Vạn Ninh, đoạn qua xã Quảng Ninh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-09T12:32:24+07:00",
+      "fetched": "2026-05-09T21:47:53.760988+07:00"
     },
     {
       "id": "864bb759b0d61ec52bb0a57b059c9192",
