@@ -1,7 +1,157 @@
 window.newsData_2026_05_10 = {
   "date": "2026-05-10",
-  "lastUpdated": "2026-05-10T09:41:32.190812+07:00",
+  "lastUpdated": "2026-05-10T13:31:07.892993+07:00",
   "articles": [
+    {
+      "id": "5ffe7cdba2062a312d1b37aa01a94f9a",
+      "title": "Đổ xăng làm từ nhựa vào Rolls-Royce Dawn, xe vẫn chạy tốt",
+      "link": "https://tuoitre.vn/do-xang-lam-tu-nhua-vao-rolls-royce-dawn-xe-van-chay-tot-20260510094149521.htm",
+      "summary": "Một thanh niên ở Mỹ gây chú ý khi tự chế xăng từ rác thải nhựa và đã dùng để vận hành chiếc Rolls-Royce Dawn mui trần.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T13:31:00.001820+07:00",
+      "fetched": "2026-05-10T13:31:00.001911+07:00"
+    },
+    {
+      "id": "01e8f23f40a366a96e141550976a156d",
+      "title": "Tàu bùng phát vi rút Hanta sắp cập bến, WHO trấn an không phải 'COVID-19 thứ hai'",
+      "link": "https://tuoitre.vn/tau-bung-phat-vi-rut-hanta-sap-cap-ben-who-tran-an-khong-phai-covid-19-thu-hai-2026051010473444.htm",
+      "summary": "Tổng giám đốc WHO trực tiếp có mặt tại Tenerife (Tây Ban Nha) và trấn an người dân về nguy cơ lây nhiễm vi rút Hanta.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T13:31:00.001724+07:00",
+      "fetched": "2026-05-10T13:31:00.001809+07:00"
+    },
+    {
+      "id": "117d288006ab28211c15392cd23a3adc",
+      "title": "Tứ kết U17 nữ châu Á 2026: Vé World Cup cho ai?",
+      "link": "https://tuoitre.vn/tu-ket-u17-nu-chau-a-2026-ve-world-cup-cho-ai-20260510081318429.htm",
+      "summary": "Giải vô địch U17 nữ châu Á 2026 xác định 8 đội bóng vào tứ kết gồm Nhật Bản, Triều Tiên, Trung Quốc, Hàn Quốc, Úc, Thái Lan và Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T13:31:00.001628+07:00",
+      "fetched": "2026-05-10T13:31:00.001715+07:00"
+    },
+    {
+      "id": "836e78457c7cbf6646118b4e8c887469",
+      "title": "Làm sao thoát cảnh 'chưa làm gì đã mệt': Bớt nhòm ngó trên mạng, tránh phân tâm",
+      "link": "https://tuoitre.vn/lam-sao-thoat-canh-chua-lam-gi-da-met-bot-nhom-ngo-tren-mang-tranh-phan-tam-20260509114312546.htm",
+      "summary": "Áp lực là điều khó tránh khỏi, nhưng khi biết chăm sóc sức khỏe thể chất lẫn tinh thần, người trẻ sẽ dễ cân bằng hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T13:31:00.001530+07:00",
+      "fetched": "2026-05-10T13:31:00.001619+07:00"
+    },
+    {
+      "id": "5823018f69731fb577a6ff4b05a3cd99",
+      "title": "Dự báo thời tiết từ 10-5 đến 16-5: Bắc Bộ, Trung Bộ nắng nóng, Nam Bộ vào mùa mưa",
+      "link": "https://tuoitre.vn/du-bao-thoi-tiet-tu-10-5-den-16-5-bac-bo-trung-bo-nang-nong-nam-bo-vao-mua-mua-2026050915555153.htm",
+      "summary": "Tuần này thời tiết Nam Bộ bắt đầu vào mùa mưa, Bắc Bộ và Trung Bộ nắng nóng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T13:31:00.001426+07:00",
+      "fetched": "2026-05-10T13:31:00.001521+07:00"
+    },
+    {
+      "id": "9ac91f5aa4a8b493d68c1015ec117192",
+      "title": "Xác minh clip người đàn ông đổ vỏ chai thủy tinh xuống sông Kẻ Vạn ở Huế",
+      "link": "https://tuoitre.vn/xac-minh-clip-nguoi-dan-ong-do-vo-chai-thuy-tinh-xuong-song-ke-van-o-hue-2026051011162545.htm",
+      "summary": "Clip một người đàn ông đổ hàng chục vỏ chai bia bằng thủy tinh xuống sông Kẻ Vạn ở trung tâm TP Huế khiến nhiều người bức xúc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T13:31:00.001286+07:00",
+      "fetched": "2026-05-10T13:31:00.001415+07:00"
+    },
+    {
+      "id": "87d2c5067045767e8f9f47c5a4f41763",
+      "title": "Ruộng dưa hấu của người nông dân nghèo bị chặt tan nát",
+      "link": "https://tuoitre.vn/ruong-dua-hau-cua-nguoi-nong-dan-ngheo-bi-chat-tan-nat-20260510110344512.htm",
+      "summary": "Một ruộng dưa hấu sắp đến ngày thu hoạch của người dân Nghệ An nghi bị kẻ xấu phá hoại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T13:31:00.001188+07:00",
+      "fetched": "2026-05-10T13:31:00.001277+07:00"
+    },
+    {
+      "id": "0a40820616f3d4aca5a267d84d7542ca",
+      "title": "Tổng thống Putin nói cuộc chiến với Ukraine đang tới hồi kết, hé lộ người ông muốn đàm phán",
+      "link": "https://tuoitre.vn/tong-thong-putin-noi-cuoc-chien-voi-ukraine-dang-toi-hoi-ket-he-lo-nguoi-ong-muon-dam-phan-20260510111855008.htm",
+      "summary": "Tổng thống Nga Putin tuyên bố cuộc chiến với Ukraine đang dần tới hồi kết, đồng thời chỉ trích phương Tây vì sự ủng hộ với Kiev.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T13:31:00.001082+07:00",
+      "fetched": "2026-05-10T13:31:00.001173+07:00"
+    },
+    {
+      "id": "6018f84217f36fad5d29fb9a732c6abc",
+      "title": "Hẹn giải quyết mâu thuẫn, nữ sinh lớp 7 bị đánh hội đồng phải nhập viện",
+      "link": "https://tuoitre.vn/hen-giai-quyet-mau-thuan-nu-sinh-lop-7-bi-danh-hoi-dong-phai-nhap-vien-20260510102127963.htm",
+      "summary": "Nữ sinh lớp 7 ở Quảng Trị bị nhóm 4 - 5 học sinh trường khác đánh vào đầu, mặt tại đoạn đường vắng, phải nhập viện điều trị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T13:31:00.000984+07:00",
+      "fetched": "2026-05-10T13:31:00.001074+07:00"
+    },
+    {
+      "id": "7c3cbc24a451cfa25f858323a9c993eb",
+      "title": "Cục Cảnh sát giao thông cảnh báo hành vi phá hoại biển báo trên cao tốc có thể bị xử lý hình sự",
+      "link": "https://tuoitre.vn/cuc-canh-sat-giao-thong-canh-bao-hanh-vi-pha-hoai-bien-bao-tren-cao-toc-co-the-bi-xu-ly-hinh-su-20260510100202126.htm",
+      "summary": "Hành vi xóa số cứu hộ, phá hoại thiết bị cảnh báo trên cao tốc có thể bị truy cứu trách nhiệm hình sự, theo Cục Cảnh sát giao thông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T13:31:00.000881+07:00",
+      "fetched": "2026-05-10T13:31:00.000975+07:00"
+    },
+    {
+      "id": "0a458a9342553e98139f0b740321d4c2",
+      "title": "Thái Lan bị làng bóng đá châm chọc vì thói quen 'giữ sức'",
+      "link": "https://tuoitre.vn/thai-lan-bi-lang-bong-da-cham-choc-vi-thoi-quen-giu-suc-20260509225029377.htm",
+      "summary": "Trên các diễn đàn bóng đá, Thái Lan trở thành đối tượng bị châm chọc sau thất bại ở Giải U17 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T13:31:00.000775+07:00",
+      "fetched": "2026-05-10T13:31:00.000872+07:00"
+    },
+    {
+      "id": "84c949b0698f628d7976e2e8ae0a09b9",
+      "title": "Bé trai 4 tuổi sống sót thần kỳ sau khi rơi từ tầng 11 vì trèo cửa sổ ngóng mẹ",
+      "link": "https://tuoitre.vn/be-trai-4-tuoi-song-sot-than-ky-sau-khi-roi-tu-tang-11-vi-treo-cua-so-ngong-me-20260510114310303.htm",
+      "summary": "Một bé trai bốn tuổi tại Trung Quốc thoát chết kỳ diệu sau cú rơi từ tầng 11, khi trèo lên cửa sổ để ngóng mẹ trở về.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T13:31:00.000664+07:00",
+      "fetched": "2026-05-10T13:31:00.000766+07:00"
+    },
+    {
+      "id": "051953e3e71e858099e219b38d9fa345",
+      "title": "Thang máy ngừng hoạt động đột ngột ở phường Hạnh Thông, 7 người mắc kẹt được cứu an toàn",
+      "link": "https://tuoitre.vn/thang-may-ngung-hoat-dong-dot-ngot-o-phuong-hanh-thong-7-nguoi-mac-ket-duoc-cuu-an-toan-20260510114751556.htm",
+      "summary": "Thang máy của một viện thẩm mỹ trên đường Phan Văn Trị, phường Hạnh Thông (TP.HCM) đang di chuyển thì ngừng đột ngột, mắc kẹt giữa 2 tầng. 7 người sau đó được cảnh sát giải cứu ra ngoài an toàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T13:31:00.000552+07:00",
+      "fetched": "2026-05-10T13:31:00.000655+07:00"
+    },
+    {
+      "id": "faedd519214f49566fd213d41959ba8a",
+      "title": "Một xã ở Vĩnh Long tạm ngừng karaoke hộ gia đình để học sinh tập trung ôn thi học kỳ, thi tốt nghiệp",
+      "link": "https://tuoitre.vn/mot-xa-o-vinh-long-tam-ngung-karaoke-ho-gia-dinh-de-hoc-sinh-tap-trung-on-thi-hoc-ky-thi-tot-nghiep-2026051011261563.htm",
+      "summary": "UBND xã Mỏ Cày, tỉnh Vĩnh Long đã có văn bản đề nghị tạm dừng, hạn chế hoạt động karaoke hộ gia đình và các cơ sở hát với nhau, nhằm tạo môi trường yên tĩnh cho học sinh ôn thi học kỳ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T13:31:00.000423+07:00",
+      "fetched": "2026-05-10T13:31:00.000541+07:00"
+    },
+    {
+      "id": "0b2e60996428bef1632bdff0105e2eab",
+      "title": "Vệ binh Iran cảnh báo tập kích dữ dội căn cứ Mỹ tại Trung Đông, nói chỉ đang chờ lệnh khai hỏa",
+      "link": "https://tuoitre.vn/ve-binh-iran-canh-bao-tap-kich-du-doi-can-cu-my-tai-trung-dong-noi-chi-dang-cho-lenh-khai-hoa-20260510114522123.htm",
+      "summary": "Vệ binh cách mạng Hồi giáo Iran (IRGC) cảnh báo sẽ tấn công dữ dội vào cơ sở Mỹ và \"tàu địch\" nếu Washington tấn công các tàu chở dầu Iran.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T13:31:00.000160+07:00",
+      "fetched": "2026-05-10T13:31:00.000409+07:00"
+    },
     {
       "id": "931ebe901a7f0511dc94e7e890a761c8",
       "title": "Những công trình nào được miễn giấy phép xây dựng theo luật mới?",
@@ -153,6 +303,356 @@ window.newsData_2026_05_10 = {
       "fetched": "2026-05-10T09:41:25.656673+07:00"
     },
     {
+      "id": "1185055435b4eba9ba3c07f1c8395344",
+      "title": "Phát hiện thư tuyệt mệnh vụ 2 người tử vong bất thường ở Khánh Hòa",
+      "link": "https://thanhnien.vn/phat-hien-thu-tuyet-menh-vu-2-nguoi-tu-vong-bat-thuong-o-khanh-hoa-185260510130246013.htm",
+      "summary": "Bức thư tuyệt mệnh với nội dung do ghen tuông được tìm thấy tại hiện trường, hé lộ nguyên nhân vụ 2 người tử vong trong nhà bên quốc lộ 1, xã Vạn Hưng (Khánh Hòa).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T06:29:00+07:00",
+      "fetched": "2026-05-10T13:30:58.540871+07:00"
+    },
+    {
+      "id": "d85d291feefe9b93a281b53ff61f1497",
+      "title": "Bộ Công an đề xuất phạt đến 12 triệu nếu không lắp camera khoang hành khách",
+      "link": "https://thanhnien.vn/bo-cong-an-de-xuat-phat-den-12-trieu-neu-khong-lap-camera-khoang-hanh-khach-185260510113942115.htm",
+      "summary": "Bộ Công an đề xuất sửa Nghị định 168/2024, trong đó ô tô chở khách từ 8 chỗ phải lắp camera trong khoang, nếu vi phạm bị phạt đến 2 triệu đồng với tài xế, 12 triệu với doanh nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T06:12:00+07:00",
+      "fetched": "2026-05-10T13:30:58.541018+07:00"
+    },
+    {
+      "id": "47c0c02b873cb1cc5d115504e0508a00",
+      "title": "Tìm thấy ngư dân trôi dạt nhiều giờ trên biển Cô Tô",
+      "link": "https://thanhnien.vn/tim-thay-ngu-dan-troi-dat-nhieu-gio-tren-bien-co-to-185260510090031007.htm",
+      "summary": "Lực lượng chức năng tỉnh Quảng Ninh đã tìm thấy ngư dân mất tích cuối cùng trong vụ chìm tàu cá gần Cô Tô, cả 4 thuyền viên hiện đều an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T06:00:00+07:00",
+      "fetched": "2026-05-10T13:30:58.541150+07:00"
+    },
+    {
+      "id": "994ed74418a279d3b844f3b941f688ed",
+      "title": "Hà Nội dự kiến quy mô thôn, tổ dân phố từ 500 - 700 hộ trở lên",
+      "link": "https://thanhnien.vn/ha-noi-du-kien-quy-mo-thon-to-dan-pho-tu-500-700-ho-tro-len-18526051009010719.htm",
+      "summary": "Chính phủ sẽ sớm ban hành hướng dẫn sắp xếp thôn, tổ dân phố. Trong đó, với Hà Nội, ở khu vực nông thôn từ 500 hộ trở lên sẽ thành lập thôn; với khu vực đô thị từ 700 hộ trở lên sẽ thành lập tổ dân phố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T05:59:00+07:00",
+      "fetched": "2026-05-10T13:30:58.541276+07:00"
+    },
+    {
+      "id": "1497867c6d7dbbed659bc18f7501eb3c",
+      "title": "Hà Nội rực rỡ cờ hoa trước thềm Đại hội MTTQ Việt Nam lần thứ XI",
+      "link": "https://thanhnien.vn/ha-noi-ruc-ro-co-hoa-truoc-them-dai-hoi-mttq-viet-nam-lan-thu-xi-185260510112054617.htm",
+      "summary": "Những ngày này, nhiều tuyến phố tại Hà Nội trang hoàng rực rỡ, chào đón Đại hội đại biểu toàn quốc Mặt trận Tổ quốc (MTTQ) Việt Nam lần thứ XI, nhiệm kỳ 2026 - 2031.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T05:58:00+07:00",
+      "fetched": "2026-05-10T13:30:58.541420+07:00"
+    },
+    {
+      "id": "64e4e88446e4cb60d6656a6796c1605d",
+      "title": "Đô vật người Mỹ gốc Việt hạ đo ván đối thủ, bảo vệ đai vô địch",
+      "link": "https://thanhnien.vn/do-vat-nguoi-my-goc-viet-ha-do-van-doi-thu-bao-ve-dai-vo-dich-18526051007194917.htm",
+      "summary": "Đêm đô vật biểu diễn Saigon Slam Jam quy tụ những gương mặt nổi tiếng quốc tế và khu vực, đặc biệt là sự xuất hiện của nữ đô vật người Mỹ gốc Việt - Viva Van đã mang lại cho người xem nhiều khoảnh khắc ấn tượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T05:55:00+07:00",
+      "fetched": "2026-05-10T13:30:58.541547+07:00"
+    },
+    {
+      "id": "1148ca495ad173df79f4d27f1b493100",
+      "title": "Kỳ thủ Lê Quang Liêm lên tiếng về lý do không tham dự Olympiad 2026",
+      "link": "https://thanhnien.vn/ky-thu-le-quang-liem-len-tieng-ve-ly-do-khong-tham-du-olympiad-2026-185260510125001657.htm",
+      "summary": "Kỳ thủ số 1 Việt Nam Lê Quang Liêm lên tiếng trước thông tin đội tuyển cờ vua Việt Nam có thể vắng mặt ở Olympiad 2026, trong đó có nhắc đến việc anh không kịp sắp xếp lịch trình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T05:52:00+07:00",
+      "fetched": "2026-05-10T13:30:58.541681+07:00"
+    },
+    {
+      "id": "41f68db8498b86b79ca3d198c6e1f869",
+      "title": "Đề xuất doanh nghiệp nộp thuế thay người gom ve chai, phế liệu",
+      "link": "https://vnexpress.net/de-xuat-doanh-nghiep-nop-thue-thay-nguoi-gom-ve-chai-phe-lieu-5072084.html",
+      "summary": "VCCI đề nghị Bộ Tài chính bổ sung cơ chế khai, nộp thuế thay với hộ kinh doanh ve chai, đồng nát và sửa cách tính thuế với mô hình tài xế công nghệ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-10T05:48:02+07:00",
+      "fetched": "2026-05-10T13:31:03.161229+07:00"
+    },
+    {
+      "id": "eecc6d1d083a16b2da52a09f2fe48fc7",
+      "title": "Quên layer đi, đây là 7 kiểu tóc ‘thống trị’ hè 2026 khiến chị em phát cuồng",
+      "link": "https://thanhnien.vn/quen-layer-di-day-la-7-kieu-toc-thong-tri-he-2026-khien-chi-em-phat-cuong-185260510125538211.htm",
+      "summary": "Tạm biệt lọn tóc layer tầng lớp đã quá quen thuộc, mùa hè 2026 chứng kiến sự trỗi dậy của phong cách tối giản nhưng đầy tính bản sắc. Không chỉ dừng lại ở tính thời trang, những xu hướng tóc năm nay còn đề cao sức khỏe của sợi tóc và sự thoải mái tối đa dưới cái nắng oi ả. Cùng khám phá 7 kiểu tóc đ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T05:46:00+07:00",
+      "fetched": "2026-05-10T13:30:58.541807+07:00"
+    },
+    {
+      "id": "5e29f08d79b4022ed47d6c005de23cbe",
+      "title": "CĐV lao xuống sân ném pháo sáng trong trận derby CH Czech",
+      "link": "https://vnexpress.net/cdv-lao-xuong-san-nem-phao-sang-trong-tran-derby-ch-czech-5072105.html",
+      "summary": "Slavia Prague dẫn Sparta Praha 3-2, nhưng trận đấu bị gián đoạn ở phút bù giờ vì CĐV chủ nhà tràn xuống sân, ném pháo sáng về phía khán đài đội khách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T05:36:25+07:00",
+      "fetched": "2026-05-10T13:30:55.348254+07:00"
+    },
+    {
+      "id": "c560dc9701ba4112536015a836ac4d1c",
+      "title": "Diễn viên Đình Tú trải lòng về cuộc sống hôn nhân với mỹ nhân VFC",
+      "link": "https://thanhnien.vn/dien-vien-dinh-tu-trai-long-ve-cuoc-song-hon-nhan-voi-my-nhan-vfc-185260510120537433.htm",
+      "summary": "Diễn viên Đình Tú cho biết anh đang tận hưởng cuộc sống hôn nhân bình yên bên diễn viên Ngọc Huyền sau nhiều năm trải qua khó khăn về tài chính và áp lực nghề nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T05:32:00+07:00",
+      "fetched": "2026-05-10T13:30:58.541932+07:00"
+    },
+    {
+      "id": "54b15c71e7cd15e81af230a7c2ee942a",
+      "title": "Mariah Carey nắm tay rapper đi xem phim",
+      "link": "https://vnexpress.net/mariah-carey-nam-tay-rapper-di-xem-phim-5072101.html",
+      "summary": "Danh ca Mariah Carey, 57 tuổi, tay trong tay rapper Anderson, 40 tuổi, cùng mặc đồ đôi đi xem phim.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T05:31:45+07:00",
+      "fetched": "2026-05-10T13:30:55.348439+07:00"
+    },
+    {
+      "id": "7ba4f1d7b81f63293c29aba4e8216eeb",
+      "title": "Tài tử phim 'Yêu nữ thích hàng hiệu' tiết lộ hôn nhân bên vợ kém 21 tuổi",
+      "link": "https://thanhnien.vn/tai-tu-phim-yeu-nu-thich-hang-hieu-tiet-lo-hon-nhan-ben-vo-kem-21-tuoi-185260510111048359.htm",
+      "summary": "Từng rơi vào tuyệt vọng sau biến cố, ngôi sao kỳ cựu Stanley Tucci xúc động khi chia sẻ về hành trình hôn nhân bên người vợ kém ông 21 tuổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T05:27:00+07:00",
+      "fetched": "2026-05-10T13:30:58.542051+07:00"
+    },
+    {
+      "id": "e254eb18cf4e6907aae3a7bdf82d5cf2",
+      "title": "Taylor Swift và chồng sắp cưới diện mốt đồ ngủ lên phố",
+      "link": "https://vnexpress.net/taylor-swift-va-chong-sap-cuoi-dien-mot-do-ngu-len-pho-5072091.html",
+      "summary": "Tỷ phú Taylor Swift và Travis Kelce đều diện đồ lụa khi đi chơi trước thềm lễ cưới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T05:25:58+07:00",
+      "fetched": "2026-05-10T13:30:55.348589+07:00"
+    },
+    {
+      "id": "f8ed843e79c6733482c6ecfff8908c2b",
+      "title": "HLV Kim Sang-sik: ‘Tuy tôi mang dòng máu Hàn Quốc nhưng Việt Nam sẽ đá sòng phẳng với đội bóng quê hương tôi’",
+      "link": "https://thanhnien.vn/hlv-kim-sang-sik-tuy-toi-mang-dong-mau-han-quoc-nhung-viet-nam-se-da-song-phang-voi-doi-bong-que-huong-toi-185260510121154272.htm",
+      "summary": "Sau lễ bốc thăm vòng chung kết Asian Cup 2027, HLV trưởng đội tuyển Việt Nam Kim Sang-sik đã có những chia sẻ thẳng thắn về cục diện bảng đấu cũng như cơ hội của đội bóng do ông dẫn dắt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T05:21:00+07:00",
+      "fetched": "2026-05-10T13:30:58.542172+07:00"
+    },
+    {
+      "id": "69db6a165cc6ec2d14c2cba881b53a40",
+      "title": "Đã tháo biển báo tốc độ 50 km/giờ ở khu vực trạm thu phí quốc lộ 51",
+      "link": "https://thanhnien.vn/da-thao-bien-bao-toc-do-50-km-gio-o-khu-vuc-tram-thu-phi-quoc-lo-51-185260510115413844.htm",
+      "summary": "Ngành chức năng thành phố Đồng Nai đã tháo dỡ các biển báo giới hạn tốc độ 50 km/giờ ở khu vực trạm thu phí cũ trên quốc lộ 51.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T05:21:00+07:00",
+      "fetched": "2026-05-10T13:30:58.542289+07:00"
+    },
+    {
+      "id": "15f1a2e74c464149f85d847ebc2f1ee8",
+      "title": "Nhà làm phim tài liệu David Attenborough tròn 100 tuổi",
+      "link": "https://vnexpress.net/nha-lam-phim-tai-lieu-david-attenborough-tron-100-tuoi-5072077.html",
+      "summary": "Vua Charles III xuất hiện trong phim ngắn \"A Very Special Delivery\" để chúc mừng sinh nhật 100 tuổi của nhà tự nhiên học người Anh David Attenborough.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T05:15:43+07:00",
+      "fetched": "2026-05-10T13:30:55.348730+07:00"
+    },
+    {
+      "id": "d18abff5ec642a209ac7746a139fb6e5",
+      "title": "Ca sĩ Nguyễn Ngọc Anh: Thanh xuân của mẹ chính là con",
+      "link": "https://thanhnien.vn/ca-si-nguyen-ngoc-anh-thanh-xuan-cua-me-chinh-la-con-185260510121421567.htm",
+      "summary": "MV 'Chuyện của mẹ' ra mắt vào ngày 10.5 không chỉ đánh dấu nấc thang mới trong âm nhạc của ca sĩ Nguyễn Ngọc Anh, mà còn là lời nhắc nhở nhẹ nhàng về giá trị của sự thấu hiểu giữa những người ruột thịt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T05:14:00+07:00",
+      "fetched": "2026-05-10T13:30:58.542423+07:00"
+    },
+    {
+      "id": "8cc1e4dffa14e4e6d5599179dfb81d5f",
+      "title": "Hy hữu: Dây cước lộ ngoài miệng, bác sĩ nội soi gắp lưỡi câu khỏi thực quản",
+      "link": "https://thanhnien.vn/hy-huu-day-cuoc-lo-ngoai-mieng-bac-si-noi-soi-gap-luoi-cau-khoi-thuc-quan-185260510113257068.htm",
+      "summary": "Bệnh nhân nhập viện trong tình trạng dây cước vẫn còn lộ ngoài miệng sau khi nuốt phải lưỡi câu cá. Các bác sĩ đã khẩn cấp nội soi trong đêm để gắp dị vật mắc sâu trong thực quản, tránh nguy cơ tổn thương nguy hiểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T05:04:00+07:00",
+      "fetched": "2026-05-10T13:30:58.542548+07:00"
+    },
+    {
+      "id": "d722dd780849393aee7ba2fc10ceccd8",
+      "title": "Xác minh clip người đàn ông cầm ghế tranh cãi với 2 CSGT TP.HCM",
+      "link": "https://thanhnien.vn/xac-minh-clip-nguoi-dan-ong-cam-ghe-tranh-cai-voi-2-csgt-tphcm-185260510114003674.htm",
+      "summary": "Phòng CSGT Công an TP.HCM đang xác minh đoạn clip người đàn ông cầm ghế nhựa tranh cãi với 2 CSGT gây xôn xao mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T05:01:00+07:00",
+      "fetched": "2026-05-10T13:30:58.542675+07:00"
+    },
+    {
+      "id": "1fafc2da3ead12576bc7e3306cd281d8",
+      "title": "Robot hình người Mỹ dọn phòng trong hai phút",
+      "link": "https://vnexpress.net/robot-hinh-nguoi-my-don-phong-trong-hai-phut-5072068.html",
+      "summary": "Công ty Figure AI công bố video quá trình hai robot Figure 03 phối hợp dọn dẹp phòng ngủ mà không cần con người trợ giúp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T05:00:00+07:00",
+      "fetched": "2026-05-10T13:30:55.348863+07:00"
+    },
+    {
+      "id": "54b3f4f0ec71998653afd0e068b8484e",
+      "title": "Người phụ nữ mắc ba bệnh ung thư",
+      "link": "https://vnexpress.net/nguoi-phu-nu-mac-ba-benh-ung-thu-5071892.html",
+      "summary": "Sau 10 năm phẫu thuật ung thư cổ tử cung, người phụ nữ đi khám bệnh phát u vú phải, u phổi phải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T05:00:00+07:00",
+      "fetched": "2026-05-10T13:30:55.348997+07:00"
+    },
+    {
+      "id": "5d0ea59fb5e5756bdfc47c49dc68170d",
+      "title": "Từ nào viết đúng chính tả: Thức dạy hay thức dậy?",
+      "link": "https://vnexpress.net/do-vui-trac-nghiem-chinh-ta-tim-loi-sai-tu-nao-viet-dung-chinh-ta-thuc-day-hay-thuc-day-5069662.html",
+      "summary": "Một lỗi chính tả rất phổ biến trong đời sống hằng ngày, “Thức dạy” hay “thức dậy” mới là cách viết chuẩn? Bạn có chắc mình không nhầm?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T05:00:00+07:00",
+      "fetched": "2026-05-10T13:30:55.349134+07:00"
+    },
+    {
+      "id": "1619db23afda1d8a699e835b523df39f",
+      "title": "Tôi tỉnh ngộ sau những lần bạt tai 'để con nín khóc'",
+      "link": "https://vnexpress.net/toi-tinh-ngo-sau-nhung-lan-bat-tai-de-con-nin-khoc-5072094.html",
+      "summary": "Những lúc con gái tôi nhõng nhẽo khóc lóc, tôi lại dùng đòn roi để cháu nín.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T05:00:00+07:00",
+      "fetched": "2026-05-10T13:30:55.349269+07:00"
+    },
+    {
+      "id": "60f1f6e512830799484e1301e1ec4122",
+      "title": "Làm thế nào giảm mệt mỏi khi lọc máu?",
+      "link": "https://vnexpress.net/lam-the-nao-giam-met-moi-khi-loc-mau-5071982.html",
+      "summary": "Tôi đang chạy thận nhân tạo định kỳ, thường cảm thấy mệt trước buổi lọc và đôi khi đau đầu sau khi lọc xong. Tình trạng này có bình thường không và cần làm gì để cải thiện? (Anh Tuấn, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T05:00:00+07:00",
+      "fetched": "2026-05-10T13:30:55.349428+07:00"
+    },
+    {
+      "id": "1fafc2da3ead12576bc7e3306cd281d8",
+      "title": "Robot hình người Mỹ dọn phòng trong hai phút",
+      "link": "https://vnexpress.net/robot-hinh-nguoi-my-don-phong-trong-hai-phut-5072068.html",
+      "summary": "Công ty Figure AI công bố video quá trình hai robot Figure 03 phối hợp dọn dẹp phòng ngủ mà không cần con người trợ giúp.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-10T05:00:00+07:00",
+      "fetched": "2026-05-10T13:31:06.095649+07:00"
+    },
+    {
+      "id": "e2e965d7a0dc9c16de0252d0baff7a63",
+      "title": "7 người mắc kẹt trong thang máy thẩm mỹ viện ở TP HCM",
+      "link": "https://vnexpress.net/7-nguoi-mac-ket-trong-thang-may-tham-my-vien-o-tp-hcm-5072115.html",
+      "summary": "4 khách cùng ba nhân viên thẩm mỹ viện ở phường Gò Vấp, khi đi thang máy tại toà nhà 5 tầng bất ngờ bị cúp điện, kẹt hơn 30 phút trước khi được cảnh sát giải cứu, sáng 10/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T04:58:07+07:00",
+      "fetched": "2026-05-10T13:30:55.349559+07:00"
+    },
+    {
+      "id": "bee9cc645d7f88268436f9788e493d7d",
+      "title": "HLV Kim Sang-sik tin có thể đạt kết quả tốt trước Hàn Quốc",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-tin-co-the-dat-ket-qua-tot-truoc-han-quoc-5072110.html",
+      "summary": "HLV Kim Sang-sik đánh giá cao các đối thủ ở bảng E Asian Cup 2027, nhưng tin rằng Việt Nam có thể tiến xa nếu chuẩn bị tốt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T04:40:26+07:00",
+      "fetched": "2026-05-10T13:30:55.349685+07:00"
+    },
+    {
+      "id": "bee9cc645d7f88268436f9788e493d7d",
+      "title": "HLV Kim Sang-sik tin có thể đạt kết quả tốt trước Hàn Quốc",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-tin-co-the-dat-ket-qua-tot-truoc-han-quoc-5072110.html",
+      "summary": "HLV Kim Sang-sik đánh giá cao các đối thủ ở bảng E Asian Cup 2027, nhưng tin rằng Việt Nam có thể tiến xa nếu chuẩn bị tốt.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-10T04:40:26+07:00",
+      "fetched": "2026-05-10T13:31:07.885783+07:00"
+    },
+    {
+      "id": "bc3d911df515c79842129acb6bc2f03c",
+      "title": "Nổ du thuyền ở Mỹ, nhiều du khách bị hất văng xuống biển",
+      "link": "https://vnexpress.net/no-du-thuyen-o-my-nhieu-du-khach-bi-hat-vang-xuong-bien-5072099.html",
+      "summary": "Du thuyền chở khách tham quan phát nổ tại điểm du lịch Haulover Sandbar khiến nhiều người bị hất văng xuống biển, trong đó một người lớn và trẻ em bị bỏng nặng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T04:39:41+07:00",
+      "fetched": "2026-05-10T13:30:55.349806+07:00"
+    },
+    {
+      "id": "59e977207e61fa2515fed5cb6b13fed0",
+      "title": "Vị giáo sư đứng sau nền tảng toán học của hàng triệu kỹ sư AI",
+      "link": "https://vnexpress.net/vi-giao-su-dung-sau-nen-tang-toan-hoc-cua-hang-trieu-ky-su-ai-5069214.html",
+      "summary": "Trong hơn 60 năm, Giáo sư Gilbert Strang đã biến lớp học đại số tuyến tính tại MIT thành bệ phóng cho hàng triệu người theo đuổi trí tuệ nhân tạo trên toàn cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T04:35:00+07:00",
+      "fetched": "2026-05-10T13:30:55.349933+07:00"
+    },
+    {
+      "id": "d5bf910410ce098508cf28a62d3d41fc",
+      "title": "'Mỹ nhân đẹp nhất Philippines' cuốn hút với họa tiết hoa",
+      "link": "https://vnexpress.net/my-nhan-dep-nhat-philippines-cuon-hut-voi-hoa-tiet-hoa-5072093.html",
+      "summary": "\"Mỹ nhân đẹp nhất Philippines\" Marian Rivera được khán giả khen tỏa sáng khi diện loạt váy áo họa tiết hoa lá.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T04:16:07+07:00",
+      "fetched": "2026-05-10T13:30:55.350054+07:00"
+    },
+    {
+      "id": "d59b9ac0f9badc2eb70b90e4ef7a96a1",
+      "title": "Ôtô đâm bay người đi xe máy tại vòng xuyến - ai sai?",
+      "link": "https://vnexpress.net/oto-dam-bay-nguoi-di-xe-may-tai-vong-xuyen-ai-sai-5072052.html",
+      "summary": "Lao thẳng về phía trạm thu phí, chiếc xe con đâm ngã người đi xe máy tại nút giao Liêm Tuyền, hôm 8/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-10T04:10:06+07:00",
+      "fetched": "2026-05-10T13:30:55.350184+07:00"
+    },
+    {
+      "id": "1ffa2d3582db180216f39f1e6100468a",
+      "title": "eSports Việt cần thêm lực đẩy để chuyển tiềm năng thành giá trị",
+      "link": "https://vnexpress.net/esports-viet-can-them-luc-day-de-chuyen-tiem-nang-thanh-gia-tri-5072023.html",
+      "summary": "Những tiềm năng, thách thức và bài toán thương mại hóa của eSports Việt Nam được các chuyên gia, doanh nghiệp và đơn vị vận hành phân tích tại Vietnam GameVerse 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-10T04:00:00+07:00",
+      "fetched": "2026-05-10T13:31:07.887592+07:00"
+    },
+    {
+      "id": "aa3ed0216747d0ce5f7228aa7f3ba51d",
+      "title": "Mạng lưới lan truyền tin đồn ở Trung Quốc thời xưa",
+      "link": "https://vnexpress.net/mang-luoi-lan-truyen-tin-don-o-trung-quoc-thoi-xua-5071200.html",
+      "summary": "Trước khi có báo chí và công nghệ in ấn, bê bối về cung đình hay quan lại được lan truyền qua quán trà, trạm dừng chân và \"tờ tin bát quát\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-10T03:49:12+07:00",
+      "fetched": "2026-05-10T13:31:01.274303+07:00"
+    },
+    {
       "id": "f99e1f78fc755a12e07cb5cb00c5876d",
       "title": "Việt Nam cùng bảng với Hàn Quốc, UAE tại Asian Cup 2027",
       "link": "https://tuoitre.vn/viet-nam-cung-bang-voi-han-quoc-uae-tai-asian-cup-2027-20260509102614143.htm",
@@ -161,6 +661,36 @@ window.newsData_2026_05_10 = {
       "category": "Tổng hợp",
       "published": "2026-05-10T03:40:31.079148+07:00",
       "fetched": "2026-05-10T03:40:31.079265+07:00"
+    },
+    {
+      "id": "6edc728ebcbd906a20d41796f6390acb",
+      "title": "HLV Thái Lan: 'Thật tuyệt khi vào bảng khó ở Asian Cup 2027'",
+      "link": "https://vnexpress.net/hlv-thai-lan-that-tuyet-khi-vao-bang-kho-o-asian-cup-2027-5072095.html",
+      "summary": "Theo HLV Anthony Hudson, việc được gặp những đối thủ mạnh như Nhật Bản, Qatar và Indonesia ở vòng bảng Asian Cup 2027 là cơ hội để Thái Lan tiến bộ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-10T03:36:40+07:00",
+      "fetched": "2026-05-10T13:31:07.885939+07:00"
+    },
+    {
+      "id": "67555af40c1e21ec80fb9995f1702728",
+      "title": "Mỹ có thể đã dùng 'bom trơ' tấn công tàu dầu Iran",
+      "link": "https://vnexpress.net/my-co-the-da-dung-bom-tro-tan-cong-tau-dau-iran-5072060.html",
+      "summary": "Hai tàu dầu Iran không phát nổ hoặc chìm sau khi bị tiêm kích Mỹ tập kích, có thể do Washington đã dùng \"bom trơ\" được dẫn đường nhắm chính xác vào ống khói.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-10T03:23:30+07:00",
+      "fetched": "2026-05-10T13:31:01.274489+07:00"
+    },
+    {
+      "id": "200ef104f74529a50e5ba53e91c987ef",
+      "title": "Em trai ông Đào Hữu Huyền làm chủ tịch Hóa chất Đức Giang",
+      "link": "https://vnexpress.net/em-trai-ong-dao-huu-huyen-lam-chu-tich-hoa-chat-duc-giang-5072082.html",
+      "summary": "Hóa chất Đức Giang bầu ông Đào Hữu Kha, em trai cựu Chủ tịch Đào Hữu Huyền, giữ chức Chủ tịch trong thời gian còn lại của nhiệm kỳ 2024-2029.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-10T02:57:39+07:00",
+      "fetched": "2026-05-10T13:31:03.161403+07:00"
     },
     {
       "id": "dfb647ccc2a637bc053e8ab337fb0ea6",
@@ -181,6 +711,16 @@ window.newsData_2026_05_10 = {
       "category": "Tổng hợp",
       "published": "2026-05-10T02:31:00+07:00",
       "fetched": "2026-05-10T09:41:24.647338+07:00"
+    },
+    {
+      "id": "999f02d71be19c1ba9ed050e00bbcb13",
+      "title": "UAE tìm cách vạch lằn ranh bạn - thù với Iran",
+      "link": "https://vnexpress.net/uae-tim-cach-vach-lan-ranh-ban-thu-voi-iran-5071776.html",
+      "summary": "Đối mặt với lời đe dọa và các đòn tấn công từ Iran, UAE không chọn cách xoa dịu mà chọn thắt chặt quan hệ với Mỹ, Israel để vạch rõ lằn ranh \"bạn - thù\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-10T02:23:41+07:00",
+      "fetched": "2026-05-10T13:31:01.274628+07:00"
     },
     {
       "id": "e5f28a8c5a29ec00857564628d5151dd",
