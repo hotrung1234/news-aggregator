@@ -1,6 +1,6 @@
 window.newsData_2026_05_12 = {
   "date": "2026-05-12",
-  "lastUpdated": "2026-05-12T02:43:14.708205+07:00",
+  "lastUpdated": "2026-05-12T04:14:14.727635+07:00",
   "articles": [
     {
       "id": "290fcae4ed260353068ba067b14eeab3",
@@ -163,6 +163,26 @@ window.newsData_2026_05_12 = {
       "fetched": "2026-05-12T00:52:05.498184+07:00"
     },
     {
+      "id": "af45a675ff7850da7af7e2eaf65811f7",
+      "title": "Ký ức World Cup: Những trận chung kết ‘kinh điển’ nhất",
+      "link": "https://thanhnien.vn/ky-uc-world-cup-nhung-tran-chung-ket-kinh-dien-nhat-18526051015393119.htm",
+      "summary": "'Phép màu Berne', màn trình diễn kỳ diệu của Pele và vinh quang của Messi đều nằm trong danh sách những trận chung kết World Cup vĩ đại nhất mọi thời đại, theo tổng hợp của FIFA.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-11T21:00:00+07:00",
+      "fetched": "2026-05-12T04:14:07.574756+07:00"
+    },
+    {
+      "id": "8de77f83479c788875b5e5014a41cf22",
+      "title": "Đường World Cup vẫn rộng thênh thang với U.17 Việt Nam",
+      "link": "https://thanhnien.vn/duong-world-cup-van-rong-thenh-thang-voi-u17-viet-nam-185260511214203298.htm",
+      "summary": "Thất bại 1-4 trước U.17 Hàn Quốc tại lượt trận thứ hai bảng C U.17 châu Á 2026 ngày 10.5 dù mang màu sắc tiếc nuối, nhưng là bài học giá trị để U.17 VN điều chỉnh lối chơi cho trận hạ màn gặp U.17 UAE.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-11T20:08:00+07:00",
+      "fetched": "2026-05-12T04:14:07.574926+07:00"
+    },
+    {
       "id": "b5c8f1ed9ca3080aaed65e93acc1ce71",
       "title": "Giây phút cảnh sát Mỹ thuyết phục người phụ nữ từ bỏ ý định nhảy lầu",
       "link": "https://vnexpress.net/giay-phut-canh-sat-my-thuyet-phuc-nguoi-phu-nu-tu-bo-y-dinh-nhay-lau-5072531.html",
@@ -171,6 +191,16 @@ window.newsData_2026_05_12 = {
       "category": "Thế giới",
       "published": "2026-05-11T19:00:00+07:00",
       "fetched": "2026-05-12T02:43:09.680348+07:00"
+    },
+    {
+      "id": "ea9a6505d5ca16000b9c8f956eaee2ac",
+      "title": "Lý do khiến thận 'xuống cấp' sau tuổi 40",
+      "link": "https://vnexpress.net/ly-do-khien-than-xuong-cap-sau-tuoi-40-5072612.html",
+      "summary": "Sau tuổi 40, một số bệnh lý nền cùng thói quen ăn mặn, nạp nhiều thực phẩm chế biến sẵn, protein có thể âm thầm làm tăng gánh nặng cho thận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-11T19:00:00+07:00",
+      "fetched": "2026-05-12T04:14:04.866076+07:00"
     },
     {
       "id": "b9aa30d3e7c8c3319820269253274e3d",
