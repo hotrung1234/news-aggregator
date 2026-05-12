@@ -1,6 +1,6 @@
 window.newsData_2026_05_13 = {
   "date": "2026-05-13",
-  "lastUpdated": "2026-05-13T00:57:39.229817+07:00",
+  "lastUpdated": "2026-05-13T02:52:47.019138+07:00",
   "articles": [
     {
       "id": "1ea6990429b789b8ce9d3477fea1c24a",
@@ -151,6 +151,116 @@ window.newsData_2026_05_13 = {
       "category": "Tổng hợp",
       "published": "2026-05-13T00:57:30.115573+07:00",
       "fetched": "2026-05-13T00:57:30.115827+07:00"
+    },
+    {
+      "id": "dca00731c2789107b11d5895e1249f9d",
+      "title": "Thái Lan, Indonesia bị loại ở vòng bảng U17 châu Á",
+      "link": "https://vnexpress.net/thai-lan-indonesia-bi-loai-o-vong-bang-u17-chau-a-5073229.html",
+      "summary": "Thái Lan không thắng trận nào, còn Indonesia đứng chót bảng ở VCK U17 châu Á 2026, khi Việt Nam là đại diện Đông Nam Á cuối cùng tại giải.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-12T19:24:30+07:00",
+      "fetched": "2026-05-13T02:52:47.014527+07:00"
+    },
+    {
+      "id": "442c45df405fa1eee627dd5ec05654cc",
+      "title": "Bộ Y tế huy động tiền, thuốc men hỗ trợ quân dân đảo Trường Sa",
+      "link": "https://vnexpress.net/bo-y-te-huy-dong-tien-thuoc-men-ho-tro-quan-dan-dao-truong-sa-5073005.html",
+      "summary": "Đoàn công tác Bộ Y tế vừa thăm, làm việc và tặng quà cho cán bộ, chiến sĩ, nhân dân tại quần đảo Trường Sa và Nhà giàn DK1, với tổng nguồn lực hỗ trợ gần 6 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T19:00:00+07:00",
+      "fetched": "2026-05-13T02:52:35.483517+07:00"
+    },
+    {
+      "id": "3d2d99dd60cfc2b0aa93a7f9732cdb4c",
+      "title": "'Tiểu Alcaraz' tái lập kỳ tích của Djokovic",
+      "link": "https://vnexpress.net/tieu-alcaraz-tai-lap-ky-tich-cua-djokovic-5073227.html",
+      "summary": "Rafael Jodar là tay vợt tuổi teen đầu tiên vào tứ kết Rome Masters kể từ Novak Djokovic năm 2007, sau khi hạ Learner Tien 6-1, 6-4 tại vòng bốn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T18:44:59+07:00",
+      "fetched": "2026-05-13T02:52:35.483689+07:00"
+    },
+    {
+      "id": "3d2d99dd60cfc2b0aa93a7f9732cdb4c",
+      "title": "'Tiểu Alcaraz' tái lập kỳ tích của Djokovic",
+      "link": "https://vnexpress.net/tieu-alcaraz-tai-lap-ky-tich-cua-djokovic-5073227.html",
+      "summary": "Rafael Jodar là tay vợt tuổi teen đầu tiên vào tứ kết Rome Masters kể từ Novak Djokovic năm 2007, sau khi hạ Learner Tien 6-1, 6-4 tại vòng bốn.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-12T18:44:59+07:00",
+      "fetched": "2026-05-13T02:52:47.014685+07:00"
+    },
+    {
+      "id": "4b5c44abeacdb07e0a8c3a782aeb5746",
+      "title": "Sinner bắt kịp kỷ lục Masters 1000 của Djokovic",
+      "link": "https://vnexpress.net/sinner-bat-kip-ky-luc-masters-1000-cua-djokovic-5073224.html",
+      "summary": "Tay vợt số một thế giới Jannik Sinner đi vào lịch sử cấp độ Masters 1000, sau khi vượt qua Andrea Pellegrino 6-2, 6-3 tại vòng bốn Italy Mở rộng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T18:44:41+07:00",
+      "fetched": "2026-05-13T02:52:35.483858+07:00"
+    },
+    {
+      "id": "4b5c44abeacdb07e0a8c3a782aeb5746",
+      "title": "Sinner bắt kịp kỷ lục Masters 1000 của Djokovic",
+      "link": "https://vnexpress.net/sinner-bat-kip-ky-luc-masters-1000-cua-djokovic-5073224.html",
+      "summary": "Tay vợt số một thế giới Jannik Sinner đi vào lịch sử cấp độ Masters 1000, sau khi vượt qua Andrea Pellegrino 6-2, 6-3 tại vòng bốn Italy Mở rộng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-12T18:44:41+07:00",
+      "fetched": "2026-05-13T02:52:47.014843+07:00"
+    },
+    {
+      "id": "66daf9e01b07e39d9f74606d58e166af",
+      "title": "Hai mốc tuổi cơ thể già đi nhanh hơn",
+      "link": "https://vnexpress.net/hai-moc-tuoi-co-the-gia-di-nhanh-hon-5071938.html",
+      "summary": "Quá trình lão hóa không diễn ra đều đặn mà có thể tăng tốc ở khoảng năm 44 và 60 tuổi, ảnh hưởng chuyển hóa, chức năng thận, tim mạch, cơ bắp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T18:04:00+07:00",
+      "fetched": "2026-05-13T02:52:35.483997+07:00"
+    },
+    {
+      "id": "a9b485c17890422892ff99b78703c32a",
+      "title": "'Lô vũ khí mất tích' khiến ông Trump phẫn nộ với người Kurd",
+      "link": "https://vnexpress.net/lo-vu-khi-mat-tich-khien-ong-trump-phan-no-voi-nguoi-kurd-5072833.html",
+      "summary": "Tổng thống Trump cáo buộc người Kurd ở Iraq giữ lại lô vũ khí Mỹ gửi cho người biểu tình ở Iran, nhưng các nhóm vũ trang của cộng đồng này bác bỏ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T18:00:00+07:00",
+      "fetched": "2026-05-13T02:52:35.484127+07:00"
+    },
+    {
+      "id": "c190eff806732fffc0df4dbfdb48de03",
+      "title": "Ung thư tụy",
+      "link": "https://vnexpress.net/suc-khoe/cam-nang/ung-thu-tuy-425",
+      "summary": "Ung thư tụy xảy ra khi tế bào trong tuyến tụy phát triển bất thường, có thể xuất hiện ở bất kỳ vị trí nào trong tuyến tụy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T18:00:00+07:00",
+      "fetched": "2026-05-13T02:52:35.484219+07:00"
+    },
+    {
+      "id": "a9b485c17890422892ff99b78703c32a",
+      "title": "'Lô vũ khí mất tích' khiến ông Trump phẫn nộ với người Kurd",
+      "link": "https://vnexpress.net/lo-vu-khi-mat-tich-khien-ong-trump-phan-no-voi-nguoi-kurd-5072833.html",
+      "summary": "Tổng thống Trump cáo buộc người Kurd ở Iraq giữ lại lô vũ khí Mỹ gửi cho người biểu tình ở Iran, nhưng các nhóm vũ trang của cộng đồng này bác bỏ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-12T18:00:00+07:00",
+      "fetched": "2026-05-13T02:52:40.873082+07:00"
+    },
+    {
+      "id": "e94bdab3ae7d16823953662025c38625",
+      "title": "Người dân ủng hộ tinh gọn bộ máy nhưng chưa hài lòng với cấp xã",
+      "link": "https://vnexpress.net/nguoi-dan-ung-ho-tinh-gon-bo-may-nhung-chua-hai-long-voi-cap-xa-5073188.html",
+      "summary": "Đa số người dân ủng hộ việc chuyển sang mô hình chính quyền địa phương hai cấp và kỳ vọng bộ máy tinh gọn hơn sẽ giúp dịch vụ công thuận tiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T17:52:06+07:00",
+      "fetched": "2026-05-13T02:52:35.484355+07:00"
     },
     {
       "id": "115a79377ccd9f6b846925bb8063497e",
