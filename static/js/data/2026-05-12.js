@@ -1,7 +1,157 @@
 window.newsData_2026_05_12 = {
   "date": "2026-05-12",
-  "lastUpdated": "2026-05-12T17:28:46.472940+07:00",
+  "lastUpdated": "2026-05-12T21:15:58.566145+07:00",
   "articles": [
+    {
+      "id": "48c6b1b449fcfe6ecb65948c4ac24d47",
+      "title": "Đón 158 hài cốt liệt sĩ quân tình nguyện, chuyên gia Việt Nam hy sinh tại Campuchia về nước",
+      "link": "https://tuoitre.vn/don-158-hai-cot-liet-si-quan-tinh-nguyen-chuyen-gia-viet-nam-hy-sinh-tai-campuchia-ve-nuoc-20260512191823407.htm",
+      "summary": "Ngày 12-5, tại cửa khẩu quốc tế Bình Hiệp (xã Bình Hiệp), UBND tỉnh Tây Ninh tổ chức lễ đón 158 hài cốt liệt sĩ quân tình nguyện và chuyên gia Việt Nam hy sinh tại Campuchia đưa về nước giữa đợt 2, giai đoạn XXV (mùa khô 2025-2026).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T21:15:49.933533+07:00",
+      "fetched": "2026-05-12T21:15:49.933680+07:00"
+    },
+    {
+      "id": "43ee220f6fcaec0fef661c922907c1a0",
+      "title": "Dòng tiền tìm đến tài sản có giá trị khai thác bền vững",
+      "link": "https://tuoitre.vn/dong-tien-tim-den-tai-san-co-gia-tri-khai-thac-ben-vung-20260512130529411.htm",
+      "summary": "Thực tế cho thấy, trong các giai đoạn biến động, thị trường bất động sản thường không sụp đổ đồng loạt mà bước vào quá trình phân hóa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T21:15:49.933406+07:00",
+      "fetched": "2026-05-12T21:15:49.933521+07:00"
+    },
+    {
+      "id": "485c3e357372a196edd936a8d12c2f62",
+      "title": "Hoàn tất di dời chung cư Trúc Giang, Vĩnh Hội và 5 chung cư hư hỏng ở TP.HCM trước ngày 30-5",
+      "link": "https://tuoitre.vn/hoan-tat-di-doi-chung-cu-truc-giang-vinh-hoi-va-5-chung-cu-hu-hong-o-tp-hcm-truoc-ngay-30-5-20260512190730374.htm",
+      "summary": "Phó chủ tịch UBND TP.HCM Bùi Xuân Cường vừa ký văn bản chỉ đạo của Chủ tịch UBND TP.HCM về việc đẩy nhanh tiến độ thực hiện công tác cải tạo, xây dựng lại các chung cư hư hỏng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T21:15:49.933272+07:00",
+      "fetched": "2026-05-12T21:15:49.933394+07:00"
+    },
+    {
+      "id": "ca09677d6e78c9e1c008ad2a5a0b2bbc",
+      "title": "Điều tra của CNN: Tàu Nga nổ rồi chìm bí ẩn, nghi chở lò phản ứng hạt nhân",
+      "link": "https://tuoitre.vn/dieu-tra-cua-cnn-tau-nga-no-roi-chim-bi-an-nghi-cho-lo-phan-ung-hat-nhan-20260512185810084.htm",
+      "summary": "Một tàu Nga bị nghi chở các lò phản ứng hạt nhân đến Triều Tiên đã bất ngờ phát nổ và chìm ngoài khơi bờ biển Tây Ban Nha.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T21:15:49.933138+07:00",
+      "fetched": "2026-05-12T21:15:49.933259+07:00"
+    },
+    {
+      "id": "229918edaebe7e2dc9e6099e3b3f5d6c",
+      "title": "Thiếu phòng điều trị, bệnh viện tỉnh Khánh Hòa tính phương án chữa cháy 3 tháng chưa thông",
+      "link": "https://tuoitre.vn/thieu-phong-dieu-tri-benh-vien-tinh-khanh-hoa-tinh-phuong-an-chua-chay-3-thang-chua-thong-20260512180604821.htm",
+      "summary": "Người dân phản ánh khoa tim mạch - lão học Bệnh viện Đa khoa Khánh Hòa quá tải bệnh nhân, cơ sở xuống cấp. Giám đốc Sở Y tế yêu cầu bệnh viện giải thích, trả lời. Bệnh viện xin khắc phục đã 3 tháng nhưng chưa \"thông\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T21:15:49.933009+07:00",
+      "fetched": "2026-05-12T21:15:49.933126+07:00"
+    },
+    {
+      "id": "299a6c137029cb27faecf92ccf740322",
+      "title": "Ấn tượng với 'robot biến hình' của Trung Quốc giá hơn nửa triệu USD",
+      "link": "https://tuoitre.vn/an-tuong-voi-robot-bien-hinh-cua-trung-quoc-gia-hon-nua-trieu-usd-20260512184936016.htm",
+      "summary": "Một công ty Trung Quốc vừa hé lộ dòng robot mới có thể chuyển đổi giữa các chế độ 2 chân - 4 chân, cho thấy nước này đang chiếm ưu thế trong cuộc đua robot hình người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T21:15:49.932861+07:00",
+      "fetched": "2026-05-12T21:15:49.932996+07:00"
+    },
+    {
+      "id": "5ddf0812f635e1e11eb5a0b56c596122",
+      "title": "Thanh tra phát hiện gì tại dự án An Phú và Phước An của Công ty hạ tầng Quảng Nam?",
+      "link": "https://tuoitre.vn/thanh-tra-phat-hien-gi-tai-du-an-an-phu-va-phuoc-an-cua-cong-ty-ha-tang-quang-nam-20260512182359569.htm",
+      "summary": "Thanh tra Đà Nẵng vừa có kết luận thanh tra đối với dự án khu dân cư An Phú (phường Quảng Phú), dự án khu phố mới Phước An (xã Tiên Phước).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T21:15:49.932729+07:00",
+      "fetched": "2026-05-12T21:15:49.932849+07:00"
+    },
+    {
+      "id": "9d4457eb73d4f7135947eaecaf92d789",
+      "title": "Đến năm 2045, chiều cao thanh niên Việt Nam lên top đầu Đông Nam Á được không?",
+      "link": "https://tuoitre.vn/den-nam-2045-chieu-cao-thanh-nien-viet-nam-len-top-dau-dong-nam-a-duoc-khong-20260512185552101.htm",
+      "summary": "Việt Nam đang đặt mục tiêu đến năm 2045 chiều cao trung bình của thanh niên sẽ ngang bằng các nước có cùng mức phát triển trên thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T21:15:49.932569+07:00",
+      "fetched": "2026-05-12T21:15:49.932707+07:00"
+    },
+    {
+      "id": "b5b86d36cca92f4dbc6f7eaf0bb4ba8f",
+      "title": "Thị trường ô tô giảm tốc, nhiều mẫu xe ế ẩm dù giảm giá sâu",
+      "link": "https://tuoitre.vn/thi-truong-o-to-giam-toc-nhieu-mau-xe-e-am-du-giam-gia-sau-20260512192609567.htm",
+      "summary": "Thị trường ô tô Việt Nam trong tháng 4-2026 ghi nhận dấu hiệu chững lại sau giai đoạn tăng trưởng đầu năm, dù nhiều hãng và đại lý đồng loạt tung ưu đãi lớn để kích cầu tiêu dùng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T21:15:49.932409+07:00",
+      "fetched": "2026-05-12T21:15:49.932524+07:00"
+    },
+    {
+      "id": "3d719c345c744bb5728f61acde381156",
+      "title": "2 tay vợt Việt Nam đánh bại chủ nhà Thái Lan ở giải cầu lông danh giá",
+      "link": "https://tuoitre.vn/2-tay-vot-viet-nam-danh-bai-chu-nha-thai-lan-o-giai-cau-long-danh-gia-20260512150107632.htm",
+      "summary": "Nguyễn Đình Hoàng và Trần Đình Mạnh, 2 tay vợt từng giành chức vô địch đôi nam tại Ciputra Hanoi - Vietnam International Challenge 2025, tiếp tục tỏa sáng khi đánh bại đối thủ chủ nhà ngay trận ra quân giải Thái Lan mở rộng 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T21:15:49.932282+07:00",
+      "fetched": "2026-05-12T21:15:49.932397+07:00"
+    },
+    {
+      "id": "0774bc53d6333711e8371823ef4066b5",
+      "title": "Công an TP.HCM xử lý người vẽ bậy lên rào chắn công trình cầu đi bộ qua sông Sài Gòn",
+      "link": "https://tuoitre.vn/cong-an-tp-hcm-xu-ly-nguoi-ve-bay-len-rao-chan-cong-trinh-cau-di-bo-qua-song-sai-gon-20260512200749081.htm",
+      "summary": "Ngày 12-5, Phòng Cảnh sát hình sự (PC02) Công an TP.HCM phối hợp Công an phường Sài Gòn lập hồ sơ xử lý Nguyễn Phương B. (20 tuổi, ngụ phường Gia Định) để điều tra về hành vi hủy hoại tài sản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T21:15:49.932151+07:00",
+      "fetched": "2026-05-12T21:15:49.932270+07:00"
+    },
+    {
+      "id": "9f9b16730c38f1a3fd0ead8b7f8927c2",
+      "title": "Việt Nam dành ưu tiên cao nhất cho quan hệ với Lào",
+      "link": "https://tuoitre.vn/viet-nam-danh-uu-tien-cao-nhat-cho-quan-he-voi-lao-20260512200220514.htm",
+      "summary": "Chiều 12-5 tại Hà Nội, Tổng Bí thư, Chủ tịch nước Tô Lâm đã tiếp đoàn đại biểu cấp cao thủ đô Vientiane (Lào) do ông Athsaphangthong Siphandone - Ủy viên Trung ương Đảng, Bí thư Thành ủy, Chủ tịch Hội đồng nhân dân Vientiane - dẫn đầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T21:15:49.932016+07:00",
+      "fetched": "2026-05-12T21:15:49.932138+07:00"
+    },
+    {
+      "id": "a57f14fd4c8e122d3776305fcc8061ef",
+      "title": "Iran tuyên bố ngày càng cứng rắn, nêu mức làm giàu uranium",
+      "link": "https://tuoitre.vn/iran-tuyen-bo-ngay-cang-cung-ran-neu-muc-lam-giau-uranium-20260512194400743.htm",
+      "summary": "Ngày 12-5, Iran cảnh báo nước này có thể sẽ làm giàu uranium lên 90%, mức được xem là cấp độ vũ khí, nếu Iran tiếp tục bị tấn công.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T21:15:49.931881+07:00",
+      "fetched": "2026-05-12T21:15:49.932004+07:00"
+    },
+    {
+      "id": "ef43ea3735a58afb5db49467e81b6132",
+      "title": "Lý do hoãn phiên tòa phúc thẩm vụ án Phúc Sơn tại sân bay Nha Trang cũ",
+      "link": "https://tuoitre.vn/ly-do-hoan-phien-toa-phuc-tham-vu-an-phuc-son-tai-san-bay-nha-trang-cu-20260512194154741.htm",
+      "summary": "Ngày 12-5, Tòa án quân sự Trung ương đã mở phiên tòa xét xử phúc thẩm vụ án hình sự tại dự án của Công ty cổ phần Tập đoàn Phúc Sơn ở sân bay Nha Trang (Khánh Hòa), nhưng hội đồng xét xử đã công bố quyết định hoãn phiên tòa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T21:15:49.931728+07:00",
+      "fetched": "2026-05-12T21:15:49.931869+07:00"
+    },
+    {
+      "id": "6665cd31685d1574e731c23464fbc2e2",
+      "title": "Bất ngờ với dự đoán của 'siêu máy tính' về trận U17 Việt Nam - U17 UAE",
+      "link": "https://tuoitre.vn/bat-ngo-voi-du-doan-cua-sieu-may-tinh-ve-tran-u17-viet-nam-u17-uae-20260512200258297.htm",
+      "summary": "Nhiều chuyên trang bóng đá bất ngờ nhận định U17 Việt Nam là đội mạnh hơn trong trận đại chiến với U17 UAE, ở lượt đấu cuối cùng bảng C Giải U17 châu Á 2026 diễn ra lúc 0h ngày 14-5 (giờ Việt Nam).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T21:15:49.931451+07:00",
+      "fetched": "2026-05-12T21:15:49.931710+07:00"
+    },
     {
       "id": "35a8f4562f7d9e1cc061095728b6495f",
       "title": "Lần đầu kể từ Thế chiến 2, Nhật Bản lập cơ quan tình báo chuyên biệt",
@@ -153,6 +303,96 @@ window.newsData_2026_05_12 = {
       "fetched": "2026-05-12T17:28:40.747407+07:00"
     },
     {
+      "id": "243415d93c40526ee93b7fc099e764e0",
+      "title": "VinFast bàn giao 24.774 xe điện trong tháng 4, Limo Green trở thành 'gà đẻ trứng vàng'",
+      "link": "https://thanhnien.vn/vinfast-ban-giao-24774-xe-dien-trong-thang-4-limo-green-tro-thanh-ga-de-trung-vang-185260512182807124.htm",
+      "summary": "VinFast tiếp tục dẫn đầu thị trường ô tô Việt Nam trong 19 tháng liên tiếp với doanh số gần 24.800 xe điện bán ra trong tháng 4.2026. Trong đó, Limo Green vượt mặt VF 3, trở thành \"gà đẻ trứng vàng\" của hãng xe Việt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T14:06:00+07:00",
+      "fetched": "2026-05-12T21:15:48.866067+07:00"
+    },
+    {
+      "id": "3713441041e41e0b3afdf77c42a37cdd",
+      "title": "Tối hậu thư của tân Thủ tướng Hungary với di sản thời Orban",
+      "link": "https://vnexpress.net/toi-hau-thu-cua-tan-thu-tuong-hungary-voi-di-san-thoi-orban-5073140.html",
+      "summary": "Tân Thủ tướng Magyar yêu cầu Tổng thống Hungary và loạt quan chức từ chức trước ngày 31/5, nhằm thay đổi triệt để bộ máy lãnh đạo từ thời người tiền nhiệm Orban.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T14:00:00+07:00",
+      "fetched": "2026-05-12T21:15:45.613604+07:00"
+    },
+    {
+      "id": "6626bf525dab67122962588f5716db7e",
+      "title": "Đưa Cần Giờ thành 'siêu điểm đến' hút 40 triệu lượt khách mỗi năm",
+      "link": "https://vnexpress.net/dua-can-gio-thanh-sieu-diem-den-hut-40-trieu-luot-khach-moi-nam-5073201.html",
+      "summary": "Các chuyên gia nhận định phát triển Cần Giờ là bước đi tất yếu để TP HCM mở rộng không gian, trở thành \"siêu điểm đến\" tích hợp nghỉ dưỡng quốc tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T14:00:00+07:00",
+      "fetched": "2026-05-12T21:15:45.613788+07:00"
+    },
+    {
+      "id": "3713441041e41e0b3afdf77c42a37cdd",
+      "title": "Tối hậu thư của tân Thủ tướng Hungary với di sản thời Orban",
+      "link": "https://vnexpress.net/toi-hau-thu-cua-tan-thu-tuong-hungary-voi-di-san-thoi-orban-5073140.html",
+      "summary": "Tân Thủ tướng Magyar yêu cầu Tổng thống Hungary và loạt quan chức từ chức trước ngày 31/5, nhằm thay đổi triệt để bộ máy lãnh đạo từ thời người tiền nhiệm Orban.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-12T14:00:00+07:00",
+      "fetched": "2026-05-12T21:15:51.870522+07:00"
+    },
+    {
+      "id": "193c94671c6e6dd64af2c2d6cb14c654",
+      "title": "Công an TP.HCM nỗ lực hỗ trợ công dân Việt Nam bị nước ngoài trục xuất",
+      "link": "https://thanhnien.vn/cong-an-tphcm-no-luc-ho-tro-cong-dan-viet-nam-bi-nuoc-ngoai-truc-xuat-185260512202810837.htm",
+      "summary": "Sau khi tiếp nhận các công dân bị trục xuất, Công an TP.HCM thực hiện nhiều giải pháp nhân văn, hỗ trợ người dân sớm ổn định cuộc sống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T13:57:00+07:00",
+      "fetched": "2026-05-12T21:15:48.866328+07:00"
+    },
+    {
+      "id": "1cfb59219fbb2efbb7302c9503cc604d",
+      "title": "Nguyên nhân vụ ngộ độc thực phẩm tại Trường tiểu học Đặng Thùy Trâm là gì?",
+      "link": "https://thanhnien.vn/nguyen-nhan-vu-ngo-doc-thuc-pham-tai-truong-tieu-hoc-dang-thuy-tram-la-gi-185260512203009937.htm",
+      "summary": "Chiều 12.5.2026, Sở An toàn thực phẩm TP.HCM đã công bố kết quả điều tra vụ ngộ độc thực phẩm tại Trường tiểu học Đặng Thùy Trâm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T13:48:00+07:00",
+      "fetched": "2026-05-12T21:15:48.866593+07:00"
+    },
+    {
+      "id": "91e8e6e6104b05ad24724bfa776cb2ca",
+      "title": "Thủ tướng Anh tuyên bố không từ chức",
+      "link": "https://thanhnien.vn/thu-tuong-anh-tuyen-bo-khong-tu-chuc-18526051220060081.htm",
+      "summary": "Thủ tướng Anh Keir Starmer đã tuyên bố với nội các rằng ông sẽ không từ chức bất chấp sức ép chính trị sau cuộc bầu cử địa phương không thành công vừa qua của Công đảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T13:48:00+07:00",
+      "fetched": "2026-05-12T21:15:48.866839+07:00"
+    },
+    {
+      "id": "a00f373b6140d5195d90d0a9b021b515",
+      "title": "Những thảm họa của Microsoft khiến người dùng điêu đứng",
+      "link": "https://thanhnien.vn/nhung-tham-hoa-cua-microsoft-khien-nguoi-dung-dieu-dung-185260511111216742.htm",
+      "summary": "Nhìn lại những lần Microsoft khiến cả thế giới điêu đứng vì Windows Update.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T13:48:00+07:00",
+      "fetched": "2026-05-12T21:15:48.867066+07:00"
+    },
+    {
+      "id": "479ddde895849318ab06d5c545db508b",
+      "title": "Góp ý dự thảo luật Đô thị đặc biệt: Gỡ vướng cho hàng ngàn nhà đất công",
+      "link": "https://thanhnien.vn/gop-y-du-thao-luat-do-thi-dac-biet-go-vuong-cho-hang-ngan-nha-dat-cong-1852605122013514.htm",
+      "summary": "Chuyên gia góp ý cho dự thảo luật Đô thị đặc biệt để gỡ vướng cho TP.HCM trong xử lý tài sản nhà đất công và hoàn thiện luật cho Trung tâm Tài chính quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T13:46:00+07:00",
+      "fetched": "2026-05-12T21:15:48.867302+07:00"
+    },
+    {
       "id": "a03921589b0e4174f61e47b2d7e90bb4",
       "title": "Xét xử nữ doanh nhân ở Đà Nẵng bị cáo buộc lừa đảo huy động vốn 3 dự án, chiếm hơn 54 tỉ",
       "link": "https://tuoitre.vn/xet-xu-nu-doanh-nhan-o-da-nang-bi-cao-buoc-lua-dao-huy-dong-von-3-du-an-chiem-hon-54-ti-20260512111152526.htm",
@@ -301,6 +541,286 @@ window.newsData_2026_05_12 = {
       "category": "Tổng hợp",
       "published": "2026-05-12T13:34:44.536620+07:00",
       "fetched": "2026-05-12T13:34:44.536836+07:00"
+    },
+    {
+      "id": "66669ad5d08635d27fe02f7cdd57add1",
+      "title": "Khai trừ ra khỏi Đảng đối với các ông Vũ Thế Phiệt, Nguyễn Văn Bường, Lê Văn Hà",
+      "link": "https://thanhnien.vn/khai-tru-ra-khoi-dang-doi-voi-cac-ong-vu-the-phiet-nguyen-van-buong-le-van-ha-185260512202008242.htm",
+      "summary": "Ban Bí thư quyết định thi hành kỷ luật khai trừ ra khỏi Đảng đối với ông Vũ Thế Phiệt, Bí thư Đảng uỷ, Chủ tịch Hội đồng quản trị Tổng Công ty Cảng hàng không Việt Nam (ACV); ông Nguyễn Văn Bường, nguyên: Bí thư Đảng uỷ, Chánh án TAND cấp cao tại Đà Nẵng; Lê Văn Hà, nguyên: Tỉnh ủy viên, Bí thư Đảng...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T13:34:00+07:00",
+      "fetched": "2026-05-12T21:15:48.867531+07:00"
+    },
+    {
+      "id": "a32fdf8c625101f06a55f3a479ee6e45",
+      "title": "Lái xe máy chở 3, học sinh lớp 9 tông barie trạm thu phí tử vong",
+      "link": "https://thanhnien.vn/lai-xe-may-cho-3-hoc-sinh-lop-9-tong-barie-tram-thu-phi-tu-vong-185260512195811343.htm",
+      "summary": "Sau màn truy đuổi trong đêm trên quốc lộ 1, nam sinh lớp 9 lái xe máy chở 3 tông vào barie trạm thu phí tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T13:33:00+07:00",
+      "fetched": "2026-05-12T21:15:48.867814+07:00"
+    },
+    {
+      "id": "83bd7ff8496662de23a72e26d393f755",
+      "title": "BÍ QUYẾT ÔN THI THPT 2026 | Môn sinh học | Chuyên đề 7 | Bài tập di truyền quần thể",
+      "link": "https://thanhnien.vn/bi-quyet-on-thi-thpt-2026-mon-sinh-hoc-chuyen-de-7-bai-tap-di-truyen-quan-the-185260507102416206.htm",
+      "summary": "Chương trình hướng dẫn học sinh làm bài thi môn sinh học, kỳ thi THPT quốc gia 2026. Buổi hướng dẫn \"Bí quyết ôn thi THPT 2026\" do thầy Võ Thanh Bình, Trường THPT chuyên Lê Hồng Phong, TP.HCM – thực hiện. Chương trình được phát trên các kênh thanhnien.vn, Facebook.com/thanhnien và YouTube Báo Thanh ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T13:30:00+07:00",
+      "fetched": "2026-05-12T21:15:48.868037+07:00"
+    },
+    {
+      "id": "870cae48cc11341505d55f5bc3055f4a",
+      "title": "Bí quyết ôn thi tốt nghiệp THPT đạt điểm cao: Công thức bài tập di truyền",
+      "link": "https://thanhnien.vn/bi-quyet-on-thi-tot-nghiep-thpt-dat-diem-cao-cong-thuc-bai-tap-di-truyen-18526051015265208.htm",
+      "summary": "Vào lúc 20 giờ 30 ngày 12.5, Báo Thanh Niên phát sóng chuyên đề số 7 của môn sinh học trong chương trình Bí quyết ôn thi tốt nghiệp THPT đạt điểm cao năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T13:28:00+07:00",
+      "fetched": "2026-05-12T21:15:48.868286+07:00"
+    },
+    {
+      "id": "dd36054f7f2edab57ac3d1025405e277",
+      "title": "Đột quỵ khi đang ngủ: 5 dấu hiệu cảnh báo ngay sau khi thức dậy",
+      "link": "https://thanhnien.vn/dot-quy-khi-dang-ngu-5-dau-hieu-canh-bao-ngay-sau-khi-thuc-day-185260512185736359.htm",
+      "summary": "Đột quỵ đặc trưng với những biểu hiện như đột ngột méo miệng, khó nói hoặc ngã quỵ. Thế nhưng, không ít trường hợp cơn đột quỵ xảy ra trong lúc ngủ, chỉ được phát hiện khi người bệnh vừa thức dậy vào buổi sáng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T13:26:00+07:00",
+      "fetched": "2026-05-12T21:15:48.868516+07:00"
+    },
+    {
+      "id": "8f4f646785a6d9424c472615ea18ed24",
+      "title": "Metro kết nối sân bay Long Thành: Đồng Nai và TP.HCM thống nhất hướng tuyến",
+      "link": "https://thanhnien.vn/metro-ket-noi-san-bay-long-thanh-dong-nai-va-tphcm-thong-nhat-huong-tuyen-185260512195047703.htm",
+      "summary": "Thành phố Đồng Nai cùng TP.HCM đã cơ bản thống nhất hướng tuyến của 2 tuyến metro kết nối đến sân bay Long Thành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T13:17:00+07:00",
+      "fetched": "2026-05-12T21:15:48.868776+07:00"
+    },
+    {
+      "id": "20cc2953f4d58367d1e3468f7488a9f0",
+      "title": "Chủ tịch Hưng Yên muốn thiết kế giao thông liên vùng với Hà Nội, Hải Phòng, sân bay Gia Bình",
+      "link": "https://thanhnien.vn/chu-tich-hung-yen-muon-thiet-ke-giao-thong-lien-vung-voi-ha-noi-hai-phong-san-bay-gia-binh-185260512192610478.htm",
+      "summary": "Trong buổi làm việc với Sở Xây dựng, Chủ tịch UBND tỉnh Hưng Yên yêu cầu sở này tham mưu thiết kế đồng bộ các trục xương sống, tuyến vành đai và kết nối liên vùng với Hà Nội, Hải Phòng, sân bay Gia Bình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T13:17:00+07:00",
+      "fetched": "2026-05-12T21:15:48.869010+07:00"
+    },
+    {
+      "id": "c8161837eb2f158ca4f4d9b45958c3bd",
+      "title": "Người dân được khám những gì trong gói sức khỏe miễn phí từ 2026?",
+      "link": "https://vnexpress.net/nguoi-dan-duoc-kham-nhung-gi-trong-goi-suc-khoe-mien-phi-tu-2026-5073193.html",
+      "summary": "Ngành y tế cung cấp gói khám miễn phí gồm nội khoa, tai mũi họng, xét nghiệm máu, nước tiểu và chụp X-quang tim phổi giúp người dân tầm soát bệnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T13:10:40+07:00",
+      "fetched": "2026-05-12T21:15:45.613959+07:00"
+    },
+    {
+      "id": "074da7e60445ce4e4862d0d57b9dedcf",
+      "title": "Kinh nghiệm mua hải sản chất lượng ở Đồ Sơn",
+      "link": "https://vnexpress.net/kinh-nghiem-mua-hai-san-chat-luong-o-do-son-5072942.html",
+      "summary": "Chợ cá Ngọc Hải, chợ hải sản Đồ Sơn, chợ Cầu Vồng là những địa chỉ được người địa phương gợi ý cho du khách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T13:09:48+07:00",
+      "fetched": "2026-05-12T21:15:45.614125+07:00"
+    },
+    {
+      "id": "a041418faff8f1c6a30da09f1ef0374d",
+      "title": "Hải Phòng dự kiến nâng ngưỡng thu nhập được mua nhà xã hội",
+      "link": "https://vnexpress.net/hai-phong-du-kien-nang-nguong-thu-nhap-duoc-mua-nha-xa-hoi-5073142.html",
+      "summary": "Sở Xây dựng TP Hải Phòng đề xuất tổng thu nhập của người đứng đơn mua nhà ở xã hội cùng vợ (chồng) không quá 58 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T13:06:24+07:00",
+      "fetched": "2026-05-12T21:15:45.614292+07:00"
+    },
+    {
+      "id": "2074183d594230099f9e7107c3afc348",
+      "title": "Hai mẹ con tử vong sau va chạm với xe tải",
+      "link": "https://vnexpress.net/hai-me-con-tu-vong-sau-va-cham-voi-xe-tai-5073192.html",
+      "summary": "Người đàn ông 56 tuổi lái xe máy điện chở mẹ 86 tuổi, cùng trú xã Trường Lưu, tử vong sau va chạm với ôtô tải chở đất trên đường huyện 36, chiều 12/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T13:03:04+07:00",
+      "fetched": "2026-05-12T21:15:45.614452+07:00"
+    },
+    {
+      "id": "a201f0e1449fdde936a626aa9d4883da",
+      "title": "Nước nào còn nhiều vàng chưa khai thác nhất thế giới?",
+      "link": "https://vnexpress.net/nuoc-tieu-thu-vang-nhieu-nhat-the-gioi-5073179.html",
+      "summary": "Với khoảng 12.000 tấn vàng (trị giá 1,7 nghìn tỷ USD) trong lòng đất, đây là hai nước còn nhiều vàng chưa khai thác nhất thế giới. Theo bạn, đó là nước nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T13:03:00+07:00",
+      "fetched": "2026-05-12T21:15:45.614640+07:00"
+    },
+    {
+      "id": "1f2fdcf0b31d0f55eeb5c451655b4330",
+      "title": "Đồng Nai quy hoạch đô thị 6.000 ha phía Tây sân bay Long Thành",
+      "link": "https://vnexpress.net/dong-nai-quy-hoach-do-thi-6-000-ha-phia-tay-san-bay-long-thanh-5073134.html",
+      "summary": "Đô thị phía Tây Long Thành nằm ở xã Phước Thái, Long Phước và một phần Long Thành có quy mô dân số khoảng 450.000 người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T13:02:10+07:00",
+      "fetched": "2026-05-12T21:15:45.614814+07:00"
+    },
+    {
+      "id": "486618e853ca0de8edc5845a26c88a4d",
+      "title": "Nguyễn Văn Chung thi 'Anh trai vượt ngàn chông gai' sau 'cơn sốt' ca khúc tỉ view",
+      "link": "https://thanhnien.vn/nguyen-van-chung-thi-anh-trai-vuot-ngan-chong-gai-sau-con-sot-ca-khuc-ti-view-185260512195043325.htm",
+      "summary": "Quyết định tham gia 'Anh trai vượt ngàn chông gai', Nguyễn Văn Chung mong muốn vượt qua giới hạn của một nhạc sĩ để thử sức với ca hát, nhảy múa và kỹ xảo sân khấu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T13:01:00+07:00",
+      "fetched": "2026-05-12T21:15:48.869245+07:00"
+    },
+    {
+      "id": "603a865f2540f48789829d0d2418b00f",
+      "title": "Lý do ông Putin muốn cựu thủ tướng Đức làm 'người hòa giải' với châu Âu",
+      "link": "https://vnexpress.net/ly-do-ong-putin-muon-cuu-thu-tuong-duc-lam-nguoi-hoa-giai-voi-chau-au-5073022.html",
+      "summary": "Từng có mối quan hệ lâu năm với ông Putin, cựu thủ tướng Đức Schroeder đang gây chú ý khi được lãnh đạo Nga đề xuất làm trung gian đàm phán với Ukraine và châu Âu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T13:00:00+07:00",
+      "fetched": "2026-05-12T21:15:45.614971+07:00"
+    },
+    {
+      "id": "6e2ad25e098b18e796adddcc2d5ebb0d",
+      "title": "Bạn gái và tình cũ bàn chuyện cưới xin khi đang yêu tôi",
+      "link": "https://vnexpress.net/ban-gai-va-tinh-cu-ban-chuyen-cuoi-xin-khi-dang-yeu-toi-5072769.html",
+      "summary": "Tôi thật sự thấy mệt mỏi, tại sao em đã quay lại với người cũ rồi còn tiếp tục quen tôi làm gì, sao em không chia tay tôi?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T13:00:00+07:00",
+      "fetched": "2026-05-12T21:15:45.615125+07:00"
+    },
+    {
+      "id": "cd7f8b4c09c69b56965707b50330904e",
+      "title": "Crossfire: Legends đưa tàu chở hàng hai tầng đến Vietnam GameVerse 2026",
+      "link": "https://vnexpress.net/crossfire-legends-dua-tau-cho-hang-hai-tang-den-vietnam-gameverse-2026-5073187.html",
+      "summary": "Lấy cảm hứng từ bản đồ tàu chở hàng kinh điển, gian hàng Crossfire: Legends tại Vietnam GameVerse 2026 trang trí mô hình thùng container, cần cẩu và nhiều chi tiết kim loại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T13:00:00+07:00",
+      "fetched": "2026-05-12T21:15:45.615292+07:00"
+    },
+    {
+      "id": "237cfb95a013eb78f7b0547d3f91eec1",
+      "title": "Xem nhanh 20h ngày 12.5: Cục Điện ảnh nói gì về phim có Miu Lê đang chiếu? | Bí ẩn ‘khách quý’ từ rìa hệ mặt trời",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-125-cuc-dien-anh-noi-gi-ve-phim-co-miu-le-dang-chieu-bi-an-khach-quy-tu-ria-he-mat-troi-185260512194401359.htm",
+      "summary": "'Xem nhanh 20h' ngày 12.5 có nhiều tin tức đáng chú ý về: Cục Điện ảnh nói gì về phim có Miu Lê đang chiếu ngoài rạp?; Khách quý' đến từ rìa hệ mặt trời, lần tiếp theo phải 170.000 năm nữa;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T13:00:00+07:00",
+      "fetched": "2026-05-12T21:15:48.869490+07:00"
+    },
+    {
+      "id": "603a865f2540f48789829d0d2418b00f",
+      "title": "Lý do ông Putin muốn cựu thủ tướng Đức làm 'người hòa giải' với châu Âu",
+      "link": "https://vnexpress.net/ly-do-ong-putin-muon-cuu-thu-tuong-duc-lam-nguoi-hoa-giai-voi-chau-au-5073022.html",
+      "summary": "Từng có mối quan hệ lâu năm với ông Putin, cựu thủ tướng Đức Schroeder đang gây chú ý khi được lãnh đạo Nga đề xuất làm trung gian đàm phán với Ukraine và châu Âu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-12T13:00:00+07:00",
+      "fetched": "2026-05-12T21:15:51.870736+07:00"
+    },
+    {
+      "id": "aaef5ffc714de916d8a182d75b99c017",
+      "title": "11% người dân gặp công chức phiền hà khi làm thủ tục hành chính",
+      "link": "https://vnexpress.net/11-nguoi-dan-gap-cong-chuc-phien-ha-khi-lam-thu-tuc-hanh-chinh-5073077.html",
+      "summary": "Người dân làm thủ tục gặp công chức gây phiền hà, phải chi thêm, \"tỷ lệ không lớn nhưng xuất hiện ở tất cả địa phương và tăng so với trước\", theo Bộ Nội vụ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T12:59:28+07:00",
+      "fetched": "2026-05-12T21:15:45.615448+07:00"
+    },
+    {
+      "id": "1e750fc804821d271e176933ccc9572e",
+      "title": "Cựu chánh án TAND Cấp cao tại Đà Nẵng bị khai trừ Đảng",
+      "link": "https://vnexpress.net/cuu-chanh-an-tand-cap-cao-tai-da-nang-bi-khai-tru-dang-5073189.html",
+      "summary": "Ông Nguyễn Văn Bường, nguyên Bí thư Đảng ủy, Chánh án Tòa án nhân dân Cấp cao tại Đà Nẵng, bị Ban Bí thư khai trừ Đảng vì vi phạm gây hậu quả rất nghiêm trọng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T12:49:41+07:00",
+      "fetched": "2026-05-12T21:15:45.615627+07:00"
+    },
+    {
+      "id": "549b33ddc5735685213a16efed79fce4",
+      "title": "Kuwait tuyên bố chặn nhóm lính Iran xâm nhập lãnh thổ",
+      "link": "https://vnexpress.net/kuwait-tuyen-bo-chan-nhom-linh-iran-xam-nhap-lanh-tho-5073183.html",
+      "summary": "Chính phủ Kuwait tuyên bố nhóm nghi phạm \"thuộc Vệ binh Cách mạng Hồi giáo Iran\" đã tìm cách xâm nhập đảo Bubiyan nhưng bị chặn lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T12:48:14+07:00",
+      "fetched": "2026-05-12T21:15:45.615800+07:00"
+    },
+    {
+      "id": "549b33ddc5735685213a16efed79fce4",
+      "title": "Kuwait tuyên bố chặn nhóm lính Iran xâm nhập lãnh thổ",
+      "link": "https://vnexpress.net/kuwait-tuyen-bo-chan-nhom-linh-iran-xam-nhap-lanh-tho-5073183.html",
+      "summary": "Chính phủ Kuwait tuyên bố nhóm nghi phạm \"thuộc Vệ binh Cách mạng Hồi giáo Iran\" đã tìm cách xâm nhập đảo Bubiyan nhưng bị chặn lại.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-12T12:48:14+07:00",
+      "fetched": "2026-05-12T21:15:51.870915+07:00"
+    },
+    {
+      "id": "f920b152800469ca79e21d5977c93f9f",
+      "title": "Chủ tịch ACV Vũ Thế Phiệt bị khai trừ Đảng",
+      "link": "https://vnexpress.net/chu-tich-acv-vu-the-phiet-bi-khai-tru-dang-5073184.html",
+      "summary": "Ông Vũ Thế Phiệt, Bí thư Đảng ủy, Chủ tịch Hội đồng quản trị Tổng Công ty Cảng hàng không Việt Nam (ACV), bị Ban Bí thư khai trừ Đảng do vi phạm gây hậu quả rất nghiêm trọng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T12:46:30+07:00",
+      "fetched": "2026-05-12T21:15:45.615955+07:00"
+    },
+    {
+      "id": "12461e56d106ac9ec3b649fd1b791700",
+      "title": "Rio Ferdinand: 'Arsenal sẽ khiến PSG ôm hận bằng bóng chết'",
+      "link": "https://vnexpress.net/rio-ferdinand-arsenal-se-khien-psg-om-han-bang-bong-chet-5073164.html",
+      "summary": "Cựu danh thủ Man Utd Rio Ferdinand nhận định Arsenal sẽ đánh bại PSG bằng các tình huống cố định để vô địch Champions League 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-12T12:03:26+07:00",
+      "fetched": "2026-05-12T21:15:58.555774+07:00"
+    },
+    {
+      "id": "67b9543a8f3dddcfcb99f64b165e0c4e",
+      "title": "Lý do Thủ tướng Ấn Độ kêu gọi người dân ngừng mua vàng",
+      "link": "https://vnexpress.net/ly-do-thu-tuong-an-do-keu-goi-nguoi-dan-ngung-mua-vang-5073060.html",
+      "summary": "Ấn Độ nhập khẩu vàng nhiều thứ hai thế giới, khiến Thủ tướng Modi phải kêu gọi người dân hạn chế mua vàng để ngăn chảy máu ngoại tệ ra nước ngoài.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-12T12:00:00+07:00",
+      "fetched": "2026-05-12T21:15:51.871084+07:00"
+    },
+    {
+      "id": "fe58569657ab0f68b73142016ebca999",
+      "title": "'An ninh mạng cần thiết kế từ đầu, không phải lớp vá thêm'",
+      "link": "https://vnexpress.net/an-ninh-mang-can-thiet-ke-tu-dau-khong-phai-lop-va-them-5073097.html",
+      "summary": "Theo Phó chủ tịch Vinasa Nguyễn Tử Quảng, AI đang thay đổi bản chất của chiến tranh mạng, buộc doanh nghiệp phải chủ động từ đầu.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-12T12:00:00+07:00",
+      "fetched": "2026-05-12T21:15:56.980909+07:00"
+    },
+    {
+      "id": "d032cccff3684106ab44a0b3793bdbca",
+      "title": "Ông Macron hứng chỉ trích vì nhắc nhở khán giả tại hội nghị châu Phi",
+      "link": "https://vnexpress.net/ong-macron-hung-chi-trich-vi-nhac-nho-khan-gia-tai-hoi-nghi-chau-phi-5073131.html",
+      "summary": "Tổng thống Pháp Macron hứng chỉ trích khi ngắt lời tại một phiên thảo luận và nhắc nhở người tham dự tại hội nghị ở châu Phi.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-12T11:38:25+07:00",
+      "fetched": "2026-05-12T21:15:51.871261+07:00"
     },
     {
       "id": "5f284c187399415201f0add1038f582c",
