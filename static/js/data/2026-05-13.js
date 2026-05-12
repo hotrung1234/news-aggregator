@@ -1,6 +1,6 @@
 window.newsData_2026_05_13 = {
   "date": "2026-05-13",
-  "lastUpdated": "2026-05-13T02:52:47.019138+07:00",
+  "lastUpdated": "2026-05-13T04:16:37.887233+07:00",
   "articles": [
     {
       "id": "1ea6990429b789b8ce9d3477fea1c24a",
@@ -151,6 +151,26 @@ window.newsData_2026_05_13 = {
       "category": "Tổng hợp",
       "published": "2026-05-13T00:57:30.115573+07:00",
       "fetched": "2026-05-13T00:57:30.115827+07:00"
+    },
+    {
+      "id": "aa0034ff30bd57fd7dd78148b7e58ba3",
+      "title": "Ronaldo bị trì hoãn chức vô địch Saudi Pro League",
+      "link": "https://vnexpress.net/ronaldo-bi-tri-hoan-chuc-vo-dich-saudi-pro-league-5073230.html",
+      "summary": "Sai lầm khó hiểu của thủ môn Bento ở phút cuối khiến Al Nassr bị đội khách Al Hilal cầm hòa 1-1 ở vòng 32 Saudi Pro League, nên lỡ cơ hội đăng quang sớm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-12T20:14:11+07:00",
+      "fetched": "2026-05-13T04:16:29.178130+07:00"
+    },
+    {
+      "id": "9ac58f795a5903c7e6d1f3708079a040",
+      "title": "Ronaldo bị đồng đội cản đường vô địch Saudi Pro League",
+      "link": "https://vnexpress.net/ronaldo-bi-dong-doi-can-duong-vo-dich-saudi-pro-league-5073230.html",
+      "summary": "Sai lầm khó hiểu của thủ môn Bento ở phút cuối khiến Al Nassr bị đội khách Al Hilal cầm hòa 1-1 ở vòng 32 Saudi Pro League, nên lỡ cơ hội đăng quang sớm.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-12T20:14:11+07:00",
+      "fetched": "2026-05-13T04:16:37.882284+07:00"
     },
     {
       "id": "dca00731c2789107b11d5895e1249f9d",
