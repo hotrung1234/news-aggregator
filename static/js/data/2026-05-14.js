@@ -1,6 +1,6 @@
 window.newsData_2026_05_14 = {
   "date": "2026-05-14",
-  "lastUpdated": "2026-05-14T03:02:59.245928+07:00",
+  "lastUpdated": "2026-05-14T06:03:17.385816+07:00",
   "articles": [
     {
       "id": "2056427e639b34c120c9a884c1c75237",
@@ -161,6 +161,326 @@ window.newsData_2026_05_14 = {
       "category": "Tổng hợp",
       "published": "2026-05-14T00:59:37.059215+07:00",
       "fetched": "2026-05-14T00:59:37.059423+07:00"
+    },
+    {
+      "id": "d57d4a7f295c33e324b43b87edb6e358",
+      "title": "Xăng sinh học đã sẵn sàng",
+      "link": "https://thanhnien.vn/xang-sinh-hoc-da-san-sang-185260513231453474.htm",
+      "summary": "Sớm hơn so với lộ trình, một số doanh nghiệp đầu mối đã bắt đầu triển khai bán xăng sinh học E10 đồng loạt trên hệ thống và sẵn sàng cung ứng ra thị trường cho các cửa hàng xăng dầu ngoài hệ thống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-13T23:01:00+07:00",
+      "fetched": "2026-05-14T06:03:07.400855+07:00"
+    },
+    {
+      "id": "665111fc298a19ca1e61d8b30d176990",
+      "title": "Nơi khởi đầu hành trình 'đi tìm hình của nước'",
+      "link": "https://thanhnien.vn/noi-khoi-dau-hanh-trinh-di-tim-hinh-cua-nuoc-185260513223404897.htm",
+      "summary": "Với tên tự khai là Văn Ba, người thanh niên yêu nước Nguyễn Tất Thành đã được chấp thuận làm phụ bếp cho tàu Đô đốc Latouche Tréville - thuộc hãng chuyên chở Chargeurs Réunis (thường gọi hãng Năm Sao, vì trên ống khói tàu có vẽ 5 ngôi sao). Ngày 5.6.1911 anh Ba rời Tổ quốc từ Bến Nhà Rồng (Sài Gòn) ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-13T23:00:00+07:00",
+      "fetched": "2026-05-14T06:03:07.401061+07:00"
+    },
+    {
+      "id": "838725b68acac55c08a798b2a3707c8b",
+      "title": "Đạo diễn Nguyễn Quang Dũng đính chính",
+      "link": "https://thanhnien.vn/dao-dien-nguyen-quang-dung-dinh-chinh-18526051322012166.htm",
+      "summary": "Nguyễn Quang Dũng phủ nhận chuyện đảm nhận vai trò đạo diễn cho một dự án phim đang tuyển chọn diễn viên, đồng thời cảnh giác mọi người trước chiêu trò lừa đảo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-13T23:00:00+07:00",
+      "fetched": "2026-05-14T06:03:07.401227+07:00"
+    },
+    {
+      "id": "cc34bd2592161425b32a82cd63f65e41",
+      "title": "Không 'nén' cao ốc vào trung tâm TP.HCM",
+      "link": "https://thanhnien.vn/khong-nen-cao-oc-vao-trung-tam-tphcm-18526051321293501.htm",
+      "summary": "Tại buổi tiếp xúc cử tri mới đây, Bí thư Thành ủy TP.HCM Trần Lưu Quang khẳng định TP sẽ không xây mới chung cư cao tầng ở trung tâm, ưu tiên quỹ đất lớn cho công viên, không gian công cộng để giảm áp lực cho hạ tầng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-13T23:00:00+07:00",
+      "fetched": "2026-05-14T06:03:07.401383+07:00"
+    },
+    {
+      "id": "b35d73eb8e84de377eb7d185407cee2a",
+      "title": "Dùng búa 'massage' dừa nước lấy mật, thu hàng triệu đồng mỗi ngày",
+      "link": "https://thanhnien.vn/dung-bua-massage-dua-nuoc-lay-mat-thu-hang-trieu-dong-moi-ngay-185260513210227079.htm",
+      "summary": "Một thanh niên ở Quảng Ngãi dùng búa cao su \"massage\" cho dừa nước để chiết xuất mật, tạo sản phẩm mới lạ, mở hướng phát triển kinh tế và du lịch từ chính tài nguyên bản địa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-13T23:00:00+07:00",
+      "fetched": "2026-05-14T06:03:07.401543+07:00"
+    },
+    {
+      "id": "19008c0a30d71cf30327af5d0201ad2f",
+      "title": "Vì sao cước tàu biển sang Mỹ tăng cao đột ngột?",
+      "link": "https://thanhnien.vn/vi-sao-cuoc-tau-bien-sang-my-tang-cao-dot-ngot-185260513185657326.htm",
+      "summary": "Chỉ trong vòng 1 tháng, cước tàu biển sang Mỹ đã tăng thêm từ 12-18%, điều này khiến các doanh nghiệp xuất khẩu của VN khó càng thêm khó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-13T23:00:00+07:00",
+      "fetched": "2026-05-14T06:03:07.401700+07:00"
+    },
+    {
+      "id": "aff75a59a7c7685d802fae18427f79f4",
+      "title": "Vợ chồng làm rẫy nuôi 4 con mua ô tô sau nhiều năm tích góp, thanh toán tiền mặt",
+      "link": "https://thanhnien.vn/vo-chong-lam-ray-nuoi-4-con-mua-o-to-sau-nhieu-nam-tich-gop-thanh-toan-tien-mat-185260513152024105.htm",
+      "summary": "Clip cặp vợ chồng làm rẫy cùng 4 con đến nhận ô tô mới ở Gia Lai thu hút sự chú ý của cư dân mạng. Với họ, chiếc xe là thành quả của nhiều năm tích góp để gia đình đi lại thuận tiện hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-13T23:00:00+07:00",
+      "fetched": "2026-05-14T06:03:07.401854+07:00"
+    },
+    {
+      "id": "b12a5c43964dc873ac26065804294093",
+      "title": "Tự hào 50 năm ngành điện thành phố mang tên Bác: Ảnh dự thi",
+      "link": "https://thanhnien.vn/tu-hao-50-nam-nganh-dien-thanh-pho-mang-ten-bac-anh-du-thi-185260513160626355.htm",
+      "summary": "Công nhân Tổng công ty Điện lực TP.HCM (EVNHCMC) đang 'đu mình' trên cao để sửa chữa hoàn thiện đường dây tại trạm Phú An 3B.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-13T22:56:00+07:00",
+      "fetched": "2026-05-14T06:03:07.402047+07:00"
+    },
+    {
+      "id": "ac26f94fd10d7a2e94dedf86b0a903d2",
+      "title": "'Cấm thu tiền' dạy thêm trong trường, sao phụ huynh vẫn phải chi?",
+      "link": "https://thanhnien.vn/cam-thu-tien-day-them-trong-truong-sao-phu-huynh-van-phai-chi-185260513224810144.htm",
+      "summary": "Bộ GD-ĐT muốn dùng quy định 'cấm thu tiền' để học sinh không còn bị ép buộc học thêm và ngăn chặn tình trạng dạy thêm tràn lan. Tuy nhiên, thực tế cho thấy phụ huynh vẫn chấp nhận đóng góp nhiều hơn để con học thêm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-13T22:54:00+07:00",
+      "fetched": "2026-05-14T06:03:07.402203+07:00"
+    },
+    {
+      "id": "3d33cd595f738cc00cbc0cefce13336e",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 14.5.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-1452026-185260513232545659.htm",
+      "summary": "Tin tức Không \"nén\" cao ốc vào trung tâm TP.HCM; Xăng sinh học đã sẵn sàng; Hà Nội đình chỉ 3 nhân viên thú y... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 14.5.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-13T22:53:00+07:00",
+      "fetched": "2026-05-14T06:03:07.402356+07:00"
+    },
+    {
+      "id": "7d370500ef1ffa5c4072dfefd8ed81a4",
+      "title": "Xác định 9 đội châu Á dự U17 World Cup 2026",
+      "link": "https://vnexpress.net/xac-dinh-9-doi-chau-a-du-u17-world-cup-2026-5073623.html",
+      "summary": "Việt Nam lần đầu tiên góp mặt và là đội tuyển Đông Nam Á duy nhất tham dự U17 World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-13T22:52:26+07:00",
+      "fetched": "2026-05-14T06:03:17.380302+07:00"
+    },
+    {
+      "id": "0e38c764f888a82f89b0d7154af8ee5c",
+      "title": "Thịt bẩn và trách nhiệm",
+      "link": "https://thanhnien.vn/thit-ban-va-trach-nhiem-185260513225855068.htm",
+      "summary": "Thịt bẩn dễ dàng ra thị trường, lên bàn ăn không chỉ đến từ thủ đoạn gian manh của thương lái mà chính là sự thờ ơ và buông lỏng quản lý của chính quyền địa phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-13T22:50:00+07:00",
+      "fetched": "2026-05-14T06:03:07.402505+07:00"
+    },
+    {
+      "id": "abaa8270dff6fe934cd8c132f49d3c58",
+      "title": "Sao thành phố mình đẹp quá!",
+      "link": "https://thanhnien.vn/sao-thanh-pho-minh-dep-qua-185260513155622003.htm",
+      "summary": "Những năm vào thập niên 1990, tôi từ ngoài quê nhà Quảng Ngãi vào TP.HCM học. Hồi đó sinh viên Trường Luật (Đại học Quốc gia TP.HCM) giai đoạn đại cương ở Làng đại học (P.Linh Trung, Thủ Đức cũ, TP.HCM), sau đó mới thi chuyển giai đoạn qua học chuyên ngành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-13T22:49:00+07:00",
+      "fetched": "2026-05-14T06:03:07.402653+07:00"
+    },
+    {
+      "id": "22236fe2ff2f182716378ee8f48dc833",
+      "title": "Tranh cãi về khả năng Mourinho trở lại Real",
+      "link": "https://vnexpress.net/tranh-cai-ve-kha-nang-mourinho-tro-lai-real-5073619.html",
+      "summary": "Cựu tiền vệ Wesley Sneijder cho rằng Jose Mourinho là HLV phù hợp nhất để dẫn dắt Real nhờ khả năng quản trị phòng thay đồ, trong khi huyền thoại Iker Casillas phản đối.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-13T22:45:48+07:00",
+      "fetched": "2026-05-14T06:03:17.381214+07:00"
+    },
+    {
+      "id": "6d63957b91cc9b84bd15046463f27187",
+      "title": "Thi tốt nghiệp THPT 2026: Thí sinh TP.HCM chọn tập trung nhóm môn KHTN và ngoại ngữ",
+      "link": "https://thanhnien.vn/thi-tot-nghiep-thpt-2026-thi-sinh-tphcm-chon-tap-trung-nhom-mon-khtn-va-ngoai-ngu-185260513170601718.htm",
+      "summary": "Theo số liệu thống kê của Sở GD-ĐT TP.HCM, kỳ thi tốt nghiệp THPT năm 2026 đã có 142.899 thí sinh đăng ký, trong đó có 7.978 thí sinh tự do. TP.HCM là địa phương có quy mô tổ chức kỳ thi lớn nhất trên cả nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-13T22:45:00+07:00",
+      "fetched": "2026-05-14T06:03:07.402802+07:00"
+    },
+    {
+      "id": "a6c347d2d62c7a10e223b4e419151cfe",
+      "title": "Clip giải cứu khỉ mẹ bị mắc bẫy, khỉ con đứng bên lo lắng: Ai thấy cũng thương",
+      "link": "https://thanhnien.vn/clip-giai-cuu-khi-me-bi-mac-bay-khi-con-dung-ben-lo-lang-ai-thay-cung-thuong-185260511120643717.htm",
+      "summary": "Đoạn clip ghi lại cảnh khỉ con đứng gần quan sát, chờ đợi trong lúc lực lượng kiểm lâm tháo bẫy cứu khỉ mẹ giữa rừng khiến nhiều người xúc động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-13T22:45:00+07:00",
+      "fetched": "2026-05-14T06:03:07.402971+07:00"
+    },
+    {
+      "id": "a4040817ffff95a935d9d2ad546cbd56",
+      "title": "Kiện toàn 2 ban chỉ đạo của Trung ương",
+      "link": "https://thanhnien.vn/kien-toan-2-ban-chi-dao-cua-trung-uong-185260513222310027.htm",
+      "summary": "Sáng 13.5, tại Hà Nội, Tổng Bí thư, Chủ tịch nước Tô Lâm chủ trì buổi làm việc với một số bộ, ban, ngành, cơ quan về tổ chức, hoạt động của Ban Chỉ đạo T.Ư về hoàn thiện thể chế, pháp luật và Ban Chỉ đạo cải cách tư pháp T.Ư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-13T22:41:00+07:00",
+      "fetched": "2026-05-14T06:03:07.403130+07:00"
+    },
+    {
+      "id": "422be19f83c9c56cef2ec7b9a989162e",
+      "title": "Man Utd chọn Carrick làm HLV dài hạn",
+      "link": "https://vnexpress.net/man-utd-chon-carrick-lam-hlv-dai-han-5073611.html",
+      "summary": "Ban lãnh đạo Man Utd chuẩn bị đàm phán chính thức với Michael Carrick về vị trí HLV dài hạn, với phong độ thăng hoa kể từ khi ông tiếp quản đội bóng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-13T22:33:30+07:00",
+      "fetched": "2026-05-14T06:03:17.380477+07:00"
+    },
+    {
+      "id": "b6c39d9e52a28dbc1bd341d25c97e748",
+      "title": "Hà Nội có thể cho thuê vỉa hè 45.000 đồng một m2 mỗi tháng để kinh doanh",
+      "link": "https://vnexpress.net/ha-noi-co-the-cho-thue-via-he-45-000-dong-mot-m2-moi-thang-de-kinh-doanh-5073615.html",
+      "summary": "Hà Nội có thể thí điểm cho thuê một phần lòng đường, vỉa hè cao nhất 45.000 đồng một m2 mỗi tháng để phát triển kinh tế đô thị, kinh tế đêm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-13T22:00:00+07:00",
+      "fetched": "2026-05-14T06:03:03.957236+07:00"
+    },
+    {
+      "id": "622a66470d9aff0cfa5622eefe6c8486",
+      "title": "Vì sao chưa quy định bảo hành công trình giao thông 10 năm?",
+      "link": "https://vnexpress.net/vi-sao-chua-quy-dinh-bao-hanh-cong-trinh-giao-thong-10-nam-5073595.html",
+      "summary": "Nhiều doanh nghiệp và ban quản lý dự án cho rằng nếu nâng thời gian bảo hành công trình giao thông bắt buộc từ 2 năm lên 10 năm, chi phí đầu tư, bảo lãnh và giá dự thầu có thể tăng đáng kể.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-13T22:00:00+07:00",
+      "fetched": "2026-05-14T06:03:03.957419+07:00"
+    },
+    {
+      "id": "3db903eef00751b998240673822d0c7d",
+      "title": "'Phơi lúa trên đường: Đáng thương hơn đáng trách'",
+      "link": "https://vnexpress.net/phoi-lua-tren-duong-dang-thuong-hon-dang-trach-5073469.html",
+      "summary": "Cực chẳng đã bà con mới phải mang thóc ra đường phơi, và những tai nạn xảy ra, xuất phát từ một mặt bằng nhận thức còn hạn chế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-13T22:00:00+07:00",
+      "fetched": "2026-05-14T06:03:03.957587+07:00"
+    },
+    {
+      "id": "76161eb28f310c7defb68c070fd2bb9c",
+      "title": "Vị thế thay đổi của Trung Quốc trong quan hệ với Mỹ sau 10 năm",
+      "link": "https://vnexpress.net/vi-the-thay-doi-cua-trung-quoc-trong-quan-he-voi-my-sau-10-nam-5073252.html",
+      "summary": "Gần một thập kỷ sau chuyến thăm đầu tiên của ông Trump, Trung Quốc giờ không còn tìm cách \"ngang hàng\" với Mỹ, mà tự tin khẳng định vị thế đối trọng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-13T22:00:00+07:00",
+      "fetched": "2026-05-14T06:03:03.957752+07:00"
+    },
+    {
+      "id": "20f5f924847d42bf01a91ef593b27e01",
+      "title": "Trải nghiệm Oppo Find X9s với camera Hasselblad, pin lâu",
+      "link": "https://vnexpress.net/trai-nghiem-oppo-find-x9s-voi-camera-hasselblad-pin-lau-5073219.html",
+      "summary": "Oppo Find X9s là điện thoại cao cấp giá tốt nhất có hệ thống camera Hasselblad, pin dung lượng cao 7.025 mAh, tùy chọn màu sắc trẻ trung và màn hình OLED 144 Hz.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-13T22:00:00+07:00",
+      "fetched": "2026-05-14T06:03:03.957918+07:00"
+    },
+    {
+      "id": "a5c8a1b3e4841764d066b3c597c0bb2b",
+      "title": "Chuyên gia mách mẹo 'ngủ ngược' giúp nhanh vào giấc",
+      "link": "https://vnexpress.net/chuyen-gia-mach-meo-ngu-nguoc-giup-nhanh-vao-giac-5072924.html",
+      "summary": "Thay vì ép bản thân phải ngủ, hãy tự nhủ phải giữ cho bản thân tỉnh táo - bạn sẽ dễ đi vào giấc ngủ hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-13T22:00:00+07:00",
+      "fetched": "2026-05-14T06:03:03.958108+07:00"
+    },
+    {
+      "id": "4eb8e83988f652524b5976957f444092",
+      "title": "Đường trường: bài thi lái xe phức tạp nhất tại Trung Quốc",
+      "link": "https://vnexpress.net/duong-truong-bai-thi-lai-xe-phuc-tap-nhat-tai-trung-quoc-5071554.html",
+      "summary": "Sau khi giáo viên xác thực thông tin, thí sinh phải xuống xe đi một vòng ngược chiều kim đồng hồ để kiểm tra ngoại thất và lốp xe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-13T22:00:00+07:00",
+      "fetched": "2026-05-14T06:03:03.958267+07:00"
+    },
+    {
+      "id": "76161eb28f310c7defb68c070fd2bb9c",
+      "title": "Vị thế thay đổi của Trung Quốc trong quan hệ với Mỹ sau 10 năm",
+      "link": "https://vnexpress.net/vi-the-thay-doi-cua-trung-quoc-trong-quan-he-voi-my-sau-10-nam-5073252.html",
+      "summary": "Gần một thập kỷ sau chuyến thăm đầu tiên của ông Trump, Trung Quốc giờ không còn tìm cách \"ngang hàng\" với Mỹ, mà tự tin khẳng định vị thế đối trọng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-13T22:00:00+07:00",
+      "fetched": "2026-05-14T06:03:10.404435+07:00"
+    },
+    {
+      "id": "b6c39d9e52a28dbc1bd341d25c97e748",
+      "title": "Hà Nội có thể cho thuê vỉa hè 45.000 đồng một m2 mỗi tháng để kinh doanh",
+      "link": "https://vnexpress.net/ha-noi-co-the-cho-thue-via-he-45-000-dong-mot-m2-moi-thang-de-kinh-doanh-5073615.html",
+      "summary": "Hà Nội có thể thí điểm cho thuê một phần lòng đường, vỉa hè cao nhất 45.000 đồng một m2 mỗi tháng để phát triển kinh tế đô thị, kinh tế đêm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-13T22:00:00+07:00",
+      "fetched": "2026-05-14T06:03:12.340603+07:00"
+    },
+    {
+      "id": "20f5f924847d42bf01a91ef593b27e01",
+      "title": "Trải nghiệm Oppo Find X9s với camera Hasselblad, pin lâu",
+      "link": "https://vnexpress.net/trai-nghiem-oppo-find-x9s-voi-camera-hasselblad-pin-lau-5073219.html",
+      "summary": "Oppo Find X9s là điện thoại cao cấp giá tốt nhất có hệ thống camera Hasselblad, pin dung lượng cao 7.025 mAh, tùy chọn màu sắc trẻ trung và màn hình OLED 144 Hz.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-13T22:00:00+07:00",
+      "fetched": "2026-05-14T06:03:15.493132+07:00"
+    },
+    {
+      "id": "468f482815fdfe7a7c63a224e3b698ac",
+      "title": "HLV Roland: ‘U17 Việt Nam xứng đáng dự World Cup’",
+      "link": "https://vnexpress.net/hlv-roland-u17-viet-nam-xung-dang-du-world-cup-5073624.html",
+      "summary": "Theo HLV Cristiano Roland, sự trưởng thành về tâm lý là yếu tố then chốt giúp U17 Việt Nam giành quyền vào tứ kết châu Á và dự World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-13T21:53:09+07:00",
+      "fetched": "2026-05-14T06:03:03.958432+07:00"
+    },
+    {
+      "id": "fcfee45c397c10360342184483d80ca6",
+      "title": "HLV Roland: 'U17 Việt Nam mạnh mẽ hơn sau những sai lầm'",
+      "link": "https://vnexpress.net/hlv-roland-u17-viet-nam-manh-me-hon-sau-nhung-sai-lam-5073624.html",
+      "summary": "Theo HLV Cristiano Roland, sự trưởng thành về tâm lý là yếu tố then chốt giúp U17 Việt Nam giành quyền vào tứ kết châu Á và dự U17 World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-13T21:53:09+07:00",
+      "fetched": "2026-05-14T06:03:17.380640+07:00"
+    },
+    {
+      "id": "3dded7cd7c49533b1ee2d234d1e0829a",
+      "title": "VinFast sắp chiếm một nửa thị trường ôtô Việt",
+      "link": "https://vnexpress.net/vinfast-sap-chiem-mot-nua-thi-truong-oto-viet-5073364.html",
+      "summary": "Tháng 4, thị phần xe VinFast chiếm gần 41% toàn ngành, tăng liên tục từ các tháng trước đó, khởi đầu là 27,4% ở tháng 1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-13T21:00:00+07:00",
+      "fetched": "2026-05-14T06:03:03.958596+07:00"
+    },
+    {
+      "id": "5df188df7835c06290594fb45da411f3",
+      "title": "Hóa chất 'ẩn mình' trên bát đĩa tàn phá đường ruột thế nào",
+      "link": "https://vnexpress.net/hoa-chat-an-minh-tren-bat-dia-tan-pha-duong-ruot-the-nao-5073085.html",
+      "summary": "Hóa chất nước rửa chén tồn dư dù nhiều hay ít đều trực tiếp phá hủy hàng rào biểu mô ruột, gây viêm và làm chết tế bào hàng loạt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-13T20:00:00+07:00",
+      "fetched": "2026-05-14T06:03:03.958756+07:00"
     },
     {
       "id": "562a66afedbe1d80020d243bdefe5abc",
