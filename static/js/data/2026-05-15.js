@@ -1,7 +1,157 @@
 window.newsData_2026_05_15 = {
   "date": "2026-05-15",
-  "lastUpdated": "2026-05-15T13:57:10.981125+07:00",
+  "lastUpdated": "2026-05-15T17:30:03.502851+07:00",
   "articles": [
+    {
+      "id": "7e87e027b9da81c55775fc6a3339b9e8",
+      "title": "'Phân lô bán mộ' từ đất trồng cây lâu năm",
+      "link": "https://tuoitre.vn/phan-lo-ban-mo-tu-dat-trong-cay-lau-nam-20260515154059421.htm",
+      "summary": "Hơn 21.000m² đất trồng cây lâu năm bị biến thành khu an táng tự phát. Chủ thửa đất ở xã Tịnh Khê, Quảng Ngãi đã \"phân lô \" trong thời gian dài dù chính quyền đã cảnh báo, lập biên bản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T17:19:55.511472+07:00",
+      "fetched": "2026-05-15T17:19:55.511584+07:00"
+    },
+    {
+      "id": "11d7b8ab6f9ac0f4c5c34772076c2b74",
+      "title": "Lần đầu tiên tranh Nam Sơn vượt ngưỡng triệu đô",
+      "link": "https://tuoitre.vn/lan-dau-tien-tranh-nam-son-vuot-nguong-trieu-do-20260515134511045.htm",
+      "summary": "Bức tranh lụa 'Lễ phục linh thiêng' của họa sĩ Nam Sơn vừa được bán với giá hơn một triệu euro (khoảng 33 tỉ đồng), trở thành tác phẩm đầu tiên vượt ngưỡng triệu đô và lập kỷ lục đắt nhất của ông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T17:19:55.511344+07:00",
+      "fetched": "2026-05-15T17:19:55.511460+07:00"
+    },
+    {
+      "id": "71323f0aa027e0b809999f346e768d94",
+      "title": "Xuất hiện xe lạ dễ là VinFast VF 5 mới: Nội ngoại thất đều tinh chỉnh, màn hình lớn hơn hẳn",
+      "link": "https://tuoitre.vn/xuat-hien-xe-la-de-la-vinfast-vf-5-moi-noi-ngoai-that-deu-tinh-chinh-man-hinh-lon-hon-han-2026051515562132.htm",
+      "summary": "Đoạn video rò rỉ về một mẫu xe điện tay lái nghịch với thiết kế vô lăng thể thao cùng màn hình trung tâm cỡ lớn đang làm dấy lên nhiều đồn đoán về phiên bản nâng cấp của VinFast VF 5.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T17:19:55.511214+07:00",
+      "fetched": "2026-05-15T17:19:55.511332+07:00"
+    },
+    {
+      "id": "15365326d9fa830df28ea9a0b63e40f9",
+      "title": "U17 Việt Nam sẽ còn mạnh hơn nếu được đầu tư",
+      "link": "https://tuoitre.vn/u17-viet-nam-se-con-manh-hon-neu-duoc-dau-tu-20260515111716392.htm",
+      "summary": "Không chỉ tự hào với vé dự U17 World Cup 2026 của đội tuyển U17 Việt Nam, người hâm mộ còn cho rằng đây là lứa cầu thủ đạt tầm châu lục nếu như tiếp tục được đầu tư mạnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T17:19:55.511081+07:00",
+      "fetched": "2026-05-15T17:19:55.511202+07:00"
+    },
+    {
+      "id": "363018618ae77fbdb297924f8f769fad",
+      "title": "Nghịch lý: 'khát' nhân tài nhưng ngân sách tuyển dụng 'đứng yên'",
+      "link": "https://tuoitre.vn/nghich-ly-khat-nhan-tai-nhung-ngan-sach-tuyen-dung-dung-yen-20260515152423185.htm",
+      "summary": "Nghiên cứu cho thấy 70% doanh nghiệp ở Việt Nam có kế hoạch tuyển dụng, song thị trường lao động đang đối mặt áp lực tăng lương và thiếu hụt nhân sự có kỹ năng số, cấp trung.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T17:19:55.510959+07:00",
+      "fetched": "2026-05-15T17:19:55.511070+07:00"
+    },
+    {
+      "id": "ac830303fb2d3acd70c0a93554479e58",
+      "title": "Công an xác minh vụ cô gái tố bị nhóm nam nữ đi Lexus hành hung giữa đường phố",
+      "link": "https://tuoitre.vn/cong-an-xac-minh-vu-co-gai-to-bi-nhom-nam-nu-di-lexus-hanh-hung-giua-duong-pho-20260515161137127.htm",
+      "summary": "Công an đang vào cuộc xác minh vụ việc một cô gái tố bị người đàn ông cùng nhóm người đi Lexus chửi bới, hành hung ngay trên đường phố Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T17:19:55.510829+07:00",
+      "fetched": "2026-05-15T17:19:55.510948+07:00"
+    },
+    {
+      "id": "60dcce9ed12dcdb928eecb9c448584cd",
+      "title": "Phường Ngũ Hành Sơn: Bộ máy tinh gọn, hoạt động hiệu quả",
+      "link": "https://tuoitre.vn/phuong-ngu-hanh-son-bo-may-tinh-gon-hoat-dong-hieu-qua-20260515155535128.htm",
+      "summary": "Kết quả gần 1 năm triển khai mô hình chính quyền địa phương 2 cấp, các lĩnh vực kinh tế của phường Ngũ Hành Sơn (TP Đà Nẵng) tiếp tục tăng trưởng ổn định, an sinh xã hội được đảm bảo, đời sống nhân dân được cải thiện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T17:19:55.510685+07:00",
+      "fetched": "2026-05-15T17:19:55.510817+07:00"
+    },
+    {
+      "id": "a775344febb64782a84e4261b1c01df7",
+      "title": "UAE tăng tốc xây đường ống dầu để né eo Hormuz",
+      "link": "https://tuoitre.vn/uae-tang-toc-xay-duong-ong-dau-de-ne-eo-hormuz-20260515161139404.htm",
+      "summary": "Các tiểu vương quốc Ả Rập thống nhất (UAE) nói sẽ tăng tốc xây tuyến ống dẫn dầu mới để né eo Hormuz bị gián đoạn nghiêm trọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T17:19:55.510563+07:00",
+      "fetched": "2026-05-15T17:19:55.510674+07:00"
+    },
+    {
+      "id": "6cf5c01f2e2bcfc0e0556d70fc94a02b",
+      "title": "Cảnh báo ‘nấm thần’ - ma túy gây ảo giác nguy hiểm xuất hiện tại Đà Nẵng",
+      "link": "https://tuoitre.vn/canh-bao-nam-than-ma-tuy-gay-ao-giac-nguy-hiem-xuat-hien-tai-da-nang-20260515153536168.htm",
+      "summary": "Phòng Cảnh sát điều tra tội phạm về ma túy (Công an Đà Nẵng) vừa triệt phá một đường dây mua bán trái phép chất ma túy hoạt động trên không gian mạng. Đáng chú ý, cơ quan chức năng phát hiện loại ma túy được gọi “nấm thần” - chất gây ảo giác mạnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T17:19:55.510437+07:00",
+      "fetched": "2026-05-15T17:19:55.510551+07:00"
+    },
+    {
+      "id": "301f6614670dcff27db5062e817ada73",
+      "title": "Cảnh báo El Nino cường độ mạnh, mưa bão ở Việt Nam những tháng tới thế nào?",
+      "link": "https://tuoitre.vn/canh-bao-el-nino-cuong-do-manh-mua-bao-o-viet-nam-nhung-thang-toi-the-nao-20260515160024135.htm",
+      "summary": "Dự báo trong 3 tháng tới, El Nino xuất hiện với xác suất 85-95% và có khả năng duy trì ít nhất đến cuối năm, nên năm nay nắng nóng nhiều hơn và bão, áp thấp nhiệt đới có thể hoạt động ít hơn trong giai đoạn cuối năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T17:19:55.510311+07:00",
+      "fetched": "2026-05-15T17:19:55.510425+07:00"
+    },
+    {
+      "id": "8f52acb625c214745cead41ff1aea2b2",
+      "title": "Người tiêu dùng ngày càng khắt khe, ngành sữa phải nâng chuẩn",
+      "link": "https://tuoitre.vn/nguoi-tieu-dung-ngay-cang-khat-khe-nganh-sua-phai-nang-chuan-20260515160352609.htm",
+      "summary": "Gần 50 năm đồng hành cùng người Việt và một cam kết không đổi về chất lượng, Vinamilk khẳng định sự “cao cấp” với bảng thành tích quốc tế ấn tượng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T17:19:55.510185+07:00",
+      "fetched": "2026-05-15T17:19:55.510299+07:00"
+    },
+    {
+      "id": "ac90a5ecbdcf74a2ba2493ba692c0b45",
+      "title": "Xăng E10 được bán diện rộng tại PVOIL Sài Gòn, những phản hồi đầu tiên của khách hàng",
+      "link": "https://tuoitre.vn/xang-e10-duoc-ban-dien-rong-tai-pvoil-sai-gon-nhung-phan-hoi-dau-tien-cua-khach-hang-20260515161846231.htm",
+      "summary": "Từ ngày 15-5, PVOIL ngừng bán xăng RON95-III tại hệ thống cửa hàng trực thuộc, chuyển sang phân phối đại trà xăng E10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T17:19:55.510055+07:00",
+      "fetched": "2026-05-15T17:19:55.510173+07:00"
+    },
+    {
+      "id": "c4b60942a58ce81a9eb5330e91831722",
+      "title": "Bắt hai người cưỡng đoạt trên 1.619 tấn cá tra và hủy hoại tài sản ở An Giang",
+      "link": "https://tuoitre.vn/bat-hai-nguoi-cuong-doat-tren-1-619-tan-ca-tra-va-huy-hoai-tai-san-o-an-giang-20260515152446663.htm",
+      "summary": "Chiều 15-5, Công an tỉnh An Giang đã bắt tạm giam Nguyễn Văn Phu (62 tuổi, ở phường Châu Đốc) và Dương Văn Chóp (36 tuổi, ở xã Hòa Lạc, tỉnh An Giang) về hành vi cưỡng đoạt tài sản và hủy hoại tài sản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T17:19:55.509919+07:00",
+      "fetched": "2026-05-15T17:19:55.510043+07:00"
+    },
+    {
+      "id": "55cb8002673eba70e79ca81ed60750b9",
+      "title": "Những hình ảnh đáng nhớ trong chuyến thăm Trung Quốc của ông Trump",
+      "link": "https://tuoitre.vn/nhung-hinh-anh-dang-nho-trong-chuyen-tham-trung-quoc-cua-ong-trump-20260515132310331.htm",
+      "summary": "Ông Trump đã tham gia loạt hoạt động từ nghi lễ đón tiếp cấp cao đến các cuộc gặp gỡ riêng với Chủ tịch Tập Cận Bình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T17:19:55.509751+07:00",
+      "fetched": "2026-05-15T17:19:55.509905+07:00"
+    },
+    {
+      "id": "59f1ab9115eb244771e5c5a6c88b0d0b",
+      "title": "Diễn viên lồng tiếng Ran Mori trong 'Conan' qua đời ở tuổi 61",
+      "link": "https://tuoitre.vn/dien-vien-long-tieng-ran-mori-trong-conan-qua-doi-o-tuoi-61-20260515160914277.htm",
+      "summary": "Wakana Yamazaki - giọng nói gắn liền với nhân vật Ran Mori suốt gần 30 năm của loạt anime đình đám Thám tử lừng danh Conan - đã qua đời sau thời gian điều trị bệnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T17:19:55.509536+07:00",
+      "fetched": "2026-05-15T17:19:55.509736+07:00"
+    },
     {
       "id": "60b1dda87c2ef220e7169bf2ac7ae66c",
       "title": "7 công thức mặc đẹp mùa hè được dàn sao Hollywood lăng xê",
@@ -153,6 +303,106 @@ window.newsData_2026_05_15 = {
       "fetched": "2026-05-15T13:52:48.512062+07:00"
     },
     {
+      "id": "69be9e530df5c37d2d8af56e769a0bf8",
+      "title": "HLV Park Hang-seo và bầu Đức trao cúp cho CLB Hà Nội, khép lại ngày hội đáng nhớ",
+      "link": "https://thanhnien.vn/hlv-park-hang-seo-va-bau-duc-trao-cup-cho-clb-ha-noi-khep-lai-ngay-hoi-dang-nho-185260515170427415.htm",
+      "summary": "HLV Park Hang-seo và bầu Đức đã trao cúp vô địch cho CLB Hà Nội, khép lại trọn vẹn Festival quốc tế U.14 Gia Lai 2026 - ngày hội bóng đá trẻ quốc tế quy mô nhất từng tổ chức tại Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T10:17:00+07:00",
+      "fetched": "2026-05-15T17:19:54.026595+07:00"
+    },
+    {
+      "id": "b169c47b70e63a41cefb5f6dd0fc0e7f",
+      "title": "Billiards: Trần Quyết Chiến, Cho Myung-woo và thiên tài Caudron là hạt giống số 1",
+      "link": "https://thanhnien.vn/billiards-tran-quyet-chien-cho-myung-woo-va-thien-tai-caudron-la-hat-giong-so-1-185260515160543641.htm",
+      "summary": "Chặng World Cup billiards carom 3 băng thứ hai trong năm 2026 tổ chức tại TP.HCM (Việt Nam). Tại đấu trường này, Trần Quyết Chiến cùng các siêu sao thế giới như Cho Myung-woo và Frederic Caudron cùng nằm trong nhóm hạt giống số 1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T10:15:00+07:00",
+      "fetched": "2026-05-15T17:19:54.026760+07:00"
+    },
+    {
+      "id": "d4d52d7b5dad252874b944bc4c87c5d1",
+      "title": "Thanh niên không chỉ lướt mạng đơn thuần, mà còn lan tỏa giá trị tốt đẹp",
+      "link": "https://thanhnien.vn/thanh-nien-khong-chi-luot-mang-don-thuan-ma-con-lan-toa-gia-tri-tot-dep-185260515162440533.htm",
+      "summary": "Với mỗi tài khoản trên mạng xã hội, mỗi thanh niên sẽ là một 'pháo đài mềm' để bảo vệ nền tảng tư tưởng của Đảng trên không gian mạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T10:06:00+07:00",
+      "fetched": "2026-05-15T17:19:54.026941+07:00"
+    },
+    {
+      "id": "16fd6d79ac4b4cbcf50f73926d157bb3",
+      "title": "Công ty điện của ông Phạm Nhật Vượng tăng vốn lên gần 80.000 tỷ đồng",
+      "link": "https://vnexpress.net/cong-ty-dien-cua-ong-pham-nhat-vuong-tang-von-len-gan-80-000-ty-dong-5074427.html",
+      "summary": "VinEnergo, công ty năng lượng do ông Phạm Nhật Vượng sáng lập, hoàn tất tăng vốn từ hơn 28.300 tỷ đồng lên 79.923 tỷ đồng, vượt tập đoàn Vingroup.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-15T10:04:31+07:00",
+      "fetched": "2026-05-15T17:25:15.518026+07:00"
+    },
+    {
+      "id": "466370b4b5fc78e6b171546df4eb7120",
+      "title": "Người tiêu dùng dần cởi mở với xăng sinh học E10",
+      "link": "https://vnexpress.net/nguoi-tieu-dung-dan-coi-mo-voi-xang-sinh-hoc-e10-5074369.html",
+      "summary": "Nhiều người tiêu dùng bắt đầu quan tâm hơn tới xăng sinh học E10 khi loại nhiên liệu này bắt đầu được bán rộng rãi tại hàng nghìn cây xăng trên cả nước.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-15T10:04:00+07:00",
+      "fetched": "2026-05-15T17:25:15.518200+07:00"
+    },
+    {
+      "id": "512415546f4c51c0dda18eb3e2792198",
+      "title": "Toàn cảnh 17h: Đề nghị tử hình Bùi Đình Khánh | Lời xin lỗi muộn màng của Miu Lê",
+      "link": "https://thanhnien.vn/toan-canh-17h-de-nghi-tu-hinh-bui-dinh-khanh-loi-xin-loi-muon-mang-cua-miu-le-185260515142436144.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T10:00:00+07:00",
+      "fetched": "2026-05-15T17:19:54.027093+07:00"
+    },
+    {
+      "id": "dccc321af06491e04e10c7eaa48f6d66",
+      "title": "Bùi Đình Khánh: 'Bản án tử hình là thích đáng với tôi'",
+      "link": "https://thanhnien.vn/bui-dinh-khanh-ban-an-tu-hinh-la-thich-dang-voi-toi-185260515164104983.htm",
+      "summary": "Bùi Đình Khánh thừa nhận bản thân là người cầm đầu đường dây ma túy, đồng thời cho rằng mức án tử hình mà Viện KSND đề nghị là đúng người, đúng tội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T09:59:00+07:00",
+      "fetched": "2026-05-15T17:19:54.027240+07:00"
+    },
+    {
+      "id": "b1b72de869cf9fe64728382fff16370a",
+      "title": "Nghe nhạc khi đi bộ, đạp xe có thể giúp tăng sức bền gần 20%",
+      "link": "https://thanhnien.vn/nghe-nhac-khi-di-bo-dap-xe-co-the-giup-tang-suc-ben-gan-20-185260515165842521.htm",
+      "summary": "Nghiên cứu mới đăng trên tạp chí khoa học Psychology of Sport & Exercise phát hiện nghe nhạc khi đi bộ, đạp xe có thể giúp tăng sức bền, kéo dài thời gian vận động và duy trì tập luyện hiệu quả hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T09:58:00+07:00",
+      "fetched": "2026-05-15T17:19:54.027390+07:00"
+    },
+    {
+      "id": "711c42e4b296d64a62224f46ad82f50e",
+      "title": "Trung Quốc có thể mua thêm 'hàng chục tỷ USD' nông sản Mỹ",
+      "link": "https://vnexpress.net/trung-quoc-co-the-mua-them-hang-chuc-ty-usd-nong-san-my-5074335.html",
+      "summary": "Chuyến thăm Trung Quốc của ông Trump được kỳ vọng mở ra cơ hội xuất khẩu thêm hàng chục tỷ USD cho nông sản Mỹ, ngoài đậu nành.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-15T09:57:12+07:00",
+      "fetched": "2026-05-15T17:25:15.518361+07:00"
+    },
+    {
+      "id": "d412734043961483851701056f4c8bdf",
+      "title": "Mỹ dự báo Philippines nhập khẩu gạo kỷ lục tới 5,5 triệu tấn",
+      "link": "https://thanhnien.vn/my-du-bao-philippines-nhap-khau-gao-ky-luc-toi-55-trieu-tan-18526051516382845.htm",
+      "summary": "Khách mua gạo lớn nhất của Việt Nam là Philippines sẽ nhập khẩu lượng gạo kỷ lục đến 5,5 triệu tấn trong năm 2026 và tăng lên 5,6 triệu tấn trong năm 2027.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T09:53:00+07:00",
+      "fetched": "2026-05-15T17:19:54.027542+07:00"
+    },
+    {
       "id": "614f22688ba91a0c06f36534061aaaa0",
       "title": "Lâu rồi mới nghe Bảo Yến hát ‘Tình cây và đất’, vẫn hay như mấy chục năm trước",
       "link": "https://tuoitre.vn/lau-roi-moi-nghe-bao-yen-hat-tinh-cay-va-dat-van-hay-nhu-may-chuc-nam-truoc-20260515031705513.htm",
@@ -301,6 +551,286 @@ window.newsData_2026_05_15 = {
       "category": "Tổng hợp",
       "published": "2026-05-15T09:51:18.731379+07:00",
       "fetched": "2026-05-15T09:51:18.731630+07:00"
+    },
+    {
+      "id": "fe77e312e19cd6cc47555f6a253b336f",
+      "title": "Anh Nguyễn Minh Triết: 'Phải chủ động dẫn dắt, kiến tạo niềm tin cho thanh niên'",
+      "link": "https://thanhnien.vn/anh-nguyen-minh-triet-phai-chu-dong-dan-dat-kien-tao-niem-tin-cho-thanh-nien-185260515152839986.htm",
+      "summary": "Bí thư thường trực T.Ư Đoàn Nguyễn Minh Triết cho rằng, công tác giáo dục chính trị, tư tưởng của Đoàn không thể chỉ dừng ở việc tuyên truyền hay phổ biến thông tin, mà phải chủ động dẫn dắt, kiến tạo niềm tin cho thanh niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T09:46:00+07:00",
+      "fetched": "2026-05-15T17:19:54.027694+07:00"
+    },
+    {
+      "id": "a56dcecd3d634ac50b0aa6d431c9e8cd",
+      "title": "Vành đai 4 TP.HCM chậm nhiều hạng mục, nguy cơ cao lùi đích",
+      "link": "https://thanhnien.vn/vanh-dai-4-tphcm-cham-nhieu-hang-muc-nguy-co-cao-lui-dich-185260515164350505.htm",
+      "summary": "Trong báo cáo vừa gửi Thường trực Ủy ban Kinh tế và Tài chính về tình hình triển khai dự án đầu tư xây dựng đường Vành đai 4 TP.HCM theo Nghị quyết số 220 của Quốc hội, Bộ Xây dựng đánh giá nhiều hạng mục quan trọng của dự án đang chậm so với yêu cầu, đặc biệt là công tác giải phóng mặt bằng (GPMB) ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T09:45:00+07:00",
+      "fetched": "2026-05-15T17:19:54.027866+07:00"
+    },
+    {
+      "id": "9eb77210aa06562967c9d21ac9a01477",
+      "title": "Tin vui cho người mua nhà tại dự án Vinhomes Grand Park",
+      "link": "https://thanhnien.vn/tin-vui-cho-nguoi-mua-nha-tai-du-an-vinhomes-grand-park-185260515155243448.htm",
+      "summary": "Ngày 15.5, Tổ công tác 1645 đã họp để tháo gỡ cấp sổ hồng cho người mua nhà tại khu đô thị Vinhomes Grand Park do Công ty cổ phần Phát triển Thành phố Xanh làm chủ đầu tư trên địa bàn TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T09:44:00+07:00",
+      "fetched": "2026-05-15T17:19:54.028014+07:00"
+    },
+    {
+      "id": "692c9c4f15aa32cbff10b894a14a9125",
+      "title": "Bắc Ninh dẫn đầu PCI 2025, doanh nghiệp tư nhân dần lấy lại đà tăng trưởng",
+      "link": "https://thanhnien.vn/bac-ninh-dan-dau-pci-2025-doanh-nghiep-tu-nhan-dan-lay-lai-da-tang-truong-185260515170024835.htm",
+      "summary": "Báo cáo PCI 2025 của VCCI lần đầu đánh giá năng lực cạnh tranh theo mô hình 34 tỉnh, thành mới, cho thấy khu vực kinh tế tư nhân đang phục hồi tích cực, dù doanh nghiệp vẫn đối mặt nhiều thách thức về vốn, thị trường và năng lực mở rộng quy mô.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T09:42:00+07:00",
+      "fetched": "2026-05-15T17:19:54.028159+07:00"
+    },
+    {
+      "id": "5b56b77df726dc310fd02346c4fddd5d",
+      "title": "Thanh niên cần cảm hứng, niềm tin và lý do để hành động",
+      "link": "https://thanhnien.vn/thanh-nien-can-cam-hung-niem-tin-va-ly-do-de-hanh-dong-185260515162210258.htm",
+      "summary": "TS Nguyễn Nhất Linh, Bí thư Đoàn TNCS Hồ Chí Minh MTTQ, các đoàn thể Trung ương, nhấn mạnh, Quy định 19 không chỉ để 'chống' mà quan trọng hơn là để 'xây'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T09:41:00+07:00",
+      "fetched": "2026-05-15T17:19:54.028309+07:00"
+    },
+    {
+      "id": "253df1739be4571e75061ede3c916b52",
+      "title": "'Ghế nóng' ở ACV đã có chủ sau loạt biến động nhân sự cấp cao",
+      "link": "https://thanhnien.vn/ghe-nong-o-acv-da-co-chu-sau-loat-bien-dong-nhan-su-cap-cao-185260515163508215.htm",
+      "summary": "Tổng công ty cảng hàng không Việt Nam (ACV) vừa thông báo thay đổi nhân sự, bổ nhiệm quyền Tổng giám đốc sau thời gian dài để 'ghế' trống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T09:40:00+07:00",
+      "fetched": "2026-05-15T17:19:54.028454+07:00"
+    },
+    {
+      "id": "506d3cf1e01bd72ef90a1c7a681f1068",
+      "title": "Chứng khoán giảm điểm phiên cuối tuần",
+      "link": "https://vnexpress.net/chung-khoan-giam-diem-phien-cuoi-tuan-5074389.html",
+      "summary": "Áp lực bán chốt lời lan rộng sau khi VN-Index lập kỷ lục, nhất là ở các cổ phiếu trụ, khiến chứng khoán giảm gần 4 điểm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-15T09:38:21+07:00",
+      "fetched": "2026-05-15T17:25:15.518517+07:00"
+    },
+    {
+      "id": "1489002f51acbac1df57caf091d549f0",
+      "title": "Triệt phá đường dây ma túy trên mạng, phát hiện 'nấm thần' gây ảo giác mạnh",
+      "link": "https://thanhnien.vn/triet-pha-duong-day-ma-tuy-tren-mang-phat-hien-nam-than-gay-ao-giac-manh-185260515154056047.htm",
+      "summary": "Công an thành phố Đà Nẵng vừa triệt phá đường dây mua bán ma túy trên mạng xã hội, thu giữ loại ma túy có tên 'nấm thần' gây ảo giác mạnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T09:35:00+07:00",
+      "fetched": "2026-05-15T17:19:54.028602+07:00"
+    },
+    {
+      "id": "78ff4d3bee6a84196bfd88f0dfc3caf4",
+      "title": "Những việc cần làm ngay để cứu lấy di tích đặc biệt Phật viện Đồng Dương",
+      "link": "https://thanhnien.vn/nhung-viec-can-lam-ngay-de-cuu-lay-di-tich-dac-biet-phat-vien-dong-duong-185260515155205038.htm",
+      "summary": "Từng là trung tâm Phật giáo lớn bậc nhất Đông Nam Á, Phật viện Đồng Dương ở thành phố Đà Nẵng nay chỉ còn là phế tích xuống cấp nghiêm trọng, vì thế di sản vô giá của Champa cần được 'cấp cứu'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T09:33:00+07:00",
+      "fetched": "2026-05-15T17:19:54.028756+07:00"
+    },
+    {
+      "id": "e28d178024a3b39ac7fcc2860e3866e2",
+      "title": "'Giá nhà quá cao đang bào mòn động lực của người trẻ'",
+      "link": "https://vnexpress.net/gia-nha-qua-cao-dang-bao-mon-dong-luc-cua-nguoi-tre-5074310.html",
+      "summary": "Giá nhà leo thang không chỉ khiến giấc mơ an cư của lao động trẻ ngày càng xa vời, mà còn có nguy cơ làm suy giảm động lực phát triển cá nhân của họ, theo chuyên gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T09:13:02+07:00",
+      "fetched": "2026-05-15T17:19:50.748210+07:00"
+    },
+    {
+      "id": "869411c4f53d72c29fc0527a89b56e30",
+      "title": "Lấy ý kiến xét tặng danh hiệu Anh hùng Lao động cho ông Johnathan Hạnh Nguyễn",
+      "link": "https://vnexpress.net/lay-y-kien-xet-tang-danh-hieu-anh-hung-lao-dong-cho-ong-johnathan-hanh-nguyen-5074390.html",
+      "summary": "Bộ Nội vụ lấy ý kiến nhân dân trong 2 tuần về đề nghị xét tặng danh hiệu Anh hùng Lao động cho ông Johnathan Hạnh Nguyễn, Chủ tịch Hội đồng Thành viên Tập đoàn Liên Thái Bình Dương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T09:07:05+07:00",
+      "fetched": "2026-05-15T17:19:50.748386+07:00"
+    },
+    {
+      "id": "7c39d318e5681771354ef3f5b8e2fe60",
+      "title": "Danh mục 3.133 dự án thu hồi đất tại Hà Nội từ nay đến 2030",
+      "link": "https://vnexpress.net/danh-muc-3-133-du-an-thu-hoi-dat-tai-ha-noi-tu-nay-den-2030-5074354.html",
+      "summary": "Giai đoạn 2026-2030, TP Hà Nội dự kiến thu hồi 24.824 ha đất cho 3.133 dự án để phát triển kinh tế - xã hội, vì lợi ích công cộng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T09:06:26+07:00",
+      "fetched": "2026-05-15T17:19:50.748552+07:00"
+    },
+    {
+      "id": "159d2988fad63a595d5c9fd79832cfe0",
+      "title": "Tôi mua được đất ven Sài Gòn bắt đầu từ mỗi tháng tiết kiệm 270.000 đồng",
+      "link": "https://vnexpress.net/tiet-kiem-tien-toi-mua-duoc-dat-ven-sai-gon-du-thang-tiet-kiem-270-000-dong-5073951.html",
+      "summary": "Nhìn tôi tiết kiệm, hai người bạn thân chỉ cười: 'Lương kiểu này tiết kiệm biết bao giờ mới đủ mua nhà, thà cứ tận hưởng cuộc sống còn hơn'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T09:00:00+07:00",
+      "fetched": "2026-05-15T17:19:50.748722+07:00"
+    },
+    {
+      "id": "b67d85da08bdd1ea17995ca84bc090e1",
+      "title": "Thay khớp gối thứ hai sau 13 năm",
+      "link": "https://vnexpress.net/thay-khop-goi-thu-hai-sau-13-nam-5074334.html",
+      "summary": "Sau 13 năm thay khớp gối lần đầu, ông Hoàng, 77 tuổi, bị thoái hóa khớp giai đoạn cuối, được bác sĩ mổ chân còn lại bằng robot để khôi phục vận động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T09:00:00+07:00",
+      "fetched": "2026-05-15T17:19:50.748909+07:00"
+    },
+    {
+      "id": "e3824c81630d790e2a1ac9e3b5800bd0",
+      "title": "Loạt hoạt động hút khách của gian hàng VTC tại Vietnam Gameverse 2026",
+      "link": "https://vnexpress.net/loat-hoat-dong-hut-khach-cua-gian-hang-vtc-tai-vietnam-gameverse-2026-5074267.html",
+      "summary": "Gian hàng VTC tại Vietnam GameVerse 2026 thu hút đông đảo game thủ với không gian cyberpunk (khoa học viễn tưởng) đậm chất Việt cùng nhiều hoạt động tương tác, biểu diễn và giải thưởng nổi bật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T09:00:00+07:00",
+      "fetched": "2026-05-15T17:19:50.749066+07:00"
+    },
+    {
+      "id": "98f951c077138c31fe69054f9ed15da3",
+      "title": "Vedan Việt Nam trong top doanh nghiệp FDI tăng trưởng ấn tượng",
+      "link": "https://vnexpress.net/vedan-viet-nam-trong-top-doanh-nghiep-fdi-tang-truong-an-tuong-5074224.html",
+      "summary": "Công ty Vedan Việt Nam nằm trong \"Top 10 doanh nghiệp FDI tăng trưởng ấn tượng\" tại lễ trao giải Rồng Vàng 2026 diễn ra ngày 13/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T09:00:00+07:00",
+      "fetched": "2026-05-15T17:19:50.749215+07:00"
+    },
+    {
+      "id": "126ee43f9e1daa48f9615734bb0b3080",
+      "title": "Siberian Health Quốc tế nhận giải thưởng Rồng Vàng 2026",
+      "link": "https://vnexpress.net/siberian-health-quoc-te-nhan-giai-thuong-rong-vang-2026-5074207.html",
+      "summary": "Công ty Siberian Health Quốc tế vừa được xướng tên trong \"Top 10 doanh nghiệp FDI tiên phong vì cuộc sống cộng đồng\" tại giải thưởng Rồng Vàng 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T09:00:00+07:00",
+      "fetched": "2026-05-15T17:19:50.749363+07:00"
+    },
+    {
+      "id": "05b9c564a6a9ac2e420f9369bf35d4cb",
+      "title": "Vì sao phụ nữ dễ tăng cân sau tuổi 50?",
+      "link": "https://vnexpress.net/vi-sao-phu-nu-de-tang-can-sau-tuoi-50-5074107.html",
+      "summary": "Phụ nữ có xu hướng tăng cân nhanh hơn sau 50 tuổi do thay đổi nội tiết tố, quá trình trao đổi chất cũng như khả năng tập luyện giảm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T09:00:00+07:00",
+      "fetched": "2026-05-15T17:19:50.749511+07:00"
+    },
+    {
+      "id": "b94a470fa6621306b58b9ef7d762e372",
+      "title": "Em sống giản dị, yêu gia đình, thích thể thao và đi du lịch",
+      "link": "https://vnexpress.net/em-song-gian-di-yeu-gia-dinh-thich-the-thao-va-di-du-lich-5074112.html",
+      "summary": "Em mong muốn tìm được một người bạn đời chân thành, yêu thương, sẻ chia mọi điều trong cuộc sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T08:56:12+07:00",
+      "fetched": "2026-05-15T17:19:50.749610+07:00"
+    },
+    {
+      "id": "e86bb0915369768993cd043f429fab96",
+      "title": "Tàu hộ vệ tên lửa Canada thăm Đà Nẵng",
+      "link": "https://vnexpress.net/tau-ho-ve-ten-lua-canada-tham-da-nang-5074370.html",
+      "summary": "Tàu hộ vệ HMCS Charlottetown cùng hơn 240 thủy thủ cập cảng Tiên Sa, bắt đầu chuyến thăm hữu nghị 4 ngày đến Đà Nẵng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T08:55:07+07:00",
+      "fetched": "2026-05-15T17:19:50.749761+07:00"
+    },
+    {
+      "id": "b166e230a573c447506889af4ccf18c5",
+      "title": "Nếu có lúc em xấu tính, anh hãy cho em biết",
+      "link": "https://vnexpress.net/neu-co-luc-em-xau-tinh-anh-hay-cho-em-biet-5074113.html",
+      "summary": "Hy vọng anh tôn trọng cuộc sống trầm lắng của em cũng như chúng ta tôn trọng vô vàn sự khác biệt của nhau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T08:53:03+07:00",
+      "fetched": "2026-05-15T17:19:50.749878+07:00"
+    },
+    {
+      "id": "0860ce04ba5dd611cf758a94588834f9",
+      "title": "Trung Nam Hải - trung tâm quyền lực của Trung Quốc",
+      "link": "https://vnexpress.net/trung-nam-hai-trung-tam-quyen-luc-cua-trung-quoc-5074245.html",
+      "summary": "Trung Nam Hải là quần thể cung điện cổ kính xây từ thời nhà Kim, là nơi sống và làm việc của nhiều lãnh đạo Trung Quốc sau năm 1949.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T08:36:34+07:00",
+      "fetched": "2026-05-15T17:19:50.750029+07:00"
+    },
+    {
+      "id": "097fbf439029be399fa0b3a0a9128a8b",
+      "title": "Ôm bao tải nhận tiền đền bù đất",
+      "link": "https://vnexpress.net/om-bao-tai-nhan-tien-den-bu-dat-5074303.html",
+      "summary": "Nhiều người dân ở xã Tam Hưng (huyện Thanh Oai cũ) mang bao tải, túi cỡ lớn tới nhà văn hóa thôn nhận tiền đền bù đất từ dự án Khu đô thị thể thao Olympic.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T08:36:22+07:00",
+      "fetched": "2026-05-15T17:19:50.750198+07:00"
+    },
+    {
+      "id": "3cc1d73bb4c5dce19727852ae73fe8aa",
+      "title": "Túi mặt hổ ngụ ý may mắn, tài lộc của con trai Elon Musk",
+      "link": "https://vnexpress.net/tui-mat-ho-ngu-y-may-man-tai-loc-cua-con-trai-elon-musk-5074358.html",
+      "summary": "Chiếc túi của cậu bé X Æ A-Xii, con trai tỷ phú Mỹ Elon Musk, được thêu hình cóc, hoa lan, với những ngụ ý tốt lành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-15T08:28:02+07:00",
+      "fetched": "2026-05-15T17:19:50.750350+07:00"
+    },
+    {
+      "id": "06f9cba4288fb2fcbe1edf2a7874f5fe",
+      "title": "Hãng hàng không giảm lương lãnh đạo, siết chi phí vận hành",
+      "link": "https://vnexpress.net/hang-hang-khong-giam-luong-lanh-dao-siet-chi-phi-van-hanh-5074317.html",
+      "summary": "Vietnam Airlines cắt giảm các dự án đầu tư, chi phí vận hành và điều chỉnh quỹ lương lãnh đạo để tiết kiệm chi phí trong bối cảnh giá nhiên liệu thế giới tăng mạnh.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-15T08:15:53+07:00",
+      "fetched": "2026-05-15T17:25:15.518671+07:00"
+    },
+    {
+      "id": "5e552658aff030c09c79132a62d02de3",
+      "title": "Vingroup tuyển 20.000 lao động cho dự án khu đô thị thể thao",
+      "link": "https://vnexpress.net/vingroup-tuyen-20-000-lao-dong-cho-du-an-khu-do-thi-the-thao-5074359.html",
+      "summary": "Tập đoàn Vingroup tuyển hơn 20.000 lao động, ưu tiên dân địa phương, làm việc tại dự án Khu đô thị Thể thao Quốc tế Hà Nội và các dự án khác trong thành phố.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-15T08:00:00+07:00",
+      "fetched": "2026-05-15T17:25:15.519620+07:00"
+    },
+    {
+      "id": "fa796914aeca108c02e9a35917ec8809",
+      "title": "Grohe Spa giới thiệu không gian phòng tắm kết hợp nghệ thuật sắp đặt",
+      "link": "https://vnexpress.net/grohe-spa-gioi-thieu-khong-gian-phong-tam-ket-hop-nghe-thuat-sap-dat-5074322.html",
+      "summary": "Grohe Spa giới thiệu không gian triển lãm Aqua Sanctuary, tái hiện sự kết nối giữa nước, kiến trúc và nghệ thuật sắp đặt tại Milan Design Week.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-15T07:30:00+07:00",
+      "fetched": "2026-05-15T17:25:15.519770+07:00"
+    },
+    {
+      "id": "3d2373c91766d532da53891cd1304eb5",
+      "title": "Saigon Co.op kích cầu tiêu dùng với loạt ưu đãi thực phẩm",
+      "link": "https://vnexpress.net/saigon-co-op-kich-cau-tieu-dung-voi-loat-uu-dai-thuc-pham-5074246.html",
+      "summary": "Saigon Co.op triển khai chương trình \"Cảm ơn người nội trợ đảm đang\" trên toàn hệ thống, giảm đến 50% hơn 1.000 mặt hàng, kết hợp lễ hội nông sản mùa vụ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-15T07:00:00+07:00",
+      "fetched": "2026-05-15T17:25:15.519956+07:00"
     },
     {
       "id": "fb7ed4e17373f98f8dedacda76b9d74a",
