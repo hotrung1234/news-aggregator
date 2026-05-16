@@ -1,7 +1,17 @@
 window.newsData_2026_05_17 = {
   "date": "2026-05-17",
-  "lastUpdated": "2026-05-17T02:00:34.483244+07:00",
+  "lastUpdated": "2026-05-17T03:41:50.144412+07:00",
   "articles": [
+    {
+      "id": "8fa244ec960a48e4fa3f30172b5ec879",
+      "title": "Thua U17 Úc ở tứ kết, U17 Việt Nam về nước trong tư thế ngẩng cao đầu",
+      "link": "https://tuoitre.vn/thua-u17-uc-o-tu-ket-u17-viet-nam-ve-nuoc-trong-tu-the-ngang-cao-dau-20260516122728819.htm",
+      "summary": "U17 Việt Nam đã thất bại 0-3 trước U17 Úc ở trận tứ kết rạng sáng 17-5 của Giải U17 châu Á 2026. Dù thua trận nhưng U17 Việt Nam vẫn có thể ngẩng cao đầu về nước vì đã hoàn thành mục tiêu giành vé dự World Cup U17.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T03:41:44.023702+07:00",
+      "fetched": "2026-05-17T03:41:44.023798+07:00"
+    },
     {
       "id": "467b4c5117cbbb936827ea2f98ecc118",
       "title": "Thua Hải Phòng, Becamex TP.HCM bị báo động đỏ",
@@ -151,6 +161,66 @@ window.newsData_2026_05_17 = {
       "category": "Tổng hợp",
       "published": "2026-05-17T02:00:26.014851+07:00",
       "fetched": "2026-05-17T02:00:26.015066+07:00"
+    },
+    {
+      "id": "79e65e90f8a1ab93cc5f4e064a1d7523",
+      "title": "Đội Ronaldo thua sốc chung kết, nhìn Chủ tịch VFF trao cúp cho đại diện Nhật Bản",
+      "link": "https://thanhnien.vn/doi-ronaldo-thua-soc-chung-ket-nhin-chu-tich-vff-trao-cup-cho-dai-dien-nhat-ban-185260517030255421.htm",
+      "summary": "Rạng sáng 17.5, Ronaldo cùng Al Nassr có màn thể hiện thất vọng, bất ngờ nhận thất bại 0-1 trước Gamba Osaka ở trận chung kết AFC Champions League Two.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T20:08:00+07:00",
+      "fetched": "2026-05-17T03:41:43.010432+07:00"
+    },
+    {
+      "id": "8b723221cc3f75c7143b21735f50f636",
+      "title": "Ronaldo phung phí cơ hội khi Al Nassr thua chung kết Cup C2 châu Á",
+      "link": "https://vnexpress.net/ronaldo-phung-phi-co-hoi-khi-al-nassr-thua-chung-ket-cup-c2-chau-a-5074797.html",
+      "summary": "Tiền đạo 41 tuổi Cristiano Ronaldo vẫn chưa thể giành danh hiệu chính thức đầu tiên với Al Nassr, khi thua Gamba Osaka 0-1 ở chung kết AFC Champions League Two.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T19:40:20+07:00",
+      "fetched": "2026-05-17T03:41:40.154240+07:00"
+    },
+    {
+      "id": "8b723221cc3f75c7143b21735f50f636",
+      "title": "Ronaldo phung phí cơ hội khi Al Nassr thua chung kết Cup C2 châu Á",
+      "link": "https://vnexpress.net/ronaldo-phung-phi-co-hoi-khi-al-nassr-thua-chung-ket-cup-c2-chau-a-5074797.html",
+      "summary": "Tiền đạo 41 tuổi Cristiano Ronaldo vẫn chưa thể giành danh hiệu chính thức đầu tiên với Al Nassr, khi thua Gamba Osaka 0-1 ở chung kết AFC Champions League Two.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-16T19:40:20+07:00",
+      "fetched": "2026-05-17T03:41:50.139851+07:00"
+    },
+    {
+      "id": "44f6a740661e335d1abd1210814e5584",
+      "title": "Xác định 2 cặp bán kết U.17 châu Á, chỉ buồn không có Việt Nam: Xem kênh nào, đá bao giờ?",
+      "link": "https://thanhnien.vn/xac-dinh-2-cap-ban-ket-u17-chau-a-chi-buon-khong-co-viet-nam-xem-kenh-nao-da-bao-gio-185260517021237973.htm",
+      "summary": "Bốn đội bóng sẽ tranh tài ở bán kết giải U.17 châu Á 2026 đã chính thức lộ diện, gồm có Nhật Bản, Trung Quốc, Uzbekistan và Úc. U.17 Việt Nam dừng chân tại tứ kết, khi để thua trước đội bóng xứ sở chuột túi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T19:18:00+07:00",
+      "fetched": "2026-05-17T03:41:43.010592+07:00"
+    },
+    {
+      "id": "71b86f6bcea7a6a4712d39ae54b89b73",
+      "title": "Việt Nam thua đậm Australia ở tứ kết U17 châu Á",
+      "link": "https://vnexpress.net/viet-nam-thua-dam-australia-o-tu-ket-u17-chau-a-5074793.html",
+      "summary": "Sai lầm ở hàng thủ cùng việc Australia đã rút ra nhiều kinh nghiệm khiến Việt Nam thua 0-3 tại tứ kết U17 châu Á 2026 rạng sáng nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T19:02:22+07:00",
+      "fetched": "2026-05-17T03:41:40.154419+07:00"
+    },
+    {
+      "id": "71b86f6bcea7a6a4712d39ae54b89b73",
+      "title": "Việt Nam thua đậm Australia ở tứ kết U17 châu Á",
+      "link": "https://vnexpress.net/viet-nam-thua-dam-australia-o-tu-ket-u17-chau-a-5074793.html",
+      "summary": "Sai lầm ở hàng thủ cùng việc Australia đã rút ra nhiều kinh nghiệm khiến Việt Nam thua 0-3 tại tứ kết U17 châu Á 2026 rạng sáng nay.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-16T19:02:22+07:00",
+      "fetched": "2026-05-17T03:41:50.140006+07:00"
     },
     {
       "id": "d9dd52524652d32a4c20ec8f55729e6c",
