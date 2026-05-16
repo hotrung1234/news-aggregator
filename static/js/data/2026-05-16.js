@@ -1,7 +1,157 @@
 window.newsData_2026_05_16 = {
   "date": "2026-05-16",
-  "lastUpdated": "2026-05-16T05:52:29.032385+07:00",
+  "lastUpdated": "2026-05-16T09:39:58.485627+07:00",
   "articles": [
+    {
+      "id": "5f4883903f9911decea427273c1fbcdd",
+      "title": "Nhạc sĩ Trần Tiến: Đến tia xạ thứ 30 tôi gục hoàn toàn, nhưng... sao giờ lại chết?",
+      "link": "https://tuoitre.vn/nhac-si-tran-tien-den-tia-xa-thu-30-toi-guc-hoan-toan-nhung-sao-gio-lai-chet-20260516065821852.htm",
+      "summary": "Trong suốt đêm diễn tối 15-5, Trần Tiến chia sẻ chân thành về cuộc đời, âm nhạc và cả bệnh ung thư. Ông bảo mình không còn đặt nặng chuyện hay - dở, thắng - thua hay danh vọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T09:39:49.485282+07:00",
+      "fetched": "2026-05-16T09:39:49.485368+07:00"
+    },
+    {
+      "id": "455efa8b0957dd36135b2cc7764788c5",
+      "title": "Ô tô điện mini có thể 'gập mỏng'",
+      "link": "https://tuoitre.vn/o-to-dien-mini-co-the-gap-mong-20260516071414795.htm",
+      "summary": "Concept ô tô điện mini MicroFold gây chú ý với khả năng tự thu gọn thân xe khi đỗ, nhằm giảm áp lực giao thông và không gian tại các thành phố lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T09:39:49.485183+07:00",
+      "fetched": "2026-05-16T09:39:49.485274+07:00"
+    },
+    {
+      "id": "fa68c641ddfb042a6d8a92cf017f75dd",
+      "title": "Lần đầu tiên hacker dùng AI tự tạo mã khai thác zero-day, vượt qua bảo mật 2 lớp",
+      "link": "https://tuoitre.vn/lan-dau-tien-hacker-dung-ai-tu-tao-ma-khai-thac-zero-day-vuot-qua-bao-mat-2-lop-20260515113340878.htm",
+      "summary": "Một trường hợp chưa từng có vừa được xác nhận là hacker sử dụng AI để tự tạo mã khai thác zero-day, vượt qua xác thực hai lớp (2FA). Giới chuyên gia cảnh báo cuộc đua vũ khí AI trong an ninh mạng đã bắt đầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T09:39:49.485078+07:00",
+      "fetched": "2026-05-16T09:39:49.485172+07:00"
+    },
+    {
+      "id": "4eae3048fad0fa86e4ac85b7808900f4",
+      "title": "Trái đất sẽ ra sao nếu Mặt trời đột nhiên biến mất?",
+      "link": "https://tuoitre.vn/trai-dat-se-ra-sao-neu-mat-troi-dot-nhien-bien-mat-20260515150842696.htm",
+      "summary": "Các nhà khoa học cho biết nhân loại sẽ có đúng 8 phút 20 giây trước khi nhận ra thảm họa bắt đầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T09:39:49.484964+07:00",
+      "fetched": "2026-05-16T09:39:49.485070+07:00"
+    },
+    {
+      "id": "db700e5ff035f14c92f2f93b1dc0bbf8",
+      "title": "0h ngày 17-5, U17 Việt Nam đấu U17 Úc: Chờ kỳ tích mới",
+      "link": "https://tuoitre.vn/0h-ngay-17-5-u17-viet-nam-dau-u17-uc-cho-ky-tich-moi-20260516060429446.htm",
+      "summary": "Hoàn thành mục tiêu giành vé dự U17 World Cup, giờ là lúc U17 Việt Nam nghĩ đến mục tiêu đi sâu hơn ở Giải U17 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T09:39:49.484866+07:00",
+      "fetched": "2026-05-16T09:39:49.484955+07:00"
+    },
+    {
+      "id": "e108068d0961abc0d2054034d2cdd86c",
+      "title": "Có thể phát hiện ung thư vú qua chụp X-quang?",
+      "link": "https://tuoitre.vn/co-the-phat-hien-ung-thu-vu-qua-chup-x-quang-20260514185708735.htm",
+      "summary": "Ung thư vú hiện là bệnh ung thư phổ biến nhất ở phụ nữ trên toàn thế giới, đồng thời cũng là nguyên nhân gây tử vong hàng đầu do ung thư ở nữ giới. Nhiều chị em thắc mắc liệu chụp X-quang tuyến vú có thể phát hiện ung thư sớm không?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T09:39:49.484753+07:00",
+      "fetched": "2026-05-16T09:39:49.484857+07:00"
+    },
+    {
+      "id": "b5d6c43076cb6976f576a2c44908c98f",
+      "title": "Bộ Y tế thúc đẩy phát triển công nghệ robot điều trị bệnh khó, ung thư",
+      "link": "https://tuoitre.vn/bo-y-te-thuc-day-phat-trien-cong-nghe-robot-dieu-tri-benh-kho-ung-thu-20260515224957.htm",
+      "summary": "Bộ Y tế đang xây dựng hành lang pháp lý, cơ chế tài chính khuyến khích, thúc đẩy các cơ sở y tế mạnh dạn đổi mới công nghệ, triển khai kỹ thuật cao giúp điều trị nhiều bệnh khó và ung thư phức tạp ngay trong nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T09:39:49.484656+07:00",
+      "fetched": "2026-05-16T09:39:49.484745+07:00"
+    },
+    {
+      "id": "b7ef769709ddd8a4c0874cf63ac43657",
+      "title": "Dự thảo Bộ luật Hình sự sửa đổi: Đề xuất hình phạt lao động công ích",
+      "link": "https://tuoitre.vn/du-thao-bo-luat-hinh-su-sua-doi-de-xuat-hinh-phat-lao-dong-cong-ich-20260516074830354.htm",
+      "summary": "Dự thảo đề xuất hình phạt bổ sung lao động công ích để buộc người bị kết án phải thực hiện một số công việc lao động phục vụ cộng đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T09:39:49.484555+07:00",
+      "fetched": "2026-05-16T09:39:49.484647+07:00"
+    },
+    {
+      "id": "520000d22239179818de3062c4027d37",
+      "title": "Vingroup tuyển hơn 20.000 lao động cho đại đô thị thể thao ở Hà Nội",
+      "link": "https://tuoitre.vn/vingroup-tuyen-hon-20-000-lao-dong-cho-dai-do-thi-the-thao-o-ha-noi-20260516080006986.htm",
+      "summary": "Ngày 15-5, Tập đoàn Vingroup công bố kế hoạch tuyển dụng giai đoạn 1 với hơn 20.000 lao động làm việc tại dự án khu đô thị thể thao quốc tế Hà Nội và các dự án khác của tập đoàn trên địa bàn Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T09:39:49.484455+07:00",
+      "fetched": "2026-05-16T09:39:49.484546+07:00"
+    },
+    {
+      "id": "3a91fa60e985e7a02678b595b0bfaf8a",
+      "title": "Trường Trí Đức: Nhiều học sinh đạt IELTS 8.0, học sinh giỏi cấp thành phố",
+      "link": "https://tuoitre.vn/truong-tri-duc-nhieu-hoc-sinh-dat-ielts-8-0-hoc-sinh-gioi-cap-thanh-pho-20260515134318818.htm",
+      "summary": "Từ kết quả IELTS 8.0 đến các giải thưởng ở kỳ thi học sinh giỏi và Olympic, học sinh Trường TH-THCS-THPT Trí Đức đang cho thấy sự phát triển đồng đều về ngoại ngữ, tư duy học thuật và năng lực tự học trong môi trường giáo dục hiện đại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T09:39:49.484351+07:00",
+      "fetched": "2026-05-16T09:39:49.484446+07:00"
+    },
+    {
+      "id": "a804a3e6aa4741b4f70da35dff38d8e2",
+      "title": "Starlink và 'siêu chòm sao vệ tinh' đang làm thay đổi khí quyển Trái đất",
+      "link": "https://tuoitre.vn/starlink-va-sieu-chom-sao-ve-tinh-dang-lam-thay-doi-khi-quyen-trai-dat-20260515131319979.htm",
+      "summary": "Nghiên cứu mới cảnh báo ô nhiễm đang tích tụ nhanh ở tầng khí quyển phía trên do số lượng lớn các vụ phóng vệ tinh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T09:39:49.484248+07:00",
+      "fetched": "2026-05-16T09:39:49.484343+07:00"
+    },
+    {
+      "id": "1f30db0490f063d76406436a5b7a6230",
+      "title": "TP.HCM dự kiến bỏ thi lớp 10, phụ huynh mừng, giáo viên lo",
+      "link": "https://tuoitre.vn/tp-hcm-du-kien-bo-thi-lop-10-phu-huynh-mung-giao-vien-lo-20260516074537983.htm",
+      "summary": "TP.HCM dự kiến mở rộng xét tuyển lớp 10 từ năm 2027 khiến phụ huynh mừng vì học sinh bớt áp lực, nhưng giáo viên lo chất lượng đầu vào đi xuống.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T09:39:49.484144+07:00",
+      "fetched": "2026-05-16T09:39:49.484239+07:00"
+    },
+    {
+      "id": "d9fad4e8980b4bb22349c7e25da0176d",
+      "title": "TP.HCM 'đổ lửa', thị trường giải nhiệt 'hốt bạc'",
+      "link": "https://tuoitre.vn/tp-hcm-do-lua-thi-truong-giai-nhiet-hot-bac-20260516075501304.htm",
+      "summary": "Thời tiết oi bức khu vực Nam Bộ kéo dài suốt nhiều tuần qua khiến thị trường giải nhiệt đang 'tăng nhiệt' từng ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T09:39:49.484033+07:00",
+      "fetched": "2026-05-16T09:39:49.484135+07:00"
+    },
+    {
+      "id": "2d38edce3165f6fa5e08de0ae7951168",
+      "title": "Padel - môn thể thao phát triển nhanh nhất thế giới có gì thú vị?",
+      "link": "https://tuoitre.vn/padel-mon-the-thao-phat-trien-nhanh-nhat-the-gioi-co-gi-thu-vi-20260515222740848.htm",
+      "summary": "Padel, môn chơi cầm vợt như tennis hay pickleball, được Liên đoàn Quần vợt Việt Nam giới thiệu sau khi chính thức được tranh tài ở Asian Games 2026 tại Nhật Bản vào cuối năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T09:39:49.483904+07:00",
+      "fetched": "2026-05-16T09:39:49.484023+07:00"
+    },
+    {
+      "id": "a0e2e8368f7cdc163cc5826e02bed6f6",
+      "title": "Mang hình ảnh mới ở sân chơi thủ lĩnh",
+      "link": "https://tuoitre.vn/mang-hinh-anh-moi-o-san-choi-thu-linh-2026051605563589.htm",
+      "summary": "Sân chơi thủ lĩnh sinh viên TP.HCM năm 2026 đang giới thiệu những gương mặt gen Z dám nghĩ dám làm, truyền cảm hứng và tiên phong hành động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T09:39:49.483632+07:00",
+      "fetched": "2026-05-16T09:39:49.483885+07:00"
+    },
     {
       "id": "9e73645a96798786fa2c3a6ecfede791",
       "title": "Thanh Thúy thi đấu nổi trội vẫn không thể giúp VTV Bình Điền Long An thắng trận",
@@ -21,6 +171,56 @@ window.newsData_2026_05_16 = {
       "category": "Tổng hợp",
       "published": "2026-05-16T03:57:48.056022+07:00",
       "fetched": "2026-05-16T03:57:48.056244+07:00"
+    },
+    {
+      "id": "12092681f34a2d1d80735dcb1d73f92e",
+      "title": "HLV Cristiano Roland ‘U.17 Việt Nam sẽ nỗ lực hết mình để tiến xa hơn'",
+      "link": "https://thanhnien.vn/hlv-cristiano-roland-u17-viet-nam-se-no-luc-het-minh-de-tien-xa-hon-185260516091309248.htm",
+      "summary": "HLV Cristiano Roland khẳng định U.17 Việt Nam đang có tinh thần rất tích cực sau khi giành vé dự World Cup và sẽ nỗ lực tối đa ở trận tứ kết gặp U.17 Úc tại U.17 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T02:38:00+07:00",
+      "fetched": "2026-05-16T09:39:48.301655+07:00"
+    },
+    {
+      "id": "6c3904c96f39451d515164e03574d9a6",
+      "title": "Claude giúp mở khóa ví Bitcoin chứa 400.000 USD bị khóa suốt 11 năm",
+      "link": "https://thanhnien.vn/claude-giup-mo-khoa-vi-bitcoin-chua-400000-usd-bi-khoa-suot-11-nam-185260515215426313.htm",
+      "summary": "Đổi mật khẩu ví Bitcoin trong cơn say thuốc, 11 năm sau tìm lại được kho báu nhờ 'siêu trí tuệ' Claude.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T02:37:00+07:00",
+      "fetched": "2026-05-16T09:39:48.301823+07:00"
+    },
+    {
+      "id": "4654732567eff37ebe9b85c7b818bfe0",
+      "title": "Luật sư Ấn Độ khởi kiện để được xem World Cup, Trung Quốc đã có bản quyền",
+      "link": "https://thanhnien.vn/luat-su-an-do-khoi-kien-de-duoc-xem-world-cup-trung-quoc-da-co-ban-quyen-185260516092856178.htm",
+      "summary": "Theo AFP, một luật sư ở Ấn Độ đã gửi đơn kiện lên Tòa án tối cao Delhi, yêu cầu được phát sóng trực tiếp World Cup 2026 và cho rằng 'đây là quyền cơ bản được tiếp nhận thông tin' của người dân Ấn Độ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T02:32:00+07:00",
+      "fetched": "2026-05-16T09:39:48.301960+07:00"
+    },
+    {
+      "id": "a9a525f23c7bc638b9e13f530d5bb27e",
+      "title": "Sẽ trắc nghiệm nguy cơ tự kỷ cho trẻ 16 - 30 tháng tuổi",
+      "link": "https://thanhnien.vn/se-trac-nghiem-nguy-co-tu-ky-cho-tre-16-30-thang-tuoi-185260515205052949.htm",
+      "summary": "Theo hướng dẫn khám sức khỏe định kỳ cho người dân của Bộ Y tế ngày 12.5, trẻ em dưới 6 tuổi sẽ thực hiện khám theo Quyết định số 1284/QĐ-BYT ngày 7.5.2026 của Bộ Y tế. Cụ thể: áp dụng trên toàn quốc, khám sức khỏe ít nhất 1 lần/năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T02:32:00+07:00",
+      "fetched": "2026-05-16T09:39:48.302087+07:00"
+    },
+    {
+      "id": "116abcead3236afa841183c3578c580c",
+      "title": "Phải xác thực sinh trắc học khi đăng ký mới sử dụng hóa đơn điện tử",
+      "link": "https://thanhnien.vn/phai-xac-thuc-sinh-trac-hoc-khi-dang-ky-moi-su-dung-hoa-don-dien-tu-185260516090014239.htm",
+      "summary": "Từ ngày 15.5, người đại diện theo pháp luật phải thực hiện xác thực sinh trắc học khi đăng ký mới sử dụng hóa đơn điện tử; thay đổi thông tin đăng ký sử dụng hóa đơn điện tử.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T02:29:00+07:00",
+      "fetched": "2026-05-16T09:39:48.302212+07:00"
     },
     {
       "id": "2001c3a76ae94c2b91045e6542c794ec",
@@ -171,6 +371,336 @@ window.newsData_2026_05_16 = {
       "category": "Tổng hợp",
       "published": "2026-05-16T02:25:52.404198+07:00",
       "fetched": "2026-05-16T02:25:52.404390+07:00"
+    },
+    {
+      "id": "c3885dbbd9c409da3c2d5abaf420f834",
+      "title": "Dự báo thời tiết nắng nóng: Miền Trung có 'tâm nóng' gần 40 độ C",
+      "link": "https://thanhnien.vn/du-bao-thoi-tiet-nang-nong-mien-trung-co-tam-nong-gan-40-do-c-185260516090705545.htm",
+      "summary": "Ngày 15.5, miền Bắc, Bắc Trung bộ nắng nóng diện rộng, với nhiệt độ phổ biến trên 38 độ C, riêng miền Trung có nơi gần 40 độ C. Dự báo thời tiết nắng nóng ở miền Trung còn kéo dài trong 3 ngày tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T02:23:00+07:00",
+      "fetched": "2026-05-16T09:39:48.302336+07:00"
+    },
+    {
+      "id": "5997f5c0f5618d0d166396ebea4ef414",
+      "title": "Lượng tiêu thụ xe bán tải 'lao dốc', Toyota Hilux ngược dòng bám đuổi Ford Ranger",
+      "link": "https://thanhnien.vn/luong-tieu-thu-xe-ban-tai-lao-doc-toyota-hilux-nguoc-dong-bam-duoi-ford-ranger-185260515135520121.htm",
+      "summary": "Toyota Hilux là mẫu xe duy nhất đạt được bước tăng trưởng dương về mặt doanh số trong bối cảnh lượng tiêu thụ xe bán tải \"lao dốc\" trong tháng 4.2026, qua đó rút ngắn khoảng cách với Ford Ranger trong cuộc đua doanh số.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T02:23:00+07:00",
+      "fetched": "2026-05-16T09:39:48.302456+07:00"
+    },
+    {
+      "id": "939fd82858cd306d5c875bef090d5b1b",
+      "title": "AI Mythos của Anthropic có thể bẻ khóa máy Mac",
+      "link": "https://vnexpress.net/ai-mythos-cua-anthropic-co-the-be-khoa-may-mac-5074524.html",
+      "summary": "Các nhà nghiên cứu bảo mật cảnh báo Calude Mythos của Anthropic đã có thể vượt qua hệ thống bảo mật của macOS theo cách chưa từng đạt được trước đây.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-16T02:21:55+07:00",
+      "fetched": "2026-05-16T09:39:56.441580+07:00"
+    },
+    {
+      "id": "92f9c37e3edd2c6d98350bf853c9f024",
+      "title": "Phân biệt biển báo hiệu dành cho ô tô, chỉ khác nhau dấu mũi tên thế nào?",
+      "link": "https://thanhnien.vn/phan-biet-bien-bao-hieu-danh-cho-o-to-chi-khac-nhau-dau-mui-ten-the-nao-185260516010557855.htm",
+      "summary": "Biển R.403a và R.412f đều là biển hiệu lệnh màu xanh, có hình ô tô nhưng chỉ khác nhau ở điểm biển R.412f có thêm dấu mũi tên. Chính điều này khiến nhiều tài xế chưa nắm rõ ý nghĩa biển báo dễ bị nhầm lẫn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T02:21:00+07:00",
+      "fetched": "2026-05-16T09:39:48.302574+07:00"
+    },
+    {
+      "id": "fcf6301035c6cc489655f8e2e66da77b",
+      "title": "Top 10 quốc gia ẩm ướt nhất trái đất, có tới 3 nước Đông Nam Á",
+      "link": "https://thanhnien.vn/top-10-quoc-gia-am-uot-nhat-trai-dat-co-toi-3-nuoc-dong-nam-a-185260515112731964.htm",
+      "summary": "Lượng mưa tạo nên hệ thống sông ngòi, nuôi dưỡng rừng mưa nhiệt đới, lấp đầy các hồ chứa và duy trì sự đa dạng sinh học giúp giữ cho hệ sinh thái tồn tại. Nhưng lượng mưa không được phân bố đều trên toàn cầu vì thế có những quốc gia nhận lượng mưa rất lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T02:05:00+07:00",
+      "fetched": "2026-05-16T09:39:48.302706+07:00"
+    },
+    {
+      "id": "6a25a2e162eb23c24b89abc4c9b94887",
+      "title": "Giá USD hôm nay 16.5.2026: Ngân hàng bán cao kịch trần",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-1652026-ngan-hang-ban-cao-kich-tran-185260516083750468.htm",
+      "summary": "Giá USD trong ngân hàng luôn cao ở mức kịch trần. Trên thị trường thế giới, đồng bạc xanh tiếp tục tăng mạnh, lên mức cao nhất trong 2 tháng trở lại đây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T02:03:00+07:00",
+      "fetched": "2026-05-16T09:39:48.302843+07:00"
+    },
+    {
+      "id": "96bce62245be162a32c4a7c7860ce0d9",
+      "title": "Giá vàng hôm nay 16.5.2026: Thế giới bán tháo, trong nước tiếp tục giảm",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-1652026-the-gioi-ban-thao-trong-nuoc-tiep-tuc-giam-185260516080519404.htm",
+      "summary": "Giá vàng trong nước đồng loạt giảm nhưng vẫn đang cao hơn thế giới gần 19 triệu đồng một lượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T02:02:00+07:00",
+      "fetched": "2026-05-16T09:39:48.302963+07:00"
+    },
+    {
+      "id": "04e83aa52aea912f913e5604d6b1b3f7",
+      "title": "Thúc đẩy đổi mới sáng tạo số và vai trò của AI tại Hội thảo quốc tế ICDI 2026",
+      "link": "https://thanhnien.vn/thuc-day-doi-moi-sang-tao-so-va-vai-tro-cua-ai-tai-hoi-thao-quoc-te-icdi-2026-185260515205345302.htm",
+      "summary": "Hội thảo quốc tế ICDI 2026 đánh dấu bước tiến quan trọng trong việc kết nối tri thức toàn cầu về chuyển đổi số. Với trọng tâm là đổi mới sáng tạo số và ứng dụng AI, sự kiện không chỉ giải quyết các thách thức về phát triển bền vững mà còn mở ra cơ hội thực tiễn cho thế hệ trẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T02:00:00+07:00",
+      "fetched": "2026-05-16T09:39:48.303078+07:00"
+    },
+    {
+      "id": "ee37c2a5c3efd2a10117ce9f541cf909",
+      "title": "Cách thủ khoa chọn ngành và đặt nguyện vọng thông minh",
+      "link": "https://thanhnien.vn/cach-thu-khoa-chon-nganh-va-dat-nguyen-vong-thong-minh-185260515182723091.htm",
+      "summary": "Nếu học sinh lớp 12 còn đang phân vân về chọn ngành và đặt nguyện vọng như thế nào là thông minh nhất, thì trong video Thủ khoa tiếp sức gen Z hôm nay (16.5) sẽ chia sẻ những cách mà chính các bạn đã áp dụng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T02:00:00+07:00",
+      "fetched": "2026-05-16T09:39:48.303194+07:00"
+    },
+    {
+      "id": "fd499ac9dab485318bb9377e78da70c8",
+      "title": "Đi bộ kiểu này chỉ 1 buổi/tuần vẫn giúp giảm mỡ bụng đáng kể",
+      "link": "https://thanhnien.vn/di-bo-kieu-nay-chi-1-buoi-tuan-van-giup-giam-mo-bung-dang-ke-185260516084712302.htm",
+      "summary": "Thừa cân và béo phì, đặc biệt là mỡ bụng, dẫn đến các bệnh tim mạch và rối loạn chuyển hóa. Các nhà nghiên cứu vừa phát hiện cách đi bộ giúp giảm mỡ bụng đáng kể.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T01:47:00+07:00",
+      "fetched": "2026-05-16T09:39:48.303321+07:00"
+    },
+    {
+      "id": "6f8b81d295b30bbdeb6cc2a30f000aa1",
+      "title": "Highlight CLB Trẻ PVF-CAND: 1-2 CLB TP.HCM: Tạm lấy tốp 3 giải hạng nhất",
+      "link": "https://thanhnien.vn/highlight-clb-tre-pvf-cand-1-2-clb-tphcm-tam-lay-top-3-giai-hang-nhat-185260516084523134.htm",
+      "summary": "Chiến thắng 2-1 trước CLB Trẻ PVF-CAND giúp CLB TP.HCM tạm vươn lên tốp 3 giải hạng nhất quốc gia với màn ngược dòng đầy nỗ lực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T01:45:00+07:00",
+      "fetched": "2026-05-16T09:39:48.303450+07:00"
+    },
+    {
+      "id": "38b47dcda5876e6128ba8d4351c059b3",
+      "title": "Khách thấp thỏm lo sợ hãng bay hủy chuyến du lịch Trung Quốc",
+      "link": "https://vnexpress.net/khach-thap-thom-lo-so-hang-bay-huy-chuyen-du-lich-trung-quoc-5074484.html",
+      "summary": "Tình trạng các hãng hàng không liên tục dồn chuyến, hủy lịch bay sang Trung Quốc khiến nhiều du khách và doanh nghiệp lữ hành rơi vào thế bị động ngay trước mùa cao điểm hè.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T01:35:24+07:00",
+      "fetched": "2026-05-16T09:39:44.954721+07:00"
+    },
+    {
+      "id": "652f4ca9c296d5002b3149898179c14e",
+      "title": "Chiêu 'tiếp thị kẹo' giúp bắt kẻ hiếp dâm lẩn trốn 40 năm",
+      "link": "https://vnexpress.net/chieu-tiep-thi-keo-giup-bat-ke-hiep-dam-lan-tron-40-nam-5074472.html",
+      "summary": "Mặc quần ngắn, áo ôm và cầm tờ rơi quảng cáo cho công ty kẹo cao su, nữ cảnh sát Susan Logothetti cùng hai đồng nghiệp gõ cửa ngôi nhà ở thành phố Everett, Washington.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T01:34:19+07:00",
+      "fetched": "2026-05-16T09:39:44.954905+07:00"
+    },
+    {
+      "id": "fe07421c0de55048bff0d23816b92bac",
+      "title": "Cuộc mưu sinh của diễn viên quần chúng thời AI",
+      "link": "https://vnexpress.net/cuoc-muu-sinh-cua-dien-vien-quan-chung-thoi-ai-5074058.html",
+      "summary": "Hàng nghìn diễn viên quần chúng tại phim trường Hoành Điếm đối mặt nguy cơ thất nghiệp khi trí tuệ nhân tạo (AI) được áp dụng vào sản xuất phim.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T01:31:22+07:00",
+      "fetched": "2026-05-16T09:39:44.955047+07:00"
+    },
+    {
+      "id": "95b2217086c32155414dda4c28e66fbf",
+      "title": "Dàn khí tài trên tàu hộ vệ tên lửa Canada đang thăm Đà Nẵng",
+      "link": "https://vnexpress.net/dan-khi-tai-tren-tau-ho-ve-ten-lua-canada-dang-tham-da-nang-5074475.html",
+      "summary": "Tàu hộ vệ HMCS Charlottetown được trang bị tên lửa diệt hạm Harpoon, cùng loạt vũ khí phòng thủ như tên lửa phòng không ESSM và hải pháo 57 mm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T01:09:57+07:00",
+      "fetched": "2026-05-16T09:39:44.955188+07:00"
+    },
+    {
+      "id": "95b2217086c32155414dda4c28e66fbf",
+      "title": "Dàn khí tài trên tàu hộ vệ tên lửa Canada đang thăm Đà Nẵng",
+      "link": "https://vnexpress.net/dan-khi-tai-tren-tau-ho-ve-ten-lua-canada-dang-tham-da-nang-5074475.html",
+      "summary": "Tàu hộ vệ HMCS Charlottetown được trang bị tên lửa diệt hạm Harpoon, cùng loạt vũ khí phòng thủ như tên lửa phòng không ESSM và hải pháo 57 mm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-16T01:09:57+07:00",
+      "fetched": "2026-05-16T09:39:51.301226+07:00"
+    },
+    {
+      "id": "e42fd050494d9e2a24302cb0a54e26ae",
+      "title": "Hai trường Luật top đầu công nhận tín chỉ của nhau",
+      "link": "https://vnexpress.net/hai-truong-luat-top-dau-cong-nhan-tin-chi-cua-nhau-5074493.html",
+      "summary": "Trường Đại học Luật Hà Nội (HLU) và TP HCM (ULAW) sẽ công nhận tín chỉ, chia sẻ học liệu, cùng hướng dẫn nghiên cứu sinh và tổ chức các cuộc thi học thuật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T01:03:00+07:00",
+      "fetched": "2026-05-16T09:39:44.955322+07:00"
+    },
+    {
+      "id": "777b53e152188626bf7f664ab5280efb",
+      "title": "'Sát thủ' quăng chài hốt trọn đàn cá đối khủng",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-sat-thu-quang-chai-hot-tron-dan-ca-doi-khung-5073950.html",
+      "summary": "Chỉ với một cú quăng chài chuẩn xác, người đàn ông đã tóm gọn đàn cá đối, thành quả đủ khiến dân mạng trầm trồ 'ăn mấy ngày không hết'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T01:00:00+07:00",
+      "fetched": "2026-05-16T09:39:44.955453+07:00"
+    },
+    {
+      "id": "e5a26ee43c99dbc3f6933c85ef79851e",
+      "title": "Chip PC 'cây nhà lá vườn' Trung Quốc cán mốc doanh số một triệu",
+      "link": "https://vnexpress.net/chip-pc-cay-nha-la-vuon-trung-quoc-can-moc-doanh-so-mot-trieu-5073491.html",
+      "summary": "Loongson 3A6000, vi xử lý máy tính phát triển bằng công nghệ Trung Quốc, đạt doanh số một triệu sau ba năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T01:00:00+07:00",
+      "fetched": "2026-05-16T09:39:44.955578+07:00"
+    },
+    {
+      "id": "c3e6cdb0c377b3d01d15d6fad7572963",
+      "title": "Trẻ bao nhiêu tuổi nên phẫu thuật điều trị lõm ngực?",
+      "link": "https://vnexpress.net/tre-bao-nhieu-tuoi-nen-phau-thuat-dieu-tri-lom-nguc-5074515.html",
+      "summary": "Con tôi 14 tuổi, bị lõm ngực bẩm sinh, gần đây hay mệt khi vận động, có phẫu thuật đặt thanh nâng được chưa? (Kim Tiền, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T01:00:00+07:00",
+      "fetched": "2026-05-16T09:39:44.955702+07:00"
+    },
+    {
+      "id": "41711bf4383eb294f807abca51db3216",
+      "title": "Có nên đi khám khi thai máy ít?",
+      "link": "https://vnexpress.net/co-nen-di-kham-khi-thai-may-it-5074510.html",
+      "summary": "Tôi mang thai 31 tuần, hai hôm nay cảm giác bé ít máy hơn mọi ngày, có cần đi viện khám? (Hoàng Lan, 30 tuổi)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T01:00:00+07:00",
+      "fetched": "2026-05-16T09:39:44.955843+07:00"
+    },
+    {
+      "id": "dd2cfc6f8a3c9358cee5789b425148c8",
+      "title": "Trẻ chậm nói khi nào cần đi khám?",
+      "link": "https://vnexpress.net/tre-cham-noi-khi-nao-can-di-kham-5074507.html",
+      "summary": "Con tôi 2 tuổi nhưng chỉ nói được vài từ đơn, có cần đi khám không? (Thu Hà, Bắc Ninh)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T01:00:00+07:00",
+      "fetched": "2026-05-16T09:39:44.955985+07:00"
+    },
+    {
+      "id": "62b86692d826a9a99f9847e30d9c559f",
+      "title": "Thai phụ thiếu máu nên ăn uống thế nào",
+      "link": "https://vnexpress.net/thai-phu-thieu-mau-nen-an-uong-the-nao-5074503.html",
+      "summary": "Mẹ bầu ăn ưu tiên thịt nạc, hải sản, rau xanh, các loại hạt, kết hợp cùng vitamin C để cơ thể hấp thụ sắt, vitamin tốt hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T01:00:00+07:00",
+      "fetched": "2026-05-16T09:39:44.956108+07:00"
+    },
+    {
+      "id": "d40ca6fe6530c49c601092e488f8a61c",
+      "title": "Lợi thế gần các trục hạ tầng nghìn tỷ của Van Phuc City",
+      "link": "https://vnexpress.net/loi-the-gan-cac-truc-ha-tang-nghin-ty-cua-van-phuc-city-5073687.html",
+      "summary": "Vành đai 3, tuyến metro số 1, cao tốc TP HCM - Long Thành - Dầu Giây tạo mạng lưới kết nối mới cho khu Đông, mở rộng dư địa tăng trưởng của các đô thị dọc trục giao thông này, trong đó có Van Phuc City.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T01:00:00+07:00",
+      "fetched": "2026-05-16T09:39:44.956232+07:00"
+    },
+    {
+      "id": "e5a26ee43c99dbc3f6933c85ef79851e",
+      "title": "Chip PC 'cây nhà lá vườn' Trung Quốc cán mốc doanh số một triệu",
+      "link": "https://vnexpress.net/chip-pc-cay-nha-la-vuon-trung-quoc-can-moc-doanh-so-mot-trieu-5073491.html",
+      "summary": "Loongson 3A6000, vi xử lý máy tính phát triển bằng công nghệ Trung Quốc, đạt doanh số một triệu sau ba năm.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-16T01:00:00+07:00",
+      "fetched": "2026-05-16T09:39:56.441715+07:00"
+    },
+    {
+      "id": "79c7e0513b500c89bc44b6eadfeb04c6",
+      "title": "Vẻ thanh tao của 'A Châu' Lưu Đào",
+      "link": "https://vnexpress.net/ve-thanh-tao-cua-a-chau-luu-dao-5073677.html",
+      "summary": "Minh tinh Hoa ngữ Lưu Đào, đóng A Châu trong \"Thiên Long Bát Bộ\", được khán giả khen thanh tao, cuốn hút ở tuổi U50.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T00:55:40+07:00",
+      "fetched": "2026-05-16T09:39:44.956354+07:00"
+    },
+    {
+      "id": "20faa3322627cb4ede0500f8e4ec548a",
+      "title": "Những bức ảnh thiên nhiên đẹp nhất thế giới năm 2026",
+      "link": "https://vnexpress.net/nhung-buc-anh-thien-nhien-dep-nhat-the-gioi-nam-2026-5074406.html",
+      "summary": "Những bức ảnh đoạt giải Nhiếp ảnh gia Thiên nhiên năm 2026 tái hiện cuộc sống hoang dã qua khoảnh khắc đối đầu của sói Bắc Cực hay cánh đồng dung nham nóng chảy ở Iceland.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T00:43:24+07:00",
+      "fetched": "2026-05-16T09:39:44.956473+07:00"
+    },
+    {
+      "id": "ba3ed11efe5f649e895ba4e89ff55eea",
+      "title": "'Đáng thương đến mấy cũng không được phơi lúa ngoài đường'",
+      "link": "https://vnexpress.net/dang-thuong-den-may-cung-khong-duoc-phoi-lua-ngoai-duong-5074338.html",
+      "summary": "Con đường là để lưu thông, không có bất cứ nghĩa vụ nào dành cho việc \"đáng thương\" để người nông dân có thể phơi lúa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-16T00:28:00+07:00",
+      "fetched": "2026-05-16T09:39:44.956597+07:00"
+    },
+    {
+      "id": "a34bd41f7fc0929e1228e2a9e917992d",
+      "title": "Ông Trump: Mỹ cho phép 3 tàu dầu Trung Quốc đi qua Hormuz",
+      "link": "https://vnexpress.net/ong-trump-my-cho-phep-3-tau-dau-trung-quoc-di-qua-hormuz-5074548.html",
+      "summary": "Tổng thống Trump tuyên bố Mỹ đã cho phép ba tàu chở dầu Trung Quốc rời eo biển Hormuz hồi đầu tuần, trước khi ông đến Bắc Kinh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-16T00:23:27+07:00",
+      "fetched": "2026-05-16T09:39:51.301383+07:00"
+    },
+    {
+      "id": "c988e652cb232bd7b32fa899966585d8",
+      "title": "Giá vàng thế giới xuống thấp nhất gần 2 tuần",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-xuong-thap-nhat-gan-2-tuan-5074551.html",
+      "summary": "Đôla Mỹ đắt lên và lợi suất trái phiếu chính phủ Mỹ tăng cao khiến giá vàng thế giới mất hơn 100 USD phiên cuối tuần.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-16T00:13:12+07:00",
+      "fetched": "2026-05-16T09:39:52.413419+07:00"
+    },
+    {
+      "id": "2fee2007123cdf93ec8ce9b16ab53941",
+      "title": "Ông Tập sẽ thăm Mỹ vào mùa thu năm nay",
+      "link": "https://vnexpress.net/ong-tap-se-tham-my-vao-mua-thu-nam-nay-5074543.html",
+      "summary": "Chủ tịch Trung Quốc Tập Cận Bình sẽ thăm cấp nhà nước tới Mỹ vào mùa thu này, lần đầu tiên sau hơn một thập kỷ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-16T00:08:13+07:00",
+      "fetched": "2026-05-16T09:39:51.301521+07:00"
+    },
+    {
+      "id": "82e90187b240e8ad726f9d5aa43c878a",
+      "title": "Liverpool thua Aston Villa, nguy cơ mất vé Champions League",
+      "link": "https://vnexpress.net/liverpool-thua-aston-villa-nguy-co-mat-ve-champions-league-5074541.html",
+      "summary": "Thảm bại 2-4 trên sân Aston Villa ở trận đấu sớm nhất vòng 37, Liverpool chưa chắc suất trong top 5 Ngoại hạng Anh và phải chờ vòng đấu cuối.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-15T22:59:09+07:00",
+      "fetched": "2026-05-16T09:39:58.479654+07:00"
+    },
+    {
+      "id": "8e5d7f93725ebfbbab022d5addac8e21",
+      "title": "HLV U17 Australia: 'Việt Nam là tấm gương của bóng đá châu Á'",
+      "link": "https://vnexpress.net/hlv-u17-australia-viet-nam-la-tam-guong-cua-bong-da-chau-a-5074536.html",
+      "summary": "Trước cuộc đối đầu tại tứ kết U17 châu Á 2026, HLV Carl Veart xem Việt Nam như tấm gương ở châu Á trong việc đầu tư nguồn lực vào bóng đá trẻ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-15T22:54:43+07:00",
+      "fetched": "2026-05-16T09:39:58.479831+07:00"
     },
     {
       "id": "394b7daf3d8fd3e4f181a89c4e9c8f8f",
