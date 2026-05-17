@@ -1,7 +1,157 @@
 window.newsData_2026_05_17 = {
   "date": "2026-05-17",
-  "lastUpdated": "2026-05-17T18:02:30.903288+07:00",
+  "lastUpdated": "2026-05-17T20:14:13.431278+07:00",
   "articles": [
+    {
+      "id": "caacf781af809d01e46f1279203b7499",
+      "title": "Kim Tử Long sẽ vào vai Lê Lợi",
+      "link": "https://tuoitre.vn/kim-tu-long-se-vao-vai-le-loi-20260517132005113.htm",
+      "summary": "Nghệ sĩ Kim Tử Long và học trò Lê Hậu đã có cuộc gặp gỡ báo chí trưa 17-5 để chia sẻ về chương trình kỷ niệm 14 năm theo nghề của nghệ sĩ Lê Hậu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T20:14:06.678127+07:00",
+      "fetched": "2026-05-17T20:14:06.678255+07:00"
+    },
+    {
+      "id": "770f704067e14fec26d9ba23483246f1",
+      "title": "Độc lạ ở Cà Mau: Tôm, cua ‘bay lên trời’ hút hàng ngàn người xem",
+      "link": "https://tuoitre.vn/doc-la-o-ca-mau-tom-cua-bay-len-troi-hut-hang-ngan-nguoi-xem-20260517160824036.htm",
+      "summary": "Hàng ngàn du khách, người dân và các em nhỏ trong tỉnh Cà Mau đổ về quảng trường Phan Ngọc Hiển để xem thả diều nghệ thuật. Đặc biệt nhiều người thích thú với diều hình tôm cua, cá mực bay trên trời.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T20:14:06.677993+07:00",
+      "fetched": "2026-05-17T20:14:06.678116+07:00"
+    },
+    {
+      "id": "cadd52cf1d1b25bbe47edb9b3eb9fc0f",
+      "title": "Người dân phát hiện vích biển quý hiếm mắc lưới liền giải cứu, thả lại về biển",
+      "link": "https://tuoitre.vn/nguoi-dan-phat-hien-vich-bien-quy-hiem-mac-luoi-lien-giai-cuu-tha-lai-ve-bien-20260517171041857.htm",
+      "summary": "Trong lúc đi cào ngao tại khu vực bờ biển, ông Lê Văn Minh phát hiện một con vích biển nặng khoảng 2kg đang bị mắc lưới ở gần bờ nên đã cắt lưới giải cứu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T20:14:06.677852+07:00",
+      "fetched": "2026-05-17T20:14:06.677971+07:00"
+    },
+    {
+      "id": "13e18224b7a78a154841e0c5583021cb",
+      "title": "Xe khách lao xuống vực ở Tuyên Quang",
+      "link": "https://tuoitre.vn/xe-khach-lao-xuong-vuc-o-tuyen-quang-20260517164210153.htm",
+      "summary": "Xe khách 29 chỗ lao xuống vực ở xã Bình An, tỉnh Tuyên Quang, một hành khách tử vong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T20:14:06.677723+07:00",
+      "fetched": "2026-05-17T20:14:06.677841+07:00"
+    },
+    {
+      "id": "3e2cabb133b6afedcf22af4c16e3de42",
+      "title": "Tay vợt Nhật Bản đánh bại siêu sao Trung Quốc, vô địch giải cầu lông danh giá",
+      "link": "https://tuoitre.vn/tay-vot-nhat-ban-danh-bai-sieu-sao-trung-quoc-vo-dich-giai-cau-long-danh-gia-20260517170911078.htm",
+      "summary": "Akane Yamaguchi, ngôi sao cầu lông có thể hình nhỏ thó người Nhật Bản, đã thắng thuyết phục Chen Yufei ở chung kết đơn nữ giải Thái Lan mở rộng (Thailand Open).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T20:14:06.677571+07:00",
+      "fetched": "2026-05-17T20:14:06.677710+07:00"
+    },
+    {
+      "id": "a5e222eb59e651d3e7a4fd72fad6bef5",
+      "title": "Bắt tạm giam nguyên cán bộ thành phố Hải Dương cũ với cáo buộc lừa đảo",
+      "link": "https://tuoitre.vn/bat-tam-giam-nguyen-can-bo-thanh-pho-hai-duong-cu-voi-cao-buoc-lua-dao-20260517170208437.htm",
+      "summary": "Nguyên cán bộ Ban giải phóng mặt bằng thuộc UBND TP Hải Dương (cũ) đã bị bắt để điều tra về hành vi lừa đảo chiếm đoạt tài sản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T20:14:06.677443+07:00",
+      "fetched": "2026-05-17T20:14:06.677560+07:00"
+    },
+    {
+      "id": "d9086b59f21384207bbf320916a969e9",
+      "title": "Muốn thi TOEFL iBT tại nhà cần có điều kiện gì?",
+      "link": "https://tuoitre.vn/muon-thi-toefl-ibt-tai-nha-can-co-dieu-kien-gi-2026051717254201.htm",
+      "summary": "Ngày 17-5, đại diện Viện Khảo thí giáo dục Hoa Kỳ (ETS) đã có buổi chia sẻ tại TP.HCM về những điểm mới của bài thi TOEFL iBT. Trong đó có hình thức thi TOEFL iBT tại nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T20:14:06.677316+07:00",
+      "fetched": "2026-05-17T20:14:06.677431+07:00"
+    },
+    {
+      "id": "0a3a2e4fff0be934258877bd0785adab",
+      "title": "Bắt tạm giam một người ở An Giang sử dụng vũ khí quân dụng",
+      "link": "https://tuoitre.vn/bat-tam-giam-mot-nguoi-o-an-giang-su-dung-vu-khi-quan-dung-20260517174052322.htm",
+      "summary": "Ngày 17-5, Công an phường Mỹ Thới cho biết Công an tỉnh An Giang đã khởi tố vụ án, khởi tố bị can và bắt tạm giam Lê Hải Hùng (ở phường Mỹ Thới, An Giang) về hành vi sử dụng trái phép vũ khí quân dụng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T20:14:06.677187+07:00",
+      "fetched": "2026-05-17T20:14:06.677305+07:00"
+    },
+    {
+      "id": "c47548926b78384c8fab4e1a30147cd8",
+      "title": "Gia Lai tăng trưởng quý 1 dẫn đầu vùng Nam Trung Bộ và Tây Nguyên",
+      "link": "https://tuoitre.vn/gia-lai-tang-truong-quy-i-dat-8-51-dan-dau-vung-nam-trung-bo-tay-nguyen-20260517173545407.htm",
+      "summary": "Trong quý 1-2026, tốc độ tăng trưởng kinh tế của tỉnh Gia Lai đạt 8,51%, dẫn đầu trong 6 tỉnh thành khu vực duyên hải Nam Trung Bộ - Tây Nguyên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T20:14:06.677058+07:00",
+      "fetched": "2026-05-17T20:14:06.677175+07:00"
+    },
+    {
+      "id": "6b9e4defef4d0912b7b9d1f447f719f9",
+      "title": "Kế hoạch xây phòng khiêu vũ ở Nhà Trắng của ông Trump bị 'tuýt còi'",
+      "link": "https://tuoitre.vn/ke-hoach-xay-phong-khieu-vu-o-nha-trang-cua-ong-trump-bi-tuyt-coi-20260517175006775.htm",
+      "summary": "Kế hoạch cấp ngân sách lớn cho an ninh phòng khiêu vũ Nhà Trắng của ông Donald Trump bị quan chức Thượng viện bác bỏ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T20:14:06.676929+07:00",
+      "fetched": "2026-05-17T20:14:06.677047+07:00"
+    },
+    {
+      "id": "3715a60788aa80178819743c3f5e7848",
+      "title": "Đà Nẵng tưng bừng khai mạc Đại hội Thể dục thể thao 2026",
+      "link": "https://tuoitre.vn/da-nang-tung-bung-khai-mac-dai-hoi-the-duc-the-thao-2026-20260517173035605.htm",
+      "summary": "Chiều 17-5, hơn 3.000 vận động viên, học sinh, sinh viên, cán bộ, chiến sĩ cùng người dân đã tham gia diễu hành, chứng kiến nghi thức châm đuốc khai mạc Đại hội Thể dục thể thao TP Đà Nẵng lần thứ X năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T20:14:06.676794+07:00",
+      "fetched": "2026-05-17T20:14:06.676916+07:00"
+    },
+    {
+      "id": "cbabed068720a85acb4233c962ac4836",
+      "title": "Rating Perfect Crown chạm đỉnh khi khép lại, bất chấp chỉ trích xuyên tạc lịch sử",
+      "link": "https://tuoitre.vn/rating-perfect-crown-cham-dinh-khi-khep-lai-bat-chap-chi-trich-xuyen-tac-lich-su-20260517175552681.htm",
+      "summary": "Từng được kỳ vọng là bom tấn truyền hình nửa đầu năm 2026, Perfect Crown trải qua hành trình nhiều tranh cãi nhưng vẫn phá kỷ lục rating ở tập cuối.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T20:14:06.676628+07:00",
+      "fetched": "2026-05-17T20:14:06.676781+07:00"
+    },
+    {
+      "id": "2c64f9754696b3188a1938308c99f03f",
+      "title": "Công An Hà Nội đấu Thanh Hóa (19h15): Hàng Đẫy chờ đón 'tân vương'",
+      "link": "https://tuoitre.vn/cong-an-ha-noi-dau-thanh-hoa-19h15-hang-day-cho-don-tan-vuong-2026051709383588.htm",
+      "summary": "Công An Hà Nội sẽ trở thành \"tân vương\" của V-League 2025-2026 nếu đánh bại Thanh Hóa trên sân nhà Hàng Đẫy vào lúc 19h15 tối nay (17-5).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T20:14:06.676481+07:00",
+      "fetched": "2026-05-17T20:14:06.676616+07:00"
+    },
+    {
+      "id": "d76fd75a14e075bf89bd8acf6f9e93db",
+      "title": "Cổng Parabol Bách khoa nằm trong khu vực giải tỏa khiến nhiều người tiếc nuối",
+      "link": "https://tuoitre.vn/cong-parabol-bach-khoa-nam-trong-khu-vuc-giai-toa-khien-nhieu-nguoi-tiec-nuoi-20260516093139449.htm",
+      "summary": "Khi nhắc đến những địa điểm nổi bật của Đại học Bách khoa Hà Nội, nhiều cựu sinh viên, sinh viên Bách khoa sẽ nhớ ngay đến cổng Parabol.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T20:14:06.676324+07:00",
+      "fetched": "2026-05-17T20:14:06.676468+07:00"
+    },
+    {
+      "id": "814eea4df2d9e87a260e93f3b25dd1b0",
+      "title": "Xuất khẩu sầu riêng vào Mỹ, Hàn… tăng mạnh nhưng vẫn còn nhiều nỗi lo",
+      "link": "https://tuoitre.vn/xuat-khau-sau-rieng-vao-my-han-tang-manh-nhung-van-con-nhieu-noi-lo-20260517182346146.htm",
+      "summary": "Xuất khẩu sầu riêng Việt Nam những tháng đầu năm 2026 ghi nhận tín hiệu phục hồi mạnh, điểm sáng là hàng đông lạnh. Tuy vậy, giá sầu riêng tại vườn còn khá bấp bênh, xuất khẩu đi Trung Quốc vẫn thiếu ổn định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T20:14:06.676074+07:00",
+      "fetched": "2026-05-17T20:14:06.676305+07:00"
+    },
     {
       "id": "5219599e876a6afc2f264ec5bbbf5ee5",
       "title": "Chợ tự phát hoạt động náo nhiệt giữa khuya ở Hà Nội",
@@ -453,6 +603,296 @@ window.newsData_2026_05_17 = {
       "fetched": "2026-05-17T13:42:24.675526+07:00"
     },
     {
+      "id": "e14a534ae82dfebbe5a3833ec3ad6cbb",
+      "title": "Phong 'Coca' bị khởi tố cùng Miu Lê vì liên quan tới ma túy",
+      "link": "https://thanhnien.vn/phong-coca-bi-khoi-to-cung-miu-le-vi-lien-quan-toi-ma-tuy-185260517171039167.htm",
+      "summary": "Phong 'Coca' gương mặt nổi tiếng trong giới pickleball và cầu lông Hà Nội  bị xác định là người cùng tham gia chuẩn bị ma túy trong tiệc có ca sĩ Miu Lê cùng nhóm bạn tại đảo Cát Bà, đặc khu Cát Hải (Hải Phòng).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T13:09:00+07:00",
+      "fetched": "2026-05-17T20:14:05.388065+07:00"
+    },
+    {
+      "id": "96a180b9ecead40702ccca61d6fa5dd3",
+      "title": "Vắng Hoàng Hên, Hà Nội vẫn thắng đậm PVF-CAND: Cuộc đua tốp 3 và trụ hạng nóng chưa từng thấy",
+      "link": "https://thanhnien.vn/vang-hoang-hen-ha-noi-van-thang-dam-pvf-cand-cuoc-dua-top-3-va-tru-hang-nong-chua-tung-thay-185260517200219228.htm",
+      "summary": "Tối 17.5, CLB Hà Nội vắng hai trụ cột Hoàng Hên và Hai Long vì thẻ phạt, nhưng với bản lĩnh của mình, đội bóng thủ đô vẫn thắng đậm PVF-CAND với tỷ số 4-0. Qua đó trở lại cuộc đua tốp 3 V-League mùa 2025 - 2026, và đẩy đối thủ xuống chót bảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T13:04:00+07:00",
+      "fetched": "2026-05-17T20:14:05.388250+07:00"
+    },
+    {
+      "id": "804b3ac2accfaf5ec41e8a0bb273f452",
+      "title": "Thầy của Công Phượng, Lý Đức được VFF vinh danh đặc biệt",
+      "link": "https://thanhnien.vn/thay-cua-cong-phuong-ly-duc-duoc-vff-vinh-danh-dac-biet-185260517195824718.htm",
+      "summary": "Tại Ngày hội bóng đá nhí Nutifood 2026, HLV Guillaume Graechen - thầy của Công Phượng, Lý Đức được VFF vinh danh đặc biệt sau 20 năm miệt mài cống hiến cho bóng đá Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T13:01:00+07:00",
+      "fetched": "2026-05-17T20:14:05.388415+07:00"
+    },
+    {
+      "id": "721a1a8f9ccec36609f12d1b0d178b6c",
+      "title": "Chuyên gia Viện Khảo thí giáo dục Mỹ chỉ cách luyện  chứng chỉ TOEFL cải tiến",
+      "link": "https://thanhnien.vn/chuyen-gia-vien-khao-thi-giao-duc-my-chi-cach-luyen-chung-chitoefl-cai-tien-185260517182113735.htm",
+      "summary": "Ngày 17.5, tại TP.HCM, Viện Khảo thí giáo dục Mỹ (ETS) và Tổ chức Giáo dục IIG Việt Nam tổ chức chuỗi sự kiện trải nghiệm TOEFL Experience Day dành cho học sinh, sinh viên và giáo viên tiếng Anh. Tại đây chuyên gia của Viện Khảo thí giáo dục Mỹ chỉ cách học trước khi thi chứng chỉ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T13:01:00+07:00",
+      "fetched": "2026-05-17T20:14:05.388601+07:00"
+    },
+    {
+      "id": "0035a8c4d172c03847319b793e2a076c",
+      "title": "Xem nhanh 20h ngày 17.5: TP.HCM lại mưa to, chuyên gia cảnh báo | Chim quý bị săn trộm, lão nông cầu cứu",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-175-tphcm-lai-mua-to-chuyen-gia-canh-bao-chim-quy-bi-san-trom-lao-nong-cau-cuu-185260517200018951.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 17.5 có nhiều tin tức đáng chú ý về: TP.HCM mưa lớn 2 ngày liên tiếp, chuyên gia thời tiết cảnh báo an toàn; lão nông 80 tuổi bất lực nhìn chim quý ở Vườn chim Hai Chìa bị săn trộm;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T13:00:00+07:00",
+      "fetched": "2026-05-17T20:14:05.388858+07:00"
+    },
+    {
+      "id": "40f09d42bd194678cede34f62a280cca",
+      "title": "Trường ĐH Kinh tế - Tài chính TP.HCM đón sinh viên Mỹ đến học tập và trải nghiệm",
+      "link": "https://thanhnien.vn/truong-dh-kinh-te-tai-chinh-tphcm-don-sinh-vien-my-den-hoc-tap-va-trai-nghiem-185260517122423012.htm",
+      "summary": "Chương trình giao lưu văn hóa, học thuật quốc tế “Plus 3: Vietnam - Summer” do Trường ĐH Kinh tế - Tài chính TP.HCM (UEF) tổ chức, tạo cơ hội để những người trẻ mở rộng góc nhìn, kết nối văn hóa và sẻ chia tư duy toàn cầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T13:00:00+07:00",
+      "fetched": "2026-05-17T20:14:05.389025+07:00"
+    },
+    {
+      "id": "92885b142c8ce33583385c5b5e8bb6ba",
+      "title": "TP.HCM mưa lớn 2 ngày liên tiếp: Cành cây ngã đổ, chuyên gia cảnh báo nguy hiểm đầu mùa",
+      "link": "https://thanhnien.vn/tphcm-mua-lon-2-ngay-lien-tiep-canh-cay-nga-do-chuyen-gia-canh-bao-nguy-hiem-dau-mua-185260517195738474.htm",
+      "summary": "TP.HCM và nhiều tỉnh Nam bộ liên tiếp xuất hiện mưa lớn trong hai ngày qua, kèm giông lốc và gió giật mạnh khiến cây xanh ngã đổ. Chuyên gia khí tượng cảnh báo người dân cần đề phòng sét đánh, ngập sâu và những nguy cơ mất an toàn trong giai đoạn đầu mùa mưa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T12:58:00+07:00",
+      "fetched": "2026-05-17T20:14:05.389201+07:00"
+    },
+    {
+      "id": "eaf2168899724c3c3c097e0d33913b2b",
+      "title": "Nghi mua phải thịt bò giả, người dân ở Quy Nhơn livestream tố cáo",
+      "link": "https://thanhnien.vn/nghi-mua-phai-thit-bo-gia-nguoi-dan-o-quy-nhon-livestream-to-cao-185260517180314806.htm",
+      "summary": "Một người dân ở phường Quy Nhơn sau khi nghi ngờ mua phải thịt bò giả đã livestream tố cáo, ngay sau đó cơ quan chức năng vào cuộc xác minh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T12:55:00+07:00",
+      "fetched": "2026-05-17T20:14:05.389365+07:00"
+    },
+    {
+      "id": "07a41db87b7a89c4b84af9bed8c253d4",
+      "title": "Nữ võ sĩ xin thua vì đòn khóa hiếm gặp ở UFC",
+      "link": "https://vnexpress.net/nu-vo-si-xin-thua-vi-don-khoa-hiem-gap-o-ufc-5074964.html",
+      "summary": "Alice Ardelean hạ Polyana Viana tại UFC Fight Night 276 ngày 16/5 bằng đòn khóa capsule lock – động tác lần đầu xuất hiện ở sàn đấu võ thuật tổng hợp số 1 thế giới.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-17T12:48:27+07:00",
+      "fetched": "2026-05-17T20:14:13.420668+07:00"
+    },
+    {
+      "id": "d3272b1faf0dc3b649dad284dfa3b91a",
+      "title": "HAGL thua Hà Tĩnh sau tình huống gây tranh cãi dữ dội: Nhưng trọng tài và VAR đúng!",
+      "link": "https://thanhnien.vn/hagl-thua-ha-tinh-sau-tinh-huong-gay-tranh-cai-du-doi-nhung-trong-tai-va-var-dung-18526051719203806.htm",
+      "summary": "Trên sân nhà Pleiku, HAGL đã phải nhận thất bại 0-2 trước CLB Hà Tĩnh. Đội bóng phố núi bị đóng đinh ở vị trí thứ 3 từ dưới lên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T12:46:00+07:00",
+      "fetched": "2026-05-17T20:14:05.389531+07:00"
+    },
+    {
+      "id": "9d6649bcfaeefa3278f2e2c23df66574",
+      "title": "Chỉ 10 phường ở thành phố Đồng Nai cho học sinh nghỉ học ngày mai",
+      "link": "https://thanhnien.vn/chi-10-phuong-o-thanh-pho-dong-nai-cho-hoc-sinh-nghi-hoc-ngay-mai-185260517192624665.htm",
+      "summary": "Sở GD-ĐT thành phố Đồng Nai vừa có thông báo điều chỉnh chỉ còn 10 phường ở thành phố Đồng Nai cho học sinh nghỉ học vào ngày mai, thay vì toàn thành phố như thông báo trước đó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T12:40:00+07:00",
+      "fetched": "2026-05-17T20:14:05.389717+07:00"
+    },
+    {
+      "id": "0c86d843b3d86c7d9ed3896651db1009",
+      "title": "UAV lạ gây cháy tại nhà máy hạt nhân UAE",
+      "link": "https://vnexpress.net/uav-la-gay-chay-tai-nha-may-hat-nhan-uae-5074958.html",
+      "summary": "UAV chưa rõ nguồn gốc đánh trúng máy phát điện, gây hỏa hoạn gần vành đai an ninh tại nhà máy điện hạt nhân Barakah.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T12:36:38+07:00",
+      "fetched": "2026-05-17T20:14:02.752825+07:00"
+    },
+    {
+      "id": "0c86d843b3d86c7d9ed3896651db1009",
+      "title": "UAV lạ gây cháy tại nhà máy hạt nhân UAE",
+      "link": "https://vnexpress.net/uav-la-gay-chay-tai-nha-may-hat-nhan-uae-5074958.html",
+      "summary": "UAV chưa rõ nguồn gốc đánh trúng máy phát điện, gây hỏa hoạn gần vành đai an ninh tại nhà máy điện hạt nhân Barakah.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-17T12:36:38+07:00",
+      "fetched": "2026-05-17T20:14:07.987187+07:00"
+    },
+    {
+      "id": "f02646267a5c9a1e9faa942d7b499606",
+      "title": "UAV tấn công gây hỏa hoạn gần nhà máy điện hạt nhân ở UAE",
+      "link": "https://thanhnien.vn/uav-tan-cong-gay-hoa-hoan-gan-nha-may-dien-hat-nhan-o-uae-185260517193235568.htm",
+      "summary": "Một vụ tấn công bằng máy bay không người lái (UAV) đã gây ra hỏa hoạn gần một nhà máy điện hạt nhân ở tiểu vương quốc Abu Dhabi của UAE trong ngày 17.5, theo AFP dẫn lời giới chức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T12:34:00+07:00",
+      "fetched": "2026-05-17T20:14:05.389872+07:00"
+    },
+    {
+      "id": "0ce3181b18ba05de17903d58aea22f2a",
+      "title": "Uống nước lá bằng lăng có giúp trị bệnh tiểu đường?",
+      "link": "https://vnexpress.net/uong-nuoc-la-bang-lang-co-giup-tri-benh-tieu-duong-5074956.html",
+      "summary": "Nghe nói lá cây bằng lăng chứa chất giảm lượng đường và mỡ trong máu. Tôi mắc tiểu đường type 2, hái lá nấu nước uống mỗi ngày được không? (Ngọc Trâm, 55 tuổi, Đồng Nai)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T12:30:00+07:00",
+      "fetched": "2026-05-17T20:14:02.753028+07:00"
+    },
+    {
+      "id": "ce9b2aff8149722925b4f8de5cd40df4",
+      "title": "TP.HCM mưa lớn chiều 17.5: Gió cuốn bay mảng tôn nặng hàng tấn xuống đường",
+      "link": "https://thanhnien.vn/tphcm-mua-lon-chieu-175-gio-cuon-bay-mang-ton-nang-hang-tan-xuong-duong-185260517191128848.htm",
+      "summary": "Trong cơn mưa lớn ở TP.HCM chiều nay 17.5, gió cuốn mảng tôn nặng hàng tấn xuống đường Hoàng Văn Thụ, dẫn đến tình trạng ùn tắc giao thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T12:29:00+07:00",
+      "fetched": "2026-05-17T20:14:05.390022+07:00"
+    },
+    {
+      "id": "7c72f14457cd3e9bd86b099f35989758",
+      "title": "Congo tuyên bố dịch Ebola lần thứ 17 sau 80 ca tử vong",
+      "link": "https://thanhnien.vn/congo-tuyen-bo-dich-ebola-lan-thu-17-sau-80-ca-tu-vong-185260517180022556.htm",
+      "summary": "Bộ trưởng Y tế Cộng hòa Dân chủ Congo cho biết chính quyền đã ghi nhận khoảng 246 trường hợp nghi nhiễm Ebola và 80 ca tử vong tại tỉnh Ituri phía đông, sau khi các quan chức xác nhận một đợt bùng phát mới liên quan đến chủng Bundibugyo của virus này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T12:27:00+07:00",
+      "fetched": "2026-05-17T20:14:05.390169+07:00"
+    },
+    {
+      "id": "89cf2ca6b6b04d495bf23259a11954c3",
+      "title": "Nước nào có nửa dân số trên 57 tuổi?",
+      "link": "https://vnexpress.net/nuoc-nao-co-nua-dan-so-tren-57-tuoi-5074932.html",
+      "summary": "Đây là quốc gia duy nhất có khoảng một nửa dân số trên 57 tuổi, cao nhất thế giới. Bạn có biết đó là nước nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T12:25:16+07:00",
+      "fetched": "2026-05-17T20:14:02.753203+07:00"
+    },
+    {
+      "id": "afb45adcacd9393ec8287ca1b88a44db",
+      "title": "Đồng Nai: Triệt phá đường dây cá độ bóng đá liên tỉnh, giao dịch 70 tỉ đồng/tháng",
+      "link": "https://thanhnien.vn/dong-nai-triet-pha-duong-day-ca-do-bong-da-lien-tinh-giao-dich-70-ti-dong-thang-185260517182622915.htm",
+      "summary": "Công an thành phố Đồng Nai vừa triệt phá đường dây cá độ bóng đá liên tỉnh, mỗi tháng số tiền giao dịch lên đến hơn 70 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T12:09:00+07:00",
+      "fetched": "2026-05-17T20:14:05.390315+07:00"
+    },
+    {
+      "id": "7c024f9bb49b21a053b3f79f6800c2ad",
+      "title": "An Huy Mỹ Việt hút khách nhờ lợi thế 'mua là xây được ngay'",
+      "link": "https://thanhnien.vn/an-huy-my-viet-hut-khach-nho-loi-the-mua-la-xay-duoc-ngay-185260517183141839.htm",
+      "summary": "Giá nhà tại TP.HCM tiếp tục duy trì ở mức cao, trong khi áp lực giao thông, mật độ dân cư và chi phí sinh hoạt ngày càng lớn đang khiến xu hướng dịch chuyển ra các đô thị vệ tinh trở nên rõ rệt hơn bao giờ hết. Nếu trước đây người mua thường ưu tiên căn hộ nội đô để thuận tiện di chuyển, thì vài năm...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T12:06:00+07:00",
+      "fetched": "2026-05-17T20:14:05.390477+07:00"
+    },
+    {
+      "id": "3b1d6c20e7f1a4ed9a0687dc8babc933",
+      "title": "70 công nghệ cao được ưu tiên đầu tư phát triển",
+      "link": "https://vnexpress.net/70-cong-nghe-cao-duoc-uu-tien-dau-tu-phat-trien-5074933.html",
+      "summary": "Chính phủ ban hành danh mục 70 công nghệ cao ưu tiên đầu tư phát triển, trong đó có nhiều công nghệ mới như lượng tử, mô phỏng cơ thể người, lưu trữ carbon, vật liệu tiên tiến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T12:00:00+07:00",
+      "fetched": "2026-05-17T20:14:02.753371+07:00"
+    },
+    {
+      "id": "38903f313e02c6a536c1c73028f28b2a",
+      "title": "Ăn uống thế nào giảm nguy cơ ung thư gan",
+      "link": "https://vnexpress.net/an-uong-the-nao-giam-nguy-co-ung-thu-gan-5073475.html",
+      "summary": "Uống trà xanh, bổ sung chất béo omega-3, thay tinh bột chế biến sẵn bằng ngũ cốc giàu chất xơ có thể phòng bệnh ung thư gan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T12:00:00+07:00",
+      "fetched": "2026-05-17T20:14:02.753547+07:00"
+    },
+    {
+      "id": "0a08574a51878880daeffc63685b2075",
+      "title": "Khí hư đổi màu, có mùi bất thường cảnh báo viêm phụ khoa",
+      "link": "https://vnexpress.net/khi-hu-doi-mau-co-mui-bat-thuong-canh-bao-viem-phu-khoa-5074730.html",
+      "summary": "Khí hư chuyển màu vàng, xanh, xám hoặc có mùi hôi thường là dấu hiệu viêm âm đạo, nhiễm nấm hoặc bệnh lây truyền qua đường tình dục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T12:00:00+07:00",
+      "fetched": "2026-05-17T20:14:02.753743+07:00"
+    },
+    {
+      "id": "3b1d6c20e7f1a4ed9a0687dc8babc933",
+      "title": "70 công nghệ cao được ưu tiên đầu tư phát triển",
+      "link": "https://vnexpress.net/70-cong-nghe-cao-duoc-uu-tien-dau-tu-phat-trien-5074933.html",
+      "summary": "Chính phủ ban hành danh mục 70 công nghệ cao ưu tiên đầu tư phát triển, trong đó có nhiều công nghệ mới như lượng tử, mô phỏng cơ thể người, lưu trữ carbon, vật liệu tiên tiến.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-17T12:00:00+07:00",
+      "fetched": "2026-05-17T20:14:11.595218+07:00"
+    },
+    {
+      "id": "08df22ff3748a31b4fb203f70a3f2b2c",
+      "title": "Ukraine tập kích UAV dữ dội chưa từng thấy nhằm vào Nga",
+      "link": "https://vnexpress.net/ukraine-tap-kich-uav-du-doi-chua-tung-thay-nham-vao-nga-5074947.html",
+      "summary": "Ít nhất 4 người thiệt mạng tại Nga sau khi Ukraine mở đợt tấn công lớn chưa từng có bằng UAV nhằm vào nước này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T11:33:26+07:00",
+      "fetched": "2026-05-17T20:14:02.753907+07:00"
+    },
+    {
+      "id": "08df22ff3748a31b4fb203f70a3f2b2c",
+      "title": "Ukraine tập kích UAV dữ dội chưa từng thấy nhằm vào Nga",
+      "link": "https://vnexpress.net/ukraine-tap-kich-uav-du-doi-chua-tung-thay-nham-vao-nga-5074947.html",
+      "summary": "Ít nhất 4 người thiệt mạng tại Nga sau khi Ukraine mở đợt tấn công lớn chưa từng có bằng UAV nhằm vào nước này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-17T11:33:26+07:00",
+      "fetched": "2026-05-17T20:14:07.987377+07:00"
+    },
+    {
+      "id": "8da1c3a1e65aacb15fc4d0ba37089c7e",
+      "title": "Tôi sợ cảnh con cái kiệt sức vì chăm cha mẹ già",
+      "link": "https://vnexpress.net/toi-so-canh-con-cai-kiet-suc-vi-cham-cha-me-gia-5074920.html",
+      "summary": "Nhiều bạn bè tôi vừa phải lo công việc, con cái, áp lực tài chính, vừa gồng mình chăm sóc cha mẹ già, kiệt quệ tiền bạc lẫn tinh thần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T11:31:25+07:00",
+      "fetched": "2026-05-17T20:14:02.754081+07:00"
+    },
+    {
+      "id": "0a9bbd78a23bd4302ead23ab3240d194",
+      "title": "Bán kết Giải bóng rổ Trẻ VnExpress: Hùng Vương - Gia Định",
+      "link": "https://vnexpress.net/ban-ket-giai-bong-ro-tre-vnexpress-hung-vuong-gia-dinh-5074918.html",
+      "summary": "THPT Hùng Vương gặp THPT Gia Định ở bán kết nam Giải bóng rổ Trẻ VnExpress - Cup Ziaja tại sân GOAT Town Sports Complex.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T11:15:10+07:00",
+      "fetched": "2026-05-17T20:14:02.754246+07:00"
+    },
+    {
+      "id": "995657967771e9d7d27b8c8e45d3accd",
+      "title": "Mưa lớn gây ngập nhiều nơi ở Quảng Ninh",
+      "link": "https://vnexpress.net/mua-lon-gay-ngap-nhieu-noi-o-quang-ninh-5074941.html",
+      "summary": "Mưa lớn kéo dài khiến nước sông ở Quảng Ninh dâng cao, tràn vào nhà dân và gây ngập cục bộ nhiều tuyến phố tại Hạ Long, Hồng Gai, Bãi Cháy… trong ngày 17/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T10:56:14+07:00",
+      "fetched": "2026-05-17T20:14:02.754413+07:00"
+    },
+    {
       "id": "4c71fcb55f66278f86aba323e8b9a070",
       "title": "Nguyễn Văn Chung: Pháp luật vào cuộc vụ bản quyền là một tín hiệu đáng mừng",
       "link": "https://thanhnien.vn/nguyen-van-chung-phap-luat-vao-cuoc-vu-ban-quyen-la-mot-tin-hieu-dang-mung-185260517160757597.htm",
@@ -473,6 +913,16 @@ window.newsData_2026_05_17 = {
       "fetched": "2026-05-17T18:02:21.098516+07:00"
     },
     {
+      "id": "58ee3ff4a70983503ca592fdcd220743",
+      "title": "Hà Nội sẽ xây nhà xã hội gần metro",
+      "link": "https://vnexpress.net/ha-noi-se-xay-nha-xa-hoi-gan-metro-5074931.html",
+      "summary": "Hà Nội định hướng bố trí nhà ở xã hội, nhà ở công nhân tại các vị trí thuận tiện kết nối đường sắt đô thị, giúp người thu nhập thấp giảm chi phí đi lại và tiếp cận hạ tầng đô thị tốt hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T10:49:45+07:00",
+      "fetched": "2026-05-17T20:14:02.754580+07:00"
+    },
+    {
       "id": "eb55885b75dd93597d7c778648c28757",
       "title": "Nhật siết visa lao động khiến ngành nhà hàng lao đao",
       "link": "https://vnexpress.net/nhat-siet-visa-lao-dong-khien-nganh-nha-hang-lao-dao-5074937.html",
@@ -481,6 +931,16 @@ window.newsData_2026_05_17 = {
       "category": "Thế giới",
       "published": "2026-05-17T10:48:57+07:00",
       "fetched": "2026-05-17T18:02:24.004920+07:00"
+    },
+    {
+      "id": "f08ac0fba98ecd051fa790861d00eff8",
+      "title": "Giông lốc cuốn sập mái tôn, hàng rào ở TP HCM",
+      "link": "https://vnexpress.net/giong-loc-cuon-sap-mai-ton-hang-rao-o-tp-hcm-5074940.html",
+      "summary": "Cơn giông lốc mạnh chiều 17/5 gây đổ hàng rào, làm bay mái tôn cửa hàng ở khu vực Tân Sơn Nhất, giao thông ùn ứ nghiêm trọng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T10:38:58+07:00",
+      "fetched": "2026-05-17T20:14:02.754940+07:00"
     },
     {
       "id": "12538cdc045fc41fc2705b6a807667f8",
