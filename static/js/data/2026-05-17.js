@@ -1,7 +1,157 @@
 window.newsData_2026_05_17 = {
   "date": "2026-05-17",
-  "lastUpdated": "2026-05-17T05:41:26.461383+07:00",
+  "lastUpdated": "2026-05-17T09:48:44.512178+07:00",
   "articles": [
+    {
+      "id": "a77c6752500a2500290d7c940f0df174",
+      "title": "Thủ tướng: Các bộ trưởng nghiêm túc kiểm điểm trách nhiệm chậm ban hành văn bản",
+      "link": "https://tuoitre.vn/thu-tuong-cac-bo-truong-nghiem-tuc-kiem-diem-trach-nhiem-cham-ban-hanh-van-ban-20260517074114363.htm",
+      "summary": "Phó thủ tướng Lê Tiến Châu ký văn bản số 520 của Thủ tướng Chính phủ về việc khẩn trương ban hành các văn bản quy định chi tiết luật, nghị quyết của Quốc hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T09:48:37.850232+07:00",
+      "fetched": "2026-05-17T09:48:37.850329+07:00"
+    },
+    {
+      "id": "7fa76e3daaeb84998c237b425b44b971",
+      "title": "Tăng 8% lương hưu, lương và trợ cấp xã hội từ 1-7 lên mức tối thiểu từ 3,8 triệu/người/tháng",
+      "link": "https://tuoitre.vn/tang-8-luong-huu-luong-va-tro-cap-xa-hoi-tu-1-7-len-muc-toi-thieu-tu-3-8-trieu-nguoi-thang-20260517072210307.htm",
+      "summary": "Chính phủ ban hành Nghị định số 162/2026 điều chỉnh lương hưu, trợ cấp bảo hiểm xã hội và trợ cấp hằng tháng từ 1-7.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T09:48:37.850117+07:00",
+      "fetched": "2026-05-17T09:48:37.850222+07:00"
+    },
+    {
+      "id": "a5989d05ca829baeb804e6ceb403148b",
+      "title": "HLV Nguyễn Tuấn Phong: U17 Việt Nam hụt thể lực trước Úc",
+      "link": "https://tuoitre.vn/hlv-nguyen-tuan-phong-u17-viet-nam-hut-the-luc-truoc-uc-20260517071254388.htm",
+      "summary": "U17 Việt Nam thua 0-3 trước U17 Úc trận tứ kết U17 châu Á 2026 nhưng vẫn cầm tấm vé dự U17 World Cup.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T09:48:37.850013+07:00",
+      "fetched": "2026-05-17T09:48:37.850108+07:00"
+    },
+    {
+      "id": "3d5c8bd3f4c211fcf8454bd381e02761",
+      "title": "Doanh nghiệp thực phẩm gặp khó với hồ sơ tự công bố",
+      "link": "https://tuoitre.vn/doanh-nghiep-thuc-pham-gap-kho-voi-ho-so-tu-cong-bo-20260517062244005.htm",
+      "summary": "Nhiều doanh nghiệp cho biết dù có nhiều kiến nghị nhưng vẫn còn bị rối, vướng mắc với các quy định về an toàn thực phẩm, đặc biệt gặp khó với hồ sơ tự công bố bị 'thất lạc'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T09:48:37.849907+07:00",
+      "fetched": "2026-05-17T09:48:37.850004+07:00"
+    },
+    {
+      "id": "8d5732f14cdf8f11e801eec2348c0ac5",
+      "title": "Mua nông thủy hải sản từ nông dân: Chứng minh nguồn gốc hàng hóa như thế nào?",
+      "link": "https://tuoitre.vn/mua-nong-thuy-hai-san-tu-nong-dan-chung-minh-nguon-goc-hang-hoa-nhu-the-nao-20260517074915138.htm",
+      "summary": "Từ vụ lô hàng xác ve sầu bị cơ quan quản lý thị trường ở Lạng Sơn giữ lại để xác minh nguồn gốc, nhiều người dân buôn bán nhỏ lẻ lo lắng tìm hiểu quy định về giấy tờ nguồn gốc đối với nông, lâm, thủy, hải sản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T09:48:37.849801+07:00",
+      "fetched": "2026-05-17T09:48:37.849898+07:00"
+    },
+    {
+      "id": "39c3dacb6c6231b5505aab0281d5a5c2",
+      "title": "Nhà ở xã hội góp phần 'sâu rễ , bền gốc' cho tăng trưởng hai con số",
+      "link": "https://tuoitre.vn/nha-o-xa-hoi-gop-phan-sau-re-ben-goc-cho-tang-truong-hai-con-so-20260517061305979.htm",
+      "summary": "Con số dự án nhà ở xã hội đang triển khai trên toàn quốc và TP.HCM cho thấy sự tích cực, đáng mừng từ việc tháo gỡ khó khăn cho đầu tư nhà ở xã hội ngày càng được quan tâm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T09:48:37.849693+07:00",
+      "fetched": "2026-05-17T09:48:37.849792+07:00"
+    },
+    {
+      "id": "77d64977868f79233d48397700da048c",
+      "title": "Ca bệnh hy hữu: Từ nốt ruồi nhỏ, ung thư xâm nhập phá hủy cánh mũi",
+      "link": "https://tuoitre.vn/ca-benh-hy-huu-tu-not-ruoi-nho-ung-thu-xam-nhap-pha-huy-canh-mui-20260516110448162.htm",
+      "summary": "Bệnh nhân nữ gần 60 tuổi không ngờ rằng nốt ruồi nhỏ xuất hiện nhiều năm trước lại chính là dấu hiệu của ung thư biểu mô tế bào đáy. Khi đến bệnh viện khối u đã xâm lấn sâu, phá hủy gần như toàn bộ chân cánh mũi, lan tới niêm mạc và sụn vùng mũi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T09:48:37.849585+07:00",
+      "fetched": "2026-05-17T09:48:37.849683+07:00"
+    },
+    {
+      "id": "e77c60130547212df02cbcd677053aea",
+      "title": "Xúc động chiến sĩ bám bản, bám làng 'Vì bình yên bản làng' tại Sơn La",
+      "link": "https://tuoitre.vn/xuc-dong-chien-si-bam-ban-bam-lang-vi-binh-yen-ban-lang-tai-son-la-20260517073209932.htm",
+      "summary": "Qua những tiết mục nghệ thuật đặc sắc, dàn dựng công phu, mang đậm bản sắc văn hóa Tây Bắc, khán giả được sống lại những câu chuyện xúc động về hành trình bám bản, bám làng của người chiến sĩ công an.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T09:48:37.849478+07:00",
+      "fetched": "2026-05-17T09:48:37.849576+07:00"
+    },
+    {
+      "id": "278e5741d2859d0980faf4db79b193ed",
+      "title": "Ronaldo bị chê kém Messi về cách hành xử khi thất bại",
+      "link": "https://tuoitre.vn/ronaldo-bi-che-kem-messi-ve-cach-hanh-xu-khi-that-bai-20260517071332968.htm",
+      "summary": "Dù mang băng đội trưởng, Cristiano Ronaldo bất ngờ bỏ không tham gia buổi lễ trao huy chương sau trận thua của Al Nassr trước Gamba Osaka (Nhật Bản) ở chung kết AFC Champions League Two.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T09:48:37.849370+07:00",
+      "fetched": "2026-05-17T09:48:37.849468+07:00"
+    },
+    {
+      "id": "04331be713b73c2633e66bf89b10e9ec",
+      "title": "Phó chủ tịch Quốc hội giao xử lý vụ dân kiến nghị về thu hồi đất tại Nha Trang",
+      "link": "https://tuoitre.vn/pho-chu-tich-quoc-hoi-giao-xu-ly-vu-dan-kien-nghi-ve-thu-hoi-dat-tai-nha-trang-20260516194454968.htm",
+      "summary": "Ủy ban Dân nguyện và Giám sát của Quốc hội thông báo  Phó chủ tịch Quốc hội Nguyễn Khắc Định đã nhận đơn công dân và giao cho ủy ban xử lý kiến nghị về việc bị thu hồi đất tại dự án Sông Lô, Nha Trang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T09:48:37.849261+07:00",
+      "fetched": "2026-05-17T09:48:37.849361+07:00"
+    },
+    {
+      "id": "9f3b1624be8b5e7737b498fd6b4105ce",
+      "title": "CĐV Trung Quốc tiếc nuối khi không gặp U17 Việt Nam ở bán kết",
+      "link": "https://tuoitre.vn/cdv-trung-quoc-tiec-nuoi-khi-khong-gap-u17-viet-nam-o-ban-ket-20260517080745016.htm",
+      "summary": "Nhiều CĐV Trung Quốc đã bày tỏ sự tiếc nuối khi đội nhà không được gặp U17 Việt Nam ở bán kết Giải U17 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T09:48:37.849142+07:00",
+      "fetched": "2026-05-17T09:48:37.849251+07:00"
+    },
+    {
+      "id": "cc262bcd232d343645a7de745282a16d",
+      "title": "Thảm đỏ Cannes có đầm của nhà thiết kế Việt",
+      "link": "https://tuoitre.vn/tham-do-cannes-co-dam-cua-nha-thiet-ke-viet-20260517080634441.htm",
+      "summary": "Người đẹp Ấn Độ diện đầm đuôi cá của nhà thiết kế Nguyễn Minh Tuấn trên thảm đỏ Cannes lần thứ 79, tiếp tục góp thêm dấu ấn của thời trang Việt tại sự kiện điện ảnh danh giá thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T09:48:37.849032+07:00",
+      "fetched": "2026-05-17T09:48:37.849132+07:00"
+    },
+    {
+      "id": "0117cbffa66c82f5fe8ca3261ca75d79",
+      "title": "Ca sĩ Minh Châu Mimosa: ‘Tôi biết tôi là người được phép hát kém nhất đêm nay’",
+      "link": "https://tuoitre.vn/ca-si-minh-chau-mimosa-toi-biet-toi-la-nguoi-duoc-phep-hat-kem-nhat-dem-nay-2026051707513103.htm",
+      "summary": "Trở lại sân khấu sau 30 năm, ca sĩ Minh Châu tự nhận mình ‘là người được phép hát kém nhất đêm nay’ bên những người bạn như Hương Diệp Opera, Thanh Lam, Minh Thu, Tuấn Hiệp, Hà Lê, nhưng bà rất cảm động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T09:48:37.848917+07:00",
+      "fetched": "2026-05-17T09:48:37.849022+07:00"
+    },
+    {
+      "id": "4a6c0ed068784f8e6dedd80d9d181dfe",
+      "title": "Thượng đỉnh Mỹ - Trung và lựa chọn chiến lược của Việt Nam",
+      "link": "https://tuoitre.vn/thuong-dinh-my-trung-va-lua-chon-chien-luoc-cua-viet-nam-20260517062813993.htm",
+      "summary": "Lịch sử quan hệ giữa các cường quốc cho thấy khi tương quan sức mạnh thay đổi đến mức không bên nào còn đủ khả năng áp đảo tuyệt đối, cạnh tranh thường chuyển dần từ đối đầu trực diện sang thương lượng để tái lập trạng thái cân bằng quyền lực mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T09:48:37.848794+07:00",
+      "fetched": "2026-05-17T09:48:37.848907+07:00"
+    },
+    {
+      "id": "e8fc7f8221f8751c5868fd8cd49cbdf1",
+      "title": "Dạy trẻ đâu phải đòn roi",
+      "link": "https://tuoitre.vn/day-tre-dau-phai-don-roi-20260517082649401.htm",
+      "summary": "Các vụ bạo hành trẻ em dẫn đến hậu quả nghiêm trọng gần đây đang làm buốt tim nhiều người. Tại sao lại đến nỗi như vậy? Hàng xóm ở đâu, có nghe thấy tiếng khóc, có phản ứng gì không?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T09:48:37.848580+07:00",
+      "fetched": "2026-05-17T09:48:37.848781+07:00"
+    },
     {
       "id": "99fa4ac673eca278dae12b5a528f7271",
       "title": "Thời tiết hôm nay 17-5: Bớt nắng nóng, mưa tăng trên cả nước",
@@ -21,6 +171,106 @@ window.newsData_2026_05_17 = {
       "category": "Tổng hợp",
       "published": "2026-05-17T03:41:44.023702+07:00",
       "fetched": "2026-05-17T03:41:44.023798+07:00"
+    },
+    {
+      "id": "a4a9e799501be4c5d468cd3ed978d018",
+      "title": "WHO tuyên bố dịch Ebola hiện là tình trạng khẩn cấp gây quan ngại quốc tế",
+      "link": "https://thanhnien.vn/who-tuyen-bo-dich-ebola-hien-la-tinh-trang-khan-cap-gay-quan-ngai-quoc-te-185260517092821385.htm",
+      "summary": "Hôm nay 17.5, Tổ chức Y tế Thế giới (WHO) tuyên bố dịch Ebola ở CHDC Congo và Uganda là 'tình trạng khẩn cấp y tế cộng đồng gây quan ngại quốc tế', theo AFP.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T02:38:00+07:00",
+      "fetched": "2026-05-17T09:48:37.115948+07:00"
+    },
+    {
+      "id": "0e19c406bac2c6dd1784b470ef2580ea",
+      "title": "3 tinh chỉnh Windows 11 cần làm sau khi 'đập hộp' laptop",
+      "link": "https://thanhnien.vn/3-tinh-chinh-windows-11-can-lam-sau-khi-dap-hop-laptop-185260516133049593.htm",
+      "summary": "Laptop cấu hình 'khủng' vẫn chạy như rùa? Hãy tắt ngay 3 cài đặt mặc định này trên Windows 11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T02:38:00+07:00",
+      "fetched": "2026-05-17T09:48:37.116098+07:00"
+    },
+    {
+      "id": "d7d781096bcc5cd3856a0c7cae7ffc21",
+      "title": "Những người hùng U.17 Việt Nam trút lời gan ruột, quyết tâm tỏa sáng ở World Cup",
+      "link": "https://thanhnien.vn/nhung-nguoi-hung-u17-viet-nam-trut-loi-gan-ruot-quyet-tam-the-hien-o-world-cup-185260517093328043.htm",
+      "summary": "Thất bại trước Úc khiến U.17 Việt Nam chính thức khép lại hành trình ở VCK U.17 châu Á nhưng Chu Ngọc Nguyễn Lực và các đồng đội chắc chắc sẽ không dừng lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T02:34:00+07:00",
+      "fetched": "2026-05-17T09:48:37.116248+07:00"
+    },
+    {
+      "id": "f3c01f6e0ca7695feab15d347219bc42",
+      "title": "Khởi động Vietnamese 2026: Đặt 'viên gạch đầu tiên' cho khát vọng điện ảnh Việt",
+      "link": "https://thanhnien.vn/khoi-dong-vietnamese-2026-dat-vien-gach-dau-tien-cho-khat-vong-dien-anh-viet-185260517004642223.htm",
+      "summary": "Đặt con người làm trọng tâm phát triển điện ảnh bền vững, cuộc thi phim ngắn Vietnamese 2026 chính thức khởi động. Đây là bệ phóng chuyên nghiệp giúp các nhà làm phim trẻ đưa tác phẩm vươn đến sự kiện tầm cỡ như Liên hoan phim châu Á Đà Nẵng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T02:33:00+07:00",
+      "fetched": "2026-05-17T09:48:37.116385+07:00"
+    },
+    {
+      "id": "20de27d60c74648f17362e1dedeb7ae8",
+      "title": "Giá Bitcoin hôm nay 17.5.2026: BTC lao dốc, kết thúc tuần giao dịch sóng gió",
+      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-1752026-btc-lao-doc-ket-thuc-tuan-giao-dich-song-gio-185260517081614234.htm",
+      "summary": "Giá Bitcoin hôm nay tiếp tục lao dốc mạnh, có lúc thủng đáy 77.550 USD, kết thúc một tuần giao dịch nhiều biến động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T02:26:00+07:00",
+      "fetched": "2026-05-17T09:48:37.116516+07:00"
+    },
+    {
+      "id": "f4933df42b6ac1498c557414f22bb2fc",
+      "title": "300 trẻ em khó khăn được khám sức khỏe, tư vấn dinh dưỡng miễn phí",
+      "link": "https://thanhnien.vn/300-tre-em-kho-khan-duoc-kham-suc-khoe-tu-van-dinh-duong-mien-phi-185260517092455667.htm",
+      "summary": "Ngày 16.5, Hội Bảo vệ quyền trẻ em Việt Nam phối hợp với các đơn vị tổ chức chương trình kiểm tra sức khỏe và nâng cao nhận thức về dinh dưỡng cho trẻ em đồng bào dân tộc thiểu số tại phường Ba Ngòi, tỉnh Khánh Hòa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T02:23:00+07:00",
+      "fetched": "2026-05-17T09:48:37.116649+07:00"
+    },
+    {
+      "id": "6d44fb57d2128d2a3a72f6a520a62642",
+      "title": "TP.HCM không ‘nhồi cao ốc vào nội đô’, Hà Nội thì sao?",
+      "link": "https://thanhnien.vn/tphcm-khong-nhoi-cao-oc-vao-noi-do-ha-noi-thi-sao-185260516152740417.htm",
+      "summary": "Hà Nội đang thực hiện cuộc 'đại quy hoạch' lớn chưa từng có khi di dời hàng trăm nghìn hộ dân vùng lõi để tái thiết đô thị. Tuy nhiên, nhiều chung cư mới vẫn tiếp tục được 'nhồi' vào nội đô, gây áp lực lớn lên hạ tầng và giao thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T02:16:00+07:00",
+      "fetched": "2026-05-17T09:48:37.116777+07:00"
+    },
+    {
+      "id": "7e13f02e226030589c306fc82de6fa42",
+      "title": "TP.HCM: Cháy nhà ở phường Linh Xuân, thanh niên 20 tuổi tử vong",
+      "link": "https://thanhnien.vn/tphcm-chay-nha-o-phuong-linh-xuan-thanh-nien-20-tuoi-tu-vong-185260517090432953.htm",
+      "summary": "Sau khi dập tắt vụ cháy nhà ở phường Linh Xuân (TP.HCM), người dân phát hiện nam thanh niên 20 tuổi, con chủ nhà, đã tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T02:13:00+07:00",
+      "fetched": "2026-05-17T09:48:37.116907+07:00"
+    },
+    {
+      "id": "e2f577a3154eb8375274818e1076c6b7",
+      "title": "Tài tử Mark Ruffalo nghi bị Hollywood cho vào 'danh sách đen'",
+      "link": "https://thanhnien.vn/tai-tu-mark-ruffalo-nghi-bi-hollywood-cho-vao-danh-sach-den-185260517090747688.htm",
+      "summary": "Nam diễn viên đình đám Mark Ruffalo bày tỏ lo ngại bản thân đã bị đưa vào 'danh sách cấm' của các ông lớn điện ảnh, sau khi anh công khai dẫn đầu làn sóng phản đối thương vụ sáp nhập tỉ đô giữa Paramount và Warner Bros.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T02:07:00+07:00",
+      "fetched": "2026-05-17T09:48:37.117039+07:00"
+    },
+    {
+      "id": "22cc71ab1fb844991412fe1f808a595e",
+      "title": "Ronaldo vẫn còn cơ hội rất lớn đoạt ngôi vô địch, nếu làm được điều này",
+      "link": "https://thanhnien.vn/ronaldo-van-con-co-hoi-rat-lon-doat-ngoi-vo-dich-neu-lam-duoc-dieu-nay-185260517090620343.htm",
+      "summary": "Ronaldo đã trải qua một ngày hết sức buồn bã và đầy thất vọng, dù mọi thứ gần như đã được thiết lập để anh và các đồng đội ở Al Nassr có thể đăng quang hai chức vô địch liên tiếp chỉ trong vài giờ đồng hồ, ngày 17.5.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T02:07:00+07:00",
+      "fetched": "2026-05-17T09:48:37.117166+07:00"
     },
     {
       "id": "467b4c5117cbbb936827ea2f98ecc118",
@@ -171,6 +421,276 @@ window.newsData_2026_05_17 = {
       "category": "Tổng hợp",
       "published": "2026-05-17T02:00:26.014851+07:00",
       "fetched": "2026-05-17T02:00:26.015066+07:00"
+    },
+    {
+      "id": "73d70e4286082b67b8fe503e7ce93ed9",
+      "title": "6 món người bệnh tuyến giáp nên ăn và kiêng",
+      "link": "https://vnexpress.net/6-mon-nguoi-benh-tuyen-giap-nen-an-va-kieng-5074701.html",
+      "summary": "Cá, rong biển, sữa có hàm lượng iốt cao, hỗ trợ sức khỏe tuyến giáp, trong khi thịt chế biến sẵn chứa gluten, có thể làm trầm trọng thêm các triệu chứng bệnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T02:00:00+07:00",
+      "fetched": "2026-05-17T09:48:34.582617+07:00"
+    },
+    {
+      "id": "15eca92a6488af572bb46b8e1b5a07ab",
+      "title": "Đăng ký nguyện vọng, đây là điều quan trọng phải làm đầu tiên",
+      "link": "https://thanhnien.vn/dang-ky-nguyen-vong-day-la-dieu-quan-trong-phai-lam-dau-tien-185260516222825652.htm",
+      "summary": "Nhiều bạn cứ đắn đo không biết nên đặt nguyện vọng như thế nào để hợp lý và tối ưu, nhưng lại quên một điều rất quan trọng phải làm đầu tiên trước khi quyết định đăng ký nguyện vọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T02:00:00+07:00",
+      "fetched": "2026-05-17T09:48:37.117305+07:00"
+    },
+    {
+      "id": "927e49142b2bc7c0fa474a746241403c",
+      "title": "Người giữ ký ức đô thị Sài Gòn - TP.HCM",
+      "link": "https://thanhnien.vn/nguoi-giu-ky-uc-do-thi-sai-gon-tphcm-185260516210513369.htm",
+      "summary": "Tác giả Sài Gòn - Chuyện đời của phố cho rằng anh chọn viết về Sài Gòn xưa vì thấy cần chạy đua với thời gian khi nhân chứng dần thưa vắng hay lãng quên chuyện cũ; phần nữa, còn vì muốn giúp người trẻ hôm nay nhìn sâu hơn vào những \"trang sử phố\". Bởi với anh, \"Sài Gòn là một thành phố sinh động và ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T02:00:00+07:00",
+      "fetched": "2026-05-17T09:48:37.117434+07:00"
+    },
+    {
+      "id": "0391fd0c6b65e8e63d21db9e7052a957",
+      "title": "Mùa ô môi - Truyện ngắn của Minh Anh",
+      "link": "https://thanhnien.vn/mua-o-moi-truyen-ngan-cua-minh-anh-185260516160153802.htm",
+      "summary": "Ngày ấy, ngôi nhà của mẹ con nó nằm nép mình bên rìa xóm, sau một khoảng sân đất rộng loang lổ rêu xanh và những chiếc lu sành xếp hàng sau vườn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T02:00:00+07:00",
+      "fetched": "2026-05-17T09:48:37.117566+07:00"
+    },
+    {
+      "id": "5ad02b7384706e229fd836587fa9efaf",
+      "title": "FWD đa dạng hóa Kênh Đại lý để nâng cao trải nghiệm và phát triển dài hạn",
+      "link": "https://thanhnien.vn/fwd-da-dang-hoa-kenh-dai-ly-de-nang-cao-trai-nghiem-va-phat-trien-dai-han-185260515143426995.htm",
+      "summary": "Sau 10 năm hoạt động tại Việt Nam, FWD từng bước định hình cách xây dựng Kênh Đại lý theo hướng phát triển bền vững, chất lượng. Trong bối cảnh nhu cầu của khách hàng ngày càng đa dạng và tiêu chuẩn phục vụ ngày càng cao, cách tiếp cận Kênh Đại lý cũng cần linh hoạt hơn để theo kịp sự phát triển của...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T02:00:00+07:00",
+      "fetched": "2026-05-17T09:48:37.117695+07:00"
+    },
+    {
+      "id": "3ddc1e134d6c7a84cd8851b8cce03890",
+      "title": "Cẩm nang du lịch đảo Cồn Cỏ",
+      "link": "https://vnexpress.net/cam-nang-du-lich-dao-con-co-5074347.html",
+      "summary": "Đặc khu Cồn Cỏ cách đất liền khoảng 15 hải lý, thiên nhiên hoang sơ với nhiều loài cây rừng, hải sản quý hiếm, được nhiều du khách lựa chọn khi đến tham quan Quảng Trị đặc biệt vào dịp hè.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T01:57:49+07:00",
+      "fetched": "2026-05-17T09:48:34.582774+07:00"
+    },
+    {
+      "id": "eec0740e4458ab9954f494feabad54d2",
+      "title": "Venezuela trục xuất đồng minh của ông Maduro sang Mỹ",
+      "link": "https://vnexpress.net/venezuela-truc-xuat-dong-minh-cua-ong-maduro-sang-my-5074811.html",
+      "summary": "Venezuela trục xuất cựu bộ trưởng công nghiệp Alex Saab, đồng minh thân cận của Tổng thống Nicolas Maduro, sang Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T01:56:31+07:00",
+      "fetched": "2026-05-17T09:48:34.582915+07:00"
+    },
+    {
+      "id": "eec0740e4458ab9954f494feabad54d2",
+      "title": "Venezuela trục xuất đồng minh của ông Maduro sang Mỹ",
+      "link": "https://vnexpress.net/venezuela-truc-xuat-dong-minh-cua-ong-maduro-sang-my-5074811.html",
+      "summary": "Venezuela trục xuất cựu bộ trưởng công nghiệp Alex Saab, đồng minh thân cận của Tổng thống Nicolas Maduro, sang Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-17T01:56:31+07:00",
+      "fetched": "2026-05-17T09:48:39.838763+07:00"
+    },
+    {
+      "id": "d4db6a819e75d9b682432a5f0f265fd7",
+      "title": "Lội ngược dòng, bộ phim về Michael Jackson trở lại vị trí số 1 phòng vé",
+      "link": "https://thanhnien.vn/loi-nguoc-dong-bo-phim-ve-michael-jackson-tro-lai-vi-tri-so-1-phong-ve-185260517072121905.htm",
+      "summary": "Không chỉ xuất sắc đánh bại quán quân tuần trước là 'Obsession', bộ phim 'Michael' còn chứng minh sức hút vượt trội của mình khi vượt qua 'The devil wears prada 2', chính thức giành lại vị trí số 1 phòng vé Bắc Mỹ tuần này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T01:37:00+07:00",
+      "fetched": "2026-05-17T09:48:37.117826+07:00"
+    },
+    {
+      "id": "9d05bc6ee1f75b73d7c9a0d915f8c07b",
+      "title": "'The Devil Wears Prada 2' - quyền lực bà trùm lung lay",
+      "link": "https://vnexpress.net/giai-tri/phim/thu-vien-phim/the-devil-wears-prada-2-901",
+      "summary": "Cảnh Miranda Priestly ngồi máy bay khoang phổ thông trong \"The Devil Wears Prada 2\" là sự châm biếm về giai đoạn chật vật của ngành xuất bản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T01:35:41+07:00",
+      "fetched": "2026-05-17T09:48:34.583052+07:00"
+    },
+    {
+      "id": "7cdea520a818d6d1b593b461d8afff98",
+      "title": "Khách sạn mùa World Cup 2026 có nguy cơ ế phòng",
+      "link": "https://vnexpress.net/khach-san-mua-world-cup-2026-co-nguy-co-e-phong-5074624.html",
+      "summary": "Thế giới đang chờ đón sự kiện bóng đá lớn nhất hành tinh nhưng khách sạn ở khu vực Bắc Mỹ lại đang trống nhiều hơn dự kiến, có nơi mới lấp đầy 30%.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T01:24:15+07:00",
+      "fetched": "2026-05-17T09:48:34.583187+07:00"
+    },
+    {
+      "id": "623d8607d5496b4a3df73993777c17a6",
+      "title": "7 mỹ phẩm bị thu hồi do sai công thức và nhãn mác",
+      "link": "https://vnexpress.net/7-my-pham-bi-thu-hoi-do-sai-cong-thuc-va-nhan-mac-5074815.html",
+      "summary": "Cục Quản lý Dược (Bộ Y tế) đình chỉ lưu hành, thu hồi toàn quốc 7 sản phẩm mỹ phẩm của hai công ty do vi phạm quy định về công thức và ghi nhãn sản phẩm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T01:24:09+07:00",
+      "fetched": "2026-05-17T09:48:34.583291+07:00"
+    },
+    {
+      "id": "421d1e9f4f9a3a10194f4602d542e155",
+      "title": "Máy tính lượng tử Trung Quốc nhanh hơn siêu máy tính của Mỹ",
+      "link": "https://vnexpress.net/may-tinh-luong-tu-trung-quoc-nhanh-hon-sieu-may-tinh-cua-my-5074717.html",
+      "summary": "Máy tính lượng tử Jiuzhang 4.0 chỉ mất vài chục micro giây để xử lý bài toán mà siêu máy tính mạnh nhất thế giới của Mỹ cần hơn 10^42 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T01:00:00+07:00",
+      "fetched": "2026-05-17T09:48:34.583430+07:00"
+    },
+    {
+      "id": "70825e6be589184cd15ead91aece6c46",
+      "title": "Lối sống 'hàng đổi hàng' tái xuất tại Mỹ",
+      "link": "https://vnexpress.net/loi-song-hang-doi-hang-tai-xuat-tai-my-5074532.html",
+      "summary": "Áp lực chi phí sinh hoạt khiến nhiều người Mỹ quay lại trào lưu \"hàng đổi hàng\", dùng kỹ năng cá nhân để trao đổi dịch vụ thay vì thanh toán bằng tiền mặt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T01:00:00+07:00",
+      "fetched": "2026-05-17T09:48:34.583564+07:00"
+    },
+    {
+      "id": "2f217dd2160f93d922c89ecfd00c8efe",
+      "title": "Bé gái nguy kịch sau khi mắc kẹt cổ vào cánh cổng sắt",
+      "link": "https://vnexpress.net/be-gai-nguy-kich-sau-khi-mac-ket-co-vao-canh-cong-sat-5074497.html",
+      "summary": "Bé 3 tuổi chui cổng sắt để ra ngoài chơi, không may bị mắc kẹt, nhập viện trong tình trạng suy hô hấp, chấn thương cổ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T01:00:00+07:00",
+      "fetched": "2026-05-17T09:48:34.583698+07:00"
+    },
+    {
+      "id": "92a765f806dda802cf0bcae98e0609a5",
+      "title": "Cần thủ 'tắt điện' khi đàn trâu kéo đến quậy tung điểm câu",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-can-thu-tat-dien-khi-dan-trau-keo-den-quay-tung-diem-cau-5070248.html",
+      "summary": "Đang ngồi câu yên ổn, anh chàng bất ngờ bị hơn chục con trâu ghé thăm, phá tan khung cảnh yên bình khiến ai xem cũng bật cười.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T01:00:00+07:00",
+      "fetched": "2026-05-17T09:48:34.583834+07:00"
+    },
+    {
+      "id": "2030a9e4f4b3e223ea0775c4b02fa3df",
+      "title": "Những dấu hiệu nhận biết tóc hư tổn",
+      "link": "https://vnexpress.net/nhung-dau-hieu-nhan-biet-toc-hu-ton-5074775.html",
+      "summary": "Tóc khô, dễ gãy, chẻ ngọn, rụng nhiều, càng chải càng rối có thể cảnh báo cấu trúc sợi tóc đang hư tổn từ bên trong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T01:00:00+07:00",
+      "fetched": "2026-05-17T09:48:34.583964+07:00"
+    },
+    {
+      "id": "392469fb16dcdb9d04b1a9d968b913e4",
+      "title": "Dùng quạt hơi nước thế nào tránh mắc bệnh hô hấp?",
+      "link": "https://vnexpress.net/dung-quat-hoi-nuoc-the-nao-tranh-mac-benh-ho-hap-5074724.html",
+      "summary": "Trời nóng, tôi bật quạt hơi nước cả ngày đêm trong phòng kín. Gần đây, hai con tôi bị ho, nghẹt mũi, rát họng, có phải do quạt ảnh hưởng hệ hô hấp? (Bình, 31 tuổi, Hưng Yên)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T01:00:00+07:00",
+      "fetched": "2026-05-17T09:48:34.584096+07:00"
+    },
+    {
+      "id": "8a1fb3d06b29615c1a92b3ee93287a68",
+      "title": "Người dân Côn Đảo được tiêm ngừa cúm miễn phí ba năm",
+      "link": "https://vnexpress.net/nguoi-dan-con-dao-duoc-tiem-ngua-cum-mien-phi-ba-nam-5074702.html",
+      "summary": "VNVC tài trợ hơn 10 tỷ đồng cho Côn Đảo, tiêm miễn phí vaccine cúm trong ba năm và đầu tư kho lạnh bảo quản vaccine đạt chuẩn GSP đầu tiên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T01:00:00+07:00",
+      "fetched": "2026-05-17T09:48:34.584239+07:00"
+    },
+    {
+      "id": "b2adc3695162fa4a42acdd838fc44658",
+      "title": "Xạ trị ngực trái có ảnh hưởng đến tim, phổi không?",
+      "link": "https://vnexpress.net/xa-tri-nguc-trai-co-anh-huong-den-tim-phoi-khong-5074592.html",
+      "summary": "Tôi được chẩn đoán ung thư vú, khối u bên ngực trái, được chỉ định xạ trị. Phương pháp này có ảnh hưởng đến tim, phổi không, hạn chế tác động thế nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T01:00:00+07:00",
+      "fetched": "2026-05-17T09:48:34.584370+07:00"
+    },
+    {
+      "id": "064f58c4ea7c517bf05870baa94cdef9",
+      "title": "Sau hóa trị ung thư vú bao lâu có thể mang thai?",
+      "link": "https://vnexpress.net/sau-hoa-tri-ung-thu-vu-bao-lau-co-the-mang-thai-5074550.html",
+      "summary": "Tôi đã hoàn thành hóa trị ung thư vú gần một năm, sức khỏe ổn định. Sau hóa trị bao lâu, tôi có thể mang thai? (Minh Khánh, tỉnh Ninh Bình)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T01:00:00+07:00",
+      "fetched": "2026-05-17T09:48:34.584499+07:00"
+    },
+    {
+      "id": "421d1e9f4f9a3a10194f4602d542e155",
+      "title": "Máy tính lượng tử Trung Quốc nhanh hơn siêu máy tính của Mỹ",
+      "link": "https://vnexpress.net/may-tinh-luong-tu-trung-quoc-nhanh-hon-sieu-may-tinh-cua-my-5074717.html",
+      "summary": "Máy tính lượng tử Jiuzhang 4.0 chỉ mất vài chục micro giây để xử lý bài toán mà siêu máy tính mạnh nhất thế giới của Mỹ cần hơn 10^42 năm.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-17T01:00:00+07:00",
+      "fetched": "2026-05-17T09:48:43.584958+07:00"
+    },
+    {
+      "id": "7e01be7a3d978ae20d7e5c34f79fa9b9",
+      "title": "Thủ tướng Đức: Mỹ không còn là miền đất hứa",
+      "link": "https://vnexpress.net/thu-tuong-duc-my-khong-con-la-mien-dat-hua-5074804.html",
+      "summary": "Thủ tướng Merz cho biết ông sẽ không khuyên các con sang Mỹ học tập và làm việc vì Mỹ không còn là miền đất hứa.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-17T00:48:42+07:00",
+      "fetched": "2026-05-17T09:48:39.838918+07:00"
+    },
+    {
+      "id": "d22633290ce787b30f127e1951b2e7c2",
+      "title": "Vận hành nền tảng truyền số liệu riêng cho cơ quan Đảng, Nhà nước",
+      "link": "https://vnexpress.net/van-hanh-nen-tang-truyen-so-lieu-rieng-cho-co-quan-dang-nha-nuoc-5074792.html",
+      "summary": "Nền tảng CPT Speedtest được Cục Bưu điện Trung ương phát triển, giúp cán bộ chuyên trách có thể tự đo, kiểm tra trực quan chất lượng kết nối của mạng truyền số liệu chuyên dùng theo thời gian thực.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-17T00:40:12+07:00",
+      "fetched": "2026-05-17T09:48:43.585274+07:00"
+    },
+    {
+      "id": "3c3eed1e196be6d1b5ad1ccf3fa26224",
+      "title": "Salah kêu gọi Liverpool tìm lại bản sắc 'heavy metal'",
+      "link": "https://vnexpress.net/salah-keu-goi-liverpool-tim-lai-ban-sac-heavy-metal-5074800.html",
+      "summary": "Mohamed Salah cho rằng Liverpool đang đánh mất bản sắc dưới thời HLV Arne Slot, và kêu gọi đội bóng trở lại lối chơi tấn công rực lửa từng khiến các đối thủ e ngại trong kỷ nguyên Jurgen Klopp.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-17T00:29:25+07:00",
+      "fetched": "2026-05-17T09:48:44.478866+07:00"
+    },
+    {
+      "id": "3b464f24432186eeeac3cf085942e915",
+      "title": "Israel hạ thủ lĩnh 'Bóng ma' của cánh vũ trang Hamas",
+      "link": "https://vnexpress.net/israel-ha-thu-linh-bong-ma-cua-canh-vu-trang-hamas-5074802.html",
+      "summary": "Quân đội Israel tuyên bố đã hạ sát Ezzedine Al-Haddad, thủ lĩnh cánh vũ trang Hamas, ở phía bắc Dải Gaza sau nhiều năm truy lùng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-17T00:20:07+07:00",
+      "fetched": "2026-05-17T09:48:39.839063+07:00"
+    },
+    {
+      "id": "334a32e8e1a4c5e87dc1a3991c08f71d",
+      "title": "Guardiola cấm cầu thủ uống bia sau khi đoạt Cup FA",
+      "link": "https://vnexpress.net/guardiola-cam-cau-thu-uong-bia-sau-khi-doat-cup-fa-5074795.html",
+      "summary": "HLV Pep Guardiola khẳng định cầu thủ Man City không được phép uống dù chỉ một cốc bia để ăn mừng Cup FA, vì toàn đội phải tập trung cho cuộc đua Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-17T00:11:21+07:00",
+      "fetched": "2026-05-17T09:48:44.478996+07:00"
     },
     {
       "id": "cd7dc0be12b391eabf884c42e4534372",
@@ -631,6 +1151,16 @@ window.newsData_2026_05_17 = {
       "category": "Tổng hợp",
       "published": "2026-05-16T17:02:00+07:00",
       "fetched": "2026-05-17T02:00:21.753286+07:00"
+    },
+    {
+      "id": "0259fcf8fac7f1d33e9031e7b87c78e4",
+      "title": "Ninh Bình thắng ngược Suwon City ở giải bóng chuyền nữ quốc tế",
+      "link": "https://vnexpress.net/ninh-binh-thang-nguoc-suwon-city-o-giai-bong-chuyen-nu-quoc-te-5074783.html",
+      "summary": "Đội bóng Cố đô Hoa Lư LPBank Ninh Bình ngược dòng 3-1 trước Suwon City ở trận ra quân bảng B giải bóng chuyền nữ quốc tế VTV9 - Bình Điền 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-16T17:00:36+07:00",
+      "fetched": "2026-05-17T09:48:44.479543+07:00"
     },
     {
       "id": "eaf1a67675ccddc7eaa246932579e003",
