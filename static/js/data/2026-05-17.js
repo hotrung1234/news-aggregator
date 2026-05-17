@@ -1,7 +1,157 @@
 window.newsData_2026_05_17 = {
   "date": "2026-05-17",
-  "lastUpdated": "2026-05-17T16:44:25.609191+07:00",
+  "lastUpdated": "2026-05-17T18:02:30.903288+07:00",
   "articles": [
+    {
+      "id": "5219599e876a6afc2f264ec5bbbf5ee5",
+      "title": "Chợ tự phát hoạt động náo nhiệt giữa khuya ở Hà Nội",
+      "link": "https://tuoitre.vn/cho-tu-phat-hoat-dong-nao-nhiet-giua-khuya-o-ha-noi-20260517120114725.htm",
+      "summary": "Khu chợ này hoạt động từ nửa đêm đến rạng sáng, với hàng chục ki ốt hoa tươi mua bán tấp nập, xe tải chở hàng ra vào khu đất nườm nượp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T18:02:22.152435+07:00",
+      "fetched": "2026-05-17T18:02:22.152557+07:00"
+    },
+    {
+      "id": "d21c8344ac051ba65ac84a8a39c92d62",
+      "title": "Container đậu gần kín làn xe máy trên đường Thống Nhất",
+      "link": "https://tuoitre.vn/container-dau-gan-kin-lan-xe-may-tren-duong-thong-nhat-20260516143925302.htm",
+      "summary": "Ô tô, đặc biệt là container, thường xuyên dừng đậu chiếm gần hết làn đường dành cho xe máy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T18:02:22.152284+07:00",
+      "fetched": "2026-05-17T18:02:22.152423+07:00"
+    },
+    {
+      "id": "030380a89c8bd013b249fe99a734202f",
+      "title": "Ronaldo nhận hai 'nỗi đau' liên tiếp trong 4 ngày",
+      "link": "https://tuoitre.vn/ronaldo-nhan-hai-noi-dau-lien-tiep-trong-4-ngay-20260517140746188.htm",
+      "summary": "Ronaldo và CLB Al Nassr vừa phải trải qua một tuần lễ đầy ác mộng khi liên tiếp đón nhận hai cú sốc lớn trên sân cỏ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T18:02:22.152157+07:00",
+      "fetched": "2026-05-17T18:02:22.152273+07:00"
+    },
+    {
+      "id": "d123c64eec1d5987fd65bf162d884d2c",
+      "title": "Thêm một cây xanh bị 'lột da' ở Quảng Ngãi",
+      "link": "https://tuoitre.vn/them-mot-cay-xanh-bi-lot-da-o-quang-ngai-20260517143748138.htm",
+      "summary": "Cây sao đen ở cuối đường Trần Kiên (phường Cẩm Thành, tỉnh Quảng Ngãi) bị 'lột da', dấu vết của việc xâm hại cây xanh còn mới, nhựa cây chảy tràn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T18:02:22.152020+07:00",
+      "fetched": "2026-05-17T18:02:22.152135+07:00"
+    },
+    {
+      "id": "0cf0e593a1dfb000dcd5adeb228a1a62",
+      "title": "Đội Thanh Hóa háo hức chờ Giải bóng đá công nhân, viên chức Việt Nam 2026",
+      "link": "https://tuoitre.vn/doi-thanh-hoa-hao-huc-cho-giai-bong-da-cong-nhan-vien-chuc-viet-nam-2026-20260517111505566.htm",
+      "summary": "Giải bóng đá công nhân, viên chức Việt Nam 2026 sẽ được khởi động bằng buổi họp báo diễn ra ngày 20-5 tại Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T18:02:22.151897+07:00",
+      "fetched": "2026-05-17T18:02:22.152010+07:00"
+    },
+    {
+      "id": "aeedf3f78392919f1ca1bd7536aa5476",
+      "title": "Xưa con dâu không dám cãi mẹ chồng, giờ 'nàng dâu hỗn' cái gì cũng nói cho ra lẽ",
+      "link": "https://tuoitre.vn/xua-con-dau-khong-dam-cai-me-chong-gio-nang-dau-hon-cai-gi-cung-noi-cho-ra-le-20260406111128206.htm",
+      "summary": "Trong không gian tưởng như ấm áp nhất là gia đình lại tồn tại một mối quan hệ dễ 'lệch pha' nhất: mẹ chồng và nàng dâu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T18:02:22.151773+07:00",
+      "fetched": "2026-05-17T18:02:22.151886+07:00"
+    },
+    {
+      "id": "1f0a75017cef0bf55717511d72bd16e6",
+      "title": "U17 Việt Nam về nước vào chiều 18-5",
+      "link": "https://tuoitre.vn/u17-viet-nam-ve-nuoc-vao-chieu-18-5-20260517152419349.htm",
+      "summary": "Đội tuyển U17 Việt Nam sẽ lên đường về nước vào tối nay (17-5 giờ Saudi Arabia), dự kiến có mặt tại Hà Nội chiều mai (18-5 giờ Việt Nam).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T18:02:22.151648+07:00",
+      "fetched": "2026-05-17T18:02:22.151762+07:00"
+    },
+    {
+      "id": "b629dca22117ec9d3e78cf64bca3f099",
+      "title": "Vụ đánh nhau gây náo loạn tại quán nhậu ở Đồng Tháp: Thêm 4 người đầu thú",
+      "link": "https://tuoitre.vn/vu-danh-nhau-gay-nao-loan-tai-quan-nhau-o-dong-thap-them-4-nguoi-dau-thu-20260517153254072.htm",
+      "summary": "Công an phường Cao Lãnh, tỉnh Đồng Tháp cho biết có thêm 4 người ra đầu thú liên quan vụ đánh nhau gây náo loạn tại quán nhậu ở Cao Lãnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T18:02:22.151521+07:00",
+      "fetched": "2026-05-17T18:02:22.151637+07:00"
+    },
+    {
+      "id": "da0a05126d09476d1f44ffa261ac3c32",
+      "title": "Mở lối xuống biển cho dân đi: Điều chỉnh quy hoạch dự án ven biển Đà Nẵng",
+      "link": "https://tuoitre.vn/mo-loi-xuong-bien-cho-dan-di-dieu-chinh-quy-hoach-du-an-ven-bien-da-nang-2026051711571645.htm",
+      "summary": "Thành phố thu hồi một phần diện tích của một số dự án để đầu tư công viên, bãi tắm và bổ sung các lối xuống biển.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T18:02:22.151391+07:00",
+      "fetched": "2026-05-17T18:02:22.151510+07:00"
+    },
+    {
+      "id": "f53eaa52300c22e2036c2ab9a8bf5627",
+      "title": "Giáo dục xuyên quốc gia của Anh: Số lượng sinh viên tăng đưa Việt Nam thành ngoại lệ",
+      "link": "https://tuoitre.vn/giao-duc-xuyen-quoc-gia-cua-anh-so-luong-sinh-vien-tang-dua-viet-nam-thanh-ngoai-le-20260517153112266.htm",
+      "summary": "Báo cáo của Hội đồng Anh cho thấy Việt Nam đang nổi lên như một điểm tăng trưởng đáng chú ý của các chương trình đào tạo liên kết, từ xa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T18:02:22.151236+07:00",
+      "fetched": "2026-05-17T18:02:22.151378+07:00"
+    },
+    {
+      "id": "a2ac019d13dc75ddf9c40f302ace2258",
+      "title": "Người hâm mộ tin U17 Việt Nam sẽ làm nên chuyện ở World Cup",
+      "link": "https://tuoitre.vn/nguoi-ham-mo-tin-u17-viet-nam-se-lam-nen-chuyen-o-world-cup-20260517103621011.htm",
+      "summary": "Dù phải dừng bước ở tứ kết Giải U17 châu Á, người hâm mộ bóng đá nước nhà vẫn tin rằng U17 Việt Nam sẽ tiến xa ở World Cup cuối năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T18:02:22.151106+07:00",
+      "fetched": "2026-05-17T18:02:22.151224+07:00"
+    },
+    {
+      "id": "38e9cc1d1d6356ba04c07ca8c3a26555",
+      "title": "Hào hứng học chống đuối nước, xử lý tình huống thiên tai tại Tiếp sức nhà nông Tây Ninh",
+      "link": "https://tuoitre.vn/hao-hung-hoc-chong-duoi-nuoc-xu-ly-tinh-huong-thien-tai-tai-tiep-suc-nha-nong-tay-ninh-2026051715361642.htm",
+      "summary": "Sáng 17-5, hơn 40 hộ gia đình nông dân đã đến UBND xã Phước Vinh, tỉnh Tây Ninh từ sớm để tham gia chương trình Tiếp sức nhà nông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T18:02:22.150973+07:00",
+      "fetched": "2026-05-17T18:02:22.151095+07:00"
+    },
+    {
+      "id": "0b55a8f721bfe4da372d2ffd44167e64",
+      "title": "Tiếp sức nhà nông ở Tây Ninh: Có vốn rồi, có nghị lực, khó khăn sẽ qua",
+      "link": "https://tuoitre.vn/tiep-suc-nha-nong-o-tay-ninh-co-von-roi-co-nghi-luc-kho-khan-se-qua-20260517155221743.htm",
+      "summary": "Tuổi Trẻ, GreenFeed Việt Nam phối hợp Hội Nông dân và Tỉnh đoàn Tây Ninh trao vốn Chương trình Tiếp sức nhà nông cho 40 hộ nông dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T18:02:22.150836+07:00",
+      "fetched": "2026-05-17T18:02:22.150961+07:00"
+    },
+    {
+      "id": "96527cbf09ad8011805ad7f5ab65396f",
+      "title": "TP.HCM mưa dông mạnh, gió giật ầm ầm",
+      "link": "https://tuoitre.vn/tp-hcm-mua-dong-manh-gio-giat-am-am-20260517161358728.htm",
+      "summary": "Cuối giờ chiều 17-5, cơn mưa dông kéo đến TP.HCM kèm theo gió giật mạnh, một số công trình trang trí bị gió thổi ngã xuống đường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T18:02:22.150691+07:00",
+      "fetched": "2026-05-17T18:02:22.150824+07:00"
+    },
+    {
+      "id": "56331dc60e76cf3c9668807172a857d6",
+      "title": "Mỹ dừng gia hạn miễn trừ trừng phạt dầu Nga",
+      "link": "https://tuoitre.vn/my-dung-gia-han-mien-tru-trung-phat-dau-nga-20260517162445985.htm",
+      "summary": "Mỹ từng hai lần gia hạn miễn trừ trừng phạt đối với một số loại dầu của Nga nhằm ổn định thị trường vì căng thẳng Trung Đông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T18:02:22.150447+07:00",
+      "fetched": "2026-05-17T18:02:22.150677+07:00"
+    },
     {
       "id": "f2187ba90388710d5beee96bf7e83c94",
       "title": "Ai đủ sức thay thế Thanh Thúy trong phim mới về Võ Thị Sáu?",
@@ -303,6 +453,206 @@ window.newsData_2026_05_17 = {
       "fetched": "2026-05-17T13:42:24.675526+07:00"
     },
     {
+      "id": "4c71fcb55f66278f86aba323e8b9a070",
+      "title": "Nguyễn Văn Chung: Pháp luật vào cuộc vụ bản quyền là một tín hiệu đáng mừng",
+      "link": "https://thanhnien.vn/nguyen-van-chung-phap-luat-vao-cuoc-vu-ban-quyen-la-mot-tin-hieu-dang-mung-185260517160757597.htm",
+      "summary": "Việc pháp luật vào cuộc vụ bản quyền giúp Nguyễn Văn Chung có niềm tin rằng mình sắp thật sự được bảo vệ, còn những người ăn cắp chất xám sẽ bị trừng trị nghiêm khắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T10:56:00+07:00",
+      "fetched": "2026-05-17T18:02:21.098337+07:00"
+    },
+    {
+      "id": "32d43855d16f06d2925e43dc252c1118",
+      "title": "Cảnh giác chiêu 'trả tiền rồi đổi ý' xuất hiện tại nhiều tiệm tạp hóa Cà Mau",
+      "link": "https://thanhnien.vn/canh-giac-chieu-tra-tien-roi-doi-y-xuat-hien-tai-nhieu-tiem-tap-hoa-ca-mau-185260517170340756.htm",
+      "summary": "Nhiều fanpage ở Cà Mau đăng cảnh báo về một đôi nam nữ giả vờ mua hàng tại các tiệm tạp hóa, liên tục đổi cách thanh toán để gây phân tâm rồi yêu cầu thối lại tờ 500.000 đồng đã nhận trước đó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T10:54:00+07:00",
+      "fetched": "2026-05-17T18:02:21.098516+07:00"
+    },
+    {
+      "id": "eb55885b75dd93597d7c778648c28757",
+      "title": "Nhật siết visa lao động khiến ngành nhà hàng lao đao",
+      "link": "https://vnexpress.net/nhat-siet-visa-lao-dong-khien-nganh-nha-hang-lao-dao-5074937.html",
+      "summary": "Việc Nhật Bản tạm ngừng cấp visa lao động kỹ năng đặc biệt loại I đang khiến ngành dịch vụ ăn uống khan hiếm nhân sự.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-17T10:48:57+07:00",
+      "fetched": "2026-05-17T18:02:24.004920+07:00"
+    },
+    {
+      "id": "12538cdc045fc41fc2705b6a807667f8",
+      "title": "U.19 Việt Nam liên tiếp thắng đối thủ hơn tuổi khi tập huấn Nhật Bản",
+      "link": "https://thanhnien.vn/u19-viet-nam-lien-tiep-thang-doi-thu-hon-tuoi-khi-tap-huan-nhat-ban-18526051716590442.htm",
+      "summary": "Sau khi sang đến Nhật Bản, đội tuyển U.19 Việt Nam đã trải qua 2 trận đấu với những đối thủ hơn tuổi đến từ ĐH Shizuoka Sangyo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T10:36:00+07:00",
+      "fetched": "2026-05-17T18:02:21.098677+07:00"
+    },
+    {
+      "id": "88ae8e26a359282fca02add84497e3e9",
+      "title": "Đội tuyển Iran sang Thổ Nhĩ Kỳ tập huấn: Chưa có visa đến Mỹ dự World Cup?",
+      "link": "https://thanhnien.vn/doi-tuyen-iran-sang-tho-nhi-ky-tap-huan-chua-co-visa-den-my-du-world-cup-185260517162000269.htm",
+      "summary": "Đội tuyển Iran sẽ đến Thổ Nhĩ Kỳ để bắt đầu chuyến tập huấn, giao hữu và hoàn thành việc xin visa trước khi đến Mỹ tham dự World Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T10:35:00+07:00",
+      "fetched": "2026-05-17T18:02:21.098833+07:00"
+    },
+    {
+      "id": "6b4fa6d84adc74e00afa4b2ebdceaba5",
+      "title": "Phó chỉ huy IS toàn cầu bị Mỹ, Nigeria hợp sức tiêu diệt",
+      "link": "https://thanhnien.vn/pho-chi-huy-is-toan-cau-bi-my-nigeria-hop-suc-tieu-diet-185260517162210547.htm",
+      "summary": "Theo Tổng thống Mỹ Donald Trump và Tổng thống Nigeria Bola Ahmed Tinubu, phó chỉ huy ISIS toàn cầu Abu-Bilal al-Minuki đã bị tiêu diệt trong một chiến dịch do lực lượng Mỹ và Nigeria tiến hành ở phía đông bắc của quốc gia châu Phi này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T10:30:00+07:00",
+      "fetched": "2026-05-17T18:02:21.098987+07:00"
+    },
+    {
+      "id": "41a68a752b13cd3b25ddc11cc100affb",
+      "title": "Không giỏi toán có học được các ngành khoa học, công nghệ?",
+      "link": "https://thanhnien.vn/khong-gioi-toan-co-hoc-duoc-cac-nganh-khoa-hoc-cong-nghe-185260517161503433.htm",
+      "summary": "Nhiều thí sinh chia sẻ băn khoăn không học giỏi toán liệu có thể theo học các ngành khoa học, công nghệ được không?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T10:26:00+07:00",
+      "fetched": "2026-05-17T18:02:21.099144+07:00"
+    },
+    {
+      "id": "ee34587ec65e727fe330580a46df1662",
+      "title": "Thủ lĩnh 'Bóng ma' của Hamas bị Israel hạ sát ở ở Gaza",
+      "link": "https://thanhnien.vn/thu-linh-bong-ma-cua-hamas-bi-israel-ha-sat-o-o-gaza-185260517165440423.htm",
+      "summary": "Quân đội Israel cho biết họ đã tiêu diệt thủ lĩnh cánh quân sự của lực lượng Hamas trong một cuộc không kích vào Gaza ngày 15.5. Đây là quan chức cấp cao nhất của Hamas bị Israel giết chết kể từ thỏa thuận ngừng bắn do Mỹ hậu thuẫn hồi tháng 10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T10:25:00+07:00",
+      "fetched": "2026-05-17T18:02:21.099301+07:00"
+    },
+    {
+      "id": "cb39efce28271e3129ebcc8d09bda7e5",
+      "title": "Đồng Nai bỏ chủ trương đầu tư dự án khu dân cư 2,3 ha tại Bình Đa",
+      "link": "https://vnexpress.net/dong-nai-bo-chu-truong-dau-tu-du-an-khu-dan-cu-2-3-ha-tai-binh-da-5074693.html",
+      "summary": "UBND TP Đồng Nai vừa bỏ chủ trương đầu tư dự án Khu dân cư Bình Đa do việc giao đất cho doanh nghiệp trước đây không qua đấu giá quyền sử dụng đất theo quy định.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T10:22:58+07:00",
+      "fetched": "2026-05-17T18:02:17.604759+07:00"
+    },
+    {
+      "id": "f768d94dc8c24a09fd6a76cb1be3f57f",
+      "title": "Giá vàng được dự báo giảm tiếp tuần sau",
+      "link": "https://vnexpress.net/gia-vang-duoc-du-bao-giam-tiep-tuan-sau-5074909.html",
+      "summary": "Nhiều nhà phân tích Phố Wall dự báo giá vàng thế giới giảm trong tuần tới do chịu sức ép từ giá dầu và rủi ro thắt chặt tiền tệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T10:22:36+07:00",
+      "fetched": "2026-05-17T18:02:17.604957+07:00"
+    },
+    {
+      "id": "f768d94dc8c24a09fd6a76cb1be3f57f",
+      "title": "Giá vàng được dự báo giảm tiếp tuần sau",
+      "link": "https://vnexpress.net/gia-vang-duoc-du-bao-giam-tiep-tuan-sau-5074909.html",
+      "summary": "Nhiều nhà phân tích Phố Wall dự báo giá vàng thế giới giảm trong tuần tới do chịu sức ép từ giá dầu và rủi ro thắt chặt tiền tệ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-17T10:22:36+07:00",
+      "fetched": "2026-05-17T18:02:25.929578+07:00"
+    },
+    {
+      "id": "db7c7789cc93df16bf6424d9bb9c9a15",
+      "title": "Chính phủ ưu tiên đầu tư 70 công nghệ cao",
+      "link": "https://vnexpress.net/chinh-phu-uu-tien-dau-tu-70-cong-nghe-cao-5074934.html",
+      "summary": "Chính phủ ban hành danh mục 70 công nghệ cao được ưu tiên đầu tư phát triển, tập trung vào trí tuệ nhân tạo, dữ liệu lớn, điện toán đám mây, Internet vạn vật, công nghệ lượng tử và năng lượng sạch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T10:13:52+07:00",
+      "fetched": "2026-05-17T18:02:17.605128+07:00"
+    },
+    {
+      "id": "db7c7789cc93df16bf6424d9bb9c9a15",
+      "title": "Chính phủ ưu tiên đầu tư 70 công nghệ cao",
+      "link": "https://vnexpress.net/chinh-phu-uu-tien-dau-tu-70-cong-nghe-cao-5074934.html",
+      "summary": "Chính phủ ban hành danh mục 70 công nghệ cao được ưu tiên đầu tư phát triển, tập trung vào trí tuệ nhân tạo, dữ liệu lớn, điện toán đám mây, Internet vạn vật, công nghệ lượng tử và năng lượng sạch.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-17T10:13:52+07:00",
+      "fetched": "2026-05-17T18:02:29.788769+07:00"
+    },
+    {
+      "id": "6f2f5459921bf0e986870c30ece125c1",
+      "title": "Điểm tin 17h: Kim ngạch xuất, nhập khẩu tăng mạnh | Phú Quốc sẽ là trung tâm du lịch biển đảo tầm cỡ quốc tế",
+      "link": "https://vnexpress.net/diem-tin-17h-kim-ngach-xuat-nhap-khau-tang-manh-phu-quoc-se-la-trung-tam-du-lich-bien-dao-tam-co-quoc-te-5074939.html",
+      "summary": "Quang Lập, BH Media, Mây Sài Gòn 'sao chép chương trình âm nhạc để hưởng lợi'; WHO tuyên bố tình trạng khẩn cấp quốc tế về dịch Ebola...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T10:13:22+07:00",
+      "fetched": "2026-05-17T18:02:17.605342+07:00"
+    },
+    {
+      "id": "3d178bd9de3c2a26ed73b8d0d69419d4",
+      "title": "Xổ số miền Nam ngày 17 tháng 5: Người trúng số mùng 1 đài Đà Lạt xuất hiện",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-17-thang-5-nguoi-trung-so-mung-1-dai-da-lat-xuat-hien-18526051715511193.htm",
+      "summary": "Sau khi có kết quả xổ số miền Nam ngày 17 tháng 5 (tức ngày mùng 1 đầu tháng 4), người may mắn trúng số đài Đà Lạt lộ diện sớm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T10:08:00+07:00",
+      "fetched": "2026-05-17T18:02:21.099504+07:00"
+    },
+    {
+      "id": "22a5f8c3b97567a340a3d72855f87a64",
+      "title": "Sợ sự vô tâm của anh sẽ khiến tôi ngã vào vòng tay người khác",
+      "link": "https://vnexpress.net/so-su-vo-tam-cua-anh-se-khien-toi-nga-vao-vong-tay-nguoi-khac-5074831.html",
+      "summary": "Anh đâu biết bên cạnh tôi cũng có người quan tâm, chăm sóc, cùng vui buồn và luôn lắng nghe tôi, sao anh không chịu thay đổi?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T10:00:00+07:00",
+      "fetched": "2026-05-17T18:02:17.605515+07:00"
+    },
+    {
+      "id": "70a43cd64180127d42d5d72ce2aaa694",
+      "title": "Người dân bất ngờ thấy chim đà điểu gục chết tại Tây Ninh",
+      "link": "https://thanhnien.vn/nguoi-dan-bat-ngo-thay-chim-da-dieu-guc-chet-tai-tay-ninh-185260517154120857.htm",
+      "summary": "Cơ quan chức năng xã Tân Thạnh (Tây Ninh) đang khẩn trương điều tra, xác minh nguồn gốc đàn chim đà điểu 10 con vừa được người dân phát hiện rạng sáng nay trên một tuyến đường vắng, trong đó có 6 con đã chết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T10:00:00+07:00",
+      "fetched": "2026-05-17T18:02:21.099662+07:00"
+    },
+    {
+      "id": "c50477d3e474a58431563eec97e7040d",
+      "title": "Toàn cảnh 17h: Bí ẩn đàn đà điểu gục chết bên đường | Tăng gấp đôi mức phạt người ngoại tình",
+      "link": "https://thanhnien.vn/toan-canh-17h-bi-an-dan-da-dieu-guc-chet-ben-duong-tang-gap-doi-muc-phat-nguoi-ngoai-tinh-185260517153902453.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T10:00:00+07:00",
+      "fetched": "2026-05-17T18:02:21.099816+07:00"
+    },
+    {
+      "id": "e060aa54e3671f3970b3fb48ee65ce5d",
+      "title": "Chàng trai Pháp viết về chuyến đạp xe 16.000 km cùng vợ Việt",
+      "link": "https://vnexpress.net/chang-trai-phap-viet-ve-chuyen-dap-xe-16-000-km-cung-vo-viet-5074913.html",
+      "summary": "Thibault Clemenceau viết về trải nghiệm cùng vợ đạp xe hơn 16.000 km, qua 18 quốc gia, từ Pháp về Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T09:59:30+07:00",
+      "fetched": "2026-05-17T18:02:17.605692+07:00"
+    },
+    {
+      "id": "246769e6e9c3a4588b929a355a9edd91",
+      "title": "Điều tra vụ phát hiện bộ xương người trong khuôn viên công ty ở TP.HCM",
+      "link": "https://thanhnien.vn/dieu-tra-vu-phat-hien-bo-xuong-nguoi-trong-khuon-vien-cong-ty-o-tphcm-185260517163923357.htm",
+      "summary": "Một bộ xương người được phát hiện giữa bãi cỏ um tùm trong khu đất trống ở phường Linh Xuân (TP.HCM) từ năm 2018 nhưng đến nay vẫn chưa rõ lai lịch nạn nhân. Công an TP.HCM đang phát thông báo tìm thân nhân để phục vụ công tác điều tra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T09:50:00+07:00",
+      "fetched": "2026-05-17T18:02:21.099976+07:00"
+    },
+    {
       "id": "a77c6752500a2500290d7c940f0df174",
       "title": "Thủ tướng: Các bộ trưởng nghiêm túc kiểm điểm trách nhiệm chậm ban hành văn bản",
       "link": "https://tuoitre.vn/thu-tuong-cac-bo-truong-nghiem-tuc-kiem-diem-trach-nhiem-cham-ban-hanh-van-ban-20260517074114363.htm",
@@ -453,6 +803,36 @@ window.newsData_2026_05_17 = {
       "fetched": "2026-05-17T09:48:37.848781+07:00"
     },
     {
+      "id": "81bae4e5554f9d6784a3f2a432c925d0",
+      "title": "Bán kết Giải bóng rổ Trẻ VnExpress: Nguyễn Thượng Hiền - Lê Quý Đôn",
+      "link": "https://vnexpress.net/ban-ket-giai-bong-ro-tre-vnexpress-nguyen-thuong-hien-le-quy-don-5074912.html",
+      "summary": "THPT Nguyễn Thượng Hiền gặp THPT Lê Quý Đôn ở bán kết nữ Giải bóng rổ Trẻ VnExpress - Cup Ziaja tại sân GOAT Town Sports Complex.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T09:45:00+07:00",
+      "fetched": "2026-05-17T18:02:17.605851+07:00"
+    },
+    {
+      "id": "542254566a0b937e0c48b89823ed01b1",
+      "title": "Tàu nhiên liệu kép sức chở 24.000 container đầu tiên trên thế giới",
+      "link": "https://vnexpress.net/tau-nhien-lieu-kep-suc-cho-24-000-container-dau-tien-tren-the-gioi-5074925.html",
+      "summary": "OOCL Wisdom, tàu container nhiên liệu kép do Trung Quốc thiết kế và chế tạo, bắt đầu chạy thử nghiệm, đánh dấu bước tiến lớn trong vận tải biển xanh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T09:40:56+07:00",
+      "fetched": "2026-05-17T18:02:17.606014+07:00"
+    },
+    {
+      "id": "542254566a0b937e0c48b89823ed01b1",
+      "title": "Tàu nhiên liệu kép sức chở 24.000 container đầu tiên trên thế giới",
+      "link": "https://vnexpress.net/tau-nhien-lieu-kep-suc-cho-24-000-container-dau-tien-tren-the-gioi-5074925.html",
+      "summary": "OOCL Wisdom, tàu container nhiên liệu kép do Trung Quốc thiết kế và chế tạo, bắt đầu chạy thử nghiệm, đánh dấu bước tiến lớn trong vận tải biển xanh.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-17T09:40:56+07:00",
+      "fetched": "2026-05-17T18:02:29.788953+07:00"
+    },
+    {
       "id": "2280832612038d55a35c771de4567aeb",
       "title": "Sau một ngày nắng gay gắt, TP.HCM và Nam bộ đón mưa lớn giải nhiệt",
       "link": "https://thanhnien.vn/sau-mot-ngay-nang-gay-gat-tphcm-va-nam-bo-don-mua-lon-giai-nhiet-185260517162959178.htm",
@@ -501,6 +881,16 @@ window.newsData_2026_05_17 = {
       "category": "Thể thao",
       "published": "2026-05-17T09:26:39+07:00",
       "fetched": "2026-05-17T16:44:25.600336+07:00"
+    },
+    {
+      "id": "fe65d05310f9267f2111d36601b4f333",
+      "title": "Đàn đà điểu gần 100 kg mỗi con xuất hiện trên đường",
+      "link": "https://vnexpress.net/dan-da-dieu-gan-100-kg-moi-con-xuat-hien-tren-duong-5074916.html",
+      "summary": "Người dân phát hiện 10 con đà điểu, mỗi con từ vài chục đến gần 100 kg, chạy và nằm trên tuyến đường vắng ở, trong đó 6 con đã chết chưa rõ nguyên nhân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-17T09:20:30+07:00",
+      "fetched": "2026-05-17T18:02:17.606540+07:00"
     },
     {
       "id": "dc538c33a8e6d952f3dc0091d8b59461",
