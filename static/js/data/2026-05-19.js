@@ -1,6 +1,6 @@
 window.newsData_2026_05_19 = {
   "date": "2026-05-19",
-  "lastUpdated": "2026-05-19T00:58:20.817967+07:00",
+  "lastUpdated": "2026-05-19T02:49:01.542703+07:00",
   "articles": [
     {
       "id": "56792e70171ae620ea76597fee161eda",
@@ -153,6 +153,66 @@ window.newsData_2026_05_19 = {
       "fetched": "2026-05-19T00:58:14.407164+07:00"
     },
     {
+      "id": "5f4df541f15374a83835cd25de13dfaa",
+      "title": "'Siêu thực phẩm' nên ăn hàng ngày để kéo dài tuổi thọ",
+      "link": "https://vnexpress.net/sieu-thuc-pham-nen-an-hang-ngay-de-keo-dai-tuoi-tho-5069081.html",
+      "summary": "Lấy cảm hứng từ chế độ ăn của những vùng đất có nhiều người sống thọ nhất thế giới, chuyên gia khẳng định ăn đậu mỗi ngày là \"chìa khóa\" đẩy lùi bệnh tật và kéo dài tuổi xuân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-18T19:00:00+07:00",
+      "fetched": "2026-05-19T02:48:51.868799+07:00"
+    },
+    {
+      "id": "bc1ad98847d95548eca75d391a4f2d7e",
+      "title": "Ngày nào cũng uống nước lá tía tô có tốt không?",
+      "link": "https://thanhnien.vn/ngay-nao-cung-uong-nuoc-la-tia-to-co-tot-khong-185260518185134267.htm",
+      "summary": "Lá tía tô là loại rau gia vị quen thuộc, thường được ăn kèm với cháo, bún hoặc dùng để xông khi bị cảm. Uống lá tía tô mang lại một số lợi ích sức khỏe. Điều quan trọng là cần chú ý liều lượng và cách uống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-18T18:35:00+07:00",
+      "fetched": "2026-05-19T02:48:54.542017+07:00"
+    },
+    {
+      "id": "77d4d2f53a89807a0b0b3a40652b44f0",
+      "title": "Pháo hoa sáng rực dịp Đồng Nai lên thành phố",
+      "link": "https://vnexpress.net/phao-hoa-sang-ruc-dip-dong-nai-len-thanh-pho-5075401.html",
+      "summary": "Hơn 1.000 quả pháo hoa tầm cao thắp sáng bầu trời trong đêm Đồng Nai công bố lên thành phố trực thuộc Trung ương, nhiều người dân ghi lại khoảnh khắc đặc biệt, tối 18/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-18T18:20:33+07:00",
+      "fetched": "2026-05-19T02:48:51.868981+07:00"
+    },
+    {
+      "id": "69f3bd87fc21d4dd01fac9feee43c1c3",
+      "title": "Bệnh Ebola",
+      "link": "https://vnexpress.net/suc-khoe/cam-nang/benh-ebola-428",
+      "summary": "Ebola là căn bệnh truyền nhiễm hiếm gặp, đặc biệt nguy hiểm và tỷ lệ tử vong cao bởi một số chủng virus chưa có thuốc điều trị đặc hiệu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-18T18:00:00+07:00",
+      "fetched": "2026-05-19T02:48:51.869144+07:00"
+    },
+    {
+      "id": "e68015181e1f45fe17731bbedaa074f6",
+      "title": "Lá phiếu 'phản bội' ông Trump khiến thượng nghị sĩ Cộng hòa thất cử",
+      "link": "https://vnexpress.net/la-phieu-phan-boi-ong-trump-khien-thuong-nghi-si-cong-hoa-that-cu-5075032.html",
+      "summary": "Cassidy bị Tổng thống Trump chỉ trích là \"phản bội\" vì từng ủng hộ luận tội ông năm 2021 và trở thành thượng nghị sĩ Cộng hòa đầu tiên thất bại vòng sơ bộ trong gần một thập kỷ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-18T18:00:00+07:00",
+      "fetched": "2026-05-19T02:48:51.869333+07:00"
+    },
+    {
+      "id": "e68015181e1f45fe17731bbedaa074f6",
+      "title": "Lá phiếu 'phản bội' ông Trump khiến thượng nghị sĩ Cộng hòa thất cử",
+      "link": "https://vnexpress.net/la-phieu-phan-boi-ong-trump-khien-thuong-nghi-si-cong-hoa-that-cu-5075032.html",
+      "summary": "Cassidy bị Tổng thống Trump chỉ trích là \"phản bội\" vì từng ủng hộ luận tội ông năm 2021 và trở thành thượng nghị sĩ Cộng hòa đầu tiên thất bại vòng sơ bộ trong gần một thập kỷ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-18T18:00:00+07:00",
+      "fetched": "2026-05-19T02:48:56.884280+07:00"
+    },
+    {
       "id": "c6b8f4298ac692346d8ea1afb48d4ed6",
       "title": "Sinh viên trường top rộ mốt 'hẹn hò nội bộ'",
       "link": "https://vnexpress.net/sinh-vien-truong-top-ro-mot-hen-ho-gio-tang-nao-gap-may-tang-do-5075008.html",
@@ -181,6 +241,16 @@ window.newsData_2026_05_19 = {
       "category": "Tổng hợp",
       "published": "2026-05-18T17:11:54+07:00",
       "fetched": "2026-05-19T00:58:10.875056+07:00"
+    },
+    {
+      "id": "e42d8cf10f1796e3cfd07c27dad54caf",
+      "title": "Động đất ở Quảng Tây, Hà Nội rung lắc",
+      "link": "https://vnexpress.net/dong-dat-o-quang-tay-ha-noi-rung-lac-5075399.html",
+      "summary": "Dù cách hơn 500 km, nhiều người ở Hà Nội cảm nhận rung lắc do ảnh hưởng của trận động đất ở tỉnh Quảng Tây, tối 18/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-18T17:11:54+07:00",
+      "fetched": "2026-05-19T02:48:51.869670+07:00"
     },
     {
       "id": "a4ed4910bbe190be25b08d7c1da1eff7",
@@ -391,6 +461,16 @@ window.newsData_2026_05_19 = {
       "category": "Thể thao",
       "published": "2026-05-18T17:00:00+07:00",
       "fetched": "2026-05-19T00:58:20.814128+07:00"
+    },
+    {
+      "id": "e86a2eb55423e9432c9c4043304b5525",
+      "title": "Đề xuất xây phần mềm quản lý, thu phí vỉa hè toàn thành phố",
+      "link": "https://vnexpress.net/de-xuat-xay-phan-mem-quan-ly-thu-phi-via-he-toan-thanh-pho-5075362.html",
+      "summary": "Sở Xây dựng TP HCM đề xuất thí điểm phần mềm cấp phép và thu phí sử dụng tạm thời lòng đường, vỉa hè trên toàn địa bàn nhằm giảm thủ tục, tăng hiệu quả quản lý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-18T17:00:00+07:00",
+      "fetched": "2026-05-19T02:48:51.870360+07:00"
     },
     {
       "id": "db654f6c345e9e2bf5c6175e08973912",
