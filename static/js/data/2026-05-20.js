@@ -1,6 +1,6 @@
 window.newsData_2026_05_20 = {
   "date": "2026-05-20",
-  "lastUpdated": "2026-05-20T01:02:57.983793+07:00",
+  "lastUpdated": "2026-05-20T04:16:57.655473+07:00",
   "articles": [
     {
       "id": "d7935e659c9b22d638d9fa61de4362a4",
@@ -151,6 +151,226 @@ window.newsData_2026_05_20 = {
       "category": "Tổng hợp",
       "published": "2026-05-20T01:02:51.598403+07:00",
       "fetched": "2026-05-20T01:02:51.598647+07:00"
+    },
+    {
+      "id": "7fd4d439588c889babd1e9a5e323f6ee",
+      "title": "Đồng Nai: Người dân hiến đất trị giá khoảng 20 tỉ đồng để làm đường",
+      "link": "https://thanhnien.vn/dong-nai-nguoi-dan-hien-dat-tri-gia-khoang-20-ti-dong-de-lam-duong-18526051915354936.htm",
+      "summary": "Tại 2 dự án đường giao thông ở xã Tân Lợi (thành phố Đồng Nai), hàng trăm người dân đã hiến đất trị giá khoảng 20 tỉ đồng để nhà nước làm đường giao thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T21:07:00+07:00",
+      "fetched": "2026-05-20T04:16:48.060071+07:00"
+    },
+    {
+      "id": "fcc1b5be748c001b44cf59abec7799ab",
+      "title": "Man City tự ‘bắn vào chân’, Arsenal được dâng sớm chức vô địch Ngoại hạng Anh",
+      "link": "https://thanhnien.vn/man-city-tu-ban-vao-chan-arsenal-duoc-dang-som-chuc-vo-dich-ngoai-hang-anh-185260520035728506.htm",
+      "summary": "Để Bournemouth cầm chân 1-1 ở vòng 37 Ngoại hạng Anh 2025 - 2026 vào rạng sáng 20.5, Man City chính thức đánh mất chức vô địch vào tay Arsenal.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T20:59:00+07:00",
+      "fetched": "2026-05-20T04:16:48.060221+07:00"
+    },
+    {
+      "id": "ad1c6a6824d9a6267ae1b9117c91037f",
+      "title": "Ăn sushi cá hồi hay cá ngừ tốt hơn?",
+      "link": "https://thanhnien.vn/an-sushi-ca-hoi-hay-ca-ngu-tot-hon-185260519145306236.htm",
+      "summary": "Cá ngừ và cá hồi thường được sử dụng là nguyên liệu chính trong món sushi. Cả hai đều tốt cho sức khỏe tim mạch và não bộ, nhưng chúng khác nhau về hàm lượng protein và chất béo lành mạnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T20:51:00+07:00",
+      "fetched": "2026-05-20T04:16:48.060373+07:00"
+    },
+    {
+      "id": "f12b3eca392a631b7270b0290e365677",
+      "title": "Báo Nhật Bản sung sướng vì U.17 vào chung kết ngoạn mục, đòi có VAR ngay lập tức",
+      "link": "https://thanhnien.vn/bao-nhat-ban-sung-suong-vi-u17-vao-chung-ket-ngoan-muc-doi-co-var-ngay-lap-tuc-185260520005222155.htm",
+      "summary": "Truyền thông Nhật Bản ca ngợi màn ngược dòng đầy cảm xúc của đội U.17 Nhật Bản trước Uzbekistan để giành vé vào chung kết giải U.17 châu Á 2026. Tuy nhiên, truyền thông xứ mặt trời mọc vẫn bày tỏ sự bức xúc với công tác trọng tài, cho rằng đội nhà suýt ôm hận vì quyết định gây tranh cãi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T20:43:00+07:00",
+      "fetched": "2026-05-20T04:16:48.060508+07:00"
+    },
+    {
+      "id": "9e81f9dfc456fdb6a4debb4136cef26a",
+      "title": "Quay lén đối thủ, Southampton bị tước quyền đá chung kết play-off thăng hạng Ngoại hạng Anh",
+      "link": "https://thanhnien.vn/quay-len-doi-thu-southampton-bi-tuoc-quyen-da-chung-ket-play-off-thang-hang-ngoai-hang-anh-18526052001254732.htm",
+      "summary": "Southampton đang đối diện cú sốc lớn nhất mùa giải khi bị Ban tổ chức giải hạng nhất Anh (EFL) tước quyền đá trận chung kết play-off thăng hạng sau bê bối gây chấn động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T20:41:00+07:00",
+      "fetched": "2026-05-20T04:16:48.060632+07:00"
+    },
+    {
+      "id": "389e87d2bcfbd883c9d5a5767c03b595",
+      "title": "HLV Roland cùng U.17 Việt Nam sẵn sàng vươn ra thế giới",
+      "link": "https://thanhnien.vn/hlv-roland-cung-u17-viet-nam-san-sang-vuon-ra-the-gioi-185260519192533482.htm",
+      "summary": "U.17 VN đã vươn lên từ 'tro tàn' thất bại để trở thành đội bóng bản lĩnh, lì lợm.Nhưng muốn khẳng định tinh thần VN tại U.17 World Cup sau đây 6 tháng, thầy trò Cristiano Roland còn nhiều việc phải làm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T20:40:00+07:00",
+      "fetched": "2026-05-20T04:16:48.060763+07:00"
+    },
+    {
+      "id": "a31bd3aec6fb79a836993161acc24021",
+      "title": "Uống cà phê bao nhiêu là ‘vừa đủ’ để tốt cho tinh thần?",
+      "link": "https://thanhnien.vn/uong-ca-phe-bao-nhieu-la-vua-du-de-tot-cho-tinh-than-185260520033841446.htm",
+      "summary": "Một nghiên cứu mới cho thấy đối với một số người, có thể tồn tại một ‘ngưỡng lý tưởng’ của caffeine giúp giảm nguy cơ rối loạn cảm xúc và căng thẳng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T20:38:00+07:00",
+      "fetched": "2026-05-20T04:16:48.060888+07:00"
+    },
+    {
+      "id": "cf094f4bfc8049c7fe1427ec845b696e",
+      "title": "Chung kết Europa League: Cơ hội lớn để HLV Emery đi vào huyền thoại",
+      "link": "https://thanhnien.vn/chung-ket-europa-league-co-hoi-lon-de-hlv-emery-di-vao-huyen-thoai-185260519192037534.htm",
+      "summary": "Đưa được Aston Villa lên ngôi vô địch Europa League, HLV Unai Emery sẽ có một chỗ đứng riêng chưa ai từng tiếp cận được. Ông sẽ là huyền thoại lớn nhất trong lịch sử Europa League mà người ta còn phải nói đến trong nhiều năm nữa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T20:38:00+07:00",
+      "fetched": "2026-05-20T04:16:48.061008+07:00"
+    },
+    {
+      "id": "e2f1c9bd52778127ca922fea2047fb38",
+      "title": "Arsenal vô địch Ngoại hạng Anh",
+      "link": "https://vnexpress.net/arsenal-vo-dich-ngoai-hang-anh-5075885.html",
+      "summary": "Lần đầu kể từ mùa giải bất bại 2003-2004, Arsenal mới lại vô địch Ngoại hạng Anh, sau khi Man City hòa 1-1 trên sân của Bournemouth ở vòng 37.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T20:26:06+07:00",
+      "fetched": "2026-05-20T04:16:44.947911+07:00"
+    },
+    {
+      "id": "f8a9e24be29e6f871d125431fe8816d5",
+      "title": "Man City hết cửa vô địch Ngoại hạng Anh",
+      "link": "https://vnexpress.net/man-city-het-cua-vo-dich-ngoai-hang-anh-5075885.html",
+      "summary": "Trận hòa 1-1 trên sân của Bournemouth ở vòng 37 Ngoại hạng Anh khiến Man City trải qua mùa thứ hai liên tiếp không thể vô địch.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-19T20:26:06+07:00",
+      "fetched": "2026-05-20T04:16:57.650756+07:00"
+    },
+    {
+      "id": "206efdab2729b9340716a8c59bb4961a",
+      "title": "Bác sĩ chỉ ra 7 dấu hiệu âm thầm của tăng huyết áp",
+      "link": "https://vnexpress.net/bac-si-chi-ra-7-dau-hieu-am-tham-cua-tang-huyet-ap-5075293.html",
+      "summary": "Đau đầu buổi sáng, mệt mỏi kéo dài, giảm tập trung hay tiểu đêm nhiều lần có thể là những dấu hiệu âm thầm của tăng huyết áp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T19:00:00+07:00",
+      "fetched": "2026-05-20T04:16:44.948074+07:00"
+    },
+    {
+      "id": "400dc489ac57d51e043b99d1fd2319fd",
+      "title": "Rào cản khiến nhiều nhà trẻ không được bóc chuối ở Mỹ",
+      "link": "https://vnexpress.net/rao-can-khien-nhieu-nha-tre-khong-duoc-boc-chuoi-o-my-5072988.html",
+      "summary": "Các nhà trẻ tại Mỹ có thể bóc bim bim cho trẻ, nhưng lột một quả chuối lại cần đáp ứng thêm hàng loạt quy định an toàn thực phẩm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T19:00:00+07:00",
+      "fetched": "2026-05-20T04:16:44.948216+07:00"
+    },
+    {
+      "id": "0efef2fd11e70498df7172ef4be511be",
+      "title": "Google bắt tay Nvidia, OpenAI để phát hiện nội dung AI",
+      "link": "https://vnexpress.net/google-bat-tay-nvidia-openai-de-phat-hien-noi-dung-ai-5075884.html",
+      "summary": "Google mở rộng hợp tác với OpenAI, Nvidia để phát triển SynthID - giải pháp giúp nhận diện nội dung do AI tạo ra, trong bối cảnh ảnh, video giả ngày càng khó nhận biết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T19:00:00+07:00",
+      "fetched": "2026-05-20T04:16:44.948378+07:00"
+    },
+    {
+      "id": "400dc489ac57d51e043b99d1fd2319fd",
+      "title": "Rào cản khiến nhiều nhà trẻ không được bóc chuối ở Mỹ",
+      "link": "https://vnexpress.net/rao-can-khien-nhieu-nha-tre-khong-duoc-boc-chuoi-o-my-5072988.html",
+      "summary": "Các nhà trẻ tại Mỹ có thể bóc bim bim cho trẻ, nhưng lột một quả chuối lại cần đáp ứng thêm hàng loạt quy định an toàn thực phẩm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-19T19:00:00+07:00",
+      "fetched": "2026-05-20T04:16:51.056121+07:00"
+    },
+    {
+      "id": "0efef2fd11e70498df7172ef4be511be",
+      "title": "Google bắt tay Nvidia, OpenAI để phát hiện nội dung AI",
+      "link": "https://vnexpress.net/google-bat-tay-nvidia-openai-de-phat-hien-noi-dung-ai-5075884.html",
+      "summary": "Google mở rộng hợp tác với OpenAI, Nvidia để phát triển SynthID - giải pháp giúp nhận diện nội dung do AI tạo ra, trong bối cảnh ảnh, video giả ngày càng khó nhận biết.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-19T19:00:00+07:00",
+      "fetched": "2026-05-20T04:16:56.573225+07:00"
+    },
+    {
+      "id": "771921c24eaeb6572bc1bc91616bba3b",
+      "title": "Google ra mắt Omni - mô hình có thể 'sáng tạo mọi thứ'",
+      "link": "https://vnexpress.net/google-ra-mat-omni-mo-hinh-co-the-sang-tao-moi-thu-5075882.html",
+      "summary": "Google gọi Gemini Omni là mô hình \"có thể sáng tạo mọi thứ từ bất kỳ đầu vào nào\", và phiên bản đầu tiên sẽ dùng để tạo video.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T18:05:06+07:00",
+      "fetched": "2026-05-20T04:16:44.948517+07:00"
+    },
+    {
+      "id": "771921c24eaeb6572bc1bc91616bba3b",
+      "title": "Google ra mắt Omni - mô hình có thể 'sáng tạo mọi thứ'",
+      "link": "https://vnexpress.net/google-ra-mat-omni-mo-hinh-co-the-sang-tao-moi-thu-5075882.html",
+      "summary": "Google gọi Gemini Omni là mô hình \"có thể sáng tạo mọi thứ từ bất kỳ đầu vào nào\", và phiên bản đầu tiên sẽ dùng để tạo video.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-19T18:05:06+07:00",
+      "fetched": "2026-05-20T04:16:56.573382+07:00"
+    },
+    {
+      "id": "0f29c706fa33c2f4c7664f1d5559b22b",
+      "title": "Điều gì xảy ra với sức khỏe khi vợ chồng thường xuyên cãi vã?",
+      "link": "https://vnexpress.net/dieu-gi-xay-ra-voi-suc-khoe-khi-vo-chong-thuong-xuyen-cai-va-5074780.html",
+      "summary": "Những cuộc cãi vã kéo dài hoặc giao tiếp tiêu cực trong hôn nhân có thể ảnh hưởng tâm lý, làm tăng viêm, suy giảm miễn dịch và khiến vết thương chậm lành hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T18:02:00+07:00",
+      "fetched": "2026-05-20T04:16:44.948609+07:00"
+    },
+    {
+      "id": "f80e54063c55507db4b65f9f0d0a0bed",
+      "title": "Google ra mô hình Gemini 3.5, thúc đẩy dùng AI agent",
+      "link": "https://vnexpress.net/google-ra-mo-hinh-gemini-3-5-thuc-day-dung-ai-agent-5075833.html",
+      "summary": "Google công bố Gemini 3.5, trong đó bản Flash đạt hiệu năng hơn bản Pro của Gemini 3.1, hứa hẹn xử lý tốt các tác vụ nhiều bước như lập trình, nghiên cứu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T18:00:07+07:00",
+      "fetched": "2026-05-20T04:16:44.948746+07:00"
+    },
+    {
+      "id": "f80e54063c55507db4b65f9f0d0a0bed",
+      "title": "Google ra mô hình Gemini 3.5, thúc đẩy dùng AI agent",
+      "link": "https://vnexpress.net/google-ra-mo-hinh-gemini-3-5-thuc-day-dung-ai-agent-5075833.html",
+      "summary": "Google công bố Gemini 3.5, trong đó bản Flash đạt hiệu năng hơn bản Pro của Gemini 3.1, hứa hẹn xử lý tốt các tác vụ nhiều bước như lập trình, nghiên cứu.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-19T18:00:07+07:00",
+      "fetched": "2026-05-20T04:16:56.573068+07:00"
+    },
+    {
+      "id": "3436baf5366d684ee76848487ff49d20",
+      "title": "Đòn giáng vào Hamas khi thủ lĩnh 'Bóng ma' bị hạ sát",
+      "link": "https://vnexpress.net/don-giang-vao-hamas-khi-thu-linh-bong-ma-bi-ha-sat-5075119.html",
+      "summary": "Thủ lĩnh cánh vũ trang al-Haddad thiệt mạng là tổn thất nặng nề về mặt biểu tượng với Hamas, song nhóm được cho là sẽ nhanh chóng hồi phục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-19T18:00:00+07:00",
+      "fetched": "2026-05-20T04:16:44.948876+07:00"
+    },
+    {
+      "id": "3436baf5366d684ee76848487ff49d20",
+      "title": "Đòn giáng vào Hamas khi thủ lĩnh 'Bóng ma' bị hạ sát",
+      "link": "https://vnexpress.net/don-giang-vao-hamas-khi-thu-linh-bong-ma-bi-ha-sat-5075119.html",
+      "summary": "Thủ lĩnh cánh vũ trang al-Haddad thiệt mạng là tổn thất nặng nề về mặt biểu tượng với Hamas, song nhóm được cho là sẽ nhanh chóng hồi phục.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-19T18:00:00+07:00",
+      "fetched": "2026-05-20T04:16:51.056275+07:00"
     },
     {
       "id": "fa24841562a84c1a8629624d9b857acd",
