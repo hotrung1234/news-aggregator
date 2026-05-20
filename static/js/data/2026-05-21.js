@@ -1,7 +1,17 @@
 window.newsData_2026_05_21 = {
   "date": "2026-05-21",
-  "lastUpdated": "2026-05-21T04:49:42.245542+07:00",
+  "lastUpdated": "2026-05-21T06:09:31.739991+07:00",
   "articles": [
+    {
+      "id": "a9ae03853f1fe5d9b24d413f1fab7f91",
+      "title": "Thời tiết hôm nay 21-5: Bắc Bộ mưa to trước nắng nóng, Nam Bộ mưa nhưng oi bức",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-21-5-bac-bo-mua-to-truoc-nang-nong-nam-bo-mua-nhung-oi-buc-20260520191856816.htm",
+      "summary": "Hôm nay 21-5, thời tiết Bắc Bộ tiếp tục có mưa trước khi bắt đầu đợt nắng nóng. Nam Bộ dù trời có mưa nhưng cảm giác oi bức vẫn duy trì.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-21T06:09:23.810086+07:00",
+      "fetched": "2026-05-21T06:09:23.810291+07:00"
+    },
     {
       "id": "91cb1d758c5573d0116505b9a2697797",
       "title": "Cuba lên tiếng sau thông điệp của Ngoại trưởng Mỹ Marco Rubio",
@@ -151,6 +161,306 @@ window.newsData_2026_05_21 = {
       "category": "Tổng hợp",
       "published": "2026-05-21T01:13:33.484397+07:00",
       "fetched": "2026-05-21T01:13:33.484631+07:00"
+    },
+    {
+      "id": "a145ffb1ac16bf03f288ee04c7511e22",
+      "title": "Điểm tin 6h: Cựu bộ trưởng Kim Tiến băn khoăn cách tính thiệt hại 803 tỷ đồng của vụ án | Hoàn thành sáp nhập thôn, tổ dân phố trước 30/6",
+      "link": "https://vnexpress.net/diem-tin-6h-cuu-bo-truong-kim-tien-ban-khoan-cach-tinh-thiet-hai-803-ty-dong-cua-vu-an-hoan-thanh-sap-nhap-thon-to-dan-pho-truoc-30-6-5076327.html",
+      "summary": "Vaccine phế cầu và HPV vào danh mục tiêm chủng bắt buộc; Các hãng bay tăng phí hành lý ký gửi trước mùa du lịch hè;...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-20T23:05:58+07:00",
+      "fetched": "2026-05-21T06:09:19.690054+07:00"
+    },
+    {
+      "id": "99a1db945ce69c570a8069e988459e32",
+      "title": "Xác định 2 người đi xe máy đánh nhau giữa đường, gây náo loạn tại TP.HCM",
+      "link": "https://thanhnien.vn/xac-dinh-2-nguoi-di-xe-may-danh-nhau-giua-duong-gay-nao-loan-tai-tphcm-185260520222738138.htm",
+      "summary": "Vụ đánh nhau trên đường Phạm Hùng, xã Bình Hưng, công an đã xác minh và xử lý các đối tượng về hành vi gây rối trật tự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-20T23:04:00+07:00",
+      "fetched": "2026-05-21T06:09:22.799619+07:00"
+    },
+    {
+      "id": "99a1ec52447753b95850fc8b9711eb40",
+      "title": "Mẹ đơn thân Mỹ rủ nhau ở chung để nuôi con",
+      "link": "https://vnexpress.net/me-don-than-my-ru-nhau-o-chung-de-nuoi-con-5075951.html",
+      "summary": "Để tránh áp lực tài chính, nhiều bà mẹ đơn thân tại Mỹ chọn dọn về sống chung nhằm chia sẻ tiền thuê nhà và cùng nhau nuôi dạy con cái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-20T23:00:00+07:00",
+      "fetched": "2026-05-21T06:09:19.690212+07:00"
+    },
+    {
+      "id": "2db6d448c175b2a881ef58f46f479561",
+      "title": "Cách robot 'bẻ' làn đường giúp giảm ùn tắc tại Trung Quốc",
+      "link": "https://vnexpress.net/cach-robot-be-lan-duong-giup-giam-un-tac-tai-trung-quoc-5075806.html",
+      "summary": "Tích hợp ma trận cảm biến và trung tâm điều hành thông minh, hệ thống robot tự điều chỉnh cấu trúc đường theo lưu lượng giao thông thực, giúp giảm kẹt xe tại một số thành phố lớn như Thâm Quyến, Hàng Châu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-20T23:00:00+07:00",
+      "fetched": "2026-05-21T06:09:19.690356+07:00"
+    },
+    {
+      "id": "e21d6021874a6d7ec7c74528d11edb7a",
+      "title": "Giá đắt sau những ca làm việc vắt kiệt sức",
+      "link": "https://vnexpress.net/gia-dat-sau-nhung-ca-lam-viec-vat-kiet-suc-5073920.html",
+      "summary": "Nửa đêm, bác sĩ Đoàn Dư Mạnh ngồi một mình trong phòng trực, vài giờ trước, đồng nghiệp của anh, một bác sĩ nữ 28 tuổi, vừa qua đời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-20T23:00:00+07:00",
+      "fetched": "2026-05-21T06:09:19.690490+07:00"
+    },
+    {
+      "id": "dab6889a4e359b1ac347df0ec155a41b",
+      "title": "Chủ xe điện Tesla bị bắt giam vì tin lời Elon Musk",
+      "link": "https://vnexpress.net/chu-xe-dien-tesla-bi-bat-giam-vi-tin-loi-elon-musk-5076101.html",
+      "summary": "Chiếc Cybertruck được lái xuống hồ để thử nghiệm chế độ lội nước như Musk từng khoe nhưng chiếc bán tải thì hỏng, chủ nhân thì bị bắt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-20T23:00:00+07:00",
+      "fetched": "2026-05-21T06:09:19.690631+07:00"
+    },
+    {
+      "id": "95131e2715530e984220a5fcb936049a",
+      "title": "Báo Thanh Niên tổ chức Hội thảo 'Khơi thông sức mua, kích cầu tiêu dùng'",
+      "link": "https://thanhnien.vn/bao-thanh-nien-to-chuc-hoi-thao-khoi-thong-suc-mua-kich-cau-tieu-dung-185260520221625839.htm",
+      "summary": "Năm 2025, để đạt mục tiêu tăng trưởng cao, Chính phủ đã triển khai nhiều biện pháp kích thích tiêu dùng như tổ chức các hội chợ quy mô lớn, các chương trình khuyến mãi tập trung quy mô quốc gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-20T23:00:00+07:00",
+      "fetched": "2026-05-21T06:09:22.799766+07:00"
+    },
+    {
+      "id": "63ec4dd9998e332607bd795a6fc5da0a",
+      "title": "Nhật - Hàn bắt tay nhau để 'thoát Mỹ'?",
+      "link": "https://thanhnien.vn/nhat-han-bat-tay-nhau-de-thoat-my-185260520221131139.htm",
+      "summary": "Việc Nhật Bản và Hàn Quốc vừa đạt được thỏa thuận quan trọng về năng lượng được xem là động thái \"thời thế\" trước sức ép từ thuế quan Mỹ, nhưng Tokyo và Seoul dường như vẫn tồn tại nhiều khác biệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-20T23:00:00+07:00",
+      "fetched": "2026-05-21T06:09:22.799897+07:00"
+    },
+    {
+      "id": "3b52fd57c31f3268ecb7b657a985f965",
+      "title": "Nhà ở cho thuê là trụ cột chiến lược",
+      "link": "https://thanhnien.vn/nha-o-cho-thue-la-tru-cot-chien-luoc-185260520220808713.htm",
+      "summary": "Đó là chỉ đạo của Tổng Bí thư, Chủ tịch nước Tô Lâm trong buổi làm việc với Đảng ủy Chính phủ và các bộ, ngành liên quan mới đây. Chỉ đạo này đang mở ra một chương mới cho thị trường bất động sản VN trong thời gian tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-20T23:00:00+07:00",
+      "fetched": "2026-05-21T06:09:22.800043+07:00"
+    },
+    {
+      "id": "1d056ac61c29e7924b64f100d93980d9",
+      "title": "Khám phá tiếng Việt miền Nam đầu thế kỷ 20: Môn toán học như thế nào?",
+      "link": "https://thanhnien.vn/kham-pha-tieng-viet-mien-nam-dau-the-ky-20-mon-toan-hoc-nhu-the-nao-185260520212139225.htm",
+      "summary": "Về môn toán, trong quyển Trưởng học toán pháp cũng của thầy Đ. Hồ Ngọc Cẩn, ta có thể biết được đôi nét. Lời tựa viết rõ: \"Tuy không dạy đủ hết mọi điều như Toán pháp đại toàn bên Tây, song cũng dạy vừa đủ điều cần dụng\"; và \"Có nhiều câu luật và nhiều bài đố, thi làm cách thơ văn cho học trò nghe v...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-20T23:00:00+07:00",
+      "fetched": "2026-05-21T06:09:22.800177+07:00"
+    },
+    {
+      "id": "9da91b671545fd198266321ff67c7f28",
+      "title": "'Cuộc chiến' giá gạo",
+      "link": "https://thanhnien.vn/cuoc-chien-gia-gao-185260520211609908.htm",
+      "summary": "Thị trường gạo VN và châu Á vừa mới khởi sắc lại rơi vào trầm lắng vì Philippines, nước nhập khẩu lớn nhất thế giới, lại trì hoãn mua vào. Dù vậy, Bộ Nông nghiệp Mỹ dự báo tiêu thụ gạo toàn cầu năm 2026 tăng đến 3,8 triệu tấn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-20T23:00:00+07:00",
+      "fetched": "2026-05-21T06:09:22.800306+07:00"
+    },
+    {
+      "id": "8a6d3b227b734bbe9de1f42912b41191",
+      "title": "Theo dấu trên mạng, triệt phá hàng giả",
+      "link": "https://thanhnien.vn/theo-dau-tren-mang-triet-pha-hang-gia-185260520202547999.htm",
+      "summary": "Không chỉ lợi dụng môi trường internet để phân phối sản phẩm, hàng loạt vụ việc bị bắt giữ gần đây cho thấy hàng giả còn ngang nhiên bày bán ở cửa hàng các điểm phân phối offline.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-20T23:00:00+07:00",
+      "fetched": "2026-05-21T06:09:22.800438+07:00"
+    },
+    {
+      "id": "fe4eea969237e2f11fdaa6ab21c43669",
+      "title": "Vì sao tâm trạng 'ẩm ương' khi thời tiết thay đổi?",
+      "link": "https://thanhnien.vn/vi-sao-tam-trang-am-uong-khi-thoi-tiet-thay-doi-185260520193317546.htm",
+      "summary": "Thời tiết thất thường cũng là 'sát thủ' âm thầm đối với tâm trạng. Nếu như cái nắng hầm hập trên 30 độ C dễ làm tăng nhịp tim, khiến chúng ta trở nên 'cọc' và nhạy cảm thì những ngày âm u lại kích thích hormone melatonin gây uể oải, lười biếng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-20T23:00:00+07:00",
+      "fetched": "2026-05-21T06:09:22.800567+07:00"
+    },
+    {
+      "id": "e1fe499fce1c42c3b62ffe3bf4d8ead9",
+      "title": "Chung cư cho thuê ngắn ngày: Ai quyết?",
+      "link": "https://thanhnien.vn/chung-cu-cho-thue-ngan-ngay-ai-quyet-185260520185434009.htm",
+      "summary": "Đề xuất buộc phải có sự đồng thuận của cư dân trong chung cư khi cho thuê căn hộ ngắn ngày đang mở ra tranh luận lớn về quyền sở hữu tài sản, quản lý chung cư và cách TP.HCM đưa Airbnb vào khuôn khổ quản lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-20T23:00:00+07:00",
+      "fetched": "2026-05-21T06:09:22.800692+07:00"
+    },
+    {
+      "id": "d2a38c0a473127606075eca6ae2caa22",
+      "title": "Vĩnh Long tổ chức đối thoại thúc đẩy sinh viên khởi nghiệp đổi mới sáng tạo",
+      "link": "https://thanhnien.vn/vinh-long-to-chuc-doi-thoai-thuc-day-sinh-vien-khoi-nghiep-doi-moi-sang-tao-185260520181441226.htm",
+      "summary": "Chương trình đối thoại chính sách khởi nghiệp sáng tạo với chủ đề “Sinh viên với khởi nghiệp đổi mới sáng tạo” thu hút hơn 300 sinh viên trên địa bàn tỉnh Vĩnh Long tham gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-20T23:00:00+07:00",
+      "fetched": "2026-05-21T06:09:22.800818+07:00"
+    },
+    {
+      "id": "eee715443584b057dc532cca16c13c68",
+      "title": "Cụ bà 83 tuổi lưng còng bán bánh mưu sinh: 'Ước được gửi con trai xấu số vào chùa'",
+      "link": "https://thanhnien.vn/cu-ba-83-tuoi-lung-cong-ban-banh-muu-sinh-uoc-duoc-gui-con-trai-xau-so-vao-chua-185260516120533065.htm",
+      "summary": "Ở tuổi 83, bà Đặng Thị Hoa vẫn thức từ 2 giờ sáng gánh bánh tai yến đi bán khắp trung tâm TP.HCM, gom góp từng đồng để trả nợ và thực hiện tâm nguyện đưa tro cốt người con trai đã mất vào chùa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-20T23:00:00+07:00",
+      "fetched": "2026-05-21T06:09:22.800943+07:00"
+    },
+    {
+      "id": "47e1d34ca698f9154a37b455de684d14",
+      "title": "Saka: 'Giờ thì không ai cười Arsenal nữa'",
+      "link": "https://vnexpress.net/saka-gio-thi-khong-ai-cuoi-arsenal-nua-5076306.html",
+      "summary": "Bukayo Saka và nhiều đồng đội phản pháo những lời chỉ trích, sau khi Arsenal chính thức vô địch Ngoại hạng Anh mùa 2025-2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-20T22:59:42+07:00",
+      "fetched": "2026-05-21T06:09:19.690764+07:00"
+    },
+    {
+      "id": "69e6bd150c8553b78c024eb578e7678c",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 21.5.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-2152026-185260520223108774.htm",
+      "summary": "Tin tức Nhà ở cho thuê là trụ cột chiến lược; Thùng đạn sắt và cuộc hội ngộ không tưởng sau 50 năm; Nhật - Hàn bắt tay nhau để \"thoát Mỹ\"?... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 21.5.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-20T22:56:00+07:00",
+      "fetched": "2026-05-21T06:09:22.801078+07:00"
+    },
+    {
+      "id": "08c6ba657f7eb1831c502f43a662c121",
+      "title": "Yamal hẹn hò bạn gái mới tại Hy Lạp",
+      "link": "https://vnexpress.net/yamal-hen-ho-ban-gai-moi-tai-hy-lap-5076312.html",
+      "summary": "Tiền đạo Barca Lamine Yamal nắm tay Ines Garcia - ngôi sao mạng xã hội đến từ Seville - trong chuyến du lịch tại Hy Lạp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-20T22:54:21+07:00",
+      "fetched": "2026-05-21T06:09:19.690894+07:00"
+    },
+    {
+      "id": "cec0a6f0cc6e398bc077194437960a42",
+      "title": "Để hạn chế chấm chặt, chấm lỏng môn văn thi tốt nghiệp",
+      "link": "https://thanhnien.vn/de-han-che-cham-chat-cham-long-mon-van-thi-tot-nghiep-185260520220720533.htm",
+      "summary": "Chỉ thị của Thủ tướng Chính phủ nêu rõ hạn chế và yêu cầu phải chấm thi môn tự luận đảm bảo công bằng một lần nữa đặt ra vấn đề vốn chưa từng hết băn khoăn về chấm thi môn ngữ văn: làm sao để hạn chế thấp nhất việc chấm chặt, chấm lỏng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-20T22:54:00+07:00",
+      "fetched": "2026-05-21T06:09:22.801206+07:00"
+    },
+    {
+      "id": "2230d7dc8621d8f5258ff5c1bbe8a268",
+      "title": "Mô hình đại học cho tương lai",
+      "link": "https://thanhnien.vn/mo-hinh-dai-hoc-cho-tuong-lai-185260520193256905.htm",
+      "summary": "Trong nhiều thập niên, VN xem đại học chủ yếu như nơi đào tạo nhân lực và cấp bằng. Thành công của giáo dục thường được đo bằng số lượng trường học, sinh viên hay cử nhân tốt nghiệp mỗi năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-20T22:51:00+07:00",
+      "fetched": "2026-05-21T06:09:22.801335+07:00"
+    },
+    {
+      "id": "2be32a1f25a19191efacf2de8b8f80e9",
+      "title": "Ổn định vĩ mô phải vững nhưng không được bỏ lỡ cơ hội tăng trưởng",
+      "link": "https://thanhnien.vn/on-dinh-vi-mo-phai-vung-nhung-khong-duoc-bo-lo-co-hoi-tang-truong-185260520224553424.htm",
+      "summary": "Chủ tịch Quốc hội Trần Thanh Mẫn nhấn mạnh, kỷ luật tài chính phải nghiêm nhưng chính sách phát triển phải mở; quản lý phải chặt nhưng không được làm nghẽn nguồn lực; ổn định vĩ mô phải vững nhưng không được bỏ lỡ cơ hội tăng trưởng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-20T22:47:00+07:00",
+      "fetched": "2026-05-21T06:09:22.801462+07:00"
+    },
+    {
+      "id": "7bb52443aa10f6891da4305c5bf10f51",
+      "title": "Aston Villa vô địch Europa League",
+      "link": "https://vnexpress.net/aston-villa-vo-dich-europa-league-5076324.html",
+      "summary": "Thắng Freiburg 3-0 ở trận chung kết Europa League, Aston Villa giành danh hiệu lớn đầu tiên sau 30 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-20T22:09:19+07:00",
+      "fetched": "2026-05-21T06:09:19.691038+07:00"
+    },
+    {
+      "id": "7bb52443aa10f6891da4305c5bf10f51",
+      "title": "Aston Villa vô địch Europa League",
+      "link": "https://vnexpress.net/aston-villa-vo-dich-europa-league-5076324.html",
+      "summary": "Thắng Freiburg 3-0 ở trận chung kết Europa League, Aston Villa giành danh hiệu lớn đầu tiên sau 30 năm.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-20T22:09:19+07:00",
+      "fetched": "2026-05-21T06:09:31.735053+07:00"
+    },
+    {
+      "id": "fa26032dbf1918f35723016d777ff863",
+      "title": "Hành trình vượt Hormuz dưới làn đạn của 23 thủy thủ Philippines",
+      "link": "https://vnexpress.net/hanh-trinh-vuot-hormuz-duoi-lan-dan-cua-23-thuy-thu-philippines-5075906.html",
+      "summary": "Mắc kẹt hơn một tháng trên tàu hàng ở Hormuz, 23 thủy thủ Philippines tập trung trên đài chỉ huy để bỏ phiếu về quyết định cuối cùng: Vượt qua eo biển hay không.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-20T22:00:00+07:00",
+      "fetched": "2026-05-21T06:09:19.691172+07:00"
+    },
+    {
+      "id": "0450d1fbe3b8a7ecce777c714e4c9d85",
+      "title": "Sai lầm khi ăn sáng khiến đường huyết tăng vọt",
+      "link": "https://vnexpress.net/sai-lam-khi-an-sang-khien-duong-huyet-tang-vot-5075725.html",
+      "summary": "Nếu duy trì bỏ bữa hoặc ăn sáng nhiều carbohydrate hấp thụ nhanh, lượng đường trong máu của bạn có thể tăng vọt, làm gia tăng đáng kể nguy cơ mắc các bệnh lý chuyển hóa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-20T22:00:00+07:00",
+      "fetched": "2026-05-21T06:09:19.691304+07:00"
+    },
+    {
+      "id": "495a31bed1c0c8889cb51d8ea0eb0e84",
+      "title": "Siêu chòm vệ tinh có thể thay đổi khí hậu Trái Đất",
+      "link": "https://vnexpress.net/sieu-chom-ve-tinh-co-the-thay-doi-khi-hau-trai-dat-5075724.html",
+      "summary": "Carbon đen từ hoạt động triển khai các siêu chòm vệ tinh như Starlink có khả năng làm ấm tầng thượng quyển, đe dọa gây ra hậu quả môi trường nghiêm trọng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-20T22:00:00+07:00",
+      "fetched": "2026-05-21T06:09:19.691435+07:00"
+    },
+    {
+      "id": "826d616d0a1926db95a0863b0c8d9c27",
+      "title": "Xe điện Dongfeng sẽ sản xuất ở Pháp",
+      "link": "https://vnexpress.net/xe-dien-dongfeng-se-san-xuat-o-phap-5075911.html",
+      "summary": "Tập đoàn Stellantis sẽ sản xuất xe điện thương hiệu Voyah thuộc Dongfeng tại nhà máy ở Pháp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-20T22:00:00+07:00",
+      "fetched": "2026-05-21T06:09:19.691566+07:00"
+    },
+    {
+      "id": "fa26032dbf1918f35723016d777ff863",
+      "title": "Hành trình vượt Hormuz dưới làn đạn của 23 thủy thủ Philippines",
+      "link": "https://vnexpress.net/hanh-trinh-vuot-hormuz-duoi-lan-dan-cua-23-thuy-thu-philippines-5075906.html",
+      "summary": "Mắc kẹt hơn một tháng trên tàu hàng ở Hormuz, 23 thủy thủ Philippines tập trung trên đài chỉ huy để bỏ phiếu về quyết định cuối cùng: Vượt qua eo biển hay không.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-20T22:00:00+07:00",
+      "fetched": "2026-05-21T06:09:25.646127+07:00"
+    },
+    {
+      "id": "495a31bed1c0c8889cb51d8ea0eb0e84",
+      "title": "Siêu chòm vệ tinh có thể thay đổi khí hậu Trái Đất",
+      "link": "https://vnexpress.net/sieu-chom-ve-tinh-co-the-thay-doi-khi-hau-trai-dat-5075724.html",
+      "summary": "Carbon đen từ hoạt động triển khai các siêu chòm vệ tinh như Starlink có khả năng làm ấm tầng thượng quyển, đe dọa gây ra hậu quả môi trường nghiêm trọng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-20T22:00:00+07:00",
+      "fetched": "2026-05-21T06:09:29.848553+07:00"
     },
     {
       "id": "82016e73f502e6a38bf00fec8cbd0deb",
