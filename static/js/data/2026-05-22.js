@@ -1,6 +1,6 @@
 window.newsData_2026_05_22 = {
   "date": "2026-05-22",
-  "lastUpdated": "2026-05-22T02:49:42.553908+07:00",
+  "lastUpdated": "2026-05-22T04:25:13.412350+07:00",
   "articles": [
     {
       "id": "c00a33d6f0a076b59ed4235f5c6a1db6",
@@ -151,6 +151,36 @@ window.newsData_2026_05_22 = {
       "category": "Tổng hợp",
       "published": "2026-05-22T00:54:04.044247+07:00",
       "fetched": "2026-05-22T00:54:04.044459+07:00"
+    },
+    {
+      "id": "023bfb992eb4e145d81596246d5c1504",
+      "title": "Người mẹ suýt 'ôm hận cả đời' vì ba giây trông con lơ đãng",
+      "link": "https://vnexpress.net/nguoi-me-suyt-om-han-ca-doi-vi-ba-giay-trong-con-lo-dang-5076538.html",
+      "summary": "Chiếc xe đẩy của con tôi trôi ra giữa lòng đường, 3 giây định mệnh và bài học xương máu không bao giờ quên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-21T21:00:00+07:00",
+      "fetched": "2026-05-22T04:24:58.233850+07:00"
+    },
+    {
+      "id": "a07f312ad8f50b36a0d3a3650a02773e",
+      "title": "Ronaldo lập cú đúp, giúp Al Nassr vô địch Saudi League",
+      "link": "https://vnexpress.net/ronaldo-lap-cu-dup-giup-al-nassr-vo-dich-saudi-league-5076779.html",
+      "summary": "Tiền đạo 41 tuổi Cristiano Ronaldo sút phạt hàng rào ghi bàn trong trận Al Nassr thắng đội khách Damac 4-1, để đoạt danh hiệu chính thức đầu tiên sau 5 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-21T19:56:26+07:00",
+      "fetched": "2026-05-22T04:24:58.234014+07:00"
+    },
+    {
+      "id": "a07f312ad8f50b36a0d3a3650a02773e",
+      "title": "Ronaldo lập cú đúp, giúp Al Nassr vô địch Saudi League",
+      "link": "https://vnexpress.net/ronaldo-lap-cu-dup-giup-al-nassr-vo-dich-saudi-league-5076779.html",
+      "summary": "Tiền đạo 41 tuổi Cristiano Ronaldo sút phạt hàng rào ghi bàn trong trận Al Nassr thắng đội khách Damac 4-1, để đoạt danh hiệu chính thức đầu tiên sau 5 năm.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-21T19:56:26+07:00",
+      "fetched": "2026-05-22T04:25:13.407730+07:00"
     },
     {
       "id": "81d34474ccfaf2d74b8697c157e1c8ba",
