@@ -1,7 +1,117 @@
 window.newsData_2026_05_22 = {
   "date": "2026-05-22",
-  "lastUpdated": "2026-05-22T04:25:13.412350+07:00",
+  "lastUpdated": "2026-05-22T06:01:00.854339+07:00",
   "articles": [
+    {
+      "id": "7c0777fec1dcdc9acb81a46e16736c21",
+      "title": "Ronaldo bật khóc sau khi giúp Al Nassr đoạt chức vô địch Saudi Pro League",
+      "link": "https://tuoitre.vn/ronaldo-bat-khoc-sau-khi-giup-al-nassr-doat-chuc-vo-dich-saudi-pro-league-20260522041756378.htm",
+      "summary": "Siêu sao 41 tuổi Cristiano Ronaldo đã rơi nước mắt vì cuối cùng anh cũng có được danh hiệu chính thức đầu tiên cùng Al Nassr, sau chiến thắng 4-1 trước Damac rạng sáng 22-5 ở vòng cuối cùng Saudi Pro League.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-22T06:00:54.862319+07:00",
+      "fetched": "2026-05-22T06:00:54.862492+07:00"
+    },
+    {
+      "id": "fed8ece5b9c2a57190c5f3eb7306e879",
+      "title": "Lại Lý Huynh nhận tin vui ở giải cờ tướng 'siêu khốc liệt' của Trung Quốc",
+      "link": "https://tuoitre.vn/lai-ly-huynh-nhan-tin-vui-o-giai-co-tuong-sieu-khoc-liet-cua-trung-quoc-20260521200440911.htm",
+      "summary": "Là 1 trong 12 kỳ thủ được đặc cách vào thẳng vòng chung kết Kỳ Thành Bôi - giải cờ tướng quốc tế danh giá tại Trung Quốc, Lại Lý Huynh còn nhận thêm tin vui từ kết quả bốc thăm khá thuận lợi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-22T06:00:54.862184+07:00",
+      "fetched": "2026-05-22T06:00:54.862307+07:00"
+    },
+    {
+      "id": "3059a9e849495c28c9aa967d9a83d371",
+      "title": "'Bác sĩ online', 'thần y mạng' tìm cách lách luật khi bị đề xuất phạt nặng",
+      "link": "https://tuoitre.vn/bac-si-online-than-y-mang-tim-cach-lach-luat-khi-bi-de-xuat-phat-nang-20260521232458033.htm",
+      "summary": "Mạng xã hội khiến tin sai lệch lan nhanh hơn các khuyến cáo y học chính thống, Bộ Y tế đề xuất mức phạt tiền 10-30 triệu đồng với các hành vi làm ra thông tin sai trái trong lĩnh vực khám chữa bệnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-22T06:00:54.862050+07:00",
+      "fetched": "2026-05-22T06:00:54.862172+07:00"
+    },
+    {
+      "id": "75aadcd8c7329be0432b61aac2fd1389",
+      "title": "Chiến sự Mỹ - Iran: 'Giai đoạn cuối', nhưng giải pháp còn xa?",
+      "link": "https://tuoitre.vn/chien-su-my-iran-giai-doan-cuoi-nhung-giai-phap-con-xa-20260521233725275.htm",
+      "summary": "Tổng thống Trump tuyên bố đàm phán với Iran đang ở \"giai đoạn cuối\", trong khi Tehran vẫn kiên quyết không từ bỏ tham vọng hạt nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-22T06:00:54.861920+07:00",
+      "fetched": "2026-05-22T06:00:54.862037+07:00"
+    },
+    {
+      "id": "da9df15039f3c506d457bb7078e60368",
+      "title": "Lịch trực tiếp V-League vòng 24: CLB Hà Nội chạm trán Nam Định",
+      "link": "https://tuoitre.vn/lich-truc-tiep-v-league-vong-24-clb-ha-noi-cham-tran-nam-dinh-20260519174420531.htm",
+      "summary": "Tâm điểm của vòng 24 V-League 2025-2026 là trận “đại chiến” giữa CLB Hà Nội với Thép Xanh Nam Định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-22T06:00:54.861791+07:00",
+      "fetched": "2026-05-22T06:00:54.861908+07:00"
+    },
+    {
+      "id": "cf2655dc21e652115b88434bf1173a5c",
+      "title": "Sinh viên RMIT Việt Nam khám phá quy trình sản xuất tin tức quốc tế tại báo Tuổi Trẻ",
+      "link": "https://tuoitre.vn/sinh-vien-rmit-viet-nam-kham-pha-quy-trinh-san-xuat-tin-tuc-quoc-te-tai-bao-tuoi-tre-2026052115324336.htm",
+      "summary": "Đoàn sinh viên ngành ngôn ngữ thuộc Khoa Truyền thông và Thiết kế của RMIT Việt Nam vừa có chuyến tham quan, giao lưu và tìm hiểu thực tế quy trình làm việc, sản xuất tin bài cùng đội ngũ Ban Quốc tế và Tuổi Trẻ Tiếng Anh của báo Tuổi Trẻ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-22T06:00:54.861651+07:00",
+      "fetched": "2026-05-22T06:00:54.861777+07:00"
+    },
+    {
+      "id": "9db7243452eeb40ad0c1ba5ec6c8e181",
+      "title": "Thời tiết hôm nay 22-5: Bắc Bộ đến Huế nắng gắt, Nam Bộ mưa rào",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-22-5-bac-bo-den-hue-nang-gat-nam-bo-mua-rao-20260521162543114.htm",
+      "summary": "Hôm nay 22-5, thời tiết các tỉnh phía Bắc nắng nóng đến nắng nóng gay gắt, Nam Bộ mưa rào kèm dông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-22T06:00:54.861508+07:00",
+      "fetched": "2026-05-22T06:00:54.861625+07:00"
+    },
+    {
+      "id": "c0296f86f2b9d48d7f475eaa9bca8f31",
+      "title": "HLV Tuchel bị cả nhà Harry Maguire chỉ trích khi danh sách tuyển Anh bị rò rỉ",
+      "link": "https://tuoitre.vn/hlv-tuchel-bi-ca-nha-harry-maguire-chi-trich-khi-danh-sach-tuyen-anh-bi-ro-ri-20260522052945574.htm",
+      "summary": "HLV Thomas Tuchel vẫn chưa công bố danh sách 26 cầu thủ Anh dự World Cup 2026, nhưng Harry Maguire đã lên mạng xã hội tiết lộ bản thân bị loại. Anh và những người thân trong gia đình đã kịch liệt chỉ trích ông Tuchel.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-22T06:00:54.861346+07:00",
+      "fetched": "2026-05-22T06:00:54.861494+07:00"
+    },
+    {
+      "id": "cdbb93719a1437c92fb57403898fa105",
+      "title": "Tin tức sáng 22-5: Lãi suất qua đêm xuống còn 6%/năm",
+      "link": "https://tuoitre.vn/tin-tuc-sang-22-5-lai-suat-qua-dem-xuong-con-6-nam-20260521073005825.htm",
+      "summary": "Một số tin tức đáng chú ý: Người rút bảo hiểm xã hội một lần giảm gần 25% so với cùng kỳ 2025; TP.HCM có 34 ngàn ca sốt xuất huyết và tay chân miệng; Cà Mau công bố 96 dự án thu hút đầu tư năm 2026...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-22T06:00:54.861194+07:00",
+      "fetched": "2026-05-22T06:00:54.861333+07:00"
+    },
+    {
+      "id": "44b95261e0210bf59055008375c59ef6",
+      "title": "Ngắm Hương Giang và dàn mỹ nhân MGI All Stars khoe dáng với bikini",
+      "link": "https://tuoitre.vn/ngam-huong-giang-va-dan-my-nhan-mgi-all-stars-khoe-dang-voi-bikini-20260522035553621.htm",
+      "summary": "MGI All Stars 2026 vừa tung bộ ảnh bikini của 56 người đẹp tham gia cuộc thi. Hương Giang nhận được nhiều sự chú ý nhờ thần thái tự tin cùng phong cách trình diễn giàu kinh nghiệm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-22T06:00:54.861041+07:00",
+      "fetched": "2026-05-22T06:00:54.861180+07:00"
+    },
+    {
+      "id": "94eed4df1cef3d03b73ed51cd234e82d",
+      "title": "Chùa Pháp Hoa rực rỡ mùa Phật đản 2026",
+      "link": "https://tuoitre.vn/chua-phap-hoa-ruc-ro-mua-phat-dan-2026-20260522051156301.htm",
+      "summary": "Những ngày này, chùa Pháp Hoa (phường Nhiêu Lộc, TP.HCM) được trang hoàng rực rỡ với cờ, hoa và mô hình hoa sen, thu hút đông người dân và phật tử đến tham quan, chụp ảnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-22T06:00:54.860789+07:00",
+      "fetched": "2026-05-22T06:00:54.861024+07:00"
+    },
     {
       "id": "c00a33d6f0a076b59ed4235f5c6a1db6",
       "title": "Samsung Electronics sẽ thưởng hàng trăm ngàn USD cho mỗi nhân viên mảng chip",
@@ -151,6 +261,256 @@ window.newsData_2026_05_22 = {
       "category": "Tổng hợp",
       "published": "2026-05-22T00:54:04.044247+07:00",
       "fetched": "2026-05-22T00:54:04.044459+07:00"
+    },
+    {
+      "id": "148f90816306e6e602d82590abc1f7e4",
+      "title": "Vào mùa mưa, sao Nam bộ vẫn nắng nóng?",
+      "link": "https://thanhnien.vn/vao-mua-mua-sao-nam-bo-van-nang-nong-185260521213841857.htm",
+      "summary": "Đây là câu hỏi của rất nhiều người khi hiện tại thời tiết vẫn oi nóng, mưa ít và chủ yếu là những trận mưa rào nhẹ. Ngược lại, ở nhiều nơi như miền Trung đáng lẽ là mùa nắng nóng thì mưa lớn kéo dài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-21T23:00:00+07:00",
+      "fetched": "2026-05-22T06:00:53.726070+07:00"
+    },
+    {
+      "id": "3077c637fe9f318ccd8f6823bce51471",
+      "title": "TP.HCM cắt giảm mạnh thủ tục cấp phép xây dựng",
+      "link": "https://thanhnien.vn/tphcm-cat-giam-manh-thu-tuc-cap-phep-xay-dung-185260521213521942.htm",
+      "summary": "Không chỉ quyết liệt tháo gỡ hàng loạt dự án tồn đọng kéo dài, TP.HCM còn đang mở thêm một \"mặt trận\" mới là cắt giảm mạnh thủ tục hành chính trong lĩnh vực xây dựng, tiến tới mở rộng diện miễn giấy phép xây dựng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-21T23:00:00+07:00",
+      "fetched": "2026-05-22T06:00:53.726244+07:00"
+    },
+    {
+      "id": "e8ebcd1a1bdce544f22485f6aaa39367",
+      "title": "Cần làm gì để xe cũ dùng được xăng sinh học?",
+      "link": "https://thanhnien.vn/can-lam-gi-de-xe-cu-dung-duoc-xang-sinh-hoc-185260521194225212.htm",
+      "summary": "Có khoảng 10% xe đời cũ sẽ không tương thích với xăng sinh học E10. Vậy các loại xe này sẽ như thế nào khi cả nước ngừng bán xăng khoáng, chuyển sang xăng sinh học từ 1.6 tới?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-21T23:00:00+07:00",
+      "fetched": "2026-05-22T06:00:53.726428+07:00"
+    },
+    {
+      "id": "753676ab63f490f3f4e3c5feab25d654",
+      "title": "Ván cược của đảng Cộng hòa",
+      "link": "https://thanhnien.vn/van-cuoc-cua-dang-cong-hoa-185260521184529384.htm",
+      "summary": "Tổng thống Mỹ Donald Trump đang cho thấy tầm ảnh hưởng không suy suyển đối với nhóm cử tri trung thành nhưng cũng có nguy cơ xa rời nhóm cử tri độc lập then chốt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-21T23:00:00+07:00",
+      "fetched": "2026-05-22T06:00:53.726586+07:00"
+    },
+    {
+      "id": "5d278be0cdf900a306655134e6400a9b",
+      "title": "Chùa trong hẻm ở TP.HCM: Ngôi chùa 5 tầng giữa khu phố người Hoa",
+      "link": "https://thanhnien.vn/chua-trong-hem-o-tphcm-ngoi-chua-5-tang-giua-khu-pho-nguoi-hoa-185260521171132719.htm",
+      "summary": "Nằm cuối con hẻm nhỏ ở khu Chợ Lớn (TP.HCM), chùa Vạn Phật gây ấn tượng với phong cách kiến trúc của người Hoa, cao 5 tầng cùng hàng ngàn tượng Phật được bài trí khắp các điện thờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-21T23:00:00+07:00",
+      "fetched": "2026-05-22T06:00:53.726741+07:00"
+    },
+    {
+      "id": "1a6f185818830935160c9f62ea4c1a01",
+      "title": "Thanh niên An Giang chung sức xây dựng quê hương",
+      "link": "https://thanhnien.vn/thanh-nien-an-giang-chung-suc-xay-dung-que-huong-185260521161531469.htm",
+      "summary": "Sáng nay (22.5), Đại hội Hội Liên hiệp Thanh niên Việt Nam tỉnh An Giang lần thứ I (nhiệm kỳ 2026 - 2029) diễn ra phiên trọng thể với chủ đề \"Thanh niên An Giang - Khát vọng - Đoàn kết - Hội nhập - Phát triển - Tự tin bước vào kỷ nguyên mới\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-21T23:00:00+07:00",
+      "fetched": "2026-05-22T06:00:53.726892+07:00"
+    },
+    {
+      "id": "50e1ba832f33c59253b5f2a212374c8d",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 22.5.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-2252026-185260521225531022.htm",
+      "summary": "Tin tức đặc biệt trên báo in Thanh Niên 22.5.2026. Tin tức Định hình tiêu chí xã, phường xã hội chủ nghĩa; Cần làm gì để xe cũ dùng được xăng sinh học?, Khán giả VN xem World Cup 2026 trên những kênh nào?… có thể đón xem trên Báo Thanh Niên số ra ngày 22.5.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-21T22:58:00+07:00",
+      "fetched": "2026-05-22T06:00:53.727041+07:00"
+    },
+    {
+      "id": "02bbc1fc72c5b58a5eaa2b5e79213627",
+      "title": "Chung dòng máu Lạc Hồng: Người lính đưa công nghệ số đến với đồng bào vùng biên",
+      "link": "https://thanhnien.vn/chung-dong-mau-lac-hong-nguoi-linh-dua-cong-nghe-so-den-voi-dong-bao-vung-bien-185260521152006017.htm",
+      "summary": "Giữa những thôn làng heo hút dọc tuyến biên giới giáp Campuchia, nơi sóng điện thoại vẫn còn chập chờn, những người lính Đồn Biên phòng Ia Nan, tỉnh Gia Lai đang lặng lẽ làm một công việc rất khác: đưa công nghệ số đến với đồng bào vùng biên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-21T22:58:00+07:00",
+      "fetched": "2026-05-22T06:00:53.727190+07:00"
+    },
+    {
+      "id": "b2627382a51465ec73eca6cbfcf13d24",
+      "title": "Sự chuyển mình của xã đảo giữa sông Hồng",
+      "link": "https://thanhnien.vn/su-chuyen-minh-cua-xa-dao-giua-song-hong-185260521191050366.htm",
+      "summary": "Là xã đảo duy nhất của thủ đô Hà Nội, gặp khó khăn về địa lý, thiếu thốn về hạ tầng, nhưng từ khi vận hành mô hình chính quyền địa phương 2 cấp, Minh Châu đã cho thấy bước chuyển mạnh mẽ, dẫn đầu thành phố trong nhiều nhiệm vụ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-21T22:56:00+07:00",
+      "fetched": "2026-05-22T06:00:53.727349+07:00"
+    },
+    {
+      "id": "cb75dea12b144817293fad36955a9971",
+      "title": "Ủy ban Pháp luật và Tư pháp chủ động trong kiến tạo \nthể chế phát triển",
+      "link": "https://thanhnien.vn/uy-ban-phap-luat-va-tu-phap-chu-dong-trong-kien-tao-the-che-phat-trien-185260521221812102.htm",
+      "summary": "Chiều 21.5, Chủ tịch Quốc hội Trần Thanh Mẫn chủ trì cuộc làm việc với Thường trực Ủy ban Pháp luật và Tư pháp về nhiệm vụ trọng tâm năm 2026 và cả nhiệm kỳ 2026 - 2031.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-21T22:55:00+07:00",
+      "fetched": "2026-05-22T06:00:53.727524+07:00"
+    },
+    {
+      "id": "a28d8356cbf4f420c5e23b17a60f922c",
+      "title": "Định hình tiêu chí xã, phường xã hội chủ nghĩa",
+      "link": "https://thanhnien.vn/dinh-hinh-tieu-chi-xa-phuong-xa-hoi-chu-nghia-185260521224832254.htm",
+      "summary": "Chiều 21.5, Học viện Chính trị quốc gia Hồ Chí Minh tổ chức hội thảo khoa học với chủ đề \"Xây dựng xã, phường xã hội chủ nghĩa trong kỷ nguyên phát triển mới - những vấn đề lý luận và thực tiễn\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-21T22:54:00+07:00",
+      "fetched": "2026-05-22T06:00:53.727677+07:00"
+    },
+    {
+      "id": "6dbdbaeb599b921736d6bd89f92372b0",
+      "title": "Thi tốt nghiệp THPT ở TP.HCM sau sáp nhập thực hiện ra sao?",
+      "link": "https://thanhnien.vn/thi-tot-nghiep-thpt-o-tphcm-sau-sap-nhap-thuc-hien-ra-sao-185260521195337155.htm",
+      "summary": "Ngày 21.5, đoàn công tác của Bộ GD-ĐT do Thứ trưởng Phạm Ngọc Thưởng dẫn đầu đã có buổi làm việc với UBND TP.HCM về công tác chuẩn bị cho kỳ thi tốt nghiệp THPT năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-21T22:54:00+07:00",
+      "fetched": "2026-05-22T06:00:53.727829+07:00"
+    },
+    {
+      "id": "2fa02887db83f89d834e5407ac2c812a",
+      "title": "Siết kỷ luật công vụ bằng chế tài",
+      "link": "https://thanhnien.vn/siet-ky-luat-cong-vu-bang-che-tai-185260521192359331.htm",
+      "summary": "Từ yêu cầu xử lý nghiêm cán bộ né tránh trách nhiệm đến việc gắn trách nhiệm người đứng đầu với kết quả thực thi, Kế hoạch 232 do UBND TP.Đà Nẵng vừa ban hành cho thấy TP đang muốn siết lại kỷ luật công vụ theo hướng làm thật, kiểm tra thật và chịu trách nhiệm thật, thay vì dừng ở những khẩu hiệu ch...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-21T22:53:00+07:00",
+      "fetched": "2026-05-22T06:00:53.727979+07:00"
+    },
+    {
+      "id": "43eaf8c3a42ae04e16133f80d52428ac",
+      "title": "Thế hệ 'không một xu dính túi'",
+      "link": "https://thanhnien.vn/the-he-khong-mot-xu-dinh-tui-18526052119315714.htm",
+      "summary": "Nhiều học sinh phổ thông ở các đô thị lớn như TP.HCM không còn thói quen giữ, chi tiêu tiền mặt mà sử dụng điện thoại để quét mã thanh toán 'tất tần tật' mọi thứ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-21T22:45:00+07:00",
+      "fetched": "2026-05-22T06:00:53.728131+07:00"
+    },
+    {
+      "id": "22d7e901cc991f1b722d860afac9d1a8",
+      "title": "Nghi thức tắm Phật: Hòa thượng Thích Lệ Trang nói về ý nghĩa 3 gáo nước",
+      "link": "https://thanhnien.vn/nghi-thuc-tam-phat-hoa-thuong-thich-le-trang-noi-ve-y-nghia-3-gao-nuoc-185260518170050958.htm",
+      "summary": "Mùa Phật đản, nhiều người đến chùa thực hiện nghi thức tắm Phật, nhưng tắm Phật sao cho đúng và có ý nghĩa gì, dưới đây là chia sẻ của hòa thượng Thích Lệ Trang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-21T22:45:00+07:00",
+      "fetched": "2026-05-22T06:00:53.728291+07:00"
+    },
+    {
+      "id": "a22b27a71ac743ff780a99e03621e7e2",
+      "title": "Yamal: 'Tây Ban Nha hay nhất thế giới'",
+      "link": "https://vnexpress.net/yamal-tay-ban-nha-hay-nhat-the-gioi-5076683.html",
+      "summary": "Theo Lamine Yamal, Tây Ban Nha đang chơi thứ bóng đá hay nhất thế giới, nhưng vẫn cần tận hiến và tin tưởng vào lối chơi để tiến xa tại World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-21T22:41:38+07:00",
+      "fetched": "2026-05-22T06:00:49.305619+07:00"
+    },
+    {
+      "id": "a22b27a71ac743ff780a99e03621e7e2",
+      "title": "Yamal: 'Tây Ban Nha hay nhất thế giới'",
+      "link": "https://vnexpress.net/yamal-tay-ban-nha-hay-nhat-the-gioi-5076683.html",
+      "summary": "Theo Lamine Yamal, Tây Ban Nha đang chơi thứ bóng đá hay nhất thế giới, nhưng vẫn cần tận hiến và tin tưởng vào lối chơi để tiến xa tại World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-21T22:41:38+07:00",
+      "fetched": "2026-05-22T06:01:00.848872+07:00"
+    },
+    {
+      "id": "39b150e113e55651423af9bc3aba9667",
+      "title": "Vườn chim quý của lão nông miền Tây",
+      "link": "https://vnexpress.net/vuon-chim-quy-cua-lao-nong-mien-tay-5076537.html",
+      "summary": "Hơn 20 năm qua, khu vườn 1,8 ha của lão nông Lê Văn Chìa là nơi sinh sống của hàng nghìn chim, cò quý hiếm, song bất an với nạn săn bắn trộm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-21T22:00:00+07:00",
+      "fetched": "2026-05-22T06:00:49.305809+07:00"
+    },
+    {
+      "id": "5656de75e10ecb6c8ef4bf8933cb3c4c",
+      "title": "Cánh chim hải âu trong thiết kế mở rộng nhà ga quốc tế Đà Nẵng",
+      "link": "https://vnexpress.net/canh-chim-hai-au-trong-thiet-ke-mo-rong-nha-ga-quoc-te-da-nang-5076525.html",
+      "summary": "Nhà ga quốc tế Đà Nẵng sẽ được mở rộng thêm 3.600 m2, phần mái lấy cảm hứng từ đàn chim hải âu sải cánh, dự kiến hoàn thành năm 2027.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-21T22:00:00+07:00",
+      "fetched": "2026-05-22T06:00:49.305983+07:00"
+    },
+    {
+      "id": "0ebf26dfc59c166e22da4893aa93829c",
+      "title": "Lý do Israel bắt giữ các nhà hoạt động trên đội tàu tới Gaza",
+      "link": "https://vnexpress.net/ly-do-israel-bat-giu-cac-nha-hoat-dong-tren-doi-tau-toi-gaza-5076400.html",
+      "summary": "Việc Israel bắt giữ đội tàu Global Sumud Flotilla tiếp tục làm dấy lên tranh cãi pháp lý về quyền tự do hàng hải và lệnh phong tỏa Gaza.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-21T22:00:00+07:00",
+      "fetched": "2026-05-22T06:00:49.306143+07:00"
+    },
+    {
+      "id": "325c6ba826b9800495e114814811987d",
+      "title": "Hai nguyên tắc ăn sáng giúp thận khỏe",
+      "link": "https://vnexpress.net/hai-nguyen-tac-an-sang-giup-than-khoe-5076274.html",
+      "summary": "Bên cạnh việc loại bỏ các món ăn có chỉ số đường huyết cao, thực đơn buổi sáng tập trung bổ sung chất xơ đúng cách được xem là chìa khóa vàng giúp duy trì hệ tiêu hóa và bảo vệ thận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-21T22:00:00+07:00",
+      "fetched": "2026-05-22T06:00:49.306305+07:00"
+    },
+    {
+      "id": "084bd9409a0372aa23ae26c83a7e5406",
+      "title": "Wifi công cộng có thể nguy hiểm thế nào",
+      "link": "https://vnexpress.net/wifi-cong-cong-co-the-nguy-hiem-the-nao-5075757.html",
+      "summary": "Wifi công cộng tiềm ẩn rủi ro, đặc biệt với các hệ thống không có trang quản trị riêng, khi kẻ gian có thể giả danh và đánh cắp thông tin quan trọng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-21T22:00:00+07:00",
+      "fetched": "2026-05-22T06:00:49.306493+07:00"
+    },
+    {
+      "id": "823b4f3f1d912812c504a3ac35e9213b",
+      "title": "Doanh số xe điện toàn cầu dự kiến đạt kỷ lục trong 2026",
+      "link": "https://vnexpress.net/doanh-so-xe-dien-toan-cau-du-kien-dat-ky-luc-trong-2026-5076177.html",
+      "summary": "Đà tăng trưởng doanh số xe điện toàn cầu vẫn tiếp tục trong bối cảnh khủng hoảng năng lượng và sụt giảm tại một số thị trường vào đầu năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-21T22:00:00+07:00",
+      "fetched": "2026-05-22T06:00:49.306658+07:00"
+    },
+    {
+      "id": "0ebf26dfc59c166e22da4893aa93829c",
+      "title": "Lý do Israel bắt giữ các nhà hoạt động trên đội tàu tới Gaza",
+      "link": "https://vnexpress.net/ly-do-israel-bat-giu-cac-nha-hoat-dong-tren-doi-tau-toi-gaza-5076400.html",
+      "summary": "Việc Israel bắt giữ đội tàu Global Sumud Flotilla tiếp tục làm dấy lên tranh cãi pháp lý về quyền tự do hàng hải và lệnh phong tỏa Gaza.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-21T22:00:00+07:00",
+      "fetched": "2026-05-22T06:00:56.462335+07:00"
+    },
+    {
+      "id": "084bd9409a0372aa23ae26c83a7e5406",
+      "title": "Wifi công cộng có thể nguy hiểm thế nào",
+      "link": "https://vnexpress.net/wifi-cong-cong-co-the-nguy-hiem-the-nao-5075757.html",
+      "summary": "Wifi công cộng tiềm ẩn rủi ro, đặc biệt với các hệ thống không có trang quản trị riêng, khi kẻ gian có thể giả danh và đánh cắp thông tin quan trọng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-21T22:00:00+07:00",
+      "fetched": "2026-05-22T06:00:59.509074+07:00"
     },
     {
       "id": "023bfb992eb4e145d81596246d5c1504",
