@@ -1,6 +1,6 @@
 window.newsData_2026_05_23 = {
   "date": "2026-05-23",
-  "lastUpdated": "2026-05-23T04:07:00.719002+07:00",
+  "lastUpdated": "2026-05-23T05:55:29.265655+07:00",
   "articles": [
     {
       "id": "5663bc6be32bd503a767989907b00347",
@@ -151,6 +151,246 @@ window.newsData_2026_05_23 = {
       "category": "Tổng hợp",
       "published": "2026-05-23T00:48:31.388328+07:00",
       "fetched": "2026-05-23T00:48:31.388518+07:00"
+    },
+    {
+      "id": "25bd47d0d3791f425c86a376c9e38c2b",
+      "title": "Thi đánh giá năng lực: Lưu ý cách làm bài thi có số lượng câu hỏi lớn",
+      "link": "https://thanhnien.vn/thi-danh-gia-nang-luc-luu-y-cach-lam-bai-thi-co-so-luong-cau-hoi-lon-185260522183406752.htm",
+      "summary": "'Thí sinh cần có chiến thuật làm bài phù hợp để có thể thể hiện đầy đủ nhất năng lực của bản thân trong 150 phút làm bài, quản lý thời gian chặt chẽ vì bài thi có số lượng câu hỏi lớn'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-22T22:54:00+07:00",
+      "fetched": "2026-05-23T05:55:20.766330+07:00"
+    },
+    {
+      "id": "e55638088c210b80688f12aa5045ef9c",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 23.5.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-2352026-185260522224153495.htm",
+      "summary": "Tin tức Nâng ngưỡng thu nhập vãng lai tính thuế lên 5 triệu đồng đã đủ chưa?; Thiếu hướng dẫn viên ở nhiều ngoại ngữ, du lịch gặp khó; Đài Loan thiệt hại kép vì xung đột Iran... là các thông tin hấp dẫn bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 23.5.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-22T22:53:00+07:00",
+      "fetched": "2026-05-23T05:55:20.766475+07:00"
+    },
+    {
+      "id": "f28db1179c3eb112ca5355102604b997",
+      "title": "Kiểm soát hình ảnh AI",
+      "link": "https://thanhnien.vn/kiem-soat-hinh-anh-ai-185260522221647806.htm",
+      "summary": "Gần đây, nhiều quốc gia liên tục thắt chặt việc kiểm soát thông qua các hình thức dán nhãn, xử lý sai phạm liên quan việc sử dụng hình ảnh được tạo từ công nghệ trí tuệ nhân tạo (AI).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-22T22:52:00+07:00",
+      "fetched": "2026-05-23T05:55:20.766605+07:00"
+    },
+    {
+      "id": "703f4ee89625d05f3a3e7bb3eae4e575",
+      "title": "Đề thi lớp 10 TP.HCM sau sáp nhập: Mức độ phân hóa thế nào ?",
+      "link": "https://thanhnien.vn/de-thi-lop-10-tphcm-sau-sap-nhap-muc-do-phan-hoa-the-nao-185260522222555898.htm",
+      "summary": "Lãnh đạo Sở GD-ĐT TP.HCM cho biết kỳ thi tuyển sinh đầu tiên của TP.HCM sau sáp nhập, mức độ đánh giá của đề sẽ được cân đối để phù hợp với thực tế và bối cảnh giáo dục chung của 3 địa phương trước đây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-22T22:45:00+07:00",
+      "fetched": "2026-05-23T05:55:20.766733+07:00"
+    },
+    {
+      "id": "fff7953494871911ea2483b41a9487b7",
+      "title": "Thảo Cầm Viên mở trại hè: Trẻ làm 'bảo mẫu' sở thú, dắt ngựa lùn đi dạo",
+      "link": "https://thanhnien.vn/thao-cam-vien-mo-trai-he-tre-lam-bao-mau-so-thu-dat-ngua-lun-di-dao-185260520114733569.htm",
+      "summary": "Thảo Cầm Viên vừa giới thiệu một loạt hoạt động mùa hè như trại hè thử làm nhân viên sở thú, tour xem động vật ban đêm đến những buổi kể chuyện về 'idol' hươu cao cổ, voi, ngựa lùn…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-22T22:45:00+07:00",
+      "fetched": "2026-05-23T05:55:20.766859+07:00"
+    },
+    {
+      "id": "558d6c6c20639b4a7e66564fd811c231",
+      "title": "Hai đảng Dân chủ lẫn Cộng hòa cùng lúc chịu sóng gió",
+      "link": "https://thanhnien.vn/hai-dang-dan-chu-lan-cong-hoa-cung-luc-chiu-song-gio-185260522223014123.htm",
+      "summary": "Hai đảng Dân chủ và Cộng hòa tại Mỹ đều đang phải giải quyết rạn nứt nội bộ về những vấn đề khác nhau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-22T22:41:00+07:00",
+      "fetched": "2026-05-23T05:55:20.767002+07:00"
+    },
+    {
+      "id": "32ac738d5a570234f01f2080de713ce1",
+      "title": "Kết luận tại buổi làm việc về nhà ở xã hội và định hướng phát triển nhà ở",
+      "link": "https://thanhnien.vn/ket-luan-tai-buoi-lam-viec-ve-nha-o-xa-hoi-va-dinh-huong-phat-trien-nha-o-18526052222371323.htm",
+      "summary": "Ngày 19.5, Tổng Bí thư, Chủ tịch nước Tô Lâm đã chủ trì buổi làm việc với Đảng ủy Chính phủ và một số cơ quan về tình hình triển khai Chỉ thị số 34-CT/TW của Ban Bí thư và định hướng phát triển nhà ở trong thời gian tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-22T22:40:00+07:00",
+      "fetched": "2026-05-23T05:55:20.767131+07:00"
+    },
+    {
+      "id": "4e320cc318d7997b64ed9dcff6995f3e",
+      "title": "Báo Trung Quốc tiếc nuối khi đội nhà thua U.17 Nhật Bản, nhưng vẫn cảm thấy… may mắn",
+      "link": "https://thanhnien.vn/bao-trung-quoc-tiec-nuoi-khi-doi-nha-thua-u17-nhat-ban-nhung-van-cam-thay-may-man-185260523023100094.htm",
+      "summary": "Truyền thông Trung Quốc tỏ ra tiếc nuối sau thất bại 2-3 của đội U.17 nước này trước U.17 Nhật Bản ở chung kết U.17 châu Á 2026. Dù thừa nhận khoảng cách trình độ vẫn còn lớn, nhiều tờ báo cho rằng việc chỉ thua sát nút đã là may mắn, nhưng điều đó càng khiến nỗi đau vuột chức vô địch thêm nặng nề.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-22T22:37:00+07:00",
+      "fetched": "2026-05-23T05:55:20.767259+07:00"
+    },
+    {
+      "id": "434abd142b21ad976be698a04b3b2c1b",
+      "title": "Châu Á - Thái Bình Dương bùng nổ đầu tư trung tâm dữ liệu",
+      "link": "https://thanhnien.vn/chau-a-thai-binh-duong-bung-no-dau-tu-trung-tam-du-lieu-185260522213848174.htm",
+      "summary": "Sự phát triển của trí tuệ nhân tạo (AI) góp phần thúc đẩy đầu tư vào trung tâm dữ liệu tại châu Á - Thái Bình Dương, với sự chuyển dịch sang các thị trường mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-22T22:35:00+07:00",
+      "fetched": "2026-05-23T05:55:20.767386+07:00"
+    },
+    {
+      "id": "ae8be5f3503a42d060b5b93dd93d9ff4",
+      "title": "Đại lý TP.HCM bán trúng 7,2 tỉ xổ số miền Nam, 10 người may mắn xuất hiện",
+      "link": "https://thanhnien.vn/dai-ly-tphcm-ban-trung-72-ti-xo-so-mien-nam-10-nguoi-may-man-xuat-hien-18526052211250457.htm",
+      "summary": "Một đại lý vé số ở TP.HCM bán trúng 7,2 tỉ đồng xổ số miền Nam, ngay sau đó, 10 người may mắn xuất hiện khiến đại lý đổi thưởng… 'mỏi tay'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-22T22:30:00+07:00",
+      "fetched": "2026-05-23T05:55:20.767513+07:00"
+    },
+    {
+      "id": "edf6a461f7a0371b392f50cb9c6d361e",
+      "title": "Tiêu điểm quốc tế ngày 23.5: Chỉ thị của lãnh tụ Iran | Loạt cơ sở lọc dầu Nga bị đánh",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-ngay-235-chi-thi-cua-lanh-tu-iran-loat-co-so-loc-dau-nga-bi-danh-185260523002910935.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 23.5.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-22T22:29:00+07:00",
+      "fetched": "2026-05-23T05:55:20.767646+07:00"
+    },
+    {
+      "id": "c27ca839ed782856bc58e42ba4dbf914",
+      "title": "TP.HCM mở hướng đi cho người hoạt động không chuyên trách",
+      "link": "https://thanhnien.vn/tphcm-mo-huong-di-cho-nguoi-hoat-dong-khong-chuyen-trach-185260522220258431.htm",
+      "summary": "Nhiều người hoạt động không chuyên trách ở phường, xã có năng lực, trình độ và đủ điều kiện sẽ tiếp tục làm việc trong khu vực công.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-22T22:29:00+07:00",
+      "fetched": "2026-05-23T05:55:20.767772+07:00"
+    },
+    {
+      "id": "e056de3fac2ccdc490d5e2362098d8f6",
+      "title": "'Nên có chính sách về thuế khoán cho hộ kinh doanh'",
+      "link": "https://thanhnien.vn/nen-co-chinh-sach-ve-thue-khoan-cho-ho-kinh-doanh-185260522231408018.htm",
+      "summary": "Sáng 22.5.2026, tại hội thảo 'Khơi thông sức mua, kích cầu tiêu dùng' do Báo Thanh Niên tổ chức, tiến sĩ Phạm Viết Thuận (Viện trưởng Viện Kinh tế Tài nguyên và Môi trường) đã chỉ ra những nút thắt cốt lõi từ chính sách vĩ mô, đặc biệt là những áp lực đang đè nặng lên vai các hộ kinh doanh cá thể.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-22T22:24:00+07:00",
+      "fetched": "2026-05-23T05:55:20.767899+07:00"
+    },
+    {
+      "id": "1ef0c5280055ae70d2b01d72225674d1",
+      "title": "Bác sĩ gợi ý những loại cá giàu omega-3 cho người lớn tuổi",
+      "link": "https://thanhnien.vn/bac-si-goi-y-nhung-loai-ca-giau-omega-3-cho-nguoi-lon-tuoi-185260522212439985.htm",
+      "summary": "Người lớn tuổi không nên ăn nhiều mỡ, nhưng cũng không cần loại bỏ hoàn toàn chất béo. Cần giảm mỡ xấu, hạn chế chiên rán, tăng nguồn chất béo tốt từ cá, hạt và dầu thực vật phù hợp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-22T22:24:00+07:00",
+      "fetched": "2026-05-23T05:55:20.768035+07:00"
+    },
+    {
+      "id": "7b71c9617b8ece066b630af9fd488634",
+      "title": "Toàn cảnh màn truy bắt lật tẩy đường dây ma túy 140 người: Chuyên án bí số VA0126Đ",
+      "link": "https://thanhnien.vn/toan-canh-man-truy-bat-lat-tay-duong-day-ma-tuy-140-nguoi-chuyen-an-bi-so-va0126d-185260523002112248.htm",
+      "summary": "Một màn áp sát chớp nhoáng, vòng vây siết chặt. Chiếc ô tô do Đặng Phan Thanh Tùng trực tiếp cầm lái đang trên đường vận chuyển ma túy đã bị các mũi trinh sát PC04 Công an TP.HCM chặn đứng. Khám xét tại chỗ, hàng loạt tang vật ma túy được cất giấu tinh vi bên trong xe đã bị thu giữ. Ngày 22.5.2026, ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-22T22:19:00+07:00",
+      "fetched": "2026-05-23T05:55:20.768161+07:00"
+    },
+    {
+      "id": "6799ebb2c0b8c6d68e5faf8efec1a6b1",
+      "title": "Gần 11.000 thí sinh đua vào lớp 10 trường chuyên",
+      "link": "https://vnexpress.net/gan-11-000-thi-sinh-dua-vao-lop-10-truong-chuyen-5077153.html",
+      "summary": "Khoảng 10.800 học sinh sẽ trải qua ít nhất 4 bài thi để tranh suất vào lớp 10 ở ba trường chuyên của Hà Nội và TP HCM, bắt đầu từ sáng 23/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-22T22:05:00+07:00",
+      "fetched": "2026-05-23T05:55:17.836415+07:00"
+    },
+    {
+      "id": "8efc6c4185504f8058c56b58436bc3bf",
+      "title": "Nhà cổ trong diện giải toả của quan tri huyện xưa ở TP HCM",
+      "link": "https://vnexpress.net/nha-co-trong-dien-giai-toa-cua-quan-tri-huyen-xua-o-tp-hcm-5076923.html",
+      "summary": "Ngôi nhà của quan huyện Giác, hoàn thành 1914, kiểu nhà rường Huế pha lẫn kiến trúc phương Tây, hiện nằm trong quy hoạch khu công nghệ cao TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-22T22:00:00+07:00",
+      "fetched": "2026-05-23T05:55:17.836575+07:00"
+    },
+    {
+      "id": "3f7a51cdf86e503fb605d75073f0d73f",
+      "title": "Chiến dịch 'trả nợ máu' của Israel với các tay súng Hamas",
+      "link": "https://vnexpress.net/chien-dich-tra-no-mau-cua-israel-voi-cac-tay-sung-hamas-5076795.html",
+      "summary": "Đặc nhiệm Israel vẫn âm thầm thực hiện chiến dịch săn lùng, hạ sát từng tay súng Hamas đã tham gia cuộc đột kích vào nước này năm 2023.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-22T22:00:00+07:00",
+      "fetched": "2026-05-23T05:55:17.836720+07:00"
+    },
+    {
+      "id": "cada9d4494630732dc4dabc34db84105",
+      "title": "5 thực phẩm tự nhiên chứa độc tố nguy hiểm hơn đồ ăn nhanh",
+      "link": "https://vnexpress.net/5-thuc-pham-tu-nhien-chua-doc-to-nguy-hiem-hon-do-an-nhanh-5075995.html",
+      "summary": "Nhiều thực phẩm tự nhiên vốn được coi là bổ dưỡng lại tiềm ẩn độc tố chết người, mang đến nguy cơ cấp cứu nghiêm trọng vượt xa các loại đồ ăn nhanh công nghiệp thông thường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-22T22:00:00+07:00",
+      "fetched": "2026-05-23T05:55:17.836859+07:00"
+    },
+    {
+      "id": "88ee2f385881595aa5afc70a478243f4",
+      "title": "World Cup 2026 đậm chất AI thế nào",
+      "link": "https://vnexpress.net/world-cup-2026-dam-chat-ai-the-nao-5075383.html",
+      "summary": "AI dự kiến lần đầu được ứng dụng sâu tại World Cup 2026, sử dụng mô hình dữ liệu thời gian thực và mô phỏng trận đấu 3D trực tiếp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-22T22:00:00+07:00",
+      "fetched": "2026-05-23T05:55:17.837007+07:00"
+    },
+    {
+      "id": "1922b69c8bf55dfb1cfaf8cbc87604e0",
+      "title": "Hai học sinh 'đùa giỡn với tử thần' trên xe máy",
+      "link": "https://vnexpress.net/hai-hoc-sinh-dua-gion-voi-tu-than-tren-xe-may-5076858.html",
+      "summary": "Phóng tốc độ cao, đánh võng liên tục, hai cậu bé học sinh tạt qua đầu xe khách tại nút giao Khả Lễ, ngày 22/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-22T22:00:00+07:00",
+      "fetched": "2026-05-23T05:55:17.837148+07:00"
+    },
+    {
+      "id": "3f7a51cdf86e503fb605d75073f0d73f",
+      "title": "Chiến dịch 'trả nợ máu' của Israel với các tay súng Hamas",
+      "link": "https://vnexpress.net/chien-dich-tra-no-mau-cua-israel-voi-cac-tay-sung-hamas-5076795.html",
+      "summary": "Đặc nhiệm Israel vẫn âm thầm thực hiện chiến dịch săn lùng, hạ sát từng tay súng Hamas đã tham gia cuộc đột kích vào nước này năm 2023.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-22T22:00:00+07:00",
+      "fetched": "2026-05-23T05:55:23.308258+07:00"
+    },
+    {
+      "id": "88ee2f385881595aa5afc70a478243f4",
+      "title": "World Cup 2026 đậm chất AI thế nào",
+      "link": "https://vnexpress.net/world-cup-2026-dam-chat-ai-the-nao-5075383.html",
+      "summary": "AI dự kiến lần đầu được ứng dụng sâu tại World Cup 2026, sử dụng mô hình dữ liệu thời gian thực và mô phỏng trận đấu 3D trực tiếp.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-22T22:00:00+07:00",
+      "fetched": "2026-05-23T05:55:27.862711+07:00"
+    },
+    {
+      "id": "95895ef05ef66eae1e4133312fa21d5a",
+      "title": "Hiện trạng tuyến đường dự kiến phân làn đảo chiều ở Hà Nội",
+      "link": "https://vnexpress.net/hien-trang-tuyen-duong-du-kien-phan-lan-dao-chieu-o-ha-noi-5076758.html",
+      "summary": "Đường Nguyễn Chí Thanh và Lê Văn Lương rộng 6-10 làn xe, có dải phân cách giữa, do thường xuyên ùn tắc vào cao điểm sáng và chiều nên được đề xuất phân làn đảo chiều.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-22T21:00:00+07:00",
+      "fetched": "2026-05-23T05:55:17.837280+07:00"
     },
     {
       "id": "6967662cf8db0a42a09f4ac24acdc45e",
