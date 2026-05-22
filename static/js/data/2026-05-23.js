@@ -1,6 +1,6 @@
 window.newsData_2026_05_23 = {
   "date": "2026-05-23",
-  "lastUpdated": "2026-05-23T00:48:36.572324+07:00",
+  "lastUpdated": "2026-05-23T02:40:47.832793+07:00",
   "articles": [
     {
       "id": "5663bc6be32bd503a767989907b00347",
@@ -151,6 +151,106 @@ window.newsData_2026_05_23 = {
       "category": "Tổng hợp",
       "published": "2026-05-23T00:48:31.388328+07:00",
       "fetched": "2026-05-23T00:48:31.388518+07:00"
+    },
+    {
+      "id": "6967662cf8db0a42a09f4ac24acdc45e",
+      "title": "Trung Quốc suýt gây sốc cho Nhật Bản ở chung kết U17 châu Á 2026",
+      "link": "https://vnexpress.net/trung-quoc-suyt-gay-soc-cho-nhat-ban-o-chung-ket-u17-chau-a-2026-5077206.html",
+      "summary": "Nhật Bản có lúc dẫn 3-0, nhưng suýt để Trung Quốc gỡ hòa ở chung kết U17 châu Á 2026 rạng sáng nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-22T19:33:48+07:00",
+      "fetched": "2026-05-23T02:40:32.774243+07:00"
+    },
+    {
+      "id": "5b99d30cb9a203b5ee18607d664b9ad4",
+      "title": "U.23 Việt Nam dốc sức cho ASIAD 20",
+      "link": "https://thanhnien.vn/u23-viet-nam-doc-suc-cho-asiad-20-185260522215442725.htm",
+      "summary": "Không đặt mục tiêu thành tích tại ASIAD 20 (diễn ra tháng 9 năm nay), nhưng U.23 VN vẫn sẽ dốc toàn lực nhằm để lại hình ảnh đẹp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-22T19:06:00+07:00",
+      "fetched": "2026-05-23T02:40:36.164651+07:00"
+    },
+    {
+      "id": "8d21c196ef8df605546511115b3d4432",
+      "title": "Thắng kịch tính Trung Quốc, U.17 Nhật Bản lần thứ 5 đăng quang giải châu Á",
+      "link": "https://thanhnien.vn/thang-kich-tinh-trung-quoc-u17-nhat-ban-lan-thu-5-dang-quang-giai-chau-a-185260523020122158.htm",
+      "summary": "U.17 Nhật Bản có trận thắng kịch tính 3-2 trước U.17 Trung Quốc ở trận chung kết. Qua đó, đội bóng trẻ xứ sở hoa anh đào có lần thứ 5 đăng quang chức vô địch tại giải U.17 châu Á.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-22T19:04:00+07:00",
+      "fetched": "2026-05-23T02:40:36.164801+07:00"
+    },
+    {
+      "id": "1d7db55cc9e175a18f348ad27f929863",
+      "title": "Cố nghệ sĩ Ngô Mạnh Lân được vinh danh ở giải Dế Mèn",
+      "link": "https://vnexpress.net/co-nghe-si-ngo-manh-lan-duoc-vinh-danh-o-giai-de-men-5077194.html",
+      "summary": "NSND, họa sĩ Ngô Mạnh Lân được vinh danh với giải Hiệp sĩ Dế Mèn, nhờ những cống hiến cho nghệ thuật thiếu nhi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-22T19:00:05+07:00",
+      "fetched": "2026-05-23T02:40:32.774406+07:00"
+    },
+    {
+      "id": "4a5e9bd4564facd611ee105e1cd5f566",
+      "title": "Những người Mỹ phải hầu tòa vì khoản nợ thời sinh viên",
+      "link": "https://vnexpress.net/nhung-nguoi-my-phai-hau-toa-vi-khoan-no-thoi-sinh-vien-5075962.html",
+      "summary": "Tin rằng khoản vay sinh viên đã được xóa, nhiều người Mỹ rơi vào khủng hoảng khi bất ngờ bị các công ty tài chính tư nhân khởi kiện ra tòa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-22T19:00:00+07:00",
+      "fetched": "2026-05-23T02:40:32.774550+07:00"
+    },
+    {
+      "id": "4a5e9bd4564facd611ee105e1cd5f566",
+      "title": "Những người Mỹ phải hầu tòa vì khoản nợ thời sinh viên",
+      "link": "https://vnexpress.net/nhung-nguoi-my-phai-hau-toa-vi-khoan-no-thoi-sinh-vien-5075962.html",
+      "summary": "Tin rằng khoản vay sinh viên đã được xóa, nhiều người Mỹ rơi vào khủng hoảng khi bất ngờ bị các công ty tài chính tư nhân khởi kiện ra tòa.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-22T19:00:00+07:00",
+      "fetched": "2026-05-23T02:40:39.227596+07:00"
+    },
+    {
+      "id": "0d9194d2584192b591d0d2cc927b417c",
+      "title": "Oral sex an toàn hơn quan hệ trực tiếp?",
+      "link": "https://vnexpress.net/oral-sex-an-toan-hon-quan-he-truc-tiep-5076301.html",
+      "summary": "Nhiều người cho rằng quan hệ bằng miệng giảm nguy cơ mắc bệnh tình dục hơn, đặc biệt là lậu và giang mai, có đúng không?(Tú, 22 tuổi, Hà Nội).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-22T18:02:00+07:00",
+      "fetched": "2026-05-23T02:40:32.774680+07:00"
+    },
+    {
+      "id": "16bf3654b7b9355fcc2a6da9e86cbb0f",
+      "title": "Lý do có thể khiến trực thăng Mỹ hạ cánh khẩn, kẹt giữa ruộng",
+      "link": "https://vnexpress.net/ly-do-co-the-khien-truc-thang-my-ha-canh-khan-ket-giua-ruong-5076611.html",
+      "summary": "Động cơ quá nhiệt và vấn đề với hệ thống truyền động có thể là nguyên nhân khiến trực thăng AH-64E Mỹ mắc kẹt giữa ruộng lúa suốt nhiều ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-22T18:00:00+07:00",
+      "fetched": "2026-05-23T02:40:32.774811+07:00"
+    },
+    {
+      "id": "78841646e03726e1c1ab0853ffd60e95",
+      "title": "5 món người bị acid uric cao nên dùng thường xuyên",
+      "link": "https://vnexpress.net/5-mon-nguoi-bi-acid-uric-cao-nen-dung-thuong-xuyen-5077039.html",
+      "summary": "Anh đào, các loại trái cây giàu vitamin C cùng rau xanh chứa nhiều vitamin, chất chống oxy hóa và chất xơ, có lợi cho người có nồng độ axit uric cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-22T18:00:00+07:00",
+      "fetched": "2026-05-23T02:40:32.774965+07:00"
+    },
+    {
+      "id": "16bf3654b7b9355fcc2a6da9e86cbb0f",
+      "title": "Lý do có thể khiến trực thăng Mỹ hạ cánh khẩn, kẹt giữa ruộng",
+      "link": "https://vnexpress.net/ly-do-co-the-khien-truc-thang-my-ha-canh-khan-ket-giua-ruong-5076611.html",
+      "summary": "Động cơ quá nhiệt và vấn đề với hệ thống truyền động có thể là nguyên nhân khiến trực thăng AH-64E Mỹ mắc kẹt giữa ruộng lúa suốt nhiều ngày.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-22T18:00:00+07:00",
+      "fetched": "2026-05-23T02:40:39.227752+07:00"
     },
     {
       "id": "e2b7987889540f3f7a4f99f99bafef50",
