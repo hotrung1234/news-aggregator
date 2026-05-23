@@ -1,7 +1,157 @@
 window.newsData_2026_05_23 = {
   "date": "2026-05-23",
-  "lastUpdated": "2026-05-23T20:19:00.563065+07:00",
+  "lastUpdated": "2026-05-23T21:58:16.371012+07:00",
   "articles": [
+    {
+      "id": "91db3bf9babc4e6ce09527e5fc0c2e16",
+      "title": "Cha giao ca nô cho con trai 4 tuổi lái giữa sông Tiền để quay clip đăng mạng xã hội",
+      "link": "https://tuoitre.vn/cha-giao-ca-no-cho-con-trai-4-tuoi-lai-giua-song-tien-de-quay-clip-dang-mang-xa-hoi-20260523180008083.htm",
+      "summary": "Cảnh sát giao thông Công an tỉnh Đồng Tháp đã xác minh và xử lý người đàn ông để bé trai 4 tuổi điều khiển ca nô trên sông Tiền rồi quay clip đăng trên mạng xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T21:58:08.255909+07:00",
+      "fetched": "2026-05-23T21:58:08.256024+07:00"
+    },
+    {
+      "id": "35078c0ca5e9ad262ec96cbf4dacb576",
+      "title": "Hoàn thành 100 trường phổ thông nội trú liên cấp tại các xã biên giới trước 30-8",
+      "link": "https://tuoitre.vn/hoan-thanh-100-truong-pho-thong-noi-tru-lien-cap-tai-cac-xa-bien-gioi-truoc-30-8-20260523183900365.htm",
+      "summary": "Thủ tướng yêu cầu xây dựng tiến độ từng ngày, từng tuần cho từng dự án, phát động \"chiến dịch 100 ngày đêm cao điểm\", bảo đảm hoàn thành 100 trường phổ thông nội trú liên cấp thí điểm tại các xã biên giới trước ngày 30-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T21:58:08.255773+07:00",
+      "fetched": "2026-05-23T21:58:08.255893+07:00"
+    },
+    {
+      "id": "fc3b5c62272102ee77ec2fe66713088f",
+      "title": "Nhiều trạm cân thu mua nông sản tự phát ở đông Đắk Lắk",
+      "link": "https://tuoitre.vn/nhieu-tram-can-thu-mua-nong-san-tu-phat-o-dong-dak-lak-20260523175512743.htm",
+      "summary": "Hàng loạt trạm cân không đủ điều kiện hoạt động được xây dựng tại các xã miền núi ở phía đông Đắk Lắk (trước là Phú Yên), các địa phương lên kế hoạch xử lý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T21:58:08.255648+07:00",
+      "fetched": "2026-05-23T21:58:08.255761+07:00"
+    },
+    {
+      "id": "691887b6d629ef17caea4463ce0aa193",
+      "title": "Thể dục dụng cụ Việt Nam có huy chương vàng giải thế giới",
+      "link": "https://tuoitre.vn/the-dung-dung-cu-viet-nam-co-huy-chuong-vang-giai-the-gioi-20260523194144433.htm",
+      "summary": "VĐV thể dục dụng cụ Nguyễn Thị Quỳnh Như đã xuất sắc mang về huy chương vàng tại Cúp Challenge thế giới 2026 (FIG World Challenge Cup 2026) tại Uzbekistan ngày 23-5.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T21:58:08.255522+07:00",
+      "fetched": "2026-05-23T21:58:08.255636+07:00"
+    },
+    {
+      "id": "e05cae42703d39739222aa874d82528c",
+      "title": "Ông Trump đăng video AI ném người dẫn chương trình chuyên chỉ trích mình vào thùng rác",
+      "link": "https://tuoitre.vn/ong-trump-dang-video-ai-nem-nguoi-dan-chuong-trinh-chuyen-chi-trich-minh-vao-thung-rac-20260523193742149.htm",
+      "summary": "Ông Trump chia sẻ lên mạng xã hội đoạn video AI, trong đó ông ném người dẫn chương trình Stephen Colbert vào thùng rác, rồi nhảy múa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T21:58:08.255395+07:00",
+      "fetched": "2026-05-23T21:58:08.255510+07:00"
+    },
+    {
+      "id": "659a0297e3b386249a9abb849a486652",
+      "title": "CLB Quảng Ninh giải cơn khát chiến thắng",
+      "link": "https://tuoitre.vn/clb-quang-ninh-giai-con-khat-chien-thang-20260523193219884.htm",
+      "summary": "CLB Quảng Ninh thắng Trẻ PVF-CAND 3-1 trên sân nhà Cẩm Phả thuộc vòng 20 Giải hạng nhất quốc gia Bia Sao Vàng 2025 - 2026 tối 23-5, ngắt chuỗi 3 trận liên tiếp toàn hòa và thua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T21:58:08.255257+07:00",
+      "fetched": "2026-05-23T21:58:08.255383+07:00"
+    },
+    {
+      "id": "8a4bba3b0acb4b88850b3512ae4222c4",
+      "title": "Nông dân trồng cà phê Tây Nguyên được trả bảo hiểm vì mưa lớn",
+      "link": "https://tuoitre.vn/nong-dan-trong-ca-phe-tay-nguyen-duoc-tra-bao-hiem-vi-mua-lon-20260523192256723.htm",
+      "summary": "Đây là loại bảo hiểm được chi trả khi lượng mưa vượt ngưỡng định sẵn, đối chiếu dựa trên dữ liệu vệ tinh của NASA.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T21:58:08.255110+07:00",
+      "fetched": "2026-05-23T21:58:08.255228+07:00"
+    },
+    {
+      "id": "33baafeb8e839200c773b0e7fa57b65a",
+      "title": "Công đoàn Hải Phòng vào đến bán kết nhưng chưa nhận một thẻ phạt",
+      "link": "https://tuoitre.vn/cong-doan-hai-phong-vao-den-ban-ket-nhung-chua-nhan-mot-the-phat-20260523192847271.htm",
+      "summary": "Chiều 23-5, chiến thắng 3-0 trước Công đoàn Hà Nội đã chính thức đưa Công đoàn Hải Phòng vào trận bán kết vòng loại phía Bắc Giải bóng đá công nhân, viên chức Việt Nam 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T21:58:08.254971+07:00",
+      "fetched": "2026-05-23T21:58:08.255098+07:00"
+    },
+    {
+      "id": "24510159121a4dc41c1099f40755dd9b",
+      "title": "Xác thực sinh trắc học khi giao dịch chứng khoán: Chống thao túng nhưng liệu có... 'phiền'?",
+      "link": "https://tuoitre.vn/xac-thuc-sinh-trac-hoc-khi-giao-dich-chung-khoan-chong-thao-tung-nhung-lieu-co-phien-20260523194307862.htm",
+      "summary": "Giao dịch chứng khoán có đặc thù phát sinh nhiều lệnh liên tục trong thời gian rất ngắn, đòi hỏi hệ thống phải ưu tiên tốc độ xử lý. Vì vậy, việc áp dụng xác thực sinh trắc học là cần thiết nhưng cần sự hợp lý, tránh làm chậm quá trình đặt lệnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T21:58:08.254842+07:00",
+      "fetched": "2026-05-23T21:58:08.254959+07:00"
+    },
+    {
+      "id": "04378e1ff47a4e92add7f72ddf21af69",
+      "title": "Xây cổng hoành tráng lấn đất đường bộ: Vi phạm nghiêm trọng kéo dài, sao địa phương không xử lý?",
+      "link": "https://tuoitre.vn/xay-cong-hoanh-trang-lan-dat-duong-bo-vi-pham-nghiem-trong-keo-dai-sao-dia-phuong-khong-xu-ly-2026052317545942.htm",
+      "summary": "Công trình tường rào, cổng ngõ xây lấn hành lang đường bộ tại km164+150 quốc lộ 25 qua tỉnh Gia Lai đã bị phát hiện, lập biên bản từ lúc đào rãnh đặt cống tháng 6-2024 nhưng không được xử lý triệt để, nhì nhằng kéo dài tới nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T21:58:08.254714+07:00",
+      "fetched": "2026-05-23T21:58:08.254830+07:00"
+    },
+    {
+      "id": "e3940ef0985c4fb18f0d21d5dbd8acf0",
+      "title": "Tai nạn giao thông thảm khốc tại Campuchia, 14 người chết, 79 người bị thương",
+      "link": "https://tuoitre.vn/tai-nan-giao-thong-tham-khoc-tai-campuchia-14-nguoi-chet-79-nguoi-bi-thuong-20260523201546804.htm",
+      "summary": "Hai vụ tai nạn giao thông nghiêm trọng xảy ra tại tỉnh Kampong Chhnang và tỉnh Svay Rieng của Campuchia sáng 23-5.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T21:58:08.254586+07:00",
+      "fetched": "2026-05-23T21:58:08.254702+07:00"
+    },
+    {
+      "id": "073b38b3330418b78d1faf7a15455b5b",
+      "title": "Tập đặc biệt Doraemon lên sóng Nhật Bản, đậm chất Việt với áo dài, nón lá và bánh mì",
+      "link": "https://tuoitre.vn/tap-dac-biet-doraemon-len-song-nhat-ban-dam-chat-viet-voi-ao-dai-non-la-va-banh-mi-20260523195719561.htm",
+      "summary": "Tập đặc biệt của Doraemon với bối cảnh trải dài từ Hà Nội đến Đà Nẵng đã chính thức phát sóng trên kênh TV Asahi tại Nhật Bản vào chiều 23-5, thu hút sự chú ý của khán giả nhờ đưa nhiều hình ảnh quen thuộc của Việt Nam lên màn ảnh anime.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T21:58:08.254456+07:00",
+      "fetched": "2026-05-23T21:58:08.254574+07:00"
+    },
+    {
+      "id": "905c155bd5264d7c86f51fde45e030c9",
+      "title": "Hành trình phá án vụ mẹ kế xúi 2 con riêng sát hại cha ruột",
+      "link": "https://tuoitre.vn/hanh-trinh-pha-an-vu-me-ke-xui-2-con-rieng-sat-hai-cha-ruot-20260523190623141.htm",
+      "summary": "Ngày 23-5, Phòng Cảnh sát hình sự (Công an Đà Nẵng) cho biết đã bắt khẩn cấp Nguyễn Thị Kim Sau (41 tuổi, trú Đà Nẵng) để phục vụ công tác điều tra liên quan vụ giết người. Nạn nhân trong vụ án này là chồng của bà Sau.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T21:58:08.254318+07:00",
+      "fetched": "2026-05-23T21:58:08.254444+07:00"
+    },
+    {
+      "id": "151c491807bdb2ec1482638b75c49ae3",
+      "title": "CLB Long An 'nín thở' chờ trụ hạng sớm 2 vòng đấu",
+      "link": "https://tuoitre.vn/clb-long-an-nin-tho-cho-tru-hang-som-2-vong-dau-20260523195441002.htm",
+      "summary": "Trận hòa của Long An trước Khánh Hòa giúp thầy trò HLV Trịnh Văn Hậu tiến gần đến khả năng trụ hạng sớm từ vòng 20 V-League 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T21:58:08.254150+07:00",
+      "fetched": "2026-05-23T21:58:08.254304+07:00"
+    },
+    {
+      "id": "9e65330e28eabf658eba08d3fdbd3882",
+      "title": "Kiến nghị điều chỉnh hướng tuyến đường sắt tốc độ cao vì vướng chùa Từ Quang, cô nhi viện Mằng Lăng",
+      "link": "https://tuoitre.vn/kien-nghi-dieu-chinh-huong-tuyen-duong-sat-toc-do-cao-vi-vuong-chua-tu-quang-co-nhi-vien-mang-lang-2026052319220142.htm",
+      "summary": "Dự án đường sắt tốc độ cao qua Đắk Lắk sẽ làm hơn 5.500 nhà, đất bị ảnh hưởng, khoảng 3.000 hộ dân phải tái định cư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T21:58:08.253912+07:00",
+      "fetched": "2026-05-23T21:58:08.254135+07:00"
+    },
     {
       "id": "a7e33f7aa5fba7639f7ee89b0d3921fb",
       "title": "2 kíp mổ chạy đua cứu bé gái 7 tuổi nguy kịch do bị xe tải cán",
@@ -303,6 +453,196 @@ window.newsData_2026_05_23 = {
       "fetched": "2026-05-23T16:48:53.216625+07:00"
     },
     {
+      "id": "ce23f1b1d978a68ea49bf4d39a58f319",
+      "title": "Áo dài Việt hòa nhịp cùng di sản Chăm",
+      "link": "https://thanhnien.vn/ao-dai-viet-hoa-nhip-cung-di-san-cham-185260523211241414.htm",
+      "summary": "Trong không gian cổ kính của Bảo tàng Điêu khắc Chăm Đà Nẵng, chương trình nghệ thuật \"Miền áo dài Tĩnh Viên\" đã đưa tà áo dài hòa vào thiên nhiên, âm nhạc và dòng chảy văn hóa hiện đại bằng một đêm diễn giàu cảm xúc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T14:54:00+07:00",
+      "fetched": "2026-05-23T21:58:07.071802+07:00"
+    },
+    {
+      "id": "1d5cc2dd5d8e91207de9ca0c64cb4bf5",
+      "title": "Thi Phổ thông Năng khiếu: tiếng Anh 'dễ thở', văn nói về 'sự lựa chọn' làm khó sĩ tử?",
+      "link": "https://thanhnien.vn/thi-pho-thong-nang-khieu-tieng-anh-de-tho-van-noi-ve-su-lua-chon-lam-kho-si-tu-185260523213716964.htm",
+      "summary": "Sáng 23.5, hơn 4.700 sĩ tử thi Phổ thông Năng khiếu đã hoàn thành hai môn đầu tiên. Nếu tiếng Anh được đa số đánh giá là khá “dễ thở”, thì đề ngữ văn lại trở thành tâm điểm bàn luận bởi tính phân hóa cao, được các em nhận định là rất thực tế, thú vị nhưng đòi hỏi tư duy đa chiều và trải nghiệm sống ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T14:43:00+07:00",
+      "fetched": "2026-05-23T21:58:07.071976+07:00"
+    },
+    {
+      "id": "93e43ce099b7550d3b1876e0672f48b5",
+      "title": "Thanh Hiền bật khóc vì bị chê đóng tiểu tam mà xấu",
+      "link": "https://thanhnien.vn/thanh-hien-bat-khoc-vi-bi-che-dong-tieu-tam-ma-xau-185260523145649708.htm",
+      "summary": "Thanh Hiền không kìm được xúc động khi bị khán giả chê ngoại hình không phù hợp với vai tiểu tam Phấn trong phim Nợ đời vay trả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T14:28:00+07:00",
+      "fetched": "2026-05-23T21:58:07.072137+07:00"
+    },
+    {
+      "id": "14c497e9dea8cf2e536a6dbe83756ed6",
+      "title": "Iran gửi thông điệp cho Mỹ, Israel sơ tán 10 làng ở Lebanon",
+      "link": "https://thanhnien.vn/iran-gui-thong-diep-cho-my-israel-so-tan-10-lang-o-lebanon-185260523204202237.htm",
+      "summary": "Chủ tịch Quốc hội Iran Mohammad Baqer Qalibaf ngày 23.5 nói rằng Mỹ không phải là bên trung thực trong các cuộc đàm phán nhằm chấm dứt xung đột và Tehran sẽ không thỏa hiệp về các quyền quốc gia của mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T14:24:00+07:00",
+      "fetched": "2026-05-23T21:58:07.072321+07:00"
+    },
+    {
+      "id": "53a0a831295215616a0571295e1a067f",
+      "title": "Billiards: Chiêm Hồng Thái tung siêu phẩm khiến Dick Jaspers thắc mắc, ngược dòng vào bán kết",
+      "link": "https://thanhnien.vn/billiards-chiem-hong-thai-tung-sieu-pham-khien-dick-jaspers-thac-mac-nguoc-dong-vao-ban-ket-18526052320282232.htm",
+      "summary": "Trong trận tái đấu với cựu số 1 thế giới Dick Jaspers, Chiêm Hồng Thái đã thể hiện được bản lĩnh vững vàng để lội ngược dòng ngoạn mục và giành quyền góp mặt ở vòng bán kết World Cup billiards TP.HCM 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T14:24:00+07:00",
+      "fetched": "2026-05-23T21:58:07.072486+07:00"
+    },
+    {
+      "id": "f7f575addf64fb71fb247d162fa76a07",
+      "title": "Trung Quốc triển khai hơn 100 tàu ở các vùng biển khu vực?",
+      "link": "https://thanhnien.vn/trung-quoc-trien-khai-hon-100-tau-o-cac-vung-bien-khu-vuc-185260523202044113.htm",
+      "summary": "Một số quan chức an ninh Đài Loan ngày 23.5 nói rằng Trung Quốc đã triển khai hơn 100 tàu hải quân, hải cảnh và tàu khác trong các vùng biển tây Thái Bình Dương, trải dài từ Hoàng Hải đến Biển Đông, theo AFP.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T14:14:00+07:00",
+      "fetched": "2026-05-23T21:58:07.072645+07:00"
+    },
+    {
+      "id": "49e3b6806cdbd0bb4551a5f2576e6c02",
+      "title": "Ông trùm 'đại gia tộc lừa đảo' hầu tòa ở Trung Quốc",
+      "link": "https://vnexpress.net/ong-trum-dai-gia-toc-lua-dao-hau-toa-o-trung-quoc-5077447.html",
+      "summary": "Ngụy Hoài Nhân, ông trùm gia tộc lừa đảo ở Myanmar và các thành viên trong băng đảng bị đưa ra xét xử ở Trung Quốc với nhiều cáo buộc nghiêm trọng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T14:12:34+07:00",
+      "fetched": "2026-05-23T21:58:03.538995+07:00"
+    },
+    {
+      "id": "49e3b6806cdbd0bb4551a5f2576e6c02",
+      "title": "Ông trùm 'đại gia tộc lừa đảo' hầu tòa ở Trung Quốc",
+      "link": "https://vnexpress.net/ong-trum-dai-gia-toc-lua-dao-hau-toa-o-trung-quoc-5077447.html",
+      "summary": "Ngụy Hoài Nhân, ông trùm gia tộc lừa đảo ở Myanmar và các thành viên trong băng đảng bị đưa ra xét xử ở Trung Quốc với nhiều cáo buộc nghiêm trọng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-23T14:12:34+07:00",
+      "fetched": "2026-05-23T21:58:10.201667+07:00"
+    },
+    {
+      "id": "65b6923485dd5d6e3ac4b8e717a349cf",
+      "title": "Phim có Trương Quốc Vinh và Mai Diễm Phương chiếu tại Việt Nam",
+      "link": "https://thanhnien.vn/phim-co-truong-quoc-vinh-va-mai-diem-phuong-chieu-tai-viet-nam-185260523180724832.htm",
+      "summary": "Bộ phim huyền thoại 'Yên Chi Khâu' sẽ lần đầu tiên khởi chiếu tại Việt Nam, mang mối tình sầu muộn của cặp tri kỷ lừng danh Trương Quốc Vinh và Mai Diễm Phương hội ngộ khán giả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T14:12:00+07:00",
+      "fetched": "2026-05-23T21:58:07.072799+07:00"
+    },
+    {
+      "id": "480fb6714249efee3682b6ecb3589df6",
+      "title": "Sơn Tùng M-TP hợp tác 'rapper tỷ view' Tyga",
+      "link": "https://vnexpress.net/son-tung-m-tp-hop-tac-rapper-ty-view-tyga-5077448.html",
+      "summary": "Ca sĩ Sơn Tùng M-TP ra ca khúc mới sau hai năm, kết hợp rapper Mỹ gốc Việt Tyga - chủ nhân bản hit 1,7 tỷ lượt xem \"Taste\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T14:06:32+07:00",
+      "fetched": "2026-05-23T21:58:03.539184+07:00"
+    },
+    {
+      "id": "5ae794d1d28d1f0fa0fce710c14c2da8",
+      "title": "Ronaldo kiếm tiền hơn gấp đôi Messi trong 12 tháng qua",
+      "link": "https://vnexpress.net/ronaldo-kiem-tien-hon-gap-doi-messi-trong-12-thang-qua-5077279.html",
+      "summary": "Cristiano Ronaldo năm thứ tư liên tiếp đứng số một trong danh sách VĐV có thu nhập cao nhất thế giới do Forbes công bố ngày 22/6.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T14:03:13+07:00",
+      "fetched": "2026-05-23T21:58:03.539380+07:00"
+    },
+    {
+      "id": "5ae794d1d28d1f0fa0fce710c14c2da8",
+      "title": "Ronaldo kiếm tiền hơn gấp đôi Messi trong 12 tháng qua",
+      "link": "https://vnexpress.net/ronaldo-kiem-tien-hon-gap-doi-messi-trong-12-thang-qua-5077279.html",
+      "summary": "Cristiano Ronaldo năm thứ tư liên tiếp đứng số một trong danh sách VĐV có thu nhập cao nhất thế giới do Forbes công bố ngày 22/6.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-23T14:03:13+07:00",
+      "fetched": "2026-05-23T21:58:16.360460+07:00"
+    },
+    {
+      "id": "92581c65ac63500d996a61fe0337c74c",
+      "title": "Nhiều thí sinh trên 1.000 điểm thi đánh giá năng lực vẫn quyết thi lại đợt 2",
+      "link": "https://thanhnien.vn/nhieu-thi-sinh-tren-1000-diem-thi-danh-gia-nang-luc-van-quyet-thi-lai-dot-2-185260523202605384.htm",
+      "summary": "Một hiện tượng đáng chú ý ở kỳ thi đánh giá năng lực đợt 2 của ĐH Quốc gia TP.HCM (V-ACT) diễn ra sáng mai (24.5) là nhiều thí sinh TP.HCM đạt điểm cao thậm chí trên 1.000 vẫn quyết tâm thi lại với hy vọng cải thiện kết quả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T13:45:00+07:00",
+      "fetched": "2026-05-23T21:58:07.072957+07:00"
+    },
+    {
+      "id": "ace85dcc082a2c2afe0467b0e5cdd868",
+      "title": "Highlight Ninh Bình 1-1 CLB Công an TP.HCM: Bỏ lỡ cơ hội tốp 2",
+      "link": "https://thanhnien.vn/highlight-ninh-binh-1-1-clb-cong-an-tphcm-bo-lo-co-hoi-top-2-185260523204109683.htm",
+      "summary": "Ninh Bình đánh rơi chiến thắng đáng tiếc khi để CLB Công an TP.HCM gỡ hòa ở phút bù giờ cuối trận. Kết quả 1-1 khiến đội bóng của Hoàng Đức bỏ lỡ cơ hội thu hẹp khoảng cách với Thể Công Viettel trong cuộc đua tốp 2 V-League 2025-2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T13:41:00+07:00",
+      "fetched": "2026-05-23T21:58:07.073111+07:00"
+    },
+    {
+      "id": "10c75105acc806d741d578799b05536c",
+      "title": "Highlight Đà Nẵng 2-0 Hải Phòng: Cú sốc trên sân Chi Lăng",
+      "link": "https://thanhnien.vn/highlight-da-nang-2-0-hai-phong-cu-soc-tren-san-chi-lang-185260523204014503.htm",
+      "summary": "Đà Nẵng tạo cú sốc lớn ở vòng 24 V-League 2025-2026 khi đánh bại Hải Phòng 2-0 trên sân Chi Lăng. Chiến thắng quan trọng giúp đội bóng sông Hàn vượt lên trong cuộc đua trụ hạng đầy căng thẳng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T13:40:00+07:00",
+      "fetched": "2026-05-23T21:58:07.073289+07:00"
+    },
+    {
+      "id": "718d4da3dc3002e798102d450b82810a",
+      "title": "Highlight CLB TP.HCM 0-1 Trường Tươi Đồng Nai: Chức vô địch trong tầm tay",
+      "link": "https://thanhnien.vn/highlight-clb-tphcm-0-1-truong-tuoi-dong-nai-chuc-vo-dich-trong-tam-tay-18526052320353826.htm",
+      "summary": "Trường Tươi Đồng Nai đánh bại CLB TP.HCM với tỷ số 1-0 để tiến thêm một bước dài trong cuộc đua vô địch. Chiến thắng quan trọng này giúp đội bóng đất Đồng Nai giữ lợi thế lớn khi mùa giải đang bước vào giai đoạn quyết định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T13:35:00+07:00",
+      "fetched": "2026-05-23T21:58:07.073452+07:00"
+    },
+    {
+      "id": "bf73833632dbac40f3cee174ee3bc2e2",
+      "title": "Liên đoàn Cờ vua Thế giới đề nghị giải trình việc thu tiền khóa học HLV ở Việt Nam",
+      "link": "https://vnexpress.net/lien-doan-co-vua-the-gioi-de-nghi-giai-trinh-viec-thu-tien-khoa-hoc-hlv-o-viet-nam-5077443.html",
+      "summary": "Liên đoàn Cờ vua Thế giới (FIDE) gửi công văn đến Liên đoàn Cờ Việt Nam để yêu cầu làm rõ dòng tiền từ việc tổ chức khóa học HLV.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T13:34:26+07:00",
+      "fetched": "2026-05-23T21:58:03.539556+07:00"
+    },
+    {
+      "id": "bf73833632dbac40f3cee174ee3bc2e2",
+      "title": "Liên đoàn Cờ vua Thế giới đề nghị giải trình việc thu tiền khóa học HLV ở Việt Nam",
+      "link": "https://vnexpress.net/lien-doan-co-vua-the-gioi-de-nghi-giai-trinh-viec-thu-tien-khoa-hoc-hlv-o-viet-nam-5077443.html",
+      "summary": "Liên đoàn Cờ vua Thế giới (FIDE) gửi công văn đến Liên đoàn Cờ Việt Nam để yêu cầu làm rõ dòng tiền từ việc tổ chức khóa học HLV.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-23T13:34:26+07:00",
+      "fetched": "2026-05-23T21:58:16.360640+07:00"
+    },
+    {
+      "id": "19ffe46b8274a55c1d9a69c325720550",
+      "title": "Highlight CLB Thanh Hóa 1-1 HAGL: Chưa đội nào an tâm trụ hạng",
+      "link": "https://thanhnien.vn/highlight-clb-thanh-hoa-1-1-hagl-chua-doi-nao-an-tam-tru-hang-185260523203449915.htm",
+      "summary": "Thanh Hóa và HAGL chia điểm trong trận hòa 1-1 đầy căng thẳng ở vòng 24 V-League 2025-2026. Kết quả này khiến cả hai đội vẫn chưa thể yên tâm trong cuộc đua trụ hạng khi mùa giải chỉ còn lại 2 vòng đấu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T13:34:00+07:00",
+      "fetched": "2026-05-23T21:58:07.073604+07:00"
+    },
+    {
       "id": "759ee085e11a8c674b7b2217a0fe5659",
       "title": "Chủ tịch Trung Quốc Tập Cận Bình yêu cầu điều tra vụ nổ mỏ than 8 người chết, 38 người mắc kẹt",
       "link": "https://tuoitre.vn/chu-tich-trung-quoc-tap-can-binh-yeu-cau-dieu-tra-vu-no-mo-than-8-nguoi-chet-38-nguoi-mac-ket-20260523100209663.htm",
@@ -451,6 +791,36 @@ window.newsData_2026_05_23 = {
       "category": "Tổng hợp",
       "published": "2026-05-23T13:31:28.871829+07:00",
       "fetched": "2026-05-23T13:31:28.872047+07:00"
+    },
+    {
+      "id": "03aa4f51a2c5e02b8d9ed86a5902bd6c",
+      "title": "Món súp 'tử thần' là đặc sản ở Hàn Quốc",
+      "link": "https://vnexpress.net/mon-sup-tu-than-la-dac-san-o-han-quoc-5077350.html",
+      "summary": "Dù chứa độc tố chết người, cá nóc qua bàn tay của các đầu bếp được cấp phép tại thành phố Busan đã trở thành món súp đặc sản thu hút thực khách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T13:30:23+07:00",
+      "fetched": "2026-05-23T21:58:03.539722+07:00"
+    },
+    {
+      "id": "5b33ea7e36b965f0144e8520bd1d6a30",
+      "title": "Người đàn ông cao nhất thế giới ở nước nào?",
+      "link": "https://vnexpress.net/nguoi-dan-ong-cao-nhat-the-gioi-o-nuoc-nao-5077442.html",
+      "summary": "Với 2,51 m, một người đàn ông giữ kỷ lục cao nhất thế giới hơn 15 năm qua. Bạn có biết ông đến từ nước nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T13:28:55+07:00",
+      "fetched": "2026-05-23T21:58:03.539882+07:00"
+    },
+    {
+      "id": "6e44cc9ce9d4d8e8e7642957cd1fca3a",
+      "title": "Vụ chủ vườn chim Hai Chìa kêu cứu: Chủ tịch UBND tỉnh Vĩnh Long chỉ đạo khẩn",
+      "link": "https://thanhnien.vn/vu-chu-vuon-chim-hai-chia-keu-cuu-chu-tich-ubnd-tinh-vinh-long-chi-dao-khan-185260523201915605.htm",
+      "summary": "UBND tỉnh Vĩnh Long vừa có công văn yêu cầu các ngành thực hiện nghiêm công tác bảo vệ động vật hoang dã, trong đó có vườn chim Hai Chìa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-23T13:21:00+07:00",
+      "fetched": "2026-05-23T21:58:07.073754+07:00"
     },
     {
       "id": "f2e0832343a0eaf938ceb0aa7b2d6f58",
