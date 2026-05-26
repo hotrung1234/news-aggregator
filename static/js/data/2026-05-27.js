@@ -1,6 +1,6 @@
 window.newsData_2026_05_27 = {
   "date": "2026-05-27",
-  "lastUpdated": "2026-05-27T04:41:50.167447+07:00",
+  "lastUpdated": "2026-05-27T06:07:16.103099+07:00",
   "articles": [
     {
       "id": "9482fb4d951486fa961d89f750741b50",
@@ -161,6 +161,296 @@ window.newsData_2026_05_27 = {
       "category": "Tổng hợp",
       "published": "2026-05-27T01:22:53.750540+07:00",
       "fetched": "2026-05-27T01:22:53.750765+07:00"
+    },
+    {
+      "id": "0155282f80bc4d646b6ad643b077c458",
+      "title": "Thi vào lớp 10 ở Hà Nội trước giờ G",
+      "link": "https://thanhnien.vn/thi-vao-lop-10-o-ha-noi-truoc-gio-g-18526052621451677.htm",
+      "summary": "Cuối tuần này (ngày 30 - 31.5), gần 150.000 thí sinh ở Hà Nội sẽ bước vào kỳ thi lớp 10. Thí sinh cần lưu ý về cách thức ra đề và những quy định liên quan đến quyền lợi và trách nhiệm trong quá trình làm bài năm nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-26T23:05:00+07:00",
+      "fetched": "2026-05-27T06:07:06.663236+07:00"
+    },
+    {
+      "id": "691908c8d2d97373ef35f466ec55b997",
+      "title": "Kiện toàn bố trí cán bộ theo quan điểm 'có vào, có ra'",
+      "link": "https://thanhnien.vn/kien-toan-bo-tri-can-bo-theo-quan-diem-co-vao-co-ra-185260526223051443.htm",
+      "summary": "Chiều 26.5, Thủ tướng Chính phủ Lê Minh Hưng cùng đoàn công tác T.Ư làm việc với Ban Thường vụ tỉnh Vĩnh Long về tình hình kinh tế - xã hội và mục tiêu tăng trưởng 2 con số, giải ngân vốn đầu tư công, đảm bảo quốc phòng - an ninh, vận hành bộ máy chính quyền địa phương 2 cấp, xây dựng Đảng và hệ thố...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-26T23:04:00+07:00",
+      "fetched": "2026-05-27T06:07:06.663387+07:00"
+    },
+    {
+      "id": "8b71866d65b4657258dfbe62a8204cdb",
+      "title": "Mở ra chương mới cho hợp tác Việt Nam - Thái Lan",
+      "link": "https://thanhnien.vn/mo-ra-chuong-moi-cho-hop-tac-viet-nam-thai-lan-185260526222752063.htm",
+      "summary": "Hôm nay (27.5), Tổng Bí thư, Chủ tịch nước Tô Lâm và phu nhân cùng đoàn đại biểu cấp cao VN bắt đầu chuyến thăm chính thức Thái Lan theo lời mời của Thủ tướng Thái Lan Anutin Charnvirakul và phu nhân. Chuyến thăm được kỳ vọng nâng tầm quan hệ hợp tác kinh tế, mở ra chặng mới cho quan hệ hợp tác giữa...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-26T23:02:00+07:00",
+      "fetched": "2026-05-27T06:07:06.663528+07:00"
+    },
+    {
+      "id": "5774c94c4d33c3f6f71269736b4042d9",
+      "title": "Công tác lập pháp phải chuyển mạnh từ tư duy quản lý sang kiến tạo phát triển",
+      "link": "https://thanhnien.vn/cong-tac-lap-phap-phai-chuyen-manh-tu-tu-duy-quan-ly-sang-kien-tao-phat-trien-185260526222455499.htm",
+      "summary": "Chiều 26.5, Tổng Bí thư, Chủ tịch nước Tô Lâm, Trưởng Đoàn kiểm tra, giám sát số 10 của Bộ Chính trị, Ban Bí thư chủ trì Hội nghị thông qua dự thảo Báo cáo kết quả kiểm tra, giám sát (đợt 2) của Bộ Chính trị, Ban Bí thư đối với Ban Thường vụ Đảng ủy Quốc hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-26T23:02:00+07:00",
+      "fetched": "2026-05-27T06:07:06.663662+07:00"
+    },
+    {
+      "id": "04a733d14731892a8d590f340d740bf6",
+      "title": "Đưa Việt Nam trở thành điểm đến mua sắm",
+      "link": "https://thanhnien.vn/dua-viet-nam-tro-thanh-diem-den-mua-sam-185260526223416351.htm",
+      "summary": "Mỗi một phần trăm chi phí mua sắm của du khách và người dân được giữ lại sẽ tương đương với hàng tỉ USD đổ thẳng vào dòng chảy của nền kinh tế. Những \"thiên đường mua sắm\" sẽ trở thành cỗ máy kéo mới cho bán lẻ, du lịch và tăng trưởng kinh tế VN.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-26T23:00:00+07:00",
+      "fetched": "2026-05-27T06:07:06.663792+07:00"
+    },
+    {
+      "id": "4f056f26a3a676280bccda50be4aa650",
+      "title": "Giải pháp đột phá 'đánh thức' nguồn lực vàng trong dân",
+      "link": "https://thanhnien.vn/giai-phap-dot-pha-danh-thuc-nguon-luc-vang-trong-dan-185260526222213096.htm",
+      "summary": "Đó là nhận xét của nhiều chuyên gia liên quan đến việc Công ty CP Vinhomes công bố triển khai chương trình hỗ trợ khách hàng chuyển đổi vàng sang tiền mặt để giao dịch bất động sản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-26T23:00:00+07:00",
+      "fetched": "2026-05-27T06:07:06.663931+07:00"
+    },
+    {
+      "id": "cb5185d359cbe50503eee3b5924ef88a",
+      "title": "Người tiêu dùng đã an tâm với xăng E10",
+      "link": "https://thanhnien.vn/nguoi-tieu-dung-da-an-tam-voi-xang-e10-18526052620375054.htm",
+      "summary": "Dù còn vài ngày nữa xăng A95 mới chính thức bị khai tử và thay thế bằng xăng sinh học E10, nhưng từ bây giờ nhiều chủ xe đã bắt đầu làm quen với nhiên liệu mới và có các đánh giá khách quan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-26T23:00:00+07:00",
+      "fetched": "2026-05-27T06:07:06.664066+07:00"
+    },
+    {
+      "id": "1b0f46ccae2f69128c77a382d4759668",
+      "title": "Người Việt ở quận Cam sơ tán vì rò rỉ hóa chất: Thấp thỏm chờ ngày về nhà",
+      "link": "https://thanhnien.vn/nguoi-viet-o-quan-cam-so-tan-vi-ro-ri-hoa-chat-thap-thom-cho-ngay-ve-nha-185260526113215043.htm",
+      "summary": "Sau vụ rò rỉ hóa chất khiến hàng chục ngàn người phải sơ tán tại quận Cam (California, Mỹ), nhiều gia đình người Việt phải ở tạm khách sạn hoặc nhà người quen, lo sức khỏe bị ảnh hưởng và chưa biết khi nào mới được trở về nhà.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-26T23:00:00+07:00",
+      "fetched": "2026-05-27T06:07:06.664203+07:00"
+    },
+    {
+      "id": "bc0d3b072d66b7e18a797ea06c97442d",
+      "title": "Anh Phạm tiết lộ về cảnh nóng và chuyện bị chồng tát trong 'Ốc mượn hồn'",
+      "link": "https://thanhnien.vn/anh-pham-tiet-lo-ve-canh-nong-va-chuyen-bi-chong-tat-trong-oc-muon-hon-185260527015129902.htm",
+      "summary": "Anh Phạm nhận được sự ủng hộ của Anh Đức khi đóng phim 'Ốc mượn hồn'. Đáng chú ý, người bạn đời của nữ diễn viên cũng góp mặt trong tác phẩm này với một vai diễn nhỏ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-26T22:55:00+07:00",
+      "fetched": "2026-05-27T06:07:06.664328+07:00"
+    },
+    {
+      "id": "e56421cdea8d4e99a57543e0a2fea7c1",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 27.5.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-2752026-185260526230730765.htm",
+      "summary": "Tin tức Mở ra chương mới cho hợp tác Việt Nam - Thái Lan; Hơn 1.000 chiến sĩ công an bắt nhanh 2 nghi phạm nổ súng ở TP.HCM; Tín hiệu nguy hiểm giữa đàm phán Mỹ - Iran… có thể đón xem trên Báo Thanh Niên số ra ngày 27.5.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-26T22:54:00+07:00",
+      "fetched": "2026-05-27T06:07:06.664473+07:00"
+    },
+    {
+      "id": "df68a854ded23fc0a85c7ccb04efe2d3",
+      "title": "Chính sách học bổng phải gắn với chiến lược nhân lực quốc gia",
+      "link": "https://thanhnien.vn/chinh-sach-hoc-bong-phai-gan-voi-chien-luoc-nhan-luc-quoc-gia-185260526193549391.htm",
+      "summary": "Những năm gần đây, VN mở rộng chính sách miễn giảm học phí, học bổng và tín dụng ưu đãi cho các lĩnh vực như sư phạm, y tế, STEM, bán dẫn và khoa học cơ bản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-26T22:54:00+07:00",
+      "fetched": "2026-05-27T06:07:06.664603+07:00"
+    },
+    {
+      "id": "a3970edf056bb44d42abd36cce6e78e2",
+      "title": "Những 'mỏ vàng' chưa khai thác",
+      "link": "https://thanhnien.vn/nhung-mo-vang-chua-khai-thac-185260526223536956.htm",
+      "summary": "Với hơn 21 triệu lượt khách quốc tế đến VN trong năm 2025 và mục tiêu đón 25 triệu lượt khách trong năm nay, ngành du lịch đã cho thấy nỗ lực tuyệt vời để hồi phục và bứt phá sau đại dịch Covid-19.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-26T22:50:00+07:00",
+      "fetched": "2026-05-27T06:07:06.664728+07:00"
+    },
+    {
+      "id": "5f27ce8580669b7015df672e4ae0d447",
+      "title": "Sức hút của phim lịch sử Việt",
+      "link": "https://thanhnien.vn/suc-hut-cua-phim-lich-su-viet-185260526220708517.htm",
+      "summary": "Sau thành công của Mưa đỏ và Địa đạo: Mặt trời trong bóng tối, dòng phim lịch sử Việt đang được mở rộng trong năm 2026 với nhiều dự án hứa hẹn tạo nên sức nóng trên màn ảnh rộng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-26T22:47:00+07:00",
+      "fetched": "2026-05-27T06:07:06.664858+07:00"
+    },
+    {
+      "id": "728949b42cdf5f494db78b1aeaee1e62",
+      "title": "Tuyển sinh đầu cấp tại TP.HCM: Linh hoạt, không theo địa giới hành chính",
+      "link": "https://thanhnien.vn/tuyen-sinh-dau-cap-tai-tphcm-linh-hoat-khong-theo-dia-gioi-hanh-chinh-185260526192623032.htm",
+      "summary": "Hôm nay 27.5, TP.HCM chính thức bước vào giai đoạn tuyển sinh đầu cấp lớp 1, lớp 6 năm học 2026 - 2027 thống nhất các quy định cho cả ba khu vực theo chính quyền địa phương 2 cấp, không còn phòng GD-ĐT các quận, huyện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-26T22:45:00+07:00",
+      "fetched": "2026-05-27T06:07:06.664995+07:00"
+    },
+    {
+      "id": "63b02993a480410df807de18012463a5",
+      "title": "Bãi biển ở TP.HCM ngập trong 'biển' rác nhựa trắng xóa kéo dài hàng trăm mét",
+      "link": "https://thanhnien.vn/bai-bien-o-tphcm-ngap-trong-bien-rac-nhua-trang-xoa-keo-dai-hang-tram-met-185260525153943945.htm",
+      "summary": "Một đoạn bãi biển Cửa Lấp dài khoảng 100m trên đường Chi Lăng (phường Phước Thắng, TP.HCM) đang bị bủa vây, ken đặc bởi đủ loại rác thải nhựa, ly dùng một lần, mảnh xốp...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-26T22:45:00+07:00",
+      "fetched": "2026-05-27T06:07:06.665122+07:00"
+    },
+    {
+      "id": "e446caaf19afe2ebcaa4850eb8340eff",
+      "title": "Phụ huynh bắt đầu đăng ký suất học lớp 1, 6 ở TP HCM",
+      "link": "https://vnexpress.net/lich-dang-ky-tuyen-sinh-lop-1-6-cua-tp-hcm-va-huong-dan-thu-tuc-di-kem-5059998.html",
+      "summary": "TP HCM chỉ tổ chức một đợt tuyển lớp 1, 6 cho tất cả học sinh, phụ huynh có 10 ngày để đăng ký, bắt đầu từ 27/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-26T22:30:00+07:00",
+      "fetched": "2026-05-27T06:07:03.812636+07:00"
+    },
+    {
+      "id": "a3ef82faa2221e4ba0a8cf094fa894d1",
+      "title": "Alvarez: 'Argentina luôn hướng đến chức vô địch World Cup'",
+      "link": "https://vnexpress.net/alvarez-argentina-luon-huong-den-chuc-vo-dich-world-cup-5078549.html",
+      "summary": "Trong cuộc phỏng vấn với FIFA ngày 26/5, tiền đạo Julian Alvarez chia sẻ về sự cạnh tranh cùng Lautaro Martinez, ảnh hưởng của Lionel Messi và hành trình trưởng thành sau chức vô địch World Cup 2022.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-26T22:08:02+07:00",
+      "fetched": "2026-05-27T06:07:03.812798+07:00"
+    },
+    {
+      "id": "a3ef82faa2221e4ba0a8cf094fa894d1",
+      "title": "Alvarez: 'Argentina luôn hướng đến chức vô địch World Cup'",
+      "link": "https://vnexpress.net/alvarez-argentina-luon-huong-den-chuc-vo-dich-world-cup-5078549.html",
+      "summary": "Trong cuộc phỏng vấn với FIFA ngày 26/5, tiền đạo Julian Alvarez chia sẻ về sự cạnh tranh cùng Lautaro Martinez, ảnh hưởng của Lionel Messi và hành trình trưởng thành sau chức vô địch World Cup 2022.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-26T22:08:02+07:00",
+      "fetched": "2026-05-27T06:07:16.098101+07:00"
+    },
+    {
+      "id": "af14806e88344c13611d5f01b6a83b01",
+      "title": "James Rodriguez lần thứ ba dự World Cup",
+      "link": "https://vnexpress.net/james-rodriguez-lan-thu-ba-du-world-cup-5078461.html",
+      "summary": "Tiền vệ đội trưởng James Rodriguez được điền tên vào danh sách dự World Cup 2026 của Colombia, dù gần như không thi đấu thời gian qua vì vấn đề thể lực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-26T22:00:47+07:00",
+      "fetched": "2026-05-27T06:07:03.812956+07:00"
+    },
+    {
+      "id": "af14806e88344c13611d5f01b6a83b01",
+      "title": "James Rodriguez lần thứ ba dự World Cup",
+      "link": "https://vnexpress.net/james-rodriguez-lan-thu-ba-du-world-cup-5078461.html",
+      "summary": "Tiền vệ đội trưởng James Rodriguez được điền tên vào danh sách dự World Cup 2026 của Colombia, dù gần như không thi đấu thời gian qua vì vấn đề thể lực.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-26T22:00:47+07:00",
+      "fetched": "2026-05-27T06:07:16.098259+07:00"
+    },
+    {
+      "id": "534442b6c1e7a1d710cb7bc70e9dad05",
+      "title": "Cách Nga trút 'sóng thần' tên lửa, UAV vào Ukraine",
+      "link": "https://vnexpress.net/cach-nga-trut-song-than-ten-lua-uav-vao-ukraine-5078207.html",
+      "summary": "Các đợt tập kích quy mô lớn của Nga nhằm vào Ukraine thường huy động hàng chục nghìn nhân sự cùng nhiều vũ khí, nhằm áp đảo phòng không Ukraine.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-26T22:00:00+07:00",
+      "fetched": "2026-05-27T06:07:03.813097+07:00"
+    },
+    {
+      "id": "a2273383929810c3ca491728d3abb7ac",
+      "title": "Đi khám nhiều nơi không ra bệnh, chàng trai phải nhập viện tâm thần",
+      "link": "https://vnexpress.net/di-kham-nhieu-noi-khong-ra-benh-chang-trai-phai-nhap-vien-tam-than-5078112.html",
+      "summary": "Người đàn ông 27 tuổi liên tục đi khám vì khó thở, co quắp tay chân, tức ngực, hoang tưởng mình mắc bệnh hiểm nghèo dù mọi kết quả xét nghiệm đều bình thường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-26T22:00:00+07:00",
+      "fetched": "2026-05-27T06:07:03.813235+07:00"
+    },
+    {
+      "id": "534442b6c1e7a1d710cb7bc70e9dad05",
+      "title": "Cách Nga trút 'sóng thần' tên lửa, UAV vào Ukraine",
+      "link": "https://vnexpress.net/cach-nga-trut-song-than-ten-lua-uav-vao-ukraine-5078207.html",
+      "summary": "Các đợt tập kích quy mô lớn của Nga nhằm vào Ukraine thường huy động hàng chục nghìn nhân sự cùng nhiều vũ khí, nhằm áp đảo phòng không Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-26T22:00:00+07:00",
+      "fetched": "2026-05-27T06:07:09.271240+07:00"
+    },
+    {
+      "id": "7545bbc9f22f134e8ab02debe5439d5c",
+      "title": "Neville: 'Hàng thủ có thể giúp Arsenal hạ PSG'",
+      "link": "https://vnexpress.net/neville-hang-thu-co-the-giup-arsenal-ha-psg-5078543.html",
+      "summary": "Trước chung kết Champions League, cựu hậu vệ Gary Neville đánh giá Arsenal thấp hơn, nhưng vẫn có thể thắng PSG nhờ hàng thủ chắc chắn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-26T21:57:00+07:00",
+      "fetched": "2026-05-27T06:07:03.813376+07:00"
+    },
+    {
+      "id": "7545bbc9f22f134e8ab02debe5439d5c",
+      "title": "Neville: 'Hàng thủ có thể giúp Arsenal hạ PSG'",
+      "link": "https://vnexpress.net/neville-hang-thu-co-the-giup-arsenal-ha-psg-5078543.html",
+      "summary": "Trước chung kết Champions League, cựu hậu vệ Gary Neville đánh giá Arsenal thấp hơn, nhưng vẫn có thể thắng PSG nhờ hàng thủ chắc chắn.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-26T21:57:00+07:00",
+      "fetched": "2026-05-27T06:07:16.098405+07:00"
+    },
+    {
+      "id": "642e1fe8a51b42d5aa2de2d994362202",
+      "title": "Lukaku muốn dự thêm hai giải lớn sau World Cup 2026",
+      "link": "https://vnexpress.net/lukaku-muon-du-them-hai-giai-lon-sau-world-cup-2026-5078486.html",
+      "summary": "Tiền đạo Romelu Lukaku đang dần lấy lại thể trạng tốt nhất và đặt mục tiêu tiếp tục khoác áo tuyển Bỉ đến ít nhất World Cup 2030, khi anh 37 tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-26T21:34:17+07:00",
+      "fetched": "2026-05-27T06:07:03.813513+07:00"
+    },
+    {
+      "id": "642e1fe8a51b42d5aa2de2d994362202",
+      "title": "Lukaku muốn dự thêm hai giải lớn sau World Cup 2026",
+      "link": "https://vnexpress.net/lukaku-muon-du-them-hai-giai-lon-sau-world-cup-2026-5078486.html",
+      "summary": "Tiền đạo Romelu Lukaku đang dần lấy lại thể trạng tốt nhất và đặt mục tiêu tiếp tục khoác áo tuyển Bỉ đến ít nhất World Cup 2030, khi anh 37 tuổi.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-26T21:34:17+07:00",
+      "fetched": "2026-05-27T06:07:16.098549+07:00"
+    },
+    {
+      "id": "de9bb88fb9145f067703cda8853d9549",
+      "title": "Arteta: 'Chúng ta sẽ vô địch châu Âu vào thứ Bảy'",
+      "link": "https://vnexpress.net/arteta-chung-ta-se-vo-dich-chau-au-vao-thu-bay-5078558.html",
+      "summary": "Trong bữa tiệc ăn mừng chức vô địch Ngoại hạng Anh, HLV Mikel Arteta gây chú ý với thông điệp đầy khí thế hướng tới trận chung kết Champions League gặp PSG.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-26T21:30:34+07:00",
+      "fetched": "2026-05-27T06:07:03.813648+07:00"
+    },
+    {
+      "id": "de9bb88fb9145f067703cda8853d9549",
+      "title": "Arteta: 'Chúng ta sẽ vô địch châu Âu vào thứ Bảy'",
+      "link": "https://vnexpress.net/arteta-chung-ta-se-vo-dich-chau-au-vao-thu-bay-5078558.html",
+      "summary": "Trong bữa tiệc ăn mừng chức vô địch Ngoại hạng Anh, HLV Mikel Arteta gây chú ý với thông điệp đầy khí thế hướng tới trận chung kết Champions League gặp PSG.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-26T21:30:34+07:00",
+      "fetched": "2026-05-27T06:07:16.098686+07:00"
     },
     {
       "id": "65f793d17e5ecb010c7cce920ac90538",
