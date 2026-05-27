@@ -1,7 +1,17 @@
 window.newsData_2026_05_28 = {
   "date": "2026-05-28",
-  "lastUpdated": "2026-05-28T04:51:35.845166+07:00",
+  "lastUpdated": "2026-05-28T06:14:07.311773+07:00",
   "articles": [
+    {
+      "id": "dc80d4a9db6ca2f0f683bd069b5c2602",
+      "title": "Bảng J World Cup 2026: Thuận lợi cho Argentina",
+      "link": "https://tuoitre.vn/bang-j-world-cup-2026-thuan-loi-cho-argentina-20260527093209797.htm",
+      "summary": "Tuyển Argentina nằm ở bảng đấu không quá căng với các đối thủ Algeria, Áo và Jordan tại vòng bảng World Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-28T06:14:00.620175+07:00",
+      "fetched": "2026-05-28T06:14:00.620395+07:00"
+    },
     {
       "id": "2c330ca95142f3ff174f94764ff9b0df",
       "title": "Hà Nội đã có mưa rào sau chuỗi ngày nắng nóng 40 độ C",
@@ -151,6 +161,366 @@ window.newsData_2026_05_28 = {
       "category": "Tổng hợp",
       "published": "2026-05-28T01:24:03.724120+07:00",
       "fetched": "2026-05-28T01:24:03.724371+07:00"
+    },
+    {
+      "id": "7789c3c38073f692255bb975ed53b5ad",
+      "title": "Các cơ sở điều trị phải minh bạch  thuốc miễn phí cho người bệnh",
+      "link": "https://thanhnien.vn/cac-co-so-dieu-tri-phai-minh-bach-thuoc-mien-phi-cho-nguoi-benh-185260527153627794.htm",
+      "summary": "Không được sử dụng chương trình hỗ trợ thuốc miễn phí để quảng cáo, tiếp thị, khuyến mại thuốc, từ ngày 10.7.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-27T23:09:00+07:00",
+      "fetched": "2026-05-28T06:13:59.414421+07:00"
+    },
+    {
+      "id": "88c291393686cd7aaf2caac49ee0387a",
+      "title": "Cộng đồng người Việt là cầu nối hữu nghị bền chặt giữa Việt Nam và Thái Lan",
+      "link": "https://thanhnien.vn/cong-dong-nguoi-viet-la-cau-noi-huu-nghi-ben-chat-giua-viet-nam-va-thai-lan-185260527232337509.htm",
+      "summary": "Chiều 27.5, Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân cùng Đoàn đại biểu cấp cao VN đã đến sân bay quốc tế Udon Thani (tỉnh Udon Thani), bắt đầu thăm chính thức Vương quốc Thái Lan theo lời mời của Thủ tướng Vương quốc Thái Lan Anutin Charnvirakul và Phu nhân từ ngày 27 - 29.5.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-27T23:06:00+07:00",
+      "fetched": "2026-05-28T06:13:59.414591+07:00"
+    },
+    {
+      "id": "e27cd05b1e40e0e45548f6532e93dcbf",
+      "title": "Vingroup lập công ty điện ảnh, chuyên làm phim lịch sử - văn hóa Việt",
+      "link": "https://thanhnien.vn/vingroup-lap-cong-ty-dien-anh-chuyen-lam-phim-lich-su-van-hoa-viet-185260527213101202.htm",
+      "summary": "Tập đoàn Vingroup vừa công bố chiến lược phát triển Công ty CP Phát triển Điện ảnh V-Film, với định hướng đầu tư dài hạn vào dòng phim tôn vinh lịch sử - văn hóa VN theo chuẩn mực quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-27T23:06:00+07:00",
+      "fetched": "2026-05-28T06:13:59.414750+07:00"
+    },
+    {
+      "id": "fcca0da2f9398d7d7a1a1e836a7e6591",
+      "title": "Hai cháu kiện chú ruột vì căn nhà 'đứng tên giùm'",
+      "link": "https://vnexpress.net/hai-chau-kien-chu-ruot-vi-can-nha-dung-ten-gium-5078892.html",
+      "summary": "Cho rằng chú ruột được cha nhờ đứng tên căn nhà tại phường Dĩ An nhưng không trả lại sau khi ông qua đời, hai anh em Nguyễn Khánh Duy khởi kiện đòi tài sản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-27T23:00:00+07:00",
+      "fetched": "2026-05-28T06:13:55.996869+07:00"
+    },
+    {
+      "id": "ad92df0017a90da4d57c1d48b4b8aaf3",
+      "title": "Buýt mini liệu có phù hợp với TP HCM?",
+      "link": "https://vnexpress.net/buyt-mini-lieu-co-phu-hop-voi-tp-hcm-5078845.html",
+      "summary": "Việc đưa buýt mini vào khu dân cư, đường hẻm được kỳ vọng giúp người dân tiếp cận giao thông công cộng thuận tiện hơn, song cũng đặt ra bài toán về ùn tắc và tổ chức điểm dừng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-27T23:00:00+07:00",
+      "fetched": "2026-05-28T06:13:55.997073+07:00"
+    },
+    {
+      "id": "aee3eec2cce2ea2ad1f477669dfd2f44",
+      "title": "Tuổi xế chiều của 'cụ bà nhặt giấy vụn' tại Hong Kong",
+      "link": "https://vnexpress.net/tuoi-xe-chieu-cua-cu-ba-nhat-giay-vun-tai-hong-kong-5078730.html",
+      "summary": "Bất chấp tuổi cao, nhiều người già ở Hong Kong hàng ngày kéo xe đi gom bìa carton để kiếm tiền mưu sinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-27T23:00:00+07:00",
+      "fetched": "2026-05-28T06:13:55.997240+07:00"
+    },
+    {
+      "id": "b7bb00521448ccef3a7d9dc72b42d6be",
+      "title": "Lotus Emira 420 Sport mới mạnh hơn, nhẹ hơn",
+      "link": "https://vnexpress.net/lotus-emira-420-sport-moi-manh-hon-nhe-hon-5078720.html",
+      "summary": "Phiên bản mới thể thao hơn, tinh chỉnh thiết kế, tối ưu trọng lượng và khí động học, tăng công suất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-27T23:00:00+07:00",
+      "fetched": "2026-05-28T06:13:55.997404+07:00"
+    },
+    {
+      "id": "720f2ab8795d2979e0c719b37e0f3ddb",
+      "title": "'Ốc đảo' Lệ Bắc sắp thôi lụy đò",
+      "link": "https://thanhnien.vn/oc-dao-le-bac-sap-thoi-luy-do-185260527212916215.htm",
+      "summary": "Sau nhiều thập niên chịu cảnh 'qua sông lụy đò', hàng trăm hộ dân thôn Lệ Bắc (xã Thu Bồn, TP.Đà Nẵng) đang sống trong những ngày hạnh phúc nhất khi cây cầu bê tông mới dần thành hình trên dòng Thu Bồn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-27T23:00:00+07:00",
+      "fetched": "2026-05-28T06:13:59.414907+07:00"
+    },
+    {
+      "id": "fd5282613b131a5de4e053caf8d3afd3",
+      "title": "Bản quyền số tại Việt Nam: Làm gì trước 'quyền lực' của mạng đa kênh?",
+      "link": "https://thanhnien.vn/ban-quyen-so-tai-viet-nam-lam-gi-truoc-quyen-luc-cua-mang-da-kenh-185260527212647808.htm",
+      "summary": "Hệ sinh thái bản quyền số tại Việt Nam vẫn còn nhiều bất cập, đặc biệt là sự mất cân bằng quyền lực giữa các mạng lưới đa kênh và nghệ sĩ, nhà sáng tạo nội dung trong môi trường số.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-27T23:00:00+07:00",
+      "fetched": "2026-05-28T06:13:59.415091+07:00"
+    },
+    {
+      "id": "6069be3f82e436439b10e17dcea47ca0",
+      "title": "Dồn sức di dời nhà trên và ven kênh rạch",
+      "link": "https://thanhnien.vn/don-suc-di-doi-nha-tren-va-ven-kenh-rach-185260527210652996.htm",
+      "summary": "Số liệu báo cáo từ Sở Xây dựng TP.HCM cho thấy đến nay trên toàn TP còn khoảng gần 40.000 căn nhà trên và ven kênh rạch. TP cũng đã đặt mục tiêu di dời toàn bộ số nhà trên nhằm phục vụ mục tiêu chỉnh trang đô thị, cải thiện môi trường và hoàn thiện hạ tầng thoát nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-27T23:00:00+07:00",
+      "fetched": "2026-05-28T06:13:59.415249+07:00"
+    },
+    {
+      "id": "b2f5e0bf66f156ba9756b0c42e25cf1b",
+      "title": "TP.HCM 'chạy đua' phủ 200 km metro",
+      "link": "https://thanhnien.vn/tphcm-chay-dua-phu-200-km-metro-185260527204812652.htm",
+      "summary": "Theo Nghị quyết 09-NQ/TW về xây dựng và phát triển TP.HCM trong kỷ nguyên mới, vừa được Tổng Bí thư, Chủ tịch nước Tô Lâm thay mặt Bộ Chính trị ký ban hành, đến năm 2030, TP.HCM phải có khoảng 200 km metro và đến năm 2045 hoàn thiện kết nối toàn mạng lưới đường sắt đô thị. Thực tế, nếu các dự án đã ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-27T23:00:00+07:00",
+      "fetched": "2026-05-28T06:13:59.415403+07:00"
+    },
+    {
+      "id": "580f05d952f486cdde59820a7ef28733",
+      "title": "Kỳ vọng, niềm tin hướng đến Đại hội Đoàn toàn quốc",
+      "link": "https://thanhnien.vn/ky-vong-niem-tin-huong-den-dai-hoi-doan-toan-quoc-185260527204454972.htm",
+      "summary": "Với những sự đồng hành thiết thực, hiệu quả trong suốt thời gian qua của tổ chức Đoàn, từ thành thị, nông thôn đến vùng biên giới xa xôi, thanh niên tiếp tục đặt nhiều kỳ vọng, niềm tin hướng đến Đại hội Đoàn toàn quốc lần thứ XIII.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-27T23:00:00+07:00",
+      "fetched": "2026-05-28T06:13:59.415565+07:00"
+    },
+    {
+      "id": "cb1a3abe21be0ce1ee49d0dc20763177",
+      "title": "Nắng nóng cực đoan, vì sao?",
+      "link": "https://thanhnien.vn/nang-nong-cuc-doan-vi-sao-185260527193356521.htm",
+      "summary": "Đợt nắng nóng đặc biệt gay gắt hiện tại được đánh giá là cực đoan khi mức nhiệt từ 40 độ C xuất hiện trên diện rộng trong 4 ngày liên tiếp, đỉnh điểm có nơi đến 41,1 độ C. Theo các chuyên gia, có nhiều yếu tố biến nhiều nơi thành \"chảo lửa\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-27T23:00:00+07:00",
+      "fetched": "2026-05-28T06:13:59.415719+07:00"
+    },
+    {
+      "id": "fea58d4776dd43d6827737d5e0027ea0",
+      "title": "Ảnh dự thi: Nâng dòng điện, vững bước tương lai",
+      "link": "https://thanhnien.vn/anh-du-thi-nang-dong-dien-vung-buoc-tuong-lai-185260527185620097.htm",
+      "summary": "Các bức ảnh được thực hiện vào khoảng tháng 4.2017 trong quá trình thi công công trình nâng cấp điện áp từ 15 kV lên 22 kV tại các tuyến đường trong Khu công nghiệp Tân Bình, TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-27T23:00:00+07:00",
+      "fetched": "2026-05-28T06:13:59.415869+07:00"
+    },
+    {
+      "id": "bb5be92e0e909d59a8803fdcbf03d1ed",
+      "title": "Xem clip chim trích ré làm tổ giữa TP.HCM, nhiều người nhớ 'Hương rừng Cà Mau'",
+      "link": "https://thanhnien.vn/xem-clip-chim-trich-re-lam-to-giua-tphcm-nhieu-nguoi-nho-huong-rung-ca-mau-185260527160830189.htm",
+      "summary": "Các clip ghi lại cảnh vợ chồng chim trích ré hoang dã làm tổ, thay nhau bảo vệ trứng ở vùng đất ngập nước tại TP.HCM thu hút sự quan tâm trên mạng xã hội, gợi nhiều người nhớ đến truyện ngắn nổi tiếng trong tập 'Hương rừng Cà Mau' của nhà văn Sơn Nam",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-27T23:00:00+07:00",
+      "fetched": "2026-05-28T06:13:59.416047+07:00"
+    },
+    {
+      "id": "ec05a2a2aee99e822305686b7bec215d",
+      "title": "Khó lường lối thoát cho cuộc chiến Iran",
+      "link": "https://thanhnien.vn/kho-luong-loi-thoat-cho-cuoc-chien-iran-185260527220521758.htm",
+      "summary": "Những tín hiệu khả quan cho đàm phán hòa bình đang xen lẫn rủi ro leo thang xung đột khiến lối thoát cho cuộc chiến Iran đang trở nên khó lường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-27T22:59:00+07:00",
+      "fetched": "2026-05-28T06:13:59.416200+07:00"
+    },
+    {
+      "id": "6a574bcec6b7896a690774a7d995f2d1",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 28.5.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-2852026-185260527232337551.htm",
+      "summary": "Tin tức Cộng đồng người Việt là cầu nối hữu nghị bền chặt giữa Việt Nam và Thái Lan; Phường vận động dừng hát karaoke để học sinh ôn thi lớp 10; Khó lường lối thoát cho cuộc chiến Iran... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 28.5.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-27T22:57:00+07:00",
+      "fetched": "2026-05-28T06:13:59.416349+07:00"
+    },
+    {
+      "id": "477cc806e744d004107e637c55b0d813",
+      "title": "Làm bài thi lớp 10 để có kết quả như ý",
+      "link": "https://thanhnien.vn/lam-bai-thi-lop-10-de-co-ket-qua-nhu-y-185260527202159942.htm",
+      "summary": "Kết quả tốt kỳ thi lớp 10 không chỉ đảm bảo thí sinh trúng tuyển vào công lập mà còn để được học đúng trường mình đặt nguyện vọng yêu thích nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-27T22:54:00+07:00",
+      "fetched": "2026-05-28T06:13:59.416495+07:00"
+    },
+    {
+      "id": "e5f2a78fd38999f95ebd143cb66dbc81",
+      "title": "Hoan nghênh các tập đoàn lớn của Thái Lan đầu tư vào Việt Nam",
+      "link": "https://thanhnien.vn/hoan-nghenh-cac-tap-doan-lon-cua-thai-lan-dau-tu-vao-viet-nam-185260527231812431.htm",
+      "summary": "Sau khi kết thúc các hoạt động tại tỉnh Udon Thani, chiều 27.5, Tổng Bí thư, Chủ tịch nước Tô Lâm cùng Phu nhân và đoàn đại biểu cấp cao VN đã rời sân bay quốc tế Udon Thani đến sân bay quốc tế Don Mueang, thủ đô Bangkok, tiếp tục chuyến thăm chính thức Vương quốc Thái Lan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-27T22:53:00+07:00",
+      "fetched": "2026-05-28T06:13:59.416649+07:00"
+    },
+    {
+      "id": "9bdfed2817fec0617d75d2239fac791e",
+      "title": "HLV Argentina đau đầu vì Messi và loạt chấn thương trước World Cup",
+      "link": "https://vnexpress.net/hlv-argentina-dau-dau-vi-messi-va-loat-chan-thuong-truoc-world-cup-5078993.html",
+      "summary": "Nhiều trụ cột của Argentina chưa đạt thể trạng tốt nhất, gồm đội trưởng Lionel Messi, buộc HLV Lionel Scaloni phải tính toán lại kế hoạch chuẩn bị cho World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-27T22:31:26+07:00",
+      "fetched": "2026-05-28T06:13:55.997572+07:00"
+    },
+    {
+      "id": "9bdfed2817fec0617d75d2239fac791e",
+      "title": "HLV Argentina đau đầu vì Messi và loạt chấn thương trước World Cup",
+      "link": "https://vnexpress.net/hlv-argentina-dau-dau-vi-messi-va-loat-chan-thuong-truoc-world-cup-5078993.html",
+      "summary": "Nhiều trụ cột của Argentina chưa đạt thể trạng tốt nhất, gồm đội trưởng Lionel Messi, buộc HLV Lionel Scaloni phải tính toán lại kế hoạch chuẩn bị cho World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-27T22:31:26+07:00",
+      "fetched": "2026-05-28T06:14:07.306763+07:00"
+    },
+    {
+      "id": "6014715f39c9e6fd5d9136d05cf58039",
+      "title": "Enhanced Games treo thưởng 10 triệu USD cho kỷ lục 100m",
+      "link": "https://vnexpress.net/enhanced-games-treo-thuong-10-trieu-usd-cho-ky-luc-100m-5078997.html",
+      "summary": "Ban tổ chức Enhanced Games, giải đấu cho phép sử dụng doping, treo thưởng 10 triệu USD cho VĐV phá kỷ lục 100m nam do huyền thoại Usain Bolt thiết lập từ năm 2009.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-27T22:25:56+07:00",
+      "fetched": "2026-05-28T06:13:55.997734+07:00"
+    },
+    {
+      "id": "6014715f39c9e6fd5d9136d05cf58039",
+      "title": "Enhanced Games treo thưởng 10 triệu USD cho kỷ lục 100m",
+      "link": "https://vnexpress.net/enhanced-games-treo-thuong-10-trieu-usd-cho-ky-luc-100m-5078997.html",
+      "summary": "Ban tổ chức Enhanced Games, giải đấu cho phép sử dụng doping, treo thưởng 10 triệu USD cho VĐV phá kỷ lục 100m nam do huyền thoại Usain Bolt thiết lập từ năm 2009.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-27T22:25:56+07:00",
+      "fetched": "2026-05-28T06:14:07.306922+07:00"
+    },
+    {
+      "id": "c27573e043cf5dfcef55c69bf9aed73a",
+      "title": "Neymar hội quân cùng tuyển Brazil bằng trực thăng riêng",
+      "link": "https://vnexpress.net/neymar-hoi-quan-cung-tuyen-brazil-bang-truc-thang-rieng-5078999.html",
+      "summary": "Tiền đạo Neymar di chuyển bằng trực thăng riêng và là người đến muộn nhất khi tuyển Brazil hội quân chuẩn bị cho World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-27T22:21:12+07:00",
+      "fetched": "2026-05-28T06:13:55.997887+07:00"
+    },
+    {
+      "id": "c27573e043cf5dfcef55c69bf9aed73a",
+      "title": "Neymar hội quân cùng tuyển Brazil bằng trực thăng riêng",
+      "link": "https://vnexpress.net/neymar-hoi-quan-cung-tuyen-brazil-bang-truc-thang-rieng-5078999.html",
+      "summary": "Tiền đạo Neymar di chuyển bằng trực thăng riêng và là người đến muộn nhất khi tuyển Brazil hội quân chuẩn bị cho World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-27T22:21:12+07:00",
+      "fetched": "2026-05-28T06:14:07.307105+07:00"
+    },
+    {
+      "id": "c0f46f023c836041653bc1bfbb232e2f",
+      "title": "Djokovic xin đánh sớm để tránh mất ngủ",
+      "link": "https://vnexpress.net/djokovic-xin-danh-som-de-tranh-mat-ngu-5079003.html",
+      "summary": "Novak Djokovic chủ động xin thi đấu ban ngày ở vòng hai Roland Garros, rồi vượt qua tay vợt chủ nhà Valentin Royer 6-3, 6-2, 6-7(7), 6-3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-27T22:17:48+07:00",
+      "fetched": "2026-05-28T06:13:55.998078+07:00"
+    },
+    {
+      "id": "c0f46f023c836041653bc1bfbb232e2f",
+      "title": "Djokovic xin đánh sớm để tránh mất ngủ",
+      "link": "https://vnexpress.net/djokovic-xin-danh-som-de-tranh-mat-ngu-5079003.html",
+      "summary": "Novak Djokovic chủ động xin thi đấu ban ngày ở vòng hai Roland Garros, rồi vượt qua tay vợt chủ nhà Valentin Royer 6-3, 6-2, 6-7(7), 6-3.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-27T22:17:48+07:00",
+      "fetched": "2026-05-28T06:14:07.306600+07:00"
+    },
+    {
+      "id": "008d366911db41927d24dae115e61d0e",
+      "title": "Crystal Palace vô địch UEFA Conference League",
+      "link": "https://vnexpress.net/crystal-palace-vo-dich-uefa-conference-league-5079005.html",
+      "summary": "Đánh bại Rayo Vallecano 1-0 ở chung kết UEFA Conference League, Crystal Palace giành danh hiệu thứ ba chỉ trong 12 tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-27T22:17:30+07:00",
+      "fetched": "2026-05-28T06:13:55.998237+07:00"
+    },
+    {
+      "id": "008d366911db41927d24dae115e61d0e",
+      "title": "Crystal Palace vô địch UEFA Conference League",
+      "link": "https://vnexpress.net/crystal-palace-vo-dich-uefa-conference-league-5079005.html",
+      "summary": "Đánh bại Rayo Vallecano 1-0 ở chung kết UEFA Conference League, Crystal Palace giành danh hiệu thứ ba chỉ trong 12 tháng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-27T22:17:30+07:00",
+      "fetched": "2026-05-28T06:14:07.306425+07:00"
+    },
+    {
+      "id": "b95376554c946af5d05d789515b5598a",
+      "title": "Hạn chế xe qua cầu Phú Mỹ 1,5 tháng để sửa mặt đường",
+      "link": "https://vnexpress.net/han-che-xe-qua-cau-phu-my-1-5-thang-de-sua-mat-duong-5078974.html",
+      "summary": "Từ ngày 30/5 đến 11/7, cầu Phú Mỹ sẽ thi công sửa chữa mặt đường hướng từ cảng Cát Lái về quận 7 cũ, tài xế được khuyến nghị chọn lộ trình thay thế để tránh ùn tắc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-27T22:00:00+07:00",
+      "fetched": "2026-05-28T06:13:55.998395+07:00"
+    },
+    {
+      "id": "90724148eacb5ca26fa1e080758f57de",
+      "title": "Ác tâm của người đàn bà ngoại tình với chồng bạn thân",
+      "link": "https://vnexpress.net/ac-tam-cua-nguoi-dan-ba-ngoai-tinh-voi-chong-ban-than-5078939.html",
+      "summary": "Bị chấm dứt cuộc tình ngoài luồng, Rebecca 'Becky' Sears nảy ý định thủ tiêu bạn thân nhưng không muốn tự ra tay mà xúi giục 'con trai cưng' gây án.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-27T22:00:00+07:00",
+      "fetched": "2026-05-28T06:13:55.998549+07:00"
+    },
+    {
+      "id": "f89931aeaef450484657097a2ffad16b",
+      "title": "Quy tắc sinh tồn qua 'chảo lửa' mùa hè",
+      "link": "https://vnexpress.net/quy-tac-sinh-ton-qua-chao-lua-mua-he-5078896.html",
+      "summary": "Tránh ra ngoài trong khoảng thời gian 10h-16h, uống 2 lít nước mỗi ngày, mặc quần áo sáng màu và thoáng khí... nhằm ứng phó với nắng nóng gay gắt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-27T22:00:00+07:00",
+      "fetched": "2026-05-28T06:13:55.998715+07:00"
+    },
+    {
+      "id": "6119611df8f93e3afc33f83cb439abae",
+      "title": "Sai lầm khi uống nước mùa nắng nóng dễ hại thận",
+      "link": "https://vnexpress.net/sai-lam-khi-uong-nuoc-mua-nang-nong-de-hai-than-5078130.html",
+      "summary": "Thời tiết nắng nóng làm tăng nguy cơ tổn thương và sỏi thận, do đó cần bù nước đúng cách và từ bỏ các thói quen gây hại để bảo vệ sức khỏe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-27T22:00:00+07:00",
+      "fetched": "2026-05-28T06:13:55.998874+07:00"
+    },
+    {
+      "id": "704004618e374c1e1c82ab9b7b55a365",
+      "title": "Ứng dụng nhắn tin ngày càng kém bảo mật",
+      "link": "https://vnexpress.net/ung-dung-nhan-tin-ngay-cang-kem-bao-mat-5078069.html",
+      "summary": "Instagram bắt đầu bỏ mã hóa đầu cuối cho tin nhắn, TikTok nói không với E2EE trong khi WhatsApp bị kiện vì nhân viên đọc được tin nhắn người dùng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-27T22:00:00+07:00",
+      "fetched": "2026-05-28T06:13:55.999055+07:00"
+    },
+    {
+      "id": "69eb9e8d69ad20a5004d94940e501a79",
+      "title": "Suzuki Jimny giảm giá kỷ lục 180 triệu đồng",
+      "link": "https://vnexpress.net/suzuki-jimny-giam-gia-ky-luc-180-trieu-dong-5078803.html",
+      "summary": "Các mẫu Jimny đời 2024 được hãng khuyến mãi 120 triệu, kết hợp ưu đãi từ đại lý cho tổng mức giảm giá khoảng 150-180 triệu đồng trong tháng 5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-27T22:00:00+07:00",
+      "fetched": "2026-05-28T06:13:55.999218+07:00"
+    },
+    {
+      "id": "704004618e374c1e1c82ab9b7b55a365",
+      "title": "Ứng dụng nhắn tin ngày càng kém bảo mật",
+      "link": "https://vnexpress.net/ung-dung-nhan-tin-ngay-cang-kem-bao-mat-5078069.html",
+      "summary": "Instagram bắt đầu bỏ mã hóa đầu cuối cho tin nhắn, TikTok nói không với E2EE trong khi WhatsApp bị kiện vì nhân viên đọc được tin nhắn người dùng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-27T22:00:00+07:00",
+      "fetched": "2026-05-28T06:14:06.201862+07:00"
     },
     {
       "id": "8f5f2a2f04aa0a1a208fe5d9861d19af",
