@@ -1,6 +1,6 @@
 window.newsData_2026_05_29 = {
   "date": "2026-05-29",
-  "lastUpdated": "2026-05-29T04:53:10.060868+07:00",
+  "lastUpdated": "2026-05-29T06:12:40.993420+07:00",
   "articles": [
     {
       "id": "94cd0edd4984e1037152ff4d296e667a",
@@ -161,6 +161,266 @@ window.newsData_2026_05_29 = {
       "category": "Tổng hợp",
       "published": "2026-05-29T01:33:56.253094+07:00",
       "fetched": "2026-05-29T01:33:56.253352+07:00"
+    },
+    {
+      "id": "c25b93e02968e46ad872db521de30d38",
+      "title": "Hệ lụy nghiêm trọng do nắng nóng cực đoan toàn cầu",
+      "link": "https://thanhnien.vn/he-luy-nghiem-trong-do-nang-nong-cuc-doan-toan-cau-185260528223233182.htm",
+      "summary": "Không chỉ đe dọa tính mạng con người, nắng nóng ngày càng gay gắt còn làm \"bốc hơi\" hàng tỉ USD của nền kinh tế toàn cầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-28T23:10:00+07:00",
+      "fetched": "2026-05-29T06:12:33.368839+07:00"
+    },
+    {
+      "id": "ab8d136ab4992a2a42ae65a5ad004a2e",
+      "title": "Vì sao thư viện vẫn kín chỗ giữa thời AI?",
+      "link": "https://thanhnien.vn/vi-sao-thu-vien-van-kin-cho-giua-thoi-ai-185260528230134944.htm",
+      "summary": "Giữa thời AI, thư viện vẫn kín chỗ ở nhiều trường đại học. Không chỉ để đọc sách hay ôn thi, nhiều sinh viên tìm đến đây để tập trung hơn, duy trì động lực học tập và tìm một không gian yên tĩnh giữa nhịp sống nhiều xao nhãng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-28T23:00:00+07:00",
+      "fetched": "2026-05-29T06:12:33.369038+07:00"
+    },
+    {
+      "id": "1d1edc9c7ef9122bcbd1b051eea16e1e",
+      "title": "Xăng E10 giúp gia tăng giá trị nông sản Việt",
+      "link": "https://thanhnien.vn/xang-e10-giup-gia-tang-gia-tri-nong-san-viet-185260528214441366.htm",
+      "summary": "Việc đẩy mạnh tiêu thụ xăng sinh học (E10) sẽ giúp nông sản VN gia tăng giá trị kinh tế lẫn môi trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-28T23:00:00+07:00",
+      "fetched": "2026-05-29T06:12:33.369200+07:00"
+    },
+    {
+      "id": "8e1ec4a4c4c5002e41aa360dbf321335",
+      "title": "Đánh thức giao thông thủy, bao giờ?",
+      "link": "https://thanhnien.vn/danh-thuc-giao-thong-thuy-bao-gio-185260528211018366.htm",
+      "summary": "Từ những năm đầu thập niên 2000, TP.HCM đã nhận ra hệ thống giao thông thủy là \"chìa khóa\" để hồi sinh đô thị sông nước. Tuy nhiên đến nay, hàng ngàn ki lô mét đường sông vẫn đang để lãng phí trong khi đường bộ \"oằn lưng\" gánh lưu lượng vận tải ngày càng tăng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-28T23:00:00+07:00",
+      "fetched": "2026-05-29T06:12:33.369356+07:00"
+    },
+    {
+      "id": "4a7b42828c16b848021312cceb26c378",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 29.5.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-2952026-185260528233316463.htm",
+      "summary": "Tin tức Việt Nam – Thái Lan đồng hành, hỗ trợ nhau cùng phát triển; Xăng E10 giúp gia tăng giá trị nông sản Việt; Gập ghềnh hòa bình Trung Đông… có thể đón xem trên Báo Thanh Niên số ra ngày 29.5.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-28T22:56:00+07:00",
+      "fetched": "2026-05-29T06:12:33.369509+07:00"
+    },
+    {
+      "id": "00432d87e8c0646fbf7ca59177fdeb00",
+      "title": "'Gieo' tiếng Việt trên đất Thái: Từ đĩa mềm đến lớp học rộn rã nhạc V-Pop",
+      "link": "https://thanhnien.vn/gieo-tieng-viet-tren-dat-thai-tu-dia-mem-den-lop-hoc-ron-ra-nhac-v-pop-185260528224424045.htm",
+      "summary": "Trong bối cảnh VN - Thái Lan hướng tới kỷ niệm 50 năm thiết lập quan hệ ngoại giao, ngôn ngữ và văn hóa là một trong những nhịp cầu kết nối bền chặt nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-28T22:54:00+07:00",
+      "fetched": "2026-05-29T06:12:33.369660+07:00"
+    },
+    {
+      "id": "8e0bd4f2e9452666f9f6965159425dae",
+      "title": "Tình người trong kỳ thi khắc nghiệt",
+      "link": "https://thanhnien.vn/tinh-nguoi-trong-ky-thi-khac-nghiet-185260528230141908.htm",
+      "summary": "Việc nhiều phường, xã ở TP.HCM và một số tỉnh thành cùng vận động người dân dừng hát karaoke, giữ gìn không gian yên tĩnh để học sinh ôn thi tuyển sinh lớp 10 và tốt nghiệp THPT 2026 là một minh chứng cho thấy cả xã hội cùng chung tay với thí sinh trong những kỳ thi lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-28T22:50:00+07:00",
+      "fetched": "2026-05-29T06:12:33.369810+07:00"
+    },
+    {
+      "id": "7d840c6465ff12d65790e869a6faaa8d",
+      "title": "Người làm công ăn lương bị 'vạ lây'",
+      "link": "https://thanhnien.vn/nguoi-lam-cong-an-luong-bi-va-lay-185260528220625.htm",
+      "summary": "Người lao động làm việc tại các doanh nghiệp đang nợ tiền thuế thu nhập cá nhân từ tiền lương, tiền công sẽ không được nhận lại số thuế nộp thừa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-28T22:49:00+07:00",
+      "fetched": "2026-05-29T06:12:33.369992+07:00"
+    },
+    {
+      "id": "19a50b62869b2a9eeb730c8497f62fa6",
+      "title": "Tranh luận chuyện AI thay thế người lao động",
+      "link": "https://thanhnien.vn/tranh-luan-chuyen-ai-thay-the-nguoi-lao-dong-185260528224331264.htm",
+      "summary": "Một số nhân vật nổi bật trong lĩnh vực trí tuệ nhân tạo (AI) đang có quan điểm khác nhau về tác động của AI với thị trường lao động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-28T22:45:00+07:00",
+      "fetched": "2026-05-29T06:12:33.370155+07:00"
+    },
+    {
+      "id": "94c2ad3c3096bf08422bd5b295c69b5a",
+      "title": "Cao điểm ôn thi tốt nghiệp THPT: Người 'áp lực kinh khủng', người giảm lo âu",
+      "link": "https://thanhnien.vn/cao-diem-on-thi-tot-nghiep-thpt-nguoi-ap-luc-kinh-khung-nguoi-giam-lo-au-185260528180233256.htm",
+      "summary": "Học sinh lớp 12 đang trong giai đoạn nước rút ôn thi tốt nghiệp THPT. Tuy đây là kỳ thi quan trọng nhất của giai đoạn phổ thông nhưng 'sức nặng' với các sĩ tử lại khác nhau phụ thuộc vào mục tiêu đã chọn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-28T22:45:00+07:00",
+      "fetched": "2026-05-29T06:12:33.370311+07:00"
+    },
+    {
+      "id": "ae48baf94298763ab95f856cd72d69ac",
+      "title": "Hàng ngàn người đổ về chùa Pháp Hoa: 6.000 đóa hoa đăng sáng rực mừng Phật đản",
+      "link": "https://thanhnien.vn/hang-ngan-nguoi-do-ve-chua-phap-hoa-6000-doa-hoa-dang-sang-ruc-mung-phat-dan-185260528144753439.htm",
+      "summary": "Tối 28.5 (tức 12.4 âm lịch), hàng ngàn người dân, phật tử tại TP.HCM tập trung về chùa Pháp Hoa (phường Nhiêu Lộc) để tham gia đêm thả hoa đăng mừng đại lễ Phật đản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-28T22:45:00+07:00",
+      "fetched": "2026-05-29T06:12:33.370465+07:00"
+    },
+    {
+      "id": "bf2f04390d45c5c04158bda7df81b5d8",
+      "title": "Linh thiêng tục treo đầu trâu ở nhà rông",
+      "link": "https://thanhnien.vn/linh-thieng-tuc-treo-dau-trau-o-nha-rong-185260528225221343.htm",
+      "summary": "Từ rừng đến biển, mỗi cộng đồng ở VN đều có những nét văn hóa, phong tục đặc sắc riêng. Theo thời gian, hủ tục dần mất đi, còn những tập tục tốt đẹp, linh thiêng mãi trường tồn, ảnh hưởng không nhỏ đến tâm thức cộng đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-28T22:43:00+07:00",
+      "fetched": "2026-05-29T06:12:33.370615+07:00"
+    },
+    {
+      "id": "ec392d2597a87e000b8dbf7e7b00c65d",
+      "title": "Mỹ đổi cách xử lý dịch Ebola",
+      "link": "https://thanhnien.vn/my-doi-cach-xu-ly-dich-ebola-185260528223944983.htm",
+      "summary": "Ngoại trưởng Mỹ Marco Rubio mới đây tuyên bố sẽ không cho phép bất kỳ ai mắc bệnh Ebola nhập cảnh nước này. \"Chúng tôi không thể và sẽ không cho phép bất kỳ trường hợp nào nhiễm vi rút Ebola vào Mỹ\",",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-28T22:35:00+07:00",
+      "fetched": "2026-05-29T06:12:33.370766+07:00"
+    },
+    {
+      "id": "6275d8c8d4d6a46aad12923cab28eb64",
+      "title": "‘Quái vật biển Bột Hải’ xuất hiện, thêm giá treo có thể mang vũ khí",
+      "link": "https://thanhnien.vn/quai-vat-bien-bot-hai-xuat-hien-them-gia-treo-co-the-mang-vu-khi-185260528213627701.htm",
+      "summary": "Giới quan sát quân sự xôn xao trước hình ảnh máy bay mặt nước xuất hiện tại cảng Trung Quốc với nhiều chi tiết dẫn đến suy đoán rằng máy bay này có thể được sử dụng cho mục đích quân sự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-28T22:32:00+07:00",
+      "fetched": "2026-05-29T06:12:33.370914+07:00"
+    },
+    {
+      "id": "00b62ac50cfe51699cd87d3f526fd90d",
+      "title": "Tiêu điểm quốc tế 29.5: Mỹ - Iran lại đấu không kích | Sẽ có bước ngoặt trong xung đột Ukraine?",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-295-my-iran-lai-dau-khong-kich-se-co-buoc-ngoat-trong-xung-dot-ukraine-185260529005631831.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin Tiêu điểm quốc tế ngày 29.5.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-28T22:30:00+07:00",
+      "fetched": "2026-05-29T06:12:33.371091+07:00"
+    },
+    {
+      "id": "9b2182e0c4d26a94304c1e8e58854e7f",
+      "title": "'Anh nấu cơm xong rồi, mời em cùng ăn nhé'",
+      "link": "https://vnexpress.net/anh-nau-com-xong-roi-moi-em-cung-an-nhe-5079272.html",
+      "summary": "Anh là một chàng trai miền Tây, sống chân thành, thích đọc sách, yêu thiên nhiên và quý những điều giản dị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-28T22:23:51+07:00",
+      "fetched": "2026-05-29T06:12:30.184285+07:00"
+    },
+    {
+      "id": "ddb0b0f4d93e7c1596d3a62d89f96070",
+      "title": "Unai Emery: ‘Lối đá của Arsenal không hề xấu xí’",
+      "link": "https://vnexpress.net/unai-emery-loi-da-cua-arsenal-khong-he-xau-xi-5079397.html",
+      "summary": "Từng dẫn dắt cả PSG lẫn Arsenal, HLV Unai Emery nhận định trên báo Pháp L'Équipe rằng trận chung kết Champions League ngày 30/5 sẽ là màn chạm trán cân tài cân sức giữa hai đội bóng mạnh nhất thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-28T22:17:18+07:00",
+      "fetched": "2026-05-29T06:12:30.184513+07:00"
+    },
+    {
+      "id": "ddb0b0f4d93e7c1596d3a62d89f96070",
+      "title": "Unai Emery: ‘Lối đá của Arsenal không hề xấu xí’",
+      "link": "https://vnexpress.net/unai-emery-loi-da-cua-arsenal-khong-he-xau-xi-5079397.html",
+      "summary": "Từng dẫn dắt cả PSG lẫn Arsenal, HLV Unai Emery nhận định trên báo Pháp L'Équipe rằng trận chung kết Champions League ngày 30/5 sẽ là màn chạm trán cân tài cân sức giữa hai đội bóng mạnh nhất thế giới.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-28T22:17:18+07:00",
+      "fetched": "2026-05-29T06:12:40.988467+07:00"
+    },
+    {
+      "id": "d82c0228d929243b64223f86e2393a13",
+      "title": "Sinner: 'Tôi thua vì mất ngủ và cạn năng lượng'",
+      "link": "https://vnexpress.net/sinner-toi-thua-vi-mat-ngu-va-can-nang-luong-5079478.html",
+      "summary": "Sau khi thua sốc Juan Manuel Cerundolo ở vòng hai Roland Garros, tay vợt số một thế giới thừa nhận cần hồi phục cả về thể chất lẫn tinh thần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-28T22:03:34+07:00",
+      "fetched": "2026-05-29T06:12:30.184689+07:00"
+    },
+    {
+      "id": "d82c0228d929243b64223f86e2393a13",
+      "title": "Sinner: 'Tôi thua vì mất ngủ và cạn năng lượng'",
+      "link": "https://vnexpress.net/sinner-toi-thua-vi-mat-ngu-va-can-nang-luong-5079478.html",
+      "summary": "Sau khi thua sốc Juan Manuel Cerundolo ở vòng hai Roland Garros, tay vợt số một thế giới thừa nhận cần hồi phục cả về thể chất lẫn tinh thần.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-28T22:03:34+07:00",
+      "fetched": "2026-05-29T06:12:40.988628+07:00"
+    },
+    {
+      "id": "dee34a7b82ae0959c279ad2706066567",
+      "title": "Xăng E10 RON 95-III và E10 RON 95-V khác nhau thế nào?",
+      "link": "https://vnexpress.net/xang-e10-ron-95-iii-va-e10-ron-95-v-khac-nhau-the-nao-5079088.html",
+      "summary": "Cả hai đều là xăng sinh học chứa 9-10% thể tích ethanol và 90-91% xăng khoáng, khác nhau về phân hạng tiêu chuẩn chất lượng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-28T22:00:00+07:00",
+      "fetched": "2026-05-29T06:12:30.184850+07:00"
+    },
+    {
+      "id": "99372183c83a06a9b3cb2a82270f6a09",
+      "title": "Quy định mới phủ bóng lên giấc mơ thẻ xanh Mỹ",
+      "link": "https://vnexpress.net/quy-dinh-moi-phu-bong-len-giac-mo-the-xanh-my-5079039.html",
+      "summary": "Thay đổi mới trong quy định xin thẻ xanh của Mỹ khiến người nhập cư lo ngại quá trình xét duyệt sẽ kéo dài và thêm nhiều bất định.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-28T22:00:00+07:00",
+      "fetched": "2026-05-29T06:12:30.185042+07:00"
+    },
+    {
+      "id": "846dcb3f1807f7f015698cdde665aabc",
+      "title": "Xu hướng 'sa thải nhân viên do AI' lan rộng",
+      "link": "https://vnexpress.net/xu-huong-sa-thai-nhan-vien-do-ai-lan-rong-5078759.html",
+      "summary": "Khảo sát của công ty tư vấn Mercer cho thấy hầu hết lãnh đạo doanh nghiệp muốn tái cấu trúc để tích hợp AI, kéo theo sa thải nhân sự.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-28T22:00:00+07:00",
+      "fetched": "2026-05-29T06:12:30.185210+07:00"
+    },
+    {
+      "id": "d7aecf2d3732e8fab9e74ab2f3150ef3",
+      "title": "Khoai lang ăn khi nóng hay nguội tốt cho sức khỏe hơn?",
+      "link": "https://vnexpress.net/khoai-lang-an-khi-nong-hay-nguoi-tot-cho-suc-khoe-hon-5078243.html",
+      "summary": "Khoai lang lạnh hoặc luộc giúp giảm cân, ổn định đường huyết, trong khi khoai nướng nóng phù hợp để phục hồi, bổ sung năng lượng nhanh sau khi tập luyện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-28T22:00:00+07:00",
+      "fetched": "2026-05-29T06:12:30.185369+07:00"
+    },
+    {
+      "id": "99372183c83a06a9b3cb2a82270f6a09",
+      "title": "Quy định mới phủ bóng lên giấc mơ thẻ xanh Mỹ",
+      "link": "https://vnexpress.net/quy-dinh-moi-phu-bong-len-giac-mo-the-xanh-my-5079039.html",
+      "summary": "Thay đổi mới trong quy định xin thẻ xanh của Mỹ khiến người nhập cư lo ngại quá trình xét duyệt sẽ kéo dài và thêm nhiều bất định.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-28T22:00:00+07:00",
+      "fetched": "2026-05-29T06:12:35.966565+07:00"
+    },
+    {
+      "id": "846dcb3f1807f7f015698cdde665aabc",
+      "title": "Xu hướng 'sa thải nhân viên do AI' lan rộng",
+      "link": "https://vnexpress.net/xu-huong-sa-thai-nhan-vien-do-ai-lan-rong-5078759.html",
+      "summary": "Khảo sát của công ty tư vấn Mercer cho thấy hầu hết lãnh đạo doanh nghiệp muốn tái cấu trúc để tích hợp AI, kéo theo sa thải nhân sự.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-28T22:00:00+07:00",
+      "fetched": "2026-05-29T06:12:39.502257+07:00"
     },
     {
       "id": "a722ed14f62885f2e4b687694c5a8a58",
