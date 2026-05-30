@@ -1,7 +1,157 @@
 window.newsData_2026_05_30 = {
   "date": "2026-05-30",
-  "lastUpdated": "2026-05-30T18:22:17.372180+07:00",
+  "lastUpdated": "2026-05-30T20:23:13.029922+07:00",
   "articles": [
+    {
+      "id": "dcc87f19f3e5e6d24fbef6b56b7b4432",
+      "title": "Cháy nhà kho chứa xe điện du lịch tại Quy Nhơn, cột khói cao hàng chục mét",
+      "link": "https://tuoitre.vn/chay-nha-kho-chua-xe-dien-du-lich-tai-quy-nhon-cot-khoi-cao-hang-chuc-met-20260530164414934.htm",
+      "summary": "Một nhà kho chứa nhiều xe điện du lịch tại phường Quy Nhơn (Gia Lai) bất ngờ phát cháy, gây ra cột khói lớn bao trùm khu vực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T20:23:06.403253+07:00",
+      "fetched": "2026-05-30T20:23:06.403322+07:00"
+    },
+    {
+      "id": "379458b4a191eb1dd022ca1ee9bfb899",
+      "title": "Sơn Tùng đứng trên chim Lạc: Tranh cãi văn hóa có ý nghĩa với cả công chúng và nghệ sĩ",
+      "link": "https://tuoitre.vn/son-tung-dung-tren-chim-lac-tranh-cai-van-hoa-co-y-nghia-voi-ca-cong-chung-va-nghe-si-20260530161403553.htm",
+      "summary": "Sơn Tùng M-TP đứng trên chim Lạc trong MV Come my way khiến mạng xã hội dậy sóng. Ở một mặt nào đó, tranh cãi này cũng mở ra những cuộc đối thoại văn hóa quan trọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T20:23:06.403177+07:00",
+      "fetched": "2026-05-30T20:23:06.403247+07:00"
+    },
+    {
+      "id": "50bad1e7fab9848c1db3c35c80a0f5d6",
+      "title": "Bóng chuyền TP.HCM quyết tâm đột phá trong nhiệm kỳ 2026-2031",
+      "link": "https://tuoitre.vn/bong-chuyen-tp-hcm-quyet-tam-dot-pha-trong-nhiem-ky-2026-2031-20260530142927521.htm",
+      "summary": "Ngày 30-5, Đại hội đại biểu Liên đoàn Bóng chuyền TP.HCM lần thứ I nhiệm kỳ 2026 - 2031 đã diễn ra tại khách sạn Kim Đô.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T20:23:06.403102+07:00",
+      "fetched": "2026-05-30T20:23:06.403170+07:00"
+    },
+    {
+      "id": "66aac2d5c5ca6c3dc5c04e17b35a18ed",
+      "title": "Củ Chi ra mắt 'Cà phê pháp luật' hướng dẫn người dân dùng dịch vụ công trực tuyến",
+      "link": "https://tuoitre.vn/cu-chi-ra-mat-ca-phe-phap-luat-huong-dan-nguoi-dan-dung-dich-vu-cong-truc-tuyen-20260530145454.htm",
+      "summary": "Xã Củ Chi (TP.HCM) triển khai thí điểm mô hình “Cà phê pháp luật” nhằm hỗ trợ người dân tiếp cận thông tin pháp luật, kịp thời giải đáp vướng mắc pháp lý thường gặp, đồng thời hướng dẫn sử dụng dịch vụ công trực tuyến cùng các ứng dụng số tiện ích.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T20:23:06.403023+07:00",
+      "fetched": "2026-05-30T20:23:06.403095+07:00"
+    },
+    {
+      "id": "4452ed3d9ec68fc18cd65c390fa12693",
+      "title": "Đề xuất lộ trình và mức hỗ trợ chuyển đổi xe xăng sang xe điện, năng lượng xanh các khu vực TP.HCM",
+      "link": "https://tuoitre.vn/de-xuat-lo-trinh-va-muc-ho-tro-chuyen-doi-xe-xang-sang-xe-dien-nang-luong-xanh-cac-khu-vuc-tp-hcm-20260530111547888.htm",
+      "summary": "Ngày 30-5, Sở Xây dựng TP.HCM cho biết đơn vị tư vấn có đề xuất lộ trình chuyển đổi xe xăng sang điện, năng lượng xanh theo từng khu vực, trong đó Côn Đảo là vùng đầu tiên chuyển sang điện hoàn toàn từ năm 2030.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T20:23:06.402946+07:00",
+      "fetched": "2026-05-30T20:23:06.403017+07:00"
+    },
+    {
+      "id": "49d58873747525c87c35e80cc4174d0b",
+      "title": "Trao 2.000 suất khám mắt miễn phí trong Ngày hội kết nối nhân ái vì trẻ em",
+      "link": "https://tuoitre.vn/trao-2-000-suat-kham-mat-mien-phi-trong-ngay-hoi-ket-noi-nhan-ai-vi-tre-em-20260530170920914.htm",
+      "summary": "Trong khuôn khổ Ngày hội kết nối nhân ái, 2.000 suất khám mắt miễn phí được trao tới trẻ em khuyết tật, có hoàn cảnh đặc biệt khó khăn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T20:23:06.402852+07:00",
+      "fetched": "2026-05-30T20:23:06.402938+07:00"
+    },
+    {
+      "id": "435b41f4a624950d6f708adb7671abc4",
+      "title": "CLB Công An TP.HCM vô địch môn bóng đá Đại hội Thể dục thể thao",
+      "link": "https://tuoitre.vn/clb-cong-an-tp-hcm-vo-dich-mon-bong-da-dai-hoi-the-duc-the-thao-20260530173927631.htm",
+      "summary": "CLB Công An TP.HCM đã giành huy chương vàng môn bóng đá nam ở Đại hội Thể dục thể thao TP.HCM sau lượt sút luân lưu trước CLB Bóng đá phường Tân Phú với tỉ số 4-3.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T20:23:06.402778+07:00",
+      "fetched": "2026-05-30T20:23:06.402846+07:00"
+    },
+    {
+      "id": "ebb3978eb76260c744fe125b09c4abb9",
+      "title": "Cao su Tân Biên: phát triển kinh tế, phối hợp bảo vệ an ninh",
+      "link": "https://tuoitre.vn/cao-su-tan-bien-phat-trien-kinh-te-phoi-hop-bao-ve-an-ninh-2026053016135516.htm",
+      "summary": "Mô hình phối hợp giữa Công ty Cổ phần Cao su Tân Biên với Bộ đội Biên phòng trở thành “lá chắn mềm” giữ bình yên cho các khu vực giáp biên giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T20:23:06.402703+07:00",
+      "fetched": "2026-05-30T20:23:06.402772+07:00"
+    },
+    {
+      "id": "bb2a85d1c8f492063768dcfe1ce77537",
+      "title": "Công Phượng cùng CLB Trường Tươi Đồng Nai sớm vô địch Giải hạng nhất",
+      "link": "https://tuoitre.vn/cong-phuong-cung-clb-truong-tuoi-dong-nai-som-vo-dich-giai-hang-nhat-20260530174321413.htm",
+      "summary": "Công Phượng cùng CLB Trường Tươi Đồng Nai đã vô địch Giải hạng nhất 2025-2026 cùng vé thăng hạng V-League mùa tới sớm một vòng đấu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T20:23:06.402624+07:00",
+      "fetched": "2026-05-30T20:23:06.402696+07:00"
+    },
+    {
+      "id": "47d8dd0968e7d18714d83da8cd568ea9",
+      "title": "Ghế ngả lưng sắp bị cấm trên ô tô, hết thời 'xe chủ tịch'?",
+      "link": "https://tuoitre.vn/ghe-nga-lung-sap-bi-cam-tren-o-to-het-thoi-xe-chu-tich-20260530002912959.htm",
+      "summary": "Trung Quốc - thị trường xe điện lớn nhất thế giới - đang tiếp tục tăng cường kiểm soát các xu hướng thiết kế ô tô hiện đại, trong bối cảnh lo ngại về yếu tố an toàn ngày càng gia tăng. Mục tiêu mới nhất là các loại ghế ngả lưng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T20:23:06.402543+07:00",
+      "fetched": "2026-05-30T20:23:06.402613+07:00"
+    },
+    {
+      "id": "54d5523838a65c38d7196511400addbe",
+      "title": "Xổ số kiến thiết TP.HCM báo lãi gần 2.000 tỉ đồng, bất ngờ 'án' phạt thuế cả trăm tỉ",
+      "link": "https://tuoitre.vn/xo-so-kien-thiet-tp-hcm-bao-lai-gan-2-000-ti-dong-bat-ngo-an-phat-thue-ca-tram-ti-20260530175905433.htm",
+      "summary": "Doanh thu tăng trưởng cao nhưng do phải nộp tiền phạt thuế gần 110 tỉ đồng nên lợi nhuận Xổ số kiến thiết TP.HCM năm ngoái ghi nhận suy giảm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T20:23:06.402465+07:00",
+      "fetched": "2026-05-30T20:23:06.402536+07:00"
+    },
+    {
+      "id": "575fdf22a74fd55dcd97e8569ea007a2",
+      "title": "CLB Bắc Ninh nuôi hy vọng lên V-League bằng trận play-off",
+      "link": "https://tuoitre.vn/clb-bac-ninh-nuoi-hy-vong-len-v-league-bang-tran-play-off-2026053017505514.htm",
+      "summary": "CLB Bắc Ninh chính thức giành vị trí thứ 2 ở Giải hạng nhất 2025-2026 và có tấm vé đá trận play-off thăng hạng vào cuối mùa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T20:23:06.402384+07:00",
+      "fetched": "2026-05-30T20:23:06.402459+07:00"
+    },
+    {
+      "id": "60b1c3e06c3b28da7c348f7bec095b3f",
+      "title": "Hàng ngàn người đội nắng bên bờ sông Hàn chờ khai mạc pháo hoa quốc tế",
+      "link": "https://tuoitre.vn/hang-ngan-nguoi-doi-nang-ben-bo-song-han-cho-khai-mac-phao-hoa-quoc-te-20260530111620336.htm",
+      "summary": "Chiều 30-5, trước \"sức nóng\" của Lễ hội Pháo hoa quốc tế (DIFF) Đà Nẵng 2026, hàng ngàn người dân và du khách đã đổ về bên sông Hàn để chờ thưởng thức những màn trình diễn pháo hoa trong đêm khai mạc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T20:23:06.402297+07:00",
+      "fetched": "2026-05-30T20:23:06.402377+07:00"
+    },
+    {
+      "id": "2e5ab679578342fc4a52a8e6088f677d",
+      "title": "Xuân Thiện Phú Thọ mất chiến thắng trong 10 phút bù giờ",
+      "link": "https://tuoitre.vn/xuan-thien-phu-tho-mat-chien-thang-trong-10-phut-bu-gio-202605301823075.htm",
+      "summary": "Dẫn trước Trẻ PVF-CAND tới tận phút 61, nhưng Xuân Thiện Phú Thọ lại để đối thủ cầm hòa 2-2 ở vòng 21 Giải hạng nhất quốc gia Bia Sao Vàng 2025 - 2026, diễn ra chiều 30-5.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T20:23:06.402199+07:00",
+      "fetched": "2026-05-30T20:23:06.402289+07:00"
+    },
+    {
+      "id": "3dcc8bdeb02880f9ebc8da1f7a411090",
+      "title": "Việt Nam lên tiếng việc Mỹ khởi xướng điều tra theo Mục 301 về quyền sở hữu trí tuệ",
+      "link": "https://tuoitre.vn/viet-nam-len-tieng-viec-my-khoi-xuong-dieu-tra-theo-muc-301-ve-quyen-so-huu-tri-tue-20260530183331891.htm",
+      "summary": "Tăng cường bảo hộ và thực thi quyền sở hữu trí tuệ là chủ trương nhất quán của Việt Nam nhằm xây dựng môi trường đầu tư, kinh doanh minh bạch, lành mạnh, thúc đẩy đổi mới sáng tạo và thực hiện đầy đủ các cam kết quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T20:23:06.401996+07:00",
+      "fetched": "2026-05-30T20:23:06.402188+07:00"
+    },
     {
       "id": "ac2c73fd6642b840495204e6950f83e7",
       "title": "TP Huế kiên định với hướng phát triển xanh",
@@ -451,6 +601,386 @@ window.newsData_2026_05_30 = {
       "category": "Tổng hợp",
       "published": "2026-05-30T13:43:07.624721+07:00",
       "fetched": "2026-05-30T13:43:07.624950+07:00"
+    },
+    {
+      "id": "d64bfe9e38fde107ac73ea2db4b531ef",
+      "title": "Siêu phẩm kinh dị 'Obsession' kiếm lợi nhuận gấp 130 lần kinh phí sản xuất",
+      "link": "https://thanhnien.vn/sieu-pham-kinh-di-obsession-kiem-loi-nhuan-gap-130-lan-kinh-phi-san-xuat-185260530185211736.htm",
+      "summary": "Hiện tượng phòng vé 'Obsession' đạt doanh thu hơn 100 triệu USD trên toàn cầu dù kinh phí sản xuất chỉ vỏn vẹn 750.000 USD và không sở hữu bất kỳ dàn siêu sao đình đám nào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T13:15:00+07:00",
+      "fetched": "2026-05-30T20:23:05.451886+07:00"
+    },
+    {
+      "id": "47370032b15bdae772c0c39beafa8930",
+      "title": "Có 1 người trúng 3,3 tỉ đồng Jackpot 2 vé số Vietlott Power 6/55",
+      "link": "https://thanhnien.vn/co-1-nguoi-trung-33-ti-dong-jackpot-2-ve-so-vietlott-power-6-55-18526053019540502.htm",
+      "summary": "Tối 30.5, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Power 6/55, ghi nhận có 1 người trúng Jackpot 2 với số tiền là 3,3 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T13:09:00+07:00",
+      "fetched": "2026-05-30T20:23:05.452004+07:00"
+    },
+    {
+      "id": "b552e8c112319de33902f9673982efa2",
+      "title": "HLV Nguyễn Anh Đức hết cảnh thất nghiệp, đầu quân cho đội bóng ‘đặc biệt’: HLV Mai Xuân Hợp đi đâu?",
+      "link": "https://thanhnien.vn/hlv-nguyen-anh-duc-het-canh-that-nghiep-dau-quan-cho-doi-bong-dac-biet-hlv-mai-xuan-hop-di-dau-185260530200024976.htm",
+      "summary": "Ở 2 vòng đấu còn lại của V-League 2025-2026, HLV Nguyễn Anh Đức sẽ dẫn dắt CLB Thanh Hóa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T13:07:00+07:00",
+      "fetched": "2026-05-30T20:23:05.452104+07:00"
+    },
+    {
+      "id": "3127b453611457372137f2bf95706016",
+      "title": "Tài xế ngủ gật, xe chở người tị nạn Afghanistan lật úp: ít nhất 22 người chết",
+      "link": "https://thanhnien.vn/tai-xe-ngu-gat-xe-cho-nguoi-ti-nan-afghanistan-lat-up-it-nhat-22-nguoi-chet-185260530195417187.htm",
+      "summary": "Giới chức Afghanistan ngày 30.5 cho biết một chiếc xe tải chở người tị nạn hồi hương từ Pakistan bị lật khiến ít nhất 22 người thiệt mạng, trong đó có nhiều trẻ em.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T13:03:00+07:00",
+      "fetched": "2026-05-30T20:23:05.452225+07:00"
+    },
+    {
+      "id": "bbce5b79020a138dd6ec4e0da4e79ea9",
+      "title": "Xem nhanh 20h ngày 30.5: Báo cáo Chính phủ vụ tạm hoãn xuất cảnh vì nợ thuế 15 ngàn | Ăn thỏa thích buffet sầu riêng ở TP.HCM",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-305-bao-cao-chinh-phu-vu-tam-hoan-xuat-canh-vi-no-thue-15-ngan-an-thoa-thich-buffet-sau-rieng-o-tphcm-185260530192545476.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 30.5 có nhiều tin tức đáng chú ý về: Bộ Tài chính báo cáo Chính phủ vụ 'tạm hoãn xuất cảnh do nợ thuế 15.000 đồng'; ăn thỏa thích buffet sầu riêng ở TP.HCM: Cửa hàng thêm 2 tấn mới đủ;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T13:00:00+07:00",
+      "fetched": "2026-05-30T20:23:05.452362+07:00"
+    },
+    {
+      "id": "22ecbeff1b14a45fc969385dbb4798b1",
+      "title": "SUV châu Âu Peugeot 3008 mới tại Việt Nam có 2 phiên bản, giá từ 1,279 tỉ",
+      "link": "https://thanhnien.vn/suv-chau-au-peugeot-3008-moi-tai-viet-nam-co-2-phien-ban-gia-tu-1279-ti-18526053018525939.htm",
+      "summary": "Ngoài phong cách SUV lai coupe khác biệt, Peugeot 3008 thế hệ mới còn sở hữu khoang lái trang bị nhiều công nghệ. Giá khởi điểm từ 1,279 tỉ đồng tại Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T12:56:00+07:00",
+      "fetched": "2026-05-30T20:23:05.452469+07:00"
+    },
+    {
+      "id": "9eed7a5519123c9f7134f02f6aa4f71d",
+      "title": "Liverpool gây sốc nặng, bất ngờ sa thải HLV Arne Slot: Ứng viên thay thế là ai?",
+      "link": "https://thanhnien.vn/liverpool-gay-soc-nang-bat-ngo-sa-thai-hlv-arne-slot-ung-vien-thay-the-la-ai-185260530195315068.htm",
+      "summary": "Chỉ một năm sau khi đưa Liverpool lên ngôi vô địch Ngoại hạng Anh, HLV Arne Slot đã bất ngờ bị ban lãnh đạo đội chủ sân Anfield sa thải. Quyết định gây chấn động này được Fenway Sports Group (FSG) công bố tối 30.5, khép lại triều đại kéo dài 2 năm của chiến lược gia người Hà Lan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T12:55:00+07:00",
+      "fetched": "2026-05-30T20:23:05.452577+07:00"
+    },
+    {
+      "id": "d65357bee5aeea7000af2dcbb3e94924",
+      "title": "Cú bẻ lái điều quân của ông Trump tại châu Âu",
+      "link": "https://vnexpress.net/cu-be-lai-dieu-quan-cua-ong-trump-tai-chau-au-5077226.html",
+      "summary": "Quyết định từ Tổng thống Trump về việc rút quân khỏi Đức và điều thêm lính sang Ba Lan đang khiến châu Âu bối rối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T12:49:39+07:00",
+      "fetched": "2026-05-30T20:23:02.876122+07:00"
+    },
+    {
+      "id": "d65357bee5aeea7000af2dcbb3e94924",
+      "title": "Cú bẻ lái điều quân của ông Trump tại châu Âu",
+      "link": "https://vnexpress.net/cu-be-lai-dieu-quan-cua-ong-trump-tai-chau-au-5077226.html",
+      "summary": "Quyết định từ Tổng thống Trump về việc rút quân khỏi Đức và điều thêm lính sang Ba Lan đang khiến châu Âu bối rối.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-30T12:49:39+07:00",
+      "fetched": "2026-05-30T20:23:07.515980+07:00"
+    },
+    {
+      "id": "8cb38baa68495b3a14ff515de52497f0",
+      "title": "Ninh Bình có công viên thể thao đa năng quy mô lớn",
+      "link": "https://vnexpress.net/ninh-binh-co-cong-vien-the-thao-da-nang-quy-mo-lon-5080128.html",
+      "summary": "Sun Group vừa ra mắt công viên thể thao Sun Sports City Ninh Bình rộng 22 ha, cung cấp 58 sân tập chuyên nghiệp nhằm phục vụ cộng đồng rèn luyện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T12:45:00+07:00",
+      "fetched": "2026-05-30T20:23:02.876248+07:00"
+    },
+    {
+      "id": "5ba9f26a5e79bd28fd3afdd4717afe34",
+      "title": "Khuyến cáo dấu hiệu xe máy dùng xăng E10 phải bảo dưỡng ngay",
+      "link": "https://thanhnien.vn/khuyen-cao-dau-hieu-xe-may-dung-xang-e10-phai-bao-duong-ngay-185260530184143599.htm",
+      "summary": "Khẳng định các xe máy hiện nay tương thích với xăng E10 nhưng Hiệp hội các nhà sản xuất xe máy Việt Nam (VAMM) khuyến cáo, nếu gặp phải những dấu hiệu bất thường cần đưa phương tiện đi kiểm tra kỹ thuật, bảo dưỡng ngay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T12:41:00+07:00",
+      "fetched": "2026-05-30T20:23:05.452672+07:00"
+    },
+    {
+      "id": "5c462a1f772e4ccc98d56e38261c45c6",
+      "title": "Vinhomes Sài Gòn Park ra mắt ba dòng sản phẩm trước ngày công bố giá",
+      "link": "https://vnexpress.net/vinhomes-sai-gon-park-ra-mat-ba-dong-san-pham-truoc-ngay-cong-bo-gia-5080118.html",
+      "summary": "Dự án Vinhomes Sài Gòn Park giới thiệu ba dòng sản phẩm chủ lực, thu hút sự quan tâm của 2.000 khách hàng đến sự kiện trước ngày công bố giá bán 31/5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T12:30:00+07:00",
+      "fetched": "2026-05-30T20:23:02.876358+07:00"
+    },
+    {
+      "id": "8325c8e70b277f7900db24a8bd668f24",
+      "title": "Ăn thỏa thích buffet sầu riêng ở TP.HCM: Cửa hàng thêm 2 tấn mới đủ",
+      "link": "https://thanhnien.vn/an-thoa-thich-buffet-sau-rieng-o-tphcm-cua-hang-them-2-tan-moi-du-185260530190500196.htm",
+      "summary": "Ngay ngày đầu tiên sự kiện buffet sầu riêng được tổ chức ở trung tâm TP.HCM, thực khách ùn ùn kéo đến. Cửa hàng tăng cường thêm 2 tấn sầu riêng so với kế hoạch ban đầu là 1 tấn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T12:18:00+07:00",
+      "fetched": "2026-05-30T20:23:05.452763+07:00"
+    },
+    {
+      "id": "8e55e90b1e3552be8c5a954362c1874a",
+      "title": "Trường Tươi Đồng Nai nhận cúp vô địch ngọt ngào, bầu Sơn xúc động ôm chặt những người hùng",
+      "link": "https://thanhnien.vn/truong-tuoi-dong-nai-nhan-cup-vo-dich-ngot-ngao-bau-son-xuc-dong-om-chat-nhung-nguoi-hung-185260530191215095.htm",
+      "summary": "Cơn mưa trắng trời chỉ khiến ngày đăng quang vô địch giải hạng nhất của Trường Tươi Đồng Nai càng thêm đặc biệt, khi bầu Sơn liên tục ôm chặt những người hùng của mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T12:17:00+07:00",
+      "fetched": "2026-05-30T20:23:05.452857+07:00"
+    },
+    {
+      "id": "9814b387b50fbe963f4b2a4c46e8ecd4",
+      "title": "PSG 0-0 Arsenal: Chung kết Champions League quá khó lường",
+      "link": "https://thanhnien.vn/psg-0-0-arsenal-chung-ket-champions-league-qua-kho-luong-185260530151442288.htm",
+      "summary": "Người hâm mộ bóng đá thế giới chờ đợi chứng kết trận chung kết Champions League hấp dẫn giữa 2 trường phái đối lập: PSG tấn công rất hay, còn Arsenal phòng ngự chặt chẽ. Trận đấu này diễn ra lúc 23 giờ ngày 30.5.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T12:14:00+07:00",
+      "fetched": "2026-05-30T20:23:05.452963+07:00"
+    },
+    {
+      "id": "8be8f17588ee91c8fd3024f13266133f",
+      "title": "Highlight Trường Tươi Đồng Nai 3-0 Long An: Nhà vô địch giải hạng nhất lộ diện",
+      "link": "https://thanhnien.vn/highlight-truong-tuoi-dong-nai-3-0-long-an-nha-vo-dich-giai-hang-nhat-lo-dien-185260530191109043.htm",
+      "summary": "Chiến thắng thuyết phục 3-0 trước Long An giúp Trường Tươi Đồng Nai chính thức lên ngôi vô địch giải hạng nhất quốc gia, khép lại hành trình thăng hạng đầy ấn tượng của thầy trò HLV Nguyễn Việt Thắng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T12:11:00+07:00",
+      "fetched": "2026-05-30T20:23:05.453057+07:00"
+    },
+    {
+      "id": "1d6eb035d4359ca1b47765653d0d242d",
+      "title": "Highlight Quy Nhơn United 2-4 Bắc Ninh: Tốp 2 được định đoạt",
+      "link": "https://thanhnien.vn/highlight-quy-nhon-united-2-4-bac-ninh-top-2-duoc-dinh-doat-185260530191040702.htm",
+      "summary": "Chiến thắng 4-2 trước Quy Nhơn United giúp Bắc Ninh củng cố vị trí trong tốp 2 giải hạng nhất quốc gia, qua đó tiến thêm một bước dài trên hành trình cạnh tranh suất play-off thăng hạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T12:10:00+07:00",
+      "fetched": "2026-05-30T20:23:05.453146+07:00"
+    },
+    {
+      "id": "7bf0c9d10fe7698a7d295d3282e07d50",
+      "title": "Lâm Đồng định hình 4 trung tâm phát triển để bứt phá",
+      "link": "https://thanhnien.vn/lam-dong-dinh-hinh-4-trung-tam-phat-trien-de-but-pha-185260530172139541.htm",
+      "summary": "Hội thảo khoa học ngày 30.5 tại Đà Lạt đề xuất mô hình phát triển Lâm Đồng theo hướng đa trung tâm, với Đà Lạt, Phan Thiết, Gia Nghĩa và Bảo Lộc - Di Linh giữ vai trò động lực tăng trưởng mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T12:07:00+07:00",
+      "fetched": "2026-05-30T20:23:05.453238+07:00"
+    },
+    {
+      "id": "823a369df05f6ec1cd76f319be12d27f",
+      "title": "Mẹ con đoàn tụ sau 11 năm nhờ công an xác minh nhân thân",
+      "link": "https://thanhnien.vn/me-con-doan-tu-sau-11-nam-nho-cong-an-xac-minh-nhan-than-185260530184602835.htm",
+      "summary": "Sau 11 năm mất liên lạc, chị Đinh Thị Y Liên được Công an phường Quy Nhơn (Gia Lai) xác minh nhân thân, giúp đoàn tụ với mẹ ruột và hoàn tất thủ tục pháp lý cho 4 người con.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T12:02:00+07:00",
+      "fetched": "2026-05-30T20:23:05.453328+07:00"
+    },
+    {
+      "id": "3b78e1cad75841ea39abd7768ca11b53",
+      "title": "Con tôi toàn điểm 10 nhưng không đạt học sinh xuất sắc",
+      "link": "https://vnexpress.net/con-toi-toan-diem-10-nhung-khong-dat-hoc-sinh-xuat-sac-5079993.html",
+      "summary": "Tôi không hề than phiền mà vui vẻ chấp nhận khi con không đạt học sinh xuất sắc vì vướng môn vẽ chỉ 'hoàn thành'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T12:00:00+07:00",
+      "fetched": "2026-05-30T20:23:02.876477+07:00"
+    },
+    {
+      "id": "7dccc7313a1e1faa9fb59fed95cfd235",
+      "title": "Châu Âu phá hơn 600 con đập cứu môi trường",
+      "link": "https://vnexpress.net/chau-au-pha-hon-600-con-dap-cuu-moi-truong-5079252.html",
+      "summary": "Các quốc gia châu Âu lập kỷ lục phá bỏ 603 con đập và rào cản khác trong năm 2025, giúp kết nối lại hơn 3.740 km sông ngòi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T12:00:00+07:00",
+      "fetched": "2026-05-30T20:23:02.876578+07:00"
+    },
+    {
+      "id": "a265931041cffb57c3f854f77bc33fa1",
+      "title": "Gian hàng trải nghiệm đa giác quan của Vinamilk hút khách tại triển lãm",
+      "link": "https://vnexpress.net/gian-hang-trai-nghiem-da-giac-quan-cua-vinamilk-hut-khach-tai-trien-lam-5080090.html",
+      "summary": "Biến hành trình 50 năm phát triển thành không gian tương tác hiện đại, gian hàng Vinamilk tại Triển lãm chuyên ngành sữa 2026 thu hút hàng nghìn khách tham quan và trải nghiệm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T12:00:00+07:00",
+      "fetched": "2026-05-30T20:23:02.876682+07:00"
+    },
+    {
+      "id": "b04b0566cf150c5dea3fb365c6a61f13",
+      "title": "Dính nước tiểu của người mắc sùi mào gà có lây bệnh?",
+      "link": "https://vnexpress.net/dinh-nuoc-tieu-cua-nguoi-mac-sui-mao-ga-co-lay-benh-5080072.html",
+      "summary": "Tôi không may bị dính nước tiểu của người mắc sùi mào gà đi vệ sinh trước thì có bị lây nhiễm bệnh không, nên làm gì để phòng ngừa? (Kim Huệ, 20 tuổi, Cần Thơ)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T12:00:00+07:00",
+      "fetched": "2026-05-30T20:23:02.876786+07:00"
+    },
+    {
+      "id": "401a03bbfbb2c4b0fde7db7bb08bfc0d",
+      "title": "Áp lực học tập từ những kỳ vọng của cha mẹ",
+      "link": "https://vnexpress.net/ap-luc-hoc-tap-tu-nhung-ky-vong-cua-cha-me-5079938.html",
+      "summary": "Kỳ vọng quá lớn từ gia đình đang vô tình khiến những đứa trẻ đặt mục tiêu \"học để thi, học vì điểm số\" thay vì yêu thích và tìm hiểu kiến thức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T12:00:00+07:00",
+      "fetched": "2026-05-30T20:23:02.876904+07:00"
+    },
+    {
+      "id": "a265931041cffb57c3f854f77bc33fa1",
+      "title": "Gian hàng trải nghiệm đa giác quan của Vinamilk hút khách tại triển lãm",
+      "link": "https://vnexpress.net/gian-hang-trai-nghiem-da-giac-quan-cua-vinamilk-hut-khach-tai-trien-lam-5080090.html",
+      "summary": "Biến hành trình 50 năm phát triển thành không gian tương tác hiện đại, gian hàng Vinamilk tại Triển lãm chuyên ngành sữa 2026 thu hút hàng nghìn khách tham quan và trải nghiệm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-30T12:00:00+07:00",
+      "fetched": "2026-05-30T20:23:09.073023+07:00"
+    },
+    {
+      "id": "7dccc7313a1e1faa9fb59fed95cfd235",
+      "title": "Châu Âu phá hơn 600 con đập cứu môi trường",
+      "link": "https://vnexpress.net/chau-au-pha-hon-600-con-dap-cuu-moi-truong-5079252.html",
+      "summary": "Các quốc gia châu Âu lập kỷ lục phá bỏ 603 con đập và rào cản khác trong năm 2025, giúp kết nối lại hơn 3.740 km sông ngòi.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-30T12:00:00+07:00",
+      "fetched": "2026-05-30T20:23:11.524218+07:00"
+    },
+    {
+      "id": "74a7ba85da235521979b650e9352f79d",
+      "title": "Việt Nam lên tiếng về việc Mỹ điều tra vấn đề sở hữu trí tuệ",
+      "link": "https://vnexpress.net/viet-nam-len-tieng-ve-viec-my-dieu-tra-van-de-so-huu-tri-tue-5080110.html",
+      "summary": "Việt Nam cho biết sẽ tiếp tục trao đổi với Mỹ sau khi Mỹ thông báo mở điều tra lĩnh vực thực thi và bảo hộ quyền sở hữu trí tuệ tại Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T11:45:32+07:00",
+      "fetched": "2026-05-30T20:23:02.877026+07:00"
+    },
+    {
+      "id": "74a7ba85da235521979b650e9352f79d",
+      "title": "Việt Nam lên tiếng về việc Mỹ điều tra vấn đề sở hữu trí tuệ",
+      "link": "https://vnexpress.net/viet-nam-len-tieng-ve-viec-my-dieu-tra-van-de-so-huu-tri-tue-5080110.html",
+      "summary": "Việt Nam cho biết sẽ tiếp tục trao đổi với Mỹ sau khi Mỹ thông báo mở điều tra lĩnh vực thực thi và bảo hộ quyền sở hữu trí tuệ tại Việt Nam.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-30T11:45:32+07:00",
+      "fetched": "2026-05-30T20:23:07.516103+07:00"
+    },
+    {
+      "id": "7cc45ee4ca48a1c5b0734089f24c6fbf",
+      "title": "6 người nghi ngộ độc sau bữa ăn có món bọ xít",
+      "link": "https://vnexpress.net/6-nguoi-nghi-ngo-doc-sau-bua-an-co-mon-bo-xit-5080114.html",
+      "summary": "Nhóm người dân ở xã Phú Xuân nhập viện cấp cứu sau khi cùng ăn món bọ xít bắt trên cây cà dại ven sông Mã.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T11:45:29+07:00",
+      "fetched": "2026-05-30T20:23:02.877127+07:00"
+    },
+    {
+      "id": "c0f89719945f5f046a4baba48ec21938",
+      "title": "Công Phượng đưa Đồng Nai lên V-League",
+      "link": "https://vnexpress.net/cong-phuong-dua-dong-nai-len-v-league-5080111.html",
+      "summary": "Tiền đạo Nguyễn Công Phượng kiến tạo và ghi bàn giúp đội nhà thắng Long An 3-0 để vô địch sớm giải hạng Nhất, giành vé lên V-League 2026-2027.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T11:45:09+07:00",
+      "fetched": "2026-05-30T20:23:02.877219+07:00"
+    },
+    {
+      "id": "c0f89719945f5f046a4baba48ec21938",
+      "title": "Công Phượng đưa Đồng Nai lên V-League",
+      "link": "https://vnexpress.net/cong-phuong-dua-dong-nai-len-v-league-5080111.html",
+      "summary": "Tiền đạo Nguyễn Công Phượng kiến tạo và ghi bàn giúp đội nhà thắng Long An 3-0 để vô địch sớm giải hạng Nhất, giành vé lên V-League 2026-2027.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-30T11:45:09+07:00",
+      "fetched": "2026-05-30T20:23:13.021520+07:00"
+    },
+    {
+      "id": "ce93c8583a1aabc29887b8dc5c5ef637",
+      "title": "Tỷ lệ chọi lớp 10 chuyên Ngoại ngữ tăng, cao nhất 1/14",
+      "link": "https://vnexpress.net/ty-le-choi-lop-10-chuyen-ngoai-ngu-tang-cao-nhat-1-14-5080109.html",
+      "summary": "5 trong số 7 lớp chuyên của trường THPT chuyên Ngoại ngữ (CNN) có tỷ lệ chọi trên 1/10, cao nhất là 1/14 ở lớp chuyên tiếng Hàn và Pháp - gấp đôi năm ngoái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T11:43:39+07:00",
+      "fetched": "2026-05-30T20:23:02.877316+07:00"
+    },
+    {
+      "id": "3b9b52e025d3bed17cc613203704e543",
+      "title": "Liverpool sa thải HLV Arne Slot",
+      "link": "https://vnexpress.net/liverpool-sa-thai-hlv-arne-slot-5070015.html",
+      "summary": "Liverpool chia tay Arne Slot ngày 30/5, và bắt đầu tìm một HLV mới cho mùa giải 2026-2027.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T11:38:07+07:00",
+      "fetched": "2026-05-30T20:23:02.877416+07:00"
+    },
+    {
+      "id": "3b9b52e025d3bed17cc613203704e543",
+      "title": "Liverpool sa thải HLV Arne Slot",
+      "link": "https://vnexpress.net/liverpool-sa-thai-hlv-arne-slot-5070015.html",
+      "summary": "Liverpool chia tay Arne Slot ngày 30/5, và bắt đầu tìm một HLV mới cho mùa giải 2026-2027.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-30T11:38:07+07:00",
+      "fetched": "2026-05-30T20:23:13.021639+07:00"
+    },
+    {
+      "id": "bc79ffe544a90c635eb2ef70abe628cc",
+      "title": "'Arsenal cần Champions League để gia nhập nhóm tinh hoa châu Âu'",
+      "link": "https://vnexpress.net/arsenal-can-champions-league-de-gia-nhap-nhom-tinh-hoa-chau-au-5079897.html",
+      "summary": "Cựu danh thủ Jamie Carragher cho rằng Arsenal đã trở thành thế lực lớn của bóng đá Anh, nhưng chưa thể bước lên hàng ngũ tinh hoa châu Âu nếu không vô địch Champions League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T11:29:13+07:00",
+      "fetched": "2026-05-30T20:23:02.877509+07:00"
+    },
+    {
+      "id": "bc79ffe544a90c635eb2ef70abe628cc",
+      "title": "'Arsenal cần Champions League để gia nhập nhóm tinh hoa châu Âu'",
+      "link": "https://vnexpress.net/arsenal-can-champions-league-de-gia-nhap-nhom-tinh-hoa-chau-au-5079897.html",
+      "summary": "Cựu danh thủ Jamie Carragher cho rằng Arsenal đã trở thành thế lực lớn của bóng đá Anh, nhưng chưa thể bước lên hàng ngũ tinh hoa châu Âu nếu không vô địch Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-30T11:29:13+07:00",
+      "fetched": "2026-05-30T20:23:13.022251+07:00"
+    },
+    {
+      "id": "c2b3873d6f82cf6c92e19fdbfd8bed77",
+      "title": "Cảm xúc ngày thi lớp 10 ở Hà Nội",
+      "link": "https://vnexpress.net/cam-xuc-ngay-thi-lop-10-o-ha-noi-5080079.html",
+      "summary": "Dậy từ 4h sáng nấu xôi, thắp hương cầu may, hồi hộp chờ trước cổng trường rồi vỡ òa trong những cái ôm là cảm xúc của phụ huynh và thí sinh Hà Nội ngày đầu thi lớp 10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-30T11:23:21+07:00",
+      "fetched": "2026-05-30T20:23:02.877609+07:00"
+    },
+    {
+      "id": "b48981c9ec381df663e60d760ec3df4d",
+      "title": "Phi hành đoàn Trung Quốc trở về sau nhiệm vụ dài kỷ lục",
+      "link": "https://vnexpress.net/phi-hanh-doan-trung-quoc-tro-ve-sau-nhiem-vu-dai-ky-luc-5080031.html",
+      "summary": "Tàu Thần Châu 22 đưa ba phi hành gia rời khỏi trạm vũ trụ Thiên Cung sau 7 tháng làm việc, hạ cánh tại bãi đáp Đông Phong, Nội Mông.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-30T11:19:49+07:00",
+      "fetched": "2026-05-30T20:23:11.524338+07:00"
     },
     {
       "id": "fa9d4712e6b991388e2c1b1a20dd2acf",
