@@ -1,7 +1,87 @@
 window.newsData_2026_06_01 = {
   "date": "2026-06-01",
-  "lastUpdated": "2026-06-01T03:56:14.117787+07:00",
+  "lastUpdated": "2026-06-01T05:57:20.301306+07:00",
   "articles": [
+    {
+      "id": "93a35377c599ac44df96208410d7f246",
+      "title": "HLV Lê Đức Tuấn: Quyền tự quyết nằm trong CLB Đà Nẵng ở lượt trận cuối",
+      "link": "https://tuoitre.vn/hlv-le-duc-tuan-quyen-tu-quyet-nam-trong-clb-da-nang-o-luot-tran-cuoi-20260601020013278.htm",
+      "summary": "CLB Đà Nẵng có quyền tự quyết trong cuộc đua trụ hạng sau trận hòa 0-0 trên sân Hà Tĩnh ở vòng 25 V-League 2025-2026 diễn ra vào tối 31-5.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T05:57:11.340940+07:00",
+      "fetched": "2026-06-01T05:57:11.341066+07:00"
+    },
+    {
+      "id": "b1607281ca861c335a43b97a80e5e6ec",
+      "title": "Tuyển thủ Việt Nam Doãn Ngọc Tân rời CLB Thanh Hóa",
+      "link": "https://tuoitre.vn/tuyen-thu-viet-nam-doan-ngoc-tan-roi-clb-thanh-hoa-20260601012746769.htm",
+      "summary": "Tiền vệ Doãn Ngọc Tân chia tay CLB Thanh Hóa ngay trên sân sau khi đội bóng này trụ hạng thành công ở mùa giải V-League 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T05:57:11.340790+07:00",
+      "fetched": "2026-06-01T05:57:11.340908+07:00"
+    },
+    {
+      "id": "6805a94a01c1bf81ecbf0760bd609900",
+      "title": "HLV Phùng Thanh Phương bảo vệ Khoa Ngô",
+      "link": "https://tuoitre.vn/hlv-phung-thanh-phuong-bao-ve-khoa-ngo-20260601003507585.htm",
+      "summary": "Góp một kiến tạo cho Tiến Linh ghi bàn, tiền vệ Việt kiều Khoa Ngô được HLV Phùng Thanh Phương sử dụng thận trọng cho 2 trận đấu quan trọng sắp tới của CLB Công An TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T05:57:11.340657+07:00",
+      "fetched": "2026-06-01T05:57:11.340779+07:00"
+    },
+    {
+      "id": "284f3d6a41f8f3a45bf2a773f7357378",
+      "title": "Lễ hội quảng bá gốm sứ Hàn Quốc gây phẫn nộ vì tặng quà 'Made in China'",
+      "link": "https://tuoitre.vn/le-hoi-quang-ba-gom-su-han-quoc-gay-phan-no-vi-tang-qua-made-in-china-20260531235533105.htm",
+      "summary": "Một lễ hội gốm sứ nổi tiếng tại Hàn Quốc đã phải công khai xin lỗi vì tặng người tham gia những chiếc bình dán nhãn 'Made in China'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T05:57:11.340514+07:00",
+      "fetched": "2026-06-01T05:57:11.340644+07:00"
+    },
+    {
+      "id": "ab59a5024cc2d3122191401ece7b803f",
+      "title": "AUKUS: liên minh 'ngầm' và cục diện đáy biển",
+      "link": "https://tuoitre.vn/aukus-lien-minh-ngam-va-cuc-dien-day-bien-20260531233145094.htm",
+      "summary": "Dự án mới nhất của liên minh ba nước phát đi tín hiệu rõ ràng: kỷ nguyên cạnh tranh dưới lòng biển đã chính thức bắt đầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T05:57:11.340379+07:00",
+      "fetched": "2026-06-01T05:57:11.340502+07:00"
+    },
+    {
+      "id": "42c46429c2cace93bedbf67088a0d3d0",
+      "title": "Phát triển kinh tế tư nhân là thước đo năng lực bộ máy",
+      "link": "https://tuoitre.vn/phat-trien-kinh-te-tu-nhan-la-thuoc-do-nang-luc-bo-may-20260531224723854.htm",
+      "summary": "Phát triển kinh tế tư nhân là mệnh lệnh từ thực tiễn, yêu cầu chiến lược lâu dài và là thước đo năng lực điều hành của bộ máy nhà nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T05:57:11.340242+07:00",
+      "fetched": "2026-06-01T05:57:11.340366+07:00"
+    },
+    {
+      "id": "685f86bdb8761270e7a322c0808b1ef8",
+      "title": "Hơn 151.000 thí sinh TP.HCM bước vào kỳ thi lớp 10 đầu tiên sau sáp nhập",
+      "link": "https://tuoitre.vn/hon-151-000-thi-sinh-tp-hcm-buoc-vao-ky-thi-lop-10-dau-tien-sau-sap-nhap-20260531220532577.htm",
+      "summary": "Sáng nay 1-6, hơn 151.000 thí sinh TP.HCM bước vào kỳ thi lớp 10 đầu tiên sau sáp nhập với môn thi đầu tiên là ngữ văn, thời gian làm bài 120 phút.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T05:57:11.340094+07:00",
+      "fetched": "2026-06-01T05:57:11.340228+07:00"
+    },
+    {
+      "id": "61009592b33011c16dc1701e9a866dd3",
+      "title": "Lịch trực tiếp U19 Đông Nam Á 2026: Việt Nam đấu Timor-Leste",
+      "link": "https://tuoitre.vn/lich-truc-tiep-u19-dong-nam-a-2026-viet-nam-dau-timor-leste-2026053115451111.htm",
+      "summary": "Đội tuyển U19 Việt Nam có trận ra quân gặp U19 Timor-Leste ở Giải vô địch U19 Đông Nam Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-01T05:57:11.339892+07:00",
+      "fetched": "2026-06-01T05:57:11.340077+07:00"
+    },
     {
       "id": "86b8e375a885535b69e611169e898199",
       "title": "Becamex TP.HCM nguy cơ cao rớt hạng V-League",
@@ -161,6 +241,256 @@ window.newsData_2026_06_01 = {
       "category": "Tổng hợp",
       "published": "2026-06-01T00:02:49.363959+07:00",
       "fetched": "2026-06-01T00:02:49.364207+07:00"
+    },
+    {
+      "id": "6df5ec6547aa0740408f69e27cd3c339",
+      "title": "Chuyện lạ từ vỉa hè: 'Thèm' được đóng tiền để khỏi thấp thỏm ôm đồ... chạy",
+      "link": "https://thanhnien.vn/chuyen-la-tu-via-he-them-duoc-dong-tien-de-khoi-thap-thom-om-do-chay-185260522215819924.htm",
+      "summary": "Từng được xem là giải pháp hài hòa giữa quản lý đô thị và nhu cầu mưu sinh, việc cho thuê tạm thời vỉa hè để kinh doanh buôn bán tại TP.HCM nay đã dừng triển khai theo quy định mới. Câu chuyện giữ lại vỉa hè cho người đi bộ hay dành một phần cho sinh kế tiếp tục đặt ra nhiều tranh luận giữa nhu cầu ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T22:57:00+07:00",
+      "fetched": "2026-06-01T05:57:08.239887+07:00"
+    },
+    {
+      "id": "d7fcdf3b919f785e62a9557b83d07fd3",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 1.6.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-162026-185260531225931201.htm",
+      "summary": "Tin tức Việt Nam chính thức chuyển sang xăng sinh học; Đội nào mạnh nhất World Cup 2026?, Cao điểm 45 ngày đêm trấn áp tội phạm: Cú đấm thép vào tội phạm ma túy… có thể đón xem trên Báo Thanh Niên số ra ngày 1.6.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T22:54:00+07:00",
+      "fetched": "2026-06-01T05:57:08.240085+07:00"
+    },
+    {
+      "id": "4848980576aa982c54075e782df4186e",
+      "title": "Thi lớp 10 tại Hà Nội: Yêu cầu cao hơn về đánh giá năng lực",
+      "link": "https://thanhnien.vn/thi-lop-10-tai-ha-noi-yeu-cau-cao-hon-ve-danh-gia-nang-luc-185260531213635933.htm",
+      "summary": "Năm thứ hai thi theo Chương trình giáo dục phổ thông mới, đề thi vào lớp 10 của Hà Nội cho thấy dù cấu trúc, định dạng không thay đổi so với năm trước nhưng đã tăng yêu cầu về đánh giá năng lực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T22:54:00+07:00",
+      "fetched": "2026-06-01T05:57:08.240247+07:00"
+    },
+    {
+      "id": "4703ff7ff0f7dda74cb196794a55d131",
+      "title": "Thương lắm một hành trình thắp sáng niềm tin và khát vọng",
+      "link": "https://thanhnien.vn/thuong-lam-mot-hanh-trinh-thap-sang-niem-tin-va-khat-vong-185260531113102511.htm",
+      "summary": "Cách đây hơn 20 năm, ở xứ tôi, có cái bóng đèn điện để thắp sáng là chuyện xa xỉ lắm. Đèn dầu hỏa gắn liền với nếp sống chân phương của người miền Nam, tối tối là đi ngủ sớm, trẻ con học bài dưới làn khói đen ám vô hốc mũi, người già ngồi nhâm nhi chén trà bên ánh sáng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T22:54:00+07:00",
+      "fetched": "2026-06-01T05:57:08.240402+07:00"
+    },
+    {
+      "id": "3d63866d72f94ada99f47905a0044e31",
+      "title": "Xây dựng 'lá chắn số' bảo vệ trẻ em",
+      "link": "https://thanhnien.vn/xay-dung-la-chan-so-bao-ve-tre-em-18526053121151087.htm",
+      "summary": "Chỉ với một chiếc điện thoại hay thiết bị có kết nối internet, trẻ em có thể học tập, khám phá thế giới, kết nối bạn bè và phát triển bản thân. Không gian mạng giờ đây đã trở thành một phần không thể thiếu trong đời sống, học tập, và vui chơi của trẻ em. Thế nhưng, cũng chính không gian ấy lại đang ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T22:50:00+07:00",
+      "fetched": "2026-06-01T05:57:08.240556+07:00"
+    },
+    {
+      "id": "b2e171f3f31cf1414994db5f6a6dd056",
+      "title": "Giải pháp giảm áp lực thi lớp 10: Thay đổi cách tiếp cận về phân luồng",
+      "link": "https://thanhnien.vn/giai-phap-giam-ap-luc-thi-lop-10-thay-doi-cach-tiep-can-ve-phan-luong-185260531182150638.htm",
+      "summary": "Thực tế nhiều năm qua cho thấy phân luồng sau THCS không thể thành công nếu chỉ dựa vào giảm chỉ tiêu lớp 10, áp lực tuyển sinh hay các biện pháp hành chính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T22:45:00+07:00",
+      "fetched": "2026-06-01T05:57:08.240716+07:00"
+    },
+    {
+      "id": "3e3b57baef8d4c8b8cdabe782015fbdb",
+      "title": "Nghĩa Từ Triều Châu 150 năm tuổi trong khuôn viên Bệnh viện An Bình được 'thay áo mới'",
+      "link": "https://thanhnien.vn/nghia-tu-trieu-chau-150-nam-tuoi-trong-khuon-vien-benh-vien-an-binh-duoc-thay-ao-moi-185260528151507669.htm",
+      "summary": "Sau 8 tháng trùng tu, ngôi Nghĩa Từ Triều Châu có tuổi đời 150 năm nằm trong khuôn viên Bệnh viện An Bình (TP.HCM) đã thay 'lớp áo mới' nhưng vẫn giữ được nét cổ kính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T22:45:00+07:00",
+      "fetched": "2026-06-01T05:57:08.240881+07:00"
+    },
+    {
+      "id": "5ed442898a587b739a0b47de2a0751fd",
+      "title": "Bạo loạn trên 15 thành phố Pháp sau khi PSG vô địch Champions League",
+      "link": "https://vnexpress.net/bao-loan-tren-15-thanh-pho-phap-sau-khi-psg-vo-dich-champions-league-5080361.html",
+      "summary": "Một CĐV tử vong, một người khác nguy kịch và khoảng 400 người bị bắt giữ sau các vụ bạo loạn xảy ra tại 15 thành phố của Pháp khi người hâm mộ mừng PSG thắng Arsenal ở chung kết Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-31T22:37:20+07:00",
+      "fetched": "2026-06-01T05:57:20.296088+07:00"
+    },
+    {
+      "id": "42d1861557926386cd73692255eb9e66",
+      "title": "Ukraine nhận hệ thống tên lửa mới từ Đức",
+      "link": "https://thanhnien.vn/ukraine-nhan-he-thong-ten-lua-moi-tu-duc-185260531201632982.htm",
+      "summary": "Tổng thống Ukraine Volodymyr Zelensky ngày 31.5 thông báo nước này đã nhận được một hệ thống phóng tên lửa Iris-T mới từ Đức hôm 30.5, đồng thời yêu cầu cung cấp thêm đạn dược phòng không, theo Reuters.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T22:30:00+07:00",
+      "fetched": "2026-06-01T05:57:08.241069+07:00"
+    },
+    {
+      "id": "085c9a957fb69a04b7ca16c6b1925a22",
+      "title": "Cùng mua vé số, hơn 20 người cùng công ty trúng xổ số miền Nam",
+      "link": "https://thanhnien.vn/cung-mua-ve-so-hon-20-nguoi-cung-cong-ty-trung-xo-so-mien-nam-185260531154930835.htm",
+      "summary": "Hơn 20 người làm cùng công ty may mặc ở Tây Ninh đã trúng giải an ủi xổ số miền Nam khi cùng nhau mua vé số.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T22:30:00+07:00",
+      "fetched": "2026-06-01T05:57:08.241225+07:00"
+    },
+    {
+      "id": "a6cee0629e345a8567a4e87c16115343",
+      "title": "VĐV Mỹ phá kỷ lục leo đỉnh Everest",
+      "link": "https://vnexpress.net/vdv-my-pha-ky-luc-leo-dinh-everest-5080364.html",
+      "summary": "VĐV chạy địa hình và leo núi Tyler Andrews chinh phục đỉnh Everest chỉ trong 9 giờ 55 phút, tính từ trại nền (Base Camp).",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-31T22:29:52+07:00",
+      "fetched": "2026-06-01T05:57:20.296252+07:00"
+    },
+    {
+      "id": "3f25d8b170e40f8df8ce077676578151",
+      "title": "Tiêu điểm quốc tế ngày 1.6: Mỹ bắn tàu hướng đến Iran | Thiên thạch nổ như 300 tấn TNT",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-ngay-16-my-ban-tau-huong-den-iran-thien-thach-no-nhu-300-tan-tnt-18526053123140707.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 1.6.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T22:28:00+07:00",
+      "fetched": "2026-06-01T05:57:08.241375+07:00"
+    },
+    {
+      "id": "8d6c0284784bbef4d395e3bcfd023b6a",
+      "title": "Ngày 1.6 đặc biệt ở Thảo Cầm Viên: Khoảnh khắc hiếm hoi thấy con cười nơi đông người",
+      "link": "https://thanhnien.vn/ngay-16-dac-biet-o-thao-cam-vien-khoanh-khac-hiem-hoi-thay-con-cuoi-noi-dong-nguoi-185260531140551503.htm",
+      "summary": "Dưới những tán cây xanh của Thảo Cầm Viên Sài Gòn, hơn 40 gia đình đã cùng nhau tạo nên một ngày Quốc tế thiếu nhi vô cùng khác lạ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T22:25:00+07:00",
+      "fetched": "2026-06-01T05:57:08.241523+07:00"
+    },
+    {
+      "id": "c8494dfb2eed3cf026fb755a4ed17e82",
+      "title": "Ousmane Dembele trước thời cơ lịch sử",
+      "link": "https://thanhnien.vn/ousmane-dembele-truoc-thoi-co-lich-su-185260531214152327.htm",
+      "summary": "Chưa ai từng lên ngôi vô địch World Cup khi đang giữ danh hiệu 'Quả bóng vàng'. Vậy nên đây là thời cơ để Ousmane Dembele (Pháp) đi vào lịch sử.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T22:16:00+07:00",
+      "fetched": "2026-06-01T05:57:08.241668+07:00"
+    },
+    {
+      "id": "87059a3c4772684bf31e1d6e5e968086",
+      "title": "Cây chết khô",
+      "link": "https://thanhnien.vn/cay-chet-kho-185260529195847869.htm",
+      "summary": "Bạn đọc phản ánh cây xanh trước nhà số E1/10A1 Thới Hòa, xã Vĩnh Lộc (trước đây thuộc xã Vĩnh Lộc A, H.Bình Chánh), TP.HCM, bị chết khô lâu ngày (ảnh).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T22:16:00+07:00",
+      "fetched": "2026-06-01T05:57:10.382651+07:00"
+    },
+    {
+      "id": "b7750aede0ab00781f1d2a324e0e1b0d",
+      "title": "Tử vi ngày 1 tháng 6: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-1-thang-6-con-giap-nao-may-man-hom-nay-185260601005953197.htm",
+      "summary": "Tử vi ngày 1 tháng 6 mang đến những gợi ý tham khảo cho 12 con giáp. Điểm nổi bật là 'làm mới năng lượng', không cần thay đổi mang tính bước ngoặt chỉ sau một đêm, nhưng đây là lúc thích hợp để bắt đầu lại với tinh thần nhẹ hơn, tích cực hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T22:15:00+07:00",
+      "fetched": "2026-06-01T05:57:10.383024+07:00"
+    },
+    {
+      "id": "e6f874e6b69e9bb5dae426a84f673536",
+      "title": "Chuyến thăm mang ý nghĩa lịch sử của Tổng Bí thư, \nChủ tịch nước Tô Lâm",
+      "link": "https://thanhnien.vn/chuyen-tham-mang-y-nghia-lich-su-cua-tong-bi-thu-chu-tich-nuoc-to-lam-185260531224444934.htm",
+      "summary": "Chiều 31.5, chuyên cơ chở Tổng Bí thư, Chủ tịch nước Tô Lâm và phu nhân cùng đoàn đại biểu cấp cao Việt Nam đã đến thủ đô Manila, bắt đầu chuyến thăm cấp Nhà nước tới Cộng hòa Philippines, từ ngày 31.5 - 1.6, theo lời mời của Tổng thống Cộng hòa Philippines Ferdinand Romualdez Marcos Jr. và phu nhân...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T22:15:00+07:00",
+      "fetched": "2026-06-01T05:57:10.383195+07:00"
+    },
+    {
+      "id": "ca47e7970a3f6daa45400a558b983214",
+      "title": "Giá vàng thế giới được dự báo tăng tuần này",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-duoc-du-bao-tang-tuan-nay-5080299.html",
+      "summary": "Giới phân tích cho rằng giá vàng có thể tiếp tục đi lên trong những ngày tới, sau khi phục hồi ở phiên cuối tuần này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T22:00:00+07:00",
+      "fetched": "2026-06-01T05:57:05.032662+07:00"
+    },
+    {
+      "id": "592f3fc53374092cad8b97177272950f",
+      "title": "Ba thực phẩm giàu chất xơ quen thuộc với người Việt",
+      "link": "https://vnexpress.net/ba-thuc-pham-giau-chat-xo-quen-thuoc-voi-nguoi-viet-5080119.html",
+      "summary": "Đậu bắp, mướp đắng (khổ qua) và mộc nhĩ là thực phẩm quen thuộc song có thể bạn chưa biết chúng cung cấp hàm lượng chất xơ vượt trội cho cơ thể.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T22:00:00+07:00",
+      "fetched": "2026-06-01T05:57:05.032848+07:00"
+    },
+    {
+      "id": "d729cd198ec64b69a8fcbdf0639ebe73",
+      "title": "Hệ quả đan xen giữa chiến sự Ukraine và Iran",
+      "link": "https://vnexpress.net/he-qua-dan-xen-giua-chien-su-ukraine-va-iran-5078610.html",
+      "summary": "Chiến sự Nga - Ukraine và xung đột giữa Mỹ với Iran diễn ra ở hai khu vực khác nhau, nhưng ngày càng có nhiều nét tương đồng, đan xen.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T22:00:00+07:00",
+      "fetched": "2026-06-01T05:57:05.033049+07:00"
+    },
+    {
+      "id": "ff8a1f20cc66eceb3ec54f9a03f131e5",
+      "title": "Sự bất an với AI",
+      "link": "https://vnexpress.net/su-bat-an-voi-ai-5078124.html",
+      "summary": "Phản đối xây dựng trung tâm dữ liệu, la ó, thậm chí có hành động quá khích đang là cách nhiều người, đặc biệt là giới trẻ, phản ứng với làn sóng AI.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T22:00:00+07:00",
+      "fetched": "2026-06-01T05:57:05.033215+07:00"
+    },
+    {
+      "id": "e8b53675ea3c2a62d472346f632a2e87",
+      "title": "Thaco và Tasco - hai thế lực phân phối ôtô tại Việt Nam",
+      "link": "https://vnexpress.net/thaco-va-tasco-hai-the-luc-phan-phoi-oto-tai-viet-nam-5080080.html",
+      "summary": "Có thêm Jeep và Ram, Thaco hiện độc quyền phân phối 7 thương hiệu ôtô, Tasco theo sau với 4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T22:00:00+07:00",
+      "fetched": "2026-06-01T05:57:05.033380+07:00"
+    },
+    {
+      "id": "d729cd198ec64b69a8fcbdf0639ebe73",
+      "title": "Hệ quả đan xen giữa chiến sự Ukraine và Iran",
+      "link": "https://vnexpress.net/he-qua-dan-xen-giua-chien-su-ukraine-va-iran-5078610.html",
+      "summary": "Chiến sự Nga - Ukraine và xung đột giữa Mỹ với Iran diễn ra ở hai khu vực khác nhau, nhưng ngày càng có nhiều nét tương đồng, đan xen.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-31T22:00:00+07:00",
+      "fetched": "2026-06-01T05:57:13.014392+07:00"
+    },
+    {
+      "id": "ca47e7970a3f6daa45400a558b983214",
+      "title": "Giá vàng thế giới được dự báo tăng tuần này",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-duoc-du-bao-tang-tuan-nay-5080299.html",
+      "summary": "Giới phân tích cho rằng giá vàng có thể tiếp tục đi lên trong những ngày tới, sau khi phục hồi ở phiên cuối tuần này.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-05-31T22:00:00+07:00",
+      "fetched": "2026-06-01T05:57:14.685816+07:00"
+    },
+    {
+      "id": "ff8a1f20cc66eceb3ec54f9a03f131e5",
+      "title": "Sự bất an với AI",
+      "link": "https://vnexpress.net/su-bat-an-voi-ai-5078124.html",
+      "summary": "Phản đối xây dựng trung tâm dữ liệu, la ó, thậm chí có hành động quá khích đang là cách nhiều người, đặc biệt là giới trẻ, phản ứng với làn sóng AI.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-31T22:00:00+07:00",
+      "fetched": "2026-06-01T05:57:18.122279+07:00"
     },
     {
       "id": "26b4af4e6c0d0b41daac29ccb37a2a21",
