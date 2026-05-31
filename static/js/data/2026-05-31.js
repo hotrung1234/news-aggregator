@@ -1,7 +1,157 @@
 window.newsData_2026_05_31 = {
   "date": "2026-05-31",
-  "lastUpdated": "2026-05-31T20:39:40.964187+07:00",
+  "lastUpdated": "2026-05-31T22:15:59.759171+07:00",
   "articles": [
+    {
+      "id": "deac3dda618266cedb1a03bfcf78919c",
+      "title": "KCN Rạch Bắp mở rộng quy mô, hướng tới mô hình công nghiệp xanh",
+      "link": "https://tuoitre.vn/kcn-rach-bap-mo-rong-quy-mo-huong-toi-mo-hinh-cong-nghiep-xanh-20260531190204605.htm",
+      "summary": "Đến thăm khu công nghiệp (KCN) Rạch Bắp vào một chiều mưa của những ngày cuối tháng 5, nhưng những đoàn xe container cứ liên tục ra vào, tiếng máy móc hòa cùng nhịp làm việc khẩn trương của hàng chục nghìn lao động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T22:15:54.548052+07:00",
+      "fetched": "2026-05-31T22:15:54.548200+07:00"
+    },
+    {
+      "id": "590e1ee5aab4f8a4dd9f3b1dfd2ed754",
+      "title": "Vì sao phim Studio Ghibli vẫn vắng mặt trên các nền tảng trực tuyến tại Nhật?",
+      "link": "https://tuoitre.vn/vi-sao-phim-studio-ghibli-van-vang-mat-tren-cac-nen-tang-truc-tuyen-tai-nhat-2026053118085284.htm",
+      "summary": "Dù đã xuất hiện trên nhiều nền tảng trực tuyến ở nước ngoài, các bộ phim của Studio Ghibli vẫn chưa được phát hành qua dịch vụ streaming tại Nhật Bản. Mới đây, lãnh đạo hãng phim đã lên tiếng giải thích về quyết định này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T22:15:54.547928+07:00",
+      "fetched": "2026-05-31T22:15:54.548041+07:00"
+    },
+    {
+      "id": "e10ff42805764eaaead9af71e38ce4b8",
+      "title": "Học với máy tính cũng có thể vô địch cờ vua",
+      "link": "https://tuoitre.vn/hoc-voi-may-tinh-cung-co-the-vo-dich-co-vua-20260531171201972.htm",
+      "summary": "Chia sẻ sau khi vận động viên nhí Nguyễn Lộc Phát giành huy chương vàng Giải vô địch Cúp cờ vua 2026, phụ huynh của em đã gửi lời tri ân HLV, cũng như tiết lộ một bí quyết khác giúp con mình bứt phá.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T22:15:54.547803+07:00",
+      "fetched": "2026-05-31T22:15:54.547916+07:00"
+    },
+    {
+      "id": "0312cc1c58577c271f541396615a372d",
+      "title": "Kết thúc môn thi đầu tiên kỳ thi vào lớp 10 ở Hải Phòng, thí sinh đánh giá đề vừa sức",
+      "link": "https://tuoitre.vn/ket-thuc-mon-thi-dau-tien-ky-thi-vao-10-o-hai-phong-thi-sinh-danh-gia-de-vua-suc-20260531180013374.htm",
+      "summary": "Hơn 61.700 thí sinh ở Hải Phòng đã kết thúc môn thi đầu tiên trong kỳ thi tuyển sinh vào lớp 10 THPT năm học 2026 - 2027, trong đó nhiều thí sinh đánh giá đề thi vừa sức, có tính phân loại cao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T22:15:54.547675+07:00",
+      "fetched": "2026-05-31T22:15:54.547791+07:00"
+    },
+    {
+      "id": "18f825cf4f7bb897ad936119fc71f1ae",
+      "title": "Israel tiến sâu vào Lebanon, cắm cờ lên thành cổ 900 năm tuổi",
+      "link": "https://tuoitre.vn/israel-tien-sau-vao-lebanon-cam-co-len-thanh-co-900-nam-tuoi-20260531193823352.htm",
+      "summary": "Quân đội Israel tuyên bố kiểm soát thành cổ Beaufort và dải núi chiến lược ở miền Nam Lebanon.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T22:15:54.547554+07:00",
+      "fetched": "2026-05-31T22:15:54.547664+07:00"
+    },
+    {
+      "id": "f837a18a163ce7ef6d4f5bc5be8a4d6a",
+      "title": "Chào Châu Âu, Vietjet tung 12 triệu vé ưu đãi toàn mạng bay",
+      "link": "https://tuoitre.vn/chao-chau-au-vietjet-tung-12-trieu-ve-uu-dai-toan-mang-bay-20260531200829211.htm",
+      "summary": "Chào đường bay mới Hà Nội - Praha (Cộng hoà Séc) và Hà Nội - Almaty (Kazakhstan) được khai thác từ 10-10-2026, Vietjet mở bán 12 triệu vé khuyến mãi giá chỉ từ 0 đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T22:15:54.547431+07:00",
+      "fetched": "2026-05-31T22:15:54.547543+07:00"
+    },
+    {
+      "id": "93f23c3ad82924e1918e65b5e4f08cbb",
+      "title": "Trước ngày xăng E10 'phủ sóng': Khách lựa chọn xăng sinh học tăng dần",
+      "link": "https://tuoitre.vn/truoc-ngay-xang-e10-phu-song-khach-lua-chon-xang-sinh-hoc-tang-dan-20260531183248588.htm",
+      "summary": "Xăng sinh học E10 sẽ chính thức thay thế xăng khoáng tại hệ thống bán lẻ xăng dầu trên cả nước từ ngày mai (1-6).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T22:15:54.547308+07:00",
+      "fetched": "2026-05-31T22:15:54.547420+07:00"
+    },
+    {
+      "id": "28265041ff37c215846f747f6e8e507c",
+      "title": "Thuốc thử nghiệm giúp bệnh nhân ung thư tụy di căn sống lâu hơn, hy vọng thay đổi cách điều trị sớm",
+      "link": "https://tuoitre.vn/thuoc-thu-nghiem-giup-benh-nhan-ung-thu-tuy-di-can-song-lau-hon-hi-vong-thay-doi-cach-dieu-tri-som-20260531195525481.htm",
+      "summary": "Một loại thuốc viên dạng uống thử nghiệm đã được chứng minh giúp bệnh nhân ung thư tụy di căn sống lâu hơn gần gấp đôi so với hóa trị, đồng thời mở ra hy vọng điều trị hiệu quả hơn từ giai đoạn sớm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T22:15:54.547173+07:00",
+      "fetched": "2026-05-31T22:15:54.547296+07:00"
+    },
+    {
+      "id": "393bea7ecf562436dcfdaca036c7cd93",
+      "title": "Bắc và Trung Bộ nắng nóng gia tăng, Nam Bộ mưa nhiều vào chiều tối",
+      "link": "https://tuoitre.vn/bac-va-trung-bo-nang-nong-gia-tang-nam-bo-mua-nhieu-vao-chieu-toi-2026053119393572.htm",
+      "summary": "Dự báo những ngày tới, nắng nóng gia tăng và mở rộng ra Bắc Bộ và Trung Bộ, còn Nam Bộ vẫn có mưa rào và rải rác có dông, cục bộ có nơi mưa to trong chiều tối.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T22:15:54.547019+07:00",
+      "fetched": "2026-05-31T22:15:54.547159+07:00"
+    },
+    {
+      "id": "e2fa9d6da0c079d41b445efb653d7c09",
+      "title": "Tạo nhiều tiền lệ xấu, Thái Lan có thể bị cấm dự 1 môn ở Asiad 2026",
+      "link": "https://tuoitre.vn/tao-nhieu-tien-le-xau-thai-lan-co-the-bi-cam-du-1-mon-o-asiad-2026-20260531194221627.htm",
+      "summary": "Làng thể thao Thái Lan vừa nhận thông tin gây sốc, khi họ đối diện nguy cơ bị cấm dự môn cầu mây ở Asian Games (Asiad) 2026 vì những tranh cãi ồn ào thời gian qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T22:15:54.546887+07:00",
+      "fetched": "2026-05-31T22:15:54.547007+07:00"
+    },
+    {
+      "id": "b134e3d2e4b9b70a9ae2e3c040c1d34a",
+      "title": "Đè bẹp Hải Phòng, PVF-CAND thoát vị trí đáy bảng ở vòng áp chót V-League 2025 - 2026",
+      "link": "https://tuoitre.vn/de-bep-hai-phong-pvf-cand-thoat-vi-tri-day-bang-o-vong-ap-chot-v-league-2025-2026-2026053119382708.htm",
+      "summary": "Trên sân nhà, CLB PVF-CAND dễ dàng thắng Hải Phòng 3-1 ở vòng 25 LPBank V-League 2025 - 2026 để nuôi hy vọng trụ hạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T22:15:54.546758+07:00",
+      "fetched": "2026-05-31T22:15:54.546875+07:00"
+    },
+    {
+      "id": "baf963802b5cafb80d679e8c3321467f",
+      "title": "Đánh bại Hà Nội, CLB Hoàng Anh Gia Lai trụ hạng thành công",
+      "link": "https://tuoitre.vn/danh-bai-ha-noi-clb-hoang-anh-gia-lai-tru-hang-thanh-cong-20260531202332156.htm",
+      "summary": "CLB Hoàng Anh Gia Lai đã trụ hạng sớm trước một vòng đấu sau khi đánh bại Hà Nội trên sân Pleiku ở vòng áp chót V-League 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T22:15:54.546626+07:00",
+      "fetched": "2026-05-31T22:15:54.546741+07:00"
+    },
+    {
+      "id": "d750c45120df638be5ba4aa59184e40e",
+      "title": "Đình Bắc lập cú đúp kiến tạo, CLB Công An Hà Nội đẩy Becamex TP.HCM xuống đáy bảng",
+      "link": "https://tuoitre.vn/dinh-bac-lap-cu-dup-kien-tao-clb-cong-an-ha-noi-day-becamex-tp-hcm-xuong-day-bang-20260531085040688.htm",
+      "summary": "Tối 31-5 trên sân Hàng Đẫy, CLB Công An Hà Nội thắng Becamex TP.HCM 2-1 ở vòng 25 LPBank V-League 2025 - 2026, qua đó khiến đối thủ tụt xuống đáy bảng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T22:15:54.546493+07:00",
+      "fetched": "2026-05-31T22:15:54.546613+07:00"
+    },
+    {
+      "id": "e0fbe46b37e7ec7756eae8795c8a4ed4",
+      "title": "Đánh bại đối thủ Trung Quốc, tay vợt 36 tuổi Cirstea tiếp tục làm nên lịch sử ở Roland Garros",
+      "link": "https://tuoitre.vn/danh-bai-doi-thu-trung-quoc-tay-vot-36-tuoi-cirstea-tiep-tuc-lam-nen-lich-su-o-roland-garros-20260531200723379.htm",
+      "summary": "Tay vợt 36 tuổi Sorana Cirstea đã giành quyền vào tứ kết Grand Slam lần đầu tiên sau 17 năm, khi cô đánh bại đối thủ Trung Quốc Wang Xinyu 2-0 (6-3, 7-6) vào đêm 31-5 ở vòng 4 Giải quần vợt Pháp mở rộng (Roland Garros) 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T22:15:54.546349+07:00",
+      "fetched": "2026-05-31T22:15:54.546480+07:00"
+    },
+    {
+      "id": "6ad4938702260323552468383440d3ff",
+      "title": "Iran nêu điều kiện tiên quyết để đạt thỏa thuận với Mỹ",
+      "link": "https://tuoitre.vn/iran-neu-dieu-kien-tien-quyet-de-dat-thoa-thuan-voi-my-20260531204931395.htm",
+      "summary": "Iran khẳng định sẽ không chấp nhận bất kỳ thỏa thuận nào với Mỹ cho đến khi các quyền lợi của nước này được bảo đảm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T22:15:54.546111+07:00",
+      "fetched": "2026-05-31T22:15:54.546333+07:00"
+    },
     {
       "id": "1a2b3a16b4248f3709dd75a5a7de61a5",
       "title": "HLV U19 Việt Nam: Trận nào cũng như chung kết",
@@ -303,6 +453,36 @@ window.newsData_2026_05_31 = {
       "fetched": "2026-05-31T17:12:43.921154+07:00"
     },
     {
+      "id": "ec27f317f58e8edfab488c995ec72f18",
+      "title": "Xiaomi Watch S5 - smartwatch khung thép, pin 21 ngày",
+      "link": "https://vnexpress.net/xiaomi-watch-s5-smartwatch-khung-thep-pin-21-ngay-5080334.html",
+      "summary": "Xiaomi Watch S5 nổi bật với khung bằng thép, độ hoàn thiện tốt, màn hình AMOLED độ sáng cao và thời lượng pin tối đa 21 ngày nhưng chưa có lựa chọn cỡ nhỏ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-05-31T15:04:14+07:00",
+      "fetched": "2026-05-31T22:15:58.817171+07:00"
+    },
+    {
+      "id": "0c7d34ea7d481e54b12e7d3553716940",
+      "title": "HLV Harry Kewell: 'HAGL không chơi bóng đá'",
+      "link": "https://vnexpress.net/hlv-harry-kewell-hagl-khong-choi-bong-da-5080340.html",
+      "summary": "HLV Harry Kewell chê HAGL phòng ngự tiêu cực khi Hà Nội FC thua ngược 1-3 ở vòng 25 V-League 2025-2026 tối 31/5.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-31T14:57:28+07:00",
+      "fetched": "2026-05-31T22:15:59.750410+07:00"
+    },
+    {
+      "id": "c1df7bd0b434be5c23c2149b0f60d925",
+      "title": "Để sách tranh 'sống' trong tuổi thơ chứ không chỉ là vật trang trí đóng bụi",
+      "link": "https://thanhnien.vn/de-sach-tranh-song-trong-tuoi-tho-chu-khong-chi-la-vat-trang-tri-dong-bui-185260531210124893.htm",
+      "summary": "Sách tranh cần hiện diện nhiều hơn không phải là nhà trường hay thư viện mà là trên 'bàn tay người lớn' như ba mẹ hay thầy cô là ý kiến của anh Lê Thiện Trí, đại diện Room to Read (RtR) Việt Nam - trong bối cảnh người lớn và trẻ em dần mất đi kết nối vì lệ thuộc ngày càng nhiều vào màn hình điện tho...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T14:46:00+07:00",
+      "fetched": "2026-05-31T22:15:53.651906+07:00"
+    },
+    {
       "id": "6f1c34eb5239f2f860c154a8502a161c",
       "title": "Chuyển giao chứng thực giao dịch là 'trả việc' về đúng chỗ",
       "link": "https://tuoitre.vn/chuyen-giao-chung-thuc-giao-dich-la-tra-viec-ve-dung-cho-20260525162944309.htm",
@@ -453,6 +633,106 @@ window.newsData_2026_05_31 = {
       "fetched": "2026-05-31T14:42:29.679311+07:00"
     },
     {
+      "id": "37ceb132e1a23a55bbf388b89650e77e",
+      "title": "HLV Harry Kewell chê bai HAGL, HLV Quang Trãi phản bác tinh tế ‘Arsenal cũng đá như chúng tôi mà thôi’",
+      "link": "https://thanhnien.vn/hlv-harry-kewell-che-bai-hagl-hlv-quang-trai-phan-bac-tinh-te-arsenal-cung-da-nhu-chung-toi-ma-thoi-185260531205353549.htm",
+      "summary": "HLV Lê Quang Trãi tự hào khi HAGL đã thắng ngược CLB Hà Nội 3-1 để trụ hạng sớm, lấy Arsenal để phản bác khi HLV Harry Kewell chê HAGL không đá bóng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T14:10:00+07:00",
+      "fetched": "2026-05-31T22:15:53.652072+07:00"
+    },
+    {
+      "id": "d256983b5af6a731840f36f41b830ca0",
+      "title": "Cưới bạn trai không có nhà và xe, liệu tôi có hối hận",
+      "link": "https://vnexpress.net/cuoi-ban-trai-khong-co-nha-va-xe-lieu-toi-co-hoi-han-5080295.html",
+      "summary": "Bố mẹ không đồng ý tình yêu này vì cho rằng tôi xinh xắn, nhiều người theo đuổi, không nên cưới anh, sau này sẽ vất vả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T14:02:18+07:00",
+      "fetched": "2026-05-31T22:15:51.249956+07:00"
+    },
+    {
+      "id": "91f024e2663fe4c18270573f652dd351",
+      "title": "Nghiên cứu chỉ ra loại tinh bột hỗ trợ giảm cân tốt nhất",
+      "link": "https://thanhnien.vn/nghien-cuu-chi-ra-loai-tinh-bot-ho-tro-giam-can-tot-nhat-185260531210218619.htm",
+      "summary": "Khi giảm cân, tinh bột thường bị cắt giảm đầu tiên vì nhiều người cho rằng carb làm tăng mỡ cơ thể.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T14:02:00+07:00",
+      "fetched": "2026-05-31T22:15:53.652257+07:00"
+    },
+    {
+      "id": "094c2e807d5d4cd8ebf1e4fe804df3e5",
+      "title": "Xem nhanh 20h ngày 31.5: VKS lên tiếng vụ 6 cựu chiến binh kêu oan | Xác minh người xưng thầy dạy lái cãi CSGT",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-315-vks-len-tieng-vu-6-cuu-chien-binh-keu-oan-xac-minh-nguoi-xung-thay-day-lai-cai-csgt-18526053118295752.htm",
+      "summary": "'Xem nhanh 20h' ngày 31.5 có nhiều tin tức đáng chú ý về: Vụ 6 cựu chiến binh kêu oan: Viện trưởng Viện KSND cấp cao tại TP.HCM nói gì?; Xác minh người tự xưng thầy dạy lái đi sai làn, cãi CSGT rồi đăng clip lên mạng;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T14:00:00+07:00",
+      "fetched": "2026-05-31T22:15:53.652416+07:00"
+    },
+    {
+      "id": "c2c9a13760bd18ad0ac320a344166407",
+      "title": "Bảng xếp hạng V-League mới nhất: HAGL ở vị trí cực khó tin, nhóm 'đèn đỏ' đua tranh nghẹt thở",
+      "link": "https://thanhnien.vn/bang-xep-hang-v-league-moi-nhat-hagl-o-vi-tri-cuc-kho-tin-nhom-den-do-dua-tranh-nghet-tho-185260531204010017.htm",
+      "summary": "Cục diện đua trụ hạng V-League sẽ hấp dẫn đến vòng cuối cùng, khi đến lúc này, nhóm cuối bảng xếp hạng vẫn khó đoán và nghẹt thở.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T13:52:00+07:00",
+      "fetched": "2026-05-31T22:15:53.652569+07:00"
+    },
+    {
+      "id": "047bdd9709b465b301ed6eab5062a187",
+      "title": "Quốc Trường tiết lộ từng mượn đồ, xin xỏ để được đi ké sự kiện",
+      "link": "https://thanhnien.vn/quoc-truong-tiet-lo-tung-muon-do-xin-xo-de-duoc-di-ke-su-kien-185260531182336849.htm",
+      "summary": "Thời chưa nổi tiếng, Quốc Trường không ngại mượn đồ, xin được xuất hiện ở các sự kiện vì muốn khán giả biết đến mình nhiều hơn. Tuy nhiên, sau thời gian nỗ lực anh vẫn không tìm thấy được hào quang nên từng muốn bỏ nghề.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T13:49:00+07:00",
+      "fetched": "2026-05-31T22:15:53.652719+07:00"
+    },
+    {
+      "id": "97a6df88f64530ef56404fcaa6793717",
+      "title": "Anh Đức phân trần, Tiểu Vy nói gì khi được góp ý về diễn xuất?",
+      "link": "https://thanhnien.vn/anh-duc-phan-tran-tieu-vy-noi-gi-khi-duoc-gop-y-ve-dien-xuat-185260531184135514.htm",
+      "summary": "Tại buổi giao lưu của ê kíp 'Ốc mượn hồn', dàn diễn viên gồm Quốc Trường, Tiểu Vy, Anh Phạm, Anh Đức... đã có những chia sẻ về vai diễn của mình trong phim.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T13:42:00+07:00",
+      "fetched": "2026-05-31T22:15:53.652868+07:00"
+    },
+    {
+      "id": "37dda60b82460ad537096d48e0b46267",
+      "title": "Tài năng 18 tuổi giúp HAGL trụ hạng V-League",
+      "link": "https://vnexpress.net/tai-nang-18-tuoi-giup-hagl-tru-hang-v-league-5080329.html",
+      "summary": "Tiền đạo Trần Gia Bảo tham gia vào hai bàn giúp HAGL thắng ngược Hà Nội FC 3-1 ở vòng 25, qua đó trụ hạng trước một vòng đấu V-League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T13:36:22+07:00",
+      "fetched": "2026-05-31T22:15:51.250159+07:00"
+    },
+    {
+      "id": "37dda60b82460ad537096d48e0b46267",
+      "title": "Tài năng 18 tuổi giúp HAGL trụ hạng V-League",
+      "link": "https://vnexpress.net/tai-nang-18-tuoi-giup-hagl-tru-hang-v-league-5080329.html",
+      "summary": "Tiền đạo Trần Gia Bảo tham gia vào hai bàn giúp HAGL thắng ngược Hà Nội FC 3-1 ở vòng 25, qua đó trụ hạng trước một vòng đấu V-League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-31T13:36:22+07:00",
+      "fetched": "2026-05-31T22:15:59.748761+07:00"
+    },
+    {
+      "id": "285991d78c36655a55bb1224ba100b33",
+      "title": "Tôm chết hàng loạt, chủ hồ phát hiện 8 túi đất đèn dưới đáy",
+      "link": "https://vnexpress.net/tom-chet-hang-loat-chu-ho-phat-hien-8-tui-dat-den-duoi-day-5080312.html",
+      "summary": "Sau một đêm, toàn bộ đàn tôm thẻ chân trắng nuôi trong hồ rộng 1.500 m2 ở xã Phú Trạch chết sạch; khi xả nước, chủ hồ phát hiện 8 túi đất đèn dưới đáy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T13:36:15+07:00",
+      "fetched": "2026-05-31T22:15:51.250333+07:00"
+    },
+    {
       "id": "fbef11794f9048a63e0e1185e8573a9a",
       "title": "Diễm My 9X tiết lộ cuộc sống sau khi kết hôn với chồng doanh nhân",
       "link": "https://thanhnien.vn/diem-my-9x-tiet-lo-cuoc-song-sau-khi-ket-hon-voi-chong-doanh-nhan-185260531174656357.htm",
@@ -461,6 +741,26 @@ window.newsData_2026_05_31 = {
       "category": "Tổng hợp",
       "published": "2026-05-31T13:35:00+07:00",
       "fetched": "2026-05-31T20:39:32.483267+07:00"
+    },
+    {
+      "id": "7168c207d7f5ad9bf596ff6e3d58c0b1",
+      "title": "Máy bay Mỹ phóng tên lửa, vô hiệu hóa tàu hàng hướng đến Iran",
+      "link": "https://vnexpress.net/may-bay-my-phong-ten-lua-vo-hieu-hoa-tau-hang-huong-den-iran-5080317.html",
+      "summary": "Quân đội Mỹ tuyên bố phóng tên lửa Hellfire để ngăn tàu hàng hướng đến cảng Iran, dường như nối lại lệnh phong tỏa trên biển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T13:30:23+07:00",
+      "fetched": "2026-05-31T22:15:51.250492+07:00"
+    },
+    {
+      "id": "7168c207d7f5ad9bf596ff6e3d58c0b1",
+      "title": "Máy bay Mỹ phóng tên lửa, vô hiệu hóa tàu hàng hướng đến Iran",
+      "link": "https://vnexpress.net/may-bay-my-phong-ten-lua-vo-hieu-hoa-tau-hang-huong-den-iran-5080317.html",
+      "summary": "Quân đội Mỹ tuyên bố phóng tên lửa Hellfire để ngăn tàu hàng hướng đến cảng Iran, dường như nối lại lệnh phong tỏa trên biển.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-05-31T13:30:23+07:00",
+      "fetched": "2026-05-31T22:15:55.925052+07:00"
     },
     {
       "id": "538744c2ccf363c29a6d4db705ac6057",
@@ -481,6 +781,26 @@ window.newsData_2026_05_31 = {
       "category": "Thể thao",
       "published": "2026-05-31T13:23:53+07:00",
       "fetched": "2026-05-31T20:39:40.954539+07:00"
+    },
+    {
+      "id": "784116bf7ec605317ce8bb26ff8f2f6f",
+      "title": "Xuân Son lập tuyệt phẩm móc bóng ở V-League",
+      "link": "https://vnexpress.net/xuan-son-lap-tuyet-pham-moc-bong-o-v-league-5080328.html",
+      "summary": "Tiền đạo nhập tịch Nguyễn Xuân Son tỏa sáng với một cú hat-trick, trong đó có pha tung người móc bóng, giúp Nam Định hạ SLNA 3-0 tại vòng 25 V-League 2025-2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-05-31T13:23:53+07:00",
+      "fetched": "2026-05-31T22:15:51.250655+07:00"
+    },
+    {
+      "id": "784116bf7ec605317ce8bb26ff8f2f6f",
+      "title": "Xuân Son lập tuyệt phẩm móc bóng ở V-League",
+      "link": "https://vnexpress.net/xuan-son-lap-tuyet-pham-moc-bong-o-v-league-5080328.html",
+      "summary": "Tiền đạo nhập tịch Nguyễn Xuân Son tỏa sáng với một cú hat-trick, trong đó có pha tung người móc bóng, giúp Nam Định hạ SLNA 3-0 tại vòng 25 V-League 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-31T13:23:53+07:00",
+      "fetched": "2026-05-31T22:15:59.748941+07:00"
     },
     {
       "id": "9f171bf5521092086c841edc4b95a9b6",
@@ -821,6 +1141,16 @@ window.newsData_2026_05_31 = {
       "category": "Thể thao",
       "published": "2026-05-31T10:59:17+07:00",
       "fetched": "2026-05-31T20:39:40.954712+07:00"
+    },
+    {
+      "id": "b1e2f0dfeef76c2f4113e46649944f98",
+      "title": "Gabriel - sự mong manh giữa người hùng và tội đồ của Arsenal",
+      "link": "https://vnexpress.net/gabriel-su-mong-manh-giua-nguoi-hung-va-toi-do-cua-arsenal-5080296.html",
+      "summary": "Khoảnh khắc Gabriel ôm đầu thất vọng, khi được đội trưởng PSG cũng là đồng đội ở tuyển Brazil Marquinhos an ủi, mang tính biểu tượng cho thất bại của Arsenal ở chung kết Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-05-31T10:59:17+07:00",
+      "fetched": "2026-05-31T22:15:59.749125+07:00"
     },
     {
       "id": "523a0977765a75e38f12e1a658b63b42",
