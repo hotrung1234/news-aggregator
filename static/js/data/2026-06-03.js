@@ -1,6 +1,6 @@
 window.newsData_2026_06_03 = {
   "date": "2026-06-03",
-  "lastUpdated": "2026-06-03T01:06:40.997593+07:00",
+  "lastUpdated": "2026-06-03T05:20:59.928406+07:00",
   "articles": [
     {
       "id": "21cfc6176de0aaf2f300fdef9a4e47c7",
@@ -153,6 +153,206 @@ window.newsData_2026_06_03 = {
       "fetched": "2026-06-03T01:06:30.690386+07:00"
     },
     {
+      "id": "f9bd4dd3842ce70bda8fbeaa377b4dea",
+      "title": "Tử vi ngày 3 tháng 6: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-3-thang-6-con-giap-nao-may-man-hom-nay-18526060221550535.htm",
+      "summary": "Tử vi ngày 3 tháng 6 mang đến những gợi ý tham khảo cho 12 con giáp. Điểm cần lưu ý là đừng để bản thân bị cuốn vào sự so sánh. Người khác có thể đi nhanh hơn, thành công hơn ở một thời điểm nào đó, nhưng mỗi người đều có nhịp riêng của mình. Tài lộc không chỉ phụ thuộc vào cơ hội, mà còn nằm ở việc...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-02T22:15:00+07:00",
+      "fetched": "2026-06-03T05:20:52.707324+07:00"
+    },
+    {
+      "id": "d8f6c7b98cc946d50a8514667bf57039",
+      "title": "Bước 'tiến hóa' mới của UAV tự sát Nga Geran khiến Ukraine lo lắng",
+      "link": "https://thanhnien.vn/buoc-tien-hoa-moi-cua-uav-tu-sat-nga-geran-khien-ukraine-lo-lang-185260602224840031.htm",
+      "summary": "Nga đang gia tăng đáng kể việc sử dụng máy bay không người lái (UAV) tấn công một chiều được điều khiển từ xa trong xung đột tại Ukraine.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-02T22:00:00+07:00",
+      "fetched": "2026-06-03T05:20:52.707442+07:00"
+    },
+    {
+      "id": "0ebaf9687eedc874424592efe381ca2a",
+      "title": "Tại sao cựu sếp SJC Lê Thúy Hằng không đồng ý nộp lại gần 11.000 lượng vàng?",
+      "link": "https://thanhnien.vn/tai-sao-cuu-sep-sjc-le-thuy-hang-khong-dong-y-nop-lai-gan-11000-luong-vang-185260602212719642.htm",
+      "summary": "Sáng 2.6.2026, Tòa phúc thẩm TAND tối cao tại TP.HCM mở phiên tòa phúc thẩm xét xử bà Lê Thúy Hằng (cựu Tổng giám đốc Công ty TNHH MTV Vàng bạc đá quý Sài Gòn - SJC) và các đồng phạm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-02T22:00:00+07:00",
+      "fetched": "2026-06-03T05:20:52.707544+07:00"
+    },
+    {
+      "id": "9d0f1ee5778f8261d84314c5df8a945f",
+      "title": "Chiến sự Ukraine ngày 1.560: Nga ồ ạt tấn công Kyiv, Ukraine tập kích mục tiêu Nga",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1560-nga-o-at-tan-cong-kyiv-ukraine-tap-kich-muc-tieu-nga-185260602205447126.htm",
+      "summary": "Nga tấn công thủ đô Kyiv và nhiều vùng khác của Ukraine với 73 tên lửa và hơn 600 máy bay không người lái, trong khi Ukraine tuyên bố có năng lực tấn công việc tiếp cận hậu cần quân sự của Nga trên hầu hết lãnh thổ do Nga kiểm soát.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-02T22:00:00+07:00",
+      "fetched": "2026-06-03T05:20:52.707643+07:00"
+    },
+    {
+      "id": "52821ac1a2a4219ef09ed8153d806a33",
+      "title": "Mùa dứa… đắng",
+      "link": "https://thanhnien.vn/mua-dua-dang-185260602194306174.htm",
+      "summary": "Dứa gai đang vào thời điểm thu hoạch nhưng giá dứa giảm mạnh cộng với ảnh hưởng của nắng nóng gay gắt khiến dứa bị nám, thối khiến nhiều gia đình trồng dứa ở tỉnh Thanh Hóa ngậm ngùi chịu thua lỗ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-02T22:00:00+07:00",
+      "fetched": "2026-06-03T05:20:52.707748+07:00"
+    },
+    {
+      "id": "0c5cf4a853bbe12dc86f793d852194c5",
+      "title": "Lợi ích không ngờ của kiwi không phải ai cũng biết",
+      "link": "https://thanhnien.vn/loi-ich-khong-ngo-cua-kiwi-khong-phai-ai-cung-biet-185260602141742335.htm",
+      "summary": "Theo EatingWell, có nhiều lợi ích không ngờ của kiwi, từ tăng cường miễn dịch đến cải thiện giấc ngủ và hỗ trợ tiêu hóa, nếu được sử dụng đúng cách và đều đặn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-02T22:00:00+07:00",
+      "fetched": "2026-06-03T05:20:52.707848+07:00"
+    },
+    {
+      "id": "fe9cc9b50ebd3d667c89db7215f7b617",
+      "title": "Lịch âm hôm nay ngày Hảo Thương: Ngày gì mà người Việt mong may mắn gõ cửa?",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-ngay-hao-thuong-ngay-gi-ma-nguoi-viet-mong-may-man-go-cua-185260531152418353.htm",
+      "summary": "Theo lịch vạn niên, lịch âm hôm nay 3.6 là ngày Hảo Thương. Theo quan niệm dân gian, đây là ngày gì mà người Việt mong gặp may mắn? Dương lịch hôm nay còn là ngày gì mà nhiều người quan tâm?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-02T22:00:00+07:00",
+      "fetched": "2026-06-03T05:20:52.707947+07:00"
+    },
+    {
+      "id": "8140321e149a9f9984fc611707efc619",
+      "title": "'AI chỉ là cớ để sa thải nhân viên'",
+      "link": "https://vnexpress.net/ai-chi-la-co-de-sa-thai-nhan-vien-5080923.html",
+      "summary": "CEO OpenAI Sam Altman cho rằng áp dụng AI không đồng nghĩa với việc cắt giảm việc làm, thay vào đó nhiều công ty đang tuyển thêm nhân lực.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-02T22:00:00+07:00",
+      "fetched": "2026-06-03T05:20:58.392585+07:00"
+    },
+    {
+      "id": "42a0c639a41d597574911da8c754cfb3",
+      "title": "Ronaldo bật chế độ chinh phục cúp vàng",
+      "link": "https://thanhnien.vn/ronaldo-bat-che-do-chinh-phuc-cup-vang-185260602204324788.htm",
+      "summary": "Messi đã đến tập trung và tập luyện cùng đội tuyển Argentina tại Mỹ, trong khi Ronaldo đến hôm qua (2.6) mới bật chế độ World Cup với thông điệp chiến dịch vô địch thế giới đã bắt đầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-02T21:57:00+07:00",
+      "fetched": "2026-06-03T05:20:52.708047+07:00"
+    },
+    {
+      "id": "1ab35723595e8c175e504f9f3547c6fa",
+      "title": "Ba vị trí trong tủ lạnh không nên cất giữ trứng",
+      "link": "https://vnexpress.net/ba-vi-tri-trong-tu-lanh-khong-nen-cat-giu-trung-5081151.html",
+      "summary": "Nhiều người đặt trứng ở cánh cửa tủ lạnh hoặc khay đựng riêng song cách này có thể ảnh hưởng đến độ tươi và chất lượng của trứng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-02T20:00:00+07:00",
+      "fetched": "2026-06-03T05:20:48.309863+07:00"
+    },
+    {
+      "id": "0ec88d9a5a029d1ca141d62afb39c76f",
+      "title": "Áp lực xử lý cả triệu tấn phế thải xây dựng ở Hà Nội",
+      "link": "https://vnexpress.net/ap-luc-xu-ly-ca-trieu-tan-phe-thai-xay-dung-o-ha-noi-5081256.html",
+      "summary": "Để xử lý lượng phế thải xây dựng khổng lồ, Hà Nội phải giải bài toán thiếu cơ sở chôn lấp, nghiền quy mô lớn; gỡ rào cản để doanh nghiệp mạnh dạn đầu tư tái chế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-02T19:11:36+07:00",
+      "fetched": "2026-06-03T05:20:48.309998+07:00"
+    },
+    {
+      "id": "b7374068554fc47c861d86706b328eb5",
+      "title": "New York cảnh báo về thử thách trèo nóc tàu điện",
+      "link": "https://vnexpress.net/new-york-canh-bao-ve-thu-thach-treo-noc-tau-dien-5081052.html",
+      "summary": "Số vụ người trẻ leo lên nóc tàu điện để quay video tại New York liên tục tăng trong vài năm qua, bất chấp cảnh báo từ giới chức thành phố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-02T19:00:00+07:00",
+      "fetched": "2026-06-03T05:20:48.310111+07:00"
+    },
+    {
+      "id": "b7374068554fc47c861d86706b328eb5",
+      "title": "New York cảnh báo về thử thách trèo nóc tàu điện",
+      "link": "https://vnexpress.net/new-york-canh-bao-ve-thu-thach-treo-noc-tau-dien-5081052.html",
+      "summary": "Số vụ người trẻ leo lên nóc tàu điện để quay video tại New York liên tục tăng trong vài năm qua, bất chấp cảnh báo từ giới chức thành phố.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-02T19:00:00+07:00",
+      "fetched": "2026-06-03T05:20:54.686822+07:00"
+    },
+    {
+      "id": "2381053ec8ad50d61cc62580a33d25ef",
+      "title": "Ngoại trưởng Mỹ nêu cách Lãnh tụ Tối cao Iran chỉ đạo 'từ bóng tối'",
+      "link": "https://vnexpress.net/ngoai-truong-my-neu-cach-lanh-tu-toi-cao-iran-chi-dao-tu-bong-toi-5081291.html",
+      "summary": "Ngoại trưởng Mỹ Rubio cho biết Lãnh tụ Tối cao Iran Mojtaba Khamenei còn sống và ngày càng tham gia tích cực hơn vào việc điều hành đất nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-02T18:54:34+07:00",
+      "fetched": "2026-06-03T05:20:48.310265+07:00"
+    },
+    {
+      "id": "2381053ec8ad50d61cc62580a33d25ef",
+      "title": "Ngoại trưởng Mỹ nêu cách Lãnh tụ Tối cao Iran chỉ đạo 'từ bóng tối'",
+      "link": "https://vnexpress.net/ngoai-truong-my-neu-cach-lanh-tu-toi-cao-iran-chi-dao-tu-bong-toi-5081291.html",
+      "summary": "Ngoại trưởng Mỹ Rubio cho biết Lãnh tụ Tối cao Iran Mojtaba Khamenei còn sống và ngày càng tham gia tích cực hơn vào việc điều hành đất nước.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-02T18:54:34+07:00",
+      "fetched": "2026-06-03T05:20:54.686945+07:00"
+    },
+    {
+      "id": "6a44b16f04e1227de27d50b4c763212d",
+      "title": "Google muốn thả 32 triệu con muỗi 'thiến' để diệt muỗi",
+      "link": "https://vnexpress.net/google-muon-tha-32-trieu-con-muoi-thien-de-diet-muoi-5081175.html",
+      "summary": "Google đề nghị chính phủ Mỹ cho phép thả 32 triệu con muỗi vô sinh tại California và Florida để giảm số lượng muỗi mang bệnh truyền nhiễm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-02T18:32:46+07:00",
+      "fetched": "2026-06-03T05:20:48.310382+07:00"
+    },
+    {
+      "id": "6a44b16f04e1227de27d50b4c763212d",
+      "title": "Google muốn thả 32 triệu con muỗi 'thiến' để diệt muỗi",
+      "link": "https://vnexpress.net/google-muon-tha-32-trieu-con-muoi-thien-de-diet-muoi-5081175.html",
+      "summary": "Google đề nghị chính phủ Mỹ cho phép thả 32 triệu con muỗi vô sinh tại California và Florida để giảm số lượng muỗi mang bệnh truyền nhiễm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-02T18:32:46+07:00",
+      "fetched": "2026-06-03T05:20:54.687054+07:00"
+    },
+    {
+      "id": "5643eb96cf6eaa7717f957d48ea15bd8",
+      "title": "Sự thật quan niệm 'đồng tính là vô sinh'",
+      "link": "https://vnexpress.net/su-that-quan-niem-dong-tinh-la-vo-sinh-5080802.html",
+      "summary": "Người đồng tính (LGBT) không đồng nghĩa vô sinh, nhiều trường hợp vẫn có thể sinh sản tự nhiên hoặc nhờ y học hiện đại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-02T18:00:00+07:00",
+      "fetched": "2026-06-03T05:20:48.310485+07:00"
+    },
+    {
+      "id": "fab97c0b74f15d5d3ea27073c80e6ce8",
+      "title": "Ảnh vệ tinh hé lộ hạn chế của Mỹ trong chiến dịch tập kích Iran",
+      "link": "https://vnexpress.net/anh-ve-tinh-he-lo-han-che-cua-my-trong-chien-dich-tap-kich-iran-5080387.html",
+      "summary": "Iran tiếp cận phần lớn căn cứ ngầm sau khi ngừng bắn, cho thấy chiến dịch không kích dữ dội của Mỹ có thể không đạt hiệu quả mong muốn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-02T18:00:00+07:00",
+      "fetched": "2026-06-03T05:20:48.310583+07:00"
+    },
+    {
+      "id": "fab97c0b74f15d5d3ea27073c80e6ce8",
+      "title": "Ảnh vệ tinh hé lộ hạn chế của Mỹ trong chiến dịch tập kích Iran",
+      "link": "https://vnexpress.net/anh-ve-tinh-he-lo-han-che-cua-my-trong-chien-dich-tap-kich-iran-5080387.html",
+      "summary": "Iran tiếp cận phần lớn căn cứ ngầm sau khi ngừng bắn, cho thấy chiến dịch không kích dữ dội của Mỹ có thể không đạt hiệu quả mong muốn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-02T18:00:00+07:00",
+      "fetched": "2026-06-03T05:20:54.687161+07:00"
+    },
+    {
       "id": "db9f1b46efecc3ac31cf68d618f74bf3",
       "title": "Phía sau vụ De Bryne công kích HLV Conte",
       "link": "https://vnexpress.net/phia-sau-vu-de-bryne-cong-kich-hlv-conte-5081219.html",
@@ -161,6 +361,16 @@ window.newsData_2026_06_03 = {
       "category": "Thể thao",
       "published": "2026-06-02T17:22:54+07:00",
       "fetched": "2026-06-03T01:06:40.993968+07:00"
+    },
+    {
+      "id": "7705691bb3b6a86cacee06220cb267fb",
+      "title": "Căn hộ 125 m2 giảm chi tiết để tăng trải nghiệm sống",
+      "link": "https://vnexpress.net/can-ho-125-m2-giam-chi-tiet-de-tang-trai-nghiem-song-5080985.html",
+      "summary": "Không gian được xử lý theo hướng tinh gọn và ít chi tiết, ưu tiên ánh sáng tự nhiên đáp ứng nhu cầu sinh hoạt lâu dài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-02T17:22:00+07:00",
+      "fetched": "2026-06-03T05:20:48.310787+07:00"
     },
     {
       "id": "ec91a72f250dd3daaf65c82a965cc600",
@@ -381,6 +591,16 @@ window.newsData_2026_06_03 = {
       "category": "Thể thao",
       "published": "2026-06-02T17:00:00+07:00",
       "fetched": "2026-06-03T01:06:40.994394+07:00"
+    },
+    {
+      "id": "ae097cdd9fec08d947f866d3fa1336fb",
+      "title": "Google muốn thả 32 triệu con muỗi đực tại Mỹ",
+      "link": "https://vnexpress.net/google-muon-tha-32-trieu-con-muoi-duc-tai-my-5081090.html",
+      "summary": "Google đề xuất thả 32 triệu muỗi đực mang vi khuẩn gây vô sinh tại California và Florida nhằm ngăn chúng sinh sản và cắt đứt nguồn truyền bệnh.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-02T17:00:00+07:00",
+      "fetched": "2026-06-03T05:20:58.392813+07:00"
     },
     {
       "id": "bdeeb180c826c82aa550b5d774c43f96",
