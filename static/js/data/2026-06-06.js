@@ -1,7 +1,17 @@
 window.newsData_2026_06_06 = {
   "date": "2026-06-06",
-  "lastUpdated": "2026-06-06T02:50:19.832029+07:00",
+  "lastUpdated": "2026-06-06T04:22:53.476887+07:00",
   "articles": [
+    {
+      "id": "f70eeae054bdebf9cdd618f3afe18807",
+      "title": "Thời tiết hôm nay 6-6: Nhiều khu vực nắng gay gắt, chiều tối mưa dông",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-6-6-nhieu-khu-vuc-nang-gay-gat-chieu-toi-mua-dong-20260605161527677.htm",
+      "summary": "Hôm nay 6-6, thời tiết cả nước ban ngày nắng, có lúc nhiều mây, chiều tối vài nơi mưa rào đến mưa to.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T04:22:46.134362+07:00",
+      "fetched": "2026-06-06T04:22:46.134572+07:00"
+    },
     {
       "id": "f2f43988cdca294919332bb271c759de",
       "title": "Cầu thủ U19 Indonesia bị cấm dùng mạng xã hội",
@@ -151,6 +161,46 @@ window.newsData_2026_06_06 = {
       "category": "Tổng hợp",
       "published": "2026-06-06T02:50:13.410576+07:00",
       "fetched": "2026-06-06T02:50:13.410795+07:00"
+    },
+    {
+      "id": "ad2936e35682fc58aa80e6573e5a4c88",
+      "title": "Người làm nội dung trên các nền tảng theo lĩnh vực chuyên môn hẹp sẽ dễ thành công hơn",
+      "link": "https://thanhnien.vn/nhung-nguoi-lam-noi-dung-tren-cac-nen-tang-theo-linh-vuc-chuyen-mon-hep-se-de-thanh-cong-hon-185260605224305591.htm",
+      "summary": "AI đang tạo ra hàng triệu nội dung mỗi ngày khiến người dùng internet bị bủa vây trong ma trận tin giả. Khi đó, nội dung gốc và niềm tin trở thành món hàng đắt giá.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-05T21:05:00+07:00",
+      "fetched": "2026-06-06T04:22:45.178011+07:00"
+    },
+    {
+      "id": "87c03c677eb8b0d3ac90ded49abaee74",
+      "title": "Vụ tai nạn và lời nhắc 'ra đường đừng cắm mặt vào điện thoại'",
+      "link": "https://vnexpress.net/vu-tai-nan-va-loi-nhac-ra-duong-dung-cam-mat-vao-dien-thoai-5082369.html",
+      "summary": "Đang bước trên hè và nói chuyện điện thoại thì người đàn ông nhận ra nguy hiểm khi hai ôtô đâm nhau lao tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-05T21:00:00+07:00",
+      "fetched": "2026-06-06T04:22:42.048822+07:00"
+    },
+    {
+      "id": "a098fcca8b8a3611789a0cf23b9aaddc",
+      "title": "Zverev đấu Cobolli ở chung kết Roland Garros",
+      "link": "https://vnexpress.net/zverev-dau-cobolli-o-chung-ket-roland-garros-5082569.html",
+      "summary": "Hạt giống số hai Alexander Zverev đứng trước cơ hội giành Grand Slam đầu tiên, khi hạ Jakub Mensik 7-5, 6-2, 3-6, 6-3 ở bán kết Roland Garros hôm 5/6.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-05T20:18:23+07:00",
+      "fetched": "2026-06-06T04:22:42.049000+07:00"
+    },
+    {
+      "id": "a098fcca8b8a3611789a0cf23b9aaddc",
+      "title": "Zverev đấu Cobolli ở chung kết Roland Garros",
+      "link": "https://vnexpress.net/zverev-dau-cobolli-o-chung-ket-roland-garros-5082569.html",
+      "summary": "Hạt giống số hai Alexander Zverev đứng trước cơ hội giành Grand Slam đầu tiên, khi hạ Jakub Mensik 7-5, 6-2, 3-6, 6-3 ở bán kết Roland Garros hôm 5/6.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-05T20:18:23+07:00",
+      "fetched": "2026-06-06T04:22:53.472421+07:00"
     },
     {
       "id": "644d18eb14b8d43b9c47f8e6a61339fc",
