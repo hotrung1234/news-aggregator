@@ -1,6 +1,6 @@
 window.newsData_2026_06_06 = {
   "date": "2026-06-06",
-  "lastUpdated": "2026-06-06T04:22:53.476887+07:00",
+  "lastUpdated": "2026-06-06T06:05:11.723550+07:00",
   "articles": [
     {
       "id": "f70eeae054bdebf9cdd618f3afe18807",
@@ -161,6 +161,206 @@ window.newsData_2026_06_06 = {
       "category": "Tổng hợp",
       "published": "2026-06-06T02:50:13.410576+07:00",
       "fetched": "2026-06-06T02:50:13.410795+07:00"
+    },
+    {
+      "id": "10d8042d8408b8368f4040cb00a2d959",
+      "title": "Thách thức mới cho doanh nghiệp xuất khẩu",
+      "link": "https://thanhnien.vn/thach-thuc-moi-cho-doanh-nghiep-xuat-khau-185260605215056088.htm",
+      "summary": "Văn phòng Đại diện Thương mại Mỹ (USTR) vừa công bố kết luận điều tra theo mục 301 của Đạo luật Thương mại năm 1974, cho rằng 60 nền kinh tế, trong đó có VN không áp dụng hoặc thực thi hiệu quả lệnh cấm nhập khẩu hàng hóa được sản xuất bằng lao động cưỡng bức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-05T23:00:00+07:00",
+      "fetched": "2026-06-06T06:05:05.631224+07:00"
+    },
+    {
+      "id": "cf164f0e026383696e9d710b8819bc29",
+      "title": "Vinpearl ra mắt thương hiệu khách sạn siêu sang tôn vinh bản sắc Việt",
+      "link": "https://thanhnien.vn/vinpearl-ra-mat-thuong-hieu-khach-san-sieu-sang-ton-vinh-ban-sac-viet-185260605214758979.htm",
+      "summary": "Ngày 5.6 tại Hà Nội, Vinpearl công bố ra mắt Vinpearl Legendlux - thương hiệu khách sạn 6 sao mang tinh thần Việt độc bản dành cho cộng đồng tinh hoa thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-05T23:00:00+07:00",
+      "fetched": "2026-06-06T06:05:05.631344+07:00"
+    },
+    {
+      "id": "2d5f9ed4aa44afb77e3c4e688d84aa0f",
+      "title": "Phân nhóm người nộp thuế theo mức độ rủi ro",
+      "link": "https://thanhnien.vn/phan-nhom-nguoi-nop-thue-theo-muc-do-rui-ro-185260605210837694.htm",
+      "summary": "Người nộp thuế sẽ được phân thành 3 nhóm về mức độ rủi ro với biện pháp quản lý theo từng nhóm riêng biệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-05T23:00:00+07:00",
+      "fetched": "2026-06-06T06:05:05.631449+07:00"
+    },
+    {
+      "id": "8e33fa545170f7520dfc59ef216faf5a",
+      "title": "Những công trình định hình tầm vóc TP.HCM trong kỷ nguyên mới",
+      "link": "https://thanhnien.vn/nhung-cong-trinh-dinh-hinh-tam-voc-tphcm-trong-ky-nguyen-moi-185260605205612113.htm",
+      "summary": "Chỉ chưa đầy 1 tháng nữa, TP.HCM sẽ đón cột mốc lịch sử kỷ niệm 50 năm ngày thành phố Sài Gòn - Gia Định được mang tên Chủ tịch Hồ Chí Minh vĩ đại. Đây cũng là thời điểm ngành xây dựng ghi dấu ấn trong kỷ nguyên mới bằng một \"chiến dịch\" tổng lực: đồng loạt bấm nút khởi công 10 siêu dự án trọng điểm...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-05T23:00:00+07:00",
+      "fetched": "2026-06-06T06:05:05.631550+07:00"
+    },
+    {
+      "id": "9a4c05e600b811fb5cda927ffe2c26ac",
+      "title": "Thượng viện Mỹ trắng đêm giải quyết ngân sách di trú",
+      "link": "https://thanhnien.vn/thuong-vien-my-trang-dem-giai-quyet-ngan-sach-di-tru-185260605202757363.htm",
+      "summary": "Cuộc bỏ phiếu tưởng chừng đơn giản với đảng Cộng hòa lại mất nhiều thời gian, do đụng chạm những chính sách gây tranh cãi của chính quyền Tổng thống Donald Trump.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-05T23:00:00+07:00",
+      "fetched": "2026-06-06T06:05:05.631663+07:00"
+    },
+    {
+      "id": "26265e914118d5ca1daf6eefe90205f4",
+      "title": "Mở ra giai đoạn phát triển mới cho phong trào thanh niên cả nước",
+      "link": "https://thanhnien.vn/mo-ra-giai-doan-phat-trien-moi-cho-phong-trao-thanh-nien-ca-nuoc-185260605195941004.htm",
+      "summary": "Nhân dịp Đại hội Đoàn toàn quốc lần thứ XIII, Báo Thanh Niên có cuộc trao đổi với ông Hà Quang Dự, nguyên Ủy viên T.Ư Đảng, nguyên Bí thư thứ nhất T.Ư Đoàn, nguyên Bộ trưởng, Chủ nhiệm Ủy ban Thể dục thể thao, về vai trò của thanh niên trong giai đoạn phát triển mới của đất nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-05T23:00:00+07:00",
+      "fetched": "2026-06-06T06:05:05.631762+07:00"
+    },
+    {
+      "id": "474cc8498c25e0b2de0b35b1bd5b0dd6",
+      "title": "Có nên công khai chủ 'doanh nghiệp ma'?",
+      "link": "https://thanhnien.vn/co-nen-cong-khai-chu-doanh-nghiep-ma-185260605183120142.htm",
+      "summary": "Đề xuất công khai danh tính chủ sở hữu doanh nghiệp, người đại diện theo pháp luật hoặc chủ hộ kinh doanh được Bộ Tài chính đưa ra trong dự thảo nghị định hướng dẫn luật Quản lý thuế 2025 nhận về nhiều ý kiến trái chiều.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-05T23:00:00+07:00",
+      "fetched": "2026-06-06T06:05:05.631864+07:00"
+    },
+    {
+      "id": "9adad903008f5da3bd4461b108d59e44",
+      "title": "Thời tiết mưa nắng thất thường, vì sao?",
+      "link": "https://thanhnien.vn/thoi-tiet-mua-nang-that-thuong-vi-sao-1852606051829279.htm",
+      "summary": "Thời tiết miền Bắc những ngày qua diễn biến thất thường khi vừa nắng nóng diện rộng lại có mưa giông nhiều nơi và mưa lớn cục bộ, kèm theo nguy cơ lũ quét, sạt lở đất. Trong những ngày cuối tuần này và đầu tuần sau, vẫn sẽ tiếp tục tình trạng mưa nắng thất thường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-05T23:00:00+07:00",
+      "fetched": "2026-06-06T06:05:05.631957+07:00"
+    },
+    {
+      "id": "5ef0aa86af74314414ba12326bf4ee5d",
+      "title": "Khó khăn rồi cũng qua đi",
+      "link": "https://thanhnien.vn/kho-khan-roi-cung-qua-di-185260605085140172.htm",
+      "summary": "Những năm đầu đất nước vừa thống nhất, với bao khó khăn, gian khổ. Và điện, thứ cần thiết hằng ngày, hằng giờ trong cuộc sống, sinh hoạt, sản xuất… cũng gặp không biết bao khó khăn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-05T23:00:00+07:00",
+      "fetched": "2026-06-06T06:05:05.632049+07:00"
+    },
+    {
+      "id": "42cf45e7cfdc8aa48731bea433ad32d7",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 6.6.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-662026-185260605230919609.htm",
+      "summary": "Tin tức Những công trình định hình tầm vóc TP.HCM trong kỷ nguyên mới; Thời tiết mưa nắng thất thường, vì sao?; Bóc trần đường dây đẻ thuê xuyên biên giới: Bên trong \"lò\" nuôi phụ nữ… có thể đón xem trên Báo Thanh Niên số ra ngày 6.6.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-05T22:58:00+07:00",
+      "fetched": "2026-06-06T06:05:05.632141+07:00"
+    },
+    {
+      "id": "57c3ab510cc8b617273ad369a73bcd92",
+      "title": "Bóc trần đường dây đẻ thuê xuyên biên giới: Bên trong 'lò' nuôi phụ nữ",
+      "link": "https://thanhnien.vn/boc-tran-duong-day-de-thue-xuyen-bien-gioi-ben-trong-lo-nuoi-phu-nu-185260605213038166.htm",
+      "summary": "Phía sau lời hứa 'bao nuôi' là cuộc sống bị kiểm soát gần như tuyệt đối và các thai phụ phải phó mặc cơ thể cho đường dây đẻ thuê. Từ bên trong, PV Thanh Niên dần bóc tách những mắt xích của nhóm này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-05T22:57:00+07:00",
+      "fetched": "2026-06-06T06:05:05.632233+07:00"
+    },
+    {
+      "id": "71aea59c07ebb228c0180779c20330cf",
+      "title": "Cấm quay clip bạo lực: Mối trăn trở kép",
+      "link": "https://thanhnien.vn/cam-quay-clip-bao-luc-moi-tran-tro-kep-185260605210019319.htm",
+      "summary": "Thoạt nghe, chỉ đạo mới của Bộ GD-ĐT yêu cầu \"không quay phim, chụp ảnh, phát tán clip bạo lực lên mạng xã hội\" tưởng như đơn giản, nhưng lại mở ra một mối trăn trở kép.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-05T22:50:00+07:00",
+      "fetched": "2026-06-06T06:05:05.632326+07:00"
+    },
+    {
+      "id": "e1d1d530eaec2e66180c628bd500772c",
+      "title": "VN bứt phá bằng KH-CN: Tăng tốc đào tạo các ngành công nghệ mới",
+      "link": "https://thanhnien.vn/vn-but-pha-bang-kh-cn-tang-toc-dao-tao-cac-nganh-cong-nghe-moi-185260605171743626.htm",
+      "summary": "Bên cạnh khoa học cơ bản, để VN bứt phá, vượt qua bẫy thu nhập trung bình và bước vào kỷ nguyên vươn mình của dân tộc thì phải tập trung chiến lược phát triển các ngành công nghệ mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-05T22:45:00+07:00",
+      "fetched": "2026-06-06T06:05:05.632419+07:00"
+    },
+    {
+      "id": "6072499e4fd2d1048b6f56d90bbab09c",
+      "title": "Anthropic kêu gọi ngừng phát triển AI trên toàn cầu",
+      "link": "https://thanhnien.vn/anthropic-keu-goi-ngung-phat-trien-ai-tren-toan-cau-185260605150630881.htm",
+      "summary": "AFP hôm qua đưa tin hãng công nghệ Anthropic (trụ sở TP.San Francisco, California, Mỹ) đề nghị ngừng xây dựng các hệ thống trí tuệ nhân tạo (AI) mạnh mẽ trên phạm vi toàn cầu. Lời kêu gọi này được đưa ra trong bối cảnh các mô hình mới nhất đang bắt đầu xuất hiện những dấu hiệu cho thấy chúng có thể ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-05T22:45:00+07:00",
+      "fetched": "2026-06-06T06:05:05.632512+07:00"
+    },
+    {
+      "id": "35caedb546df768f7b47caa4382b4d7a",
+      "title": "Hào quang kỳ ảo bao quanh tượng Phật núi Bà Đen, hiện tượng gì?",
+      "link": "https://thanhnien.vn/hao-quang-ky-ao-bao-quanh-tuong-phat-nui-ba-den-hien-tuong-gi-185260605134132124.htm",
+      "summary": "Mới đây, hình ảnh một vầng hào quang kỳ ảo, nhiều màu sắc như cầu vồng bao quanh lấy tượng Phật trên đỉnh núi Bà Đen khiến nhiều người tò mò, thích thú chia sẻ. Khoa học lý giải thế nào về hiện tượng này?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-05T22:45:00+07:00",
+      "fetched": "2026-06-06T06:05:05.632621+07:00"
+    },
+    {
+      "id": "68fbc91ee2a1a31acdb55837ecaad897",
+      "title": "Metro Thủ Dầu Một - TP HCM có thể được làm sớm hơn 5 năm",
+      "link": "https://vnexpress.net/metro-thu-dau-mot-tp-hcm-co-the-duoc-lam-som-hon-5-nam-5082495.html",
+      "summary": "TP HCM đề xuất khởi công tuyến metro Thủ Dầu Một - trung tâm thành phố cuối năm nay, hoàn thành năm 2030, sớm hơn 5 năm so với kế hoạch ban đầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-05T22:00:00+07:00",
+      "fetched": "2026-06-06T06:05:03.369661+07:00"
+    },
+    {
+      "id": "4b0f2869f14b0b04bb4719931511ace4",
+      "title": "Tính toán của Iran khi phóng tên lửa, UAV vào Kuwait",
+      "link": "https://vnexpress.net/tinh-toan-cua-iran-khi-phong-ten-lua-uav-vao-kuwait-5082176.html",
+      "summary": "Liên tiếp tập kích Kuwait, Tehran dường như muốn gửi thông điệp rằng mọi đòn đánh của Mỹ vào lãnh thổ Iran đều sẽ khiến vùng Vịnh phải hứng chịu hỗn loạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-05T22:00:00+07:00",
+      "fetched": "2026-06-06T06:05:03.369801+07:00"
+    },
+    {
+      "id": "0ca7d4fc8a483b1560ecc9221f1e144d",
+      "title": "6 việc nên làm mỗi sáng hỗ trợ ổn định huyết áp",
+      "link": "https://vnexpress.net/6-viec-nen-lam-moi-sang-ho-tro-on-dinh-huyet-ap-5082027.html",
+      "summary": "Thức dậy đúng giờ, ăn sáng lành mạnh hay dành vài phút vận động là những thói quen đơn giản có thể hỗ trợ kiểm soát huyết áp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-05T22:00:00+07:00",
+      "fetched": "2026-06-06T06:05:03.369913+07:00"
+    },
+    {
+      "id": "5d95313b6020f1920fc59fde54e483b8",
+      "title": "Biệt thự cổ miền Tây loay hoay 'tìm đường sống'",
+      "link": "https://vnexpress.net/biet-thu-co-mien-tay-loay-hoay-tim-duong-song-5081923.html",
+      "summary": "Trong hàng trăm dinh thự cổ, chỉ một số căn được trùng tu bài bản, kết hợp làm du lịch giúp người dân có thu nhập ổn định để bảo tồn hiệu quả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-05T22:00:00+07:00",
+      "fetched": "2026-06-06T06:05:03.370017+07:00"
+    },
+    {
+      "id": "4b0f2869f14b0b04bb4719931511ace4",
+      "title": "Tính toán của Iran khi phóng tên lửa, UAV vào Kuwait",
+      "link": "https://vnexpress.net/tinh-toan-cua-iran-khi-phong-ten-lua-uav-vao-kuwait-5082176.html",
+      "summary": "Liên tiếp tập kích Kuwait, Tehran dường như muốn gửi thông điệp rằng mọi đòn đánh của Mỹ vào lãnh thổ Iran đều sẽ khiến vùng Vịnh phải hứng chịu hỗn loạn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-05T22:00:00+07:00",
+      "fetched": "2026-06-06T06:05:07.339543+07:00"
     },
     {
       "id": "ad2936e35682fc58aa80e6573e5a4c88",
