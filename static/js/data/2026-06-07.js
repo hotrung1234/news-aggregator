@@ -1,7 +1,37 @@
 window.newsData_2026_06_07 = {
   "date": "2026-06-07",
-  "lastUpdated": "2026-06-07T00:09:27.978753+07:00",
+  "lastUpdated": "2026-06-07T02:17:24.677108+07:00",
   "articles": [
+    {
+      "id": "9de0e82fc1fcbe1dc86e1bef893180b7",
+      "title": "Đội Việt Nam và Pháp kể chuyện di sản bằng pháo hoa trên sông Hàn",
+      "link": "https://tuoitre.vn/doi-viet-nam-va-phap-ke-chuyen-di-san-bang-phao-hoa-tren-song-han-20260606155234612.htm",
+      "summary": "Tối 6-6, đêm thi thứ hai của Lễ hội Pháo hoa quốc tế (DIFF) Đà Nẵng 2026 với chủ đề \"Di sản\" đã mang đến cho hàng vạn khán giả bên sông Hàn một đại tiệc ánh sáng đầy cảm xúc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T02:17:16.249807+07:00",
+      "fetched": "2026-06-07T02:17:16.249909+07:00"
+    },
+    {
+      "id": "c6150e3b5b8ef3e0fefd93763ee8802f",
+      "title": "Bác sĩ Mỹ nhiễm Ebola tại Congo xuất viện",
+      "link": "https://tuoitre.vn/bac-si-my-nhiem-ebola-tai-congo-xuat-vien-2026060623070087.htm",
+      "summary": "Công dân Mỹ nhiễm vi rút Ebola tại Cộng hòa dân chủ Congo (DRC) đã được xuất viện sau 17 ngày điều trị tại Bệnh viện Charité, Đức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T02:17:16.249679+07:00",
+      "fetched": "2026-06-07T02:17:16.249797+07:00"
+    },
+    {
+      "id": "b04e8684275b63a1511f88ee0347dcc6",
+      "title": "Xem đặc vụ Việt Nam cùng robot đặc nhiệm nổ súng trấn áp khủng bố",
+      "link": "https://tuoitre.vn/xem-dac-vu-viet-nam-cung-robot-dac-nhiem-no-sung-tran-ap-khung-bo-20260606225604.htm",
+      "summary": "Người dân và du khách chứng kiến cảnh robot đặc nhiệm của Bộ Công an nổ súng trấn áp khủng bố trong tình huống giả định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T02:17:16.249442+07:00",
+      "fetched": "2026-06-07T02:17:16.249666+07:00"
+    },
     {
       "id": "1af3462ed0ad9383c3ed14c5630b2c10",
       "title": "Công Phượng nói gì khi trở lại V-League?",
@@ -153,6 +183,96 @@ window.newsData_2026_06_07 = {
       "fetched": "2026-06-07T00:09:22.732918+07:00"
     },
     {
+      "id": "aa6689876df5ea6ec7b89a6f8054c9d8",
+      "title": "5 món nên ăn sau tuổi 40 giúp xương chắc khỏe",
+      "link": "https://vnexpress.net/5-mon-nen-an-sau-tuoi-40-giup-xuong-chac-khoe-5082019.html",
+      "summary": "Ăn sữa chua, đậu phụ và cá hồi thường xuyên có thể hỗ trợ duy trì mật độ xương và giảm nguy cơ loãng xương, gãy xương sau tuổi 40.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T18:00:00+07:00",
+      "fetched": "2026-06-07T02:17:11.682098+07:00"
+    },
+    {
+      "id": "4b872eca6ddebae86720bff90d9bb975",
+      "title": "Việt Nam, Pháp 'vẽ bức tranh di sản' bằng ánh sáng trên sông Hàn",
+      "link": "https://vnexpress.net/viet-nam-phap-ve-buc-tranh-di-san-bang-anh-sang-tren-song-han-5082806.html",
+      "summary": "Tối 6/6, bầu trời sông Hàn rực sáng với màn trình diễn của hai đội Pháp và Việt Nam 2 trong đêm thi thứ hai của Lễ hội pháo hoa quốc tế Đà Nẵng 2026 mang chủ đề \"Di sản\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T17:21:55+07:00",
+      "fetched": "2026-06-07T02:17:11.682262+07:00"
+    },
+    {
+      "id": "7a16b2c537756dbefe038cd3f1ed8c17",
+      "title": "Hàng trăm ha rừng tràm Vườn quốc gia U Minh Hạ suy kiệt",
+      "link": "https://vnexpress.net/hang-tram-ha-rung-tram-vuon-quoc-gia-u-minh-ha-suy-kiet-5082766.html",
+      "summary": "Khoảng 300 ha rừng tràm ở Vườn quốc gia U Minh Hạ bị suy giảm nghiêm trọng, nhiều cây chết, đổ ngã, nguy cơ chuyển sang hệ sinh thái khác nếu không được phục hồi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T17:15:00+07:00",
+      "fetched": "2026-06-07T02:17:11.682401+07:00"
+    },
+    {
+      "id": "f2f600086cffc8da03f0493b32efb9d5",
+      "title": "Bác sĩ mách: Ngừa ung thư bằng ăn cơm nhà, tập ngồi xổm",
+      "link": "https://thanhnien.vn/bac-si-mach-ngua-ung-thu-bang-an-com-nha-tap-ngoi-xom-185260606215407794.htm",
+      "summary": "Ung thư là một trong những nguyên nhân gây tử vong hàng đầu trên thế giới. Theo các bác sĩ ung thư, nhiều thói quen hằng ngày có thể góp phần làm giảm nguy cơ mắc bệnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T17:15:00+07:00",
+      "fetched": "2026-06-07T02:17:15.087367+07:00"
+    },
+    {
+      "id": "e1ef5923ac2b284cda0bb7e80e1495f7",
+      "title": "Đều chứa đường, vì sao trái cây vẫn được khuyến khích còn nước ngọt thì không?",
+      "link": "https://thanhnien.vn/deu-chua-duong-vi-sao-trai-cay-van-duoc-khuyen-khich-con-nuoc-ngot-thi-khong-185260606141810331.htm",
+      "summary": "Trái cây ngọt và nước ngọt đều chứa nhiều đường, nhưng cơ thể xử lý chúng theo những cách rất khác nhau. Vì vậy, tác động đến đường huyết và sức khỏe cũng không giống nhau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T17:11:00+07:00",
+      "fetched": "2026-06-07T02:17:15.087534+07:00"
+    },
+    {
+      "id": "bca1eb6a656ad44f2ee2d773a953b6a8",
+      "title": "4 nhóm cơ khỏe hơn nhờ đi bộ",
+      "link": "https://vnexpress.net/4-nhom-co-khoe-hon-nho-di-bo-5081645.html",
+      "summary": "Đi bộ giúp tăng cường các nhóm cơ mắt cá chân, đầu gối, hông và cơ bụng, từ đó thúc đẩy sức khỏe tổng thể.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T17:05:00+07:00",
+      "fetched": "2026-06-07T02:17:11.682566+07:00"
+    },
+    {
+      "id": "722d54f9a913a7c8ac6e3c582ef5aa61",
+      "title": "Khu chung cư thiết kế cắt vát 'ôm' lấy thung lũng xanh",
+      "link": "https://vnexpress.net/khu-chung-cu-thiet-ke-cat-vat-om-lay-thung-lung-xanh-5082547.html",
+      "summary": "Công trình tổ chức 70 căn hộ bao quanh sân trong hình tròn, phủ cây từ tầng trệt lên đến các tầng cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T17:02:00+07:00",
+      "fetched": "2026-06-07T02:17:11.682706+07:00"
+    },
+    {
+      "id": "e49f9cb27c7feec37a9b9098874a42df",
+      "title": "4 con giáp gia tăng mạnh về tài lộc vào cuối tuần",
+      "link": "https://vnexpress.net/van-may-12-con-giap-con-giap-may-man-hom-nay-4-con-giap-gia-tang-manh-ve-tai-loc-vao-cuoi-tuan-5082411.html",
+      "summary": "Điểm chung của các con giáp này là tư duy linh hoạt và khả năng nắm bắt thời điểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T17:02:00+07:00",
+      "fetched": "2026-06-07T02:17:11.682834+07:00"
+    },
+    {
+      "id": "94128fe97f9ecba72587e4a0bf5cca77",
+      "title": "Paget sinh dục – dạng ung thư dễ bị bỏ sót",
+      "link": "https://vnexpress.net/paget-sinh-duc-dang-ung-thu-de-bi-bo-sot-5080755.html",
+      "summary": "Paget sinh dục là một dạng ung thư biểu mô tuyến tiến triển chậm và dễ bị nhầm lẫn với các bệnh da liễu thông thường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T17:02:00+07:00",
+      "fetched": "2026-06-07T02:17:11.682968+07:00"
+    },
+    {
       "id": "ce750ca5f48116058517621d180ca20f",
       "title": "Lịch thi đấu vòng cuối V-League hôm nay: Sẽ hạ màn kịch tính chưa từng thấy",
       "link": "https://thanhnien.vn/lich-thi-dau-vong-cuoi-v-league-hom-nay-se-ha-man-kich-tinh-chua-tung-thay-185260606214745265.htm",
@@ -171,6 +291,126 @@ window.newsData_2026_06_07 = {
       "category": "Công nghệ",
       "published": "2026-06-06T17:00:00+07:00",
       "fetched": "2026-06-07T00:09:26.729241+07:00"
+    },
+    {
+      "id": "caef87767626d6437058cbdef25db9ec",
+      "title": "52 tuổi tiền tiêu không hết nhưng tôi chừa từng nghĩ đến nghỉ hưu sớm",
+      "link": "https://vnexpress.net/52-tuoi-tien-tieu-khong-het-nhung-toi-chua-tung-nghi-den-nghi-huu-som-5082741.html",
+      "summary": "Tôi không hiểu vì sao nhiều người xem nghỉ hưu sớm là mục tiêu bắt buộc của cuộc đời?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T17:00:00+07:00",
+      "fetched": "2026-06-07T02:17:11.683093+07:00"
+    },
+    {
+      "id": "05029091c4800acd43390aada731681c",
+      "title": "Vợ có nhiều mặt không tốt",
+      "link": "https://vnexpress.net/vo-co-nhieu-mat-khong-tot-5082712.html",
+      "summary": "Sinh xong một thời gian, vợ ít nói chuyện hơn, dễ cáu gắt, không còn quan tâm việc nhà, những chuyện nhỏ nhặt cũng khiến vợ nổi nóng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T17:00:00+07:00",
+      "fetched": "2026-06-07T02:17:11.683213+07:00"
+    },
+    {
+      "id": "2d8ff0fb4c8cae220c5f19a80a0cffb3",
+      "title": "Từ đường 145 tuổi trong bệnh viện ở TP HCM sau trùng tu",
+      "link": "https://vnexpress.net/tu-duong-145-tuoi-trong-benh-vien-o-tp-hcm-sau-trung-tu-5082379.html",
+      "summary": "Từ đường của người Triều Châu ở Chợ Lớn trong khuôn viên bệnh viện An Bình mang diện mạo mới, đậm nét kiến trúc người Hoa sau khi trùng tu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T17:00:00+07:00",
+      "fetched": "2026-06-07T02:17:11.683338+07:00"
+    },
+    {
+      "id": "b242e4a2202b7f909be209c8ba0f1aa8",
+      "title": "Người chú 'siêu thiên tài' của ông Trump",
+      "link": "https://vnexpress.net/nguoi-chu-sieu-thien-tai-cua-ong-trump-5082366.html",
+      "summary": "Vượt xa lời ca ngợi của cháu trai Donald Trump, John Trump thực sự là \"siêu thiên tài\" với những đóng góp quan trọng cho ngành khoa học và quân sự Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T17:00:00+07:00",
+      "fetched": "2026-06-07T02:17:11.683477+07:00"
+    },
+    {
+      "id": "2b451f2679d6cd6a97e0e6c8cb253eb2",
+      "title": "Bí ẩn người đàn ông bỏ chạy khỏi sân bay rồi biến mất suốt 12 năm",
+      "link": "https://vnexpress.net/bi-an-nguoi-dan-ong-bo-chay-khoi-san-bay-roi-bien-mat-suot-12-nam-5081033.html",
+      "summary": "Kỳ nghỉ hè cùng bạn bè bên bờ Biển Đen năm 2014 của Lars Mittank khép lại bằng cuộc bỏ chạy khỏi sân bay và vụ mất tích chưa có lời giải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T17:00:00+07:00",
+      "fetched": "2026-06-07T02:17:11.683739+07:00"
+    },
+    {
+      "id": "87e12ecdd08a3a9b39f3528ac2ec4d9a",
+      "title": "Nóng không nguội nổi",
+      "link": "https://vnexpress.net/nong-khong-nguoi-noi-5079876.html",
+      "summary": "Tôi vẫn nhớ những mùa hè thập niên 1980 ở Hà Nội. Ngày nắng nóng, nhưng đêm muộn có gió hồ, gió sông len lỏi qua hành lang trống giữa các nhà tập thể cũ. Thời bao cấp không mấy ai có điều hòa, nhưng dù mất điện, lên giường phe phẩy quạt nan vài phút là ngủ được.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T17:00:00+07:00",
+      "fetched": "2026-06-07T02:17:11.683865+07:00"
+    },
+    {
+      "id": "ccbb3c00cfc6f4c7bfbc3401b08d78c9",
+      "title": "Nỗ lực vươn ra quốc tế của Sơn Tùng M-TP",
+      "link": "https://vnexpress.net/no-luc-vuon-ra-quoc-te-cua-son-tung-m-tp-5079739.html",
+      "summary": "Hát tiếng Anh hay hợp tác nghệ sĩ nước ngoài trong các ca khúc \"Come My Way\", \"Hãy trao cho anh\", Sơn Tùng M-TP cho thấy mục tiêu hướng ra quốc tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-06T17:00:00+07:00",
+      "fetched": "2026-06-07T02:17:11.683993+07:00"
+    },
+    {
+      "id": "b242e4a2202b7f909be209c8ba0f1aa8",
+      "title": "Người chú 'siêu thiên tài' của ông Trump",
+      "link": "https://vnexpress.net/nguoi-chu-sieu-thien-tai-cua-ong-trump-5082366.html",
+      "summary": "Vượt xa lời ca ngợi của cháu trai Donald Trump, John Trump thực sự là \"siêu thiên tài\" với những đóng góp quan trọng cho ngành khoa học và quân sự Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-06T17:00:00+07:00",
+      "fetched": "2026-06-07T02:17:18.143965+07:00"
+    },
+    {
+      "id": "6a6473786c966709a5fe774bfdec2bee",
+      "title": "Ngoại hạng Anh kiếm tiền nhiều nhất từ cầu thủ dự World Cup 2026",
+      "link": "https://vnexpress.net/ngoai-hang-anh-kiem-tien-nhieu-nhat-tu-cau-thu-du-world-cup-2026-5082796.html",
+      "summary": "Ngoại hạng Anh đóng góp số lượng cầu thủ nhiều nhất tại World Cup 2026, nhờ đó hưởng lợi từ hệ thống bồi thường mở rộng của FIFA.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-06T17:00:00+07:00",
+      "fetched": "2026-06-07T02:17:24.672359+07:00"
+    },
+    {
+      "id": "b8c6be338aac2e2d8abf8edcf86f2258",
+      "title": "Tuyển Na Uy bị chỉ trích vì bộ ảnh phong cách Viking",
+      "link": "https://vnexpress.net/tuyen-na-uy-bi-chi-trich-vi-bo-anh-phong-cach-viking-5082787.html",
+      "summary": "Bộ ảnh hóa thân thành chiến binh Viking của tuyển Na Uy trước thềm World Cup 2026 bị chỉ trích dễ gợi liên tưởng đến chủ nghĩa dân tộc cực đoan và các biểu tượng từng bị những nhóm cực hữu sử dụng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-06T17:00:00+07:00",
+      "fetched": "2026-06-07T02:17:24.672536+07:00"
+    },
+    {
+      "id": "f3f4f8940ee549d9aa4a68b74ac6b324",
+      "title": "Giáo án đặc biệt cho Emiliano Martinez trước World Cup 2026",
+      "link": "https://vnexpress.net/giao-an-dac-biet-cho-emiliano-martinez-truoc-world-cup-2026-5082718.html",
+      "summary": "Sau chấn thương trong trận chung kết Europa League ngày 21/5, thủ môn Argentina Emiliano Martinez đang được chăm sóc theo giáo án đặc biệt để có thể kịp bắt trận ra quân gặp Algeria.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-06T17:00:00+07:00",
+      "fetched": "2026-06-07T02:17:24.672677+07:00"
+    },
+    {
+      "id": "b9a3768cf305a6ea5acbd4745b841dd2",
+      "title": "Pháp sở hữu đội hình đắt giá nhất World Cup 2026",
+      "link": "https://vnexpress.net/phap-so-huu-doi-hinh-dat-gia-nhat-world-cup-2026-5082695.html",
+      "summary": "26 tuyển thủ Pháp có giá thị trường gần gấp đôi đương kim vô địch Argentina, tính đến trước thời điểm diễn ra World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-06T17:00:00+07:00",
+      "fetched": "2026-06-07T02:17:24.672808+07:00"
     },
     {
       "id": "500065bcfe328ee9c43d6bc42e4a274a",
