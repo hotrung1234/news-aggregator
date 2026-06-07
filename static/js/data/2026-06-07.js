@@ -1,7 +1,517 @@
 window.newsData_2026_06_07 = {
   "date": "2026-06-07",
-  "lastUpdated": "2026-06-07T05:59:48.058468+07:00",
+  "lastUpdated": "2026-06-07T10:35:08.094840+07:00",
   "articles": [
+    {
+      "id": "2965fa440d629aa26dc95eaf2453730e",
+      "title": "Lễ hội Tài chính số 2026 hút khách với loạt trải nghiệm công nghệ tài chính tương lai",
+      "link": "https://tuoitre.vn/le-hoi-tai-chinh-so-2026-hut-khach-voi-loat-trai-nghiem-cong-nghe-tai-chinh-tuong-lai-20260607074732047.htm",
+      "summary": "Từ AI dự đoán hình ảnh tương lai, thanh toán bằng lòng bàn tay đến hệ sinh thái tài chính số thông minh, Fintech Zone mang đến bầu không khí sôi động suốt ngày đầu diễn ra lễ hội",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T10:35:00.765307+07:00",
+      "fetched": "2026-06-07T10:35:00.765396+07:00"
+    },
+    {
+      "id": "4001f6796f2b533b0f84b48d5f5538ae",
+      "title": "Tìm lời giải phát triển thanh toán thông minh trong kỷ nguyên số",
+      "link": "https://tuoitre.vn/tim-loi-giai-phat-trien-thanh-toan-thong-minh-trong-ky-nguyen-so-2026060708120965.htm",
+      "summary": "Tìm lời giải phát triển thanh toán thông minh trong kỷ nguyên số",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T10:35:00.765193+07:00",
+      "fetched": "2026-06-07T10:35:00.765297+07:00"
+    },
+    {
+      "id": "173a8225ebd309871111095be15ccac0",
+      "title": "Gian hàng NAPAS hút khách với loạt ưu đãi và trải nghiệm thanh toán số",
+      "link": "https://tuoitre.vn/gian-hang-napas-hut-khach-voi-loat-uu-dai-va-trai-nghiem-thanh-toan-so-20260607083659156.htm",
+      "summary": "Nhiều hoạt động tương tác, ưu đãi hấp dẫn cùng các giải pháp thanh toán hiện đại đã giúp gian hàng NAPAS trở thành điểm đến thu hút đông đảo người dân tại Ngày Tài chính số 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T10:35:00.765092+07:00",
+      "fetched": "2026-06-07T10:35:00.765184+07:00"
+    },
+    {
+      "id": "4bb01d1b81c37b5676f3e44d624bd82f",
+      "title": "Đến Lễ hội Tài chính số, bất ngờ được xác thực thuê bao di động",
+      "link": "https://tuoitre.vn/den-le-hoi-tai-chinh-so-bat-ngo-duoc-xac-thuc-thue-bao-di-dong-20260607091208436.htm",
+      "summary": "‘Tiện tay’ xác thực thông tin thuê bao di động cùng các hoạt động trải nghiệm công nghệ hấp dẫn khác tại Lễ hội Tài chính số 2026 đang diễn ra ở phố đi bộ Nguyễn Huệ, TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T10:35:00.764994+07:00",
+      "fetched": "2026-06-07T10:35:00.765084+07:00"
+    },
+    {
+      "id": "073fd08a986f237b57f4a0e9b4726bfe",
+      "title": "Con trai và con gái ông Nguyễn Đức Thụy vào ban lãnh đạo Sacombank",
+      "link": "https://tuoitre.vn/con-trai-va-con-gai-ong-nguyen-duc-thuy-vao-ban-lanh-dao-sacombank-20260607090022238.htm",
+      "summary": "Sacombank vừa bổ nhiệm hai người con của ông Nguyễn Đức Thụy vào vị trí trợ lý hội đồng quản trị và trợ lý tổng giám đốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T10:35:00.764891+07:00",
+      "fetched": "2026-06-07T10:35:00.764986+07:00"
+    },
+    {
+      "id": "a4c7c328f0bd73bc8a6563be104dcb5f",
+      "title": "Robot Trung Quốc gây sốt America’s Got Talent, khán giả Mỹ bùng nổ vì kinh ngạc",
+      "link": "https://tuoitre.vn/robot-trung-quoc-gay-sot-americas-got-talent-khan-gia-my-bung-no-vi-kinh-ngac-20260607091559223.htm",
+      "summary": "Khi tiết mục robot Trung Quốc trình diễn vũ đạo kết thúc, cả khán phòng bùng nổ trong tiếng vỗ tay và cổ vũ, bốn giám khảo đều há hốc miệng vì kinh ngạc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T10:35:00.764772+07:00",
+      "fetched": "2026-06-07T10:35:00.764881+07:00"
+    },
+    {
+      "id": "058591cc821ea3442b6b18b75d21462f",
+      "title": "Tà Xùa lần đầu vào danh sách đề cử Điểm đến mới nổi hàng đầu châu Á",
+      "link": "https://tuoitre.vn/ta-xua-lan-dau-vao-danh-sach-de-cu-diem-den-moi-noi-hang-dau-chau-a-20260607091855971.htm",
+      "summary": "Tà Xùa ở Sơn La là một đại diện của Việt Nam lần đầu tiên xuất hiện trong danh sách đề cử tại hạng mục Điểm đến mới nổi hàng đầu châu Á của Tổ chức Du lịch thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T10:35:00.764673+07:00",
+      "fetched": "2026-06-07T10:35:00.764764+07:00"
+    },
+    {
+      "id": "448ccdb756ab3260ab1d69c7eae80a1f",
+      "title": "Ba sẽ học lại bài học khen con",
+      "link": "https://tuoitre.vn/ba-se-hoc-lai-bai-hoc-khen-con-20260607090939284.htm",
+      "summary": "Mùa hè này, tôi sẽ bắt đầu lại bài học về khen ngợi con. Như tôi từng khen con sau cú chựng đầu tiên khích lệ con vững vàng bước tới, lời khen sau khi con biết bơi ếch, động viên con ham thích rèn luyện bơi sải, bơi bướm...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T10:35:00.764576+07:00",
+      "fetched": "2026-06-07T10:35:00.764665+07:00"
+    },
+    {
+      "id": "4a3295dcc9b9894a3099255df7f8adb2",
+      "title": "Đón không khí lạnh giữa hè, miền Bắc mưa mát mẻ, có nơi mưa trên 250mm",
+      "link": "https://tuoitre.vn/don-khong-khi-lanh-giua-he-mien-bac-mua-mat-me-co-noi-mua-tren-250mm-20260607092726997.htm",
+      "summary": "Do ảnh hưởng của không khí lạnh cuối mùa, từ chiều tối 8-6, khu vực Bắc Bộ, Thanh Hóa và Nghệ An có một đợt mưa lớn trên diện rộng, có nơi mưa to trên 250mm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T10:35:00.764478+07:00",
+      "fetched": "2026-06-07T10:35:00.764568+07:00"
+    },
+    {
+      "id": "effe90b7b52db23c73264691c0aba097",
+      "title": "Con trai của HLV Simeone ghi bàn giúp đội tuyển số 1 thế giới chiến thắng",
+      "link": "https://tuoitre.vn/con-trai-cua-hlv-simeone-ghi-ban-giup-doi-tuyen-so-1-the-gioi-chien-thang-20260607091636975.htm",
+      "summary": "Tiền đạo 23 tuổi Giuliano Simeone (con trai HLV Diego Simeone) đã ghi bàn thắng giúp đội tuyển Argentina đánh bại Honduras 2-0 ngày 7-6 ở trận giao hữu khởi động cho World Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T10:35:00.764377+07:00",
+      "fetched": "2026-06-07T10:35:00.764469+07:00"
+    },
+    {
+      "id": "4bc82d66e14a699b986dbbe8e4317932",
+      "title": "Thanh Thúy ra sân, bóng chuyền nữ Việt Nam lại thắng đậm",
+      "link": "https://tuoitre.vn/thanh-thuy-ra-san-bong-chuyen-nu-viet-nam-lai-thang-dam-20260607092856806.htm",
+      "summary": "Sáng 7-6, tại lượt trận thứ 2 bảng B Giải bóng chuyền nữ AVC Cup 2026, tuyển bóng chuyền nữ Việt Nam nhẹ nhàng vượt qua Hong Kong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T10:35:00.764273+07:00",
+      "fetched": "2026-06-07T10:35:00.764367+07:00"
+    },
+    {
+      "id": "7105b7d371ddaf5712ad4b0d8fa6d9c9",
+      "title": "Phó Chủ tịch nước: Nâng cao năng suất lao động đi đôi với thu nhập ổn định của người lao động",
+      "link": "https://tuoitre.vn/pho-chu-tich-nuoc-nang-cao-nang-suat-lao-dong-di-doi-voi-thu-nhap-on-dinh-cua-nguoi-lao-dong-20260607093108174.htm",
+      "summary": "Sáng 7-6, Tổng Liên đoàn Lao động Việt Nam phát động phong trào thi đua 'Lao động giỏi, năng suất cao, thu nhập tốt' giai đoạn 2026 - 2031 tại 51 điểm cầu trên cả nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T10:35:00.764169+07:00",
+      "fetched": "2026-06-07T10:35:00.764264+07:00"
+    },
+    {
+      "id": "f57ae696749a8a3450b3c77295098cef",
+      "title": "Kia Sportage 2026 ra mắt Việt Nam, dùng động cơ hybrid cạnh tranh Honda CR-V",
+      "link": "https://tuoitre.vn/kia-sportage-2026-ra-mat-viet-nam-dung-dong-co-hybrid-canh-tranh-honda-cr-v-20260607081913456.htm",
+      "summary": "Dù chưa công bố cấu hình trang bị chính thức, mẫu Kia Sportage 2026 trưng bày tại Việt Nam đã hé lộ hàng loạt nâng cấp đáng chú ý về thiết kế ngoại thất, nội thất cũng như hệ truyền động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T10:35:00.764057+07:00",
+      "fetched": "2026-06-07T10:35:00.764160+07:00"
+    },
+    {
+      "id": "a059154957e80f041d28a353283847ef",
+      "title": "Truy tìm ô tô làm đổ đất xuống đường khiến 2 người đi xe máy bị ngã",
+      "link": "https://tuoitre.vn/truy-tim-o-to-lam-do-dat-xuong-duong-khien-2-nguoi-di-xe-may-bi-nga-20260607093444047.htm",
+      "summary": "Lực lượng chức năng đang truy tìm ô tô làm rơi đất ra đường Võ Chí Công (Hà Nội), khiến 2 người đi xe máy bị ngã xuống đường, rạng sáng 7-6.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T10:35:00.763927+07:00",
+      "fetched": "2026-06-07T10:35:00.764047+07:00"
+    },
+    {
+      "id": "d9882f1e8843530605a8d0a4531fb17a",
+      "title": "Kia Sorento bổ sung bản hybrid ở Việt Nam, thêm cạnh tranh trước Hyundai Santa Fe",
+      "link": "https://tuoitre.vn/kia-sorento-bo-sung-ban-hybrid-o-viet-nam-them-canh-tranh-truoc-hyundai-santa-fe-20260607010135053.htm",
+      "summary": "Kia Sorento HEV hiện chưa được THACO Auto công bố giá bán chính thức. Tuy nhiên hãng cho biết những chiếc xe đầu tiên dự kiến sẽ được bàn giao tới khách hàng tại Việt Nam từ tháng 8-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T10:35:00.763638+07:00",
+      "fetched": "2026-06-07T10:35:00.763909+07:00"
+    },
+    {
+      "id": "dad0c1daadc28c5df49f7bea784d8732",
+      "title": "Myra Trần bật khóc vì câu nói của cô giáo Hồ Quỳnh Hương",
+      "link": "https://thanhnien.vn/myra-tran-bat-khoc-vi-cau-noi-cua-co-giao-ho-quynh-huong-185260607090503997.htm",
+      "summary": "Sự xuất hiện và lời động viên của Hồ Quỳnh Hương khiến Myra Trần bật khóc trong đêm mini liveshow nhân dịp sinh nhật 27 tuổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T03:30:00+07:00",
+      "fetched": "2026-06-07T10:34:59.706203+07:00"
+    },
+    {
+      "id": "f9941c59e36f494fdec3dd83677cbb98",
+      "title": "Ca sĩ Hà Phương kể về 'người ơn' trong những ngày sang Mỹ lập nghiệp",
+      "link": "https://thanhnien.vn/ca-si-ha-phuong-ke-ve-nguoi-on-trong-nhung-ngay-sang-my-lap-nghiep-185260607080308598.htm",
+      "summary": "Với Hà Phương, 'bà bầu' Thúy Uyển người đã sát cánh cùng cô trong phần lớn hành trình lập nghiệp và trưởng thành nơi xứ người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T03:25:00+07:00",
+      "fetched": "2026-06-07T10:34:59.706353+07:00"
+    },
+    {
+      "id": "921d6b15f919fe4a323bc676e3b4326f",
+      "title": "14 ngày lạc giữa rừng sâu, nhà leo núi Malaysia sống sót kỳ diệu",
+      "link": "https://thanhnien.vn/14-ngay-lac-giua-rung-sau-nha-leo-nui-malaysia-song-sot-ky-dieu-185260607094929878.htm",
+      "summary": "Một người leo núi Malaysia mất tích suốt 2 tuần trong rừng đã được tìm thấy trong tình trạng còn sống, sau khi cầm cự bằng nước sông, sương và các loại quả dại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T03:15:00+07:00",
+      "fetched": "2026-06-07T10:34:59.706484+07:00"
+    },
+    {
+      "id": "34b25062e5599b8bee0c9a067bacbf2e",
+      "title": "Mưa lớn cấp tập sau nắng nóng, 18 tỉnh, thành sẵn sàng ứng phó",
+      "link": "https://thanhnien.vn/mua-lon-cap-tap-sau-nang-nong-18-tinh-thanh-san-sang-ung-pho-185260607093139628.htm",
+      "summary": "Sau đợt nắng nóng hiện nay, miền Bắc và Bắc Trung bộ sẽ có mưa lớn. Ban Chỉ đạo phòng thủ dân sự quốc gia đề nghị 18 tỉnh, thành phố sẵn sàng ứng phó lũ quét, sạt lở đất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T03:10:00+07:00",
+      "fetched": "2026-06-07T10:34:59.706610+07:00"
+    },
+    {
+      "id": "64b1ed36b25dcb7157dde8ea35454df8",
+      "title": "Chó hoang đổi đời nhờ lòng tốt của nhóm tài xế",
+      "link": "https://vnexpress.net/cho-hoang-doi-doi-nho-long-tot-cua-nhom-tai-xe-5082674.html",
+      "summary": "Nhóm tài xế taxi tại tỉnh An Huy quyên góp hơn 4.000 tệ (600 USD) phẫu thuật cứu sống một con chó hoang gặp tai nạn, giúp con vật có cuộc đời mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T03:03:58+07:00",
+      "fetched": "2026-06-07T10:34:56.429557+07:00"
+    },
+    {
+      "id": "0b9ab01c539f55499635154017a69111",
+      "title": "Đề xuất siết chặt quy định nhận con nuôi",
+      "link": "https://vnexpress.net/de-xuat-siet-chat-quy-dinh-nhan-con-nuoi-5082852.html",
+      "summary": "Bộ Tư pháp đề xuất kiểm soát chặt chẽ hơn việc nhận con nuôi nhằm tăng cường sàng lọc để bảo đảm lợi ích tốt nhất cho trẻ, hạn chế tách trẻ khỏi gia đình gốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T03:03:53+07:00",
+      "fetched": "2026-06-07T10:34:56.429726+07:00"
+    },
+    {
+      "id": "8dda50b15939103c04d9b5653509f804",
+      "title": "'Để tuổi trẻ là hành trình đẹp nhất'",
+      "link": "https://vnexpress.net/de-tuoi-tre-la-hanh-trinh-dep-nhat-5082502.html",
+      "summary": "Tiến sĩ Phan Thế Anh chọn những chuyến du lịch để vượt qua nỗi cô đơn, cảm giác chênh vênh khi đi du học.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T03:00:03+07:00",
+      "fetched": "2026-06-07T10:34:56.429925+07:00"
+    },
+    {
+      "id": "631cc3c788ab221a1f88c6faa3d609fa",
+      "title": "Zverev - Cobolli: Cơ hội lớn nhất sự nghiệp",
+      "link": "https://vnexpress.net/zverev-cobolli-co-hoi-lon-nhat-su-nghiep-5082831.html",
+      "summary": "Alexander Zverev và Flavio Cobolli tiến gần tới danh hiệu Grand Slam đầu tiên trong sự nghiệp, khi đối đầu ở chung kết Roland Garros.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T03:00:00+07:00",
+      "fetched": "2026-06-07T10:34:56.430070+07:00"
+    },
+    {
+      "id": "c011678a54138430a481280ed3449a39",
+      "title": "Mbappe: 'Ronaldo và Messi đối lập ở mọi khía cạnh'",
+      "link": "https://vnexpress.net/mbappe-ronaldo-va-messi-doi-lap-o-moi-khia-canh-5082754.html",
+      "summary": "Trong cuộc phỏng vấn dài gần nửa tiếng với Sorare, thủ quân tuyển Pháp Kylian Mbappe kể về kỷ niệm thời còn ở Monaco, những khoảnh khắc đáng nhớ tại World Cup và kình địch Cristiano Ronaldo - Lionel Messi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T03:00:00+07:00",
+      "fetched": "2026-06-07T10:34:56.430202+07:00"
+    },
+    {
+      "id": "d3c36b5416de7d55f4b3d2f63881dd34",
+      "title": "Nhà bị trộm mất máy lạnh thì gọi là gì?",
+      "link": "https://vnexpress.net/nha-bi-trom-mat-may-lanh-thi-goi-la-gi-5081917.html",
+      "summary": "Một câu đố chơi chữ cực vui khiến nhiều người bật cười khi biết đáp án, nhà bị trộm lấy mất máy lạnh thì sẽ được gọi là gì?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T03:00:00+07:00",
+      "fetched": "2026-06-07T10:34:56.430331+07:00"
+    },
+    {
+      "id": "a41dbe9e4c09060d5a17db5db7a1fef1",
+      "title": "Các thời điểm trẻ nên khám sức khỏe tổng quát",
+      "link": "https://vnexpress.net/cac-thoi-diem-tre-nen-kham-suc-khoe-tong-quat-5082732.html",
+      "summary": "Khám sức khỏe cho trẻ sơ sinh, 2-6 tuổi, tiền dậy thì, thanh thiếu niên giúp theo dõi sự phát triển thể chất, tâm sinh lý, bệnh tiềm ẩn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T03:00:00+07:00",
+      "fetched": "2026-06-07T10:34:56.430461+07:00"
+    },
+    {
+      "id": "c6ee57243a68948582f2a72da35d246d",
+      "title": "6 món ăn dễ tiêu hóa",
+      "link": "https://vnexpress.net/6-mon-an-de-tieu-hoa-5082659.html",
+      "summary": "Khoai lang luộc, cá hồi, trứng và cơm trắng cung cấp năng lượng cùng các dưỡng chất cần thiết, dễ tiêu hóa, giúp giảm gánh nặng cho dạ dày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T03:00:00+07:00",
+      "fetched": "2026-06-07T10:34:56.430586+07:00"
+    },
+    {
+      "id": "21078faec1257056145bfa47aa159f3a",
+      "title": "Newland USA đồng hành IIUSA tại sự kiện định cư Mỹ EB-5",
+      "link": "https://vnexpress.net/newland-usa-dong-hanh-iiusa-tai-su-kien-dinh-cu-my-eb-5-5081998.html",
+      "summary": "Newland USA tiếp tục đồng hành Hiệp hội Đầu tư Di trú Mỹ (IIUSA) tại sự kiện ở TP HCM, qua đó mở rộng kết nối và khẳng định sự hiện diện trong cộng đồng EB-5 quốc tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T03:00:00+07:00",
+      "fetched": "2026-06-07T10:34:56.430718+07:00"
+    },
+    {
+      "id": "78e538cdfd77c379c099e7d4aaf7c273",
+      "title": "Vào phòng thi bỗng quên sạch kiến thức, thầy giáo hotboy chỉ 3 cách cứu nguy",
+      "link": "https://thanhnien.vn/vao-phong-thi-bong-quen-sach-kien-thuc-thay-giao-hotboy-chi-3-cach-cuu-nguy-1852606062318516.htm",
+      "summary": "Nhiều thí sinh ôn luyện nhiều tháng, giải hàng chục đề và thuộc bài \"nhuyễn như cháo\", nhưng khi bước vào phòng thi bất ngờ rơi vào trạng thái đầu óc trống rỗng, không nhớ nổi một công thức hay dữ kiện nào. Quên sạch kiến thức phải làm gì?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T03:00:00+07:00",
+      "fetched": "2026-06-07T10:34:59.706733+07:00"
+    },
+    {
+      "id": "6b68b27d168e739bccd969e5cad03faa",
+      "title": "Tiết kiệm thời gian, nhân đôi sành điệu khi diện đồ theo set trang phục",
+      "link": "https://thanhnien.vn/thoi-trang-tre/tiet-kiem-thoi-gian-nhan-doi-sanh-dieu-khi-dien-do-theo-set-trang-phuc-185260606185717192.htm",
+      "summary": "Nếu trước đây việc phối đồ thường tốn khá nhiều thời gian và công sức, thì giờ đây những set trang phục đồng bộ đã trở thành 'trợ thủ' hoàn hảo của phái đẹp hiện đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T03:00:00+07:00",
+      "fetched": "2026-06-07T10:34:59.706875+07:00"
+    },
+    {
+      "id": "631cc3c788ab221a1f88c6faa3d609fa",
+      "title": "Zverev - Cobolli: Cơ hội lớn nhất sự nghiệp",
+      "link": "https://vnexpress.net/zverev-cobolli-co-hoi-lon-nhat-su-nghiep-5082831.html",
+      "summary": "Alexander Zverev và Flavio Cobolli tiến gần tới danh hiệu Grand Slam đầu tiên trong sự nghiệp, khi đối đầu ở chung kết Roland Garros.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-07T03:00:00+07:00",
+      "fetched": "2026-06-07T10:35:08.088234+07:00"
+    },
+    {
+      "id": "c011678a54138430a481280ed3449a39",
+      "title": "Mbappe: 'Ronaldo và Messi đối lập ở mọi khía cạnh'",
+      "link": "https://vnexpress.net/mbappe-ronaldo-va-messi-doi-lap-o-moi-khia-canh-5082754.html",
+      "summary": "Trong cuộc phỏng vấn dài gần nửa tiếng với Sorare, thủ quân tuyển Pháp Kylian Mbappe kể về kỷ niệm thời còn ở Monaco, những khoảnh khắc đáng nhớ tại World Cup và kình địch Cristiano Ronaldo - Lionel Messi.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-07T03:00:00+07:00",
+      "fetched": "2026-06-07T10:35:08.088396+07:00"
+    },
+    {
+      "id": "80392a349fe2f273650f6ec7761eb97f",
+      "title": "Luật mới được áp dụng tại World Cup 2026 thế nào",
+      "link": "https://vnexpress.net/luat-moi-duoc-ap-dung-tai-world-cup-2026-the-nao-5080514.html",
+      "summary": "Từ siết thời gian với đội cố tình câu giờ, mở rộng quyền can thiệp của VAR đến kiểm soát hành vi cầu thủ, nhiều luật mới sẽ được áp dụng tại World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T02:59:39+07:00",
+      "fetched": "2026-06-07T10:34:56.430864+07:00"
+    },
+    {
+      "id": "145b37de7f278b30532c2ae0331d2790",
+      "title": "Hai điều thí sinh không nên bỏ qua trước kỳ thi tốt nghiệp THPT",
+      "link": "https://thanhnien.vn/hai-dieu-thi-sinh-khong-nen-bo-qua-truoc-ky-thi-tot-nghiep-thpt-185260607092856785.htm",
+      "summary": "Chỉ còn vài ngày nữa, hơn một triệu thí sinh trên cả nước sẽ bước vào kỳ thi tốt nghiệp THPT năm 2026. Tiến sĩ Mai Mỹ Hạnh, Phó trưởng khoa Tâm lý học, Trường ĐH Sư phạm TP.HCM, chỉ ra những diễn biến tâm lý và cách để giúp thí sinh chuẩn bị tâm thế tự tin trước khi bước vào kỳ thi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T02:59:00+07:00",
+      "fetched": "2026-06-07T10:34:59.707000+07:00"
+    },
+    {
+      "id": "677ea11a369dba1fe285d6adfcce674c",
+      "title": "Không khí lạnh cuối mùa tràn xuống, miền Bắc mưa lớn",
+      "link": "https://vnexpress.net/khong-khi-lanh-cuoi-mua-tran-xuong-mien-bac-mua-lon-5082856.html",
+      "summary": "Sau nhiều ngày nắng nóng gay gắt, từ chiều tối mai miền Bắc đón đợt không khí lạnh cuối mùa khiến nhiệt độ giảm mạnh, nhiều nơi mưa to.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T02:56:43+07:00",
+      "fetched": "2026-06-07T10:34:56.430989+07:00"
+    },
+    {
+      "id": "942d163d4872ffe33e92bf400cdbc5d9",
+      "title": "25 triệu thuê bao di động sắp bị khóa một chiều",
+      "link": "https://vnexpress.net/25-trieu-thue-bao-di-dong-sap-bi-khoa-mot-chieu-5082814.html",
+      "summary": "Theo Cục Viễn thông, 25 triệu thuê bao không xác nhận trạng thái sử dụng trên VNeID sẽ bị khóa sau ngày 15/6.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T02:51:23+07:00",
+      "fetched": "2026-06-07T10:34:56.431108+07:00"
+    },
+    {
+      "id": "942d163d4872ffe33e92bf400cdbc5d9",
+      "title": "25 triệu thuê bao di động sắp bị khóa một chiều",
+      "link": "https://vnexpress.net/25-trieu-thue-bao-di-dong-sap-bi-khoa-mot-chieu-5082814.html",
+      "summary": "Theo Cục Viễn thông, 25 triệu thuê bao không xác nhận trạng thái sử dụng trên VNeID sẽ bị khóa sau ngày 15/6.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-07T02:51:23+07:00",
+      "fetched": "2026-06-07T10:35:06.776362+07:00"
+    },
+    {
+      "id": "bc9eb0066bdb23d4588d6facdc44fbb1",
+      "title": "Ôtô khách tông đuôi xe container trên cao tốc Phan Thiết, 19 người bị thương",
+      "link": "https://vnexpress.net/oto-khach-tong-duoi-xe-container-tren-cao-toc-phan-thiet-19-nguoi-bi-thuong-5082848.html",
+      "summary": "Xe khách giường nằm hãng Phương Trang chạy trên cao tốc Dầu Giây - Phan Thiết tông đuôi xe container cùng chiều, 19 người bị thương, sáng 7/6.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T02:50:08+07:00",
+      "fetched": "2026-06-07T10:34:56.431223+07:00"
+    },
+    {
+      "id": "1c7e0c4f84b5f4bf648b1834347f72ac",
+      "title": "Xe giường nằm bị nạn lúc rạng sáng trên cao tốc Phan Thiết - Dầu Giây",
+      "link": "https://thanhnien.vn/xe-giuong-nam-bi-nan-luc-rang-sang-tren-cao-toc-phan-thiet-dau-giay-185260607090851372.htm",
+      "summary": "Xe khách giường nằm bị biến dạng phần đầu sau khi tông vào đuôi xe đầu kéo đang lưu thông cùng chiều trên cao tốc Phan Thiết - Dầu Giây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T02:50:00+07:00",
+      "fetched": "2026-06-07T10:34:59.707123+07:00"
+    },
+    {
+      "id": "fd0aa4da87945937489721484d75773e",
+      "title": "Tăng Phúc và dàn 'anh trai' hát, nhảy trước 5.000 khán giả",
+      "link": "https://vnexpress.net/tang-phuc-va-dan-anh-trai-hat-nhay-truoc-5-000-khan-gia-5082834.html",
+      "summary": "Ca sĩ Tăng Phúc cùng Liên Bỉnh Phát, S.T Sơn Thạch và dàn sao \"Anh trai vượt ngàn chông gai\" khuấy động mini-concert, tối 6/6.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T02:49:31+07:00",
+      "fetched": "2026-06-07T10:34:56.431339+07:00"
+    },
+    {
+      "id": "402d1677ce0edc702d97377ba7e7a5ef",
+      "title": "Lý Hiện đóng cặp 'Tình đầu màn ảnh'",
+      "link": "https://vnexpress.net/ly-hien-dong-cap-tinh-dau-man-anh-5082847.html",
+      "summary": "Tài tử Lý Hiện gây chú ý khi đóng cặp Trương Tịnh Nghi - mỹ nhân được mệnh danh \"Tình đầu màn ảnh\" Trung Quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T02:42:32+07:00",
+      "fetched": "2026-06-07T10:34:56.431473+07:00"
+    },
+    {
+      "id": "21d67eff5bdef61d7cb6f40cff06cf80",
+      "title": "Quốc gia có nhiều họ nhất thế giới",
+      "link": "https://vnexpress.net/quoc-gia-co-nhieu-ho-nhat-the-gioi-5081130.html",
+      "summary": "Pháp là quốc gia có nhiều họ nhất thế giới với hơn một triệu họ, trong đó Martin là họ phổ biến nhất và Nguyen là họ phổ biến thứ 74.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-07T02:34:41+07:00",
+      "fetched": "2026-06-07T10:35:02.075081+07:00"
+    },
+    {
+      "id": "84a0dd043d81d83317da0b1803f91aa4",
+      "title": "Vì sao nhiều người vẫn nhớ BlackBerry sau hơn một thập kỷ?",
+      "link": "https://thanhnien.vn/vi-sao-nhieu-nguoi-van-nho-blackberry-sau-hon-mot-thap-ky-185260606104257202.htm",
+      "summary": "BlackBerry không còn hiện diện trên thị trường, nhưng bàn phím vật lý, pin bền và sự tối giản vẫn khiến nhiều người nhớ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T02:31:00+07:00",
+      "fetched": "2026-06-07T10:34:59.707253+07:00"
+    },
+    {
+      "id": "a30b1acb81747b99800750ff728fec8f",
+      "title": "Trung Quốc muốn xây căn cứ thiên văn lớn nhất thế giới trên cao nguyên Tây Tạng",
+      "link": "https://thanhnien.vn/trung-quoc-muon-xay-can-cu-thien-van-lon-nhat-the-gioi-tren-cao-nguyen-tay-tang-185260607091949062.htm",
+      "summary": "Trung Quốc đang đẩy nhanh kế hoạch xây dựng một tổ hợp quan trắc thiên văn quy mô lớn trên núi Saishiteng (tỉnh Thanh Hải), với tham vọng đưa nơi đây trở thành căn cứ thiên văn mặt đất hàng đầu thế giới vào giữa những năm 2030.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T02:29:00+07:00",
+      "fetched": "2026-06-07T10:34:59.707379+07:00"
+    },
+    {
+      "id": "ee4c8548cd25b1be366ac78bfb516f08",
+      "title": "Quỹ đầu tư vàng lớn nhất thế giới liên tục xả hàng",
+      "link": "https://vnexpress.net/quy-dau-tu-vang-lon-nhat-the-gioi-lien-tuc-xa-hang-5082844.html",
+      "summary": "Quỹ đầu tư SPDR Gold Trust bán ròng từ giữa tháng 5 và chỉ còn nắm giữ 1.025 tấn vàng, mức thấp nhất 8 tháng trở lại đây.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-07T02:28:08+07:00",
+      "fetched": "2026-06-07T10:35:03.461628+07:00"
+    },
+    {
+      "id": "871e6f266828434f671e8acb433d35bd",
+      "title": "GAM gục ngã trước DCG, LMHT Việt Nam chỉ còn một đại diện tại MSI 2026",
+      "link": "https://thanhnien.vn/gam-guc-nga-truoc-dcg-lmht-viet-nam-chi-con-mot-dai-dien-tai-msi-2026-185260606202456524.htm",
+      "summary": "Thất bại trước Deep Cross Gaming ở trận đấu quyết định của nhánh thua LCP 2026 Split 2 khiến GAM Esports chính thức lỡ hẹn với MSI 2026. Liên Minh Huyền Thoại Việt Nam giờ chỉ còn đặt hy vọng vào Team Secret Whales tại đấu trường quốc tế sắp tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T02:27:00+07:00",
+      "fetched": "2026-06-07T10:34:59.707505+07:00"
+    },
+    {
+      "id": "a2bcd5e2f53abfdab09c500c476c8f14",
+      "title": "TP.HCM nghĩa tình: Người dân bất ngờ nhận ‘gấp đôi’ niềm vui",
+      "link": "https://thanhnien.vn/tphcm-nghia-tinh-nguoi-dan-bat-ngo-nhan-gap-doi-niem-vui-185260606201427812.htm",
+      "summary": "Người dân có hoàn cảnh khó khăn ở phường Tăng Nhơn Phú, TP.HCM nhận 'gấp đôi' niềm vui khi vừa được trao suất cơm nghĩa tình, vừa được cắt tóc miễn phí.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T02:26:00+07:00",
+      "fetched": "2026-06-07T10:34:59.707638+07:00"
+    },
+    {
+      "id": "69f730e1f1574788ff5adbdc47dfa122",
+      "title": "Máy bay X-59 của NASA lần đầu đạt tốc độ siêu thanh",
+      "link": "https://vnexpress.net/may-bay-x-59-cua-nasa-lan-dau-dat-toc-do-sieu-thanh-5082759.html",
+      "summary": "X-59, máy bay thử nghiệm giúp phát triển công nghệ bay siêu thanh yên tĩnh của NASA, đạt cột mốc quan trọng khi lần đầu vượt tốc độ âm thanh.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-07T02:25:36+07:00",
+      "fetched": "2026-06-07T10:35:06.776521+07:00"
+    },
+    {
+      "id": "f693ba6affc0aa1ec46867c52bf05b40",
+      "title": "Ngôi sao Thanh Thúy xuất trận, đội tuyển bóng chuyền nữ Việt Nam thắng dễ Hồng Kông",
+      "link": "https://thanhnien.vn/ngoi-sao-thanh-thuy-xuat-tran-doi-tuyen-bong-chuyen-nu-viet-nam-thang-de-hong-kong-185260607081551649.htm",
+      "summary": "Đội tuyển bóng chuyền nữ Việt Nam giành chiến thắng 3-0 trước Hồng Kông ở lượt trận thứ 2 bảng B giải bóng chuyền châu Á (AVC Cup) 2026 diễn ra hôm nay tại Philippines.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T02:22:00+07:00",
+      "fetched": "2026-06-07T10:34:59.707766+07:00"
+    },
+    {
+      "id": "2b9fe250989d6a573d453073622f736f",
+      "title": "Messi chỉ dự bị, không đá phút nào: Argentina vẫn thắng đậm Honduras trước gần 100.000 khán giả tại Mỹ",
+      "link": "https://thanhnien.vn/messi-chi-du-bi-khong-da-phut-nao-argentina-van-thang-dam-honduras-truoc-gan-100000-khan-gia-tai-my-185260607091249466.htm",
+      "summary": "Sáng 7.6, Messi chỉ ngồi dự bị trong trận giao hữu chạy đà trước World Cup 2026 của đội tuyển Argentina thắng đậm Honduras với tỷ số 2-0, trên sân Kyle Field ở Texas (Mỹ) chật kín gần 100.000 khán giả đến xem.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T02:19:00+07:00",
+      "fetched": "2026-06-07T10:34:59.707906+07:00"
+    },
+    {
+      "id": "73153197b514bb573590892f740f03f7",
+      "title": "Công an Cà Mau đề nghị giám định những gì tại gói thầu bệnh viện 1.200 giường?",
+      "link": "https://thanhnien.vn/cong-an-ca-mau-de-nghi-giam-dinh-nhung-gi-tai-goi-thau-benh-vien-1200-giuong-185260607021957865.htm",
+      "summary": "Cơ quan CSĐT Công an tỉnh Cà Mau trưng cầu giám định quá trình lập và thực hiện hồ sơ đấu thầu đối với gói thầu 27, thuộc dự án Bệnh viện đa khoa tỉnh Cà Mau quy mô 1.200 giường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T02:19:00+07:00",
+      "fetched": "2026-06-07T10:34:59.708033+07:00"
+    },
     {
       "id": "9de0e82fc1fcbe1dc86e1bef893180b7",
       "title": "Đội Việt Nam và Pháp kể chuyện di sản bằng pháo hoa trên sông Hàn",
@@ -31,6 +541,46 @@ window.newsData_2026_06_07 = {
       "category": "Tổng hợp",
       "published": "2026-06-07T02:17:16.249442+07:00",
       "fetched": "2026-06-07T02:17:16.249666+07:00"
+    },
+    {
+      "id": "3fb2a9924454cb65ac54beb601c03bdf",
+      "title": "TCBS có Quyền tổng giám đốc mới",
+      "link": "https://vnexpress.net/tcbs-co-quyen-tong-giam-doc-moi-5082812.html",
+      "summary": "Bà Trần Thị Thu Trang, người đã có 12 năm làm việc tại TCBS, được bổ nhiệm làm Quyền tổng giám đốc công ty.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-07T01:12:51+07:00",
+      "fetched": "2026-06-07T10:35:03.461784+07:00"
+    },
+    {
+      "id": "bf95da0c7a48daef73ab284aa4d0c911",
+      "title": "Laptop AI dùng chip AMD Ryzen, giá gần 40 triệu đồng",
+      "link": "https://vnexpress.net/laptop-ai-dung-chip-amd-ryzen-gia-gan-40-trieu-dong-5081116.html",
+      "summary": "Lenovo Yoga Slim 7a được trang bị xử lý tối ưu cho AI, thiết kế có tính di động cao, nhưng dung lượng bộ nhớ có phần khiêm tốn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-07T01:00:00+07:00",
+      "fetched": "2026-06-07T10:35:06.776955+07:00"
+    },
+    {
+      "id": "eb70307f54ef07c0fa1c616f99922f67",
+      "title": "Em gái ông Kim Jong-un tuyên bố 'không thể thương lượng' chương trình hạt nhân",
+      "link": "https://vnexpress.net/em-gai-ong-kim-jong-un-tuyen-bo-khong-the-thuong-luong-chuong-trinh-hat-nhan-5082825.html",
+      "summary": "Bà Kim Yo-jong khẳng định không thể xóa bỏ chương trình hạt nhân của Triều Tiên và bác bỏ tuyên bố của Mỹ về nội dung cuộc gặp giữa ông Tập và ông Trump tháng trước.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-07T00:43:16+07:00",
+      "fetched": "2026-06-07T10:35:02.075237+07:00"
+    },
+    {
+      "id": "0df6a152ef11384ef746867648afade1",
+      "title": "Tiền đạo Bồ Đào Nha tát đối thủ trong trận giao hữu trước World Cup",
+      "link": "https://vnexpress.net/tien-dao-bo-dao-nha-tat-doi-thu-trong-tran-giao-huu-truoc-world-cup-5082821.html",
+      "summary": "Rafael Leao xô xát và nhận thẻ đỏ trực tiếp trong trận giao hữu Bồ Đào Nha thắng Chile 2-1 trên sân Jamor hôm 6/6.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-07T00:16:09+07:00",
+      "fetched": "2026-06-07T10:35:08.088535+07:00"
     },
     {
       "id": "1af3462ed0ad9383c3ed14c5630b2c10",
