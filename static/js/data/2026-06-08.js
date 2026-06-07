@@ -1,6 +1,6 @@
 window.newsData_2026_06_08 = {
   "date": "2026-06-08",
-  "lastUpdated": "2026-06-08T04:09:36.278364+07:00",
+  "lastUpdated": "2026-06-08T06:02:22.083417+07:00",
   "articles": [
     {
       "id": "5b9e7009c66867a8452c221c8a5edcb3",
@@ -181,6 +181,266 @@ window.newsData_2026_06_08 = {
       "category": "Tổng hợp",
       "published": "2026-06-08T00:13:11.275763+07:00",
       "fetched": "2026-06-08T00:13:11.275999+07:00"
+    },
+    {
+      "id": "f28c3cb0f3a80411e16e0b65378eed60",
+      "title": "Bản tin sức khỏe 8.6: Thức dậy phải uống nước trước khi cầm điện thoại | Khi cơ thể 'sợ' vitamin",
+      "link": "https://thanhnien.vn/ban-tin-suc-khoe-86-thuc-day-phai-uong-nuoc-truoc-khi-cam-dien-thoai-khi-co-the-so-vitamin-185260607231513565.htm",
+      "summary": "Bản tin sức khỏe của Báo Thanh Niên (phát từ thứ hai đến thứ sáu) cập nhật những thông tin y tế đáng chú ý, từ các khuyến cáo bảo vệ sức khỏe, chế độ dinh dưỡng, tập luyện, đến những nghiên cứu, cảnh báo dịch bệnh mới nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T23:00:00+07:00",
+      "fetched": "2026-06-08T06:02:11.547567+07:00"
+    },
+    {
+      "id": "35a4a986eaf00b2d6c585efc025e8fbd",
+      "title": "Thông điệp hạt nhân của Bình Nhưỡng trước thượng đỉnh Trung - Triều",
+      "link": "https://thanhnien.vn/thong-diep-hat-nhan-cua-binh-nhuong-truoc-thuong-dinh-trung-trieu-185260607204815789.htm",
+      "summary": "CHDCND Triều Tiên tuyên bố chương trình hạt nhân của nước này không phải để đàm phán và bác bỏ thông tin của Mỹ về mục tiêu chung với Trung Quốc là phi hạt nhân hóa bán đảo Triều Tiên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T23:00:00+07:00",
+      "fetched": "2026-06-08T06:02:11.547716+07:00"
+    },
+    {
+      "id": "fcc92a7f377092bc74be52e18e90644a",
+      "title": "Xăng E10 ổn định sau 1 tuần triển khai đại trà",
+      "link": "https://thanhnien.vn/xang-e10-on-dinh-sau-1-tuan-trien-khai-dai-tra-18526060720373013.htm",
+      "summary": "Theo kết quả khảo sát sau 1 tuần đầu bán xăng sinh học E10 trên toàn quốc, đa số người tiêu dùng cho biết chưa gặp sự cố gì đáng lưu ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T23:00:00+07:00",
+      "fetched": "2026-06-08T06:02:11.547849+07:00"
+    },
+    {
+      "id": "0057b9bcfa67f10430846550ca973784",
+      "title": "Xuất khẩu nông sản 'lãi ròng' lớn",
+      "link": "https://thanhnien.vn/xuat-khau-nong-san-lai-rong-lon-185260607202643424.htm",
+      "summary": "Trong khi nhập siêu của cả nước vọt lên gần 14 tỉ USD thì nông sản tiếp tục xuất siêu ổn định với 7,5 tỉ USD; tương đương mỗi tháng \"lãi ròng\" 1,5 tỉ USD trong 5 tháng đầu năm. Các mặt hàng chủ lực dự báo sẽ tiếp tục tăng xuất siêu trong thời gian tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T23:00:00+07:00",
+      "fetched": "2026-06-08T06:02:11.547974+07:00"
+    },
+    {
+      "id": "1926e7aec24710d3192ea33512c394fa",
+      "title": "Nhiều kỳ vọng về Đoàn trong kỷ nguyên mới",
+      "link": "https://thanhnien.vn/nhieu-ky-vong-ve-doan-trong-ky-nguyen-moi-185260607185050844.htm",
+      "summary": "Hướng tới Đại hội Đoàn toàn quốc lần thứ XIII, cán bộ Đoàn, đoàn viên, sinh viên đặt nhiều kỳ vọng Đoàn tiếp tục là người bạn đồng hành dẫn dắt và tạo môi trường để thanh niên phát triển toàn diện, cống hiến cho quê hương, đất nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T23:00:00+07:00",
+      "fetched": "2026-06-08T06:02:11.548096+07:00"
+    },
+    {
+      "id": "1335de886233e5c4528e8d20fb09a633",
+      "title": "Du lịch hè chờ cú hích mới",
+      "link": "https://thanhnien.vn/du-lich-he-cho-cu-hich-moi-185260607150839165.htm",
+      "summary": "Đề xuất giảm phí hàng không và kỷ lục 10,6 triệu lượt khách quốc tế sau 5 tháng đầu năm đang tạo thêm động lực cho ngành du lịch bước vào mùa hè 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T23:00:00+07:00",
+      "fetched": "2026-06-08T06:02:11.548225+07:00"
+    },
+    {
+      "id": "f0e46918f28a20838a06a0e3ce7d420b",
+      "title": "Khởi nghiệp quán ăn vặt: Bài toán cân bằng giữa 'Xu hướng' và 'Chất lượng'",
+      "link": "https://thanhnien.vn/khoi-nghiep-quan-an-vat-bai-toan-can-bang-giua-xu-huong-va-chat-luong-18526060623452099.htm",
+      "summary": "Giữa thị trường ăn vặt ngày càng bị chi phối bởi mạng xã hội, việc lựa chọn một quán ăn của người trẻ không chỉ đơn thuần dựa vào khẩu vị hay giá cả, mà đang trở thành sự cân nhắc giữa “xu hướng” và trải nghiệm thực tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T23:00:00+07:00",
+      "fetched": "2026-06-08T06:02:11.548382+07:00"
+    },
+    {
+      "id": "927e19ced4289a940cac8fde1708834d",
+      "title": "Nữ nhiếp ảnh gia Việt ghi lại cảnh hàng ngàn chim hồng hạc nhuộm hồng biển châu Phi",
+      "link": "https://thanhnien.vn/nu-nhiep-anh-gia-viet-ghi-lai-canh-hang-ngan-chim-hong-hac-nhuom-hong-bien-chau-phi-185260606180409329.htm",
+      "summary": "Trong chuyến tác nghiệp tại Namibia (châu Phi), nữ nhiếp ảnh gia Việt Nam đã ghi lại cảnh hàng ngàn chim hồng hạc phủ kín vịnh Walvis, tạo nên một 'biển hồng' tuyệt đẹp giữa thiên nhiên hoang dã.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T23:00:00+07:00",
+      "fetched": "2026-06-08T06:02:11.548512+07:00"
+    },
+    {
+      "id": "759e41e1d0244721bea3d516ad616f24",
+      "title": "Ảnh dự thi: 'Vượt nắng thắng mưa' trên các công trình",
+      "link": "https://thanhnien.vn/anh-du-thi-vuot-nang-thang-mua-tren-cac-cong-trinh-185260607212322843.htm",
+      "summary": "Để đảm bảo vận hành lưới điện thông suốt, cung cấp hằng ngày đến người dân TP.HCM, các kỹ sư, công nhân ngành điện thành phố mang tên Bác luôn túc trực trên các công trường. 'Vượt nắng, thắng mưa', các anh luôn quên mình để việc thi công được an toàn và nhanh chóng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T22:57:00+07:00",
+      "fetched": "2026-06-08T06:02:11.548637+07:00"
+    },
+    {
+      "id": "681a3940f35e34a579e3e5de3594dd98",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 8.6.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-862026-185260607221730605.htm",
+      "summary": "Tin tức đặc biệt trên báo in Thanh Niên 8.6.2026 Tin tức Thi tốt nghiệp THPT 2026: \"Siết\" ra đề, coi thi, chấm thi; TP.HCM dốc sức tìm mộ tập thể liệt sĩ hy sinh năm 1968; Bóc trần đường dây đẻ thuê xuyên biên giới: Cuộc giao con bất thành … có thể đón xem trên Báo Thanh Niên số ra ngày 8.6.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T22:54:00+07:00",
+      "fetched": "2026-06-08T06:02:11.548754+07:00"
+    },
+    {
+      "id": "99c8912919bb15e101320a7fc1206858",
+      "title": "Thi tốt nghiệp THPT 2026: 'Siết' ra đề, coi thi, chấm thi",
+      "link": "https://thanhnien.vn/thi-tot-nghiep-thpt-2026-siet-ra-de-coi-thi-cham-thi-185260607221126188.htm",
+      "summary": "'Công bằng' là từ khóa được GS-TS Huỳnh Văn Chương, Cục trưởng Cục Quản lý chất lượng (Bộ GD-ĐT), nhấn mạnh trong cuộc trao đổi với PV Thanh Niên trước thềm kỳ thi tốt nghiệp THPT năm nay diễn ra từ ngày 10 - 12.6.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T22:54:00+07:00",
+      "fetched": "2026-06-08T06:02:11.548870+07:00"
+    },
+    {
+      "id": "9bea5857f9a8328de1f2724666b779b5",
+      "title": "VN bứt phá bằng KH-CN: Chiến lược xây dựng nguồn nhân lực STEM",
+      "link": "https://thanhnien.vn/vn-but-pha-bang-kh-cn-chien-luoc-xay-dung-nguon-nhan-luc-stem-185260607154822212.htm",
+      "summary": "VN đang tập trung vào chiến lược phát triển nguồn nhân lực chất lượng cao trong các ngành STEM (khoa học, công nghệ, kỹ thuật, toán học). Vậy đâu là lời giải cho bài toán nguồn nhân lực chất lượng cao trong những lĩnh vực then chốt giúp VN \"đi tắt đón đầu\" công nghệ lượng tử và bán dẫn?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T22:54:00+07:00",
+      "fetched": "2026-06-08T06:02:11.548985+07:00"
+    },
+    {
+      "id": "46618053554064b24e9ee30c22582e70",
+      "title": "Không được dự World Cup, tiền vệ Real sang Havard học kinh doanh",
+      "link": "https://vnexpress.net/khong-duoc-du-world-cup-tien-ve-real-sang-havard-hoc-kinh-doanh-5083010.html",
+      "summary": "Bị gạch tên khỏi đội hình tuyển Pháp dự World Cup 2026, tiền vệ Real Madrid Eduardo Camavinga tranh thủ thời gian hoàn thành khóa đào tạo ngắn hạn một tuần ở Havard.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T22:50:24+07:00",
+      "fetched": "2026-06-08T06:02:08.216468+07:00"
+    },
+    {
+      "id": "53b4680cc12923b6b86ceb73f387b72e",
+      "title": "3 ngày thu gom hơn 60 tấn rác ở TP.HCM: Vỏ dừa chất đống dài cả trăm mét",
+      "link": "https://thanhnien.vn/3-ngay-thu-gom-hon-60-tan-rac-o-tphcm-vo-dua-chat-dong-dai-ca-tram-met-185260606205919611.htm",
+      "summary": "UBND phường Tân Tạo (TP.HCM) vừa đồng loạt ra quân dọn dẹp vệ sinh, xóa sổ hàng loạt điểm đen về hành vi vứt rác thải bừa bãi nhằm hưởng ứng tháng hành động vì môi trường năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T22:45:00+07:00",
+      "fetched": "2026-06-08T06:02:11.549106+07:00"
+    },
+    {
+      "id": "5f392fdb22ea7cbfcf704c7bccbdc3f3",
+      "title": "Doanh trại tuyển Thụy Sĩ ở World Cup 2026 bị bao vây bởi ổ rắn",
+      "link": "https://vnexpress.net/doanh-trai-tuyen-thuy-si-o-world-cup-2026-bi-bao-vay-boi-o-ran-5083007.html",
+      "summary": "Đội tuyển Thụy Sĩ đang được đặt trong tình trạng báo động đỏ sau khi nhận cảnh báo về sự xuất hiện của rắn ngay sát căn cứ đóng quân ở San Diego, bang California.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T22:44:08+07:00",
+      "fetched": "2026-06-08T06:02:08.216636+07:00"
+    },
+    {
+      "id": "b36c33bf0cb98d146572ccd210cc2dfb",
+      "title": "Tiêu điểm quốc tế ngày 8.6: Triều Tiên quyết giữ vị thế hạt nhân | Israel hạ sát sĩ quan Lebanon",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-ngay-86-trieu-tien-quyet-giu-vi-the-hat-nhan-israel-ha-sat-si-quan-lebanon-18526060803060429.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 8.6.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T22:30:00+07:00",
+      "fetched": "2026-06-08T06:02:11.549232+07:00"
+    },
+    {
+      "id": "7bf67975cfd9af267f3027cea6606dd8",
+      "title": "Một gia đình có 3 người trúng 12 tỉ xổ số miền Nam, nhận toàn bộ tiền mặt",
+      "link": "https://thanhnien.vn/mot-gia-dinh-co-3-nguoi-trung-12-ti-xo-so-mien-nam-nhan-toan-bo-tien-mat-185260607125128453.htm",
+      "summary": "Một gia đình ở Vĩnh Long có 3 người cùng lúc trúng độc đắc xổ số miền Nam, tổng trị giá 12 tỉ đồng. Đại lý cho biết đã mang tiền mặt tới tận nhà đổi thưởng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T22:30:00+07:00",
+      "fetched": "2026-06-08T06:02:11.549368+07:00"
+    },
+    {
+      "id": "74fe89c557df70eda114f16e09d20f7c",
+      "title": "Khoảnh khắc tài xế thoát khỏi xe ben trước khi tàu hỏa tông trúng",
+      "link": "https://vnexpress.net/khoanh-khac-tai-xe-thoat-khoi-xe-ben-truoc-khi-tau-hoa-tong-trung-5083005.html",
+      "summary": "Dù barie đã hạ, tài xế xe ben vẫn cố lách qua lối ngang ở xã Thường Tín rồi mắc kẹt trên đường ray, kịp nhảy khỏi cabin trước khi tàu SE19 lao tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T22:15:51+07:00",
+      "fetched": "2026-06-08T06:02:08.216775+07:00"
+    },
+    {
+      "id": "27a4fb33980ddb794bf1706609952332",
+      "title": "Áp lực cơm áo gạo tiền đè bẹp giấc mơ sinh con của nhiều người Nhật",
+      "link": "https://vnexpress.net/ap-luc-com-ao-gao-tien-de-bep-giac-mo-sinh-con-cua-nhieu-nguoi-nhat-5082813.html",
+      "summary": "Việc tỷ suất sinh tại Nhật Bản lao dốc xuống mức thấp kỷ lục phản ánh thực trạng bão giá và áp lực chi phí giáo dục đắt đỏ đang đè nặng khiến giới trẻ ngại sinh con.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T22:00:00+07:00",
+      "fetched": "2026-06-08T06:02:08.216919+07:00"
+    },
+    {
+      "id": "04bbd1fea6129860d431e19f89c9359b",
+      "title": "Pháp tìm cách níu chân ông Trump tại hội nghị G7",
+      "link": "https://vnexpress.net/phap-tim-cach-niu-chan-ong-trump-tai-hoi-nghi-g7-5082394.html",
+      "summary": "Pháp đang tìm cách bảo đảm ông Trump tham dự trọn vẹn hội nghị G7 sắp diễn ra, khi mối quan tâm của Tổng thống Mỹ với châu Âu phai nhạt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T22:00:00+07:00",
+      "fetched": "2026-06-08T06:02:08.217051+07:00"
+    },
+    {
+      "id": "bb7a6008ec41815f2b716e742085d981",
+      "title": "Làn sóng AI đe dọa thế hệ startup tiền ChatGPT",
+      "link": "https://vnexpress.net/lan-song-ai-de-doa-the-he-startup-tien-chatgpt-5081477.html",
+      "summary": "Hàng trăm startup từng được định giá tỷ USD trước khi ChatGPT xuất hiện nay rơi vào tình cảnh khó gọi vốn, giá trị sụt giảm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T22:00:00+07:00",
+      "fetched": "2026-06-08T06:02:08.217185+07:00"
+    },
+    {
+      "id": "8e6f10b4357a8678012412ce8bf4c152",
+      "title": "Công viên Lê Thị Riêng - nơi tìm mộ chiến sĩ hy sinh 58 năm trước",
+      "link": "https://vnexpress.net/cong-vien-le-thi-rieng-noi-tim-mo-chien-si-hy-sinh-58-nam-truoc-5081168.html",
+      "summary": "Công viên ở trung tâm TP HCM rộng 8 ha với nhiều mảng xanh, đang là nơi tìm kiếm hố chôn chiến sĩ hy sinh trong cuộc tổng tấn công và nổi dậy Xuân Mậu Thân năm 1968.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T22:00:00+07:00",
+      "fetched": "2026-06-08T06:02:08.217328+07:00"
+    },
+    {
+      "id": "a8ec78f94bbdebe670863409bfc57748",
+      "title": "Kia Sorento hybrid 2026 ra mắt Việt Nam",
+      "link": "https://vnexpress.net/kia-sorento-hybrid-2026-ra-mat-viet-nam-5082935.html",
+      "summary": "Sorento hybrid ra mắt hôm 6/6 với thiết kế mới, động cơ kết hợp máy xăng tăng áp 1.6 và môtơ có công suất lớn hơn trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T22:00:00+07:00",
+      "fetched": "2026-06-08T06:02:08.217460+07:00"
+    },
+    {
+      "id": "7df0020269a729c3af2ec89e4d10760e",
+      "title": "Cảnh hội hè, thiếu nữ trong tranh Trần Nguyên Dũng",
+      "link": "https://vnexpress.net/canh-hoi-he-thieu-nu-trong-tranh-tran-nguyen-dung-5081670.html",
+      "summary": "Họa sĩ Trần Nguyên Dũng khắc họa không khí tươi vui của lễ hội miền Bắc, thiếu nữ trong tà áo dài và vẻ trầm mặc của phố cổ Hà Nội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-07T22:00:00+07:00",
+      "fetched": "2026-06-08T06:02:08.217584+07:00"
+    },
+    {
+      "id": "04bbd1fea6129860d431e19f89c9359b",
+      "title": "Pháp tìm cách níu chân ông Trump tại hội nghị G7",
+      "link": "https://vnexpress.net/phap-tim-cach-niu-chan-ong-trump-tai-hoi-nghi-g7-5082394.html",
+      "summary": "Pháp đang tìm cách bảo đảm ông Trump tham dự trọn vẹn hội nghị G7 sắp diễn ra, khi mối quan tâm của Tổng thống Mỹ với châu Âu phai nhạt.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-07T22:00:00+07:00",
+      "fetched": "2026-06-08T06:02:14.589368+07:00"
+    },
+    {
+      "id": "bb7a6008ec41815f2b716e742085d981",
+      "title": "Làn sóng AI đe dọa thế hệ startup tiền ChatGPT",
+      "link": "https://vnexpress.net/lan-song-ai-de-doa-the-he-startup-tien-chatgpt-5081477.html",
+      "summary": "Hàng trăm startup từng được định giá tỷ USD trước khi ChatGPT xuất hiện nay rơi vào tình cảnh khó gọi vốn, giá trị sụt giảm.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-07T22:00:00+07:00",
+      "fetched": "2026-06-08T06:02:20.253063+07:00"
     },
     {
       "id": "b7804eb62857d4629d5a2259d5b8abf2",
