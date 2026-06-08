@@ -1,7 +1,17 @@
 window.newsData_2026_06_09 = {
   "date": "2026-06-09",
-  "lastUpdated": "2026-06-09T01:23:21.334607+07:00",
+  "lastUpdated": "2026-06-09T04:47:56.225395+07:00",
   "articles": [
+    {
+      "id": "43b60b3b08b23b9396cd594355f342f9",
+      "title": "Nỗi lo lớn cho U19 Việt Nam khi Úc cầm chắc vé đi tiếp",
+      "link": "https://tuoitre.vn/noi-lo-lon-cho-u19-viet-nam-khi-uc-cam-chac-ve-di-tiep-20260608222815382.htm",
+      "summary": "Dù đang chiếm thế thượng phong trong cuộc đua thành tích của các đội nhì bảng ở Giải U19 Đông Nam Á 2026, U19 Việt Nam vẫn đối mặt nhiều nỗi lo từ trận đấu cuối cùng ở bảng C.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T04:47:48.711684+07:00",
+      "fetched": "2026-06-09T04:47:48.712016+07:00"
+    },
     {
       "id": "5540b0b17caa6f371d36c91d97dfeb6f",
       "title": "Nghịch lý 'ông lớn': Quy mô không đi cùng năng lực thích nghi",
@@ -151,6 +161,136 @@ window.newsData_2026_06_09 = {
       "category": "Tổng hợp",
       "published": "2026-06-09T01:23:12.615695+07:00",
       "fetched": "2026-06-09T01:23:12.615988+07:00"
+    },
+    {
+      "id": "7877da38e38b2ab260de8435b6691fb8",
+      "title": "Một phút chơi trội và bản án có thật",
+      "link": "https://thanhnien.vn/mot-phut-choi-troi-va-ban-an-co-that-18526060811503433.htm",
+      "summary": "Một người làm nghề trại hòm biến chính công cụ mưu sinh của mình thành đạo cụ tiệc tùng, ở góc nào đó là một kiểu hài hước tự trào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T21:42:00+07:00",
+      "fetched": "2026-06-09T04:47:47.729911+07:00"
+    },
+    {
+      "id": "50b8c6201b6eeaf83e1c8810c03d2036",
+      "title": "Chiến sự Ukraine ngày 1.566: Kyiv đánh 'mạch dầu' Nga, tái kiểm soát thêm lãnh thổ",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1566-kyiv-danh-mach-dau-nga-tai-kiem-soat-them-lanh-tho-18526060822110451.htm",
+      "summary": "Bộ Tổng tham mưu Ukraine cho biết lực lượng nước này đã tấn công một kho dầu, một cơ sở điều phối đường ống và nhiều mục tiêu quân sự của Nga trong đêm 7.6.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T21:37:00+07:00",
+      "fetched": "2026-06-09T04:47:47.730088+07:00"
+    },
+    {
+      "id": "8ea7c5de312f4a1608231146224339cd",
+      "title": "Houthi bắn tên lửa vào Israel",
+      "link": "https://thanhnien.vn/houthi-ban-ten-lua-vao-israel-185260608220010863.htm",
+      "summary": "Theo AFP, lực lượng Houthi ngày 8.6 tuyên bố đã tấn công Israel bằng tên lửa và cấm vận hoạt động hàng hải của Israel trên biển Đỏ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T21:24:00+07:00",
+      "fetched": "2026-06-09T04:47:47.730231+07:00"
+    },
+    {
+      "id": "c6f8d06737d2ef3569b6dd6184918d13",
+      "title": "Vải thiều ngọt lịm: Ăn bao nhiêu quả thì đường huyết chạm ngưỡng báo động?",
+      "link": "https://thanhnien.vn/vai-thieu-ngot-lim-an-bao-nhieu-qua-thi-duong-huyet-cham-nguong-bao-dong-18526060816132863.htm",
+      "summary": "Vải thiều với cùi trắng mọng nước, vị ngọt, chua nhẹ được ưa chuộng trong mùa hè. Tuy nhiên việc tiêu thụ loại quả này cần có giới hạn để tránh ảnh hưởng đường huyết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T21:19:00+07:00",
+      "fetched": "2026-06-09T04:47:47.730361+07:00"
+    },
+    {
+      "id": "2d145dd339e23413e518b1ec60ea445b",
+      "title": "Son Heung-min: Bàn chân bé nhỏ mang sứ mệnh lớn",
+      "link": "https://thanhnien.vn/son-heung-min-ban-chan-be-nho-mang-su-menh-lon-185260608221138923.htm",
+      "summary": "Dù không còn ở thời kỳ đỉnh cao nhưng tiền đạo Son Heung-min vẫn được xem là niềm hy vọng lớn nhất của bóng đá Hàn Quốc tại World Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T21:08:00+07:00",
+      "fetched": "2026-06-09T04:47:47.730484+07:00"
+    },
+    {
+      "id": "85038569a9cc5b434e519a90c4492d76",
+      "title": "Vì sao xăng E10 có nhiều màu sắc?",
+      "link": "https://vnexpress.net/vi-sao-xang-e10-co-nhieu-mau-sac-5083201.html",
+      "summary": "Màu sắc xăng E10 phụ thuộc nguồn xăng khoáng, quy trình sản xuất, phụ gia sử dụng, không phản ánh chất lượng nhiên liệu hay tỷ lệ ethanol pha trộn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T21:00:00+07:00",
+      "fetched": "2026-06-09T04:47:44.508893+07:00"
+    },
+    {
+      "id": "6cf95c8c7b09fc5aea1dc5da85727525",
+      "title": "Hình ảnh Việt Nam xuất hiện nhiều lần tại sự kiện Apple",
+      "link": "https://vnexpress.net/hinh-anh-viet-nam-xuat-hien-nhieu-lan-tai-su-kien-apple-5083423.html",
+      "summary": "Sự kiện WWDC 2026 của Apple sử dụng món phở để minh họa AI đánh giá dinh dưỡng, hình ảnh Hà Nội cho tính năng nhận diện giọng nói, và tiếng Việt trong ngôn ngữ hỗ trợ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T19:32:25+07:00",
+      "fetched": "2026-06-09T04:47:44.509082+07:00"
+    },
+    {
+      "id": "6cf95c8c7b09fc5aea1dc5da85727525",
+      "title": "Hình ảnh Việt Nam xuất hiện nhiều lần tại sự kiện Apple",
+      "link": "https://vnexpress.net/hinh-anh-viet-nam-xuat-hien-nhieu-lan-tai-su-kien-apple-5083423.html",
+      "summary": "Sự kiện WWDC 2026 của Apple sử dụng món phở để minh họa AI đánh giá dinh dưỡng, hình ảnh Hà Nội cho tính năng nhận diện giọng nói, và tiếng Việt trong ngôn ngữ hỗ trợ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-08T19:32:25+07:00",
+      "fetched": "2026-06-09T04:47:54.543098+07:00"
+    },
+    {
+      "id": "bb144f86ac43d517a567b0f8fc2c8eb8",
+      "title": "Những lỗi thường gặp khi đi bộ khiến khớp tổn thương",
+      "link": "https://vnexpress.net/nhung-loi-thuong-gap-khi-di-bo-khien-khop-ton-thuong-5081148.html",
+      "summary": "Đi bộ sai tư thế như cúi đầu, khom lưng, sải bước quá dài hoặc mang giày không phù hợp dễ gây đau nhức và chấn thương khớp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T19:00:00+07:00",
+      "fetched": "2026-06-09T04:47:44.509229+07:00"
+    },
+    {
+      "id": "c6131afa628faae4dbaa8837c0324efc",
+      "title": "Ngành hàng không sẽ tốn thêm 100 tỷ USD vì giá nhiên liệu tăng vọt",
+      "link": "https://vnexpress.net/nganh-hang-khong-se-ton-them-100-ty-usd-vi-gia-nhien-lieu-tang-vot-5083353.html",
+      "summary": "Các hãng bay dự báo tốn thêm 100 tỷ USD tiền nhiên liệu năm nay do xung đột Trung Đông đẩy giá cả tăng cao, theo IATA.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T18:54:55+07:00",
+      "fetched": "2026-06-09T04:47:44.509361+07:00"
+    },
+    {
+      "id": "c6131afa628faae4dbaa8837c0324efc",
+      "title": "Ngành hàng không sẽ tốn thêm 100 tỷ USD vì giá nhiên liệu tăng vọt",
+      "link": "https://vnexpress.net/nganh-hang-khong-se-ton-them-100-ty-usd-vi-gia-nhien-lieu-tang-vot-5083353.html",
+      "summary": "Các hãng bay dự báo tốn thêm 100 tỷ USD tiền nhiên liệu năm nay do xung đột Trung Đông đẩy giá cả tăng cao, theo IATA.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-08T18:54:55+07:00",
+      "fetched": "2026-06-09T04:47:51.652170+07:00"
+    },
+    {
+      "id": "d05f97245a0a087afa235b70022529f1",
+      "title": "Apple bắt tay Google để 'tái sinh' Siri",
+      "link": "https://vnexpress.net/apple-bat-tay-google-de-tai-sinh-siri-5083419.html",
+      "summary": "Apple công bố hợp tác sâu với Google để xây dựng thế hệ Apple Intelligence mới, đồng thời trình làng Siri AI, phiên bản \"đại tu\" lớn nhất kể từ ngày Siri ra mắt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-08T18:29:17+07:00",
+      "fetched": "2026-06-09T04:47:44.509492+07:00"
+    },
+    {
+      "id": "d05f97245a0a087afa235b70022529f1",
+      "title": "Apple bắt tay Google để 'tái sinh' Siri",
+      "link": "https://vnexpress.net/apple-bat-tay-google-de-tai-sinh-siri-5083419.html",
+      "summary": "Apple công bố hợp tác sâu với Google để xây dựng thế hệ Apple Intelligence mới, đồng thời trình làng Siri AI, phiên bản \"đại tu\" lớn nhất kể từ ngày Siri ra mắt.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-08T18:29:17+07:00",
+      "fetched": "2026-06-09T04:47:54.543533+07:00"
     },
     {
       "id": "6050f633e2272aa7e3d3d065580dd6b4",
