@@ -1,6 +1,6 @@
 window.newsData_2026_06_10 = {
   "date": "2026-06-10",
-  "lastUpdated": "2026-06-10T00:59:37.003878+07:00",
+  "lastUpdated": "2026-06-10T03:16:00.507784+07:00",
   "articles": [
     {
       "id": "c48c41bd44a899897450cf1d3ad73e64",
@@ -151,6 +151,46 @@ window.newsData_2026_06_10 = {
       "category": "Tổng hợp",
       "published": "2026-06-10T00:59:29.256895+07:00",
       "fetched": "2026-06-10T00:59:29.257148+07:00"
+    },
+    {
+      "id": "1c4e7bcfba3494d57e2956f5e68fdc18",
+      "title": "Ngoài 20 tuổi đã 'bất lực'",
+      "link": "https://vnexpress.net/ngoai-20-tuoi-da-bat-luc-5083213.html",
+      "summary": "Nhiều nam giới ngoài 20 tuổi đã giảm ham muốn, xuất tinh sớm do thức khuya, stress công việc, ít vận động và lệ thuộc các kích thích trên mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T19:03:00+07:00",
+      "fetched": "2026-06-10T03:15:49.262802+07:00"
+    },
+    {
+      "id": "9c1f0cb837bad3255b9eb87b21a2c974",
+      "title": "7 việc nên làm mỗi ngày giúp giảm gan nhiễm mỡ",
+      "link": "https://vnexpress.net/7-viec-nen-lam-moi-ngay-giup-giam-gan-nhiem-mo-5083741.html",
+      "summary": "Duy trì vận động, giảm đồ uống có đường, ăn thực phẩm giàu chất xơ và uống cà phê hợp lý có thể giảm tích tụ chất béo, cải thiện chức năng gan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T19:00:00+07:00",
+      "fetched": "2026-06-10T03:15:49.262959+07:00"
+    },
+    {
+      "id": "ec313c80b370155e313af7c0040c7000",
+      "title": "Nghiên cứu mới chỉ ra thời điểm ăn sáng và ăn tối tốt cho đường huyết",
+      "link": "https://thanhnien.vn/nghien-cuu-moi-chi-ra-thoi-diem-an-sang-va-an-toi-tot-cho-duong-huyet-18526061001105611.htm",
+      "summary": "Một nghiên cứu mới cho thấy thời điểm ăn sáng và ăn tối có liên quan đến mức đường huyết qua đêm, từ đó tác động đến sức khỏe chuyển hóa và nguy cơ hạ đường huyết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T18:10:00+07:00",
+      "fetched": "2026-06-10T03:15:52.179141+07:00"
+    },
+    {
+      "id": "39d1f6ba3de5f1ab054fbd194ec96041",
+      "title": "Viêm thận kẽ",
+      "link": "https://vnexpress.net/suc-khoe/cam-nang/viem-than-ke-432",
+      "summary": "Viêm thận kẽ là tình trạng viêm xảy ra ở mô kẽ và các ống thận, có vai trò tái hấp thu nước, muối khoáng cùng các chất dinh dưỡng sau quá trình lọc máu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T18:00:00+07:00",
+      "fetched": "2026-06-10T03:15:49.263101+07:00"
     },
     {
       "id": "18ad672fd301ef5e7f8cbdb9a42bb78f",
