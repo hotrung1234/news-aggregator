@@ -1,7 +1,37 @@
 window.newsData_2026_06_10 = {
   "date": "2026-06-10",
-  "lastUpdated": "2026-06-10T03:16:00.507784+07:00",
+  "lastUpdated": "2026-06-10T06:15:37.137219+07:00",
   "articles": [
+    {
+      "id": "3ce54590692c9ffd455c27026639d57a",
+      "title": "NÓNG: Mỹ tấn công Iran, đáp trả việc trực thăng Apache bị bắn rơi ở Hormuz",
+      "link": "https://tuoitre.vn/nong-my-tan-cong-iran-dap-tra-viec-truc-thang-apache-bi-ban-roi-o-hormuz-20260610021904465.htm",
+      "summary": "Tổng thống Trump khẳng định Iran đã bắn hạ trực thăng Apache của Mỹ tại eo biển Hormuz và tuyên bố Mỹ sẽ có phản ứng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-10T06:15:30.145336+07:00",
+      "fetched": "2026-06-10T06:15:30.145450+07:00"
+    },
+    {
+      "id": "064b75891c38dc9f370ed70164b91ce6",
+      "title": "Giá vàng thế giới bất ngờ giảm mạnh giữa đêm, vàng trong nước sáng nay ra ra sao?",
+      "link": "https://tuoitre.vn/gia-vang-the-gioi-bat-ngo-giam-manh-giua-dem-vang-trong-nuoc-sang-nay-ra-ra-sao-20260610011723374.htm",
+      "summary": "0h30 hôm nay, 10-6, giá vàng thế giới có lúc giảm đến 88 USD/ounce, về sát 4.200 USD/ounce sau đó hồi phục trở lại lên mức 4.258 USD/ounce.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-10T06:15:30.145213+07:00",
+      "fetched": "2026-06-10T06:15:30.145325+07:00"
+    },
+    {
+      "id": "3eb274d53707f88bcd301afa5df90b05",
+      "title": "TP.HCM triển khai thủ tục đất đai trực tuyến, trả kết quả sau 2-4 giờ",
+      "link": "https://tuoitre.vn/tp-hcm-trien-khai-thu-tuc-dat-dai-truc-tuyen-tra-ket-qua-sau-2-4-gio-20260609181310947.htm",
+      "summary": "Chi nhánh Văn phòng đăng ký đất đai số 2 TP.HCM triển khai tiếp nhận hồ sơ trực tuyến, giúp người dân giảm đi lại, xử lý nhanh hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-10T06:15:30.145000+07:00",
+      "fetched": "2026-06-10T06:15:30.145200+07:00"
+    },
     {
       "id": "c48c41bd44a899897450cf1d3ad73e64",
       "title": "Campuchia muốn làm sâu sắc hơn nữa quan hệ với Việt Nam",
@@ -151,6 +181,236 @@ window.newsData_2026_06_10 = {
       "category": "Tổng hợp",
       "published": "2026-06-10T00:59:29.256895+07:00",
       "fetched": "2026-06-10T00:59:29.257148+07:00"
+    },
+    {
+      "id": "ede32d3acf9bc008e11abe2644e7ea9d",
+      "title": "Cô dâu dùng 200 kg rau củ trang trí đám hỏi: 'Đây là nghề nuôi tôi khôn lớn'",
+      "link": "https://thanhnien.vn/co-dau-dung-200-kg-rau-cu-trang-tri-dam-hoi-day-la-nghe-nuoi-toi-khon-lon-18526060910401526.htm",
+      "summary": "Muốn tri ân người mẹ nhiều năm buôn bán rau củ để nuôi mình trưởng thành, cô dâu ở Vĩnh Long đã dùng 200 kg rau củ trang trí đám hỏi rồi chia hết cho khách mang về.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T23:15:00+07:00",
+      "fetched": "2026-06-10T06:15:29.062572+07:00"
+    },
+    {
+      "id": "9a6e504328e14b53969f26648214f3e4",
+      "title": "Dàn ‘Táo quân’ sẽ tham gia bình luận World Cup 2026",
+      "link": "https://thanhnien.vn/dan-tao-quan-se-tham-gia-binh-luan-world-cup-2026-185260609223157558.htm",
+      "summary": "NSND Xuân Bắc, NSND Tự Long, NSƯT Chí Trung, NSƯT Quang Thắng, NSƯT Thái Sơn, Trung Ruồi, Duy Nam, Dũng Hớn, Thái Dương… sẽ mang đến màu sắc giải trí mới lạ cho ngày hội bóng đá lớn nhất hành tinh ở vai trò khách mời trong các buổi bình luận, đồng hành cùng khán giả xuyên suốt FIFA World Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T23:13:00+07:00",
+      "fetched": "2026-06-10T06:15:29.062723+07:00"
+    },
+    {
+      "id": "ed6c7bc4820e8e92157977f3cfc1c577",
+      "title": "Michelin bỏ lỡ gì tại Việt Nam?",
+      "link": "https://thanhnien.vn/michelin-bo-lo-gi-tai-viet-nam-185260609220624324.htm",
+      "summary": "Điều nuối tiếc nhất của Michelin là đã không tái hiện được bản đồ đầy đủ của một đất nước lúc nào cũng ấm nóng truyền thống ẩm thực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T23:09:00+07:00",
+      "fetched": "2026-06-10T06:15:29.062860+07:00"
+    },
+    {
+      "id": "316c0abec281d4ce560e47a49b448817",
+      "title": "Lịch thi tốt nghiệp THPT 2026 và những lưu ý quan trọng trước ngày thi",
+      "link": "https://thanhnien.vn/lich-thi-tot-nghiep-thpt-2026-va-nhung-luu-y-quan-trong-truoc-ngay-thi-185260609235246874.htm",
+      "summary": "Chỉ còn 1 ngày nữa là hơn 1,2 triệu thí sinh trên cả nước sẽ chính thức bước vào môn đầu tiên kỳ thi tốt nghiệp THPT 2026. Để có một kỳ thi trọn vẹn, đạt kết quả tốt nhất sau những nỗ lực học tập, thí sinh cần lưu ý những điều sau đây, ngay từ lịch thi tốt nghiệp THPT.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T23:02:00+07:00",
+      "fetched": "2026-06-10T06:15:29.062994+07:00"
+    },
+    {
+      "id": "b0741641c289b686277301fb30494664",
+      "title": "Thương chiến Mỹ - Trung đang âm thầm leo thang?",
+      "link": "https://thanhnien.vn/thuong-chien-my-trung-dang-am-tham-leo-thang-185260609211500824.htm",
+      "summary": "Việc Bộ Quốc phòng Mỹ bổ sung nhiều công ty lớn của Trung Quốc vào danh sách các thực thể được cho là có quan hệ với quân đội Trung Quốc có phải là bước tiếp theo trong cuộc leo thang thương chiến giữa hai bên?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T23:00:00+07:00",
+      "fetched": "2026-06-10T06:15:29.063127+07:00"
+    },
+    {
+      "id": "1768b66f7afe23f02a4d7e31da5f6064",
+      "title": "'Cơn địa chấn' giá vàng vẫn chưa dứt",
+      "link": "https://thanhnien.vn/con-dia-chan-gia-vang-van-chua-dut-18526060920540087.htm",
+      "summary": "Giá vàng trượt giảm mạnh từ đầu tháng 2 đến nay và chưa có dấu hiệu dừng lại. Điểm đáng chú ý là giá trong nước giảm với tốc độ nhanh hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T23:00:00+07:00",
+      "fetched": "2026-06-10T06:15:29.063254+07:00"
+    },
+    {
+      "id": "fd0e3e975ec1471ca7615453e4dc2ae4",
+      "title": "TP.HCM dồn nguồn lực làm nhà cho thuê",
+      "link": "https://thanhnien.vn/tphcm-don-nguon-luc-lam-nha-cho-thue-185260609205244089.htm",
+      "summary": "Tại hội nghị triển khai, xúc tiến đầu tư và phát triển nhà ở cho thuê trên địa bàn TP.HCM do Sở Xây dựng TP.HCM phối hợp Hội Khoa học kỹ thuật xây dựng TP.HCM tổ chức ngày 9.6, lãnh đạo TP.HCM cam kết dành mọi cơ chế tốt, nguồn lực để làm nhà cho thuê.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T23:00:00+07:00",
+      "fetched": "2026-06-10T06:15:29.063380+07:00"
+    },
+    {
+      "id": "3367fb7cef87ae6482fef617243a86ce",
+      "title": "Giá trứng xuống đáy, người chăn nuôi điêu đứng",
+      "link": "https://thanhnien.vn/gia-trung-xuong-day-nguoi-chan-nuoi-dieu-dung-185260609204954839.htm",
+      "summary": "Sau giai đoạn duy trì ở mức có lợi nhuận trong năm 2025, thị trường trứng gà đang chứng kiến đợt lao dốc mạnh nhất trong nhiều năm trở lại đây. Giá thu mua tại trại liên tục giảm sâu, thấp hơn giá thành sản xuất, khiến nhiều hộ chăn nuôi và doanh nghiệp rơi vào tình trạng thua lỗ kéo dài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T23:00:00+07:00",
+      "fetched": "2026-06-10T06:15:29.063517+07:00"
+    },
+    {
+      "id": "4ba0673ea24f409cc16143e5614455e8",
+      "title": "Bản tin sức khỏe 10.6: Nằm lướt điện thoại có thể đau cột sống | Thói quen 'chấm chấm' gây hại thận",
+      "link": "https://thanhnien.vn/ban-tin-suc-khoe-106-nam-luot-dien-thoai-co-the-dau-cot-song-thoi-quen-cham-cham-gay-hai-than-185260609153957514.htm",
+      "summary": "Bản tin sức khỏe của Báo Thanh Niên (phát từ thứ hai đến thứ sáu) cập nhật những thông tin y tế đáng chú ý, từ các khuyến cáo bảo vệ sức khỏe, chế độ dinh dưỡng, tập luyện, đến những nghiên cứu, cảnh báo dịch bệnh mới nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T23:00:00+07:00",
+      "fetched": "2026-06-10T06:15:29.063653+07:00"
+    },
+    {
+      "id": "cf818a4faa01f87ea7ca47ed35c96800",
+      "title": "Mặc áo mưa cánh dơi khi đi xe máy: Nguy hiểm hơn nhiều người nghĩ",
+      "link": "https://thanhnien.vn/mac-ao-mua-canh-doi-khi-di-xe-may-nguy-hiem-hon-nhieu-nguoi-nghi-185260603210702761.htm",
+      "summary": "Mùa mưa đã bắt đầu tại TP.HCM. CSGT cảnh báo áo mưa cánh dơi nếu sử dụng không đúng cách có thể che khuất tầm nhìn, vướng bánh xe và làm tăng nguy cơ tai nạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T23:00:00+07:00",
+      "fetched": "2026-06-10T06:15:29.063780+07:00"
+    },
+    {
+      "id": "569fcf759e62c0796a4ae9906dc76cbe",
+      "title": "'Thách thức với tài sản trí tuệ là định giá được thị trường chấp nhận hay không'",
+      "link": "https://vnexpress.net/thach-thuc-voi-tai-san-tri-tue-la-dinh-gia-duoc-thi-truong-chap-nhan-hay-khong-5083614.html",
+      "summary": "Ông Lê Quang Vinh, nhà sáng lập Bross & Partners, cho rằng tài sản trí tuệ có thể được định giá, nhưng không dễ đưa vào thị trường, đòi hỏi biện pháp để tham chiếu thông tin, chia sẻ rủi ro.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-09T23:00:00+07:00",
+      "fetched": "2026-06-10T06:15:36.048132+07:00"
+    },
+    {
+      "id": "d843de46e342d52218fd4dc1168fe038",
+      "title": "Hơn 10 năm được nhắc tên, vì sao 4 bãi xe ngầm nghìn tỉ ở TP.HCM vẫn chưa xuất hiện?",
+      "link": "https://thanhnien.vn/hon-10-nam-duoc-nhac-ten-vi-sao-4-bai-xe-ngam-nghin-ti-o-tphcm-van-chua-xuat-hien-185260604202932823.htm",
+      "summary": "Từng được kỳ vọng giải bài toán thiếu chỗ đậu xe cho khu vực trung tâm, 4 dự án bãi xe ngầm tại TP.HCM đã được nhắc đến suốt nhiều năm. Thế nhưng đến nay, phần lớn vẫn chưa thể thành hình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T22:59:00+07:00",
+      "fetched": "2026-06-10T06:15:29.063907+07:00"
+    },
+    {
+      "id": "0b704a5eb7a9975c9a8922cb68986cb1",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 10.6.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-1062026-18526060922243187.htm",
+      "summary": "Tin tức ASEAN sẽ tiếp tục phát huy vai trò trung tâm, Michelin bỏ lỡ gì tại Việt Nam?, Iran - Israel dừng tấn công lẫn nhau… có thể đón xem trên Báo Thanh Niên số ra ngày 10.6.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T22:56:00+07:00",
+      "fetched": "2026-06-10T06:15:29.064033+07:00"
+    },
+    {
+      "id": "acd02380a56f7451a1a339c6b4847fa8",
+      "title": "NÓNG: Mỹ tấn công đáp trả Iran, IRGC tuyên bố phóng tên lửa",
+      "link": "https://thanhnien.vn/nong-my-tan-cong-dap-tra-iran-irgc-cung-phong-ten-lua-185260610055411275.htm",
+      "summary": "CENTCOM thông báo quân đội Mỹ đã tấn công nhắm vào Iran để đáp trả vụ bắn rơi trực thăng Apache, sau đó phía Iran cũng tuyên bố đã phóng tên lửa vào các mục tiêu Mỹ trong khu vực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T22:54:00+07:00",
+      "fetched": "2026-06-10T06:15:29.064160+07:00"
+    },
+    {
+      "id": "f6df17f4925864573283d50c04dc3908",
+      "title": "Kỳ thi THPT đầu tiên với 34 tỉnh, thành phố",
+      "link": "https://thanhnien.vn/ky-thi-thpt-dau-tien-voi-34-tinh-thanh-pho-185260609184311927.htm",
+      "summary": "Kỳ thi tốt nghiệp THPT năm 2026 là lần thứ hai triển khai đầy đủ theo chương trình Giáo dục phổ thông 2018 và là lần đầu tiên được tổ chức trong mô hình hành chính mới với 34 tỉnh, thành phố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T22:54:00+07:00",
+      "fetched": "2026-06-10T06:15:29.064284+07:00"
+    },
+    {
+      "id": "e5c5eb54259b2d1ca022e2ce6ed40a29",
+      "title": "Mệnh lệnh từ trái tim",
+      "link": "https://thanhnien.vn/menh-lenh-tu-trai-tim-185260609213730473.htm",
+      "summary": "Ít nhất 900 hài cốt liệt sĩ hy sinh trong cuộc Tổng tiến công và nổi dậy Xuân Mậu Thân 1968 có thể đang nằm dưới khu vực công viên Lê Thị Riêng (TP.HCM) ngày nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T22:52:00+07:00",
+      "fetched": "2026-06-10T06:15:29.064412+07:00"
+    },
+    {
+      "id": "f22bc55793df183cb823210f04d37ee9",
+      "title": "15 giờ Thủ tướng Israel 'đi trên lằn ranh' với ông Trump",
+      "link": "https://vnexpress.net/15-gio-thu-tuong-israel-di-tren-lan-ranh-voi-ong-trump-5083438.html",
+      "summary": "Thủ tướng Netanyahu vẫn ra lệnh không kích Iran bất chấp cảnh báo của ông Trump, nhưng phải dừng lại sau 15 giờ, khi Tổng thống Mỹ đưa ra thông điệp cứng rắn hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T22:00:00+07:00",
+      "fetched": "2026-06-10T06:15:26.040849+07:00"
+    },
+    {
+      "id": "f388f97ce97a849f6ae5f5cb69cb9d6a",
+      "title": "4 món ăn thừa không nên để tủ lạnh quá 48 tiếng",
+      "link": "https://vnexpress.net/4-mon-an-thua-khong-nen-de-tu-lanh-qua-48-tieng-5083279.html",
+      "summary": "Thịt tái, salad, cơm thừa và các món nấu với số lượng lớn tuyệt đối không nên tích trữ quá hai ngày, bởi vi khuẩn độc hại vẫn âm thầm sinh sôi trong tủ lạnh và gây ngộ độc nghiêm trọng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T22:00:00+07:00",
+      "fetched": "2026-06-10T06:15:26.041008+07:00"
+    },
+    {
+      "id": "b58aea84ad565bba9899fb95e19ca4f4",
+      "title": "Hơn thập kỷ tài xế công nghệ 'mắc kẹt trong vỏ bọc đối tác'",
+      "link": "https://vnexpress.net/hon-thap-ky-tai-xe-cong-nghe-mac-ket-trong-vo-boc-doi-tac-5082998.html",
+      "summary": "Các nền tảng luôn khẳng định tài xế công nghệ là đối tác ngang hàng, từ chối các nghĩa vụ của người sử dụng lao động, song các nghiên cứu đều chỉ ra điều ngược lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T22:00:00+07:00",
+      "fetched": "2026-06-10T06:15:26.041151+07:00"
+    },
+    {
+      "id": "a6981c1f3f322cbae737ea22cfc070eb",
+      "title": "Lá gan của mẹ thay đổi số phận con gái",
+      "link": "https://vnexpress.net/la-gan-cua-me-thay-doi-so-phan-con-gai-5081430.html",
+      "summary": "Bé Lò Ngọc Thảo Nhi, một tuổi, xơ gan giai đoạn cuối, được mẹ hiến gan và chương trình Mặt trời Hy vọng hỗ trợ chi phí ghép gan thành công.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T22:00:00+07:00",
+      "fetched": "2026-06-10T06:15:26.041294+07:00"
+    },
+    {
+      "id": "dcef3aa32972a648b900a26632a7cfbc",
+      "title": "Mexico ra mắt xe điện nội địa đầu tiên",
+      "link": "https://vnexpress.net/mexico-ra-mat-xe-dien-noi-dia-dau-tien-5083684.html",
+      "summary": "Đích thân Tổng thống Mexico, Claudia Sheinbaum, công bố mẫu xe điện nội địa đầu tiên với mức giá chưa đến 9.000 USD, bán ra từ 2027.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T22:00:00+07:00",
+      "fetched": "2026-06-10T06:15:26.041452+07:00"
+    },
+    {
+      "id": "f22bc55793df183cb823210f04d37ee9",
+      "title": "15 giờ Thủ tướng Israel 'đi trên lằn ranh' với ông Trump",
+      "link": "https://vnexpress.net/15-gio-thu-tuong-israel-di-tren-lan-ranh-voi-ong-trump-5083438.html",
+      "summary": "Thủ tướng Netanyahu vẫn ra lệnh không kích Iran bất chấp cảnh báo của ông Trump, nhưng phải dừng lại sau 15 giờ, khi Tổng thống Mỹ đưa ra thông điệp cứng rắn hơn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-09T22:00:00+07:00",
+      "fetched": "2026-06-10T06:15:32.091706+07:00"
+    },
+    {
+      "id": "0aaf6b5c0b425f22be23ba75423fc95c",
+      "title": "Hàng loạt hãng xe châu Âu bỏ cuộc chơi hybrid tại Trung Quốc",
+      "link": "https://vnexpress.net/hang-loat-hang-xe-chau-au-bo-cuoc-choi-hybrid-tai-trung-quoc-5083041.html",
+      "summary": "Quy định nâng quãng đường chạy điện tối thiểu từ 43 km lên thành 100 km mới được hưởng ưu đãi thuế khiến xe châu Âu mất lợi thế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-09T21:00:00+07:00",
+      "fetched": "2026-06-10T06:15:26.041590+07:00"
     },
     {
       "id": "1c4e7bcfba3494d57e2956f5e68fdc18",
