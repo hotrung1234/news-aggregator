@@ -1,7 +1,77 @@
 window.newsData_2026_06_14 = {
   "date": "2026-06-14",
-  "lastUpdated": "2026-06-14T00:19:52.268520+07:00",
+  "lastUpdated": "2026-06-14T02:22:13.557795+07:00",
   "articles": [
+    {
+      "id": "fbcc67fc5eac1a76c59cade44c457178",
+      "title": "Nếu Đồng Nai cam kết đạt kết quả cao hơn, Chính phủ sẽ ưu tiên bố trí nguồn lực ngay trong năm 2027",
+      "link": "https://tuoitre.vn/neu-dong-nai-cam-ket-dat-ket-qua-cao-hon-chinh-phu-se-uu-tien-bo-tri-nguon-luc-ngay-trong-nam-2027-20260613221501901.htm",
+      "summary": "Thủ tướng Lê Minh Hưng khẳng định nếu Đồng Nai cam kết hoàn thành và đặt mục tiêu cao hơn, đạt kết quả cao hơn, Chính phủ sẽ ưu tiên bố trí nguồn lực lớn hơn cho Đồng Nai ngay trong năm 2027 và giai đoạn tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T02:22:03.631877+07:00",
+      "fetched": "2026-06-14T02:22:03.631981+07:00"
+    },
+    {
+      "id": "295998ec376f1aff3550d609d387f2fe",
+      "title": "Công an dùng flycam truy vết, bắt nghi phạm trốn trong rừng sâu sau khi đánh chết bé trai 12 tuổi",
+      "link": "https://tuoitre.vn/cong-an-dung-flycam-truy-vet-bat-nghi-pham-tron-trong-rung-sau-sau-khi-danh-chet-be-trai-12-tuoi-20260613220617943.htm",
+      "summary": "Trong quá trình truy bắt nghi phạm đánh chết bé trai 12 tuổi, Công an tỉnh Lào Cai sử dụng flycam để lần theo dấu vết của nghi phạm trốn trong rừng sâu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T02:22:03.631768+07:00",
+      "fetched": "2026-06-14T02:22:03.631867+07:00"
+    },
+    {
+      "id": "5df694e3f866eec63a5a76d487dee5ce",
+      "title": "Anthropic bất ngờ vô hiệu hóa AI mạnh nhất sau lệnh từ Chính phủ Mỹ",
+      "link": "https://tuoitre.vn/anthropic-bat-ngo-vo-hieu-hoa-ai-manh-nhat-sau-lenh-tu-chinh-phu-my-20260613214346388.htm",
+      "summary": "Hai mô hình AI mới nhất của Anthropic đã bị ngừng cung cấp chỉ vài ngày sau khi ra mắt. Công ty cho biết quyết định được đưa ra để tuân thủ chỉ thị của Chính phủ Mỹ liên quan đến các rủi ro an ninh quốc gia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T02:22:03.631663+07:00",
+      "fetched": "2026-06-14T02:22:03.631759+07:00"
+    },
+    {
+      "id": "2f8d54ebc82ac4037a5bc36a8624f4fd",
+      "title": "Đội Nhật Bản và Ý thắp sáng sông Hàn trong đêm thi pháo hoa với chủ đề 'Văn hóa'",
+      "link": "https://tuoitre.vn/doi-nhat-ban-va-y-thap-sang-song-han-trong-dem-thi-phao-hoa-voi-chu-de-van-hoa-20260613102233115.htm",
+      "summary": "Tối 13-6, đêm thi thứ ba của Lễ hội pháo hoa quốc tế (DIFF) Đà Nẵng 2026 với chủ đề \"Văn hóa\" tiếp tục biến đôi bờ sông Hàn thành sân khấu ánh sáng rực rỡ với màn so tài giữa hai đội Nhật Bản và Ý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T02:22:03.631559+07:00",
+      "fetched": "2026-06-14T02:22:03.631654+07:00"
+    },
+    {
+      "id": "e94b66d52ddd251909324488a76cd4fc",
+      "title": "Huế trở lại bản đồ bóng đá chuyên nghiệp Việt Nam",
+      "link": "https://tuoitre.vn/hue-tro-lai-ban-do-bong-da-chuyen-nghiep-viet-nam-20260613220419274.htm",
+      "summary": "CLB Huế thăng hạng, trở lại Giải hạng nhất quốc gia từ mùa 2026 - 2027, sau một năm phải xuống đá hạng nhì.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T02:22:03.631450+07:00",
+      "fetched": "2026-06-14T02:22:03.631549+07:00"
+    },
+    {
+      "id": "ef22558ce587fa78407c71d7c920ccdd",
+      "title": "Hai ngày, giá vàng SJC tăng lên lại đến 11 triệu đồng/lượng",
+      "link": "https://tuoitre.vn/hai-ngay-gia-vang-sjc-tang-len-lai-den-11-trieu-dong-luong-20260613225729573.htm",
+      "summary": "Giá vàng miếng SJC tăng đến 11 triệu đồng/lượng so với mức đáy chỉ trong 2 ngày nhờ sự hồi phục của giá vàng thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T02:22:03.631320+07:00",
+      "fetched": "2026-06-14T02:22:03.631439+07:00"
+    },
+    {
+      "id": "026042fcce5d1c1164d182374030a74a",
+      "title": "New York muốn buộc máy in 3D 'từ chối' in súng 3D",
+      "link": "https://tuoitre.vn/new-york-muon-buoc-may-in-3d-tu-choi-in-sung-3d-20260613225636158.htm",
+      "summary": "Nếu được triển khai, các máy in 3D trong tương lai có thể tự động từ chối những bản thiết kế liên quan đến vũ khí.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T02:22:03.631052+07:00",
+      "fetched": "2026-06-14T02:22:03.631305+07:00"
+    },
     {
       "id": "803c78a22083f11218144b1483c783e8",
       "title": "Chuyên gia hiến kế gỡ nút thắt cho hành trình Net Zero của Việt Nam",
@@ -151,6 +221,46 @@ window.newsData_2026_06_14 = {
       "category": "Tổng hợp",
       "published": "2026-06-14T00:19:46.892498+07:00",
       "fetched": "2026-06-14T00:19:46.892690+07:00"
+    },
+    {
+      "id": "0711196a392e561c5bf2e12b98b022a2",
+      "title": "Nhà mua 4,5 tỷ giá tăng gấp đôi nhưng cho thuê chỉ 9 triệu đồng",
+      "link": "https://vnexpress.net/nha-mua-4-5-ty-gia-tang-gap-doi-nhung-cho-thue-chi-9-trieu-dong-5085368.html",
+      "summary": "Giá bán nhà có thể tăng rất nhanh, nhưng giá trị khai thác tăng chậm, bán được hay không lại là chuyện khó nói.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T18:01:45+07:00",
+      "fetched": "2026-06-14T02:20:27.245311+07:00"
+    },
+    {
+      "id": "c90a3809b39335b2c16919677cf928d9",
+      "title": "Harvard lần đầu mất vị thế dẫn đầu thế giới về nghiên cứu",
+      "link": "https://vnexpress.net/harvard-lan-dau-mat-vi-the-dan-dau-the-gioi-ve-nghien-cuu-5085466.html",
+      "summary": "Lần đầu tiên sau hơn 10 năm, Đại học Harvard phải nhường ngôi đầu bảng về đóng góp nghiên cứu khoa học cho một đại học của Trung Quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T17:33:04+07:00",
+      "fetched": "2026-06-14T02:20:27.245479+07:00"
+    },
+    {
+      "id": "27b705a3099a226bad49f21ad0af5d54",
+      "title": "Bị bắt vì dùng điếu cày đánh người trên đường Hà Nội",
+      "link": "https://vnexpress.net/bi-bat-vi-dung-dieu-cay-danh-nguoi-tren-duong-ha-noi-5085470.html",
+      "summary": "Camera an ninh ghi lại cảnh Nguyễn Tiến Lộc cùng một người khác truy đuổi, dùng điếu cày tấn công bạn trai của người yêu cũ trên đường Lê Duẩn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T17:29:55+07:00",
+      "fetched": "2026-06-14T02:20:27.245621+07:00"
+    },
+    {
+      "id": "047a9fa4be32547128927d10dc1f42f2",
+      "title": "Đêm tranh tài pháo hoa của Nhật Bản và Italy trên sông Hàn",
+      "link": "https://vnexpress.net/dem-tranh-tai-phao-hoa-cua-nhat-ban-va-italy-tren-song-han-5085472.html",
+      "summary": "Tối 13/6, đội Nhật Bản gây ấn tượng với hàng chục nghìn khán giả nhờ màn trình diễn giảm khói tối ưu, trong khi đội Italy thể hiện phong cách lãng mạn tại Lễ hội pháo hoa quốc tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T17:25:08+07:00",
+      "fetched": "2026-06-14T02:20:27.245758+07:00"
     },
     {
       "id": "018a26cb35eab858ecb1e7c28840d0c3",
