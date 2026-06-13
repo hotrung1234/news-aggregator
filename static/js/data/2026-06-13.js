@@ -1,7 +1,87 @@
 window.newsData_2026_06_13 = {
   "date": "2026-06-13",
-  "lastUpdated": "2026-06-13T20:53:08.943611+07:00",
+  "lastUpdated": "2026-06-13T22:41:31.996054+07:00",
   "articles": [
+    {
+      "id": "df2d06027474966f155927228431bf1e",
+      "title": "Mega livestream đặc biệt: Mua hàng vui giá hời, nhận quà, tiếp sức 'chiến binh hoa mặt trời'",
+      "link": "https://tuoitre.vn/mega-livestream-dac-biet-mua-hang-vui-gia-hoi-nhan-qua-tiep-suc-chien-binh-hoa-mat-troi-2026061320105423.htm",
+      "summary": "Chấp nhận biên lợi nhuận gần như bằng 0 và trích thẳng 10% doanh thu để ủng hộ các 'chiến binh hoa mặt trời', CEO Santony Việt Nam xem đây là sự tiếp nối của hành trình sống nghị lực và sẻ chia yêu thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T22:41:25.602037+07:00",
+      "fetched": "2026-06-13T22:41:25.602113+07:00"
+    },
+    {
+      "id": "28f2c4d34362d463c5a38d6cd0e127c5",
+      "title": "Miền Bắc mưa lớn ba ngày, có nơi trên 250mm",
+      "link": "https://tuoitre.vn/mien-bac-mua-lon-ba-ngay-co-noi-tren-250mm-20260613204118669.htm",
+      "summary": "Dự báo từ chiều tối mai (14-6), miền Bắc xảy ra một đợt mưa lớn trên diện rộng, có nơi mưa trên 250mm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T22:41:25.601961+07:00",
+      "fetched": "2026-06-13T22:41:25.602031+07:00"
+    },
+    {
+      "id": "c4e94fad92c9504ba00544346b555159",
+      "title": "Thông điệp của Việt Nam khi Thủ tướng Lê Minh Hưng dự Hội nghị cấp cao ASEAN - Nga",
+      "link": "https://tuoitre.vn/thong-diep-cua-viet-nam-khi-thu-tuong-le-minh-hung-du-hoi-nghi-cap-cao-asean-nga-20260613205310825.htm",
+      "summary": "Mục tiêu xuyên suốt của chuyến công tác là phát huy vai trò cầu nối của Việt Nam giữa Nga và ASEAN, mở rộng hợp tác giữa ASEAN và khu vực Á - Âu trong các lĩnh vực thực chất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T22:41:25.601885+07:00",
+      "fetched": "2026-06-13T22:41:25.601955+07:00"
+    },
+    {
+      "id": "287e609406b0db28be4b1e008425996d",
+      "title": "Ma xó lấy lại niềm tin phim kinh dị Việt?",
+      "link": "https://tuoitre.vn/ma-xo-lay-lai-niem-tin-phim-kinh-di-viet-20260613095613487.htm",
+      "summary": "Ngay sau khi khởi chiếu, Ma xó liền nhận về loạt lời khen 'có cánh', thậm chí có khán giả còn nhận xét đây là phim 'lấy lại niềm tin về phim kinh dị Việt'. Nhưng có đúng là như vậy?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T22:41:25.601806+07:00",
+      "fetched": "2026-06-13T22:41:25.601878+07:00"
+    },
+    {
+      "id": "6cf99e411246ed308aa42c5e658bf1dd",
+      "title": "Trung Đông tối 13-6: Iran nói thỏa thuận với Mỹ sẽ không được ký vào ngày 14-6",
+      "link": "https://tuoitre.vn/trung-dong-toi-13-6-iran-noi-thoa-thuan-voi-my-se-khong-duoc-ky-vao-ngay-14-6-20260613202508097.htm",
+      "summary": "Lễ tang cố lãnh tụ tối cao Iran Ali Khamenei bắt đầu ngày 4-7 (ngày Quốc khánh Mỹ), an táng ngày 9-7; Iran nói thỏa thuận với Mỹ sẽ không được ký vào ngày 14-6... là một số tin tức đáng chú ý về Trung Đông tối 13-6.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T22:41:25.601723+07:00",
+      "fetched": "2026-06-13T22:41:25.601799+07:00"
+    },
+    {
+      "id": "09dab78dd9d049457d94d2d6f541c39e",
+      "title": "Giới Fintech quốc tế quan tâm thanh toán xuyên biên giới tại Việt Nam",
+      "link": "https://tuoitre.vn/gioi-fintech-quoc-te-quan-tam-thanh-toan-xuyen-bien-gioi-tai-viet-nam-20260613210730371.htm",
+      "summary": "Nhiều giải pháp thanh toán xuyên biên giới được đề xuất tại Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T22:41:25.601638+07:00",
+      "fetched": "2026-06-13T22:41:25.601715+07:00"
+    },
+    {
+      "id": "ad391359ad08350cfa2bb0094f45e31e",
+      "title": "Chính phủ Ghana lên tiếng khi Canada cấm Thomas Partey nhập cảnh dự World Cup",
+      "link": "https://tuoitre.vn/chinh-phu-ghana-len-tieng-khi-canada-cam-thomas-partey-nhap-canh-du-world-cup-20260613215715561.htm",
+      "summary": "Chính phủ Ghana đã lên tiếng chỉ trích nước chủ nhà World Cup 2026 - Canada vì đã cấm tiền vệ Thomas Partey nhập cảnh. Quốc gia Tây Phi này cho rằng Canada đã quá độc đoán và thiếu công bằng khi đưa ra quyết định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T22:41:25.601541+07:00",
+      "fetched": "2026-06-13T22:41:25.601630+07:00"
+    },
+    {
+      "id": "7ea8ac83c6c4970fba25ba6e0e07cff2",
+      "title": "Tạ Minh Tâm, Hồng Nhung hát về những chiến công thầm lặng trong gala 'Tổ quốc bình yên'",
+      "link": "https://tuoitre.vn/ta-minh-tam-hong-nhung-hat-ve-nhung-chien-cong-tham-lang-trong-gala-to-quoc-binh-yen-20260613212751573.htm",
+      "summary": "Gala nghệ thuật Tổ quốc bình yên đưa khán giả đi qua những câu chuyện xúc động về lực lượng an ninh nhân dân bằng âm nhạc, tư liệu lịch sử. Tạ Minh Tâm, Hồng Nhung... tái hiện những chiến công thầm lặng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T22:41:25.601333+07:00",
+      "fetched": "2026-06-13T22:41:25.601530+07:00"
+    },
     {
       "id": "51580bbc56af4e044b8220de16781061",
       "title": "Bộ Y tế yêu cầu rà soát, thu hồi lô sản phẩm sữa bột Novalac của Pháp",
@@ -453,6 +533,96 @@ window.newsData_2026_06_13 = {
       "fetched": "2026-06-13T14:44:22.231327+07:00"
     },
     {
+      "id": "dbc460aae1b80e9475367b6f287241ca",
+      "title": "TP HCM công bố điểm thi lớp 10 muộn nhất ngày 19/6",
+      "link": "https://vnexpress.net/lich-cong-bo-diem-thi-lop-10-tp-hcm-2026-cap-nhat-5085459.html",
+      "summary": "Bài thi vào lớp 10 của 151.000 thí sinh sẽ được ráp phách và so dò từ ngày 15/6, điểm thi được công bố muộn nhất sau đó 4 ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T14:38:01+07:00",
+      "fetched": "2026-06-13T22:41:05.802554+07:00"
+    },
+    {
+      "id": "9737c0764e9d466e5f3111a298464d60",
+      "title": "Cuba công bố các biện pháp cải cách kinh tế",
+      "link": "https://vnexpress.net/cuba-cong-bo-cac-bien-phap-cai-cach-kinh-te-5085448.html",
+      "summary": "Chủ tịch Cuba thông báo các biện pháp thúc đẩy doanh nghiệp tư nhân và củng cố nền kinh tế, nhằm vượt qua khó khăn từ lệnh phong tỏa của Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T14:37:32+07:00",
+      "fetched": "2026-06-13T22:41:05.802679+07:00"
+    },
+    {
+      "id": "9737c0764e9d466e5f3111a298464d60",
+      "title": "Cuba công bố các biện pháp cải cách kinh tế",
+      "link": "https://vnexpress.net/cuba-cong-bo-cac-bien-phap-cai-cach-kinh-te-5085448.html",
+      "summary": "Chủ tịch Cuba thông báo các biện pháp thúc đẩy doanh nghiệp tư nhân và củng cố nền kinh tế, nhằm vượt qua khó khăn từ lệnh phong tỏa của Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-13T14:37:32+07:00",
+      "fetched": "2026-06-13T22:41:27.407916+07:00"
+    },
+    {
+      "id": "1e1275a51df311f3857fd7420ced9842",
+      "title": "Con trai ông Justin Trudeau trở thành người mẫu",
+      "link": "https://vnexpress.net/con-trai-ong-justin-trudeau-tro-thanh-nguoi-mau-5085320.html",
+      "summary": "Xavier \"Xav\" - con trai cựu Thủ tướng Canada Justin Trudeau - bước vào làng giải trí với nghề mẫu, ca sĩ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T14:18:25+07:00",
+      "fetched": "2026-06-13T22:41:05.802786+07:00"
+    },
+    {
+      "id": "8de29c640407f43ed7272f4d74a490a9",
+      "title": "Tôi đã dằn mặt người tình của vợ nhưng họ vẫn liên lạc với nhau",
+      "link": "https://vnexpress.net/toi-da-dan-mat-nguoi-tinh-cua-vo-nhung-ho-van-lien-lac-voi-nhau-5085356.html",
+      "summary": "Người đó hứa không qua lại, chơi bời nữa nhưng một tháng sau, khi phát hiện thì tôi thấy ngày nào, giờ nào họ cũng nhắn tin cho nhau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T14:00:00+07:00",
+      "fetched": "2026-06-13T22:41:05.802890+07:00"
+    },
+    {
+      "id": "d43db4db358d6f86627de826715e81c6",
+      "title": "Hàng nghìn người TP HCM được bác sĩ đến tận nhà khám bệnh",
+      "link": "https://vnexpress.net/hang-nghin-nguoi-tp-hcm-duoc-bac-si-den-tan-nha-kham-benh-5085246.html",
+      "summary": "Trong hai tháng thí điểm mô hình mới, nhân viên y tế TP HCM 'đi từng ngõ, gõ từng nhà' khám sức khỏe, phát hiện sớm nhiều ca tăng huyết áp, tiểu đường và bệnh tim mạch ở người cao tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T13:55:35+07:00",
+      "fetched": "2026-06-13T22:41:05.803013+07:00"
+    },
+    {
+      "id": "6c9f52faea5c236fe734d789af858546",
+      "title": "Thủ tướng: Dành nguồn lực phù hợp tăng lương năm 2027",
+      "link": "https://vnexpress.net/thu-tuong-danh-nguon-luc-phu-hop-tang-luong-nam-2027-5085445.html",
+      "summary": "Thủ tướng giao các đơn vị dành nguồn phù hợp với khả năng cân đối ngân sách nhà nước để điều chỉnh tiền lương khu vực công, lương hưu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T13:50:33+07:00",
+      "fetched": "2026-06-13T22:41:05.803119+07:00"
+    },
+    {
+      "id": "7a9b84214426bd8ead98adaf99aa34bc",
+      "title": "Thanh niên vác điếu cày đánh người ở Hà Nội bị bắt",
+      "link": "https://vnexpress.net/thanh-nien-vac-dieu-cay-danh-nguoi-o-ha-noi-bi-bat-5085446.html",
+      "summary": "Nguyễn Tiến Lộc bị bắt giữ sau khi dùng điếu cày đánh liên tiếp vào nam thanh niên đi cùng người yêu cũ ở phố Lê Duẩn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T13:34:57+07:00",
+      "fetched": "2026-06-13T22:41:05.803236+07:00"
+    },
+    {
+      "id": "7e8fb09f2a72796c07c979e3e2c14486",
+      "title": "Hơn 1.000 khách dự lễ ra mắt đảo lễ hội Festival Island Nha Trang",
+      "link": "https://vnexpress.net/hon-1-000-khach-du-le-ra-mat-dao-le-hoi-festival-island-nha-trang-5085449.html",
+      "summary": "Sự kiện ra mắt Festival Island thuộc Charmora City theo mô hình \"Downtown không ngủ\" tại Nha Trang mang đến chuỗi trải nghiệm, trình diễn nghệ thuật và giới thiệu tổ hợp căn hộ dịch vụ The Fest.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T13:30:00+07:00",
+      "fetched": "2026-06-13T22:41:05.803345+07:00"
+    },
+    {
       "id": "e9bcda1ad388daaa968fb3607a6e9f25",
       "title": "Mẹo giúp hành khách thoát cửa an ninh sân bay nhanh chóng",
       "link": "https://vnexpress.net/meo-giup-hanh-khach-thoat-cua-an-ninh-san-bay-nhanh-chong-5085174.html",
@@ -521,6 +691,16 @@ window.newsData_2026_06_13 = {
       "category": "Tổng hợp",
       "published": "2026-06-13T12:50:59+07:00",
       "fetched": "2026-06-13T20:52:34.786396+07:00"
+    },
+    {
+      "id": "d0cc06c2a604226dc3c6ad1f74756e6b",
+      "title": "CĐV Brazil và Morocco khuấy động Quảng trường Thời đại New York",
+      "link": "https://vnexpress.net/cdv-brazil-va-morocco-khuay-dong-quang-truong-thoi-dai-new-york-5085439.html",
+      "summary": "CĐV Brazil và Morocco khuấy động không khí trên Quảng trường Thời đại New York trước trận mở màn giữa hai đội tại bảng C World Cup 2026, diễn ra lúc 5h sáng 14/6.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T12:50:59+07:00",
+      "fetched": "2026-06-13T22:41:05.803847+07:00"
     },
     {
       "id": "33110f6628594656bc97ef11f29120a4",
