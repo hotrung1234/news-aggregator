@@ -1,7 +1,67 @@
 window.newsData_2026_06_14 = {
   "date": "2026-06-14",
-  "lastUpdated": "2026-06-14T04:12:46.516612+07:00",
+  "lastUpdated": "2026-06-14T06:01:54.205807+07:00",
   "articles": [
+    {
+      "id": "d19986f669811afd3ffe47c3e1acf5a9",
+      "title": "Thắng Trung Quốc, bóng chuyền Nhật Bản kéo dài kỳ tích",
+      "link": "https://tuoitre.vn/thang-trung-quoc-bong-chuyen-nhat-ban-keo-dai-ky-tich-20260614000809146.htm",
+      "summary": "Ngày 13-6, Nhật Bản đã đánh bại Trung Quốc ở lượt trận thứ 3 giải bóng chuyền nam FIVB Nations League (VNL) mùa giải 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T06:01:45.577907+07:00",
+      "fetched": "2026-06-14T06:01:45.578033+07:00"
+    },
+    {
+      "id": "cff99a48baa9cf2ca1e4546bbfcd55b7",
+      "title": "Trực tuyến Brazil - Morocco (5h ngày 14-6): Chờ 'đại chiến' tưng bừng",
+      "link": "https://tuoitre.vn/truc-tuyen-brazil-morocco-5h-ngay-14-6-cho-dai-chien-tung-bung-20260613151935975.htm",
+      "summary": "Tuổi Trẻ Online sẽ trực tuyến trận đấu của tuyển Brazil với Morocco ở bảng C World Cup 2026 vào lúc 5h ngày 14-6, mời bạn đọc đón theo dõi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T06:01:45.577779+07:00",
+      "fetched": "2026-06-14T06:01:45.577895+07:00"
+    },
+    {
+      "id": "0f98f5c24117cace0d38d7502cef9404",
+      "title": "Qatar - Thụy Sĩ (hiệp 1):  Embolo mở tỉ số từ quả penalty, đại diện Tây Á chống đỡ vất vả",
+      "link": "https://tuoitre.vn/qatar-thuy-si-hiep-1-embolo-mo-ti-so-tu-qua-penalty-dai-dien-tay-a-chong-do-vat-va-20260614025844448.htm",
+      "summary": "Đối mặt với đội bóng được đánh giá cao nhất bảng B, Qatar tỏ ra lép vế so với tuyển Thụy Sĩ. Xuyên suốt hiệp 1, tuyến giữa của đại diện Tây Á bị các tiền vệ Thụy Sĩ bóp nghẹt hoàn toàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T06:01:45.577648+07:00",
+      "fetched": "2026-06-14T06:01:45.577767+07:00"
+    },
+    {
+      "id": "86539072c2658bff745577c15ee96cb0",
+      "title": "Thời tiết hôm nay 14-6: Miền Bắc mưa to, miền Nam mưa chiều",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-14-6-mien-bac-mua-to-mien-nam-mua-chieu-20260613164324378.htm",
+      "summary": "Hôm nay 14-6, Bắc Bộ bắt đầu đợt mưa to đến rất to. Trung Bộ nắng nóng, Nam Bộ thời tiết nhiều mây, mưa rào về chiều.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T06:01:45.577512+07:00",
+      "fetched": "2026-06-14T06:01:45.577636+07:00"
+    },
+    {
+      "id": "823b3427a099d532565eee5a49dff4af",
+      "title": "Cầm hòa 'lịch sử' trước Thụy Sĩ, Qatar có điểm số đầu tiên ở World Cup",
+      "link": "https://tuoitre.vn/cam-hoa-lich-su-truoc-thuy-si-qatar-co-diem-so-dau-tien-o-world-cup-2026061404161399.htm",
+      "summary": "Bàn thắng ở phút bù giờ cuối cùng giúp Qatar giành trận hòa 1-1, trước Thụy Sĩ trong trận ra quân bảng B World Cup 2026. Đại diện Tây Á đã thể hiện tinh thần chiến đấu kiên cường để giữ lại 1 điểm quý giá trước đối thủ được đánh giá cao hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T06:01:45.577350+07:00",
+      "fetched": "2026-06-14T06:01:45.577499+07:00"
+    },
+    {
+      "id": "304ce3ba306459905b1cdb9e4fa5dd79",
+      "title": "Lịch trực tiếp World Cup 2026 ngày 15-6: Nhật Bản đấu Hà Lan, Đức ra quân",
+      "link": "https://tuoitre.vn/lich-truc-tiep-world-cup-2026-ngay-15-6-nhat-ban-dau-ha-lan-duc-ra-quan-20260613160316857.htm",
+      "summary": "Ngày 15-6, World Cup 2026 sẽ diễn ra 4 trận đấu ở bảng E và F. Tâm điểm sẽ là cuộc so tài giữa Hà Lan và Nhật Bản lúc 3h.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T06:01:45.577070+07:00",
+      "fetched": "2026-06-14T06:01:45.577332+07:00"
+    },
     {
       "id": "fbcc67fc5eac1a76c59cade44c457178",
       "title": "Nếu Đồng Nai cam kết đạt kết quả cao hơn, Chính phủ sẽ ưu tiên bố trí nguồn lực ngay trong năm 2027",
@@ -221,6 +281,116 @@ window.newsData_2026_06_14 = {
       "category": "Tổng hợp",
       "published": "2026-06-14T00:19:46.892498+07:00",
       "fetched": "2026-06-14T00:19:46.892690+07:00"
+    },
+    {
+      "id": "84ff61c796de7314cea12a0ade2d02f8",
+      "title": "Việt Nam sẽ phát huy vai trò cầu nối cho quan hệ ASEAN - Nga",
+      "link": "https://vnexpress.net/viet-nam-se-phat-huy-vai-tro-cau-noi-cho-quan-he-asean-nga-5085454.html",
+      "summary": "Chuyến công tác sắp tới của Thủ tướng Lê Minh Hưng sẽ phát huy vai trò cầu nối của Việt Nam, tạo thêm động lực mới cho quan hệ ASEAN - Nga, theo Bộ Ngoại giao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T22:00:00+07:00",
+      "fetched": "2026-06-14T06:01:27.104979+07:00"
+    },
+    {
+      "id": "7597370ecd94c7cf6175f0321ed54559",
+      "title": "Những người sẵn sàng chi hàng chục nghìn USD để xem World Cup",
+      "link": "https://vnexpress.net/nhung-nguoi-san-sang-chi-hang-chuc-nghin-usd-de-xem-world-cup-5085233.html",
+      "summary": "Nhiều CĐV sẵn sàng chi hàng chục nghìn USD để sống cùng World Cup 2026, nhưng không ít người cho rằng mức giá đã vượt tầm với của họ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T22:00:00+07:00",
+      "fetched": "2026-06-14T06:01:27.105166+07:00"
+    },
+    {
+      "id": "12a5ef4beff96d5ea16cb8a917307e4a",
+      "title": "Robot rắn trườn trên dây điện để kiểm tra hư hỏng",
+      "link": "https://vnexpress.net/robot-ran-truon-tren-day-dien-de-kiem-tra-hu-hong-5085138.html",
+      "summary": "Nhờ cơ thể nhiều khớp linh hoạt, robot rắn dễ dàng di chuyển trên dây điện, được đánh giá hiệu quả gấp ba lần kiểm tra thủ công.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T22:00:00+07:00",
+      "fetched": "2026-06-14T06:01:27.105371+07:00"
+    },
+    {
+      "id": "f50cdcb1c0d29dc6f10ac983ac55a151",
+      "title": "5 hãng xe máy bán chạy nhất thế giới",
+      "link": "https://vnexpress.net/5-hang-xe-may-ban-chay-nhat-the-gioi-5085299.html",
+      "summary": "Honda dẫn đầu toàn ngành với doanh số khoảng 7,35 triệu xe sau 4 tháng đầu 2026, xếp sau là Hero, Yamaha, TVS và Yadea.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T22:00:00+07:00",
+      "fetched": "2026-06-14T06:01:27.105535+07:00"
+    },
+    {
+      "id": "84ff61c796de7314cea12a0ade2d02f8",
+      "title": "Việt Nam sẽ phát huy vai trò cầu nối cho quan hệ ASEAN - Nga",
+      "link": "https://vnexpress.net/viet-nam-se-phat-huy-vai-tro-cau-noi-cho-quan-he-asean-nga-5085454.html",
+      "summary": "Chuyến công tác sắp tới của Thủ tướng Lê Minh Hưng sẽ phát huy vai trò cầu nối của Việt Nam, tạo thêm động lực mới cho quan hệ ASEAN - Nga, theo Bộ Ngoại giao.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-13T22:00:00+07:00",
+      "fetched": "2026-06-14T06:01:47.799522+07:00"
+    },
+    {
+      "id": "7597370ecd94c7cf6175f0321ed54559",
+      "title": "Những người sẵn sàng chi hàng chục nghìn USD để xem World Cup",
+      "link": "https://vnexpress.net/nhung-nguoi-san-sang-chi-hang-chuc-nghin-usd-de-xem-world-cup-5085233.html",
+      "summary": "Nhiều CĐV sẵn sàng chi hàng chục nghìn USD để sống cùng World Cup 2026, nhưng không ít người cho rằng mức giá đã vượt tầm với của họ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-13T22:00:00+07:00",
+      "fetched": "2026-06-14T06:01:47.799699+07:00"
+    },
+    {
+      "id": "12a5ef4beff96d5ea16cb8a917307e4a",
+      "title": "Robot rắn trườn trên dây điện để kiểm tra hư hỏng",
+      "link": "https://vnexpress.net/robot-ran-truon-tren-day-dien-de-kiem-tra-hu-hong-5085138.html",
+      "summary": "Nhờ cơ thể nhiều khớp linh hoạt, robot rắn dễ dàng di chuyển trên dây điện, được đánh giá hiệu quả gấp ba lần kiểm tra thủ công.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-13T22:00:00+07:00",
+      "fetched": "2026-06-14T06:01:52.776437+07:00"
+    },
+    {
+      "id": "8dbf5b9d1d5ba4ad3bf1eabb70512e07",
+      "title": "Brazil 1-1 Morocco (H1): Khoảnh khắc ngôi sao",
+      "link": "https://vnexpress.net/truc-tiep-brazil-morocco-5085478.html",
+      "summary": "Vinicius Junior ghi siêu phẩm, giúp Brazil gỡ hòa trong trận gặp Morocco ở bảng C World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T21:09:00+07:00",
+      "fetched": "2026-06-14T06:01:27.105690+07:00"
+    },
+    {
+      "id": "8dbf5b9d1d5ba4ad3bf1eabb70512e07",
+      "title": "Brazil 1-1 Morocco (H1): Khoảnh khắc ngôi sao",
+      "link": "https://vnexpress.net/truc-tiep-brazil-morocco-5085478.html",
+      "summary": "Vinicius Junior ghi siêu phẩm, giúp Brazil gỡ hòa trong trận gặp Morocco ở bảng C World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-13T21:09:00+07:00",
+      "fetched": "2026-06-14T06:01:54.200807+07:00"
+    },
+    {
+      "id": "f3f753dca37289816d865674c204d180",
+      "title": "Qatar cầm hòa Thụy Sĩ dù chịu phạt đền tranh cãi tại World Cup",
+      "link": "https://vnexpress.net/qatar-cam-hoa-thuy-si-du-chiu-phat-den-tranh-cai-tai-world-cup-5085480.html",
+      "summary": "Quyết định công nhận quả phạt đền giúp Thụy Sĩ mở tỷ số trong trận hòa Qatar 1-1 ở bảng B World Cup 2026 khiến nhiều người hâm mộ khó hiểu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-13T21:05:03+07:00",
+      "fetched": "2026-06-14T06:01:27.105851+07:00"
+    },
+    {
+      "id": "f3f753dca37289816d865674c204d180",
+      "title": "Qatar cầm hòa Thụy Sĩ dù chịu phạt đền tranh cãi tại World Cup",
+      "link": "https://vnexpress.net/qatar-cam-hoa-thuy-si-du-chiu-phat-den-tranh-cai-tai-world-cup-5085480.html",
+      "summary": "Quyết định công nhận quả phạt đền giúp Thụy Sĩ mở tỷ số trong trận hòa Qatar 1-1 ở bảng B World Cup 2026 khiến nhiều người hâm mộ khó hiểu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-13T21:05:03+07:00",
+      "fetched": "2026-06-14T06:01:54.200995+07:00"
     },
     {
       "id": "0711196a392e561c5bf2e12b98b022a2",
