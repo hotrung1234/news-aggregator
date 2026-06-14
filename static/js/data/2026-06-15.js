@@ -1,7 +1,17 @@
 window.newsData_2026_06_15 = {
   "date": "2026-06-15",
-  "lastUpdated": "2026-06-15T04:08:18.805718+07:00",
+  "lastUpdated": "2026-06-15T06:06:10.015052+07:00",
   "articles": [
+    {
+      "id": "153b890a0a0b359bb44c24feced1597a",
+      "title": "Hà Lan - Nhật Bản (hiệp 2) 2-1: Summerville nâng tỉ số",
+      "link": "https://tuoitre.vn/ha-lan-nhat-ban-hiep-2-2-1-summerville-nang-ti-so-20260614144707238.htm",
+      "summary": "Ở phút 64, Summerville có pha cứa lòng điệu nghệ bằng chân trái đưa bóng đập cột dọc rồi đi luôn vào lưới của thủ môn Suzuki để giúp Hà Lan dẫn trước 2-1.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-15T06:06:00.596341+07:00",
+      "fetched": "2026-06-15T06:06:00.596469+07:00"
+    },
     {
       "id": "c6592b1b7484b4cb31efcbd0c37f69c0",
       "title": "Hà Lan - Nhật Bản (hết hiệp 1) 0-0: Hiệp đấu quá chặt chẽ",
@@ -251,6 +261,406 @@ window.newsData_2026_06_15 = {
       "category": "Tổng hợp",
       "published": "2026-06-15T00:17:31.348316+07:00",
       "fetched": "2026-06-15T00:17:31.348566+07:00"
+    },
+    {
+      "id": "72a405ba925e188bc1534bb9310544dc",
+      "title": "Chạy đua tiến độ hoàn thành trường liên cấp biên giới",
+      "link": "https://thanhnien.vn/chay-dua-tien-do-hoan-thanh-truong-lien-cap-bien-gioi-185260614220650259.htm",
+      "summary": "Chỉ còn chưa đầy 3 tháng nữa, năm học 2026 - 2027 sẽ bắt đầu. Hiện 7 trường phổ thông dân tộc nội trú liên cấp tại khu vực biên giới Gia Lai, tổng mức đầu tư hơn 1.500 tỉ đồng, đang chạy đua với thời gian để kịp hoàn thành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T23:05:00+07:00",
+      "fetched": "2026-06-15T06:05:55.886983+07:00"
+    },
+    {
+      "id": "a7462d62d2a5a6683e40a41db594af7d",
+      "title": "Giá dầu thế giới giảm ngay sau khi Mỹ - Iran tuyên bố đạt thỏa thuận",
+      "link": "https://thanhnien.vn/gia-dau-the-gioi-giam-ngay-sau-khi-my-iran-tuyen-bo-dat-thoa-thuan-185260615060409185.htm",
+      "summary": "Ngay sau khi Mỹ thông báo đã hoàn tất thỏa thuận hướng tới chấm dứt xung đột với Iran, giá dầu thế giới ngày 15.6 đã giảm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T23:04:00+07:00",
+      "fetched": "2026-06-15T06:05:55.887164+07:00"
+    },
+    {
+      "id": "b0b1afb472650c96f8bc098c2d8a239b",
+      "title": "Anthropic và hồi chuông chủ quyền AI",
+      "link": "https://thanhnien.vn/anthropic-va-hoi-chuong-chu-quyen-ai-185260614205305135.htm",
+      "summary": "Việc Mỹ yêu cầu Công ty Anthropic hạn chế quyền truy cập những mô hình AI mới nhất không chỉ làm dấy lên tranh cãi về an ninh mạng, mà còn đặt ra câu hỏi lớn về chủ quyền công nghệ và quyền kiểm soát AI.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T23:02:00+07:00",
+      "fetched": "2026-06-15T06:05:55.887338+07:00"
+    },
+    {
+      "id": "02b594992d10245bac0c28d25ae5bd80",
+      "title": "Lịch nghỉ lễ được quyết định thế nào",
+      "link": "https://vnexpress.net/lich-nghi-le-duoc-quyet-dinh-the-nao-5085646.html",
+      "summary": "Lịch nghỉ lễ của người lao động được quy định trong Bộ luật Lao động, các phương án nghỉ kéo dài, hoán đổi ngày làm việc được quyết định bởi Thủ tướng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T23:00:00+07:00",
+      "fetched": "2026-06-15T06:05:52.422667+07:00"
+    },
+    {
+      "id": "2a68e278460723ea1ef1ee869107f7bf",
+      "title": "Thói 'ngồi lỳ, lười uống nước' khiến người trẻ mắc bệnh người già",
+      "link": "https://vnexpress.net/thoi-ngoi-ly-luoi-uong-nuoc-khien-nguoi-tre-mac-benh-nguoi-gia-5083915.html",
+      "summary": "Đang đứng trên bục giảng, Lan bỗng khuỵu chân, ngã xuống trước mắt học sinh, nguyên nhân không phải tai nạn, không phải bệnh tim.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T23:00:00+07:00",
+      "fetched": "2026-06-15T06:05:52.422880+07:00"
+    },
+    {
+      "id": "dc8f4b82be1706da6e125fd88c3cdb2b",
+      "title": "'Nội chiến' gia đình vì hóa đơn tiền điện mùa hè",
+      "link": "https://vnexpress.net/noi-chien-gia-dinh-vi-hoa-don-tien-dien-mua-he-5083854.html",
+      "summary": "Hóa đơn tiền điện tăng vọt sau đợt nắng nóng cao điểm khiến nhiều gia đình mâu thuẫn, cãi vã vì bất đồng trong cách tiết kiệm và sử dụng thiết bị làm mát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T23:00:00+07:00",
+      "fetched": "2026-06-15T06:05:52.423059+07:00"
+    },
+    {
+      "id": "0644a18325005d2b23795c86ede5a65c",
+      "title": "Bờ bắc kênh Đôi sau một năm khởi công",
+      "link": "https://vnexpress.net/bo-bac-kenh-doi-sau-mot-nam-khoi-cong-5083573.html",
+      "summary": "Dọc 4 km bờ bắc kênh Đôi nhiều đoạn bờ kè, cầu đang được xây mới sau gần một năm thi công.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T23:00:00+07:00",
+      "fetched": "2026-06-15T06:05:52.423239+07:00"
+    },
+    {
+      "id": "0c15d4f3e1f4d82413d849c0e36cb50f",
+      "title": "Dự báo máy tính lượng tử phá vỡ bảo mật dữ liệu vào năm 2029",
+      "link": "https://vnexpress.net/du-bao-may-tinh-luong-tu-pha-vo-bao-mat-du-lieu-vao-nam-2029-5084225.html",
+      "summary": "Q-Day, ngày điện toán lượng tử có thể phá vỡ các dạng mã hóa đang được sử dụng trong công nghệ thông tin, có thể đến sớm hơn dự tính trước đây.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T23:00:00+07:00",
+      "fetched": "2026-06-15T06:05:52.423409+07:00"
+    },
+    {
+      "id": "f274d7653f9d3295fe176bd62768df18",
+      "title": "Đưa Việt Nam thành điểm đến của dòng vốn ngoại",
+      "link": "https://thanhnien.vn/dua-viet-nam-thanh-diem-den-cua-dong-von-ngoai-185260614221421498.htm",
+      "summary": "Đổi mới tư duy, thay đổi các chính sách ưu đãi, hỗ trợ đầu tư nước ngoài là một số chiến lược quan trọng tại Nghị quyết số 10-NQ/TW của Bộ Chính trị về phát triển kinh tế có vốn đầu tư nước ngoài vừa được Tổng Bí thư, Chủ tịch nước Tô Lâm ký ban hành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T23:00:00+07:00",
+      "fetched": "2026-06-15T06:05:55.887510+07:00"
+    },
+    {
+      "id": "1462d4e2308bb47a63ced807d0477f23",
+      "title": "Tiền vẫn 'chảy' vào ngân hàng",
+      "link": "https://thanhnien.vn/tien-van-chay-vao-ngan-hang-185260614210559023.htm",
+      "summary": "Lượng tiền gửi của người dân vào hệ thống ngân hàng tăng liên tục trong 6 tháng qua và ghi nhận mức cao nhất từ trước đến nay. Điều này không chỉ hỗ trợ thanh khoản cho các ngân hàng mà còn dẫn vốn vào sản xuất, kinh doanh mạnh mẽ hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T23:00:00+07:00",
+      "fetched": "2026-06-15T06:05:55.887670+07:00"
+    },
+    {
+      "id": "81905984cdf32d15a95a351986152556",
+      "title": "Đưa dự án tồn đọng triển khai trở lại",
+      "link": "https://thanhnien.vn/dua-du-an-ton-dong-trien-khai-tro-lai-185260614202256534.htm",
+      "summary": "Trong buổi làm việc với Ban thường vụ Thành ủy TP.HCM mới đây, Thủ tướng Chính phủ Lê Minh Hưng cho biết T.Ư sẽ giám sát quá trình tháo gỡ các dự án tồn đọng của TP.HCM, đảm bảo mục tiêu nhà đầu tư quay lại thực hiện chứ không dừng ở \"đã có phương án\". Tín hiệu mạnh mẽ này đã tạo niềm tin rằng hàng ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T23:00:00+07:00",
+      "fetched": "2026-06-15T06:05:55.887855+07:00"
+    },
+    {
+      "id": "0ba732a60a19b6d56a1435e25e39435e",
+      "title": "Giao thông kết nối sân bay Long Thành 'chạy' hết tốc lực",
+      "link": "https://thanhnien.vn/giao-thong-ket-noi-san-bay-long-thanh-chay-het-toc-luc-185260614200916681.htm",
+      "summary": "Tình hình ùn tắc trên tuyến cao tốc TP.HCM - Long Thành - Dầu Giây cuối tuần qua một lần nữa đẩy áp lực tới tiến độ mở rộng hệ thống giao thông kết nối giữa TP.HCM tới Cảng hàng không quốc tế Long Thành, trong bối cảnh \"siêu sân bay\" đang chạy nước rút để hoàn thành cuối năm nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T23:00:00+07:00",
+      "fetched": "2026-06-15T06:05:55.888016+07:00"
+    },
+    {
+      "id": "8375497f985a97de7e2665c884713580",
+      "title": "Không gian số kết nối khát vọng thanh niên Việt Nam trong kỷ nguyên mới",
+      "link": "https://thanhnien.vn/khong-gian-so-ket-noi-khat-vong-thanh-nien-viet-nam-trong-ky-nguyen-moi-185260614185800752.htm",
+      "summary": "Trong dòng chảy sôi động của thanh niên cả nước hướng về Đại hội đại biểu toàn quốc Đoàn TNCS Hồ Chí Minh lần thứ XIII, nhiệm kỳ 2026 - 2031, Báo Thanh Niên chính thức ra mắt Chuyên trang tuyên truyền Đại hội Đoàn toàn quốc lần thứ XIII tại địa chỉ daihoidoan2026.thanhnien.vn",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T23:00:00+07:00",
+      "fetched": "2026-06-15T06:05:55.888175+07:00"
+    },
+    {
+      "id": "e906e073cf13c6237f42a1c930a313d5",
+      "title": "Bản tin sức khỏe 15.6: Mất bao lâu để hết cồn trong người? | Thuốc lá đang 'ăn mòn' thị lực?",
+      "link": "https://thanhnien.vn/ban-tin-suc-khoe-156-mat-bao-lau-de-het-con-trong-nguoi-thuoc-la-dang-an-mon-thi-luc-185260614133239881.htm",
+      "summary": "Bản tin sức khỏe của Báo Thanh Niên (từ thứ hai đến thứ sáu) cập nhật những thông tin y tế đáng chú ý, từ các khuyến cáo bảo vệ sức khỏe, chế độ dinh dưỡng, tập luyện, đến những nghiên cứu, cảnh báo dịch bệnh mới nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T23:00:00+07:00",
+      "fetched": "2026-06-15T06:05:55.888329+07:00"
+    },
+    {
+      "id": "8577b85a31859033500a86e313427eed",
+      "title": "Mùa hè trên cây - Thơ của Nguyễn Hoàng Anh Thư",
+      "link": "https://thanhnien.vn/mua-he-tren-cay-tho-cua-nguyen-hoang-anh-thu-185260613172547214.htm",
+      "summary": "Chúng ta đang di chuyển về phía mùa hèBên dưới các tán cây bằng lăngNhững ngày sầu độ tím ngànBên trong những chiếc lá đựng ánh sáng màu xanhBên trong và bên trong nữaTiếng nhựa cây đang chảychuyển dị...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T23:00:00+07:00",
+      "fetched": "2026-06-15T06:05:57.845372+07:00"
+    },
+    {
+      "id": "4633318d5d283145225b20d75813727c",
+      "title": "Kẹt xe ở TP.HCM: Vì sao mở rộng đường vẫn chưa đủ?",
+      "link": "https://thanhnien.vn/ket-xe-o-tphcm-vi-sao-mo-rong-duong-van-chua-du-185260613111552133.htm",
+      "summary": "Nhiều người vẫn mất hàng chục phút, thậm chí cả giờ để đi làm mỗi ngày. Trong khi việc mở rộng đường ngày càng khó khăn, TP.HCM đang tìm thêm nhiều cách để giảm áp lực kẹt xe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T23:00:00+07:00",
+      "fetched": "2026-06-15T06:05:57.845790+07:00"
+    },
+    {
+      "id": "cceff10b7270ec18a5d6da267d07a40a",
+      "title": "Đừng bắt cộng đồng chịu đựng tình trạng nuôi chó vô ý thức",
+      "link": "https://thanhnien.vn/dung-bat-cong-dong-chiu-dung-tinh-trang-nuoi-cho-vo-y-thuc-185260614184058135.htm",
+      "summary": "Quy định nâng mức phạt đối với người thả rông chó nuôi 1 - 2 triệu đồng từ ngày 1.8 tới đang thu hút sự quan tâm lớn và được kỳ vọng sẽ chấm dứt tình trạng nuôi thú cưng tùy tiện bấy lâu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T22:59:00+07:00",
+      "fetched": "2026-06-15T06:05:57.845977+07:00"
+    },
+    {
+      "id": "610e22235aef69b822903f49d5ddec0d",
+      "title": "Chấm văn thi tốt nghiệp THPT theo rubric: Chuyển từ 'đếm ý' sang đánh giá mức độ",
+      "link": "https://thanhnien.vn/cham-van-thi-tot-nghiep-thpt-theo-rubric-chuyen-tu-dem-y-sang-danh-gia-muc-do-185260614220255963.htm",
+      "summary": "Việc áp dụng chấm thi ngữ văn theo rubric trong kỳ thi tốt nghiệp THPT 2026 không chỉ là thay đổi kỹ thuật chấm điểm mà còn đặt ra yêu cầu mới đối với đội ngũ giám khảo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T22:54:00+07:00",
+      "fetched": "2026-06-15T06:05:57.846157+07:00"
+    },
+    {
+      "id": "1e5181c86eff18b082627f25f89ddcb9",
+      "title": "Người tiêu dùng phải tự bảo vệ mình",
+      "link": "https://thanhnien.vn/nguoi-tieu-dung-phai-tu-bao-ve-minh-185260614202159815.htm",
+      "summary": "Hàng loạt quy định chống hàng nhái, hàng giả, thực phẩm bẩn, các hành vi lừa đảo trên không gian mạng đã được ban hành. Tuy nhiên, để hạn chế tối đa tình trạng này, vai trò của người tiêu dùng là hết ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T22:52:00+07:00",
+      "fetched": "2026-06-15T06:05:59.449248+07:00"
+    },
+    {
+      "id": "c7405a883fa6369121478819e01b9db7",
+      "title": "El Nino 2026 mạnh kỷ lục, nắng nóng khốc liệt, bão lũ dị thường",
+      "link": "https://thanhnien.vn/el-nino-2026-manh-ky-luc-nang-nong-khoc-liet-bao-lu-di-thuong-185260614221755297.htm",
+      "summary": "El Nino 2026 được dự báo có cường độ mạnh nhất kể từ năm 1950 đến nay gây ra nắng nóng khốc liệt, mưa lũ dị thường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T22:51:00+07:00",
+      "fetched": "2026-06-15T06:05:59.449642+07:00"
+    },
+    {
+      "id": "bd41d7b6677de41662ae14a56aca757a",
+      "title": "Nhật Bản hòa Hà Lan dù hai lần bị dẫn trước ở World Cup 2026",
+      "link": "https://vnexpress.net/nhat-ban-hoa-ha-lan-du-hai-lan-bi-dan-truoc-o-world-cup-2026-5085697.html",
+      "summary": "Nhật Bản thể hiện tinh thần không bỏ cuộc, hai lần tìm được bàn gỡ để cầm hòa Hà Lan 2-2 ở trận ra quân bảng F World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T22:44:42+07:00",
+      "fetched": "2026-06-15T06:05:52.423579+07:00"
+    },
+    {
+      "id": "61ecf3d34462209ac60489a89b81cbe6",
+      "title": "Ancelotti giữ kín đội hình Brazil đến sát giờ đấu Morocco",
+      "link": "https://vnexpress.net/ancelotti-giu-kin-doi-hinh-brazil-den-sat-gio-dau-morocco-5085698.html",
+      "summary": "HLV Carlo Ancelotti giữ kín đội hình xuất phát của tuyển Brazil đến tận buổi họp đội trước trận ra quân gặp Morocco tại World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T22:41:09+07:00",
+      "fetched": "2026-06-15T06:05:52.423779+07:00"
+    },
+    {
+      "id": "61ecf3d34462209ac60489a89b81cbe6",
+      "title": "Ancelotti giữ kín đội hình Brazil đến sát giờ đấu Morocco",
+      "link": "https://vnexpress.net/ancelotti-giu-kin-doi-hinh-brazil-den-sat-gio-dau-morocco-5085698.html",
+      "summary": "HLV Carlo Ancelotti giữ kín đội hình xuất phát của tuyển Brazil đến tận buổi họp đội trước trận ra quân gặp Morocco tại World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-14T22:41:09+07:00",
+      "fetched": "2026-06-15T06:06:10.009505+07:00"
+    },
+    {
+      "id": "0ecbdb68df1c22e060e998033e49f52a",
+      "title": "Haaland gây bão tại sân golf thượng lưu ở Mỹ",
+      "link": "https://vnexpress.net/haaland-gay-bao-tai-san-golf-thuong-luu-o-my-5085696.html",
+      "summary": "Sự xuất hiện của tiền đạo Erling Haaland cùng hai tuyển thủ Na Uy khiến một trong những CLB golf danh tiếng nhất Bắc Carolina trở nên sôi động hiếm thấy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T22:41:04+07:00",
+      "fetched": "2026-06-15T06:05:52.423962+07:00"
+    },
+    {
+      "id": "0ecbdb68df1c22e060e998033e49f52a",
+      "title": "Haaland gây bão tại sân golf thượng lưu ở Mỹ",
+      "link": "https://vnexpress.net/haaland-gay-bao-tai-san-golf-thuong-luu-o-my-5085696.html",
+      "summary": "Sự xuất hiện của tiền đạo Erling Haaland cùng hai tuyển thủ Na Uy khiến một trong những CLB golf danh tiếng nhất Bắc Carolina trở nên sôi động hiếm thấy.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-14T22:41:04+07:00",
+      "fetched": "2026-06-15T06:06:10.009006+07:00"
+    },
+    {
+      "id": "cd05c3f3ef7b3ac83dd0595da7d908d2",
+      "title": "Hyundai nhăm nhe vượt Ford tại Mỹ nhờ xe hybrid",
+      "link": "https://vnexpress.net/hyundai-nham-nhe-vuot-ford-tai-my-nho-xe-hybrid-5085544.html",
+      "summary": "Doanh số xe hybrid tăng mạnh giúp tập đoàn Hàn Quốc nâng thị phần lên 11,8%, thu hẹp khoảng cách với hãng xe Mỹ đứng thứ ba thị trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T22:37:00+07:00",
+      "fetched": "2026-06-15T06:05:52.424137+07:00"
+    },
+    {
+      "id": "49bfd6be3e8264b0f5518f7468666ba7",
+      "title": "Tay vợt pickleball Đỗ Minh Quân rời sân bằng xe cứu thương",
+      "link": "https://vnexpress.net/tay-vot-pickleball-do-minh-quan-roi-san-bang-xe-cuu-thuong-5085689.html",
+      "summary": "Kiệt sức và căng cơ sau chung kết đánh cặp cùng Trương Vinh Hiển ở giải Pickleball Thanh Hóa 2026, tay vợt Đỗ Minh Quân phải nhờ tới sự chăm sóc y tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T22:33:38+07:00",
+      "fetched": "2026-06-15T06:05:52.424306+07:00"
+    },
+    {
+      "id": "49bfd6be3e8264b0f5518f7468666ba7",
+      "title": "Tay vợt pickleball Đỗ Minh Quân rời sân bằng xe cứu thương",
+      "link": "https://vnexpress.net/tay-vot-pickleball-do-minh-quan-roi-san-bang-xe-cuu-thuong-5085689.html",
+      "summary": "Kiệt sức và căng cơ sau chung kết, tay vợt Đỗ Minh Quân được chăm sóc y tế rồi lên xe cứu thương về khách sạn.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-14T22:33:38+07:00",
+      "fetched": "2026-06-15T06:06:10.009668+07:00"
+    },
+    {
+      "id": "846a07480e8965a051b65736bb05ec88",
+      "title": "24 phút đặc biệt của Morocco tại World Cup 2026",
+      "link": "https://vnexpress.net/24-phut-dac-biet-cua-morocco-tai-world-cup-2026-5085695.html",
+      "summary": "Có thời điểm, Morocco thi đấu 24 phút mà không có bất kỳ cầu thủ nào trên sân sinh ra tại quốc gia Bắc Phi này, trong trận gặp Brazil ở lượt đầu bảng C World Cup 2026",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T22:29:37+07:00",
+      "fetched": "2026-06-15T06:05:52.424466+07:00"
+    },
+    {
+      "id": "846a07480e8965a051b65736bb05ec88",
+      "title": "24 phút đặc biệt của Morocco tại World Cup 2026",
+      "link": "https://vnexpress.net/24-phut-dac-biet-cua-morocco-tai-world-cup-2026-5085695.html",
+      "summary": "Có thời điểm, Morocco thi đấu 24 phút mà không có bất kỳ cầu thủ nào trên sân sinh ra tại quốc gia Bắc Phi này, trong trận gặp Brazil ở lượt đầu bảng C World Cup 2026",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-14T22:29:37+07:00",
+      "fetched": "2026-06-15T06:06:10.009178+07:00"
+    },
+    {
+      "id": "f514e05fe612b4a433b81714a4b4312f",
+      "title": "Fernandes được khuyên đình công nếu Ronaldo vẫn đá chính",
+      "link": "https://vnexpress.net/fernandes-duoc-khuyen-dinh-cong-neu-ronaldo-van-da-chinh-5085692.html",
+      "summary": "Một bình luận viên của talkSPORT gây tranh cãi khi cho rằng Bruno Fernandes nên từ chối ra sân nếu HLV Roberto Martinez tiếp tục xếp Cristiano Ronaldo đá chính tại World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T22:23:21+07:00",
+      "fetched": "2026-06-15T06:05:52.424633+07:00"
+    },
+    {
+      "id": "f514e05fe612b4a433b81714a4b4312f",
+      "title": "Fernandes được khuyên đình công nếu Ronaldo vẫn đá chính",
+      "link": "https://vnexpress.net/fernandes-duoc-khuyen-dinh-cong-neu-ronaldo-van-da-chinh-5085692.html",
+      "summary": "Một bình luận viên của talkSPORT gây tranh cãi khi cho rằng Bruno Fernandes nên từ chối ra sân nếu HLV Roberto Martinez tiếp tục xếp Cristiano Ronaldo đá chính tại World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-14T22:23:21+07:00",
+      "fetched": "2026-06-15T06:06:10.009854+07:00"
+    },
+    {
+      "id": "5f5bd8084975fcefbf6fc22f4866a88b",
+      "title": "Veron: 'Messi cần phải để đồng đội giúp sức'",
+      "link": "https://vnexpress.net/veron-messi-can-phai-de-dong-doi-giup-suc-5085680.html",
+      "summary": "Cựu tiền vệ Juan Sebastian Veron cho rằng Argentina không thể kỳ vọng Lionel Messi tái hiện hành trình thần kỳ như tại World Cup 2022.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T22:17:02+07:00",
+      "fetched": "2026-06-15T06:05:52.424823+07:00"
+    },
+    {
+      "id": "5f5bd8084975fcefbf6fc22f4866a88b",
+      "title": "Veron: 'Messi cần phải để đồng đội giúp sức'",
+      "link": "https://vnexpress.net/veron-messi-can-phai-de-dong-doi-giup-suc-5085680.html",
+      "summary": "Cựu tiền vệ Juan Sebastian Veron cho rằng Argentina không thể kỳ vọng Lionel Messi tái hiện hành trình thần kỳ như tại World Cup 2022.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-14T22:17:02+07:00",
+      "fetched": "2026-06-15T06:06:10.008590+07:00"
+    },
+    {
+      "id": "523dff94dd91d0d304685fdcb74f037d",
+      "title": "Neymar bị chỉ trích dù chưa thi đấu ở World Cup 2026",
+      "link": "https://vnexpress.net/neymar-bi-chi-trich-du-chua-thi-dau-o-world-cup-2026-5085679.html",
+      "summary": "Tiền đạo Neymar bị truyền thông Tây Ban Nha chỉ trích sau trận hòa 1-1 giữa Brazil và Morocco ở lượt mở màn bảng C World Cup 2026, dù anh không chơi phút nào vì chấn thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T22:13:56+07:00",
+      "fetched": "2026-06-15T06:05:52.424982+07:00"
+    },
+    {
+      "id": "523dff94dd91d0d304685fdcb74f037d",
+      "title": "Neymar bị chỉ trích dù chưa thi đấu ở World Cup 2026",
+      "link": "https://vnexpress.net/neymar-bi-chi-trich-du-chua-thi-dau-o-world-cup-2026-5085679.html",
+      "summary": "Tiền đạo Neymar bị truyền thông Tây Ban Nha chỉ trích sau trận hòa 1-1 giữa Brazil và Morocco ở lượt mở màn bảng C World Cup 2026, dù anh không chơi phút nào vì chấn thương.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-14T22:13:56+07:00",
+      "fetched": "2026-06-15T06:06:10.009343+07:00"
+    },
+    {
+      "id": "b5a87878e1ede562d81866fe51f08bb1",
+      "title": "Đức thắng hủy diệt tân binh World Cup",
+      "link": "https://vnexpress.net/duc-thang-huy-diet-tan-binh-world-cup-5085693.html",
+      "summary": "Dù làm nên bàn thắng lịch sử ở lần chào sân World Cup, tân binh Curacao không thể chống cự lại sức tấn công hủy diệt của tuyển Đức trong màn thị uy sức mạnh 7-1, cũng là chiến thắng đậm nhất từ đầu giải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-14T22:11:30+07:00",
+      "fetched": "2026-06-15T06:05:52.425151+07:00"
+    },
+    {
+      "id": "b5a87878e1ede562d81866fe51f08bb1",
+      "title": "Đức thắng hủy diệt tân binh World Cup",
+      "link": "https://vnexpress.net/duc-thang-huy-diet-tan-binh-world-cup-5085693.html",
+      "summary": "Dù làm nên bàn thắng lịch sử ở lần chào sân World Cup, nhưng tân binh Curacao không thể chống cự lại sức tấn công hủy diệt của tuyển Đức trong màn thị uy sức mạnh 7-1, cũng là chiến thắng đậm nhất từ đầu giải.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-14T22:11:30+07:00",
+      "fetched": "2026-06-15T06:06:10.008817+07:00"
+    },
+    {
+      "id": "e555b9d7cde1ee137892740cfac88d87",
+      "title": "Ông trùm biến Mossad thành cỗ máy chiến tranh của Israel",
+      "link": "https://vnexpress.net/ong-trum-bien-mossad-thanh-co-may-chien-tranh-cua-israel-5083179.html",
+      "summary": "Từ những điệp vụ trong bóng tối, Mossad dưới thời David Barnea trở thành cỗ máy tác chiến trong nhiều cuộc xung đột của Israel với các đối thủ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-14T22:00:00+07:00",
+      "fetched": "2026-06-15T06:06:02.754140+07:00"
+    },
+    {
+      "id": "d8cf9ba2d8088fc2999213678c1d1556",
+      "title": "Robot hình người loay hoay đi từ sân khấu đến đời thực",
+      "link": "https://vnexpress.net/robot-hinh-nguoi-loay-hoay-di-tu-san-khau-den-doi-thuc-5083349.html",
+      "summary": "Dù gây sốt với hàng loạt màn biểu diễn khéo léo và phức tạp, robot hình người, phổ biến nhất ở Trung Quốc, gặp nhiều rào cản khi ứng dụng vào thực tế.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-14T22:00:00+07:00",
+      "fetched": "2026-06-15T06:06:07.894473+07:00"
     },
     {
       "id": "40cdd8fb0e2709eae03cf6d0f1df7bc5",
