@@ -1,7 +1,47 @@
 window.newsData_2026_06_16 = {
   "date": "2026-06-16",
-  "lastUpdated": "2026-06-16T00:10:45.914265+07:00",
+  "lastUpdated": "2026-06-16T03:52:17.230697+07:00",
   "articles": [
+    {
+      "id": "645d936f3203a5c23cdb11dfd0bf4c42",
+      "title": "Cape Verde gây sốc, cầm chân Tây Ban Nha ở World Cup 2026",
+      "link": "https://tuoitre.vn/cape-verde-gay-soc-cam-chan-tay-ban-nha-o-world-cup-2026-20260615103928047.htm",
+      "summary": "Rạng sáng 16-6, Tây Ban Nha gây thất vọng khi để Cape Verde cầm chân 0-0 ở lượt trận đầu tiên bảng H World Cup 2026. Đây cũng là trận hòa 0-0 đầu tiên ở giải đấu năm nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T03:52:08.478421+07:00",
+      "fetched": "2026-06-16T03:52:08.478579+07:00"
+    },
+    {
+      "id": "e780f8a07afd8c349456c15818d605f0",
+      "title": "Trực tuyến Bỉ - Ai Cập (hiệp 1): De Bruyne đối đầu Salah",
+      "link": "https://tuoitre.vn/truc-tuyen-bi-ai-cap-hiep-1-de-bruyne-doi-dau-salah-20260615164942751.htm",
+      "summary": "Trận đấu tại bảng G World Cup 2026 giữa đội tuyển Bỉ và Ai Cập đã chính thức bắt đầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T03:52:08.477896+07:00",
+      "fetched": "2026-06-16T03:52:08.478016+07:00"
+    },
+    {
+      "id": "87ef11a2826a611a98227783269dd9c3",
+      "title": "Tiền đạo Tây Ban Nha lập kỷ lục buồn chưa từng có trong lịch sử World Cup",
+      "link": "https://tuoitre.vn/tien-dao-tay-ban-nha-lap-ky-luc-buon-chua-tung-co-trong-lich-su-world-cup-20260616012238157.htm",
+      "summary": "Trong ngày Tây Ban Nha bị Cape Verde cầm hòa không bàn thắng, tiền đạo Mikel Oyarzabal đã vô tình lập một kỷ lục buồn chưa từng có trong lịch sử World Cup suốt 60 năm qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T03:52:08.477752+07:00",
+      "fetched": "2026-06-16T03:52:08.477882+07:00"
+    },
+    {
+      "id": "5759553e5002e770a31315e52d55cda8",
+      "title": "Sút đến 27 lần, Tây Ban Nha vẫn bất lực trước Cape Verde",
+      "link": "https://tuoitre.vn/sut-den-27-lan-tay-ban-nha-van-bat-luc-truoc-cape-verde-20260616014343865.htm",
+      "summary": "Tuyển Tây Ban Nha dù vượt trội hoàn toàn Cape Verde nhưng vẫn không thể đánh bại đối thủ châu Phi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-16T03:52:08.477486+07:00",
+      "fetched": "2026-06-16T03:52:08.477736+07:00"
+    },
     {
       "id": "d9e5e87a6144b090c3c52ccc0004b885",
       "title": "AI có thể giúp tội phạm mạng đoán mật khẩu từ thông tin trên mạng xã hội",
@@ -153,6 +193,246 @@ window.newsData_2026_06_16 = {
       "fetched": "2026-06-16T00:10:39.403378+07:00"
     },
     {
+      "id": "9c2ffeb915b0204c2870a8b809c5591e",
+      "title": "Chờ xem Argentina vĩ đại nhất lịch sử",
+      "link": "https://thanhnien.vn/cho-xem-argentina-vi-dai-nhat-lich-su-185260615182645449.htm",
+      "summary": "Lionel Messi vẫn còn có thể đóng góp giá trị chuyên môn quan trọng cho đội tuyển Argentina, điều này cũng dễ hiểu. Nhưng một Messi sẽ tròn 39 tuổi tại World Cup này vẫn gánh vác trách nhiệm ghi bàn chủ yếu thì khó mà tin được.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-15T20:27:00+07:00",
+      "fetched": "2026-06-16T03:52:07.254607+07:00"
+    },
+    {
+      "id": "4fbb8cb4f229f875710a127324d59cf1",
+      "title": "World Cup 2026, Ả Rập Xê Út 0-0 Uruguay: Đội bóng châu Á tự tin thắng trận",
+      "link": "https://thanhnien.vn/world-cup-2026-a-rap-xe-ut-0-0-uruguay-doi-bong-chau-a-tu-tin-thang-tran-185260615210117822.htm",
+      "summary": "Tấm gương của Nhật Bản, Hàn Quốc, Úc, Qatar xuất quân với thành tích bất bại có thể sẽ tác động tích cực đến Ả Rập Xê Út trong trận gặp Uruguay ở bảng H World Cup 2026, diễn ra lúc 5 giờ ngày 16.6 trên sân Hard Rock, Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-15T20:24:00+07:00",
+      "fetched": "2026-06-16T03:52:07.254782+07:00"
+    },
+    {
+      "id": "b8958820a3510b9c059204a7a7c44df1",
+      "title": "Châu Á khởi đầu ấn tượng",
+      "link": "https://thanhnien.vn/chau-a-khoi-dau-an-tuong-185260615183150171.htm",
+      "summary": "Bóng đá châu Á đang chứng tỏ vị thế vững chắc tại World Cup 2026 khi 4 đại diện đầu tiên đều ra quân bất bại, nổi bật nhất là trận hòa 2-2 quả cảm của Nhật Bản trước Hà Lan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-15T20:13:00+07:00",
+      "fetched": "2026-06-16T03:52:07.254943+07:00"
+    },
+    {
+      "id": "1116e6773b8747c25e22954bb6d2d1f8",
+      "title": "Gắp con đỉa dài hơn 12 cm sống trong đường thở bé gái 8 tuổi",
+      "link": "https://thanhnien.vn/gap-con-dia-dai-hon-12-cm-song-trong-duong-tho-be-gai-8-tuoi-185260615182414748.htm",
+      "summary": "Một bé gái 8 tuổi ở Quảng Ngãi được các bác sĩ phát hiện con đỉa dài hơn 12 cm sống trong đường thở.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-15T18:10:00+07:00",
+      "fetched": "2026-06-16T03:52:07.255110+07:00"
+    },
+    {
+      "id": "b9d97b76af480a35e8fbd81a6e697dcd",
+      "title": "Lợi ích với huyết áp khi ăn chuối mỗi ngày",
+      "link": "https://vnexpress.net/loi-ich-voi-huyet-ap-khi-an-chuoi-moi-ngay-5086027.html",
+      "summary": "Ăn chuối thường xuyên có thể giúp hỗ trợ cân bằng natri, giúp mạch máu thư giãn, góp phần kiểm soát huyết áp và mang lại lợi ích cho tim mạch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-15T18:00:00+07:00",
+      "fetched": "2026-06-16T03:52:03.775072+07:00"
+    },
+    {
+      "id": "e5607acd5728e00753637235e61ab177",
+      "title": "Người thận yếu có nên uống sữa hay phải kiêng hoàn toàn?",
+      "link": "https://thanhnien.vn/nguoi-than-yeu-co-nen-uong-sua-hay-phai-kieng-hoan-toan-185260615200353044.htm",
+      "summary": "Người bệnh thận hoàn toàn có thể uống sữa. Sữa vẫn được xem là nguồn cung cấp nhiều dưỡng chất quan trọng cho cơ thể. Tuy nhiên, họ cần phải chọn đúng loại sữa phù hợp với tình trạng bệnh và uống với lượng vừa phải.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-15T17:15:00+07:00",
+      "fetched": "2026-06-16T03:52:07.255264+07:00"
+    },
+    {
+      "id": "45a169b305c9b58a4e992515a1de40ee",
+      "title": "Nhịn tiểu bao lâu bắt đầu gây hại? Bác sĩ cảnh báo nhóm người cần lưu ý",
+      "link": "https://thanhnien.vn/nhin-tieu-bao-lau-bat-dau-gay-hai-bac-si-canh-bao-nhom-nguoi-can-luu-y-185260615214118779.htm",
+      "summary": "Cảm giác buồn tiểu là tín hiệu tự nhiên của cơ thể và không nên bỏ qua. Việc thường xuyên nhịn tiểu không chỉ gây hại cho bàng quang mà còn có thể làm tăng nguy cơ nhiễm trùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-15T17:11:00+07:00",
+      "fetched": "2026-06-16T03:52:07.255418+07:00"
+    },
+    {
+      "id": "e23cc41136b0f9a98cbe06f2da0cdddb",
+      "title": "Từ cú trượt học sinh giỏi tỉnh tới thủ khoa chuyên Toán",
+      "link": "https://vnexpress.net/tu-cu-truot-hoc-sinh-gioi-tinh-toi-thu-khoa-chuyen-toan-5086073.html",
+      "summary": "Dừng chân sớm ở kỳ thi chọn học sinh giỏi cấp phường, An từng hụt hẫng song coi đó là động lực để ôn luyện, trở thành thủ khoa chuyên Toán lớp 10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-15T17:05:03+07:00",
+      "fetched": "2026-06-16T03:52:03.775252+07:00"
+    },
+    {
+      "id": "ca645b19bde4a0ec327dc08c8d38ed73",
+      "title": "5 tranh đắt nhất của họa sĩ David Hockney",
+      "link": "https://vnexpress.net/5-tranh-dat-nhat-cua-hoa-si-david-hockney-5085877.html",
+      "summary": "Họa sĩ người Anh David Hockney vẽ chân dung đôi, phong cảnh ở nước Mỹ, được đấu giá hàng chục triệu USD trên thị trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-15T17:05:00+07:00",
+      "fetched": "2026-06-16T03:52:03.775420+07:00"
+    },
+    {
+      "id": "56003174368b6e83664628a1036d8971",
+      "title": "3 sai lầm khi giải nhiệt gây yếu sinh lý",
+      "link": "https://vnexpress.net/3-sai-lam-khi-giai-nhiet-gay-yeu-sinh-ly-5085610.html",
+      "summary": "Nhiều nam giới vì muốn hạ nhiệt cấp tốc trong mùa hè đã tắm nước đá, bôi kem đánh răng hay lạm dụng dung dịch bạc hà, vô tình làm tổn thương vùng nhạy cảm và suy giảm chất lượng tinh trùng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-15T17:04:00+07:00",
+      "fetched": "2026-06-16T03:52:03.775619+07:00"
+    },
+    {
+      "id": "3d978dc4ae05ce9c233a09d7dd1ead1b",
+      "title": "4 sai lầm nên tránh khi uống cà phê buổi sáng",
+      "link": "https://vnexpress.net/4-sai-lam-nen-tranh-khi-uong-ca-phe-buoi-sang-5085849.html",
+      "summary": "Uống cà phê ngay khi thức dậy, bỏ qua bữa sáng hay thêm nhiều đường, kem béo là những sai lầm có thể làm giảm lợi ích của cà phê.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-15T17:03:00+07:00",
+      "fetched": "2026-06-16T03:52:03.775787+07:00"
+    },
+    {
+      "id": "b13065a9d23fb104efc4dfcdbd6d81e4",
+      "title": "4 con giáp không phải lo lắng về tiền bạc trong ba tháng tới",
+      "link": "https://vnexpress.net/van-may-12-con-giap-con-giap-may-man-hom-nay-4-con-giap-khong-phai-lo-lang-ve-tien-bac-trong-ba-thang-toi-5086011.html",
+      "summary": "Vận trình của những con giáp này không chỉ dừng lại ở việc kiếm được tiền, mà còn thể hiện khả năng quản lý tài chính hiệu quả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-15T17:02:00+07:00",
+      "fetched": "2026-06-16T03:52:03.775951+07:00"
+    },
+    {
+      "id": "87e017b7598f6135ec29847dd14f00a0",
+      "title": "Mua chung cư cắt lỗ cần lưu ý những gì?",
+      "link": "https://vnexpress.net/mua-chung-cu-cat-lo-can-luu-y-nhung-gi-5085575.html",
+      "summary": "Người mua cần khảo sát kỹ thị trường, cân đối bài toán vay nợ bởi không phải tài sản \"cắt lỗ\" nào cũng là món hời, theo chuyên gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-15T17:02:00+07:00",
+      "fetched": "2026-06-16T03:52:03.776111+07:00"
+    },
+    {
+      "id": "7f048f6f7a7a4a840fcfdd433041bf21",
+      "title": "'Đề xuất thu hồi chứng chỉ sau 12 tháng không hành nghề có thể thiệt cho luật sư nữ'",
+      "link": "https://vnexpress.net/de-xuat-thu-hoi-chung-chi-sau-12-thang-khong-hanh-nghe-co-the-thiet-cho-luat-su-nu-5086115.html",
+      "summary": "Trước đề xuất thu hồi chứng chỉ hành nghề luật sư nếu không hành nghề 12 tháng, chuyên gia cho rằng cần tính đến trường hợp gặp biến cố sức khỏe, luật sư nữ nghỉ thai sản... để phù hợp hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-15T17:00:00+07:00",
+      "fetched": "2026-06-16T03:52:03.776265+07:00"
+    },
+    {
+      "id": "d2bdfdedb9483e97c380c17fbe8b2549",
+      "title": "Vụ bắt cóc tiểu thư ​​​17 tuổi và những đêm địa ngục dưới lòng đất",
+      "link": "https://vnexpress.net/vu-bat-coc-tieu-thu-17-tuoi-va-nhung-dem-dia-nguc-duoi-long-dat-5086051.html",
+      "summary": "Bị kẻ sát nhân hàng loạt bắt đi khi đang ngủ trên giường, Lesley Whittle phải trải qua những ngày cuối đời đầy tuyệt vọng dưới trục thoát nước ngầm sâu 16 m.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-15T17:00:00+07:00",
+      "fetched": "2026-06-16T03:52:03.776421+07:00"
+    },
+    {
+      "id": "9460125dd1e0b6f6b578e6532d4575fb",
+      "title": "Kinh tế toàn cầu ra sao sau thỏa thuận hòa bình Mỹ - Iran?",
+      "link": "https://vnexpress.net/kinh-te-toan-cau-ra-sao-sau-thoa-thuan-hoa-binh-my-iran-5086037.html",
+      "summary": "Thỏa thuận Mỹ - Iran mang lại lợi ích lớn cho nhiều nước châu Á, xoa dịu gánh nặng chi phí cho doanh nghiệp và các ngân hàng trung ương, theo giới phân tích.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-15T17:00:00+07:00",
+      "fetched": "2026-06-16T03:52:03.776603+07:00"
+    },
+    {
+      "id": "7fb859ed01cbbf5304451e5f6fe5c1ea",
+      "title": "Sau 16 năm yêu anh, tôi chỉ mong có một danh phận",
+      "link": "https://vnexpress.net/yeu-tham-sau-16-nam-yeu-anh-toi-chi-mong-co-mot-danh-phan-5086000.html",
+      "summary": "Có danh phận không phải vì hơn thua hay để chứng minh với ai, mà vì tôi không muốn mãi đứng ở ranh giới mơ hồ này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-15T17:00:00+07:00",
+      "fetched": "2026-06-16T03:52:03.776758+07:00"
+    },
+    {
+      "id": "1d2860a39cee371cb6979784a3ac2239",
+      "title": "Nhà 412 m2 ba tầng thiết kế không có cầu thang",
+      "link": "https://vnexpress.net/nha-412-m2-ba-tang-thiet-ke-khong-co-cau-thang-5085972.html",
+      "summary": "Hệ giao thông bao quanh công trình kết nối tầng hầm, khu sinh hoạt và vườn mái, đáp ứng nhu cầu di chuyển thuận tiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-15T17:00:00+07:00",
+      "fetched": "2026-06-16T03:52:03.776917+07:00"
+    },
+    {
+      "id": "70dc06620ad8bca5c02fc3b5376a4a00",
+      "title": "Phường xã XHCN dành cho ai",
+      "link": "https://vnexpress.net/phuong-xa-xhcn-danh-cho-ai-5085958.html",
+      "summary": "Tháng 8/2022, hơn 700 phụ huynh ở phường Hoàng Liệt, quận Hoàng Mai phải bốc thăm để giành cho con một suất vào trường mầm non công lập, vì số hồ sơ đăng ký gấp đôi số chỗ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-15T17:00:00+07:00",
+      "fetched": "2026-06-16T03:52:03.777071+07:00"
+    },
+    {
+      "id": "d9ea41ebdd036c7a6221720750e2a891",
+      "title": "Ba câu hỏi tránh lãng phí hàng trăm triệu đồng và bốn năm đại học",
+      "link": "https://vnexpress.net/ba-cau-hoi-tranh-lang-phi-hang-tram-trieu-dong-va-bon-nam-dai-hoc-5085935.html",
+      "summary": "Học sinh được tư vấn điểm chuẩn, học phí, chương trình đào tạo nhưng 'Tư duy cốt lõi của nghề đó là gì' thì ít ai nhắc tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-15T17:00:00+07:00",
+      "fetched": "2026-06-16T03:52:03.777222+07:00"
+    },
+    {
+      "id": "8cfb38801d47789cfa4b5b3c29ed0a0e",
+      "title": "Xe tự hành chở phi hành gia ở cực nam Mặt Trăng",
+      "link": "https://vnexpress.net/xe-tu-hanh-cho-phi-hanh-gia-o-cuc-nam-mat-trang-5085879.html",
+      "summary": "Mẫu xe Pegasus của Lunar Outpost phát triển có thể chạy 900 km trong một lần sạc và chịu nhiệt độ từ -246 đến 121 độ C, giúp phi hành gia hoạt động lâu dài trên Mặt Trăng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-15T17:00:00+07:00",
+      "fetched": "2026-06-16T03:52:03.777381+07:00"
+    },
+    {
+      "id": "9460125dd1e0b6f6b578e6532d4575fb",
+      "title": "Kinh tế toàn cầu ra sao sau thỏa thuận hòa bình Mỹ - Iran?",
+      "link": "https://vnexpress.net/kinh-te-toan-cau-ra-sao-sau-thoa-thuan-hoa-binh-my-iran-5086037.html",
+      "summary": "Thỏa thuận Mỹ - Iran mang lại lợi ích lớn cho nhiều nước châu Á, xoa dịu gánh nặng chi phí cho doanh nghiệp và các ngân hàng trung ương, theo giới phân tích.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-15T17:00:00+07:00",
+      "fetched": "2026-06-16T03:52:12.082085+07:00"
+    },
+    {
+      "id": "8cfb38801d47789cfa4b5b3c29ed0a0e",
+      "title": "Xe tự hành chở phi hành gia ở cực nam Mặt Trăng",
+      "link": "https://vnexpress.net/xe-tu-hanh-cho-phi-hanh-gia-o-cuc-nam-mat-trang-5085879.html",
+      "summary": "Mẫu xe Pegasus của Lunar Outpost phát triển có thể chạy 900 km trong một lần sạc và chịu nhiệt độ từ -246 đến 121 độ C, giúp phi hành gia hoạt động lâu dài trên Mặt Trăng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-15T17:00:00+07:00",
+      "fetched": "2026-06-16T03:52:16.111458+07:00"
+    },
+    {
+      "id": "e38ae981d482665b17a2f9a00a9b89e7",
+      "title": "Dấu ấn bóng đá Pháp trong đội hình Senegal",
+      "link": "https://vnexpress.net/dau-an-bong-da-phap-trong-doi-hinh-senegal-5085661.html",
+      "summary": "Trước trận gặp Pháp ở lượt đầu bảng I World Cup 2026, Senegal gây chú ý khi sở hữu nhiều cầu thủ sinh ra, trưởng thành hoặc từng được đào tạo trong hệ thống bóng đá của đối thủ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-15T17:00:00+07:00",
+      "fetched": "2026-06-16T03:52:17.225472+07:00"
+    },
+    {
       "id": "f2187483e871aad3a65fc76e7727cdcb",
       "title": "World Cup 2026, Iran - New Zealand: Cuộc chiến của 2 'sát thủ' già",
       "link": "https://thanhnien.vn/world-cup-2026-iran-new-zealand-cuoc-chien-cua-2-sat-thu-gia-18526061521093556.htm",
@@ -281,6 +561,16 @@ window.newsData_2026_06_16 = {
       "category": "Thể thao",
       "published": "2026-06-15T15:00:00+07:00",
       "fetched": "2026-06-16T00:10:45.910594+07:00"
+    },
+    {
+      "id": "0b5c882e381ca5b32c1d3d94acae2b6c",
+      "title": "Tây Ban Nha bị tân binh Cape Verde cầm hòa ở World Cup",
+      "link": "https://vnexpress.net/tay-ban-nha-vs-cape-verde-5086086-tong-thuat.html",
+      "summary": "Đương kim vô địch châu Âu, Tây Ban Nha hòa Cape Verde 0-0 ở lượt đầu bảng H World Cup 2026, trong ngày Lamine Yamal chơi dưới sức.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-15T15:00:00+07:00",
+      "fetched": "2026-06-16T03:52:17.225679+07:00"
     },
     {
       "id": "45faf852a16b2f14e1a72773e08dfacc",
