@@ -1,7 +1,27 @@
 window.newsData_2026_06_19 = {
   "date": "2026-06-19",
-  "lastUpdated": "2026-06-19T03:21:54.228642+07:00",
+  "lastUpdated": "2026-06-19T06:42:30.095263+07:00",
   "articles": [
+    {
+      "id": "35862d4dc634998222e737c66f9df6d6",
+      "title": "Canada - Qatar (hiệp 1) 0-0: Chủ nhà ép sân",
+      "link": "https://tuoitre.vn/truc-tuyen-canada-qatar-0h-dai-dien-chau-a-tiep-tuc-gay-soc-100260618135348945.htm",
+      "summary": "Sau tiếng còi nhập cuộc Canada ép sân, tạo ra khá nhiều tình huống nguy hiểm về khung thành của Qatar.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T06:42:22.362189+07:00",
+      "fetched": "2026-06-19T06:42:22.362255+07:00"
+    },
+    {
+      "id": "edfdf1792326b5c48a685a65099e8ae1",
+      "title": "Tin tức sáng 19-6: Trưởng thôn, tổ trưởng dân phố nghỉ việc do sáp nhập được hưởng chế độ chính sách",
+      "link": "https://tuoitre.vn/tin-tuc-sang-19-6-truong-thon-to-truong-dan-pho-nghi-viec-do-sap-nhap-duoc-huong-che-do-chinh-sach-100260618223636497.htm",
+      "summary": "Tin tức đáng chú ý: Trưởng thôn, tổ trưởng dân phố nghỉ việc do sáp nhập được hưởng chế độ tinh giản biên chế; Kiến nghị khẩn trương cấp thẻ BHYT miễn phí cho 7.600 người dân ở xã, phường an toàn khu...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-19T06:42:22.362074+07:00",
+      "fetched": "2026-06-19T06:42:22.362175+07:00"
+    },
     {
       "id": "5076957fd770290392f780f5b8172b4d",
       "title": "Israel tuyên bố cắt liên lạc với lãnh đạo đối ngoại EU",
@@ -151,6 +171,386 @@ window.newsData_2026_06_19 = {
       "category": "Tổng hợp",
       "published": "2026-06-19T03:21:46.701885+07:00",
       "fetched": "2026-06-19T03:21:46.702035+07:00"
+    },
+    {
+      "id": "5cfd83dc5f88f126fa465dd6b4226a3f",
+      "title": "Tiền tiểu đường: 4 dấu hiệu cảnh báo sớm nhiều người dễ bỏ qua",
+      "link": "https://thanhnien.vn/tien-tieu-duong-4-dau-hieu-canh-bao-som-nhieu-nguoi-de-bo-qua-185260618181037267.htm",
+      "summary": "Một trong những điều đáng lo nhất của tiền tiểu đường là phần lớn người mắc hoàn toàn không biết mình đang gặp vấn đề. Nhiều người có thể sống chung với tiền tiểu đường trong nhiều năm mà không có triệu chứng rõ ràng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T23:41:00+07:00",
+      "fetched": "2026-06-19T06:42:20.154793+07:00"
+    },
+    {
+      "id": "61c66aac647ba82f32f8bff0c91ccfe8",
+      "title": "Ông Trump: Thỏa thuận với Iran là chiến thắng cho Mỹ",
+      "link": "https://vnexpress.net/ong-trump-thoa-thuan-voi-iran-la-chien-thang-cho-my-5087458.html",
+      "summary": "Tổng thống Trump ca ngợi văn kiện chấm dứt chiến sự với Iran là \"chiến thắng\" cho Mỹ, bác bỏ những chỉ trích nhắm vào thỏa thuận này,",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T23:39:24+07:00",
+      "fetched": "2026-06-19T06:42:16.696972+07:00"
+    },
+    {
+      "id": "49ab1a9ad86c9a057d81debdd4e4dc98",
+      "title": "Kane bị chê chỉ ghi bàn trước đối thủ yếu",
+      "link": "https://vnexpress.net/kane-bi-che-chi-ghi-ban-truoc-doi-thu-yeu-5087460.html",
+      "summary": "Danh thủ Đức Dietmar Hamann cho rằng thành tích ghi bàn của Harry Kane tại World Cup chưa đủ thuyết phục, đồng thời nghi ngờ khả năng tiền đạo này đưa tuyển Anh đến chức vô địch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T23:20:50+07:00",
+      "fetched": "2026-06-19T06:42:16.697150+07:00"
+    },
+    {
+      "id": "49ab1a9ad86c9a057d81debdd4e4dc98",
+      "title": "Kane bị chê chỉ ghi bàn trước đối thủ yếu",
+      "link": "https://vnexpress.net/kane-bi-che-chi-ghi-ban-truoc-doi-thu-yeu-5087460.html",
+      "summary": "Danh thủ Đức Dietmar Hamann cho rằng thành tích ghi bàn của Harry Kane tại World Cup chưa đủ thuyết phục, đồng thời nghi ngờ khả năng tiền đạo này đưa tuyển Anh đến chức vô địch.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-18T23:20:50+07:00",
+      "fetched": "2026-06-19T06:42:30.090784+07:00"
+    },
+    {
+      "id": "07d81145b54f5949122b396f63ca8136",
+      "title": "Xe con chuyển làn bị xe khách tông: ai sai?",
+      "link": "https://vnexpress.net/xe-con-chuyen-lan-bi-xe-khach-tong-ai-sai-5087033.html",
+      "summary": "Bật xi-nhan, xe con chuyển sang làn đường sát dải phân cách thì xe khách lao tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T23:20:00+07:00",
+      "fetched": "2026-06-19T06:42:16.697311+07:00"
+    },
+    {
+      "id": "58a288751f8c7a48e51d3b72247f41d3",
+      "title": "'Hiệu ứng domino' siết mạng xã hội",
+      "link": "https://thanhnien.vn/hieu-ung-domino-siet-mang-xa-hoi-185260618200229798.htm",
+      "summary": "Chính phủ nhiều quốc gia đang đồng loạt nghiên cứu và triển khai các cơ chế pháp lý nhằm bắt kịp những thay đổi của mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T23:20:00+07:00",
+      "fetched": "2026-06-19T06:42:20.154963+07:00"
+    },
+    {
+      "id": "a739f1670fcef21d87a556618e590e02",
+      "title": "Gia đình bác tin đồn bố Messi qua đời",
+      "link": "https://vnexpress.net/gia-dinh-bac-tin-don-bo-messi-qua-doi-5087456.html",
+      "summary": "Gia đình Lionel Messi lần đầu công bố tình trạng sức khỏe của ông Jorge Messi sau khi tin đồn ông qua đời lan truyền trên mạng xã hội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T23:15:58+07:00",
+      "fetched": "2026-06-19T06:42:16.697471+07:00"
+    },
+    {
+      "id": "a739f1670fcef21d87a556618e590e02",
+      "title": "Gia đình bác tin đồn bố Messi qua đời",
+      "link": "https://vnexpress.net/gia-dinh-bac-tin-don-bo-messi-qua-doi-5087456.html",
+      "summary": "Gia đình Lionel Messi lần đầu công bố tình trạng sức khỏe của ông Jorge Messi sau khi tin đồn ông qua đời lan truyền trên mạng xã hội.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-18T23:15:58+07:00",
+      "fetched": "2026-06-19T06:42:30.090943+07:00"
+    },
+    {
+      "id": "ec3835d896484f1765afc36c2482f0a8",
+      "title": "Cửa ngõ Nam Sài Gòn: Xe dừng mua hàng, làn rẽ phải bị 'bóp nghẹt'",
+      "link": "https://thanhnien.vn/cua-ngo-nam-sai-gon-xe-dung-mua-hang-lan-re-phai-bi-bop-nghet-18526061817162584.htm",
+      "summary": "Nhiều người dừng xe mua hàng ngay dưới lòng đường, khiến làn ưu tiên rẽ phải tại giao lộ Nguyễn Văn Linh - Nguyễn Hữu Thọ (TP.HCM) thường xuyên bị cản trở, gây ùn ứ và mất an toàn giao thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T23:15:00+07:00",
+      "fetched": "2026-06-19T06:42:20.155119+07:00"
+    },
+    {
+      "id": "007e1712114b3539f15a45ba01cee2db",
+      "title": "Thị trường nhà đất Hà Nội 'ngủ đông'",
+      "link": "https://vnexpress.net/thi-truong-nha-dat-ha-noi-ngu-dong-5087454.html",
+      "summary": "Anh Thắng ở Hà Nội hoãn mua nhà dù sẵn trong tay 6 tỷ đồng, câu chuyện phản ánh tâm lý của hơn 80% nhà đầu tư hiện \"án binh bất động\" trước áp lực lãi suất cao và quy hoạch diện rộng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T23:14:04+07:00",
+      "fetched": "2026-06-19T06:42:16.697630+07:00"
+    },
+    {
+      "id": "08567606a96654d4f573179f90dc76e2",
+      "title": "Bạn gái HLV Nagelsmann bị yêu cầu tránh xa tuyển Đức",
+      "link": "https://vnexpress.net/ban-gai-hlv-nagelsmann-bi-yeu-cau-tranh-xa-tuyen-duc-5087302.html",
+      "summary": "Theo huyền thoại Lothar Matthaus, bạn gái của HLV Julian Nagelsmann, Lena không nên xuất hiện quá nhiều với đội tuyển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T23:10:37+07:00",
+      "fetched": "2026-06-19T06:42:16.697824+07:00"
+    },
+    {
+      "id": "08567606a96654d4f573179f90dc76e2",
+      "title": "Bạn gái HLV Nagelsmann bị yêu cầu tránh xa tuyển Đức",
+      "link": "https://vnexpress.net/ban-gai-hlv-nagelsmann-bi-yeu-cau-tranh-xa-tuyen-duc-5087302.html",
+      "summary": "Theo huyền thoại Lothar Matthaus, bạn gái của HLV Julian Nagelsmann, Lena không nên xuất hiện quá nhiều với đội tuyển.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-18T23:10:37+07:00",
+      "fetched": "2026-06-19T06:42:30.091099+07:00"
+    },
+    {
+      "id": "25d564ec23be78603fd78daede3dd7d0",
+      "title": "Hạn chót đăng ký quy đổi IELTS, điểm cộng của gần 30 đại học ở TP HCM",
+      "link": "https://vnexpress.net/han-chot-dang-ky-quy-doi-ielts-diem-cong-cua-gan-30-dai-hoc-o-tp-hcm-5086151.html",
+      "summary": "Gần 30 đại học ở TP HCM nhận hồ sơ tuyển thẳng, chứng chỉ IELS, minh chứng điểm cộng để xét tuyển đầu vào, đa số đến ngày 20/6.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T23:03:59+07:00",
+      "fetched": "2026-06-19T06:42:16.697994+07:00"
+    },
+    {
+      "id": "fbcd5fbcf9c2930fcbda8da8a118013c",
+      "title": "Rừng thiêng giữa phố: 'Mái nhà' của những linh tự ở Ngũ Hành Sơn",
+      "link": "https://thanhnien.vn/rung-thieng-giua-pho-mai-nha-cua-nhung-linh-tu-o-ngu-hanh-son-18526061819300886.htm",
+      "summary": "Với 7 cây được công nhận là cây di sản Việt Nam, khu rừng trên nền núi đá vôi ở di tích quốc gia đặc biệt Ngũ Hành Sơn được ví như \"rừng di sản\" giữa lòng đô thị, âm thầm che chở 2 quốc tự cùng nhiều ngôi chùa cổ kính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T23:01:00+07:00",
+      "fetched": "2026-06-19T06:42:20.155272+07:00"
+    },
+    {
+      "id": "3a29942b86f27a3bcb4f3ccaa2ef51d7",
+      "title": "TP HCM sẽ xây bãi xe, trung tâm thương mại ngầm dưới bến Bạch Đằng",
+      "link": "https://vnexpress.net/tp-hcm-se-xay-bai-xe-trung-tam-thuong-mai-ngam-duoi-ben-bach-dang-5087436.html",
+      "summary": "Đường Tôn Đức Thắng qua bến Bạch Đằng dự kiến được ngầm hóa một phần, phía dưới bố trí bãi đậu xe và trung tâm thương mại, trong dự án gần 30.000 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T23:00:00+07:00",
+      "fetched": "2026-06-19T06:42:16.698148+07:00"
+    },
+    {
+      "id": "67d9aa99d8be9a720df233278068abb9",
+      "title": "Cơ sở dưỡng lão bán trú công lập đầu tiên ở Hà Nội",
+      "link": "https://vnexpress.net/co-so-duong-lao-ban-tru-cong-lap-dau-tien-o-ha-noi-5087411.html",
+      "summary": "Trạm Y tế phường Long Biên mở cơ sở chăm sóc người cao tuổi bán trú từ ngày 6/6, chi phí 5,5 triệu đồng mỗi tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T23:00:00+07:00",
+      "fetched": "2026-06-19T06:42:16.698306+07:00"
+    },
+    {
+      "id": "94d59158a10d54fa95aa8ec76855da38",
+      "title": "Não trẻ 'quá tải dopamine' vì video ngắn",
+      "link": "https://vnexpress.net/nao-tre-qua-tai-dopamine-vi-video-ngan-5087026.html",
+      "summary": "Video ngắn với tiết tấu nhanh có thể khiến trẻ lệ thuộc vào kích thích tức thời, từ đó dễ cáu gắt, khó tập trung và kém kiểm soát cảm xúc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T23:00:00+07:00",
+      "fetched": "2026-06-19T06:42:16.698463+07:00"
+    },
+    {
+      "id": "719bb245d97a47240f97b2738a2ea844",
+      "title": "Audi triệu hồi e-tron, Q8 e-tron nghi lỏng bàn đạp phanh",
+      "link": "https://vnexpress.net/audi-trieu-hoi-e-tron-q8-e-tron-nghi-long-ban-dap-phanh-5087175.html",
+      "summary": "Tổng 9 xe nằm trong đợt triệu hồi có thời gian sản xuất từ 2/2/2018 đến 11/6/2024 được nhập khẩu và phân phối chính hãng tại Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T23:00:00+07:00",
+      "fetched": "2026-06-19T06:42:16.698617+07:00"
+    },
+    {
+      "id": "ad9c688116fd6c5b33f7f5e92dd595c3",
+      "title": "Tuchel khiến FIFA đổi quy định nghi thức quốc ca",
+      "link": "https://vnexpress.net/tuchel-khien-fifa-doi-quy-dinh-nghi-thuc-quoc-ca-5087457.html",
+      "summary": "FIFA điều chỉnh nghi thức trước trận theo đề xuất của HLV Thomas Tuchel, khi ông phàn nàn bị các nhiếp ảnh gia che khuất tầm nhìn trong lúc cử quốc ca trận Anh thắng Croatia ở World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T23:00:00+07:00",
+      "fetched": "2026-06-19T06:42:16.698794+07:00"
+    },
+    {
+      "id": "de6c78ace6b14b48cf3d99135f3ce479",
+      "title": "Vì sao cước tàu biển vẫn chưa giảm?",
+      "link": "https://thanhnien.vn/vi-sao-cuoc-tau-bien-van-chua-giam-185260618215346056.htm",
+      "summary": "Mỹ và Iran đã đạt được bản ghi nhớ hướng tới thỏa thuận chấm dứt xung đột đồng thời đồng ý mở lại eo biển Hormuz, song giá cước tàu biển vẫn đang được các hãng tàu thông báo điều chỉnh tăng lên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T23:00:00+07:00",
+      "fetched": "2026-06-19T06:42:20.155421+07:00"
+    },
+    {
+      "id": "11f23d8b5d97c5b7e3e12d9aa46922ce",
+      "title": "Giá vàng sẽ tăng đến đâu?",
+      "link": "https://thanhnien.vn/gia-vang-se-tang-den-dau-185260618173949377.htm",
+      "summary": "Vàng liên tục tăng giá trong 3 ngày qua, nâng mức tăng lên hơn 15 triệu đồng/lượng trong một tuần trở lại đây. Đà tăng này liệu có duy trì được lâu?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T23:00:00+07:00",
+      "fetched": "2026-06-19T06:42:20.155569+07:00"
+    },
+    {
+      "id": "403df170f011d394d78d54478edaa511",
+      "title": "Tìm hoạt động hè miễn phí ở TP.HCM? Trẻ được làm nhà sáng chế tại nơi này",
+      "link": "https://thanhnien.vn/tim-hoat-dong-he-mien-phi-o-tphcm-tre-duoc-lam-nha-sang-che-tai-noi-nay-185260615161739923.htm",
+      "summary": "Tham gia câu lạc bộ khoa học vui - một trong những hoạt động hè miễn phí ở Thư viện Khoa học Tổng hợp TP.HCM, hàng trăm trẻ em trải nghiệm làm quạt cầm tay, chuông gió...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T23:00:00+07:00",
+      "fetched": "2026-06-19T06:42:20.155740+07:00"
+    },
+    {
+      "id": "ad9c688116fd6c5b33f7f5e92dd595c3",
+      "title": "Tuchel khiến FIFA đổi quy định nghi thức quốc ca",
+      "link": "https://vnexpress.net/tuchel-khien-fifa-doi-quy-dinh-nghi-thuc-quoc-ca-5087457.html",
+      "summary": "FIFA điều chỉnh nghi thức trước trận theo đề xuất của HLV Thomas Tuchel, khi ông phàn nàn bị các nhiếp ảnh gia che khuất tầm nhìn trong lúc cử quốc ca trận Anh thắng Croatia ở World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-18T23:00:00+07:00",
+      "fetched": "2026-06-19T06:42:30.091252+07:00"
+    },
+    {
+      "id": "30a99f88089646b88d9d55c6ca869020",
+      "title": "Brazil - Haiti (7 giờ 30 ngày 20.6, trực tiếp VTV6): Mệnh lệnh phải thắng",
+      "link": "https://thanhnien.vn/brazil-haiti-7-gio-30-ngay-206-truc-tiep-vtv6-menh-lenh-phai-thang-185260618181527499.htm",
+      "summary": "Đội tuyển Brazil đặt mục tiêu đánh bại Haiti ở lượt trận thứ hai bảng C World Cup 2026 để lấy lại vị thế của mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T22:59:00+07:00",
+      "fetched": "2026-06-19T06:42:20.155903+07:00"
+    },
+    {
+      "id": "ae1ba6dbfe499839c47707a7c3c6341a",
+      "title": "Điểm tin 6h: TP HCM sẽ miễn vé xe buýt không cần định danh trong ba tháng | Ninh Bình xóa tên biển Quất Lâm",
+      "link": "https://vnexpress.net/diem-tin-6h-tp-hcm-se-mien-ve-xe-buyt-khong-can-dinh-danh-trong-ba-thang-ninh-binh-xoa-ten-bien-quat-lam-5087459.html",
+      "summary": "Việt - Nga nhất trí thúc đẩy đàm phán xây dựng nhà máy điện hạt nhân; Việt Nam lần đầu xuất trứng ăn liền sang Nhật,..",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T22:55:39+07:00",
+      "fetched": "2026-06-19T06:42:16.698960+07:00"
+    },
+    {
+      "id": "fb912767dd0ade98f35e0d689925d87d",
+      "title": "Nữ thủ khoa tốt nghiệp sớm, thành nhân viên chính thức công ty vi mạch của Mỹ",
+      "link": "https://thanhnien.vn/nu-thu-khoa-tot-nghiep-som-thanh-nhan-vien-chinh-thuc-cong-ty-vi-mach-cua-my-185260618144420196.htm",
+      "summary": "Hiền My, cựu học sinh chuyên toán, tốt nghiệp sớm tiến độ, đạt loại xuất sắc, thủ khoa ngành kỹ thuật máy tính, Trường ĐH Công nghệ thông tin (ĐH Quốc gia TP.HCM), trở thành nhân viên chính thức tại công ty vi mạch của Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T22:54:00+07:00",
+      "fetched": "2026-06-19T06:42:20.156053+07:00"
+    },
+    {
+      "id": "301a1885fe3f03519c176ac3ac23daec",
+      "title": "Con đường ở TP.HCM sắp mở rộng gấp gần 5 lần: Người dân nói gì?",
+      "link": "https://thanhnien.vn/con-duong-o-tphcm-sap-mo-rong-gap-gan-5-lan-nguoi-dan-noi-gi-185260617215907129.htm",
+      "summary": "Trên đường Trần Bình Trọng, P.Vườn Lài, TP.HCM, người dân đang khẩn trương bàn giao mặt bằng để phục vụ dự án mở rộng tuyến đường từ 5m lên 23m. Không chỉ kỳ vọng giải quyết áp lực giao thông khu vực trung tâm, dự án còn được xem là bước chuyển quan trọng trong quá trình chỉnh trang đô thị của TP.HC...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T22:54:00+07:00",
+      "fetched": "2026-06-19T06:42:20.156201+07:00"
+    },
+    {
+      "id": "da721cd021367b905b578dac98490c04",
+      "title": "HLV tuyển Bồ Đào Nha đàm phán dẫn dắt Ronaldo ở Al Nassr",
+      "link": "https://vnexpress.net/hlv-tuyen-bo-dao-nha-dam-phan-dan-dat-ronaldo-o-al-nassr-5087425.html",
+      "summary": "HLV Roberto Martinez được cho là đang đàm phán để dẫn dắt Al Nassr, đội bóng của Cristiano Ronaldo, ngay sau khi kết thúc World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T22:51:29+07:00",
+      "fetched": "2026-06-19T06:42:16.699121+07:00"
+    },
+    {
+      "id": "da721cd021367b905b578dac98490c04",
+      "title": "HLV tuyển Bồ Đào Nha đàm phán dẫn dắt Ronaldo ở Al Nassr",
+      "link": "https://vnexpress.net/hlv-tuyen-bo-dao-nha-dam-phan-dan-dat-ronaldo-o-al-nassr-5087425.html",
+      "summary": "HLV Roberto Martinez được cho là đang đàm phán để dẫn dắt Al Nassr, đội bóng của Cristiano Ronaldo, ngay sau khi kết thúc World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-18T22:51:29+07:00",
+      "fetched": "2026-06-19T06:42:30.090093+07:00"
+    },
+    {
+      "id": "46f73dc5d95e88c0a1e32625483107ca",
+      "title": "Đồng hành cùng doanh nghiệp",
+      "link": "https://thanhnien.vn/dong-hanh-cung-doanh-nghiep-185260618211201734.htm",
+      "summary": "Nhiều chính sách thuế hỗ trợ doanh nghiệp đang được các bộ, ngành, tổ chức hiệp hội ngành nghề đề xuất. Nếu được thông qua, các chính sách này không chỉ giảm gánh nặng cho doanh nghiệp mà còn thể hiện sự chia sẻ và đồng hành của Nhà nước trong bối cảnh kinh tế thế giới và trong nước vẫn nhiều thách ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T22:51:00+07:00",
+      "fetched": "2026-06-19T06:42:20.156351+07:00"
+    },
+    {
+      "id": "dce30d754a9bf5c6b2293a7e121496ba",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 19.6.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-1962026-185260618230921436.htm",
+      "summary": "Tin tức TP.HCM chuyển 29 xã thành phường, World Cup 2026: Đến lúc Ronaldo nên ngồi dự bị?, Mỹ - Iran trước phép thử 60 ngày… có thể đón xem trên Báo Thanh Niên số ra ngày 19.6.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T22:50:00+07:00",
+      "fetched": "2026-06-19T06:42:20.156497+07:00"
+    },
+    {
+      "id": "d2e05d4ce0d7235b34172126cd95c1c0",
+      "title": "Giữ cuống vé 30 năm chờ cưới mối tình đầu",
+      "link": "https://vnexpress.net/giu-cuong-ve-30-nam-cho-cuoi-moi-tinh-dau-5087319.html",
+      "summary": "Gặp lại nhau sau 30 năm xa cách vì hiểu lầm, Amanda và Michael quyết định kết hôn, viết tiếp chuyện tình dang dở thời học sinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T22:47:00+07:00",
+      "fetched": "2026-06-19T06:42:16.699271+07:00"
+    },
+    {
+      "id": "39415c590b33bd176b85e997940c57fc",
+      "title": "Điểm sàn đánh giá năng lực: Trường 850, trường không quy định",
+      "link": "https://thanhnien.vn/diem-san-danh-gia-nang-luc-truong-850-truong-khong-quy-dinh-185260618210241849.htm",
+      "summary": "Với những thay đổi của quy chế tuyển sinh đại học 2026, thí sinh sử dụng điểm bài thi đánh giá năng lực để xét tuyển cần đặc biệt lưu ý quy định về ngưỡng đảm bảo chất lượng đầu vào (còn gọi là điểm sàn).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T22:45:00+07:00",
+      "fetched": "2026-06-19T06:42:20.156651+07:00"
+    },
+    {
+      "id": "a9df8c13ee22cde7e0acb6da4c6cc1ca",
+      "title": "Chàng trai Việt mang nón lá vẽ Messi, Ronaldo... đi khắp nước Mỹ mùa World Cup 2026",
+      "link": "https://thanhnien.vn/chang-trai-viet-mang-non-la-ve-messi-ronaldo-di-khap-nuoc-my-mua-world-cup-2026-185260615155515697.htm",
+      "summary": "Mang theo những chiếc nón lá vẽ hình Messi, Ronaldo và nhiều ngôi sao bóng đá, chàng trai Việt cùng nhóm bạn trở thành những cổ động viên đặc biệt tại World Cup 2026, góp phần giới thiệu hình ảnh Việt Nam đến bạn bè quốc tế trên đất Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T22:45:00+07:00",
+      "fetched": "2026-06-19T06:42:20.156824+07:00"
+    },
+    {
+      "id": "205e26ec3b69f496ec7ef82903674724",
+      "title": "Anh phá đường dây kết hôn giả để định cư",
+      "link": "https://thanhnien.vn/anh-pha-duong-day-ket-hon-gia-de-dinh-cu-185260618203242525.htm",
+      "summary": "Cảnh sát Anh đã bắt giữ 9 người trong cuộc điều tra đường dây kết hôn giả nhằm định cư trái phép tại nước này, theo BBC ngày 17.6.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-18T22:37:00+07:00",
+      "fetched": "2026-06-19T06:42:20.156984+07:00"
+    },
+    {
+      "id": "76665a399381ba9fa3d4726087330126",
+      "title": "Tổn thất với các bên trong hơn ba tháng chiến sự Mỹ - Iran",
+      "link": "https://vnexpress.net/ton-that-voi-cac-ben-trong-hon-ba-thang-chien-su-my-iran-5087037.html",
+      "summary": "Thỏa thuận hòa bình Mỹ - Iran khép lại hơn ba tháng chiến sự, nhưng các bên liên quan đều đã hứng chịu tổn thất lớn về người, kinh tế và an ninh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-18T22:00:00+07:00",
+      "fetched": "2026-06-19T06:42:24.204323+07:00"
+    },
+    {
+      "id": "36bcd7b1311741f74930ae77a7fc070f",
+      "title": "Nỗ lực dò đường của 'nữ hoàng chip Huawei'",
+      "link": "https://vnexpress.net/no-luc-do-duong-cua-nu-hoang-chip-huawei-5085752.html",
+      "summary": "Để tăng khả năng tự chủ chip của Huawei lên mức cao nhất, He Tingbo \"giác ngộ\" tinh thần từ một hệ thống thủy lợi cổ xưa ở Tứ Xuyên, Trung Quốc.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-18T22:00:00+07:00",
+      "fetched": "2026-06-19T06:42:28.258492+07:00"
+    },
+    {
+      "id": "adc6b2b498bb5f387175d6e746c1e9eb",
+      "title": "Tiền vệ 20 tuổi lập kỷ lục World Cup khi Thụy Sĩ thắng đậm Bosnia &amp; Herzegovina",
+      "link": "https://vnexpress.net/tien-ve-20-tuoi-lap-ky-luc-world-cup-khi-thuy-si-thang-dam-bosnia-herzegovina-5087455.html",
+      "summary": "Tiền vệ 20 tuổi Johan Manzambi trở thành cầu thủ dự bị vào sân trẻ nhất lịch sử World Cup lập cú đúp, trận Thụy Sĩ thắng Bosnia & Herzegovina 4-1 ở lượt hai bảng B.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-18T21:44:28+07:00",
+      "fetched": "2026-06-19T06:42:30.090273+07:00"
     },
     {
       "id": "228d8994565257e1d1c36ba4b49086af",
