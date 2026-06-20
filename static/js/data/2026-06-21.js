@@ -1,6 +1,6 @@
 window.newsData_2026_06_21 = {
   "date": "2026-06-21",
-  "lastUpdated": "2026-06-21T04:14:36.350725+07:00",
+  "lastUpdated": "2026-06-21T06:04:49.791434+07:00",
   "articles": [
     {
       "id": "c905e0c5990d912ebe21a3d93d7e1f9b",
@@ -201,6 +201,266 @@ window.newsData_2026_06_21 = {
       "category": "Tổng hợp",
       "published": "2026-06-21T00:23:12.362080+07:00",
       "fetched": "2026-06-21T00:23:12.362205+07:00"
+    },
+    {
+      "id": "7e3b6025fb76c200b8a23b6a4e72d63d",
+      "title": "Nên uống cà phê trước hay sau bữa sáng?",
+      "link": "https://thanhnien.vn/nen-uong-ca-phe-truoc-hay-sau-bua-sang-185260621060249648.htm",
+      "summary": "Cà phê là thức uống quen thuộc của nhiều người vào mỗi buổi sáng. Song, thời điểm uống cà phê cũng ảnh hưởng đến sức khỏe, đặc biệt là hệ tiêu hóa và khả năng kiểm soát đường huyết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T23:02:00+07:00",
+      "fetched": "2026-06-21T06:04:39.256602+07:00"
+    },
+    {
+      "id": "086f6e9206a6ab0ee8ed18e98cb18193",
+      "title": "Bộ GD-ĐT công nhận thêm 4 chứng chỉ tiếng Anh, cả thảy có bao nhiêu?",
+      "link": "https://thanhnien.vn/bo-gd-dt-cong-nhan-them-4-chung-chi-tieng-anh-ca-thay-co-bao-nhieu-185260621030146621.htm",
+      "summary": "LanguageCert và Oxford Test of English là 2 hệ thống chứng chỉ tiếng Anh vừa được công nhận có các cấp độ tương đương với các bậc của Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T23:02:00+07:00",
+      "fetched": "2026-06-21T06:04:39.256759+07:00"
+    },
+    {
+      "id": "d88a7f51755835876731151dd380cdd4",
+      "title": "HLV Bờ Biển Ngà ‘trốn’ vào phòng thay đồ, trở lại nhìn đội nhà thua ngược Đức",
+      "link": "https://thanhnien.vn/hlv-bo-bien-nga-tron-vao-phong-thay-do-tro-lai-nhin-doi-nha-thua-nguoc-duc-185260621055846113.htm",
+      "summary": "HLV Emerse Fae của Bờ Biển Ngà tạo nên khoảnh khắc đáng nhớ tại World Cup 2026 với màn ăn mừng cuồng nhiệt sau bàn mở tỷ số vào lưới Đức. Tuy nhiên, sau khi tranh thủ chạy vào đường hầm trong giờ uống nước hiệp 2, ông trở lại chứng kiến đội nhà thua ngược 1-2 bởi cú đúp muộn của Deniz Undav.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T23:01:00+07:00",
+      "fetched": "2026-06-21T06:04:39.256937+07:00"
+    },
+    {
+      "id": "0cac8d1b1cc9768bad436ec24bc4a141",
+      "title": "Khu vực cầu đường Bình Tiên đi qua trước ngày khởi công",
+      "link": "https://vnexpress.net/khu-vuc-cau-duong-binh-tien-di-qua-truoc-ngay-khoi-cong-5087978.html",
+      "summary": "Cầu đường Bình Tiên dài 3,6 km, vốn gần 6.300 tỷ đồng, đi qua nhiều khu dân cư và kênh rạch, kết nối trung tâm TP HCM với khu Nam và miền Tây.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T23:00:00+07:00",
+      "fetched": "2026-06-21T06:04:35.882135+07:00"
+    },
+    {
+      "id": "d667f865bcfc808bf398c739a4d26cad",
+      "title": "Nghịch lý nhân viên phải dạy AI thay thế mình",
+      "link": "https://vnexpress.net/nghich-ly-nhan-vien-phai-day-ai-thay-the-minh-5087865.html",
+      "summary": "Nhiều công ty đang yêu cầu nhân viên huấn luyện AI sao chép chính kỹ năng của mình, biến kinh nghiệm cá nhân thành tài sản số của doanh nghiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T23:00:00+07:00",
+      "fetched": "2026-06-21T06:04:35.882301+07:00"
+    },
+    {
+      "id": "4d1cf9698805a3fa579bdebd2711b379",
+      "title": "Sếp Ford: 'Thiết kế còi ôtô cho Ấn Độ phức tạp nhất'",
+      "link": "https://vnexpress.net/sep-ford-thiet-ke-coi-oto-cho-an-do-phuc-tap-nhat-5087910.html",
+      "summary": "Jim Farley, CEO của hãng Mỹ, nói rằng ôtô ở Ấn Độ đòi hỏi việc thiết kế còi phức tạp nhất, thậm chí phải chi thêm tiền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T23:00:00+07:00",
+      "fetched": "2026-06-21T06:04:35.882441+07:00"
+    },
+    {
+      "id": "f1cd0374fb6ce82d87a5e939b0171610",
+      "title": "Tại sao Mỹ 'hồi sinh' Bộ tư lệnh Thái Bình Dương?",
+      "link": "https://thanhnien.vn/tai-sao-my-hoi-sinh-bo-tu-lenh-thai-binh-duong-185260620220718022.htm",
+      "summary": "Việc Bộ Chiến tranh Mỹ thông báo khôi phục tên Bộ tư lệnh Ấn Độ Dương - Thái Bình Dương (USINDOPACOM) trở lại là Bộ tư lệnh Thái Bình Dương (USPACOM) phản ánh điều gì trong chính sách quân sự của nước này?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T23:00:00+07:00",
+      "fetched": "2026-06-21T06:04:39.257074+07:00"
+    },
+    {
+      "id": "52f585a78b45eb86a9a17c183fa1c229",
+      "title": "Doanh nghiệp Việt vươn lên làm chủ công nghệ",
+      "link": "https://thanhnien.vn/doanh-nghiep-viet-vuon-len-lam-chu-cong-nghe-185260620214201553.htm",
+      "summary": "Làm robot, sản xuất máy bay không người lái, chế tạo chip bán dẫn đến làm đường sắt tốc độ cao... là những công nghệ mà giờ đây các doanh nghiệp Việt đã làm chủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T23:00:00+07:00",
+      "fetched": "2026-06-21T06:04:39.257199+07:00"
+    },
+    {
+      "id": "208d803e4990a07c74799ba08efbdbb2",
+      "title": "'Mùa hè số' - thanh niên giúp người dân trở thành công dân số",
+      "link": "https://thanhnien.vn/mua-he-so-thanh-nien-giup-nguoi-dan-tro-thanh-cong-dan-so-185260620204239418.htm",
+      "summary": "Từ việc tỉ mẩn hướng dẫn người dân cài đặt, sử dụng các ứng dụng số; thủ tục hành chính số, đến số hóa các di sản văn hóa; rồi xây dựng \"Phố hạnh phúc\"... tất cả làm nên một mùa hè rất đặc biệt - \"Mùa hè số\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T23:00:00+07:00",
+      "fetched": "2026-06-21T06:04:39.257328+07:00"
+    },
+    {
+      "id": "feba6fd282364b2004a5e58956912659",
+      "title": "Rừng thiêng giữa phố: 'Miền Tây thu nhỏ' giữa phố Hội",
+      "link": "https://thanhnien.vn/rung-thieng-giua-pho-mien-tay-thu-nho-giua-pho-hoi-185260620203749248.htm",
+      "summary": "Cách trung tâm phố cổ Hội An (TP.Đà Nẵng) chừng 3 km, rừng dừa Bảy Mẫu là điểm đến du lịch nổi tiếng, là chứng nhân lịch sử, \"lá phổi xanh\" quan trọng của vùng hạ lưu sông Thu Bồn. Trải qua thời gian, rừng vẫn vươn mình xanh mướt, vừa gìn giữ hệ sinh thái, vừa mang lại sinh kế bền vững cho người dân...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T23:00:00+07:00",
+      "fetched": "2026-06-21T06:04:39.257460+07:00"
+    },
+    {
+      "id": "251ea31c91687e77404e8c017c150c70",
+      "title": "Vàng phục hồi bất thành",
+      "link": "https://thanhnien.vn/vang-phuc-hoi-bat-thanh-185260620192257933.htm",
+      "summary": "Đà tăng giá của vàng trong tuần qua đã không duy trì được lâu khi quay đầu giảm mạnh, mất hơn 15 triệu đồng mỗi lượng trong tháng qua. Kim loại quý thế giới đang chịu nhiều yếu tố kéo giá đi xuống. Công cuộc phục hồi của vàng đã bất thành sớm hơn so với dự đoán của nhiều người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T23:00:00+07:00",
+      "fetched": "2026-06-21T06:04:39.257591+07:00"
+    },
+    {
+      "id": "e7b5b9b95181657ebb7c9bd445f90155",
+      "title": "Những khoảng lặng giữa dòng điện",
+      "link": "https://thanhnien.vn/nhung-khoang-lang-giua-dong-dien-185260619081427726.htm",
+      "summary": "Có nhiều công việc âm thầm, giản dị nhưng là một phần không thể thiếu được để giữ cho dòng điện luôn an toàn và thông suốt mỗi ngày. Và sau bao vất vả ấy là những khoảng lặng để 'tái tạo năng lượng'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T23:00:00+07:00",
+      "fetched": "2026-06-21T06:04:39.257717+07:00"
+    },
+    {
+      "id": "31fc48a9a2e4a84f32299f0300828ce2",
+      "title": "Sứ mệnh của báo chí",
+      "link": "https://thanhnien.vn/su-menh-cua-bao-chi-185260620223215375.htm",
+      "summary": "Điều gì khiến độc giả hôm nay tìm tới một tờ báo? Đó là câu hỏi được các tòa soạn khắp thế giới đặt ra từ nhiều năm qua, song việc tìm câu trả lời thực sự rõ ràng lại không dễ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T22:54:00+07:00",
+      "fetched": "2026-06-21T06:04:39.257854+07:00"
+    },
+    {
+      "id": "c420c7bcd80c34220a939028f2309937",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 21.6.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-2162026-185260620225945189.htm",
+      "summary": "Tin tức Báo chí phải trở thành \"ngọn hải đăng\" giữa biển thông tin; Doanh nghiệp Việt vươn lên làm chủ công nghệ; Tại sao Mỹ \"hồi sinh\" Bộ tư lệnh Thái Bình Dương?... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 21.6.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T22:50:00+07:00",
+      "fetched": "2026-06-21T06:04:39.257982+07:00"
+    },
+    {
+      "id": "0546f75fd56aab99d9a527d96ebe6c1c",
+      "title": "Nghĩa tình Sê San",
+      "link": "https://thanhnien.vn/nghia-tinh-se-san-185260618174725743.htm",
+      "summary": "Giữa vùng biên giới Ia Tơi (Quảng Ngãi, trước thuộc Kon Tum), có những người đàn ông đã bật khóc khi đặt bàn thờ gia tiên lên nền gạch mới xây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T22:48:00+07:00",
+      "fetched": "2026-06-21T06:04:39.258101+07:00"
+    },
+    {
+      "id": "1e2e38aedcf0ee976990ec9a5cc4f813",
+      "title": "Hàng ngàn người đổ về phiên chợ quê Hòa Vang 'săn' nông sản sạch",
+      "link": "https://thanhnien.vn/hang-ngan-nguoi-do-ve-phien-cho-que-hoa-vang-san-nong-san-sach-185260620205847146.htm",
+      "summary": "Lần đầu tổ chức tại chợ Túy Loan, phiên chợ quê Hòa Vang thu hút hàng ngàn người dân thành phố Đà Nẵng và du khách tìm mua nông sản sạch, đặc sản địa phương và trải nghiệm không gian văn hóa làng quê.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T22:45:00+07:00",
+      "fetched": "2026-06-21T06:04:39.258219+07:00"
+    },
+    {
+      "id": "d6e4a0927a6b8cdd482d92b7800d1afd",
+      "title": "4 cơ quan dễ tổn thương nhất khi huyết áp cao kéo dài",
+      "link": "https://thanhnien.vn/4-co-quan-de-ton-thuong-nhat-khi-huyet-ap-cao-keo-dai-185260621002740161.htm",
+      "summary": "Trong giai đoạn đầu, huyết áp cao không gây triệu chứng rõ ràng nhưng không có nghĩa cơ thể vẫn bình thường. Áp lực máu tăng cao liên tục tác động lên thành mạch máu và các cơ quan quan trọng, gây tổn thương dần qua thời gian.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T22:44:00+07:00",
+      "fetched": "2026-06-21T06:04:39.258339+07:00"
+    },
+    {
+      "id": "2fef2aabe78608165eafc70d2bb26355",
+      "title": "Sổ tay của nhà báo",
+      "link": "https://thanhnien.vn/so-tay-cua-nha-bao-185260616153756892.htm",
+      "summary": "Mới đây, khi lục tìm một tấm ảnh cũ, tôi mở ngăn tủ thì thấy một chồng sổ tay, mỗi cuốn be bé bằng bàn tay. Tôi gọi những cuốn sổ ấy là \"thư viện\" của riêng mình. Tôi viết hàng trăm phóng sự trong suốt cuộc đời làm báo cũng từ những \"thư viện bỏ túi\" ấy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T22:42:00+07:00",
+      "fetched": "2026-06-21T06:04:39.258456+07:00"
+    },
+    {
+      "id": "0198303d2c598a17e7123e13b3de82e6",
+      "title": "Đức thắng nghẹt thở Bờ Biển Ngà ở World Cup",
+      "link": "https://vnexpress.net/duc-thang-nghet-tho-bo-bien-nga-o-world-cup-5088093.html",
+      "summary": "\"Siêu dự bị\" Deniz Undav lập cú đúp, trong đó có bàn thắng muộn giúp Đức hạ Bờ Biển Ngà 2-1 ở lượt hai bảng E World Cup 2026 trên sân Toronto.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T22:02:42+07:00",
+      "fetched": "2026-06-21T06:04:35.882575+07:00"
+    },
+    {
+      "id": "0198303d2c598a17e7123e13b3de82e6",
+      "title": "Đức thắng nghẹt thở Bờ Biển Ngà ở World Cup",
+      "link": "https://vnexpress.net/duc-thang-nghet-tho-bo-bien-nga-o-world-cup-5088093.html",
+      "summary": "\"Siêu dự bị\" Deniz Undav lập cú đúp, trong đó có bàn thắng muộn giúp Đức hạ Bờ Biển Ngà 2-1 ở lượt hai bảng E World Cup 2026 trên sân Toronto.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-20T22:02:42+07:00",
+      "fetched": "2026-06-21T06:04:49.786075+07:00"
+    },
+    {
+      "id": "037d6ef2b4e326e2804ca970853d3acf",
+      "title": "Nên uống cà phê trước hay sau bữa sáng?",
+      "link": "https://vnexpress.net/nen-uong-ca-phe-truoc-hay-sau-bua-sang-5087928.html",
+      "summary": "Uống cà phê trước hay sau bữa sáng đều có những ưu và nhược điểm riêng, tùy thuộc vào khả năng dung nạp caffeine, tình trạng sức khỏe của mỗi người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T22:00:00+07:00",
+      "fetched": "2026-06-21T06:04:35.882703+07:00"
+    },
+    {
+      "id": "9a5124a8c764440d69452e5ba02a872f",
+      "title": "Tế bào gốc, AI và robot đang 'định nghĩa lại' phục hồi chức năng",
+      "link": "https://vnexpress.net/te-bao-goc-ai-va-robot-dang-dinh-nghia-lai-phuc-hoi-chuc-nang-5087697.html",
+      "summary": "Tế bào gốc, trí tuệ nhân tạo (AI) và robot đang mở ra hướng điều trị mới, giúp phục hồi chức năng không chỉ dừng ở tập luyện mà còn thúc đẩy tái tạo mô và thần kinh tổn thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T22:00:00+07:00",
+      "fetched": "2026-06-21T06:04:35.882826+07:00"
+    },
+    {
+      "id": "f4f5dd21ad356ae094dbf36170434e42",
+      "title": "Hơn nửa thế kỷ tìm gia đình nhà báo liệt sĩ",
+      "link": "https://vnexpress.net/hon-nua-the-ky-tim-gia-dinh-nha-bao-liet-si-5085175.html",
+      "summary": "Hơn 50 năm kể từ ngày đồng đội hy sinh, ông Nguyễn Đắc Hiền, 88 tuổi, vẫn đau đáu tìm thân nhân liệt sĩ, nhà báo Nguyễn Duy Kiểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T22:00:00+07:00",
+      "fetched": "2026-06-21T06:04:35.883020+07:00"
+    },
+    {
+      "id": "4433570070242a8ce1593c3e6640ca6e",
+      "title": "Những quyết định sa thải chớp nhoáng của Bộ trưởng Quốc phòng Mỹ",
+      "link": "https://vnexpress.net/nhung-quyet-dinh-sa-thai-chop-nhoang-cua-bo-truong-quoc-phong-my-5084144.html",
+      "summary": "Lãnh đạo Lục quân và Hải quân Mỹ bị sa thải đột ngột đến mức họ không nhận được thông tin nào từ trước, cho thấy cuộc cải tổ nhân sự đầy kịch tính tại Lầu Năm Góc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T22:00:00+07:00",
+      "fetched": "2026-06-21T06:04:35.883157+07:00"
+    },
+    {
+      "id": "fd46017b4913a8dd50e0613e6ae1353c",
+      "title": "Mazda CX-60 giá 1,699 tỷ đồng tại Việt Nam",
+      "link": "https://vnexpress.net/mazda-cx-60-gia-1-699-ty-dong-tai-viet-nam-5088048.html",
+      "summary": "Mẫu SUV cỡ D Mazda CX-60 chính thức bán tại Việt Nam với giá 1,699 tỷ đồng, trang bị động cơ I6 hybrid, hệ truyền động AWD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-20T22:00:00+07:00",
+      "fetched": "2026-06-21T06:04:35.883286+07:00"
+    },
+    {
+      "id": "4433570070242a8ce1593c3e6640ca6e",
+      "title": "Những quyết định sa thải chớp nhoáng của Bộ trưởng Quốc phòng Mỹ",
+      "link": "https://vnexpress.net/nhung-quyet-dinh-sa-thai-chop-nhoang-cua-bo-truong-quoc-phong-my-5084144.html",
+      "summary": "Lãnh đạo Lục quân và Hải quân Mỹ bị sa thải đột ngột đến mức họ không nhận được thông tin nào từ trước, cho thấy cuộc cải tổ nhân sự đầy kịch tính tại Lầu Năm Góc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-06-20T22:00:00+07:00",
+      "fetched": "2026-06-21T06:04:43.303232+07:00"
     },
     {
       "id": "767d701fa939fdc0ffb45f1f7db3000e",
