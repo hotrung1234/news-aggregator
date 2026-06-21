@@ -1,7 +1,37 @@
 window.newsData_2026_06_22 = {
   "date": "2026-06-22",
-  "lastUpdated": "2026-06-22T04:10:50.296582+07:00",
+  "lastUpdated": "2026-06-22T06:09:54.337284+07:00",
   "articles": [
+    {
+      "id": "4af44b9aca4de69559bcf7b0a36ac5aa",
+      "title": "Thời tiết hôm nay 22-6: Nắng nóng gay gắt từ Bắc vào Trung, miền Nam chiều mưa to",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-22-6-nang-nong-gay-gat-tu-bac-vao-trung-mien-nam-chieu-mua-to-100260621162523626.htm",
+      "summary": "Hôm nay 22-6, thời tiết cả nước nắng nóng gay gắt, miền Nam chiều tối vài nơi mưa to kèm dông sét.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-22T06:09:46.971459+07:00",
+      "fetched": "2026-06-22T06:09:46.971534+07:00"
+    },
+    {
+      "id": "c0b9de1d9897ca7e394408ab2ef3ea6b",
+      "title": "Cuộc chạy đua gom các trạm sạc lên app chung",
+      "link": "https://tuoitre.vn/cuoc-chay-dua-gom-cac-tram-sac-len-app-chung-100260621231243778.htm",
+      "summary": "Đứng thứ 2 Đông Nam Á về lượng ô tô điện ghi nhận trong quý 1-2026, Việt Nam đang bước vào cuộc đua đưa các điểm sạc vốn phân tán, mỗi nơi một ứng dụng và ví tiền, về nền tảng chung.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-22T06:09:46.971365+07:00",
+      "fetched": "2026-06-22T06:09:46.971446+07:00"
+    },
+    {
+      "id": "4c77aa461d10cc1db3df4a88d6910eb6",
+      "title": "Tin tức sáng 22-6: Từ ngày 1-7, người livestream bán hàng phải xác thực danh tính",
+      "link": "https://tuoitre.vn/tin-tuc-sang-22-6-tu-ngay-1-7-nguoi-livestream-ban-hang-phai-xac-thuc-danh-tinh-100260621232355823.htm",
+      "summary": "Tin tức đáng chú ý: Từ ngày 1-7, người livestream bán hàng phải xác thực danh tính; Kế hoạch tổ chức Ngày Văn hóa Việt Nam giai đoạn 2026 - 2030...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-22T06:09:46.971168+07:00",
+      "fetched": "2026-06-22T06:09:46.971300+07:00"
+    },
     {
       "id": "a29cd6a1d3e2cadd4a148edb5e0eb98e",
       "title": "Trực tuyến Uruguay - Cape Verde (5h): Đội bóng tí hon lại gây bất ngờ?",
@@ -203,6 +233,216 @@ window.newsData_2026_06_22 = {
       "fetched": "2026-06-22T00:25:06.547114+07:00"
     },
     {
+      "id": "d70ad935b6f296b355e674e03d08a666",
+      "title": "Người dân vẫn phải chi tiền túi cho y tế quá lớn",
+      "link": "https://thanhnien.vn/nguoi-dan-van-phai-chi-tien-tui-cho-y-te-qua-lon-185260621190738693.htm",
+      "summary": "Hiện nay, chi trả trực tiếp từ túi người dân cho y tế còn ở mức cao đang trở thành gánh nặng bào mòn kinh tế nhiều hộ gia đình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-21T23:06:00+07:00",
+      "fetched": "2026-06-22T06:09:45.127119+07:00"
+    },
+    {
+      "id": "5df9c89445ff7eb011401aa5f6222515",
+      "title": "50 năm thành phố mang tên Bác: Mô hình phát triển đô thị mới của TP.HCM",
+      "link": "https://thanhnien.vn/50-nam-thanh-pho-mang-ten-bac-mo-hinh-phat-trien-do-thi-moi-cua-tphcm-185260621223640763.htm",
+      "summary": "TP.HCM đã ban hành Nghị quyết quy định nhà ở riêng lẻ thấp tầng tại các dự án mới trong khu vực phát triển đô thị theo định hướng giao thông công cộng (TOD) không được quá 20% tổng diện tích đất ở và đất ở hỗn hợp. Đây được đánh giá là chủ trương đúng, phù hợp với xu hướng phát triển đô thị hiện đại...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-21T23:04:00+07:00",
+      "fetched": "2026-06-22T06:09:45.127292+07:00"
+    },
+    {
+      "id": "0984dcf1fb8a90029fb8e8e6469a1298",
+      "title": "'Bẫy nghèo' chi phí y tế",
+      "link": "https://thanhnien.vn/bay-ngheo-chi-phi-y-te-185260621192138823.htm",
+      "summary": "Dù tỷ lệ bao phủ bảo hiểm y tế đã gần chạm ngưỡng 100%, lộ trình miễn viện phí cơ bản toàn dân bắt đầu được xây dựng từ 2026 song hàng nghìn gia đình vẫn đang bị đẩy vào 'bẫy nghèo' khi người thân đau ốm dài ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-21T23:04:00+07:00",
+      "fetched": "2026-06-22T06:09:45.127476+07:00"
+    },
+    {
+      "id": "d747c5f4955314996a3457668170d5f1",
+      "title": "Giáo dục có nguy cơ đào tạo ra những 'thầy bói công nghệ'",
+      "link": "https://thanhnien.vn/giao-duc-co-nguy-co-dao-tao-ra-nhung-thay-boi-cong-nghe-185260621225305647.htm",
+      "summary": "Trí tuệ nhân tạo (AI) đang làm đảo lộn cuộc sống của chúng ta, trong đó đặc biệt là cách chúng ta tiếp cận, xử lý và truyền bá tri thức. Vì vậy, giáo dục cũng không thể không bị tác động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-21T23:03:00+07:00",
+      "fetched": "2026-06-22T06:09:45.127632+07:00"
+    },
+    {
+      "id": "5592b8246d4e1ae3e26610ff803d21f7",
+      "title": "Điện mặt trời gắn pin lưu trữ có hiệu quả?",
+      "link": "https://thanhnien.vn/dien-mat-troi-gan-pin-luu-tru-co-hieu-qua-185260621222620653.htm",
+      "summary": "Tập đoàn điện lực VN (EVN) vừa có văn bản kiến nghị làm rõ hiệu quả các dự án điện mặt trời gắn pin lưu trữ (BESS) khi mô hình này làm tăng giá điện nhưng lợi ích chưa rõ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-21T23:03:00+07:00",
+      "fetched": "2026-06-22T06:09:45.127784+07:00"
+    },
+    {
+      "id": "ebccd393c6678b66116dd93e9fda86ed",
+      "title": "TV OLED Samsung có tuổi thọ bao nhiêu năm trước khi cần thay mới?",
+      "link": "https://thanhnien.vn/tv-oled-samsung-co-tuoi-tho-bao-nhieu-nam-truoc-khi-can-thay-moi-185260621184241091.htm",
+      "summary": "Mua một chiếc TV OLED của Samsung là khoản đầu tư lớn, với mức giá cao hơn nhưng đi kèm là chất lượng hình ảnh tuyệt vời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-21T23:03:00+07:00",
+      "fetched": "2026-06-22T06:09:45.127937+07:00"
+    },
+    {
+      "id": "ea64d85c53d369b863991a5794194280",
+      "title": "Khóa SIM quyết liệt, vì sao SIM rác vẫn còn?",
+      "link": "https://thanhnien.vn/khoa-sim-quyet-liet-vi-sao-sim-rac-van-con-185260621220828021.htm",
+      "summary": "Sau thời hạn 15.6, hàng triệu SIM điện thoại của các nhà mạng đã bị khóa một chiều khi chưa thực hiện xác thực. Tuy nhiên, nghịch lý là thị trường SIM rác vẫn đang hoạt động sôi nổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-21T23:00:00+07:00",
+      "fetched": "2026-06-22T06:09:45.128086+07:00"
+    },
+    {
+      "id": "9f7fbb2f7da1bcc62f5a10e971442294",
+      "title": "Bản tin sức khỏe 22.6: Ngủ đủ giấc nhưng vẫn mệt mỏi | Cao huyết áp nên chọn trứng hay cá hồi?",
+      "link": "https://thanhnien.vn/ban-tin-suc-khoe-226-ngu-du-giac-nhung-van-met-moi-cao-huyet-ap-nen-chon-trung-hay-ca-hoi-185260621210514884.htm",
+      "summary": "Bản tin sức khỏe của Báo Thanh Niên (từ thứ hai đến thứ sáu) cập nhật những thông tin y tế đáng chú ý, từ các khuyến cáo bảo vệ sức khỏe, chế độ dinh dưỡng, tập luyện, đến những nghiên cứu, cảnh báo dịch bệnh mới nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-21T23:00:00+07:00",
+      "fetched": "2026-06-22T06:09:45.128330+07:00"
+    },
+    {
+      "id": "0c66a0ed60b2da11e6dff3a9db189398",
+      "title": "Ukraine đột phá thêm ưu thế chiến sự nhờ UAV",
+      "link": "https://thanhnien.vn/ukraine-dot-pha-them-uu-the-chien-su-nho-uav-18526062120514257.htm",
+      "summary": "Năng lực tấn công bằng máy bay không người lái tầm trung và xa của Ukraine đang tạo ra thời cơ cho nước này giành lại lãnh thổ cũng như gây tác động lớn tại Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-21T23:00:00+07:00",
+      "fetched": "2026-06-22T06:09:45.128519+07:00"
+    },
+    {
+      "id": "7a7311c44a1bf5f6fc55d05c7ce1b486",
+      "title": "Người Việt vừa trải qua đêm ngắn nhất 2026: Sẽ có chuyện lạ vào ngày Hạ chí 2027",
+      "link": "https://thanhnien.vn/nguoi-viet-vua-trai-qua-dem-ngan-nhat-2026-se-co-chuyen-la-vao-ngay-ha-chi-2027-185260621175924002.htm",
+      "summary": "Người Việt vừa trải qua đêm ngắn nhất, ngày dài nhất 21.6 khi đón ngày Hạ chí 2026. Lần Hạ chí tiếp theo 2027 sẽ có điều 'kỳ lạ', đó là gì?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-21T23:00:00+07:00",
+      "fetched": "2026-06-22T06:09:45.128672+07:00"
+    },
+    {
+      "id": "16129a3d403af8f9e32cd0b4b2247d4f",
+      "title": "Nơi ánh sáng được giữ bằng bàn tay người",
+      "link": "https://thanhnien.vn/noi-anh-sang-duoc-giu-bang-ban-tay-nguoi-185260619082610467.htm",
+      "summary": "Sự tiện lợi có thể khiến người ta quên mất rằng phía sau ánh đèn quen thuộc là cả một hệ thống vận hành phức tạp, và quan trọng hơn, là những con người đang âm thầm làm việc để giữ cho dòng điện không ngừng chảy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-21T23:00:00+07:00",
+      "fetched": "2026-06-22T06:09:45.128826+07:00"
+    },
+    {
+      "id": "2a2d717ff4ddf58734b5ed0c7c80379b",
+      "title": "Rừng thiêng giữa phố: Huyền tích dưới tán rừng Rú Chá",
+      "link": "https://thanhnien.vn/rung-thieng-giua-pho-huyen-tich-duoi-tan-rung-ru-cha-185260621215036591.htm",
+      "summary": "Rú Chá không chỉ là lá chắn xanh bảo vệ đất liền mà còn ẩn chứa những trầm tích lịch sử, từ ngôi miếu cổ linh thiêng đến căn hầm bí mật gắn liền với ký ức chiến tranh giữa lòng phá Tam Giang (TP.Huế).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-21T22:56:00+07:00",
+      "fetched": "2026-06-22T06:09:45.128978+07:00"
+    },
+    {
+      "id": "f043a694c07d253815db71bd77e2f71f",
+      "title": "Để người dân chọn xe buýt",
+      "link": "https://thanhnien.vn/de-nguoi-dan-chon-xe-buyt-185260621192457617.htm",
+      "summary": "Vừa qua, HĐND TP.HCM thông qua quyết định miễn phí xe buýt cho người dân từ ngày 1.7 đến hết năm 2026 với tổng kinh phí khoảng 665 tỉ đồng từ ngân sách. Bên cạnh đó, TP.HCM thời gian qua cũng miễn phí metro trong các dịp lễ, tết và cho người lớn tuổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-21T22:55:00+07:00",
+      "fetched": "2026-06-22T06:09:45.129129+07:00"
+    },
+    {
+      "id": "9f39acdeef67ec2147379bfdccf648cc",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 22.6.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-2262026-185260621222949014.htm",
+      "summary": "Tin tức Điện mặt trời gắn pin lưu trữ có hiệu quả?; \"Bẫy nghèo\" chi phí y tế; Thí sinh xuất sắc có thể bị điểm thấp... là các thông tin hấp dẫn bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 22.6.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-21T22:49:00+07:00",
+      "fetched": "2026-06-22T06:09:45.129284+07:00"
+    },
+    {
+      "id": "17a29de66a81da2b5e4547e5f915321f",
+      "title": "Hướng dẫn chấm ngữ văn tốt nghiệp THPT 2026: Thí sinh xuất sắc có thể bị điểm thấp",
+      "link": "https://thanhnien.vn/huong-dan-cham-ngu-van-tot-nghiep-thpt-2026-thi-sinh-xuat-sac-co-the-bi-diem-thap-185260621224314451.htm",
+      "summary": "Một mặt, Bộ GD-ĐT tuyên bố chấm bài thi ngữ văn kỳ thi tốt nghiệp THPT năm 2026 theo tinh thần đáp án mở, mặt khác lại xây dựng một đáp án chấm thi theo cách thiên về 'truyền thống'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-21T22:47:00+07:00",
+      "fetched": "2026-06-22T06:09:45.129474+07:00"
+    },
+    {
+      "id": "b5952e6ff7e51dbd6deb60e729a5e543",
+      "title": "Nhân viên văn phòng mệt mỏi làm 'bảo mẫu bot AI'",
+      "link": "https://vnexpress.net/nhan-vien-van-phong-met-moi-lam-bao-mau-bot-ai-5087410.html",
+      "summary": "AI được kỳ vọng giúp tiết kiệm thời gian, nhưng nhiều nhân viên đang kiệt sức vì phải dành hàng giờ mỗi tuần để chăm nom bot.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-21T22:00:00+07:00",
+      "fetched": "2026-06-22T06:09:42.238599+07:00"
+    },
+    {
+      "id": "15bf0240da91bfe0aac84174a1347a50",
+      "title": "Hành trình giành giật sự sống của bé trai mắc bệnh hiếm",
+      "link": "https://vnexpress.net/hanh-trinh-gianh-giat-su-song-cua-be-trai-mac-benh-hiem-5087303.html",
+      "summary": "Vàng da lúc một tháng tuổi, bé Hữu An, 3 tuổi, được chẩn đoán mắc bệnh Pompe - một hội chứng di truyền hiếm gặp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-21T22:00:00+07:00",
+      "fetched": "2026-06-22T06:09:42.238780+07:00"
+    },
+    {
+      "id": "dd4994c4676acc1f7e6a24898184e7a3",
+      "title": "Doku bị chỉ trích vì muốn rời World Cup để đón con đầu lòng",
+      "link": "https://vnexpress.net/doku-bi-chi-trich-vi-muon-roi-world-cup-de-don-con-dau-long-5088263.html",
+      "summary": "Việc Jeremy Doku tuyên bố sẽ rời World Cup 2026 để chứng kiến khoảnh khắc con đầu lòng chào đời, ngay cả khi tuyển Bỉ vẫn còn thi đấu ở vòng knock-out, tạo phản ứng trái chiều.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-21T22:00:00+07:00",
+      "fetched": "2026-06-22T06:09:42.238947+07:00"
+    },
+    {
+      "id": "8b19cf01e356105ff6e67e58bdaa4d7c",
+      "title": "Xe điện rẻ nhất của Honda có nút tăng tốc như xe thể thao",
+      "link": "https://vnexpress.net/xe-dien-re-nhat-cua-honda-co-nut-tang-toc-nhu-xe-the-thao-5088227.html",
+      "summary": "Honda Super-N tăng tốc 0-100 km/h trong 14,5 giây, nhưng nút Boost giúp chiếc hatchback điện nhỏ gọn rút ngắn thời gian xuống còn 10 giây.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-21T22:00:00+07:00",
+      "fetched": "2026-06-22T06:09:42.239107+07:00"
+    },
+    {
+      "id": "b5952e6ff7e51dbd6deb60e729a5e543",
+      "title": "Nhân viên văn phòng mệt mỏi làm 'bảo mẫu bot AI'",
+      "link": "https://vnexpress.net/nhan-vien-van-phong-met-moi-lam-bao-mau-bot-ai-5087410.html",
+      "summary": "AI được kỳ vọng giúp tiết kiệm thời gian, nhưng nhiều nhân viên đang kiệt sức vì phải dành hàng giờ mỗi tuần để chăm nom bot.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-21T22:00:00+07:00",
+      "fetched": "2026-06-22T06:09:52.589354+07:00"
+    },
+    {
+      "id": "dd4994c4676acc1f7e6a24898184e7a3",
+      "title": "Doku bị chỉ trích vì muốn rời World Cup để đón con đầu lòng",
+      "link": "https://vnexpress.net/doku-bi-chi-trich-vi-muon-roi-world-cup-de-don-con-dau-long-5088263.html",
+      "summary": "Việc Jeremy Doku tuyên bố sẽ rời World Cup 2026 để chứng kiến khoảnh khắc con đầu lòng chào đời, ngay cả khi tuyển Bỉ vẫn còn thi đấu ở vòng knock-out, tạo phản ứng trái chiều.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-21T22:00:00+07:00",
+      "fetched": "2026-06-22T06:09:54.331728+07:00"
+    },
+    {
       "id": "6c944f82a09f5e747faa4b0dbbb212ce",
       "title": "Iran quá kiên cường, Bỉ gây thất vọng và có sai lầm: Hòa 0-0",
       "link": "https://thanhnien.vn/iran-qua-kien-cuong-bi-gay-that-vong-va-co-sai-lam-hoa-0-0-185260622040328763.htm",
@@ -241,6 +481,16 @@ window.newsData_2026_06_22 = {
       "category": "Tổng hợp",
       "published": "2026-06-21T21:00:00+07:00",
       "fetched": "2026-06-22T04:10:39.576555+07:00"
+    },
+    {
+      "id": "15f16b8b2d26f5d6f7633bc126eb64f5",
+      "title": "Mazda Premium - đi tìm sự thừa nhận",
+      "link": "https://vnexpress.net/mazda-premium-di-tim-su-thua-nhan-5088290.html",
+      "summary": "Mazda ở vị thế mới không phải \"flagship store\" lung linh ánh đèn nằm giữa con phố trung tâm, mà là một cửa hàng bên kia dãy phố, nhiều thú vị nhưng cần tốn chút công đi tìm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-21T21:00:00+07:00",
+      "fetched": "2026-06-22T06:09:42.239267+07:00"
     },
     {
       "id": "23cd3eb29bbec758f8c5fb5d2c27e121",
