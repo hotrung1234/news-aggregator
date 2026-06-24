@@ -1,6 +1,6 @@
 window.newsData_2026_06_25 = {
   "date": "2026-06-25",
-  "lastUpdated": "2026-06-25T04:20:16.483553+07:00",
+  "lastUpdated": "2026-06-25T06:01:53.010253+07:00",
   "articles": [
     {
       "id": "f7351ee62c4628b4b9736481c510e427",
@@ -231,6 +231,266 @@ window.newsData_2026_06_25 = {
       "category": "Tổng hợp",
       "published": "2026-06-25T00:51:33.842623+07:00",
       "fetched": "2026-06-25T00:51:33.842759+07:00"
+    },
+    {
+      "id": "286324da239251b376fc25f2b4d4f848",
+      "title": "Đạo diễn Vũ Ngọc Đãng: 'TP.HCM là nơi rất tốt để bắt đầu và làm lại'",
+      "link": "https://thanhnien.vn/dao-dien-vu-ngoc-dang-tphcm-la-noi-rat-tot-de-bat-dau-va-lam-lai-18526062422084522.htm",
+      "summary": "Câu hát \"Không cần biết em là ai, không cần biết em từ đâu\" phần nào đó cũng đúng với... Sài Gòn - TP.HCM, khi nơi này được mệnh danh là \"thành phố mở\", luôn giang rộng vòng tay đón chào những người mới đến mà không cần biết \"xuất xứ\" của họ…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T23:00:00+07:00",
+      "fetched": "2026-06-25T06:01:41.818467+07:00"
+    },
+    {
+      "id": "66feab019df5acf5507d9bc93857450f",
+      "title": "Mỹ thúc đẩy 'lá bài' mới để răn đe quân sự Trung Quốc trên biển",
+      "link": "https://thanhnien.vn/my-thuc-day-la-bai-moi-de-ran-de-quan-su-trung-quoc-tren-bien-185260624212722111.htm",
+      "summary": "Thông qua chương trình Nhận thức miền hàng hải ở Ấn Độ Dương - Thái Bình Dương (Indo-Pacific), gọi tắt là IPMSC, vốn là sáng kiến hợp tác của \"Bộ tứ\" (Mỹ - Nhật Bản - Úc - Ấn Độ), Washington đang tăng cường năng lực giám sát cho các đối tác ở Đông Nam Á.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T23:00:00+07:00",
+      "fetched": "2026-06-25T06:01:41.818641+07:00"
+    },
+    {
+      "id": "a54c5e60e5ae297622e6411a4093a13d",
+      "title": "Thanh niên Việt toàn cầu chung nhịp đập cống hiến",
+      "link": "https://thanhnien.vn/thanh-nien-viet-toan-cau-chung-nhip-dap-cong-hien-185260624175216596.htm",
+      "summary": "Dù ở bất cứ nơi đâu, người trẻ Việt vẫn đặt trọn niềm tin và kỳ vọng vào tổ chức Đoàn TNCS Hồ Chí Minh. Hòa chung không khí hân hoan chào mừng ngày hội lớn của tuổi trẻ cả nước, trí thức trẻ Việt Nam trên khắp năm châu dành nhiều lời chúc, sự gửi gắm đến Đại hội Đoàn toàn quốc lần thứ XIII.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T23:00:00+07:00",
+      "fetched": "2026-06-25T06:01:41.818805+07:00"
+    },
+    {
+      "id": "a9779c302a7721d059c096d40bdc1f96",
+      "title": "Nhập siêu 17 tỉ USD từ đâu?",
+      "link": "https://thanhnien.vn/nhap-sieu-17-ti-usd-tu-dau-185260624174822387.htm",
+      "summary": "Sau 1 thập niên xuất siêu, nhập siêu đã quay trở lại. Tính đến ngày 15.6, Việt Nam đã nhập siêu gần 17 tỉ USD. Vì sao nhập siêu tăng nhanh và chúng ta đang nhập những gì?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T23:00:00+07:00",
+      "fetched": "2026-06-25T06:01:41.818959+07:00"
+    },
+    {
+      "id": "e123c9603c1848546b2c8d1ce23d316c",
+      "title": "Khởi nghiệp là sẵn sàng bước những lĩnh vực chưa có người đi trước",
+      "link": "https://thanhnien.vn/khoi-nghiep-la-san-sang-buoc-nhung-linh-vuc-chua-co-nguoi-di-truoc-185260624173741412.htm",
+      "summary": "Khi nhiều bạn bè cùng trang lứa còn ngồi trên giảng đường đại học, Trần Anh Khôi đã trở thành kỹ sư phần mềm tại một tập đoàn công nghệ của Mỹ với mức lương đáng mơ ước. Thế nhưng chàng trai sinh năm 1996 đã quyết định bước ra khỏi vùng an toàn, về nước khởi nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T23:00:00+07:00",
+      "fetched": "2026-06-25T06:01:41.819111+07:00"
+    },
+    {
+      "id": "acc1fbf1f44bcef9b7d4dccb5fa2a40c",
+      "title": "Khát vọng xây dựng doanh nghiệp công nghệ Việt toàn cầu",
+      "link": "https://thanhnien.vn/khat-vong-xay-dung-doanh-nghiep-cong-nghe-viet-toan-cau-185260624173203951.htm",
+      "summary": "Sau nhiều năm học tập và làm việc tại London (Anh), anh Nguyễn Thế Duy, người sáng lập ADT, đã đưa ra một quyết định khiến không ít người bất ngờ là từ bỏ \"việc nhẹ lương cao\" để trở về Việt Nam khởi nghiệp. Với anh, đó không chỉ là sự lựa chọn nghề nghiệp mà còn là hành trình hiện thực hóa khát vọn...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T23:00:00+07:00",
+      "fetched": "2026-06-25T06:01:41.819287+07:00"
+    },
+    {
+      "id": "f1630f3f6d06ea9e03e237626218522f",
+      "title": "Cơ chế 'mở đường băng' cho khát vọng trẻ",
+      "link": "https://thanhnien.vn/co-che-mo-duong-bang-cho-khat-vong-tre-185260624172836096.htm",
+      "summary": "Từ chủ trương, chính sách, môi trường đầu tư... đang mở ra cơ hội lớn cho giới trẻ Việt Nam mạnh dạn đưa các ý tưởng, sáng kiến vào thực tiễn như hiện nay. Không chỉ là những con số kỷ lục, đổi mới sáng tạo ở giai đoạn này còn cho thấy một đội ngũ thanh niên Việt Nam trí tuệ, bản lĩnh, dám nghĩ, dám...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T23:00:00+07:00",
+      "fetched": "2026-06-25T06:01:41.819445+07:00"
+    },
+    {
+      "id": "3f4ebe69e6e874e02e79405aedb4e511",
+      "title": "Rạch Ông Dí bị lấn chiếm? Người dân TP.HCM nói mưa lớn là nước tràn vào nhà",
+      "link": "https://thanhnien.vn/rach-ong-di-bi-lan-chiem-nguoi-dan-tphcm-noi-mua-lon-la-nuoc-tran-vao-nha-185260624124827572.htm",
+      "summary": "Nhiều hộ dân sống dọc rạch Ông Dí (phường An Khánh, TP.HCM) cho rằng lòng rạch bị thu hẹp do lấn chiếm. Mỗi khi mưa lớn hoặc triều cường, nước thoát không kịp và tràn vào khu dân cư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T23:00:00+07:00",
+      "fetched": "2026-06-25T06:01:41.819596+07:00"
+    },
+    {
+      "id": "80bff6ba58fa0044539c29097e7d135b",
+      "title": "Nghịch lý giá trái cây",
+      "link": "https://thanhnien.vn/nghich-ly-gia-trai-cay-185260624225745215.htm",
+      "summary": "Những ngày gần đây, người ta bắt gặp trái cây đủ mọi chủng loại bán tràn khắp nơi với giá khá rẻ. Đáng nói, giá trái cây xuất khẩu cũng vẫn rất tốt, lượng vẫn tăng. Vậy điều gì đang xảy ra trên thị trường?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T22:56:00+07:00",
+      "fetched": "2026-06-25T06:01:41.819750+07:00"
+    },
+    {
+      "id": "5fdebc67b564e88871007a4cf97797af",
+      "title": "Ngân hàng đã cho vay hơn 1 triệu tỉ đồng",
+      "link": "https://thanhnien.vn/ngan-hang-da-cho-vay-hon-1-trieu-ti-dong-185260624221543161.htm",
+      "summary": "Chưa đầy 6 tháng đầu năm, các ngân hàng đã cho vay ra nền kinh tế hơn 1,08 triệu tỉ đồng. Dòng vốn chủ yếu chảy vào sản xuất, kinh doanh nhằm thúc đẩy tăng trưởng. Tuy nhiên chênh lệch tăng trưởng giữa huy động và cho vay đang tạo nhiều áp lực lên lãi suất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T22:56:00+07:00",
+      "fetched": "2026-06-25T06:01:41.819901+07:00"
+    },
+    {
+      "id": "2ebf78d3a95288c6081f9bce2dc83bde",
+      "title": "Để VN xây dựng trường ĐH tư thục đẳng cấp: Phát triển mô hình không vì lợi nhuận",
+      "link": "https://thanhnien.vn/de-vn-xay-dung-truong-dh-tu-thuc-dang-cap-phat-trien-mo-hinh-khong-vi-loi-nhuan-185260624230422376.htm",
+      "summary": "Nhiều ĐH tư thục hàng đầu thế giới phát triển mạnh đều do vận hành theo mô hình không vì lợi nhuận. Cốt lõi sâu xa hơn, họ xây dựng được một mô hình đúng với sứ mạng nhằm phụng sự học thuật dài hạn vì người học, chứ không chỉ là một mô hình tài chính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T22:54:00+07:00",
+      "fetched": "2026-06-25T06:01:41.820049+07:00"
+    },
+    {
+      "id": "fa5f621f08fd03e59c99d225830fde48",
+      "title": "Khát vọng lớn làm nên tương lai Việt Nam",
+      "link": "https://thanhnien.vn/khat-vong-lon-lam-nen-tuong-lai-viet-nam-185260624233612458.htm",
+      "summary": "Mỗi giai đoạn phát triển của đất nước đều đặt lên vai thế hệ trẻ những sứ mệnh riêng. Trong bối cảnh Việt Nam đang bước vào thời kỳ phát triển mới với mục tiêu trở thành nước phát triển, thu nhập cao vào năm 2045, yêu cầu đối với thanh niên hôm nay không chỉ là học tập tốt, lao động giỏi mà còn phải...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T22:53:00+07:00",
+      "fetched": "2026-06-25T06:01:41.820196+07:00"
+    },
+    {
+      "id": "1917dbcdfef7fe3d9b758b683b32a845",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 25.6.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-2562026-18526062423394185.htm",
+      "summary": "Tin tức Tuổi trẻ Việt Nam tự hào, vững tin theo Đảng; Bóng đá Á - Phi trước loạt trận phán quyết; Mỹ thúc đẩy \"lá bài\" mới để răn đe quân sự Trung Quốc trên biển... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 25.6.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T22:50:00+07:00",
+      "fetched": "2026-06-25T06:01:41.820469+07:00"
+    },
+    {
+      "id": "0ede9400627717442d04e880ad78e754",
+      "title": "Nhiều điểm nhấn từ kết quả bầu cử sơ bộ Mỹ",
+      "link": "https://thanhnien.vn/nhieu-diem-nhan-tu-ket-qua-bau-cu-so-bo-my-185260624212705788.htm",
+      "summary": "Trong diễn biến mới nhất về loạt bầu cử sơ bộ tại Mỹ ngày 23.6, truyền thông nước này đã đặc biệt quan tâm đến việc 3 ứng viên được Thị trưởng TP.New York Zohran Mamdani hậu thuẫn đều đã giành chiến thắng trong cuộc đua của đảng Dân chủ vào hạ viện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T22:47:00+07:00",
+      "fetched": "2026-06-25T06:01:41.820655+07:00"
+    },
+    {
+      "id": "4f887c4115ecd66fbd76539d42b7855d",
+      "title": "Tuyển sinh không thể chỉ dựa vào một kỳ thi",
+      "link": "https://thanhnien.vn/tuyen-sinh-khong-the-chi-dua-vao-mot-ky-thi-185260624180510203.htm",
+      "summary": "Kinh nghiệm quốc tế, yêu cầu đổi mới giáo dục trong nước và nhu cầu phát triển nguồn nhân lực đều cho thấy đã đến lúc VN cần chuyển từ mô hình tuyển sinh chủ yếu dựa vào thi tuyển sang mô hình kết hợp giữa xét tuyển và thi tuyển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T22:45:00+07:00",
+      "fetched": "2026-06-25T06:01:41.820812+07:00"
+    },
+    {
+      "id": "eb5bb90a344415e5e9f0f89ae17aca2b",
+      "title": "Bellingham: 'Tôi không xứng đáng với danh hiệu hay nhất trận'",
+      "link": "https://vnexpress.net/bellingham-toi-khong-xung-dang-voi-danh-hieu-hay-nhat-tran-5089592.html",
+      "summary": "Tiền vệ Jude Bellingham tự cảm thấy bản thân không xứng đáng khi được chọn là cầu thủ hay nhất trận Anh hòa Ghana 0-0 ở lượt hai bảng L World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-24T22:40:57+07:00",
+      "fetched": "2026-06-25T06:01:53.005267+07:00"
+    },
+    {
+      "id": "6f98c70bd9ae1fcac8109d9f8905478d",
+      "title": "Tay vợt Anh muốn Wimbledon né lịch World Cup 2026",
+      "link": "https://vnexpress.net/tay-vot-anh-muon-wimbledon-ne-lich-world-cup-2026-5089582.html",
+      "summary": "Francesca Jones đề nghị ban tổ chức giải Wimbledon xếp lịch thi đấu thuận lợi để cô có thể theo dõi đội tuyển Anh thi đấu tại World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-24T22:37:04+07:00",
+      "fetched": "2026-06-25T06:01:53.005433+07:00"
+    },
+    {
+      "id": "e7844ba822169d9f9e8ef08dabda6825",
+      "title": "Cầu thủ Anh từ chối bắt tay đối thủ ở World Cup",
+      "link": "https://vnexpress.net/cau-thu-anh-tu-choi-bat-tay-doi-thu-o-world-cup-5089549.html",
+      "summary": "Hậu vệ Djed Spence được cho đã phớt lờ Thomas Partey ở nghi thức bắt tay trước trận Anh gặp Ghana tại lượt hai bảng L World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-24T22:35:32+07:00",
+      "fetched": "2026-06-25T06:01:53.005597+07:00"
+    },
+    {
+      "id": "58ccca353c95a9930a99a04f9739b3a5",
+      "title": "Messi không loại trừ khả năng dự World Cup 2030",
+      "link": "https://vnexpress.net/messi-khong-loai-tru-kha-nang-du-world-cup-2030-5089599.html",
+      "summary": "Lionel Messi không loại trừ khả năng cùng Argentina dự World Cup 2030 trên sân nhà, dù khi đó anh sẽ bước sang tuổi 43.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-24T22:31:45+07:00",
+      "fetched": "2026-06-25T06:01:53.004753+07:00"
+    },
+    {
+      "id": "9c3720fcf726a098406ece782a100211",
+      "title": "Livestream robot hình người làm việc trong nhà máy",
+      "link": "https://vnexpress.net/livestream-robot-hinh-nguoi-lam-viec-trong-nha-may-5089262.html",
+      "summary": "Các công ty Agibot (Trung Quốc) và Figure AI (Mỹ) đã chứng minh khả năng làm việc của robot hình người tại nhà máy bằng cách phát trực tiếp hàng trăm giờ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T22:00:00+07:00",
+      "fetched": "2026-06-25T06:01:38.495579+07:00"
+    },
+    {
+      "id": "d92087996893819ccd4fa1283ba95abf",
+      "title": "Lương bác sĩ tăng từ ngày 1/7",
+      "link": "https://vnexpress.net/luong-bac-si-tang-tu-ngay-1-7-5089143.html",
+      "summary": "Từ 1/7, lương cơ sở tăng lên 2,53 triệu đồng/tháng, kéo theo mức lương cao nhất của bác sĩ có thể vượt 20 triệu đồng/tháng chưa tính phụ cấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T22:00:00+07:00",
+      "fetched": "2026-06-25T06:01:38.495755+07:00"
+    },
+    {
+      "id": "f9575d0f486bb8be35f7896d3836d33a",
+      "title": "Sinh cảnh rừng Cát Tiên trước ngày về Đồng Nai",
+      "link": "https://vnexpress.net/sinh-canh-rung-cat-tien-truoc-ngay-ve-dong-nai-5087633.html",
+      "summary": "Vườn quốc gia Cát Tiên được cho là \"báu vật thiên nhiên\" với đa dạng sinh học, nhiều cổ thụ và động vật quý hiếm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T22:00:00+07:00",
+      "fetched": "2026-06-25T06:01:38.495939+07:00"
+    },
+    {
+      "id": "6860f30f4a862f2ffb668dbf3aaf4f0f",
+      "title": "CATL làm pin mỏng hơn để hạ gầm xe điện hiệu suất cao",
+      "link": "https://vnexpress.net/catl-lam-pin-mong-hon-de-ha-gam-xe-dien-hieu-suat-cao-5089367.html",
+      "summary": "Hãng pin hàng đầu thế giới cải tiến cấu trúc phần cứng giúp giảm độ dày pin, cho phép chế tạo các dòng xe điện gầm thấp hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T22:00:00+07:00",
+      "fetched": "2026-06-25T06:01:38.496101+07:00"
+    },
+    {
+      "id": "9c3720fcf726a098406ece782a100211",
+      "title": "Livestream robot hình người làm việc trong nhà máy",
+      "link": "https://vnexpress.net/livestream-robot-hinh-nguoi-lam-viec-trong-nha-may-5089262.html",
+      "summary": "Các công ty Agibot (Trung Quốc) và Figure AI (Mỹ) đã chứng minh khả năng làm việc của robot hình người tại nhà máy bằng cách phát trực tiếp hàng trăm giờ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-24T22:00:00+07:00",
+      "fetched": "2026-06-25T06:01:51.894399+07:00"
+    },
+    {
+      "id": "e0ac3d21955521616b6eb221837c0419",
+      "title": "Cả ba đội chủ nhà World Cup 2026 vượt qua vòng bảng",
+      "link": "https://vnexpress.net/ca-ba-doi-chu-nha-world-cup-2026-vuot-qua-vong-bang-5089597.html",
+      "summary": "Lần đầu trong lịch sử World Cup có ba quốc gia đồng chủ nhà, và cả ba đều góp mặt ở vòng knock-out khi Canada nối gót Mỹ và Mexico sau lượt cuối bảng B.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-24T21:41:22+07:00",
+      "fetched": "2026-06-25T06:01:38.496302+07:00"
+    },
+    {
+      "id": "e0ac3d21955521616b6eb221837c0419",
+      "title": "Cả ba đội chủ nhà World Cup 2026 vượt qua vòng bảng",
+      "link": "https://vnexpress.net/ca-ba-doi-chu-nha-world-cup-2026-vuot-qua-vong-bang-5089597.html",
+      "summary": "Lần đầu trong lịch sử World Cup có ba quốc gia đồng chủ nhà, và cả ba đều góp mặt ở vòng knock-out khi Canada nối gót Mỹ và Mexico sau lượt cuối bảng B.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-06-24T21:41:22+07:00",
+      "fetched": "2026-06-25T06:01:53.004926+07:00"
     },
     {
       "id": "4bed945a3298566c7c20bfd7dee63f19",
