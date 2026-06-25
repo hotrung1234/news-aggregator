@@ -1,7 +1,107 @@
 window.newsData_2026_06_26 = {
   "date": "2026-06-26",
-  "lastUpdated": "2026-06-26T01:07:16.267708+07:00",
+  "lastUpdated": "2026-06-26T04:40:04.700820+07:00",
   "articles": [
+    {
+      "id": "db0fe255312888c5f5c2751ca68f1ac8",
+      "title": "Lịch trực tiếp World Cup 2026 ngày 27-6: 'Đại chiến' Tây Ban Nha - Uruguay, Pháp - Na Uy",
+      "link": "https://tuoitre.vn/lich-truc-tiep-world-cup-2026-ngay-27-6-dai-chien-tay-ban-nha-uruguay-phap-na-uy-100260625163303908.htm",
+      "summary": "Rạng sáng 27-6, World Cup 2026 sẽ diễn ra các trận đấu cuối cùng ở các bảng G, H, I. Trong đó, đáng chú ý là cặp đấu giữa Pháp gặp Na Uy hay Tây Ban Nha đối đầu Uruguay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-26T04:39:55.707712+07:00",
+      "fetched": "2026-06-26T04:39:55.707817+07:00"
+    },
+    {
+      "id": "0f24a8a32e26b47d11f76adc6f8bb5b8",
+      "title": "Giá vàng bật tăng trở lại sau khi giảm sâu",
+      "link": "https://tuoitre.vn/gia-vang-bat-tang-tro-lai-sau-khi-giam-sau-100260626002013371.htm",
+      "summary": "Sau khi giảm xuống mức thấp nhất trong nhiều tháng, tối 25-6 giá vàng thế giới bật tăng trở lại, lên trên ngưỡng 4.000 USD/ounce.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-26T04:39:55.707385+07:00",
+      "fetched": "2026-06-26T04:39:55.707686+07:00"
+    },
+    {
+      "id": "09783a921be06a3fb616c599c441b3e4",
+      "title": "Dự đoán tỉ số World Cup: Haaland tỏa sáng, Na Uy vẫn thua Pháp",
+      "link": "https://tuoitre.vn/du-doan-ti-so-world-cup-haaland-toa-sang-na-uy-van-thua-phap-100260625153146763.htm",
+      "summary": "2h ngày 27-6 (giờ Việt Nam) sẽ diễn ra đại chiến đáng chờ đợi nhất của giai đoạn vòng bảng World Cup 2026, khi Na Uy đụng độ Pháp trên sân Gillette tại Massachusetts (Mỹ).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-26T04:39:55.707310+07:00",
+      "fetched": "2026-06-26T04:39:55.707369+07:00"
+    },
+    {
+      "id": "95e8a2895761e21305d6e666d2f4e8c4",
+      "title": "Dự đoán tỉ số World Cup: Tây Ban Nha 'tiễn' Uruguay về nước",
+      "link": "https://tuoitre.vn/du-doan-ti-so-world-cup-tay-ban-nha-tien-uruguay-ve-nuoc-100260625232926307.htm",
+      "summary": "Uruguay dự đoán sẽ có trận đấu vô cùng vất vả trước Tây Ban Nha ở lượt cuối bảng H World Cup 2026 vào lúc 7h ngày 27-6. Nếu gục ngã ở trận đấu này thì đại diện Nam Mỹ hoàn toàn có khả năng sớm chia tay giải đấu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-26T04:39:55.707242+07:00",
+      "fetched": "2026-06-26T04:39:55.707300+07:00"
+    },
+    {
+      "id": "1ab0a0806e8cb4aa9720c56a855818fe",
+      "title": "Dự đoán tỉ số World Cup: Senegal đè bẹp Iraq",
+      "link": "https://tuoitre.vn/du-doan-ti-so-world-cup-senegal-de-bep-iraq-100260625211844709.htm",
+      "summary": "2h ngày 27-6 (giờ Việt Nam), Senegal sẽ chạm trán Iraq trong lượt trận cuối cùng bảng I World Cup 2026 trên sân BMO Field (Toronto, Canada). Trận đấu với mục tiêu phải thắng đậm để giành vé đi tiếp của Senegal.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-26T04:39:55.707169+07:00",
+      "fetched": "2026-06-26T04:39:55.707231+07:00"
+    },
+    {
+      "id": "6c77831b076118de356304b46dfd26d4",
+      "title": "Dự đoán tỉ số World Cup: Bỉ 'hủy diệt' New Zealand",
+      "link": "https://tuoitre.vn/du-doan-ti-so-world-cup-bi-huy-diet-new-zealand-100260625232315613.htm",
+      "summary": "Vào lúc 10h ngày 27-6, tuyển Bỉ sẽ đối đầu New Zealand ở lượt trận cuối bảng G World Cup 2026. Đây là trận đấu mang ý nghĩa sống còn khi đại diện châu Âu buộc phải giành chiến thắng để nuôi hy vọng đi tiếp vào vòng 32 đội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-26T04:39:55.707072+07:00",
+      "fetched": "2026-06-26T04:39:55.707157+07:00"
+    },
+    {
+      "id": "6bcb081441e5b21d15f9efe42d20889d",
+      "title": "Thời tiết hôm nay 26-6: Bắc Bộ mưa to, Nam Bộ mưa rào, Trung Bộ nắng",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-26-6-bac-bo-mua-to-nam-bo-mua-rao-trung-bo-nang-100260625171104493.htm",
+      "summary": "Hôm nay 26-6, thời tiết nắng nóng kết thúc ở Bắc Bộ, mưa dông xuất hiện. Nam Bộ mưa rào, Trung Bộ vẫn còn nắng gay gắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-26T04:39:55.707000+07:00",
+      "fetched": "2026-06-26T04:39:55.707061+07:00"
+    },
+    {
+      "id": "0e58d39e92176b4aa798339704313412",
+      "title": "Tin tức sáng 26-6: Hôm nay, TP.HCM khánh thành công trình hơn 25 tỉ đồng phục vụ thể thao",
+      "link": "https://tuoitre.vn/tin-tuc-sang-26-6-hom-nay-tphcm-khanh-thanh-cong-trinh-hon-25-ti-dong-phuc-vu-the-thao-100260625224103921.htm",
+      "summary": "Tin tức đáng chú ý: Hôm nay, TP.HCM khánh thành công trình hơn 25 tỉ đồng phục vụ thể thao; Số người hưởng lương hưu riêng trong năm 2025 tăng 93% so với năm 2024...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-26T04:39:55.706923+07:00",
+      "fetched": "2026-06-26T04:39:55.706989+07:00"
+    },
+    {
+      "id": "26729d840c2e8774b95adb52204f47e2",
+      "title": "Trực tuyến Nhật Bản - Thụy Điển (6h): Chờ đại diện châu Á giành vé",
+      "link": "https://tuoitre.vn/truc-tuyen-nhat-ban-thuy-dien-6h-cho-dai-dien-chau-a-gianh-ve-100260625165544337.htm",
+      "summary": "Tuổi Trẻ Online sẽ trực tuyến trận đấu giữa Nhật Bản với Thụy Điển ở lượt cuối bảng F World Cup 2026 vào lúc 6h ngày 26-6, mời bạn đọc đón theo dõi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-26T04:39:55.706842+07:00",
+      "fetched": "2026-06-26T04:39:55.706912+07:00"
+    },
+    {
+      "id": "220c6810bc526d3db2dbbc600b5ab896",
+      "title": "Quả bóng 'Bàn tay của Chúa' được đấu giá, dự kiến thu về 240 tỉ đồng",
+      "link": "https://tuoitre.vn/qua-bong-ban-tay-cua-chua-duoc-dau-gia-du-kien-thu-ve-240-ti-dong-10026062601413394.htm",
+      "summary": "Món đồ đã làm nên bàn thắng thương hiệu 'Bàn tay của Chúa' do cố danh thủ Maradona thực hiện sẽ được đưa lên sàn đấu giá.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-26T04:39:55.706693+07:00",
+      "fetched": "2026-06-26T04:39:55.706827+07:00"
+    },
     {
       "id": "a7323cadfdb03fcb0daddfaaad47931b",
       "title": "Đưa G-DRAGON, Faker đến Việt Nam, VPBank hướng tới điều gì?",
@@ -153,6 +253,26 @@ window.newsData_2026_06_26 = {
       "fetched": "2026-06-26T01:07:10.258589+07:00"
     },
     {
+      "id": "ba813c3111f90cb1bfc687906b68aa10",
+      "title": "Nghĩa địa của vua và những chiến binh săn voi ở Buôn Đôn",
+      "link": "https://thanhnien.vn/nghia-dia-cua-vua-va-nhung-chien-binh-san-voi-o-buon-don-185260625162619028.htm",
+      "summary": "Ở Đắk Lắk, có một nghĩa địa được nhắc đến như nơi yên nghỉ của 'vua săn voi'. Nhưng bước vào đó, mới thấy phía sau hào quang của những cái tên lừng danh, còn có những chiến binh săn voi âm thầm, thiêng liêng và đầy bí ẩn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-25T21:39:00+07:00",
+      "fetched": "2026-06-26T04:39:52.251710+07:00"
+    },
+    {
+      "id": "bd6f27de049d0cf35c4733c4ea426ed5",
+      "title": "Lâm Đồng điều chỉnh mở rộng quy mô hai tuyến cao tốc trọng điểm",
+      "link": "https://thanhnien.vn/lam-dong-dieu-chinh-mo-rong-quy-mo-hai-tuyen-cao-toc-trong-diem-185260625210810727.htm",
+      "summary": "Tỉnh Lâm Đồng thống nhất chủ trương điều chỉnh quy mô đầu tư hai dự án cao tốc Tân Phú - Bảo Lộc và Bảo Lộc - Liên Khương hoàn chỉnh ngay từ đầu thay vì phân kỳ như phương án trước đây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-25T21:30:00+07:00",
+      "fetched": "2026-06-26T04:39:52.251882+07:00"
+    },
+    {
       "id": "0f2fe6ebcbeab09485a501de8ea71271",
       "title": "Lý do Venezuela hứng động đất kép trong chưa đầy một phút",
       "link": "https://vnexpress.net/ly-do-venezuela-hung-dong-dat-kep-trong-chua-day-mot-phut-5089994.html",
@@ -163,6 +283,26 @@ window.newsData_2026_06_26 = {
       "fetched": "2026-06-26T01:07:11.866151+07:00"
     },
     {
+      "id": "3c4b92b69c28e4533d90467d93a94fa6",
+      "title": "Vì sao đàn ông dễ có mùi cơ thể hơn phụ nữ?",
+      "link": "https://vnexpress.net/vi-sao-dan-ong-de-co-mui-co-the-hon-phu-nu-5089535.html",
+      "summary": "Đàn ông dễ có mùi cơ thể hơn phụ nữ do tuyến mồ hôi hoạt động mạnh, vi khuẩn da và thói quen sinh hoạt, khiến nước hoa đôi khi không đủ để che lấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-25T18:00:00+07:00",
+      "fetched": "2026-06-26T04:39:49.074388+07:00"
+    },
+    {
+      "id": "2cda596392b5406d3ed1a5e969a5275c",
+      "title": "Điều gì xảy ra với xương khi uống sữa thường xuyên?",
+      "link": "https://vnexpress.net/dieu-gi-xay-ra-voi-xuong-khi-uong-sua-thuong-xuyen-5089887.html",
+      "summary": "Uống sữa thường xuyên có thể giúp tăng mật độ khoáng xương, hạn chế mất xương theo tuổi tác và giảm nguy cơ loãng xương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-25T18:00:00+07:00",
+      "fetched": "2026-06-26T04:39:49.074556+07:00"
+    },
+    {
       "id": "2230c630cc5a96abe293558fbb4b03ae",
       "title": "Nhận định bóng đá Thổ Nhĩ Kỳ vs Mỹ: Thế trận cởi mở, nhiều bàn thắng",
       "link": "https://thanhnien.vn/nhan-dinh-bong-da-tho-nhi-ky-vs-my-the-tran-coi-mo-nhieu-ban-thang-185260626004302746.htm",
@@ -171,6 +311,26 @@ window.newsData_2026_06_26 = {
       "category": "Tổng hợp",
       "published": "2026-06-25T17:48:00+07:00",
       "fetched": "2026-06-26T01:07:08.553172+07:00"
+    },
+    {
+      "id": "1a20cf1ac9db942eeeac3c099e40372a",
+      "title": "48 giờ ở 'đảo bí mật nhất thế giới' tại Việt Nam",
+      "link": "https://vnexpress.net/48-gio-o-dao-bi-mat-nhat-the-gioi-tai-viet-nam-5088642.html",
+      "summary": "Tháng 6 đến tháng 9, du khách đến Côn Đảo có cơ hội ngắm dải ngân hà, tham gia thả rùa con về biển và tận hưởng kỳ nghỉ sang trọng tại vùng đất giàu giá trị lịch sử.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-25T17:36:14+07:00",
+      "fetched": "2026-06-26T04:39:49.074728+07:00"
+    },
+    {
+      "id": "14bc18127a9d7c517acdbfbca318582a",
+      "title": "Chàng trai Hải Phòng bỗng dưng nổi tiếng vì giống cầu thủ Mbappe",
+      "link": "https://vnexpress.net/chang-trai-hai-phong-bong-dung-noi-tieng-vi-giong-cau-thu-mbappe-5089986.html",
+      "summary": "Nhờ ngoại hình giống tiền đạo Kylian Mbappe của đội tuyển Pháp, anh Nguyễn Văn Thanh bất ngờ nổi tiếng, giúp quán ăn bình dân tại Hải Phòng luôn đông khách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-25T17:34:31+07:00",
+      "fetched": "2026-06-26T04:39:49.074892+07:00"
     },
     {
       "id": "26eb29dd95409f2f3b524e71941dc08a",
