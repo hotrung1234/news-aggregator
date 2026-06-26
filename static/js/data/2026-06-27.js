@@ -1,6 +1,6 @@
 window.newsData_2026_06_27 = {
   "date": "2026-06-27",
-  "lastUpdated": "2026-06-27T02:43:03.595127+07:00",
+  "lastUpdated": "2026-06-27T04:16:16.701799+07:00",
   "articles": [
     {
       "id": "d7d6cbf6cbdc03c8809cf44526871ba4",
@@ -181,6 +181,36 @@ window.newsData_2026_06_27 = {
       "category": "Tổng hợp",
       "published": "2026-06-27T00:44:20.597820+07:00",
       "fetched": "2026-06-27T00:44:20.597955+07:00"
+    },
+    {
+      "id": "bdcff22a02fc7c9c9ebf6c8810d39eb9",
+      "title": "Kết quả World Cup 2026 mới nhất: Senegal qua mặt Hàn Quốc, 'tiễn\" Scotland về nước",
+      "link": "https://thanhnien.vn/ket-qua-world-cup-2026-moi-nhat-senegal-qua-mat-han-quoc-tien-scotland-ve-nuoc-185260627040639413.htm",
+      "summary": "Rạng sáng nay (27.6), tiếp tục diễn ra các trận đấu hấp dẫn của lượt trận cuối vòng bảng World Cup 2026, tạo biến động mới trên bảng xếp hạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-26T21:13:00+07:00",
+      "fetched": "2026-06-27T04:16:06.032670+07:00"
+    },
+    {
+      "id": "f45f3c436b7506d0d438f24f196e35ff",
+      "title": "Senegal 5-0 Iraq, bảng I World Cup 2026: Đội châu Phi sắp tiễn Hàn Quốc về nước",
+      "link": "https://thanhnien.vn/senegal-5-0-iraq-bang-i-world-cup-2026-doi-chau-phi-sap-tien-han-quoc-ve-nuoc-185260627023852651.htm",
+      "summary": "Chiến thắng giòn giã 5-0 trước Iraq giúp Senegal không chỉ khép lại bảng I với vị trí thứ ba, mà còn giúp đại diện châu Phi vượt Hàn Quốc trên bảng xếp hạng các đội hạng ba có thành tích tốt nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-26T21:11:00+07:00",
+      "fetched": "2026-06-27T04:16:06.032850+07:00"
+    },
+    {
+      "id": "dd975f419a20fc483b68913f0ffcaa7b",
+      "title": "Na Uy 1-4 Pháp, bảng I World Cup 2026: Màn độc diễn của Ousmane Dembele",
+      "link": "https://thanhnien.vn/na-uy-1-4-phap-bang-i-world-cup-2026-man-doc-dien-cua-ousmane-dembele-185260627021218485.htm",
+      "summary": "Pháp dễ dàng đánh bại Na Uy với tỷ số 4-1 ở trận đấu lúc 2 giờ ngày 27.6, qua đó đoạt vé vào vòng knock-out World Cup 2026 với ngôi đầu bảng I, giành 9 điểm tuyệt đối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-26T21:10:00+07:00",
+      "fetched": "2026-06-27T04:16:06.033011+07:00"
     },
     {
       "id": "d419dba72bb9b1d46bf905c287f9be12",
