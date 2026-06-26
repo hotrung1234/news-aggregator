@@ -1,7 +1,37 @@
 window.newsData_2026_06_27 = {
   "date": "2026-06-27",
-  "lastUpdated": "2026-06-27T00:44:26.600098+07:00",
+  "lastUpdated": "2026-06-27T02:43:03.595127+07:00",
   "articles": [
+    {
+      "id": "d7d6cbf6cbdc03c8809cf44526871ba4",
+      "title": "Dự đoán tỉ số World Cup: Harry Kane phá 'lời nguyền', Anh thắng đậm Panama",
+      "link": "https://tuoitre.vn/du-doan-ti-so-world-cup-harry-kane-pha-loi-nguyen-anh-thang-dam-panama-100260626113012603.htm",
+      "summary": "Sau khi gây thất vọng ở vòng trước, Harry Kane được kỳ vọng trở lại mạnh mẽ để giúp tuyển Anh đánh bại Panama.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T02:42:56.476151+07:00",
+      "fetched": "2026-06-27T02:42:56.476213+07:00"
+    },
+    {
+      "id": "142e2a8984d26cf9165d8ee4ca620e02",
+      "title": "Vợ của cầu thủ Venezuela tử nạn sau trận động đất kinh hoàng",
+      "link": "https://tuoitre.vn/vo-cua-cau-thu-venezuela-tu-nan-sau-tran-dong-dat-kinh-hoang-100260627021645562.htm",
+      "summary": "Sau trận động đất kinh hoàng diễn ra hôm 24-6, bà Andrea Ruiz - vợ của trung vệ Hector Bello (người Venezuela) đã tử nạn khi che chắn cho cô con gái một tuổi - Alana.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T02:42:56.476072+07:00",
+      "fetched": "2026-06-27T02:42:56.476139+07:00"
+    },
+    {
+      "id": "f1214bfc311dab50190483a0eb5fc648",
+      "title": "Bảng L World Cup 2026: Kịch bản giúp Anh, Ghana, Croatia cùng đi tiếp",
+      "link": "https://tuoitre.vn/bang-l-world-cup-2026-kich-ban-giup-anh-ghana-croatia-cung-di-tiep-100260626174808591.htm",
+      "summary": "Bảng L World Cup nhiều khả năng chứng kiến ba đội bóng là Anh, Ghana, Croatia dắt tay nhau đi tiếp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T02:42:56.475920+07:00",
+      "fetched": "2026-06-27T02:42:56.476057+07:00"
+    },
     {
       "id": "4da0975dbc9f426ea7b790cf9e527599",
       "title": "Tên miền 2 ký tự '.vn' tiếp tục 'nóng', 'ok.vn' dẫn đầu với 109 triệu đồng",
@@ -153,6 +183,26 @@ window.newsData_2026_06_27 = {
       "fetched": "2026-06-27T00:44:20.597955+07:00"
     },
     {
+      "id": "d419dba72bb9b1d46bf905c287f9be12",
+      "title": "Người dân được bán hơn 50% điện mặt trời mái nhà dư thừa",
+      "link": "https://vnexpress.net/nguoi-dan-duoc-ban-hon-50-dien-mat-troi-mai-nha-du-thua-5090423.html",
+      "summary": "Nếu lưới điện tại khu vực còn khả năng tiếp nhận, người dân được bán trên 50% lượng điện mặt trời mái nhà tự sản, tự tiêu dư thừa lên hệ thống quốc gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-26T17:38:35+07:00",
+      "fetched": "2026-06-27T02:42:51.540049+07:00"
+    },
+    {
+      "id": "d419dba72bb9b1d46bf905c287f9be12",
+      "title": "Người dân được bán hơn 50% điện mặt trời mái nhà dư thừa",
+      "link": "https://vnexpress.net/nguoi-dan-duoc-ban-hon-50-dien-mat-troi-mai-nha-du-thua-5090423.html",
+      "summary": "Nếu lưới điện tại khu vực còn khả năng tiếp nhận, người dân được bán trên 50% lượng điện mặt trời mái nhà tự sản, tự tiêu dư thừa lên hệ thống quốc gia.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-06-26T17:38:35+07:00",
+      "fetched": "2026-06-27T02:42:59.229571+07:00"
+    },
+    {
       "id": "11107a08165bb8b8996752c0562d2f79",
       "title": "Gout: Nên ăn loại cá nào để tốt cho sức khỏe?",
       "link": "https://thanhnien.vn/gout-nen-an-loai-ca-nao-de-tot-cho-suc-khoe-185260626205506002.htm",
@@ -193,6 +243,16 @@ window.newsData_2026_06_27 = {
       "fetched": "2026-06-27T00:44:23.290259+07:00"
     },
     {
+      "id": "bb96c0083b3900d8ae23f1983d63bbd4",
+      "title": "4 con giáp kiếm tiền suôn sẻ, thu nhập rực rỡ vào cuối tuần",
+      "link": "https://vnexpress.net/van-may-12-con-giap-con-giap-may-man-hom-nay-4-con-giap-kiem-tien-suon-se-thu-nhap-ruc-ro-vao-cuoi-tuan-5090194.html",
+      "summary": "Nhờ được cát tinh soi chiếu cùng sự hỗ trợ của quý nhân, 4 con giáp dưới đây được dự báo sẽ có đường kiếm tiền vô cùng hanh thông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-26T17:02:00+07:00",
+      "fetched": "2026-06-27T02:42:51.540570+07:00"
+    },
+    {
       "id": "5a529d817017eefa4f0c3edd449f95b1",
       "title": "Vì sao Việt Nam chưa cấm được túi nilon, nhựa một lần?",
       "link": "https://vnexpress.net/vi-sao-viet-nam-chua-cam-duoc-tui-nilon-nhua-mot-lan-5090380.html",
@@ -221,6 +281,66 @@ window.newsData_2026_06_27 = {
       "category": "Thể thao",
       "published": "2026-06-26T17:00:00+07:00",
       "fetched": "2026-06-27T00:44:26.596255+07:00"
+    },
+    {
+      "id": "7e786cd3013e4b8b3000446d83064408",
+      "title": "Bộ Xây dựng thống nhất vị trí nhà ga đường sắt tại sân bay Long Thành",
+      "link": "https://vnexpress.net/bo-xay-dung-thong-nhat-vi-tri-nha-ga-duong-sat-tai-san-bay-long-thanh-5090407.html",
+      "summary": "Bộ Xây dựng thống nhất phương án kết nối tuyến metro Bến Thành - Suối Tiên kéo dài đến sân bay Long Thành và vị trí các nhà ga đường sắt theo đề xuất của UBND TP Đồng Nai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-26T17:00:00+07:00",
+      "fetched": "2026-06-27T02:42:51.540768+07:00"
+    },
+    {
+      "id": "b061c403e74ee182dd1040be44d09778",
+      "title": "Thiếu nữ sống sót sau 18 giờ địa ngục trong tay kẻ sát nhân hàng loạt",
+      "link": "https://vnexpress.net/thieu-nu-song-sot-sau-18-gio-dia-nguc-trong-tay-ke-sat-nhan-hang-loat-5090375.html",
+      "summary": "Bị Richard Evonitz bắt cóc giữa ban ngày, Kara Robinson, 15 tuổi, vừa chịu đựng tra tấn vừa cố gắng ghi nhớ mọi chi tiết và tìm cơ hội chạy trốn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-26T17:00:00+07:00",
+      "fetched": "2026-06-27T02:42:51.541095+07:00"
+    },
+    {
+      "id": "73a6c86fc00b4c615c6243f9c9347512",
+      "title": "Biết bồ của chồng đang mang thai, tôi cũng không dám làm căng",
+      "link": "https://vnexpress.net/biet-bo-cua-chong-dang-mang-thai-toi-cung-khong-dam-lam-cang-5090353.html",
+      "summary": "Anh lạnh lùng, không quan tâm nhiều đến gia đình nữa, có thể để tôi ngồi chờ cơm đến tận 23h đêm chỉ vì đi nhậu cùng bạn bè.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-26T17:00:00+07:00",
+      "fetched": "2026-06-27T02:42:51.541411+07:00"
+    },
+    {
+      "id": "5c33f84c0d9981c2b3a09a9ec450e944",
+      "title": "Bất ngờ khi tôi đi 'xin việc' ở tuổi U50",
+      "link": "https://vnexpress.net/that-nghiep-tuoi-trung-nien-u50-nhay-viec-sau-10-nam-cong-hien-5090247.html",
+      "summary": "Bước vào phòng phỏng vấn xin việc ở tuổi 48, tôi lo sẽ bị chê già, nhưng câu hỏi đầu tiên nhận được đã thay đổi hoàn toàn suy nghĩ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-26T17:00:00+07:00",
+      "fetched": "2026-06-27T02:42:51.541577+07:00"
+    },
+    {
+      "id": "103e1a98180d875903aa324127167b26",
+      "title": "Không gian sống trên đảo 29 ha của người thừa kế Swarovski",
+      "link": "https://vnexpress.net/khong-gian-song-tren-dao-29-ha-cua-nguoi-thua-ke-swarovski-5090115.html",
+      "summary": "Bất động sản được rao bán 28,3 triệu USD gồm biệt thự bốn tầng, nông trại, vườn cây, hệ thống nuôi cá và 5 thuyền phục vụ vận hành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-26T17:00:00+07:00",
+      "fetched": "2026-06-27T02:42:51.541768+07:00"
+    },
+    {
+      "id": "46bb6707a700750934ae42f69c36a0c1",
+      "title": "Thu Quỳnh: 'Tôi hạnh phúc khi làm mẹ đơn thân'",
+      "link": "https://vnexpress.net/thu-quynh-toi-hanh-phuc-khi-lam-me-don-than-5086393.html",
+      "summary": "Diễn viên Thu Quỳnh cho biết làm mẹ đơn thân, cô chủ động về tâm lý và tài chính, được bố mẹ giúp đỡ nên không gặp khó khăn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-26T17:00:00+07:00",
+      "fetched": "2026-06-27T02:42:51.542097+07:00"
     },
     {
       "id": "40f299105d6ed476282da9ed12477fa9",
