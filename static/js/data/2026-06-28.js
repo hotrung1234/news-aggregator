@@ -1,7 +1,47 @@
 window.newsData_2026_06_28 = {
   "date": "2026-06-28",
-  "lastUpdated": "2026-06-28T00:06:11.306963+07:00",
+  "lastUpdated": "2026-06-28T02:15:57.589017+07:00",
   "articles": [
+    {
+      "id": "01b58a3ee29891b2b65b4db33dba7275",
+      "title": "Phó bí thư Nguyễn Phước Lộc: Làm đề án nâng cấp Trung tâm Y tế khu vực Phú Mỹ thành bệnh viện quy mô",
+      "link": "https://tuoitre.vn/pho-bi-thu-nguyen-phuoc-loc-lam-de-an-nang-cap-trung-tam-y-te-khu-vuc-phu-my-thanh-benh-vien-quy-mo-100260627221505871.htm",
+      "summary": "Phó bí thư Thành ủy TP.HCM Nguyễn Phước Lộc yêu cầu khẩn trương rà soát, xây dựng đề án nâng cấp Trung tâm Y tế khu vực Phú Mỹ thành bệnh viện quy mô khoảng 700-800 giường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-28T02:15:51.313631+07:00",
+      "fetched": "2026-06-28T02:15:51.313691+07:00"
+    },
+    {
+      "id": "10a4e20dc4d3c74845fb4261ada771e6",
+      "title": "Động đất mạnh rung chuyển Afghanistan và Pakistan, người dân khóc hoảng loạn",
+      "link": "https://tuoitre.vn/dong-dat-manh-rung-chuyen-afghanistan-va-pakistan-nguoi-dan-khoc-hoang-loan-100260627223314128.htm",
+      "summary": "'Mọi người chạy ra khỏi nhà. Phụ nữ và trẻ khóc trong hoảng sợ' - người dân địa phương tại Pakistan kể lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-28T02:15:51.313387+07:00",
+      "fetched": "2026-06-28T02:15:51.313470+07:00"
+    },
+    {
+      "id": "6e88082eb7072e9f832894a857b6a4f5",
+      "title": "Bé sơ sinh được đưa ra khỏi đống đổ nát ở Venezuela sau 32 giờ mắc kẹt",
+      "link": "https://tuoitre.vn/be-so-sinh-duoc-dua-ra-khoi-dong-do-nat-o-venezuela-sau-32-gio-mac-ket-100260627230701344.htm",
+      "summary": "Sau 32 giờ mắc kẹt dưới đống đổ nát, một bé sơ sinh 18 ngày tuổi đã được lực lượng cứu hộ đưa ra ngoài an toàn trong sự vỡ òa của những người chứng kiến.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-28T02:15:51.313308+07:00",
+      "fetched": "2026-06-28T02:15:51.313375+07:00"
+    },
+    {
+      "id": "dd92843baef23acee054aab83ab2e3d8",
+      "title": "Người Trung Quốc đổ xô sang mua nhà, giá nhà ở Hong Kong tăng tháng thứ 12 liên tiếp",
+      "link": "https://tuoitre.vn/nguoi-trung-quoc-do-xo-sang-mua-nha-gia-nha-o-hong-kong-tang-thang-thu-12-lien-tiep-100260628003006007.htm",
+      "summary": "Giá nhà ở tư nhân tại Khu hành chính đặc biệt Hong Kong (Trung Quốc) tháng 5-2026 tăng 1,4% so với tháng trước, đánh dấu tháng tăng trưởng thứ 12 liên tiếp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-28T02:15:51.313157+07:00",
+      "fetched": "2026-06-28T02:15:51.313294+07:00"
+    },
     {
       "id": "148895ebd187ff2e60e6bd22b97a4616",
       "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm: Nói về gia đình cũng là nhắc quan tâm hơn đến trẻ em vô gia cư, cơ nhỡ, mồ côi",
@@ -153,6 +193,76 @@ window.newsData_2026_06_28 = {
       "fetched": "2026-06-28T00:06:05.297070+07:00"
     },
     {
+      "id": "ee8c43dc11f39f99b8aea756241a166c",
+      "title": "Nhận định bóng đá Jordan vs Argentina: Messi xô đổ kỷ lục, nhiều bàn thắng",
+      "link": "https://thanhnien.vn/nhan-dinh-bong-da-jordan-vs-argentina-messi-xo-do-ky-luc-nhieu-ban-thang-185260628013545914.htm",
+      "summary": "Trận Jordan vs Argentina diễn ra lúc 9 giờ ngày 28.6. Với chênh lệch về mặt đẳng cấp, đội bóng xứ sở tango được dự đoán sẽ tiếp tục có thêm một chiến thắng dễ dàng ở vòng bảng World Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T18:40:00+07:00",
+      "fetched": "2026-06-28T02:15:49.184269+07:00"
+    },
+    {
+      "id": "5c0e0bb7d3d2f3b72f900ca44f33e8ac",
+      "title": "Australia và Bồ Đào Nha khép lại vòng loại DIFF 2026",
+      "link": "https://vnexpress.net/australia-va-bo-dao-nha-khep-lai-vong-loai-diff-2026-5090674.html",
+      "summary": "Đêm cuối vòng loại Lễ hội pháo hoa quốc tế Đà Nẵng là cuộc so tài giữa Australia và Bồ Đào Nha, với hai phong cách trình diễn khác biệt trên sông Hàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T18:19:09+07:00",
+      "fetched": "2026-06-28T02:15:46.246050+07:00"
+    },
+    {
+      "id": "344514153dd012f34163bd4ff70c1f49",
+      "title": "Tiếng 'lục cục' khi nhai cảnh báo bệnh nguy hiểm",
+      "link": "https://vnexpress.net/tieng-luc-cuc-khi-nhai-canh-bao-benh-nguy-hiem-5085619.html",
+      "summary": "Tiếng \"lục cục\" ở khớp hàm có thể là tín hiệu sớm của rối loạn thái dương hàm, căn bệnh ảnh hưởng lớn đến chất lượng sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T18:00:00+07:00",
+      "fetched": "2026-06-28T02:15:46.246234+07:00"
+    },
+    {
+      "id": "2e49fe379f5e8d34e9057b34899fd214",
+      "title": "Hội chứng mí mắt mềm",
+      "link": "https://vnexpress.net/suc-khoe/cam-nang/hoi-chung-mi-mat-mem-438",
+      "summary": "Hội chứng mí mắt mềm là bệnh lý khiến mí mắt trên lỏng lẻo, mất độ đàn hồi và dễ bị lật ra ngoài khi ngủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T18:00:00+07:00",
+      "fetched": "2026-06-28T02:15:46.246406+07:00"
+    },
+    {
+      "id": "0db9dd8aaed4073176af16c3b0c02834",
+      "title": "Hội sách thiếu nhi TP HCM quy mô lớn nhất từ trước đến nay",
+      "link": "https://vnexpress.net/hoi-sach-thieu-nhi-tp-hcm-quy-mo-lon-nhat-tu-truoc-den-nay-5090252.html",
+      "summary": "Hội sách thiếu nhi TP HCM lần sáu diễn ra cùng lúc ở nhiều nơi như Thư viện Khoa học Tổng hợp, đường sách Vũng Tàu, với hơn 150 hoạt động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T17:49:49+07:00",
+      "fetched": "2026-06-28T02:15:46.246601+07:00"
+    },
+    {
+      "id": "a5c870f1014265cb6e65998eea9ec57c",
+      "title": "Đại Nghĩa vừa 'trồng cây chuối' vừa hát",
+      "link": "https://vnexpress.net/dai-nghia-vua-trong-cay-chuoi-vua-hat-5090649.html",
+      "summary": "Diễn viên Đại Nghĩa thực hiện động tác \"trồng cây chuối\" trong tiết mục kết hợp Huỳnh Lập, Mew Amazing ở show \"Anh trai vượt ngàn chông gai\", tối 27/6.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T17:20:59+07:00",
+      "fetched": "2026-06-28T02:15:46.246764+07:00"
+    },
+    {
+      "id": "793f4dbb30df680e80d5930aeb82b1d5",
+      "title": "Vì sao ngày càng nhiều người trẻ mắc ung thư? Nghiên cứu mới chỉ ra điều này",
+      "link": "https://thanhnien.vn/vi-sao-ngay-cang-nhieu-nguoi-tre-mac-ung-thu-nghien-cuu-moi-chi-ra-dieu-nay-185260627221159068.htm",
+      "summary": "Các nhà khoa học chỉ ra rằng, tồn tại mối liên quan giữa tình trạng ngủ kém và nguy cơ ung thư ở người dưới 50 tuổi trên toàn cầu, theo kết quả từ 2 nghiên cứu quy mô lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T17:10:00+07:00",
+      "fetched": "2026-06-28T02:15:49.184462+07:00"
+    },
+    {
       "id": "979324671ebcabe2c5c25f96389fc8e7",
       "title": "Ẩm thực 'chữa lành': Hành trình từ di sản Singapore đến TP.HCM",
       "link": "https://thanhnien.vn/am-thuc-chua-lanh-hanh-trinh-tu-di-san-singapore-den-tphcm-185260627183013287.htm",
@@ -161,6 +271,26 @@ window.newsData_2026_06_28 = {
       "category": "Tổng hợp",
       "published": "2026-06-27T17:05:00+07:00",
       "fetched": "2026-06-28T00:06:03.455954+07:00"
+    },
+    {
+      "id": "cb083f6a2f7da8823f6d9ef6624d57d2",
+      "title": "Điều gì xảy ra nếu bạn không ăn rau?",
+      "link": "https://vnexpress.net/dieu-gi-xay-ra-neu-ban-khong-an-rau-5090218.html",
+      "summary": "Không ăn hoặc ăn quá ít rau trong thời gian dài có thể làm tăng nguy cơ táo bón, thiếu hụt dinh dưỡng, suy giảm miễn dịch và nhiều bệnh mạn tính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T17:04:00+07:00",
+      "fetched": "2026-06-28T02:15:46.246927+07:00"
+    },
+    {
+      "id": "edea45e3b1489abc6697661b21177bc7",
+      "title": "Tòa chung cư đưa khoảng sân rộng vào giữa từng căn hộ",
+      "link": "https://vnexpress.net/toa-chung-cu-dua-khoang-san-rong-vao-giua-tung-can-ho-5088246.html",
+      "summary": "Các căn hộ bên trong chung cư tổ chức khu chức năng quanh sân trung tâm để lấy sáng, thông gió.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T17:03:00+07:00",
+      "fetched": "2026-06-28T02:15:46.247086+07:00"
     },
     {
       "id": "8e5224de201ec51e3cb4da4c426e3c71",
@@ -173,6 +303,26 @@ window.newsData_2026_06_28 = {
       "fetched": "2026-06-28T00:06:03.456122+07:00"
     },
     {
+      "id": "5344a038c3edaecce10becacae345a86",
+      "title": "Thủ khoa với 'cú đúp' điểm 10 Toán đi học thêm mỗi ngày",
+      "link": "https://vnexpress.net/thu-khoa-voi-cu-dup-diem-10-toan-di-hoc-them-moi-ngay-5090614.html",
+      "summary": "Minh Thành - thủ khoa với 2 điểm 10 môn Toán, cho biết bứt phá từ sự 'bình bình' vì được thầy cô truyền cảm hứng, học thêm hàng chục buổi mỗi tuần và tích cực tự học.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T17:02:00+07:00",
+      "fetched": "2026-06-28T02:15:46.247242+07:00"
+    },
+    {
+      "id": "c35014e8e7d40860ca97713e3d1dfadc",
+      "title": "Bốn con giáp sự nghiệp thăng hoa, thu nhập tăng mạnh từ quý 3",
+      "link": "https://vnexpress.net/van-may-12-con-giap-con-giap-may-man-hom-nay-bon-con-giap-su-nghiep-thang-hoa-thu-nhap-tang-manh-tu-quy-3-5089096.html",
+      "summary": "Quý 3 không chỉ là khoảng thời gian của sự bận rộn mà còn là mùa gặt hái thành quả đối với những ai đã nỗ lực không ngừng nghỉ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T17:02:00+07:00",
+      "fetched": "2026-06-28T02:15:46.247397+07:00"
+    },
+    {
       "id": "62064e7635d1216a9cbd5a43c4a30889",
       "title": "Đến bảo tàng xem ca nhạc, thưởng trà, trải nghiệm nghề truyền thống",
       "link": "https://thanhnien.vn/den-bao-tang-xem-ca-nhac-thuong-tra-trai-nghiem-nghe-truyen-thong-185260627174447801.htm",
@@ -181,6 +331,16 @@ window.newsData_2026_06_28 = {
       "category": "Tổng hợp",
       "published": "2026-06-27T17:01:00+07:00",
       "fetched": "2026-06-28T00:06:03.456279+07:00"
+    },
+    {
+      "id": "e522647d24656c643a198a660b800a23",
+      "title": "Bằng cấp của bác sĩ",
+      "link": "https://vnexpress.net/bang-cap-cua-bac-si-5090666.html",
+      "summary": "Bố tôi tốt nghiệp tú tài năm 1954, năm sau ghi danh học y.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T17:00:26+07:00",
+      "fetched": "2026-06-28T02:15:46.247579+07:00"
     },
     {
       "id": "e0b112a32f0a6e26e26252443112bba2",
@@ -201,6 +361,66 @@ window.newsData_2026_06_28 = {
       "category": "Thể thao",
       "published": "2026-06-27T17:00:00+07:00",
       "fetched": "2026-06-28T00:06:11.303069+07:00"
+    },
+    {
+      "id": "5a19517eae9c27e301071f68ee2d81b4",
+      "title": "Hàn Quốc diễn tập dùng pháo M61 Vulcan hạ đội hình drone",
+      "link": "https://vnexpress.net/han-quoc-dien-tap-dung-phao-m61-vulcan-ha-doi-hinh-drone-5090658.html",
+      "summary": "Không quân Hàn Quốc diễn tập phòng không chống drone với 8 khẩu pháo 6 nòng M61 Vulcan cỡ 20 mm khai hỏa vào đội hình 50 thiết bị bay không người lái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T17:00:00+07:00",
+      "fetched": "2026-06-28T02:15:46.247739+07:00"
+    },
+    {
+      "id": "9f8b7fb322c8230ab5878ce8654478c5",
+      "title": "Cầu gần 80 tỷ đồng dang dở vì thiếu đường dẫn",
+      "link": "https://vnexpress.net/cau-gan-80-ty-dong-dang-do-vi-thieu-duong-dan-5090654.html",
+      "summary": "Cầu Mô Vĩnh ở Nghệ An đã hoàn thành phần cầu chính gần một năm nhưng vẫn chưa thể thông xe do thiếu đường dẫn hai đầu, ảnh hưởng việc đi lại và vận chuyển hàng hóa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T17:00:00+07:00",
+      "fetched": "2026-06-28T02:15:46.247897+07:00"
+    },
+    {
+      "id": "67a0b1932bb50d33f98bad4a7b84db3c",
+      "title": "Nhà quê giữa vườn cây xanh vẫn tốn tháng 3 triệu đồng tiền điện máy lạnh",
+      "link": "https://vnexpress.net/nha-que-giua-vuon-cay-xanh-van-ton-thang-3-trieu-dong-tien-dien-may-lanh-5090605.html",
+      "summary": "Nếu ngay cả khi ở giữa vườn cây cũng phải đóng kín cửa để chạy máy lạnh, thì đó không còn là câu chuyện 'mùa hè năm nay nóng quá'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T17:00:00+07:00",
+      "fetched": "2026-06-28T02:15:46.248058+07:00"
+    },
+    {
+      "id": "54bb069fc96525de6dedec5731cea298",
+      "title": "Tôi không thích suy nghĩ 'chỉ muốn cuộc sống bình dị' của vợ",
+      "link": "https://vnexpress.net/toi-khong-thich-suy-nghi-chi-muon-cuoc-song-binh-di-cua-vo-5090585.html",
+      "summary": "Vợ thường nói cô ấy không mong có công việc quá lớn lao hay một cuộc sống giàu sang, chỉ cần cuộc sống bình dị, ổn định.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T17:00:00+07:00",
+      "fetched": "2026-06-28T02:15:46.248220+07:00"
+    },
+    {
+      "id": "5143c348b931edf571ebeb605e8252df",
+      "title": "AI tái định hình sản xuất công nghiệp ở Trung Quốc",
+      "link": "https://vnexpress.net/ai-tai-dinh-hinh-san-xuat-cong-nghiep-o-trung-quoc-5089037.html",
+      "summary": "Trung Quốc đang tăng cường ứng dụng AI nhằm tăng hiệu quả sản xuất và giảm chi phí, đảm bảo nhà máy vận hành trơn tru trong mọi khâu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-06-27T17:00:00+07:00",
+      "fetched": "2026-06-28T02:15:46.248374+07:00"
+    },
+    {
+      "id": "5143c348b931edf571ebeb605e8252df",
+      "title": "AI tái định hình sản xuất công nghiệp ở Trung Quốc",
+      "link": "https://vnexpress.net/ai-tai-dinh-hinh-san-xuat-cong-nghiep-o-trung-quoc-5089037.html",
+      "summary": "Trung Quốc đang tăng cường ứng dụng AI nhằm tăng hiệu quả sản xuất và giảm chi phí, đảm bảo nhà máy vận hành trơn tru trong mọi khâu.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-06-27T17:00:00+07:00",
+      "fetched": "2026-06-28T02:15:55.756597+07:00"
     },
     {
       "id": "54b8f3d467fb76d1a1bcc0b0675ea59c",
