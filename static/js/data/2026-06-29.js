@@ -1,7 +1,17 @@
 window.newsData_2026_06_29 = {
   "date": "2026-06-29",
-  "lastUpdated": "2026-06-29T02:14:21.465808+07:00",
+  "lastUpdated": "2026-06-29T03:58:18.887632+07:00",
   "articles": [
+    {
+      "id": "6d1463ce7c422a42895f1162bdec80f6",
+      "title": "Lịch trực tiếp World Cup 2026 ngày 30-6: Brazil gặp Nhật Bản, Đức và Hà Lan ra sân",
+      "link": "https://tuoitre.vn/lich-truc-tiep-world-cup-2026-ngay-30-6-brazil-gap-nhat-ban-duc-va-ha-lan-ra-san-100260628170132707.htm",
+      "summary": "Rạng sáng 30-6, vòng 32 đội World Cup 2026 sẽ diễn ra ba trận đấu tiếp theo. Trong đó có sự xuất hiện của ba ông lớn là Brazil, Đức và Hà Lan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-06-29T03:58:12.674178+07:00",
+      "fetched": "2026-06-29T03:58:12.674311+07:00"
+    },
     {
       "id": "eb5408796aad8199f10a3165d7d3b56a",
       "title": "HLV tuyển Hàn Quốc từ chức ngay sau thất bại ở World Cup",
@@ -201,6 +211,26 @@ window.newsData_2026_06_29 = {
       "category": "Tổng hợp",
       "published": "2026-06-29T00:05:59.608117+07:00",
       "fetched": "2026-06-29T00:05:59.608292+07:00"
+    },
+    {
+      "id": "5d9a801b1f3836c2ee896bde6f1af9cb",
+      "title": "Các ngôi sao mới nổi tại World Cup 2026",
+      "link": "https://thanhnien.vn/cac-ngoi-sao-moi-noi-tai-world-cup-2026-18526062819105033.htm",
+      "summary": "Đây là World Cup của những Lionel Messi, Cristiano Ronaldo, Kylian Mbappe, Harry Kane, Erling Haaland… Quá khó để các cầu thủ chưa có nhiều tên tuổi thực sự vươn lên tại giải này. Nhưng khó thì càng quý. Vẫn có vài 'cánh chim lạ' đang bay bổng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-28T20:38:00+07:00",
+      "fetched": "2026-06-29T03:58:10.782374+07:00"
+    },
+    {
+      "id": "a9542c9bbacc89c112dc29341299bad4",
+      "title": "'Brazil châu Á' quyết hạ Brazil xịn",
+      "link": "https://thanhnien.vn/brazil-chau-a-quyet-ha-brazil-xin-185260628191431856.htm",
+      "summary": "Nhật Bản được mệnh danh là 'Brazil châu Á' với những cầu thủ giàu năng lượng và kỹ thuật. Họ quyết tâm vượt qua Brazil Nam Mỹ do HLV Ancelotti dẫn dắt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-06-28T20:30:00+07:00",
+      "fetched": "2026-06-29T03:58:10.782522+07:00"
     },
     {
       "id": "b6cc42794bd7a04fc3cd3dd6c336d3a0",
