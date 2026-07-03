@@ -1,7 +1,27 @@
 window.newsData_2026_07_04 = {
   "date": "2026-07-04",
-  "lastUpdated": "2026-07-04T00:21:57.612591+07:00",
+  "lastUpdated": "2026-07-04T02:15:53.187029+07:00",
   "articles": [
+    {
+      "id": "efc1d25c10f7cd4611acfb282e293c51",
+      "title": "Trường đại học Ngoại thương xét tuyển thí sinh đạt từ 24 điểm tổ hợp A00",
+      "link": "https://tuoitre.vn/truong-dai-hoc-ngoai-thuong-xet-tuyen-thi-sinh-dat-tu-24-diem-to-hop-a00-100260703231704002.htm",
+      "summary": "Năm 2026, Trường đại học Ngoại thương lấy điểm sàn cho phương thức xét điểm thi tốt nghiệp THPT với tổ hợp A00 (toán, lý, hóa) 24 điểm, các tổ hợp còn lại giảm 1 điểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T02:15:47.974083+07:00",
+      "fetched": "2026-07-04T02:15:47.974179+07:00"
+    },
+    {
+      "id": "927a4f61c8c135443a0bd9e4fc2746d1",
+      "title": "Thời tiết hôm nay 4-7: Bão số 1 vào vịnh Bắc Bộ, ven biển phía Bắc mưa tới 500mm",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-4-7-bao-so-1-vao-vinh-bac-bo-ven-bien-phia-bac-mua-toi-500mm-100260703174819501.htm",
+      "summary": "Hôm nay 4-7, bão số 1 sẽ vào vịnh Bắc Bộ gây mưa to gió lớn cho cả miền Bắc, đặc biệt vùng ven biển, Nam Bộ và các nơi khác mưa rào.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T02:15:47.973927+07:00",
+      "fetched": "2026-07-04T02:15:47.974069+07:00"
+    },
     {
       "id": "a702b9b74a15d16924136bc386e48219",
       "title": "Từng công bố chiếm 70% thị phần kiểm định đá quý, P-Lab giữ vai trò gì tại PNJ?",
@@ -153,6 +173,86 @@ window.newsData_2026_07_04 = {
       "fetched": "2026-07-04T00:21:48.479021+07:00"
     },
     {
+      "id": "e1863a4bc4ca712febafba64f4652a37",
+      "title": "Paraguay - Pháp (4 giờ ngày 5.7, trực tiếp trên VTV): 'Les Blues' tiến về phía trước",
+      "link": "https://thanhnien.vn/paraguay-phap-4-gio-ngay-57-truc-tiep-tren-vtv-les-blues-tien-ve-phia-truoc-185260703184259239.htm",
+      "summary": "Đội tuyển Pháp với dàn cầu thủ siêu đẳng như Mbappe, Dembele, Olise, Barcola được đánh giá vượt trội trước Paraguay ở vòng 16 đội diễn ra lúc 4 giờ ngày 5.7 trên sân Lincoln Financial Field (Mỹ).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T18:08:00+07:00",
+      "fetched": "2026-07-04T02:15:46.088063+07:00"
+    },
+    {
+      "id": "723e1deddda3fc77865f306a7e2b3a78",
+      "title": "Israel chạy đua tìm cách giúp binh sĩ sống sót trước drone Hezbollah",
+      "link": "https://vnexpress.net/israel-chay-dua-tim-cach-giup-binh-si-song-sot-truoc-drone-hezbollah-5091276.html",
+      "summary": "Israel nỗ lực tìm biện pháp đối phó drone tự sát, sau khi hơn 10 binh sĩ thiệt mạng và nhiều khí tài bị phá hủy vì vũ khí này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T18:00:00+07:00",
+      "fetched": "2026-07-04T02:15:43.534246+07:00"
+    },
+    {
+      "id": "723e1deddda3fc77865f306a7e2b3a78",
+      "title": "Israel chạy đua tìm cách giúp binh sĩ sống sót trước drone Hezbollah",
+      "link": "https://vnexpress.net/israel-chay-dua-tim-cach-giup-binh-si-song-sot-truoc-drone-hezbollah-5091276.html",
+      "summary": "Israel nỗ lực tìm biện pháp đối phó drone tự sát, sau khi hơn 10 binh sĩ thiệt mạng và nhiều khí tài bị phá hủy vì vũ khí này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-03T18:00:00+07:00",
+      "fetched": "2026-07-04T02:15:49.332607+07:00"
+    },
+    {
+      "id": "f38b241277d7254c911f8641cf976c11",
+      "title": "Du khách mất tích 10 ngày khi đi Mỹ xem World Cup",
+      "link": "https://vnexpress.net/du-khach-mat-tich-10-ngay-khi-di-my-xem-world-cup-5093249.html",
+      "summary": "Một cổ động viên Anh đã mất tích trên đường đến Mỹ xem World Cup, khiến Interpol vào cuộc nhưng cuối cùng được tìm thấy ở một quán bar.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T17:32:45+07:00",
+      "fetched": "2026-07-04T02:15:43.534424+07:00"
+    },
+    {
+      "id": "a15cbc6860c1cfd37ef9e825ef2bfac8",
+      "title": "Tôi nấu ăn sáng ở nhà vì bát phở 40 K không tăng giá nhưng bớt xén thịt",
+      "link": "https://vnexpress.net/toi-nau-an-sang-o-nha-vi-bat-pho-40-k-khong-tang-gia-nhung-bot-xen-thit-5093154.html",
+      "summary": "Tôi chấp nhận trả thêm 5-10 nghìn đồng mà bát phở đầy đặn như trước hơn là giữ nguyên giá mà bớt thịt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T17:05:46+07:00",
+      "fetched": "2026-07-04T02:15:43.534588+07:00"
+    },
+    {
+      "id": "b1d9eb68caf7e058f703f40f5d6db90d",
+      "title": "Biệt thự 580 m2 lấy cảm hứng từ nhà bè miền Tây",
+      "link": "https://vnexpress.net/biet-thu-580-m2-lay-cam-hung-tu-nha-be-mien-tay-5092589.html",
+      "summary": "Căn nhà tại Đồng Tháp dùng mái ngói dốc, hàng hiên dài và sân vườn để tạo không gian nghỉ ngơi tách biệt khỏi phố thị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T17:05:00+07:00",
+      "fetched": "2026-07-04T02:15:43.534747+07:00"
+    },
+    {
+      "id": "692c26b40ac5ef80818c2b4d140e6488",
+      "title": "Ung thư niệu quản",
+      "link": "https://vnexpress.net/suc-khoe/cam-nang/ung-thu-nieu-quan-439",
+      "summary": "Ung thư niệu quản xảy ra khi các tế bào lót bên trong niệu quản phát triển bất thường, hình thành khối u.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T17:04:00+07:00",
+      "fetched": "2026-07-04T02:15:43.534912+07:00"
+    },
+    {
+      "id": "972c6e9e0c6b7b9012de9ebd912b4fa8",
+      "title": "Ăn hàu mỗi lần nhậu vẫn giảm ham muốn",
+      "link": "https://vnexpress.net/an-hau-moi-lan-nhau-van-giam-ham-muon-5092630.html",
+      "summary": "Tin hàu sống là món \"bổ sinh lý\", người đàn ông 41 tuổi ăn thường xuyên trong các buổi nhậu suốt nhiều tháng, nhưng tình trạng giảm ham muốn và rối loạn cương ngày càng nặng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T17:03:00+07:00",
+      "fetched": "2026-07-04T02:15:43.535075+07:00"
+    },
+    {
       "id": "c8ad1932d81c281b77cefd5faee96067",
       "title": "Giải lân sư rồng Khánh Hòa khiến quảng trường Nha Trang chật kín người",
       "link": "https://thanhnien.vn/giai-lan-su-rong-khanh-hoa-khien-quang-truong-nha-trang-chat-kin-nguoi-185260703224938141.htm",
@@ -161,6 +261,16 @@ window.newsData_2026_07_04 = {
       "category": "Tổng hợp",
       "published": "2026-07-03T17:01:00+07:00",
       "fetched": "2026-07-04T00:21:46.312825+07:00"
+    },
+    {
+      "id": "12c13c60be61cadaf2f63e3a32144c1f",
+      "title": "4 con giáp tài lộc bùng nổ mạnh vào cuối tuần",
+      "link": "https://vnexpress.net/van-may-12-con-giap-con-giap-may-man-hom-nay-4-con-giap-tai-loc-bung-no-manh-vao-cuoi-tuan-5092972.html",
+      "summary": "Họ không chỉ có cơ hội gia tăng thu nhập từ công việc chính mà còn dễ nhận được khoản thưởng, lợi nhuận hoặc nguồn thu phụ đáng kể.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T17:01:00+07:00",
+      "fetched": "2026-07-04T02:15:43.535261+07:00"
     },
     {
       "id": "072876b412eea10867ad8a3d35085ce5",
