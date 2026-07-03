@@ -1,7 +1,157 @@
 window.newsData_2026_07_03 = {
   "date": "2026-07-03",
-  "lastUpdated": "2026-07-03T20:56:24.858380+07:00",
+  "lastUpdated": "2026-07-03T22:52:05.012072+07:00",
   "articles": [
+    {
+      "id": "da49a68dd806d31dfb4324b8ee323240",
+      "title": "Tuyển Anh chơi trò 'trốn tìm' để đối phó hành động 'quấy rối giấc ngủ' của CĐV Mexico",
+      "link": "https://tuoitre.vn/tuyen-anh-choi-tro-tron-tim-de-doi-pho-hanh-dong-quay-roi-giac-ngu-cua-cdv-mexico-100260703192923893.htm",
+      "summary": "Tuyển Anh đã quyết định sẽ giữ bí mật về nơi ở của họ, trước trận đấu với chủ nhà Mexico ở vòng 16 đội World Cup 2026. Điều này nhằm đối phó với các hành động quấy rối giấc ngủ của các cổ động viên Mexico.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T22:51:55.287123+07:00",
+      "fetched": "2026-07-03T22:51:55.287165+07:00"
+    },
+    {
+      "id": "3a87f6926dfd6cbcc69701bba1bb820b",
+      "title": "Xã Bà Điểm hỗ trợ thủ tục tận nhà cho hộ dân ảnh hưởng bởi dự án nâng cấp quốc lộ 22",
+      "link": "https://tuoitre.vn/xa-ba-diem-ho-tro-thu-tuc-tan-nha-cho-ho-dan-anh-huong-boi-du-an-nang-cap-quoc-lo-22-100260703193310609.htm",
+      "summary": "Cán bộ, công chức xã Bà Điểm (TP.HCM) làm việc ngoài giờ, đến nhà hộ dân ảnh hưởng bởi dự án cải tạo, nâng cấp quốc lộ 22 (nay là đường Lê Quang Đạo) để hỗ trợ thủ tục hành chính liên quan đến sửa chữa nhà ở, cấp giấy phép xây dựng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T22:51:55.287072+07:00",
+      "fetched": "2026-07-03T22:51:55.287115+07:00"
+    },
+    {
+      "id": "6dc65ab82281c81ddfc4c72b63ef0044",
+      "title": "Lê Quang Liêm xuất trận tại giải cờ danh giá Tây Ban Nha",
+      "link": "https://tuoitre.vn/le-quang-liem-xuat-tran-tai-giai-co-danh-gia-tay-ban-nha-100260703015220016.htm",
+      "summary": "Vào ngày mai (4-7), Đại kiện tướng Lê Quang Liêm sẽ bước vào hành trình bảo vệ cúp vô địch tại giải cờ vua danh giá ở Tây Ban Nha.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T22:51:55.287022+07:00",
+      "fetched": "2026-07-03T22:51:55.287065+07:00"
+    },
+    {
+      "id": "f18a0413fdc7fef5cf1016a5b687a432",
+      "title": "Phường Phú Thuận, TP.HCM lấy sự hài lòng của người dân làm thước đo",
+      "link": "https://tuoitre.vn/phuong-phu-thuan-tphcm-lay-su-hai-long-cua-nguoi-dan-lam-thuoc-do-100260703181746248.htm",
+      "summary": "Sau một năm vận hành mô hình chính quyền địa phương hai cấp, phường Phú Thuận (TP.HCM) khẳng định lấy sự hài lòng của người dân, doanh nghiệp làm thước đo hiệu quả hoạt động, đồng thời tiếp tục đẩy mạnh chuyển đổi số, nâng cao chất lượng phục vụ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T22:51:55.286969+07:00",
+      "fetched": "2026-07-03T22:51:55.287014+07:00"
+    },
+    {
+      "id": "7c1a19be531c3ef10b35c77e7e841bde",
+      "title": "Đến thăm người bị bắt buộc chữa bệnh không được ghi hình, ghi âm",
+      "link": "https://tuoitre.vn/den-tham-nguoi-bi-bat-buoc-chua-benh-khong-duoc-ghi-hinh-ghi-am-100260703194317472.htm",
+      "summary": "Chính phủ vừa ban hành quy định mới về quản lý người bị áp dụng biện pháp tư pháp bắt buộc chữa bệnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T22:51:55.286915+07:00",
+      "fetched": "2026-07-03T22:51:55.286962+07:00"
+    },
+    {
+      "id": "ecd226092f5a2d725e9395531b6550eb",
+      "title": "Được giảm trừ thêm tối đa 47 triệu đồng/năm trước khi tính thuế thu nhập cá nhân",
+      "link": "https://tuoitre.vn/duoc-giam-tru-them-toi-da-47-trieu-dong-nam-truoc-khi-tinh-thue-thu-nhap-ca-nhan-100260703181326432.htm",
+      "summary": "Từ năm nay, người có thu nhập từ tiền lương, tiền công được giảm trừ thêm tối đa 47 triệu đồng/năm đối với các khoản chi cho y tế và giáo dục - đào tạo trước khi tính thuế thu nhập cá nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T22:51:55.286862+07:00",
+      "fetched": "2026-07-03T22:51:55.286907+07:00"
+    },
+    {
+      "id": "3a65a022171e30b3ff33638911a806fa",
+      "title": "Nhiều trường đại học ‘chơi lớn’ tại Ngày hội lựa chọn nguyện vọng xét tuyển 2026",
+      "link": "https://tuoitre.vn/nhieu-truong-dai-hoc-choi-lon-tai-ngay-hoi-lua-chon-nguyen-vong-xet-tuyen-2026-100260703194026329.htm",
+      "summary": "Hơn 180 gian tư vấn sẽ góp mặt tại Ngày hội lựa chọn nguyện vọng xét tuyển 2026 ở TP.HCM, nơi nhiều trường đại học đầu tư quy mô lớn với hoạt động tư vấn, trải nghiệm và hàng trăm phần quà dành cho thí sinh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T22:51:55.286808+07:00",
+      "fetched": "2026-07-03T22:51:55.286854+07:00"
+    },
+    {
+      "id": "d641358a2240baf3a61cc76df6e9df36",
+      "title": "Thủ đoạn biến tiếp viên hàng không thành người vận chuyển ma túy",
+      "link": "https://tuoitre.vn/thu-doan-bien-tiep-vien-hang-khong-thanh-nguoi-van-chuyen-ma-tuy-100260703195516132.htm",
+      "summary": "Ngày 3-7, Hãng tin Reuters có bài viết đáng chú ý với tiêu đề: Các băng nhóm ma túy dùng mạng xã hội để lôi kéo tiếp viên hàng không Thái Lan làm người vận chuyển ma túy như thế nào?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T22:51:55.286750+07:00",
+      "fetched": "2026-07-03T22:51:55.286800+07:00"
+    },
+    {
+      "id": "37eed521a7e8f94d7e03c3a919b1c9b2",
+      "title": "Bão số 1 dự báo vào Quảng Ninh, 4 tỉnh Đông Bắc có nơi mưa trên 500mm",
+      "link": "https://tuoitre.vn/bao-so-1-du-kien-vao-quang-ninh-4-tinh-dong-bac-co-noi-mua-tren-500mm-10026070320095149.htm",
+      "summary": "Dự kiến khoảng tối đến đêm mai (4-7), bão số 1 (Maysak) đi vào đất liền khu vực Móng Cái (Quảng Ninh) và Quảng Tây (Trung Quốc). Do ảnh hưởng của bão, từ đêm nay (3-7), các tỉnh Đông Bắc Bộ và Thanh Hóa bắt đầu mưa lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T22:51:55.286688+07:00",
+      "fetched": "2026-07-03T22:51:55.286742+07:00"
+    },
+    {
+      "id": "cf37a42f3b9e1da0cae4c210a5bf2a16",
+      "title": "Giá vàng bật tăng mạnh",
+      "link": "https://tuoitre.vn/gia-vang-bat-tang-manh-100260703201511328.htm",
+      "summary": "Giá vàng thế giới đã tăng mạnh lên mức 4.178,5 USD/ounce vào cuối ngày hôm nay, 3-7, kéo giá vàng trong nước đi lên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T22:51:55.286585+07:00",
+      "fetched": "2026-07-03T22:51:55.286677+07:00"
+    },
+    {
+      "id": "128482e9277937d7768a9fe5a836cec4",
+      "title": "Yêu cầu bố trí vốn kịp thời cho cao tốc TP.HCM - Thủ Dầu Một - Chơn Thành",
+      "link": "https://tuoitre.vn/yeu-cau-bo-tri-von-kip-thoi-cho-cao-toc-tphcm-thu-dau-mot-chon-thanh-100260703200836299.htm",
+      "summary": "Trước phản ánh của cơ sở về việc một số hộ dân chờ nhận tiền đền bù giải phóng mặt bằng cao tốc TP.HCM - Thủ Dầu Một - Chơn Thành, lãnh đạo UBND TP.HCM yêu cầu khẩn trương giải quyết trong vòng 10 ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T22:51:55.286483+07:00",
+      "fetched": "2026-07-03T22:51:55.286573+07:00"
+    },
+    {
+      "id": "efd64384a2375f8df71fa2ba902ec69f",
+      "title": "Đại học Kinh tế quốc dân và loạt trường công bố điểm sàn, cao nhất 25 điểm",
+      "link": "https://tuoitre.vn/dai-hoc-kinh-te-quoc-dan-va-loat-truong-cong-bo-diem-san-cao-nhat-25-diem-10026070320111629.htm",
+      "summary": "Đại học Kinh tế quốc dân lấy điểm sàn xét tuyển 22, bằng với năm ngoái. Trường đại học Khoa học tự nhiên đang dẫn đầu mức điểm sàn, cao nhất 25/30 điểm mới đủ điều kiện tham gia xét tuyển.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T22:51:55.286123+07:00",
+      "fetched": "2026-07-03T22:51:55.286463+07:00"
+    },
+    {
+      "id": "a702b9b74a15d16924136bc386e48219",
+      "title": "Từng công bố chiếm 70% thị phần kiểm định đá quý, P-Lab giữ vai trò gì tại PNJ?",
+      "link": "https://tuoitre.vn/tung-cong-bo-chiem-70-thi-phan-kiem-dinh-da-quy-p-lab-giu-vai-tro-gi-tai-pnj-100260703174808191.htm",
+      "summary": "P-Lab từng tự giới thiệu là đơn vị chiếm khoảng 70% thị phần kiểm định kim cương và đá quý tại Việt Nam, với hơn 10.000 lượt kiểm định mỗi tháng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T22:51:55.286062+07:00",
+      "fetched": "2026-07-03T22:51:55.286115+07:00"
+    },
+    {
+      "id": "4174c06533a53f43afba08d46542aa87",
+      "title": "Bình gas mini phát nổ khiến người đàn ông chấn thương sọ não",
+      "link": "https://tuoitre.vn/binh-gas-mini-phat-no-khien-nguoi-dan-ong-chan-thuong-so-nao-100260703201151988.htm",
+      "summary": "Bình gas mini phát nổ làm người đàn ông chấn thương sọ não nặng",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T22:51:55.285992+07:00",
+      "fetched": "2026-07-03T22:51:55.286053+07:00"
+    },
+    {
+      "id": "91a24330d32f2d88cfa420858245026b",
+      "title": "Trực tuyến Úc - Ai Cập (1h): Đại diện châu Á cuối cùng ra sân",
+      "link": "https://tuoitre.vn/truc-tuyen-uc-ai-cap-1h-dai-dien-chau-a-cuoi-cung-ra-san-100260703132538628.htm",
+      "summary": "Mời bạn đọc theo dõi trực tuyến trận đấu giữa Úc và Ai Cập tại vòng 32 đội World Cup 2026, diễn ra lúc 1h ngày 4-7.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T22:51:55.285835+07:00",
+      "fetched": "2026-07-03T22:51:55.285980+07:00"
+    },
     {
       "id": "f05d3f5162de4aad9d60ff2e8e785ccf",
       "title": "Phát hiện 2 thi thể trong căn nhà liền kề bốc cháy ở Hà Nội",
@@ -301,6 +451,146 @@ window.newsData_2026_07_03 = {
       "category": "Tổng hợp",
       "published": "2026-07-03T17:32:10.969028+07:00",
       "fetched": "2026-07-03T17:32:10.969164+07:00"
+    },
+    {
+      "id": "1a00b89d25a70f1d016d6ffab5806e68",
+      "title": "Sau Phần Lan, đến lượt Lithuania muốn vào liên minh răn đe hạt nhân",
+      "link": "https://thanhnien.vn/sau-phan-lan-den-luot-lithuania-muon-vao-lien-minh-ran-de-hat-nhan-185260703212945671.htm",
+      "summary": "Tổng thống Lithuania Gitanas Nauseda ngày 3.7 cho biết nước này muốn được tích hợp vào cơ chế răn đe hạt nhân của phương Tây nhằm đối phó với Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T15:51:00+07:00",
+      "fetched": "2026-07-03T22:51:53.005948+07:00"
+    },
+    {
+      "id": "4e446d0b23f77c5f22ad23ff431bd2dd",
+      "title": "VCK giải bóng đá U.13 toàn quốc Yamaha Cup 2026 chính thức khai màn",
+      "link": "https://thanhnien.vn/vck-giai-bong-da-u13-toan-quoc-yamaha-cup-2026-chinh-thuc-khai-man-185260703221710881.htm",
+      "summary": "Chiều 3.7, trên sân Lạch Tray (Hải Phòng), VCK giải bóng đá thiếu niên U.13 toàn quốc Yamaha Cup 2026 chính thức khai mạc, đánh dấu sự khởi tranh của sân chơi bóng đá trẻ giàu truyền thống dành cho các tài năng nhí trên cả nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T15:18:00+07:00",
+      "fetched": "2026-07-03T22:51:53.006098+07:00"
+    },
+    {
+      "id": "50fbce58707a337afb67fb5160fb3cc0",
+      "title": "Công an vào cuộc xác minh vụ bọt trắng nổi như tuyết trên sông Kỳ Cùng",
+      "link": "https://thanhnien.vn/cong-an-vao-cuoc-xac-minh-vu-bot-trang-noi-nhu-tuyet-tren-song-ky-cung-185260703214025991.htm",
+      "summary": "Công an tỉnh Lạng Sơn đã khẩn trương vào cuộc xác minh vụ việc nhiều mảng bọt trắng xuất hiện tại cửa xả ra sông Kỳ Cùng, đoạn qua P.Đông Kinh (Lạng Sơn).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T15:05:00+07:00",
+      "fetched": "2026-07-03T22:51:53.006232+07:00"
+    },
+    {
+      "id": "c2cffcf329c294dafe86a9ac19bcc9dd",
+      "title": "Vì sao màn tái xuất của Tăng Thanh Hà sau 13 năm gây tranh luận?",
+      "link": "https://thanhnien.vn/vi-sao-man-tai-xuat-cua-tang-thanh-ha-sau-13-nam-gay-tranh-luan-185260703205817769.htm",
+      "summary": "Trở lại điện ảnh sau 13 năm vắng bóng, Tăng Thanh Hà vướng tranh luận khi hóa thân thành Nam Phương hoàng hậu trong tác phẩm 'Hoàng hậu cuối cùng'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T14:55:00+07:00",
+      "fetched": "2026-07-03T22:51:53.006357+07:00"
+    },
+    {
+      "id": "f991f44cbdd4de699416d686caa2b60f",
+      "title": "World Cup 2026, Colombia - Ghana: Hồi hộp chờ tấm vé cuối cùng",
+      "link": "https://thanhnien.vn/world-cup-2026-colombia-ghana-hoi-hop-cho-tam-ve-cuoi-cung-18526070320383535.htm",
+      "summary": "Trận thư hùng giữa Colombia và Ghana lúc 8 giờ 30 ngày 4.7 sẽ định đoạt tấm vé cuối cùng lọt vào vòng 16 đội World Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T14:52:00+07:00",
+      "fetched": "2026-07-03T22:51:53.006483+07:00"
+    },
+    {
+      "id": "ead21adba521f033d69506faccdae1b2",
+      "title": "Xuất hiện Haaland 'phiên bản nữ', hành động y hệt bản chính gây sốt mạng xã hội",
+      "link": "https://thanhnien.vn/xuat-hien-haaland-phien-ban-nu-hanh-dong-y-het-ban-chinh-gay-sot-mang-xa-hoi-185260703214210121.htm",
+      "summary": "Trong lúc Erling Haaland liên tục tỏa sáng tại World Cup 2026, mạng xã hội lại xuất hiện một 'phiên bản nữ' của chân sút này. Đó là người mẫu kiêm nhà sáng tạo nội dung người Thụy Điển Julia Grop, cô gái đang gây sốt nhờ ngoại hình và những màn bắt chước Haaland giống đến khó tin.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T14:47:00+07:00",
+      "fetched": "2026-07-03T22:51:53.006610+07:00"
+    },
+    {
+      "id": "f43ccb7da8f9f9cdc80c2d9ab4cd54ef",
+      "title": "Báo cáo không trung thực kết quả chống lãng phí sẽ bị phạt 10 triệu đồng",
+      "link": "https://thanhnien.vn/bao-cao-khong-trung-thuc-ket-qua-chong-lang-phi-se-bi-phat-10-trieu-dong-185260703200459588.htm",
+      "summary": "Chính phủ quy định mức phạt đến 10 triệu đồng đối với hành vi báo cáo không trung thực về kết quả, số liệu công tác tiết kiệm, chống lãng phí.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T14:42:00+07:00",
+      "fetched": "2026-07-03T22:51:53.006758+07:00"
+    },
+    {
+      "id": "6477a55fd190c2a7e3c38bcbe16cf7bc",
+      "title": "Sở GD-ĐT Tuyên Quang phản hồi về 'mưa điểm 10 môn toán'",
+      "link": "https://thanhnien.vn/so-gd-dt-tuyen-quang-phan-hoi-ve-mua-diem-10-mon-toan-185260703202954346.htm",
+      "summary": "Lãnh đạo Sở Giáo dục và Đào tạo tỉnh Tuyên Quang khẳng định không bố trí giáo viên Trường THPT chuyên Tuyên Quang coi thi tại trường. Việc cho phép học sinh trường này dự thi tốt nghiệp tại chỗ chỉ nhằm mục đích thuận tiện cho việc đi lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T14:41:00+07:00",
+      "fetched": "2026-07-03T22:51:53.006881+07:00"
+    },
+    {
+      "id": "800e7e7b8f9c42f32974a2ff8fefca3e",
+      "title": "Tương quan trước trận Argentina - Cape Verde",
+      "link": "https://vnexpress.net/tuong-quan-truoc-tran-argentina-cape-verde-5093229.html",
+      "summary": "Lionel Messi và đồng đội được kỳ vọng tiếp tục khẳng định vị thế của ứng viên vô địch sáng giá, khi đấu Cape Verde ở vòng 1/16 World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T14:28:04+07:00",
+      "fetched": "2026-07-03T22:51:49.556099+07:00"
+    },
+    {
+      "id": "800e7e7b8f9c42f32974a2ff8fefca3e",
+      "title": "Tương quan trước trận Argentina - Cape Verde",
+      "link": "https://vnexpress.net/tuong-quan-truoc-tran-argentina-cape-verde-5093229.html",
+      "summary": "Lionel Messi và đồng đội được kỳ vọng tiếp tục khẳng định vị thế của ứng viên vô địch sáng giá, khi đấu Cape Verde ở vòng 1/16 World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-03T14:28:04+07:00",
+      "fetched": "2026-07-03T22:52:05.000935+07:00"
+    },
+    {
+      "id": "d489e2e1edbea341fbd443769cf2d602",
+      "title": "Lật tẩy đường dây 'biến' hàng Trung Quốc thành Canada để trúng hơn 30 gói thầu",
+      "link": "https://thanhnien.vn/lat-tay-duong-day-bien-hang-trung-quoc-thanh-canada-de-trung-hon-30-goi-thau-185260703205759153.htm",
+      "summary": "Ngày 3.7.2026, Công an TP.HCM cho biết vừa triệt phá đường dây nghi giả hồ sơ kỹ thuật để đưa thiết bị điện Trung Quốc vào các gói thầu, cung cấp vật tư cho nhiều đơn vị điện lực trên địa bàn với tổng trị giá hơn 89 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T14:20:00+07:00",
+      "fetched": "2026-07-03T22:51:53.007003+07:00"
+    },
+    {
+      "id": "5dca1efc2956593b0984f98326fa5550",
+      "title": "World Cup 2026, Argentina - Cabo Verde: Ronaldo đã gọi, Messi trả lời?",
+      "link": "https://thanhnien.vn/world-cup-2026-argentina-cabo-verde-ronaldo-da-goi-messi-tra-loi-185260703170159485.htm",
+      "summary": "Messi nếu ra sân và ghi bàn trong trận đội tuyển Argentina gặp Cabo Verde lúc 5 giờ ngày 4.7 ở vòng 32 đội, anh sẽ phá tiếp ít nhất 2 kỷ lục chưa từng có nữa trong lịch sử World Cup.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T14:06:00+07:00",
+      "fetched": "2026-07-03T22:51:53.007123+07:00"
+    },
+    {
+      "id": "6386074198d54ec88466fea1480c2f5d",
+      "title": "Sông nào ở Đông Nam Á là kỳ quan thiên nhiên mới?",
+      "link": "https://vnexpress.net/song-nao-o-dong-nam-a-la-ky-quan-thien-nhien-moi-5093218.html",
+      "summary": "Con sông này dài hơn 8 km, chảy dưới một núi đá vôi, thuộc diện sông ngầm hiếm hoi mà con người có thể chiêm ngưỡng được.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T14:01:00+07:00",
+      "fetched": "2026-07-03T22:51:49.556260+07:00"
+    },
+    {
+      "id": "a08b0385b40276a51db91cd63093623b",
+      "title": "Chồng 'cấm vận' mỗi lần giận tôi",
+      "link": "https://vnexpress.net/chong-cam-van-moi-lan-gian-toi-5093067.html",
+      "summary": "Mỗi khi giận tôi, anh sẽ lạnh nhạt, không ôm, không nắm tay, cũng không muốn gần gũi kể cả tôi chủ động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-03T14:00:00+07:00",
+      "fetched": "2026-07-03T22:51:49.556398+07:00"
     },
     {
       "id": "e152ceebd5d94a7fdde0ba37bf918a21",
