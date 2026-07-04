@@ -1,6 +1,6 @@
 window.newsData_2026_07_05 = {
   "date": "2026-07-05",
-  "lastUpdated": "2026-07-05T03:53:36.475401+07:00",
+  "lastUpdated": "2026-07-05T05:55:35.869310+07:00",
   "articles": [
     {
       "id": "b5c50816abd0e83da0c52a5476420220",
@@ -221,6 +221,116 @@ window.newsData_2026_07_05 = {
       "category": "Tổng hợp",
       "published": "2026-07-05T00:01:00.470407+07:00",
       "fetched": "2026-07-05T00:01:00.470553+07:00"
+    },
+    {
+      "id": "449238d27592a4caf49f347599849fc0",
+      "title": "Hạ Canada, Morocco trở thành đội châu Phi thành công nhất ở World Cup",
+      "link": "https://vnexpress.net/ha-canada-morocco-tro-thanh-doi-chau-phi-thanh-cong-nhat-o-world-cup-5093582.html",
+      "summary": "Morocco thắng đồng chủ nhà Canada 3-0 ở vòng 1/8 để trở thành đại diện châu Phi đầu tiên hai lần vào tứ kết World Cup.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T22:26:55+07:00",
+      "fetched": "2026-07-05T05:55:21.376798+07:00"
+    },
+    {
+      "id": "449238d27592a4caf49f347599849fc0",
+      "title": "Hạ Canada, Morocco trở thành đội châu Phi thành công nhất ở World Cup",
+      "link": "https://vnexpress.net/ha-canada-morocco-tro-thanh-doi-chau-phi-thanh-cong-nhat-o-world-cup-5093582.html",
+      "summary": "Morocco thắng đồng chủ nhà Canada 3-0 ở vòng 1/8 để trở thành đại diện châu Phi đầu tiên hai lần vào tứ kết World Cup.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-04T22:26:55+07:00",
+      "fetched": "2026-07-05T05:55:35.863785+07:00"
+    },
+    {
+      "id": "ca5fe1cdd40185316abcf28323e05a84",
+      "title": "Quả cầu chim Lạc rực sáng giữa vòng xoay Lăng Cha Cả",
+      "link": "https://vnexpress.net/qua-cau-chim-lac-ruc-sang-giua-vong-xoay-lang-cha-ca-5093504.html",
+      "summary": "Biểu tượng quen thuộc tại bùng binh gần sân bay Tân Sơn Nhất vừa được \"khoác áo mới” với quả cầu xoay đường kính 5 m gắn hình chim Lạc, ốp inox mạ đồng, rực sáng về đêm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T22:00:00+07:00",
+      "fetched": "2026-07-05T05:55:21.376977+07:00"
+    },
+    {
+      "id": "186ba02419ac4f1e055aed5a03184f2b",
+      "title": "Chiếc chuông nứt là biểu tượng độc lập của Mỹ",
+      "link": "https://vnexpress.net/chiec-chuong-nut-la-bieu-tuong-doc-lap-cua-my-5093312.html",
+      "summary": "Chuông Tự do, chiếc chuông lịch sử ở Philadelphia, đã trở thành biểu tượng cho sự độc lập của Mỹ và cũng gắn liền với phong trào bãi nô.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T22:00:00+07:00",
+      "fetched": "2026-07-05T05:55:21.377201+07:00"
+    },
+    {
+      "id": "05a12c05bcf5645bcffe0d422430763f",
+      "title": "Bác sĩ Trung Quốc chỉ ra 5 dấu hiệu cầu cứu từ quả thận",
+      "link": "https://vnexpress.net/bac-si-trung-quoc-chi-ra-5-dau-hieu-cau-cuu-tu-qua-than-5093191.html",
+      "summary": "Mệt mỏi, sưng phù cổ chân, nước tiểu nhiều bọt lâu tan, tiểu đêm và lượng nước tiểu giảm bất thường có thể cảnh báo chức năng thận suy giảm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T22:00:00+07:00",
+      "fetched": "2026-07-05T05:55:21.377376+07:00"
+    },
+    {
+      "id": "7f28f98c450a91fccde525248c991200",
+      "title": "Cơn khát chip AI lan sang linh kiện, vật liệu bán dẫn",
+      "link": "https://vnexpress.net/con-khat-chip-ai-lan-sang-linh-kien-vat-lieu-ban-dan-5092223.html",
+      "summary": "Không chỉ đẩy giá GPU và chip nhớ lên cao, cơn sốt AI còn tạo ra \"nút thắt cổ chai\" mới khi tụ điện, tấm đồng hay vải thủy tinh trở nên khan hiếm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T22:00:00+07:00",
+      "fetched": "2026-07-05T05:55:21.377544+07:00"
+    },
+    {
+      "id": "186ba02419ac4f1e055aed5a03184f2b",
+      "title": "Chiếc chuông nứt là biểu tượng độc lập của Mỹ",
+      "link": "https://vnexpress.net/chiec-chuong-nut-la-bieu-tuong-doc-lap-cua-my-5093312.html",
+      "summary": "Chuông Tự do, chiếc chuông lịch sử ở Philadelphia, đã trở thành biểu tượng cho sự độc lập của Mỹ và cũng gắn liền với phong trào bãi nô.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-04T22:00:00+07:00",
+      "fetched": "2026-07-05T05:55:29.121749+07:00"
+    },
+    {
+      "id": "7f28f98c450a91fccde525248c991200",
+      "title": "Cơn khát chip AI lan sang linh kiện, vật liệu bán dẫn",
+      "link": "https://vnexpress.net/con-khat-chip-ai-lan-sang-linh-kien-vat-lieu-ban-dan-5092223.html",
+      "summary": "Không chỉ đẩy giá GPU và chip nhớ lên cao, cơn sốt AI còn tạo ra \"nút thắt cổ chai\" mới khi tụ điện, tấm đồng hay vải thủy tinh trở nên khan hiếm.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-04T22:00:00+07:00",
+      "fetched": "2026-07-05T05:55:34.485038+07:00"
+    },
+    {
+      "id": "57baf1b4d3ee4d0cde0f3f38c63770e8",
+      "title": "Mbappe, Kane vào đội hình hay nhất vòng 1/16 World Cup 2026",
+      "link": "https://vnexpress.net/mbappe-kane-vao-doi-hinh-hay-nhat-vong-1-16-world-cup-2026-5093555.html",
+      "summary": "Kylian Mbappe, Harry Kane, Michael Olise có tên, nhưng Lionel Messi vắng mặt trong đội hình hay nhất vòng 1/16 World Cup 2026 theo bình chọn của nền tảng phát trực tuyến chuyên về thể thao DAZN.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T21:15:47+07:00",
+      "fetched": "2026-07-05T05:55:21.377705+07:00"
+    },
+    {
+      "id": "57baf1b4d3ee4d0cde0f3f38c63770e8",
+      "title": "Mbappe, Kane vào đội hình hay nhất vòng 1/16 World Cup 2026",
+      "link": "https://vnexpress.net/mbappe-kane-vao-doi-hinh-hay-nhat-vong-1-16-world-cup-2026-5093555.html",
+      "summary": "Kylian Mbappe, Harry Kane, Michael Olise có tên, nhưng Lionel Messi vắng mặt trong đội hình hay nhất vòng 1/16 World Cup 2026 theo bình chọn của nền tảng phát trực tuyến chuyên về thể thao DAZN.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-04T21:15:47+07:00",
+      "fetched": "2026-07-05T05:55:35.863961+07:00"
+    },
+    {
+      "id": "8de548a70c1f068b2cda120a40743351",
+      "title": "CEO Ford kêu gọi phạt các hãng nhập khẩu quá nhiều xe",
+      "link": "https://vnexpress.net/ceo-ford-keu-goi-phat-cac-hang-nhap-khau-qua-nhieu-xe-5092858.html",
+      "summary": "General Motors nhập khẩu 1,17 triệu xe trong 2025, chiếm 41% tổng doanh số, trong khi tỷ lệ của Toyota là 47%, và Jim Farley không thích điều này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T21:00:00+07:00",
+      "fetched": "2026-07-05T05:55:21.377872+07:00"
     },
     {
       "id": "8aa4829fcd023a1daf4d708264d4dc4e",
