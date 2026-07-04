@@ -1,7 +1,67 @@
 window.newsData_2026_07_05 = {
   "date": "2026-07-05",
-  "lastUpdated": "2026-07-05T00:01:05.913531+07:00",
+  "lastUpdated": "2026-07-05T02:06:27.596203+07:00",
   "articles": [
+    {
+      "id": "8791d72e9fd786d560177358c10890ea",
+      "title": "Gửi tiết kiệm, giao dịch tại Vietcombank có cơ hội nhận vé 'Quán Nhà Haha'",
+      "link": "https://tuoitre.vn/gui-tiet-kiem-giao-dich-tai-vietcombank-co-co-hoi-nhan-ve-quan-nha-haha-100260704225728703.htm",
+      "summary": "Từ ngày 2-7 đến 6-8, Vietcombank triển khai chương trình khuyến mại dành cho khách hàng sử dụng các sản phẩm, dịch vụ ngân hàng số và gửi tiết kiệm, với gần 1.500 phần quà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T02:06:21.632542+07:00",
+      "fetched": "2026-07-05T02:06:21.632602+07:00"
+    },
+    {
+      "id": "8110defe9670633639029c7c65c02abf",
+      "title": "Malaysia khôn ngoan đưa sầu riêng vào trung tâm trải nghiệm",
+      "link": "https://tuoitre.vn/malaysia-khon-ngoan-dua-sau-rieng-vao-trung-tam-trai-nghiem-100260704230613938.htm",
+      "summary": "Ngày 4-7, Malaysia đưa vào hoạt động Trung tâm trải nghiệm sầu riêng tại Kuala Lumpur, như một hệ sinh thái khép kín, kết hợp giữa giáo dục, giải trí và ẩm thực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T02:06:21.632471+07:00",
+      "fetched": "2026-07-05T02:06:21.632532+07:00"
+    },
+    {
+      "id": "fdd8b5acda92b4f3716426a2a7587a41",
+      "title": "Chủ tịch TP.HCM Nguyễn Văn Được: Bắt đầu từ năm học 2026-2027 sẽ miễn phí sách giáo khoa",
+      "link": "https://tuoitre.vn/chu-tich-tphcm-nguyen-van-duoc-bat-dau-tu-nam-hoc-2026-2027-se-mien-phi-sach-giao-khoa-100260704231815184.htm",
+      "summary": "Tại Hội nghị trực tuyến Chính phủ với địa phương diễn ra ngày 4-7, ông Nguyễn Văn Được - Chủ tịch UBND TP.HCM - cho biết sẽ xây dựng thêm phòng học và miễn phí sách giáo khoa cho học sinh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T02:06:21.632399+07:00",
+      "fetched": "2026-07-05T02:06:21.632460+07:00"
+    },
+    {
+      "id": "f184c49a2ebffdc0b8921e100b2880ec",
+      "title": "Màn trình chiếu ánh sáng chào mừng 250 năm Quốc khánh Mỹ tại TP.HCM",
+      "link": "https://tuoitre.vn/man-trinh-chieu-anh-sang-chao-mung-250-nam-quoc-khanh-my-tai-tphcm-10026070423202702.htm",
+      "summary": "Tòa nhà Saigon IFC Marina Tower tại TP.HCM sẽ được thắp sáng trong hai đêm 4 và 10-7 với các hình ảnh, thông điệp tôn vinh tình hữu nghị và quan hệ Việt Nam - Mỹ nhân kỷ niệm 250 năm Quốc khánh Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T02:06:21.632325+07:00",
+      "fetched": "2026-07-05T02:06:21.632388+07:00"
+    },
+    {
+      "id": "ec57ad16f78d2a6df255f09d164c4702",
+      "title": "Làng bóng chuyền Nhật Bản háo hức chào đón Thanh Thúy trở lại",
+      "link": "https://tuoitre.vn/lang-bong-chuyen-nhat-ban-hao-huc-chao-don-thanh-thuy-tro-lai-100260704231531358.htm",
+      "summary": "Làng bóng chuyền Nhật Bản tỏ thái độ vô cùng háo hức khi CLB Gunma Green Wings công bố việc tái ký hợp đồng với Trần Thị Thanh Thúy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T02:06:21.632237+07:00",
+      "fetched": "2026-07-05T02:06:21.632313+07:00"
+    },
+    {
+      "id": "ea9a552eaad73684ef66e317eb0b2012",
+      "title": "Tử chiến trên không là phim Việt Nam hay nhất tại Liên hoan phim châu Á Đà Nẵng",
+      "link": "https://tuoitre.vn/tu-chien-tren-khong-la-phim-viet-nam-hay-nhat-tai-lien-hoan-phim-chau-a-da-nang-100260704225704759.htm",
+      "summary": "Vượt mặt Mưa đỏ, Tử chiến trên không đoạt giải Phim Việt Nam hay nhất. Phim Một bữa no là Phim châu Á hay nhất tại Liên hoan phim châu Á Đà Nẵng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T02:06:21.632092+07:00",
+      "fetched": "2026-07-05T02:06:21.632223+07:00"
+    },
     {
       "id": "869298a647777e8cee07d95ef3cbbc94",
       "title": "Doraemon đón sinh nhật năm nay với thân phận 'tội phạm bị truy nã'",
@@ -153,6 +213,106 @@ window.newsData_2026_07_05 = {
       "fetched": "2026-07-05T00:01:00.470553+07:00"
     },
     {
+      "id": "a0773665c1eeb367c6034b3474c75f1a",
+      "title": "Liên Hợp Quốc cảnh báo El Nino mạnh lên nhanh chóng",
+      "link": "https://vnexpress.net/lien-hop-quoc-canh-bao-el-nino-manh-len-nhanh-chong-5093507.html",
+      "summary": "Cơ quan khí tượng Liên Hợp Quốc cảnh báo hiện tượng El Nino mạnh lên từ tháng 7, có thể khiến nhiệt độ toàn cầu tăng cao hơn tháng trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T18:19:42+07:00",
+      "fetched": "2026-07-05T02:06:17.158182+07:00"
+    },
+    {
+      "id": "03309002c2184cc1d47be4d75d3e8f2a",
+      "title": "4 loại hạt giúp ngủ ngon nên dùng hàng tuần",
+      "link": "https://vnexpress.net/4-loai-hat-giup-ngu-ngon-nen-dung-hang-tuan-5093392.html",
+      "summary": "Hạt bí, óc chó, dẻ cười và hạnh nhân đều chứa các dưỡng chất như magie, melatonin hoặc tryptophan, có thể cải thiện chất lượng giấc ngủ, giúp sâu giấc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T18:00:00+07:00",
+      "fetched": "2026-07-05T02:06:17.158361+07:00"
+    },
+    {
+      "id": "95ec0282120beab8fb49f80bb5b2a121",
+      "title": "Nguồn cơ khiến Ba Lan từ chối chuyển MiG-29 cho Ukraine",
+      "link": "https://vnexpress.net/nguon-co-khien-ba-lan-tu-choi-chuyen-mig-29-cho-ukraine-5093318.html",
+      "summary": "Bất đồng về phương án trả phí sửa chữa loạt tiêm kích MiG-29 dường như là nguyên nhân khiến Ba Lan bỏ kế hoạch chuyển máy bay cho Ukraine.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T18:00:00+07:00",
+      "fetched": "2026-07-05T02:06:17.158525+07:00"
+    },
+    {
+      "id": "95ec0282120beab8fb49f80bb5b2a121",
+      "title": "Nguồn cơ khiến Ba Lan từ chối chuyển MiG-29 cho Ukraine",
+      "link": "https://vnexpress.net/nguon-co-khien-ba-lan-tu-choi-chuyen-mig-29-cho-ukraine-5093318.html",
+      "summary": "Bất đồng về phương án trả phí sửa chữa loạt tiêm kích MiG-29 dường như là nguyên nhân khiến Ba Lan bỏ kế hoạch chuyển máy bay cho Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-04T18:00:00+07:00",
+      "fetched": "2026-07-05T02:06:22.749189+07:00"
+    },
+    {
+      "id": "aee14488cf5ad64ab2a899763eebe550",
+      "title": "Khám phá rừng mưa nhiệt đới lâu đời ở Malaysia",
+      "link": "https://vnexpress.net/kham-pha-rung-mua-nhiet-doi-lau-doi-o-malaysia-5091207.html",
+      "summary": "Endau-Rompin, một trong những khu rừng mưa nhiệt đới cổ nhất thế giới, thu hút du khách trải nghiệm đi thuyền, trekking, khám phá văn hóa người bản địa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T17:23:41+07:00",
+      "fetched": "2026-07-05T02:06:17.158685+07:00"
+    },
+    {
+      "id": "2ca91fff522f705e6a81e3787cc5ee12",
+      "title": "Những món ăn sáng tốt cho sức khỏe đường ruột",
+      "link": "https://thanhnien.vn/nhung-mon-an-sang-tot-cho-suc-khoe-duong-ruot-185260704215102118.htm",
+      "summary": "Bữa sáng không chỉ giúp bổ sung năng lượng sau một đêm dài mà còn ảnh hưởng đến hoạt động của hệ tiêu hóa trong suốt cả ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T17:19:00+07:00",
+      "fetched": "2026-07-05T02:06:19.732638+07:00"
+    },
+    {
+      "id": "54ade087ec70e1cdf4aacf7b45d20706",
+      "title": "Ăn kiêng vẫn không giảm cân: Có thể bạn đang bỏ qua 3 yếu tố này",
+      "link": "https://thanhnien.vn/an-kieng-van-khong-giam-can-co-the-ban-dang-bo-qua-3-yeu-to-nay-185260704213803117.htm",
+      "summary": "Nhiều người dù nỗ lực ăn uống kiêng khem để giảm cân nhưng vẫn không thành công. Theo chuyên gia, nguyên nhân có thể là do còn tồn tại những yếu tố khác ảnh hưởng đến cân nặng ngoài chế độ ăn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T17:15:00+07:00",
+      "fetched": "2026-07-05T02:06:19.732812+07:00"
+    },
+    {
+      "id": "8f2c2c8e231be014ba26acf7ae2c1313",
+      "title": "Sắc vóc Hoa hậu H'Hen Niê qua hơn 10 năm",
+      "link": "https://vnexpress.net/sac-voc-hoa-hau-h-hen-nie-qua-hon-10-nam-5092501.html",
+      "summary": "H'Hen Niê được khen ngày càng xinh đẹp với nét trẻ trung, tự nhiên từ khi bước chân vào showbiz tới nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T17:10:00+07:00",
+      "fetched": "2026-07-05T02:06:17.158841+07:00"
+    },
+    {
+      "id": "6a8667dbf7595c3f3eb46f1ec02d1cc1",
+      "title": "4 con giáp không lo thiếu tiền",
+      "link": "https://vnexpress.net/van-may-12-con-giap-con-giap-may-man-hom-nay-4-con-giap-gioi-quan-ly-tai-chinh-va-khong-lo-thieu-tien-5092200.html",
+      "summary": "Những con giáp này không chỉ kiếm tiền mà còn rất giỏi giữ tiền, giúp túi tiền luôn rủng rỉnh và ít khi rơi vào cảnh thiếu trước hụt sau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T17:03:00+07:00",
+      "fetched": "2026-07-05T02:06:17.159019+07:00"
+    },
+    {
+      "id": "19add08fe19a4fc545aab9b60831eb4f",
+      "title": "Tỷ lệ dùng điểm SAT xét đại học trong nước tăng 10 lần",
+      "link": "https://vnexpress.net/ty-le-dung-diem-sat-xet-dai-hoc-trong-nuoc-tang-10-lan-5093433.html",
+      "summary": "Hơn 10.000 học sinh Việt Nam thi SAT vào năm ngoái, tăng gần 390% so với cách đây 4 năm, tỷ lệ dùng xét tuyển đại học cũng tăng gần 10 lần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T17:02:00+07:00",
+      "fetched": "2026-07-05T02:06:17.159262+07:00"
+    },
+    {
       "id": "877306c05c967bf6f1f6ee33ffe16eed",
       "title": "Giới hạn nào cho Messi?",
       "link": "https://thanhnien.vn/gioi-han-nao-cho-messi-185260704183203416.htm",
@@ -171,6 +331,96 @@ window.newsData_2026_07_05 = {
       "category": "Tổng hợp",
       "published": "2026-07-04T17:00:00+07:00",
       "fetched": "2026-07-05T00:00:58.739305+07:00"
+    },
+    {
+      "id": "fb12aebf8ed1fc24d287ea3686fa5355",
+      "title": "'Chat' với công an xã",
+      "link": "https://vnexpress.net/chat-voi-cong-an-xa-5093576.html",
+      "summary": "Cuối cùng, tôi cũng làm xong căn cước và hộ chiếu cho con trai 8 tuổi. Có một sai lệch nhỏ: số định danh của con trên hệ thống không khớp với giấy khai sinh, khiến thủ tục kéo dài hơn dự kiến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T17:00:00+07:00",
+      "fetched": "2026-07-05T02:06:17.159430+07:00"
+    },
+    {
+      "id": "446e4abd5b2d1de972ee5c4561a08617",
+      "title": "Bạn gái từng vượt rào với tình cũ nhưng lại bảo tôi là tình đầu của em",
+      "link": "https://vnexpress.net/ban-gai-tung-vuot-rao-voi-tinh-cu-nhung-lai-bao-toi-la-tinh-dau-cua-em-5093509.html",
+      "summary": "Nếu tôi không phát hiện, liệu cô ấy định giấu tôi cả đời sao; tôi còn có thể tiếp tục đặt niềm tin vào cô ấy không?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T17:00:00+07:00",
+      "fetched": "2026-07-05T02:06:17.159594+07:00"
+    },
+    {
+      "id": "96ae7701329264aaf231aed0198fe274",
+      "title": "'Tôi không để con cái kiệt quệ báo hiếu cha mẹ già'",
+      "link": "https://vnexpress.net/toi-khong-de-con-cai-kiet-que-bao-hieu-cha-me-gia-5093500.html",
+      "summary": "'Một người con ổn định tài chính và giữ được cuộc sống cân bằng sẽ chăm sóc cha mẹ tốt hơn một người đã kiệt quệ về mọi mặt'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T17:00:00+07:00",
+      "fetched": "2026-07-05T02:06:17.159752+07:00"
+    },
+    {
+      "id": "7b9753ee98d945d96bbe9f9dbfc2abf5",
+      "title": "Chuyên gia tài chính bị cáo buộc điều hành ATM Online cho vay lãi suất 13.500%",
+      "link": "https://vnexpress.net/chuyen-gia-tai-chinh-bi-cao-buoc-dieu-hanh-atm-online-cho-vay-lai-suat-13-500-5093387.html",
+      "summary": "Đỗ Minh Hải bị cáo buộc cùng đồng phạm lập hệ thống cho vay trực tuyến dưới vỏ bọc dịch vụ cầm đồ, giải ngân hơn 3.700 tỷ đồng với lãi suất lên tới hơn 13.500 % một năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T17:00:00+07:00",
+      "fetched": "2026-07-05T02:06:17.159905+07:00"
+    },
+    {
+      "id": "4babd9f0154bc7cbbba64280fa9207b2",
+      "title": "Diện mạo tương lai ven sông Sài Gòn",
+      "link": "https://vnexpress.net/dien-mao-tuong-lai-ven-song-sai-gon-5093247.html",
+      "summary": "Dải đất từ Bến Bạch Đằng đến Bến Nhà Rồng - Khánh Hội sẽ được chỉnh trang với công viên, quảng trường, không gian ngầm, cầu đi bộ và các hạng mục văn hóa ven sông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T17:00:00+07:00",
+      "fetched": "2026-07-05T02:06:17.160093+07:00"
+    },
+    {
+      "id": "36b6e6acfa1d3cb57d94c6947b78c0fe",
+      "title": "Lý do không thể áp chính sách đặc thù gỡ khó cho sai phạm bán đất quốc phòng ở Nha Trang",
+      "link": "https://vnexpress.net/ly-do-khong-the-ap-chinh-sach-dac-thu-go-kho-cho-sai-pham-ban-dat-quoc-phong-o-nha-trang-5093203.html",
+      "summary": "Nhiều bị hại trong vụ án ở Tập đoàn Phúc Sơn cho rằng \"cựu lãnh đạo tỉnh làm sai, người dân chịu hậu quả\" nên đề nghị áp dụng chính sách đặc thù tiếp tục giao đất song đại diện VKS khẳng định 'không thể'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T17:00:00+07:00",
+      "fetched": "2026-07-05T02:06:17.160251+07:00"
+    },
+    {
+      "id": "3dab4f9dad476ef50947a82a0e34ef80",
+      "title": "Những ý tưởng sửa hiến pháp khác thường trong lịch sử nước Mỹ",
+      "link": "https://vnexpress.net/nhung-y-tuong-sua-hien-phap-khac-thuong-trong-lich-su-nuoc-my-5093097.html",
+      "summary": "Lịch sử lập pháp Mỹ ghi nhận nhiều ý tưởng khác thường xuất hiện, có thể khiến nước Mỹ rất khác hiện tại nếu được thông qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T17:00:00+07:00",
+      "fetched": "2026-07-05T02:06:17.160403+07:00"
+    },
+    {
+      "id": "275b454cdc55b302b2c1c2432574ec2d",
+      "title": "Nút thắt thanh toán ở dự án chống ngập 10.000 tỷ đồng",
+      "link": "https://vnexpress.net/nut-that-thanh-toan-o-du-an-chong-ngap-10-000-ty-dong-5091712.html",
+      "summary": "Dự án ngăn triều lớn nhất TP HCM đạt hơn 90% khối lượng nhưng chưa thể về đích sau 10 năm do vướng pháp lý và chưa thống nhất quỹ đất thanh toán cho nhà đầu tư BT.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T17:00:00+07:00",
+      "fetched": "2026-07-05T02:06:17.160566+07:00"
+    },
+    {
+      "id": "3dab4f9dad476ef50947a82a0e34ef80",
+      "title": "Những ý tưởng sửa hiến pháp khác thường trong lịch sử nước Mỹ",
+      "link": "https://vnexpress.net/nhung-y-tuong-sua-hien-phap-khac-thuong-trong-lich-su-nuoc-my-5093097.html",
+      "summary": "Lịch sử lập pháp Mỹ ghi nhận nhiều ý tưởng khác thường xuất hiện, có thể khiến nước Mỹ rất khác hiện tại nếu được thông qua.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-04T17:00:00+07:00",
+      "fetched": "2026-07-05T02:06:22.749364+07:00"
     },
     {
       "id": "280d1990c6ab91afc747a4fdbd2325dc",
