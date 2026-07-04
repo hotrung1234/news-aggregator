@@ -1,7 +1,157 @@
 window.newsData_2026_07_04 = {
   "date": "2026-07-04",
-  "lastUpdated": "2026-07-04T20:17:44.782629+07:00",
+  "lastUpdated": "2026-07-04T22:02:31.571895+07:00",
   "articles": [
+    {
+      "id": "10e88d429f2d69a5375deb0a3bee1ad1",
+      "title": "Biết làm du lịch từ vườn xoài, càng gặt hái thêm quả ngọt",
+      "link": "https://tuoitre.vn/biet-lam-du-lich-tu-vuon-xoai-cang-gat-hai-them-qua-ngot-100260704172024516.htm",
+      "summary": "Về thủ phủ xoài Cao Lãnh, tỉnh Đồng Tháp, du khách thong thả đạp xe trên cung đường xoài xanh mát, trải nghiệm làm bánh, thưởng thức các món ăn dân dã miền Tây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T22:02:24.001736+07:00",
+      "fetched": "2026-07-04T22:02:24.001823+07:00"
+    },
+    {
+      "id": "a9556ef59aa5dbbf3245eb71b98f50ae",
+      "title": "Cột mốc 10.000 tại Vienna House by Wyndham Charm Long Hải",
+      "link": "https://tuoitre.vn/cot-moc-10000-tai-vienna-house-by-wyndham-charm-long-hai-100260704181409925.htm",
+      "summary": "Đô thị biển Long Hải (TP.HCM) đang từng bước tái định hình tầm vóc bằng một chiến lược phát triển chiều sâu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T22:02:24.001627+07:00",
+      "fetched": "2026-07-04T22:02:24.001720+07:00"
+    },
+    {
+      "id": "29b6df0dff7a33ac668f1d9d4ecc2872",
+      "title": "Đánh sập đường dây cá độ 900 tỉ đồng, từ đầu 'mùa World Cup' giao dịch 350 tỉ",
+      "link": "https://tuoitre.vn/danh-sap-duong-day-ca-do-900-ti-dong-tu-dau-mua-world-cup-giao-dich-350-ti-100260704190126419.htm",
+      "summary": "Công an tỉnh Ninh Bình cho biết vừa triệt phá đường dây cá độ bóng đá trên không gian mạng với số tiền giao dịch hơn 900 tỉ đồng, trong đó khoảng 350 tỉ cá độ mùa World Cup.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T22:02:24.001488+07:00",
+      "fetched": "2026-07-04T22:02:24.001608+07:00"
+    },
+    {
+      "id": "1f5cb03273fc8f4f2fea134392c14721",
+      "title": "Hanoi Centre khai trương tại Tiến Bộ Plaza",
+      "link": "https://tuoitre.vn/hanoi-centre-khai-truong-tai-tien-bo-plaza-100260704171056421.htm",
+      "summary": "Hanoi Centre vừa chính thức khai trương tại Tiến Bộ Plaza, số 175 Nguyễn Thái Học, bằng chuỗi hoạt động trình diễn kết hợp âm nhạc, nghệ thuật và tương tác cộng đồng với chủ đề 'Tâm điểm Thời đại'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T22:02:24.001380+07:00",
+      "fetched": "2026-07-04T22:02:24.001472+07:00"
+    },
+    {
+      "id": "51507875a6c7d5191eaf1dd56f8767f8",
+      "title": "CLB Thái Nguyên T&T gây sức ép lên cuộc đua vô địch",
+      "link": "https://tuoitre.vn/clb-thai-nguyen-tt-gay-suc-ep-len-cuoc-dua-vo-dich-10026070419280991.htm",
+      "summary": "Đánh bại CLB Hà Nội II ở Giải bóng đá nữ vô địch quốc gia - Cúp Thái Sơn Bắc 2026, CLB Thái Nguyên T&T gây sức ép lên cuộc đua vô địch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T22:02:24.001241+07:00",
+      "fetched": "2026-07-04T22:02:24.001362+07:00"
+    },
+    {
+      "id": "67692e2aceecb69b2d717ba7f1f15347",
+      "title": "Tâm bão số 1 mạnh cấp 8-9, giật cấp 11 đang đổ bộ vào Móng Cái, Quảng Ninh",
+      "link": "https://tuoitre.vn/tam-bao-so-1-manh-cap-8-9-giat-cap-11-dang-do-bo-vao-mong-cai-quang-ninh-100260704185428762.htm",
+      "summary": "Lúc 19h30 tối nay 4-7, tâm bão số 1 (Maysak) mạnh cấp 8-9 (62-88km/h), giật cấp 11 đã đi vào bờ biển Móng Cái, tỉnh Quảng Ninh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T22:02:24.000748+07:00",
+      "fetched": "2026-07-04T22:02:24.001219+07:00"
+    },
+    {
+      "id": "81693415c0cab138cc6ffbe6165e653c",
+      "title": "Bảo vật quốc gia lưu giữ câu chuyện miễn sưu thuế ở ngôi làng ngàn năm tuổi tại Hà Nội",
+      "link": "https://tuoitre.vn/bao-vat-quoc-gia-luu-giu-cau-chuyen-mien-suu-thue-o-ngoi-lang-ngan-nam-tuoi-tai-ha-noi-100260704192214448.htm",
+      "summary": "Cách phố cổ Hà Nội 3km có một ngôi làng lưu giữ một bảo vật quốc gia - chiếc chuông đồng khắc 9 chỉ dụ miễn sưu thuế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T22:02:24.000643+07:00",
+      "fetched": "2026-07-04T22:02:24.000732+07:00"
+    },
+    {
+      "id": "2a4db98e6f5a33c24529ecff638ed3b1",
+      "title": "Những nước nào nắm giữ 'kho báu khoáng sản' hàng đầu thế giới?",
+      "link": "https://tuoitre.vn/nhung-nuoc-nao-nam-giu-kho-bau-khoang-san-hang-dau-the-gioi-100260704194303279.htm",
+      "summary": "Các quốc gia ở châu Phi trở thành mắt xích quan trọng trong chuỗi cung ứng toàn cầu đối với các nguyên liệu thiết yếu phục vụ công nghiệp hiện đại và quá trình chuyển đổi năng lượng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T22:02:24.000510+07:00",
+      "fetched": "2026-07-04T22:02:24.000625+07:00"
+    },
+    {
+      "id": "3815004833f49064899d0cb3abb4141a",
+      "title": "Vụ hợp đồng kỳ nghỉ của Crystal Bay: Tiết lộ doanh thu 800 tỉ đồng, Chủ tịch nói 'không chủ trương gian dối'",
+      "link": "https://tuoitre.vn/vu-hop-dong-ky-nghi-cua-crystal-bay-tiet-lo-doanh-thu-800-ti-dong-chu-tich-noi-khong-chu-truong-gian-doi-10026070419510574.htm",
+      "summary": "Crystal Bay khẳng định doanh nghiệp cũng như cá nhân ông Nguyễn Đức Chi không có chủ trương gian dối, không tổ chức phát hành sản phẩm nhằm lừa đảo khách hàng, không biến sản phẩm nghỉ dưỡng thành sản phẩm tài chính để huy động vốn trái pháp luật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T22:02:24.000404+07:00",
+      "fetched": "2026-07-04T22:02:24.000494+07:00"
+    },
+    {
+      "id": "a5ff2ddc5e429e12a474919e4673a6f0",
+      "title": "Ứng cứu 2 tàu trôi dạt trên biển trong bão số 1",
+      "link": "https://tuoitre.vn/ung-cuu-2-tau-troi-dat-tren-bien-trong-bao-so-1-100260704194207712.htm",
+      "summary": "Các lực lượng chức năng Quảng Ninh đang khẩn trương triển khai ứng cứu 2 tàu trôi dạt trên vùng biển Mũi Ngọc, phường Móng Cái 1.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T22:02:24.000294+07:00",
+      "fetched": "2026-07-04T22:02:24.000387+07:00"
+    },
+    {
+      "id": "726e22a93b3557af36258b451406da5c",
+      "title": "Hiền Phúc bị bắt khẩn cấp vì bạo hành bé gái 3 tuổi con riêng của vợ",
+      "link": "https://tuoitre.vn/hien-phuc-bi-bat-khan-cap-vi-bao-hanh-be-gai-3-tuoi-con-rieng-cua-vo-10026070420205284.htm",
+      "summary": "Nguyễn Hiền Phúc - người cha dượng đánh, đạp bé gái 3 tuổi là con riêng của vợ - đã bị công an bắt khẩn cấp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T22:02:24.000186+07:00",
+      "fetched": "2026-07-04T22:02:24.000279+07:00"
+    },
+    {
+      "id": "30ff941aca248d28c845a73614e952da",
+      "title": "Hai trường đại học công bố điểm sàn từ 15 điểm theo kết quả thi tốt nghiệp THPT",
+      "link": "https://tuoitre.vn/hai-truong-dai-hoc-cong-bo-diem-san-tu-15-diem-theo-ket-qua-thi-tot-nghiep-thpt-100260704202543658.htm",
+      "summary": "Trường đại học Lạc Hồng và Trường đại học Gia Định vừa công bố điểm sàn xét tuyển theo kết quả thi tốt nghiệp THPT, với mức thấp nhất từ 15 điểm ở nhiều ngành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T22:02:24.000080+07:00",
+      "fetched": "2026-07-04T22:02:24.000170+07:00"
+    },
+    {
+      "id": "1f3aa4b9e4e1d480f5300490647042a4",
+      "title": "‘Hoàng hậu cuối cùng’ Tăng Thanh Hà khá căng thẳng trên thảm đỏ DANAFF",
+      "link": "https://tuoitre.vn/hoang-hau-cuoi-cung-tang-thanh-ha-kha-cang-thang-tren-tham-do-danaff-100260704203447343.htm",
+      "summary": "Tăng Thanh Hà và Ma Ran Đô sánh bước trên thảm đỏ bế mạc Liên hoan phim châu Á Đà Nẵng lâng thứ IV (DANAFF IV); tuy nhiên biểu cảm của diễn viên khá căng thẳng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T22:02:23.999966+07:00",
+      "fetched": "2026-07-04T22:02:24.000063+07:00"
+    },
+    {
+      "id": "869298a647777e8cee07d95ef3cbbc94",
+      "title": "Doraemon đón sinh nhật năm nay với thân phận 'tội phạm bị truy nã'",
+      "link": "https://tuoitre.vn/doraemon-don-sinh-nhat-nam-nay-voi-than-phan-toi-pham-bi-truy-na-100260704191746618.htm",
+      "summary": "Tập phim sinh nhật thường niên của Doraemon năm nay sẽ có kịch bản khác lạ khi chú mèo máy bị vu oan đánh cắp báu vật, trở thành đối tượng bị truy nã trên mọi dòng thời gian và phải bước vào cuộc chạy trốn để minh oan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T22:02:23.999828+07:00",
+      "fetched": "2026-07-04T22:02:23.999946+07:00"
+    },
+    {
+      "id": "ce763a00b2f53919d56d2c186ae76f79",
+      "title": "Cổ phiếu trả cổ tức cao: Có phải 'món hời' hơn gửi tiết kiệm?",
+      "link": "https://tuoitre.vn/co-phieu-tra-co-tuc-cao-co-phai-mon-hoi-hon-gui-tiet-kiem-100260704195948589.htm",
+      "summary": "Nhiều cổ phiếu đang mang lại lợi suất cổ tức tiền mặt cao, thậm chí cao hơn lãi suất tiết kiệm. Tuy nhiên, theo các chuyên gia, nhà đầu tư không nên chỉ nhìn vào mức cổ tức trước khi xuống tiền.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T22:02:23.999563+07:00",
+      "fetched": "2026-07-04T22:02:23.999806+07:00"
+    },
     {
       "id": "8caa672fa9ea78773ced8c6d11f37132",
       "title": "Phạm Hoàng Thu Uyên lên tiếng trước hoài nghi khi thi Hoa hậu Trái đất 2026",
@@ -303,6 +453,116 @@ window.newsData_2026_07_04 = {
       "fetched": "2026-07-04T17:06:20.207949+07:00"
     },
     {
+      "id": "c3cebc27519c138d822bc5180fbf5185",
+      "title": "Bí mật chấm 11 m World Cup: Vì sao sút càng vội càng dễ hỏng?",
+      "link": "https://thanhnien.vn/bi-mat-cham-11-m-world-cup-vi-sao-sut-cang-voi-cang-de-hong-185260704214829915.htm",
+      "summary": "Tiếng còi vừa vang lên, cầu thủ lập tức chạy đà. Tưởng là quyết đoán, nhưng chuyên gia tâm lý Geir Jordet cảnh báo đó có thể là dấu hiệu người sút đang bị cảm xúc chi phối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T14:50:00+07:00",
+      "fetched": "2026-07-04T22:02:21.697378+07:00"
+    },
+    {
+      "id": "afcb2b8a9cc0da2db87e8beb56f63760",
+      "title": "34 tỉnh, thành tranh tài tại hội thao chào mừng 80 năm Thi hành án dân sự",
+      "link": "https://thanhnien.vn/34-tinh-thanh-tranh-tai-tai-hoi-thao-chao-mung-80-nam-thi-hanh-an-dan-su-185260704194425771.htm",
+      "summary": "34 đoàn từ các cơ quan thi hành án dân sự cả nước hội tụ tại TP.HCM tranh tài ba môn thi đấu, hướng tới kỷ niệm 80 năm Ngày truyền thống Thi hành án dân sự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T14:44:00+07:00",
+      "fetched": "2026-07-04T22:02:21.697561+07:00"
+    },
+    {
+      "id": "49369b88660ecae31861c28f03f30a81",
+      "title": "Cúp Thể thao điện tử Việt Nam sân chơi lớn hấp dẫn",
+      "link": "https://thanhnien.vn/cup-the-thao-dien-tu-viet-nam-san-choi-lon-hap-dan-185260704205603857.htm",
+      "summary": "Cúp Thể thao điện tử quốc gia Việt Nam (VENC) tiếp tục khẳng định vai trò là bệ phóng dành cho những tài năng trẻ của nền esports Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T14:18:00+07:00",
+      "fetched": "2026-07-04T22:02:21.697753+07:00"
+    },
+    {
+      "id": "66146f2c7bb640667ea1834d24d2ef36",
+      "title": "Người dân TP HCM có thể khám sức khỏe miễn phí ở mọi cơ sở y tế",
+      "link": "https://vnexpress.net/nguoi-dan-tp-hcm-co-the-kham-suc-khoe-mien-phi-o-moi-co-so-y-te-5093472.html",
+      "summary": "TP HCM cho phép người dân khám sức khỏe miễn phí tại cơ sở y tế thuận tiện, không phụ thuộc nơi cư trú, nhằm đẩy nhanh mục tiêu bao phủ toàn dân trong năm 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T14:08:48+07:00",
+      "fetched": "2026-07-04T22:02:18.127824+07:00"
+    },
+    {
+      "id": "a6b00f76267516e3b87b6982fe3a12bc",
+      "title": "Tương quan trước trận Paraguay - Pháp",
+      "link": "https://vnexpress.net/tuong-quan-truoc-tran-paraguay-phap-5093547.html",
+      "summary": "Tiền đạo Kylian Mbappe được kỳ vọng tiếp tục tỏa sáng, khi Pháp đối đầu Paraguay tại vòng 1/8 World Cup.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T13:56:10+07:00",
+      "fetched": "2026-07-04T22:02:18.128017+07:00"
+    },
+    {
+      "id": "a6b00f76267516e3b87b6982fe3a12bc",
+      "title": "Tương quan trước trận Paraguay - Pháp",
+      "link": "https://vnexpress.net/tuong-quan-truoc-tran-paraguay-phap-5093547.html",
+      "summary": "Tiền đạo Kylian Mbappe được kỳ vọng tiếp tục tỏa sáng, khi Pháp đối đầu Paraguay tại vòng 1/8 World Cup.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-04T13:56:10+07:00",
+      "fetched": "2026-07-04T22:02:31.560048+07:00"
+    },
+    {
+      "id": "b371800617d7cd4496fd90a556aeddd0",
+      "title": "Bão Maysak đổ bộ vào Móng Cái",
+      "link": "https://vnexpress.net/bao-maysak-do-bo-vao-mong-cai-5093538.html",
+      "summary": "Bão Maysak mạnh cấp 8-9, giật cấp 11 đổ bộ vào Móng Cái chiều tối 4/7, giật đổ nhiều cây xanh, thổi bay mái tôn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T13:54:21+07:00",
+      "fetched": "2026-07-04T22:02:18.128183+07:00"
+    },
+    {
+      "id": "133c842f744f9575dac8f68ac8171e7e",
+      "title": "Công an TP.HCM tìm tung tích thi thể người phụ nữ đựng trong bao bố",
+      "link": "https://thanhnien.vn/cong-an-tphcm-tim-tung-tich-nguoi-phu-nu-tu-vong-chua-ro-nguyen-nhan-185260704203657773.htm",
+      "summary": "Cơ quan Cảnh sát điều tra Công an TP.HCM vừa phát thông báo tìm tung tích người phụ nữ tử vong chưa rõ nguyên nhân được người dân phát hiện bên trong một bao bố nằm phía sau công ty may mặc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T13:52:00+07:00",
+      "fetched": "2026-07-04T22:02:21.697912+07:00"
+    },
+    {
+      "id": "2f899943ecfc6ba19d10fedbcf565859",
+      "title": "Dây an toàn trên máy bay là 'ổ vi khuẩn'",
+      "link": "https://vnexpress.net/day-an-toan-tren-may-bay-la-o-vi-khuan-5093522.html",
+      "summary": "Một trong những nơi chứa nhiều vi khuẩn nhất trên máy bay nhưng thường bị hành khách bỏ qua chính là dây an toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T13:50:38+07:00",
+      "fetched": "2026-07-04T22:02:18.128349+07:00"
+    },
+    {
+      "id": "a92bb67fdc95af0fea44123a3936caa2",
+      "title": "Tăng Thanh Hà và dàn sao dự thảm đỏ LHP châu Á Đà Nẵng",
+      "link": "https://vnexpress.net/tang-thanh-ha-va-dan-sao-du-tham-do-lhp-chau-a-da-nang-5093541.html",
+      "summary": "Tăng Thanh Hà, Ma Ran Đô cùng nhiều sao dự thảm đỏ bế mạc Liên hoan phim châu Á Đà Nẵng lần thứ tư, tối 4/7.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T13:47:46+07:00",
+      "fetched": "2026-07-04T22:02:18.128508+07:00"
+    },
+    {
+      "id": "ac557b86178783f4d9a2f526e7891404",
+      "title": "Vụ hài cốt 'lính ngự lâm' d'Artagnan: 'Cú lừa' lịch sử hay di sản quý giá?",
+      "link": "https://thanhnien.vn/vu-hai-cot-linh-ngu-lam-dartagnan-cu-lua-lich-su-hay-di-san-quy-gia-185260704204619149.htm",
+      "summary": "Việc khai quật hài cốt được cho là của d'Artagnan không chỉ vấp phải những nghi vấn về danh tính mà còn trở thành một bài học đắt giá trong khảo cổ học.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T13:46:00+07:00",
+      "fetched": "2026-07-04T22:02:21.698070+07:00"
+    },
+    {
       "id": "92d152c06f01cc1424fba58ac8f72670",
       "title": "Thí sinh hào hứng giám định kim cương, rê bóng như Messi ở ngày hội chọn nguyện vọng",
       "link": "https://tuoitre.vn/thi-sinh-hao-hung-giam-dinh-kim-cuong-re-bong-nhu-messi-o-ngay-hoi-chon-nguyen-vong-100260704104846572.htm",
@@ -453,6 +713,106 @@ window.newsData_2026_07_04 = {
       "fetched": "2026-07-04T13:44:29.087047+07:00"
     },
     {
+      "id": "b2469daaeb35aa01c7c1215e69576a6e",
+      "title": "TP HCM cần huy động 880.000 tỷ đồng trong 6 tháng",
+      "link": "https://vnexpress.net/tp-hcm-can-huy-dong-880-000-ty-dong-trong-6-thang-5093534.html",
+      "summary": "Để đạt mục tiêu tăng trưởng 10%, TP HCM cần huy động thêm khoảng 880.000 tỷ đồng cho đầu tư phát triển trong nửa cuối năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T13:32:00+07:00",
+      "fetched": "2026-07-04T22:02:18.128733+07:00"
+    },
+    {
+      "id": "b2469daaeb35aa01c7c1215e69576a6e",
+      "title": "TP HCM cần huy động 880.000 tỷ đồng trong 6 tháng",
+      "link": "https://vnexpress.net/tp-hcm-can-huy-dong-880-000-ty-dong-trong-6-thang-5093534.html",
+      "summary": "Để đạt mục tiêu tăng trưởng 10%, TP HCM cần huy động thêm khoảng 880.000 tỷ đồng cho đầu tư phát triển trong nửa cuối năm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-04T13:32:00+07:00",
+      "fetched": "2026-07-04T22:02:26.801979+07:00"
+    },
+    {
+      "id": "eb10e867ea4712aebbc1e58caa3719b9",
+      "title": "Ứng dụng giúp ngư dân cứu hộ 24 cá thể rùa biển",
+      "link": "https://vnexpress.net/ung-dung-giup-ngu-dan-cuu-ho-24-ca-the-rua-bien-5093310.html",
+      "summary": "Ứng dụng \"TNV ngư dân\" giúp ngư dân ven biển báo cáo nhanh các trường hợp rùa biển, thú biển mắc lưới, góp phần cứu hộ, thả về tự nhiên 24 cá thể rùa biển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T13:30:00+07:00",
+      "fetched": "2026-07-04T22:02:18.128908+07:00"
+    },
+    {
+      "id": "eb10e867ea4712aebbc1e58caa3719b9",
+      "title": "Ứng dụng giúp ngư dân cứu hộ 24 cá thể rùa biển",
+      "link": "https://vnexpress.net/ung-dung-giup-ngu-dan-cuu-ho-24-ca-the-rua-bien-5093310.html",
+      "summary": "Ứng dụng \"TNV ngư dân\" giúp ngư dân ven biển báo cáo nhanh các trường hợp rùa biển, thú biển mắc lưới, góp phần cứu hộ, thả về tự nhiên 24 cá thể rùa biển.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-04T13:30:00+07:00",
+      "fetched": "2026-07-04T22:02:30.160693+07:00"
+    },
+    {
+      "id": "426dca18ee3d950775d40f616223ee6d",
+      "title": "Ông Trump: Con tôi mua cái xe tải cũng bị cáo buộc nắm tin nội bộ",
+      "link": "https://vnexpress.net/ong-trump-con-toi-mua-cai-xe-tai-cung-bi-cao-buoc-nam-tin-noi-bo-5093521.html",
+      "summary": "Ông Trump trải lòng rằng chức vụ Tổng thống khiến hầu hết quyết định mua bán, kinh doanh của con mình đều khó tránh khỏi cáo buộc xung đột lợi ích.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T13:25:01+07:00",
+      "fetched": "2026-07-04T22:02:18.129064+07:00"
+    },
+    {
+      "id": "426dca18ee3d950775d40f616223ee6d",
+      "title": "Ông Trump: Con tôi mua cái xe tải cũng bị cáo buộc nắm tin nội bộ",
+      "link": "https://vnexpress.net/ong-trump-con-toi-mua-cai-xe-tai-cung-bi-cao-buoc-nam-tin-noi-bo-5093521.html",
+      "summary": "Ông Trump trải lòng rằng chức vụ Tổng thống khiến hầu hết quyết định mua bán, kinh doanh của con mình đều khó tránh khỏi cáo buộc xung đột lợi ích.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-04T13:25:01+07:00",
+      "fetched": "2026-07-04T22:02:26.802171+07:00"
+    },
+    {
+      "id": "cf77d9bce2c1cbf7f28f64421b487432",
+      "title": "Cứu sống mẹ con sản phụ mắc bệnh tim bẩm sinh hiếm gặp",
+      "link": "https://thanhnien.vn/cuu-song-me-con-san-phu-mac-benh-tim-bam-sinh-hiem-gap-185260702143543186.htm",
+      "summary": "Một sản phụ 34 tuổi bị bệnh tim bẩm sinh hiếm gặp, có nhịp tim 148 - 150 lần/phút vừa được các bác sĩ Cần Thơ phẫu thuật thành công, cứu sống cả mẹ và con.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T13:25:00+07:00",
+      "fetched": "2026-07-04T22:02:21.698222+07:00"
+    },
+    {
+      "id": "af67c06eea87e5f3a51e984265c1f131",
+      "title": "Để phim kinh dị không trở thành 'điểm nghẽn' của điện ảnh Việt",
+      "link": "https://thanhnien.vn/de-phim-kinh-di-khong-tro-thanh-diem-nghen-cua-dien-anh-viet-185260704173345197.htm",
+      "summary": "Phim kinh dị Việt đang ở giai đoạn bùng nổ mạnh mẽ. Nhưng sự phát triển quá nhanh của dòng phim này lại dễ trở thành 'điểm nghẽn' nếu bị khai thác ồ ạt, dễ dãi?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T13:23:00+07:00",
+      "fetched": "2026-07-04T22:02:21.698396+07:00"
+    },
+    {
+      "id": "89d89d606f69827203a5a9a423adad50",
+      "title": "Paraguay - màn tra tấn thể lực và người thầy thích nhả chữ",
+      "link": "https://vnexpress.net/paraguay-man-tra-tan-the-luc-va-nguoi-thay-thich-nha-chu-5093519.html",
+      "summary": "Dưới cái nắng như thiêu như đốt, các cầu thủ Paraguay vẫn miệt mài tập luyện, sẵn sàng cho cuộc đấu vòng 1/8 trước Pháp, trước sự quan sát của một người thầy có lối nói chuyện đầy hoa mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T13:21:26+07:00",
+      "fetched": "2026-07-04T22:02:18.129232+07:00"
+    },
+    {
+      "id": "89d89d606f69827203a5a9a423adad50",
+      "title": "Paraguay - màn tra tấn thể lực và người thầy thích nhả chữ",
+      "link": "https://vnexpress.net/paraguay-man-tra-tan-the-luc-va-nguoi-thay-thich-nha-chu-5093519.html",
+      "summary": "Dưới cái nắng như thiêu như đốt, các cầu thủ Paraguay vẫn miệt mài tập luyện, sẵn sàng cho cuộc đấu vòng 1/8 trước Pháp, trước sự quan sát của một người thầy có lối nói chuyện đầy hoa mỹ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-04T13:21:26+07:00",
+      "fetched": "2026-07-04T22:02:31.560239+07:00"
+    },
+    {
       "id": "c9bbb4030f38b5fac6a9eb922b5ddf58",
       "title": "KIA giảm giá loạt xe SUV, Sonet chỉ còn hơn 460 triệu đồng",
       "link": "https://thanhnien.vn/kia-giam-gia-loat-xe-suv-sonet-chi-con-hon-460-trieu-dong-185260704104456865.htm",
@@ -513,6 +873,16 @@ window.newsData_2026_07_04 = {
       "fetched": "2026-07-04T20:17:36.160202+07:00"
     },
     {
+      "id": "0109d2ccd01fb6a217fa85ada9ee8fbf",
+      "title": "Cảnh sát vây bắt đường dây cá độ bóng đá, số đề 1.000 tỷ đồng",
+      "link": "https://vnexpress.net/canh-sat-vay-bat-duong-day-ca-do-bong-da-so-de-1-000-ty-dong-5093530.html",
+      "summary": "Cảnh sát hình sự cho biết vừa ra quân triệt xóa nạn cờ bạc mùa World Cup 2026, vây bắt đường dây cá độ bóng đá, số đề 1.000 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T13:00:16+07:00",
+      "fetched": "2026-07-04T22:02:18.129388+07:00"
+    },
+    {
       "id": "8fd7ecdbe662855b40c8ebb8a257aaf8",
       "title": "Xem nhanh 20h ngày 4.7: Công an Đắk Lắk tìm nghi phạm vụ bắn người | Shark Bình rửa tiền 318 tỉ cho Mr.Pips",
       "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-47-cong-an-dak-lak-tim-nghi-pham-vu-ban-nguoi-shark-binh-rua-tien-318-ti-cho-mrpips-185260704195740821.htm",
@@ -543,6 +913,26 @@ window.newsData_2026_07_04 = {
       "fetched": "2026-07-04T20:17:38.788423+07:00"
     },
     {
+      "id": "d18dd832b43d0a2be14dc5eb6af7ca2e",
+      "title": "Vợ cũ đòi quay về sau vài năm bỏ bố con tôi để đến với sếp",
+      "link": "https://vnexpress.net/vo-cu-doi-quay-ve-sau-vai-nam-bo-bo-con-toi-de-den-voi-sep-5093422.html",
+      "summary": "Ngày ấy, vợ ngoại tình với sếp, tôi cho cơ hội quay về nhưng vợ từ chối, bảo không còn tình cảm và sống với tôi quá tẻ nhạt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T13:00:00+07:00",
+      "fetched": "2026-07-04T22:02:18.129550+07:00"
+    },
+    {
+      "id": "01144c2397df471412d9b14dc2ab8500",
+      "title": "Thời đại AI, bệnh mắt ngày càng phổ biến ở người trẻ",
+      "link": "https://vnexpress.net/thoi-dai-ai-benh-mat-ngay-cang-pho-bien-o-nguoi-tre-5093442.html",
+      "summary": "Sự bùng nổ của trí tuệ nhân tạo (AI), công nghệ số và thời gian nhìn màn hình ngày càng dài khiến các bệnh lý mắt như khô mắt, mỏi mắt và cận thị xuất hiện sớm hơn ở người trẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T13:00:00+07:00",
+      "fetched": "2026-07-04T22:02:18.129908+07:00"
+    },
+    {
       "id": "652c5811ee0482059bb44a23aefce1a7",
       "title": "Bị CSGT tạm giữ GPLX vẫn chở khách, tài xế và chủ xe bị phạt 77 triệu",
       "link": "https://thanhnien.vn/bi-csgt-tam-giu-gplx-van-cho-khach-tai-xe-va-chu-xe-bi-phat-77-trieu-185260704185534644.htm",
@@ -563,6 +953,16 @@ window.newsData_2026_07_04 = {
       "fetched": "2026-07-04T20:17:36.160840+07:00"
     },
     {
+      "id": "96faf4e0db2f7541b4babcec8c20253a",
+      "title": "Mỹ nhân đóng vai Lệ Hà trong phim 'Hoàng hậu cuối cùng'",
+      "link": "https://vnexpress.net/my-nhan-dong-vai-le-ha-trong-phim-hoang-hau-cuoi-cung-5093405.html",
+      "summary": "Trâm Anh, 31 tuổi, được chọn đóng vai vũ nữ Lệ Hà trong phim lấy cảm hứng về cuộc đời vua Bảo Đại và Nam Phương hoàng hậu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T12:21:54+07:00",
+      "fetched": "2026-07-04T22:02:18.130065+07:00"
+    },
+    {
       "id": "061c92cd7e6d1b395ea523a1c19b9a69",
       "title": "Sinh viên chưa tốt nghiệp đã có việc làm, lương 18 triệu đồng/tháng",
       "link": "https://thanhnien.vn/sinh-vien-chua-tot-nghiep-da-co-viec-lam-luong-18-trieu-dong-thang-185260704181221153.htm",
@@ -571,6 +971,16 @@ window.newsData_2026_07_04 = {
       "category": "Tổng hợp",
       "published": "2026-07-04T12:21:00+07:00",
       "fetched": "2026-07-04T20:17:36.160987+07:00"
+    },
+    {
+      "id": "b6f59d8ba36df5389c2fd25b0388b830",
+      "title": "Dàn máy bay quân sự hiện đại trình diễn mở màn lễ kỷ niệm Quốc khánh Mỹ",
+      "link": "https://vnexpress.net/dan-may-bay-quan-su-hien-dai-trinh-dien-mo-man-le-ky-niem-quoc-khanh-my-5093529.html",
+      "summary": "Phi đội Thần sấm, oanh tạc cơ B-2 cùng nhiều máy bay quân sự hiện đại của Không quân Mỹ trình diễn trên bầu trời Washington, mở đầu lễ kỷ niệm Quốc khánh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-04T12:18:57+07:00",
+      "fetched": "2026-07-04T22:02:18.130228+07:00"
     },
     {
       "id": "e656378bdbf974d6270cd78b55200626",
