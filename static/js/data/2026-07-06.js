@@ -1,7 +1,57 @@
 window.newsData_2026_07_06 = {
   "date": "2026-07-06",
-  "lastUpdated": "2026-07-06T00:05:43.919068+07:00",
+  "lastUpdated": "2026-07-06T02:12:46.038308+07:00",
   "articles": [
+    {
+      "id": "b737fdd05075d78ba003f5489846a5d9",
+      "title": "Vụ hơn 140 điểm 10 toán tốt nghiệp ở Tuyên Quang: Bộ Giáo dục nói có bất thường",
+      "link": "https://tuoitre.vn/vu-hon-140-diem-10-toan-tot-nghiep-o-tuyen-quang-bo-giao-duc-noi-co-bat-thuong-100260703180238945.htm",
+      "summary": "Qua phân tích dữ liệu và xác minh sơ bộ, nhận định kết quả thi môn toán tại điểm thi Trường THPT chuyên thuộc Hội đồng thi tỉnh Tuyên Quang là bất thường, có dấu hiệu cần tiếp tục được làm rõ, nhất là đối với công tác coi thi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-06T02:12:37.283966+07:00",
+      "fetched": "2026-07-06T02:12:37.284019+07:00"
+    },
+    {
+      "id": "0979438cc3c1a9826fe81878784d68fc",
+      "title": "Xe tải chở amoni nitrat phát nổ ở Trung Quốc, 2 người chết",
+      "link": "https://tuoitre.vn/xe-tai-cho-amoni-nitrat-phat-no-o-trung-quoc-2-nguoi-chet-100260705225342258.htm",
+      "summary": "Hai người thiệt mạng và bốn người bị thương sau khi xe tải được cho chở amoni nitrat - hóa chất từng gây ra các vụ nổ thảm khốc ở thủ đô Beirut, Lebanon - phát nổ sau va chạm tại Nội Mông (Trung Quốc).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-06T02:12:37.283909+07:00",
+      "fetched": "2026-07-06T02:12:37.283958+07:00"
+    },
+    {
+      "id": "abbcd482bb17052594add28d2d3ff61b",
+      "title": "Thủ tướng Nhật Bản nhận giải 'Người diện trang sức đẹp nhất'",
+      "link": "https://tuoitre.vn/thu-tuong-nhat-ban-nhan-giai-nguoi-dien-trang-suc-dep-nhat-100260705231521918.htm",
+      "summary": "Thủ tướng Takaichi Sanae đã được trao giải đặc biệt tại Giải thưởng Người diện trang sức đẹp nhất Nhật Bản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-06T02:12:37.283849+07:00",
+      "fetched": "2026-07-06T02:12:37.283900+07:00"
+    },
+    {
+      "id": "55810cc8da9b6712e5e9a45b98f9aa80",
+      "title": "Trực tuyến Brazil - Na Uy (3h ngày 6-7): Thuốc thử liều cao cho Haaland và Na Uy",
+      "link": "https://tuoitre.vn/truc-tuyen-brazil-na-uy-3h-ngay-6-7-thuoc-thu-lieu-cao-cho-haaland-va-na-uy-100260705014452329.htm",
+      "summary": "Tuổi Trẻ trực tuyến trận đấu giữa Brazil và Na Uy lúc 3h sáng nay 6-7 trên sân MetLife, Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-06T02:12:37.283777+07:00",
+      "fetched": "2026-07-06T02:12:37.283840+07:00"
+    },
+    {
+      "id": "6beafb19de29318340ae109168f650bd",
+      "title": "Cháy rừng hoành hành ở Nam Âu, Hy Lạp cảnh báo khói độc",
+      "link": "https://tuoitre.vn/chay-rung-hoanh-hanh-o-nam-au-hy-lap-canh-bao-khoi-doc-100260705235507784.htm",
+      "summary": "Cháy rừng dữ dội đang bao trùm nhiều khu vực ở Nam Âu, buộc nhiều nước phải huy động lực lượng chi viện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-06T02:12:37.283602+07:00",
+      "fetched": "2026-07-06T02:12:37.283764+07:00"
+    },
     {
       "id": "ff24ccd2d6ef6d8041a2fa558413b3ac",
       "title": "Kẹt cứng cao tốc từ Dầu Giây về TP.HCM, CSGT khuyến cáo tài xế nên đi quốc lộ 1",
@@ -151,6 +201,96 @@ window.newsData_2026_07_06 = {
       "category": "Tổng hợp",
       "published": "2026-07-06T00:05:37.631100+07:00",
       "fetched": "2026-07-06T00:05:37.631234+07:00"
+    },
+    {
+      "id": "4d3662fe392d100504d6c1fd592db55a",
+      "title": "Bản lĩnh 'Les Bleus'",
+      "link": "https://thanhnien.vn/ban-linh-les-bleus-185260705202036027.htm",
+      "summary": "Ứng viên hàng đầu cho danh hiệu vô địch World Cup 2026 là đội tuyển Pháp có chiến thắng đầy bản lĩnh trước đội tuyển Paraguay ở vòng 16 đội diễn ra hôm qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T18:16:00+07:00",
+      "fetched": "2026-07-06T02:12:35.167807+07:00"
+    },
+    {
+      "id": "f6e90455c112339c623ff91d95a8e040",
+      "title": "Nấm mốc trên trái cây: nên cắt bỏ phần hỏng hay vứt luôn cả trái?",
+      "link": "https://thanhnien.vn/nam-moc-tren-trai-cay-nen-cat-bo-phan-hong-hay-vut-luon-ca-trai-185260706003130434.htm",
+      "summary": "Trái cây là loại thực phẩm rất dễ bị nấm mốc nếu bảo quản không đúng cách. Khả năng xâm nhập của nấm mốc phụ thuộc vào cấu trúc của từng loại trái cây. Ngoài ra, một số loài nấm còn tạo ra độc tố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T18:14:00+07:00",
+      "fetched": "2026-07-06T02:12:35.167964+07:00"
+    },
+    {
+      "id": "2892362dd3ef361014c32e195b3d3d27",
+      "title": "Nước luộc rau nên đổ bỏ hay giữ lại để nấu ăn?",
+      "link": "https://thanhnien.vn/nuoc-luoc-rau-nen-do-bo-hay-giu-lai-de-nau-an-185260706004005331.htm",
+      "summary": "Khi rau luộc trong nước sôi, nhiệt độ cao sẽ làm thành tế bào thực vật mềm ra, giúp một số dưỡng chất hòa tan vào nước. Hiện tượng này xảy ra rõ nhất với các vitamin tan trong nước như vitamin C và vitamin B.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T18:08:00+07:00",
+      "fetched": "2026-07-06T02:12:35.168103+07:00"
+    },
+    {
+      "id": "373a61e8296135ed004aae62ba98b3dc",
+      "title": "Tăng ham muốn có phải chứng cuồng dâm?",
+      "link": "https://vnexpress.net/tang-ham-muon-co-phai-chung-cuong-dam-5092824.html",
+      "summary": "Nhiều người cho rằng tăng nhu cầu tình dục là bệnh, là hội chứng cuồng dâm, điều này đúng không? (Hòa, 29 tuổi, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T18:00:00+07:00",
+      "fetched": "2026-07-06T02:12:31.838929+07:00"
+    },
+    {
+      "id": "4672249f55597cd1cebb4fa3e710b61a",
+      "title": "NATO đối mặt bài toán 'tiền nhiều, súng ít'",
+      "link": "https://vnexpress.net/nato-doi-mat-bai-toan-tien-nhieu-sung-it-5091553.html",
+      "summary": "Sau khi thúc đẩy các nước thành viên tăng ngân sách quốc phòng, NATO giờ đây lại phải giải bài toán sản xuất vũ khí để bắt kịp nhu cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T18:00:00+07:00",
+      "fetched": "2026-07-06T02:12:31.839096+07:00"
+    },
+    {
+      "id": "4672249f55597cd1cebb4fa3e710b61a",
+      "title": "NATO đối mặt bài toán 'tiền nhiều, súng ít'",
+      "link": "https://vnexpress.net/nato-doi-mat-bai-toan-tien-nhieu-sung-it-5091553.html",
+      "summary": "Sau khi thúc đẩy các nước thành viên tăng ngân sách quốc phòng, NATO giờ đây lại phải giải bài toán sản xuất vũ khí để bắt kịp nhu cầu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-05T18:00:00+07:00",
+      "fetched": "2026-07-06T02:12:39.446151+07:00"
+    },
+    {
+      "id": "cf5cc7d4de0a20a5da68f88c484d6c87",
+      "title": "Cuộc chiến của người mẹ ung thư và con trai bại não",
+      "link": "https://vnexpress.net/cuoc-chien-cua-nguoi-me-ung-thu-va-con-trai-bai-nao-5093454.html",
+      "summary": "Vượt qua cửa tử vì thuyên tắc ối nhưng con trai bị bại não, chị Hạnh tiếp tục đối mặt với ung thư, mong duy trì sự sống để đồng hành cùng con.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T17:33:28+07:00",
+      "fetched": "2026-07-06T02:12:31.839242+07:00"
+    },
+    {
+      "id": "80cc77f01f5b371888b0b2637a3e6852",
+      "title": "Uống nước chanh ấm buổi sáng có thật sự giúp giảm cân, thải độc?",
+      "link": "https://thanhnien.vn/uong-nuoc-chanh-am-buoi-sang-co-that-su-giup-giam-can-thai-doc-185260705200657213.htm",
+      "summary": "Uống nước ấm pha chanh vào buổi sáng là thói quen của không ít người vì tin rằng thức uống này giúp giảm cân, thải độc và tăng cường sức khỏe. Tuy nhiên, các chuyên gia cho biết những lợi ích này đang bị thổi phồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T17:10:00+07:00",
+      "fetched": "2026-07-06T02:12:35.168229+07:00"
+    },
+    {
+      "id": "b8125dfadb727b61212337591574c3cf",
+      "title": "4 dấu hiệu ung thư amidan dễ bị bỏ qua",
+      "link": "https://vnexpress.net/4-dau-hieu-ung-thu-amidan-de-bi-bo-qua-5093506.html",
+      "summary": "Đau họng một bên kéo dài, đau tai, nổi hạch cổ không đau và một bên amidan to bất thường có thể là những dấu hiệu sớm của ung thư amidan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-05T17:06:00+07:00",
+      "fetched": "2026-07-06T02:12:31.839379+07:00"
     },
     {
       "id": "1b453e60d331cf1519e3be2a42f6633e",
