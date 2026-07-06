@@ -1,7 +1,27 @@
 window.newsData_2026_07_07 = {
   "date": "2026-07-07",
-  "lastUpdated": "2026-07-07T04:26:27.018964+07:00",
+  "lastUpdated": "2026-07-07T06:04:05.293866+07:00",
   "articles": [
+    {
+      "id": "dc29a717cfc705cdba85bea2f266e621",
+      "title": "Bồ Đào Nha và Ronaldo bị loại khỏi World Cup 2026",
+      "link": "https://tuoitre.vn/bo-dao-nha-va-ronaldo-bi-loai-khoi-world-cup-2026-100260706160835589.htm",
+      "summary": "Rạng sáng 7-7, Bồ Đào Nha và siêu sao Cristiano Ronaldo đã để thua Tây Ban Nha 0-1 và bị loại khỏi vòng 16 đội World Cup 2026. Giấc mơ vô địch World Cup của Ronaldo có thể sẽ không bao giờ trở thành hiện thực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-07T06:03:58.393709+07:00",
+      "fetched": "2026-07-07T06:03:58.393770+07:00"
+    },
+    {
+      "id": "13bdce46c648ad15352453011287ae5e",
+      "title": "Trực tuyến tuyển Mỹ - Bỉ (7h ngày 7-7): Cơ hội phục thù cho tuyển Mỹ",
+      "link": "https://tuoitre.vn/truc-tuyen-tuyen-my-bi-7h-ngay-7-7-co-hoi-phuc-thu-cho-tuyen-my-100260706102847692.htm",
+      "summary": "12 năm sau chiến thắng đầy kịch tính của đội tuyển Bỉ trước Mỹ tại Brazil, hai đội tuyển này lại gặp nhau tại vòng 16 đội để cạnh tranh cho tấm vé vào vòng tứ kết World Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-07T06:03:58.393371+07:00",
+      "fetched": "2026-07-07T06:03:58.393540+07:00"
+    },
     {
       "id": "e0df13cecf5d3a68e41ef25325a1b33e",
       "title": "Thời tiết hôm nay 7-7: Bắc Bộ giảm mưa sau bão, Nam Bộ mưa chiều",
@@ -163,6 +183,256 @@ window.newsData_2026_07_07 = {
       "fetched": "2026-07-07T02:51:08.880022+07:00"
     },
     {
+      "id": "22a7a40eee918da928f4dbfbcd387f7b",
+      "title": "Nổi mụn đầu đinh: Vì sao bác sĩ khuyên tuyệt đối không tự nặn?",
+      "link": "https://thanhnien.vn/noi-mun-dau-dinh-vi-sao-bac-si-khuyen-tuyet-doi-khong-tu-nan-185260706214613468.htm",
+      "summary": "Nhiều người cho rằng mụn đầu đinh xuất hiện do ‘nóng gan’, ‘đường huyết cao’ hay ăn quá nhiều trái cây. Tuy nhiên, bác sĩ cho rằng đây đều không phải là nguyên nhân trực tiếp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-06T23:03:00+07:00",
+      "fetched": "2026-07-07T06:03:56.653609+07:00"
+    },
+    {
+      "id": "6caf8d604271d110ed97149b643f074e",
+      "title": "Theo dấu tiền nhân mở cõi phương Nam: Ngôi đình thờ Thượng đẳng thần",
+      "link": "https://thanhnien.vn/theo-dau-tien-nhan-mo-coi-phuong-nam-ngoi-dinh-tho-thuong-dang-than-185260706225740121.htm",
+      "summary": "Tọa lạc đường Trần Hưng Đạo, P.Sa Đéc, Đồng Tháp, đình Vĩnh Phước còn có tên là đình Gạo, lập vào năm 1807. Đây là ngôi đình có kiến trúc đẹp nhất nhì trong vùng, là nơi thờ cúng vị quan nổi tiếng, có công giúp dân khai hoang lập ấp vùng đất phía nam sông Tiền, xưa gọi là Đông Khẩu đạo. Vị quan ấy l...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-06T23:00:00+07:00",
+      "fetched": "2026-07-07T06:03:56.653772+07:00"
+    },
+    {
+      "id": "11a33ac899d5bc566e8aee53a823ef5e",
+      "title": "'Đo' sức chống chịu của đô thị với biến đổi khí hậu",
+      "link": "https://thanhnien.vn/do-suc-chong-chiu-cua-do-thi-voi-bien-doi-khi-hau-185260706190358796.htm",
+      "summary": "Bộ Xây dựng đang tham vấn dự thảo Thông tư hướng dẫn đánh giá khả năng chống chịu với biến đổi khí hậu của các đô thị. Đây là lần đầu tiên cơ quan này xây dựng một bộ tiêu chí đánh giá thống nhất, định lượng về khả năng chống chịu với biến đổi khí hậu của đô thị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-06T23:00:00+07:00",
+      "fetched": "2026-07-07T06:03:56.653929+07:00"
+    },
+    {
+      "id": "2ba00d70c635b62905a996e67f8265f9",
+      "title": "Đi làm thời AI: công cụ số trở thành khoản đầu tư cho năng lực cạnh tranh",
+      "link": "https://thanhnien.vn/di-lam-thoi-ai-cong-cu-so-tro-thanh-khoan-dau-tu-cho-nang-luc-canh-tranh-185260706184346512.htm",
+      "summary": "Đi làm thời trí tuệ nhân tạo (AI), nhiều người lao động chấp nhận duy trì các gói AI, phần mềm bản quyền và dịch vụ số như một khoản đầu tư để nâng cao năng suất, đáp ứng yêu cầu công việc và duy trì năng lực cạnh tranh. Tuy nhiên, mức đầu tư còn phụ thuộc vào từng ngành nghề.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-06T23:00:00+07:00",
+      "fetched": "2026-07-07T06:03:56.654082+07:00"
+    },
+    {
+      "id": "0ccd8cf53c67cea6c6f2eb665fcd5797",
+      "title": "Nhiều tài xế bị phạt nguội khi ra vào cao tốc: Đi sao mới đúng?",
+      "link": "https://thanhnien.vn/nhieu-tai-xe-bi-phat-nguoi-khi-ra-vao-cao-toc-di-sao-moi-dung-185260706114854815.htm",
+      "summary": "Nhiều tài xế bất ngờ khi bị CSGT thông báo vi phạm ra vào cao tốc sai quy định tại nút giao cao tốc Biên Hòa - Vũng Tàu với cao tốc TP.HCM - Long Thành - Dầu Giây. Vậy đi sao mới đúng?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-06T23:00:00+07:00",
+      "fetched": "2026-07-07T06:03:56.654237+07:00"
+    },
+    {
+      "id": "a8e137f078d97037fa65db13739bdd26",
+      "title": "Làm gì để kéo tăng trưởng 6 tháng cuối năm?",
+      "link": "https://thanhnien.vn/lam-gi-de-keo-tang-truong-6-thang-cuoi-nam-185260706225445039.htm",
+      "summary": "Dù khép lại 6 tháng đầu năm với gam màu tươi sáng khi tốc độ tăng trưởng GDP đạt mức kỷ lục 8,18% - mức tăng cao nhất trong vòng 15 năm qua, song kinh tế VN vẫn đang đứng trước áp lực rất lớn để có thể về đích tăng trưởng 2 con số trong năm đầu tiên của kỷ nguyên mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-06T22:59:00+07:00",
+      "fetched": "2026-07-07T06:03:56.654389+07:00"
+    },
+    {
+      "id": "461a9dbadf91ecb67c5c50efa129f1ab",
+      "title": "'Soi' lại quy trình coi thi tốt nghiệp THPT",
+      "link": "https://thanhnien.vn/soi-lai-quy-trinh-coi-thi-tot-nghiep-thpt-185260706213710576.htm",
+      "summary": "Sau khi kiểm tra sự bất thường trong kết quả thi môn toán kỳ thi tốt nghiệp THPT 2026 tại điểm thi Trường THPT chuyên Tuyên Quang, Tổ công tác của Bộ GD-ĐT cho biết có dấu hiệu cần được xác minh trong khâu coi thi tại điểm thi này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-06T22:54:00+07:00",
+      "fetched": "2026-07-07T06:03:56.654573+07:00"
+    },
+    {
+      "id": "6265a65d06d8347090cbf7bf3a09042e",
+      "title": "Trung Đông trong thế hòa hoãn mong manh",
+      "link": "https://thanhnien.vn/trung-dong-trong-the-hoa-hoan-mong-manh-185260706223729545.htm",
+      "summary": "Trung Đông đang xuất hiện những tín hiệu giảm căng thẳng sau bản ghi nhớ giữa Mỹ - Iran, nhưng tiến trình hòa hoãn khu vực vẫn đứng trước nhiều lực cản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-06T22:51:00+07:00",
+      "fetched": "2026-07-07T06:03:56.654729+07:00"
+    },
+    {
+      "id": "3f0f9cc9fc6a97664d3db51c6508cac1",
+      "title": "Bảo vệ trẻ em trước mạng xã hội",
+      "link": "https://thanhnien.vn/bao-ve-tre-em-truoc-mang-xa-hoi-185260706205025119.htm",
+      "summary": "Thanh Niên vừa có bài viết Báo động cận thị ở trẻ em, phản ánh cận thị đang gia tăng trong trẻ em tại VN và trở thành một trong những vấn đề sức khỏe cộng đồng đáng quan tâm nhất hiện nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-06T22:51:00+07:00",
+      "fetched": "2026-07-07T06:03:56.654886+07:00"
+    },
+    {
+      "id": "20f622d04232de57326954680f6c0781",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 7.7.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-772026-185260706235108418.htm",
+      "summary": "Tin tức Quy tập hài cốt liệt sĩ tại Công viên Lê Thị Riêng: Hành trình thiêng liêng; Làm gì để kéo tăng trưởng 6 tháng cuối năm?; Các \"chốt chặn\" hàng ngàn tỉ USD quanh Biển Đông... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 7.7.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-06T22:50:00+07:00",
+      "fetched": "2026-07-07T06:03:56.655034+07:00"
+    },
+    {
+      "id": "d81d48f54fc7d0846dc6651c2179e50f",
+      "title": "Đăng ký nguyện vọng: Chọn trường, ngành hay nghề ?",
+      "link": "https://thanhnien.vn/dang-ky-nguyen-vong-chon-truong-nganh-hay-nghe-185260706201512189.htm",
+      "summary": "Hiện nay, nhiều học sinh và phụ huynh băn khoăn và mong muốn nộp hồ sơ xét tuyển như thế nào để đậu vào trường ĐH top đầu hoặc ít nhất là phải đậu một trường ĐH mà ít quan tâm đến chọn ngành, chọn nghề cho bản thân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-06T22:45:00+07:00",
+      "fetched": "2026-07-07T06:03:56.655189+07:00"
+    },
+    {
+      "id": "03410d1e6f4c6ce8187e482800cf1e9d",
+      "title": "Khoảnh khắc gia đình gà lôi vằn quây quần kiếm ăn giữa rừng thông",
+      "link": "https://thanhnien.vn/khoanh-khac-gia-dinh-ga-loi-van-quay-quan-kiem-an-giua-rung-thong-185260705223519286.htm",
+      "summary": "Khoảnh khắc gia đình gà lôi vằn quây quần kiếm ăn giữa khu rừng khiến nhiều người thích thú. Hình ảnh giản dị nhưng khiến dân mạng ví như gia đình hạnh phúc trong thế giới thiên nhiên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-06T22:45:00+07:00",
+      "fetched": "2026-07-07T06:03:56.655345+07:00"
+    },
+    {
+      "id": "6239f0a6e2658550f67431dcf4edf191",
+      "title": "Ronaldo bật khóc khi chia tay World Cup 2026",
+      "link": "https://vnexpress.net/ronaldo-bat-khoc-khi-chia-tay-world-cup-2026-5094244.html",
+      "summary": "Thủ quân Bồ Đào Nha không kìm được cảm xúc khi tri ân người hâm mộ sau trận thua Tây Ban Nha, khép lại giấc mơ vô địch ở World Cup cuối cùng trong sự nghiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-06T22:37:31+07:00",
+      "fetched": "2026-07-07T06:03:53.324990+07:00"
+    },
+    {
+      "id": "e033999ebf2dee3a0ebd1b5a6e55a07e",
+      "title": "Ronaldo khóc sau khi bị loại khỏi World Cup 2026",
+      "link": "https://vnexpress.net/ronaldo-khoc-sau-khi-bi-loai-khoi-world-cup-2026-5094244.html",
+      "summary": "Thủ quân Bồ Đào Nha bật khóc trong lúc tri ân người hâm mộ sau trận thua Tây Ban Nha tại vòng 1/8, khép lại giấc mơ vô địch ở World Cup cuối cùng trong sự nghiệp.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-06T22:37:31+07:00",
+      "fetched": "2026-07-07T06:04:05.288337+07:00"
+    },
+    {
+      "id": "b456f8a1aa870a7b56b91dca53f01c60",
+      "title": "‘Tiễn’ Bồ Đào Nha và Ronaldo về nước, Tây Ban Nha lập kỷ lục ở World Cup",
+      "link": "https://thanhnien.vn/tien-bo-dao-nha-va-ronaldo-ve-nuoc-tay-ban-nha-lap-ky-luc-o-world-cup-185260707053635002.htm",
+      "summary": "Đội tuyển Tây Ban Nha không chỉ đánh bại Bồ Đào Nha 1-0 để giành vé vào tứ kết World Cup 2026, mà còn thiết lập cột mốc lịch sử chưa từng có với chuỗi 6 trận liên tiếp giữ sạch lưới tại ngày hội bóng đá lớn nhất hành tinh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-06T22:37:00+07:00",
+      "fetched": "2026-07-07T06:03:56.655522+07:00"
+    },
+    {
+      "id": "7995f85fa7cd99b45cf247ebc2298df7",
+      "title": "Venezuela tặng huy chương 'Anh hùng Venezuela' cho đoàn cứu hộ Việt Nam",
+      "link": "https://thanhnien.vn/venezuela-tang-huy-chuong-anh-hung-venezuela-cho-doan-cuu-ho-viet-nam-185260706215811567.htm",
+      "summary": "Thừa ủy quyền của Chính phủ Venezuela, trung tá Raul Serrano Chacon, Bộ Tư lệnh Vệ binh Tổng thống, đã trao huy chương 'Anh hùng Venezuela' hạng nhất tặng đoàn cứu nạn, cứu hộ Việt Nam và hạng nhì tặng các thành viên trong đoàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-06T22:36:00+07:00",
+      "fetched": "2026-07-07T06:03:56.655673+07:00"
+    },
+    {
+      "id": "eb9df464527c6ccdd767ba34b90269e0",
+      "title": "Vinicius: 'Tôi chưa bao giờ trốn tránh trách nhiệm đá 11m'",
+      "link": "https://vnexpress.net/vinicius-toi-chua-bao-gio-tron-tranh-trach-nhiem-da-11m-5094242.html",
+      "summary": "Tiền đạo Vinicius phủ nhận tránh đá phạt đền vì áp lực trong trận Brazil thua Na Uy 1-2 ở vòng 1/8 World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-06T22:31:25+07:00",
+      "fetched": "2026-07-07T06:03:53.325172+07:00"
+    },
+    {
+      "id": "7d5b263533e52146c3ddc0cb5da4ada6",
+      "title": "Vinicius: 'Tôi chưa bao giờ trốn tránh trách nhiệm đá phạt đền'",
+      "link": "https://vnexpress.net/vinicius-toi-chua-bao-gio-tron-tranh-trach-nhiem-da-phat-den-5094242.html",
+      "summary": "Tiền đạo Vinicius phủ nhận tránh đá phạt đền vì áp lực trong trận Brazil thua Na Uy 1-2 ở vòng 1/8 World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-06T22:31:25+07:00",
+      "fetched": "2026-07-07T06:04:05.288709+07:00"
+    },
+    {
+      "id": "82d8ea8f6e64254b5f7932f881465fad",
+      "title": "Di vật bên cạnh 9 hài cốt liệt sĩ ở công viên Lê Thị Riêng",
+      "link": "https://vnexpress.net/di-vat-ben-canh-9-hai-cot-liet-si-o-cong-vien-le-thi-rieng-5094159.html",
+      "summary": "Nhiều giấy tờ tuỳ thân, lược, quần áo, băng súng được lực lượng chức năng phát hiện cùng hài cốt liệt sĩ dưới rãnh sâu 3 m, dài 10 m ở công viên Lê Thị Riêng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-06T22:00:00+07:00",
+      "fetched": "2026-07-07T06:03:53.325348+07:00"
+    },
+    {
+      "id": "30fcab4c5f130c2859367802d7c33b75",
+      "title": "Nút giao lớn nhất TP HCM lùi tiến độ thêm một năm",
+      "link": "https://vnexpress.net/nut-giao-lon-nhat-tp-hcm-lui-tien-do-them-mot-nam-5094073.html",
+      "summary": "Thay vì hoàn thành trong quý II năm nay, dự án nút giao An Phú (TP Thủ Đức cũ) hơn 3.400 tỷ đồng ở cửa ngõ phía đông TP HCM được gia hạn đến quý III/2027.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-06T22:00:00+07:00",
+      "fetched": "2026-07-07T06:03:53.325542+07:00"
+    },
+    {
+      "id": "5532f2784aae1e16f65e2c466a9acbed",
+      "title": "Phép thử đoàn kết với NATO tại hội nghị thượng đỉnh ở Thổ Nhĩ Kỳ",
+      "link": "https://vnexpress.net/phep-thu-doan-ket-voi-nato-tai-hoi-nghi-thuong-dinh-o-tho-nhi-ky-5093851.html",
+      "summary": "Hội nghị thượng đỉnh tại Thổ Nhĩ Kỳ là phép thử với sự đoàn kết của NATO, khi họ vừa phải tìm cách đối phó ông Trump, vừa giải bài toán cân bằng lợi ích.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-06T22:00:00+07:00",
+      "fetched": "2026-07-07T06:03:53.325705+07:00"
+    },
+    {
+      "id": "40237344a4b0578a3d94a21192534abc",
+      "title": "AI có thể đã tự thực hiện toàn bộ một cuộc tấn công mạng",
+      "link": "https://vnexpress.net/ai-co-the-da-tu-thuc-hien-toan-bo-mot-cuoc-tan-cong-mang-5093733.html",
+      "summary": "Nhóm chuyên gia từ công ty bảo mật đám mây Sysdig (Mỹ) phát hiện một tác nhân AI tấn công mạng bằng mã độc tống tiền mà không cần con người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-06T22:00:00+07:00",
+      "fetched": "2026-07-07T06:03:53.325867+07:00"
+    },
+    {
+      "id": "b84086d3b0692efacf7820dbd33e6637",
+      "title": "Cách xe máy cổ sang số",
+      "link": "https://vnexpress.net/cach-xe-may-co-sang-so-5094001.html",
+      "summary": "Các mẫu Vespa hay Lambretta những năm 1940 thường có thao tác bóp côn-sang số ở ngay tay lái bên trái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-06T22:00:00+07:00",
+      "fetched": "2026-07-07T06:03:53.326022+07:00"
+    },
+    {
+      "id": "5532f2784aae1e16f65e2c466a9acbed",
+      "title": "Phép thử đoàn kết với NATO tại hội nghị thượng đỉnh ở Thổ Nhĩ Kỳ",
+      "link": "https://vnexpress.net/phep-thu-doan-ket-voi-nato-tai-hoi-nghi-thuong-dinh-o-tho-nhi-ky-5093851.html",
+      "summary": "Hội nghị thượng đỉnh tại Thổ Nhĩ Kỳ là phép thử với sự đoàn kết của NATO, khi họ vừa phải tìm cách đối phó ông Trump, vừa giải bài toán cân bằng lợi ích.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-06T22:00:00+07:00",
+      "fetched": "2026-07-07T06:03:59.896327+07:00"
+    },
+    {
+      "id": "40237344a4b0578a3d94a21192534abc",
+      "title": "AI có thể đã tự thực hiện toàn bộ một cuộc tấn công mạng",
+      "link": "https://vnexpress.net/ai-co-the-da-tu-thuc-hien-toan-bo-mot-cuoc-tan-cong-mang-5093733.html",
+      "summary": "Nhóm chuyên gia từ công ty bảo mật đám mây Sysdig (Mỹ) phát hiện một tác nhân AI tấn công mạng bằng mã độc tống tiền mà không cần con người.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-06T22:00:00+07:00",
+      "fetched": "2026-07-07T06:04:03.801617+07:00"
+    },
+    {
       "id": "a587cbf69a87e939a67c6f62547bfaf2",
       "title": "Chủ tịch FIFA lên tiếng vụ tiền đạo Mỹ được xóa thẻ đỏ: 'Tôi đã giải thích với Tổng thống Trump…’",
       "link": "https://thanhnien.vn/chu-tich-fifa-len-tieng-ve-vu-balogun-toi-da-giai-thich-voi-tong-thong-trump-185260707040922573.htm",
@@ -281,6 +551,26 @@ window.newsData_2026_07_07 = {
       "category": "Thể thao",
       "published": "2026-07-06T18:00:00+07:00",
       "fetched": "2026-07-07T02:51:15.343465+07:00"
+    },
+    {
+      "id": "0dfe7ece291f1b4afec40d31926d94cc",
+      "title": "Ronaldo im tiếng, Bồ Đào Nha bị Tây Ban Nha loại ở World Cup",
+      "link": "https://vnexpress.net/bo-dao-nha-vs-tay-ban-nha-5094114-tong-thuat.html",
+      "summary": "Thủ quân Cristiano Ronaldo dứt điểm nhiều bậc nhất trận nhưng không ghi bàn, khi Bồ Đào Nha thua Tây Ban Nha 0-1 ở vòng 1/8 World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-06T18:00:00+07:00",
+      "fetched": "2026-07-07T06:03:53.326989+07:00"
+    },
+    {
+      "id": "0dfe7ece291f1b4afec40d31926d94cc",
+      "title": "Ronaldo im tiếng, Bồ Đào Nha bị Tây Ban Nha loại ở World Cup",
+      "link": "https://vnexpress.net/bo-dao-nha-vs-tay-ban-nha-5094114-tong-thuat.html",
+      "summary": "Thủ quân Cristiano Ronaldo dứt điểm nhiều bậc nhất trận nhưng không ghi bàn, khi Bồ Đào Nha thua Tây Ban Nha 0-1 ở vòng 1/8 World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-06T18:00:00+07:00",
+      "fetched": "2026-07-07T06:04:05.288540+07:00"
     },
     {
       "id": "576a4eab2354f031af0645027e5794cf",
@@ -953,6 +1243,16 @@ window.newsData_2026_07_07 = {
       "fetched": "2026-07-07T02:51:15.345792+07:00"
     },
     {
+      "id": "982d86eea2a222ad97af6aab136f0ce3",
+      "title": "Xác định 2 cặp tứ kết đầu tiên ở World Cup 2026",
+      "link": "https://vnexpress.net/xac-dinh-2-cap-tu-ket-dau-tien-o-world-cup-2026-5093954.html",
+      "summary": "Pháp sẽ gặp Morocco, còn Anh chạm trán hiện tượng Na Uy ở hai trận đầu tứ kết World Cup 2026, sau khi vòng 1/8 trôi qua một nửa.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-06T04:16:19+07:00",
+      "fetched": "2026-07-07T06:04:05.290540+07:00"
+    },
+    {
       "id": "42dac1026af6c82a865a0d7c2a4270fb",
       "title": "Thực hư vụ robot hình người 'làm loạn trong phòng'",
       "link": "https://vnexpress.net/thuc-hu-vu-robot-hinh-nguoi-lam-loan-trong-phong-5093868.html",
@@ -961,6 +1261,16 @@ window.newsData_2026_07_07 = {
       "category": "Công nghệ",
       "published": "2026-07-06T04:02:51+07:00",
       "fetched": "2026-07-07T02:51:14.232939+07:00"
+    },
+    {
+      "id": "b5e9efb0343cc323c0db1dd3922c52ab",
+      "title": "Messi, Mbappe, Haaland cùng đi vào lịch sử World Cup",
+      "link": "https://vnexpress.net/messi-mbappe-haaland-cung-di-vao-lich-su-world-cup-5093905.html",
+      "summary": "Lionel Messi, Kylian Mbappe và Erling Haaland cùng chạm mốc 7 bàn tại World Cup 2026, tạo nên điều chưa từng có trong 96 năm lịch sử giải đấu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-06T04:00:32+07:00",
+      "fetched": "2026-07-07T06:04:05.290696+07:00"
     },
     {
       "id": "7f1c530423d2b2a739f8115de99a4923",
