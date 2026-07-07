@@ -1,7 +1,67 @@
 window.newsData_2026_07_08 = {
   "date": "2026-07-08",
-  "lastUpdated": "2026-07-08T02:53:20.367743+07:00",
+  "lastUpdated": "2026-07-08T04:21:06.711053+07:00",
   "articles": [
+    {
+      "id": "b011bc87bb33aa27f610491dd2b966ba",
+      "title": "Messi khóc nức nở sau màn lội ngược dòng không tưởng trước Ai Cập",
+      "link": "https://tuoitre.vn/messi-khoc-nuc-no-sau-man-loi-nguoc-dong-khong-tuong-truoc-ai-cap-100260708014554472.htm",
+      "summary": "Messi đã trải qua nhiều cung bậc cảm xúc sau màn lội ngược dòng không tưởng của tuyển Argentina trước tuyển Ai Cập với tỉ số 3-2 (rạng sáng 8-7).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T04:20:59.619829+07:00",
+      "fetched": "2026-07-08T04:20:59.619877+07:00"
+    },
+    {
+      "id": "0d800bd6d15876eb02fdcfcc3ccdf336",
+      "title": "Vua phá lưới World Cup 2026: Messi 'vượt mặt' Mbappe, Haaland",
+      "link": "https://tuoitre.vn/vua-pha-luoi-world-cup-2026-messi-vuot-mat-mbappe-haaland-100260708013831046.htm",
+      "summary": "Lionel Messi đã vươn lên dẫn đầu bảng xếp hạng Vua phá lưới World Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T04:20:59.619773+07:00",
+      "fetched": "2026-07-08T04:20:59.619821+07:00"
+    },
+    {
+      "id": "c453b460c062d1c07b281543d94fc920",
+      "title": "Các chuyên trang bóng đá công bố những thông số lạ lùng về Messi",
+      "link": "https://tuoitre.vn/cac-chuyen-trang-bong-da-cong-bo-nhung-thong-so-la-lung-ve-messi-10026070801480247.htm",
+      "summary": "Không chỉ có những bàn thắng, những đường kiến tạo, hay các pha rê dắt, Messi còn sở hữu một chuỗi những thông số vô cùng lạ lùng, trong ngày Argentina ngược dòng thắng kịch tính Ai Cập 3-2.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T04:20:59.619714+07:00",
+      "fetched": "2026-07-08T04:20:59.619764+07:00"
+    },
+    {
+      "id": "606c7013d02229044679f093e9b7dba5",
+      "title": "Zlatan Ibrahimovic: 'Messi đã hóa thành một con quái vật'",
+      "link": "https://tuoitre.vn/zlatan-ibrahimovic-messi-da-hoa-thanh-mot-con-quai-vat-100260708014958045.htm",
+      "summary": "Cựu tiền đạo Zlatan Ibrahimovic đã phải dùng những lời khen đặc biệt để nói về Messi sau chiến thắng nghẹt thở trước Ai Cập.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T04:20:59.619651+07:00",
+      "fetched": "2026-07-08T04:20:59.619704+07:00"
+    },
+    {
+      "id": "c157be9a67b2308aad410ee50ff3cac6",
+      "title": "Video: Pha vô lê của Messi gỡ hòa cho Argentina",
+      "link": "https://tuoitre.vn/the-thao/video-pha-vo-le-cua-messi-go-hoa-cho-argentina-100260708022206274.htm",
+      "summary": "Trong lúc Argentina đang tuyệt vọng trước Ai Cập, Messi đã kịp thời lên tiếng với một kiến tạo và một bàn thắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T04:20:59.619572+07:00",
+      "fetched": "2026-07-08T04:20:59.619630+07:00"
+    },
+    {
+      "id": "c12024fca3002690feb4c6ec11093a81",
+      "title": "Cầu thủ Ai Cập: 'Trao cúp cho Argentina luôn đi'",
+      "link": "https://tuoitre.vn/cau-thu-ai-cap-trao-cup-cho-argentina-luon-di-100260708021400491.htm",
+      "summary": "Mostafa Ziko, cầu thủ ghi bàn nâng tỉ số lên 2-0 cho Ai Cập trước khi họ thua ngược Argentina 2-3 ở vòng 16 đội World Cup 2026, tỏ thái độ vô cùng giận dữ trong phần trả lời phỏng vấn sau trận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-08T04:20:59.619417+07:00",
+      "fetched": "2026-07-08T04:20:59.619558+07:00"
+    },
     {
       "id": "459535d95f969aa32cb9ac2739f3fee1",
       "title": "IOC dỡ bỏ lệnh cấm, mở đường cho Nga trở lại Olympic",
@@ -191,6 +251,56 @@ window.newsData_2026_07_08 = {
       "category": "Tổng hợp",
       "published": "2026-07-08T00:56:15.486490+07:00",
       "fetched": "2026-07-08T00:56:15.486643+07:00"
+    },
+    {
+      "id": "974437723d6ab40159302d2ea31c832b",
+      "title": "HLV Solbakken khen Haaland hay độc nhất vô nhị, Thủ tướng Na Uy nói điều đặc biệt",
+      "link": "https://thanhnien.vn/hlv-solbakken-khen-haaland-hay-doc-nhat-vo-nhi-thu-tuong-na-uy-noi-dieu-dac-biet-185260708033653043.htm",
+      "summary": "Trước trận gặp Anh ở tứ kết World Cup 2026, HLV Solbakken khen Haaland hay độc nhất vô nhị, còn Thủ tướng Canada đã bị Na Uy từ chối lời đề nghị đùa 'chuyển nhượng' anh sang Bắc Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-07T21:16:00+07:00",
+      "fetched": "2026-07-08T04:20:57.978597+07:00"
+    },
+    {
+      "id": "a12abad7a269b254da20c506501374c4",
+      "title": "Messi hạnh phúc vô bờ khi Argentina vào tứ kết bằng cách không thể kịch tính hơn: 'Thật nhẹ nhõm'",
+      "link": "https://thanhnien.vn/messi-hanh-phuc-vo-bo-khi-argentina-vao-tu-ket-bang-cach-khong-the-kich-tinh-hon-that-nhe-nhom-185260708034455452.htm",
+      "summary": "Đội trưởng Lionel Messi không giấu được niềm vui sau khi cùng đội tuyển Argentina lội ngược dòng đánh bại đội tuyển Ai Cập 3-2 để giành vé vào tứ kết World Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-07T21:11:00+07:00",
+      "fetched": "2026-07-08T04:20:57.978761+07:00"
+    },
+    {
+      "id": "a434a7251823fd13579938dfc71acc46",
+      "title": "Ai sáng cửa giành giải Găng tay vàng World Cup 2026?",
+      "link": "https://thanhnien.vn/ai-sang-cua-gianh-giai-gang-tay-vang-world-cup-2026-185260707213902225.htm",
+      "summary": "Trong số những thủ môn còn góp mặt tại giải, Mike Maignan, Unai Simon, Jordan Pickford và Emiliano Martinez đang nổi lên như những ứng viên sáng giá nhất cho danh hiệu Găng tay vàng. Đây cũng là cuộc đua kịch tính không kém Vua phá lưới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-07T21:02:00+07:00",
+      "fetched": "2026-07-08T04:20:57.978905+07:00"
+    },
+    {
+      "id": "76e573244f0497fa2c5905d7acbff0a7",
+      "title": "Báo Argentina: 'Phép màu Messi giúp chúng ta thắng ngoạn mục Ai Cập, thách thức cả logic'",
+      "link": "https://thanhnien.vn/bao-argentina-phep-mau-messi-giup-chung-ta-thang-ngoan-muc-ai-cap-thach-thuc-ca-logic-185260708031617679.htm",
+      "summary": "Báo chí Argentina đồng loạt tung hô Lionel Messi sau màn ngược dòng thắng Ai Cập 3-2 ở vòng 16 đội vào rạng sáng 8.7, gọi đó là 'phép màu' giúp nhà đương kim vô địch thế giới tiếp tục hành trình tại World Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-07T20:23:00+07:00",
+      "fetched": "2026-07-08T04:20:57.979036+07:00"
+    },
+    {
+      "id": "1f6468200d32c618fc7638658eee61d2",
+      "title": "HLV Ai Cập bức xúc, tố FIFA thiên vị Argentina: 'Họ muốn Messi tiếp tục cuộc đua'",
+      "link": "https://thanhnien.vn/hlv-ai-cap-buc-xuc-to-fifa-thien-vi-argentina-ho-muon-messi-tiep-tuc-cuoc-dua-185260708025444117.htm",
+      "summary": "HLV Hossam Hassan của Ai Cập cho rằng đội bóng của ông đã phải hứng chịu một 'sự bất công' trong thất bại 2-3 trước Argentina ở vòng 16 đội World Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-07T20:01:00+07:00",
+      "fetched": "2026-07-08T04:20:57.979166+07:00"
     },
     {
       "id": "a7b8798d03e9224c8d57ec9d9a4ea85a",
