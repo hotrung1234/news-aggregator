@@ -1,7 +1,137 @@
 window.newsData_2026_07_10 = {
   "date": "2026-07-10",
-  "lastUpdated": "2026-07-10T04:20:09.846080+07:00",
+  "lastUpdated": "2026-07-10T06:08:20.897888+07:00",
   "articles": [
+    {
+      "id": "7ba14f3c792840f028ee077c8e87141f",
+      "title": "Mbappe lập ‘siêu phẩm’, Pháp đánh bại Morocco để vào bán kết World Cup 2026",
+      "link": "https://tuoitre.vn/mbappe-lap-sieu-pham-phap-danh-bai-morocco-de-vao-ban-ket-world-cup-2026-10026070916463868.htm",
+      "summary": "Rạng sáng 10-7, tuyển Pháp đã đánh bại Morocco 2-0 ở tứ kết, qua đó giành vé vào bán kết World Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T06:08:12.692222+07:00",
+      "fetched": "2026-07-10T06:08:12.692280+07:00"
+    },
+    {
+      "id": "baa6bcd74a057335fa5a3d69741234ea",
+      "title": "Lịch trực tiếp World Cup 2026 ngày 11-7: Tây Ban Nha đấu Bỉ",
+      "link": "https://tuoitre.vn/lich-truc-tiep-world-cup-2026-ngay-11-7-tay-ban-nha-dau-bi-100260709174812022.htm",
+      "summary": "Lúc 2h ngày 11-7, Tây Ban Nha sẽ đối đầu tuyển Bỉ ở vòng tứ kết World Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T06:08:12.692013+07:00",
+      "fetched": "2026-07-10T06:08:12.692073+07:00"
+    },
+    {
+      "id": "7a069b8298c998e599d8b7640fb15904",
+      "title": "Tin tức sáng 10-7: Cơ cấu tổ chức mới của Bộ Nội vụ; TP.HCM có hơn 36.000 trẻ chào đời trong 6 tháng",
+      "link": "https://tuoitre.vn/tin-tuc-sang-10-7-co-cau-to-chuc-moi-cua-bo-noi-vu-tphcm-co-hon-36000-tre-chao-doi-trong-6-thang-100260709215136726.htm",
+      "summary": "Tin tức đáng chú ý: Cơ cấu tổ chức mới của Bộ Nội vụ gồm 21 đơn vị; 6 tháng đầu năm, TP.HCM có hơn 36.000 trẻ chào đời...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T06:08:12.691946+07:00",
+      "fetched": "2026-07-10T06:08:12.692004+07:00"
+    },
+    {
+      "id": "9e68f01cdd4e64349e809658f81260e8",
+      "title": "Sữa tươi Vinamilk 100% ‘chiều lòng’ người dùng ra sao?",
+      "link": "https://tuoitre.vn/sua-tuoi-vinamilk-100-chieu-long-nguoi-dung-ra-sao-100260709162953683.htm",
+      "summary": "Trong gia đình nhiều thế hệ, mỗi thành viên có nhu cầu dinh dưỡng khác nhau cũng như gu thưởng thức riêng. Đó cũng là lý do sữa tươi Vinamilk 100% không ngừng mở rộng danh mục sản phẩm và phát triển nhiều hương vị mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T06:08:12.691871+07:00",
+      "fetched": "2026-07-10T06:08:12.691935+07:00"
+    },
+    {
+      "id": "960d1f268110c5980fd68d21130c8ccd",
+      "title": "Tùng Dương mặc áo hồng, hát Nếu cả đời không rực rỡ thì sao?",
+      "link": "https://tuoitre.vn/giai-tri/tung-duong-mac-ao-hong-hat-neu-ca-doi-khong-ruc-ro-thi-sao-100260709211626792.htm",
+      "summary": "Tùng Dương nói anh may mắn được ông trời ban cho giọng hát, điều anh làm chỉ là theo đuổi ước mơ. Và ngoài kia nhiều người kém may mắn nhưng vẫn không ngừng vươn lên và không đầu hàng số phận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T06:08:12.691787+07:00",
+      "fetched": "2026-07-10T06:08:12.691860+07:00"
+    },
+    {
+      "id": "b06cb38c1591eb2addd241a9b0374886",
+      "title": "'Quỷ bắt hồn' vẫn ra rạp sau công văn của Cục Điện ảnh, nhà sản xuất nói gì?",
+      "link": "https://tuoitre.vn/quy-bat-hon-van-ra-rap-sau-cong-van-cua-cuc-dien-anh-nha-san-xuat-noi-gi-100260709234813106.htm",
+      "summary": "Giữa thời điểm phim kinh dị nhận nhiều sự quan tâm sau công văn của Cục Điện ảnh, nhà sản xuất Quỷ bắt hồn cho biết phim không phải chỉnh sửa khi thẩm định và vẫn ra rạp theo đúng kế hoạch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T06:08:12.691707+07:00",
+      "fetched": "2026-07-10T06:08:12.691776+07:00"
+    },
+    {
+      "id": "54d34cd0f301b4458b67efb255958831",
+      "title": "Shin Min Ah ra sao sau khi cưới Kim Woo Bin?",
+      "link": "https://tuoitre.vn/shin-min-ah-ra-sao-sau-khi-cuoi-kim-woo-bin-100260709221644171.htm",
+      "summary": "Sau gần nửa năm kể từ khi kết hôn với Kim Woo Bin, Shin Min Ah đến Đài Loan tham dự triển lãm trang sức cao cấp của Louis Vuitton.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T06:08:12.691620+07:00",
+      "fetched": "2026-07-10T06:08:12.691679+07:00"
+    },
+    {
+      "id": "442c1523829af11ec8af82d0ca709a2a",
+      "title": "Thời tiết hôm nay 10-7: Bắc Bộ mưa rất to, Nam Bộ mưa rào, nhiều mây",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-10-7-bac-bo-mua-rat-to-nam-bo-mua-rao-nhieu-may-1002607091625292.htm",
+      "summary": "Hôm nay 10-7, Bắc Bộ có những cơn mưa to đến rất to. Nam Bộ trời nhiều mây, mưa rào bất chợt, về chiều có mưa to.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T06:08:12.691542+07:00",
+      "fetched": "2026-07-10T06:08:12.691608+07:00"
+    },
+    {
+      "id": "4d62465cde51a999950edcdb8aef7cec",
+      "title": "Văn nghệ sĩ TP.HCM trao 166 phần quà cho bà con xã Ba Chúc, An Giang",
+      "link": "https://tuoitre.vn/van-nghe-si-tphcm-trao-166-phan-qua-cho-ba-con-xa-ba-chuc-an-giang-100260710005429919.htm",
+      "summary": "Tối 9-7, tại Công viên Võ Văn Kiệt, xã Ba Chúc, tỉnh An Giang, đoàn văn nghệ sĩ TP.HCM đã trao tặng 166 phần quà cho gia đình chính sách, gia đình có hoàn cảnh khó khăn, con nuôi biên phòng ở địa phương này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T06:08:12.691472+07:00",
+      "fetched": "2026-07-10T06:08:12.691531+07:00"
+    },
+    {
+      "id": "a3ffe9bffd92ebc049e25edcbe7effbc",
+      "title": "Những tập phim không nên bỏ qua trước khi xem Conan Movie 29",
+      "link": "https://tuoitre.vn/nhung-tap-phim-khong-nen-bo-qua-truoc-khi-xem-conan-movie-29-100260709230009191.htm",
+      "summary": "Trước thềm Thám tử lừng danh Conan Movie 29 ra rạp Việt ngày 24-7, người hâm mộ có thể xem lại một số tập phim quan trọng để hiểu rõ hơn về các nhân vật và bối cảnh của phần phim mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T06:08:12.691399+07:00",
+      "fetched": "2026-07-10T06:08:12.691461+07:00"
+    },
+    {
+      "id": "eb28705dab624994a0385180e6312649",
+      "title": "Trọng Nhân, Duyên Quỳnh, Jack Long chinh phục tình cảm khán giả Ba Chúc",
+      "link": "https://tuoitre.vn/trong-nhan-duyen-quynh-jack-long-chinh-phuc-tinh-cam-khan-gia-ba-chuc-100260710023800494.htm",
+      "summary": "Tối 9-7 trong đêm văn nghệ tri ân vùng đất Ba Chúc (An Giang) của văn nghệ sĩ TP.HCM tại Công viên Võ Văn Kiệt, các nghệ sĩ trẻ Trọng Nhân, Duyên Quỳnh, Jack Long đã nhận được sự tán thưởng nồng nhiệt của khán giả.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T06:08:12.691324+07:00",
+      "fetched": "2026-07-10T06:08:12.691388+07:00"
+    },
+    {
+      "id": "fcd0e30df1daed82244e4025e53c6683",
+      "title": "Moana live-action cạnh tranh danh hiệu phim dở nhất Disney",
+      "link": "https://tuoitre.vn/giai-tri/moana-live-action-canh-tranh-danh-hieu-phim-do-nhat-disney-100260709211535278.htm",
+      "summary": "Nhìn qua hàng loạt đánh giá tiêu cực dành cho Moana live-acton, phim đang phải đối mặt với một điểm số Rotten Tomatoes đáng báo động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T06:08:12.691245+07:00",
+      "fetched": "2026-07-10T06:08:12.691312+07:00"
+    },
+    {
+      "id": "c2995e7e5365f17e049d075bafd6c266",
+      "title": "Yến sào Khánh Hòa được vinh danh Doanh nghiệp xanh",
+      "link": "https://tuoitre.vn/yen-sao-khanh-hoa-duoc-vinh-danh-doanh-nghiep-xanh-100260709220247882.htm",
+      "summary": "Ngày 8-7, Công ty Yến sào Khánh Hòa và Chủ tịch HĐTV Trịnh Thị Hồng Vân được vinh danh tại các hạng mục Doanh nghiệp xanh và Công dân xanh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T06:08:12.691087+07:00",
+      "fetched": "2026-07-10T06:08:12.691231+07:00"
+    },
     {
       "id": "6241a49415c4c52844396c2e38b2ee4a",
       "title": "Trực tuyến Pháp - Morocco (3h): Tam tấu Olise - Mbappe - Dembele đá chính",
@@ -183,6 +313,286 @@ window.newsData_2026_07_10 = {
       "fetched": "2026-07-10T00:52:46.830311+07:00"
     },
     {
+      "id": "572f02a0425647547640bf92ca03780c",
+      "title": "Đăng ký nguyện vọng: Lưu ý các ngành cạnh tranh cao",
+      "link": "https://thanhnien.vn/dang-ky-nguyen-vong-luu-y-cac-nganh-canh-tranh-cao-18526070919371984.htm",
+      "summary": "Bộ GD-ĐT chính thức công bố ngưỡng đảm bảo chất lượng đầu vào xét điểm thi tốt nghiệp THPT các ngành đặc thù. Từ điểm sàn các trường và tình hình thí sinh đăng ký những ngày qua, các trường nêu những ngành có khả năng điểm chuẩn \"dễ chịu'' và những ngành cạnh tranh cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T23:05:00+07:00",
+      "fetched": "2026-07-10T06:08:10.682320+07:00"
+    },
+    {
+      "id": "48566229839ac3ff225aa7018f111beb",
+      "title": "Cấp bách gỡ khó cho sầu riêng",
+      "link": "https://thanhnien.vn/cap-bach-go-kho-cho-sau-rieng-185260709220248483.htm",
+      "summary": "Chỉ còn khoảng 2 tuần nữa, Tây nguyên - vùng trồng sầu riêng lớn nhất cả nước - sẽ vào vụ thu hoạch nhưng giá đang giảm khiến nhiều nhà vườn lo lắng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T23:01:00+07:00",
+      "fetched": "2026-07-10T06:08:10.682486+07:00"
+    },
+    {
+      "id": "b4809c94bd8fdc0f7f4b7cff65769bf7",
+      "title": "Bản tin sức khỏe ngày 10.7: Vì sao không nên trì hoãn tầm soát ung thư | Lợi ích từ động tác nhón chân",
+      "link": "https://thanhnien.vn/ban-tin-suc-khoe-ngay-107-vi-sao-khong-nen-tri-hoan-tam-soat-ung-thu-loi-ich-tu-dong-tac-nhon-chan-185260709231745968.htm",
+      "summary": "Bản tin sức khỏe của Báo Thanh Niên (từ thứ hai đến thứ sáu) cập nhật những thông tin y tế đáng chú ý, từ các khuyến cáo bảo vệ sức khỏe, chế độ dinh dưỡng, tập luyện, đến những nghiên cứu, cảnh báo dịch bệnh mới nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T23:00:00+07:00",
+      "fetched": "2026-07-10T06:08:10.682646+07:00"
+    },
+    {
+      "id": "7a486f87dcad2cf4e8995c6d5ae9d4ee",
+      "title": "Chó nghiệp vụ: Vì sao becgie Đức, becgie Bỉ thường được chọn?",
+      "link": "https://thanhnien.vn/cho-nghiep-vu-vi-sao-becgie-duc-becgie-bi-thuong-duoc-chon-185260709182240994.htm",
+      "summary": "Becgie Đức và becgie Bỉ thường xuất hiện trong các đội chó nghiệp vụ nhờ khứu giác, thể lực, khả năng chịu áp lực và tiếp thu mệnh lệnh tốt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T23:00:00+07:00",
+      "fetched": "2026-07-10T06:08:10.682830+07:00"
+    },
+    {
+      "id": "2e912fd38ea9f5f386a32152b1b72254",
+      "title": "Giá vé máy bay bất ngờ giảm giữa cao điểm hè",
+      "link": "https://thanhnien.vn/gia-ve-may-bay-bat-ngo-giam-giua-cao-diem-he-185260709220753375.htm",
+      "summary": "Giữa cao điểm du lịch hè, giá vé máy bay trên nhiều tuyến bất ngờ hạ nhiệt, kéo theo hàng loạt tour trong và ngoài nước giảm giá hoặc tăng ưu đãi, mở ra cơ hội kích cầu hiếm thấy cho thị trường du lịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T22:59:00+07:00",
+      "fetched": "2026-07-10T06:08:10.682995+07:00"
+    },
+    {
+      "id": "382e0466d210ccaffbe8101365571edb",
+      "title": "Sầu riêng: Chuyện không chỉ ở phòng kiểm nghiệm",
+      "link": "https://thanhnien.vn/sau-rieng-chuyen-khong-chi-o-phong-kiem-nghiem-185260709215934884.htm",
+      "summary": "Rớt giá, tắc nghẽn ở khâu kiểm nghiệm..., tình trạng hiện nay của ngành sầu riêng, được mệnh danh là \"trái cây vua\" khi mang về hàng tỉ USD mỗi năm, thật ra không mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T22:56:00+07:00",
+      "fetched": "2026-07-10T06:08:10.683152+07:00"
+    },
+    {
+      "id": "aa2ff7602c82cb0bc3dcf59f4b7988e5",
+      "title": "Tổ chức thi lại môn toán ở Trường THPT chuyên Tuyên Quang có phù hợp?",
+      "link": "https://thanhnien.vn/to-chuc-thi-lai-mon-toan-o-truong-thpt-chuyen-tuyen-quang-co-phu-hop-185260709223519179.htm",
+      "summary": "Tối 9.7, Bộ GD-ĐT có thông cáo báo chí cho biết đã nhận được đề nghị của UBND tỉnh Tuyên Quang về việc tổ chức thi lại môn toán đối với các thí sinh tại điểm thi Trường THPT chuyên Tuyên Quang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T22:54:00+07:00",
+      "fetched": "2026-07-10T06:08:10.683303+07:00"
+    },
+    {
+      "id": "6fc106079633e5eadc5dfaa733af1aef",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 10.7.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-1072026-185260709222317783.htm",
+      "summary": "Tin tức Lập ngân hàng gien, mở rộng tìm kiếm hài cốt liệt sĩ; Bất thường điểm 10 toán tại Tuyên Quang: Khởi tố 4 bị can, đề xuất thi lại; Eo biển Hormuz giữa canh bạc Mỹ - Iran… là những thông tin hấp dẫn bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 10.7.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T22:51:00+07:00",
+      "fetched": "2026-07-10T06:08:10.683461+07:00"
+    },
+    {
+      "id": "52263f1d083e34a7f664cc3af27d2f45",
+      "title": "Mbappe phá thêm kỷ lục World Cup",
+      "link": "https://vnexpress.net/mbappe-pha-them-ky-luc-world-cup-5095662.html",
+      "summary": "Tuyệt phẩm vào lưới Morocco ở tứ kết giúp Kylian Mbappe trở thành cầu thủ đầu tiên ghi từ 8 bàn trở lên ở hai kỳ World Cup liên tiếp.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-09T22:50:03+07:00",
+      "fetched": "2026-07-10T06:08:20.892238+07:00"
+    },
+    {
+      "id": "c7497a46bb72a88caea1d1e489a404fc",
+      "title": "Bất thường điểm 10 toán tại Tuyên Quang: Khởi tố 4 bị can, đề xuất thi lại",
+      "link": "https://thanhnien.vn/bat-thuong-diem-10-toan-tai-tuyen-quang-khoi-to-4-bi-can-de-xuat-thi-lai-185260709220501786.htm",
+      "summary": "Công an tỉnh Tuyên Quang đã khởi tố 4 bị can liên quan vụ việc số điểm 10 môn toán cao bất thường tại Trường THPT chuyên Tuyên Quang. Ngoài ra, Sở GD-ĐT tỉnh này đề xuất thi lại môn toán để \"đảm bảo quyền lợi cho học sinh\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T22:45:00+07:00",
+      "fetched": "2026-07-10T06:08:10.683614+07:00"
+    },
+    {
+      "id": "b31802da92f8feba5d57e77968ab7a5e",
+      "title": "Cụ ông 86 tuổi đạp xe bán vé số, chỉ mong còn sức lo cho vợ bệnh",
+      "link": "https://thanhnien.vn/cu-ong-86-tuoi-dap-xe-ban-ve-so-chi-mong-con-suc-lo-cho-vo-benh-185260706140325916.htm",
+      "summary": "Ở tuổi 86, cụ ông Lý Kim Hùng vẫn đạp xe bán vé số bất chấp nắng mưa ở TP.HCM, chỉ mong có đủ sức khỏe để lo cơm nước, thuốc men cho người vợ bị đột quỵ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T22:45:00+07:00",
+      "fetched": "2026-07-10T06:08:10.683792+07:00"
+    },
+    {
+      "id": "34cc646f39981d97ce61f2fb4a2fb639",
+      "title": "Pháp nín thở khi Mbappe tập tễnh rời sân: 'Không sao, tôi ổn'",
+      "link": "https://thanhnien.vn/phap-nin-tho-khi-mbappe-tap-tenh-roi-san-khong-sao-toi-on-185260710053656748.htm",
+      "summary": "Ngôi sao Kylian Mbappe phải rời sân phút 75 ở trận Pháp gặp Ma Rốc do dính chấn thương mắt cá chân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T22:41:00+07:00",
+      "fetched": "2026-07-10T06:08:10.683950+07:00"
+    },
+    {
+      "id": "e93b7e020336e4a9a83e36b794a82c54",
+      "title": "Ảnh dự thi: Vươn cao giữ sáng",
+      "link": "https://thanhnien.vn/anh-du-thi-vuon-cao-giu-sang-185260707221138449.htm",
+      "summary": "Trong hành trình phát triển của ngành điện TP.HCM, các trạm điện đóng vai trò quan trọng trong việc bảo đảm truyền tải và phân phối điện ổn định đến hàng triệu khách hàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T22:38:00+07:00",
+      "fetched": "2026-07-10T06:08:10.684097+07:00"
+    },
+    {
+      "id": "40ecc57600820e4f373509e23cfff6bb",
+      "title": "Cựu tuyển thủ Na Uy: 'Haaland nhỉnh hơn Ronaldo Nazario'",
+      "link": "https://vnexpress.net/cuu-tuyen-thu-na-uy-haaland-nhinh-hon-ronaldo-nazario-5095616.html",
+      "summary": "Cựu trung vệ Dan Eggen, người từng cùng Na Uy đánh bại Brazil tại World Cup 1998, cho rằng Erling Haaland hiện ở đẳng cấp ngang, thậm chí vượt huyền thoại Ronaldo Nazario.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-09T22:37:18+07:00",
+      "fetched": "2026-07-10T06:08:20.892413+07:00"
+    },
+    {
+      "id": "a724057a88fe38a851288b936fa37d48",
+      "title": "Tiêu điểm quốc tế 10.7: Iran đánh 4 căn cứ Mỹ | Thầy dạy lái nhảy khỏi máy bay",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-107-iran-danh-4-can-cu-my-thay-day-lai-nhay-khoi-may-bay-185260709223624634.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 10.7.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T22:30:00+07:00",
+      "fetched": "2026-07-10T06:08:10.684250+07:00"
+    },
+    {
+      "id": "dd382cbc467228410c7de97eb1d04eb6",
+      "title": "10 tờ vé số may mắn giúp 2 người TP.HCM trúng 4,4 tỉ xổ số miền Nam",
+      "link": "https://thanhnien.vn/10-to-ve-so-may-man-giup-2-nguoi-tphcm-trung-44-ti-xo-so-mien-nam-185260708143843989.htm",
+      "summary": "10 tờ vé số trúng 4,4 tỉ đồng xổ số miền Nam thuộc sở hữu của 2 người ở TP.HCM đã được 1 đại lý đến tận nhà đổi thưởng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T22:30:00+07:00",
+      "fetched": "2026-07-10T06:08:10.684398+07:00"
+    },
+    {
+      "id": "aeeb33e1ea234ff3fc635997f468b99e",
+      "title": "FIFA không cho Quansah hưởng 'án treo' như Balogun, đội tuyển Anh lao đao trước tứ kết",
+      "link": "https://thanhnien.vn/fifa-khong-cho-quansah-huong-an-treo-nhu-balogun-doi-tuyen-anh-lao-dao-truoc-tu-ket-18526071005205182.htm",
+      "summary": "Đội tuyển Anh đón tin không vui trước trận tứ kết World Cup 2026 gặp Na Uy (4 giờ ngày 12.7) khi FIFA quyết định treo giò hậu vệ Jarell Quansah tới 2 trận. Phán quyết này khiến HLV Thomas Tuchel rơi vào bài toán nhân sự nan giải.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T22:26:00+07:00",
+      "fetched": "2026-07-10T06:08:10.684551+07:00"
+    },
+    {
+      "id": "37b02da8eca7eadbe2a7d78a61dc78ee",
+      "title": "Trượt ngã cũng là một kỹ năng ở Wimbledon",
+      "link": "https://vnexpress.net/truot-nga-cung-la-mot-ky-nang-o-wimbledon-5095660.html",
+      "summary": "Trên mặt cỏ trơn trượt của Wimbledon, biết cách ngã đôi khi quan trọng chẳng kém một cú thuận tay ghi điểm với các tay vợt.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-09T22:23:52+07:00",
+      "fetched": "2026-07-10T06:08:20.892575+07:00"
+    },
+    {
+      "id": "7b669925d943171784cc494ff4aeae13",
+      "title": "Wimbledon 'bất lực' trước World Cup 2026",
+      "link": "https://vnexpress.net/wimbledon-bat-luc-truoc-world-cup-2026-5095653.html",
+      "summary": "Ban tổ chức Wimbledon cấm phát sóng các trận đấu World Cup trong toàn bộ khuôn viên nhưng không thể ngăn cản người hâm mộ theo dõi ngày hội bóng đá lớn nhất hành tinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T22:11:58+07:00",
+      "fetched": "2026-07-10T06:08:07.526128+07:00"
+    },
+    {
+      "id": "7b669925d943171784cc494ff4aeae13",
+      "title": "Wimbledon 'bất lực' trước World Cup 2026",
+      "link": "https://vnexpress.net/wimbledon-bat-luc-truoc-world-cup-2026-5095653.html",
+      "summary": "Ban tổ chức Wimbledon cấm phát sóng các trận đấu World Cup trong toàn bộ khuôn viên nhưng không thể ngăn cản người hâm mộ theo dõi ngày hội bóng đá lớn nhất hành tinh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-09T22:11:58+07:00",
+      "fetched": "2026-07-10T06:08:20.892762+07:00"
+    },
+    {
+      "id": "1a4db9f82b393bc303db99976a96f3ad",
+      "title": "Nhà mái ngói đỏ mở không gian đón nắng, gió",
+      "link": "https://vnexpress.net/nha-mai-ngoi-do-mo-khong-gian-don-nang-gio-5095425.html",
+      "summary": "Căn nhà được tổ chức không gian quanh khoảng thông tầng, kết hợp gạch rỗng và sân vườn để tăng ánh sáng, gió tự nhiên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T22:00:00+07:00",
+      "fetched": "2026-07-10T06:08:07.526317+07:00"
+    },
+    {
+      "id": "6c9210c9e254096454a3087e1912f04b",
+      "title": "Cách NATO chiều lòng ông Trump tại hội nghị thượng đỉnh",
+      "link": "https://vnexpress.net/cach-nato-chieu-long-ong-trump-tai-hoi-nghi-thuong-dinh-5095302.html",
+      "summary": "Thay vì thảo luận những quyết sách lớn, các nước NATO bước vào hội nghị thượng đỉnh ở Ankara với mục tiêu đơn giản hơn là không khiến ông Trump nổi giận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T22:00:00+07:00",
+      "fetched": "2026-07-10T06:08:07.526493+07:00"
+    },
+    {
+      "id": "2b9d0532a98a42abaec0513b3b71a3a2",
+      "title": "Các hãng chip nhớ Trung Quốc 'lên đời' nhờ cơn sốt AI",
+      "link": "https://vnexpress.net/cac-hang-chip-nho-trung-quoc-len-doi-nho-con-sot-ai-5095038.html",
+      "summary": "Trong bối cảnh AI khiến nhu cầu chip nhớ tăng mạnh, sản phẩm của YMTC và CXMT đang được Apple cân nhắc sử dụng, còn Longsys Electronics dự báo lợi nhuận tăng 60.000%.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T22:00:00+07:00",
+      "fetched": "2026-07-10T06:08:07.526658+07:00"
+    },
+    {
+      "id": "e1d5fa91d1e7fd353b72240a01f65c6c",
+      "title": "'Dòng chảy' thủ tục hành chính sau một năm tinh gọn",
+      "link": "https://vnexpress.net/dong-chay-thu-tuc-hanh-chinh-sau-mot-nam-tinh-gon-5094576.html",
+      "summary": "Trong hơn 4.700 thủ tục hành chính công công khai trên Cổng dịch vụ công Quốc gia, Bộ Tài chính là cơ quan đảm nhiệm nhiều thủ tục nhất. Trong khi, Bộ Công an tiếp nhận nhiều nhiệm vụ, chức năng mới nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T22:00:00+07:00",
+      "fetched": "2026-07-10T06:08:07.526858+07:00"
+    },
+    {
+      "id": "08826f127a9d9dd876c4d6ccf91e93cf",
+      "title": "5 dấu hiệu cảnh báo thận đang 'kêu cứu' do ô nhiễm không khí",
+      "link": "https://vnexpress.net/5-dau-hieu-canh-bao-than-dang-keu-cuu-do-o-nhiem-khong-khi-5093972.html",
+      "summary": "Ô nhiễm không khí không chỉ gây hại cho hệ hô hấp mà còn tàn phá thầm lặng chức năng thận thông qua dòng máu chứa bụi mịn PM2.5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T22:00:00+07:00",
+      "fetched": "2026-07-10T06:08:07.527020+07:00"
+    },
+    {
+      "id": "5ef959912cb5407610da9aea4abaee42",
+      "title": "Xe tự lái cản đường xe ưu tiên - mối nguy cho cộng đồng",
+      "link": "https://vnexpress.net/xe-tu-lai-can-duong-xe-uu-tien-moi-nguy-cho-cong-dong-5095235.html",
+      "summary": "Những vụ chặn xe ưu tiên cho thấy công nghệ tự động vẫn bất lực trước các tình huống khẩn cấp mà tài xế con người thường xử lý dễ dàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T22:00:00+07:00",
+      "fetched": "2026-07-10T06:08:07.527178+07:00"
+    },
+    {
+      "id": "6c9210c9e254096454a3087e1912f04b",
+      "title": "Cách NATO chiều lòng ông Trump tại hội nghị thượng đỉnh",
+      "link": "https://vnexpress.net/cach-nato-chieu-long-ong-trump-tai-hoi-nghi-thuong-dinh-5095302.html",
+      "summary": "Thay vì thảo luận những quyết sách lớn, các nước NATO bước vào hội nghị thượng đỉnh ở Ankara với mục tiêu đơn giản hơn là không khiến ông Trump nổi giận.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-09T22:00:00+07:00",
+      "fetched": "2026-07-10T06:08:14.550967+07:00"
+    },
+    {
+      "id": "2b9d0532a98a42abaec0513b3b71a3a2",
+      "title": "Các hãng chip nhớ Trung Quốc 'lên đời' nhờ cơn sốt AI",
+      "link": "https://vnexpress.net/cac-hang-chip-nho-trung-quoc-len-doi-nho-con-sot-ai-5095038.html",
+      "summary": "Trong bối cảnh AI khiến nhu cầu chip nhớ tăng mạnh, sản phẩm của YMTC và CXMT đang được Apple cân nhắc sử dụng, còn Longsys Electronics dự báo lợi nhuận tăng 60.000%.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-09T22:00:00+07:00",
+      "fetched": "2026-07-10T06:08:19.171281+07:00"
+    },
+    {
       "id": "d698f0d44f2abf8e77d3d3f9d1ce277e",
       "title": "Tổng giám mục Argentina dẫn lời Messi tại Thánh lễ Ngày Độc lập: Gắn kết cả đất nước",
       "link": "https://thanhnien.vn/tong-giam-muc-argentina-dan-loi-messi-tai-thanh-le-ngay-doc-lap-gan-ket-ca-dat-nuoc-185260710040454443.htm",
@@ -191,6 +601,16 @@ window.newsData_2026_07_10 = {
       "category": "Tổng hợp",
       "published": "2026-07-09T21:09:00+07:00",
       "fetched": "2026-07-10T04:20:00.071149+07:00"
+    },
+    {
+      "id": "0d0329a2e6a3dc06bf1bce12b4590256",
+      "title": "Những chuyên gia xếp ôtô lên tàu biển",
+      "link": "https://vnexpress.net/nhung-chuyen-gia-xep-oto-len-tau-bien-5095305.html",
+      "summary": "Việc điều khiển dựa vào gương chiếu hậu trong xe, ngoái hẳn người để nhìn và tiếng còi bên ngoài, vì gương ngoài hoàn toàn không mở.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T21:00:00+07:00",
+      "fetched": "2026-07-10T06:08:07.527340+07:00"
     },
     {
       "id": "41995155570faba1ef118d273adf3b59",
