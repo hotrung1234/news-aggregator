@@ -1,7 +1,157 @@
 window.newsData_2026_07_09 = {
   "date": "2026-07-09",
-  "lastUpdated": "2026-07-09T18:01:20.034949+07:00",
+  "lastUpdated": "2026-07-09T21:51:01.070959+07:00",
   "articles": [
+    {
+      "id": "c82f39a42ecaeff00970c728430d3d5a",
+      "title": "Máy tán sỏi hỏng vẫn đưa ra điều trị laser, 3 bác sĩ thừa nhận sai phạm, không tranh luận",
+      "link": "https://tuoitre.vn/may-tan-soi-hong-van-dua-ra-dieu-tri-laser-3-bac-si-thua-nhan-sai-pham-khong-tranh-luan-100260709195318744.htm",
+      "summary": "3 cựu lãnh đạo, trưởng khoa Bệnh viện Đa khoa vùng Tây Nguyên bị cáo buộc lập hàng trăm hồ sơ ghi nhận tán sỏi bằng laser khi máy đã hư hỏng, dẫn đến thanh toán bảo hiểm y tế sai quy định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T21:50:53.585949+07:00",
+      "fetched": "2026-07-09T21:50:53.585998+07:00"
+    },
+    {
+      "id": "6b15d59cc4932a01766e8dc76d9857a1",
+      "title": "Mbappe chạy tốc độ siêu việt, sân vận động World Cup 2026 tỉ lệ 99,7% đầy khán giả",
+      "link": "https://tuoitre.vn/mbappe-chay-toc-do-sieu-viet-san-van-dong-world-cup-2026-ti-le-997-day-khan-gia-100260709193729227.htm",
+      "summary": "Kylian Mbappe đạt tốc độ 37,6km/h, trong khi World Cup 2026 thu hút 6,25 triệu khán giả, sân vận động đạt tỉ lệ lấp đầy 99,7% và 20 tỉ lượt xem video...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T21:50:53.585898+07:00",
+      "fetched": "2026-07-09T21:50:53.585941+07:00"
+    },
+    {
+      "id": "aea8501f1b4c668ecfaf236603fac764",
+      "title": "Đại sứ Pháp Olivier Brochet kết thúc nhiệm kỳ với nhiều kỷ niệm đẹp về Việt Nam",
+      "link": "https://tuoitre.vn/dai-su-phap-olivier-brochet-ket-thuc-nhiem-ky-voi-nhieu-ky-niem-dep-ve-viet-nam-100260709195358639.htm",
+      "summary": "Chủ tịch UBND TP.HCM Nguyễn Văn Được đánh giá cao những đóng góp của Đại sứ Pháp Olivier Brochet đối với quan hệ Việt Nam - Pháp, đồng thời mong phía Pháp tiếp tục đồng hành cùng thành phố trong giai đoạn phát triển mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T21:50:53.585840+07:00",
+      "fetched": "2026-07-09T21:50:53.585890+07:00"
+    },
+    {
+      "id": "8a7c2e8720f52f01e0e7cfd281251056",
+      "title": "TP.HCM thúc đẩy hợp tác giáo dục, đô thị và năng lượng tái tạo với thủ đô Úc",
+      "link": "https://tuoitre.vn/tphcm-thuc-day-hop-tac-giao-duc-do-thi-va-nang-luong-tai-tao-voi-thu-do-uc-100260709193025198.htm",
+      "summary": "Chủ tịch UBND TP.HCM Nguyễn Văn Được có buổi tiếp Thủ hiến thủ đô Canberra, Úc Andrew Barr, nhân chuyến thăm chính thức đầu tiên của ông tới Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T21:50:53.585787+07:00",
+      "fetched": "2026-07-09T21:50:53.585833+07:00"
+    },
+    {
+      "id": "e14b6e955a79bbff6f5a9c01146b926d",
+      "title": "Lãnh đạo xã Nhà Bè gặp gỡ, lắng nghe thiếu nhi",
+      "link": "https://tuoitre.vn/lanh-dao-xa-nha-be-gap-go-lang-nghe-thieu-nhi-100260709193051556.htm",
+      "summary": "Chương trình lãnh đạo xã gặp gỡ, lắng nghe thiếu nhi năm 2026 được Ban chỉ đạo hoạt động hè cùng Đoàn thanh niên xã Nhà Bè (TP.HCM) tổ chức ngày 9-7.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T21:50:53.585734+07:00",
+      "fetched": "2026-07-09T21:50:53.585779+07:00"
+    },
+    {
+      "id": "a4629b6ce8007856aca41bdc930f9541",
+      "title": "Một người chết trong vụ cháy nhà ở trung tâm Đà Lạt",
+      "link": "https://tuoitre.vn/mot-nguoi-chet-trong-vu-chay-nha-o-trung-tam-da-lat-100260709200423592.htm",
+      "summary": "Lực lượng chức năng xác định có nạn nhân chết trong vụ cháy nhà trên đường Trương Công Định, gần khu Hòa Bình ở trung tâm Đà Lạt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T21:50:53.585683+07:00",
+      "fetched": "2026-07-09T21:50:53.585727+07:00"
+    },
+    {
+      "id": "4544128e154a39c84ab22d02d5f48bd0",
+      "title": "Cháy lớn tại cảng cá Tam Quan, lửa thiêu rụi nhiều tàu",
+      "link": "https://tuoitre.vn/chay-lon-tai-cang-ca-tam-quan-lua-thieu-rui-nhieu-tau-100260709210123546.htm",
+      "summary": "Tối 9-7, một vụ cháy lớn bùng phát tại khu neo đậu tàu thuyền ở cảng cá Tam Quan, phường Hoài Nhơn Bắc, Gia Lai, làm thiệt hại nặng nhiều tàu cá.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T21:50:53.585627+07:00",
+      "fetched": "2026-07-09T21:50:53.585675+07:00"
+    },
+    {
+      "id": "f095f68e4bfab16d740af0db07830b41",
+      "title": "Một loạt trường khối nghệ thuật thiếu lực lượng kế cận",
+      "link": "https://tuoitre.vn/mot-loat-truong-khoi-nghe-thuat-thieu-luc-luong-ke-can-100260709202030572.htm",
+      "summary": "Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch Lâm Thị Phương Thanh cho biết vừa rồi bộ tiến hành rà soát, sắp xếp lại hệ thống các trường đào tạo ngành. Kết quả cho thấy một loạt trường thuộc khối nghệ thuật rất thiếu lực lượng kế cận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T21:50:53.585546+07:00",
+      "fetched": "2026-07-09T21:50:53.585617+07:00"
+    },
+    {
+      "id": "c0c88991e5a8902c515c1085cff0bec5",
+      "title": "Một hệ thống cầm đồ chào bán ra công chúng hơn 22 triệu cổ phiếu",
+      "link": "https://tuoitre.vn/mot-he-thong-cam-do-chao-ban-ra-cong-chung-hon-22-trieu-co-phieu-100260709204050402.htm",
+      "summary": "F88 chào bán hơn 22 triệu cổ phiếu phổ thông, toàn bộ là cổ phiếu phát hành mới với giá bán 71.000 đồng/cổ phiếu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T21:50:53.585459+07:00",
+      "fetched": "2026-07-09T21:50:53.585534+07:00"
+    },
+    {
+      "id": "2a2853a04a0caf498c50e1f0dfaa62f8",
+      "title": "'Total Eclipse of the Heart' mãi còn, Bonnie Tyler ra đi ở tuổi 75",
+      "link": "https://tuoitre.vn/total-eclipse-of-the-heart-mai-con-bonnie-tyler-ra-di-o-tuoi-75-100260709204723043.htm",
+      "summary": "Giọng ca nhạc pop-rock người Xứ Wales Bonnie Tyler qua đời ngày 8-7 ở tuổi 75.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T21:50:53.585379+07:00",
+      "fetched": "2026-07-09T21:50:53.585447+07:00"
+    },
+    {
+      "id": "958b9b5668a2af9d08ca7893161eeadf",
+      "title": "Dự án vành đai 4 TP.HCM dài hơn 159km triển khai đến đâu?",
+      "link": "https://tuoitre.vn/du-an-vanh-dai-4-tphcm-dai-hon-159km-trien-khai-den-dau-100260709211144561.htm",
+      "summary": "Sau một năm Quốc hội thông qua chủ trương, dự án vành đai 4 TP.HCM dài 159,3km, vốn 120.000 tỉ đồng đang được các địa phương đồng loạt triển khai, trong khi giải phóng mặt bằng tiếp tục được đẩy nhanh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T21:50:53.585290+07:00",
+      "fetched": "2026-07-09T21:50:53.585366+07:00"
+    },
+    {
+      "id": "fa3edc91e047160981538cc8e7d657d6",
+      "title": "Ít nhất 28 người thiệt mạng trong vụ cháy nhà máy giày ở Trung Quốc",
+      "link": "https://tuoitre.vn/it-nhat-28-nguoi-thiet-mang-trong-vu-chay-nha-may-giay-o-trung-quoc-10026070921160175.htm",
+      "summary": "Chủ tịch Trung Quốc Tập Cận Bình chỉ đạo điều tra nhanh nguyên nhân vụ cháy nhà máy sản xuất giày ở thành phố Tấn Giang, tỉnh Phúc Kiến.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T21:50:53.585204+07:00",
+      "fetched": "2026-07-09T21:50:53.585276+07:00"
+    },
+    {
+      "id": "98c07656c9252852df5e3b2091a5074f",
+      "title": "Ba quả phạt đền trong một trận đấu với tỉ số 7-0",
+      "link": "https://tuoitre.vn/ba-qua-phat-den-trong-mot-tran-dau-voi-ti-so-7-0-100260709202327876.htm",
+      "summary": "CLB Phong Phú Hà Nam đã thắng Hà Nội II 7-0 trong trận đấu có đến 3 quả phạt đền ở vòng 5 Giải bóng đá nữ VĐQG - Cúp Thái Sơn Bắc 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T21:50:53.585097+07:00",
+      "fetched": "2026-07-09T21:50:53.585190+07:00"
+    },
+    {
+      "id": "ee8336c6dcc65253d90fd9f1a333ba7d",
+      "title": "Xã Hưng Long đối thoại doanh nghiệp vì mục tiêu tăng trưởng hai con số",
+      "link": "https://tuoitre.vn/xa-hung-long-doi-thoai-doanh-nghiep-vi-muc-tieu-tang-truong-hai-con-so-100260709204449556.htm",
+      "summary": "Chiều 9-7, UBND xã Hưng Long (TP.HCM) tổ chức hội nghị gặp gỡ đối thoại với doanh nghiệp, hộ sản xuất kinh doanh với chủ đề \"Đồng hành cùng doanh nghiệp, hộ sản xuất kinh doanh trong xúc tiến tín dụng tại địa phương góp phần tăng trưởng hai con số\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T21:50:53.584986+07:00",
+      "fetched": "2026-07-09T21:50:53.585082+07:00"
+    },
+    {
+      "id": "52bd27f21c75c4e9f3329e0a90b022a3",
+      "title": "Giá vàng thế giới bất ngờ hồi phục lên trên 4.100 USD/ounce, trong nước tăng 500.000 đồng",
+      "link": "https://tuoitre.vn/gia-vang-the-gioi-bat-ngo-hoi-phuc-len-tren-4100-usd-ounce-trong-nuoc-tang-500000-dong-100260709212957964.htm",
+      "summary": "Tối nay, 9-7, giá vàng thế giới bất ngờ tăng mạnh lên 4.120 USD/ounce vì kỳ vọng lạm phát sẽ giảm và Cục Dự trữ Liên Bang Mỹ (Fed) sẽ giữ nguyên lãi suất đến hết năm nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T21:50:53.584514+07:00",
+      "fetched": "2026-07-09T21:50:53.584963+07:00"
+    },
     {
       "id": "65b61c05462f68a2f777149401ce0d87",
       "title": "Bộ Ngoại giao phản hồi về tình hình thiên tai gây thiệt hại lớn tại Trung Quốc",
@@ -153,6 +303,16 @@ window.newsData_2026_07_09 = {
       "fetched": "2026-07-09T18:01:10.714464+07:00"
     },
     {
+      "id": "5f658ed7ffc689964ba52659d383802d",
+      "title": "Cháy tiệm phụ tùng xe máy ở TP.HCM, 2 người bị thương",
+      "link": "https://thanhnien.vn/chay-tiem-phu-tung-xe-may-o-tphcm-2-nguoi-bi-thuong-185260709160135792.htm",
+      "summary": "Vụ cháy lớn xảy ra tại tiệm kinh doanh phụ tùng xe máy ở phường An Phú Đông, TP.HCM khiến 2 người bị thương và thiêu rụi gần như toàn bộ tài sản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T14:44:00+07:00",
+      "fetched": "2026-07-09T21:50:51.305901+07:00"
+    },
+    {
       "id": "38406a96c532a3d338d82291cfe570ad",
       "title": "ADB hạ dự báo tăng trưởng, châu Á ảnh hưởng nặng nề vì chiến sự Trung Đông",
       "link": "https://tuoitre.vn/adb-ha-du-bao-tang-truong-chau-a-anh-huong-nang-ne-vi-chien-su-trung-dong-100260709122928356.htm",
@@ -301,6 +461,426 @@ window.newsData_2026_07_09 = {
       "category": "Tổng hợp",
       "published": "2026-07-09T14:39:13.356975+07:00",
       "fetched": "2026-07-09T14:39:13.357127+07:00"
+    },
+    {
+      "id": "f04ea54873e86802a564c8ce95f810be",
+      "title": "Cán bộ, công chức có thể bị buộc thôi việc nếu gây lãng phí trên 75 triệu",
+      "link": "https://thanhnien.vn/can-bo-cong-chuc-co-the-bi-buoc-thoi-viec-neu-gay-lang-phi-tren-75-trieu-185260709203246888.htm",
+      "summary": "Nghị định 267 quy định, cán bộ, công chức, viên chức có thể bị buộc thôi việc nếu lãng phí gây thiệt hại trên 75 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T14:32:00+07:00",
+      "fetched": "2026-07-09T21:50:51.306051+07:00"
+    },
+    {
+      "id": "f147ee7b8a6a73bc712682bb0c449187",
+      "title": "Được hưởng 3 quả phạt đền, CLB Phong Phú Hà Nam thắng cực đậm Hà Nội II",
+      "link": "https://thanhnien.vn/duoc-huong-3-qua-phat-den-clb-phong-phu-ha-nam-thang-cuc-dam-ha-noi-ii-185260709210347552.htm",
+      "summary": "Chiều 9.7, Phong Phú Hà Nam đã có màn trình diễn áp đảo khi đánh bại Hà Nội II với tỷ số 7-0 ở trận đấu sớm vòng 5 giải bóng đá nữ vô địch quốc gia (VĐQG) – Cúp Thái Sơn Bắc 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T14:22:00+07:00",
+      "fetched": "2026-07-09T21:50:51.306214+07:00"
+    },
+    {
+      "id": "bf34de96e0dbd5e1d061a654ac62b924",
+      "title": "Thung lũng Silicon chia rẽ về robot hình người?",
+      "link": "https://thanhnien.vn/thung-lung-silicon-chia-re-ve-robot-hinh-nguoi-185260709191301303.htm",
+      "summary": "Robot hình người được dự đoán là ngành công nghiệp tỉ USD nhưng các nhà đầu tư, nghiên cứu ở Thung lũng Silicon đang có những quan điểm trái ngược về xu hướng này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T14:09:00+07:00",
+      "fetched": "2026-07-09T21:50:51.306352+07:00"
+    },
+    {
+      "id": "3ecbceecd9156bdef59dbe9caa9dfe18",
+      "title": "Kiến nghị thanh tra toàn diện chuỗi AMES English Hà Nội",
+      "link": "https://thanhnien.vn/kien-nghi-thanh-tra-toan-dien-chuoi-ames-english-ha-noi-185260709194310041.htm",
+      "summary": "Sau khi phát hiện hàng loạt sai phạm, Công an TP.Hà Nội đã kiến nghị Sở GD-ĐT Hà Nội tiến hành thanh, kiểm tra toàn diện các cơ sở đào tạo ngoại ngữ thuộc Công ty cổ phần đào tạo AMES chi nhánh Hà Nội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T14:08:00+07:00",
+      "fetched": "2026-07-09T21:50:51.306479+07:00"
+    },
+    {
+      "id": "b64faac4dabe7c5e3b5a3871889fbf7a",
+      "title": "Bác sĩ cảnh báo cách xử lý các bệnh gặp ở trẻ trong trường mầm non",
+      "link": "https://thanhnien.vn/bac-si-canh-bao-cach-xu-ly-cac-benh-gap-o-tre-trong-truong-mam-non-185260709185701325.htm",
+      "summary": "Giáo viên mầm non có được tự ý nhận thuốc từ phụ huynh rồi cho trẻ uống? Giáo viên cần xử lý khẩn cấp thế nào nếu trẻ dị ứng và sốc phản vệ với thức ăn, côn trùng đốt; có cơn hen phế quản cấp tính tại lớp?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T14:08:00+07:00",
+      "fetched": "2026-07-09T21:50:51.306610+07:00"
+    },
+    {
+      "id": "51b7e6a9351586842eb19a1d9cb66934",
+      "title": "Sở GD-ĐT TP.HCM nói gì về thí điểm sắp xếp, sáp nhập trường học?",
+      "link": "https://thanhnien.vn/so-gd-dt-tphcm-noi-gi-ve-thi-diem-sap-xep-sap-nhap-truong-hoc-185260709205245865.htm",
+      "summary": "Sở GD-ĐT TP.HCM cho biết việc thí điểm sắp xếp, sáp nhập trường học được triển khai trên cơ sở khoa học, phù hợp thực tiễn, trong đó quyền lợi học sinh được đặt lên hàng đầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T14:04:00+07:00",
+      "fetched": "2026-07-09T21:50:51.306733+07:00"
+    },
+    {
+      "id": "bb0e67e56ef160ec66dac59f5ba6efcf",
+      "title": "Bố mẹ chia đều thừa kế dù tôi là con trai duy nhất trong nhà",
+      "link": "https://vnexpress.net/bo-me-chia-deu-thua-ke-du-toi-la-con-trai-duy-nhat-trong-nha-5095537.html",
+      "summary": "Kể cả một người em được nhận làm con nuôi cũng có phần trong đó, trong khi tôi là người chịu toàn bộ trách nhiệm phụng dưỡng cha mẹ già.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T14:00:00+07:00",
+      "fetched": "2026-07-09T21:50:47.969173+07:00"
+    },
+    {
+      "id": "30afa7ba605ab1b60df1c6a170ce29cc",
+      "title": "Thanh Hóa chi gần 550 tỷ đồng nâng cấp trường chuyên Lam Sơn",
+      "link": "https://vnexpress.net/thanh-hoa-chi-gan-550-ty-dong-nang-cap-truong-chuyen-lam-son-5095624.html",
+      "summary": "Trường THPT chuyên Lam Sơn sẽ mở rộng quy mô lên 50 lớp, đẩy mạnh ứng dụng AI, hướng tới trở thành trung tâm đào tạo nhân tài chất lượng cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T13:58:59+07:00",
+      "fetched": "2026-07-09T21:50:47.969351+07:00"
+    },
+    {
+      "id": "a971d7a0e7371ace44f1f903fbf69bbe",
+      "title": "Hà Nội tìm giải pháp để tăng trưởng 11%",
+      "link": "https://vnexpress.net/ha-noi-tim-giai-phap-de-tang-truong-11-5095463.html",
+      "summary": "GRDP Hà Nội tăng 8,22% trong nửa đầu năm, song để đạt mục tiêu cả năm từ 11%, thành phố cần tìm thêm động lực tăng trưởng trong những tháng còn lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T13:57:35+07:00",
+      "fetched": "2026-07-09T21:50:47.969493+07:00"
+    },
+    {
+      "id": "902419a374b2a1dff9b9bd0e3e0e0a92",
+      "title": "Lính nhảy dù Trung Quốc cứu đồng đội bất tỉnh trên không",
+      "link": "https://thanhnien.vn/linh-nhay-du-trung-quoc-cuu-dong-doi-bat-tinh-tren-khong-185260709203956297.htm",
+      "summary": "Một trung úy thuộc lực lượng lính dù Trung Quốc đã cứu mạng đồng đội cũng như bản thân sau khi đồng đội bất tỉnh trong lúc nhảy dù và hai chiếc dù bị quấn vào nhau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T13:42:00+07:00",
+      "fetched": "2026-07-09T21:50:51.306855+07:00"
+    },
+    {
+      "id": "c7d660d1a2b12863891d358ae6973d02",
+      "title": "Nga phá vỡ 'âm mưu khủng bố chưa từng có tiền lệ'",
+      "link": "https://vnexpress.net/nga-pha-vo-am-muu-khung-bo-chua-tung-co-tien-le-5095591.html",
+      "summary": "An ninh Nga thông báo ngăn chặn âm mưu ám sát hàng loạt sĩ quan quân đội, cáo buộc tình báo Ukraine đứng sau sự việc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T13:41:57+07:00",
+      "fetched": "2026-07-09T21:50:47.969625+07:00"
+    },
+    {
+      "id": "c7d660d1a2b12863891d358ae6973d02",
+      "title": "Nga phá vỡ 'âm mưu khủng bố chưa từng có tiền lệ'",
+      "link": "https://vnexpress.net/nga-pha-vo-am-muu-khung-bo-chua-tung-co-tien-le-5095591.html",
+      "summary": "An ninh Nga thông báo ngăn chặn âm mưu ám sát hàng loạt sĩ quan quân đội, cáo buộc tình báo Ukraine đứng sau sự việc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-09T13:41:57+07:00",
+      "fetched": "2026-07-09T21:50:54.735005+07:00"
+    },
+    {
+      "id": "45eb5898bd95b40c9eb460595d4ee778",
+      "title": "Đề xuất ôtô không trang bị búa phá kính sẽ trượt đăng kiểm",
+      "link": "https://vnexpress.net/de-xuat-oto-khong-trang-bi-bua-pha-kinh-se-truot-dang-kiem-5095573.html",
+      "summary": "Dự thảo quy chuẩn mới bổ sung nhiều lỗi như lắp sai biển số, thiếu gạt nước, thiếu búa phá kính, còi sai chuẩn khiến xe không đạt kiểm định.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T13:39:47+07:00",
+      "fetched": "2026-07-09T21:50:47.969759+07:00"
+    },
+    {
+      "id": "d3879216315e9293d8b34d3f4dabff70",
+      "title": "Vé xem World Cup giảm mạnh sau khi Bồ Đào Nha và chủ nhà Mỹ bị loại",
+      "link": "https://vnexpress.net/ve-xem-world-cup-giam-manh-sau-khi-bo-dao-nha-va-chu-nha-my-bi-loai-5095590.html",
+      "summary": "Sau khi Mỹ và đội của Cristiano Ronaldo lần lượt bị loại, thị trường vé xem các trận còn lại của World Cup 2026 đã biến động mạnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T13:38:16+07:00",
+      "fetched": "2026-07-09T21:50:47.969890+07:00"
+    },
+    {
+      "id": "d3879216315e9293d8b34d3f4dabff70",
+      "title": "Vé xem World Cup giảm mạnh sau khi Bồ Đào Nha và chủ nhà Mỹ bị loại",
+      "link": "https://vnexpress.net/ve-xem-world-cup-giam-manh-sau-khi-bo-dao-nha-va-chu-nha-my-bi-loai-5095590.html",
+      "summary": "Sau khi Mỹ và đội của Cristiano Ronaldo lần lượt bị loại, thị trường vé xem các trận còn lại của World Cup 2026 đã biến động mạnh.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-09T13:38:16+07:00",
+      "fetched": "2026-07-09T21:50:56.573246+07:00"
+    },
+    {
+      "id": "a51577ae56bde9f1cdfd3be9b7d04e43",
+      "title": "Quốc hội bổ nhiệm 4 nhân sự mới",
+      "link": "https://vnexpress.net/quoc-hoi-bo-nhiem-4-nhan-su-moi-5095599.html",
+      "summary": "Ủy ban Thường vụ Quốc hội phê chuẩn một Phó chủ nhiệm Ủy ban Dân nguyện và Giám sát, đồng thời bổ nhiệm trợ lý cho ba Phó chủ tịch Quốc hội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T13:37:43+07:00",
+      "fetched": "2026-07-09T21:50:47.970017+07:00"
+    },
+    {
+      "id": "449bbcda3973148bb588c9d14143a55a",
+      "title": "NSƯT Đại Nghĩa trải lòng về quyết định xuống tóc gieo duyên",
+      "link": "https://thanhnien.vn/nsut-dai-nghia-trai-long-ve-quyet-dinh-xuong-toc-gieo-duyen-185260709193634856.htm",
+      "summary": "Là khách mời trong Đời nghệ sĩ, Đại Nghĩa có những chia sẻ về quyết định thử sức ở show thực tế, đồng thời nhắc về cuộc sống bình yên sau ánh đèn sân khấu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T13:33:00+07:00",
+      "fetched": "2026-07-09T21:50:51.306979+07:00"
+    },
+    {
+      "id": "f70d6c8641629d51d09991f301e9a61a",
+      "title": "Trung Quốc trình làng loại pin có tuổi thọ hàng ngàn năm",
+      "link": "https://thanhnien.vn/trung-quoc-trinh-lang-loai-pin-co-tuoi-tho-hang-ngan-nam-185260709162256774.htm",
+      "summary": "Bí ẩn loại pin hạt nhân có thể hoạt động hàng ngàn năm vừa được chế tạo thành công tại Trung Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T13:31:00+07:00",
+      "fetched": "2026-07-09T21:50:51.307101+07:00"
+    },
+    {
+      "id": "ea99c2aafbdffa39d284402c71e0c40b",
+      "title": "'Tập trung nguồn lực phát triển AI, robot, UAV'",
+      "link": "https://vnexpress.net/tap-trung-nguon-luc-phat-trien-ai-robot-uav-5095494.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm yêu cầu tập trung nguồn lực làm chủ công nghệ chiến lược, tạo ra sản phẩm cụ thể trong các lĩnh vực như AI, dữ liệu lớn, robot, UAV và chip bán dẫn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T13:30:52+07:00",
+      "fetched": "2026-07-09T21:50:47.970165+07:00"
+    },
+    {
+      "id": "ea99c2aafbdffa39d284402c71e0c40b",
+      "title": "'Tập trung nguồn lực phát triển AI, robot, UAV'",
+      "link": "https://vnexpress.net/tap-trung-nguon-luc-phat-trien-ai-robot-uav-5095494.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm yêu cầu tập trung nguồn lực làm chủ công nghệ chiến lược, tạo ra sản phẩm cụ thể trong các lĩnh vực như AI, dữ liệu lớn, robot, UAV và chip bán dẫn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-09T13:30:52+07:00",
+      "fetched": "2026-07-09T21:50:59.604750+07:00"
+    },
+    {
+      "id": "ea49ddff4a7e547274bfc5755de7b3e1",
+      "title": "41% doanh nghiệp khó tích hợp AI vào hệ thống hiện có",
+      "link": "https://vnexpress.net/41-doanh-nghiep-kho-tich-hop-ai-vao-he-thong-hien-co-5095564.html",
+      "summary": "Nghiên cứu do FPT phối hợp với Forrester Consulting cho thấy gần nửa số doanh nghiệp được khảo sát gặp khó khăn khi tích hợp AI vào hệ thống hiện hữu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T13:30:00+07:00",
+      "fetched": "2026-07-09T21:50:47.970291+07:00"
+    },
+    {
+      "id": "83dc8877b0efa77621ce8341fbf98222",
+      "title": "Đề nghị truy tố ‘bà trùm’ chạy bệnh án tâm thần",
+      "link": "https://thanhnien.vn/de-nghi-truy-to-ba-trum-chay-benh-an-tam-than-18526070920171462.htm",
+      "summary": "Cơ quan công an xác định bà Nguyễn Thị Mai Anh đã đưa hối lộ, môi giới hối lộ để 'chạy' kết quả giám định tâm thần nhằm trì hoãn thi hành án và để được trừ thời gian chữa bệnh bắt buộc vào thời gian thi hành án phạt tù.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T13:30:00+07:00",
+      "fetched": "2026-07-09T21:50:51.307237+07:00"
+    },
+    {
+      "id": "ea49ddff4a7e547274bfc5755de7b3e1",
+      "title": "41% doanh nghiệp khó tích hợp AI vào hệ thống hiện có",
+      "link": "https://vnexpress.net/41-doanh-nghiep-kho-tich-hop-ai-vao-he-thong-hien-co-5095564.html",
+      "summary": "Nghiên cứu do FPT phối hợp với Forrester Consulting cho thấy gần nửa số doanh nghiệp được khảo sát gặp khó khăn khi tích hợp AI vào hệ thống hiện hữu.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-09T13:30:00+07:00",
+      "fetched": "2026-07-09T21:50:59.605579+07:00"
+    },
+    {
+      "id": "be5eb8193a48896d3810f57d7bd266fa",
+      "title": "Thu hồi 27 sản phẩm yến giả của Công ty cổ phần Sài Gòn Goldencare",
+      "link": "https://thanhnien.vn/thu-hoi-27-san-pham-yen-gia-cua-cong-ty-co-phan-sai-gon-goldencare-185260709180538026.htm",
+      "summary": "Công an tỉnh Vĩnh Long phát thông báo thu hồi 27 sản phẩm yến giả của Công ty cổ phần Sài Gòn Goldencare và khuyến cáo người dân không nên sử dụng sản phẩm có trong danh sách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T13:28:00+07:00",
+      "fetched": "2026-07-09T21:50:51.307358+07:00"
+    },
+    {
+      "id": "7a7fc3693dc3215286da1e2073c91d04",
+      "title": "Hàng xóm: 'Dãy nhà đổ sập như pháo nổ, bụi mù mịt'",
+      "link": "https://vnexpress.net/hang-xom-day-nha-do-sap-nhu-phao-no-bui-mu-mit-5095612.html",
+      "summary": "Chị Ngô Thị Linh cho biết dãy nhà trên đường Lê Lợi, phường Bắc Giang, đổ sập với những tiếng nổ liên tiếp như pháo, bụi bay mù mịt khiến cả khu phố náo loạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T13:24:57+07:00",
+      "fetched": "2026-07-09T21:50:47.970411+07:00"
+    },
+    {
+      "id": "cf2ddda5b4e0ca0afbcdce194a59b9ec",
+      "title": "Điểm sàn Đại học Luật TP HCM thấp nhất 16",
+      "link": "https://vnexpress.net/cap-nhat-diem-san-cong-thuc-quy-doi-diem-chuan-cua-dai-hoc-luat-tp-hcm-nam-2026-5095484.html",
+      "summary": "Trường Đại học Luật TP HCM lấy điểm sàn 16 đến 22, theo kết quả thi tốt nghiệp THPT.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T13:24:57+07:00",
+      "fetched": "2026-07-09T21:50:47.970537+07:00"
+    },
+    {
+      "id": "840cb383a30df7090cfb889251422d00",
+      "title": "Bà Nguyễn Phạm Duy Trang làm Phó chủ nhiệm Ủy ban Dân nguyện và Giám sát của Quốc hội",
+      "link": "https://thanhnien.vn/ba-nguyen-pham-duy-trang-lam-pho-chu-nhiem-uy-ban-dan-nguyen-va-giam-sat-cua-quoc-hoi-185260709194922122.htm",
+      "summary": "Ủy ban Thường vụ Quốc hội vừa có nghị quyết phê chuẩn bà Nguyễn Phạm Duy Trang, đại biểu Quốc hội hoạt động chuyên trách tại Ủy ban Văn hóa và Xã hội, giữ chức Phó chủ nhiệm Ủy ban Dân nguyện và Giám sát của Quốc hội khoá XVI.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T13:24:00+07:00",
+      "fetched": "2026-07-09T21:50:51.307480+07:00"
+    },
+    {
+      "id": "d1d478529663d8abdc919171d29d2f13",
+      "title": "Ukraine tuyên bố bắn rơi chiến đấu cơ Su-35 Nga",
+      "link": "https://thanhnien.vn/ukraine-tuyen-bo-ban-roi-chien-dau-co-su-35-nga-185260709183313404.htm",
+      "summary": "Quân đội Ukraine hôm 9.7 công bố một video được cho là quay lại cảnh một máy bay Su-35 của Nga bị bắn rơi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T13:22:00+07:00",
+      "fetched": "2026-07-09T21:50:51.307597+07:00"
+    },
+    {
+      "id": "7c62c507a3f4e7fefff4f6c1eb11e69b",
+      "title": "Người đàn ông tử vong khi đuổi theo 2 tên cướp giật dây chuyền",
+      "link": "https://thanhnien.vn/nguoi-dan-ong-tu-vong-khi-duoi-theo-2-ten-cuop-giat-day-chuyen-185260709182105806.htm",
+      "summary": "Để có tiền mua ma túy sử dụng, Thạch Nhật Khải và Khưu Minh Tiến giật dây chuyền của hai vợ chồng già đang chạy xe máy trên đường khiến người chồng tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T13:22:00+07:00",
+      "fetched": "2026-07-09T21:50:51.307713+07:00"
+    },
+    {
+      "id": "53013a3126c7bc5d5c5607e0b6ed0be6",
+      "title": "Giọng ca hit 'Total Eclipse of the Heart' qua đời",
+      "link": "https://vnexpress.net/giong-ca-hit-total-eclipse-of-the-heart-qua-doi-5095568.html",
+      "summary": "Bonnie Tyler - huyền thoại nhạc pop thập niên 1980, nổi tiếng với ca khúc \"Total Eclipse of the Heart\" - mất ở tuổi 75.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T13:13:32+07:00",
+      "fetched": "2026-07-09T21:50:47.970655+07:00"
+    },
+    {
+      "id": "b9924991c08d994a6fecb7b402380417",
+      "title": "Người Hà Nội chật vật về nhà sau mưa giờ tan tầm",
+      "link": "https://vnexpress.net/nguoi-ha-noi-chat-vat-ve-nha-sau-mua-gio-tan-tam-5095615.html",
+      "summary": "Trận mưa lớn đúng giờ tan tầm chiều 9/7 khiến nhiều tuyến phố Thủ đô ngập cục bộ, giao thông ùn ứ, người dân chật vật trên đường về nhà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T13:11:31+07:00",
+      "fetched": "2026-07-09T21:50:47.970774+07:00"
+    },
+    {
+      "id": "eeeae699a45994eaf099c45b90386811",
+      "title": "Phát hiện thêm 5 hài cốt liệt sĩ ở công viên Lê Thị Riêng",
+      "link": "https://vnexpress.net/phat-hien-them-5-hai-cot-liet-si-o-cong-vien-le-thi-rieng-5095618.html",
+      "summary": "Lực lượng quy tập phát hiện thêm 5 hài cốt liệt sĩ cùng hai di vật tại công viên Lê Thị Riêng trong ngày 9/7, nâng tổng số hài cốt được tìm thấy lên 16.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T13:01:49+07:00",
+      "fetched": "2026-07-09T21:50:47.970900+07:00"
+    },
+    {
+      "id": "257167f614c055c62e1ce98079631a1e",
+      "title": "'Canh bạc' 55 triệu USD của Châu Tinh Trì",
+      "link": "https://vnexpress.net/canh-bac-55-trieu-usd-cua-chau-tinh-tri-5095310.html",
+      "summary": "Châu Tinh Trì ra mắt \"Kungfu nữ túc\", dấy hy vọng lẫn nghi ngại trong bối cảnh thị trường điện ảnh Trung Quốc ảm đạm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T13:00:00+07:00",
+      "fetched": "2026-07-09T21:50:47.971020+07:00"
+    },
+    {
+      "id": "75b5e457d209ff52a9f801ca6c2c2eed",
+      "title": "Cháy nhà máy Trung Quốc, ông Tập nói 'thiệt hại nặng về người'",
+      "link": "https://vnexpress.net/chay-nha-may-trung-quoc-ong-tap-noi-thiet-hai-nang-ve-nguoi-5095606.html",
+      "summary": "Nhà máy giày tại tỉnh Phúc Kiến cháy dữ dội, ông Tập Cận Bình nói rằng nhiều người đã thiệt mạng và yêu cầu khẩn trương điều tra nguyên nhân.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-09T12:39:00+07:00",
+      "fetched": "2026-07-09T21:50:54.735177+07:00"
+    },
+    {
+      "id": "88dc2f404a1e43d8e4093ef8984fc8f0",
+      "title": "Giáo viên nhảy khỏi máy bay, bỏ lại học viên một mình hạ cánh",
+      "link": "https://vnexpress.net/giao-vien-nhay-khoi-may-bay-bo-lai-hoc-vien-mot-minh-ha-canh-5095480.html",
+      "summary": "Huấn luyện viên phi công bất ngờ mở cửa máy bay rồi nhảy ra ngoài, buộc học viên bay cùng phải đơn độc trở về sân bay và hạ cánh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-09T12:19:00+07:00",
+      "fetched": "2026-07-09T21:50:54.735317+07:00"
+    },
+    {
+      "id": "f62d052e6eddf9d3d44b287dbea25eb8",
+      "title": "Đề xuất thu nhập đến 300 triệu/tháng cho tổng công trình sư về công nghệ chiến lược",
+      "link": "https://vnexpress.net/de-xuat-thu-nhap-den-300-trieu-thang-cho-tong-cong-trinh-su-ve-cong-nghe-chien-luoc-5095558.html",
+      "summary": "Tổng công trình sư được đề xuất hưởng thù lao tối đa 300 triệu đồng mỗi tháng, theo Dự thảo Thông tư về cơ chế tài chính đối với nhiệm vụ phát triển công nghệ chiến lược.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-09T12:06:59+07:00",
+      "fetched": "2026-07-09T21:50:59.604908+07:00"
+    },
+    {
+      "id": "cfaf9fb9b17f91996988f41d8b6e894d",
+      "title": "Cảnh tan hoang ở Trung Quốc sau bão Maysak",
+      "link": "https://vnexpress.net/canh-tan-hoang-o-trung-quoc-sau-bao-maysak-5095375.html",
+      "summary": "Bão Maysak tàn phá nghiêm trọng khu vực miền nam và miền trung Trung Quốc, khiến ít nhất 39 người chết, nhà cửa ngập lụt, nhiều phương tiện và gia súc bị cuốn trôi.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-09T12:04:09+07:00",
+      "fetched": "2026-07-09T21:50:54.735448+07:00"
+    },
+    {
+      "id": "e5d73e2d3704290d57e9eae4d67c15b7",
+      "title": "Chiến thuật 'vừa đấm vừa xoa' của ông Trump tại hội nghị NATO",
+      "link": "https://vnexpress.net/chien-thuat-vua-dam-vua-xoa-cua-ong-trump-tai-hoi-nghi-nato-5095276.html",
+      "summary": "Ông Trump thể hiện phong cách đàm phán thường thấy khi vừa gây sức ép với các nước NATO để thúc đẩy ưu tiên của Mỹ, rồi chuyển sang thông điệp hòa giải.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-09T12:00:58+07:00",
+      "fetched": "2026-07-09T21:50:54.735585+07:00"
+    },
+    {
+      "id": "91ba1c07fd7c630ffe84c09ea02f462d",
+      "title": "Giá tiền ảo Pi lần đầu xuống dưới 0,1 USD",
+      "link": "https://vnexpress.net/gia-tien-ao-pi-lan-dau-xuong-duoi-0-1-usd-5095589.html",
+      "summary": "Tiền ảo Pi hiện sụt dưới mức 0,1 USD mỗi đồng trong bối cảnh đội ngũ Pi Network không đưa ra nhiều cải tiến cho dự án.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-09T11:39:04+07:00",
+      "fetched": "2026-07-09T21:50:59.605045+07:00"
+    },
+    {
+      "id": "6ea2daf65ba610af51902406f75c5edc",
+      "title": "Tương quan trước trận Pháp - Morocco",
+      "link": "https://vnexpress.net/tuong-quan-truoc-tran-phap-morocco-5095393.html",
+      "summary": "Kylian Mbappe được kỳ vọng gia tăng kỷ lục ghi bàn ở vòng knock-out World Cup, khi Pháp chạm trán Morocco ở tứ kết World Cup 2026 hôm nay.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-09T11:31:11+07:00",
+      "fetched": "2026-07-09T21:51:01.061069+07:00"
+    },
+    {
+      "id": "b99840ec67a43693bcd0f57bbbf198af",
+      "title": "Iran tuyên bố tập kích tổ hợp Patriot ở Kuwait",
+      "link": "https://vnexpress.net/iran-tuyen-bo-tap-kich-to-hop-patriot-o-kuwait-5095517.html",
+      "summary": "Quân đội Iran công bố danh sách mục tiêu bị nhắm tới trong đợt tập kích trả đũa Mỹ, trong đó có tổ hợp phòng không Patriot tại Kuwait.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-09T11:15:39+07:00",
+      "fetched": "2026-07-09T21:50:54.735717+07:00"
+    },
+    {
+      "id": "d6d883772bc8969394f79d036aba1ff2",
+      "title": "Bí ẩn phía sau 31% cú sút luân lưu thất bại ở World Cup",
+      "link": "https://vnexpress.net/bi-an-phia-sau-31-cu-sut-luan-luu-that-bai-o-world-cup-5095557.html",
+      "summary": "Thống kê World Cup cho thấy gần một phần ba số cú sút luân lưu không vào lưới, dù người sút chiếm ưu thế lớn về vật lý.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-09T11:03:02+07:00",
+      "fetched": "2026-07-09T21:51:01.061244+07:00"
     },
     {
       "id": "04af5bce5f50231eefa588133ef08f61",
