@@ -1,6 +1,6 @@
 window.newsData_2026_07_10 = {
   "date": "2026-07-10",
-  "lastUpdated": "2026-07-10T02:40:22.833561+07:00",
+  "lastUpdated": "2026-07-10T04:20:09.846080+07:00",
   "articles": [
     {
       "id": "6241a49415c4c52844396c2e38b2ee4a",
@@ -181,6 +181,26 @@ window.newsData_2026_07_10 = {
       "category": "Tổng hợp",
       "published": "2026-07-10T00:52:46.830157+07:00",
       "fetched": "2026-07-10T00:52:46.830311+07:00"
+    },
+    {
+      "id": "d698f0d44f2abf8e77d3d3f9d1ce277e",
+      "title": "Tổng giám mục Argentina dẫn lời Messi tại Thánh lễ Ngày Độc lập: Gắn kết cả đất nước",
+      "link": "https://thanhnien.vn/tong-giam-muc-argentina-dan-loi-messi-tai-thanh-le-ngay-doc-lap-gan-ket-ca-dat-nuoc-185260710040454443.htm",
+      "summary": "Tổng giám mục Jorge Garcia Cuerva đã trích dẫn lời Lionel Messi tại Thánh lễ Ngày Độc lập Argentina, khi La Albiceleste chuẩn bị cho trận gặp Thụy Sĩ tại tứ kết World Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T21:09:00+07:00",
+      "fetched": "2026-07-10T04:20:00.071149+07:00"
+    },
+    {
+      "id": "41995155570faba1ef118d273adf3b59",
+      "title": "De Bruyne không muốn nói lời tạm biệt",
+      "link": "https://thanhnien.vn/de-bruyne-khong-muon-noi-loi-tam-biet-185260709201051755.htm",
+      "summary": "Khi đối thủ là nhà đương kim vô địch châu Âu và được đánh giá vượt trội Bỉ, Kevin De Bruyne và đồng đội cần chơi với hơn 100% phong độ mới có thể giành vé vào bán kết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-09T20:33:00+07:00",
+      "fetched": "2026-07-10T04:20:00.071297+07:00"
     },
     {
       "id": "e72f973e197e7fe64bc075fd2a2c103e",
