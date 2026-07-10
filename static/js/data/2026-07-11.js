@@ -1,6 +1,6 @@
 window.newsData_2026_07_11 = {
   "date": "2026-07-11",
-  "lastUpdated": "2026-07-11T02:22:32.447877+07:00",
+  "lastUpdated": "2026-07-11T04:03:22.357448+07:00",
   "articles": [
     {
       "id": "238d20ee862c0db8f0d26be09ba8b134",
@@ -161,6 +161,56 @@ window.newsData_2026_07_11 = {
       "category": "Tổng hợp",
       "published": "2026-07-11T00:44:49.890488+07:00",
       "fetched": "2026-07-11T00:44:49.890634+07:00"
+    },
+    {
+      "id": "7ed28038a02fd4f22bb4084a6ca0bca5",
+      "title": "Ảnh dự thi: Sự chuyển mình tự động hóa sau sáp nhập",
+      "link": "https://thanhnien.vn/anh-du-thi-su-chuyen-minh-tu-dong-hoa-sau-sap-nhap-185260710192030993.htm",
+      "summary": "Bộ ảnh dự thi dưới đây thể hiện tinh thần lao động hăng say, sự đoàn kết, chuyên nghiệp và ý thức trách nhiệm cao của đội ngũ công nhân ngành điện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T21:00:00+07:00",
+      "fetched": "2026-07-11T04:03:11.023397+07:00"
+    },
+    {
+      "id": "d4bd3443e8f93b40de28f6893f5d66ba",
+      "title": "Cuộc đua vua phá lưới hay nhất lịch sử World Cup",
+      "link": "https://thanhnien.vn/cuoc-dua-vua-pha-luoi-hay-nhat-lich-su-world-cup-185260710220254566.htm",
+      "summary": "Lionel Messi, Kylian Mbappe, Erling Haaland và Harry Kane sẽ tạo nên cuộc đua 'Chiếc giày vàng' chưa từng có tại World Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T20:59:00+07:00",
+      "fetched": "2026-07-11T04:03:11.023609+07:00"
+    },
+    {
+      "id": "e568e47cdf00511df8c41cf0643b1457",
+      "title": "Na Uy - Anh (4 giờ ngày 12.7, trực tiếp trên VTV): ‘Tam sư’ phong tỏa Haaland",
+      "link": "https://thanhnien.vn/na-uy-anh-4-gio-ngay-127-truc-tiep-tren-vtv-tam-su-phong-toa-haaland-18526071022063838.htm",
+      "summary": "Muốn đánh bại đội tuyển Na Uy ở tứ kết World Cup 2026, đội tuyển Anh phải phong tỏa thành công chân sút số 1 của đối thủ là Haaland.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T20:13:00+07:00",
+      "fetched": "2026-07-11T04:03:11.023784+07:00"
+    },
+    {
+      "id": "73c5c143bf1e82ad13f5f5efa3e29df9",
+      "title": "Sinner dập tắt giấc mơ Grand Slam thứ 25 của Djokovic",
+      "link": "https://vnexpress.net/sinner-dap-tat-giac-mo-grand-slam-thu-25-cua-djokovic-5096097.html",
+      "summary": "ĐKVĐ Jannik Sinner thắng tay vợt huyền thoại Novak Djokovic 6-4, 6-4, 6-4 ở bán kết Wimbledon hôm 10/7.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T19:20:05+07:00",
+      "fetched": "2026-07-11T04:03:08.128993+07:00"
+    },
+    {
+      "id": "73c5c143bf1e82ad13f5f5efa3e29df9",
+      "title": "Sinner dập tắt giấc mơ Grand Slam thứ 25 của Djokovic",
+      "link": "https://vnexpress.net/sinner-dap-tat-giac-mo-grand-slam-thu-25-cua-djokovic-5096097.html",
+      "summary": "ĐKVĐ Jannik Sinner thắng tay vợt huyền thoại Novak Djokovic 6-4, 6-4, 6-4 ở bán kết Wimbledon hôm 10/7.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-10T19:20:05+07:00",
+      "fetched": "2026-07-11T04:03:22.352117+07:00"
     },
     {
       "id": "769ef42b3c733cbbed670e0a3057d98a",
