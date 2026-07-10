@@ -1,7 +1,17 @@
 window.newsData_2026_07_11 = {
   "date": "2026-07-11",
-  "lastUpdated": "2026-07-11T00:44:57.494817+07:00",
+  "lastUpdated": "2026-07-11T02:22:32.447877+07:00",
   "articles": [
+    {
+      "id": "238d20ee862c0db8f0d26be09ba8b134",
+      "title": "Hạ Djokovic, Sinner vào chung kết Wimbledon 2 mùa liên tiếp",
+      "link": "https://tuoitre.vn/ha-djokovic-sinner-vao-chung-ket-wimbledon-2-mua-lien-tiep-100260711012734223.htm",
+      "summary": "Đêm 10-7, tay vợt số 1 thế giới Jannik Sinner đánh bại huyền thoại Novak Djokovic với tỉ số 3-0 (6-4, 6-4, 6-4) để có được tấm vé vào vòng chung kết Wimbledon 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T02:22:24.532043+07:00",
+      "fetched": "2026-07-11T02:22:24.532211+07:00"
+    },
     {
       "id": "80f5ef0f27ac535e66666fc5d0f31d36",
       "title": "Bình Hưng ra mắt mô hình 'Ấp số - Chung cư số', dùng camera giám sát xử lý vi phạm môi trường",
@@ -151,6 +161,76 @@ window.newsData_2026_07_11 = {
       "category": "Tổng hợp",
       "published": "2026-07-11T00:44:49.890488+07:00",
       "fetched": "2026-07-11T00:44:49.890634+07:00"
+    },
+    {
+      "id": "769ef42b3c733cbbed670e0a3057d98a",
+      "title": "4 dấu hiệu đau khớp gối mà người trung niên cần đi khám sớm",
+      "link": "https://thanhnien.vn/4-dau-hieu-dau-khop-goi-ma-nguoi-trung-nien-can-di-kham-som-185260709194006058.htm",
+      "summary": "Đau khớp gối là tình trạng rất phổ biến ở người trung niên. Trong nhiều trường hợp, họ thường tự mua thuốc giảm đau, dán cao hoặc nghỉ ngơi vài ngày rồi bỏ qua. Nhưng không phải cơn đau đầu gối nào cũng vô hại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T18:47:00+07:00",
+      "fetched": "2026-07-11T02:22:22.623549+07:00"
+    },
+    {
+      "id": "4f32905c3db819a33378c6906f0808bd",
+      "title": "Người mắc tiểu đường hay đói: Có phải do đường huyết bất thường?",
+      "link": "https://thanhnien.vn/nguoi-mac-tieu-duong-hay-doi-co-phai-do-duong-huyet-bat-thuong-185260710193432.htm",
+      "summary": "Cảm giác đói liên tục đôi khi là dấu hiệu của đường huyết đang dao động bất thường, đặc biệt ở người mắc tiểu đường. Nếu tình trạng này đi kèm khát nước, mệt mỏi thì có thể là do kiểm soát đường huyết chưa tốt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T18:42:00+07:00",
+      "fetched": "2026-07-11T02:22:22.623701+07:00"
+    },
+    {
+      "id": "8a417bc855516ddc7101301ea8a5fe02",
+      "title": "Tây Ban Nha 0-0 Bỉ (H1): Chấn thương lúc khởi động",
+      "link": "https://vnexpress.net/tay-ban-nha-v-bi-5096093.html",
+      "summary": "Tây Ban Nha chạm trán Bỉ ở tứ kết World Cup 2026 trên sân Los Angeles. Bóng lăn lúc 2h hôm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T18:00:00+07:00",
+      "fetched": "2026-07-11T02:22:19.427047+07:00"
+    },
+    {
+      "id": "cd117932d270d6edeaff24b7a03e71e7",
+      "title": "5 việc nên làm mỗi ngày giúp giảm mất ngủ",
+      "link": "https://vnexpress.net/5-viec-nen-lam-moi-ngay-giup-giam-mat-ngu-5095450.html",
+      "summary": "Đón nắng buổi sáng, không ngủ bù nhiều vào cuối tuần, tắm nước ấm vào buổi tối có thể giúp cải thiện chất lượng giấc ngủ, giảm mất ngủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T18:00:00+07:00",
+      "fetched": "2026-07-11T02:22:19.427263+07:00"
+    },
+    {
+      "id": "20058dcf8cfc8b0d1904c86c73524fc9",
+      "title": "Mỹ nguy cơ mất 'cửa ngõ Địa Trung Hải' nếu cắt quan hệ với Tây Ban Nha",
+      "link": "https://vnexpress.net/my-nguy-co-mat-cua-ngo-dia-trung-hai-neu-cat-quan-he-voi-tay-ban-nha-5095284.html",
+      "summary": "Quân đội Mỹ có thể chịu nhiều thiệt hại, như mất quyền sử dụng loạt căn cứ chiến lược, nếu ông Trump thực sự cắt quan hệ với Tây Ban Nha.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T18:00:00+07:00",
+      "fetched": "2026-07-11T02:22:19.427410+07:00"
+    },
+    {
+      "id": "20058dcf8cfc8b0d1904c86c73524fc9",
+      "title": "Mỹ nguy cơ mất 'cửa ngõ Địa Trung Hải' nếu cắt quan hệ với Tây Ban Nha",
+      "link": "https://vnexpress.net/my-nguy-co-mat-cua-ngo-dia-trung-hai-neu-cat-quan-he-voi-tay-ban-nha-5095284.html",
+      "summary": "Quân đội Mỹ có thể chịu nhiều thiệt hại, như mất quyền sử dụng loạt căn cứ chiến lược, nếu ông Trump thực sự cắt quan hệ với Tây Ban Nha.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-10T18:00:00+07:00",
+      "fetched": "2026-07-11T02:22:25.903507+07:00"
+    },
+    {
+      "id": "8a417bc855516ddc7101301ea8a5fe02",
+      "title": "Tây Ban Nha 0-0 Bỉ (H1): Chấn thương lúc khởi động",
+      "link": "https://vnexpress.net/tay-ban-nha-v-bi-5096093.html",
+      "summary": "Tây Ban Nha chạm trán Bỉ ở tứ kết World Cup 2026 trên sân Los Angeles. Bóng lăn lúc 2h hôm nay.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-10T18:00:00+07:00",
+      "fetched": "2026-07-11T02:22:32.443267+07:00"
     },
     {
       "id": "fafe01c5115a3b7a4f572a24b173010e",
