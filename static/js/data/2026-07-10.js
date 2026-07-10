@@ -1,7 +1,157 @@
 window.newsData_2026_07_10 = {
   "date": "2026-07-10",
-  "lastUpdated": "2026-07-10T06:08:20.897888+07:00",
+  "lastUpdated": "2026-07-10T09:42:09.519889+07:00",
   "articles": [
+    {
+      "id": "bc67e34671df5f7b9ee96f73c4b5ca8e",
+      "title": "Người quốc tịch nước ngoài sống ở Việt Nam đã lâu, muốn làm căn cước được không?",
+      "link": "https://tuoitre.vn/nguoi-quoc-tich-nuoc-ngoai-song-o-viet-nam-da-lau-muon-lam-can-cuoc-duoc-khong-100260708193114401.htm",
+      "summary": "Tôi có người quen quốc tịch Canada về Việt Nam sống đã lâu, visa hết hạn. Vì hoàn cảnh họ không muốn về Canada nữa. Vậy làm sao để làm được CCCD?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T09:42:01.693740+07:00",
+      "fetched": "2026-07-10T09:42:01.693765+07:00"
+    },
+    {
+      "id": "c2323b3a41ce3edf350549fca1331fc9",
+      "title": "Tương quan sức mạnh giữa Tây Ban Nha và Bỉ ở tứ kết World Cup 2026",
+      "link": "https://tuoitre.vn/tuong-quan-suc-manh-giua-tay-ban-nha-va-bi-o-tu-ket-world-cup-2026-100260709221425034.htm",
+      "summary": "Tuyển Tây Ban Nha vượt trội Bỉ nhiều mặt trong trận tứ kết World Cup 2026 diễn ra lúc 2h ngày 11-7 tại California (Mỹ).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T09:42:01.693714+07:00",
+      "fetched": "2026-07-10T09:42:01.693736+07:00"
+    },
+    {
+      "id": "e31db790d0cb054bcf7a9e49261bc091",
+      "title": "Mbappe thiết lập nhiều kỉ lục khó bị phá vỡ tại World Cup",
+      "link": "https://tuoitre.vn/mbappe-thiet-lap-nhieu-ki-luc-kho-bi-pha-vo-tai-world-cup-100260710062153.htm",
+      "summary": "Tiền đạo Kylian Mbappe tiếp tục thiết lập thêm nhiều kỉ lục khó bị phá vỡ tại World Cup sau trận thắng của tuyển Pháp trước Morocco với tỉ số 2-0 tại vòng tứ kết (rạng sáng 10-7).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T09:42:01.693686+07:00",
+      "fetched": "2026-07-10T09:42:01.693710+07:00"
+    },
+    {
+      "id": "797a6c229ccee5c5efe5584820864f28",
+      "title": "Thắng Morocco, Pháp lập cột mốc lịch sử ở World Cup",
+      "link": "https://tuoitre.vn/thang-morocco-phap-lap-cot-moc-lich-su-o-world-cup-100260710065346651.htm",
+      "summary": "Vượt qua Morocco, Pháp có lần thứ ba liên tiếp lọt vào trận bán kết World Cup sau 2018 và 2022. Qua đó, \"Les Bleus\" trở thành đội tuyển thứ ba đạt được thành tích này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T09:42:01.693657+07:00",
+      "fetched": "2026-07-10T09:42:01.693682+07:00"
+    },
+    {
+      "id": "0e1c11fde77729383cfa910f530279ec",
+      "title": "Ông Zelensky: Mỹ - Ukraine đạt được thỏa thuận về cấp phép sản xuất Patriot",
+      "link": "https://tuoitre.vn/ong-zelensky-my-ukraine-dat-duoc-thoa-thuan-ve-cap-phep-san-xuat-patriot-100260710070339196.htm",
+      "summary": "Tổng thống Zelensky cho biết Mỹ và Ukraine đã đạt được thỏa thuận chính trị về cấp phép sản xuất tên lửa đánh chặn Patriot PAC-3.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T09:42:01.693628+07:00",
+      "fetched": "2026-07-10T09:42:01.693651+07:00"
+    },
+    {
+      "id": "0fd5f3d5ac1d9a49bff8286c527c538f",
+      "title": "Mbappe lên tiếng sau khi dính chấn thương ở trận thắng Morocco",
+      "link": "https://tuoitre.vn/mbappe-len-tieng-sau-khi-dinh-chan-thuong-o-tran-thang-morocco-100260710065724127.htm",
+      "summary": "Sau khi dính chấn thương ở những phút cuối trận thắng Morocco vào rạng sáng 10-7 (giờ Việt Nam), Kylian Mbappe đã lập tức lên tiếng trấn an người hâm mộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T09:42:01.693599+07:00",
+      "fetched": "2026-07-10T09:42:01.693623+07:00"
+    },
+    {
+      "id": "c10fcd5d6c22824e5306043f73a07e28",
+      "title": "Chuyên gia Cedric Rogers: Tuyển Pháp sẽ vào đến chung kết World Cup 2026",
+      "link": "https://tuoitre.vn/chuyen-gia-cedric-rogers-tuyen-phap-se-vao-den-chung-ket-world-cup-2026-100260710064215517.htm",
+      "summary": "Trao đổi với Tuổi Trẻ, huấn luyện viên người Pháp Cedric Rogers cảm thấy mãn nhãn với chiến thắng 2-0 của đội tuyển nhà trước Morocco tại vòng tứ kết World Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T09:42:01.693570+07:00",
+      "fetched": "2026-07-10T09:42:01.693595+07:00"
+    },
+    {
+      "id": "fdcd6ca9e08b2924ef6fc5a5f21808f3",
+      "title": "Phan Huy biến thị lực không hoàn hảo thành cảm hứng cho bộ sưu tập couture mới",
+      "link": "https://tuoitre.vn/phan-huy-bien-thi-luc-khong-hoan-hao-thanh-cam-hung-cho-bo-suu-tap-couture-moi-10026071005584276.htm",
+      "summary": "Những hình ảnh mờ - rõ, ánh sáng khúc xạ qua lớp kính được nhà thiết kế Phan Huy chuyển hóa thành ngôn ngữ thời trang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T09:42:01.693540+07:00",
+      "fetched": "2026-07-10T09:42:01.693565+07:00"
+    },
+    {
+      "id": "281bd441e24e929f3917333b6f6d74a0",
+      "title": "Vua phá lưới World Cup 2026: Mbappe vượt lên Messi",
+      "link": "https://tuoitre.vn/vua-pha-luoi-world-cup-2026-mbappe-vuot-len-messi-100260710055716362.htm",
+      "summary": "Kylian Mbappe đã vượt lên Lionel Messi trên bảng xếp hạng Vua phá lưới World Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T09:42:01.693511+07:00",
+      "fetched": "2026-07-10T09:42:01.693536+07:00"
+    },
+    {
+      "id": "7a5115ef3dbf89d10c6505050ffead57",
+      "title": "Bí mật phía sau đàn dê leo cây ở Morocco",
+      "link": "https://tuoitre.vn/bi-mat-phia-sau-dan-de-leo-cay-o-morocco-10026070714595791.htm",
+      "summary": "Từng được xem là cảnh tượng lạ hút khách du lịch, đàn dê leo cây ở Morocco vừa được các nhà khoa học phát hiện có vai trò quan trọng trong việc phát tán hạt và tái sinh rừng argan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T09:42:01.693480+07:00",
+      "fetched": "2026-07-10T09:42:01.693506+07:00"
+    },
+    {
+      "id": "b12821699a6aa97a35a198b5bb19b430",
+      "title": "Trọng tài Bồ Đào Nha bắt chính trận tứ kết của Argentina",
+      "link": "https://tuoitre.vn/trong-tai-bo-dao-nha-bat-chinh-tran-tu-ket-cua-argentina-100260710065016427.htm",
+      "summary": "Trọng tài người Bồ Đào Nha Joao Pinheiro sẽ bắt chính trận tứ kết World Cup 2026 giữa Argentina với Thụy Sĩ vào lúc 8h ngày 12-7.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T09:42:01.693437+07:00",
+      "fetched": "2026-07-10T09:42:01.693476+07:00"
+    },
+    {
+      "id": "3325cd9b2dc41b01f1878a41dac96331",
+      "title": "Việt Nam sẽ có sản phẩm công nghệ chiến lược vắc xin thế hệ mới",
+      "link": "https://tuoitre.vn/viet-nam-se-co-san-pham-cong-nghe-chien-luoc-vac-xin-the-he-moi-100260709154817739.htm",
+      "summary": "VNVC và  Pháp đã công bố bước tiến mới trong lộ trình hợp tác sản xuất vắc xin thế hệ mới từ 2028.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T09:42:01.693405+07:00",
+      "fetched": "2026-07-10T09:42:01.693433+07:00"
+    },
+    {
+      "id": "627799fd6cc4e580544237fb87754733",
+      "title": "Tìm thấy 1 thi thể vụ tàu hàng bị lật trên vùng biển Vân Đồn",
+      "link": "https://tuoitre.vn/tim-thay-1-thi-the-vu-tau-hang-bi-lat-tren-vung-bien-van-don-100260709225601562.htm",
+      "summary": "Lực lượng chức năng đã tìm thấy 1 thi thể trong vụ tàu chở hàng bị lật ở vùng biển Vân Đồn, Quảng Ninh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T09:42:01.693372+07:00",
+      "fetched": "2026-07-10T09:42:01.693401+07:00"
+    },
+    {
+      "id": "4cac7d8dada473db8e72478822e84762",
+      "title": "4.000 CEO, chuyên gia, nhà đầu tư sẽ tham dự InnoEx 2026 tại TP.HCM",
+      "link": "https://tuoitre.vn/4000-ceo-chuyen-gia-nha-dau-tu-se-tham-du-innoex-2026-tai-tphcm-10026070917533305.htm",
+      "summary": "Hơn 4.000 CEO, chuyên gia, nhà đầu tư, tập đoàn công nghệ, startup và các tổ chức đổi mới sáng tạo đến từ hơn 60 quốc gia và vùng lãnh thổ sẽ tham dự diễn đàn và triển lãm quốc tế về đổi mới sáng tạo - InnoEx 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T09:42:01.693333+07:00",
+      "fetched": "2026-07-10T09:42:01.693367+07:00"
+    },
+    {
+      "id": "ff12db170cf9c2b554c5d574f5594202",
+      "title": "Trường ĐH Khoa học Sức khỏe lấy điểm sàn 18-22, điều chỉnh cách tính điểm xét tuyển",
+      "link": "https://tuoitre.vn/truong-dh-khoa-hoc-suc-khoe-lay-diem-san-18-22-dieu-chinh-cach-tinh-diem-xet-tuyen-100260710071441415.htm",
+      "summary": "Năm 2026, Trường ĐH Khoa học Sức khỏe điều chỉnh trọng số xét tuyển tổng hợp với điểm đánh giá năng lực 50%, điểm thi tốt nghiệp THPT 30% và học bạ 20%.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T09:42:01.693210+07:00",
+      "fetched": "2026-07-10T09:42:01.693326+07:00"
+    },
     {
       "id": "7ba14f3c792840f028ee077c8e87141f",
       "title": "Mbappe lập ‘siêu phẩm’, Pháp đánh bại Morocco để vào bán kết World Cup 2026",
@@ -133,6 +283,26 @@ window.newsData_2026_07_10 = {
       "fetched": "2026-07-10T06:08:12.691231+07:00"
     },
     {
+      "id": "01c87076d1f245e75103bddfa03e7777",
+      "title": "Hàng quán TP.HCM 'chuyển mình' cùng kinh tế đêm",
+      "link": "https://thanhnien.vn/hang-quan-tphcm-chuyen-minh-cung-kinh-te-dem-185260710092402287.htm",
+      "summary": "Nhiều cơ sở kinh doanh tại trung tâm TP.HCM đang thay đổi mô hình phục vụ để đón dòng khách về đêm, góp phần làm phong phú hệ sinh thái kinh tế đêm mà thành phố đang hướng tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T02:41:00+07:00",
+      "fetched": "2026-07-10T09:41:59.991119+07:00"
+    },
+    {
+      "id": "9d6e063a64903c839ba5d5463850feaa",
+      "title": "Công an tỉnh Vĩnh Long bắt thủ kho tham ô tài sản công ty",
+      "link": "https://thanhnien.vn/cong-an-tinh-vinh-long-bat-thu-kho-tham-o-tai-san-cong-ty-185260710091434212.htm",
+      "summary": "Lợi dụng quyền hạn được giao, thủ kho của một công ty ở Vĩnh Long tham ô tài sản gần 500 triệu đồng .",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T02:41:00+07:00",
+      "fetched": "2026-07-10T09:41:59.991212+07:00"
+    },
+    {
       "id": "6241a49415c4c52844396c2e38b2ee4a",
       "title": "Trực tuyến Pháp - Morocco (3h): Tam tấu Olise - Mbappe - Dembele đá chính",
       "link": "https://tuoitre.vn/truc-tuyen-phap-morocco-3h-dai-dien-chau-phi-gay-soc-10026070916463868.htm",
@@ -161,6 +331,376 @@ window.newsData_2026_07_10 = {
       "category": "Tổng hợp",
       "published": "2026-07-10T02:40:14.847873+07:00",
       "fetched": "2026-07-10T02:40:14.848003+07:00"
+    },
+    {
+      "id": "f8d7efa052e25cb3299fc7fe81c0ef3c",
+      "title": "MB, MBV cam kết đồng hành cùng VIFC-HCMC huy động khoảng 2 tỉ USD",
+      "link": "https://thanhnien.vn/mb-mbv-cam-ket-dong-hanh-cung-vifc-hcmc-huy-dong-khoang-2-ti-usd-185260710085635304.htm",
+      "summary": "Nội dung này được thông tin tại sự kiện Ngân hàng TNHH MTV Việt Nam Hiện đại (MBV) khai trương trụ sở kinh doanh mới tại tòa nhà của Trung tâm Tài chính Quốc tế Việt Nam tại TP.HCM (VIFC-HCMC) ngày 10.7.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T02:39:00+07:00",
+      "fetched": "2026-07-10T09:41:59.991289+07:00"
+    },
+    {
+      "id": "ac21c57c496cbf08475cd86acd8f106a",
+      "title": "Sắp có chuyến tàu du lịch Huế - Phong Nha",
+      "link": "https://thanhnien.vn/sap-co-chuyen-tau-du-lich-hue-phong-nha-185260710081801992.htm",
+      "summary": "Tuyến tàu du lịch Huế - Phong Nha dự kiến đưa vào khai thác từ ngày 1.9 kết nối các di sản, điểm đến nổi bật của khu vực Bắc Trung bộ với kỳ vọng trở thành sản phẩm du lịch đường sắt đặc trưng của miền Trung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T02:38:00+07:00",
+      "fetched": "2026-07-10T09:41:59.991360+07:00"
+    },
+    {
+      "id": "79518b4677e8f94cab4f53fc3d1aef71",
+      "title": "HLV Tây Nha Ban nhắc khéo Yamal trước trận gặp Bỉ: ‘Messi trông như 19 tuổi thôi đấy’",
+      "link": "https://thanhnien.vn/hlv-tay-nha-ban-nhac-kheo-yamal-truoc-tran-gap-bi-messi-trong-nhu-19-tuoi-thoi-day-185260710093322405.htm",
+      "summary": "Trước trận tứ kết World Cup 2026 gặp Bỉ lúc 2 giờ ngày 11.7, HLV Luis de la Fuente của đội tuyển Tây Ban Nha có ý khích tướng ngôi sao trẻ Lamine Yamal của mình, rằng: 'Messi trông như 19 hoặc 23 tuổi thôi đấy nhé'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T02:36:00+07:00",
+      "fetched": "2026-07-10T09:41:59.991431+07:00"
+    },
+    {
+      "id": "935b702308b71bbf8ef00f062cee1811",
+      "title": "Hamas bỏ một, giữ một",
+      "link": "https://thanhnien.vn/hamas-bo-mot-giu-mot-18526070920333442.htm",
+      "summary": "Quyết định chuyển giao quyền quản lý Dải Gaza cho một chính quyền dân sự do LHQ và Hội đồng hòa bình Gaza thành lập là bước đi chính trị mới của Hamas.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T02:33:00+07:00",
+      "fetched": "2026-07-10T09:41:59.991501+07:00"
+    },
+    {
+      "id": "5763c6263960c802151e6a2751c829a1",
+      "title": "Điểm sàn thấp nhất Trường ĐH Y khoa Phạm Ngọc Thạch là 15,5",
+      "link": "https://thanhnien.vn/diem-san-thap-nhat-truong-dh-y-khoa-pham-ngoc-thach-la-155-185260710091001421.htm",
+      "summary": "Trường ĐH Y khoa Phạm Ngọc Thạch công bố điểm sàn xét tuyển năm 2026. Trong đó, điểm sàn các ngành dao động từ 15,5 đến 22,5 điểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T02:23:00+07:00",
+      "fetched": "2026-07-10T09:41:59.991569+07:00"
+    },
+    {
+      "id": "d2cca73c6cbf54a50edff0350ca571cd",
+      "title": "Họ hàng choáng váng với gia đình nhốt 16 trẻ trong căn nhà đầy chất thải",
+      "link": "https://vnexpress.net/ho-hang-choang-vang-voi-gia-dinh-nhot-16-tre-trong-can-nha-day-chat-thai-5095416.html",
+      "summary": "Những người họ hàng của gia đình Siders, tâm điểm vụ ngược đãi trẻ em gây rúng động bang Ohio, đều sốc khi biết họ có tới 16 người con.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-10T02:18:30+07:00",
+      "fetched": "2026-07-10T09:42:03.318185+07:00"
+    },
+    {
+      "id": "90909f07b89abf7bd512115228de8c22",
+      "title": "Chip thông minh Trung Quốc nhanh gấp 478 lần GPU Nvidia A100",
+      "link": "https://thanhnien.vn/chip-thong-minh-trung-quoc-nhanh-gap-478-lan-gpu-nvidia-a100-185260709150527682.htm",
+      "summary": "Con chip mà Trung Quốc phát triển có thể lập bản đồ não theo thời gian thực, nhanh hơn GPU Nvidia A100 tới 478 lần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T02:16:00+07:00",
+      "fetched": "2026-07-10T09:41:59.991638+07:00"
+    },
+    {
+      "id": "c62f36336f31cd12c8b0d33c7f8bb634",
+      "title": "Giá Bitcoin hôm nay 10.7.2026: Hàng tỉ USD đang chảy khỏi các quỹ ETF Bitcoin",
+      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-1072026-hang-ti-usd-dang-chay-khoi-cac-quy-etf-bitcoin-185260710072747011.htm",
+      "summary": "Giá Bitcoin hôm nay phục hồi tốt lên vùng giá 63.000 USD tuy nhiên đây không phải tín hiệu tăng giá trong dài hạn khi hàng tỉ USD đang tháo chạy khỏi các quỹ ETF Bitcoin, cho thấy tâm lý lo ngại rủi ro của nhà đầu tư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T02:12:00+07:00",
+      "fetched": "2026-07-10T09:41:59.991727+07:00"
+    },
+    {
+      "id": "6777d045233f9332d6ae25a0d955f003",
+      "title": "Hôm nay, tuyến xe buýt 172 TP.HCM - Vũng Tàu điều chỉnh hoạt động",
+      "link": "https://thanhnien.vn/hom-nay-tuyen-xe-buyt-172-tphcm-vung-tau-dieu-chinh-hoat-dong-185260710084631061.htm",
+      "summary": "Hôm nay (10.7), tuyến xe buýt 172 TP.HCM - Vũng Tàu điều chỉnh thời gian hoạt động, tăng từ 48 lên 84 chuyến/ngày nhằm đáp ứng nhu cầu đi lại của người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T02:11:00+07:00",
+      "fetched": "2026-07-10T09:41:59.991805+07:00"
+    },
+    {
+      "id": "5bb5a2759b1a33d459cb9645633af123",
+      "title": "Bất đồng nội bộ khiến Mỹ dừng kế hoạch giảm quân ở châu Âu",
+      "link": "https://vnexpress.net/bat-dong-noi-bo-khien-my-dung-ke-hoach-giam-quan-o-chau-au-5093317.html",
+      "summary": "Lầu Năm Góc muốn giảm quy mô lực lượng Mỹ đồn trú tại châu Âu nhưng đã phải dừng kế hoạch sau khi vấp phản đối từ Nhà Trắng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-10T02:06:40+07:00",
+      "fetched": "2026-07-10T09:42:03.318284+07:00"
+    },
+    {
+      "id": "b1285c2929a29732d72961ea59c1a521",
+      "title": "QP Holdings: Từ thay đổi thương hiệu đến cam kết tạo giá trị bền vững",
+      "link": "https://thanhnien.vn/qp-holdings-tu-thay-doi-thuong-hieu-den-cam-ket-tao-gia-tri-ben-vung-185260709213303753.htm",
+      "summary": "Sau 20 năm, QP Xanh chính thức đổi tên thành Công ty cổ phần QP Holdings (mã chứng khoán: HKT), chuyển sang mô hình Nhà phát triển bất động sản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T02:00:00+07:00",
+      "fetched": "2026-07-10T09:41:59.991877+07:00"
+    },
+    {
+      "id": "5a745b423390d158de123ecd6a12ed2a",
+      "title": "Hành trình 32 lần trao đi sự sống",
+      "link": "https://thanhnien.vn/hanh-trinh-32-lan-trao-di-su-song-185260703111105823.htm",
+      "summary": "Ở xã Mỹ Hạnh, tỉnh Tây Ninh, nhắc đến chị Ánh, nhiều người không chỉ biết chị là Chủ tịch Hội Chữ thập đỏ mà còn dành sự nể phục cho người phụ nữ đã 32 lần hiến máu tình nguyện, lặng lẽ lan tỏa tinh thần sẻ chia suốt nhiều năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T02:00:00+07:00",
+      "fetched": "2026-07-10T09:41:59.991945+07:00"
+    },
+    {
+      "id": "c370ce268a721ff1f99ce8e633b050c5",
+      "title": "Stefano Ricci mở rộng dấu ấn trong phân khúc thời trang xa xỉ",
+      "link": "https://vnexpress.net/stefano-ricci-mo-rong-dau-an-trong-phan-khuc-thoi-trang-xa-xi-5093071.html",
+      "summary": "Sau một năm hiện diện tại Việt Nam, Stefano Ricci ghi nhận nhu cầu gia tăng với thời trang may đo, phản ánh xu hướng khách hàng cao cấp ưu tiên giá trị thủ công.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-10T02:00:00+07:00",
+      "fetched": "2026-07-10T09:42:04.957522+07:00"
+    },
+    {
+      "id": "3e9f6704feafa1a55102af124a0a440f",
+      "title": "Cách chống nóng hiệu quả nhất khi đỗ ô tô dưới trời nắng nóng",
+      "link": "https://thanhnien.vn/cach-chong-nong-hieu-qua-nhat-khi-do-o-to-duoi-troi-nang-nong-185260707055917341.htm",
+      "summary": "Dựa trên thử nghiệm thực tế với nhiều phụ kiện, thiết bị khác nhau, Hiệp hội ô tô Đức (ADAC) vừa chỉ ra cách chống nóng hiệu quả nhất khi đỗ ô tô dưới trời nắng nóng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T01:59:00+07:00",
+      "fetched": "2026-07-10T09:41:59.992012+07:00"
+    },
+    {
+      "id": "de523194d172b00e12d6aff5181495db",
+      "title": "Vào đường nhỏ dừng đỗ xe nghỉ ngơi, nhiều tài xế có thể bị phạt",
+      "link": "https://thanhnien.vn/vao-duong-nho-dung-do-xe-nghi-ngoi-nhieu-tai-xe-co-the-bi-phat-185260709125637544.htm",
+      "summary": "Nhiều tài xế cho rằng các tuyến đường nhỏ ít có biển cấm dừng, đỗ xe nên thường vào đậu ô tô để nghỉ ngơi, chờ khách. Tuy nhiên, nếu không chú ý quan sát biển báo, người lái vẫn có thể bị xử phạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T01:57:00+07:00",
+      "fetched": "2026-07-10T09:41:59.992078+07:00"
+    },
+    {
+      "id": "c42c80575349a45aafc2d37bcb719b93",
+      "title": "Fansipan hút khách nhất trên Agoda",
+      "link": "https://thanhnien.vn/fansipan-hut-khach-nhat-tren-agoda-185260710084421902.htm",
+      "summary": "Không phải công viên giải trí hay bãi biển, khu du lịch Sun World Fansipan Legend (Sa Pa) là hoạt động được đặt nhiều nhất trên Agoda tại Việt Nam trong nửa đầu năm 2026. Dữ liệu cho thấy xu hướng du lịch trải nghiệm, đặc biệt là khám phá thiên nhiên, tiếp tục gia tăng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T01:53:00+07:00",
+      "fetched": "2026-07-10T09:41:59.992145+07:00"
+    },
+    {
+      "id": "70cd5bb1f7558387c8917d0eedcb2dcc",
+      "title": "Erling Haaland 'đòi nợ' Rooney vụ chèo thuyền",
+      "link": "https://vnexpress.net/erling-haaland-doi-no-rooney-vu-cheo-thuyen-5095658.html",
+      "summary": "Trong cuộc họp báo ngày 9/7, tiền đạo Erling Haaland nhắc Wayne Rooney thực hiện lời hứa chèo thuyền trên sông Mersey sau khi tuyển Na Uy vào tứ kết World Cup.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T01:39:26+07:00",
+      "fetched": "2026-07-10T09:41:56.997550+07:00"
+    },
+    {
+      "id": "16bf328f97306fa760233b49f476d45e",
+      "title": "Sân bay ở Florida được đổi sang tên ông Trump",
+      "link": "https://vnexpress.net/san-bay-o-florida-duoc-doi-sang-ten-ong-trump-5095695.html",
+      "summary": "Sân bay Palm Beach ở Florida được đổi sang tên ông Trump, tổng thống Mỹ đầu tiên thường trú tại bang này, sau gần nửa thế kỷ mang tên gọi cũ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T01:34:40+07:00",
+      "fetched": "2026-07-10T09:41:56.997647+07:00"
+    },
+    {
+      "id": "16bf328f97306fa760233b49f476d45e",
+      "title": "Sân bay ở Florida được đổi sang tên ông Trump",
+      "link": "https://vnexpress.net/san-bay-o-florida-duoc-doi-sang-ten-ong-trump-5095695.html",
+      "summary": "Sân bay Palm Beach ở Florida được đổi sang tên ông Trump, tổng thống Mỹ đầu tiên thường trú tại bang này, sau gần nửa thế kỷ mang tên gọi cũ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-10T01:34:40+07:00",
+      "fetched": "2026-07-10T09:42:03.318360+07:00"
+    },
+    {
+      "id": "2a27115d03baaba7682284764bd5634b",
+      "title": "Trung Quốc chuẩn bị ứng phó siêu bão Ba Vì",
+      "link": "https://vnexpress.net/trung-quoc-chuan-bi-ung-pho-sieu-bao-ba-vi-5095678.html",
+      "summary": "Người dân tại nhiều khu vực ở Trung Quốc đang tích trữ nhu yếu phẩm và điều chỉnh kế hoạch đi lại, chuẩn bị ứng phó siêu bão Ba Vì.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T01:28:30+07:00",
+      "fetched": "2026-07-10T09:41:56.997728+07:00"
+    },
+    {
+      "id": "2a27115d03baaba7682284764bd5634b",
+      "title": "Trung Quốc chuẩn bị ứng phó siêu bão Ba Vì",
+      "link": "https://vnexpress.net/trung-quoc-chuan-bi-ung-pho-sieu-bao-ba-vi-5095678.html",
+      "summary": "Người dân tại nhiều khu vực ở Trung Quốc đang tích trữ nhu yếu phẩm và điều chỉnh kế hoạch đi lại, chuẩn bị ứng phó siêu bão Ba Vì.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-10T01:28:30+07:00",
+      "fetched": "2026-07-10T09:42:03.318434+07:00"
+    },
+    {
+      "id": "e1dfd26206bba15a0479e72311677daa",
+      "title": "Bé trai được phát hiện 'còn sống' sau 5 tiếng nằm phòng lạnh nhà xác",
+      "link": "https://vnexpress.net/be-trai-duoc-phat-hien-con-song-sau-5-tieng-nam-phong-lanh-nha-xac-5095635.html",
+      "summary": "Bé trai 18 tháng tuổi được phát hiện vẫn còn thở sau hơn 5 tiếng trong phòng lạnh lưu giữ thi thể của bệnh viện khi đã có tuyên bố tử vong chính thức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T01:13:00+07:00",
+      "fetched": "2026-07-10T09:41:56.997806+07:00"
+    },
+    {
+      "id": "ecac62249633b028e3a36b64b00fed9d",
+      "title": "Morocco hẹn phục hận Pháp ở World Cup 2030",
+      "link": "https://vnexpress.net/morocco-hen-phuc-han-phap-o-world-cup-2030-5095685.html",
+      "summary": "Sau khi thua 0-2 ở tứ kết World Cup 2026, HLV Mohamed Ouahbi cho biết Morocco sẽ hướng tới mục tiêu phục hận Pháp tại giải năm 2030.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T01:12:22+07:00",
+      "fetched": "2026-07-10T09:41:56.997880+07:00"
+    },
+    {
+      "id": "ecac62249633b028e3a36b64b00fed9d",
+      "title": "Morocco hẹn phục hận Pháp ở World Cup 2030",
+      "link": "https://vnexpress.net/morocco-hen-phuc-han-phap-o-world-cup-2030-5095685.html",
+      "summary": "Sau khi thua 0-2 ở tứ kết World Cup 2026, HLV Mohamed Ouahbi cho biết Morocco sẽ hướng tới mục tiêu phục hận Pháp tại giải năm 2030.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-10T01:12:22+07:00",
+      "fetched": "2026-07-10T09:42:09.515845+07:00"
+    },
+    {
+      "id": "fbabfe4e11c17484e77006cbeb10d746",
+      "title": "'Người chim Alcatraz' và cuộc đời khó tin của kẻ sát nhân",
+      "link": "https://vnexpress.net/nguoi-chim-alcatraz-va-cuoc-doi-kho-tin-cua-ke-sat-nhan-5095600.html",
+      "summary": "Robert Stroud, biệt danh 'Người chim Alcatraz', là một trong những tù nhân nổi tiếng nhất tại nhà tù khét tiếng, gây chú ý bởi hành trình từ tội phạm thành chuyên gia nghiên cứu các loài chim.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T01:11:32+07:00",
+      "fetched": "2026-07-10T09:41:56.997955+07:00"
+    },
+    {
+      "id": "c27a8f284f85ac9a91067b1a201fdabc",
+      "title": "Chồng mất 10 triệu vì thách đố vợ",
+      "link": "https://vnexpress.net/chong-mat-10-trieu-vi-thach-do-vo-5095445.html",
+      "summary": "Màn đố vui tưởng nắm chắc phần thắng của anh chồng trở thành cú “chuyển khoản tốc hành” khi cô vợ đoán trúng phóc số múi trong quả cam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T01:00:00+07:00",
+      "fetched": "2026-07-10T09:41:56.998028+07:00"
+    },
+    {
+      "id": "f306c40bf0e6ba1dc3e3592aa4b5abe6",
+      "title": "Ba thiệt hại lớn khi sáng chế bị sao chép",
+      "link": "https://vnexpress.net/ba-thiet-hai-lon-khi-sang-che-bi-sao-chep-5087987.html",
+      "summary": "Theo Hiệp sĩ sáng chế Phạm Thị Kim Loan, nếu không mạnh tay với hành vi sao chép công nghệ, thiệt hại không chỉ thuộc về một nhà sáng chế mà còn là sự mất mát của cả nền khoa học và động lực đổi mới sáng tạo của quốc gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T01:00:00+07:00",
+      "fetched": "2026-07-10T09:41:56.998099+07:00"
+    },
+    {
+      "id": "1c3ac13cc143d42ab3f0a19b811ee26d",
+      "title": "Khi nào có thể đốt u phổi bằng sóng cao tần?",
+      "link": "https://vnexpress.net/khi-nao-co-the-dot-u-phoi-bang-song-cao-tan-5095679.html",
+      "summary": "Tôi có u phổi 1 cm, có thể đốt u bằng sóng cao tần để tránh phẫu thuật không? (Hùng, 69 tuổi, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T01:00:00+07:00",
+      "fetched": "2026-07-10T09:41:56.998171+07:00"
+    },
+    {
+      "id": "a35ee1f5669828b0c330ad3c9f2dd0e2",
+      "title": "Đột quỵ giả do hạ đường huyết",
+      "link": "https://vnexpress.net/dot-quy-gia-do-ha-duong-huyet-5095676.html",
+      "summary": "Ông Vinh, 70 tuổi, co giật, hôn mê, mất ý thức, bác sĩ chẩn đoán đột quỵ giả do hạ đường huyết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T01:00:00+07:00",
+      "fetched": "2026-07-10T09:41:56.998253+07:00"
+    },
+    {
+      "id": "b5f8ed0754613109569cef0392200423",
+      "title": "Bị rối loạn mỡ máu có nên uống sữa hàng ngày?",
+      "link": "https://vnexpress.net/bi-roi-loan-mo-mau-co-nen-uong-sua-hang-ngay-5095673.html",
+      "summary": "Tôi bị rối loạn mỡ máu hơn một năm, dùng thuốc theo chỉ định của bác sĩ. Nhiều người khuyên tôi không nên uống sữa vì làm tăng cholesterol, đúng không? (Thanh Hà, 52 tuổi, Tuyên Quang)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T01:00:00+07:00",
+      "fetched": "2026-07-10T09:41:56.998331+07:00"
+    },
+    {
+      "id": "934a5b3f16b337c343bbad01d6907025",
+      "title": "Mạch máu bị chèn ép gây đau cổ vai",
+      "link": "https://vnexpress.net/mach-mau-bi-chen-ep-gay-dau-co-vai-5095670.html",
+      "summary": "Chị Mùi, 54 tuổi, uống thuốc đau cổ vai gáy một tháng không giảm, bác sĩ phát hiện do hội chứng lối thoát lồng ngực gây chèn ép mạch máu cổ, vai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T01:00:00+07:00",
+      "fetched": "2026-07-10T09:41:56.998401+07:00"
+    },
+    {
+      "id": "6714f526d50b13bf2cc64c5ef72ca2cc",
+      "title": "Sàn mô phỏng SCEX Simulator hút đăng ký tại 'Phổ cập tài sản số'",
+      "link": "https://vnexpress.net/san-mo-phong-scex-simulator-hut-dang-ky-tai-pho-cap-tai-san-so-5095613.html",
+      "summary": "SCEX Simulator ghi nhận hơn 41.000 tài khoản, gần 142.000 lệnh và khoảng 55.000 tỷ đồng giao dịch trên nền tảng mô phỏng trong chương trình Phổ cập tài sản số 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T01:00:00+07:00",
+      "fetched": "2026-07-10T09:41:56.998470+07:00"
+    },
+    {
+      "id": "5996939b421903bad4a15ce59c05f49b",
+      "title": "Cơ hội học chương trình chuẩn châu Âu cùng nhiều học bổng tại USTH",
+      "link": "https://vnexpress.net/co-hoi-hoc-chuong-trinh-chuan-chau-au-cung-nhieu-hoc-bong-tai-usth-5095594.html",
+      "summary": "Trường ĐH Khoa học và Công nghệ Hà Nội (USTH) áp dụng học phí 59-105 triệu đồng cho chương trình chuẩn châu Âu, kèm quỹ học bổng 16-17 tỷ đồng cho năm học 2026-2027.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T01:00:00+07:00",
+      "fetched": "2026-07-10T09:41:56.998543+07:00"
+    },
+    {
+      "id": "4c715dea6fe8fd9dc49beca861af28e9",
+      "title": "Sun Group đưa mô hình chợ đêm VUI-Fest đến Nha Trang",
+      "link": "https://vnexpress.net/sun-group-dua-mo-hinh-cho-dem-vui-fest-den-nha-trang-5095556.html",
+      "summary": "Sau Cát Bà, Hạ Long và Phú Quốc, Sun Group tiếp tục phát triển chợ đêm VUI-Fest tại Festival Island (Charmora City) kết hợp phố đi bộ và tuyến ẩm thực hoạt động 24/7.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-10T01:00:00+07:00",
+      "fetched": "2026-07-10T09:41:56.998612+07:00"
+    },
+    {
+      "id": "f306c40bf0e6ba1dc3e3592aa4b5abe6",
+      "title": "Ba thiệt hại lớn khi sáng chế bị sao chép",
+      "link": "https://vnexpress.net/ba-thiet-hai-lon-khi-sang-che-bi-sao-chep-5087987.html",
+      "summary": "Theo Hiệp sĩ sáng chế Phạm Thị Kim Loan, nếu không mạnh tay với hành vi sao chép công nghệ, thiệt hại không chỉ thuộc về một nhà sáng chế mà còn là sự mất mát của cả nền khoa học và động lực đổi mới sáng tạo của quốc gia.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-10T01:00:00+07:00",
+      "fetched": "2026-07-10T09:42:07.900803+07:00"
+    },
+    {
+      "id": "dd92376d71d46defa1c78abcf95c4360",
+      "title": "Cơ quan Trung Quốc cảnh báo Anthropic Claude có 'cửa hậu'",
+      "link": "https://vnexpress.net/co-quan-trung-quoc-canh-bao-anthropic-claude-co-cua-hau-5095438.html",
+      "summary": "Cơ sở dữ liệu lỗ hổng bảo mật quốc gia Trung Quốc (NVDB) cảnh báo người dùng nước này không sử dụng Claude vì chứa \"cửa hậu\" thu thập dữ liệu vị trí.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-10T00:59:52+07:00",
+      "fetched": "2026-07-10T09:42:07.901051+07:00"
+    },
+    {
+      "id": "822a95f4b39794b4d4cba205c63c618c",
+      "title": "Tàu NASA 'thức giấc' sau gần một năm ngủ đông",
+      "link": "https://vnexpress.net/tau-nasa-thuc-giac-sau-gan-mot-nam-ngu-dong-5095514.html",
+      "summary": "Tàu thăm dò New Horizons của NASA khôi phục hoạt động trong tình trạng tốt khi đang ở cách Trái Đất gần 9,5 tỷ km sau gần một năm ngủ đông.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-10T00:57:27+07:00",
+      "fetched": "2026-07-10T09:42:07.900894+07:00"
     },
     {
       "id": "c0c88991e5a8902c515c1085cff0bec5",
@@ -311,6 +851,76 @@ window.newsData_2026_07_10 = {
       "category": "Tổng hợp",
       "published": "2026-07-10T00:52:46.830157+07:00",
       "fetched": "2026-07-10T00:52:46.830311+07:00"
+    },
+    {
+      "id": "0c7938720c3eee081a7fcb1401fd3eb9",
+      "title": "Hai căn cứ quân sự của Iran bị tập kích",
+      "link": "https://vnexpress.net/hai-can-cu-quan-su-cua-iran-bi-tap-kich-5095677.html",
+      "summary": "Iran cho biết căn cứ quân sự ở khu vực Bushehr và Konarak bị tấn công trong đêm, nhưng chưa rõ bên nào đứng sau sự việc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-10T00:50:02+07:00",
+      "fetched": "2026-07-10T09:42:03.318508+07:00"
+    },
+    {
+      "id": "d59ac59ea364d3caa5fe9d2b17fb4f3a",
+      "title": "Gửi tiết kiệm vượt nhiều kênh đầu tư nửa đầu năm",
+      "link": "https://vnexpress.net/gui-tiet-kiem-vuot-nhieu-kenh-dau-tu-nua-dau-nam-5095381.html",
+      "summary": "Sau nhiều năm lép vế trước chứng khoán và vàng về mức sinh lời, gửi tiết kiệm trở thành kênh đầu tư có hiệu suất cao nhất trong nửa đầu năm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-10T00:28:45+07:00",
+      "fetched": "2026-07-10T09:42:04.957199+07:00"
+    },
+    {
+      "id": "5f1d89496edba4e9875958682739c862",
+      "title": "Nghi phạm 'khóc vì hối hận' sau khi bắn chết đồng minh của ông Trump",
+      "link": "https://vnexpress.net/nghi-pham-khoc-vi-hoi-han-sau-khi-ban-chet-dong-minh-cua-ong-trump-5095664.html",
+      "summary": "Nghi phạm ám sát nhà hoạt động Charlie Kirk hồi tháng 9/2025 đã bật khóc không lâu sau khi hành động, theo tư liệu mới được Mỹ công bố.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-10T00:09:17+07:00",
+      "fetched": "2026-07-10T09:42:03.318578+07:00"
+    },
+    {
+      "id": "e9be42c389bf0d388b781f31c86c2e41",
+      "title": "Các ngân hàng đã chi hơn 48.000 tỷ đồng trả cổ tức tiền mặt",
+      "link": "https://vnexpress.net/cac-ngan-hang-da-chi-hon-48-000-ty-dong-tra-co-tuc-tien-mat-5095499.html",
+      "summary": "11 ngân hàng niêm yết đã chi tổng cộng 48.041 tỷ đồng để trả cổ tức cho năm 2025, nhiều hơn năm ngoái do lượng cổ phiếu lưu hành tăng lên.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-10T00:04:06+07:00",
+      "fetched": "2026-07-10T09:42:04.957298+07:00"
+    },
+    {
+      "id": "8be9170458342b432bda7b500e0bb3a3",
+      "title": "Dòng dầu khí qua Hormuz khôi phục đến đâu?",
+      "link": "https://vnexpress.net/dong-dau-khi-qua-hormuz-khoi-phuc-den-dau-5095547.html",
+      "summary": "Sau 3 tuần, lượng tàu qua eo biển Hormuz chỉ bằng một phần ba mức bình thường và còn suy giảm tuần này, khiến nguồn cung dầu khí vẫn thắt chặt.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-09T23:57:41+07:00",
+      "fetched": "2026-07-10T09:42:04.957376+07:00"
+    },
+    {
+      "id": "225520c60bba9f9c68823dada95fc5f8",
+      "title": "Vì sao Mbappe phải chờ hơn 3 phút trước khi đá phạt đền?",
+      "link": "https://vnexpress.net/vi-sao-mbappe-phai-cho-hon-3-phut-truoc-khi-da-phat-den-5095671.html",
+      "summary": "Ngay cả tiền đạo Erling Haaland cũng phàn nàn vì Kylian Mbappe phải chờ lâu hơn bình thường trước khi đá hỏng phạt đền trong trận tứ kết World Cup 2026 giữa Pháp và Morocco.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-09T23:48:46+07:00",
+      "fetched": "2026-07-10T09:42:09.515937+07:00"
+    },
+    {
+      "id": "69df98ec42687833f19161c0c3a35f1b",
+      "title": "Mbappe: 'Khó khăn lớn nhất còn ở phía trước'",
+      "link": "https://vnexpress.net/mbappe-kho-khan-lon-nhat-con-o-phia-truoc-5095665.html",
+      "summary": "Thủ quân Kylian Mbappe cho rằng đội tuyển Pháp chưa có gì để ăn mừng dù vừa đánh bại Morocco 2-0 để giành vé vào bán kết World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-09T23:33:48+07:00",
+      "fetched": "2026-07-10T09:42:09.516017+07:00"
     },
     {
       "id": "572f02a0425647547640bf92ca03780c",
@@ -593,6 +1203,16 @@ window.newsData_2026_07_10 = {
       "fetched": "2026-07-10T06:08:19.171281+07:00"
     },
     {
+      "id": "9331cebb5cee92304f3a89c898476695",
+      "title": "Các hãng chip nhớ 'lên đời' nhờ cơn sốt AI",
+      "link": "https://vnexpress.net/cac-hang-chip-nho-len-doi-nho-con-sot-ai-5095038.html",
+      "summary": "Trong bối cảnh AI khiến nhu cầu chip nhớ tăng mạnh, sản phẩm của YMTC và CXMT đang được Apple cân nhắc sử dụng, còn Longsys Electronics dự báo lợi nhuận tăng 60.000%.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-09T22:00:00+07:00",
+      "fetched": "2026-07-10T09:42:07.900974+07:00"
+    },
+    {
       "id": "d698f0d44f2abf8e77d3d3f9d1ce277e",
       "title": "Tổng giám mục Argentina dẫn lời Messi tại Thánh lễ Ngày Độc lập: Gắn kết cả đất nước",
       "link": "https://thanhnien.vn/tong-giam-muc-argentina-dan-loi-messi-tai-thanh-le-ngay-doc-lap-gan-ket-ca-dat-nuoc-185260710040454443.htm",
@@ -641,6 +1261,16 @@ window.newsData_2026_07_10 = {
       "category": "Tổng hợp",
       "published": "2026-07-09T19:00:00+07:00",
       "fetched": "2026-07-10T02:40:09.745346+07:00"
+    },
+    {
+      "id": "aea429171c9f45b49a429db34f3ad2ac",
+      "title": "Mbappe giúp Pháp thắng Morocco ở tứ kết World Cup",
+      "link": "https://vnexpress.net/phap-vs-morocco-5095617-tong-thuat.html",
+      "summary": "Tiền đạo Kylian Mbappe ghi dấu giày vào hai bàn thắng, trong đó có tuyệt phẩm mở tỷ số giúp Pháp hạ Morocco 2-0 trong trận tứ kết World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-09T19:00:00+07:00",
+      "fetched": "2026-07-10T09:42:09.516409+07:00"
     },
     {
       "id": "ebab96582497311237a8db1d85f3fb72",
@@ -751,6 +1381,16 @@ window.newsData_2026_07_10 = {
       "category": "Kinh doanh",
       "published": "2026-07-09T17:05:00+07:00",
       "fetched": "2026-07-10T00:52:48.871447+07:00"
+    },
+    {
+      "id": "76e39b5ed27e5b2eab850e1ef2eeb148",
+      "title": "Ông Trump có thể áp lệnh trừng phạt thương mại với Tây Ban Nha thế nào",
+      "link": "https://vnexpress.net/ong-trump-co-the-ap-lenh-trung-phat-thuong-mai-voi-tay-ban-nha-the-nao-5095281.html",
+      "summary": "Tổng thống Mỹ có thể dựa vào nhiều đạo luật, như IEEPA, để áp lệnh cấm vận toàn diện hoặc có chọn lọc lên thương mại với Tây Ban Nha.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-09T17:05:00+07:00",
+      "fetched": "2026-07-10T09:42:04.957450+07:00"
     },
     {
       "id": "e5888dfedd116dce8d9d6e50d2427982",
