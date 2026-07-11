@@ -1,7 +1,97 @@
 window.newsData_2026_07_11 = {
   "date": "2026-07-11",
-  "lastUpdated": "2026-07-11T16:25:06.834379+07:00",
+  "lastUpdated": "2026-07-11T18:01:26.800903+07:00",
   "articles": [
+    {
+      "id": "5259d037ee681a24688de8efa0a2c495",
+      "title": "Vì sao nên chọn Đại học Duy Tân là nguyện vọng 1?",
+      "link": "https://tuoitre.vn/vi-sao-nen-chon-dai-hoc-duy-tan-la-nguyen-vong-1-100260711100924083.htm",
+      "summary": "DTU hoàn toàn phù hợp cho các thí sinh lựa chọn đăng ký Nguyện vọng 1 (NV1) trong mùa tuyển sinh 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T18:01:20.088304+07:00",
+      "fetched": "2026-07-11T18:01:20.088353+07:00"
+    },
+    {
+      "id": "feece4aaabdd5b7bca47d68c9b8ccb08",
+      "title": "Co.opmart có diện mạo mới, không gian mua sắm mới",
+      "link": "https://tuoitre.vn/coopmart-co-dien-mao-moi-khong-gian-mua-sam-moi-100260711133824976.htm",
+      "summary": "Ngày 11-7, Saigon Co.op chính thức giới thiệu không gian mua sắm mới của hệ thống Co.opmart.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T18:01:20.088245+07:00",
+      "fetched": "2026-07-11T18:01:20.088296+07:00"
+    },
+    {
+      "id": "f674669e78b50d10490dec89fa8bcef1",
+      "title": "Tiệm mì Sanh Ký trứ danh và những chú chó mập ú 'hot trend' du khách",
+      "link": "https://tuoitre.vn/tiem-mi-sanh-ky-tru-danh-va-nhung-chu-cho-map-u-hot-trend-du-khach-100260711083343814.htm",
+      "summary": "Quán mì vịt tiềm Sanh Ký trên đường Nơ Trang Long (TP.HCM) bất ngờ 'gây sốt' trên mạng xã hội không chỉ bởi món mì vịt tiềm nổi tiếng mà còn bởi những chú chó mập ú nằm thong dong trước cửa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T18:01:20.088180+07:00",
+      "fetched": "2026-07-11T18:01:20.088236+07:00"
+    },
+    {
+      "id": "dfffd0d6412514263b4b4c8608a393cc",
+      "title": "Thanh gươm diệt quỷ phần 2 vẫn chưa hẹn ngày ra mắt?",
+      "link": "https://tuoitre.vn/thanh-guom-diet-quy-phan-2-van-chua-hen-ngay-ra-mat-100260711115333442.htm",
+      "summary": "Thanh gươm diệt quỷ: Vô hạn thành phần 2 chưa hẹn ngày ra mắt và có thể phải đợi đến năm 2027, cho thấy mặt trái của xu hướng chuyển các arc lớn trong anime thành phim điện ảnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T18:01:20.088122+07:00",
+      "fetched": "2026-07-11T18:01:20.088171+07:00"
+    },
+    {
+      "id": "c3f44b37b0187b26e90b70375b0249c5",
+      "title": "Netflix đặt cược niềm tin vào phim mới của Nam Joo Hyuk",
+      "link": "https://tuoitre.vn/netflix-dat-cuoc-niem-tin-vao-phim-moi-cua-nam-joo-hyuk-100260711145311528.htm",
+      "summary": "The East Palace do Nam Joo Hyuk đóng chính được xem là một trong những dự án trọng điểm mùa hè 2026 của Netflix, tiếp nối sức hút của dòng phim kỳ bí Hàn Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T18:01:20.088063+07:00",
+      "fetched": "2026-07-11T18:01:20.088113+07:00"
+    },
+    {
+      "id": "ddbc0c46eeacb20a3b22ac6d7d166bf3",
+      "title": "Pandora cùng MONO kể câu chuyện về quyền được lựa chọn",
+      "link": "https://tuoitre.vn/pandora-cung-mono-ke-cau-chuyen-ve-quyen-duoc-lua-chon-100260711144808273.htm",
+      "summary": "Manifest đã trở thành một phần trong cách giới trẻ nói về ước mơ và tương lai. Thay vì chỉ xem đây là một trào lưu trên mạng xã hội, nhiều người trẻ coi manifest là cách xác định điều mình mong muốn, từ đó chủ động hành động để tiến đến mục tiêu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T18:01:20.088002+07:00",
+      "fetched": "2026-07-11T18:01:20.088054+07:00"
+    },
+    {
+      "id": "fe6e4df1f547c0f7b02fb2bec1270dc2",
+      "title": "Thí sinh Cà Mau đạt điểm 10 toán bị tố dùng điện thoại: Sở nói chưa ghi nhận bất thường",
+      "link": "https://tuoitre.vn/thi-sinh-ca-mau-dat-diem-10-toan-bi-to-dung-dien-thoai-so-noi-chua-ghi-nhan-bat-thuong-100260711162039127.htm",
+      "summary": "Sở Giáo dục và Đào tạo Cà Mau phối hợp công an xác minh thông tin một thí sinh đạt điểm 10 môn toán bị tố dùng điện thoại khi thi, song bước đầu chưa ghi nhận dấu hiệu bất thường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T18:01:20.087940+07:00",
+      "fetched": "2026-07-11T18:01:20.087992+07:00"
+    },
+    {
+      "id": "1d29708ab2dfd77e5ec0a2c87dafc60e",
+      "title": "Courtois ra yêu sách vô lý với đội tuyển, CĐV Bỉ phẫn nộ",
+      "link": "https://tuoitre.vn/courtois-ra-yeu-sach-vo-ly-voi-doi-tuyen-cdv-bi-phan-no-100260711164306341.htm",
+      "summary": "Trong phát biểu mới nhất, thủ thành Thibaut Courtois khiến người hâm mộ bóng đá Bỉ phải ngỡ ngàng khi ra yêu sách, đòi được nghỉ ngơi... 1 năm rồi mới thi đấu Euro 2028.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T18:01:20.087873+07:00",
+      "fetched": "2026-07-11T18:01:20.087931+07:00"
+    },
+    {
+      "id": "35192316c2b4537ac376e8e469d7dbd0",
+      "title": "Toàn cảnh 5 hồ điều hòa được xây khẩn cấp ở Hà Nội, sẵn sàng chống ngập",
+      "link": "https://tuoitre.vn/toan-canh-5-ho-dieu-hoa-duoc-xay-khan-cap-o-ha-noi-san-sang-chong-ngap-100260708135005497.htm",
+      "summary": "Việc có thêm 5 hồ điều hòa với khoảng 3 triệu m3 dung tích trữ nước, Hà Nội sẽ có thêm năng lực điều tiết cho những khu vực thường xuyên chịu ngập khi mưa lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T18:01:20.087731+07:00",
+      "fetched": "2026-07-11T18:01:20.087861+07:00"
+    },
     {
       "id": "d613b17127abae464eac7d715a9e6016",
       "title": "Điểm sàn Trường đại học Sư phạm TP.HCM: Nhiều ngành sư phạm lấy 24 điểm",
@@ -303,6 +393,286 @@ window.newsData_2026_07_11 = {
       "fetched": "2026-07-11T13:10:09.435533+07:00"
     },
     {
+      "id": "5b845f71c364772ee14c1359b11e8990",
+      "title": "Tỏa sáng giữa phố đông với sắc hồng ngọt ngào",
+      "link": "https://thanhnien.vn/thoi-trang-tre/toa-sang-giua-pho-dong-voi-sac-hong-ngot-ngao-185260709223613538.htm",
+      "summary": "Mỗi mùa nắng, sắc hồng lại bước lên 'sàn diễn' đường phố với diện mạo mới, trở thành lựa chọn của những cô gái muốn nổi bật mà vẫn giữ được vẻ ngọt ngào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T11:00:00+07:00",
+      "fetched": "2026-07-11T18:01:18.770118+07:00"
+    },
+    {
+      "id": "16fbd04fce72654409fe7bc72d77f070",
+      "title": "Pháp có hàng công mạnh nhất lịch sử: Mbappe chưa hài lòng vì lý do đặc biệt",
+      "link": "https://thanhnien.vn/phap-co-hang-cong-manh-nhat-lich-su-mbappe-chua-hai-long-vi-ly-do-dac-biet-185260711172917134.htm",
+      "summary": "Dù đội tuyển Pháp đã vào bán kết World Cup 2026 với 6 trận toàn thắng, nhưng Kylian Mbappe chưa cho rằng tập thể hiện tại xuất chúng hơn những lứa khác của Pháp trong quá khứ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T10:57:00+07:00",
+      "fetched": "2026-07-11T18:01:18.770265+07:00"
+    },
+    {
+      "id": "59e98398583e1652e77aa98e6ac15149",
+      "title": "Xổ số miền Nam ngày 11 tháng 7: Chi 8 triệu mua vé, trúng đài Hậu Giang",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-11-thang-7-chi-8-trieu-mua-ve-trung-dai-hau-giang-185260711162322265.htm",
+      "summary": "Sau khi có kết quả xổ số miền Nam ngày 11 tháng 7, người chi 8 triệu đồng mua 800 tờ vé số trúng số đài Hậu Giang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T10:47:00+07:00",
+      "fetched": "2026-07-11T18:01:18.770400+07:00"
+    },
+    {
+      "id": "44d78678f4b7c1e6b8e1c132b83a8c3f",
+      "title": "Thu phí bản quyền âm nhạc: Vì sao giúp nâng uy tín của Việt Nam?",
+      "link": "https://thanhnien.vn/thu-phi-ban-quyen-am-nhac-vi-sao-giup-nang-uy-tin-cua-viet-nam-18526071116233367.htm",
+      "summary": "Không chỉ bảo vệ quyền lợi của người sáng tạo, việc đẩy mạnh và chuẩn hóa hoạt động bản quyền, trong đó có bản quyền âm nhạc, còn góp phần nâng cao hình ảnh, uy tín của Việt Nam trên thị trường quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T10:45:00+07:00",
+      "fetched": "2026-07-11T18:01:18.770552+07:00"
+    },
+    {
+      "id": "16eff6fa7c4547d54e8cbd5c9923a519",
+      "title": "Thường xuyên tiếp xúc thông tin tiêu cực, tăng nguy cơ rối loạn tâm thần",
+      "link": "https://thanhnien.vn/thuong-xuyen-tiep-xuc-thong-tin-tieu-cuc-tang-nguy-co-roi-loan-tam-than-185260708201310727.htm",
+      "summary": "Thất nghiệp hoặc áp lực công việc kéo dài; áp lực từ việc sử dụng mạng xã hội, thiết bị điện tử hoặc tiếp xúc thường xuyên với thông tin tiêu cực là các yếu tố thuộc nhóm các nguy cơ gây rối loạn tâm thần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T10:44:00+07:00",
+      "fetched": "2026-07-11T18:01:18.770690+07:00"
+    },
+    {
+      "id": "427fa7c4f233086c8eb9f6f47ef91cc9",
+      "title": "Giới trẻ rủ nhau check-in hoa sen tại quán cà phê",
+      "link": "https://thanhnien.vn/gioi-tre-ru-nhau-check-in-hoa-sen-tai-quan-ca-phe-185260710161003966.htm",
+      "summary": "Những bông sen được đặt giữa không gian tối giản đang trở thành góc check-in thu hút đông đảo bạn trẻ ở Hà Nội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T10:41:00+07:00",
+      "fetched": "2026-07-11T18:01:18.770821+07:00"
+    },
+    {
+      "id": "2b819745e0a6641d7a012815cf4bdd62",
+      "title": "Điện thoại bỗng dưng mất sóng, công an cảnh báo chiêu lừa cực kỳ tinh vi",
+      "link": "https://thanhnien.vn/dien-thoai-bong-dung-mat-song-cong-an-canh-bao-chieu-lua-cuc-ky-tinh-vi-185260711154554975.htm",
+      "summary": "Nếu đang ở nơi thông thoáng mà điện thoại bỗng dưng mất sóng, người dân cần cảnh giác vì đằng sau có thể là một thủ đoạn lừa đảo, chiếm quyền kiểm soát SIM rất tinh vi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T10:37:00+07:00",
+      "fetched": "2026-07-11T18:01:18.770951+07:00"
+    },
+    {
+      "id": "4a8d227839b41e76834358744d3db3fe",
+      "title": "Việt Hương tiết lộ hôn nhân 20 năm với chồng là nghệ sĩ saxophone",
+      "link": "https://thanhnien.vn/viet-huong-tiet-lo-hon-nhan-20-nam-voi-chong-la-nghe-si-saxophone-185260711170229503.htm",
+      "summary": "Việt Hương chia sẻ chồng không chỉ đồng hành trong cuộc sống mà còn hỗ trợ để cô hoàn thành tốt nhiều vai trò trong lĩnh vực nghệ thuật lẫn kinh doanh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T10:29:00+07:00",
+      "fetched": "2026-07-11T18:01:18.771080+07:00"
+    },
+    {
+      "id": "5d431cb97b20b99c91593eb4bd7d2cfe",
+      "title": "Cách nhận vé miễn phí xem đại nhạc hội, bắn pháo hoa tại Festival biển Khánh Hòa",
+      "link": "https://thanhnien.vn/cach-nhan-ve-mien-phi-xem-dai-nhac-hoi-ban-phao-hoa-tai-festival-bien-khanh-hoa-185260711161101806.htm",
+      "summary": "Người dân và du khách có cơ hội nhận vé miễn phí tham dự 3 sự kiện chính của Festival biển Khánh Hòa 2026, kỳ festival quy tụ 42 hoạt động văn hóa, thể thao, du lịch trải dài từ Nha Trang đến Phan Rang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T10:15:00+07:00",
+      "fetched": "2026-07-11T18:01:18.771208+07:00"
+    },
+    {
+      "id": "d09f8474a97f9aa780cf17ea366c9a1a",
+      "title": "Nhận định bóng đá Na Uy vs Anh: Đá hiệp phụ, Haaland bị Harry Kane đánh bại",
+      "link": "https://thanhnien.vn/nhan-dinh-bong-da-na-uy-vs-anh-da-hiep-phu-haaland-bi-harry-kane-danh-bai-185260711170716342.htm",
+      "summary": "Đội tuyển Na Uy với ngôi sao số 1 Haaland chạm trán với đội tuyển Anh của Harry Kane ở vòng tứ kết World Cup 2026 diễn ra lúc 4 giờ ngày 12.7 trên sân Hard Rock (Miami, Mỹ), trực tiếp trên các kênh sóng VTV, VTVgo, FPT Play, TV360...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T10:10:00+07:00",
+      "fetched": "2026-07-11T18:01:18.771335+07:00"
+    },
+    {
+      "id": "e54f59b998f6d4748f392eb4b70b3ef6",
+      "title": "Điểm tin 17h: Đường dây cá độ World Cup 400 tỷ đồng liên tỉnh | Hà Nội dừng mở mới trường tiểu học, THCS công lập",
+      "link": "https://vnexpress.net/diem-tin-17h-duong-day-ca-do-world-cup-400-ty-dong-lien-tinh-ha-noi-dung-mo-moi-truong-tieu-hoc-thcs-cong-lap-5096320.html",
+      "summary": "Thủ tướng tuyên dương lực lượng cứu nạn trở về từ Venezuela; Đề xuất ngừng Internet với cá nhân, doanh nghiệp không nộp phạt hành chính;...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T10:05:15+07:00",
+      "fetched": "2026-07-11T18:01:16.274194+07:00"
+    },
+    {
+      "id": "96baa34e5d8e637111f17c7352284548",
+      "title": "Mỡ heo chế biến thức ăn có tốt hơn dầu thực vật?",
+      "link": "https://thanhnien.vn/mo-heo-che-bien-thuc-an-co-tot-hon-dau-thuc-vat-185260711162208976.htm",
+      "summary": "Trước thông tin 'truyền tai' nhau rằng mỡ heo hoàn toàn tự nhiên nên tốt hơn hẳn dầu ăn công nghiệp, chuyên gia dinh dưỡng lưu ý về sử dụng các chất béo trong bữa ăn hằng ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T10:03:00+07:00",
+      "fetched": "2026-07-11T18:01:18.771464+07:00"
+    },
+    {
+      "id": "f4642d191a451087cc4bc6d28b63be99",
+      "title": "Argentina gieo 'cơn điên' khắp World Cup",
+      "link": "https://vnexpress.net/argentina-gieo-con-dien-khap-world-cup-5095454.html",
+      "summary": "ĐKVĐ thế giới Argentina một lần nữa đưa người hâm mộ đi qua mọi cung bậc cảm xúc, trong một kỳ World Cup hỗn loạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T10:00:00+07:00",
+      "fetched": "2026-07-11T18:01:16.274350+07:00"
+    },
+    {
+      "id": "69f4e25ea6f55008c3b98c2563c6e5ac",
+      "title": "HDBank 9 năm liền được vinh danh 'Nơi làm việc tốt nhất châu Á'",
+      "link": "https://vnexpress.net/hdbank-9-nam-lien-duoc-vinh-danh-noi-lam-viec-tot-nhat-chau-a-5096302.html",
+      "summary": "HDBank được HR Asia trao giải ở hai hạng mục Nơi làm việc tốt nhất châu Á và Chuyển đổi năng lực nhân sự, với mức độ gắn kết nhân viên đạt 90%, chỉ số cam kết đạt 92%.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T10:00:00+07:00",
+      "fetched": "2026-07-11T18:01:16.274494+07:00"
+    },
+    {
+      "id": "bca1cd4244e47465074d8de25fe22669",
+      "title": "Vietbank củng cố bộ máy điều hành, nâng cao năng lực tài chính, hiệu quả hoạt động",
+      "link": "https://thanhnien.vn/vietbank-cung-co-bo-may-dieu-hanh-nang-cao-nang-luc-tai-chinh-hieu-qua-hoat-dong-185260711163547962.htm",
+      "summary": "Ngân hàng TMCP Việt Nam Thương Tín (Vietbank - mã chứng khoán: VBB) vừa công bố quyết định kiện toàn nhân sự lãnh đạo cấp cao. Cùng với việc củng cố bộ máy điều hành, Vietbank tiếp tục tăng cường năng lực tài chính và ghi nhận kết quả kinh doanh tích cực trong 6 tháng đầu năm 2026, tạo nền tảng cho ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T10:00:00+07:00",
+      "fetched": "2026-07-11T18:01:18.771605+07:00"
+    },
+    {
+      "id": "67a6b287ff4eba4ba823d507b802e8ed",
+      "title": "Toàn cảnh 17h: Hiện trường lật ca nô chở khách ở Phú Quốc | Bớt làn ô tô 'cứu' kẹt xe ở TP.HCM?",
+      "link": "https://thanhnien.vn/toan-canh-17h-hien-truong-lat-ca-no-cho-khach-o-phu-quoc-bot-lan-o-to-cuu-ket-xe-o-tphcm-18526071116043167.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T10:00:00+07:00",
+      "fetched": "2026-07-11T18:01:18.771732+07:00"
+    },
+    {
+      "id": "69f4e25ea6f55008c3b98c2563c6e5ac",
+      "title": "HDBank 9 năm liền được vinh danh 'Nơi làm việc tốt nhất châu Á'",
+      "link": "https://vnexpress.net/hdbank-9-nam-lien-duoc-vinh-danh-noi-lam-viec-tot-nhat-chau-a-5096302.html",
+      "summary": "HDBank được HR Asia trao giải ở hai hạng mục Nơi làm việc tốt nhất châu Á và Chuyển đổi năng lực nhân sự, với mức độ gắn kết nhân viên đạt 90%, chỉ số cam kết đạt 92%.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-11T10:00:00+07:00",
+      "fetched": "2026-07-11T18:01:22.847657+07:00"
+    },
+    {
+      "id": "f4642d191a451087cc4bc6d28b63be99",
+      "title": "Argentina gieo 'cơn điên' khắp World Cup",
+      "link": "https://vnexpress.net/argentina-gieo-con-dien-khap-world-cup-5095454.html",
+      "summary": "ĐKVĐ thế giới Argentina một lần nữa đưa người hâm mộ đi qua mọi cung bậc cảm xúc, trong một kỳ World Cup hỗn loạn.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-11T10:00:00+07:00",
+      "fetched": "2026-07-11T18:01:26.791556+07:00"
+    },
+    {
+      "id": "c83b57fae8c64815ce41985a193a10cf",
+      "title": "Hiện trường vụ canô chở 36 người bị lật ở Phú Quốc",
+      "link": "https://vnexpress.net/hien-truong-vu-cano-cho-36-nguoi-bi-lat-o-phu-quoc-5096309.html",
+      "summary": "Khi rời Hòn Mây Rút Ngoài khoảng 400 m, canô chở 32 hành khách Ấn Độ và tổ lái, hướng dẫn viên bất ngờ lật úp, tàu du lịch hoạt động gần đó nhanh chóng đến ứng cứu, chiều 11/7.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T09:59:39+07:00",
+      "fetched": "2026-07-11T18:01:16.274649+07:00"
+    },
+    {
+      "id": "130119ed757350213592d5bb5822cd11",
+      "title": "Triệt phá đường dây ‘phát lậu’ bóng đá, tổ chức cá độ 850 tỉ",
+      "link": "https://thanhnien.vn/triet-pha-duong-day-phat-lau-bong-da-to-chuc-ca-do-850-ti-185260711164046898.htm",
+      "summary": "Cơ quan công an vừa triệt phá đường dây 'phát lậu' các trận bóng đá và tổ chức đánh bạc theo hình thức cá độ với quy mô lên tới 850 tỉ đồng, diễn ra ở nhiều tỉnh, thành trên cả nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T09:57:00+07:00",
+      "fetched": "2026-07-11T18:01:18.771856+07:00"
+    },
+    {
+      "id": "21f7f6c87a24af161c88fd2f7b0e4e62",
+      "title": "Lật ca nô du lịch ở Phú Quốc: 15 người tử vong",
+      "link": "https://thanhnien.vn/lat-ca-no-du-lich-o-phu-quoc-15-nguoi-tu-vong-185260711163236604.htm",
+      "summary": "Theo ghi nhận lúc 16 giờ ngày 11.7, Trung tâm y tế đặc khu Phú Quốc (An Giang) đang chuẩn bị vật tư và phương tiện để xử lý thi thể nạn nhân tử vong do lật ca nô du lịch vào trưa cùng ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T09:55:00+07:00",
+      "fetched": "2026-07-11T18:01:18.771980+07:00"
+    },
+    {
+      "id": "a625e89dc98d6fb832a6f54d9a7b0345",
+      "title": "Vợ chồng Việt Hương kỷ niệm 20 năm kết hôn",
+      "link": "https://vnexpress.net/vo-chong-viet-huong-ky-niem-20-nam-ket-hon-5096276.html",
+      "summary": "Nghệ sĩ Việt Hương và chồng - nhạc sĩ Hoài Phương - mặc đồ cưới chụp bộ ảnh kỷ niệm 20 năm kết hôn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T09:50:50+07:00",
+      "fetched": "2026-07-11T18:01:16.274783+07:00"
+    },
+    {
+      "id": "6cf807ecbd5357c29939399e785b3ad3",
+      "title": "Cổ động viên Na Uy gây chú ý vì không 'chèo thuyền Viking' ăn mừng",
+      "link": "https://vnexpress.net/co-dong-vien-na-uy-gay-chu-y-vi-khong-cheo-thuyen-viking-an-mung-5096288.html",
+      "summary": "Emil Lappen gây sốt mạng xã hội khi ngồi im lặng, không tham gia vào màn \"chèo thuyền Viking\" để ăn mừng khi Na Uy chiến thắng tại World Cup.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T09:35:27+07:00",
+      "fetched": "2026-07-11T18:01:16.274918+07:00"
+    },
+    {
+      "id": "6cf807ecbd5357c29939399e785b3ad3",
+      "title": "Cổ động viên Na Uy gây chú ý vì không 'chèo thuyền Viking' ăn mừng",
+      "link": "https://vnexpress.net/co-dong-vien-na-uy-gay-chu-y-vi-khong-cheo-thuyen-viking-an-mung-5096288.html",
+      "summary": "Emil Lappen gây sốt mạng xã hội khi ngồi im lặng, không tham gia vào màn \"chèo thuyền Viking\" để ăn mừng khi Na Uy chiến thắng tại World Cup.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-11T09:35:27+07:00",
+      "fetched": "2026-07-11T18:01:21.465005+07:00"
+    },
+    {
+      "id": "908fe2e788cb780e73f4ef2dee53d145",
+      "title": "Vì sao Morocco không thể giao bóng khi Pháp ra ngoài sân ăn mừng?",
+      "link": "https://vnexpress.net/vi-sao-morocco-khong-the-giao-bong-khi-phap-ra-ngoai-san-an-mung-5096297.html",
+      "summary": "Pha ăn mừng bàn thắng thứ hai của Pháp trong trận thắng Morocco 2-0 ở tứ kết World Cup 2026 tạo nên một cuộc tranh luận về luật bóng đá.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T09:34:32+07:00",
+      "fetched": "2026-07-11T18:01:16.275049+07:00"
+    },
+    {
+      "id": "908fe2e788cb780e73f4ef2dee53d145",
+      "title": "Vì sao Morocco không thể giao bóng khi Pháp ra ngoài sân ăn mừng?",
+      "link": "https://vnexpress.net/vi-sao-morocco-khong-the-giao-bong-khi-phap-ra-ngoai-san-an-mung-5096297.html",
+      "summary": "Pha ăn mừng bàn thắng thứ hai của Pháp trong trận thắng Morocco 2-0 ở tứ kết World Cup 2026 tạo nên một cuộc tranh luận về luật bóng đá.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-11T09:34:32+07:00",
+      "fetched": "2026-07-11T18:01:26.791714+07:00"
+    },
+    {
+      "id": "71a08692dec19c8447a77768074e2cfb",
+      "title": "Solbakken - ánh sáng màu xanh của đội tuyển Na Uy",
+      "link": "https://vnexpress.net/solbakken-anh-sang-mau-xanh-cua-doi-tuyen-na-uy-5094464.html",
+      "summary": "Từ ánh sáng xanh trong đường hầm của một trải nghiệm cận tử, Stale Solbakken hồi phục, dẫn dắt đội tuyển Na Uy làm nên lịch sử tại World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T09:31:43+07:00",
+      "fetched": "2026-07-11T18:01:16.275176+07:00"
+    },
+    {
+      "id": "71a08692dec19c8447a77768074e2cfb",
+      "title": "Solbakken - ánh sáng màu xanh của đội tuyển Na Uy",
+      "link": "https://vnexpress.net/solbakken-anh-sang-mau-xanh-cua-doi-tuyen-na-uy-5094464.html",
+      "summary": "Từ ánh sáng xanh trong đường hầm của một trải nghiệm cận tử, Stale Solbakken hồi phục, dẫn dắt đội tuyển Na Uy làm nên lịch sử tại World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-11T09:31:43+07:00",
+      "fetched": "2026-07-11T18:01:26.791856+07:00"
+    },
+    {
       "id": "a107f15b91e464c87fec44c48adf6f39",
       "title": "Honda Super Cub có bản mới bắt mắt hơn, phanh ABS, dùng được xăng sinh học",
       "link": "https://tuoitre.vn/honda-super-cub-co-ban-moi-bat-mat-hon-phanh-abs-dung-duoc-xang-sinh-hoc-100260711010601056.htm",
@@ -471,6 +841,16 @@ window.newsData_2026_07_11 = {
       "category": "Tổng hợp",
       "published": "2026-07-11T09:18:00+07:00",
       "fetched": "2026-07-11T16:24:58.405550+07:00"
+    },
+    {
+      "id": "6ce3c065b8a3e93a8177c84753ff3a6d",
+      "title": "Cứu sống thiếu niên viêm cơ tim tối cấp",
+      "link": "https://vnexpress.net/cuu-song-thieu-nien-viem-co-tim-toi-cap-5095860.html",
+      "summary": "Sau kỳ thi lớp 10, thiếu niên 15 tuổi đột ngột viêm cơ tim tối cấp kèm thuyên tắc phổi nguy cơ tử vong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T09:14:40+07:00",
+      "fetched": "2026-07-11T18:01:16.275309+07:00"
     },
     {
       "id": "d63549a58a3ceea2e54093bdc6377396",
