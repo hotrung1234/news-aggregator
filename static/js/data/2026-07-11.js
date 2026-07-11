@@ -1,7 +1,137 @@
 window.newsData_2026_07_11 = {
   "date": "2026-07-11",
-  "lastUpdated": "2026-07-11T20:11:22.386926+07:00",
+  "lastUpdated": "2026-07-11T21:49:59.919243+07:00",
   "articles": [
+    {
+      "id": "45b854201641cdcfd7241709b2c45f37",
+      "title": "Sau tố cáo tiêu cực, Quảng Trị rà soát kết quả thi tốt nghiệp toàn tỉnh tìm dấu hiệu bất thường",
+      "link": "https://tuoitre.vn/sau-to-cao-tieu-cuc-quang-tri-ra-soat-ket-qua-thi-tot-nghiep-toan-tinh-tim-dau-hieu-bat-thuong-100260711190429142.htm",
+      "summary": "UBND tỉnh Quảng Trị yêu cầu Sở Giáo dục và Đào tạo phối hợp kiểm tra, rà soát kết quả kỳ thi tốt nghiệp THPT năm 2026 trên địa bàn tỉnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T21:49:50.769744+07:00",
+      "fetched": "2026-07-11T21:49:50.769806+07:00"
+    },
+    {
+      "id": "528bc212bbe5342fc92602b057bfc247",
+      "title": "Cảng hàng không quốc tế Gia Bình quy tụ nhân tài quốc tế",
+      "link": "https://tuoitre.vn/cang-hang-khong-quoc-te-gia-binh-quy-tu-nhan-tai-quoc-te-100260711185512149.htm",
+      "summary": "Dự án Càng hàng không quốc tế Gia Bình không chỉ góp phần giảm áp lực cho hạ tầng hiện hữu mà còn có thể trở thành một cực tăng trưởng mới của ngành hàng không miền Bắc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T21:49:50.769676+07:00",
+      "fetched": "2026-07-11T21:49:50.769734+07:00"
+    },
+    {
+      "id": "dd87e551d1187fce9428a491dc91e70b",
+      "title": "Vụ lật ca nô ở Phú Quốc: Đưa 10 thi thể nạn nhân về Bệnh viện Chợ Rẫy TP.HCM để bảo quản",
+      "link": "https://tuoitre.vn/vu-lat-ca-no-o-phu-quoc-dua-10-thi-the-nan-nhan-ve-benh-vien-cho-ray-tphcm-de-bao-quan-100260711185935519.htm",
+      "summary": "An Giang chỉ đạo đơn vị liên quan đưa 15 du khách người Ấn Độ tử vong do bị lật ca nô ở Phú Quốc vào Bệnh viện Đa khoa Kiên Giang và Bệnh viện Chợ Rẫy (TP.HCM) để bảo quản. Công an tỉnh An Giang cũng vào cuộc điều tra làm rõ vụ việc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T21:49:50.769608+07:00",
+      "fetched": "2026-07-11T21:49:50.769666+07:00"
+    },
+    {
+      "id": "aa3d1d55c3a19a0ce917e56ef59f3814",
+      "title": "10.000 con gà nuôi chết ngạt sau khi trang trại bị chập điện",
+      "link": "https://tuoitre.vn/10000-con-ga-nuoi-chet-ngat-sau-khi-trang-trai-bi-chap-dien-100260711183836831.htm",
+      "summary": "Gần 10.000 con gà tại một trang trại ở xã Xuân Lập, tỉnh Thanh Hóa bị chết ngạt sau khi trang trại bị chập điện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T21:49:50.769540+07:00",
+      "fetched": "2026-07-11T21:49:50.769597+07:00"
+    },
+    {
+      "id": "d4f871d21fb5de73c0e4103bc26c912b",
+      "title": "Khách Nga trở lại, cần thêm lý do để chi tiêu nhiều hơn",
+      "link": "https://tuoitre.vn/khach-nga-tro-lai-can-them-ly-do-de-chi-tieu-nhieu-hon-100260711193837622.htm",
+      "summary": "Từng gần như biến mất khỏi bản đồ khách quốc tế Việt Nam vì biến động địa chính trị và gián đoạn kết nối hàng không, thị trường Nga vừa ghi nhận cú lội ngược dòng ngoạn mục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T21:49:50.769471+07:00",
+      "fetched": "2026-07-11T21:49:50.769530+07:00"
+    },
+    {
+      "id": "e25cf876d5551e58921dda63b062547c",
+      "title": "Nhịp đập của hẻm",
+      "link": "https://tuoitre.vn/nhip-dap-cua-hem-100260711195013573.htm",
+      "summary": "Có những đêm Sài Gòn đổ mưa ròng rã, chiếc xe mưu sinh của hai vợ chồng nằm im lìm ở góc phòng trọ sau một ngày ế ẩm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T21:49:50.769404+07:00",
+      "fetched": "2026-07-11T21:49:50.769461+07:00"
+    },
+    {
+      "id": "9846b745de368fc3e9b199913f7aa5b3",
+      "title": "Tìm thấy tấm ảnh chàng trai mặc quân phục bong tróc nửa khuôn mặt khi lấy mẫu hài cốt liệt sĩ",
+      "link": "https://tuoitre.vn/tim-thay-tam-anh-chang-trai-mac-quan-phuc-bong-troc-nua-khuon-mat-khi-lay-mau-hai-cot-liet-si-10026071118464105.htm",
+      "summary": "Trong khi lấy mẫu hài cốt liệt sĩ phục vụ giám định ADN, lực lượng chức năng phát hiện tấm ảnh chàng trai mặc quân phục đã bong tróc nửa khuôn mặt và nhiều di vật quan trọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T21:49:50.769335+07:00",
+      "fetched": "2026-07-11T21:49:50.769393+07:00"
+    },
+    {
+      "id": "1525135860ca7ebe0eab67cf4ac3e240",
+      "title": "Tân HLV trưởng Bồ Đào Nha bênh Ronaldo, chê các tiền vệ đội nhà",
+      "link": "https://tuoitre.vn/tan-hlv-truong-bo-dao-nha-benh-ronaldo-che-cac-tien-ve-doi-nha-100260711193416016.htm",
+      "summary": "Ông Jorge Jesus, người vừa được bổ nhiệm công việc HLV trưởng tuyển Bồ Đào Nha thay ông Roberto Martinez, có bài phát biểu đáng chú ý khi bênh vực Ronaldo và tỏ ý xem nhẹ dàn tiền vệ đội nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T21:49:50.769266+07:00",
+      "fetched": "2026-07-11T21:49:50.769324+07:00"
+    },
+    {
+      "id": "5c4ac14d5c2f2825574e0920e8f0509d",
+      "title": "Ba cha con du khách Hà Nội bị sóng cuốn ở biển Mỹ Á, bám phao chờ cứu",
+      "link": "https://tuoitre.vn/ba-cha-con-du-khach-ha-noi-bi-song-cuon-o-bien-my-a-bam-phao-cho-cuu-100260711194455925.htm",
+      "summary": "Trong lúc tắm biển Mỹ Á (Quảng Ngãi), ba cha con du khách ở Hà Nội bị sóng cuốn ra biển phải bám phao chờ cứu hộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T21:49:50.769196+07:00",
+      "fetched": "2026-07-11T21:49:50.769255+07:00"
+    },
+    {
+      "id": "95f76bda249c92b3bd8a142e21aad235",
+      "title": "Bão Bavi quét qua Đài Loan và Nhật Bản, Trung Quốc sơ tán gần 2 triệu người",
+      "link": "https://tuoitre.vn/bao-bavi-quet-qua-dai-loan-va-nhat-ban-trung-quoc-so-tan-gan-2-trieu-nguoi-100260711194409982.htm",
+      "summary": "Trung Quốc sơ tán gần 2 triệu người trong bối cảnh bão Bavi đã quét qua khu vực phía bắc Đài Loan và các đảo xa ở tây nam Nhật Bản trong ngày 11-7.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T21:49:50.769123+07:00",
+      "fetched": "2026-07-11T21:49:50.769185+07:00"
+    },
+    {
+      "id": "73eb91a1a1874f6c6d43f4ce6fbf2fe5",
+      "title": "Dân bị chặn chuyển mục đích thêm đất ở, phường nêu lý do ‘không có trong luật’",
+      "link": "https://tuoitre.vn/dan-bi-chan-chuyen-muc-dich-them-dat-o-phuong-neu-ly-do-khong-co-trong-luat-100260710193928382.htm",
+      "summary": "Phường Tây Nha Trang (Khánh Hòa) nhận hồ sơ dân đăng ký chuyển mục đích sử dụng đất để tăng thêm đất ở, quá thời hạn giải quyết vẫn “làm thinh”. Dân phản ánh thì phường nêu lý do không có trong Luật Đất đai để bác hồ sơ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T21:49:50.769021+07:00",
+      "fetched": "2026-07-11T21:49:50.769110+07:00"
+    },
+    {
+      "id": "7f3777ee50dde8ab5cea1b42a05039bf",
+      "title": "Dân Peru nổi 'cơn sốt' đặt tên Haaland cho trẻ sơ sinh ngay World Cup 2026",
+      "link": "https://tuoitre.vn/dan-peru-noi-con-sot-dat-ten-haaland-cho-tre-so-sinh-ngay-world-cup-2026-100260711201650643.htm",
+      "summary": "Sức hút từ màn trình diễn của Erling Haaland tại World Cup 2026 đã tạo nên một hiện tượng thú vị tại Peru, khi hàng trăm đứa trẻ mới chào đời được cha mẹ đặt tên theo siêu sao người Na Uy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T21:49:50.768940+07:00",
+      "fetched": "2026-07-11T21:49:50.769009+07:00"
+    },
+    {
+      "id": "1f07feb8684e0ce92f1de98dc7651c22",
+      "title": "Vua Charles III lần đầu gặp lại hoàng tử Harry và vợ con sau nhiều năm rạn nứt",
+      "link": "https://tuoitre.vn/vua-charles-iii-lan-dau-gap-lai-hoang-tu-harry-va-vo-con-sau-nhieu-nam-ran-nut-100260711203556512.htm",
+      "summary": "Vua Charles III tiếp Hoàng tử Harry cùng gia đình tại dinh thự Highgrove, đánh dấu lần đầu cả nhà đoàn tụ sau nhiều năm rạn nứt kể từ khi vợ chồng Harry rời Hoàng gia Anh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T21:49:50.768780+07:00",
+      "fetched": "2026-07-11T21:49:50.768925+07:00"
+    },
     {
       "id": "7cfb49fef236fbf071e626eee3154445",
       "title": "Từ giảng đường đến doanh nghiệp: Trường cao đẳng Hữu Nghị tạo lợi thế việc làm ngay từ khi còn đi học",
@@ -391,6 +521,166 @@ window.newsData_2026_07_11 = {
       "category": "Tổng hợp",
       "published": "2026-07-11T16:25:00.679091+07:00",
       "fetched": "2026-07-11T16:25:00.679240+07:00"
+    },
+    {
+      "id": "6556f143451436c2c77b72a05cb002f2",
+      "title": "CC1 mở rộng hiện diện trong chuỗi hạ tầng - logistics tại Lào",
+      "link": "https://vnexpress.net/cc1-mo-rong-hien-dien-trong-chuoi-ha-tang-logistics-tai-lao-5096360.html",
+      "summary": "Tổng công ty Xây dựng Số 1 - CTCP (CC1) liên tiếp ký hai biên bản ghi nhớ với các đối tác lớn tại Lào, tăng cường hiện diện trong chuỗi hạ tầng - logistics tại đây.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-11T14:35:00+07:00",
+      "fetched": "2026-07-11T21:49:54.079886+07:00"
+    },
+    {
+      "id": "46fd164b08573b8cc79c888f80f960a5",
+      "title": "Đội tuyển Việt Nam dốc sức đấu Gangwon, Văn Lâm nói cực hay về Lê Giang Patrik",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-doc-suc-dau-gangwon-van-lam-noi-cuc-hay-ve-le-giang-patrik-185260711211843673.htm",
+      "summary": "Đội tuyển Việt Nam đang hoàn thiện những bước chuẩn bị cuối cho trận giao hữu với Gangwon tại Hàn Quốc, diễn ra ngày 13.7.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T14:25:00+07:00",
+      "fetched": "2026-07-11T21:49:48.830252+07:00"
+    },
+    {
+      "id": "9a4f4eb6c60d2e9260829c970b5506a9",
+      "title": "Bức tường đội tuyển Anh hóa giải 'cỗ máy' Haaland: Đã có trung vệ cao 2,01m",
+      "link": "https://thanhnien.vn/buc-tuong-tuyen-anh-hoa-giai-co-may-haaland-da-co-trung-ve-cao-201m-185260711201338594.htm",
+      "summary": "Tuyển Anh là đối thủ khó khăn nhất mà Erling Haaland và đồng đội phải đương đầu ở World Cup, khi các hậu vệ xứ sương mù đã hiểu quá rõ sự nguy hiểm của tiền đạo Na Uy",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T13:55:00+07:00",
+      "fetched": "2026-07-11T21:49:48.830423+07:00"
+    },
+    {
+      "id": "2e6a429db3b0c93ce60acabb69d6cf29",
+      "title": "Tỉnh ủy An Giang báo cáo Ban Bí thư về vụ lật ca nô ở Phú Quốc",
+      "link": "https://thanhnien.vn/tinh-uy-an-giang-bao-cao-ban-bi-thu-ve-vu-lat-ca-no-o-phu-quoc-185260711201157218.htm",
+      "summary": "Tối 11.7, ông Nguyễn Thanh Nhàn, Phó bí thư Thường trực Tỉnh ủy An Giang báo cáo Thường trực Ban Bí thư về vụ tai nạn lật tàu du lịch làm 15 du khách tử vong ở Phú Quốc trong buổi chiều cùng ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T13:51:00+07:00",
+      "fetched": "2026-07-11T21:49:48.830583+07:00"
+    },
+    {
+      "id": "97fbe90ab340e2f7bf025e09a184a682",
+      "title": "Sốc: Tuyển thủ Nam Phi đột ngột qua đời ở tuổi 25 ngay sau khi trở về từ World Cup",
+      "link": "https://thanhnien.vn/soc-tuyen-thu-nam-phi-dot-ngot-qua-doi-ngay-khi-tro-ve-tu-world-cup-185260711203652863.htm",
+      "summary": "Tuyển thủ Nam Phi Jayden Adams qua đời ở tuổi 25, sau khi cùng Nam Phi kết thúc hành trình ở World Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T13:40:00+07:00",
+      "fetched": "2026-07-11T21:49:48.830737+07:00"
+    },
+    {
+      "id": "73efea9fa4a23d876432536caee48c1b",
+      "title": "Lãnh tụ Tối cao Iran thề 'trả nợ máu' cho cha",
+      "link": "https://vnexpress.net/lanh-tu-toi-cao-iran-the-tra-no-mau-cho-cha-5096345.html",
+      "summary": "Lãnh tụ Tối cao Iran Mojtaba Khamenei tuyên bố rằng việc báo thù cho cái chết của cha mình là điều \"nhất định phải thực hiện\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T13:33:52+07:00",
+      "fetched": "2026-07-11T21:49:45.383136+07:00"
+    },
+    {
+      "id": "73efea9fa4a23d876432536caee48c1b",
+      "title": "Lãnh tụ Tối cao Iran thề 'trả nợ máu' cho cha",
+      "link": "https://vnexpress.net/lanh-tu-toi-cao-iran-the-tra-no-mau-cho-cha-5096345.html",
+      "summary": "Lãnh tụ Tối cao Iran Mojtaba Khamenei tuyên bố rằng việc báo thù cho cái chết của cha mình là điều \"nhất định phải thực hiện\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-11T13:33:52+07:00",
+      "fetched": "2026-07-11T21:49:52.719993+07:00"
+    },
+    {
+      "id": "47f06fdb534b8327d2e2257022a84564",
+      "title": "Vì sao Google Maps không bắt đầu dẫn đường dù đã chọn điểm đến?",
+      "link": "https://thanhnien.vn/vi-sao-google-maps-khong-bat-dau-dan-duong-du-da-chon-diem-den-185260710152342293.htm",
+      "summary": "Nhiều người tưởng Google Maps gặp lỗi khi mất nút Bắt đầu, nhưng chỉ cần vài thao tác đơn giản là có thể khắc phục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T13:21:00+07:00",
+      "fetched": "2026-07-11T21:49:48.830889+07:00"
+    },
+    {
+      "id": "eb0a7c5ef99855e9bf233ba7076be41e",
+      "title": "Cầu thủ vừa dự World Cup Jayden Adams qua đời ở tuổi 25",
+      "link": "https://vnexpress.net/cau-thu-vua-du-world-cup-jayden-adams-qua-doi-o-tuoi-25-5096354.html",
+      "summary": "Tiền vệ tuyển Nam Phi Jayden Adams, người vừa thi đấu tại World Cup 2026, qua đời ở tuổi 25, khiến bóng đá nước này bàng hoàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T13:20:25+07:00",
+      "fetched": "2026-07-11T21:49:45.383333+07:00"
+    },
+    {
+      "id": "eb0a7c5ef99855e9bf233ba7076be41e",
+      "title": "Cầu thủ vừa dự World Cup Jayden Adams qua đời ở tuổi 25",
+      "link": "https://vnexpress.net/cau-thu-vua-du-world-cup-jayden-adams-qua-doi-o-tuoi-25-5096354.html",
+      "summary": "Tiền vệ tuyển Nam Phi Jayden Adams, người vừa thi đấu tại World Cup 2026, qua đời ở tuổi 25, khiến bóng đá nước này bàng hoàng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-11T13:20:25+07:00",
+      "fetched": "2026-07-11T21:49:59.907472+07:00"
+    },
+    {
+      "id": "242d6e807a1d2c842d08a190c21b62c5",
+      "title": "Lý do khiến người dùng quay lưng với tủ lạnh thông minh",
+      "link": "https://thanhnien.vn/ly-do-khien-nguoi-dung-quay-lung-voi-tu-lanh-thong-minh-185260711152806057.htm",
+      "summary": "Nhiều người chi hàng chục triệu đồng cho tủ lạnh thông minh liệu để rồi nhận ra đã mắc bẫy quảng cáo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T13:16:00+07:00",
+      "fetched": "2026-07-11T21:49:48.831060+07:00"
+    },
+    {
+      "id": "76e937fb206a76bd336740a0b6b47011",
+      "title": "Xuất hiện 1 người trúng 102,8 tỉ đồng giải độc đắc Vietlott Power 6/55 tối 11.7",
+      "link": "https://thanhnien.vn/xuat-hien-1-nguoi-trung-1028-ti-dong-giai-doc-dac-vietlott-power-6-55-toi-117-185260711190210841.htm",
+      "summary": "Tối 11.7, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Power 6/55 và ghi nhận có 1 người trúng độc đắc với số tiền cộng dồn là 102 tỉ đồng, giải Jackpot 2 có 1 người trúng 4,5 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T13:14:00+07:00",
+      "fetched": "2026-07-11T21:49:48.831221+07:00"
+    },
+    {
+      "id": "2f8c3598e6ed219cf80929670885b655",
+      "title": "Một người trúng Jackpot hơn 100 tỷ đồng",
+      "link": "https://vnexpress.net/mot-nguoi-trung-jackpot-hon-100-ty-dong-5096352.html",
+      "summary": "Kỳ mở thưởng sản phẩm Power 6/55 tối nay tìm được người trúng cho tất cả hạng giải, trong đó cao nhất gần 103 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T13:12:39+07:00",
+      "fetched": "2026-07-11T21:49:45.383503+07:00"
+    },
+    {
+      "id": "2f8c3598e6ed219cf80929670885b655",
+      "title": "Một người trúng Jackpot hơn 100 tỷ đồng",
+      "link": "https://vnexpress.net/mot-nguoi-trung-jackpot-hon-100-ty-dong-5096352.html",
+      "summary": "Kỳ mở thưởng sản phẩm Power 6/55 tối nay tìm được người trúng cho tất cả hạng giải, trong đó cao nhất gần 103 tỷ đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-11T13:12:39+07:00",
+      "fetched": "2026-07-11T21:49:54.078387+07:00"
+    },
+    {
+      "id": "f0a9782b0b34928acf687871f8159265",
+      "title": "Đầu bếp Mỹ 'Thánh Liêm' Leslie Gilliams ký tặng gần 1.000 CĐV tại The Grand Esports",
+      "link": "https://thanhnien.vn/dau-bep-my-thanh-liem-leslie-gilliams-ky-tang-gan-1000-cdv-tai-the-grand-esports-185260711201142797.htm",
+      "summary": "Buổi giao lưu và ký tặng của đầu bếp Mỹ Leslie Gilliams, gương mặt quen thuộc của chương trình MasterChef Mỹ mùa 5, chiều 11.7 đã thu hút gần 1.000 người hâm mộ tại sự kiện The Grand Esports 2026 diễn ra ở Hà Nội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T13:12:00+07:00",
+      "fetched": "2026-07-11T21:49:48.831374+07:00"
+    },
+    {
+      "id": "a7573d3080cc6f1cb0afbb741c5a763f",
+      "title": "Quảng Trị tổ chức rà soát toàn tỉnh về kết quả kỳ thi tốt nghiệp THPT",
+      "link": "https://thanhnien.vn/quang-tri-to-chuc-ra-soat-toan-tinh-ve-ket-qua-ky-thi-tot-nghiep-thpt-185260711195517489.htm",
+      "summary": "Liên quan đến việc kiểm tra thông tin phản ánh tiêu cực tại điểm thi ở Quảng Trị, UBND tỉnh này vừa có quyết định rà soát kết quả thi tốt nghiệp trên toàn địa bàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-11T13:12:00+07:00",
+      "fetched": "2026-07-11T21:49:48.831523+07:00"
     },
     {
       "id": "e37f3332931bacf19715f72b788a9d6d",
