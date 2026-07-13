@@ -1,7 +1,17 @@
 window.newsData_2026_07_14 = {
   "date": "2026-07-14",
-  "lastUpdated": "2026-07-14T00:52:27.617240+07:00",
+  "lastUpdated": "2026-07-14T02:19:19.593133+07:00",
   "articles": [
+    {
+      "id": "5300d77015a5b34bd666fbf040cce8dc",
+      "title": "Becamex TP.HCM chia tay cựu trợ lý của HLV Miura",
+      "link": "https://tuoitre.vn/becamex-tphcm-chia-tay-cuu-tro-ly-cua-hlv-miura-100260713223916903.htm",
+      "summary": "HLV Nguyễn Thanh Sơn nối bước ông Đặng Trần Chỉnh rời CLB Becamex TP.HCM sau 10 năm làm việc. Cựu tuyển thủ Nguyễn Tăng Tuấn cũng chia tay đội bóng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T02:19:12.348709+07:00",
+      "fetched": "2026-07-14T02:19:12.348834+07:00"
+    },
     {
       "id": "bb102c5297334db5de5bee3b81a3f9eb",
       "title": "Vietjet và Ngân hàng số Vikki đồng hành cùng ASEAN United FC",
@@ -151,6 +161,96 @@ window.newsData_2026_07_14 = {
       "category": "Tổng hợp",
       "published": "2026-07-14T00:52:20.436833+07:00",
       "fetched": "2026-07-14T00:52:20.436961+07:00"
+    },
+    {
+      "id": "5208b1f5720db6c5f2e915b5b667dcce",
+      "title": "iOS 27 tích hợp Siri AI có bản dùng thử đầu tiên",
+      "link": "https://vnexpress.net/ios-27-tich-hop-siri-ai-co-ban-dung-thu-dau-tien-5097071.html",
+      "summary": "Apple bắt đầu cho người dùng iPhone tải về iOS 27 bản thử nghiệm rộng rãi đầu tiên với trọng tâm là trợ lý Siri tích hợp AI hoàn toàn mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T18:41:55+07:00",
+      "fetched": "2026-07-14T02:19:06.783396+07:00"
+    },
+    {
+      "id": "5208b1f5720db6c5f2e915b5b667dcce",
+      "title": "iOS 27 tích hợp Siri AI có bản dùng thử đầu tiên",
+      "link": "https://vnexpress.net/ios-27-tich-hop-siri-ai-co-ban-dung-thu-dau-tien-5097071.html",
+      "summary": "Apple bắt đầu cho người dùng iPhone tải về iOS 27 bản thử nghiệm rộng rãi đầu tiên với trọng tâm là trợ lý Siri tích hợp AI hoàn toàn mới.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-13T18:41:55+07:00",
+      "fetched": "2026-07-14T02:19:18.476619+07:00"
+    },
+    {
+      "id": "9b20651900527aba74ef9c2ec283ac1b",
+      "title": "Đề xuất chấm dứt quyền sở hữu chung cư khi công trình hết niên hạn sử dụng",
+      "link": "https://vnexpress.net/de-xuat-cham-dut-quyen-so-huu-chung-cu-khi-cong-trinh-het-nien-han-su-dung-5096648.html",
+      "summary": "Tại dự thảo Luật Nhà ở sửa đổi, Bộ Xây dựng đề xuất chấm dứt quyền sở hữu với căn hộ và phần diện tích khác khi nhà chung cư hết niên hạn sử dụng, bị phá dỡ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T18:01:33+07:00",
+      "fetched": "2026-07-14T02:19:06.783607+07:00"
+    },
+    {
+      "id": "a8c8bbd548e39a4d187a4483093ad540",
+      "title": "Victoria Beckham 'gây bão' vì không ăn mừng bàn thắng tuyển Anh",
+      "link": "https://vnexpress.net/victoria-beckham-gay-bao-vi-khong-an-mung-ban-thang-tuyen-anh-5097068.html",
+      "summary": "Victoria Beckham trở thành tâm điểm trên mạng xã hội khi ngồi yên, không biểu lộ cảm xúc trước bàn thắng của Jude Bellingham trong trận tuyển Anh thắng Na Uy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T18:00:45+07:00",
+      "fetched": "2026-07-14T02:19:06.783787+07:00"
+    },
+    {
+      "id": "9086a962a436592a913d65ab1d9be4a0",
+      "title": "6 dấu hiệu cho thấy cơ thể bạn vẫn khỏe khi già đi",
+      "link": "https://vnexpress.net/6-dau-hieu-cho-thay-co-the-ban-van-khoe-khi-gia-di-5096891.html",
+      "summary": "Đi bộ nhanh, giữ thăng bằng tốt, ngủ ngon và các chỉ số sức khỏe được kiểm soát cho thấy cơ thể vẫn duy trì chức năng khi tuổi tác tăng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T18:00:00+07:00",
+      "fetched": "2026-07-14T02:19:06.783949+07:00"
+    },
+    {
+      "id": "fbb0e7b2febba81bb7545b02500700fc",
+      "title": "Khoảng trống với đảng Cộng hòa sau khi thượng nghị sĩ Graham qua đời",
+      "link": "https://vnexpress.net/khoang-trong-voi-dang-cong-hoa-sau-khi-thuong-nghi-si-graham-qua-doi-5096654.html",
+      "summary": "Việc ông Graham đột ngột qua đời khiến đảng Cộng hòa tạm thời mất một ghế tại Thượng viện, đối mặt thêm khó khăn khi thúc đẩy chương trình nghị sự.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T18:00:00+07:00",
+      "fetched": "2026-07-14T02:19:06.784109+07:00"
+    },
+    {
+      "id": "5fabceaa518af98cdab8abfc121cc325",
+      "title": "Iran thu được gì từ đầu đạn tên lửa hành trình tàng hình Mỹ",
+      "link": "https://vnexpress.net/iran-thu-duoc-gi-tu-dau-dan-ten-lua-hanh-trinh-tang-hinh-my-5095796.html",
+      "summary": "Iran dường như thu được đầu đạn nguyên vẹn của tên lửa hành trình AGM-158, có thể giúp cải thiện năng lực đối phó loại vũ khí này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T18:00:00+07:00",
+      "fetched": "2026-07-14T02:19:06.784267+07:00"
+    },
+    {
+      "id": "fbb0e7b2febba81bb7545b02500700fc",
+      "title": "Khoảng trống với đảng Cộng hòa sau khi thượng nghị sĩ Graham qua đời",
+      "link": "https://vnexpress.net/khoang-trong-voi-dang-cong-hoa-sau-khi-thuong-nghi-si-graham-qua-doi-5096654.html",
+      "summary": "Việc ông Graham đột ngột qua đời khiến đảng Cộng hòa tạm thời mất một ghế tại Thượng viện, đối mặt thêm khó khăn khi thúc đẩy chương trình nghị sự.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-13T18:00:00+07:00",
+      "fetched": "2026-07-14T02:19:13.810783+07:00"
+    },
+    {
+      "id": "5fabceaa518af98cdab8abfc121cc325",
+      "title": "Iran thu được gì từ đầu đạn tên lửa hành trình tàng hình Mỹ",
+      "link": "https://vnexpress.net/iran-thu-duoc-gi-tu-dau-dan-ten-lua-hanh-trinh-tang-hinh-my-5095796.html",
+      "summary": "Iran dường như thu được đầu đạn nguyên vẹn của tên lửa hành trình AGM-158, có thể giúp cải thiện năng lực đối phó loại vũ khí này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-13T18:00:00+07:00",
+      "fetched": "2026-07-14T02:19:13.810959+07:00"
     },
     {
       "id": "a1abab105bf94dfe3585d0024949c216",
