@@ -1,6 +1,6 @@
 window.newsData_2026_07_14 = {
   "date": "2026-07-14",
-  "lastUpdated": "2026-07-14T02:19:19.593133+07:00",
+  "lastUpdated": "2026-07-14T03:54:32.028362+07:00",
   "articles": [
     {
       "id": "5300d77015a5b34bd666fbf040cce8dc",
@@ -161,6 +161,16 @@ window.newsData_2026_07_14 = {
       "category": "Tổng hợp",
       "published": "2026-07-14T00:52:20.436833+07:00",
       "fetched": "2026-07-14T00:52:20.436961+07:00"
+    },
+    {
+      "id": "9e230a5bce67a5ab2d223e99df3dd892",
+      "title": "Làn sóng phản đối thuế nhà ở Mỹ",
+      "link": "https://vnexpress.net/lan-song-phan-doi-thue-nha-o-my-5096877.html",
+      "summary": "Làn sóng phản đối thuế bất động sản lan rộng tại Mỹ khi chủ nhà bất mãn vì giá tăng kéo theo hóa đơn thuế ngày càng cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-13T20:30:51+07:00",
+      "fetched": "2026-07-14T03:54:17.606937+07:00"
     },
     {
       "id": "5208b1f5720db6c5f2e915b5b667dcce",
