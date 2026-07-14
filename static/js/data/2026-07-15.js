@@ -1,7 +1,17 @@
 window.newsData_2026_07_15 = {
   "date": "2026-07-15",
-  "lastUpdated": "2026-07-15T03:57:26.731189+07:00",
+  "lastUpdated": "2026-07-15T05:54:50.141599+07:00",
   "articles": [
+    {
+      "id": "e701e33bb7f2a6a07b716864abb34e5d",
+      "title": "Trọng tài Pháp: 'Phạt đền cho Tây Ban Nha là chính xác'",
+      "link": "https://tuoitre.vn/trong-tai-phap-phat-den-cho-tay-ban-nha-la-chinh-xac-100260715031821736.htm",
+      "summary": "L'Equipe, trang báo thể thao hàng đầu nước Pháp đăng tải nhận định của trọng tài nước nhà về tình huống Tây Ban Nha được hưởng phạt đền trong hiệp 1 trận bán kết World Cup 2026, rạng sáng 15-7.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T05:54:41.974454+07:00",
+      "fetched": "2026-07-15T05:54:41.974594+07:00"
+    },
     {
       "id": "3bf50896278271ae6b06acb0672a74a3",
       "title": "Ukraine: Chỉ huy 'lữ đoàn Pháp' bị bắt, lãnh đạo tập đoàn công nghiệp quốc phòng từ chức",
@@ -181,6 +191,296 @@ window.newsData_2026_07_15 = {
       "category": "Tổng hợp",
       "published": "2026-07-15T00:11:34.642322+07:00",
       "fetched": "2026-07-15T00:11:34.642469+07:00"
+    },
+    {
+      "id": "7fb3d97fe2f0d2941ef8ec3ff86368c5",
+      "title": "Giải ngân đầu tư công: mấu chốt là con người",
+      "link": "https://thanhnien.vn/giai-ngan-dau-tu-cong-mau-chot-la-con-nguoi-185260714204405613.htm",
+      "summary": "\"Giải ngân chưa đạt kỳ vọng do vướng mắc trong giải phóng mặt bằng, khan hiếm nhân công, thiếu nguyên vật liệu và công tác tổ chức thực hiện chưa chủ động\", đó là kết luận của Bộ Tài chính trong Báo cáo kinh tế xã hội 6 tháng đầu năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T22:53:00+07:00",
+      "fetched": "2026-07-15T05:54:40.227208+07:00"
+    },
+    {
+      "id": "04c537d3a09e3147fff96e9297413a59",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 15.7.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-1572026-185260714225238039.htm",
+      "summary": "Tin tức Giảm lãi vay được không?; World Cup 2026: Cuộc chiến nhiều duyên nợ; Tuyên bố bất ngờ của ông Trump về eo biển Hormuz… có thể đón xem trên Báo Thanh Niên số ra ngày 15.7.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T22:50:00+07:00",
+      "fetched": "2026-07-15T05:54:40.227386+07:00"
+    },
+    {
+      "id": "4e0f17e9af2152507560a8adca0e03bb",
+      "title": "Con đường đông nghẹt container ở TP.HCM sắp rộng gấp gần 4 lần: Người dân nói gì?",
+      "link": "https://thanhnien.vn/con-duong-dong-nghet-container-o-tphcm-sap-rong-gap-gan-4-lan-nguoi-dan-noi-gi-185260711160905289.htm",
+      "summary": "Sau nhiều năm chờ đợi, dự án mở rộng đường Nguyễn Duy Trinh tại phường Long Trường, TP.HCM đang bước vào giai đoạn triển khai các thủ tục đo đạc, kiểm đếm. Người dân kỳ vọng dự án này sẽ sớm giải quyết tình trạng đường nhỏ, xe container đông và nguy cơ mất an toàn kéo dài nhiều năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T22:50:00+07:00",
+      "fetched": "2026-07-15T05:54:40.227546+07:00"
+    },
+    {
+      "id": "a8a0df3a28253d1c9e4ac851b5c16d47",
+      "title": "Không nhận thù lao, không có kinh phí: Vì sao nhóm bạn trẻ dọn nhà miễn phí suốt 4 năm?",
+      "link": "https://thanhnien.vn/khong-nhan-thu-lao-khong-co-kinh-phi-vi-sao-nhom-ban-tre-don-nha-mien-phi-suot-4-nam-185260714135400682.htm",
+      "summary": "Những đoạn video ghi lại cảnh dọn dẹp miễn phí cho người già neo đơn liên tục thu hút hàng chục nghìn lượt xem trên mạng xã hội. Ít ai biết, phía sau những hình ảnh giản dị ấy là hành trình gần 4 năm của nhóm 5 bạn trẻ, tự bỏ thời gian, công sức và chi phí để giúp những hoàn cảnh khó khăn có môi trư...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T22:49:00+07:00",
+      "fetched": "2026-07-15T05:54:40.227702+07:00"
+    },
+    {
+      "id": "1f8b7acd195b35277eaffdd0710f96a1",
+      "title": "Có nên tách kỳ thi tốt nghiệp THPT và tuyển sinh ĐH?",
+      "link": "https://thanhnien.vn/co-nen-tach-ky-thi-tot-nghiep-thpt-va-tuyen-sinh-dh-185260714214354352.htm",
+      "summary": "Việc nhập hay tách 2 kỳ thi (tốt nghiệp THPT và tuyển sinh ĐH) một lần nữa lại 'nóng' trở lại sau vụ sai phạm lớn ở Tuyên Quang và ý kiến đề xuất của Chủ nhiệm Ủy ban Văn hóa - Giáo dục của Quốc hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T22:45:00+07:00",
+      "fetched": "2026-07-15T05:54:40.227854+07:00"
+    },
+    {
+      "id": "11c2e9caf5adcd0d777e8b5c283efc52",
+      "title": "Lùi xe thiếu quan sát có thể bị phạt 22 triệu: Những nơi cấm lùi xe",
+      "link": "https://thanhnien.vn/lui-xe-thieu-quan-sat-co-the-bi-phat-22-trieu-nhung-noi-cam-lui-xe-185260712142420454.htm",
+      "summary": "Sau clip tài xế lùi xe thiếu quan sát gây va chạm liên hoàn trên mạng xã hội, Cục CSGT lưu ý những vị trí pháp luật cấm lùi xe và mức phạt có thể lên đến 22 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T22:45:00+07:00",
+      "fetched": "2026-07-15T05:54:40.228011+07:00"
+    },
+    {
+      "id": "ee8b0bc3afa93d89c27934ae3ada5fbf",
+      "title": "Báo Pháp chỉ trích dữ dội Mbappe cùng đồng đội, chỉ số thống kê tệ nhất trong 60 năm",
+      "link": "https://thanhnien.vn/bao-phap-chi-trich-du-doi-mbappe-cung-dong-doi-chi-so-thong-ke-te-nhat-trong-60-nam-18526071505250933.htm",
+      "summary": "Thất bại 0-2 trước Tây Ban Nha ở bán kết World Cup 2026 không chỉ khiến đội tuyển Pháp lỡ hẹn với trận chung kết mà còn để lại một thống kê đáng quên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T22:38:00+07:00",
+      "fetched": "2026-07-15T05:54:40.228188+07:00"
+    },
+    {
+      "id": "71e620a37ba3a0fddea66b26a1001baa",
+      "title": "Tiêu điểm quốc tế ngày 15.7: Ông Putin tuyên bố đáp trả mạnh | Mỹ hoàn 81 tỉ USD thuế quan",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-ngay-157-ong-putin-tuyen-bo-dap-tra-manh-my-hoan-81-ti-usd-thue-quan-185260714233316457.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 15.7.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T22:30:00+07:00",
+      "fetched": "2026-07-15T05:54:40.228352+07:00"
+    },
+    {
+      "id": "b98620118349eea50e9a6003254e9fa5",
+      "title": "3 người ở TP.HCM trúng 28 tỉ xổ số miền Nam, mua và đổi thưởng cùng đại lý",
+      "link": "https://thanhnien.vn/3-nguoi-o-tphcm-trung-28-ti-xo-so-mien-nam-mua-va-doi-thuong-cung-dai-ly-18526071415364235.htm",
+      "summary": "3 người ở TP.HCM đã trúng độc đắc 14 tờ vé số theo kết quả xổ số miền Nam mới đây. Họ mua và đổi thưởng ở cùng một đại lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T22:30:00+07:00",
+      "fetched": "2026-07-15T05:54:40.228511+07:00"
+    },
+    {
+      "id": "c94fe74404a6fc1631365b0aa07f1853",
+      "title": "Người mẹ Việt - điểm son của kịch Kim Cương",
+      "link": "https://thanhnien.vn/nguoi-me-viet-diem-son-cua-kich-kim-cuong-185260714212956445.htm",
+      "summary": "Trong toàn bộ gia tài kịch nghệ của NSND Kim Cương, có lẽ hình tượng người mẹ là đậm nét nhất, là điểm son đẹp nhất trong lòng khán giả. Trải qua bao năm, hình ảnh những người mẹ trong kịch Kim Cương vẫn không hề lạc hậu, xưa cũ, mãi mang đến những rung động tuyệt vời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T22:29:00+07:00",
+      "fetched": "2026-07-15T05:54:40.228662+07:00"
+    },
+    {
+      "id": "126915f73b8f51ef7e5b102bd37cdd4d",
+      "title": "Đi xe đạp sau khi nhậu để né phạt nồng độ cồn: Có thật sự 'an toàn'?",
+      "link": "https://thanhnien.vn/di-xe-dap-sau-khi-nhau-de-ne-phat-nong-do-con-co-that-su-an-toan-185260714141915823.htm",
+      "summary": "Sau khi mức phạt nồng độ cồn tăng cao, nhiều người chuyển sang đi xe đạp hoặc xe đạp điện sau mỗi cuộc nhậu vì nghĩ sẽ ít bị kiểm tra hoặc chỉ bị phạt nhẹ. CSGT cho biết cách nghĩ này tiềm ẩn nhiều rủi ro và vẫn có thể bị xử lý theo quy định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T22:25:00+07:00",
+      "fetched": "2026-07-15T05:54:40.228821+07:00"
+    },
+    {
+      "id": "53b5bba72bafa16fcad9e1b97c56632c",
+      "title": "Tìm liệt sĩ tại công viên Lê Thị Riêng: Tiếp tục mở rộng rãnh mộ",
+      "link": "https://thanhnien.vn/tim-liet-si-tai-cong-vien-le-thi-rieng-tiep-tuc-mo-rong-ranh-mo-18526071421505719.htm",
+      "summary": "Đến cuối ngày 14.7, lực lượng làm nhiệm vụ tại công viên Lê Thị Riêng đã tìm kiếm, quy tập 74 hài cốt liệt sĩ và 1 bộ hài cốt liệt sĩ tập thể. Phạm vi tìm kiếm sẽ tiếp tục được mở rộng về 2 đầu rãnh mộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T22:24:00+07:00",
+      "fetched": "2026-07-15T05:54:40.228976+07:00"
+    },
+    {
+      "id": "c041781e3ef226f862bacf73b86e8d82",
+      "title": "'Mắt thần' di động trên cao tốc",
+      "link": "https://thanhnien.vn/mat-than-di-dong-tren-cao-toc-185260714210352676.htm",
+      "summary": "Trên cao tốc, nhiều tài xế vẫn nghĩ chỉ đè vạch một đoạn ngắn, chuyển làn muộn vài giây hay nhìn điện thoại trong chốc lát sẽ không ai biết. Tuy nhiên, nhiều hành vi vi phạm đã được CSGT mật phục ghi lại bằng thiết bị nghiệp vụ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T22:23:00+07:00",
+      "fetched": "2026-07-15T05:54:40.229130+07:00"
+    },
+    {
+      "id": "3387bfe8bdfa457f44af588f57a7d8f1",
+      "title": "Công an TP.HCM cam kết xử lý dứt điểm vướng mắc thủ tục hành chính",
+      "link": "https://thanhnien.vn/cong-an-tphcm-cam-ket-xu-ly-dut-diem-vuong-mac-thu-tuc-hanh-chinh-185260714204145879.htm",
+      "summary": "Ngày 14.7, Công an TP.HCM tổ chức Hội nghị đối thoại trực tiếp về thủ tục hành chính và giải quyết thủ tục hành chính năm 2026 nhằm lắng nghe ý kiến của người dân, doanh nghiệp, đồng thời tiếp tục cải thiện chất lượng phục vụ và đẩy mạnh cải cách hành chính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T22:22:00+07:00",
+      "fetched": "2026-07-15T05:54:40.229307+07:00"
+    },
+    {
+      "id": "f155aecc280999b1c20b7707a5645022",
+      "title": "Lào Cai, Phú Thọ quyết tâm hoàn thành mục tiêu tăng trưởng",
+      "link": "https://thanhnien.vn/lao-cai-phu-tho-quyet-tam-hoan-thanh-muc-tieu-tang-truong-185260714222717615.htm",
+      "summary": "Ngày 14.7, Thủ tướng Chính phủ Lê Minh Hưng chủ trì buổi làm việc với Ban Thường vụ tỉnh ủy các tỉnh Lào Cai và Phú Thọ về việc thực hiện nhiệm vụ phát triển kinh tế - xã hội và mục tiêu tăng trưởng 'hai con số'; giải ngân vốn đầu tư công; vận hành chính quyền địa phương hai cấp; việc triển khai thự...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T22:20:00+07:00",
+      "fetched": "2026-07-15T05:54:40.229457+07:00"
+    },
+    {
+      "id": "b92cf6073709b3eedeb4ec0acf4340a9",
+      "title": "Show giữa trận chung kết World Cup 2026 dự kiến kéo dài 30 phút",
+      "link": "https://vnexpress.net/show-giua-tran-chung-ket-world-cup-2026-du-kien-keo-dai-30-phut-5097524.html",
+      "summary": "Liên đoàn Bóng đá Thế giới (FIFA) chuẩn bị tổ chức chương trình biểu diễn nghệ thuật giữa trận chung kết World Cup với thời lượng lên tới 30 phút, bất chấp quy định tối đa chỉ 15 phút.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T22:07:17+07:00",
+      "fetched": "2026-07-15T05:54:36.820709+07:00"
+    },
+    {
+      "id": "b92cf6073709b3eedeb4ec0acf4340a9",
+      "title": "Show giữa trận chung kết World Cup 2026 dự kiến kéo dài 30 phút",
+      "link": "https://vnexpress.net/show-giua-tran-chung-ket-world-cup-2026-du-kien-keo-dai-30-phut-5097524.html",
+      "summary": "Liên đoàn Bóng đá Thế giới (FIFA) chuẩn bị tổ chức chương trình biểu diễn nghệ thuật giữa trận chung kết World Cup với thời lượng lên tới 30 phút, bất chấp quy định tối đa chỉ 15 phút.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-14T22:07:17+07:00",
+      "fetched": "2026-07-15T05:54:50.135797+07:00"
+    },
+    {
+      "id": "e77df1f11b437a2a58baf0fc14b602c7",
+      "title": "Báo Anh lo trọng tài Mỹ thiên vị Argentina",
+      "link": "https://vnexpress.net/bao-anh-lo-trong-tai-my-thien-vi-argentina-5097424.html",
+      "summary": "Truyền thông Anh quan ngại đội nhà có thể chịu bất lợi khi FIFA chỉ định trọng tài MLS Ismail Elfath cầm còi trận bán kết World Cup 2026 với Argentina.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T22:04:53+07:00",
+      "fetched": "2026-07-15T05:54:36.820888+07:00"
+    },
+    {
+      "id": "e77df1f11b437a2a58baf0fc14b602c7",
+      "title": "Báo Anh lo trọng tài Mỹ thiên vị Argentina",
+      "link": "https://vnexpress.net/bao-anh-lo-trong-tai-my-thien-vi-argentina-5097424.html",
+      "summary": "Truyền thông Anh quan ngại đội nhà có thể chịu bất lợi khi FIFA chỉ định trọng tài MLS Ismail Elfath cầm còi trận bán kết World Cup 2026 với Argentina.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-14T22:04:53+07:00",
+      "fetched": "2026-07-15T05:54:50.135971+07:00"
+    },
+    {
+      "id": "e35c09a28bbcbd3257621c8d389a3da3",
+      "title": "Cách bổ sung nước giúp ngừa cục máu đông hình thành",
+      "link": "https://vnexpress.net/cach-bo-sung-nuoc-giup-ngua-cuc-mau-dong-hinh-thanh-5095578.html",
+      "summary": "Bổ sung nước vừa đủ bằng cách uống từng chút một, chia nhiều lần trước/sau ngủ và tránh đồ uống lợi tiểu để bảo vệ tim, não hiệu quả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T22:03:00+07:00",
+      "fetched": "2026-07-15T05:54:36.821054+07:00"
+    },
+    {
+      "id": "3daad6ab61ea83e1665d85be0d868f5e",
+      "title": "Chưa biết nói với bạn trai như thế nào về con trai tôi",
+      "link": "https://vnexpress.net/chua-biet-noi-voi-ban-trai-nhu-the-nao-ve-con-trai-toi-5097441.html",
+      "summary": "Bạn trai đã có nhà riêng, hiền, mạnh mẽ, quyết đoán, chỉ có điều anh khá ích kỷ, liệu anh có chấp nhận việc tôi có con riêng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T22:00:00+07:00",
+      "fetched": "2026-07-15T05:54:36.821245+07:00"
+    },
+    {
+      "id": "f4ffa57f40d16bd78cd08b48ca5b1822",
+      "title": "'Một ly sữa ba bộ quản lý, xảy ra ngộ độc dáo dác tìm người chịu trách nhiệm'",
+      "link": "https://vnexpress.net/mot-ly-sua-ba-bo-quan-ly-xay-ra-ngo-doc-dao-dac-tim-nguoi-chiu-trach-nhiem-5096967.html",
+      "summary": "Bộ Nông nghiệp quản lý sữa bò vắt tại chuồng, khi chuyển sang đóng hộp thuộc trách nhiệm Bộ Công thương còn Bộ Y tế giám sát thành phần vi chất, xảy ra ngộ độc thì khó truy trách nhiệm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T22:00:00+07:00",
+      "fetched": "2026-07-15T05:54:36.821408+07:00"
+    },
+    {
+      "id": "bf46fb7240335209af9a301f812f23e0",
+      "title": "Volkswagen và các thương hiệu con chuẩn bị khai tử một nửa mẫu xe trên toàn cầu",
+      "link": "https://vnexpress.net/volkswagen-va-cac-thuong-hieu-con-chuan-bi-khai-tu-mot-nua-mau-xe-tren-toan-cau-5096903.html",
+      "summary": "Tập đoàn Đức lên kế hoạch cắt giảm 50% số lượng mẫu xe và 75% số lượng phiên bản và tùy chọn hệ truyền động tính đến năm 2030.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T22:00:00+07:00",
+      "fetched": "2026-07-15T05:54:36.821571+07:00"
+    },
+    {
+      "id": "e2efe235deef25a739130bc6e84cd8e7",
+      "title": "Yamal nhận điểm thấp nhất đội tuyển Tây Ban Nha",
+      "link": "https://vnexpress.net/yamal-nhan-diem-thap-nhat-doi-tuyen-tay-ban-nha-5097523.html",
+      "summary": "Dù kiếm phạt đền dẫn tới bàn mở tỷ số, Lamine Yamal vẫn bị báo Tây Ban Nha Marca chấm điểm thấp nhất trong trận thắng Pháp 2-0 ở bán kết World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T21:57:10+07:00",
+      "fetched": "2026-07-15T05:54:36.821733+07:00"
+    },
+    {
+      "id": "e2efe235deef25a739130bc6e84cd8e7",
+      "title": "Yamal nhận điểm thấp nhất đội tuyển Tây Ban Nha",
+      "link": "https://vnexpress.net/yamal-nhan-diem-thap-nhat-doi-tuyen-tay-ban-nha-5097523.html",
+      "summary": "Dù kiếm phạt đền dẫn tới bàn mở tỷ số, Lamine Yamal vẫn bị báo Tây Ban Nha Marca chấm điểm thấp nhất trong trận thắng Pháp 2-0 ở bán kết World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-14T21:57:10+07:00",
+      "fetched": "2026-07-15T05:54:50.136134+07:00"
+    },
+    {
+      "id": "5ec81307bd108ab6ec2bed4023cfa2b3",
+      "title": "Vì sao Tây Ban Nha hưởng phạt đền dù bóng chạm tay Yamal?",
+      "link": "https://vnexpress.net/vi-sao-tay-ban-nha-huong-phat-den-du-bong-cham-tay-yamal-5097522.html",
+      "summary": "Phạt đền giúp Tây Ban Nha mở tỷ số trận thắng Pháp 2-0 ở bán kết World Cup 2026, khiến nhiều người thắc mắc vì Lamine Yamal đã để bóng chạm tay trước khi bị phạm lỗi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T21:09:18+07:00",
+      "fetched": "2026-07-15T05:54:36.821887+07:00"
+    },
+    {
+      "id": "5ec81307bd108ab6ec2bed4023cfa2b3",
+      "title": "Vì sao Tây Ban Nha hưởng phạt đền dù bóng chạm tay Yamal?",
+      "link": "https://vnexpress.net/vi-sao-tay-ban-nha-huong-phat-den-du-bong-cham-tay-yamal-5097522.html",
+      "summary": "Phạt đền giúp Tây Ban Nha mở tỷ số trận thắng Pháp 2-0 ở bán kết World Cup 2026, khiến nhiều người thắc mắc vì Lamine Yamal đã để bóng chạm tay trước khi bị phạm lỗi.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-14T21:09:18+07:00",
+      "fetched": "2026-07-15T05:54:50.136323+07:00"
+    },
+    {
+      "id": "f2bafd9920bff9946ce86c2d7e622b9b",
+      "title": "Trận bom bịt kín hang Đá Sập, vùi lấp hàng chục chiến sĩ",
+      "link": "https://vnexpress.net/tran-bom-bit-kin-hang-da-sap-vui-lap-hang-chuc-chien-si-5097481.html",
+      "summary": "Sau loạt oanh tạc của máy bay Mỹ năm 1969, hàng loạt hang đá trên núi Sơn Gà bị san phẳng, vùi lấp hàng chục chiến sĩ đang trú ẩn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T21:00:00+07:00",
+      "fetched": "2026-07-15T05:54:36.822045+07:00"
+    },
+    {
+      "id": "801d5bf0b3c5c819df4469494dbe3766",
+      "title": "MPV cỡ nhỏ nửa đầu 2026 - Xpander vẫn bỏ xa Veloz",
+      "link": "https://vnexpress.net/mpv-co-nho-nua-dau-2026-xpander-van-bo-xa-veloz-5097365.html",
+      "summary": "Mẫu xe Mitsubishi tiếp tục thống trị doanh số phân khúc xe 7 chỗ cỡ nhỏ sau nửa đầu 2026, bám sát phía sau là Toyota Veloz.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T21:00:00+07:00",
+      "fetched": "2026-07-15T05:54:36.822232+07:00"
     },
     {
       "id": "052ccaf7770973aab7403b0cdfc8de4e",
