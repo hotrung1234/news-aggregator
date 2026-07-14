@@ -1,6 +1,6 @@
 window.newsData_2026_07_15 = {
   "date": "2026-07-15",
-  "lastUpdated": "2026-07-15T02:14:40.243052+07:00",
+  "lastUpdated": "2026-07-15T03:57:26.731189+07:00",
   "articles": [
     {
       "id": "3bf50896278271ae6b06acb0672a74a3",
@@ -181,6 +181,26 @@ window.newsData_2026_07_15 = {
       "category": "Tổng hợp",
       "published": "2026-07-15T00:11:34.642322+07:00",
       "fetched": "2026-07-15T00:11:34.642469+07:00"
+    },
+    {
+      "id": "052ccaf7770973aab7403b0cdfc8de4e",
+      "title": "U.21 Thể Công Viettel thắng thuyết phục U.21 HAGL, chủ nhà PVF-CAND hạ kịch tính U.21 TP.HCM",
+      "link": "https://thanhnien.vn/u21-the-cong-viettel-thang-thuyet-phuc-u21-hagl-chu-nha-pvf-cand-ha-kich-tinh-u21-tphcm-185260715030144369.htm",
+      "summary": "Chiều 14.7, VCK giải bóng đá vô địch U.21 quốc gia - Cúp FPT Play 2026 tiếp tục diễn ra sôi động với các trận đấu thuộc bảng A và bảng B.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T20:15:00+07:00",
+      "fetched": "2026-07-15T03:57:17.989886+07:00"
+    },
+    {
+      "id": "4a967b7a0089c37d5babc108f72bd44c",
+      "title": "Áo đấu thủ môn Vozinha của Cabo Verde được bán giá kỷ lục: Hơn 330 triệu đồng",
+      "link": "https://thanhnien.vn/ao-dau-thu-mon-vozinha-cua-cabo-verde-duoc-ban-gia-ky-luc-hon-330-trieu-dong-185260714230912464.htm",
+      "summary": "Thủ môn Vozinha tiếp tục tạo nên một dấu ấn đặc biệt sau kỳ World Cup 2026 khi chiếc áo đấu có chữ ký của anh được bán đấu giá với giá kỷ lục trên nền tảng MatchWornShirt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-14T19:41:00+07:00",
+      "fetched": "2026-07-15T03:57:17.990051+07:00"
     },
     {
       "id": "88964540a38b96c57a0140514ec38a7b",
