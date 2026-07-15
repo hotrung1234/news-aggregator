@@ -1,7 +1,157 @@
 window.newsData_2026_07_15 = {
   "date": "2026-07-15",
-  "lastUpdated": "2026-07-15T05:54:50.141599+07:00",
+  "lastUpdated": "2026-07-15T09:06:25.376471+07:00",
   "articles": [
+    {
+      "id": "87b8810f57ed0bf3b07ac865cbbd1dd9",
+      "title": "Trung Đông sáng 15-7: Mỹ mở đợt không kích mới nhằm vào Iran, chính thức tái áp lệnh phong tỏa",
+      "link": "https://tuoitre.vn/trung-dong-sang-15-7-my-mo-dot-khong-kich-moi-nham-vao-iran-chinh-thuc-tai-ap-lenh-phong-toa-100260715054433006.htm",
+      "summary": "Ông Trump dọa tấn công các nhà máy điện của Iran vào tuần tới; Mỹ chính thức tái áp lệnh phong tỏa các cảng Iran... là một số tin tức đáng chú ý về Trung Đông sáng 15-7.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T09:06:19.213116+07:00",
+      "fetched": "2026-07-15T09:06:19.213151+07:00"
+    },
+    {
+      "id": "b6035aff6df9672bbb7c55cc69cb9d4e",
+      "title": "Tin tức sáng 15-7: Dược Hậu Giang bị phạt và truy thu thuế hơn chục tỉ đồng",
+      "link": "https://tuoitre.vn/tin-tuc-sang-15-7-duoc-hau-giang-bi-phat-va-truy-thu-thue-hon-chuc-ti-dong-100260714183047304.htm",
+      "summary": "Một số tin tức đáng chú ý: Doanh nghiệp vay hơn 27.000 tỉ đồng làm dự án cao tốc TP.HCM - Trung Lương - Mỹ Thuận; Chi tới 150 tỉ đồng mỗi năm để xổ số hóa đơn; Tin TP.HCM: Quy chế xét tặng danh hiệu ‘Những tấm gương thầm lặng mà cao cả’; Ngày hội việc làm tuyển dụng bác sĩ trẻ...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T09:06:19.213079+07:00",
+      "fetched": "2026-07-15T09:06:19.213110+07:00"
+    },
+    {
+      "id": "413197ab9bab7fba6fe00c284445eaf4",
+      "title": "HLV Fuente: Tuyển Pháp vừa phải đối đầu với đội bóng mạnh nhất thế giới",
+      "link": "https://tuoitre.vn/hlv-fuente-tuyen-phap-vua-phai-doi-dau-voi-doi-bong-manh-nhat-the-gioi-100260715051847259.htm",
+      "summary": "Đánh bại tuyển Pháp với tỉ số 2-0 (rạng sáng 15-7) để có mặt tại chung kết World Cup 2026, HLV Luis de la Fuente bày tỏ sự tự tin và niềm tự hào về sức mạnh của đội tuyển Tây Ban Nha.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T09:06:19.213024+07:00",
+      "fetched": "2026-07-15T09:06:19.213072+07:00"
+    },
+    {
+      "id": "5491731282383d763073059a9d96ddca",
+      "title": "The Odyssey AI ra đời, có 'cạnh tranh' bom tấn của Christopher Nolan?",
+      "link": "https://tuoitre.vn/the-odyssey-ai-ra-doi-co-canh-tranh-bom-tan-cua-christopher-nolan-100260714213802983.htm",
+      "summary": "Bản phim AI đưa ra đúng vào thời điểm dư luận đang đổ dồn sự chú ý vào bom tấn sử thi The Odyssey kéo dài gần 3 tiếng của Christopher Nolan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T09:06:19.212982+07:00",
+      "fetched": "2026-07-15T09:06:19.213018+07:00"
+    },
+    {
+      "id": "2aaa4269ce0d308cebafc3ac2b57935e",
+      "title": "Những bộ cánh đẹp nhất của dàn sao ở Wimbledon 2026",
+      "link": "https://tuoitre.vn/nhung-bo-canh-dep-nhat-cua-dan-sao-o-wimbledon-2026-10026071422304973.htm",
+      "summary": "Những màn xuất hiện của các ngôi sao này ở Wimbledon xứng đáng có cho mình chiếc cúp riêng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T09:06:19.212942+07:00",
+      "fetched": "2026-07-15T09:06:19.212976+07:00"
+    },
+    {
+      "id": "61d99d069618eafd98d53f1bfd1cf307",
+      "title": "Video: Phối hợp đẹp mắt, hậu vệ Tây Ban Nha 'kết liễu' Pháp",
+      "link": "https://tuoitre.vn/the-thao/video-phoi-hop-dep-mat-hau-ve-tay-ban-nha-ket-lieu-phap-100260715045745422.htm",
+      "summary": "Tận dụng sự mất tập trung của hàng phòng ngự tuyển Pháp, Pedro Porro (Tây Ban Nha) phối hợp đập nhả với Dani Olmo trước khi xâm nhập vòng cấm và sút tung lưới thủ thành Maignan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T09:06:19.212895+07:00",
+      "fetched": "2026-07-15T09:06:19.212933+07:00"
+    },
+    {
+      "id": "bcce263c2453b2d80730ec011eb2ff96",
+      "title": "Bất ngờ với cái tên xuất sắc nhất trận Pháp - Tây Ban Nha",
+      "link": "https://tuoitre.vn/bat-ngo-voi-cai-ten-xuat-sac-nhat-tran-phap-tay-ban-nha-100260715044010131.htm",
+      "summary": "Không phải Lamine Yamal, không phải Rodri, và tất nhiên càng không phải Mbappe, Dembele..., cầu thủ được chấm điểm cao nhất trận bán kết World Cup 2026 giữa Pháp và Tây Ban Nha là một cái tên bất ngờ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T09:06:19.212848+07:00",
+      "fetched": "2026-07-15T09:06:19.212888+07:00"
+    },
+    {
+      "id": "887365ed5f3c60506baae23c5eef2b54",
+      "title": "Có thể phát hiện dấu hiệu sớm nguy cơ sa sút trí tuệ qua lời nói",
+      "link": "https://tuoitre.vn/co-the-phat-hien-dau-hieu-som-nguy-co-sa-sut-tri-tue-qua-loi-noi-100260713195309295.htm",
+      "summary": "Một nghiên cứu mới từ Canada cho thấy những thay đổi nhỏ trong cách nói chuyện, như thường xuyên sử dụng các từ đệm \"ừ\", \"à\", ngập ngừng hoặc khó tìm từ có thể phản ánh sớm sự suy giảm chức năng nhận thức ở người lớn tuổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T09:06:19.212800+07:00",
+      "fetched": "2026-07-15T09:06:19.212842+07:00"
+    },
+    {
+      "id": "0482a332525b844435673c3b7b78c69a",
+      "title": "Hàng công gần 1 tỉ euro của Pháp bất lực ra sao trước Tây Ban Nha?",
+      "link": "https://tuoitre.vn/hang-cong-gan-1-ti-euro-cua-phap-bat-luc-ra-sao-truoc-tay-ban-nha-100260715043910528.htm",
+      "summary": "Sở hữu hàng công có thể nói là mạnh nhất thế giới, tuy nhiên tuyển Pháp lại hoàn toàn mờ nhạt trước Tây Ban Nha.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T09:06:19.212754+07:00",
+      "fetched": "2026-07-15T09:06:19.212793+07:00"
+    },
+    {
+      "id": "535f4669293aad1d25ef4c9815acc5e7",
+      "title": "Lịch trực tiếp bán kết World Cup 2026: Anh đấu Argentina",
+      "link": "https://tuoitre.vn/lich-truc-tiep-ban-ket-world-cup-2026-anh-dau-argentina-100260714103952597.htm",
+      "summary": "Lúc 2h ngày 16-7, tuyển Anh sẽ chạm trán Argentina ở bán kết World Cup 2026. Đây hứa hẹn là cuộc đấu cân bằng và kịch tính đến phút cuối.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T09:06:19.212710+07:00",
+      "fetched": "2026-07-15T09:06:19.212747+07:00"
+    },
+    {
+      "id": "e4089ca84e212c38457985b577adefcd",
+      "title": "Mỹ và Trung Quốc 'khẩu chiến' về Trung Đông tại Liên hợp quốc",
+      "link": "https://tuoitre.vn/my-va-trung-quoc-khau-chien-ve-trung-dong-tai-lien-hop-quoc-100260715063808061.htm",
+      "summary": "Đại sứ Mỹ tại Liên hợp quốc Mike Waltz cáo buộc Bắc Kinh vi phạm lệnh cấm vận vũ khí của Liên hợp quốc đối với lực lượng Houthi, còn phía Trung Quốc nói Mỹ 'nên tự nhìn lại các hành động của mình'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T09:06:19.212667+07:00",
+      "fetched": "2026-07-15T09:06:19.212704+07:00"
+    },
+    {
+      "id": "bfaf5a2604120ea94d6182f4792bd36d",
+      "title": "Toyota Innova Cross bản mới chạy thử: Thiết kế tinh chỉnh, dự kiến nâng cấp màn hình, ADAS",
+      "link": "https://tuoitre.vn/toyota-innova-cross-ban-moi-chay-thu-thiet-ke-tinh-chinh-du-kien-nang-cap-man-hinh-adas-100260715020543753.htm",
+      "summary": "Sau hơn 2 năm ra mắt, Toyota Innova Cross được cho là đang bước vào giai đoạn thử nghiệm bản nâng cấp giữa vòng đời (facelift), hứa hẹn mang đến nhiều thay đổi về thiết kế và trang bị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T09:06:19.212622+07:00",
+      "fetched": "2026-07-15T09:06:19.212660+07:00"
+    },
+    {
+      "id": "3b2fd6f13ca32f3d8b57c220d872d3da",
+      "title": "Chủ tiệm vàng Kim Lý vừa bị khởi tố vụ buôn lậu kim cương: Bất ngờ về số liệu doanh thu, lợi nhuận",
+      "link": "https://tuoitre.vn/chu-tiem-vang-kim-ly-vua-bi-khoi-to-vu-buon-lau-kim-cuong-bat-ngo-ve-so-lieu-doanh-thu-loi-nhuan-100260714182207043.htm",
+      "summary": "Công ty sở hữu tiệm vàng bạc đá quý Kim Lý có quy mô doanh thu khá khiêm tốn, chỉ vài chục tỉ đồng mỗi năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T09:06:19.212576+07:00",
+      "fetched": "2026-07-15T09:06:19.212615+07:00"
+    },
+    {
+      "id": "115a49668d6fbec7b5d617d814cf3732",
+      "title": "Tin tức thế giới 15-7: Mỹ mở rộng trừng phạt dầu mỏ Iran; Ấn Độ triệu tập đại diện Iran",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-15-7-my-mo-rong-trung-phat-dau-mo-iran-an-do-trieu-tap-dai-dien-iran-100260715061438443.htm",
+      "summary": "Ấn Độ triệu tập đại diện Iran sau vụ tấn công tàu thương mại; Mỹ mở chiến dịch điều tra gian lận trợ cấp thất nghiệp tại New York.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T09:06:19.212520+07:00",
+      "fetched": "2026-07-15T09:06:19.212568+07:00"
+    },
+    {
+      "id": "209a2438dbb9c8560df5b3203697c8f0",
+      "title": "Người đẹp Thái Lan vào top 5 Hoa hậu đẹp nhất thế giới 2025",
+      "link": "https://tuoitre.vn/nguoi-dep-thai-lan-vao-top-5-hoa-hau-dep-nhat-the-gioi-2025-100260715061039405.htm",
+      "summary": "Veena Praveenar Singh được Miss Global Beauties 2025 vinh danh là á hậu 4 Hoa hậu đẹp nhất thế giới 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T09:06:19.212380+07:00",
+      "fetched": "2026-07-15T09:06:19.212510+07:00"
+    },
     {
       "id": "e701e33bb7f2a6a07b716864abb34e5d",
       "title": "Trọng tài Pháp: 'Phạt đền cho Tây Ban Nha là chính xác'",
@@ -41,6 +191,336 @@ window.newsData_2026_07_15 = {
       "category": "Tổng hợp",
       "published": "2026-07-15T02:14:32.784245+07:00",
       "fetched": "2026-07-15T02:14:32.784386+07:00"
+    },
+    {
+      "id": "c1f4d43fa714f3a72ef93db7942ea2b2",
+      "title": "Biển | Phim ngắn Vietnamese 2026",
+      "link": "https://thanhnien.vn/bien-phim-ngan-vietnamese-2026-185260715090252878.htm",
+      "summary": "Phim ngắn 'Biển' là tác phẩm tham dự cuộc thi phim ngắn Vietnamese 2026. Cuộc thi do Báo Thanh Niên phối hợp cùng Hiệp hội Xúc tiến phát triển điện ảnh Việt Nam tổ chức với sự đồng hành của Sở Du lịch TP.HCM, Sở Văn hóa - Thể thao TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T02:02:00+07:00",
+      "fetched": "2026-07-15T09:06:17.378092+07:00"
+    },
+    {
+      "id": "e6c15d5e111902fd486db26979fe66f2",
+      "title": "Điều tử tế bắt đầu từ 5 giờ sáng",
+      "link": "https://thanhnien.vn/dieu-tu-te-bat-dau-tu-5-gio-sang-185260711214248117.htm",
+      "summary": "Nếu chỉ gặp cô Phạm Thị Thùy Dương trong khuôn viên Trường tiểu học Lê Quý Đôn (phường Từ Liêm, Hà Nội), có lẽ tôi cũng chỉ thấy một cô giáo bình dị...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T02:00:00+07:00",
+      "fetched": "2026-07-15T09:06:17.378213+07:00"
+    },
+    {
+      "id": "c5f26063dbc058757aae88cd5e333ad9",
+      "title": "Hơn 367.000 thí sinh không đăng ký nguyện vọng xét tuyển đại học",
+      "link": "https://thanhnien.vn/hon-367000-thi-sinh-khong-dang-ky-nguyen-vong-xet-tuyen-dai-hoc-185260715083426418.htm",
+      "summary": "Trong số hơn 1,2 triệu thí sinh dự thi kỳ thi tốt nghiệp THPT 2026, chỉ khoảng 70% số thí sinh đăng ký nguyện vọng xét tuyển đại học, hơn 367.000 thí sinh không đăng ký.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T01:54:00+07:00",
+      "fetched": "2026-07-15T09:06:17.378314+07:00"
+    },
+    {
+      "id": "004c9896ecbbe63563f9727761025f48",
+      "title": "Giá vàng hôm nay 15.7.2026: Vàng miếng SJC 'đắt' hơn thế giới 19,5 triệu đồng/lượng",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-1572026-vang-mieng-sjc-dat-hon-the-gioi-195-trieu-dong-luong-185260715083943247.htm",
+      "summary": "Giá vàng trong nước tăng cùng kim loại quý thế giới sau khi Mỹ công bố chỉ số lạm phát. Dù vậy, vàng trong nước đang cao hơn thế giới 19,5 triệu đồng mỗi lượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T01:50:00+07:00",
+      "fetched": "2026-07-15T09:06:17.378411+07:00"
+    },
+    {
+      "id": "2751c6071189a48fff4ca61037254ee4",
+      "title": "Huyền thoại K-pop U-KNOW (TVXQ!) đến Việt Nam",
+      "link": "https://thanhnien.vn/huyen-thoai-k-pop-u-know-tvxq-den-viet-nam-185260715081031795.htm",
+      "summary": "Sau hơn hai thập niên hoạt động và góp phần tạo nên làn sóng Hallyu, U-KNOW (TVXQ!) sẽ mang tour diễn solo 'U-KNOW PROJECT 26 : SCENE#1' đến TP.HCM vào tháng 9 tới, đánh dấu chặng dừng chân đáng chú ý trong hành trình lưu diễn châu Á.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T01:48:00+07:00",
+      "fetched": "2026-07-15T09:06:17.378512+07:00"
+    },
+    {
+      "id": "93a14b3b1d7126bba24f49edf5a26c18",
+      "title": "Vợ kéo giữ chân chồng thoát cảnh bị hút ra khỏi máy bay",
+      "link": "https://thanhnien.vn/vo-keo-giu-chan-chong-thoat-canh-bi-hut-ra-khoi-may-bay-185260714140425514.htm",
+      "summary": "'Nếu chết thì cùng chết', người vợ kể lại cảnh vật lộn giữ chặt lấy chân chồng khi ông bị hút ra ngoài cửa sổ máy bay ở độ cao khoảng 6.000m.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T01:42:00+07:00",
+      "fetched": "2026-07-15T09:06:17.378606+07:00"
+    },
+    {
+      "id": "601b9ede50c19c907bcee862fd626d23",
+      "title": "Giá USD hôm nay 15.7.2026: Đi ngang khi euro, bảng Anh đồng loạt tăng",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-1572026-di-ngang-khi-euro-bang-anh-dong-loat-tang-185260715070600521.htm",
+      "summary": "Giá USD trong nước đứng yên dù thế giới quay đầu giảm do lạm phát Mỹ hạ nhiệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T01:41:00+07:00",
+      "fetched": "2026-07-15T09:06:17.378697+07:00"
+    },
+    {
+      "id": "1460e1027c334661d11e04ad2e305a2a",
+      "title": "TP.HCM đề xuất chuyển nhà tái định cư bỏ hoang thành nhà ở xã hội",
+      "link": "https://thanhnien.vn/tphcm-de-xuat-chuyen-nha-tai-dinh-cu-bo-hoang-thanh-nha-o-xa-hoi-18526071508215158.htm",
+      "summary": "Trong báo cáo gửi Bộ Xây dựng về tình hình triển khai Đề án phát triển ít nhất một triệu căn nhà ở xã hội giai đoạn 2021 - 2030, Sở Xây dựng TP.HCM đề xuất cho thành phố chuyển đổi một phần quỹ nhà tái định cư không còn nhu cầu, khai thác kém hiệu quả sang nhà ở xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T01:40:00+07:00",
+      "fetched": "2026-07-15T09:06:17.378790+07:00"
+    },
+    {
+      "id": "8e7fa7c9dd247719cfe8815cdad2d94e",
+      "title": "An ninh siết chặt trận Anh - Argentina để tránh bạo loạn, Atlanta làm điều chưa từng có ở World Cup 2026",
+      "link": "https://thanhnien.vn/an-ninh-siet-chat-tran-anh-argentina-de-tranh-bao-loan-atlanta-lam-dieu-chua-tung-co-o-world-cup-2026-185260715082914618.htm",
+      "summary": "Sở Cảnh sát Atlanta (APD) thông báo sẽ tăng cường lực lượng an ninh cho trận bán kết World Cup giữa Anh và Argentina diễn ra vào lúc 2 giờ ngày 16.7 (giờ Việt Nam).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T01:39:00+07:00",
+      "fetched": "2026-07-15T09:06:17.378881+07:00"
+    },
+    {
+      "id": "9ffc4a5f040a4389dc4da5e8e41663ff",
+      "title": "Khám phá vẻ đẹp nhà thờ Dòng Chúa Cứu Thế ở trung tâm TP.HCM",
+      "link": "https://thanhnien.vn/kham-pha-ve-dep-nha-tho-dong-chua-cuu-the-o-trung-tam-tphcm-185260702143308733.htm",
+      "summary": "Hơn nửa thế kỷ qua, nhà thờ Dòng Chúa Cứu Thế ở trung tâm TP.HCM là điểm hành hương nổi tiếng của nhiều giáo dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T01:32:00+07:00",
+      "fetched": "2026-07-15T09:06:17.378973+07:00"
+    },
+    {
+      "id": "40757801bb8fe657c3c124ba7f54e432",
+      "title": "Phát hiện cách tập thể dục giúp người huyết áp cao giảm nguy cơ đột quỵ",
+      "link": "https://thanhnien.vn/phat-hien-cach-tap-the-duc-giup-nguoi-huyet-ap-cao-giam-nguy-co-dot-quy-185260715083109194.htm",
+      "summary": "Người bị huyết áp cao được khuyến cáo tập luyện cường độ vừa. Tuy nhiên, bác sĩ Josephine Hessert (Mỹ) cho biết kết hợp các đợt tập cường độ cao chỉ khoảng 1 phút có thể mang lại lợi ích tim mạch và giảm nguy cơ đột quỵ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T01:31:00+07:00",
+      "fetched": "2026-07-15T09:06:17.379084+07:00"
+    },
+    {
+      "id": "1c8e47073bdd90443aa4f782897beef6",
+      "title": "Toàn cảnh TP.HCM mở rộng đường Trần Bình Trọng ở chợ Hồ Thị Kỷ lên 23 m",
+      "link": "https://thanhnien.vn/toan-canh-tphcm-mo-rong-duong-tran-binh-trong-o-cho-ho-thi-ky-gap-5-lan-185260714140112794.htm",
+      "summary": "Nhiều hộ dân đang tháo dỡ nhà, bàn giao mặt bằng để mở rộng đường Trần Bình Trọng (TP.HCM) lên 23 m với quy mô 4 làn xe, dự kiến hoàn thành trước ngày 2.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T01:24:00+07:00",
+      "fetched": "2026-07-15T09:06:17.379173+07:00"
+    },
+    {
+      "id": "75e971d6509f88036e90ea56a144e8ed",
+      "title": "Houthi bắn rơi 'UAV Dực Long của Arab Saudi'",
+      "link": "https://vnexpress.net/houthi-ban-roi-uav-duc-long-cua-arab-saudi-5097532.html",
+      "summary": "Lực lượng Houthi thông báo hạ UAV trinh sát Dực Long II của Arab Saudi đang thực hiện \"nhiệm vụ thù địch\" trên bầu trời Yemen.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-15T01:23:18+07:00",
+      "fetched": "2026-07-15T09:06:20.384556+07:00"
+    },
+    {
+      "id": "848db574c8f55f657f83557a1dc723f4",
+      "title": "Chủ tiệm vàng Kim Lý, Nga Châu Âu từng có động thái gì trước khi bị bắt?",
+      "link": "https://thanhnien.vn/chu-tiem-vang-kim-ly-nga-chau-au-tung-co-dong-thai-gi-truoc-khi-bi-bat-185260715081747043.htm",
+      "summary": "Trước khi bị bắt, bà chủ tiệm vàng Kim Lý từng khẳng định làm ăn chân chính, còn bà chủ tiệm vàng Nga Châu Âu từng được biết đến với thương hiệu Ngọc Châu Âu, vừa thông báo 'tạm ngưng hoạt động để nâng cấp hệ thống' vừa mới 3 ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T01:17:00+07:00",
+      "fetched": "2026-07-15T09:06:17.379264+07:00"
+    },
+    {
+      "id": "40669f66e8b16ed3e9cf09fda9199a94",
+      "title": "Xây nhà sai phép, khi nào mới bị buộc tháo dỡ?",
+      "link": "https://thanhnien.vn/xay-nha-sai-phep-khi-nao-moi-bi-buoc-thao-do-185260714224205078.htm",
+      "summary": "Xây nhà sai phép như có ban công lấn chiếm không gian… nhưng đáp ứng đủ 6 điều kiện thì người xây dựng hoặc chủ sở hữu mới sẽ không bị buộc tháo dỡ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T01:17:00+07:00",
+      "fetched": "2026-07-15T09:06:17.379354+07:00"
+    },
+    {
+      "id": "098ec2e29762cf169973986fa530000a",
+      "title": "Cách sử dụng chế độ HOV trên Google Maps",
+      "link": "https://thanhnien.vn/cach-su-dung-che-do-hov-tren-google-maps-185260715054755659.htm",
+      "summary": "Google Maps đôi khi hiển thị HOV trên lộ trình khiến nhiều người bối rối. Thực tế, đây là tính năng liên quan luật giao thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T01:15:00+07:00",
+      "fetched": "2026-07-15T09:06:17.379443+07:00"
+    },
+    {
+      "id": "359193853cf3b8514e0acca4c278eac9",
+      "title": "Loại rau quen thuộc trên mâm cơm có thể ngừa gan nhiễm mỡ, tiền tiểu đường",
+      "link": "https://vnexpress.net/loai-rau-quen-thuoc-tren-mam-com-co-the-ngua-gan-nhiem-mo-tien-tieu-duong-5096705.html",
+      "summary": "Kiên trì bổ sung rau khoai lang vào thực đơn mỗi ngày suốt 3 tháng giúp bệnh nhân ngoài 50 tuổi hạ mạnh chỉ số viêm gan và đẩy lùi thành công căn bệnh gan nhiễm mỡ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T01:05:14+07:00",
+      "fetched": "2026-07-15T09:06:13.984541+07:00"
+    },
+    {
+      "id": "8cae9d8a4f8c639690e630834c62920a",
+      "title": "Nhà sáng lập 12 tuổi tự phát triển lễ tân AI",
+      "link": "https://vnexpress.net/nha-sang-lap-12-tuoi-tu-phat-trien-le-tan-ai-5097466.html",
+      "summary": "Thấy công ty của bố thường xuyên lỡ cuộc gọi từ khách hàng, Mana Jampala, 12 tuổi ở Canada, tạo AI đóng vai trò như lễ tân ảo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T01:00:00+07:00",
+      "fetched": "2026-07-15T09:06:13.984666+07:00"
+    },
+    {
+      "id": "3b22f9d80f5e6056687980a442b4a1c6",
+      "title": "Cô gái để lộ 'võ công' né đòn khi quạt hỏng",
+      "link": "https://vnexpress.net/video-hai-ngay-15-7-thu-gian-video-hai-chuyen-la-co-gai-de-lo-vo-cong-ne-don-khi-quat-hong-5095446.html",
+      "summary": "Chiếc quạt gặp sự cố bất ngờ khiến cô gái giật mình phản xạ cực nhanh, tạo nên khoảnh khắc hài hước như phim võ thuật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T01:00:00+07:00",
+      "fetched": "2026-07-15T09:06:13.984782+07:00"
+    },
+    {
+      "id": "e19bc30c8caf0bf99485f3ba93d5305a",
+      "title": "Suy giảm thính lực do thường xuyên đeo tai nghe",
+      "link": "https://vnexpress.net/suy-giam-thinh-luc-do-thuong-xuyen-deo-tai-nghe-5097544.html",
+      "summary": "Anh Hải, 23 tuổi, đeo tai nghe 9-10 giờ mỗi ngày để làm việc, nghe nhạc, gần đây ù tai, nghe kém, bác sĩ chẩn đoán suy giảm thính lực do tiếp xúc tiếng ồn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T01:00:00+07:00",
+      "fetched": "2026-07-15T09:06:13.984893+07:00"
+    },
+    {
+      "id": "444a79c7e449d98af9d3f6f78f4d7f2b",
+      "title": "Sỏi mật do thừa cholesterol",
+      "link": "https://vnexpress.net/soi-mat-do-thua-cholesterol-5097543.html",
+      "summary": "Chị Tâm, 42 tuổi, nặng 97 kg, thi thoảng đau quặn bụng, bác sĩ phát hiện nhiều sỏi trong túi mật, rối loạn mỡ máu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T01:00:00+07:00",
+      "fetched": "2026-07-15T09:06:13.984995+07:00"
+    },
+    {
+      "id": "5d1562834a3b9bd4d971af9ee618df50",
+      "title": "Người hút thuốc lào có cần tầm soát ung thư phổi?",
+      "link": "https://vnexpress.net/nguoi-hut-thuoc-lao-co-can-tam-soat-ung-thu-phoi-5097542.html",
+      "summary": "Tôi 48 tuổi, hút thuốc lào hơn 20 năm nay. Tôi có nguy cơ mắc ung thư phổi không, khi nào cần tầm soát? (Mạnh Trí, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T01:00:00+07:00",
+      "fetched": "2026-07-15T09:06:13.985112+07:00"
+    },
+    {
+      "id": "8ce24d6b8cd7ef85396108cfeac83809",
+      "title": "Xạ trị ung thư trực tràng cho người bệnh Alzheimer",
+      "link": "https://vnexpress.net/xa-tri-ung-thu-truc-trang-cho-nguoi-benh-alzheimer-5097538.html",
+      "summary": "Ông Hoàng, 72 tuổi, ung thư trực tràng nhưng không thể nằm yên khi xạ trị do tác động của bệnh Alzheimer, bác sĩ phải dùng kỹ thuật phát tia nhanh điều trị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T01:00:00+07:00",
+      "fetched": "2026-07-15T09:06:13.985214+07:00"
+    },
+    {
+      "id": "20c62707f9b61f3f58819f98fdcf4f0d",
+      "title": "Nâng cấp chất lượng sống từ chiếc điều hòa",
+      "link": "https://vnexpress.net/nang-cap-chat-luong-song-tu-chiec-dieu-hoa-5097510.html",
+      "summary": "Nhiều gia đình bắt đầu quan tâm đến khả năng kiểm soát độ ẩm, lọc không khí và tiết kiệm điện thay vì chỉ so sánh giá bán khi chọn mua điều hòa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T01:00:00+07:00",
+      "fetched": "2026-07-15T09:06:13.985312+07:00"
+    },
+    {
+      "id": "35c7a4d5af379398a11f08702264ed03",
+      "title": "Kun Marathon Đà Nẵng khuyến khích trẻ vận động dịp hè",
+      "link": "https://vnexpress.net/kun-marathon-da-nang-khuyen-khich-tre-van-dong-dip-he-5095456.html",
+      "summary": "Kun Marathon Đà Nẵng 2026 trở lại ngày 18/7 với thông điệp 'Cùng Kun vận động mỗi ngày', tạo sân chơi thể chất ngoài trời cho 2.000 em nhỏ dịp hè.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T01:00:00+07:00",
+      "fetched": "2026-07-15T09:06:13.985413+07:00"
+    },
+    {
+      "id": "8cae9d8a4f8c639690e630834c62920a",
+      "title": "Nhà sáng lập 12 tuổi tự phát triển lễ tân AI",
+      "link": "https://vnexpress.net/nha-sang-lap-12-tuoi-tu-phat-trien-le-tan-ai-5097466.html",
+      "summary": "Thấy công ty của bố thường xuyên lỡ cuộc gọi từ khách hàng, Mana Jampala, 12 tuổi ở Canada, tạo AI đóng vai trò như lễ tân ảo.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-15T01:00:00+07:00",
+      "fetched": "2026-07-15T09:06:24.189006+07:00"
+    },
+    {
+      "id": "e2bd46f025aacae75c957511ec66ae4d",
+      "title": "Ukraine tuyên bố phá hủy tàu Nga tham gia 'sự kiện eo biển Kerch'",
+      "link": "https://vnexpress.net/ukraine-tuyen-bo-pha-huy-tau-nga-tham-gia-su-kien-eo-bien-kerch-5097496.html",
+      "summary": "Ukraine tuyên bố dùng xuồng không người lái tập kích và phá hủy tàu tuần tra Izumrud, từng tham gia vụ đụng độ ở eo biển Kerch hồi năm 2018.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T00:57:23+07:00",
+      "fetched": "2026-07-15T09:06:13.985515+07:00"
+    },
+    {
+      "id": "e2bd46f025aacae75c957511ec66ae4d",
+      "title": "Ukraine tuyên bố phá hủy tàu Nga tham gia 'sự kiện eo biển Kerch'",
+      "link": "https://vnexpress.net/ukraine-tuyen-bo-pha-huy-tau-nga-tham-gia-su-kien-eo-bien-kerch-5097496.html",
+      "summary": "Ukraine tuyên bố dùng xuồng không người lái tập kích và phá hủy tàu tuần tra Izumrud, từng tham gia vụ đụng độ ở eo biển Kerch hồi năm 2018.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-15T00:57:23+07:00",
+      "fetched": "2026-07-15T09:06:20.384679+07:00"
+    },
+    {
+      "id": "625bfeaad6bbc507a31d5524d137b985",
+      "title": "Đường về của những thanh niên sống ẩn dật",
+      "link": "https://vnexpress.net/duong-ve-cua-nhung-thanh-nien-song-an-dat-5097072.html",
+      "summary": "Lần đầu Danzel Panniachelvam tìm cách biến mất khỏi xã hội là khi đang học cấp 1. Cậu trốn dưới gầm giường, nói với mẹ rằng mình bị bắt nạt ở trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T00:56:43+07:00",
+      "fetched": "2026-07-15T09:06:13.985614+07:00"
+    },
+    {
+      "id": "beb6b1f36d5e70600728f2504b599b64",
+      "title": "Ông Trump đe dọa tấn công tất cả nhà máy điện Iran",
+      "link": "https://vnexpress.net/ong-trump-de-doa-tan-cong-tat-ca-nha-may-dien-iran-5097539.html",
+      "summary": "Tổng thống Trump cảnh báo gia tăng tập kích Iran nếu không đạt được thỏa thuận, có thể nhắm đến nhà máy điện trong tuần sau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T00:20:20+07:00",
+      "fetched": "2026-07-15T09:06:13.985715+07:00"
+    },
+    {
+      "id": "beb6b1f36d5e70600728f2504b599b64",
+      "title": "Ông Trump đe dọa tấn công tất cả nhà máy điện Iran",
+      "link": "https://vnexpress.net/ong-trump-de-doa-tan-cong-tat-ca-nha-may-dien-iran-5097539.html",
+      "summary": "Tổng thống Trump cảnh báo gia tăng tập kích Iran nếu không đạt được thỏa thuận, có thể nhắm đến nhà máy điện trong tuần sau.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-15T00:20:20+07:00",
+      "fetched": "2026-07-15T09:06:20.384787+07:00"
+    },
+    {
+      "id": "1ac3bdbe93fc394c107acca57dce3bd8",
+      "title": "HLV Tây Ban Nha: 'Pháp thua đội mạnh nhất thế giới'",
+      "link": "https://vnexpress.net/hlv-tay-ban-nha-phap-thua-doi-manh-nhat-the-gioi-5097546.html",
+      "summary": "HLV Luis de la Fuente khẳng định Pháp là một trong những đội mạnh nhất thế giới, nhưng thất bại vì phải gặp \"đội mạnh nhất thế giới\" là Tây Ban Nha ở bán kết World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T00:17:37+07:00",
+      "fetched": "2026-07-15T09:06:13.985813+07:00"
+    },
+    {
+      "id": "1ac3bdbe93fc394c107acca57dce3bd8",
+      "title": "HLV Tây Ban Nha: 'Pháp thua đội mạnh nhất thế giới'",
+      "link": "https://vnexpress.net/hlv-tay-ban-nha-phap-thua-doi-manh-nhat-the-gioi-5097546.html",
+      "summary": "HLV Luis de la Fuente khẳng định Pháp là một trong những đội hàng đầu thế giới  , nhưng thất bại vì phải gặp \"đội mạnh nhất\" là Tây Ban Nha ở bán kết World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-15T00:17:37+07:00",
+      "fetched": "2026-07-15T09:06:25.326545+07:00"
     },
     {
       "id": "38619d64f91e8f4ca488c4c9ce3bc062",
@@ -193,6 +673,76 @@ window.newsData_2026_07_15 = {
       "fetched": "2026-07-15T00:11:34.642469+07:00"
     },
     {
+      "id": "514d828a943d256f5f513ab2dd783fe3",
+      "title": "Hòn đảo được mệnh danh 'Maldives của Việt Nam'",
+      "link": "https://vnexpress.net/hon-dao-duoc-menh-danh-maldives-cua-viet-nam-5097138.html",
+      "summary": "Đảo Bé ở Lý Sơn hoang sơ với bờ cát trắng mịn, nước trong thấy đáy, được ví là \"Maldives của Việt Nam\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T00:00:00+07:00",
+      "fetched": "2026-07-15T09:06:13.985912+07:00"
+    },
+    {
+      "id": "4b067c79b67791884f70a712507a1f22",
+      "title": "David Beckham - 'cỗ máy' quảng cáo tại Mỹ",
+      "link": "https://vnexpress.net/david-beckham-co-may-quang-cao-tai-my-5096697.html",
+      "summary": "Cựu thủ quân đội tuyển Anh David Beckham được ví như \"người chăm chỉ nhất nước Mỹ\" khi xuất hiện trên quảng cáo ở nước này từ sáng đến đêm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T00:00:00+07:00",
+      "fetched": "2026-07-15T09:06:13.986009+07:00"
+    },
+    {
+      "id": "4b067c79b67791884f70a712507a1f22",
+      "title": "David Beckham - 'cỗ máy' quảng cáo tại Mỹ",
+      "link": "https://vnexpress.net/david-beckham-co-may-quang-cao-tai-my-5096697.html",
+      "summary": "Cựu thủ quân đội tuyển Anh David Beckham được ví như \"người chăm chỉ nhất nước Mỹ\" khi xuất hiện trên quảng cáo ở nước này từ sáng đến đêm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-15T00:00:00+07:00",
+      "fetched": "2026-07-15T09:06:21.506153+07:00"
+    },
+    {
+      "id": "8555ce5bcf64b98e0aa3c2e346f2dd46",
+      "title": "Mỹ tiếp tục tấn công Iran",
+      "link": "https://vnexpress.net/my-tiep-tuc-tan-cong-iran-5097526.html",
+      "summary": "Quân đội Mỹ thông báo tiến hành đợt tấn công mới nhằm vào Iran và đã nối lại chiến dịch phong tỏa hàng hải đối với cảng biển nước này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-14T23:39:12+07:00",
+      "fetched": "2026-07-15T09:06:20.384889+07:00"
+    },
+    {
+      "id": "3a5bac7afa5660288cd421621dbf3299",
+      "title": "Deschamps trách trọng tài sau khi thua bán kết World Cup 2026",
+      "link": "https://vnexpress.net/deschamps-trach-trong-tai-sau-khi-thua-ban-ket-world-cup-2026-5097531.html",
+      "summary": "HLV Didier Deschamps đặt câu hỏi về năng lực của trọng tài Ivan Barton sau khi Pháp thua Tây Ban Nha 0-2 ở bán kết World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-14T23:22:43+07:00",
+      "fetched": "2026-07-15T09:06:25.326668+07:00"
+    },
+    {
+      "id": "1c74e398facddcfaf018543cb64aeb8e",
+      "title": "Tính toán chiến lược của ông Zelensky khi bất ngờ thay Thủ tướng",
+      "link": "https://vnexpress.net/tinh-toan-chien-luoc-cua-ong-zelensky-khi-bat-ngo-thay-thu-tuong-5097188.html",
+      "summary": "Miễn nhiệm Thủ tướng chỉ sau một năm, Tổng thống Zelensky dường như đang tìm cách tăng hiệu quả điều hành, chuẩn bị cho chiến sự kéo dài và duy trì hỗ trợ từ phương Tây.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-14T23:00:00+07:00",
+      "fetched": "2026-07-15T09:06:20.384991+07:00"
+    },
+    {
+      "id": "3bedc17b79e1b0d8acceb26f06b9b862",
+      "title": "TS Vũ Thành Tự Anh: Cải cách chỉ thành công khi doanh nghiệp bớt gánh nặng",
+      "link": "https://vnexpress.net/ts-vu-thanh-tu-anh-cai-cach-chi-thanh-cong-khi-doanh-nghiep-bot-ganh-nang-5090083.html",
+      "summary": "TS Vũ Thành Tự Anh đánh giá đợt cắt giảm điều kiện kinh doanh, thủ tục của Chính phủ chưa từng có tiền lệ, nhưng ông lưu ý cải cách cần thực chất từ cấp cơ sở để tránh nguy cơ phát sinh nút thắt mới, làm khó doanh nghiệp.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-14T23:00:00+07:00",
+      "fetched": "2026-07-15T09:06:21.506331+07:00"
+    },
+    {
       "id": "7fb3d97fe2f0d2941ef8ec3ff86368c5",
       "title": "Giải ngân đầu tư công: mấu chốt là con người",
       "link": "https://thanhnien.vn/giai-ngan-dau-tu-cong-mau-chot-la-con-nguoi-185260714204405613.htm",
@@ -251,6 +801,16 @@ window.newsData_2026_07_15 = {
       "category": "Tổng hợp",
       "published": "2026-07-14T22:45:00+07:00",
       "fetched": "2026-07-15T05:54:40.228011+07:00"
+    },
+    {
+      "id": "6ee03524fabd7a58949017ab92dd1c97",
+      "title": "Pháp bị phạt đền nhiều nhất lịch sử World Cup",
+      "link": "https://vnexpress.net/phap-bi-phat-den-nhieu-nhat-lich-su-world-cup-5097527.html",
+      "summary": "Quả phạt đền ở bán kết thua Tây Ban Nha 0-2 khiến Pháp trở thành đội tuyển bị phạt đền nhiều nhất lịch sử World Cup với 16 lần.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-14T22:41:08+07:00",
+      "fetched": "2026-07-15T09:06:25.326779+07:00"
     },
     {
       "id": "ee8b0bc3afa93d89c27934ae3ada5fbf",
@@ -573,6 +1133,16 @@ window.newsData_2026_07_15 = {
       "fetched": "2026-07-15T02:14:34.170584+07:00"
     },
     {
+      "id": "665d9d07c59c9fb1d0df87cb76d36399",
+      "title": "Ông Trump: Eo biển Hormuz không mở cửa với tàu liên quan Iran",
+      "link": "https://vnexpress.net/ong-trump-eo-bien-hormuz-khong-mo-cua-voi-tau-lien-quan-iran-5097507.html",
+      "summary": "Ông Trump thông báo từ bỏ kế hoạch thu \"phí bảo vệ\" tàu hàng đi qua Hormuz, nói rằng eo biển \"mở cửa với tất cả tàu thuyền, trừ tàu thuyền liên quan đến Iran\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-14T17:38:55+07:00",
+      "fetched": "2026-07-15T09:06:20.385220+07:00"
+    },
+    {
       "id": "4c9586d8506bedcc9697fd08e0f65df2",
       "title": "Quả trầu bà được săn lùng nhờ 'trào lưu mukbang'",
       "link": "https://vnexpress.net/qua-trau-ba-duoc-san-lung-nho-trao-luu-mukbang-5097334.html",
@@ -771,6 +1341,16 @@ window.newsData_2026_07_15 = {
       "category": "Công nghệ",
       "published": "2026-07-14T17:00:00+07:00",
       "fetched": "2026-07-15T02:14:38.874774+07:00"
+    },
+    {
+      "id": "f06fca0a85080d5d51a408ead2d944fc",
+      "title": "Tây Ban Nha hạ Pháp, lần thứ hai vào chung kết World Cup",
+      "link": "https://vnexpress.net/phap-tay-ban-nha-mbappe-doi-dau-yamal-5097478-tong-thuat.html",
+      "summary": "Thu phục và bóp nghẹt Pháp ở mọi tuyến bằng thứ bóng đá kiểm soát bóng đỉnh cao, Tây Ban Nha thắng đương kim á quân 2-0 để lần đầu sau 16 năm vào chung kết World Cup.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-14T17:00:00+07:00",
+      "fetched": "2026-07-15T09:06:25.327303+07:00"
     },
     {
       "id": "5cca6c715346dd3744a31b866f84d1eb",
