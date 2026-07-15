@@ -1,7 +1,57 @@
 window.newsData_2026_07_16 = {
   "date": "2026-07-16",
-  "lastUpdated": "2026-07-16T03:57:05.869581+07:00",
+  "lastUpdated": "2026-07-16T05:56:06.565190+07:00",
   "articles": [
+    {
+      "id": "5df87d6c869c33726b914d1cfae2982b",
+      "title": "Chấm điểm tuyển Argentina: ai chơi hay thứ 2 sau Messi?",
+      "link": "https://tuoitre.vn/cham-diem-tuyen-argentina-ai-choi-hay-thu-2-sau-messi-10026071604170595.htm",
+      "summary": "Một ngày như mọi ngày của Messi, bất chấp đối thủ là Cape Verde, Thụy Sĩ hay tuyển Anh hùng mạnh, anh vẫn áp đảo mọi cầu thủ khác về mặt điểm số từ giới chuyên môn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T05:55:57.776234+07:00",
+      "fetched": "2026-07-16T05:55:57.776282+07:00"
+    },
+    {
+      "id": "6a90501ac04ad1d9d3c462da3158ab62",
+      "title": "Tin tức sáng 16-7: TP.HCM thêm 2 dự án nhà ở hơn 8.000 tỉ đồng; Lãi suất qua đêm ở mức hơn 4%",
+      "link": "https://tuoitre.vn/tin-tuc-sang-16-7-tphcm-them-2-du-an-nha-o-hon-8000-ti-dong-lai-suat-qua-dem-o-muc-hon-4-100260715221055421.htm",
+      "summary": "Tin tức đáng chú ý: TP.HCM xét chọn nhà giáo tiêu biểu năm 2026; Đề xuất tổ chức khóa học trước kết hôn, khuyến khích sinh con; Lãi suất qua đêm ở mức hơn 4%...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T05:55:57.776176+07:00",
+      "fetched": "2026-07-16T05:55:57.776226+07:00"
+    },
+    {
+      "id": "d2a10116cd20e716e7ab38736bd1eca5",
+      "title": "Những màn thể hiện đỉnh cao, Messi phá sâu kỷ lục kiến tạo trong lịch sử World Cup",
+      "link": "https://tuoitre.vn/nhung-man-the-hien-dinh-cao-messi-pha-sau-ki-luc-kien-tao-trong-lich-su-world-cup-100260716045531557.htm",
+      "summary": "Trong màn lội ngược dòng đầy cảm xúc của tuyển Argentina trước tuyển Anh với tỉ số 2-1 tại trận bán kết World Cup 2026, huyền thoại Messi góp công lớn với 2 pha kiến tạo đẳng cấp giúp đồng đội lập công.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T05:55:57.776098+07:00",
+      "fetched": "2026-07-16T05:55:57.776167+07:00"
+    },
+    {
+      "id": "d03179b550506921a79319eb12aad75b",
+      "title": "Cả làng bóng đá Anh giận dữ với HLV Tuchel: 'Để họ có bàn thắng đầu, thì họ sẽ thắng tiếp'",
+      "link": "https://tuoitre.vn/ca-lang-bong-da-anh-gian-du-voi-hlv-tuchel-de-ho-co-ban-thang-dau-thi-ho-se-thang-tiep-100260716044317844.htm",
+      "summary": "Chỉ trong vòng 1 giờ sau trận thua trước Argentina (1-2) ở bán kết World Cup 2026 sáng 16-7, HLV Thomas Tuchel nhận về vô vàn những lời chỉ trích từ các cựu danh thủ, truyền thông, và cả làng bóng đá Anh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T05:55:57.776025+07:00",
+      "fetched": "2026-07-16T05:55:57.776088+07:00"
+    },
+    {
+      "id": "a4a89992ee8754c375ed9dfbd3e851c6",
+      "title": "Erling Haaland và bạn gái đi xem thời trang hậu World Cup",
+      "link": "https://tuoitre.vn/erling-haaland-va-ban-gai-di-xem-thoi-trang-hau-world-cup-100260715215554892.htm",
+      "summary": "Sự đồng điệu về tâm hồn và phong cách giữa Erling Haaland và bạn gái Isabel Haugseng Johansen đang thu hút sự chú ý của khán giả sau World Cup.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-16T05:55:57.775872+07:00",
+      "fetched": "2026-07-16T05:55:57.776012+07:00"
+    },
     {
       "id": "32e8977bc8b656c8439147df3f9dc913",
       "title": "Thời tiết hôm nay 16-7: Bắc Bộ mưa đêm tới sáng, Nam Bộ mưa chiều tới tối",
@@ -171,6 +221,256 @@ window.newsData_2026_07_16 = {
       "category": "Tổng hợp",
       "published": "2026-07-16T00:14:04.547099+07:00",
       "fetched": "2026-07-16T00:14:04.547240+07:00"
+    },
+    {
+      "id": "901457aa93ce15b40648c1a86c8967ec",
+      "title": "Đừng để 'đấu tố' trên mạng trở thành lẽ thường!",
+      "link": "https://thanhnien.vn/dung-de-dau-to-tren-mang-tro-thanh-le-thuong-185260715204815931.htm",
+      "summary": "Chúng ta có lẽ còn chưa thấy hết hệ lụy khôn lường của những biểu hiện \"đấu tố\" trên mạng xã hội những ngày qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T22:52:00+07:00",
+      "fetched": "2026-07-16T05:55:55.134091+07:00"
+    },
+    {
+      "id": "06766dc1d1eba5c398dce29ffef4947e",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 16.7.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-1672026-18526071522494058.htm",
+      "summary": "Tin tức Vốn công nghệ chảy vào Việt Nam; Cửa hàng kim cương đóng cửa, khách hàng bán lại ở đâu?; Thủ tướng Nhật Bản Sanae Takaichi trong nỗ lực khẳng định vị thế... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 16.7.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T22:50:00+07:00",
+      "fetched": "2026-07-16T05:55:55.134244+07:00"
+    },
+    {
+      "id": "21afb815256776386c76592f64ec59c4",
+      "title": "Argentina - Tây Ban Nha là chung kết World Cup đặc biệt nhất lịch sử, vì sao?",
+      "link": "https://thanhnien.vn/argentina-tay-ban-nha-la-chung-ket-world-cup-dac-biet-nhat-lich-su-vi-sao-185260716054617463.htm",
+      "summary": "Trận chung kết World Cup 2026 giữa Argentina và Tây Ban Nha, diễn ra vào lúc 2 giờ ngày 20.7 (giờ Việt Nam) sẽ đi vào lịch sử với một cột mốc chưa từng có tiền lệ: lần đầu tiên đương kim vô địch châu Âu và đương kim vô địch Nam Mỹ so tài để giành chiếc cúp vô địch thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T22:49:00+07:00",
+      "fetched": "2026-07-16T05:55:55.134381+07:00"
+    },
+    {
+      "id": "fbd2bbf33659393807884128119a74ce",
+      "title": "HLV Scaloni rưng rưng: 'Argentina quá phi thường, càng áp lực đá càng hay, tôi biết ơn cầu thủ của mình’",
+      "link": "https://thanhnien.vn/hlv-scaloni-rung-rung-argentina-qua-phi-thuong-cang-ap-luc-da-cang-hay-toi-biet-on-cau-thu-cua-minh-185260716054351182.htm",
+      "summary": "HLV Lionel Scaloni tự hào khi Argentina một lần nữa chống lại nghịch cảnh để đánh bại Anh, qua đó đoạt vé vào chung kết World Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T22:48:00+07:00",
+      "fetched": "2026-07-16T05:55:55.134509+07:00"
+    },
+    {
+      "id": "c5ece56094ad37915307fb9486e4aec2",
+      "title": "ICE dừng việc chặn xe sau 2 vụ nổ súng chết người",
+      "link": "https://thanhnien.vn/ice-dung-viec-chan-xe-sau-2-vu-no-sung-chet-nguoi-18526071519354222.htm",
+      "summary": "Chính quyền Tổng thống Mỹ Donald Trump ngày 14.7 đã yêu cầu nhân viên Cơ quan Thực thi di trú và hải quan Mỹ (ICE) tạm dừng phần lớn hoạt động chặn xe, sau 2 vụ nổ súng chết người trong chưa đầy 1 tuần. Tuy nhiên, ICE vẫn có thể chặn xe trong một số trường hợp, như thực thi lệnh bắt giữ hình sự hoặc...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T22:46:00+07:00",
+      "fetched": "2026-07-16T05:55:55.134653+07:00"
+    },
+    {
+      "id": "23eb3e8a893e53ae7979309f1881f8c2",
+      "title": "Thí sinh Trường THPT chuyên Tuyên Quang xét tuyển ĐH: Đánh bạt đối thủ nhờ môn toán",
+      "link": "https://thanhnien.vn/thi-sinh-truong-thpt-chuyen-tuyen-quang-xet-tuyen-dh-danh-bat-doi-thu-nho-mon-toan-185260715215024979.htm",
+      "summary": "Kết quả phân tích dữ liệu cho thấy thí sinh điểm thi Trường THPT chuyên Tuyên Quang có lợi thế vô cùng lớn từ điểm thi môn toán trong quá trình xét tuyển vào ĐH, thậm chí thí sinh khối C điểm toán cao hơn văn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T22:45:00+07:00",
+      "fetched": "2026-07-16T05:55:55.134789+07:00"
+    },
+    {
+      "id": "07fdaf4187c002dbabebb02554534f14",
+      "title": "Dòng nước đỏ sẫm liên tục xả ra kênh ở TP.HCM, người dân lo lắng kêu cứu",
+      "link": "https://thanhnien.vn/dong-nuoc-do-sam-lien-tuc-xa-ra-kenh-o-tphcm-nguoi-dan-lo-lang-keu-cuu-18526071514285321.htm",
+      "summary": "Nhiều năm qua, người dân khu vực đường Nguyễn Duy - Dã Tượng (phường Chánh Hưng, TP.HCM) liên tục ghi nhận dòng nước đỏ sẫm chảy từ cống dân sinh ra kênh Đôi. Chính quyền địa phương cho biết sẽ kiểm tra, làm rõ vụ việc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T22:45:00+07:00",
+      "fetched": "2026-07-16T05:55:55.134918+07:00"
+    },
+    {
+      "id": "982c0254a0aedb5658724eb1bb77b109",
+      "title": "Cay đắng vì Anh thua ngược, Bellingham vỗ thẳng vào đầu cầu thủ Argentina sau trận đấu",
+      "link": "https://thanhnien.vn/cay-dang-vi-anh-thua-nguoc-bellingham-vo-thang-vao-dau-cau-thu-argentina-sau-tran-dau-185260716053618927.htm",
+      "summary": "Bellingham đã không thể kìm nén cảm xúc sau khi Anh để thua ngược Argentina 1-2 ở bán kết World Cup 2026 rạng sáng 16.7. Không chỉ bật khóc ngay trên sân sau tiếng còi mãn cuộc, tiền vệ của Real Madrid còn bị máy quay ghi lại khoảnh khắc không đẹp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T22:40:00+07:00",
+      "fetched": "2026-07-16T05:55:55.135053+07:00"
+    },
+    {
+      "id": "1cb551b9e5d3719f75f2c5d8c52adf8e",
+      "title": "Cơm nguội có thực sự gây hại? Bác sĩ nói về nguy cơ ít người để ý",
+      "link": "https://thanhnien.vn/com-nguoi-co-thuc-su-gay-hai-bac-si-noi-ve-nguy-co-it-nguoi-de-y-185260715184111983.htm",
+      "summary": "Nhiều người lo ngại ăn cơm nguội có thể làm tăng nguy cơ ung thư. Tuy nhiên, theo bác sĩ dinh dưỡng, chưa có bằng chứng khoa học chứng minh điều này. Điều đáng quan tâm hơn là cách bảo quản và hâm nóng cơm sau khi nấu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T22:40:00+07:00",
+      "fetched": "2026-07-16T05:55:55.135178+07:00"
+    },
+    {
+      "id": "58dd7809359d72360526c9492200c496",
+      "title": "Xác định hai trận cuối ở World Cup 2026",
+      "link": "https://vnexpress.net/xac-dinh-hai-tran-cuoi-o-world-cup-2026-5097932.html",
+      "summary": "Argentina sẽ gặp Tây Ban Nha ở chung kết World Cup 2026 trên sân MetLife ngày 19/7, còn Anh và Pháp tranh giải ba tại sân Hard Rock trước đó một ngày.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-15T22:36:29+07:00",
+      "fetched": "2026-07-16T05:56:06.559757+07:00"
+    },
+    {
+      "id": "e6115885cb7867a7483121d32d725323",
+      "title": "Lào muốn gây bất ngờ trước Thái Lan ở ASEAN Cup 2026",
+      "link": "https://vnexpress.net/lao-muon-gay-bat-ngo-truoc-thai-lan-o-asean-cup-2026-5097673.html",
+      "summary": "Sau khi kết thúc chuyến tập huấn tại HAGL, HLV Vladica Grujic đặt mục tiêu cùng Lào kiếm điểm trước Thái Lan ở trận ra quân ASEAN Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-15T22:34:46+07:00",
+      "fetched": "2026-07-16T05:56:06.559915+07:00"
+    },
+    {
+      "id": "98b8714f5da9d27c5f46b10567ac2cc4",
+      "title": "Biển Azov thành điểm nóng mới trong xung đột Nga - Ukraine",
+      "link": "https://thanhnien.vn/bien-azov-thanh-diem-nong-moi-trong-xung-dot-nga-ukraine-185260715193337781.htm",
+      "summary": "Khu vực biển Azov (phía đông bán đảo Crimea) những ngày qua trở thành tâm điểm chú ý trong cuộc xung đột Nga - Ukraine. AFP đưa tin vào ngày 14.7, Moscow cáo buộc Kyiv thực hiện các hành vi gây hấn nhằm vào hoạt động vận tải của Nga trên biển Azov - tuyến đường vận chuyển khoảng 1/4 lượng ngũ cốc xu...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T22:34:00+07:00",
+      "fetched": "2026-07-16T05:55:55.135305+07:00"
+    },
+    {
+      "id": "afb72930bbc02819f47c6b7d44cdf5aa",
+      "title": "Thể chế khoa học công nghệ đến giai đoạn thực thi quyết liệt",
+      "link": "https://vnexpress.net/the-che-khoa-hoc-cong-nghe-den-giai-doan-thuc-thi-quyet-liet-5097890.html",
+      "summary": "Hành lang pháp lý cho khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số cơ bản hoàn thiện, đòi hỏi cần đẩy mạnh thực thi để tạo ra sản phẩm.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-15T22:32:36+07:00",
+      "fetched": "2026-07-16T05:56:04.725938+07:00"
+    },
+    {
+      "id": "9ec74d7970d1bb12ea7e409cae2f6ee3",
+      "title": "Anh thua đau, HLV Tuchel cáu: 'Nhiều người ngoài kia nghĩ mình huấn luyện giỏi hơn tôi'",
+      "link": "https://thanhnien.vn/anh-thua-dau-hlv-tuchel-phan-nan-nhieu-nguoi-ngoai-kia-nghi-minh-huan-luyen-gioi-hon-toi-185260716052540723.htm",
+      "summary": "HLV Tuchel cho rằng đội tuyển Anh đã mất thế trận dễ dàng, dẫn đến thất bại ngược cay đắng với tỷ số 1-2 trước Argentina ở bán kết World Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T22:31:00+07:00",
+      "fetched": "2026-07-16T05:55:55.135421+07:00"
+    },
+    {
+      "id": "325165502a1dbb5cd750c6f2ce6c2103",
+      "title": "Tiêu điểm quốc tế ngày 16.7: Ngừng bắn vùng Vịnh chấm dứt? | Mỹ tuyên chiến ICC",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-ngay-167-ngung-ban-vung-vinh-cham-dut-my-tuyen-chien-icc-185260715232137977.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 16.7.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T22:30:00+07:00",
+      "fetched": "2026-07-16T05:55:55.135538+07:00"
+    },
+    {
+      "id": "c50f228fa3958ddc3a4b92a781a4ee02",
+      "title": "NSND Lệ Thủy: 'Tôi đâu có giàu, chỉ bớt ăn xài để làm từ thiện'",
+      "link": "https://thanhnien.vn/nsnd-le-thuy-toi-dau-co-giau-chi-bot-an-xai-de-lam-tu-thien-185260715154341266.htm",
+      "summary": "Hơn nửa thế kỷ đứng trên sân khấu, NSND Lệ Thủy không chỉ được yêu mến bởi tài năng mà còn bởi tấm lòng nhân hậu. Ở tuổi 79, bà vẫn miệt mài đi hát và lần đầu chia sẻ nhiều câu chuyện chưa từng kể.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T22:30:00+07:00",
+      "fetched": "2026-07-16T05:55:55.135672+07:00"
+    },
+    {
+      "id": "cbbbae5673c80baff2b864ab505a5e07",
+      "title": "Lòng đường biến thành bãi đỗ xe dịch vụ: Cư dân bất an vì mất an toàn giao thông",
+      "link": "https://thanhnien.vn/long-duong-bien-thanh-bai-do-xe-dich-vu-cu-dan-bat-an-vi-mat-an-toan-giao-thong-185260715093352417.htm",
+      "summary": "Nhiều xe hợp đồng, limousine và xe ghép thường xuyên dừng, đỗ dọc các tuyến đường tại nội khu Nam Trung Yên, P.Yên Hòa, Hà Nội, làm thu hẹp phần đường lưu thông và ảnh hưởng đến quá trình đi lại, sinh hoạt của người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T22:30:00+07:00",
+      "fetched": "2026-07-16T05:55:55.135794+07:00"
+    },
+    {
+      "id": "8b4d9111b24fc8cf482d2544728bee9f",
+      "title": "Dãy số giúp gần 20 người miền Tây cùng trúng 1,5 tỉ đồng xổ số miền Nam",
+      "link": "https://thanhnien.vn/day-so-giup-gan-20-nguoi-mien-tay-cung-trung-15-ti-dong-xo-so-mien-nam-185260715091247996.htm",
+      "summary": "Gần 20 người mang những tờ vé số có cùng dãy số đến đổi thưởng tại một đại lý ở miền Tây, nhận tổng cộng 1,5 tỉ đồng sau kỳ mở thưởng xổ số miền Nam ngày 10 tháng 7.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T22:30:00+07:00",
+      "fetched": "2026-07-16T05:55:55.135912+07:00"
+    },
+    {
+      "id": "14d2e9b7142dc283a59bdec69bbd056c",
+      "title": "Na Uy bị nghi giấu việc Haaland ốm trước trận gặp Anh",
+      "link": "https://vnexpress.net/na-uy-bi-nghi-giau-viec-haaland-om-truoc-tran-gap-anh-5097831.html",
+      "summary": "Đội tuyển Na Uy được cho đã che giấu việc tiền đạo Erling Haaland bị ốm trước trận gặp Anh ở tứ kết World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-15T22:10:42+07:00",
+      "fetched": "2026-07-16T05:56:06.560448+07:00"
+    },
+    {
+      "id": "d4a69e6bafc9ed4f6b3323535ecb10a7",
+      "title": "Bellingham vỗ đầu cầu thủ Argentina sau thất bại ở bán kết",
+      "link": "https://vnexpress.net/bellingham-vo-dau-cau-thu-argentina-sau-that-bai-o-ban-ket-5097930.html",
+      "summary": "Tiền vệ Jude Bellingham phản ứng nóng giận với hậu vệ Valentin Barco trong lúc cầu thủ Argentina ăn mừng chiến thắng 2-1 trước Anh ở bán kết World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-15T22:03:11+07:00",
+      "fetched": "2026-07-16T05:56:06.560054+07:00"
+    },
+    {
+      "id": "68eb4e306d15093c93fcfbdaaece60f2",
+      "title": "Những 'cú bẻ lái' của ông Trump trong chính sách với Iran và Ukraine",
+      "link": "https://vnexpress.net/nhung-cu-be-lai-cua-ong-trump-trong-chinh-sach-voi-iran-va-ukraine-5097120.html",
+      "summary": "Các pha \"bẻ lái\" đột ngột về chiến lược của Tổng thống Trump với Iran và Ukraine cho thấy sự khó lường trong chính sách đối ngoại của Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-15T22:00:00+07:00",
+      "fetched": "2026-07-16T05:55:59.889431+07:00"
+    },
+    {
+      "id": "436b11405933d7f7e082252c8b5bfee2",
+      "title": "Trung Quốc đẩy mạnh sản xuất bo mạch chủ cho AI",
+      "link": "https://vnexpress.net/trung-quoc-day-manh-san-xuat-bo-mach-chu-cho-ai-5095735.html",
+      "summary": "Các nhà sản xuất bảng mạch in (PCB) của Trung Quốc đang xây dựng nhà máy mới để đáp ứng nhu cầu tăng cao trong cơn sốt AI.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-15T22:00:00+07:00",
+      "fetched": "2026-07-16T05:56:04.725623+07:00"
+    },
+    {
+      "id": "50d266bd5030f2bf938b1042bf1d7f94",
+      "title": "Messi phá sâu kỷ lục kiến tạo vòng knock-out World Cup",
+      "link": "https://vnexpress.net/messi-pha-sau-ky-luc-kien-tao-vong-knock-out-world-cup-5097929.html",
+      "summary": "Hai đường kiến tạo trong chiến thắng ngược 2-1 trước Anh ở bán kết World Cup 2026 giúp Lionel Messi nâng kỷ lục về số đường chuyền thành bàn tại vòng knock-out.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T21:39:03+07:00",
+      "fetched": "2026-07-16T05:55:51.778623+07:00"
+    },
+    {
+      "id": "50d266bd5030f2bf938b1042bf1d7f94",
+      "title": "Messi phá sâu kỷ lục kiến tạo vòng knock-out World Cup",
+      "link": "https://vnexpress.net/messi-pha-sau-ky-luc-kien-tao-vong-knock-out-world-cup-5097929.html",
+      "summary": "Hai đường kiến tạo trong chiến thắng ngược 2-1 trước Anh ở bán kết World Cup 2026 giúp Lionel Messi nâng kỷ lục về số đường chuyền thành bàn tại vòng knock-out.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-15T21:39:03+07:00",
+      "fetched": "2026-07-16T05:56:06.560185+07:00"
+    },
+    {
+      "id": "4668ef564cbccfe99c8b5c87fcffb764",
+      "title": "Xe gầm cao cỡ B tăng mạnh doanh số nửa đầu 2026",
+      "link": "https://vnexpress.net/xe-gam-cao-co-b-tang-manh-doanh-so-nua-dau-2026-5097746.html",
+      "summary": "Sau 6 tháng đầu 2026, tổng doanh số các mẫu VF 6, Yaris Cross, Xforce... đạt hơn 40.700 xe, tăng 43% so với cùng kỳ năm ngoái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T21:00:00+07:00",
+      "fetched": "2026-07-16T05:55:51.778805+07:00"
     },
     {
       "id": "0919a386f1adc61ae81eb675dda931a6",
@@ -411,6 +711,26 @@ window.newsData_2026_07_16 = {
       "category": "Công nghệ",
       "published": "2026-07-15T17:00:00+07:00",
       "fetched": "2026-07-16T02:05:51.300819+07:00"
+    },
+    {
+      "id": "528171f1c8a1f3d30f5a8cce3703bf0d",
+      "title": "Messi giúp Argentina thắng ngược Anh ở bán kết World Cup",
+      "link": "https://vnexpress.net/ket-qua-anh-vs-argentina-5097918.html",
+      "summary": "Lionel Messi góp hai kiến tạo trong 5 phút cuối, giúp Argentina thắng ngược đội tuyển Anh 2-1 ở bán kết World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-15T17:00:00+07:00",
+      "fetched": "2026-07-16T05:55:51.779925+07:00"
+    },
+    {
+      "id": "528171f1c8a1f3d30f5a8cce3703bf0d",
+      "title": "Messi giúp Argentina thắng ngược Anh ở bán kết World Cup",
+      "link": "https://vnexpress.net/ket-qua-anh-vs-argentina-5097918.html",
+      "summary": "Lionel Messi góp hai kiến tạo trong 5 phút cuối, giúp Argentina thắng ngược đội tuyển Anh 2-1 ở bán kết World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-15T17:00:00+07:00",
+      "fetched": "2026-07-16T05:56:06.560314+07:00"
     },
     {
       "id": "cd277dd96a8b6ef5540e8f1a5252b201",
