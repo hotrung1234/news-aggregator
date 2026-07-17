@@ -1,7 +1,157 @@
 window.newsData_2026_07_17 = {
   "date": "2026-07-17",
-  "lastUpdated": "2026-07-17T20:20:54.610214+07:00",
+  "lastUpdated": "2026-07-17T22:10:28.822464+07:00",
   "articles": [
+    {
+      "id": "5260cfe4af5a2b38bff0ed08f4f248f3",
+      "title": "Rút vụ án hơn 140 điểm 10 toán tại trường chuyên Tuyên Quang về Cơ quan An ninh điều tra Bộ Công an",
+      "link": "https://tuoitre.vn/rut-vu-an-hon-140-diem-10-toan-tai-truong-chuyen-tuyen-quang-ve-co-quan-an-ninh-dieu-tra-bo-cong-an-100260717191432589.htm",
+      "summary": "Bộ Công an rút vụ án hơn 140 điểm 10 toán bất thường tại Trường THPT chuyên Tuyên Quang về Cơ quan An ninh điều tra Bộ Công an để tiếp tục điều tra, xử lý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-17T22:10:22.614411+07:00",
+      "fetched": "2026-07-17T22:10:22.614470+07:00"
+    },
+    {
+      "id": "6a626f91e70f7fd65d9f2bf503677424",
+      "title": "Phó thủ tướng Lê Tiến Châu chủ trì cuộc họp về 3 đề án, dự án lớn của Đại học Quốc gia Hà Nội",
+      "link": "https://tuoitre.vn/pho-thu-tuong-le-tien-chau-chu-tri-cuoc-hop-ve-3-de-an-du-an-lon-cua-dai-hoc-quoc-gia-ha-noi-100260717190205598.htm",
+      "summary": "Với đề án \"Phát triển Đại học Quốc gia Hà Nội thuộc nhóm cơ sở giáo dục đại học hàng đầu châu Á\", Phó thủ tướng Lê Tiến Châu yêu cầu Đại học Quốc gia Hà Nội tiếp thu ý kiến, hoàn thiện đề án và báo cáo trước 25-7.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-17T22:10:22.614343+07:00",
+      "fetched": "2026-07-17T22:10:22.614400+07:00"
+    },
+    {
+      "id": "174956ad3a45bd58643e75035655bdc0",
+      "title": "Phó tổng Thanh tra Chính phủ Lê Sỹ Bảy được kéo dài thời gian giữ chức vụ",
+      "link": "https://tuoitre.vn/pho-tong-thanh-tra-chinh-phu-le-sy-bay-duoc-keo-dai-thoi-gian-giu-chuc-vu-10026071719213702.htm",
+      "summary": "Thủ tướng Lê Minh Hưng vừa ký quyết định về việc kéo dài thời gian giữ chức Phó tổng Thanh tra Chính phủ với ông Lê Sỹ Bảy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-17T22:10:22.614274+07:00",
+      "fetched": "2026-07-17T22:10:22.614333+07:00"
+    },
+    {
+      "id": "5034e97d38edd4e55aea74ebb3b40545",
+      "title": "Sports Festival 2026: Cuộc ‘tổng duyệt’ cho chuỗi giải đấu quốc tế mùa hè",
+      "link": "https://tuoitre.vn/sports-festival-2026-cuoc-tong-duyet-cho-chuoi-giai-dau-quoc-te-mua-he-10026071611493125.htm",
+      "summary": "Sports Festival 2026 đang bước vào giai đoạn cao điểm khi hàng loạt giải đấu trọng điểm sẽ đồng loạt diễn ra từ cuối tháng 7 đến hết tháng 9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-17T22:10:22.614178+07:00",
+      "fetched": "2026-07-17T22:10:22.614261+07:00"
+    },
+    {
+      "id": "615be6d089b3933d6353a9eb0d5c51e6",
+      "title": "Xử phạt tới 200 triệu đồng với vi phạm về giao dịch tài sản mã hóa",
+      "link": "https://tuoitre.vn/xu-phat-toi-200-trieu-dong-voi-vi-pham-ve-giao-dich-tai-san-ma-hoa-100260717193722873.htm",
+      "summary": "Chính phủ ban hành Nghị định số 284 quy định xử phạt vi phạm hành chính về tài sản mã hóa và thị trường tài sản mã hóa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-17T22:10:22.614113+07:00",
+      "fetched": "2026-07-17T22:10:22.614168+07:00"
+    },
+    {
+      "id": "91b088e10c349bbf64822ede3d3d178f",
+      "title": "Bí thư Thành ủy TP.HCM Trần Lưu Quang thăm các gia đình chính sách tiêu biểu",
+      "link": "https://tuoitre.vn/bi-thu-thanh-uy-tphcm-tran-luu-quang-tham-cac-gia-dinh-chinh-sach-tieu-bieu-10026071718103103.htm",
+      "summary": "Bí thư Thành ủy TP.HCM Trần Lưu Quang đến thăm các gia đình chính sách tiêu biểu nhân kỷ niệm 79 năm Ngày Thương binh - Liệt sĩ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-17T22:10:22.614048+07:00",
+      "fetched": "2026-07-17T22:10:22.614103+07:00"
+    },
+    {
+      "id": "cd08aee2e3af42f413b5aa08f12b0f11",
+      "title": "Tiền đạo Đình Bắc có đơn vị quản lý đến từ Nhật Bản",
+      "link": "https://tuoitre.vn/tien-dao-dinh-bac-co-don-vi-quan-ly-den-tu-nhat-ban-100260717195329146.htm",
+      "summary": "Tiền đạo Nguyễn Đình Bắc đã chính thức ký kết hợp tác với đơn vị quản lý Dentsu Sports Việt Nam - thành viên của Tập đoàn Dentsu Nhật Bản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-17T22:10:22.613981+07:00",
+      "fetched": "2026-07-17T22:10:22.614038+07:00"
+    },
+    {
+      "id": "7f3131ac595cd38340c8d2589f48880e",
+      "title": "Từ mảnh giấy tìm được khi lấy ADN liệt sĩ ở Tây Ninh, hy vọng tìm thấy gia đình liệt sĩ ở Bắc Ninh",
+      "link": "https://tuoitre.vn/tu-manh-giay-tim-duoc-khi-lay-adn-liet-si-o-tay-ninh-hy-vong-tim-thay-gia-dinh-liet-si-o-bac-ninh-100260717193008217.htm",
+      "summary": "Sau khi có thông tin về mảnh giấy ghi tên liệt sĩ tại Tây Ninh, Hội Hỗ trợ gia đình liệt sĩ tỉnh Bắc Ninh đã thông tin về việc có liệt sĩ trùng khớp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-17T22:10:22.613914+07:00",
+      "fetched": "2026-07-17T22:10:22.613971+07:00"
+    },
+    {
+      "id": "037768d4654382185bca84e79bee91f9",
+      "title": "HLV đội tuyển Myanmar: 'Nếu thua Việt Nam cũng là chuyện bình thường'",
+      "link": "https://tuoitre.vn/hlv-doi-tuyen-myanmar-neu-thua-viet-nam-cung-la-chuyen-binh-thuong-100260717191657335.htm",
+      "summary": "HLV trưởng Jorn Andersen thừa nhận đội tuyển Myanmar có khoảng cách lớn về trình độ so với đội tuyển Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-17T22:10:22.613846+07:00",
+      "fetched": "2026-07-17T22:10:22.613904+07:00"
+    },
+    {
+      "id": "9dd895d481a5e8fdd1a17bacd0b1b658",
+      "title": "Xe máy 'ma' không người lái lao vun vút ở đường trên cao",
+      "link": "https://tuoitre.vn/xe-may-ma-khong-nguoi-lai-lao-vun-vut-o-duong-tren-cao-100260717144813068.htm",
+      "summary": "Đoạn video ghi lại cảnh một chiếc xe máy chạy hàng trăm mét ở đường trên cao ở tỉnh Chiết Giang (Trung Quốc) dù không có người cầm lái, khiến nhiều người thót tim.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-17T22:10:22.613778+07:00",
+      "fetched": "2026-07-17T22:10:22.613837+07:00"
+    },
+    {
+      "id": "b2a618b4744503edadba21f9df68e7bf",
+      "title": "Thủ tướng: Sẵn sàng phương án ứng phó thiên tai, sơ tán người dân ra khỏi khu vực nguy hiểm",
+      "link": "https://tuoitre.vn/thu-tuong-san-sang-phuong-an-ung-pho-thien-tai-so-tan-nguoi-dan-ra-khoi-khu-vuc-nguy-hiem-10026071719530374.htm",
+      "summary": "Phó thủ tướng Hồ Quốc Dũng vừa ký công điện của Thủ tướng Chính phủ về việc chủ động ứng phó với mưa lớn khu vực miền núi Bắc Bộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-17T22:10:22.613708+07:00",
+      "fetched": "2026-07-17T22:10:22.613768+07:00"
+    },
+    {
+      "id": "3eec96ce3aa4b59dace167196bddce3b",
+      "title": "Lên tuyển Việt Nam bằng 'vé vớt', Khổng Minh Gia Bảo sẵn sàng đấu Myanmar",
+      "link": "https://tuoitre.vn/len-tuyen-viet-nam-bang-ve-vot-khong-minh-gia-bao-san-sang-dau-myanmar-100260717184813196.htm",
+      "summary": "Trung vệ Khổng Minh Gia Bảo phấn khởi khi tham dự buổi tập đầu tiên và duy nhất cùng đội tuyển Việt Nam, trước trận đấu giao hữu với đối thủ Myanmar tại Thái Nguyên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-17T22:10:22.613631+07:00",
+      "fetched": "2026-07-17T22:10:22.613697+07:00"
+    },
+    {
+      "id": "dff5f10d484869bc20a0684e9a910b78",
+      "title": "Vụ chặt xà cừ trong khuôn viên trụ sở ở Gia Lai: Đã xác định được người chặt hạ",
+      "link": "https://tuoitre.vn/vu-chat-xa-cu-trong-khuon-vien-tru-so-o-gia-lai-da-xac-dinh-duoc-nguoi-chat-ha-10026071719430238.htm",
+      "summary": "Liên quan vụ hàng chục cây xà cừ, cây phượng bị cưa hạ trong khuôn viên trụ sở xã H'Bông (cũ), tỉnh Gia Lai, cơ quan chức năng xác minh phát hiện người cưa cây thuộc tổ an ninh cơ sở.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-17T22:10:22.613559+07:00",
+      "fetched": "2026-07-17T22:10:22.613621+07:00"
+    },
+    {
+      "id": "96b7da0387a87fa061144d761090b279",
+      "title": "TP.HCM đặt mục tiêu xây dựng 5.000 công trình 'Thành phố muôn sắc hoa'",
+      "link": "https://tuoitre.vn/tphcm-dat-muc-tieu-xay-dung-5000-cong-trinh-thanh-pho-muon-sac-hoa-100260717150903046.htm",
+      "summary": "Chiều 17-7, tại phường Tân Mỹ, Ban Thường trực Ủy ban MTTQ Việt Nam TP.HCM và UBND TP tổ chức Hội nghị ký kết chương trình phối hợp thực hiện phong trào thi đua \"Toàn dân chung tay bảo vệ môi trường, vì TP.HCM xanh - sạch - đẹp\" giai đoạn 2026 - 2030.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-17T22:10:22.613478+07:00",
+      "fetched": "2026-07-17T22:10:22.613548+07:00"
+    },
+    {
+      "id": "e6636b3fa26679568124d9533bbea674",
+      "title": "Tìm kiếm liệt sĩ gần nhà ga ở TP Huế: Đã cất bốc được một hài cốt",
+      "link": "https://tuoitre.vn/tim-kiem-liet-si-gan-nha-ga-o-tp-hue-da-cat-boc-duoc-mot-hai-cot-100260717201050305.htm",
+      "summary": "Đội quy tập 192 (Bộ Chỉ huy quân sự TP Huế) đã cất bốc được một hài cốt liệt sĩ ở khu vực gần ga Hương Thủy (TP Huế).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-17T22:10:22.613335+07:00",
+      "fetched": "2026-07-17T22:10:22.613463+07:00"
+    },
     {
       "id": "480310779e107c391831de22c885b043",
       "title": "TP.HCM bắt đầu lộ trình đưa người Việt làm chủ công nghệ metro",
@@ -453,6 +603,226 @@ window.newsData_2026_07_17 = {
       "fetched": "2026-07-17T16:54:02.391159+07:00"
     },
     {
+      "id": "e6f95aa689cde9268c1aa4773ced3ff7",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm thăm, động viên lực lượng quy tập hài cốt liệt sĩ",
+      "link": "https://thanhnien.vn/tong-bi-thu-chu-tich-nuoc-to-lam-tham-dong-vien-luc-luong-quy-tap-hai-cot-liet-si-185260717210538746.htm",
+      "summary": "Chiều 17.7.2026, Tổng Bí thư, Chủ tịch nước Tô Lâm cùng đoàn công tác đã dâng hương tưởng niệm các anh hùng liệt sĩ và thăm, động viên lực lượng quy tập hài cốt liệt sĩ tại công viên Lê Thị Riêng, TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-17T14:49:00+07:00",
+      "fetched": "2026-07-17T22:10:20.815213+07:00"
+    },
+    {
+      "id": "0e09ad4558be61da336525dafa3211a2",
+      "title": "Công an Đà Nẵng triệt phá nhóm cá cược bóng đá World Cup 2026, bắt 8 người",
+      "link": "https://thanhnien.vn/cong-an-da-nang-triet-pha-nhom-ca-cuoc-bong-da-world-cup-2026-bat-8-nguoi-185260717185326355.htm",
+      "summary": "Công an thành phố Đà Nẵng vừa khởi tố, bắt tạm giam 8 bị can để điều tra hành vi cá cược bóng đá trực tuyến mùa World Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-17T14:32:00+07:00",
+      "fetched": "2026-07-17T22:10:20.815410+07:00"
+    },
+    {
+      "id": "f2fc5d37d17d5f84cdbe13597607c8a8",
+      "title": "Khẳng định bám trụ đến cùng, tiệm kim cương gửi 'thư tâm sự' đến khách",
+      "link": "https://thanhnien.vn/khang-dinh-bam-tru-den-cung-tiem-kim-cuong-gui-thu-tam-su-den-khach-185260717212745151.htm",
+      "summary": "Ngày 17.7, trên trang mạng xã hội facebook Quyên Diamond – Trang sức kim cương (có địa chỉ tại 376 An Dương Vương, Q.5 (cũ), TP.HCM) xuất hiện bức thư tâm sự gửi đến khách hàng và \"bám trụ tới cùng\", \"hứa sẽ không bao giờ dừng bước ở đây\" và \"khách hàng thấu hiểu, đồng cảm và đồng hành cùng Quyên\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-17T14:31:00+07:00",
+      "fetched": "2026-07-17T22:10:20.815568+07:00"
+    },
+    {
+      "id": "3ead89b2d985a4e4bc2395b24bdfb6e7",
+      "title": "Ban Bí thư bổ sung 9 ủy viên Ban Chấp hành Đảng bộ tỉnh Cà Mau",
+      "link": "https://thanhnien.vn/ban-bi-thu-bo-sung-9-uy-vien-ban-chap-hanh-dang-bo-tinh-ca-mau-185260717194015601.htm",
+      "summary": "Ban Bí thư Trung ương Đảng vừa chỉ định bổ sung 9 cán bộ tham gia Ban Chấp hành Đảng bộ tỉnh Cà Mau nhiệm kỳ 2025 - 2030, nâng tổng số ủy viên từ 54 lên 63.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-17T14:29:00+07:00",
+      "fetched": "2026-07-17T22:10:20.815719+07:00"
+    },
+    {
+      "id": "056aaf134a55cb17a66669b24e87dd53",
+      "title": "Hàng trăm du khách mắc kẹt ở đảo Cù Lao Chàm được đưa vào bờ an toàn",
+      "link": "https://thanhnien.vn/hang-tram-du-khach-mac-ket-o-dao-cu-lao-cham-duoc-dua-vao-bo-an-toan-185260717191237478.htm",
+      "summary": "Sau gần 1 ngày bị mắc kẹt trên đảo do biển động, khoảng 300 du khách, phần lớn là khách quốc tế, đã được chính quyền xã đảo Tân Hiệp (Đà Nẵng) phối hợp với lực lượng chức năng tổ chức đưa từ Cù Lao Chàm vào đất liền an toàn trong ngày 17.7.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-17T14:29:00+07:00",
+      "fetched": "2026-07-17T22:10:20.815872+07:00"
+    },
+    {
+      "id": "b95efaa3b00e0893a3d69fa3e6b44f45",
+      "title": "Ukraine tuyên bố phá hủy oanh tạc cơ Tu-95 của Nga",
+      "link": "https://vnexpress.net/ukraine-tuyen-bo-pha-huy-oanh-tac-co-tu-95-cua-nga-5098719.html",
+      "summary": "Tổng thống Zelensky cho biết lực lượng Ukraine đã tập kích căn cứ Engels của Nga và phá hủy một oanh tạc cơ chiến lược Tu-95.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-17T14:24:45+07:00",
+      "fetched": "2026-07-17T22:10:18.275591+07:00"
+    },
+    {
+      "id": "b95efaa3b00e0893a3d69fa3e6b44f45",
+      "title": "Ukraine tuyên bố phá hủy oanh tạc cơ Tu-95 của Nga",
+      "link": "https://vnexpress.net/ukraine-tuyen-bo-pha-huy-oanh-tac-co-tu-95-cua-nga-5098719.html",
+      "summary": "Tổng thống Zelensky cho biết lực lượng Ukraine đã tập kích căn cứ Engels của Nga và phá hủy một oanh tạc cơ chiến lược Tu-95.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-17T14:24:45+07:00",
+      "fetched": "2026-07-17T22:10:23.761397+07:00"
+    },
+    {
+      "id": "ec54264b4e952f29e72581a22f841105",
+      "title": "Camera ghi cảnh lũ tràn vào nhà dân chưa đầy một phút",
+      "link": "https://vnexpress.net/camera-ghi-canh-lu-tran-vao-nha-dan-chua-day-mot-phut-5098748.html",
+      "summary": "Người phụ nữ mang bầu ở xã Mường Than phải chui qua cửa sổ để thoát thân khi nước lũ từ mặt đường bất ngờ tràn vào, cuốn phăng xe, đồ đạc trong chốc lát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-17T14:04:31+07:00",
+      "fetched": "2026-07-17T22:10:18.275772+07:00"
+    },
+    {
+      "id": "d276dd1c22e1af48d6bd10f89eb26124",
+      "title": "Chồng xem phim người lớn mỗi ngày nhưng chối khi tôi hỏi",
+      "link": "https://vnexpress.net/chong-xem-phim-nguoi-lon-moi-ngay-nhung-choi-khi-toi-hoi-5098652.html",
+      "summary": "Chuyện sinh hoạt vợ chồng vẫn bình thường nhưng vài tháng gần đây tôi phát hiện chồng thường xuyên xem phim người lớn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-17T14:00:00+07:00",
+      "fetched": "2026-07-17T22:10:18.275945+07:00"
+    },
+    {
+      "id": "0b15a55770a8ddf423d99c898f976549",
+      "title": "Harper Beckham được khen mặc đẹp trên khán đài World Cup",
+      "link": "https://vnexpress.net/harper-beckham-duoc-khen-mac-dep-tren-khan-dai-world-cup-5098647.html",
+      "summary": "Harper - con gái út của ngôi sao David Beckham - được đánh giá cao với gu mặc đơn giản, phóng khoáng khi cổ vũ World Cup.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-17T13:57:47+07:00",
+      "fetched": "2026-07-17T22:10:18.276106+07:00"
+    },
+    {
+      "id": "510cdd938ccd0a460d7abfc9e17891a0",
+      "title": "Mối nhân duyên của Messi và Scaloni: Từ đồng đội đến cặp thầy trò làm nên lịch sử",
+      "link": "https://thanhnien.vn/moi-nhan-duyen-cua-messi-va-scaloni-tu-dong-doi-den-cap-thay-tro-lam-nen-lich-su-185260717183835521.htm",
+      "summary": "Lionel Messi và Lionel Scaloni từng là đồng đội tại World Cup 2006. Gần 20 năm sau, họ tái ngộ trong vai trò HLV và học trò, cùng đưa đội tuyển Argentina bước vào giai đoạn thành công nhất lịch sử.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-17T13:56:00+07:00",
+      "fetched": "2026-07-17T22:10:20.816024+07:00"
+    },
+    {
+      "id": "7df267f9b83f749cffc4c070ec973f37",
+      "title": "Ô tô giá rẻ nhập từ Indonesia tràn vào Việt Nam, cạnh tranh xe Trung Quốc",
+      "link": "https://thanhnien.vn/o-to-gia-re-nhap-tu-indonesia-tran-vao-viet-nam-canh-tranh-xe-trung-quoc-185260716151252737.htm",
+      "summary": "Lượng ô tô nhập khẩu vào Việt Nam tiếp tục tăng trưởng, lập mức kỷ lục mới trong năm 2026, qua đó nâng tổng lượng ô tô nhập khẩu sau nửa đầu năm 2026 lên mức gần 121.200 xe, trong đó ô tô giá rẻ nhập khẩu Indonesia chiếm đa số.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-17T13:53:00+07:00",
+      "fetched": "2026-07-17T22:10:20.816173+07:00"
+    },
+    {
+      "id": "c9eb8aaf0f3a55db2a19f7e083496c52",
+      "title": "Runner nhí háo hức nhận race-kit Kun Marathon Đà Nẵng",
+      "link": "https://vnexpress.net/runner-nhi-hao-huc-nhan-race-kit-kun-marathon-da-nang-5098720.html",
+      "summary": "Không khí tại Cung Thể thao Tiên Sơn trở nên sôi động khi hàng nghìn runner nhí và phụ huynh đến nhận race-kit, chuẩn bị cho ngày đua vào sáng 18/7.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-17T13:52:59+07:00",
+      "fetched": "2026-07-17T22:10:18.276299+07:00"
+    },
+    {
+      "id": "428d55233b2f6d0e69e64aa89e8ef67a",
+      "title": "Phạt tiền tài xế ôtô cản trở xe cứu thương chở bệnh nhân nguy kịch",
+      "link": "https://vnexpress.net/phat-tien-tai-xe-oto-can-tro-xe-cuu-thuong-cho-benh-nhan-nguy-kich-5098750.html",
+      "summary": "Tài xế ôtô 7 chỗ không nhường đường xe cấp cứu trong quá trình di chuyển trên quốc lộ 4C sẽ bị phạt tiền và trừ điểm giấy phép lái xe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-17T13:52:43+07:00",
+      "fetched": "2026-07-17T22:10:18.276466+07:00"
+    },
+    {
+      "id": "b919faec027e4f86c7393e67a4e9b433",
+      "title": "Nước nào có tỷ lệ người dân sở hữu nhà cao nhất châu Á?",
+      "link": "https://vnexpress.net/nuoc-nao-co-ty-le-nguoi-dan-so-huu-nha-cao-nhat-chau-a-5098713.html",
+      "summary": "Cứ 10 hộ dân thì có 9 hộ đang sở hữu ngôi nhà mình đang ở, tỷ lệ cao nhất châu Á. Bạn nghĩ đây là quốc gia nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-17T13:47:52+07:00",
+      "fetched": "2026-07-17T22:10:18.276621+07:00"
+    },
+    {
+      "id": "3b001e653ca328a8095b0ab9362504ee",
+      "title": "Ăn chuối theo 5 cách này, giúp đường huyết ổn định",
+      "link": "https://thanhnien.vn/an-chuoi-theo-5-cach-nay-giup-duong-huyet-on-dinh-185260717204811845.htm",
+      "summary": "Chuối giàu vitamin, khoáng chất và chất xơ, nhưng cách ăn có thể ảnh hưởng đáng kể đến đường huyết. Chuyên gia gợi ý 5 mẹo đơn giản giúp giữ đường huyết ổn định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-17T13:47:00+07:00",
+      "fetched": "2026-07-17T22:10:20.816348+07:00"
+    },
+    {
+      "id": "60d9d961ad54caab50c5538f3681d692",
+      "title": "Quyết định hé lộ mâu thuẫn lớn trong thượng tầng quân sự Ukraine",
+      "link": "https://thanhnien.vn/quyet-dinh-he-lo-mau-thuan-lon-trong-thuong-tang-quan-su-ukraine-185260717171446472.htm",
+      "summary": "Sau khi Bộ trưởng Quốc phòng Mykhailo Fedorov bị cách chức, một bài báo trên tờ Ukrainska Pravda đã hé lộ hậu trường xung quanh quyết định của Tổng thống Volodymyr Zelensky chia tay một trong những cộng sự thân cận nhất của ông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-17T13:33:00+07:00",
+      "fetched": "2026-07-17T22:10:20.816499+07:00"
+    },
+    {
+      "id": "358e1fcec2498001ac5f04d693d94b3f",
+      "title": "Bác sĩ học điều khiển robot phẫu thuật 6 loại ung thư",
+      "link": "https://vnexpress.net/bac-si-hoc-dieu-khien-robot-phau-thuat-6-loai-ung-thu-5098653.html",
+      "summary": "Bệnh viện K lần đầu tiên đào tạo phẫu thuật nội soi bằng robot điều trị 6 loại ung thư, đánh dấu bước chuyển từ tiếp nhận công nghệ sang chủ động đào tạo và làm chủ kỹ thuật ngoại khoa hiện đại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-17T13:32:22+07:00",
+      "fetched": "2026-07-17T22:10:18.276774+07:00"
+    },
+    {
+      "id": "6bb8583a0e6fc2ad7de9abf2a7c2e758",
+      "title": "Xuân Son cười lớn khi xỏ háng đồng đội ở tuyển Việt Nam",
+      "link": "https://vnexpress.net/xuan-son-cuoi-lon-khi-xo-hang-dong-doi-o-tuyen-viet-nam-5098710.html",
+      "summary": "Tiền đạo Nguyễn Xuân Son dùng kỹ thuật liên tục đánh lừa Phạm Gia Hưng trong buổi tập của đội tuyển Việt Nam trên sân Thái Nguyên ngày 17/7.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-17T13:32:10+07:00",
+      "fetched": "2026-07-17T22:10:18.276932+07:00"
+    },
+    {
+      "id": "6bb8583a0e6fc2ad7de9abf2a7c2e758",
+      "title": "Xuân Son cười lớn khi xỏ háng đồng đội ở tuyển Việt Nam",
+      "link": "https://vnexpress.net/xuan-son-cuoi-lon-khi-xo-hang-dong-doi-o-tuyen-viet-nam-5098710.html",
+      "summary": "Tiền đạo Nguyễn Xuân Son dùng kỹ thuật liên tục đánh lừa Phạm Gia Hưng trong buổi tập của đội tuyển Việt Nam trên sân Thái Nguyên ngày 17/7.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-17T13:32:10+07:00",
+      "fetched": "2026-07-17T22:10:28.810112+07:00"
+    },
+    {
+      "id": "07f521123d5a715bac1b0844e328ff6e",
+      "title": "Xe bồn tông sập nhà dân, một người chết",
+      "link": "https://vnexpress.net/xe-bon-tong-sap-nha-dan-mot-nguoi-chet-5098726.html",
+      "summary": "Đang đi trên ĐT 752C, xe bồn bất ngờ lao thẳng vào nhà dân khiến một phụ nữ chết, một người bị thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-17T13:26:55+07:00",
+      "fetched": "2026-07-17T22:10:18.277083+07:00"
+    },
+    {
+      "id": "9148ef4dbfa2b6529a9f7d6e47408be1",
+      "title": "Triển lãm hàng không Farnborough chuyển trọng tâm sang vũ khí",
+      "link": "https://thanhnien.vn/trien-lam-hang-khong-farnborough-chuyen-trong-tam-sang-vu-khi-185260717200541654.htm",
+      "summary": "Nguy cơ an ninh đang leo thang ở những điểm nóng toàn cầu được dự báo sẽ biến lĩnh vực quốc phòng trở thành tâm điểm tại Triển lãm Hàng không Farnborough tại Anh từ ngày 20 - 24.7.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-17T13:26:00+07:00",
+      "fetched": "2026-07-17T22:10:20.816652+07:00"
+    },
+    {
       "id": "835739426ae8f59cba3cad5b99e1f316",
       "title": "U.17 Hà Nội thắng đậm đến khó tin, U.17 Đồng Nai tạo bất ngờ",
       "link": "https://thanhnien.vn/u17-ha-noi-thang-dam-den-kho-tin-u17-dong-nai-tao-bat-ngo-185260717195838362.htm",
@@ -653,6 +1023,56 @@ window.newsData_2026_07_17 = {
       "fetched": "2026-07-17T20:20:38.146640+07:00"
     },
     {
+      "id": "feced6b21c064a38495e556a7b768351",
+      "title": "5 việc nên làm mỗi tối giúp ngủ ngon",
+      "link": "https://vnexpress.net/5-viec-nen-lam-moi-toi-giup-ngu-ngon-5098612.html",
+      "summary": "Dành khoảng 30 phút thư giãn trước khi lên giường bằng những hoạt động như tắt thiết bị điện tử, đọc sách hay hít thở sâu có thể giúp ngủ sâu giấc hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-17T13:00:00+07:00",
+      "fetched": "2026-07-17T22:10:18.277258+07:00"
+    },
+    {
+      "id": "b23c73d2492d839425d5a27a210c81d5",
+      "title": "Zendaya diện trang sức Chopard quảng bá bom tấn 'The Odyssey'",
+      "link": "https://vnexpress.net/zendaya-dien-trang-suc-chopard-quang-ba-bom-tan-the-odyssey-5098685.html",
+      "summary": "Diễn viên Zendaya gây chú ý khi kết hợp trang sức Haute Joaillerie của Chopard trong ba lần xuất hiện tại London và New York để quảng bá phim “The Odyssey”.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-17T13:00:00+07:00",
+      "fetched": "2026-07-17T22:10:18.277422+07:00"
+    },
+    {
+      "id": "7721cbb87ff8f58b0c044b629109d7ae",
+      "title": "Bí quyết dùng 'áo mưa'",
+      "link": "https://vnexpress.net/bi-quyet-dung-ao-mua-5098634.html",
+      "summary": "Không ít anh em rơi cảnh sụt nguồn lúc mặc \"áo mưa\", đây là rắc rối xuất phát từ sự phân tâm của não bộ nhưng có thể giải quyết khi thay đổi chất liệu, sử dụng gel hoặc khéo léo chuyển giao \"nhiệm vụ\" cho bạn đời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-17T13:00:00+07:00",
+      "fetched": "2026-07-17T22:10:18.277575+07:00"
+    },
+    {
+      "id": "41ff97c4e407197528215240a4f497f8",
+      "title": "4 thói quen buổi tối có lợi cho chiều cao của trẻ",
+      "link": "https://vnexpress.net/4-thoi-quen-buoi-toi-co-loi-cho-chieu-cao-cua-tre-5098442.html",
+      "summary": "Ăn tối đủ dinh dưỡng, hạn chế xem thiết bị điện tử, đi ngủ đúng giờ và đủ giấc tạo điều kiện thuận lợi cho quá trình phát triển xương của trẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-17T13:00:00+07:00",
+      "fetched": "2026-07-17T22:10:18.277725+07:00"
+    },
+    {
+      "id": "e02b93c3396b8cd01701e1c76150c789",
+      "title": "Hulo Care cung cấp dịch vụ OEM, ODM cho ngành mỹ phẩm",
+      "link": "https://vnexpress.net/hulo-care-cung-cap-dich-vu-oem-odm-cho-nganh-my-pham-5097514.html",
+      "summary": "Hulo Care sở hữu nhà máy được Sở Y tế TP HCM cấp chứng nhận đủ điều kiện sản xuất mỹ phẩm, hiện là đối tác gia công của nhiều thương hiệu mỹ phẩm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-17T13:00:00+07:00",
+      "fetched": "2026-07-17T22:10:18.277884+07:00"
+    },
+    {
       "id": "8db04351eedb982d76c1717f9db418d3",
       "title": "Quảng Ninh: 95% học sinh đã đăng ký mượn SGK miễn phí",
       "link": "https://thanhnien.vn/quang-ninh-95-hoc-sinh-da-dang-ky-muon-sgk-mien-phi-185260717191409456.htm",
@@ -681,6 +1101,16 @@ window.newsData_2026_07_17 = {
       "category": "Tổng hợp",
       "published": "2026-07-17T12:51:00+07:00",
       "fetched": "2026-07-17T20:20:38.147131+07:00"
+    },
+    {
+      "id": "d1fba952edc2f250f7960236e543d4f3",
+      "title": "HLV Myanmar: 'Sẽ là bình thường nếu thua Việt Nam'",
+      "link": "https://vnexpress.net/hlv-myanmar-se-la-binh-thuong-neu-thua-viet-nam-5098721.html",
+      "summary": "HLV Jorn Andersen của Myanmar không đặt nặng kết quả ở trận giao hữu với đối thủ mạnh như Việt Nam, trước thềm ASEAN Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-17T12:41:14+07:00",
+      "fetched": "2026-07-17T22:10:28.810322+07:00"
     },
     {
       "id": "76fa59a984122c34073c847955221669",
