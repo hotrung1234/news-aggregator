@@ -1,6 +1,6 @@
 window.newsData_2026_07_18 = {
   "date": "2026-07-18",
-  "lastUpdated": "2026-07-18T02:02:19.083907+07:00",
+  "lastUpdated": "2026-07-18T03:50:58.887370+07:00",
   "articles": [
     {
       "id": "2f6284088025f3d0ac71d020f70ba2f5",
@@ -231,6 +231,26 @@ window.newsData_2026_07_18 = {
       "category": "Tổng hợp",
       "published": "2026-07-18T00:08:07.428051+07:00",
       "fetched": "2026-07-18T00:08:07.428178+07:00"
+    },
+    {
+      "id": "9a3e3839ea146d1fb894a98d0bf3c367",
+      "title": "Ngủ khi tivi còn bật hại sức khỏe thế nào",
+      "link": "https://vnexpress.net/ngu-khi-tivi-con-bat-hai-suc-khoe-the-nao-5098133.html",
+      "summary": "Các bác sĩ tim mạch cảnh báo thói quen bật tivi khi ngủ có thể làm giảm chất lượng giấc ngủ, về lâu dài thậm chí làm gia tăng gánh nặng cho hệ tim mạch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-17T20:00:00+07:00",
+      "fetched": "2026-07-18T03:50:48.746909+07:00"
+    },
+    {
+      "id": "9d7f318fd99bed44162f873630bc2783",
+      "title": "Quả bóng vàng thứ 9 cho Messi?",
+      "link": "https://thanhnien.vn/qua-bong-vang-thu-9-cho-messi-185260717222721284.htm",
+      "summary": "Nếu Argentina vô địch World Cup 2026, Lionel Messi có thể đoạt Quả bóng vàng thứ 9 trong sự nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-17T19:06:00+07:00",
+      "fetched": "2026-07-18T03:50:51.401781+07:00"
     },
     {
       "id": "2c590b8b20f8bd5aea7fd3082daf9541",
