@@ -1,7 +1,17 @@
 window.newsData_2026_07_20 = {
   "date": "2026-07-20",
-  "lastUpdated": "2026-07-20T03:42:17.768787+07:00",
+  "lastUpdated": "2026-07-20T05:48:22.168762+07:00",
   "articles": [
+    {
+      "id": "c6d125a3763e4c1bd374de3b0782352d",
+      "title": "Tin tức sáng 20-7: SCB định giá loạt 'đất vàng' liên quan bà Trương Mỹ Lan để thu hồi nợ",
+      "link": "https://tuoitre.vn/tin-tuc-sang-20-7-scb-dinh-gia-loat-dat-vang-lien-quan-ba-truong-my-lan-de-thu-hoi-no-100260719211953795.htm",
+      "summary": "Tin tức đáng chú ý: Ngân hàng SCB định giá loạt 'đất vàng' liên quan bà Trương Mỹ Lan để thu hồi nợ; TP.HCM tăng cường tuyên truyền cải cách hành chính; Đề xuất hỗ trợ sinh viên dân tộc thiểu số rất ít người bằng 150% mức lương cơ sở mỗi tháng...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T05:48:14.700541+07:00",
+      "fetched": "2026-07-20T05:48:14.700689+07:00"
+    },
     {
       "id": "50db69a456ef95a0fc7e2198cfa9624b",
       "title": "Thời tiết hôm nay 20-7: Vùng núi Bắc Bộ và Quảng Ninh còn mưa to, Nam Bộ mưa rào",
@@ -161,6 +171,206 @@ window.newsData_2026_07_20 = {
       "category": "Tổng hợp",
       "published": "2026-07-20T02:01:17.440425+07:00",
       "fetched": "2026-07-20T02:01:17.440563+07:00"
+    },
+    {
+      "id": "7b6389d02667c93c4ecbaf46d030fd21",
+      "title": "Thua cay đắng Tây Ban Nha ở chung kết, cầu thủ Argentina gây ra cảnh xô xát",
+      "link": "https://thanhnien.vn/thua-cay-dang-tay-ban-nha-o-chung-ket-cau-thu-argentina-gay-ra-canh-xo-xat-185260720054134676.htm",
+      "summary": "Thất bại 0-1 trước Tây Ban Nha sau 120 phút căng thẳng ở trận chung kết World Cup 2026 rạng sáng 20.7 không chỉ khiến Argentina lỡ hẹn với chức vô địch, mà còn khép lại bằng hình ảnh đáng quên khi nhiều cầu thủ đội bóng Nam Mỹ lao vào gây xô xát ngay sau tiếng còi mãn cuộc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T22:45:00+07:00",
+      "fetched": "2026-07-20T05:48:12.624311+07:00"
+    },
+    {
+      "id": "b0a81347e8d7ba40838e7938300df0ec",
+      "title": "Để tăng năng lực nghe - nói khi học tiếng Anh",
+      "link": "https://thanhnien.vn/de-tang-nang-luc-nghe-noi-khi-hoc-tieng-anh-185260719180757853.htm",
+      "summary": "Nghe - nói luôn được cho là kỹ năng 'khó nhằn' nhất trên con đường chinh phục tiếng Anh. Nhiều người cho rằng phải học với giáo viên nước ngoài mới chuẩn, có người lại tự ti vì cho rằng giọng tiếng Anh của mình rất 'phèn'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T22:45:00+07:00",
+      "fetched": "2026-07-20T05:48:12.624483+07:00"
+    },
+    {
+      "id": "d5a9bac3bf8d7eaa077c76525808a8b1",
+      "title": "Được cô gái Canada đứng ra bảo vệ, chàng trai tiệm bánh mì bật khóc",
+      "link": "https://thanhnien.vn/duoc-co-gai-canada-dung-ra-bao-ve-chang-trai-tiem-banh-mi-bat-khoc-185260719120808442.htm",
+      "summary": "Bị một vị khách quát mắng khi đang làm việc, chàng trai 21 tuổi bất ngờ được nữ du khách Canada đứng ra bảo vệ, lắng nghe và an ủi. Khoảnh khắc sau đó khiến hàng triệu người xúc động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T22:45:00+07:00",
+      "fetched": "2026-07-20T05:48:12.624643+07:00"
+    },
+    {
+      "id": "b99199d2ab6db2a8f29c7098ea0dc233",
+      "title": "Vua phá lưới World Cup 2026: Mbappe độc chiếm danh hiệu, Messi chào thua",
+      "link": "https://thanhnien.vn/vua-pha-luoi-world-cup-2026-mbappe-doc-chiem-danh-hieu-messi-chao-thua-185260720053425247.htm",
+      "summary": "Kylian Mbappe đã chính thức đoạt danh hiệu Vua phá lưới World Cup 2026 với 10 pha lập công, vượt mặt Lionel Messi để đi vào lịch sử giải đấu với tư cách chân sút vĩ đại nhất mọi thời đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T22:40:00+07:00",
+      "fetched": "2026-07-20T05:48:12.624800+07:00"
+    },
+    {
+      "id": "710a92f144b4cbc1abdf89e55d4d48af",
+      "title": "Tiêu điểm quốc tế ngày 20.7: Ukraine với cuộc chiến trên không | Tỉ phú Musk bình luận chính trường Pháp",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-ngay-207-ukraine-voi-cuoc-chien-tren-khong-ti-phu-musk-binh-luan-chinh-truong-phap-185260719215406715.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 20.7.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T22:30:00+07:00",
+      "fetched": "2026-07-20T05:48:12.624983+07:00"
+    },
+    {
+      "id": "9ebc70a06ea0e479ac0dbe88c96bd049",
+      "title": "TP.HCM tăng tốc dự án trọng điểm: Dân đồng thuận, công trình có mặt bằng",
+      "link": "https://thanhnien.vn/tphcm-tang-toc-du-an-trong-diem-dan-dong-thuan-cong-trinh-co-mat-bang-185260719212007499.htm",
+      "summary": "Với hàng loạt công trình trọng điểm đã và đang tăng tốc thi công, công tác bồi thường giải phóng mặt bằng giữ vai trò quyết định về tiến độ từng dự án và diện mạo đô thị của TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T22:30:00+07:00",
+      "fetched": "2026-07-20T05:48:12.625151+07:00"
+    },
+    {
+      "id": "d7517709d35f991d4fe835a1265ec225",
+      "title": "12 người miền Tây cùng trúng 3,2 tỉ xổ số miền Nam, nhận chuyển khoản",
+      "link": "https://thanhnien.vn/12-nguoi-mien-tay-cung-trung-32-ti-xo-so-mien-nam-nhan-chuyen-khoan-185260719095509569.htm",
+      "summary": "Cùng mua dãy số may mắn, 12 người ở miền Tây bất ngờ trúng 64 tờ vé mở thưởng xổ số miền Nam trị giá 3,2 tỉ đồng. Đại lý chuyển khoản cho từng người trúng thưởng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T22:30:00+07:00",
+      "fetched": "2026-07-20T05:48:12.625311+07:00"
+    },
+    {
+      "id": "d20114b67c4632f183a185dbf270be39",
+      "title": "Enzo Fernandez bị thẻ đỏ ở phút 90+3, phản ứng dữ dội rồi đá văng máy quay",
+      "link": "https://thanhnien.vn/enzo-fernandez-bi-the-do-o-phut-903-phan-ung-du-doi-roi-da-vang-may-quay-185260720052818151.htm",
+      "summary": "Thất bại 0-1 trước Tây Ban Nha trong trận chung kết World Cup 2026 rạng sáng 20.7 không chỉ khiến Argentina lỡ cơ hội bảo vệ ngôi vương, mà còn khép lại bằng hình ảnh đầy thất vọng của tiền vệ Enzo Fernandez.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T22:29:00+07:00",
+      "fetched": "2026-07-20T05:48:12.625467+07:00"
+    },
+    {
+      "id": "fe5461d1feaa91e86efa5b44d42caaa3",
+      "title": "Dùng dầu gió, cao dán khi đau đầu: Người trên 50 tuổi nên đi khám lúc nào?",
+      "link": "https://thanhnien.vn/dung-dau-gio-cao-dan-khi-dau-dau-nguoi-tren-50-tuoi-nen-di-kham-luc-nao-185260719211633795.htm",
+      "summary": "Đau đầu sau tuổi 50 không phải lúc nào cũng chỉ do tuổi tác. Bác sĩ chỉ ra những dấu hiệu cần đi khám sớm và những trường hợp có thể cân nhắc dùng dầu gió hoặc cao dán để làm dịu cơn đau tạm thời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T22:29:00+07:00",
+      "fetched": "2026-07-20T05:48:12.625643+07:00"
+    },
+    {
+      "id": "77653f661b8bbe287f9e81a02ca797d9",
+      "title": "Chiến sự Ukraine ngày 1.606: Nga phóng nhiều tên lửa bội siêu thanh?",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1606-nga-phong-nhieu-ten-lua-boi-sieu-thanh-185260719195445629.htm",
+      "summary": "Không quân Ukraine cáo buộc Nga đã phóng 125 máy bay không người lái (UAV) và 41 tên lửa trong một đêm, trong khi Bộ Quốc phòng Nga tuyên bố đánh chặn và phá hủy nhiều UAV Ukraine ở 8 tỉnh của Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T22:18:00+07:00",
+      "fetched": "2026-07-20T05:48:12.625800+07:00"
+    },
+    {
+      "id": "3a24452d2297f459be7e163c1c1dcead",
+      "title": "Nỗ lực khắc phục hậu quả thiên tai ở Lai Châu",
+      "link": "https://thanhnien.vn/no-luc-khac-phuc-hau-qua-thien-tai-o-lai-chau-185260719211234949.htm",
+      "summary": "Do ảnh hưởng của thiên tai phức tạp, trong khi nguồn kinh phí dự phòng ngân sách eo hẹp, tỉnh Lai Châu đã đề nghị Trung ương hỗ trợ gạo và 116 tỉ đồng để khắc phục hậu quả thiên tai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T22:16:00+07:00",
+      "fetched": "2026-07-20T05:48:12.625983+07:00"
+    },
+    {
+      "id": "946d7d7f06cda7dd4bcc6c283cc7d25b",
+      "title": "Tử vi ngày 20 tháng 7: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-20-thang-7-con-giap-nao-may-man-hom-nay-185260719223107502.htm",
+      "summary": "Tử vi ngày 20 tháng 7 mang đến những gợi ý tham khảo cho 12 con giáp. Có những món đồ đi cùng chúng ta mỗi ngày đến mức trở nên quá quen thuộc: chiếc ví, chùm chìa khóa, đôi giày, cuốn sổ hay chiếc cốc uống nước. Chúng ít khi được chú ý nhưng lại âm thầm phản ánh thói quen và nhịp sống của mỗi người...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T22:15:00+07:00",
+      "fetched": "2026-07-20T05:48:12.626147+07:00"
+    },
+    {
+      "id": "16349877d6c55feb952388f3d9c990e8",
+      "title": "Tranh cãi trọng tài Vincic hủy bàn thắng của Tây Ban Nha: Williams mắc lỗi gì trước Argentina?",
+      "link": "https://thanhnien.vn/tranh-cai-trong-tai-vincic-huy-ban-thang-cua-tay-ban-nha-williams-mac-loi-gi-truoc-argentina-18526072005122812.htm",
+      "summary": "Bàn thắng của Nico Williams vào lưới Argentina ở hiệp phụ trận chung kết World Cup 2026 rạng sáng 20.7 đã bị trọng tài Slavko Vincic từ chối, tạo nên làn sóng tranh cãi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T22:14:00+07:00",
+      "fetched": "2026-07-20T05:48:12.626304+07:00"
+    },
+    {
+      "id": "70f4e959b5a95f1de0a57a497d2806c0",
+      "title": "Thức trắng cùng trận chung kết World Cup năm 2026",
+      "link": "https://thanhnien.vn/thuc-trang-cung-tran-chung-ket-world-cup-nam-2026-185260720042031484.htm",
+      "summary": "Có mặt từ sớm ở Công viên bờ sông Sài Gòn, bạn trẻ tranh thủ chọn chỗ đẹp theo dõi trận chung kết World Cup 2026 giữa Tây Ban Nha với Argentina. Cũng có không ít bạn trẻ chỉ đến để hòa mình vào bầu không khí bóng đá, cổ vũ cho đội tuyển mình yêu thích.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T22:08:00+07:00",
+      "fetched": "2026-07-20T05:48:12.626460+07:00"
+    },
+    {
+      "id": "173f61fd25382588748f71f2ad2f5e45",
+      "title": "Chiến sự trên không leo thang ở Ukraine",
+      "link": "https://thanhnien.vn/chien-su-tren-khong-leo-thang-o-ukraine-185260719195737886.htm",
+      "summary": "Hôm qua 19.7, quyền Ngoại trưởng Ukraine Andrii Sybiha cập nhật trên X rằng lãnh thổ nước này vừa hứng chịu đợt tấn công rầm rộ nhất bằng tên lửa đạn đạo trong vòng 1 đêm kể từ khi bắt đầu chiến sự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T22:05:00+07:00",
+      "fetched": "2026-07-20T05:48:12.626608+07:00"
+    },
+    {
+      "id": "d2dd61cc5f8eba052d5f6b7c2be3ecc5",
+      "title": "Phút sinh tử giữa lũ quét Mường Than",
+      "link": "https://vnexpress.net/phut-sinh-tu-giua-lu-quet-muong-than-5099247.html",
+      "summary": "Vừa bắc thang trèo lên nóc nhà, gia đình anh Vàng Văn Đăm may mắn thoát nạn khi chỉ 50 giây sau, lũ quét tràn qua bản ở Mường Than, cuốn phăng những căn nhà bên cạnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T22:00:00+07:00",
+      "fetched": "2026-07-20T05:48:07.334674+07:00"
+    },
+    {
+      "id": "e27b3f728f36988a8636c4ffde3fbd71",
+      "title": "6 cách đặt router cho sóng wifi mạnh nhất",
+      "link": "https://vnexpress.net/6-cach-dat-router-cho-song-wifi-manh-nhat-5097774.html",
+      "summary": "Sóng wifi mạnh nhất theo phương ngang và tỏa đều xung quanh nên vị trí đặt router, hướng dựng ăng-ten ảnh hưởng nhiều nhất tới độ phủ sóng trong nhà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T22:00:00+07:00",
+      "fetched": "2026-07-20T05:48:07.334912+07:00"
+    },
+    {
+      "id": "1c76be7a6a0534db14f1f7fe3fd2df1f",
+      "title": "Hơn 1.000 góp ý của người dân TP HCM chấn chỉnh chấn lượng ngành y",
+      "link": "https://vnexpress.net/hon-1-000-gop-y-cua-nguoi-dan-tp-hcm-chan-chinh-chan-luong-nganh-y-5097148.html",
+      "summary": "Năm đầu vận hành hệ thống tiếp nhận phản ánh trực tuyến trong lĩnh vực y tế, Sở Y tế TP HCM ghi nhận hơn 1.000 góp ý của người dân, chủ yếu về thủ tục khám chữa bệnh và thái độ phục vụ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T22:00:00+07:00",
+      "fetched": "2026-07-20T05:48:07.335101+07:00"
+    },
+    {
+      "id": "5e477c728dbb569174f80f87d31f8286",
+      "title": "Tài xế không thể nói chuyện điện thoại vì bị camera AI giám sát",
+      "link": "https://vnexpress.net/tai-xe-khong-the-noi-chuyen-dien-thoai-vi-bi-camera-ai-giam-sat-5099105.html",
+      "summary": "Nữ nhân viên y tế không thể nhận hay thực hiện cuộc gọi vì phải bảo mật thông tin của người bệnh trước sự theo dõi của camera AI.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T22:00:00+07:00",
+      "fetched": "2026-07-20T05:48:07.335272+07:00"
+    },
+    {
+      "id": "e27b3f728f36988a8636c4ffde3fbd71",
+      "title": "6 cách đặt router cho sóng wifi mạnh nhất",
+      "link": "https://vnexpress.net/6-cach-dat-router-cho-song-wifi-manh-nhat-5097774.html",
+      "summary": "Sóng wifi mạnh nhất theo phương ngang và tỏa đều xung quanh nên vị trí đặt router, hướng dựng ăng-ten ảnh hưởng nhiều nhất tới độ phủ sóng trong nhà.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-19T22:00:00+07:00",
+      "fetched": "2026-07-20T05:48:20.738747+07:00"
     },
     {
       "id": "b714a059895d00363436c8d53d3b0d05",
@@ -461,6 +671,26 @@ window.newsData_2026_07_20 = {
       "category": "Thể thao",
       "published": "2026-07-19T17:00:00+07:00",
       "fetched": "2026-07-20T02:01:24.061367+07:00"
+    },
+    {
+      "id": "770eb454bff7dbf01dac690c4b808ff4",
+      "title": "Giá vàng tuần này dự báo khó tăng",
+      "link": "https://vnexpress.net/gia-vang-tuan-nay-du-bao-kho-tang-5099227.html",
+      "summary": "Phần lớn chuyên gia Phố Wall dự báo giá vàng giảm, trong khi quan điểm của nhà đầu tư cá nhân chia rẽ do kim loại quý liên tục lên xuống quanh mốc 4.000 USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T17:00:00+07:00",
+      "fetched": "2026-07-20T05:48:07.336963+07:00"
+    },
+    {
+      "id": "770eb454bff7dbf01dac690c4b808ff4",
+      "title": "Giá vàng tuần này dự báo khó tăng",
+      "link": "https://vnexpress.net/gia-vang-tuan-nay-du-bao-kho-tang-5099227.html",
+      "summary": "Phần lớn chuyên gia Phố Wall dự báo giá vàng giảm, trong khi quan điểm của nhà đầu tư cá nhân chia rẽ do kim loại quý liên tục lên xuống quanh mốc 4.000 USD.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-19T17:00:00+07:00",
+      "fetched": "2026-07-20T05:48:18.804759+07:00"
     },
     {
       "id": "715fcdef479cbd84ace280c27985d248",
