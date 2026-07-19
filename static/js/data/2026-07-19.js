@@ -1,7 +1,157 @@
 window.newsData_2026_07_19 = {
   "date": "2026-07-19",
-  "lastUpdated": "2026-07-19T09:24:51.390707+07:00",
+  "lastUpdated": "2026-07-19T13:27:28.546514+07:00",
   "articles": [
+    {
+      "id": "353bb58cf40a6998aaa22838abe6e1bb",
+      "title": "Mỹ tập kích đảo lớn nhất của Iran ở eo biển Hormuz để trả đũa vụ 2 binh sĩ thiệt mạng",
+      "link": "https://tuoitre.vn/my-tap-kich-dao-lon-nhat-cua-iran-o-eo-bien-hormuz-de-tra-dua-vu-2-binh-si-thiet-mang-100260719110327488.htm",
+      "summary": "Đảo Qeshm và cảng chiến lược nằm đối diện trên đất liền Iran trở thành mục tiêu tập kích liên tục của Mỹ ngày 19-7.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T13:27:19.924843+07:00",
+      "fetched": "2026-07-19T13:27:19.924952+07:00"
+    },
+    {
+      "id": "3deaa3abd80399c2b53d7eaa30ff4494",
+      "title": "'Chiến dịch 500 ngày đêm' đón liệt sĩ trở về: Đã tìm kiếm, quy tập 1.421 hài cốt",
+      "link": "https://tuoitre.vn/chien-dich-500-ngay-dem-don-liet-si-tro-ve-da-tim-kiem-quy-tap-1421-hai-cot-100260719110936268.htm",
+      "summary": "Tính đến ngày 18-7, lực lượng thực hiện Chiến dịch 500 ngày đêm đã tìm kiếm, quy tập 1.421 hài cốt liệt sĩ, lấy mẫu 63.424 mộ liệt sĩ, đồng thời đẩy mạnh giám định ADN và rà phá bom mìn, vật nổ trên diện rộng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T13:27:19.924697+07:00",
+      "fetched": "2026-07-19T13:27:19.924823+07:00"
+    },
+    {
+      "id": "2e8918b62217508d323bf1a703c483a5",
+      "title": "Doanh nghiệp Mỹ hiến kế giúp TP.HCM xây hệ sinh thái AI, bán dẫn",
+      "link": "https://tuoitre.vn/doanh-nghiep-my-hien-ke-giup-tphcm-xay-he-sinh-thai-ai-ban-dan-100260719110038533.htm",
+      "summary": "Gần 20 tập đoàn công nghệ lớn của Mỹ như Intel, NVIDIA, Qualcomm, Marvell và Axon đã tham dự chương trình bàn tròn với lãnh đạo TP.HCM tại San Francisco (Mỹ).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T13:27:19.924572+07:00",
+      "fetched": "2026-07-19T13:27:19.924679+07:00"
+    },
+    {
+      "id": "e995b758c020339cf1645e87ed1c07c5",
+      "title": "Bún gỏi dà Sóc Trăng: Có gì mà ngon thế?",
+      "link": "https://tuoitre.vn/bun-goi-da-soc-trang-co-gi-ma-ngon-the-100260719105526586.htm",
+      "summary": "Bún gỏi dà ở Sóc Trăng thường chỉ bán buổi sáng, được chế biến thanh đạm, giá dao động từ 30.000 đến 45.000 đồng/tô nên rất thích hợp cho những người \"sợ\" dầu mỡ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T13:27:19.924255+07:00",
+      "fetched": "2026-07-19T13:27:19.924547+07:00"
+    },
+    {
+      "id": "0e59213be4f0ecf0c24700875e77ebf6",
+      "title": "Toàn cảnh hiện trường lũ quét, sạt lở kinh hoàng ở Mường Than, Lai Châu",
+      "link": "https://tuoitre.vn/toan-canh-hien-truong-lu-quet-sat-lo-kinh-hoang-o-muong-than-lai-chau-100260719102358177.htm",
+      "summary": "Mưa lớn xé toạc nhiều sườn núi, gây ra lũ ống, lũ quét ở xã Mường Than (tỉnh Lai Châu), khiến 4 người chết, 4 người mất tích.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T13:27:19.924189+07:00",
+      "fetched": "2026-07-19T13:27:19.924245+07:00"
+    },
+    {
+      "id": "5cc05d5081e8aaa8cdbdb7b18b625898",
+      "title": "Canada đáp trả việc ông Trump dọa tăng thuế vì để khói cháy rừng tràn sang Mỹ",
+      "link": "https://tuoitre.vn/canada-dap-tra-viec-ong-trump-doa-tang-thue-vi-de-khoi-chay-rung-tran-sang-my-100260719113404918.htm",
+      "summary": "Thủ hiến bang Ontario chỉ trích việc ông Trump đòi cộng chi phí xử lý khói cháy rừng vào mức thuế của Canada.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T13:27:19.924123+07:00",
+      "fetched": "2026-07-19T13:27:19.924179+07:00"
+    },
+    {
+      "id": "704417c5590b0c24b308e14ed20ae9ef",
+      "title": "Quy định mã bệnh I21 được hưởng trợ cấp, cụ thể hơn vẫn còn chờ trả lời",
+      "link": "https://tuoitre.vn/quy-dinh-ma-benh-i21-duoc-huong-tro-cap-cu-the-hon-van-con-cho-tra-loi-1002607191110591.htm",
+      "summary": "Theo phụ lục Nghị quyết số 41 của HĐND TP Đà Nẵng, mã bệnh ICD-10: I21 (Nhồi máu cơ tim) được hưởng trợ cấp. Tuy nhiên trường hợp chẩn đoán cụ thể hơn ICD-10: I21.4 (Nhồi máu cơ tim dưới nội tâm mạc cấp) thì vẫn chờ cơ quan chức năng trả lời.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T13:27:19.924055+07:00",
+      "fetched": "2026-07-19T13:27:19.924112+07:00"
+    },
+    {
+      "id": "35d4bf77a90dbd3727460dfa3ee54c18",
+      "title": "Khán giả 'năn nỉ' Jisoo BlackPink ngừng đóng phim",
+      "link": "https://tuoitre.vn/khan-gia-nan-ni-jisoo-blackpink-ngung-dong-phim-100260719113940638.htm",
+      "summary": "Sau nhiều năm đóng phim, Jisoo (BlackPink) vẫn chưa thoát khỏi những tranh cãi về diễn xuất. Nhiều khán giả cho rằng cô không có năng khiếu ở lĩnh vực này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T13:27:19.923989+07:00",
+      "fetched": "2026-07-19T13:27:19.924045+07:00"
+    },
+    {
+      "id": "91a0ea18abe15c482725d07dabb6640e",
+      "title": "Ai là người giúp tuyển Argentina 'lùn lùn mà đánh đầu cực giỏi'?",
+      "link": "https://tuoitre.vn/ai-la-nguoi-giup-tuyen-argentina-lun-lun-ma-danh-dau-cuc-gioi-100260717210841704.htm",
+      "summary": "Bạn có biết đội bóng nào ghi nhiều bàn thắng nhất từ bóng bổng tại World Cup 2026? Câu trả lời có thể hơi phi lý, nhưng đó chính là Argentina, tính đến hết vòng bán kết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T13:27:19.923920+07:00",
+      "fetched": "2026-07-19T13:27:19.923979+07:00"
+    },
+    {
+      "id": "a293332c4df7cfe5d90f7a299e4be822",
+      "title": "Đội tuyển Việt Nam làm gì sau trận thắng Myanmar?",
+      "link": "https://tuoitre.vn/doi-tuyen-viet-nam-lam-gi-sau-tran-thang-myanmar-10026071911153877.htm",
+      "summary": "Sau trận giao hữu thắng Myanmar 4-0 tối 18-7, đội tuyển Việt Nam ở lại Thái Nguyên để chuẩn bị di chuyển sang Thái Lan đấu với Timor Leste tại ASEAN Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T13:27:19.923848+07:00",
+      "fetched": "2026-07-19T13:27:19.923910+07:00"
+    },
+    {
+      "id": "1604291d04fdbe1bf148fdf7b1d0aab2",
+      "title": "Bị bắt vì cướp tiệm vàng để trả nợ",
+      "link": "https://tuoitre.vn/bi-bat-vi-cuop-tiem-vang-de-tra-no-100260719114357836.htm",
+      "summary": "Ngày 19-7, thông tin từ Công an xã Mỹ Tú (TP Cần Thơ) cho biết đã tạm giữ đối tượng trong vụ cướp tài sản, xảy ra tại tiệm vàng Miên Vĩnh Phát (ấp Huỳnh Hữu Nghĩa, xã Mỹ Tú).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T13:27:19.923737+07:00",
+      "fetched": "2026-07-19T13:27:19.923835+07:00"
+    },
+    {
+      "id": "8f9a0b50f54653c86ca37c9cb73824f7",
+      "title": "Phương pháp học tiếng Anh cho trẻ Tiểu học và THCS trong thời đại AI",
+      "link": "https://tuoitre.vn/phuong-phap-hoc-tieng-anh-cho-tre-tieu-hoc-va-thcs-trong-thoi-dai-ai-100260719103042059.htm",
+      "summary": "AI đang mở ra cơ hội mới cho việc học tiếng Anh, nhưng cũng đặt ra nhiều thách thức về tư duy và phương pháp học. Làm sao để trẻ tận dụng công nghệ hiệu quả mà không phụ thuộc vào AI?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T13:27:19.923664+07:00",
+      "fetched": "2026-07-19T13:27:19.923726+07:00"
+    },
+    {
+      "id": "86ecd99c285968842d663e154dc3ce32",
+      "title": "Đến ngày hội thanh niên công nhân, vừa nhận quà vừa thưởng thức phở miễn phí",
+      "link": "https://tuoitre.vn/den-ngay-hoi-thanh-nien-cong-nhan-vua-nhan-qua-vua-thuong-thuc-pho-mien-phi-100260719113518749.htm",
+      "summary": "Sáng 19-7, ngày hội thanh niên công nhân tại TP.HCM đã thu hút khoảng 1.000 người lao động đến tham gia các hoạt động và thưởng thức phở miễn phí.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T13:27:19.923590+07:00",
+      "fetched": "2026-07-19T13:27:19.923652+07:00"
+    },
+    {
+      "id": "b80c787bf8b98f6894e61cf7b3194b45",
+      "title": "Siêu dự án gần 4 tỉ USD làm khu đô thị mới Bình Quới - Thanh Đa sẽ xây dựng những gì?",
+      "link": "https://tuoitre.vn/sieu-du-an-gan-4-ti-usd-lam-khu-do-thi-moi-binh-quoi-thanh-da-se-xay-dung-nhung-gi-100260719120254169.htm",
+      "summary": "Sau hơn 3 thập kỷ quy hoạch, bán đảo Thanh Đa đang đứng trước vận hội thay đổi diện mạo hoàn toàn với dự án khu đô thị mới Bình Quới - Thanh Đa (phường Bình Quới, TP.HCM) có tổng vốn đầu tư lên đến gần 100.000 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T13:27:19.923509+07:00",
+      "fetched": "2026-07-19T13:27:19.923578+07:00"
+    },
+    {
+      "id": "53aa86f20e8ff247b0edfd1cdb11ac5b",
+      "title": "‘Thuyền trưởng’ OUCRU tại TP.HCM: Luôn có thao trường tập luyện ngay cả khi không dịch bệnh",
+      "link": "https://tuoitre.vn/thuyen-truong-oucru-tai-tphcm-luon-co-thao-truong-tap-luyen-ngay-ca-khi-khong-dich-benh-100260718231306391.htm",
+      "summary": "Tại Đơn vị Nghiên cứu Lâm sàng Đại học Oxford tại TP.HCM (OUCRU), nhiều nghiên cứu được kiên trì theo đuổi hàng chục năm, âm thầm tạo nền tảng để có thể ứng phó linh hoạt, hiệu quả khi dịch bệnh bất ngờ bùng phát.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T13:27:19.923356+07:00",
+      "fetched": "2026-07-19T13:27:19.923495+07:00"
+    },
     {
       "id": "110538af23b66361480d33613784b571",
       "title": "Cá de nấu với măng le",
@@ -153,6 +303,106 @@ window.newsData_2026_07_19 = {
       "fetched": "2026-07-19T09:24:44.376450+07:00"
     },
     {
+      "id": "524b24a947cee3ff590ccefd86e67709",
+      "title": "Iniesta: 'Không thể vô địch World Cup nhờ một người'",
+      "link": "https://vnexpress.net/iniesta-khong-the-vo-dich-world-cup-nho-mot-nguoi-5099147.html",
+      "summary": "Cựu tiền vệ Tây Ban Nha Andres Iniesta cho rằng sức mạnh tập thể mới là yếu tố quyết định thành bại ở trận chung kết World Cup gặp Argentina.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-19T06:22:46+07:00",
+      "fetched": "2026-07-19T13:27:28.539194+07:00"
+    },
+    {
+      "id": "1df84b496be2c474163e93cd36baaee7",
+      "title": "'Lời nguyền Anh' chờ Argentina ở chung kết World Cup",
+      "link": "https://vnexpress.net/loi-nguyen-anh-cho-argentina-o-chung-ket-world-cup-5099079.html",
+      "summary": "Argentina có cơ hội giành ngôi sao thứ tư, nhưng phải vượt qua \"lời nguyền Anh\" đã xuất hiện ở hai kỳ World Cup gần nhất trước trận chung kết với Tây Ban Nha.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-19T06:16:49+07:00",
+      "fetched": "2026-07-19T13:27:28.539368+07:00"
+    },
+    {
+      "id": "8384a48ac5aff220f2b7ee93972db355",
+      "title": "Messi từng mơ đá chung kết World Cup với Tây Ban Nha",
+      "link": "https://vnexpress.net/messi-tung-mo-da-chung-ket-world-cup-voi-tay-ban-nha-5099146.html",
+      "summary": "Hơn 20 năm sau khi bày tỏ mong muốn được đá chung kết World Cup với Tây Ban Nha, Lionel Messi cuối cùng cũng được toại nguyện ở giải đấu năm 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-19T06:10:56+07:00",
+      "fetched": "2026-07-19T13:27:28.539533+07:00"
+    },
+    {
+      "id": "ca5b04318ffee6b1ee2429b30ed9491c",
+      "title": "Chuyện thầm kín: Vì sao chồng vẫn yêu vợ nhưng không còn ham muốn?",
+      "link": "https://thanhnien.vn/chuyen-tham-kin-vi-sao-chong-van-yeu-vo-nhung-khong-con-ham-muon-185260719131004172.htm",
+      "summary": "22 giờ, anh H. (40 tuổi, ở TP.HCM) lặng lẽ ôm gối ra phòng khách xem tivi muộn. Ở trong phòng, vợ anh thở dài quay mặt vào tường. Đây đã là tháng thứ 6 liên tiếp anh H. tìm mọi lý do né tránh việc thân mật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T06:09:00+07:00",
+      "fetched": "2026-07-19T13:27:17.915159+07:00"
+    },
+    {
+      "id": "3e8aa40ea9b534a9c51484c082f74185",
+      "title": "Dibu Martinez nén đau dự chung kết World Cup",
+      "link": "https://vnexpress.net/dibu-martinez-nen-dau-du-chung-ket-world-cup-5099152.html",
+      "summary": "Thủ môn Emiliano Dibu Martinez tiết lộ bản thân từ chối phẫu thuật để kịp cùng Argentina bảo vệ chức vô địch thế giới tại World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-19T06:04:56+07:00",
+      "fetched": "2026-07-19T13:27:28.539692+07:00"
+    },
+    {
+      "id": "8f50a9cbb62a7c10e629d6543cecbad7",
+      "title": "Ấm tình người giữa phiên chợ nhân đạo",
+      "link": "https://thanhnien.vn/am-tinh-nguoi-giua-phien-cho-nhan-dao-185260710150339553.htm",
+      "summary": "Nhiều năm qua, Hội Chữ thập đỏ phường Sa Đéc, tỉnh Đồng Tháp duy trì Phiên chợ nhân đạo, hỗ trợ những hoàn cảnh khó khăn, góp phần sẻ chia gánh nặng cuộc sống, lan tỏa tinh thần tương thân tương ái và gắn kết cộng đồng địa phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T06:00:00+07:00",
+      "fetched": "2026-07-19T13:27:17.915330+07:00"
+    },
+    {
+      "id": "0f09c65f9bb0094c2b3e75da4a03a6c1",
+      "title": "10 trận chung kết hấp dẫn nhất lịch sử World Cup",
+      "link": "https://vnexpress.net/10-tran-chung-ket-hap-dan-nhat-lich-su-world-cup-5098923.html",
+      "summary": "Trận chung kết World Cup 2022 được báo Anh BBC xếp thứ hai. Liệu năm nay, cuộc đại chiến giữa Argentina và Tây Ban Nha có thể chen vào danh sách này?",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-19T06:00:00+07:00",
+      "fetched": "2026-07-19T13:27:28.539875+07:00"
+    },
+    {
+      "id": "00a2dbd1865953348308c9b33e9bc764",
+      "title": "Ngừng ứng dụng đặt lịch đăng kiểm có ảnh hưởng đến các chủ xe?",
+      "link": "https://thanhnien.vn/ngung-ung-dung-dat-lich-dang-kiem-co-anh-huong-den-cac-chu-xe-185260719123448374.htm",
+      "summary": "Việc ứng dụng TTDK dừng tiếp nhận đăng ký đặt lịch kiểm định xe cơ giới đã thu hút sự quan tâm nhiều. người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T05:55:00+07:00",
+      "fetched": "2026-07-19T13:27:17.915490+07:00"
+    },
+    {
+      "id": "bad95e3860e201916655ee249fc8ec4c",
+      "title": "Tin vui cho người dân khi chuyển nhượng nhà, đất",
+      "link": "https://thanhnien.vn/tin-vui-cho-nguoi-dan-khi-chuyen-nhuong-nha-dat-185260719123131076.htm",
+      "summary": "Nghị quyết số 66.22/2026 về phát triển công dân số vừa được Chính phủ ban hành quy định giao dịch nhà, đất của người dân khi tích hợp đầy đủ giấy tờ trên VNeID giảm 10% mức thu lệ phí trước bạ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T05:48:00+07:00",
+      "fetched": "2026-07-19T13:27:17.915647+07:00"
+    },
+    {
+      "id": "c4edc9c13ec734b78999098df0818b03",
+      "title": "Thêm 3 tiệm kim cương tại TP.HCM thông báo tạm ngừng hoạt động",
+      "link": "https://thanhnien.vn/them-3-tiem-kim-cuong-tai-tphcm-thong-bao-tam-ngung-hoat-dong-185260719115550343.htm",
+      "summary": "Trong sáng 19.7, 3 tiệm kim cương tại TP.HCM, trong đó có 2 tiệm tại khu vực chợ Bến Thành đã phát đi thông báo tạm ngừng hoạt động trước những biến động mạnh của thị trường hiện nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T05:48:00+07:00",
+      "fetched": "2026-07-19T13:27:17.915827+07:00"
+    },
+    {
       "id": "409ab726736ca1ae530469dc22f4daa3",
       "title": "Tỏa sáng ở World Cup 2026, Morgan Rogers được Chelsea nhanh tay 'chốt đơn' với giá kỷ lục",
       "link": "https://tuoitre.vn/toa-sang-o-world-cup-2026-morgan-rogers-duoc-chelsea-nhanh-tay-chot-don-voi-gia-ky-luc-100260719020908597.htm",
@@ -191,6 +441,376 @@ window.newsData_2026_07_19 = {
       "category": "Tổng hợp",
       "published": "2026-07-19T05:44:43.190639+07:00",
       "fetched": "2026-07-19T05:44:43.190796+07:00"
+    },
+    {
+      "id": "abc6ed72134e19d782124345268c8807",
+      "title": "Bùn đất phủ kín thung lũng Mường Than",
+      "link": "https://vnexpress.net/bun-dat-phu-kin-thung-lung-muong-than-5099144.html",
+      "summary": "Ba ngày sau trận lũ quét, thung lũng Mường Than rộng vài km2 vẫn tràn ngập bùn đất, quốc lộ 32 bị xé toạc, nhà dân sập đổ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T05:27:41+07:00",
+      "fetched": "2026-07-19T13:27:13.895736+07:00"
+    },
+    {
+      "id": "6bf656e167148e1a20bea729abd34a02",
+      "title": "Thợ may tưởng đau chân vì ngồi nhiều, bác sĩ phát hiện hội chứng nguy hiểm",
+      "link": "https://thanhnien.vn/tho-may-tuong-dau-chan-vi-ngoi-nhieu-bac-si-phat-hien-hoi-chung-nguy-hiem-185260716154428788.htm",
+      "summary": "Một người phụ nữ 39 tuổi làm nghề may hơn 10 năm, thường xuyên phải ngồi nhiều giờ mỗi ngày và có tiền sử sử dụng thuốc tránh thai kéo dài, nhập viện vì sưng đau chân trái.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T05:14:00+07:00",
+      "fetched": "2026-07-19T13:27:17.915989+07:00"
+    },
+    {
+      "id": "b72d2fb54d7c598d2fa1e18a89e29c51",
+      "title": "Cò ốc có tên trong Sách đỏ xuất hiện dày đặc trên đồng lúa Đồng Tháp",
+      "link": "https://thanhnien.vn/co-oc-co-ten-trong-sach-do-xuat-hien-day-dac-tren-dong-lua-dong-thap-185260719105417863.htm",
+      "summary": "Những đàn cò ốc xuất hiện dày đặc trên các cánh đồng lúa ở tỉnh Đồng Tháp, tạo nên khung cảnh thiên nhiên vô cùng ấn tượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T05:09:00+07:00",
+      "fetched": "2026-07-19T13:27:17.916143+07:00"
+    },
+    {
+      "id": "a683ed0c05e19c997e5be0d22826b2c0",
+      "title": "Vì sao ngày càng khó tìm mua TV có chân đế trung tâm?",
+      "link": "https://thanhnien.vn/vi-sao-ngay-cang-kho-tim-mua-tv-co-chan-de-trung-tam-185260714134905597.htm",
+      "summary": "Chân đế trung tâm đang dần biến mất trên nhiều TV khi các hãng chuyển sang ưu tiên một số tính năng hiện đại hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T05:08:00+07:00",
+      "fetched": "2026-07-19T13:27:17.916293+07:00"
+    },
+    {
+      "id": "702594d27211b637210d540021068135",
+      "title": "Thêm hai người tử vong sau vụ ngạt khí ở trại chăn nuôi",
+      "link": "https://vnexpress.net/them-hai-nguoi-tu-vong-sau-vu-ngat-khi-o-trai-chan-nuoi-5099148.html",
+      "summary": "Hai nạn nhân tử vong sau thời gian cấp cứu, nâng số nạn nhân chết trong vụ tai nạn lao động tại trang trại nuôi lợn Dabaco lên 5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T05:07:36+07:00",
+      "fetched": "2026-07-19T13:27:13.895942+07:00"
+    },
+    {
+      "id": "26b66cf8755b074e088205a45b372e0d",
+      "title": "Tin World Cup 12h: Mbappe muốn vào chung kết hơn lập kỷ lục",
+      "link": "https://vnexpress.net/tin-world-cup-12h-mbappe-muon-vao-chung-ket-hon-lap-ky-luc-5099150.html",
+      "summary": "Siêu máy tính, AI tiếp tục dự đoán Tây Ban Nha vô địch World Cup 2026; Lời hứa của Yamal và Cucurella trước trận gặp Argentina;...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T05:06:09+07:00",
+      "fetched": "2026-07-19T13:27:13.896109+07:00"
+    },
+    {
+      "id": "bed84a2469cefb55ffb2551c711cd483",
+      "title": "Đại tiện mỗi ngày mới khỏe? Chuyên gia tiêu hóa bác bỏ hiểu lầm phổ biến",
+      "link": "https://thanhnien.vn/dai-tien-moi-ngay-moi-khoe-chuyen-gia-tieu-hoa-bac-bo-hieu-lam-pho-bien-185260719120542583.htm",
+      "summary": "Đại tiện mỗi ngày chưa chắc đã là dấu hiệu của đường ruột khỏe mạnh, và nhịn cơn đại tiện cũng không hề vô hại. Từ đó, chuyên gia chỉ ra những thói quen giúp bảo vệ sức khỏe đường ruột.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T05:05:00+07:00",
+      "fetched": "2026-07-19T13:27:17.916451+07:00"
+    },
+    {
+      "id": "747db31c1129ba063263d808ff596158",
+      "title": "CĐV Argentina đông áp đảo khán giả Tây Ban Nha, chung kết World Cup nóng hơn ‘lửa’",
+      "link": "https://thanhnien.vn/cdv-argentina-dong-ap-dao-khan-gia-tay-ban-nha-chung-ket-world-cup-nong-hon-lua-18526071911503195.htm",
+      "summary": "Theo Diario AS, CĐV Argentina đã đổ bộ đến New York (Mỹ) dự kiến sẽ có hơn 50.000 người có mặt tại sân MetLife, để ủng hộ đội nhà ở trận chung kết World Cup 2026 gặp Tây Ban Nha (lúc 2 giờ ngày 20.7).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T05:03:00+07:00",
+      "fetched": "2026-07-19T13:27:17.916614+07:00"
+    },
+    {
+      "id": "ab35dddc8587dcbb6c649dcadb681309",
+      "title": "Tây Ban Nha vs Argentina: 3 cuộc đụng độ nảy lửa định đoạt chung kết World Cup",
+      "link": "https://thanhnien.vn/tay-ban-nha-vs-argentina-3-cuoc-dung-do-nay-lua-dinh-doat-chung-ket-world-cup-185260719114816374.htm",
+      "summary": "Trước thềm trận tranh ngôi vương World Cup 2026 giữa Tây Ban Nha vs Argentina, FIFA đã điểm qua những cuộc đối đầu cá nhân có thể định đoạt cục diện trận đấu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T05:03:00+07:00",
+      "fetched": "2026-07-19T13:27:17.916783+07:00"
+    },
+    {
+      "id": "f8f4b6c4f0eacff4c3e01b207b2c5548",
+      "title": "Lionel Scaloni - người lát đường cho Messi và Argentina",
+      "link": "https://vnexpress.net/lionel-scaloni-nguoi-lat-duong-cho-messi-va-argentina-5098971.html",
+      "summary": "Nhạt nhòa thời còn thi đấu và bị nghi ngờ về năng lực cầm quân, nhưng HLV Lionel Scaloni, bằng triết lý xây dựng tập thể trên tình cảm, đã giúp đàn em Lionel Messi và đội tuyển Argentina thăng hoa suốt 8 năm qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T05:00:00+07:00",
+      "fetched": "2026-07-19T13:27:13.896274+07:00"
+    },
+    {
+      "id": "faae0d8743d42dc9e728feea3792a0df",
+      "title": "Quốc gia nào có hơn 7.600 đảo, nhiều thứ hai Đông Nam Á?",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-quoc-gia-nao-co-hon-7-600-dao-nhieu-thu-hai-dong-nam-a-5097636.html",
+      "summary": "Nước này có 7.641 đảo, là quốc gia có số lượng đảo nhiều thứ hai tại Đông Nam Á, xếp sau Indonesia (hơn 17.000 đảo).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T05:00:00+07:00",
+      "fetched": "2026-07-19T13:27:13.896444+07:00"
+    },
+    {
+      "id": "a4df5ba4545b8add22b7d559388b4cf5",
+      "title": "Những kiểu ăn uống dễ làm tăng axit uric",
+      "link": "https://vnexpress.net/nhung-kieu-an-uong-de-lam-tang-axit-uric-5096064.html",
+      "summary": "Ăn nhiều thịt đỏ, hải sản, nội tạng, uống bia rượu, nước ngọt có đường đều có thể làm tăng nguy cơ tích tụ axit uric.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T05:00:00+07:00",
+      "fetched": "2026-07-19T13:27:13.896608+07:00"
+    },
+    {
+      "id": "046be73182376964a6241a1dc57a8d71",
+      "title": "Nên mua điều hòa Xiaomi hay hàng 'Nhật bãi'?",
+      "link": "https://vnexpress.net/nen-mua-dieu-hoa-xiaomi-hay-hang-nhat-bai-5099062.html",
+      "summary": "Tôi thích điều hòa Xiaomi vì thấy có nhiều công nghệ nhưng bạn bè nói dùng có thể nhanh hỏng, không bền bằng các loại Nhật bãi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T05:00:00+07:00",
+      "fetched": "2026-07-19T13:27:13.896787+07:00"
+    },
+    {
+      "id": "2ed3ab8b1d3d44036ca06701c66ac52f",
+      "title": "Nhiều gia đình có kỷ niệm đẹp tại Kun Marathon Đà Nẵng 2026",
+      "link": "https://vnexpress.net/nhieu-gia-dinh-co-ky-niem-dep-tai-kun-marathon-da-nang-2026-5099135.html",
+      "summary": "Nhiều gia đình chia sẻ những khoảnh khắc cùng khóc, cùng cười khi cùng nhau tham gia giải chạy cho trẻ em 6-10 tuổi vào sáng 18/7 tại Đà Nẵng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T05:00:00+07:00",
+      "fetched": "2026-07-19T13:27:13.896951+07:00"
+    },
+    {
+      "id": "fcb7cece3e4cf0c9ff5ad459d994ec2c",
+      "title": "Mẹo cai thuốc lá",
+      "link": "https://vnexpress.net/meo-cai-thuoc-la-5098978.html",
+      "summary": "Kiểm soát cơn thèm nicotine bằng cách nhai kẹo cao su, uống nước, kiểm soát căng thẳng có thể giúp cai thuốc lá.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T05:00:00+07:00",
+      "fetched": "2026-07-19T13:27:13.897109+07:00"
+    },
+    {
+      "id": "be50bf6fd5432ea3352fbd69d65b8db1",
+      "title": "Sun Group đưa hệ thống Edison Schools vào khu đô thị Sun Riverpolis",
+      "link": "https://vnexpress.net/sun-group-dua-he-thong-edison-schools-vao-khu-do-thi-sun-riverpolis-5098929.html",
+      "summary": "Sun Group đưa hệ thống trường liên cấp Edison Schools vào khu đô thị Sun Riverpolis thông qua hợp tác Innochain Group, dự kiến khai giảng năm học đầu tiên vào năm 2028.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T05:00:00+07:00",
+      "fetched": "2026-07-19T13:27:13.897287+07:00"
+    },
+    {
+      "id": "9485e7e697bc308d1a355d4b90f01893",
+      "title": "Giày thể thao, bạn đồng hành cùng nàng xuống phố ngày hè",
+      "link": "https://thanhnien.vn/thoi-trang-tre/giay-the-thao-ban-dong-hanh-cung-nang-xuong-pho-ngay-he-18526071820543675.htm",
+      "summary": "Mùa hè 2026 chứng kiến sự trở lại mạnh mẽ của tinh thần sporty chic, phong cách kết hợp giữa vẻ năng động của thời trang thể thao và sự tinh tế của trang phục thường nhật. Thay vì chỉ đóng vai trò là một món phụ kiện, giày thể thao trở thành điểm khởi đầu để xây dựng cả một bản phối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T05:00:00+07:00",
+      "fetched": "2026-07-19T13:27:17.916943+07:00"
+    },
+    {
+      "id": "046be73182376964a6241a1dc57a8d71",
+      "title": "Nên mua điều hòa Xiaomi hay hàng 'Nhật bãi'?",
+      "link": "https://vnexpress.net/nen-mua-dieu-hoa-xiaomi-hay-hang-nhat-bai-5099062.html",
+      "summary": "Tôi thích điều hòa Xiaomi vì thấy có nhiều công nghệ nhưng bạn bè nói dùng có thể nhanh hỏng, không bền bằng các loại Nhật bãi.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-19T05:00:00+07:00",
+      "fetched": "2026-07-19T13:27:26.296344+07:00"
+    },
+    {
+      "id": "f8f4b6c4f0eacff4c3e01b207b2c5548",
+      "title": "Lionel Scaloni - người lát đường cho Messi và Argentina",
+      "link": "https://vnexpress.net/lionel-scaloni-nguoi-lat-duong-cho-messi-va-argentina-5098971.html",
+      "summary": "Nhạt nhòa thời còn thi đấu và bị nghi ngờ về năng lực cầm quân, nhưng HLV Lionel Scaloni, bằng triết lý xây dựng tập thể trên tình cảm, đã giúp đàn em Lionel Messi và đội tuyển Argentina thăng hoa suốt 8 năm qua.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-19T05:00:00+07:00",
+      "fetched": "2026-07-19T13:27:28.540039+07:00"
+    },
+    {
+      "id": "6d619647b79d453937bcf2d9e77e23de",
+      "title": "Chuyển động 12h: Mường Than tan hoang sau trận lũ quét | Cảnh báo lừa đảo bằng thông báo phạt nguội",
+      "link": "https://thanhnien.vn/chuyen-dong-12h-muong-than-tan-hoang-sau-tran-lu-quet-canh-bao-lua-dao-bang-thong-bao-phat-nguoi-185260719113621247.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin Chuyển động 12h ngày 19.7.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T04:58:00+07:00",
+      "fetched": "2026-07-19T13:27:17.917107+07:00"
+    },
+    {
+      "id": "243aa800dd28c682e8afa2d487d36302",
+      "title": "Sai phạm dự án Khu trung tâm thương mại Bạc Liêu: Thu hồi đất trước quyết định giao đất",
+      "link": "https://thanhnien.vn/sai-pham-du-an-khu-trung-tam-thuong-mai-bac-lieu-thu-hoi-dat-truoc-quyet-dinh-giao-dat-185260719102435174.htm",
+      "summary": "Sau hơn 30 năm khởi công, dự án Khu trung tâm thương mại Bạc Liêu vẫn chưa được xử lý dứt điểm. Theo kết luận thanh tra, dự án phát sinh nhiều tồn tại về đất đai, đầu tư, đấu thầu ngay từ giai đoạn chuẩn bị đầu tư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T04:53:00+07:00",
+      "fetched": "2026-07-19T13:27:17.917262+07:00"
+    },
+    {
+      "id": "742a4f677fd6ab296038e959874fa122",
+      "title": "Chỉ còn tin nhắn Zalo, có đòi được tiền đã cho vay?",
+      "link": "https://vnexpress.net/chi-con-tin-nhan-zalo-co-doi-duoc-tien-da-cho-vay-5098051.html",
+      "summary": "Tin tưởng bạn nên khi cho vay tiền không lập giấy vay nợ, tôi chỉ còn tin nhắn Zalo và sao kê chuyển khoản thì có được tòa xem là chứng cứ không?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T04:52:40+07:00",
+      "fetched": "2026-07-19T13:27:13.897451+07:00"
+    },
+    {
+      "id": "6174658d2858a88ddc4b2e9109f0c64d",
+      "title": "'Kỳ nghỉ hồng' cán bộ trẻ chung tay hỗ trợ vùng biên",
+      "link": "https://thanhnien.vn/ky-nghi-hong-can-bo-tre-chung-tay-ho-tro-vung-bien-185260719111506764.htm",
+      "summary": "Trong Chiến dịch 'Kỳ nghỉ hồng' năm 2026, các bạn trẻ thuộc Đoàn Thanh niên Mặt trận Tổ quốc các Đoàn thể Trung ương đã tham gia thực hiện nhiều công trình, phần việc nhằm hỗ trợ sinh kế và phát triển kinh tế vùng biên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T04:50:00+07:00",
+      "fetched": "2026-07-19T13:27:17.917418+07:00"
+    },
+    {
+      "id": "68e68bc20b67e6110829dc75b6056cba",
+      "title": "Cách FIFA tận thu từng USD cuối ở World Cup",
+      "link": "https://vnexpress.net/cach-fifa-tan-thu-tung-usd-cuoi-o-world-cup-5099007.html",
+      "summary": "Dù World Cup sắp hết, FIFA vẫn liên tục mở thêm các kênh kiếm tiền, từ bán vé dự họp báo, mở show diễn giữa trận đến bán mảnh cỏ sân chung kết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T04:43:00+07:00",
+      "fetched": "2026-07-19T13:27:13.897604+07:00"
+    },
+    {
+      "id": "68e68bc20b67e6110829dc75b6056cba",
+      "title": "Cách FIFA tận thu từng USD cuối ở World Cup",
+      "link": "https://vnexpress.net/cach-fifa-tan-thu-tung-usd-cuoi-o-world-cup-5099007.html",
+      "summary": "Dù World Cup sắp hết, FIFA vẫn liên tục mở thêm các kênh kiếm tiền, từ bán vé dự họp báo, mở show diễn giữa trận đến bán mảnh cỏ sân chung kết.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-19T04:43:00+07:00",
+      "fetched": "2026-07-19T13:27:23.324462+07:00"
+    },
+    {
+      "id": "5a3b43d3937a67f19f5ef8eac647c31d",
+      "title": "Tôi đành buông tay, để lại toàn bộ tài sản nếu vợ vẫn quyết ly hôn",
+      "link": "https://vnexpress.net/toi-danh-buong-tay-de-lai-toan-bo-tai-san-neu-vo-van-quyet-ly-hon-5099101.html",
+      "summary": "Chỉ đến khi đứng trước bờ vực mất đi em, tôi mới tỉnh ngộ và nhận ra mình yêu em nhiều đến thế nào và cũng đã sai ra sao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T04:30:00+07:00",
+      "fetched": "2026-07-19T13:27:13.897788+07:00"
+    },
+    {
+      "id": "ae8ac7907827f4884e2018f78fb55d97",
+      "title": "Ván cờ vĩ đại của Messi",
+      "link": "https://vnexpress.net/chung-ket-world-cup-argentina-tay-ban-nha-messi-va-van-co-chua-hoi-ket-5099124.html",
+      "summary": "Messi vẫn tiếp tục muốn vượt qua chính mình, hết lần này đến lần khác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T04:27:55+07:00",
+      "fetched": "2026-07-19T13:27:13.897977+07:00"
+    },
+    {
+      "id": "223d68b024de1aad85f137ad2632a334",
+      "title": "Cõng bạn liệt nửa người đi khắp thế giới",
+      "link": "https://vnexpress.net/cong-ban-liet-nua-nguoi-di-khap-the-gioi-5098815.html",
+      "summary": "Fletcher Crowley bị liệt nửa người do tai nạn vào ba năm trước, nhưng anh vẫn thực hiện được những chuyến phiêu lưu khắp thế giới nhờ người bạn thân Lachie Bennett.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-19T04:24:11+07:00",
+      "fetched": "2026-07-19T13:27:13.898139+07:00"
+    },
+    {
+      "id": "223d68b024de1aad85f137ad2632a334",
+      "title": "Cõng bạn liệt nửa người đi khắp thế giới",
+      "link": "https://vnexpress.net/cong-ban-liet-nua-nguoi-di-khap-the-gioi-5098815.html",
+      "summary": "Fletcher Crowley bị liệt nửa người do tai nạn vào ba năm trước, nhưng anh vẫn thực hiện được những chuyến phiêu lưu khắp thế giới nhờ người bạn thân Lachie Bennett.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-19T04:24:11+07:00",
+      "fetched": "2026-07-19T13:27:22.007807+07:00"
+    },
+    {
+      "id": "a787df9faa0ca3161bd1ab448fb83902",
+      "title": "Deschamps: 'Trận thua Tây Ban Nha vẫn ám ảnh Pháp'",
+      "link": "https://vnexpress.net/deschamps-tran-thua-tay-ban-nha-van-am-anh-phap-5099132.html",
+      "summary": "HLV Didier Deschamps thừa nhận các cầu thủ Pháp đã trải qua hiệp một thảm họa, khi thua Anh 4-6 trong trận tranh giải ba World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-19T04:13:08+07:00",
+      "fetched": "2026-07-19T13:27:28.540198+07:00"
+    },
+    {
+      "id": "b3e6604e3eced111f00ac146db2038e9",
+      "title": "Công nghệ giúp Trung Quốc đẩy nhanh sản xuất tên lửa tái sử dụng",
+      "link": "https://vnexpress.net/cong-nghe-giup-trung-quoc-day-nhanh-san-xuat-ten-lua-tai-su-dung-5098277.html",
+      "summary": "Trung Quốc đạt nhiều bước tiến lớn trong sản xuất bộ phận chủ chốt của tên lửa là vách ngăn bồn nhiên liệu, chỉ dày vài milimet nhưng chịu áp suất cực lớn và rất khó sản xuất hàng loạt.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-19T04:00:00+07:00",
+      "fetched": "2026-07-19T13:27:26.295845+07:00"
+    },
+    {
+      "id": "4d858e17645ef490e3d6374326cb31d4",
+      "title": "Cầu thủ không thi đấu có được nhận HC vàng nếu vô địch World Cup?",
+      "link": "https://vnexpress.net/cau-thu-khong-thi-dau-co-duoc-nhan-hc-vang-neu-vo-dich-world-cup-5099082.html",
+      "summary": "Tây Ban Nha có sáu cầu thủ chưa chơi phút nào tại World Cup 2026, còn Argentina có hai. Liệu họ có được trao huy chương sau trận chung kết?",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-19T04:00:00+07:00",
+      "fetched": "2026-07-19T13:27:28.540357+07:00"
+    },
+    {
+      "id": "7c6af2d59c3e2c4d87f5f5fff31b9112",
+      "title": "Messi từng ghi 62 bàn trước nửa đội hình Tây Ban Nha",
+      "link": "https://vnexpress.net/messi-tung-ghi-62-ban-truoc-nua-doi-hinh-tay-ban-nha-5099081.html",
+      "summary": "Trước chung kết World Cup 2026, thủ quân Argentina, Lionel Messi từng so tài với một nửa đội hình Tây Ban Nha, ghi 62 bàn trong 81 trận.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-19T04:00:00+07:00",
+      "fetched": "2026-07-19T13:27:28.540516+07:00"
+    },
+    {
+      "id": "e8a80a4f32bc27cb8b4188c2fcad780f",
+      "title": "17 tàu bay tại Việt Nam vẫn dừng hoạt động vì thiếu động cơ",
+      "link": "https://vnexpress.net/17-tau-bay-tai-viet-nam-van-dung-hoat-dong-vi-thieu-dong-co-5099121.html",
+      "summary": "Theo Cục Hàng không, 17 tàu bay Airbus A321 tại Việt Nam vẫn phải dừng hoạt động kéo dài vì thiếu động cơ Pratt & Whitney.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-19T03:30:09+07:00",
+      "fetched": "2026-07-19T13:27:23.324646+07:00"
+    },
+    {
+      "id": "264ea9cdefa320398008a4ecc80e9f64",
+      "title": "Thị trưởng New York nêu khả năng bắt Thủ tướng Israel",
+      "link": "https://vnexpress.net/thi-truong-new-york-neu-kha-nang-bat-thu-tuong-israel-5099104.html",
+      "summary": "Thị trưởng Mamdani cho biết ông đang cân nhắc liệu có nên bắt Thủ tướng Israel khi ông Netanyahu tham gia hội nghị của Liên Hợp Quốc tại New York hay không.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-19T03:17:55+07:00",
+      "fetched": "2026-07-19T13:27:22.007991+07:00"
+    },
+    {
+      "id": "2da2718692a3ff8395b3249a538dfdad",
+      "title": "Sức ép của ông Trump có thể khiến Iran cứng rắn hơn",
+      "link": "https://vnexpress.net/suc-ep-cua-ong-trump-co-the-khien-iran-cung-ran-hon-5098379.html",
+      "summary": "Những bước leo thang mới của Mỹ nhằm vào Iran được cho là khó tạo đột phá, nguy cơ khiến Tehran càng cứng rắn hơn trong cuộc đối đầu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-19T03:00:00+07:00",
+      "fetched": "2026-07-19T13:27:22.008157+07:00"
+    },
+    {
+      "id": "d34e1c7898da87d9de712d70ad8d9fa3",
+      "title": "Mbappe: 'Thà vào chung kết hơn kỷ lục ghi bàn World Cup'",
+      "link": "https://vnexpress.net/mbappe-tha-vao-chung-ket-hon-ky-luc-ghi-ban-world-cup-5099106.html",
+      "summary": "Tiền đạo thủ quân Pháp Kylian Mbappe không quan tâm đến các cột mốc cá nhân và chưa nguôi nuối tiếc khi không thể vào chung kết World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-19T02:23:31+07:00",
+      "fetched": "2026-07-19T13:27:28.540673+07:00"
     },
     {
       "id": "8f0550309a9188d3b7857573c09218d7",
