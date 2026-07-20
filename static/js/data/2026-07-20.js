@@ -1,7 +1,157 @@
 window.newsData_2026_07_20 = {
   "date": "2026-07-20",
-  "lastUpdated": "2026-07-20T05:48:22.168762+07:00",
+  "lastUpdated": "2026-07-20T09:40:22.093408+07:00",
   "articles": [
+    {
+      "id": "335f03a2646e3454c7f54bfd975e3271",
+      "title": "CSGT TP.HCM sẽ xử lý chủ cơ sở dùng xe ba gác, xe lôi tự chế chở hàng cồng kềnh",
+      "link": "https://tuoitre.vn/csgt-tphcm-se-xu-ly-chu-co-so-dung-xe-ba-gac-xe-loi-tu-che-cho-hang-cong-kenh-100260720082722837.htm",
+      "summary": "Phòng Cảnh sát giao thông (PC08) Công an TP.HCM cho biết đơn vị này sẽ ra quân tổng rà soát, kiểm tra, xử lý cơ sở kinh doanh sử dụng xe ba gác chở hàng cồng kềnh, xe lôi tự chế vận chuyển hàng hóa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T09:40:15.803259+07:00",
+      "fetched": "2026-07-20T09:40:15.803325+07:00"
+    },
+    {
+      "id": "2eba3803beaa5741ab06eb7a2720cbe2",
+      "title": "Vụ 5 người chết ở trại nuôi heo: Thanh Hóa kiểm tra toàn diện các trang trại",
+      "link": "https://tuoitre.vn/vu-5-nguoi-chet-o-trai-nuoi-heo-thanh-hoa-kiem-tra-toan-dien-cac-trang-trai-100260720071139783.htm",
+      "summary": "Sau khi xảy ra vụ tai nạn lao động làm 5 người chết, 8 người bị thương tại trang trại chăn nuôi heo của Công ty TNHH DABACO Thanh Hóa, UBND tỉnh này vừa chỉ đạo ngành chức năng kiểm tra toàn diện trang trại chăn nuôi, xử lý nghiêm vi phạm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T09:40:15.803166+07:00",
+      "fetched": "2026-07-20T09:40:15.803247+07:00"
+    },
+    {
+      "id": "9097c6a4e3517f2ae0920e8e185d32fb",
+      "title": "Đường nối từ nút giao An Phú đua tiến độ, sẵn sàng cho ngày sân bay Long Thành khai thác thương mại",
+      "link": "https://tuoitre.vn/duong-noi-tu-nut-giao-an-phu-dua-tien-do-san-sang-cho-ngay-san-bay-long-thanh-khai-thac-thuong-mai-100260718180657677.htm",
+      "summary": "Sau 8 tháng thi công, dự án mở rộng đường nối cao tốc TP.HCM - Long Thành để khơi thông đường tới sân bay Long Thành đạt tiến độ gần 60%.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T09:40:15.803092+07:00",
+      "fetched": "2026-07-20T09:40:15.803155+07:00"
+    },
+    {
+      "id": "9d3a90f2f324836e4047c2df30c272f2",
+      "title": "Tin quảng cáo 'chữa bệnh trĩ nhanh, không đau', người đàn ông phải tạo hình lại hậu môn",
+      "link": "https://tuoitre.vn/tin-quang-cao-chua-benh-tri-nhanh-khong-dau-nguoi-dan-ong-phai-tao-hinh-lai-hau-mon-100260720080901144.htm",
+      "summary": "Tin vào lời quảng cáo 'chữa bệnh trĩ nhanh, không đau, không cần nằm viện', ông Đ.V.H. (64 tuổi) quyết định thực hiện thủ thuật đốt trĩ tại một phòng khám tư với hy vọng sớm trở lại công việc và sinh hoạt thường ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T09:40:15.803022+07:00",
+      "fetched": "2026-07-20T09:40:15.803081+07:00"
+    },
+    {
+      "id": "193cd935d93acb70cfa45e2a73e0200f",
+      "title": "Chó nghiệp vụ bị thương vẫn dầm bùn tìm kiếm người mất tích vì lũ quét ở Lai Châu",
+      "link": "https://tuoitre.vn/cho-nghiep-vu-bi-thuong-van-dam-bun-tim-kiem-nguoi-mat-tich-vi-lu-quet-o-lai-chau-100260720071422588.htm",
+      "summary": "Những chú chó nghiệp vụ của Trường trung cấp 24 Biên phòng bị thương vẫn cùng các huấn luyện viên bám hiện trường, đội mưa, lội bùn tìm kiếm người mất tích vì lũ quét ở xã Mường Than (tỉnh Lai Châu).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T09:40:15.802954+07:00",
+      "fetched": "2026-07-20T09:40:15.803012+07:00"
+    },
+    {
+      "id": "14ab27f91aa24dda8019f273f6fe2980",
+      "title": "Chuyên gia Đoàn Minh Xương: Tây Ban Nha vô địch xứng đáng",
+      "link": "https://tuoitre.vn/chuyen-gia-doan-minh-xuong-tay-ban-nha-vo-dich-xung-dang-100260720082147946.htm",
+      "summary": "Bình luận sau trận chung kết World Cup 2026, chuyên gia Đoàn Minh Xương cho rằng Tây Ban Nha đã vô địch xứng đáng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T09:40:15.802886+07:00",
+      "fetched": "2026-07-20T09:40:15.802943+07:00"
+    },
+    {
+      "id": "ad669c06475c8d7b34463a71cc115a19",
+      "title": "Quay video nơi công cộng, trường hợp nào không cần phải xin phép?",
+      "link": "https://tuoitre.vn/quay-video-noi-cong-cong-truong-hop-nao-khong-can-phai-xin-phep-100260716181009474.htm",
+      "summary": "Các cơ quan, tổ chức có thẩm quyền được quyền ghi âm, quay video nơi công cộng và những hoạt động công cộng phục vụ an ninh, trật tự không cần xin phép người được quay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T09:40:15.802810+07:00",
+      "fetched": "2026-07-20T09:40:15.802874+07:00"
+    },
+    {
+      "id": "f8709ad0a5e51010ee80d3b9467984b1",
+      "title": "Hai tàu dầu phát nổ tại eo biển Hormuz, giá dầu tăng mạnh",
+      "link": "https://tuoitre.vn/hai-tau-dau-phat-no-tai-eo-bien-hormuz-gia-dau-tang-manh-100260720085746993.htm",
+      "summary": "Iran cảnh báo eo biển Hormuz không còn an toàn, trong bối cảnh hai tàu chở dầu phát nổ tại tuyến vận chuyển này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T09:40:15.802736+07:00",
+      "fetched": "2026-07-20T09:40:15.802799+07:00"
+    },
+    {
+      "id": "4f712daa3c513ec6dfa017682d89a6cc",
+      "title": "Đi đám tiệc ngại bóc tôm ăn, có cách chế biến nào khác không?",
+      "link": "https://tuoitre.vn/di-dam-tiec-ngai-boc-tom-an-co-cach-che-bien-nao-khac-khong-100260708101127019.htm",
+      "summary": "Món tôm trên các bàn tiệc thường bị bỏ lại không phải vì dở. Nếu đầu bếp chế biến dễ ăn hơn thì món ngon sẽ được khách thưởng thức trọn vẹn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T09:40:15.802664+07:00",
+      "fetched": "2026-07-20T09:40:15.802725+07:00"
+    },
+    {
+      "id": "7a5d7f073b0e295a6ead9102d6718379",
+      "title": "Bí mật dưới lòng đất khiến Nam Cực đóng băng trước Bắc Cực hàng chục triệu năm",
+      "link": "https://tuoitre.vn/bi-mat-duoi-long-dat-khien-nam-cuc-dong-bang-truoc-bac-cuc-hang-chuc-trieu-nam-100260717233324297.htm",
+      "summary": "Nghiên cứu mới cho thấy Nam Cực đóng băng sớm hơn Bắc Cực gần 30 triệu năm không chỉ vì khí hậu mà còn do những biến đổi sâu trong lòng Trái đất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T09:40:15.802578+07:00",
+      "fetched": "2026-07-20T09:40:15.802653+07:00"
+    },
+    {
+      "id": "4e338fd03b6057d7d3416834c82aec8d",
+      "title": "HLV Scaloni ra thông báo 'đau lòng' cho người Argentina",
+      "link": "https://tuoitre.vn/hlv-scaloni-ra-thong-bao-dau-long-cho-nguoi-argentina-100260720090436719.htm",
+      "summary": "Giữa lúc tương lai Lionel Messi vẫn còn là dấu chấm hỏi, HLV Lionel Scaloni đã đưa ra thông báo khiến người hâm mộ Argentina phải buồn phiền.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T09:40:15.802507+07:00",
+      "fetched": "2026-07-20T09:40:15.802566+07:00"
+    },
+    {
+      "id": "cbdbcf9ddb24cd7b6410cac272636451",
+      "title": "Đoàn Ban Chấp hành Trung ương Đảng vào lăng viếng Chủ tịch Hồ Chí Minh",
+      "link": "https://tuoitre.vn/ban-chap-hanh-trung-uong-dang-vao-lang-vieng-chu-tich-ho-chi-minh-100260720085040338.htm",
+      "summary": "Sáng 20-7, đoàn đại biểu Ban Chấp hành Trung ương Đảng đến đặt vòng hoa và vào lăng viếng Chủ tịch Hồ Chí Minh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T09:40:15.802435+07:00",
+      "fetched": "2026-07-20T09:40:15.802496+07:00"
+    },
+    {
+      "id": "234cf1367289d9fa5ad6ecd4fae52f7c",
+      "title": "Ông Nguyễn Hoài Anh làm Thứ trưởng thường trực Bộ Dân tộc và Tôn giáo",
+      "link": "https://tuoitre.vn/ong-nguyen-hoai-anh-lam-thu-truong-thuong-truc-bo-dan-toc-va-ton-giao-100260720091809145.htm",
+      "summary": "Thủ tướng Lê Minh Hưng vừa có quyết định về việc điều động, bổ nhiệm ông Nguyễn Hoài Anh giữ chức Thứ trưởng thường trực Bộ Dân tộc và Tôn giáo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T09:40:15.802361+07:00",
+      "fetched": "2026-07-20T09:40:15.802425+07:00"
+    },
+    {
+      "id": "3fb6e69e301d9e0f40580afc3311e8b5",
+      "title": "Mua vé Vietnam Airlines nhưng có thể lên máy bay của Philippines",
+      "link": "https://tuoitre.vn/mua-ve-vietnam-airlines-nhung-co-the-len-may-bay-cua-philippines-100260720091012179.htm",
+      "summary": "Cầm vé Vietnam Airlines nhưng ra cửa khởi hành lại thấy máy bay mang màu sơn Cebu Pacific(Philippines), hành khách có thể giật mình vì tưởng lên nhầm chuyến.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T09:40:15.802278+07:00",
+      "fetched": "2026-07-20T09:40:15.802349+07:00"
+    },
+    {
+      "id": "a12b0553ac659533e2297ae89a35ad01",
+      "title": "Lần đầu tiên sau hơn 150 năm, phó Tổng thống Mỹ có thêm con",
+      "link": "https://tuoitre.vn/lan-dau-tien-sau-hon-150-nam-pho-tong-thong-my-co-them-con-100260720085935486.htm",
+      "summary": "Đệ nhị phu nhân Mỹ Usha Vance hạ sinh bé trai thứ tư vào sáng 19-7 theo giờ địa phương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T09:40:15.802090+07:00",
+      "fetched": "2026-07-20T09:40:15.802262+07:00"
+    },
     {
       "id": "c6d125a3763e4c1bd374de3b0782352d",
       "title": "Tin tức sáng 20-7: SCB định giá loạt 'đất vàng' liên quan bà Trương Mỹ Lan để thu hồi nợ",
@@ -21,6 +171,156 @@ window.newsData_2026_07_20 = {
       "category": "Tổng hợp",
       "published": "2026-07-20T03:42:10.706908+07:00",
       "fetched": "2026-07-20T03:42:10.707054+07:00"
+    },
+    {
+      "id": "c4a09379a987239d14ac1bebad88e7c0",
+      "title": "Bạo hành trẻ em là gì, TP.HCM quy định gì về quy trình hỗ trợ nạn nhân?",
+      "link": "https://thanhnien.vn/bao-hanh-tre-em-la-gi-tphcm-quy-dinh-gi-ve-quy-trinh-ho-tro-nan-nhan-185260720084105068.htm",
+      "summary": "Mới đây ở phường Tam Bình, TP.HCM, vụ việc một người mẹ phản ánh trên mạng xã hội tố 2 cô giáo mầm non bắt con trai chị nằm trước toilet, trên thảm chùi chân, bạo hành thể xác lẫn tinh thần em bé, được dư luận quan tâm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T02:38:00+07:00",
+      "fetched": "2026-07-20T09:40:14.376580+07:00"
+    },
+    {
+      "id": "0847b0d58f983986912cc3019a724ac0",
+      "title": "Chuyên gia hiến kế nâng cao chất lượng kỳ thi '2 trong 1'",
+      "link": "https://thanhnien.vn/chuyen-gia-hien-ke-nang-cao-chat-luong-ky-thi-2-trong-1-185260719155206496.htm",
+      "summary": "Bên cạnh quan điểm cần tách thi tốt nghiệp THPT và đại học, một số chuyên gia, nhà quản lý cho rằng vẫn nên giữ kỳ thi như hiện nay và đề xuất giải pháp cải thiện chất lượng kỳ thi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T02:36:00+07:00",
+      "fetched": "2026-07-20T09:40:14.376751+07:00"
+    },
+    {
+      "id": "e7922076c8162f8b4840d10440cd47a0",
+      "title": "Bất đồng trong Nhà Trắng về lệnh cấm đặc vụ ICE chặn xe kiểm tra",
+      "link": "https://vnexpress.net/bat-dong-trong-nha-trang-ve-lenh-cam-dac-vu-ice-chan-xe-kiem-tra-5099319.html",
+      "summary": "Giới chức nhập cư Mỹ cho rằng ICE cần bỏ việc tùy tiện chặn xe kiểm tra để cải thiện hình ảnh, song Tổng thống Trump không đồng tình.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-20T02:33:46+07:00",
+      "fetched": "2026-07-20T09:40:17.571721+07:00"
+    },
+    {
+      "id": "04d97184d77b7e07ffe1aea98a21186c",
+      "title": "WHO nói gì về việc dùng vitamin và omega-3 để phòng sa sút trí tuệ?",
+      "link": "https://thanhnien.vn/who-noi-gi-ve-viec-dung-vitamin-va-omega-3-de-phong-sa-sut-tri-tue-185260720093355797.htm",
+      "summary": "Tổ chức Y tế thế giới (WHO) vừa cập nhật hướng dẫn giảm nguy cơ suy giảm nhận thức và sa sút trí tuệ, với các khuyến nghị dựa trên bằng chứng nhằm giúp phòng ngừa hoặc trì hoãn khởi phát bệnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T02:33:00+07:00",
+      "fetched": "2026-07-20T09:40:14.376911+07:00"
+    },
+    {
+      "id": "ea7b2bf8bc909523c82d0118a31e4353",
+      "title": "Vật cấm mang lên xe buýt: Hành khách nói ‘không ai thông báo’",
+      "link": "https://thanhnien.vn/vat-cam-mang-len-xe-buyt-hanh-khach-noi-khong-ai-thong-bao-185260714134315482.htm",
+      "summary": "Sau bài viết \"Đi xe buýt miễn phí ở TP.HCM: Hành khách bị mời xuống xe vì điều này\", nhiều hành khách bày tỏ thắc mắc: Tại sao không công khai những vật dụng không được mang lên xe buýt để tránh những sự cố đáng tiếc?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T02:30:00+07:00",
+      "fetched": "2026-07-20T09:40:14.377068+07:00"
+    },
+    {
+      "id": "cb8f66c25eb648d6934907583d9f03cd",
+      "title": "Ngoại trưởng Iran đến nay vẫn chưa gặp Lãnh tụ tối cao Mojtaba Khamenei",
+      "link": "https://thanhnien.vn/ngoai-truong-iran-den-nay-van-chua-gap-lanh-tu-toi-cao-mojtaba-khamenei-185260720091926631.htm",
+      "summary": "Sự vắng mặt kéo dài của ông Mojtaba Khamenei tiếp tục gây nghi vấn, sau khi Ngoại trưởng Iran Abbas Araghchi thừa nhận chưa từng gặp trực tiếp Lãnh tụ tối cao mới kể từ khi ông nhậm chức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T02:24:00+07:00",
+      "fetched": "2026-07-20T09:40:14.377252+07:00"
+    },
+    {
+      "id": "81f846bfd33c3a660009bfb3dd2b2655",
+      "title": "Giá nhà cao, người trẻ Mỹ quay về sống cùng cha mẹ",
+      "link": "https://vnexpress.net/gia-nha-cao-nguoi-tre-my-quay-ve-song-cung-cha-me-5099252.html",
+      "summary": "Samantha Stobo quyết định chuyển về sống với bố mẹ ở Miami sau khi chia tay người yêu vì không đủ khả năng chi trả cho căn hộ ở Manhattan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T02:20:57+07:00",
+      "fetched": "2026-07-20T09:40:10.411486+07:00"
+    },
+    {
+      "id": "81f846bfd33c3a660009bfb3dd2b2655",
+      "title": "Giá nhà cao, người trẻ Mỹ quay về sống cùng cha mẹ",
+      "link": "https://vnexpress.net/gia-nha-cao-nguoi-tre-my-quay-ve-song-cung-cha-me-5099252.html",
+      "summary": "Samantha Stobo quyết định chuyển về sống với bố mẹ ở Miami sau khi chia tay người yêu vì không đủ khả năng chi trả cho căn hộ ở Manhattan.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-20T02:20:57+07:00",
+      "fetched": "2026-07-20T09:40:17.572448+07:00"
+    },
+    {
+      "id": "abe543493c5a7e7ce48cb8c432d72ba2",
+      "title": "Suýt mất mạng vì uống thuốc thụt hậu môn để giảm 4 kg trong 2 ngày",
+      "link": "https://vnexpress.net/suyt-mat-mang-vi-uong-thuoc-thut-hau-mon-de-giam-4-kg-trong-2-ngay-5099309.html",
+      "summary": "Chạy theo cơn sốt pha thuốc thụt hậu môn vào trà để giảm gần 4 kg trong 2 ngày, không ít người dùng phải nhập viện cấp cứu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T02:19:09+07:00",
+      "fetched": "2026-07-20T09:40:10.411674+07:00"
+    },
+    {
+      "id": "af2fefb36dfe12c57c7770cc5e3ed80d",
+      "title": "'Cả năm tích góp đổi lấy hai giờ sĩ diện trong đám cưới'",
+      "link": "https://vnexpress.net/to-chuc-dam-cuoi-het-bao-nhieu-ca-nam-tich-gop-doi-lay-hai-gio-si-dien-trong-dam-cuoi-5099333.html",
+      "summary": "Để chuẩn bị cho hai giờ đồng hồ của hôn lễ, nhiều cặp đôi phải dành nhiều năm tích góp, cắt giảm chi tiêu, thậm chí vay mượn thêm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T02:17:57+07:00",
+      "fetched": "2026-07-20T09:40:10.411842+07:00"
+    },
+    {
+      "id": "0330135418e0c3cfdbbfe9daf69beb5a",
+      "title": "Giá vàng hôm nay 20.7.2026: Thế giới giảm mạnh",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-2072026-the-gioi-giam-manh-185260720084140006.htm",
+      "summary": "Giá vàng thế giới tăng giảm mạnh trong đầu tuần khiến kim loại quý trong nước biến động trái chiều giữa các công ty.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T02:15:00+07:00",
+      "fetched": "2026-07-20T09:40:14.377415+07:00"
+    },
+    {
+      "id": "130e8bea22fc4231b16f14a25fde91e8",
+      "title": "Lãnh đạo Đảng, Nhà nước vào Lăng viếng Chủ tịch Hồ Chí Minh",
+      "link": "https://thanhnien.vn/lanh-dao-dang-nha-nuoc-vao-lang-vieng-chu-tich-ho-chi-minh-18526072008524559.htm",
+      "summary": "Sáng 20.7, tại Hà Nội, trước giờ khai mạc Hội nghị Trung ương 3, khóa XIV, đoàn đại biểu Ban Chấp hành Trung ương Đảng và các đại biểu đến đặt vòng hoa và vào Lăng viếng Chủ tịch Hồ Chí Minh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T02:07:00+07:00",
+      "fetched": "2026-07-20T09:40:14.377574+07:00"
+    },
+    {
+      "id": "fed1ea258911ee67fe3abe37e613dd32",
+      "title": "Bí mật phía sau chấm đỏ nhấp nháy trên iPhone",
+      "link": "https://thanhnien.vn/bi-mat-phia-sau-cham-do-nhap-nhay-tren-iphone-185260719221756445.htm",
+      "summary": "Chấm đỏ xuất hiện trên màn hình iPhone khiến không ít người nghi ngờ bị theo dõi, song nguyên nhân thực tế hoàn toàn vô hại và bình thường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T02:06:00+07:00",
+      "fetched": "2026-07-20T09:40:14.377725+07:00"
+    },
+    {
+      "id": "e249698a1eedd9365220c5e852c8ac50",
+      "title": "HLV Scaloni: 'Tây Ban Nha mạnh hơn Argentina'",
+      "link": "https://vnexpress.net/hlv-scaloni-tay-ban-nha-manh-hon-argentina-5099331.html",
+      "summary": "HLV Lionel Scaloni thừa nhận Tây Ban Nha chơi hay hơn ở chung kết World Cup 2026, đồng thời bỏ ngỏ khả năng tiếp tục dẫn dắt Argentina.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T02:04:06+07:00",
+      "fetched": "2026-07-20T09:40:10.412002+07:00"
+    },
+    {
+      "id": "e249698a1eedd9365220c5e852c8ac50",
+      "title": "HLV Scaloni: 'Tây Ban Nha mạnh hơn Argentina'",
+      "link": "https://vnexpress.net/hlv-scaloni-tay-ban-nha-manh-hon-argentina-5099331.html",
+      "summary": "HLV Lionel Scaloni thừa nhận Tây Ban Nha chơi hay hơn ở chung kết World Cup 2026, đồng thời bỏ ngỏ khả năng tiếp tục dẫn dắt Argentina.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-20T02:04:06+07:00",
+      "fetched": "2026-07-20T09:40:22.086991+07:00"
     },
     {
       "id": "b18bf199b331c9286abcb59edcc43a1b",
@@ -173,6 +473,316 @@ window.newsData_2026_07_20 = {
       "fetched": "2026-07-20T02:01:17.440563+07:00"
     },
     {
+      "id": "a2191c33fa3f933f4049ded73611c2a0",
+      "title": "Sửa ôtô đời mới tốn hàng nghìn USD mua phần mềm",
+      "link": "https://vnexpress.net/sua-oto-doi-moi-ton-hang-nghin-usd-mua-phan-mem-5099293.html",
+      "summary": "Công nghệ trên xe hơi ngày càng phức tạp khiến việc bảo dưỡng và sửa chữa ngày càng phụ thuộc vào phần mềm và các gói đăng ký đắt đỏ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T02:00:47+07:00",
+      "fetched": "2026-07-20T09:40:10.412165+07:00"
+    },
+    {
+      "id": "4640f4cc47a370a5390affa91966fd21",
+      "title": "Neuracle - đối thủ chip não của Neuralink tại Trung Quốc",
+      "link": "https://vnexpress.net/neuracle-doi-thu-chip-nao-cua-neuralink-tai-trung-quoc-5098622.html",
+      "summary": "Neuracle trở thành công ty đầu tiên hoàn thành ca cấy chip não - máy tính (BCI) thương mại và được xem là đối thủ lớn nhất của Neuralink, công ty do Elon sáng lập.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T02:00:00+07:00",
+      "fetched": "2026-07-20T09:40:10.412377+07:00"
+    },
+    {
+      "id": "26fdc30378063de6c6853895d51d4802",
+      "title": "Ba khu vườn quốc gia tránh nóng mùa hè",
+      "link": "https://vnexpress.net/ba-khu-vuon-quoc-gia-tranh-nong-mua-he-5087593.html",
+      "summary": "Các vườn quốc gia tại Phú Thọ, Nghệ An và TP Huế là những nơi phù hợp cho du khách nghỉ hè nhờ không khí mát mẻ và nhiều trải nghiệm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T02:00:00+07:00",
+      "fetched": "2026-07-20T09:40:10.412542+07:00"
+    },
+    {
+      "id": "bf6b0dd1f38b9800e3612d3472f4a5b4",
+      "title": "CEO Novaland: Chúng tôi dần trở lại quỹ đạo sau khủng hoảng",
+      "link": "https://vnexpress.net/ceo-novaland-chung-toi-dan-tro-lai-quy-dao-sau-khung-hoang-5098712.html",
+      "summary": "Novaland từng bước \"vượt bão khủng hoảng\" khi các dự án được gỡ vướng, bơm thêm tín dụng, hướng đến thi công quy mô lớn và tăng trưởng dài hạn, theo CEO Dương Văn Bắc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T02:00:00+07:00",
+      "fetched": "2026-07-20T09:40:10.412703+07:00"
+    },
+    {
+      "id": "aac7af4c2f2bcbeceec8f77b1efb9ef6",
+      "title": "Cổ động viên tiếc nuối khi Messi lỡ hẹn chức vô địch World Cup",
+      "link": "https://thanhnien.vn/co-dong-vien-tiec-nuoi-khi-messi-lo-hen-chuc-vo-dich-world-cup-185260720072529258.htm",
+      "summary": "Đêm chung kết World Cup khép lại với chức vô địch thuộc về đội tuyển Tây Ban Nha. Sau tiếng còi mãn cuộc, bầu không khí tại nhiều quán cà phê xem bóng đá ở TP.HCM lắng xuống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T02:00:00+07:00",
+      "fetched": "2026-07-20T09:40:14.377876+07:00"
+    },
+    {
+      "id": "1607be59228c9cda86046ab819cec585",
+      "title": "Ưu đãi cuối cùng tại Trường Quốc tế Việt Úc (VAS) trước năm học mới",
+      "link": "https://thanhnien.vn/uu-dai-cuoi-cung-tai-truong-quoc-te-viet-uc-vas-truoc-nam-hoc-moi-185260719172403992.htm",
+      "summary": "Phụ huynh có thể tiết kiệm từ 25 đến trên 50 triệu đồng khi đăng ký học cho con tại VAS để nhận các ưu đãi cuối cùng của trường trong tháng 7.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T02:00:00+07:00",
+      "fetched": "2026-07-20T09:40:14.378032+07:00"
+    },
+    {
+      "id": "ed9f630b7ebb5ea9e93aac49995d7978",
+      "title": "Khi chuyên gia công nghệ đứng lớp: Truyền tải kiến thức thông qua kinh nghiệm thực chiến",
+      "link": "https://thanhnien.vn/khi-chuyen-gia-cong-nghe-dung-lop-truyen-tai-kien-thuc-thong-qua-kinh-nghiem-thuc-chien-185260719155354365.htm",
+      "summary": "Qualgo triển khai dự án giáo dục công nghệ cho các bạn sinh viên ngành IT. Hoạt động bao gồm trao tặng thiết bị thực hành và chuỗi chia sẻ chuyên sâu về an ninh mạng, AI, kéo dài từ nay đến hết năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T02:00:00+07:00",
+      "fetched": "2026-07-20T09:40:14.378192+07:00"
+    },
+    {
+      "id": "6e53fc99f4022f66d5fa9f22a54a10d5",
+      "title": "Cô giáo nhỏ với trái tim lớn",
+      "link": "https://thanhnien.vn/co-giao-nho-voi-trai-tim-lon-185260712151512208.htm",
+      "summary": "Chiến tranh đã đi qua, nhưng những vết thương vẫn còn hiện hữu trong nhiều số phận. Hoàng Thị Phương (sinh năm 2002, Thanh Hóa) thấu hiểu điều đó hơn ai hết, khi cô sinh ra với dị tật thiếu xương bánh chè từ di chứng chất độc da cam của ông nội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T02:00:00+07:00",
+      "fetched": "2026-07-20T09:40:14.378381+07:00"
+    },
+    {
+      "id": "4640f4cc47a370a5390affa91966fd21",
+      "title": "Neuracle - đối thủ chip não của Neuralink tại Trung Quốc",
+      "link": "https://vnexpress.net/neuracle-doi-thu-chip-nao-cua-neuralink-tai-trung-quoc-5098622.html",
+      "summary": "Neuracle trở thành công ty đầu tiên hoàn thành ca cấy chip não - máy tính (BCI) thương mại và được xem là đối thủ lớn nhất của Neuralink, công ty do Elon sáng lập.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-20T02:00:00+07:00",
+      "fetched": "2026-07-20T09:40:21.189716+07:00"
+    },
+    {
+      "id": "5e9c95e1a11958e3dd83233ad074f6d5",
+      "title": "Giá xăng dầu hôm nay 20.7.2026: Giữ đà tăng",
+      "link": "https://thanhnien.vn/gia-xang-dau-hom-nay-2072026-giu-da-tang-185260720083827004.htm",
+      "summary": "Giá dầu thế giới giữ đà tăng khi dầu Brent chuẩn toàn cầu đã vượt mốc 90 USD/thùng. Dự báo xăng dầu trong nước tại kỳ điều hành giá tuần này sẽ tăng tiếp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T01:55:00+07:00",
+      "fetched": "2026-07-20T09:40:14.378535+07:00"
+    },
+    {
+      "id": "e931f47487364ecad05c57d9756edbf2",
+      "title": "Khoảnh khắc gây bão mạng: Tổng thống Trump ‘chiếm sóng’ nhà vô địch Tây Ban Nha, Chủ tịch FIFA bối rối",
+      "link": "https://thanhnien.vn/khoanh-khac-gay-tranh-cai-tong-thong-donald-trump-chiem-song-cua-tay-ban-nha-185260720084611945.htm",
+      "summary": "Lễ trao cúp World Cup 2026 sau chiến thắng 1-0 của tuyển Tây Ban Nha trước Argentina bất ngờ trở thành chủ đề gây tranh cãi trên mạng xã hội khi Tổng thống Mỹ Donald Trump xuất hiện trong khoảnh khắc nâng cúp của nhà vô địch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T01:53:00+07:00",
+      "fetched": "2026-07-20T09:40:14.378701+07:00"
+    },
+    {
+      "id": "122898e7309002f4907f3650c03a808e",
+      "title": "Giá heo hơi hôm nay 20.7.2026: Tiếp tục tăng ở miền Nam",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-2072026-tiep-tuc-tang-o-mien-nam-185260720083800145.htm",
+      "summary": "Giá heo hơi đang tiếp tục tăng ở khu vực thị trường phía nam, đưa giá heo bình quân cả nước lên 64.200 đồng/kg.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T01:52:00+07:00",
+      "fetched": "2026-07-20T09:40:14.378853+07:00"
+    },
+    {
+      "id": "8cc62ef4ab6bed6db05173dc4437cf95",
+      "title": "Ronaldo 'Béo', Ronaldinho diễn ở show giữa hiệp chung kết World Cup",
+      "link": "https://vnexpress.net/ronaldo-beo-ronaldinho-dien-o-show-giua-hiep-chung-ket-world-cup-5099265.html",
+      "summary": "Hai huyền thoại bóng đá Ronaldo \"Béo\", Ronaldinho cùng Madonna, Shakira, Justin Bieber, BTS khuấy động show giữa hiệp chung kết World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T01:37:12+07:00",
+      "fetched": "2026-07-20T09:40:10.412881+07:00"
+    },
+    {
+      "id": "6b1d6d736156bd1afd13bf01eafcbd93",
+      "title": "Chủ tịch Thanh Hóa làm Thứ trưởng Thường trực Bộ Dân tộc và Tôn giáo",
+      "link": "https://vnexpress.net/chu-tich-thanh-hoa-lam-thu-truong-thuong-truc-bo-dan-toc-va-ton-giao-5099313.html",
+      "summary": "Thủ tướng bổ nhiệm ông Nguyễn Hoài Anh, Chủ tịch UBND tỉnh Thanh Hóa, giữ chức Thứ trưởng Thường trực Bộ Dân tộc và Tôn giáo từ ngày 19/7.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T01:31:25+07:00",
+      "fetched": "2026-07-20T09:40:10.413047+07:00"
+    },
+    {
+      "id": "985ab9be68a944e2beb77eb949e86335",
+      "title": "8 nạn nhân ngộ độc khí ở trại lợn Thanh Hóa qua nguy kịch",
+      "link": "https://vnexpress.net/8-nan-nhan-ngo-doc-khi-o-trai-lon-thanh-hoa-qua-nguy-kich-5099291.html",
+      "summary": "8 nạn nhân sống sót trong vụ ngạt khí tại bể chứa chất thải của một trang trại chăn nuôi lợn đang hồi phục tốt sau hai ngày điều trị tích cực tại Bệnh viện Bạch Mai cơ sở Ninh Bình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T01:27:58+07:00",
+      "fetched": "2026-07-20T09:40:10.413236+07:00"
+    },
+    {
+      "id": "61e5d7cb13e0b922aca7914691aa1171",
+      "title": "Xuyên đêm cổ vũ trận chung kết World Cup 2026",
+      "link": "https://vnexpress.net/xuyen-dem-co-vu-tran-chung-ket-world-cup-2026-5099315.html",
+      "summary": "Hàng nghìn người đổ về quán cà phê, điểm xem bóng đá trong đêm diễn ra trận chung kết World cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T01:25:59+07:00",
+      "fetched": "2026-07-20T09:40:10.413400+07:00"
+    },
+    {
+      "id": "61e5d7cb13e0b922aca7914691aa1171",
+      "title": "Xuyên đêm cổ vũ trận chung kết World Cup 2026",
+      "link": "https://vnexpress.net/xuyen-dem-co-vu-tran-chung-ket-world-cup-2026-5099315.html",
+      "summary": "Hàng nghìn người đổ về quán cà phê, điểm xem bóng đá trong đêm diễn ra trận chung kết World cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-20T01:25:59+07:00",
+      "fetched": "2026-07-20T09:40:22.087169+07:00"
+    },
+    {
+      "id": "c7e89030599831728a12a7a4216487b8",
+      "title": "Giá dầu thế giới vượt 90 USD một thùng",
+      "link": "https://vnexpress.net/gia-dau-the-gioi-vuot-90-usd-mot-thung-5099317.html",
+      "summary": "Việc Mỹ - Iran tăng cường tập kích lẫn nhau tại Trung Đông khiến giá dầu Brent hiện lên trên 90 USD, cao nhất kể từ phiên 11/6.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T01:25:55+07:00",
+      "fetched": "2026-07-20T09:40:10.413555+07:00"
+    },
+    {
+      "id": "c7e89030599831728a12a7a4216487b8",
+      "title": "Giá dầu thế giới vượt 90 USD một thùng",
+      "link": "https://vnexpress.net/gia-dau-the-gioi-vuot-90-usd-mot-thung-5099317.html",
+      "summary": "Việc Mỹ - Iran tăng cường tập kích lẫn nhau tại Trung Đông khiến giá dầu Brent hiện lên trên 90 USD, cao nhất kể từ phiên 11/6.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-20T01:25:55+07:00",
+      "fetched": "2026-07-20T09:40:18.885927+07:00"
+    },
+    {
+      "id": "f8067b427b207889c6b693fa19ad0280",
+      "title": "Tự chữa ung thư gan bằng thuốc nam, khối u phình to 3,5 kg",
+      "link": "https://vnexpress.net/tu-chua-ung-thu-gan-bang-thuoc-nam-khoi-u-phinh-to-3-5-kg-5099301.html",
+      "summary": "Người đàn ông 59 tuổi tự sờ thấy khối bất thường dưới sườn nên mua thuốc nam điều trị, kết quả khối u gan phình to lên đến 3,5 kg, đe dọa tính mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T01:21:29+07:00",
+      "fetched": "2026-07-20T09:40:10.413719+07:00"
+    },
+    {
+      "id": "2f2e164be34cb412aa062a9057b126c2",
+      "title": "Những địa phương đầu tiên miễn phí sách giáo khoa",
+      "link": "https://vnexpress.net/nhung-dia-phuong-dau-tien-mien-phi-sach-giao-khoa-5097344.html",
+      "summary": "Quảng Ninh, TP HCM, Huế, cùng ba xã, phường ở Đồng Nai, Đà Nẵng chi hàng chục tỷ đồng để miễn phí sách giáo khoa từ năm học tới, đi trước lộ trình chung ba năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-20T01:21:09+07:00",
+      "fetched": "2026-07-20T09:40:10.413873+07:00"
+    },
+    {
+      "id": "387daf5fd0d1fe4e11ad84d48c09f79e",
+      "title": "Messi bật khóc khi Tây Ban Nha nâng Cup vàng",
+      "link": "https://vnexpress.net/messi-bat-khoc-khi-tay-ban-nha-nang-cup-vang-5099299.html",
+      "summary": "Lionel Messi không kìm được cảm xúc khi chứng kiến lễ đăng quang của Tây Ban Nha sau trận chung kết World Cup 2026 trên sân MetLife ngày 19/7.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-20T00:53:28+07:00",
+      "fetched": "2026-07-20T09:40:22.087365+07:00"
+    },
+    {
+      "id": "0aa057cb3a3731597d263e8630963ea7",
+      "title": "Israel dọa trả đũa tổng lực nếu bị Iran tập kích tên lửa",
+      "link": "https://vnexpress.net/israel-doa-tra-dua-tong-luc-neu-bi-iran-tap-kich-ten-lua-5099282.html",
+      "summary": "Israel cảnh báo sẽ đáp trả tổng lực nếu bị Iran tấn công tên lửa, nêu khả năng tham chiến nếu Mỹ thay đổi chính sách.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-20T00:41:57+07:00",
+      "fetched": "2026-07-20T09:40:17.571901+07:00"
+    },
+    {
+      "id": "d78513bbff1e45f49843e47d3c158d40",
+      "title": "Đệ nhị phu nhân Mỹ sinh con thứ tư",
+      "link": "https://vnexpress.net/de-nhi-phu-nhan-my-sinh-con-thu-tu-5099283.html",
+      "summary": "Đệ nhị phu nhân Usha Vance sinh con trai, đánh dấu trường hợp rất hiếm là Phó tổng thống Mỹ có thêm con trong thời gian đương nhiệm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-20T00:25:39+07:00",
+      "fetched": "2026-07-20T09:40:17.572079+07:00"
+    },
+    {
+      "id": "6e947193faa431f7618f90e8925f5256",
+      "title": "Yamal an ủi Messi sau khi vô địch World Cup 2026",
+      "link": "https://vnexpress.net/yamal-an-ui-messi-sau-khi-vo-dich-world-cup-2026-5099287.html",
+      "summary": "Tiền đạo 19 tuổi Lamine Yamal xoa lưng, động viên Lionel Messi sau khi Tây Ban Nha thắng Argentina 1-0 ở chung kết World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-20T00:11:16+07:00",
+      "fetched": "2026-07-20T09:40:22.087530+07:00"
+    },
+    {
+      "id": "69cfd0fc0124a1ad5fe2a353d92d3352",
+      "title": "'AI chỉ phát huy giá trị khi kết hợp một lĩnh vực cụ thể'",
+      "link": "https://vnexpress.net/ai-chi-phat-huy-gia-tri-khi-ket-hop-mot-linh-vuc-cu-the-5097350.html",
+      "summary": "Muốn theo đuổi AI, người trẻ cần hiểu sâu một chuyên ngành thay vì chỉ học thuật toán, biết xây dựng sản phẩm và làm việc liên ngành, theo PGS.TS Nguyễn Văn Hiển.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-20T00:00:00+07:00",
+      "fetched": "2026-07-20T09:40:21.189893+07:00"
+    },
+    {
+      "id": "cfb55a77ef2f97c1cc039484c5726008",
+      "title": "Lính Mỹ thiệt mạng khi hủy nổ UAV Iran bị bắn hạ",
+      "link": "https://vnexpress.net/linh-my-thiet-mang-khi-huy-no-uav-iran-bi-ban-ha-5099272.html",
+      "summary": "Một binh sĩ Mỹ thiệt mạng trong quá trình xử lý đầu đạn chưa phát nổ trên UAV Iran bị bắn hạ ở miền bắc Iraq.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-19T23:54:44+07:00",
+      "fetched": "2026-07-20T09:40:17.572266+07:00"
+    },
+    {
+      "id": "56e2a2641475ca04e9c7dbc6b17900f5",
+      "title": "Mbappe giành Giày Vàng World Cup thứ hai liên tiếp",
+      "link": "https://vnexpress.net/mbappe-gianh-giay-vang-world-cup-thu-hai-lien-tiep-5099279.html",
+      "summary": "Tiền đạo Kylian Mbappe lập kỷ lục khi trở thành cầu thủ đầu tiên đoạt Vua phá lưới ở hai kỳ World Cup, sau khi ghi 10 bàn năm 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-19T23:33:29+07:00",
+      "fetched": "2026-07-20T09:40:22.087691+07:00"
+    },
+    {
+      "id": "0478065c3cbcecba52b905fad69eeb5b",
+      "title": "Ẩu đả sau trận chung kết World Cup 2026",
+      "link": "https://vnexpress.net/au-da-sau-tran-chung-ket-world-cup-2026-5099273.html",
+      "summary": "Tiền vệ Argentina Leandro Paredes nhận thẻ đỏ trực tiếp vì đẩy, đánh ngã hai cầu thủ Tây Ban Nha sau khi mãn cuộc chung kết World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-19T23:30:03+07:00",
+      "fetched": "2026-07-20T09:40:22.087849+07:00"
+    },
+    {
+      "id": "a7737085e75e90fcb590c1ea2c4e7592",
+      "title": "Cuộc đua của hai doanh nghiệp giải trí trên sàn chứng khoán",
+      "link": "https://vnexpress.net/cuoc-dua-cua-hai-doanh-nghiep-giai-tri-tren-san-chung-khoan-5097917.html",
+      "summary": "Cùng sở hữu nhiều show giải trí ăn khách, nhưng DatVietVAC và Yeah1 theo đuổi hướng phát triển với hệ sinh thái, danh mục chương trình, nguồn lực khác nhau.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-19T23:05:00+07:00",
+      "fetched": "2026-07-20T09:40:18.886104+07:00"
+    },
+    {
+      "id": "ea89d643263545e12185553eaf56ed10",
+      "title": "Opta - siêu máy tính dự đoán chính xác đội vô địch World Cup 2026",
+      "link": "https://vnexpress.net/opta-sieu-may-tinh-du-doan-chinh-xac-doi-vo-dich-world-cup-2026-5099268.html",
+      "summary": "Opta tiếp tục trở thành siêu máy tính thu hút sự chú ý lớn khi dự đoán chính xác ngôi vương World Cup 2026 là Tây Ban Nha.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-19T22:59:19+07:00",
+      "fetched": "2026-07-20T09:40:21.190060+07:00"
+    },
+    {
       "id": "7b6389d02667c93c4ecbaf46d030fd21",
       "title": "Thua cay đắng Tây Ban Nha ở chung kết, cầu thủ Argentina gây ra cảnh xô xát",
       "link": "https://thanhnien.vn/thua-cay-dang-tay-ban-nha-o-chung-ket-cau-thu-argentina-gay-ra-canh-xo-xat-185260720054134676.htm",
@@ -211,6 +821,26 @@ window.newsData_2026_07_20 = {
       "category": "Tổng hợp",
       "published": "2026-07-19T22:40:00+07:00",
       "fetched": "2026-07-20T05:48:12.624800+07:00"
+    },
+    {
+      "id": "d3a7333eb2534fa213a0696cd2483675",
+      "title": "Messi bị chê 'trẻ con' khi đòi phạt thẻ đỏ Cucurella",
+      "link": "https://vnexpress.net/messi-bi-che-tre-con-khi-doi-phat-the-do-cucurella-5099260.html",
+      "summary": "Thủ quân Argentina Lionel Messi đòi trọng tài và VAR can thiệp khi hậu vệ Tây Ban Nha Marc Cucurella dùng tay che miệng nói chuyện ở chung kết World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-19T22:33:57+07:00",
+      "fetched": "2026-07-20T09:40:22.088008+07:00"
+    },
+    {
+      "id": "928a090a6bc4b1ced2fc8b2bb165ef4e",
+      "title": "Argentina chịu thông số tệ nhất lịch sử World Cup",
+      "link": "https://vnexpress.net/argentina-chiu-thong-so-te-nhat-lich-su-world-cup-5099267.html",
+      "summary": "Argentina trở thành đội đầu tiên trong lịch sử chung kết World Cup không dứt điểm lần nào trong hai hiệp chính, trước khi thua Tây Ban Nha 0-1 ở hiệp phụ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-19T22:30:10+07:00",
+      "fetched": "2026-07-20T09:40:22.088172+07:00"
     },
     {
       "id": "710a92f144b4cbc1abdf89e55d4d48af",
@@ -471,6 +1101,16 @@ window.newsData_2026_07_20 = {
       "category": "Thể thao",
       "published": "2026-07-19T18:00:00+07:00",
       "fetched": "2026-07-20T02:01:24.061193+07:00"
+    },
+    {
+      "id": "0afb784f4c94ee5db2cd01c62e3bcf52",
+      "title": "Tây Ban Nha vô địch World Cup 2026",
+      "link": "https://vnexpress.net/ket-qua-tay-ban-nha-argentina-5099246-tong-thuat.html",
+      "summary": "Tây Ban Nha tận dụng lợi thế hơn người, để thắng Argentina 1-0 sau hai hiệp phụ trận chung kết World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-19T18:00:00+07:00",
+      "fetched": "2026-07-20T09:40:22.088363+07:00"
     },
     {
       "id": "760fe9137248b7a950f5c95546afbf34",
