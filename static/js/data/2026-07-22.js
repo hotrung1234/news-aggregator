@@ -1,6 +1,6 @@
 window.newsData_2026_07_22 = {
   "date": "2026-07-22",
-  "lastUpdated": "2026-07-22T02:15:53.290339+07:00",
+  "lastUpdated": "2026-07-22T04:04:39.647571+07:00",
   "articles": [
     {
       "id": "b02480edfc6b7eb46fc6bfea6f45f86c",
@@ -171,6 +171,46 @@ window.newsData_2026_07_22 = {
       "category": "Tổng hợp",
       "published": "2026-07-22T00:14:03.406606+07:00",
       "fetched": "2026-07-22T00:14:03.406789+07:00"
+    },
+    {
+      "id": "c89d495acbf3f6e79f3433f9212aa075",
+      "title": "Hai cha con dí súng, bắt cóc nhân viên lâm nghiệp",
+      "link": "https://vnexpress.net/hai-cha-con-di-sung-bat-coc-nhan-vien-lam-nghiep-5100098.html",
+      "summary": "Joseph Henrichsen và con trai dùng súng AR-15 bắt hai nhà sinh học thuộc Cơ quan lâm nghiệp Mỹ, cố thủ trong rừng nhiều giờ trước khi đầu thú.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-21T21:00:00+07:00",
+      "fetched": "2026-07-22T04:04:34.822977+07:00"
+    },
+    {
+      "id": "8244e892f60f6e4abc462d4f3b2aaaa9",
+      "title": "Khoảnh khắc chó husky đuổi gấu cứu cậu chủ",
+      "link": "https://vnexpress.net/khoanh-khac-cho-husky-duoi-gau-cuu-cau-chu-5100035.html",
+      "summary": "Chó husky 11 tuổi của nhà Tazzara được các nghị sĩ bang Connecticut tặng bằng khen sau khi dũng cảm lao vào gấu hoang để cứu cậu chủ 6 tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T20:00:00+07:00",
+      "fetched": "2026-07-22T04:04:29.679931+07:00"
+    },
+    {
+      "id": "8244e892f60f6e4abc462d4f3b2aaaa9",
+      "title": "Khoảnh khắc chó husky đuổi gấu cứu cậu chủ",
+      "link": "https://vnexpress.net/khoanh-khac-cho-husky-duoi-gau-cuu-cau-chu-5100035.html",
+      "summary": "Chó husky 11 tuổi của nhà Tazzara được các nghị sĩ bang Connecticut tặng bằng khen sau khi dũng cảm lao vào gấu hoang để cứu cậu chủ 6 tuổi.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-21T20:00:00+07:00",
+      "fetched": "2026-07-22T04:04:34.823097+07:00"
+    },
+    {
+      "id": "4800b10cd7ae10cf2f4ee5952d1ec0ae",
+      "title": "Có nên trùm chăn kín đầu khi ngủ?",
+      "link": "https://vnexpress.net/co-nen-trum-chan-kin-dau-khi-ngu-5099343.html",
+      "summary": "Bạn có thể bị ngạt thở, nhiễm vi khuẩn, ngưng thở khi ngủ, ngủ không sâu giấc, mệt mỏi, ngột ngạt nếu có thói quen trùm kín đầu khi ngủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-21T19:04:00+07:00",
+      "fetched": "2026-07-22T04:04:29.680058+07:00"
     },
     {
       "id": "7f305c603305723bac2296c7d24c9c19",
