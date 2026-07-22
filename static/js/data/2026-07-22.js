@@ -1,7 +1,157 @@
 window.newsData_2026_07_22 = {
   "date": "2026-07-22",
-  "lastUpdated": "2026-07-22T09:22:15.798735+07:00",
+  "lastUpdated": "2026-07-22T13:25:19.513823+07:00",
   "articles": [
+    {
+      "id": "36fc61d292003f280ab43731cde66233",
+      "title": "Spider-Man: Brand New Day tung trailer cuối, Người Nhện đối mặt với mối đe dọa mới",
+      "link": "https://tuoitre.vn/spider-man-brand-new-day-tung-trailer-cuoi-nguoi-nhen-doi-mat-voi-moi-de-doa-moi-100260722110027763.htm",
+      "summary": "Trailer cuối của bom tấn Spider-Man: Brand New Day nhìn lại hành trình của Peter Parker sau biến cố No Way Home và hé lộ những thử thách mới đang chờ đợi Người Nhện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T13:25:12.245350+07:00",
+      "fetched": "2026-07-22T13:25:12.245395+07:00"
+    },
+    {
+      "id": "37f37b257e38cebe6cad158a8c050d16",
+      "title": "Sao sáng dẫn đường, Mãi mãi tuổi 20 tri ân các anh hùng liệt sĩ",
+      "link": "https://tuoitre.vn/sao-sang-dan-duong-mai-mai-tuoi-20-tri-an-cac-anh-hung-liet-si-100260722112917009.htm",
+      "summary": "Nhân kỷ niệm 79 năm Ngày Thương binh - Liệt sĩ, VTV phát sóng hai chương trình nghệ thuật đặc biệt quy mô lớn là Sao sáng dẫn đường và Mãi mãi tuổi 20.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T13:25:12.245298+07:00",
+      "fetched": "2026-07-22T13:25:12.245342+07:00"
+    },
+    {
+      "id": "d8ecd446d5f65ac22b8b92d1a8a3928b",
+      "title": "Làng Lá vừa tìm được người kế thừa di sản của Jiraiya trong Boruto?",
+      "link": "https://tuoitre.vn/lang-la-vua-tim-duoc-nguoi-ke-thua-di-san-cua-jiraiya-trong-boruto-1002607212121278.htm",
+      "summary": "Chương 36 của Boruto: Two Blue Vortex đánh dấu bước ngoặt khi làng Lá lần đầu xác nhận Kashin Koji mang chakra của Jiraiya, mở ra vai trò mới cho bản sao của 'Tiên nhân háo sắc' tại làng Lá.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T13:25:12.245238+07:00",
+      "fetched": "2026-07-22T13:25:12.245290+07:00"
+    },
+    {
+      "id": "73c15c2bbbc027d0edba699c419a9fdb",
+      "title": "Kết quả điểm thi tốt nghiệp THPT 2026 tỉnh Quảng Trị ra sao?",
+      "link": "https://tuoitre.vn/ket-qua-diem-thi-tot-nghiep-thpt-2026-tinh-quang-tri-ra-sao-100260722110348621.htm",
+      "summary": "Kết quả thi tốt nghiệp THPT 2026 của học sinh tỉnh Quảng Trị có sự tiến bộ vượt bậc so với năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T13:25:12.245184+07:00",
+      "fetched": "2026-07-22T13:25:12.245231+07:00"
+    },
+    {
+      "id": "76923d74ef320ece9523803f7579823c",
+      "title": "Đầu tư cổ phiếu FPT và KDH, Vietcap tạm lỗ gần 400 tỉ đồng",
+      "link": "https://tuoitre.vn/dau-tu-co-phieu-fpt-va-kdh-vietcap-tam-lo-gan-400-ti-dong-100260722113104175.htm",
+      "summary": "Tại ngày 30-6, Vietcap tạm ghi nhận lỗ 212,3 tỉ đồng với khoản đầu tư vào FPT, MWG là 34,9 tỉ và KDH là 186,8 tỉ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T13:25:12.245133+07:00",
+      "fetched": "2026-07-22T13:25:12.245176+07:00"
+    },
+    {
+      "id": "5ee2d02002be4d146f0920234c0100db",
+      "title": "Thị trưởng New York thừa nhận không thể bắt ông Netanyahu",
+      "link": "https://tuoitre.vn/thi-truong-new-york-thua-nhan-khong-the-bat-ong-netanyahu-100260722114105009.htm",
+      "summary": "Thị trưởng New York cho biết chính quyền thành phố không có thẩm quyền pháp lý để thực thi lệnh bắt giữ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T13:25:12.245077+07:00",
+      "fetched": "2026-07-22T13:25:12.245125+07:00"
+    },
+    {
+      "id": "18bc17fe7bd8760c4f3cb26e5a02030b",
+      "title": "LPBank đạt gần 6.000 tỉ đồng lợi nhuận sau 6 tháng đầu năm 2026",
+      "link": "https://tuoitre.vn/lpbank-dat-gan-6000-ti-dong-loi-nhuan-sau-6-thang-dau-nam-2026-100260722104637339.htm",
+      "summary": "Trong bối cảnh NIM toàn ngành ngân hàng tiếp tục chịu áp lực, Ngân hàng TMCP Lộc Phát Việt Nam (LPBank) cho biết vẫn duy trì đà tăng trưởng tích cực với tổng tài sản vượt 615 nghìn tỉ đồng, huy động vốn và tín dụng tăng trưởng đồng đều.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T13:25:12.245022+07:00",
+      "fetched": "2026-07-22T13:25:12.245068+07:00"
+    },
+    {
+      "id": "65ca70173926a520f4a2c119f8fd8c1a",
+      "title": "Kết nối sân bay Long Thành: Lo điểm nghẽn ở nút giao An Phú",
+      "link": "https://tuoitre.vn/ket-noi-san-bay-long-thanh-lo-diem-nghen-o-nut-giao-an-phu-100260714144646982.htm",
+      "summary": "Các dự án cao tốc, vành đai kết nối TP.HCM với sân bay Long Thành và vùng Đông Nam Bộ đang tăng tốc về đích. Nhưng nút giao An Phú tiếp tục lùi tiến độ hoàn thành đến quý 3-2027, có nguy cơ ảnh hưởng năng lực kết nối với sân bay Long Thành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T13:25:12.244964+07:00",
+      "fetched": "2026-07-22T13:25:12.245014+07:00"
+    },
+    {
+      "id": "e1d80afb437fb76deda2959bdd731e64",
+      "title": "MCH vừa vào rổ VN30, Tổng giám đốc Masan Consumer muốn mua 2,7 triệu cổ phiếu",
+      "link": "https://tuoitre.vn/mch-vua-vao-ro-vn30-tong-giam-doc-masan-consumer-muon-mua-27-trieu-co-phieu-100260722112941566.htm",
+      "summary": "Nếu hoàn tất giao dịch, CEO Masan Consumer sẽ nâng sở hữu tại MCH từ 0,315% lên 0,522% vốn điều lệ, tương ứng nắm giữ hơn 6,8 triệu cổ phiếu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T13:25:12.244910+07:00",
+      "fetched": "2026-07-22T13:25:12.244956+07:00"
+    },
+    {
+      "id": "af0819b2b18cdf0a2a89df98dd70b8ce",
+      "title": "Loạt mã bluechip 'gục ngã', VN-Index mất thêm 38 điểm, thủng mốc 1.700",
+      "link": "https://tuoitre.vn/loat-ma-bluechip-guc-nga-vn-index-mat-them-38-diem-thung-moc-1700-100260722114946555.htm",
+      "summary": "Sắc đỏ bao trùm thị trường trong phiên sáng 22-7 khi nhóm cổ phiếu vốn hóa lớn đồng loạt giảm sâu, kéo VN-Index mất hơn 38 điểm và thủng mốc 1.700 điểm. Chỉ sau ba phiên đầu tuần, chỉ số đã bốc hơi gần 95 điểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T13:25:12.244855+07:00",
+      "fetched": "2026-07-22T13:25:12.244903+07:00"
+    },
+    {
+      "id": "3b7f2d142e5e833f79e15c62bbebf8b9",
+      "title": "5 câu thoại đáng nhớ nhất Thanh gươm diệt quỷ",
+      "link": "https://tuoitre.vn/5-cau-thoai-dang-nho-nhat-thanh-guom-diet-quy-100260721231217907.htm",
+      "summary": "Không chỉ có những màn chiến đấu mãn nhãn, manga Thanh gươm diệt quỷ còn ghi dấu với nhiều câu thoại trở thành biểu tượng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T13:25:12.244797+07:00",
+      "fetched": "2026-07-22T13:25:12.244846+07:00"
+    },
+    {
+      "id": "8d60af6bcb5de28fb1a373e9e47dea79",
+      "title": "Quảng bá TP.HCM bằng sản phẩm du lịch văn hóa",
+      "link": "https://tuoitre.vn/quang-ba-tphcm-bang-san-pham-du-lich-van-hoa-100260722114847286.htm",
+      "summary": "Trưa 22-7, Trung tâm Nghệ thuật TP.HCM và Trung tâm Xúc tiến du lịch TP.HCM đã có lễ ký kết nhằm phát huy hiệu quả liên kết giữa văn hóa và du lịch, góp phần quảng bá hình ảnh TP.HCM thông qua phát triển du lịch văn hóa, công nghiệp sáng tạo và công nghiệp văn hóa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T13:25:12.244743+07:00",
+      "fetched": "2026-07-22T13:25:12.244788+07:00"
+    },
+    {
+      "id": "83998d0b2454b473b38a5b1560187f94",
+      "title": "Hunter x Hunter bất ngờ đưa Gon và Killua trở lại sau hơn 12 năm",
+      "link": "https://tuoitre.vn/hunter-x-hunter-bat-ngo-dua-gon-va-killua-tro-lai-sau-hon-12-nam-100260721224223549.htm",
+      "summary": "Gon và Killua chính thức trở lại trong chương 414 của manga Hunter x Hunter sau hơn 12 năm vắng bóng, mở ra bước ngoặt mới của cuộc chiến kế vị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T13:25:12.244680+07:00",
+      "fetched": "2026-07-22T13:25:12.244734+07:00"
+    },
+    {
+      "id": "13409ff6f51c8b27ddcdd0f474965fb5",
+      "title": "Trường ĐH Công nghệ thông tin nghiêm cấm giữ chỗ, nhường suất khi đăng ký học phần",
+      "link": "https://tuoitre.vn/truong-dh-cong-nghe-thong-tin-nghiem-cam-giu-cho-nhuong-suat-khi-dang-ky-hoc-phan-100260722114245821.htm",
+      "summary": "Trường đại học Công nghệ thông tin (Đại học Quốc gia TP.HCM) nghiêm cấm sinh viên đăng ký giữ chỗ, nhường suất học hoặc sử dụng công cụ tự động để can thiệp vào hệ thống.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T13:25:12.244608+07:00",
+      "fetched": "2026-07-22T13:25:12.244671+07:00"
+    },
+    {
+      "id": "d7f93e304c082225a4cb47a0e3f25fa5",
+      "title": "Thuê người giúp việc nhưng không thông báo cho UBND xã có thể bị phạt tới 3 triệu đồng",
+      "link": "https://tuoitre.vn/thue-nguoi-giup-viec-nhung-khong-thong-bao-cho-ubnd-xa-co-the-bi-phat-toi-3-trieu-dong-10026072211565164.htm",
+      "summary": "Theo nghị định của Chính phủ, nếu không thông báo cho UBND xã, phường, đặc khu về thuê và chấm dứt thuê người giúp việc có thể bị phạt tới 3 triệu đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T13:25:12.244427+07:00",
+      "fetched": "2026-07-22T13:25:12.244595+07:00"
+    },
     {
       "id": "829a55211beeeb230c75951ebcec2959",
       "title": "Metro số 2 Thủ Dầu Một - TP.HCM: Dự kiến đi qua 18 phường, từ Bình Dương đến Bàn Cờ",
@@ -153,6 +303,56 @@ window.newsData_2026_07_22 = {
       "fetched": "2026-07-22T09:22:09.640788+07:00"
     },
     {
+      "id": "6680f70f9a6b90031b97fa712d61d587",
+      "title": "Báo Thanh Niên xây cầu mới: Giấc mơ của xóm nhỏ Cần Thơ thành hiện thực",
+      "link": "https://thanhnien.vn/bao-thanh-nien-xay-cau-moi-giac-mo-cua-xom-nho-can-tho-thanh-hien-thuc-18526072213014921.htm",
+      "summary": "Chỉ hơn một tháng sau khi Báo Thanh Niên phản ánh, cầu Rạch Bờ Dừa xuống cấp, khiến hàng trăm hộ dân ở xã Châu Thành, TP.Cần Thơ thấp thỏm suốt nhiều năm, đã chính thức được khởi công xây mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T06:12:00+07:00",
+      "fetched": "2026-07-22T13:25:10.023668+07:00"
+    },
+    {
+      "id": "eeb09d19482978e447b85198f04febf1",
+      "title": "3 tính năng Google Maps dành riêng cho xe điện",
+      "link": "https://thanhnien.vn/3-tinh-nang-google-maps-danh-rieng-cho-xe-dien-185260722130339242.htm",
+      "summary": "Lái xe điện đường dài không lo lắng nhờ 3 ‘tuyệt chiêu’ đơn giản trên Google Maps.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T06:11:00+07:00",
+      "fetched": "2026-07-22T13:25:10.023823+07:00"
+    },
+    {
+      "id": "b2e079cf7f67acd44d04d4240a721c64",
+      "title": "TP.HCM dự kiến đặt tên, đổi tên đường khu vực sân bay Tân Sơn Nhất",
+      "link": "https://thanhnien.vn/tphcm-du-kien-dat-ten-doi-ten-duong-khu-vuc-san-bay-tan-son-nhat-185260722124629299.htm",
+      "summary": "Sở Văn hóa - Thể thao TP.HCM đang triển khai đặt tên, đổi tên đường nhiều phường, xã, trong đó có khu vực sân bay Tân Sơn Nhất, phường An Khánh, xã Bình Hưng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T06:06:00+07:00",
+      "fetched": "2026-07-22T13:25:10.023959+07:00"
+    },
+    {
+      "id": "ae40c2d25e770208da3aaf436cefddae",
+      "title": "Hơn 500 người, 14 xe chữa cháy khống chế cháy rừng phòng hộ ven biển Gia Lai",
+      "link": "https://thanhnien.vn/hon-500-nguoi-14-xe-chua-chay-khong-che-chay-rung-phong-ho-ven-bien-gia-lai-185260722121523567.htm",
+      "summary": "Lực lượng chức năng tỉnh Gia Lai huy động hơn 500 người và 14 xe chữa cháy để khống chế vụ cháy khoảng 30 ha rừng phòng hộ ven biển ở xã Phù Mỹ Đông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T05:56:00+07:00",
+      "fetched": "2026-07-22T13:25:10.024094+07:00"
+    },
+    {
+      "id": "927e25680fb896466ee00694c196cfc0",
+      "title": "Lâm Đồng tuyển 1.770 học sinh vào 2 trường nội trú liên cấp vùng biên giới",
+      "link": "https://thanhnien.vn/lam-dong-tuyen-1770-hoc-sinh-vao-2-truong-noi-tru-lien-cap-vung-bien-gioi-185260722115323161.htm",
+      "summary": "UBND tỉnh Lâm Đồng vừa phê duyệt kế hoạch tuyển 1.770 học sinh vào 2 trường phổ thông nội trú liên cấp tại khu vực biên giới trong năm học 2026 - 2027, đồng thời khẩn trương hoàn thiện cơ sở vật chất để các trường kịp đưa vào hoạt động trước ngày khai giảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T05:55:00+07:00",
+      "fetched": "2026-07-22T13:25:10.024220+07:00"
+    },
+    {
       "id": "1c123f79f9c7dbfc450e578b0581fc16",
       "title": "Thủ tướng Việt Nam - Canada lần đầu điện đàm, nhất trí sớm nâng tầm quan hệ song phương",
       "link": "https://tuoitre.vn/thu-tuong-viet-nam-canada-lan-dau-dien-dam-nhat-tri-som-nang-tam-quan-he-song-phuong-100260721234444306.htm",
@@ -201,6 +401,386 @@ window.newsData_2026_07_22 = {
       "category": "Tổng hợp",
       "published": "2026-07-22T05:52:42.181200+07:00",
       "fetched": "2026-07-22T05:52:42.181339+07:00"
+    },
+    {
+      "id": "6642e04f6a9c2d275b60f86a599537f7",
+      "title": "Siêu anh hùng Marvel đại chiến Doctor Doom trong bom tấn 'Avengers: Doomsday'",
+      "link": "https://thanhnien.vn/sieu-anh-hung-marvel-dai-chien-doctor-doom-trong-bom-tan-avengers-doomsday-185260722120259921.htm",
+      "summary": "Trailer đầu tiên của 'Avengers: Doomsday' vừa được Marvel Studios công bố nhanh chóng trở thành tâm điểm truyền thông quốc tế, đánh dấu sự trở lại đầy bất ngờ của Robert Downey Jr. trong vai phản diện mới của MCU.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T05:46:00+07:00",
+      "fetched": "2026-07-22T13:25:10.024341+07:00"
+    },
+    {
+      "id": "080c29247fbab2d5ebf6366a4dae9ce5",
+      "title": "Danh tính người đàn ông tình tứ cùng Jennie (Black Pink) được tiết lộ",
+      "link": "https://thanhnien.vn/danh-tinh-nguoi-dan-ong-tinh-tu-cung-jennie-black-pink-duoc-tiet-lo-185260722121943428.htm",
+      "summary": "Giữa đêm 18.7, Jennie (Black Pink) bất ngờ tung loạt ảnh thân mật bên một người đàn ông lạ mặt, khiến cộng đồng người hâm mộ không khỏi xôn xao. Đây được xác định là những hình ảnh 'nhá hàng' cho MV 'Less than a Lover' sắp phát hành. Ngay sau đó, danh tính bạn diễn của nữ ca sĩ trở thành chủ đề được...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T05:41:00+07:00",
+      "fetched": "2026-07-22T13:25:10.024461+07:00"
+    },
+    {
+      "id": "deb5ccc1244e58ef2b5f4519cac69045",
+      "title": "Vì sao loạt biệt thự cổ giữa trung tâm TP.HCM bỏ hoang nhiều năm?",
+      "link": "https://thanhnien.vn/vi-sao-loat-biet-thu-co-giua-trung-tam-tphcm-bo-hoang-nhieu-nam-185260722112157653.htm",
+      "summary": "Giữa trung tâm TP.HCM, nhiều biệt thự cổ xuống cấp và bị bỏ hoang. Sở Quy hoạch - Kiến trúc TP.HCM chỉ ra các nút thắt và định hướng 'hồi sinh'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T05:40:00+07:00",
+      "fetched": "2026-07-22T13:25:10.024600+07:00"
+    },
+    {
+      "id": "08440ef9162024dd8c6360b8406f626b",
+      "title": "Đám cháy rừng ven biển Gia Lai nhìn từ trên cao",
+      "link": "https://vnexpress.net/dam-chay-rung-ven-bien-gia-lai-nhin-tu-tren-cao-5100281.html",
+      "summary": "Nhìn từ trên cao, cánh rừng phòng hộ ven biển ở Gia Lai đỏ rực trong biển lửa, hàng trăm người xuyên đêm khống chế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T05:38:31+07:00",
+      "fetched": "2026-07-22T13:25:06.842728+07:00"
+    },
+    {
+      "id": "aafbd160293cb59fc54cc9c66809d5ef",
+      "title": "Xe máy điện đua mẫu mã mùa tựu trường, nhiều lựa chọn giá chỉ hơn 11 triệu",
+      "link": "https://thanhnien.vn/xe-may-dien-dua-mau-ma-mua-tuu-truong-nhieu-lua-chon-gia-chi-hon-11-trieu-185260720164907127.htm",
+      "summary": "Thị trường xe máy điện dành cho học sinh bắt đầu sôi động trước năm học mới, khi các hãng liên tiếp bổ sung mẫu mã, mở rộng dải giá. Nhiều mẫu xe hiện niêm yết giá chỉ hơn 11 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T05:38:00+07:00",
+      "fetched": "2026-07-22T13:25:10.024725+07:00"
+    },
+    {
+      "id": "055d1f36822588f60b63d878031b3fea",
+      "title": "Chú mèo Thái Lan nổi tiếng vì dẫn du khách đi mua đồ ăn",
+      "link": "https://vnexpress.net/chu-meo-thai-lan-noi-tieng-vi-dan-du-khach-di-mua-do-an-5100191.html",
+      "summary": "Chú mèo trên đảo Phi Phi, tỉnh Krabi, trở thành hiện tượng mạng sau nhiều lần dẫn du khách vào cửa hàng tiện lợi rồi \"thuyết phục\" họ mua thức ăn cho nó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T05:31:00+07:00",
+      "fetched": "2026-07-22T13:25:06.842898+07:00"
+    },
+    {
+      "id": "e452a32ecaad51a328282b275adabc09",
+      "title": "Vì sao Trấn Thành gây tranh cãi?",
+      "link": "https://thanhnien.vn/vi-sao-tran-thanh-gay-tranh-cai-185260722114949715.htm",
+      "summary": "Sau khi Trấn Thành được bình chọn vào danh sách đề cử 100 gương mặt đẹp trai nhất thế giới của TC Candler, mạng xã hội xuất hiện nhiều ý kiến trái chiều.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T05:30:00+07:00",
+      "fetched": "2026-07-22T13:25:10.024846+07:00"
+    },
+    {
+      "id": "949a0466fe027c0a81f907756142192e",
+      "title": "Kiều hối về TP HCM giảm xuống 4 tỷ USD",
+      "link": "https://vnexpress.net/kieu-hoi-ve-tp-hcm-giam-xuong-4-ty-usd-5100333.html",
+      "summary": "Nửa đầu năm nay, kiều hối về TP HCM giảm hơn 20% so với cùng kỳ năm ngoái, ước đạt 4 tỷ USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T05:23:50+07:00",
+      "fetched": "2026-07-22T13:25:06.843041+07:00"
+    },
+    {
+      "id": "949a0466fe027c0a81f907756142192e",
+      "title": "Kiều hối về TP HCM giảm xuống 4 tỷ USD",
+      "link": "https://vnexpress.net/kieu-hoi-ve-tp-hcm-giam-xuong-4-ty-usd-5100333.html",
+      "summary": "Nửa đầu năm nay, kiều hối về TP HCM giảm hơn 20% so với cùng kỳ năm ngoái, ước đạt 4 tỷ USD.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-22T05:23:50+07:00",
+      "fetched": "2026-07-22T13:25:14.848266+07:00"
+    },
+    {
+      "id": "37911dcc3dacd21107ebaed28963493d",
+      "title": "Điều lệ ban đại diện cha mẹ học sinh: Cần giải quyết tận gốc bức xúc",
+      "link": "https://thanhnien.vn/dieu-le-ban-dai-dien-cha-me-hoc-sinh-can-giai-quyet-tan-goc-buc-xuc-185260722105749701.htm",
+      "summary": "Dự thảo Thông tư ban hành Điều lệ Ban đại diện cha mẹ học sinh có nhiều điểm mới nhằm siết chặt tình trạng lạm thu. Tuy nhiên, nếu điều lệ mới chỉ dừng ở việc quy định 'được làm gì, không được làm gì' mà thiếu cơ chế giám sát, xử lý vi phạm thì rất khó giải quyết tận gốc những bức xúc đã kéo dài nhi...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T05:23:00+07:00",
+      "fetched": "2026-07-22T13:25:10.024965+07:00"
+    },
+    {
+      "id": "42d3769f5ddde1c84fd491ecc4325806",
+      "title": "VN-Index thủng mốc 1.700 điểm",
+      "link": "https://vnexpress.net/vn-index-thung-moc-1-700-diem-5100338.html",
+      "summary": "Nhà đầu tư tiếp tục bán tháo chứng khoán khiến VN-Index mất thêm 37 điểm trong phiên sáng nay, thủng mốc tâm lý 1.700 điểm sau hơn 4 tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T05:21:13+07:00",
+      "fetched": "2026-07-22T13:25:06.843248+07:00"
+    },
+    {
+      "id": "42d3769f5ddde1c84fd491ecc4325806",
+      "title": "VN-Index thủng mốc 1.700 điểm",
+      "link": "https://vnexpress.net/vn-index-thung-moc-1-700-diem-5100338.html",
+      "summary": "Nhà đầu tư tiếp tục bán tháo chứng khoán khiến VN-Index mất thêm 37 điểm trong phiên sáng nay, thủng mốc tâm lý 1.700 điểm sau hơn 4 tháng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-22T05:21:13+07:00",
+      "fetched": "2026-07-22T13:25:14.848418+07:00"
+    },
+    {
+      "id": "12a96ef54306a6b18cf708928a7e27e3",
+      "title": "Nhiều vị trí tuyển gấp: Thu nhập cao, hỗ trợ chỗ ở, tiền nuôi con...",
+      "link": "https://thanhnien.vn/nhieu-vi-tri-tuyen-gap-thu-nhap-cao-ho-tro-cho-o-tien-nuoi-con-185260722092609926.htm",
+      "summary": "Nhiều doanh nghiệp tuyển gấp lao động với thu nhập cao và loạt chính sách hấp dẫn như: miễn phí ký túc xá, hỗ trợ tiền nuôi con nhỏ và nhiều khoản phúc lợi nhằm thu hút, giữ chân người lao động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T05:21:00+07:00",
+      "fetched": "2026-07-22T13:25:10.025080+07:00"
+    },
+    {
+      "id": "df5ceba879fce52635c84b39f345c205",
+      "title": "Hai anh em được bố mẹ cứu khỏi xe khách cháy qua cơn nguy kịch",
+      "link": "https://vnexpress.net/hai-anh-em-duoc-bo-me-cuu-khoi-xe-khach-chay-qua-con-nguy-kich-5100275.html",
+      "summary": "Bé gái 2 tuổi không bị bỏng đường hô hấp, còn bé trai 7 tuổi bỏng 50% cơ thể song sức khỏe ổn định sau một ngày điều trị, do tai nạn cháy xe khách ở Đồng Nai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T05:20:25+07:00",
+      "fetched": "2026-07-22T13:25:06.843384+07:00"
+    },
+    {
+      "id": "bb23f33e4b435f593af52ba88483977b",
+      "title": "Đến Trung Quốc nhiều thứ 4, khách Việt đi những đâu?",
+      "link": "https://thanhnien.vn/den-trung-quoc-nhieu-thu-4-khach-viet-di-nhung-dau-185260722111530576.htm",
+      "summary": "Việt Nam đứng thứ 4 trong số các thị trường gửi khách lớn nhất đến Trung Quốc trong nửa đầu năm 2026. Không chỉ các tuyến quen thuộc, khách Việt ngày càng tìm đến Tân Cương, Tây Tạng, Quý Châu và những hành trình chuyên sâu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T05:17:00+07:00",
+      "fetched": "2026-07-22T13:25:10.025203+07:00"
+    },
+    {
+      "id": "c98711ce27008c1549d291ea2a6aee5b",
+      "title": "Cháy công ty may ở Đồng Tháp",
+      "link": "https://vnexpress.net/chay-cong-ty-may-o-dong-thap-5100323.html",
+      "summary": "Ngọn lửa bùng lên tại kho chứa nguyên vật liệu rộng khoảng 10.000 m2 của công ty may, hàng trăm công nhân được sơ tán, sáng 22/7.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T05:16:07+07:00",
+      "fetched": "2026-07-22T13:25:06.843514+07:00"
+    },
+    {
+      "id": "f87a305c034bd15ef39f86b40413a820",
+      "title": "Vợ chồng tôi lương 30 triệu cuối tháng hết sạch tiền",
+      "link": "https://vnexpress.net/chi-phi-sinh-hoat-tang-vo-chong-o-tp-hcm-luong-30-trieu-nhung-cuoi-thang-het-tien-5100264.html",
+      "summary": "Nhiều đêm, vợ chồng tôi ngồi cộng trừ các khoản chi trong tháng rồi chỉ biết thở dài tự hỏi: 'Rốt cuộc phải tiết kiệm bằng cách nào?'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T05:15:38+07:00",
+      "fetched": "2026-07-22T13:25:06.843700+07:00"
+    },
+    {
+      "id": "37350212f0629a3280f37fee125355c6",
+      "title": "Sedan hạng C dưới 900 triệu: Mazda3 chiếm hơn 70% thị phần, Toyota Corolla Altis dừng bước",
+      "link": "https://thanhnien.vn/sedan-hang-c-duoi-900-trieu-mazda3-chiem-hon-70-thi-phan-toyota-corolla-altis-dung-buoc-185260715115622017.htm",
+      "summary": "Lượng tiêu thụ ô tô sedan hạng C dưới 900 triệu đồng tại Việt Nam sụt giảm hơn 25% trong nửa đầu năm 2026; Mazda3 vẫn là mẫu xe bán chạy nhất và chiếm hơn 70% thị phần, trong khi các mẫu xe Hàn Quốc dần \"đuối sức\", Toyota Corolla Altis cũng dừng bước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T05:14:00+07:00",
+      "fetched": "2026-07-22T13:25:10.025326+07:00"
+    },
+    {
+      "id": "a56d2b51038e00d18ffcc65c61f48312",
+      "title": "Lan tỏa trên mạng xã hội: Hành trình cùng tỏa sáng của hai quán quân",
+      "link": "https://thanhnien.vn/lan-toa-tren-mang-xa-hoi-hanh-trinh-cung-toa-sang-cua-hai-quan-quan-185260721202030012.htm",
+      "summary": "Trong những cuộc thi pha chế luôn đòi hỏi sự sáng tạo và cạnh tranh, Nguyễn Hoàng Tú Quyên (29 tuổi) và Phan Thanh Nam (31 tuổi, TP.HCM) lại chọn một cách đồng hành khác: thay vì cố gắng vượt qua nhau, họ luôn tìm cách giúp người còn lại trở nên tốt hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T05:12:00+07:00",
+      "fetched": "2026-07-22T13:25:10.025443+07:00"
+    },
+    {
+      "id": "e136cd93b027dd07f28dda39b7128294",
+      "title": "Có nên bỏ một nhà vệ sinh để làm thêm phòng ngủ?",
+      "link": "https://vnexpress.net/co-nen-bo-mot-nha-ve-sinh-de-lam-them-phong-ngu-5099999.html",
+      "summary": "Căn hộ 75 m2 cần thêm phòng ngủ để đón ông bà về ở, gia đình phân vân có nên bỏ một nhà vệ sinh để tăng diện tích sử dụng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T05:05:00+07:00",
+      "fetched": "2026-07-22T13:25:06.843840+07:00"
+    },
+    {
+      "id": "8a9e42f853654464e8b0e803a120079a",
+      "title": "Nhà khoa học Việt phát triển phòng thí nghiệm tự tổng hợp vật liệu",
+      "link": "https://vnexpress.net/nha-khoa-hoc-viet-phat-trien-phong-thi-nghiem-tu-tong-hop-vat-lieu-5097785.html",
+      "summary": "Các nhà nghiên cứu tại Viện Khoa học vật liệu đang triển khai mô hình phòng thí nghiệm tự động tổng hợp vật liệu tiên tiến, độ chính xác và hiệu suất vượt trội so với con người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T05:00:00+07:00",
+      "fetched": "2026-07-22T13:25:06.843970+07:00"
+    },
+    {
+      "id": "8a9e42f853654464e8b0e803a120079a",
+      "title": "Nhà khoa học Việt phát triển phòng thí nghiệm tự tổng hợp vật liệu",
+      "link": "https://vnexpress.net/nha-khoa-hoc-viet-phat-trien-phong-thi-nghiem-tu-tong-hop-vat-lieu-5097785.html",
+      "summary": "Các nhà nghiên cứu tại Viện Khoa học vật liệu đang triển khai mô hình phòng thí nghiệm tự động tổng hợp vật liệu tiên tiến, độ chính xác và hiệu suất vượt trội so với con người.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-22T05:00:00+07:00",
+      "fetched": "2026-07-22T13:25:17.795559+07:00"
+    },
+    {
+      "id": "ebc918f1046d3e9f3b111bb852bf7f5d",
+      "title": "Trung Quốc, Philippines chỉ trích nhau sau vụ chạm trán ở Biển Đông",
+      "link": "https://vnexpress.net/trung-quoc-philippines-chi-trich-nhau-sau-vu-cham-tran-o-bien-dong-5100251.html",
+      "summary": "Trung Quốc và Philippines triệu đại sứ của nhau để phản đối, sau khi lực lượng hai nước đụng độ tại bãi Cỏ Mây đầu tuần này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T04:55:25+07:00",
+      "fetched": "2026-07-22T13:25:06.844094+07:00"
+    },
+    {
+      "id": "ebc918f1046d3e9f3b111bb852bf7f5d",
+      "title": "Trung Quốc, Philippines chỉ trích nhau sau vụ chạm trán ở Biển Đông",
+      "link": "https://vnexpress.net/trung-quoc-philippines-chi-trich-nhau-sau-vu-cham-tran-o-bien-dong-5100251.html",
+      "summary": "Trung Quốc và Philippines triệu đại sứ của nhau để phản đối, sau khi lực lượng hai nước đụng độ tại bãi Cỏ Mây đầu tuần này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-22T04:55:25+07:00",
+      "fetched": "2026-07-22T13:25:13.548815+07:00"
+    },
+    {
+      "id": "dea23287d1660ea5607832842f9180dc",
+      "title": "VinFast Kyo - đối trọng mới của Honda Vision",
+      "link": "https://vnexpress.net/vinfast-kyo-doi-trong-moi-cua-honda-vision-5100295.html",
+      "summary": "Kyo có tầm hoạt động 160 km (hai pin), tốc độ tối đa 64 km/h, giá 30-35,5 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T04:49:46+07:00",
+      "fetched": "2026-07-22T13:25:06.844223+07:00"
+    },
+    {
+      "id": "219c72630fb3fd5c613a2e5b831c58f3",
+      "title": "Vùng núi phía Bắc mưa lớn, nhiều nơi nguy cơ sạt lở",
+      "link": "https://vnexpress.net/vung-nui-phia-bac-mua-lon-nhieu-noi-nguy-co-sat-lo-5100297.html",
+      "summary": "Từ đêm 23 đến ngày 25/7, Bắc Bộ dự báo mưa 70-150 mm, cục bộ trên 250 mm, 6 tỉnh vùng núi tiếp tục đối diện nguy cơ sạt lở, lũ quét.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T04:49:28+07:00",
+      "fetched": "2026-07-22T13:25:06.844348+07:00"
+    },
+    {
+      "id": "d24fe1081ee3f392ef41716726e52ed2",
+      "title": "Con gái út của Brad Pitt nộp đơn bỏ họ bố",
+      "link": "https://vnexpress.net/con-gai-ut-cua-brad-pitt-nop-don-bo-ho-bo-5100226.html",
+      "summary": "Vivienne - con gái út của Brad Pitt và Angelina Jolie - nộp đơn xin tòa bỏ họ bố không lâu sau khi tròn 18 tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T04:32:19+07:00",
+      "fetched": "2026-07-22T13:25:06.844474+07:00"
+    },
+    {
+      "id": "9487631787d526ee7337cb4cb7ca46d9",
+      "title": "Thế giới quy định thế nào về thời gian lái xe của tài xế xe khách?",
+      "link": "https://vnexpress.net/the-gioi-quy-dinh-the-nao-ve-thoi-gian-lai-xe-cua-tai-xe-xe-khach-5100256.html",
+      "summary": "EU yêu cầu nghỉ sau 4,5 giờ lái, Mỹ giới hạn giờ làm, Australia quy trách nhiệm cả doanh nghiệp nhằm giảm nguy cơ tài xế buồn ngủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T04:27:13+07:00",
+      "fetched": "2026-07-22T13:25:06.844617+07:00"
+    },
+    {
+      "id": "1f9cd0cde0f32eee3e8577e1cf47c63c",
+      "title": "Vì tôi nghèo, vợ cũ rời đi để đến với người đáng tuổi cha chú",
+      "link": "https://vnexpress.net/vi-toi-ngheo-vo-cu-roi-di-de-den-voi-nguoi-dang-tuoi-cha-chu-5100214.html",
+      "summary": "Tôi hận em vì em đã làm gia đình tan nát, con thơ phải đi về giữa ba mẹ, nhưng tôi cũng chẳng làm được gì em.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T04:00:00+07:00",
+      "fetched": "2026-07-22T13:25:06.844744+07:00"
+    },
+    {
+      "id": "c3ed3bd964e5f23e1a0f85113cdc0752",
+      "title": "Lầu Năm Góc nguy cơ cạn tiền vì chiến sự Iran kéo dài",
+      "link": "https://vnexpress.net/lau-nam-goc-nguy-co-can-tien-vi-chien-su-iran-keo-dai-5100182.html",
+      "summary": "Chiến sự Iran kéo dài đang đẩy Lầu Năm Góc vào nguy cơ cạn tiền, trong khi bất đồng tại quốc hội khiến các khoản ngân sách khẩn cấp vẫn tắc nghẽn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-22T03:59:33+07:00",
+      "fetched": "2026-07-22T13:25:13.548974+07:00"
+    },
+    {
+      "id": "013f87a85dfeb8625de4e0d69006834a",
+      "title": "12 đề cử bàn thắng đẹp nhất World Cup 2026",
+      "link": "https://vnexpress.net/12-de-cu-ban-thang-dep-nhat-world-cup-2026-5100277.html",
+      "summary": "Những cú sút xa của Lionel Messi, Kylian Mbappe hay pha dứt điểm định đoạt trận chung kết của Ferran Torres nằm trong đề cử bàn thắng đẹp nhất World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-22T03:53:45+07:00",
+      "fetched": "2026-07-22T13:25:19.506183+07:00"
+    },
+    {
+      "id": "c2c4de4bdc3d16a601965aceeea5c09b",
+      "title": "Những cái tên định hình World Cup 2026",
+      "link": "https://vnexpress.net/nhung-cai-ten-dinh-hinh-world-cup-2026-5100260.html",
+      "summary": "World Cup 2026 trở thành bước ngoặt với rất nhiều nhân vật, từ những người vô danh như thủ môn Vozinha, đến biểu tượng toàn cầu Cristiano Ronaldo.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-22T03:53:28+07:00",
+      "fetched": "2026-07-22T13:25:19.506339+07:00"
+    },
+    {
+      "id": "2113e5a7b71c0e8d61a3b9874e967c65",
+      "title": "Ông Trump công bố lộ trình áp thuế 200% với dược phẩm vào Mỹ",
+      "link": "https://vnexpress.net/ong-trump-cong-bo-lo-trinh-ap-thue-200-voi-duoc-pham-vao-my-5100199.html",
+      "summary": "Thuế với thuốc gốc nhập khẩu vào Mỹ sẽ tăng dần từ 0% lên 200% trong vài năm, để khuyến khích các hãng chuyển sản xuất về Mỹ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-22T03:45:16+07:00",
+      "fetched": "2026-07-22T13:25:14.848553+07:00"
+    },
+    {
+      "id": "5ca2d210e67ab7c1172cda76d3dfc512",
+      "title": "Ronaldo 'thích' bài đăng cáo buộc FIFA thiên vị Messi",
+      "link": "https://vnexpress.net/ronaldo-thich-bai-dang-cao-buoc-fifa-thien-vi-messi-5100193.html",
+      "summary": "Cristiano Ronaldo bấm thích bài đăng trên Instagram, trong đó một nhà báo đặt nghi vấn FIFA dàn xếp để Lionel Messi cùng Argentina vào chung kết World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-22T03:44:51+07:00",
+      "fetched": "2026-07-22T13:25:19.507011+07:00"
+    },
+    {
+      "id": "8e3da46a98c258a1b8b3aacaf414c30c",
+      "title": "Messi được nghỉ vô thời hạn sau World Cup",
+      "link": "https://vnexpress.net/messi-duoc-nghi-vo-thoi-han-sau-world-cup-5100207.html",
+      "summary": "HLV Inter Miami Guillermo Hoyos cho biết Lionel Messi và Rodrigo De Paul sẽ được nghỉ ngơi và tự quyết định thời điểm trở lại CLB, sau khi cùng tuyển Argentina dự chung kết World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-22T03:42:32+07:00",
+      "fetched": "2026-07-22T13:25:19.507134+07:00"
+    },
+    {
+      "id": "98f89454bdbccfacb701d9f5b8ba867f",
+      "title": "Olise bị tố bỏ bê con gái",
+      "link": "https://vnexpress.net/olise-bi-to-bo-be-con-gai-5100234.html",
+      "summary": "Ngôi sao tuyển Pháp Michael Olise bị bạn gái cũ chỉ trích vô trách nhiệm, đồng thời đang dính đến tranh chấp pháp lý liên quan đến quyền nuôi con và nghĩa vụ cấp dưỡng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-22T03:39:44+07:00",
+      "fetched": "2026-07-22T13:25:19.507259+07:00"
+    },
+    {
+      "id": "31c273eebcbf9ff15b3443b55a4b0796",
+      "title": "Loạt tàu dầu chuyển hướng sau lệnh phong tỏa của Houthi",
+      "link": "https://vnexpress.net/loat-tau-dau-chuyen-huong-sau-lenh-phong-toa-cua-houthi-5100194.html",
+      "summary": "Ít nhất 6 tàu dầu và tàu hàng đột ngột quay đầu, chuyển hướng tránh eo biển Bab el-Mandeb sau lệnh phong tỏa của Houthi đối với Arab Saudi.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-22T03:01:39+07:00",
+      "fetched": "2026-07-22T13:25:13.549109+07:00"
+    },
+    {
+      "id": "2b7f530e0f1fe47bd1f578de3b261073",
+      "title": "'Thị trường tài sản mã hóa Việt Nam sắp bước vào đợt tái cấu trúc lớn'",
+      "link": "https://vnexpress.net/thi-truong-tai-san-ma-hoa-viet-nam-sap-buoc-vao-dot-tai-cau-truc-lon-5091189.html",
+      "summary": "Thị trường tài sản mã hóa chuẩn bị bước vào giai đoạn tái cấu trúc, trước khi trưởng thành hơn cả về công nghệ và mô hình, theo chuyên gia của Hiệp hội Blockchain và Tài sản số Việt Nam (VBA).",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-22T03:00:00+07:00",
+      "fetched": "2026-07-22T13:25:17.795747+07:00"
     },
     {
       "id": "e36768956e3f289454fca54493310e51",
@@ -373,6 +953,16 @@ window.newsData_2026_07_22 = {
       "fetched": "2026-07-22T09:22:15.792094+07:00"
     },
     {
+      "id": "e8db145409843b3fe5ed58dd87a4d08e",
+      "title": "LPBank lãi gần 6.000 tỷ nửa đầu năm",
+      "link": "https://vnexpress.net/lpbank-lai-gan-6-000-ty-nua-dau-nam-5100136.html",
+      "summary": "LPBank ghi nhận lợi nhuận trước thuế 5.973 tỷ đồng trong nửa đầu năm, tổng tài sản 615.502 tỷ đồng, tín dụng tăng 10% và huy động vốn tăng 8%.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-22T02:00:00+07:00",
+      "fetched": "2026-07-22T13:25:14.849476+07:00"
+    },
+    {
       "id": "83ac105c77dbcf603cb9fabe04ccfa85",
       "title": "Quân đoàn 34 thông tin về hạ sĩ hy sinh khi dũng cảm cứu người",
       "link": "https://thanhnien.vn/quan-doan-34-thong-tin-ve-ha-si-hy-sinh-khi-dung-cam-cuu-nguoi-185260722080729284.htm",
@@ -441,6 +1031,16 @@ window.newsData_2026_07_22 = {
       "category": "Tổng hợp",
       "published": "2026-07-22T01:45:28+07:00",
       "fetched": "2026-07-22T09:22:05.338729+07:00"
+    },
+    {
+      "id": "592f8f89d2b350df1d7efb01a539c8bc",
+      "title": "Canada hủy lễ khánh thành cầu biên giới với Mỹ",
+      "link": "https://vnexpress.net/canada-huy-le-khanh-thanh-cau-bien-gioi-voi-my-5100181.html",
+      "summary": "Canada hủy lễ khánh thành cầu nối sang Mỹ, dự kiến có sự tham dự của quan chức hai bên, do lời đe dọa áp thuế của ông Trump.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-22T01:45:28+07:00",
+      "fetched": "2026-07-22T13:25:13.549249+07:00"
     },
     {
       "id": "3751942d224414196d4c1598e67d7805",
@@ -601,6 +1201,16 @@ window.newsData_2026_07_22 = {
       "category": "Thế giới",
       "published": "2026-07-22T00:29:00+07:00",
       "fetched": "2026-07-22T09:22:10.911461+07:00"
+    },
+    {
+      "id": "7dd74129917fbf5f3a3c0151dd9038b9",
+      "title": "Nam thanh nữ tú Hàn Quốc lên chùa tìm người yêu",
+      "link": "https://vnexpress.net/nam-thanh-nu-tu-han-quoc-len-chua-tim-nguoi-yeu-5099828.html",
+      "summary": "Chương trình mai mối được Quỹ Phúc lợi Xã hội Phật giáo Hàn Quốc khởi xướng nhằm kết nối nam nữ thanh niên độc thân, giải quyết tình trạng giảm tỷ lệ sinh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-22T00:29:00+07:00",
+      "fetched": "2026-07-22T13:25:13.549775+07:00"
     },
     {
       "id": "ae0a2a970e29300b7c8e0ce5d593c338",
