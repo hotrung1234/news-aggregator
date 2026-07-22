@@ -1,6 +1,6 @@
 window.newsData_2026_07_23 = {
   "date": "2026-07-23",
-  "lastUpdated": "2026-07-23T02:11:05.715826+07:00",
+  "lastUpdated": "2026-07-23T04:02:41.956241+07:00",
   "articles": [
     {
       "id": "df8b10ae844a4d1f68a645a11b318ac5",
@@ -231,6 +231,26 @@ window.newsData_2026_07_23 = {
       "category": "Tổng hợp",
       "published": "2026-07-23T00:14:05.490692+07:00",
       "fetched": "2026-07-23T00:14:05.490828+07:00"
+    },
+    {
+      "id": "a6936a3a72f9e7f466b5ec30685d60be",
+      "title": "Những người trẻ Mỹ sở hữu nhà ở tuổi 20",
+      "link": "https://vnexpress.net/nhung-nguoi-tre-my-so-huu-nha-o-tuoi-20-5099973.html",
+      "summary": "Francisco Vazquez, 27 tuổi, đạt được điều mà nhiều người trẻ ở Mỹ hiện nay dường như không thể: mua được một ngôi nhà ba phòng ngủ với tầng hầm, gara và sân vườn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T19:00:00+07:00",
+      "fetched": "2026-07-23T04:02:30.721758+07:00"
+    },
+    {
+      "id": "a6936a3a72f9e7f466b5ec30685d60be",
+      "title": "Những người trẻ Mỹ sở hữu nhà ở tuổi 20",
+      "link": "https://vnexpress.net/nhung-nguoi-tre-my-so-huu-nha-o-tuoi-20-5099973.html",
+      "summary": "Francisco Vazquez, 27 tuổi, đạt được điều mà nhiều người trẻ ở Mỹ hiện nay dường như không thể: mua được một ngôi nhà ba phòng ngủ với tầng hầm, gara và sân vườn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-22T19:00:00+07:00",
+      "fetched": "2026-07-23T04:02:36.456355+07:00"
     },
     {
       "id": "bcd7ebc80860dbc9dcbb0bb738f8b385",
