@@ -1,6 +1,6 @@
 window.newsData_2026_07_23 = {
   "date": "2026-07-23",
-  "lastUpdated": "2026-07-23T04:02:41.956241+07:00",
+  "lastUpdated": "2026-07-23T05:58:39.473376+07:00",
   "articles": [
     {
       "id": "df8b10ae844a4d1f68a645a11b318ac5",
@@ -231,6 +231,266 @@ window.newsData_2026_07_23 = {
       "category": "Tổng hợp",
       "published": "2026-07-23T00:14:05.490692+07:00",
       "fetched": "2026-07-23T00:14:05.490828+07:00"
+    },
+    {
+      "id": "0e038fa7c686ea537c22fd1e2d48ad8f",
+      "title": "Từ TP.HCM đến Đắk Lắk rủ bạn đi trộm cắp tài sản",
+      "link": "https://thanhnien.vn/tu-tphcm-den-dak-lak-ru-ban-di-trom-cap-tai-san-185260722192347345.htm",
+      "summary": "Ngày 22.7.2026, Cơ quan Cảnh sát điều tra Công an tỉnh Đắk Lắk cho biết đã khởi tố vụ án, khởi tố bị can và thi hành lệnh bắt tạm giam hai đối tượng có nhiều tiền án để điều tra về hành vi trộm cắp tài sản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T22:55:00+07:00",
+      "fetched": "2026-07-23T05:58:28.252928+07:00"
+    },
+    {
+      "id": "2e94ee6563cd7ca084e73b0dbe1e8684",
+      "title": "Tổ chức giải chạy 5 km trong đám cưới",
+      "link": "https://vnexpress.net/to-chuc-giai-chay-5-km-trong-dam-cuoi-5100540.html",
+      "summary": "Sáng 3/7, khoảng 90 khách mời tham gia cuộc chạy 5 km do cô dâu Alexis D’Souza, chú rể Alex Cyr tổ chức trên đảo Prince Edward một ngày trước lễ cưới.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-22T22:54:34+07:00",
+      "fetched": "2026-07-23T05:58:39.467643+07:00"
+    },
+    {
+      "id": "a213879dc0fe9c55db10a19179e0411f",
+      "title": "Lo hợp thức hóa các hoạt động tăng cường thành môn học bắt buộc",
+      "link": "https://thanhnien.vn/lo-hop-thuc-hoa-cac-hoat-dong-tang-cuong-thanh-mon-hoc-bat-buoc-1852607222038466.htm",
+      "summary": "Dự thảo thông tư quy định về tổ chức các hoạt động giáo dục tăng cường và hoạt động giáo dục theo nhu cầu người học tại các cơ sở giáo dục phổ thông và giáo dục thường xuyên của Bộ GD-ĐT đang gặp nhiều ý kiến trái chiều từ phụ huynh, nhà giáo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T22:54:00+07:00",
+      "fetched": "2026-07-23T05:58:28.253106+07:00"
+    },
+    {
+      "id": "84954a424858fb3ac09eada4d13450c4",
+      "title": "Nguy cơ hiện hữu",
+      "link": "https://thanhnien.vn/nguy-co-hien-huu-185260722194232609.htm",
+      "summary": "Cơ quan CSĐT Công an TP.Đồng Nai đã khởi tố vụ án, khởi tố bị can, áp dụng biện pháp tạm giam đối với Trần Thanh Hải (41 tuổi, ở tỉnh Khánh Hòa) liên quan vụ cháy xe khách của nhà xe Năm Lu khiến 7 người tử vong tại Đồng Nai vào rạng sáng 21.7.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T22:53:00+07:00",
+      "fetched": "2026-07-23T05:58:28.253264+07:00"
+    },
+    {
+      "id": "7b43857f3f4ff326ff471e026d27e23a",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 23.7.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-2372026-185260722223628174.htm",
+      "summary": "Tin tức Lối đi nào cho thị trường trang sức, đá quý ?; Sứ mệnh của Vinamilk là phụng sự sức khỏe cộng đồng bằng sản phẩm sữa tốt nhất; Những \"hệ sinh thái\" thao túng dư luận... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 23.7.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T22:51:00+07:00",
+      "fetched": "2026-07-23T05:58:28.253416+07:00"
+    },
+    {
+      "id": "a598294e0c43a85fc5128baaec7cad5d",
+      "title": "Nắng nóng khắp nơi, du khách đổ về đâu?",
+      "link": "https://thanhnien.vn/nang-nong-khap-noi-du-khach-do-ve-dau-185260722221424497.htm",
+      "summary": "Nắng nóng kéo dài khiến nhu cầu tìm nơi nghỉ mát tăng mạnh trong những tuần cuối hè. Từ các đô thị biển đến vùng cao, lượng khách vẫn duy trì ở mức cao, trong khi giá vé máy bay bất ngờ hạ nhiệt, mở thêm cơ hội cho những chuyến đi phút chót.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T22:50:00+07:00",
+      "fetched": "2026-07-23T05:58:28.253569+07:00"
+    },
+    {
+      "id": "ff6ed34bff34465eaa40bbaf500b8acb",
+      "title": "Bảo vệ vựa lúa miền Tây trước 'siêu El Nino' thế nào?",
+      "link": "https://thanhnien.vn/bao-ve-vua-lua-mien-tay-truoc-sieu-el-nino-the-nao-185260722192913427.htm",
+      "summary": "El Nino cường độ rất mạnh có 65% khả năng xuất hiện, ước tính ảnh hưởng đến khoảng 350.000 ha vụ lúa đông xuân tới ở ĐBSCL. Làm sao để bảo vệ vựa lúa miền Tây trước nguy cơ \"siêu El Nino\" sắp xuất hiện?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T22:49:00+07:00",
+      "fetched": "2026-07-23T05:58:28.253728+07:00"
+    },
+    {
+      "id": "6c9b70b60aa4c8e1481255906262bb2b",
+      "title": "Lối đi nào cho thị trường trang sức, đá quý?",
+      "link": "https://thanhnien.vn/loi-di-nao-cho-thi-truong-trang-suc-da-quy-185260722221406856.htm",
+      "summary": "Cửa hàng vàng bạc kim cương liên tục đóng cửa; cơ quan công an tiếp tục khởi tố, bắt tạm giam thêm các bị can để điều tra về hành vi buôn lậu kim cương; niềm tin người tiêu dùng sụt giảm dẫn tới làn sóng bán ra ồ ạt. Thị trường trang sức, đá quý rơi vào khủng hoảng chưa từng thấy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T22:48:00+07:00",
+      "fetched": "2026-07-23T05:58:28.253905+07:00"
+    },
+    {
+      "id": "8282c986425b9a9e9c113de21ad0320e",
+      "title": "Sứ mệnh của Vinamilk  là phụng sự sức khỏe cộng đồng bằng sản phẩm sữa tốt nhất",
+      "link": "https://thanhnien.vn/su-menh-cua-vinamilk-la-phung-su-suc-khoe-cong-dong-bang-san-pham-sua-tot-nhat-18526072219275153.htm",
+      "summary": "Năm 1976, từ ba nhà máy sữa được tiếp quản sau chiến tranh, ít ai có thể hình dung Việt Nam sẽ xây dựng được một thương hiệu sữa giá trị gần 3 tỉ USD. Nửa thế kỷ sau, Vinamilk đã trở thành biểu tượng ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T22:46:00+07:00",
+      "fetched": "2026-07-23T05:58:30.027642+07:00"
+    },
+    {
+      "id": "912438e2ccea13ccf78851901ec699cb",
+      "title": "Bất thường điểm tiếng Anh của thí sinh Tuyên Quang",
+      "link": "https://thanhnien.vn/bat-thuong-diem-tieng-anh-cua-thi-sinh-tuyen-quang-185260722220135049.htm",
+      "summary": "Dữ liệu thống kê cho thấy cấu trúc điểm thi phi logic của tệp dữ liệu thí sinh tại điểm thi Trường THPT chuyên Tuyên Quang, khiến một nhóm thí sinh ở địa phương có mặt bằng chất lượng dạy học môn tiếng Anh thấp đột ngột chiếm đỉnh xuất sắc của cả nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T22:45:00+07:00",
+      "fetched": "2026-07-23T05:58:30.028058+07:00"
+    },
+    {
+      "id": "0d76c82d9957fc9ceb8fbbfd75001411",
+      "title": "Mỹ sắp có hành động mới về thuế quan",
+      "link": "https://thanhnien.vn/my-sap-co-hanh-dong-moi-ve-thue-quan-185260722204923888.htm",
+      "summary": "Trưởng đại diện thương mại Mỹ Jamieson Greer ngày 21.7 thông báo Washington sẽ sớm có \"hành động cụ thể\" liên quan các mức thuế mới với khoảng 60 đối tác thương mại, trong bối cảnh mức thuế toàn cầu tạm thời 10% do Tổng thống Donald Trump áp đặt dự kiến hết hiệu lực trong tuần này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T22:45:00+07:00",
+      "fetched": "2026-07-23T05:58:30.028230+07:00"
+    },
+    {
+      "id": "0aeda5a52b6b4835783fa090b75399df",
+      "title": "Sửa cầu Ông Lớn, xe máy nối đuôi nhau chạy ngược chiều trên đường Nguyễn Văn Linh",
+      "link": "https://thanhnien.vn/sua-cau-ong-lon-xe-may-noi-duoi-nhau-chay-nguoc-chieu-tren-duong-nguyen-van-linh-185260721220958373.htm",
+      "summary": "Làn đường bị thu hẹp để phục vụ sửa chữa cầu Ông Lớn khiến giao thông thường xuyên ùn ứ. Dù CSGT TP.HCM tăng cường phạt nóng, phạt nguội, nhiều người vẫn cố tình chạy ngược chiều trên đường Nguyễn Văn Linh để rút ngắn quãng đường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T22:45:00+07:00",
+      "fetched": "2026-07-23T05:58:30.028388+07:00"
+    },
+    {
+      "id": "bd04ef18e1cc365de4c0e80ff18beace",
+      "title": "15 triệu người Việt mắc rối loạn tâm thần: Đừng hoãn khám vì sợ ‘bị đánh giá’",
+      "link": "https://thanhnien.vn/15-trieu-nguoi-viet-mac-roi-loan-tam-than-dung-hoan-kham-vi-so-bi-danh-gia-185260723014422414.htm",
+      "summary": "Người trẻ và người lớn tuổi có biểu hiện rối loạn tâm thần rất khác nhau, nhưng nhiều người đều trì hoãn việc đi khám vì e ngại. Bác sĩ lý giải nguyên nhân và chỉ ra những dấu hiệu cần lưu ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T22:42:00+07:00",
+      "fetched": "2026-07-23T05:58:30.028549+07:00"
+    },
+    {
+      "id": "176c419e75e307fb0be3f827751b18e0",
+      "title": "Maserati Grecale GT - thời trang pha tốc độ",
+      "link": "https://vnexpress.net/maserati-grecale-gt-thoi-trang-pha-toc-do-5094653.html",
+      "summary": "Khi trước mặt là cỗ máy 300 mã lực, tăng tốc 0-100 km/h trong 5,6 giây, treo khí nén điện tử, cảm giác kích thích là khó cưỡng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T22:30:00+07:00",
+      "fetched": "2026-07-23T05:58:24.999769+07:00"
+    },
+    {
+      "id": "baebfd225928f1f31d53bcf4e85a8bf7",
+      "title": "Tiêu điểm quốc tế ngày 23.7: Mỹ chi 'khủng' cho cuộc chiến Iran | Mô hình AI 'nổi loạn'",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-ngay-237-my-chi-khung-cho-cuoc-chien-iran-mo-hinh-ai-noi-loan-18526072223425879.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 23.7.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T22:30:00+07:00",
+      "fetched": "2026-07-23T05:58:30.028705+07:00"
+    },
+    {
+      "id": "c911a63b7852af74bc78dbb58301dcf3",
+      "title": "Ukraine thay tướng giữa dòng vì khủng hoảng chính trị",
+      "link": "https://thanhnien.vn/ukraine-thay-tuong-giua-dong-vi-khung-hoang-chinh-tri-185260722210613697.htm",
+      "summary": "Dưới áp lực của dư luận, Tổng thống Ukraine Volodymyr Zelensky đã thay tổng tư lệnh quân đội, đánh dấu cuộc cải tổ lớn nhất trong dàn lãnh đạo quân sự kể từ khi xung đột với Nga bùng phát.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T22:30:00+07:00",
+      "fetched": "2026-07-23T05:58:30.028899+07:00"
+    },
+    {
+      "id": "8897c91a2035eb69bb6b603ec9de136a",
+      "title": "Vì sao đề xuất tăng mức phạt tù có thời hạn lên 30 năm?",
+      "link": "https://thanhnien.vn/vi-sao-de-xuat-tang-muc-phat-tu-co-thoi-han-len-30-nam-18526072219175012.htm",
+      "summary": "Góp ý sửa bộ luật Hình sự và bộ luật Tố tụng hình sự, đại diện viện kiểm sát đề xuất nâng mức tù có thời hạn tối đa lên 30 năm và điều chỉnh về thủ tục rút gọn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T22:30:00+07:00",
+      "fetched": "2026-07-23T05:58:30.029080+07:00"
+    },
+    {
+      "id": "22baff6ab2c64d8a33b03b4027ce10e3",
+      "title": "MG khuyến mãi hơn 100 triệu đồng xả hàng tồn",
+      "link": "https://vnexpress.net/mg-khuyen-mai-hon-100-trieu-dong-xa-hang-ton-5100391.html",
+      "summary": "Tháng 7, nhiều dòng xe MG như ZS, MG5, HS, G50 khuyến mãi hàng chục đến hàng trăm triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T22:01:00+07:00",
+      "fetched": "2026-07-23T05:58:24.999978+07:00"
+    },
+    {
+      "id": "4e09d18e8b0ed0008e154b395c3728e8",
+      "title": "Lý do Tổng thống Ukraine cách chức tổng tư lệnh quân đội",
+      "link": "https://vnexpress.net/ly-do-tong-thong-ukraine-cach-chuc-tong-tu-lenh-quan-doi-5100189.html",
+      "summary": "Từng là người đứng sau nhiều chiến thắng quan trọng của Ukraine, đại tướng Syrsky cuối cùng không thể trụ vững trước khủng hoảng nội bộ quân đội và áp lực dư luận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T22:00:00+07:00",
+      "fetched": "2026-07-23T05:58:25.000152+07:00"
+    },
+    {
+      "id": "f24271e782e0f9d40493363ef5c7799a",
+      "title": "Rạch ô nhiễm ở trung tâm TP HCM trước cuộc cải tạo",
+      "link": "https://vnexpress.net/rach-o-nhiem-o-trung-tam-tp-hcm-truoc-cuoc-cai-tao-5100114.html",
+      "summary": "Rác thải phủ kín nhiều đoạn, nước đen và hàng trăm căn nhà tạm san sát hai bờ rạch Văn Thánh, nơi thành phố sẽ chỉnh trang từ đầu năm 2027 với tổng kinh phí hơn 8.500 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T22:00:00+07:00",
+      "fetched": "2026-07-23T05:58:25.000320+07:00"
+    },
+    {
+      "id": "12ab78caefffe0737afaa003fea1d622",
+      "title": "4 sai lầm khi ăn sáng cần tránh để sống thọ",
+      "link": "https://vnexpress.net/4-sai-lam-khi-an-sang-can-tranh-de-song-tho-5099569.html",
+      "summary": "Tránh xa đồ chiên rán, tinh bột tinh chế, ngũ cốc nhiều đường và thói quen bỏ bữa sáng để bảo vệ hệ trao đổi chất cùng sức khỏe lâu dài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T22:00:00+07:00",
+      "fetched": "2026-07-23T05:58:25.000479+07:00"
+    },
+    {
+      "id": "4fd63195f888ff53f9486e30c7be9b23",
+      "title": "Cậu bé ung thư nghèo và cơ hội điều trị hẹp do kiệt quệ tài chính",
+      "link": "https://vnexpress.net/cau-be-ung-thu-ngheo-va-co-hoi-dieu-tri-hep-do-kiet-que-tai-chinh-5097744.html",
+      "summary": "Phát hiện ung thư khi đã suy hô hấp, cơ hội điều trị của Chamaléa Khang, 13 tuổi, càng khó do gia đình nghèo kiệt quệ kinh phí.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T22:00:00+07:00",
+      "fetched": "2026-07-23T05:58:25.000644+07:00"
+    },
+    {
+      "id": "4e09d18e8b0ed0008e154b395c3728e8",
+      "title": "Lý do Tổng thống Ukraine cách chức tổng tư lệnh quân đội",
+      "link": "https://vnexpress.net/ly-do-tong-thong-ukraine-cach-chuc-tong-tu-lenh-quan-doi-5100189.html",
+      "summary": "Từng là người đứng sau nhiều chiến thắng quan trọng của Ukraine, đại tướng Syrsky cuối cùng không thể trụ vững trước khủng hoảng nội bộ quân đội và áp lực dư luận.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-22T22:00:00+07:00",
+      "fetched": "2026-07-23T05:58:33.675632+07:00"
+    },
+    {
+      "id": "15faf6f726aa18a9edca72a6c0e0c1fd",
+      "title": "Cựu CEO Techcombank ứng cử vào HĐQT Eximbank",
+      "link": "https://vnexpress.net/cuu-ceo-techcombank-ung-cu-vao-hdqt-eximbank-5100548.html",
+      "summary": "Ông Nguyễn Lê Quốc Anh, cựu CEO Techcombank, ứng cử vào vị trí Thành viên HĐQT của Eximbank.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T21:43:19+07:00",
+      "fetched": "2026-07-23T05:58:25.000827+07:00"
+    },
+    {
+      "id": "15faf6f726aa18a9edca72a6c0e0c1fd",
+      "title": "Cựu CEO Techcombank ứng cử vào HĐQT Eximbank",
+      "link": "https://vnexpress.net/cuu-ceo-techcombank-ung-cu-vao-hdqt-eximbank-5100548.html",
+      "summary": "Ông Nguyễn Lê Quốc Anh, cựu CEO Techcombank, ứng cử vào vị trí Thành viên HĐQT của Eximbank.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-22T21:43:19+07:00",
+      "fetched": "2026-07-23T05:58:35.051679+07:00"
+    },
+    {
+      "id": "afb60d38a4cd38f28008e44b0d53c0c3",
+      "title": "Những dòng xe hybrid theo phân loại của Việt Nam",
+      "link": "https://vnexpress.net/nhung-dong-xe-hybrid-theo-phan-loai-cua-viet-nam-5100534.html",
+      "summary": "MHEV chỉ hỗ trợ động cơ xăng, FHEV tự sạc, PHEV cắm sạc, EREV chỉ môtơ dẫn động còn BEV chạy hoàn toàn bằng điện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-22T21:15:00+07:00",
+      "fetched": "2026-07-23T05:58:25.000989+07:00"
     },
     {
       "id": "a6936a3a72f9e7f466b5ec30685d60be",
