@@ -1,7 +1,77 @@
 window.newsData_2026_07_24 = {
   "date": "2026-07-24",
-  "lastUpdated": "2026-07-24T00:18:08.145700+07:00",
+  "lastUpdated": "2026-07-24T02:10:12.294902+07:00",
   "articles": [
+    {
+      "id": "07813c850a8ae85aa4816a9eb8998e66",
+      "title": "EVN được, mất gì khi mở rộng đối tượng tham gia cơ chế mua bán điện trực tiếp?",
+      "link": "https://tuoitre.vn/evn-duoc-mat-gi-khi-mo-rong-doi-tuong-tham-gia-co-che-mua-ban-dien-truc-tiep-10026072317480852.htm",
+      "summary": "Việc mở rộng đối tượng tham gia cơ chế mua bán điện trực tiếp liệu có tạo nên những lo ngại trục lợi chính sách mà EVN đặt ra khi thị trường điện cạnh tranh chưa phát triển hoàn chỉnh?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T02:10:04.359158+07:00",
+      "fetched": "2026-07-24T02:10:04.359206+07:00"
+    },
+    {
+      "id": "9571c122c4af7a81bf83e7397f3dca37",
+      "title": "Xúc động hành trình gọi tên những anh hùng đã hóa thành Tổ quốc",
+      "link": "https://tuoitre.vn/xuc-dong-hanh-trinh-goi-ten-nhung-anh-hung-da-hoa-thanh-to-quoc-100260723171251889.htm",
+      "summary": "Tọa đàm - cầu truyền hình Tìm lại tên Anh do Đài Phát thanh - Truyền hình TP.HCM (HTV) thực hiện là cuộc gặp gỡ thiêng liêng giữa quá khứ và hiện tại, giữa những người còn sống với những người đã ngã xuống vì độc lập dân tộc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T02:10:04.359082+07:00",
+      "fetched": "2026-07-24T02:10:04.359150+07:00"
+    },
+    {
+      "id": "99bfb5e929197049f713cb1ec713abb0",
+      "title": "World Cup 2034 sắp có thay đổi lịch sử",
+      "link": "https://tuoitre.vn/world-cup-2034-sap-co-thay-doi-lich-su-100260723223512728.htm",
+      "summary": "Liên đoàn Bóng đá thế giới (FIFA) đã bắt tay vào công việc chuẩn bị cho hai kỳ World Cup tiếp theo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T02:10:04.359026+07:00",
+      "fetched": "2026-07-24T02:10:04.359074+07:00"
+    },
+    {
+      "id": "05cd2739ac42536681de553063cc886f",
+      "title": "Doanh nghiệp Việt muốn có quy định ràng buộc để thuận lợi trong kết nối với khối FDI",
+      "link": "https://tuoitre.vn/doanh-nghiep-viet-muon-co-quy-dinh-rang-buoc-de-thuan-loi-trong-ket-noi-voi-khoi-fdi-100260723212636756.htm",
+      "summary": "Ngày 23-7, Hội Doanh nhân trẻ Việt Nam phối hợp với UBND tỉnh Ninh Bình và Hội Doanh nhân trẻ tỉnh Ninh Bình tổ chức vòng đối thoại địa phương Diễn đàn Kinh tế tư nhân Việt Nam 2026 (VPSF 2026).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T02:10:04.358965+07:00",
+      "fetched": "2026-07-24T02:10:04.359017+07:00"
+    },
+    {
+      "id": "5ab1078bce6c977eb5a487644418fbf4",
+      "title": "EU thông qua gói trừng phạt lớn nhất trong 4 năm nhằm vào Nga",
+      "link": "https://tuoitre.vn/eu-thong-qua-goi-trung-phat-lon-nhat-trong-4-nam-nham-vao-nga-100260723223824865.htm",
+      "summary": "Gói trừng phạt tập trung siết lĩnh vực tài chính, tiền mã hóa và giữ nguyên mức giá trần đối với dầu Nga.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T02:10:04.358904+07:00",
+      "fetched": "2026-07-24T02:10:04.358956+07:00"
+    },
+    {
+      "id": "725f7d5376b69633d71401cb5da2471e",
+      "title": "Venezuela cần đến 50 tỉ USD để tái thiết sau thảm họa động đất",
+      "link": "https://tuoitre.vn/venezuela-can-den-50-ti-usd-de-tai-thiet-sau-tham-hoa-dong-dat-100260723224704956.htm",
+      "summary": "Thảm họa động đất Venezuela đã gây thiệt hại vật chất ước tính 19,6 tỉ USD, nhưng chi phí tái thiết có thể lên đến 50 tỉ USD.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T02:10:04.358832+07:00",
+      "fetched": "2026-07-24T02:10:04.358894+07:00"
+    },
+    {
+      "id": "469e6ac80587b2ce016dd24176da4bdf",
+      "title": "Giá dầu vượt mốc 100 USD/thùng, thị trường chứng khoán nhiều nơi phản ứng tiêu cực",
+      "link": "https://tuoitre.vn/gia-dau-vuot-moc-100-usd-thung-thi-truong-chung-khoan-nhieu-noi-phan-ung-tieu-cuc-1002607232323243.htm",
+      "summary": "Giá dầu thế giới tăng sốc sau khi lực lượng Houthi do Iran hậu thuẫn tiếp tục tấn công tàu thuyền trên Biển Đỏ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T02:10:04.358670+07:00",
+      "fetched": "2026-07-24T02:10:04.358819+07:00"
+    },
     {
       "id": "314297a1844e07507f7c3c188805b485",
       "title": "Xe đạp điện thay được ô tô với giá chỉ ngang Honda Lead, cabin có thể gập gọn để vừa giỏ",
@@ -153,6 +223,86 @@ window.newsData_2026_07_24 = {
       "fetched": "2026-07-24T00:18:01.299048+07:00"
     },
     {
+      "id": "d7a4baabb7a97fe4a8eea2182448a5d4",
+      "title": "Người Mỹ càng lớn tuổi càng chuộng mua nhà to",
+      "link": "https://vnexpress.net/nguoi-my-cang-lon-tuoi-cang-chuong-mua-nha-to-5100621.html",
+      "summary": "Không ít người Mỹ thuộc thế hệ \"baby boomer\" dùng tài sản tích lũy để tậu nhà rộng khi về hưu, thay vì quan niệm truyền thống rằng họ nên chuyển đến nơi nhỏ hơn để tiết kiệm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T19:00:00+07:00",
+      "fetched": "2026-07-24T02:09:59.812372+07:00"
+    },
+    {
+      "id": "d7a4baabb7a97fe4a8eea2182448a5d4",
+      "title": "Người Mỹ càng lớn tuổi càng chuộng mua nhà to",
+      "link": "https://vnexpress.net/nguoi-my-cang-lon-tuoi-cang-chuong-mua-nha-to-5100621.html",
+      "summary": "Không ít người Mỹ thuộc thế hệ \"baby boomer\" dùng tài sản tích lũy để tậu nhà rộng khi về hưu, thay vì quan niệm truyền thống rằng họ nên chuyển đến nơi nhỏ hơn để tiết kiệm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-23T19:00:00+07:00",
+      "fetched": "2026-07-24T02:10:05.800385+07:00"
+    },
+    {
+      "id": "964d878215e4010e9381927a16e10bef",
+      "title": "4 xét nghiệm giúp phát hiện sớm bệnh tim trước khi có triệu chứng",
+      "link": "https://thanhnien.vn/4-xet-nghiem-giup-phat-hien-som-benh-tim-truoc-khi-co-trieu-chung-185260723003950036.htm",
+      "summary": "Không ít người chỉ phát hiện mình bị bệnh tim sau khi bị đau tim, suy tim hoặc đột quỵ. Do vậy, tầm soát sớm rất quan trọng, đặc biệt ở người có nguy cơ cao như bị huyết áp cao, tiểu đường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T18:07:00+07:00",
+      "fetched": "2026-07-24T02:10:02.664519+07:00"
+    },
+    {
+      "id": "32d844bb5aba28185ba741e437fa82c0",
+      "title": "6 thực phẩm tốt cho sức khỏe khi về già",
+      "link": "https://vnexpress.net/6-thuc-pham-tot-cho-suc-khoe-khi-ve-gia-5100863.html",
+      "summary": "Cá béo, rau lá xanh, quả mọng, dầu ô liu giàu dưỡng chất, hỗ trợ tim mạch, não bộ, xương và cơ bắp khi tuổi tác tăng lên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T18:00:00+07:00",
+      "fetched": "2026-07-24T02:09:59.812538+07:00"
+    },
+    {
+      "id": "f31c337c16f483f8cce2efa0ae0bbbd6",
+      "title": "Cảnh sát Michigan phát hiện chiêu gắn ốc vít để 'đổ ké' ở trạm xăng",
+      "link": "https://vnexpress.net/canh-sat-michigan-phat-hien-chieu-gan-oc-vit-de-do-ke-o-tram-xang-5100818.html",
+      "summary": "Kẻ gian lận tại Michigan khoan một lỗ vào bộ phận giữ vòi bơm xăng để số tiền mua xăng được tính vào giao dịch của khách hàng trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T18:00:00+07:00",
+      "fetched": "2026-07-24T02:09:59.812688+07:00"
+    },
+    {
+      "id": "b8422f43e4d7ca5fe4aca9568e500c84",
+      "title": "Lỗ hổng bảo mật có thể giúp Iran tập kích lính Mỹ ở vùng Vịnh",
+      "link": "https://vnexpress.net/lo-hong-bao-mat-co-the-giup-iran-tap-kich-linh-my-o-vung-vinh-5099878.html",
+      "summary": "Lỗ hổng trong giao thức chuyển vùng và dữ liệu định vị quảng cáo dường như đã giúp Iran tìm vị trí lính Mỹ tại Trung Đông để tập kích.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T18:00:00+07:00",
+      "fetched": "2026-07-24T02:09:59.812823+07:00"
+    },
+    {
+      "id": "f31c337c16f483f8cce2efa0ae0bbbd6",
+      "title": "Cảnh sát Michigan phát hiện chiêu gắn ốc vít để 'đổ ké' ở trạm xăng",
+      "link": "https://vnexpress.net/canh-sat-michigan-phat-hien-chieu-gan-oc-vit-de-do-ke-o-tram-xang-5100818.html",
+      "summary": "Kẻ gian lận tại Michigan khoan một lỗ vào bộ phận giữ vòi bơm xăng để số tiền mua xăng được tính vào giao dịch của khách hàng trước.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-23T18:00:00+07:00",
+      "fetched": "2026-07-24T02:10:05.800543+07:00"
+    },
+    {
+      "id": "b8422f43e4d7ca5fe4aca9568e500c84",
+      "title": "Lỗ hổng bảo mật có thể giúp Iran tập kích lính Mỹ ở vùng Vịnh",
+      "link": "https://vnexpress.net/lo-hong-bao-mat-co-the-giup-iran-tap-kich-linh-my-o-vung-vinh-5099878.html",
+      "summary": "Lỗ hổng trong giao thức chuyển vùng và dữ liệu định vị quảng cáo dường như đã giúp Iran tìm vị trí lính Mỹ tại Trung Đông để tập kích.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-23T18:00:00+07:00",
+      "fetched": "2026-07-24T02:10:05.800693+07:00"
+    },
+    {
       "id": "e36ef0ec605ba0fe3560d117448aea06",
       "title": "3 việc không nên làm trong 30 phút trước khi đo huyết áp",
       "link": "https://thanhnien.vn/3-viec-khong-nen-lam-trong-30-phut-truoc-khi-do-huyet-ap-185260723183034026.htm",
@@ -171,6 +321,16 @@ window.newsData_2026_07_24 = {
       "category": "Tổng hợp",
       "published": "2026-07-23T17:13:00+07:00",
       "fetched": "2026-07-24T00:17:59.632790+07:00"
+    },
+    {
+      "id": "f0b80799428b64649864c321c95b555f",
+      "title": "5 món giàu magie giúp ngủ ngon",
+      "link": "https://vnexpress.net/5-mon-giau-magie-giup-ngu-ngon-5100377.html",
+      "summary": "Đậu nành Nhật, đậu đen, hạt chia, chocolate đen và hạt điều cung cấp magie, hỗ trợ thư giãn hệ thần kinh, giúp cơ thể dễ vào giấc ngủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-23T17:07:00+07:00",
+      "fetched": "2026-07-24T02:09:59.812951+07:00"
     },
     {
       "id": "53d36c49d0ea01074ba3bc666ab8f560",
