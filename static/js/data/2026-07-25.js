@@ -1,6 +1,6 @@
 window.newsData_2026_07_25 = {
   "date": "2026-07-25",
-  "lastUpdated": "2026-07-25T02:19:57.329560+07:00",
+  "lastUpdated": "2026-07-25T03:58:32.957383+07:00",
   "articles": [
     {
       "id": "19172547068ba88d20265964d36638ba",
@@ -183,6 +183,46 @@ window.newsData_2026_07_25 = {
       "fetched": "2026-07-25T00:26:40.018874+07:00"
     },
     {
+      "id": "70a759e71f42eb497045517d78e92dad",
+      "title": "Bị giải chấp cổ phiếu, chủ tịch công ty địa ốc mất tư cách cổ đông lớn",
+      "link": "https://vnexpress.net/bi-giai-chap-co-phieu-chu-tich-cong-ty-dia-oc-mat-tu-cach-co-dong-lon-5101421.html",
+      "summary": "Ông Nguyễn Hùng Cường, Chủ tịch HĐQT DIG, không còn là cổ đông lớn tại đây khi bị các công ty chứng khoán giải chấp hơn 11 triệu cổ phiếu trong ba ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T20:20:04+07:00",
+      "fetched": "2026-07-25T03:58:21.692267+07:00"
+    },
+    {
+      "id": "70a759e71f42eb497045517d78e92dad",
+      "title": "Bị giải chấp cổ phiếu, chủ tịch công ty địa ốc mất tư cách cổ đông lớn",
+      "link": "https://vnexpress.net/bi-giai-chap-co-phieu-chu-tich-cong-ty-dia-oc-mat-tu-cach-co-dong-lon-5101421.html",
+      "summary": "Ông Nguyễn Hùng Cường, Chủ tịch HĐQT DIG, không còn là cổ đông lớn tại đây khi bị các công ty chứng khoán giải chấp hơn 11 triệu cổ phiếu trong ba ngày.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-24T20:20:04+07:00",
+      "fetched": "2026-07-25T03:58:29.363467+07:00"
+    },
+    {
+      "id": "6290ea29a24e0a88e7cecaa982bca349",
+      "title": "Màn ra quân miễn chê của đội tuyển Việt Nam",
+      "link": "https://thanhnien.vn/man-ra-quan-mien-che-cua-doi-tuyen-viet-nam-185260724224918813.htm",
+      "summary": "Đội tuyển VN thắng đậm 7-0 trước Timor Leste trong trận ra quân ngày 24.7 để vươn lên dẫn đầu bảng A ASEAN Cup 2026 sau lượt đầu tiên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T20:00:00+07:00",
+      "fetched": "2026-07-25T03:58:24.700019+07:00"
+    },
+    {
+      "id": "7920186170ecbc48c83443c7336cbbb9",
+      "title": "Đình Bắc tiết lộ điệu nhảy ăn mừng học từ cầu thủ Brazil",
+      "link": "https://vnexpress.net/dinh-bac-tiet-lo-dieu-nhay-an-mung-hoc-tu-cau-thu-brazil-5101428.html",
+      "summary": "Đình Bắc gây chú ý với điệu nhảy ăn mừng học theo các cầu thủ Brazil trong ngày lập hat-trick vào lưới Timor-Leste ở trận ra quân ASEAN Cup 2026",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T19:07:52+07:00",
+      "fetched": "2026-07-25T03:58:21.692452+07:00"
+    },
+    {
       "id": "4b9dbddda953889662c7bb46b0569ddf",
       "title": "Cuộc đối đầu giữa Vatican và 'thành trì ly giáo' ở Mỹ",
       "link": "https://vnexpress.net/cuoc-doi-dau-giua-vatican-va-thanh-tri-ly-giao-o-my-5100369.html",
@@ -191,6 +231,36 @@ window.newsData_2026_07_25 = {
       "category": "Thế giới",
       "published": "2026-07-24T19:00:00+07:00",
       "fetched": "2026-07-25T02:19:52.969441+07:00"
+    },
+    {
+      "id": "7897ddf0ac7d6df962e8c13bf5977fe9",
+      "title": "Ghi nhận hai loài san hô quý hiếm ở khu bảo tồn biển Cà Mau",
+      "link": "https://vnexpress.net/ghi-nhan-hai-loai-san-ho-quy-hiem-o-khu-bao-ton-bien-ca-mau-5101194.html",
+      "summary": "San hô cành đa mi và san hô khối đầu thùy, thuộc danh mục loài thủy sinh quý hiếm có nguy cơ tuyệt chủng ở Việt Nam, được ghi nhận tại vùng biển Hòn Hàng, cụm đảo Hòn Chuối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T19:00:00+07:00",
+      "fetched": "2026-07-25T03:58:21.692634+07:00"
+    },
+    {
+      "id": "2a01e5dc95b87bdd5893ff222be175c4",
+      "title": "Những đề xuất mới về cấp sổ đỏ",
+      "link": "https://vnexpress.net/nhung-de-xuat-moi-ve-cap-so-do-5100836.html",
+      "summary": "Đất vi phạm thủ tục trước ngày 1/8/2024 có thể được xem xét cấp sổ đỏ nếu sử dụng ổn định, không tranh chấp, phù hợp quy hoạch và đáp ứng các điều kiện khác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T19:00:00+07:00",
+      "fetched": "2026-07-25T03:58:21.692807+07:00"
+    },
+    {
+      "id": "1ec8ab897330d3f5399c9f1360705356",
+      "title": "Tập đoàn thương mại điện tử lớn nhất Nga liên tiếp bị tấn công",
+      "link": "https://vnexpress.net/tap-doan-thuong-mai-dien-tu-lon-nhat-nga-lien-tiep-bi-tan-cong-5101432.html",
+      "summary": "Tám kho Wildberries bị nhắm tới trong một tuần, khiến 8 người chết và hơn 10% năng lực logistics bị ảnh hưởng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-24T18:54:47+07:00",
+      "fetched": "2026-07-25T03:58:21.693159+07:00"
     },
     {
       "id": "904f6d6598a7b0910db8e1a3c02ad4c5",
