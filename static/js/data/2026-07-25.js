@@ -1,7 +1,157 @@
 window.newsData_2026_07_25 = {
   "date": "2026-07-25",
-  "lastUpdated": "2026-07-25T09:23:10.839779+07:00",
+  "lastUpdated": "2026-07-25T13:14:16.481395+07:00",
   "articles": [
+    {
+      "id": "0c5301afcea87a47b5a0c6e27074fb2c",
+      "title": "Vụ ông Trump áp thuế quan mới với 60 đối tác toàn cầu: 2 doanh nghiệp Mỹ khởi kiện",
+      "link": "https://tuoitre.vn/vu-ong-trump-ap-thue-quan-moi-voi-60-doi-tac-toan-cau-2-doanh-nghiep-my-khoi-kien-100260725094052978.htm",
+      "summary": "Hai doanh nghiệp tại Mỹ đã kiện chính quyền Tổng thống Mỹ Donald Trump, cho rằng mức thuế quan mới đây là vượt quá thẩm quyền tổng thống.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T13:14:07.687528+07:00",
+      "fetched": "2026-07-25T13:14:07.687573+07:00"
+    },
+    {
+      "id": "8594a258362f7c6b4d0e5199e9a7b7ba",
+      "title": "J&T Express: 8 năm lấy trải nghiệm khách hàng làm trọng tâm phát triển",
+      "link": "https://tuoitre.vn/jt-express-8-nam-lay-trai-nghiem-khach-hang-lam-trong-tam-phat-trien-100260725094516908.htm",
+      "summary": "Đánh dấu cột mốc 8 năm hoạt động tại Việt Nam, J&T Express triển khai chuỗi chương trình tri ân khách hàng, đồng thời tiếp tục đầu tư vào hạ tầng, công nghệ và nguồn nhân lực nhằm nâng cao chất lượng dịch vụ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T13:14:07.687454+07:00",
+      "fetched": "2026-07-25T13:14:07.687519+07:00"
+    },
+    {
+      "id": "4a2fb5aeded4c70a882ba7669d5b77f6",
+      "title": "Xóa vùng 'lõm điện' ở thôn Lâm Bình Phương",
+      "link": "https://tuoitre.vn/xoa-vung-lom-dien-o-thon-lam-binh-phuong-100260725102018359.htm",
+      "summary": "Điện lực Trà My (Công ty Điện lực Đà Nẵng) vừa phối hợp chính quyền địa phương và các đơn vị liên quan triển khai các hạng mục cuối cùng của Dự án cấp điện nông thôn từ lưới điện quốc gia tỉnh Quảng Nam giai đoạn 2013 - 2020 tại thôn Lâm Bình Phương, xã Trà My.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T13:14:07.687404+07:00",
+      "fetched": "2026-07-25T13:14:07.687446+07:00"
+    },
+    {
+      "id": "51e38b7746f3940980f4421c9c39f6bd",
+      "title": "'Oscar truyện tranh' vinh danh cha đẻ Dragon Ball và Mazinger Z",
+      "link": "https://tuoitre.vn/oscar-truyen-tranh-vinh-danh-cha-de-dragon-ball-va-mazinger-z-100260725101452491.htm",
+      "summary": "Hai huyền thoại manga Nhật Bản Go Nagai và cố họa sĩ Akira Toriyama vừa được ghi danh vào Đại sảnh Danh vọng tại Will Eisner Comic Awards 2026, giải thưởng truyện tranh danh giá bậc nhất nước Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T13:14:07.687333+07:00",
+      "fetched": "2026-07-25T13:14:07.687396+07:00"
+    },
+    {
+      "id": "f62c7dc4df4511dc2cdcca5fd3b510c0",
+      "title": "Đại tướng Phan Văn Giang dâng hương tưởng niệm các anh hùng liệt sĩ tại công viên Lê Thị Riêng",
+      "link": "https://tuoitre.vn/dai-tuong-phan-van-giang-dang-huong-tuong-niem-cac-anh-hung-liet-si-tai-cong-vien-le-thi-rieng-100260725094630187.htm",
+      "summary": "Sáng 25-7, Đoàn công tác Chính phủ, Quân ủy Trung ương, Bộ Quốc phòng đã dâng hoa, dâng hương tưởng niệm các anh hùng liệt sĩ và thăm lực lượng tìm kiếm, quy tập hài cốt liệt sĩ tại công viên Lê Thị Riêng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T13:14:07.687267+07:00",
+      "fetched": "2026-07-25T13:14:07.687325+07:00"
+    },
+    {
+      "id": "4142064601d78332abc2cf7cd0fc20a7",
+      "title": "BTS lội ngược dòng nhờ chung kết World Cup",
+      "link": "https://tuoitre.vn/bts-loi-nguoc-dong-nho-chung-ket-world-cup-100260725103936149.htm",
+      "summary": "Màn trình diễn tại show giữa giờ chung kết FIFA World Cup 2026 giúp nhiều ca khúc của BTS trở lại các bảng xếp hạng toàn cầu và ghi nhận lượng nghe tăng mạnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T13:14:07.687211+07:00",
+      "fetched": "2026-07-25T13:14:07.687258+07:00"
+    },
+    {
+      "id": "09c65ad3beb9c58b263bb8cc6d6dbc49",
+      "title": "Người hùng của Cape Verde ở World Cup 2026 thoát cảnh 'thất nghiệp'",
+      "link": "https://tuoitre.vn/nguoi-hung-cua-cape-verde-o-world-cup-2026-thoat-canh-that-nghiep-100260725104702458.htm",
+      "summary": "Thủ thành Vozinha của tuyển Cape Verde có được bến đỗ mới trong sự nghiệp sau thành công ở World Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T13:14:07.687158+07:00",
+      "fetched": "2026-07-25T13:14:07.687203+07:00"
+    },
+    {
+      "id": "584f33dc219e082b8f6e379bc0e786db",
+      "title": "KATSEYE tái xuất đầy táo bạo: Ed Sheeran sáng tác, Demi Moore làm cameo",
+      "link": "https://tuoitre.vn/katseye-tai-xuat-day-tao-bao-ed-sheeran-sang-tac-demi-moore-lam-cameo-100260725103746937.htm",
+      "summary": "Nhóm nhạc nữ toàn cầu KATSEYE vừa chính thức trở lại với đĩa đơn mới Animal. Ca khúc gây chú ý khi có sự tham gia sáng tác của ngôi sao Ed Sheeran và sự xuất hiện bất ngờ của minh tinh Hollywood Demi Moore trong video âm nhạc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T13:14:07.687101+07:00",
+      "fetched": "2026-07-25T13:14:07.687150+07:00"
+    },
+    {
+      "id": "ef437de65127e17ad0ab4f2a9ca64ef2",
+      "title": "Làm 5 đường giao thông nông thôn, sai phạm trên 1 tỉ đồng",
+      "link": "https://tuoitre.vn/lam-5-duong-giao-thong-nong-thon-sai-pham-tren-1-ti-dong-100260725092100783.htm",
+      "summary": "Từ những sai phạm trong quản lý đầu tư xây dựng 5 công trình giao thông nông thôn, Thanh tra tỉnh Vĩnh Long kiến nghị xử lý trách nhiệm của nguyên Chủ tịch UBND xã Sơn Hòa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T13:14:07.687042+07:00",
+      "fetched": "2026-07-25T13:14:07.687092+07:00"
+    },
+    {
+      "id": "070b2933f888ec678f108027f4a3b037",
+      "title": "Người đàn ông mất tích gần 1 tháng, nay chỉ còn bộ xương ở rừng tràm",
+      "link": "https://tuoitre.vn/nguoi-dan-ong-mat-tich-gan-1-thang-nay-chi-con-bo-xuong-o-rung-tram-100260725102610641.htm",
+      "summary": "Một người đàn ông ở Đà Nẵng mất tích nhiều ngày, đến nay người dân phát hiện thi thể trong rừng tràm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T13:14:07.686985+07:00",
+      "fetched": "2026-07-25T13:14:07.687033+07:00"
+    },
+    {
+      "id": "feb29d0e902dd43c16f77c92a508f226",
+      "title": "Đường Nguyễn Thị Định, Lã Xuân Oai mở rộng giữa 'thời điểm vàng' của hạ tầng khu Đông TP.HCM",
+      "link": "https://tuoitre.vn/duong-nguyen-thi-dinh-la-xuan-oai-mo-rong-giua-thoi-diem-vang-cua-ha-tang-khu-dong-tphcm-100260724225910758.htm",
+      "summary": "Từng là hai điểm nghẽn giao thông kéo dài ở khu Đông TP.HCM, đường Nguyễn Thị Định và Lã Xuân Oai đang được mở rộng để giảm ùn tắc và mở thêm các hướng kết nối. Khi hoàn thành, hai tuyến sẽ giúp việc đi lại thuận tiện hơn và giảm áp lực cho nhiều trục giao thông hiện hữu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T13:14:07.686934+07:00",
+      "fetched": "2026-07-25T13:14:07.686977+07:00"
+    },
+    {
+      "id": "663c47055ad2f132a5d5d59b27076113",
+      "title": "Nhiều bệnh viện TP.HCM chung tay chăm sóc sức khỏe người có công",
+      "link": "https://tuoitre.vn/nhieu-benh-vien-tphcm-chung-tay-cham-soc-suc-khoe-nguoi-co-cong-100260725101456703.htm",
+      "summary": "Nhân kỷ niệm 79 năm Ngày Thương binh - Liệt sĩ, nhiều bệnh viện tại TP.HCM tổ chức khám sức khỏe cho người có công và thân nhân. Không chỉ chăm sóc sức khỏe, hoạt động còn thể hiện sự tri ân với những người đã cống hiến, hy sinh vì độc lập, tự do của Tổ quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T13:14:07.686879+07:00",
+      "fetched": "2026-07-25T13:14:07.686925+07:00"
+    },
+    {
+      "id": "4dc822aa287774d4c023d8990147d7bd",
+      "title": "Món ăn không ngon như ngày xưa do món ăn thay đổi hay ta đã khác?",
+      "link": "https://tuoitre.vn/mon-an-khong-ngon-nhu-ngay-xua-do-mon-an-thay-doi-hay-ta-da-khac-100260713113534204.htm",
+      "summary": "Có những món ăn ngày xưa từng rất ngon nhưng nay ta không còn hương vị cũ. Phải chăng món ăn dở đi hay khẩu vị của ta đã thay đổi?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T13:14:07.686816+07:00",
+      "fetched": "2026-07-25T13:14:07.686870+07:00"
+    },
+    {
+      "id": "86ebebbe4e26e3476c8a6ec22260b1d7",
+      "title": "Tiến sĩ về Vĩnh Long làm việc được hỗ trợ đến 600 triệu đồng",
+      "link": "https://tuoitre.vn/tien-si-ve-vinh-long-lam-viec-duoc-ho-tro-den-600-trieu-dong-100260725093801763.htm",
+      "summary": "Vĩnh Long vừa ban hành chính sách hỗ trợ đào tạo cán bộ, công chức và thu hút nguồn nhân lực chất lượng cao giai đoạn 2026 - 2030. Theo đó, người có trình độ thạc sĩ, tiến sĩ về công tác tại tỉnh có thể được hỗ trợ từ 200 triệu đến 600 triệu đồng, cùng nhiều khoản hỗ trợ sinh hoạt nếu đáp ứng các đi...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T13:14:07.686749+07:00",
+      "fetched": "2026-07-25T13:14:07.686806+07:00"
+    },
+    {
+      "id": "8a158219448b1cbb49657e83954771ba",
+      "title": "Lamine Yamal có tin vui sau World Cup",
+      "link": "https://tuoitre.vn/lamine-yamal-co-tin-vui-sau-world-cup-100260725110323171.htm",
+      "summary": "Ngay sau chiến thắng lịch sử tại World Cup, American Eagle bổ nhiệm cầu thủ bóng đá Lamine Yamal làm đại sứ thương hiệu toàn cầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T13:14:07.686579+07:00",
+      "fetched": "2026-07-25T13:14:07.686736+07:00"
+    },
     {
       "id": "19ff0f852415181e3d26b8dc167b6031",
       "title": "Lịch trực tiếp ASEAN Cup 2026 ngày 25-7: Malaysia, Thái Lan ra sân",
@@ -153,6 +303,16 @@ window.newsData_2026_07_25 = {
       "fetched": "2026-07-25T09:23:01.525339+07:00"
     },
     {
+      "id": "5a2fb16b2827b151110e60c5ab22dab8",
+      "title": "Hành trình của sự sẻ chia",
+      "link": "https://thanhnien.vn/hanh-trinh-cua-su-se-chia-185260723113456324.htm",
+      "summary": "Từng nghĩ giúp đỡ người khác phải bắt đầu từ những điều lớn lao, nhưng sau những lần cùng mọi người chuẩn bị các suất cơm trao tặng người khó khăn, tôi hiểu rằng sống đẹp đôi khi chỉ cần bắt đầu bằng sự sẻ chia nhỏ bé.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T06:00:00+07:00",
+      "fetched": "2026-07-25T13:14:05.544414+07:00"
+    },
+    {
       "id": "09a91f088b8657ccc93709fb9493d755",
       "title": "Cựu tiền đạo Amaobi: Thắng đậm Timor-Leste chưa đánh giá được sức mạnh tuyển Việt Nam",
       "link": "https://tuoitre.vn/cuu-tien-dao-amaobi-thang-dam-timor-leste-chua-danh-gia-duoc-suc-manh-tuyen-viet-nam-100260724233345807.htm",
@@ -161,6 +321,436 @@ window.newsData_2026_07_25 = {
       "category": "Tổng hợp",
       "published": "2026-07-25T05:58:13.888242+07:00",
       "fetched": "2026-07-25T05:58:13.888375+07:00"
+    },
+    {
+      "id": "70e44139d2e71611e9705d0668e1e243",
+      "title": "Tổ hợp Pantsir Nga bắn nổ UAV Ukraine đang lao xuống mục tiêu",
+      "link": "https://vnexpress.net/to-hop-pantsir-nga-ban-no-uav-ukraine-dang-lao-xuong-muc-tieu-5101536.html",
+      "summary": "Truyền thông Nga đăng video tổ hợp phòng không Pantsir-S1 bắn hạ UAV Ukraine chỉ vài giây trước khi nó lao xuống kho hàng của tập đoàn bán lẻ Wildberries.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-25T05:56:04+07:00",
+      "fetched": "2026-07-25T13:14:10.348011+07:00"
+    },
+    {
+      "id": "adfdb4079c8834cf478630950a84eddb",
+      "title": "Cà Mau bổ sung ngân hàng tên đường với nhiều danh nhân lịch sử tiêu biểu",
+      "link": "https://thanhnien.vn/ca-mau-bo-sung-ngan-hang-ten-duong-voi-nhieu-danh-nhan-lich-su-tieu-bieu-185260725030018012.htm",
+      "summary": "Tỉnh Cà Mau vừa có quyết định phê duyệt bổ sung danh mục Ngân hàng tên đường và công trình công cộng trên địa bàn tỉnh với 185 tên người và địa danh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T05:54:00+07:00",
+      "fetched": "2026-07-25T13:14:05.544567+07:00"
+    },
+    {
+      "id": "401a28d310c044592b4fc8e80805fce9",
+      "title": "HLV Kim Sang-sik vẫn còn ‘quân bài trong tay áo’, đội tuyển Việt Nam rất khó bị bắt bài",
+      "link": "https://thanhnien.vn/hlv-kim-sang-sik-van-con-quan-bai-trong-tay-ao-doi-tuyen-viet-nam-rat-kho-bi-bat-bai-185260725124829435.htm",
+      "summary": "Đội tuyển Việt Nam thắng đậm Timor Leste đến 7-0, nhưng đây vẫn chưa phải là toàn bộ sức mạnh của đội bóng đang được dẫn dắt bởi HLV Kim Sang-sik.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T05:53:00+07:00",
+      "fetched": "2026-07-25T13:14:05.544698+07:00"
+    },
+    {
+      "id": "cfb6aa9bead56b7ae75b443e086abaf2",
+      "title": "Chuyển Viện KSND truy tố tài xế xe tải trong vụ nữ sinh Vĩnh Long tử vong",
+      "link": "https://thanhnien.vn/chuyen-vien-ksnd-truy-to-tai-xe-xe-tai-trong-vu-nu-sinh-vinh-long-tu-vong-185260725121205055.htm",
+      "summary": "Cơ quan CSĐT Công an tỉnh Vĩnh Long vừa ban hành kết luận điều tra và chuyển Viện KSND khu vực 4 truy tố tài xế xe tải trong vụ tai nạn giao thông khiến nữ sinh Vĩnh Long tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T05:47:00+07:00",
+      "fetched": "2026-07-25T13:14:05.544823+07:00"
+    },
+    {
+      "id": "41070424f3442933fa8d362e349f6325",
+      "title": "Máy lọc nước Hòa Phát ứng dụng công nghệ điện phân có màng ngăn",
+      "link": "https://vnexpress.net/may-loc-nuoc-hoa-phat-ung-dung-cong-nghe-dien-phan-co-mang-ngan-5101316.html",
+      "summary": "Dòng máy lọc nước hydrogen ion kiềm hyperS của Hòa Phát tích hợp 12 lõi lọc, kết hợp công nghệ điện phân có màng ngăn và màng lọc RO Dupont Filmtec từ Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T05:45:00+07:00",
+      "fetched": "2026-07-25T13:14:01.099193+07:00"
+    },
+    {
+      "id": "22a3d5fac92a7fe03e0bc73121bd384e",
+      "title": "Phạm Băng Băng 'như búp bê' với tóc hồng",
+      "link": "https://vnexpress.net/pham-bang-bang-nhu-bup-be-voi-toc-hong-5101511.html",
+      "summary": "Khán giả nhận xét minh tinh Hoa ngữ Phạm Băng Băng xinh tươi, giống \"búp bê Barbie\" với mái tóc hồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T05:44:00+07:00",
+      "fetched": "2026-07-25T13:14:01.099354+07:00"
+    },
+    {
+      "id": "8e89f6a175729472576edc37ed4fdd74",
+      "title": "Triển lãm drone Ukraine tan hoang sau đòn tập kích của Nga",
+      "link": "https://vnexpress.net/trien-lam-drone-ukraine-tan-hoang-sau-don-tap-kich-cua-nga-5101534.html",
+      "summary": "Nga phóng tên lửa đạn đạo Iskander-M tập kích địa điểm tổ chức triển lãm drone quốc phòng ở ngoại ô thủ đô Kiev, khiến ít nhất 10 người thiệt mạng, hơn 100 người bị thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T05:36:34+07:00",
+      "fetched": "2026-07-25T13:14:01.099535+07:00"
+    },
+    {
+      "id": "adef45c588a95aa53d6c6eb8ac3a6c46",
+      "title": "Đi tù vì buôn lậu trứng gà Đông Tảo vào Mỹ",
+      "link": "https://thanhnien.vn/di-tu-vi-buon-lau-trung-ga-dong-tao-vao-my-185260725112314634.htm",
+      "summary": "Đài KIII hôm 24.7 đưa tin một cư dân của thị trấn Aransas Pass (bang Texas, Mỹ) đã lãnh án 2 năm tù giam sau khi thừa nhận đã mang trái phép trứng gà Đông Tảo vào Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T05:34:00+07:00",
+      "fetched": "2026-07-25T13:14:05.544947+07:00"
+    },
+    {
+      "id": "e4b2a331b6f78fda5612c9b49ba49cbd",
+      "title": "Truy tặng Huân chương Dũng cảm cho thượng sĩ Kpă Thiệp",
+      "link": "https://thanhnien.vn/truy-tang-huan-chuong-dung-cam-cho-thuong-si-kpa-thiep-185260725115119663.htm",
+      "summary": "Chủ tịch nước đã ký Quyết định số 1197 về việc truy tặng Huân chương Dũng cảm cho thượng sĩ Kpă Thiệp do đã có hành động dũng cảm, không quản hiểm nguy, cứu người bị nạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T05:33:00+07:00",
+      "fetched": "2026-07-25T13:14:05.545071+07:00"
+    },
+    {
+      "id": "99aa5755d9055dbe6169caed0918915a",
+      "title": "Đà Nẵng khởi công dự án mang 'biểu tượng mới bên sông Hàn' hơn 10.000 tỉ đồng",
+      "link": "https://thanhnien.vn/da-nang-khoi-cong-du-an-mang-bieu-tuong-moi-ben-song-han-hon-10000-ti-dong-185260725112829331.htm",
+      "summary": "Tổ hợp lễ hội, sự kiện, văn hóa và giải trí quốc tế đầu tiên của Đà Nẵng với tổng vốn đầu tư gần 10.750 tỉ đồng được kỳ vọng trở thành 'trái tim' mới của Da Nang Downtown, nâng tầm Lễ hội pháo hoa quốc tế Đà Nẵng (DIFF) và tạo động lực phát triển kinh tế đêm, du lịch của thành phố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T05:33:00+07:00",
+      "fetched": "2026-07-25T13:14:05.545191+07:00"
+    },
+    {
+      "id": "93ba34cfaa60d047f5998de2dc2765a1",
+      "title": "EU có thể bán dầu tịch thu từ tàu Nga bị chặn bắt",
+      "link": "https://vnexpress.net/eu-co-the-ban-dau-tich-thu-tu-tau-nga-bi-chan-bat-5101518.html",
+      "summary": "EU lần đầu thiết lập cơ sở pháp lý cho phép bán dầu và hàng hóa Nga bị tịch thu từ các phương tiện thuộc \"đội tàu bóng tối\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T05:32:39+07:00",
+      "fetched": "2026-07-25T13:14:01.099674+07:00"
+    },
+    {
+      "id": "93ba34cfaa60d047f5998de2dc2765a1",
+      "title": "EU có thể bán dầu tịch thu từ tàu Nga bị chặn bắt",
+      "link": "https://vnexpress.net/eu-co-the-ban-dau-tich-thu-tu-tau-nga-bi-chan-bat-5101518.html",
+      "summary": "EU lần đầu thiết lập cơ sở pháp lý cho phép bán dầu và hàng hóa Nga bị tịch thu từ các phương tiện thuộc \"đội tàu bóng tối\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-25T05:32:39+07:00",
+      "fetched": "2026-07-25T13:14:10.348167+07:00"
+    },
+    {
+      "id": "2705852a3a9b6e1537e8f46663af62aa",
+      "title": "Người dân cần biết các trường hợp không được cấp sổ hồng",
+      "link": "https://thanhnien.vn/nguoi-dan-can-biet-cac-truong-hop-khong-duoc-cap-so-hong-185260725115750965.htm",
+      "summary": "Trong dự thảo luật Đất đai sửa đổi, Bộ Nông nghiệp và Môi trường đề xuất mở rộng các trường hợp không được cấp giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất (sổ hồng) so với quy định hiện hành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T05:32:00+07:00",
+      "fetched": "2026-07-25T13:14:05.545310+07:00"
+    },
+    {
+      "id": "1b5ac65ac123b015e84f1702365a7076",
+      "title": "Bệnh nhân người Ấn Độ bị lật ca nô ở Phú Quốc xuất viện, về nước",
+      "link": "https://thanhnien.vn/benh-nhan-nguoi-an-do-bi-lat-ca-no-o-phu-quoc-xuat-vien-ve-nuoc-185260725115909462.htm",
+      "summary": "Hôm nay (25.7), bệnh nhân người Ấn Độ bị lật ca nô ở Phú Quốc xuất viện và về nước, Bệnh viện Chợ Rẫy cử bác sĩ đi cùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T05:29:00+07:00",
+      "fetched": "2026-07-25T13:14:05.545442+07:00"
+    },
+    {
+      "id": "8539c1f4b413c4708f98f85e867772d9",
+      "title": "Trưởng ban Tuyên giáo và Dân vận TP.HCM thăm, tặng quà lực lượng vũ trang Côn Đảo",
+      "link": "https://thanhnien.vn/truong-ban-tuyen-giao-va-dan-van-tphcm-tham-tang-qua-luc-luong-vu-trang-con-dao-185260725115157501.htm",
+      "summary": "Trưởng ban Tuyên giáo và Dân vận TP.HCM đánh giá cao việc các đơn vị lực lượng vũ trang tích cực tham gia, hòa nhịp với cuộc sống người dân Côn Đảo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T05:26:00+07:00",
+      "fetched": "2026-07-25T13:14:05.545564+07:00"
+    },
+    {
+      "id": "13fac49738c54e762471b389e4466520",
+      "title": "Hiểu đúng lý giải của CSGT về sử dụng làn trái cao tốc",
+      "link": "https://vnexpress.net/hieu-dung-ly-giai-cua-csgt-ve-su-dung-lan-trai-cao-toc-5101522.html",
+      "summary": "Luật quy định xe chạy dưới tốc độ tối đa phải đi bên phải, dù cao tốc nhiều làn không có khái niệm vượt xe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T05:24:57+07:00",
+      "fetched": "2026-07-25T13:14:01.099808+07:00"
+    },
+    {
+      "id": "a4919a9d2739b9bfca6ed9793ef858b2",
+      "title": "Phim nhà nước đặt hàng ‘Thanh âm vượt đại dương’ ra sao sau ngày đầu ra rạp?",
+      "link": "https://thanhnien.vn/phim-nha-nuoc-dat-hang-thanh-am-vuot-dai-duong-ra-sao-sau-ngay-dau-ra-rap-185260725112046913.htm",
+      "summary": "Ngay trong ngày đầu chính thức ra rạp 24.7, 'Thanh âm vượt đại dương' đã tạo được tín hiệu đáng chú ý khi đứng thứ 4 trên bảng xếp hạng doanh thu phòng vé trong ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T05:24:00+07:00",
+      "fetched": "2026-07-25T13:14:05.545677+07:00"
+    },
+    {
+      "id": "f22169901a0320130b1b60f3cd36ccd4",
+      "title": "Bão số 2 mạnh lên cấp 12",
+      "link": "https://thanhnien.vn/bao-so-2-manh-len-cap-12-185260725120752342.htm",
+      "summary": "Bão số 2 (cơn bão Noul) tiếp tục mạnh lên đầu cấp 12, giật cấp 15. Dự báo vùng biển bắc khu vực bắc Biển Đông chịu ảnh hưởng của bão, mưa lớn dữ dội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T05:23:00+07:00",
+      "fetched": "2026-07-25T13:14:05.545792+07:00"
+    },
+    {
+      "id": "cb206c12f0fbf6106597dc335769baa3",
+      "title": "Đà Nẵng khởi công tổ hợp văn hóa, giải trí gần 10.750 tỷ đồng bên sông Hàn",
+      "link": "https://vnexpress.net/da-nang-khoi-cong-to-hop-van-hoa-giai-tri-gan-10-750-ty-dong-ben-song-han-5101533.html",
+      "summary": "Tổ hợp lễ hội, sự kiện và giải trí quy quốc tế đầu tiên của Đà Nẵng, với hơn 21 ha và khán đài 20.000 chỗ, được kỳ vọng tạo động lực mới cho kinh tế đêm địa phương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T05:19:30+07:00",
+      "fetched": "2026-07-25T13:14:01.099938+07:00"
+    },
+    {
+      "id": "507a842896df43c5cc0bfcd3a2fb5284",
+      "title": "Hơn 7.000 người dính bẫy mã độc khi tải ứng dụng từ tên miền Claude.ai",
+      "link": "https://thanhnien.vn/hon-7000-nguoi-dinh-bay-ma-doc-khi-tai-ung-dung-tu-ten-mien-claudeai-185260725111806593.htm",
+      "summary": "Chiêu trò lừa đảo mới nhắm vào Claude.ai, tải ứng dụng chính chủ vẫn dính trojan nguy hiểm?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T05:18:00+07:00",
+      "fetched": "2026-07-25T13:14:05.545903+07:00"
+    },
+    {
+      "id": "90e791db34b66344afb84524fb965081",
+      "title": "Doanh nghiệp kiến nghị 5 nhóm vấn đề về kinh tế tư nhân tại Cà Mau",
+      "link": "https://thanhnien.vn/doanh-nghiep-kien-nghi-5-nhom-van-de-ve-kinh-te-tu-nhan-tai-ca-mau-185260725113901201.htm",
+      "summary": "Hơn 100 doanh nhân, chuyên gia, nhà đầu tư và đại diện các cơ quan quản lý đã cùng đối thoại, đề xuất giải pháp tháo gỡ điểm nghẽn cho khu vực kinh tế tư nhân tại Phiên đối thoại tỉnh Cà Mau thuộc Diễn đàn Kinh tế tư nhân Việt Nam (VPSF) 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T05:15:00+07:00",
+      "fetched": "2026-07-25T13:14:05.546021+07:00"
+    },
+    {
+      "id": "0eecf5f64b0371dac9badf58904a2c4f",
+      "title": "'Nhiều người Mỹ giảm đọc sách'",
+      "link": "https://vnexpress.net/nhieu-nguoi-my-giam-doc-sach-5098522.html",
+      "summary": "Một số báo cáo của chuyên gia nhận định nhiều người Mỹ dành thời gian ít hơn để đọc sách do mạng xã hội, điện thoại thông minh chi phối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T05:08:54+07:00",
+      "fetched": "2026-07-25T13:14:01.100063+07:00"
+    },
+    {
+      "id": "61525e1f5d1dfda6a4a259bc90cbeb43",
+      "title": "Xác minh thông tin 6 mộ liệt sĩ ở Lai Châu",
+      "link": "https://thanhnien.vn/xac-minh-thong-tin-6-mo-liet-si-o-lai-chau-185260725113201907.htm",
+      "summary": "Ban Chỉ huy quân sự xã Pa Tần (Lai Châu) cùng các lực lượng chức năng đang xác minh 6 phần mộ nghi là của các liệt sĩ hy sinh từ thời kháng chiến chống Pháp tại ruộng ngô của người dân xã Pa Tần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T05:08:00+07:00",
+      "fetched": "2026-07-25T13:14:05.546148+07:00"
+    },
+    {
+      "id": "5626f668321a72ad8c5718f5bf4633bd",
+      "title": "OpenAI 'mất một tuần mới phát hiện' AI thoát vòng kiểm soát",
+      "link": "https://vnexpress.net/openai-mat-mot-tuan-moi-phat-hien-ai-thoat-vong-kiem-soat-5101445.html",
+      "summary": "Mô hình của OpenAI được cho là xâm nhập hệ thống Hugging Face trong nhiều ngày không ai hay biết, và chỉ bị phát hiện khi mối đe dọa đã được kiểm soát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T05:03:57+07:00",
+      "fetched": "2026-07-25T13:14:01.100195+07:00"
+    },
+    {
+      "id": "5626f668321a72ad8c5718f5bf4633bd",
+      "title": "OpenAI 'mất một tuần mới phát hiện' AI thoát vòng kiểm soát",
+      "link": "https://vnexpress.net/openai-mat-mot-tuan-moi-phat-hien-ai-thoat-vong-kiem-soat-5101445.html",
+      "summary": "Mô hình của OpenAI được cho là xâm nhập hệ thống Hugging Face trong nhiều ngày không ai hay biết, và chỉ bị phát hiện khi mối đe dọa đã được kiểm soát.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-25T05:03:57+07:00",
+      "fetched": "2026-07-25T13:14:14.657406+07:00"
+    },
+    {
+      "id": "673638f44edba0abfc99ef62b4ac6955",
+      "title": "Tại sao kim cương bị xước phải bán rẻ dù độ cứng 10/10 ?",
+      "link": "https://vnexpress.net/tai-sao-kim-cuong-bi-xuoc-phai-ban-re-du-do-cung-10-10-5101469.html",
+      "summary": "Kim cương được xem là vật liệu tự nhiên cứng nhất trên Trái Đất nhưng không ít người bất ngờ khi mang đi bán được báo 'bị xước'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T05:00:00+07:00",
+      "fetched": "2026-07-25T13:14:01.100323+07:00"
+    },
+    {
+      "id": "98fd2103d910f3860e89bef61f08298f",
+      "title": "Chồng luôn nghĩ anh 'tuyệt vời, khó gặp' vì đưa hết lương cho vợ",
+      "link": "https://vnexpress.net/chong-luon-nghi-anh-tuyet-voi-kho-gap-vi-dua-het-luong-cho-vo-5101466.html",
+      "summary": "Tôi nhăn mặt, chồng bảo về nhà suốt ngày nhăn mặt, chồng đi làm đưa hết tiền cho còn phụ rửa bát, tắm cho con rồi còn kêu than.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T05:00:00+07:00",
+      "fetched": "2026-07-25T13:14:01.100470+07:00"
+    },
+    {
+      "id": "6e81eef99c56ef5289625f7f2a607c93",
+      "title": "Quốc gia nào sản xuất và khai thác vàng nhiều nhất khu vực Đông Nam Á?",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-quoc-gia-nao-san-xuat-va-khai-thac-vang-nhieu-nhat-khu-vuc-dong-nam-a-5097638.html",
+      "summary": "Đông Nam Á có một quốc gia khai thác hơn 140 tấn vàng mỗi năm, đứng Top 10 thế giới. Bạn có đoán đúng nước đang dẫn đầu khu vực?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T05:00:00+07:00",
+      "fetched": "2026-07-25T13:14:01.100605+07:00"
+    },
+    {
+      "id": "bd6370521f4930e069caa757939796d7",
+      "title": "Người lớn tuổi có nên phẫu thuật tái tạo dây chằng?",
+      "link": "https://vnexpress.net/nguoi-lon-tuoi-co-nen-phau-thuat-tai-tao-day-chang-5101482.html",
+      "summary": "Bố tôi 68 tuổi, bị thoái hóa khớp độ 3, gần đây đứt dây chằng chéo trước do va chạm. Bố tôi có nên mổ tái tạo dây chằng để giảm đau, đi lại thoải mái không? (Thái Hưng, Hòa Bình)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T05:00:00+07:00",
+      "fetched": "2026-07-25T13:14:01.100728+07:00"
+    },
+    {
+      "id": "46d74cf1f8461c60625595e209fde353",
+      "title": "30 ngày đêm tìm lại tên cho các liệt sĩ tại hang Tám Cô",
+      "link": "https://vnexpress.net/30-ngay-dem-tim-lai-ten-cho-cac-liet-si-tai-hang-tam-co-5101099.html",
+      "summary": "Trong 30 ngày, lực lượng quy tập và các nhà khoa học gạt từng lớp đất, cấp tốc chuyển mẫu hài cốt về phòng thí nghiệm để xác minh danh tính liệt sĩ hy sinh tại hang Tám Cô.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T04:57:37+07:00",
+      "fetched": "2026-07-25T13:14:01.100850+07:00"
+    },
+    {
+      "id": "7fdc7168598af48d57e6ead0ec86874e",
+      "title": "Nỗ lực dựng lại hàng rào thuế quan của ông Trump",
+      "link": "https://vnexpress.net/no-luc-dung-lai-hang-rao-thue-quan-cua-ong-trump-5101452.html",
+      "summary": "4 tháng sau khi bị Tòa án Tối cao bác bỏ thuế đối ứng, Tổng thống Trump liên tiếp áp thêm thuế nhập khẩu mới với các đối tác thương mại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T04:50:42+07:00",
+      "fetched": "2026-07-25T13:14:01.100975+07:00"
+    },
+    {
+      "id": "7fdc7168598af48d57e6ead0ec86874e",
+      "title": "Nỗ lực dựng lại hàng rào thuế quan của ông Trump",
+      "link": "https://vnexpress.net/no-luc-dung-lai-hang-rao-thue-quan-cua-ong-trump-5101452.html",
+      "summary": "4 tháng sau khi bị Tòa án Tối cao bác bỏ thuế đối ứng, Tổng thống Trump liên tiếp áp thêm thuế nhập khẩu mới với các đối tác thương mại.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-25T04:50:42+07:00",
+      "fetched": "2026-07-25T13:14:12.324678+07:00"
+    },
+    {
+      "id": "b159b162d4dc2efbd8abb3c6b2cc81a2",
+      "title": "Lười giặt ga gối, người đàn ông rước hơn 1.000 ký sinh trùng lên mắt",
+      "link": "https://vnexpress.net/luoi-giat-ga-goi-nguoi-dan-ong-ruoc-hon-1-000-ky-sinh-trung-len-mat-5101404.html",
+      "summary": "Thường xuyên ngứa mắt và mờ dần thị lực, người đàn ông Trung Quốc đi khám mới phát hiện hàng nghìn con ve Demodex đang lúc nhúc ký sinh tại các nang lông mi do lười thay ga gối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T04:38:40+07:00",
+      "fetched": "2026-07-25T13:14:01.101099+07:00"
+    },
+    {
+      "id": "8cd886dc342801b1d78a00287e0387d4",
+      "title": "Loạt nhà máy pin mặt trời Ấn Độ đóng cửa vì thiếu linh kiện Trung Quốc",
+      "link": "https://vnexpress.net/loat-nha-may-pin-mat-troi-an-do-dong-cua-vi-thieu-linh-kien-trung-quoc-5101508.html",
+      "summary": "Một phần ba doanh nghiệp pin mặt trời Ấn Độ ngừng sản xuất, do không thể tìm được nguồn cell pin nội địa thay thế lượng nhập khẩu từ Trung Quốc.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-25T04:24:41+07:00",
+      "fetched": "2026-07-25T13:14:12.324835+07:00"
+    },
+    {
+      "id": "677061e2d71be50d0c47958da4723011",
+      "title": "Khoảnh khắc 'tên lửa Patriot' quay đầu, bổ nhào xuống đất",
+      "link": "https://vnexpress.net/khoanh-khac-ten-lua-patriot-quay-dau-bo-nhao-xuong-dat-5101474.html",
+      "summary": "Video mới xuất hiện cho thấy tên lửa nghi là PAC-2 Patriot quay đầu và bổ nhào, gây ra vụ nổ lớn tại Bahrain.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-25T04:13:27+07:00",
+      "fetched": "2026-07-25T13:14:10.348307+07:00"
+    },
+    {
+      "id": "9cb1c0ce0c55966e98645f2c0cee220a",
+      "title": "Vì sao Arsenal vẫn thận trọng trên sàn chuyển nhượng?",
+      "link": "https://vnexpress.net/vi-sao-arsenal-van-than-trong-tren-san-chuyen-nhuong-5101415.html",
+      "summary": "Nhà vô địch Ngoại hạng Anh chưa vội tăng tốc trên thị trường chuyển nhượng, đặt niềm tin vào chiến lược thận trọng của Andrea Berta trong bối cảnh nhiều mục tiêu bị đối thủ vượt mặt và giá cầu thủ liên tục leo thang.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-25T04:00:00+07:00",
+      "fetched": "2026-07-25T13:14:16.473964+07:00"
+    },
+    {
+      "id": "ee17f205ef847f44a4a73a9ee2103788",
+      "title": "Nữ kiến trúc sư điều hành 'cỗ máy drone' của Ukraine",
+      "link": "https://vnexpress.net/nu-kien-truc-su-dieu-hanh-co-may-drone-cua-ukraine-5101454.html",
+      "summary": "Ở tuổi 34, nữ kiến trúc sư Iryna Terekh đang chèo lái Fire Point, cỗ máy sản xuất hàng nghìn drone mỗi tháng phục vụ các đòn tập kích tầm xa của Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-25T03:59:30+07:00",
+      "fetched": "2026-07-25T13:14:10.348462+07:00"
+    },
+    {
+      "id": "8a654c5da599cd8b0a61288cb30d4269",
+      "title": "Quản lý của Tencent bị sa thải vì khoe tiền thưởng lên mạng",
+      "link": "https://vnexpress.net/quan-ly-cua-tencent-bi-sa-thai-vi-khoe-tien-thuong-len-mang-5101468.html",
+      "summary": "Một quản lý tại bộ phận WeChat của công ty Tencent bị sa thải vì làm lộ chi tiết khoản tiền thưởng cuối năm trị giá hàng triệu tệ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-25T03:09:04+07:00",
+      "fetched": "2026-07-25T13:14:10.348593+07:00"
+    },
+    {
+      "id": "f9aae5199c1ac179db23ef8024e0333d",
+      "title": "Tên lửa mạnh nhất thế giới Starship có màn 'tiếp nước êm nhất'",
+      "link": "https://vnexpress.net/ten-lua-manh-nhat-the-gioi-starship-co-man-tiep-nuoc-em-nhat-5101475.html",
+      "summary": "Nguyên mẫu tên lửa khổng lồ Starship V3 của SpaceX cất cánh từ Texas lúc 18h51 ngày 24/7 (5h51 ngày 25/7 giờ Hà Nội) và đáp nhẹ nhàng xuống biển.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-25T03:04:18+07:00",
+      "fetched": "2026-07-25T13:14:14.657568+07:00"
+    },
+    {
+      "id": "52a9878ff5e21963b356f3fe7200e64f",
+      "title": "Cải trang làm du khách, cướp vòng cổ 2.500 năm tuổi",
+      "link": "https://vnexpress.net/cai-trang-lam-du-khach-cuop-vong-co-2-500-nam-tuoi-5101481.html",
+      "summary": "Nhóm cướp phá kính trước mặt nhân viên an ninh bảo tàng Pháp, lấy đi chiếc vòng vàng có niên đại 500 năm trước Công nguyên.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-25T03:02:36+07:00",
+      "fetched": "2026-07-25T13:14:10.348722+07:00"
+    },
+    {
+      "id": "192f286456635fd2a3b4e82286eec2ca",
+      "title": "Musk đề xuất các công ty AI tự giám sát lẫn nhau",
+      "link": "https://vnexpress.net/musk-de-xuat-cac-cong-ty-ai-tu-giam-sat-lan-nhau-5101288.html",
+      "summary": "Tỷ phú Elon Musk cho rằng nên để doanh nghiệp tự đánh giá chéo mô hình AI tiên tiến trước khi ra mắt, chính phủ chỉ can thiệp như \"biện pháp cuối\".",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-25T03:00:00+07:00",
+      "fetched": "2026-07-25T13:14:14.657704+07:00"
+    },
+    {
+      "id": "185bb55261971fd4c527abd1fa06de13",
+      "title": "Zirkzee ghi bàn đẹp trong trận thắng 5-0 của Man Utd",
+      "link": "https://vnexpress.net/zirkzee-ghi-ban-dep-trong-tran-thang-5-0-cua-man-utd-5101465.html",
+      "summary": "Tiền đạo Joshua Zirkzee ghi dấu ấn với pha độc diễn ghi bàn, giúp Man Utd thắng Rosenborg 5-0 ở trận giao hữu tiền mùa giải.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-25T02:43:17+07:00",
+      "fetched": "2026-07-25T13:14:16.474548+07:00"
+    },
+    {
+      "id": "f444d68a95ad7c1885ceaeb29f397783",
+      "title": "Mỹ khai hỏa, vô hiệu hóa tàu dầu '4 lần cố vượt lệnh phong tỏa'",
+      "link": "https://vnexpress.net/my-khai-hoa-vo-hieu-hoa-tau-dau-4-lan-co-vuot-lenh-phong-toa-5101448.html",
+      "summary": "Quân đội Mỹ thông báo đã bắn trúng buồng máy của một tàu dầu đang tìm cách vượt lệnh phong tỏa các cảng biển Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-25T02:41:03+07:00",
+      "fetched": "2026-07-25T13:14:10.348848+07:00"
     },
     {
       "id": "950283c69b1b601babbf8a52874e888e",
@@ -541,6 +1131,16 @@ window.newsData_2026_07_25 = {
       "category": "Tổng hợp",
       "published": "2026-07-25T01:19:00+07:00",
       "fetched": "2026-07-25T09:22:59.421958+07:00"
+    },
+    {
+      "id": "529319f7cb44e93d4f67d331f9d36c11",
+      "title": "83 hồ sơ vào chung kết Sáng kiến Khoa học 2026",
+      "link": "https://vnexpress.net/83-ho-so-vao-chung-ket-sang-kien-khoa-hoc-2026-5101340.html",
+      "summary": "83 hồ sơ trải rộng trên nhiều lĩnh vực, được sàng lọc bởi Hội đồng giám khảo và bình chọn của độc giả từ vòng loại, bước vào chung kết Cuộc thi Sáng kiến Khoa học 2026.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-25T01:12:31+07:00",
+      "fetched": "2026-07-25T13:14:14.658236+07:00"
     },
     {
       "id": "1679c21c4ad0b2504d4c99a7cc7338a9",
@@ -1541,6 +2141,16 @@ window.newsData_2026_07_25 = {
       "category": "Thể thao",
       "published": "2026-07-24T12:03:00+07:00",
       "fetched": "2026-07-25T00:26:47.434288+07:00"
+    },
+    {
+      "id": "f1cd72a77e3cad162540e9f6f3d6cd85",
+      "title": "Đình Bắc lập hat-trick, Việt Nam thắng 7-0 trận ra quân ASEAN Cup",
+      "link": "https://vnexpress.net/ket-qua-timor-leste-vs-viet-nam-5101374-tong-thuat.html",
+      "summary": "Tiền đạo Nguyễn Đình Bắc ghi ba bàn, trong khi bộ đôi nhập tịch Đỗ Hoàng Hên và Nguyễn Xuân Son cùng lập công, giúp Việt Nam đại thắng Timor Leste 7-0 ở trận ra quân ASEAN Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-24T12:03:00+07:00",
+      "fetched": "2026-07-25T13:14:16.475722+07:00"
     },
     {
       "id": "a8aad96d958e76647b7476776be9f456",
