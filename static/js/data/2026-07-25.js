@@ -1,7 +1,117 @@
 window.newsData_2026_07_25 = {
   "date": "2026-07-25",
-  "lastUpdated": "2026-07-25T20:17:37.524006+07:00",
+  "lastUpdated": "2026-07-25T21:59:29.344359+07:00",
   "articles": [
+    {
+      "id": "8a0348bee265b2aee834b98cdbcc9d58",
+      "title": "Mỹ phát triển drone quay nhanh đến mức gần như 'tàng hình'",
+      "link": "https://tuoitre.vn/my-phat-trien-drone-quay-nhanh-den-muc-gan-nhu-tang-hinh-100260724112003199.htm",
+      "summary": "Xoay toàn bộ thân tới 25 vòng/giây, Phantom Twist khiến mắt người chỉ thấy một vệt mờ, được đánh giá khó phát hiện gấp khoảng 10 lần drone thông thường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T21:59:21.611933+07:00",
+      "fetched": "2026-07-25T21:59:21.612234+07:00"
+    },
+    {
+      "id": "cc7b8a11fcd0453f0571753c175fea2c",
+      "title": "Hội nghị Trung ương 3 - Bước chuyển chiến lược đưa Việt Nam thành nước phát triển",
+      "link": "https://tuoitre.vn/hoi-nghi-trung-uong-3-buoc-chuyen-chien-luoc-dua-viet-nam-thanh-nuoc-phat-trien-100260725165000977.htm",
+      "summary": "TS Trần Văn nêu rõ nghị quyết về đổi mới mô hình phát triển Việt Nam là một bước chuyển chiến lược, tạo đột phá trong đổi mới mô hình phát triển, nhằm hiện thực hóa mục tiêu đưa Việt Nam trở thành nước phát triển, thu nhập cao vào năm 2045.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T21:59:21.611864+07:00",
+      "fetched": "2026-07-25T21:59:21.611922+07:00"
+    },
+    {
+      "id": "7d8a81ca5b9558cafce9dee15ebc1a6b",
+      "title": "Trung Đông tối 25-7: Houthi mở 'chiến dịch nhạy cảm' nhằm vào Saudi Arabia; Iran chặn tàu ở eo biển Hormuz",
+      "link": "https://tuoitre.vn/trung-dong-toi-25-7-houthi-mo-chien-dich-nhay-cam-nham-vao-saudi-arabia-iran-chan-tau-o-eo-bien-hormuz-10026072518264746.htm",
+      "summary": "Iran tuyên bố chặn 4 tàu tìm cách băng qua eo biển Hormuz; Houthi mở 2 'chiến dịch nhạy cảm' nhằm vào Saudi Arabia... là một số tin tức đáng chú ý về Trung Đông tối 25-7.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T21:59:21.611797+07:00",
+      "fetched": "2026-07-25T21:59:21.611853+07:00"
+    },
+    {
+      "id": "f6d6c602a7b7d9e4f7c652795fbf7eba",
+      "title": "CLB Thái Sơn Bắc vô địch futsal quốc gia sau 16 năm chờ đợi",
+      "link": "https://tuoitre.vn/clb-thai-son-bac-vo-dich-futsal-quoc-gia-sau-16-nam-cho-doi-100260725195101007.htm",
+      "summary": "CLB Thái Sơn Bắc đã vượt qua tượng đài Thái Sơn Nam TP.HCM đúng 1 điểm để giành chức vô địch Giải futsal HDBank VĐQG 2026 sau 16 năm chờ đợi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T21:59:21.611730+07:00",
+      "fetched": "2026-07-25T21:59:21.611787+07:00"
+    },
+    {
+      "id": "71a009861577b9058ff7a7dd179f225b",
+      "title": "Loạt ảnh mới về con tàu cổ vừa nổi lên ở bờ biển Đà Nẵng",
+      "link": "https://tuoitre.vn/loat-anh-moi-ve-con-tau-co-vua-noi-len-o-bo-bien-da-nang-100260725194735772.htm",
+      "summary": "Sau lần đầu xuất hiện ở bờ biển Hội An (TP Đà Nẵng) cuối năm 2023, vài ngày qua con tàu cổ đang thu hút sự chú ý của công chúng lại lộ ra khá đầy đủ hình hài dưới lớp cát.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T21:59:21.611660+07:00",
+      "fetched": "2026-07-25T21:59:21.611719+07:00"
+    },
+    {
+      "id": "5ddf98e9616d9381835e4232e56e659c",
+      "title": "Khởi tố cựu chủ tịch và giám đốc Công ty Việt Mỹ vụ buôn lậu, nâng giá thiết bị y tế, thuốc tân dược",
+      "link": "https://tuoitre.vn/khoi-to-cuu-chu-tich-va-giam-doc-cong-ty-viet-my-vu-buon-lau-nang-gia-thiet-bi-y-te-thuoc-tan-duoc-100260725195740342.htm",
+      "summary": "Bộ Công an xác định Công ty Việt Mỹ lập mạng lưới công ty ở nước ngoài để nâng giá thiết bị y tế, thuốc tân dược nhập khẩu, thu lợi bất chính, khiến giá bán vào các cơ sở y tế tăng cao, ảnh hưởng quyền lợi người bệnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T21:59:21.611588+07:00",
+      "fetched": "2026-07-25T21:59:21.611646+07:00"
+    },
+    {
+      "id": "ee498f0ef5397c2ab8de21c39633d494",
+      "title": "Bị miễn nhiệm, cựu Bộ trưởng Quốc phòng Ukraine được Bộ trưởng Ý mời làm cố vấn",
+      "link": "https://tuoitre.vn/bi-mien-nhiem-cuu-bo-truong-quoc-phong-ukraine-duoc-bo-truong-y-moi-lam-co-van-10026072520043672.htm",
+      "summary": "Bộ trưởng Quốc phòng Ý Guido Crosetto cho biết đã ngỏ lời mời ông Mykhailo Fedorov sang thành phố Rome (Ý) làm cố vấn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T21:59:21.611520+07:00",
+      "fetched": "2026-07-25T21:59:21.611577+07:00"
+    },
+    {
+      "id": "59bbc38f4e30d779e5b259db0ffe1c7b",
+      "title": "Video giới chức Iraq tìm thấy thùng tiền tham nhũng của cựu thứ trưởng dầu mỏ giấu trong bụi cây",
+      "link": "https://tuoitre.vn/video-gioi-chuc-iraq-tim-thay-thung-tien-tham-nhung-cua-cuu-bo-truong-dau-mo-giau-trong-bui-cay-100260725201120698.htm",
+      "summary": "Một thùng tiền mặt được giấu trong bụi cây là phát hiện mới nhất trong cuộc điều tra tham nhũng quy mô lớn tại Iraq. Đã thu giữ hơn 10 triệu USD cùng nhiều vàng và trang sức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T21:59:21.611450+07:00",
+      "fetched": "2026-07-25T21:59:21.611510+07:00"
+    },
+    {
+      "id": "c7c9bacb6a3a5d2c35009a8d964b3a3c",
+      "title": "Phim Tận hiến lên sóng HTV9, hai phim tài liệu đặc biệt nhân dịp 27-7 lên sóng VTV",
+      "link": "https://tuoitre.vn/phim-tan-hien-len-song-htv9-hai-phim-tai-lieu-dac-biet-nhan-dip-27-7-len-song-vtv-100260725191858582.htm",
+      "summary": "Nhân kỷ niệm 79 năm Ngày Thương binh - Liệt sĩ (27-7), HTV9 phát sóng phim Tận hiến, VTV giới thiệu hai phim tài liệu đặc biệt Điểm cuối con đường huyền thoại và Phía sau những trận đánh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T21:59:21.611377+07:00",
+      "fetched": "2026-07-25T21:59:21.611439+07:00"
+    },
+    {
+      "id": "76edffe4ab0904e074ff186ccd7784e2",
+      "title": "TP Đồng Nai thành lập 3 ban quản lý dự án giao thông, dân dụng, nông nghiệp",
+      "link": "https://tuoitre.vn/tp-dong-nai-thanh-lap-3-ban-quan-ly-du-an-giao-thong-dan-dung-nong-nghiep-100260725204221307.htm",
+      "summary": "Trên cơ sở Ban Quản lý dự án đầu tư xây dựng và các ban khu vực, TP Đồng Nai vừa ký quyết định thành lập 3 ban quản lý dự án.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T21:59:21.611298+07:00",
+      "fetched": "2026-07-25T21:59:21.611365+07:00"
+    },
+    {
+      "id": "27e2e979a29b75a5ef0668cdb20886ce",
+      "title": "Tuyển bóng chuyền nam Việt Nam thắng ấn tượng Indonesia ngay trên sân đối thủ",
+      "link": "https://tuoitre.vn/tuyen-bong-chuyen-nam-viet-nam-thang-an-tuong-indonesia-ngay-tren-san-doi-thu-100260725191702788.htm",
+      "summary": "Tối 25-7, tuyển bóng chuyền nam Việt Nam đã thi đấu cực kỳ ấn tượng, đánh bại Indonesia 3-1 ở bán kết chặng 2 SEA V.Cup 2026 diễn ra tại Jakarta.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T21:59:21.611129+07:00",
+      "fetched": "2026-07-25T21:59:21.611283+07:00"
+    },
     {
       "id": "3d77194251ea1e88ab583b7e5fa575eb",
       "title": "Sức hút của ASEAN trong thế giới 'bất khả dự báo' và vai trò ngày càng lớn của Việt Nam",
@@ -453,6 +563,196 @@ window.newsData_2026_07_25 = {
       "fetched": "2026-07-25T16:42:39.194033+07:00"
     },
     {
+      "id": "cb505c7aa4a5653d574a3512e1a7e2d4",
+      "title": "Quật ngã chủ nhà Indonesia, đội tuyển bóng chuyền Việt Nam vào chung kết chặng 2 SEA V.Cup: Đấu Thái Lan",
+      "link": "https://thanhnien.vn/quat-nga-chu-nha-indonesia-doi-tuyen-bong-chuyen-viet-nam-vao-chung-ket-chang-2-sea-vcup-dau-thai-lan-185260725212157494.htm",
+      "summary": "Đội tuyển bóng chuyền Việt Nam tạo bất ngờ lớn ở chặng 2 giải bóng chuyền Đông Nam Á (SEA V.Cup) 2026 khi đánh bại chủ nhà Indonesia ở bán kết diễn ra hôm nay, giành quyền vào chung kết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T14:26:00+07:00",
+      "fetched": "2026-07-25T21:59:18.435203+07:00"
+    },
+    {
+      "id": "4d8623b4826d56269e35ac6cb1fc58a1",
+      "title": "Ba điểm một môn đỗ lớp 10 trường chuyên",
+      "link": "https://vnexpress.net/ba-diem-mot-mon-do-lop-10-truong-chuyen-5101620.html",
+      "summary": "Trường THPT chuyên Lương Văn Chánh gây chú ý khi học sinh đạt ba điểm mỗi môn là có thể đỗ - thuộc diện thấp nhất cả nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T14:13:52+07:00",
+      "fetched": "2026-07-25T21:59:14.869305+07:00"
+    },
+    {
+      "id": "885bdd512add4e07e252684e8f091b6e",
+      "title": "Bí thư Thành ủy TP.HCM Trần Lưu Quang thắp nến tri ân ở Nghĩa trang Hàng Dương",
+      "link": "https://thanhnien.vn/bi-thu-thanh-uy-tphcm-tran-luu-quang-thap-nen-tri-an-o-nghia-trang-hang-duong-185260725202833595.htm",
+      "summary": "Bí thư Thành ủy TP.HCM Trần Lưu Quang cùng lãnh đạo TP.HCM dâng hương, dâng hoa, thắp nến tri ân tại Nghĩa trang Hàng Dương, đặc khu Côn Đảo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T14:12:00+07:00",
+      "fetched": "2026-07-25T21:59:18.435372+07:00"
+    },
+    {
+      "id": "2befe6bcb9d6126a4d10588978441c92",
+      "title": "Lịch thi đấu Việt Nam - Singapore mới nhất: Thầy trò HLV Kim Sang-sik về đến Hà Nội an toàn",
+      "link": "https://thanhnien.vn/lich-thi-dau-viet-nam-singapore-moi-nhat-thay-tro-hlv-kim-sang-sik-ve-den-ha-noi-an-toan-185260725205841007.htm",
+      "summary": "Sau chiến thắng 7-0 trước đội tuyển Timor Leste ở trận ra quân ASEAN Cup 2026, đội tuyển Việt Nam đã trở về Hà Nội và nhanh chóng bước vào giai đoạn chuẩn bị cho cuộc tiếp đón đội tuyển Singapore trên sân vận động quốc gia Mỹ Đình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T14:01:00+07:00",
+      "fetched": "2026-07-25T21:59:18.435526+07:00"
+    },
+    {
+      "id": "6b0d40f8c590f8943793ef88931766ff",
+      "title": "Bố đơn thân né tránh khi tôi muốn tiến xa hơn",
+      "link": "https://vnexpress.net/bo-don-than-ne-tranh-khi-toi-muon-tien-xa-hon-5101613.html",
+      "summary": "Tôi nhiều lần muốn biết nơi ở của hai bố con để khi anh đi công tác có thể qua nấu cơm, hỏi han cháu, anh đều từ chối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T14:00:00+07:00",
+      "fetched": "2026-07-25T21:59:14.869486+07:00"
+    },
+    {
+      "id": "79345b20edc082a3a5625d920310860a",
+      "title": "Sun PhuQuoc Airways bắt đầu khai thác đường bay Singapore - Phú Quốc",
+      "link": "https://vnexpress.net/sun-phuquoc-airways-bat-dau-khai-thac-duong-bay-singapore-phu-quoc-5101548.html",
+      "summary": "Sun PhuQuoc Airways (SPA) khai trương đường bay quốc tế thứ 4 Singapore - Phú Quốc từ 25/7, tần suất một chuyến mỗi ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T14:00:00+07:00",
+      "fetched": "2026-07-25T21:59:14.869656+07:00"
+    },
+    {
+      "id": "9660293526dc448e9a0fa22f7199547c",
+      "title": "Đại tướng Phan Văn Giang thăm, tặng quà gia đình chính sách tại Lâm Đồng",
+      "link": "https://thanhnien.vn/dai-tuong-phan-van-giang-tham-tang-qua-gia-dinh-chinh-sach-tai-lam-dong-185260725203517843.htm",
+      "summary": "Đại tướng Phan Văn Giang, Ủy viên Bộ Chính trị, Phó thủ tướng Chính phủ, Bộ trưởng Bộ Quốc phòng, dẫn đầu đoàn công tác Trung ương đến thăm, tặng quà các gia đình chính sách tại xã Nhân Cơ (Lâm Đồng).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T14:00:00+07:00",
+      "fetched": "2026-07-25T21:59:18.435679+07:00"
+    },
+    {
+      "id": "54934396c2bd25b35aed495f05da07d7",
+      "title": "Hiện trường vụ cháy lớn ở Tân Triều Mới: Nổ bình gas liên tiếp, lấy nước từ hồ Triều Khúc dập lửa",
+      "link": "https://thanhnien.vn/hien-truong-vu-chay-lon-o-tan-trieu-moi-no-binh-gas-lien-tiep-lay-nuoc-tu-ho-trieu-khuc-dap-lua-185260725205242676.htm",
+      "summary": "Khoảng 17 giờ 45 phút ngày 25.7.2026, một vụ cháy lớn bùng phát từ cửa hàng kinh doanh giấy rồi lan sang quán nhậu tại khu Tân Triều Mới (phường Thanh Liệt), khiến hàng chục xe cứu hỏa cùng lực lượng chức năng phải khẩn cấp có mặt dập lửa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T13:59:00+07:00",
+      "fetched": "2026-07-25T21:59:18.435837+07:00"
+    },
+    {
+      "id": "9e597e41fb25914e77c24f5a3587d169",
+      "title": "TP.HCM: Phong tỏa đường Nguyễn Văn Linh để chữa cháy kho chứa hàng",
+      "link": "https://thanhnien.vn/tphcm-phong-toa-duong-nguyen-van-linh-de-chua-chay-kho-chua-hang-185260725204841306.htm",
+      "summary": "Chiều 25.7.2026, một vụ cháy kho chứa hàng xảy ra tại góc đường Nguyễn Văn Linh - Phạm Hùng (xã Bình Hưng, TP.HCM), khiến lực lượng chức năng phải phong tỏa một phần tuyến đường để phục vụ công tác chữa cháy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T13:59:00+07:00",
+      "fetched": "2026-07-25T21:59:18.435990+07:00"
+    },
+    {
+      "id": "a8c7542379a955f5ecae79f6536878ef",
+      "title": "Đà Nẵng: Bắt tạm giam bị can đánh người gây thương tích rồi lẩn trốn gần 10 năm",
+      "link": "https://thanhnien.vn/da-nang-bat-tam-giam-bi-can-danh-nguoi-gay-thuong-tich-roi-lan-tron-gan-10-nam-185260725200925842.htm",
+      "summary": "Gần 10 năm lẩn trốn sau vụ đánh người gây thương tích, Đào Xuân Nghị vừa bị Công an thành phố Đà Nẵng bắt tạm giam để phục hồi điều tra, xử lý theo quy định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T13:56:00+07:00",
+      "fetched": "2026-07-25T21:59:18.436138+07:00"
+    },
+    {
+      "id": "7e0cef4b95539b8a046d42b90a54d2bc",
+      "title": "Nguyên nhân không ngờ khiến nam giới suy giảm chất lượng 'tinh binh'",
+      "link": "https://thanhnien.vn/nguyen-nhan-khong-ngo-khien-nam-gioi-suy-giam-chat-luong-tinh-binh-185260725201146358.htm",
+      "summary": "Vùng kín nóng lên vì ngồi nhiều giờ liên tục, giấc ngủ thiếu hụt... là nguyên nhân khiến nam giới suy giảm chất lượng 'tinh binh' mà nam giới ít ngờ tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T13:48:00+07:00",
+      "fetched": "2026-07-25T21:59:18.436314+07:00"
+    },
+    {
+      "id": "8495f80d39493509970b4c059611a8a0",
+      "title": "Tàu cá Quảng Ngãi rơi bánh lái khi tránh giông lốc ở Trường Sa",
+      "link": "https://thanhnien.vn/tau-ca-quang-ngai-roi-banh-lai-khi-tranh-giong-loc-o-truong-sa-185260725201935385.htm",
+      "summary": "Một tàu cá Quảng Ngãi bị rơi bánh lái khi đang vào đảo Đá Nam (quần đảo Trường Sa) tránh giông lốc. Lực lượng trên đảo cùng tàu kiểm ngư đã khẩn trương triển khai cứu hộ, lai dắt tàu vào nơi neo đậu an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T13:47:00+07:00",
+      "fetched": "2026-07-25T21:59:18.436463+07:00"
+    },
+    {
+      "id": "27ac27d2335ca1a807c771e8dc66437a",
+      "title": "Những thiết bị Galaxy giá mềm nhưng mang đến trải nghiệm đỉnh cao",
+      "link": "https://thanhnien.vn/nhung-thiet-bi-galaxy-gia-mem-nhung-mang-den-trai-nghiem-dinh-cao-185260725155655058.htm",
+      "summary": "Samsung sở hữu nhiều thiết bị Galaxy giá mềm, từ điện thoại đến phụ kiện, đáp ứng tốt nhu cầu hằng ngày mà không quá tốn kém.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T13:42:00+07:00",
+      "fetched": "2026-07-25T21:59:18.436608+07:00"
+    },
+    {
+      "id": "1e0d085aac218e4c9fc31d10cbaf4dc7",
+      "title": "Nga - Ukraine tố nhau tập kích khu du lịch, trạm chuyển phát",
+      "link": "https://vnexpress.net/nga-ukraine-to-nhau-tap-kich-khu-du-lich-tram-chuyen-phat-5101626.html",
+      "summary": "Ukraine bị cáo buộc dùng UAV tấn công khu du lịch ở Zaporizhzhia khiến 8 người thiệt mạng, trong khi Kiev tố Nga \"tập kích kép\" vào trạm chuyển phát khiến ba người chết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T13:32:48+07:00",
+      "fetched": "2026-07-25T21:59:14.869829+07:00"
+    },
+    {
+      "id": "1e0d085aac218e4c9fc31d10cbaf4dc7",
+      "title": "Nga - Ukraine tố nhau tập kích khu du lịch, trạm chuyển phát",
+      "link": "https://vnexpress.net/nga-ukraine-to-nhau-tap-kich-khu-du-lich-tram-chuyen-phat-5101626.html",
+      "summary": "Ukraine bị cáo buộc dùng UAV tấn công khu du lịch ở Zaporizhzhia khiến 8 người thiệt mạng, trong khi Kiev tố Nga \"tập kích kép\" vào trạm chuyển phát khiến ba người chết.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-25T13:32:48+07:00",
+      "fetched": "2026-07-25T21:59:23.072608+07:00"
+    },
+    {
+      "id": "6cc9bcfc4b7deacd22e41cae045c6304",
+      "title": "Bắt cựu Chủ tịch HĐQT Công ty Việt Mỹ Bùi Chân Phương",
+      "link": "https://thanhnien.vn/bat-cuu-chu-tich-hdqt-cong-ty-viet-my-bui-chan-phuong-185260725201438889.htm",
+      "summary": "Ông Bùi Chân Phương, cựu Chủ tịch HĐQT Công ty Việt Mỹ, cùng 2 đồng phạm vừa bị khởi tố, bắt tạm giam để điều tra 2 tội buôn lậu và vi phạm quy định về kế toán gây hậu quả nghiêm trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T13:28:00+07:00",
+      "fetched": "2026-07-25T21:59:18.436752+07:00"
+    },
+    {
+      "id": "984f0dd799e720efdb05801b76fda260",
+      "title": "NSND Quốc Hưng trở thành Giám đốc Nhạc viện TP.HCM",
+      "link": "https://thanhnien.vn/nsnd-quoc-hung-tro-thanh-giam-doc-nhac-vien-tphcm-185260725190802245.htm",
+      "summary": "Chiều 25.7, Bộ Văn hóa, Thể thao và Du lịch tổ chức lễ công bố và trao quyết định bổ nhiệm NSND Quốc Hưng giữ chức Giám đốc Nhạc viện TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T13:28:00+07:00",
+      "fetched": "2026-07-25T21:59:18.436897+07:00"
+    },
+    {
+      "id": "db6379b698ba73c381ac4b0be60d3ebe",
+      "title": "Trung Quốc sơ tán 20.000 người vì bão Noul, nâng mức ứng phó khẩn cấp",
+      "link": "https://thanhnien.vn/trung-quoc-so-tan-20000-nguoi-vi-bao-noul-nang-muc-ung-pho-khan-cap-185260725195731323.htm",
+      "summary": "Giới chức Trung Quốc đã sơ tán hơn 20.000 người và tạm ngừng dịch vụ đường sắt khi bão Noul tiến gần miền nam nước này, theo AFP.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T13:27:00+07:00",
+      "fetched": "2026-07-25T21:59:18.437046+07:00"
+    },
+    {
+      "id": "b319975fc7e06e292910323501ca72a7",
+      "title": "Bệnh viện Quốc tế Mặt Trời Phú Quốc hợp tác hai bệnh viện tuyến cuối",
+      "link": "https://vnexpress.net/benh-vien-quoc-te-mat-troi-phu-quoc-hop-tac-hai-benh-vien-tuyen-cuoi-5101601.html",
+      "summary": "Thỏa thuận giữa Bệnh viện Quốc tế Mặt Trời Phú Quốc với Chợ Rẫy và Quân y 175 hướng tới mạng lưới kết nối chuyên môn, từ hội chẩn, điều trị, cấp cứu, vận chuyển đến đào tạo nhân lực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T13:25:00+07:00",
+      "fetched": "2026-07-25T21:59:14.869987+07:00"
+    },
+    {
       "id": "0c5301afcea87a47b5a0c6e27074fb2c",
       "title": "Vụ ông Trump áp thuế quan mới với 60 đối tác toàn cầu: 2 doanh nghiệp Mỹ khởi kiện",
       "link": "https://tuoitre.vn/vu-ong-trump-ap-thue-quan-moi-voi-60-doi-tac-toan-cau-2-doanh-nghiep-my-khoi-kien-100260725094052978.htm",
@@ -603,6 +903,26 @@ window.newsData_2026_07_25 = {
       "fetched": "2026-07-25T13:14:07.686736+07:00"
     },
     {
+      "id": "12d9864b3e095e786e3576e9dd180937",
+      "title": "Tranh cãi người cha chi tiền mỗi tháng tiêm hormone tăng trưởng cho con gái 12 tuổi",
+      "link": "https://vnexpress.net/tranh-cai-nguoi-cha-chi-tien-moi-thang-tiem-hormone-tang-truong-cho-con-gai-12-tuoi-5101590.html",
+      "summary": "Quan niệm coi chiều cao là khoản đầu tư duy nhất trong đời khiến một người cha ở Trung Quốc chi hàng nghìn Nhân dân tệ mỗi tháng tiêm hormone cho con gái, bất chấp nhiều cảnh báo từ bác sĩ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T13:13:41+07:00",
+      "fetched": "2026-07-25T21:59:14.870169+07:00"
+    },
+    {
+      "id": "fb2b92f571e3f7fbd743b867af005ed7",
+      "title": "Ung thư đại trực tràng ở Việt Nam tăng, đa số phát hiện giai đoạn muộn",
+      "link": "https://vnexpress.net/ung-thu-dai-truc-trang-o-viet-nam-tang-da-so-phat-hien-giai-doan-muon-5101625.html",
+      "summary": "Ung thư đại trực tràng là gánh nặng lớn của y tế Việt Nam khi số ca mắc mới liên tục gia tăng khoảng 1,7 lần trong 20 năm qua, phần lớn người bệnh chẩn đoán ở giai đoạn muộn, làm giảm cơ hội điều trị khỏi hoàn toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T13:12:07+07:00",
+      "fetched": "2026-07-25T21:59:14.870344+07:00"
+    },
+    {
       "id": "0bc31998ba6d2dd691bbafdcc95aa0cd",
       "title": "Xe điện hoàn toàn mới của Yamaha hé lộ, cạnh tranh Honda CUV e:",
       "link": "https://thanhnien.vn/xe-dien-hoan-toan-moi-cua-yamaha-he-lo-canh-tranh-honda-cuv-e-18526072511301376.htm",
@@ -611,6 +931,16 @@ window.newsData_2026_07_25 = {
       "category": "Tổng hợp",
       "published": "2026-07-25T13:12:00+07:00",
       "fetched": "2026-07-25T20:17:26.685608+07:00"
+    },
+    {
+      "id": "2ab44e7d1cb44cac289ffc51f97307b6",
+      "title": "Nước xiết cuốn xe máy vào gầm ôtô",
+      "link": "https://vnexpress.net/nuoc-xiet-cuon-xe-may-vao-gam-oto-5101628.html",
+      "summary": "Mưa lớn khiến nước từ các con dốc đổ xuống đường nội bộ Khu công nghiệp Sông Mây, cuốn nhiều xe máy vào gầm ôtô, chiều 25/7.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T13:11:33+07:00",
+      "fetched": "2026-07-25T21:59:14.870500+07:00"
     },
     {
       "id": "51b3b68354f2272a428075805665ea7f",
@@ -633,6 +963,26 @@ window.newsData_2026_07_25 = {
       "fetched": "2026-07-25T20:17:26.685959+07:00"
     },
     {
+      "id": "0e03ba928e1aecf64e61b5ef242d4721",
+      "title": "Bất ổn Biển Đỏ - mối đe dọa mới của giá dầu",
+      "link": "https://vnexpress.net/bat-on-bien-do-moi-de-doa-moi-cua-gia-dau-5101621.html",
+      "summary": "Vốn là lối thoát khi Hormuz tê liệt, tuyến xuất khẩu qua Biển Đỏ nay cũng bị đe dọa, có thể đẩy giá dầu lên đến 120 USD mỗi thùng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T13:07:36+07:00",
+      "fetched": "2026-07-25T21:59:14.870658+07:00"
+    },
+    {
+      "id": "0e03ba928e1aecf64e61b5ef242d4721",
+      "title": "Bất ổn Biển Đỏ - mối đe dọa mới của giá dầu",
+      "link": "https://vnexpress.net/bat-on-bien-do-moi-de-doa-moi-cua-gia-dau-5101621.html",
+      "summary": "Vốn là lối thoát khi Hormuz tê liệt, tuyến xuất khẩu qua Biển Đỏ nay cũng bị đe dọa, có thể đẩy giá dầu lên đến 120 USD mỗi thùng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-25T13:07:36+07:00",
+      "fetched": "2026-07-25T21:59:24.424444+07:00"
+    },
+    {
       "id": "f04d49fdf93e9617b345a7d93974979e",
       "title": "Phong tỏa đường Nguyễn Văn Linh để chữa cháy kho chứa hàng",
       "link": "https://thanhnien.vn/phong-toa-duong-nguyen-van-linh-de-chua-chay-kho-chua-hang-18526072519194548.htm",
@@ -641,6 +991,16 @@ window.newsData_2026_07_25 = {
       "category": "Tổng hợp",
       "published": "2026-07-25T13:07:00+07:00",
       "fetched": "2026-07-25T20:17:26.686116+07:00"
+    },
+    {
+      "id": "2b9db60e2c75b18f596ea077dc946075",
+      "title": "Nam giới Việt Nam sống thọ thứ mấy ở Đông Nam Á?",
+      "link": "https://vnexpress.net/nam-gioi-viet-nam-song-tho-thu-may-o-dong-nam-a-5101574.html",
+      "summary": "Nam giới Việt Nam có tuổi thọ trung bình 72,3 vào năm 2024, đứng thứ mấy tại Đông Nam Á?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T13:03:00+07:00",
+      "fetched": "2026-07-25T21:59:14.870813+07:00"
     },
     {
       "id": "58595d585ecdff16f2e5b1697e4662cb",
@@ -653,6 +1013,56 @@ window.newsData_2026_07_25 = {
       "fetched": "2026-07-25T20:17:26.686269+07:00"
     },
     {
+      "id": "47ec4c985c1f559182a93f2723a5531d",
+      "title": "Hình thể gây sốt của 'Lý Mạc Sầu' Trương Hinh Dư",
+      "link": "https://vnexpress.net/hinh-the-gay-sot-cua-ly-mac-sau-truong-hinh-du-5101535.html",
+      "summary": "Trương Hinh Dư, đóng Lý Mạc Sầu ở \"Thần điêu đại hiệp\" 2014, tập gym, yoga, cưỡi ngựa, chạy bộ để giữ dáng, vòng eo 59 cm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T13:00:00+07:00",
+      "fetched": "2026-07-25T21:59:14.870968+07:00"
+    },
+    {
+      "id": "b3060500c6c699ee2addb8e8a3cd7a04",
+      "title": "Vinamilk: từ ba nhà máy dừng hoạt động đến thương hiệu sữa tỷ USD",
+      "link": "https://vnexpress.net/vinamilk-tu-ba-nha-may-dung-hoat-dong-den-thuong-hieu-sua-ty-usd-5101622.html",
+      "summary": "Từ ba nhà máy ngừng hoạt động năm 1976, Vinamilk hiện xuất khẩu đến 65 quốc gia, vùng lãnh thổ và được định giá 2,6 tỷ USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T13:00:00+07:00",
+      "fetched": "2026-07-25T21:59:14.871131+07:00"
+    },
+    {
+      "id": "b3060500c6c699ee2addb8e8a3cd7a04",
+      "title": "Vinamilk: từ ba nhà máy dừng hoạt động đến thương hiệu sữa tỷ USD",
+      "link": "https://vnexpress.net/vinamilk-tu-ba-nha-may-dung-hoat-dong-den-thuong-hieu-sua-ty-usd-5101622.html",
+      "summary": "Từ ba nhà máy ngừng hoạt động năm 1976, Vinamilk hiện xuất khẩu đến 65 quốc gia, vùng lãnh thổ và được định giá 2,6 tỷ USD.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-25T13:00:00+07:00",
+      "fetched": "2026-07-25T21:59:24.425743+07:00"
+    },
+    {
+      "id": "1129d6f220eaeeb8455ad419a009c843",
+      "title": "Cựu Chủ tịch và Giám đốc Công ty Đầu tư y tế Việt Mỹ bị bắt",
+      "link": "https://vnexpress.net/cuu-chu-tich-va-giam-doc-cong-ty-dau-tu-y-te-viet-my-bi-bat-5101634.html",
+      "summary": "Cựu Chủ tịch Công ty Đầu tư y tế Việt Mỹ Bùi Chân Phương bị cáo buộc nâng giá thiết bị y tế, thuốc tân dược khi nhập về Việt Nam và khai gian để nhập lậu hàng hóa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T12:58:12+07:00",
+      "fetched": "2026-07-25T21:59:14.871318+07:00"
+    },
+    {
+      "id": "e527b8813b93c12fac5538a2eb3acb6c",
+      "title": "Dãy quán bia ở Hà Nội cháy ngùn ngụt",
+      "link": "https://vnexpress.net/day-quan-bia-o-ha-noi-chay-ngun-ngut-5101633.html",
+      "summary": "Hỏa hoạn bùng phát từ nhà kho trên đường Vũ Đức Uý, phường Thanh Liệt, sau đó lan sang 4 cửa hàng, lán xưởng liền kề, tối 25/7.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T12:56:48+07:00",
+      "fetched": "2026-07-25T21:59:14.871473+07:00"
+    },
+    {
       "id": "14f2ec605c145ea8b72bf10a60c0b06c",
       "title": "Houthi tấn công đáp trả Ả Rập Xê Út",
       "link": "https://thanhnien.vn/houthi-tan-cong-dap-tra-a-rap-xe-ut-185260725191947979.htm",
@@ -661,6 +1071,16 @@ window.newsData_2026_07_25 = {
       "category": "Tổng hợp",
       "published": "2026-07-25T12:50:00+07:00",
       "fetched": "2026-07-25T20:17:26.686419+07:00"
+    },
+    {
+      "id": "f73df7193ce9b12257cbbdb8013ac65d",
+      "title": "Cháy quán bia, lan sang lán xưởng tạm ở Hà Nội",
+      "link": "https://vnexpress.net/chay-quan-bia-lan-sang-lan-xuong-tam-o-ha-noi-5101631.html",
+      "summary": "Quán bia trên đường Tân Triều mới, phường Thanh Liệt bốc cháy ngùn ngụt, sau đó lan sang lán xưởng tạm phía sau, chiều 25/7.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T12:45:19+07:00",
+      "fetched": "2026-07-25T21:59:14.871635+07:00"
     },
     {
       "id": "a79287e65c4114c3ce9047642082c0f9",
