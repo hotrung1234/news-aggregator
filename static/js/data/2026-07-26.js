@@ -1,6 +1,6 @@
 window.newsData_2026_07_26 = {
   "date": "2026-07-26",
-  "lastUpdated": "2026-07-26T03:46:32.168050+07:00",
+  "lastUpdated": "2026-07-26T05:51:51.188222+07:00",
   "articles": [
     {
       "id": "bf5466b8236318929763ab83c1888ed3",
@@ -161,6 +161,216 @@ window.newsData_2026_07_26 = {
       "category": "Tổng hợp",
       "published": "2026-07-26T02:02:06.763995+07:00",
       "fetched": "2026-07-26T02:02:06.764128+07:00"
+    },
+    {
+      "id": "4e539186079beb90d6426fa13568b1ed",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 26.7.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-2672026-185260725220233327.htm",
+      "summary": "Tin tức Mùa trung thu nóng trên 'chợ' mạng; Loạn giá, chất lượng đá quý; Điều đáng sợ nhất không phải AI, mà là con người ngừng học... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 26.7.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T22:50:00+07:00",
+      "fetched": "2026-07-26T05:51:44.626769+07:00"
+    },
+    {
+      "id": "dc7692c3393211ea4db9a73d52614078",
+      "title": "Đảo chiều xu hướng du học của người Việt",
+      "link": "https://thanhnien.vn/dao-chieu-xu-huong-du-hoc-cua-nguoi-viet-185260725164829878.htm",
+      "summary": "Không còn mặc nhiên chọn các điểm đến du học truyền thống, nhiều học sinh Việt nay cân nhắc đa dạng yếu tố từ tài chính tới tiềm năng, tạo nên bức tranh mới nơi châu Á ngày càng được ưa chuộng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T22:45:00+07:00",
+      "fetched": "2026-07-26T05:51:44.626913+07:00"
+    },
+    {
+      "id": "c3b8042045934b4241671672df2ed12b",
+      "title": "TP.HCM: Công viên Cảnh Đồi vẫn đông chó thả rông không rọ mõm sau phản ánh",
+      "link": "https://thanhnien.vn/tphcm-cong-vien-canh-doi-van-dong-cho-tha-rong-sau-phan-anh-185260718201834552.htm",
+      "summary": "Sau phản ánh về tình trạng chó thả rông không rọ mõm, lượng vật nuôi tập trung tại công viên Cảnh Đồi (TP.HCM) vẫn rất đông vào cuối tuần. Nhiều con chạy tự do giữa khu vực đông người, khiến người dân tiếp tục bất an.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T22:45:00+07:00",
+      "fetched": "2026-07-26T05:51:44.627041+07:00"
+    },
+    {
+      "id": "44d8aa7585c10b178a934ac992d9d5df",
+      "title": "Hiểm họa tiềm tàng từ mô hình AI nổi loạn",
+      "link": "https://thanhnien.vn/hiem-hoa-tiem-tang-tu-mo-hinh-ai-noi-loan-185260725213213889.htm",
+      "summary": "Vụ việc các mô hình trí tuệ nhân tạo (AI) thuộc Công ty OpenAI (Mỹ) \"vượt rào\" trong quá trình thử nghiệm mới đây đã gióng hồi chuông báo động, khiến các nhà lập pháp Mỹ đề xuất dự luật mới nhằm ngăn ngừa thảm họa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T22:39:00+07:00",
+      "fetched": "2026-07-26T05:51:44.627168+07:00"
+    },
+    {
+      "id": "b3d12ff64c345eeafa83cf8a173acd31",
+      "title": "Không bất ngờ với Hoàng Hên",
+      "link": "https://thanhnien.vn/khong-bat-ngo-voi-hoang-hen-185260725213207577.htm",
+      "summary": "Đỗ Hoàng Hên tiếp tục khẳng định đẳng cấp của mình bằng màn trình diễn chói sáng trước Timor Leste, điều mà người hâm mộ đã được chứng kiến trong suốt mùa giải V-League 2025 - 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T22:39:00+07:00",
+      "fetched": "2026-07-26T05:51:44.627292+07:00"
+    },
+    {
+      "id": "66ad6c903d526427d790628653af6b0f",
+      "title": "Mở thêm hy vọng đưa liệt sĩ về với gia đình",
+      "link": "https://thanhnien.vn/mo-them-hy-vong-dua-liet-si-ve-voi-gia-dinh-185260725212256914.htm",
+      "summary": "Từng chiếc răng, mẩu xương được làm sạch, mã hóa và bảo quản nghiêm ngặt, mang theo hy vọng xác định danh tính liệt sĩ sau gần 60 năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T22:35:00+07:00",
+      "fetched": "2026-07-26T05:51:44.627413+07:00"
+    },
+    {
+      "id": "de88edc55a628116a7ac2f4803da7f5f",
+      "title": "Tái thiết không gian đô thị",
+      "link": "https://thanhnien.vn/tai-thiet-khong-gian-do-thi-185260725215823477.htm",
+      "summary": "Bạn đọc tán thành di dời cảng ra khỏi nội đô TP.HCM, đồng thời đề nghị hoàn thiện các tuyến kết nối vận tải để rút ngắn thời gian vận chuyển từ cảng ra đường bộ liên vùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T22:34:00+07:00",
+      "fetched": "2026-07-26T05:51:44.627535+07:00"
+    },
+    {
+      "id": "da62fb7e9fa8cdcb8504091f4b93ef1b",
+      "title": "Tiêu điểm quốc tế 26.7: Liên quân Ả Rập Xê Út tấn công Houthi | Tập trận đánh chìm tàu chiến Mỹ",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-267-lien-quan-a-rap-xe-ut-tan-cong-houthi-tap-tran-danh-chim-tau-chien-my-185260725215552764.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 26.7.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T22:30:00+07:00",
+      "fetched": "2026-07-26T05:51:44.627654+07:00"
+    },
+    {
+      "id": "316c9b511c867dc62d403415ba98813d",
+      "title": "Mua 7 tờ vé, một người ở TP.HCM bất ngờ trúng 2 giải xổ số miền Nam",
+      "link": "https://thanhnien.vn/mua-7-to-ve-mot-nguoi-o-tphcm-bat-ngo-trung-2-giai-xo-so-mien-nam-185260725130032851.htm",
+      "summary": "7 tờ vé số trúng 2 giải xổ số miền Nam được một người ở TP.HCM mang tới đại lý đổi thưởng có gì đặc biệt?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T22:30:00+07:00",
+      "fetched": "2026-07-26T05:51:44.627787+07:00"
+    },
+    {
+      "id": "ec66d83771898c7c00f92c7e9a2fdc3a",
+      "title": "Ban ngày buồn ngủ, ban đêm trằn trọc: Cơ thể đang cảnh báo điều gì?",
+      "link": "https://thanhnien.vn/ban-ngay-buon-ngu-ban-dem-tran-troc-co-the-dang-canh-bao-dieu-gi-18526072521543542.htm",
+      "summary": "Nếu thường xuyên buồn ngủ vào ban ngày nhưng lại trằn trọc, khó đi vào giấc ngủ vào ban đêm, đó có thể liên quan đến nguy cơ tăng huyết áp - một yếu tố nguy cơ tim mạch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T22:27:00+07:00",
+      "fetched": "2026-07-26T05:51:44.627909+07:00"
+    },
+    {
+      "id": "32df8a14455fc450f62577e57e3c97d3",
+      "title": "Những phiên tòa ly hôn 'khó tin nhưng có thật'",
+      "link": "https://thanhnien.vn/nhung-phien-toa-ly-hon-kho-tin-nhung-co-that-185260706194115714.htm",
+      "summary": "Trong thực tiễn xét xử các vụ án hôn nhân và gia đình, những lý do ly hôn đôi khi khiến nhiều người ngỡ ngàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T22:25:00+07:00",
+      "fetched": "2026-07-26T05:51:44.628027+07:00"
+    },
+    {
+      "id": "b622bb1986b3c144a7fa8f42c70c67eb",
+      "title": "Tử vi ngày 26 tháng 7: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-26-thang-7-con-giap-nao-may-man-hom-nay-185260725223023764.htm",
+      "summary": "Tử vi ngày 26 tháng 7 mang đến những gợi ý tham khảo cho 12 con giáp. Chúng ta quen đong đếm nhiều thứ bằng con số: thời gian, tiền bạc, thành tích hay số việc hoàn thành trong một ngày. Thế nhưng, có những điều quan trọng nhất lại không thể đo đếm: một giấc ngủ ngon, một bữa cơm đủ người, một cuộc ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T22:15:00+07:00",
+      "fetched": "2026-07-26T05:51:44.628146+07:00"
+    },
+    {
+      "id": "c67abe3690678485ebf15bb71c13ef14",
+      "title": "Chiến dịch 500 ngày đêm: Dốc sức từ rừng sâu đến nghĩa trang liệt sĩ",
+      "link": "https://thanhnien.vn/chien-dich-500-ngay-dem-doc-suc-tu-rung-sau-den-nghia-trang-liet-si-185260721113821234.htm",
+      "summary": "Những người lính tại Quảng Trị miệt mài băng rừng lần theo từng dấu tích để đưa các liệt sĩ trở về.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T22:10:00+07:00",
+      "fetched": "2026-07-26T05:51:44.628261+07:00"
+    },
+    {
+      "id": "6072fe0921f817c5285cf92389c366a2",
+      "title": "Địa đạo Đám Toái - nơi 64 chiến sĩ bị chôn vùi",
+      "link": "https://vnexpress.net/dia-dao-dam-toai-noi-64-chien-si-bi-chon-vui-5101108.html",
+      "summary": "Dài hơn 100 m, sâu 5 m, địa đạo Đám Toái từng là bệnh viện dã chiến, nơi 64 cán bộ, chiến sĩ hy sinh khi quân đội Mỹ đánh sập cửa hầm năm 1965.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T22:00:00+07:00",
+      "fetched": "2026-07-26T05:51:41.900320+07:00"
+    },
+    {
+      "id": "ccc6be9a6dd287a4c6af289b8c5a9230",
+      "title": "Số nhân viên Google ngày càng tăng trong làn sóng AI",
+      "link": "https://vnexpress.net/so-nhan-vien-google-ngay-cang-tang-trong-lan-song-ai-5101083.html",
+      "summary": "Khác với hầu hết \"ông lớn\" công nghệ mạnh tay sa thải hàng nghìn nhân sự trong làn sóng AI, Google mở rộng lực lượng lao động thêm 11.830 người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T22:00:00+07:00",
+      "fetched": "2026-07-26T05:51:41.900456+07:00"
+    },
+    {
+      "id": "4cb37351d88c79eecef5eca61ba92222",
+      "title": "Những người trẻ Trung Quốc 'tháo chạy' khỏi Bắc Kinh",
+      "link": "https://vnexpress.net/nhung-nguoi-tre-trung-quoc-thao-chay-khoi-bac-kinh-5098581.html",
+      "summary": "Nhiều người trẻ Trung Quốc chọn rời Bắc Kinh khi chi phí đắt đỏ và áp lực đè nặng, mở ra xu hướng chuyển dịch tới các thành phố phát triển khác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T22:00:00+07:00",
+      "fetched": "2026-07-26T05:51:41.900576+07:00"
+    },
+    {
+      "id": "2e1f1d02341dea490fc828e9674ad1c0",
+      "title": "Nhóm khách đặc biệt đánh giá về Pajero thế hệ mới",
+      "link": "https://vnexpress.net/nhom-khach-dac-biet-danh-gia-ve-pajero-the-he-moi-5101014.html",
+      "summary": "Hãng xe Nhật tổ chức buổi xem trước dành riêng cho khách hàng, hé lộ thiết kế nội - ngoại thất của Pajero 2027 trước ngày ra mắt chính thức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T22:00:00+07:00",
+      "fetched": "2026-07-26T05:51:41.900711+07:00"
+    },
+    {
+      "id": "27fa9a0ce539c0c93db57ab895e0162e",
+      "title": "Phòng khám đa khoa Đà Lạt liên tiếp bị xử phạt, chế tài đã đủ sức răn đe?",
+      "link": "https://thanhnien.vn/phong-kham-da-khoa-da-lat-lien-tiep-bi-xu-phat-che-tai-da-du-suc-ran-de-185260725212308116.htm",
+      "summary": "Sau hơn một năm đi vào hoạt động, Phòng khám đa khoa Đà Lạt liên tiếp bị các cơ quan chức năng xử lý vì nhiều sai phạm trong hoạt động khám chữa bệnh, thuế và hóa đơn. Nhưng liệu việc chế tài đã đủ sức răn đe?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T22:00:00+07:00",
+      "fetched": "2026-07-26T05:51:44.628379+07:00"
+    },
+    {
+      "id": "69f10c2e932eee985e873fe04e73d941",
+      "title": "Lật ca nô ở Phú Quốc: Bệnh nhân hồi phục, bác sĩ theo chăm sóc đến tận Ấn Độ",
+      "link": "https://thanhnien.vn/lat-ca-no-o-phu-quoc-benh-nhan-hoi-phuc-bac-si-theo-cham-soc-den-tan-an-do-185260725205713452.htm",
+      "summary": "Sau 12 ngày điều trị chuyên sâu tại Bệnh viện Chợ Rẫy, đến ngày 25.7, nạn nhân nặng nhất trong vụ lật ca nô ở Phú Quốc đã chính thức được xuất viện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-25T22:00:00+07:00",
+      "fetched": "2026-07-26T05:51:44.628495+07:00"
+    },
+    {
+      "id": "4cb37351d88c79eecef5eca61ba92222",
+      "title": "Những người trẻ Trung Quốc 'tháo chạy' khỏi Bắc Kinh",
+      "link": "https://vnexpress.net/nhung-nguoi-tre-trung-quoc-thao-chay-khoi-bac-kinh-5098581.html",
+      "summary": "Nhiều người trẻ Trung Quốc chọn rời Bắc Kinh khi chi phí đắt đỏ và áp lực đè nặng, mở ra xu hướng chuyển dịch tới các thành phố phát triển khác.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-25T22:00:00+07:00",
+      "fetched": "2026-07-26T05:51:46.931052+07:00"
+    },
+    {
+      "id": "ccc6be9a6dd287a4c6af289b8c5a9230",
+      "title": "Số nhân viên Google ngày càng tăng trong làn sóng AI",
+      "link": "https://vnexpress.net/so-nhan-vien-google-ngay-cang-tang-trong-lan-song-ai-5101083.html",
+      "summary": "Khác với hầu hết \"ông lớn\" công nghệ mạnh tay sa thải hàng nghìn nhân sự trong làn sóng AI, Google mở rộng lực lượng lao động thêm 11.830 người.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-25T22:00:00+07:00",
+      "fetched": "2026-07-26T05:51:50.306643+07:00"
     },
     {
       "id": "d828e4cc8c867d057d4a750ebd48e42c",
