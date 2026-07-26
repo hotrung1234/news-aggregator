@@ -1,7 +1,157 @@
 window.newsData_2026_07_26 = {
   "date": "2026-07-26",
-  "lastUpdated": "2026-07-26T16:56:06.574991+07:00",
+  "lastUpdated": "2026-07-26T18:17:27.920281+07:00",
   "articles": [
+    {
+      "id": "b8944dc5dceff234ac60be45fe5a55fe",
+      "title": "Thanh niên tình nguyện TP.HCM hành động tưởng nhớ các anh hùng thương binh liệt sĩ",
+      "link": "https://tuoitre.vn/thanh-nien-tinh-nguyen-tphcm-hanh-dong-tuong-nho-cac-anh-hung-thuong-binh-liet-si-100260726144850671.htm",
+      "summary": "Ngày cao điểm \"Uống nước nhớ nguồn\" và Chủ nhật xanh lần thứ 167 đã diễn ra khắp các cơ sở Đoàn tại TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T18:17:21.536161+07:00",
+      "fetched": "2026-07-26T18:17:21.536208+07:00"
+    },
+    {
+      "id": "15fbc6416e71f73ae96bb2ac58e86fae",
+      "title": "Trung Đông chiều 26-7: Iran nổ súng cảnh cáo tàu ở eo biển Hormuz; Mỹ vẫn ngừng không kích",
+      "link": "https://tuoitre.vn/trung-dong-chieu-26-7-iran-no-sung-canh-cao-tau-o-eo-bien-hormuz-my-van-ngung-khong-kich-100260726152847505.htm",
+      "summary": "Đêm thứ hai liên tiếp Mỹ ngừng không kích Iran; Iran nói đã có tiến triển trong các cuộc đàm phán với Oman về quản lý eo biển Hormuz... là một số tin tức đáng chú ý về Trung Đông chiều 26-7.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T18:17:21.536109+07:00",
+      "fetched": "2026-07-26T18:17:21.536153+07:00"
+    },
+    {
+      "id": "8645221fe083871f1e4bad031cfb4835",
+      "title": "Ông Lê Trí Thanh giữ chức Chủ tịch UBND TP Huế",
+      "link": "https://tuoitre.vn/ong-le-tri-thanh-giu-chuc-chu-tich-ubnd-tp-hue-100260726153522761.htm",
+      "summary": "Ông Lê Trí Thanh - nguyên Phó bí thư TP Đà Nẵng, vừa được điều động giữ chức Phó bí thư Thành ủy Huế - đã được bầu giữ chức Chủ tịch UBND TP Huế nhiệm kỳ 2025-2030.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T18:17:21.536058+07:00",
+      "fetched": "2026-07-26T18:17:21.536101+07:00"
+    },
+    {
+      "id": "371d6719af4a938b807596e21338e5c0",
+      "title": "100 nhà cộng đồng kết hợp tránh lũ tại Đắk Lắk phải hoàn thành trước 15-9",
+      "link": "https://tuoitre.vn/100-nha-cong-dong-ket-hop-tranh-lu-tai-dak-lak-phai-hoan-thanh-truoc-15-9-100260726153926459.htm",
+      "summary": "100 nhà sinh hoạt cộng đồng kết hợp phòng chống lũ tại Đắk Lắk đã được khởi công. Tỉnh yêu cầu đẩy nhanh tiến độ để hoàn thành trước 15-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T18:17:21.536004+07:00",
+      "fetched": "2026-07-26T18:17:21.536050+07:00"
+    },
+    {
+      "id": "466399111468f4586655bf63728d9485",
+      "title": "Đình Bắc xuất hiện trong danh sách cầu thủ trẻ nổi bật nhất ASEAN Cup 2026",
+      "link": "https://tuoitre.vn/dinh-bac-xuat-hien-trong-danh-sach-cau-thu-tre-noi-bat-nhat-asean-cup-2026-100260726162517456.htm",
+      "summary": "Mới đây, báo Singapore đã phân tích và tổng hợp 5 cầu thủ trẻ nổi bật nhất tại ASEAN Cup 2026. Đáng chú ý, tiền đạo Nguyễn Đình Bắc của tuyển Việt Nam cũng nằm trong danh sách này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T18:17:21.535953+07:00",
+      "fetched": "2026-07-26T18:17:21.535996+07:00"
+    },
+    {
+      "id": "314bad1c049e4c857207d1a3d225f7f5",
+      "title": "Bị 'tố' không cung ứng xăng dầu, doanh nghiệp đầu mối: Nhập khẩu khó, mua trong nước càng khó",
+      "link": "https://tuoitre.vn/bi-to-khong-cung-ung-xang-dau-doanh-nghiep-dau-moi-nhap-khau-kho-mua-trong-nuoc-cang-kho-100260726161025416.htm",
+      "summary": "Trước phản ánh của nhiều doanh nghiệp bán lẻ, thương nhân phân phối xăng dầu cho rằng các thương nhân đầu mối không cung ứng hàng, các đơn vị đầu mối tư nhân cũng chia sẻ đang chịu áp lực lớn trước tình trạng thua lỗ, đói vốn và khan hàng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T18:17:21.535897+07:00",
+      "fetched": "2026-07-26T18:17:21.535945+07:00"
+    },
+    {
+      "id": "ed16ef26a99b47cfda6966b090826608",
+      "title": "Hoàn thành đường băng số 2 dài 3.300m ở sân bay Phú Quốc",
+      "link": "https://tuoitre.vn/hoan-thanh-duong-bang-so-2-dai-3300m-o-san-bay-phu-quoc-100260726153018234.htm",
+      "summary": "Đường băng số 2 Cảng hàng không quốc tế Phú Quốc (đặc khu Phú Quốc, tỉnh An Giang) đã hoàn thành sau 8 tháng thi công.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T18:17:21.535842+07:00",
+      "fetched": "2026-07-26T18:17:21.535889+07:00"
+    },
+    {
+      "id": "71a32cc39144837e93ff6ff62ae91670",
+      "title": "Nguyễn Phi Hùng nghẹn lòng hát 'Đón anh về' tri ân anh hùng liệt sĩ",
+      "link": "https://tuoitre.vn/nguyen-phi-hung-nghen-long-hat-don-anh-ve-tri-an-anh-hung-liet-si-10026072616410969.htm",
+      "summary": "Nguyễn Phi Hùng phát hành MV 'Đón anh về' do Nguyễn Bá Hùng sáng tác. Ca khúc ra đời từ những câu chuyện xúc động về hành trình tìm kiếm, quy tập hài cốt liệt sĩ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T18:17:21.535785+07:00",
+      "fetched": "2026-07-26T18:17:21.535834+07:00"
+    },
+    {
+      "id": "d4f507ad5d0c6ec1448b0b53a440aed5",
+      "title": "Vừa bán hàng trên sàn vừa làm tiếp thị liên kết, nộp thuế thế nào?",
+      "link": "https://tuoitre.vn/vua-ban-hang-tren-san-vua-lam-tiep-thi-lien-ket-nop-thue-the-nao-100260726110052546.htm",
+      "summary": "Nhiều cá nhân vừa bán hàng trên sàn thương mại điện tử, vừa làm tiếp thị liên kết (affiliate) băn khoăn cách xác định doanh thu và tính thuế như thế nào cho đúng và có lợi?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T18:17:21.535727+07:00",
+      "fetched": "2026-07-26T18:17:21.535777+07:00"
+    },
+    {
+      "id": "a89fc4e67c773050b47f80160883c876",
+      "title": "Chị Năm Khùng đi về rừng thẳm tìm hài cốt liệt sĩ: Chị không phải vị thánh, là một người thường",
+      "link": "https://tuoitre.vn/chi-nam-khung-di-ve-rung-tham-tim-hai-cot-liet-si-chi-khong-phai-vi-thanh-la-mot-nguoi-thuong-100260726162622529.htm",
+      "summary": "Phim tài liệu Chị Năm Khùng khiến người xem xúc động mạnh bởi chân dung của một người đàn bà kỳ lạ: bỏ phố xá phồn hoa, về chiến trường xưa, dành cả cuộc đời đi tìm hài cốt đồng đội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T18:17:21.535668+07:00",
+      "fetched": "2026-07-26T18:17:21.535718+07:00"
+    },
+    {
+      "id": "7fa698e33f26cfee835352afd9445472",
+      "title": "Người Quảng Trị ‘mở rộng cửa’ đón người về tri ân: Nếu chưa có chỗ ở thì ghé nhà tôi",
+      "link": "https://tuoitre.vn/nguoi-quang-tri-mo-rong-cua-don-nguoi-ve-tri-an-neu-chua-co-cho-o-thi-ghe-nha-toi-100260726162653645.htm",
+      "summary": "Nhiều người dân tại Quảng Trị đăng thông báo công khai lên mạng xã hội sẵn sàng mời người từ khắp mọi miền đất nước về Quảng Trị viếng liệt sĩ nếu chưa tìm được chỗ ở có thể đến nhà mình ở miễn phí.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T18:17:21.535608+07:00",
+      "fetched": "2026-07-26T18:17:21.535660+07:00"
+    },
+    {
+      "id": "98943f4b716b94e5695bffd217c20a68",
+      "title": "Cú hích cho futsal Việt Nam",
+      "link": "https://tuoitre.vn/cu-hich-cho-futsal-viet-nam-100260726134637756.htm",
+      "summary": "CLB Thái Sơn Bắc đã phá sự thống trị của CLB Thái Sơn Nam TP.HCM ở Giải HDBank Vô địch quốc gia (VĐQG) 2026. Nhưng sự hấp dẫn còn là việc xuất hiện ngày càng nhiều ngoại binh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T18:17:21.535529+07:00",
+      "fetched": "2026-07-26T18:17:21.535599+07:00"
+    },
+    {
+      "id": "72ec24734d1f48c2f5bb87ed6fd1bb97",
+      "title": "Vi rút hợp bào hô hấp - RSV: Không chỉ trẻ sơ sinh có bệnh nền mới có nguy cơ",
+      "link": "https://tuoitre.vn/vi-rut-hop-bao-ho-hap-rsv-khong-chi-tre-so-sinh-co-benh-nen-moi-co-nguy-co-100260726130354567.htm",
+      "summary": "Những trẻ sinh non, mắc bệnh tim bẩm sinh, bệnh phổi mạn tính hoặc suy giảm miễn dịch được ghi nhận là nhóm có nguy cơ cao hơn mắc bệnh diễn tiến nặng do vi rút hô hấp hợp bào (RSV). Tuy nhiên, các chuyên gia lưu ý RSV vẫn có thể gây bệnh nặng ở mọi trẻ nhỏ, kể cả trẻ sơ sinh khỏe mạnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T18:17:21.535470+07:00",
+      "fetched": "2026-07-26T18:17:21.535521+07:00"
+    },
+    {
+      "id": "d9e1167f7d8d9ac2e65089e434d3b193",
+      "title": "Làng nhỏ xứ Huế có 20 Mẹ Việt Nam anh hùng, 78 liệt sĩ và một ngày giỗ chung",
+      "link": "https://tuoitre.vn/lang-nho-xu-hue-co-20-me-viet-nam-anh-hung-78-liet-si-va-mot-ngay-gio-chung-100260726162445203.htm",
+      "summary": "Sáng 26-7, bên dòng sông Như Ý hiền hòa, người dân làng Đồng Di (xã Phú Hồ, TP Huế) lại quây quần bên nhà bia tưởng niệm để tổ chức lễ giỗ chung cho 20 Mẹ Việt Nam anh hùng và 78 liệt sĩ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T18:17:21.535389+07:00",
+      "fetched": "2026-07-26T18:17:21.535460+07:00"
+    },
+    {
+      "id": "da6a6dce348255c84e8c375aa5ae9825",
+      "title": "Bộ GD-ĐT: Tính toán chia kỳ thi tốt nghiệp THPT thành nhiều đợt trong năm, có bài thi tổng hợp",
+      "link": "https://tuoitre.vn/bo-gd-dt-tinh-toan-chia-ky-thi-tot-nghiep-thpt-thanh-nhieu-dot-trong-nam-co-bai-thi-tong-hop-100260726164021299.htm",
+      "summary": "Bộ Giáo dục và Đào tạo vừa cho biết, bộ đã hoàn thiện đề án tổ chức thi tốt nghiệp THPT trên máy tính giai đoạn 2026-2036, trình cấp có thẩm quyền xem xét, phê duyệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T18:17:21.535212+07:00",
+      "fetched": "2026-07-26T18:17:21.535375+07:00"
+    },
     {
       "id": "742ed0f4496bfb2de2f5504038ad3887",
       "title": "Katy Perry chỉ trích Nhà Trắng đưa nhạc của cô vào clip quân sự",
@@ -301,6 +451,226 @@ window.newsData_2026_07_26 = {
       "category": "Tổng hợp",
       "published": "2026-07-26T13:32:38.295360+07:00",
       "fetched": "2026-07-26T13:32:38.295521+07:00"
+    },
+    {
+      "id": "3816cb8d25c271ac2a0730db2ffe18a5",
+      "title": "Ăn cơm cùng Mẹ Việt Nam anh hùng, xây nhà cho người có công với cách mạng",
+      "link": "https://thanhnien.vn/an-com-cung-me-viet-nam-anh-hung-xay-nha-cho-nguoi-co-cong-voi-cach-mang-185260726124021635.htm",
+      "summary": "Nhân kỷ niệm 79 năm Ngày Thương binh - liệt sĩ, thanh niên Quảng Trị đã có hành trình tri ân 20 Mẹ Việt Nam anh hùng và người có công cách mạng tại xã Cửa Tùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T11:17:00+07:00",
+      "fetched": "2026-07-26T18:17:19.567010+07:00"
+    },
+    {
+      "id": "e6c6bf6b3a6c4891d52611eac1ba86f8",
+      "title": "Từ cậu lính 'nhét đá vào áo' đến đặc công 'xuất quỷ nhập thần'",
+      "link": "https://thanhnien.vn/tu-cau-linh-nhet-da-vao-ao-den-dac-cong-xuat-quy-nhap-than-185260726160936204.htm",
+      "summary": "Từng phải lén nhét những hòn đá vào áo để đủ cân nặng khoác lên mình màu áo lính, chàng trai gầy Lữ Tấn Xa sau đó trở thành chiến sĩ công binh đặc công mưu trí, quả cảm với chuỗi trận đánh 'xuất quỷ nhập thần'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T11:12:00+07:00",
+      "fetched": "2026-07-26T18:17:19.567164+07:00"
+    },
+    {
+      "id": "dce3258d47e3ba4cf140204627ccd7b4",
+      "title": "Ấn bản đặc biệt của 4 tác phẩm kinh điển",
+      "link": "https://vnexpress.net/an-ban-dac-biet-cua-4-tac-pham-kinh-dien-5101794.html",
+      "summary": "Bốn tác phẩm \"Bố Già\", \"Truyện Kiều\", \"Lục Vân Tiên\" và \"Thép đã tôi thế đấy\" được phát hành phiên bản giới hạn, dành cho giới sưu tầm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T10:47:44+07:00",
+      "fetched": "2026-07-26T18:17:16.361908+07:00"
+    },
+    {
+      "id": "7719b6be0b5f4f52058808051722547d",
+      "title": "Thời tiết TP.HCM và Nam bộ tuần tới thế nào?",
+      "link": "https://thanhnien.vn/thoi-tiet-tphcm-va-nam-bo-tuan-toi-the-nao-185260726153116935.htm",
+      "summary": "Trong 3 ngày đầu tuần, thời tiết phổ biến sáng nắng chiều mưa; từ giữa tuần gió tây nam suy yếu khiến mưa giảm nắng nóng quay trở lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T10:33:00+07:00",
+      "fetched": "2026-07-26T18:17:19.567300+07:00"
+    },
+    {
+      "id": "043fb866ffb05ffd7efeeef112753202",
+      "title": "Giá cà phê giảm, dự báo tiêu thụ toàn cầu cao kỷ lục",
+      "link": "https://thanhnien.vn/gia-ca-phe-giam-du-bao-tieu-thu-toan-cau-cao-ky-luc-185260726172254523.htm",
+      "summary": "Tuần này, giá cà phê giảm sâu khi Bộ Nông nghiệp Mỹ (USDA) công bố báo cáo cho biết sản lượng thế giới tăng cao. Tuy nhiên, USDA cũng cho biết nhu cầu tiêu thụ sẽ đạt mức cao kỷ lục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T10:32:00+07:00",
+      "fetched": "2026-07-26T18:17:19.567429+07:00"
+    },
+    {
+      "id": "f6814c38872c2e08bb8a266866c2fbb4",
+      "title": "Đường huyết tăng gấp 10 sau một tháng uống nước ép 'thanh lọc'",
+      "link": "https://vnexpress.net/duong-huyet-tang-gap-10-sau-mot-thang-uong-nuoc-ep-thanh-loc-5101792.html",
+      "summary": "Uống 1,5-2 lít nước ép trái cây mỗi ngày để \"thanh lọc cơ thể\", người phụ nữ 64 tuổi nhập viện vì đường huyết tăng kèm hai biến chứng cấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T10:28:47+07:00",
+      "fetched": "2026-07-26T18:17:16.362075+07:00"
+    },
+    {
+      "id": "e4c1847daec4b6ba599e7127e24d9a59",
+      "title": "Tôi mất 10 năm để hiểu 'đam mê không trả được tiền thuê nhà'",
+      "link": "https://vnexpress.net/toi-mat-10-nam-de-hieu-dam-me-khong-tra-duoc-tien-thue-nha-5101798.html",
+      "summary": "Đam mê không giúp tôi trả tiền thuê nhà cuối tháng, nhưng lương cao cũng chẳng mua được hạnh phúc đường dài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T10:23:21+07:00",
+      "fetched": "2026-07-26T18:17:16.362222+07:00"
+    },
+    {
+      "id": "f40cc5e5bca8b56bedd854ad92ecdecd",
+      "title": "Xổ số miền Nam ngày 26 tháng 7: Hai người trúng nhiều cọc vé đài Đà Lạt",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-26-thang-7-hai-nguoi-trung-nhieu-coc-ve-dai-da-lat-185260726171132945.htm",
+      "summary": "Sau khi có kết quả xổ số miền Nam ngày 26 tháng 7, nhiều người trúng đài Đà Lạt đã liên hệ đại lý đổi thưởng và nhận chuyển khoản. Nhiều người cũng bất ngờ về dãy số trúng độc đắc 3 đài mở chiều nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T10:22:00+07:00",
+      "fetched": "2026-07-26T18:17:19.567559+07:00"
+    },
+    {
+      "id": "15e3cbec2ec6ec2954aae55a8baa3afb",
+      "title": "Clip thùng phuy cũ phát nổ 'như bom': Vì sao gia đình công khai đoạn video?",
+      "link": "https://thanhnien.vn/clip-thung-phuy-cu-phat-no-nhu-bom-vi-sao-gia-dinh-cong-khai-doan-video-185260726164946058.htm",
+      "summary": "Trong lúc dùng máy cưa cắt nắp thì thùng phuy cũ bất ngờ phát nổ khiến 1 người đàn ông ở Đà Nẵng bị hất văng, bị thương nặng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T10:20:00+07:00",
+      "fetched": "2026-07-26T18:17:19.567701+07:00"
+    },
+    {
+      "id": "4ca9163ef3f4334520987da7e3e6dd44",
+      "title": "Virus 'nụ hôn' làm tăng nguy cơ viêm phổi trẻ nhỏ",
+      "link": "https://thanhnien.vn/virus-nu-hon-lam-tang-nguy-co-viem-phoi-tre-nho-185260726164354891.htm",
+      "summary": "Với người lớn 'thơm' bé là yêu thương, nhưng với sơ sinh, có thể là đường lây nhiễm virus RSV. Phụ nữ mang thai tiêm vắc xin RSV giúp tạo kháng thể truyền cho con.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T10:10:00+07:00",
+      "fetched": "2026-07-26T18:17:19.567826+07:00"
+    },
+    {
+      "id": "504d9ec04416b045bda2931c71790555",
+      "title": "Chăm sóc sức khỏe người có công chu đáo hơn",
+      "link": "https://thanhnien.vn/cham-soc-suc-khoe-nguoi-co-cong-chu-dao-hon-185260726145844041.htm",
+      "summary": "Thứ trưởng Bộ Y tế Trần Văn Thuấn cho rằng, công tác tri ân của ngành y là chăm sóc sức khỏe người có công chu đáo hơn, phát hiện sớm và điều trị kịp thời bệnh tật, giúp thương binh, bệnh binh, người có công sống khỏe mạnh, an vui.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T10:09:00+07:00",
+      "fetched": "2026-07-26T18:17:19.567947+07:00"
+    },
+    {
+      "id": "0c0088be9aef8788203ceb6ec9642c6d",
+      "title": "Công nghệ sạc Dual-Path mới của Samsung có gì đặc biệt?",
+      "link": "https://thanhnien.vn/cong-nghe-sac-dual-path-moi-cua-samsung-co-gi-dac-biet-185260726100830618.htm",
+      "summary": "Công nghệ sạc Dual-Path (sạc kép) trên Galaxy Z Fold8 Ultra hứa hẹn mang đến khả năng sạc nhanh ổn định và an toàn hơn trước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T10:07:00+07:00",
+      "fetched": "2026-07-26T18:17:19.568071+07:00"
+    },
+    {
+      "id": "947ab4fa099531fa809a20a97c82a3c1",
+      "title": "Quỹ phụ huynh biến tôi thành 'nhà tài trợ' của nhà trường",
+      "link": "https://vnexpress.net/quy-phu-huynh-bien-toi-thanh-nha-tai-tro-cua-nha-truong-5101777.html",
+      "summary": "Là phụ huynh, tôi luôn sẵn sàng chi tiền cho con cái, nhưng không muốn mình bị xem là 'nhà tài trợ', 'nguồn kinh phí dự phòng' của nhà trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T10:04:43+07:00",
+      "fetched": "2026-07-26T18:17:16.362357+07:00"
+    },
+    {
+      "id": "392fe635e86903b4ed1cb2070b281ac2",
+      "title": "Bảo hiểm mang về nghìn tỷ cho ngân hàng nửa đầu năm",
+      "link": "https://vnexpress.net/bao-hiem-mang-ve-nghin-ty-cho-ngan-hang-nua-dau-nam-5101674.html",
+      "summary": "Nguồn thu bảo hiểm tại Techcombank và VBank tăng mạnh, góp phần vào thu dịch vụ và đà tăng trưởng lợi nhuận hai chữ số trong 6 tháng đầu năm của các nhà băng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T10:02:54+07:00",
+      "fetched": "2026-07-26T18:17:16.362487+07:00"
+    },
+    {
+      "id": "392fe635e86903b4ed1cb2070b281ac2",
+      "title": "Bảo hiểm mang về nghìn tỷ cho ngân hàng nửa đầu năm",
+      "link": "https://vnexpress.net/bao-hiem-mang-ve-nghin-ty-cho-ngan-hang-nua-dau-nam-5101674.html",
+      "summary": "Nguồn thu bảo hiểm tại Techcombank và VBank tăng mạnh, góp phần vào thu dịch vụ và đà tăng trưởng lợi nhuận hai chữ số trong 6 tháng đầu năm của các nhà băng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-26T10:02:54+07:00",
+      "fetched": "2026-07-26T18:17:24.424305+07:00"
+    },
+    {
+      "id": "559ee4ec33b12f9f98c55720a1e4d205",
+      "title": "Tin vui cho dân 'độ' xe: Thay đèn, nâng phanh, đổi lốp không lo rớt đăng kiểm",
+      "link": "https://thanhnien.vn/tin-vui-cho-dan-do-xe-thay-den-nang-phanh-doi-lop-khong-lo-rot-dang-kiem-185260726163617396.htm",
+      "summary": "Bộ Xây dựng vừa có công văn gửi Ủy ban Dân nguyện và Giám sát của Quốc hội, đoàn đại biểu Quốc hội TP.Hải Phòng trả lời kiến nghị cử tri về việc rà soát quy định, cho phép ô tô \"độ\" thiết bị, linh kiện hiện đại nhưng vẫn đạt đăng kiểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T10:01:00+07:00",
+      "fetched": "2026-07-26T18:17:19.568196+07:00"
+    },
+    {
+      "id": "91c82da84c24f6ce9cbdcb69b8e3f871",
+      "title": "Toàn cảnh 17h: Bắt cựu Chủ tịch HĐQT Việt Mỹ thổi giá thiết bị y tế | Vì sao tuyến đường 800 tỉ 'đắp chiếu'?",
+      "link": "https://thanhnien.vn/toan-canh-17h-bat-cuu-chu-tich-hdqt-viet-my-thoi-gia-thiet-bi-y-te-vi-sao-tuyen-duong-800-ti-dap-chieu-185260726162734015.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T10:00:00+07:00",
+      "fetched": "2026-07-26T18:17:19.568312+07:00"
+    },
+    {
+      "id": "d11f85600cffa6c89a53eff8e7900325",
+      "title": "Toyota tin rằng robot không thể thay thế con người trong sản xuất ô tô",
+      "link": "https://thanhnien.vn/toyota-tin-rang-robot-khong-the-thay-the-con-nguoi-trong-san-xuat-o-to-185260725165125675.htm",
+      "summary": "Toyota khẳng định rằng robot và trí tuệ nhân tạo (AI) sẽ không hoàn toàn thay thế con người trong các nhà máy sản xuất ô tô và tin rằng yếu tố con người vẫn là chìa khóa quan trọng trong quy trình sản xuất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T09:59:00+07:00",
+      "fetched": "2026-07-26T18:17:19.568426+07:00"
+    },
+    {
+      "id": "3056b738c271b9f692457e555169b78f",
+      "title": "Điểm tin 17h: Phương án ga metro ngầm dưới sân bay Tân Sơn Nhất | Đề xuất tổ chức khóa học trước kết hôn",
+      "link": "https://vnexpress.net/diem-tin-17h-phuong-an-ga-metro-ngam-duoi-san-bay-tan-son-nhat-de-xuat-to-chuc-khoa-hoc-truoc-ket-hon-5101808.html",
+      "summary": "Tàu Việt Nam chìm ở Biển Đông, 45 người được cứu sống; Cựu chủ tịch Vĩnh Phúc Lê Duy Thành được hoàn trả 21 tỷ đồng và 330.000 USD nộp vượt...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T09:56:18+07:00",
+      "fetched": "2026-07-26T18:17:16.362650+07:00"
+    },
+    {
+      "id": "700704dcc4f0f46acec96fb84bf7a203",
+      "title": "Ba ô tô 'nhảy múa' khi chờ đèn đỏ: Khi xe hơi thành món đồ công nghệ",
+      "link": "https://thanhnien.vn/ba-o-to-nhay-mua-khi-cho-den-do-khi-xe-hoi-thanh-mon-do-cong-nghe-18526072615542732.htm",
+      "summary": "Hình ảnh 3 chiếc SUV điện đồng loạt \"nhảy múa\" khi chờ đèn đỏ đang gây chú ý trên mạng xã hội. Đằng sau màn biểu diễn vui mắt là xu hướng công nghệ hóa mạnh mẽ trong ngành ô tô, nơi những chiếc xe ngày càng giống thiết bị công nghệ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T09:56:00+07:00",
+      "fetched": "2026-07-26T18:17:19.568541+07:00"
+    },
+    {
+      "id": "bc2f6121986f7c6ce016329d748563fd",
+      "title": "iOS 27 giải quyết nhược điểm lớn của iPhone sau nhiều năm",
+      "link": "https://thanhnien.vn/ios-27-giai-quyet-nhuoc-diem-lon-cua-iphone-sau-nhieu-nam-185260726144006868.htm",
+      "summary": "Nỗi phiền toái mang tên chụp màn hình từ video sắp được dẹp bỏ trên iOS 27.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T09:56:00+07:00",
+      "fetched": "2026-07-26T18:17:19.568673+07:00"
+    },
+    {
+      "id": "1e5c3c45e7413dc9d82029306d008ffe",
+      "title": "+6 kem trắng da chống lão hóa cho tuổi 35 ngỡ còn đôi mươi dù camera thường",
+      "link": "https://thanhnien.vn/6-kem-trang-da-chong-lao-hoa-cho-tuoi-35-ngo-con-doi-muoi-du-camera-thuong-18526072617074923.htm",
+      "summary": "Bước sang U35, nếp nhăn và làn da sạm màu dường như trở thành “cơn ác mộng” mỗi khi đối diện với ống kính camera thường. Tuy nhiên, lão hóa da có thể cải thiện nếu bạn tìm đúng “chân lý” chăm sóc da. Cùng khám phá TOP 6 kem trắng da chống lão hóa giúp làn da căng bóng, rạng rỡ để mỗi bức ảnh mặt mộc...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-26T09:53:00+07:00",
+      "fetched": "2026-07-26T18:17:19.568794+07:00"
     },
     {
       "id": "b95dffb9ffb092089fbfb01a84beb8ce",
