@@ -1,6 +1,6 @@
 window.newsData_2026_07_28 = {
   "date": "2026-07-28",
-  "lastUpdated": "2026-07-28T00:39:33.033697+07:00",
+  "lastUpdated": "2026-07-28T02:21:59.917771+07:00",
   "articles": [
     {
       "id": "e51bae5267554b705aede6094ba7f47f",
@@ -153,6 +153,46 @@ window.newsData_2026_07_28 = {
       "fetched": "2026-07-28T00:39:24.352144+07:00"
     },
     {
+      "id": "0ae0963e2d03cc2364e27578d56c393e",
+      "title": "Những người nhập cư bị chính quyền Trump 'đòi nợ' triệu đô",
+      "link": "https://vnexpress.net/nhung-nguoi-nhap-cu-bi-chinh-quyen-trump-doi-no-trieu-do-5101989.html",
+      "summary": "Nhiều người nhập cư nhận được thông báo phải nộp 998 USD cho mỗi ngày ở lại sau khi có phán quyết không còn quyền lưu trú hợp pháp tại Mỹ, với mức phạt tối đa là 1,8 triệu USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T19:00:00+07:00",
+      "fetched": "2026-07-28T02:21:49.532348+07:00"
+    },
+    {
+      "id": "096f25a05484adace728e5325add43f9",
+      "title": "Cuộc đời vị chân phước tử đạo năm 19 tuổi",
+      "link": "https://vnexpress.net/cuoc-doi-vi-chan-phuoc-tu-dao-nam-19-tuoi-5102262.html",
+      "summary": "Thầy giảng Anrê Phú Yên ngã gục tại pháp trường, trở thành vị tử đạo đầu tiên của Giáo hội Công giáo Việt Nam, được phong hàng chân phước sau 356 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T18:46:43+07:00",
+      "fetched": "2026-07-28T02:21:49.532561+07:00"
+    },
+    {
+      "id": "c6147087e8ce7581ddb1513a43dceb6c",
+      "title": "Lý do Ukraine không kịp báo động khi Nga tập kích triển lãm drone ở Kiev",
+      "link": "https://vnexpress.net/ly-do-ukraine-khong-kip-bao-dong-khi-nga-tap-kich-trien-lam-drone-o-kiev-5101904.html",
+      "summary": "Còi báo động không vang lên trong vụ triển lãm drone gần Kiev hứng tên lửa Iskander-M, có thể do chậm trễ trong quá trình tiếp nhận cảnh báo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T18:00:00+07:00",
+      "fetched": "2026-07-28T02:21:49.532736+07:00"
+    },
+    {
+      "id": "c6147087e8ce7581ddb1513a43dceb6c",
+      "title": "Lý do Ukraine không kịp báo động khi Nga tập kích triển lãm drone ở Kiev",
+      "link": "https://vnexpress.net/ly-do-ukraine-khong-kip-bao-dong-khi-nga-tap-kich-trien-lam-drone-o-kiev-5101904.html",
+      "summary": "Còi báo động không vang lên trong vụ triển lãm drone gần Kiev hứng tên lửa Iskander-M, có thể do chậm trễ trong quá trình tiếp nhận cảnh báo.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-27T18:00:00+07:00",
+      "fetched": "2026-07-28T02:21:56.180088+07:00"
+    },
+    {
       "id": "a0958de591907a249449a957c79eb574",
       "title": "Nhận định, dự đoán tỷ số Philippines vs Myanmar: Nhiều bàn, cửa trên thắng cách biệt",
       "link": "https://thanhnien.vn/nhan-dinh-du-doan-ty-so-philippines-vs-myanmar-nhieu-ban-cua-tren-thang-cach-biet-185260728002514208.htm",
@@ -183,6 +223,56 @@ window.newsData_2026_07_28 = {
       "fetched": "2026-07-28T00:39:22.248097+07:00"
     },
     {
+      "id": "6800add93fd5a5627e82c7f671d7c94f",
+      "title": "Bên trong căn nhà hơn 100 tuổi của Anne Hathaway",
+      "link": "https://vnexpress.net/ben-trong-can-nha-hon-100-tuoi-cua-anne-hathaway-5102100.html",
+      "summary": "Nữ diễn viên phim \"The Odyssey\" chọn căn nhà xây năm 1906 làm nơi nghỉ của gia đình, với nhiều chi tiết vẫn được bảo tồn đến nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T17:04:00+07:00",
+      "fetched": "2026-07-28T02:21:49.532901+07:00"
+    },
+    {
+      "id": "668aa1962bdbe1042e78c96899698e84",
+      "title": "Món ăn giúp người Nhật bảo vệ mạch máu, kéo dài tuổi thọ",
+      "link": "https://vnexpress.net/mon-an-giup-nguoi-nhat-bao-ve-mach-mau-keo-dai-tuoi-tho-5101761.html",
+      "summary": "Natto - đậu nành lên men Nhật Bản được ví như \"siêu thực phẩm\" giúp duy trì sức khỏe xương khớp và tim mạch hiệu quả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T17:03:00+07:00",
+      "fetched": "2026-07-28T02:21:49.533061+07:00"
+    },
+    {
+      "id": "e721b5f4a3798aa41c1a3492216658ed",
+      "title": "4 con giáp hút tài lộc ngày Rằm tháng 6 Âm",
+      "link": "https://vnexpress.net/tu-vi-ngay-28-7-tu-vi-ram-thang-6-am-4-con-giap-hut-tai-loc-ngay-ram-thang-6-am-5102200.html",
+      "summary": "Bước sang ngày Rằm tháng 6 Âm, dòng chảy tài vận của một số con giáp được dự báo có nhiều tín hiệu tích cực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T17:02:00+07:00",
+      "fetched": "2026-07-28T02:21:49.533222+07:00"
+    },
+    {
+      "id": "3f1d1a9d6af1b699914c1762b0750aab",
+      "title": "'Mozart Toán học' Terence Tao: AI gây bội thực lời giải",
+      "link": "https://vnexpress.net/mozart-toan-hoc-terence-tao-ai-gay-boi-thuc-loi-giai-5101887.html",
+      "summary": "AI đang tạo ra cuộc khủng hoảng nền tảng, khiến ngành Toán chuyển từ khan hiếm các chứng minh thành quá dồi dào, theo Terence Tao - chủ nhân Fields 2006.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T17:02:00+07:00",
+      "fetched": "2026-07-28T02:21:49.533443+07:00"
+    },
+    {
+      "id": "e542947679db167d1b974ed37dd24f4e",
+      "title": "Ai đứng sau quỹ phụ huynh?",
+      "link": "https://vnexpress.net/ai-dung-sau-quy-phu-huynh-5100874.html",
+      "summary": "Luật sư",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T17:00:56+07:00",
+      "fetched": "2026-07-28T02:21:50.824678+07:00"
+    },
+    {
       "id": "c38dbd49c5b14b13d89d046e74030e30",
       "title": "Đội tuyển Việt Nam tung đội 'siêu tấn công' đấu Singapore: Tài Lộc đá vị trí lạ?",
       "link": "https://thanhnien.vn/doi-tuyen-viet-nam-tung-doi-sieu-tan-cong-dau-singapore-tai-loc-da-vi-tri-la-185260727180410043.htm",
@@ -211,6 +301,56 @@ window.newsData_2026_07_28 = {
       "category": "Công nghệ",
       "published": "2026-07-27T17:00:00+07:00",
       "fetched": "2026-07-28T00:39:31.244465+07:00"
+    },
+    {
+      "id": "97f5838a8325a25ba4830ba5e3ee8acc",
+      "title": "Du khách Italy xúc phạm người Thái khiến đại sứ quán phải xin lỗi",
+      "link": "https://vnexpress.net/du-khach-italy-xuc-pham-nguoi-thai-khien-dai-su-quan-phai-xin-loi-5102253.html",
+      "summary": "Nhóm khách Italy xúc phạm một người Thái Lan khi bị nhắc giữ trật tự trên tàu, khiến Đại sứ quán Italy phải liên tiếng xin lỗi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T17:00:00+07:00",
+      "fetched": "2026-07-28T02:21:50.825070+07:00"
+    },
+    {
+      "id": "c4b85d93047d7a5d1e8ef0483660b7b7",
+      "title": "Hà Nội muốn tái chế phế thải xây dựng",
+      "link": "https://vnexpress.net/ha-noi-muon-tai-che-phe-thai-xay-dung-5102241.html",
+      "summary": "Thành phố yêu cầu các dự án trong giai đoạn giải phóng mặt bằng phải tái chế chất thải rắn ngay tại công trường, sản phẩm tái chế dùng san lấp, đắp nền, làm móng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T17:00:00+07:00",
+      "fetched": "2026-07-28T02:21:50.825274+07:00"
+    },
+    {
+      "id": "1182b4b046425b8f74fd624a8239068c",
+      "title": "Hàng trăm người đến viếng liệt sĩ ở công viên Lê Thị Riêng",
+      "link": "https://vnexpress.net/hang-tram-nguoi-den-vieng-liet-si-o-cong-vien-le-thi-rieng-5102235.html",
+      "summary": "Hàng trăm người dân, gia đình có trẻ nhỏ mang hoa và lễ vật đến viếng các liệt sĩ Mậu Thân tại công viên Lê Thị Riêng, phường Hòa Hưng, chiều 27/7.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T17:00:00+07:00",
+      "fetched": "2026-07-28T02:21:50.825450+07:00"
+    },
+    {
+      "id": "313fcd5e713f1b7d69c8caf0492410f8",
+      "title": "Bê bối tình ái phía sau cái chết bí ẩn của triệu phú",
+      "link": "https://vnexpress.net/be-boi-tinh-ai-phia-sau-cai-chet-bi-an-cua-trieu-phu-5102222.html",
+      "summary": "Sau cái chết thảm với 39 nhát dao của người chồng triệu phú Jacques Mossler, người mẫu Candy Mossler bị nghi âm mưu cùng tình nhân trẻ giết ông để chiếm tài sản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T17:00:00+07:00",
+      "fetched": "2026-07-28T02:21:50.825617+07:00"
+    },
+    {
+      "id": "28fad960e5898ec5e3dbf1815e3d5f42",
+      "title": "Tôi mất phương hướng dù có nhà, có tiền tiết kiệm và đầu tư ở tuổi 35",
+      "link": "https://vnexpress.net/toi-mat-phuong-huong-du-co-nha-co-tien-tiet-kiem-va-dau-tu-o-tuoi-35-5102145.html",
+      "summary": "Mọi người nói đây là tình trạng khủng hoảng hiện sinh, khi bản thân cảm thấy cuộc sống không có mục tiêu và ý nghĩa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T17:00:00+07:00",
+      "fetched": "2026-07-28T02:21:50.825778+07:00"
     },
     {
       "id": "72ae1ceefe1ff64152cdb22b5eababaa",
