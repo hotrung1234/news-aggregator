@@ -1,6 +1,6 @@
 window.newsData_2026_07_28 = {
   "date": "2026-07-28",
-  "lastUpdated": "2026-07-28T04:06:34.818255+07:00",
+  "lastUpdated": "2026-07-28T05:57:46.837666+07:00",
   "articles": [
     {
       "id": "e51bae5267554b705aede6094ba7f47f",
@@ -151,6 +151,346 @@ window.newsData_2026_07_28 = {
       "category": "Tổng hợp",
       "published": "2026-07-28T00:39:24.351993+07:00",
       "fetched": "2026-07-28T00:39:24.352144+07:00"
+    },
+    {
+      "id": "ea4e6412f07887b102a864f7ee52b356",
+      "title": "Trung Quốc tăng nhập, vì sao sầu riêng vẫn rớt giá?",
+      "link": "https://thanhnien.vn/trung-quoc-tang-nhap-vi-sao-sau-rieng-van-rot-gia-185260727225549404.htm",
+      "summary": "Dù Trung Quốc tăng nhập nhưng sầu riêng vẫn bị rớt giá kéo dài do nguồn cung từ VN cũng như các nước trong khu vực tăng vọt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T22:57:00+07:00",
+      "fetched": "2026-07-28T05:57:37.888307+07:00"
+    },
+    {
+      "id": "76acec61dd41e5171284070de02ca404",
+      "title": "Thông số quan trọng nhưng bị bỏ qua nhiều nhất khi mua Smart TV",
+      "link": "https://thanhnien.vn/thong-so-quan-trong-nhung-bi-bo-qua-nhieu-nhat-khi-mua-smart-tv-185260727161232789.htm",
+      "summary": "Khi mua Smart TV, nhiều người chỉ quan tâm màn hình mà quên một thông số ảnh hưởng trực tiếp đến hiệu năng và hình ảnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T22:55:00+07:00",
+      "fetched": "2026-07-28T05:57:37.888459+07:00"
+    },
+    {
+      "id": "d0bf64b39b0c3c384b9d1ce4f85a2239",
+      "title": "Tuyển sinh tổng hợp giảm lệ thuộc điểm thi tốt nghiệp THPT",
+      "link": "https://thanhnien.vn/tuyen-sinh-tong-hop-giam-le-thuoc-diem-thi-tot-nghiep-thpt-185260727221255334.htm",
+      "summary": "Vài năm trở lại đây, tuyển sinh kết hợp nhiều tiêu chí để đánh giá năng lực tổng hợp người học đã được nhiều trường ĐH áp dụng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T22:54:00+07:00",
+      "fetched": "2026-07-28T05:57:37.888591+07:00"
+    },
+    {
+      "id": "da725d324a526e8e308e5ff3c78d12d1",
+      "title": "Khát vọng làm chủ công nghệ",
+      "link": "https://thanhnien.vn/khat-vong-lam-chu-cong-nghe-185260727200543948.htm",
+      "summary": "Hơn 1 thập niên đầu tư, VN đã chính thức sản xuất thành công nhôm thỏi bằng công nghệ điện phân. Sự kiện đánh dấu cột mốc lịch sử khi chúng ta lần đầu tiên làm chủ toàn bộ chuỗi từ khai thác bô xít, chế biến alumin và sản xuất nhôm kim loại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T22:52:00+07:00",
+      "fetched": "2026-07-28T05:57:37.888720+07:00"
+    },
+    {
+      "id": "26e5726b605026dcd70915151ae44564",
+      "title": "CSGT TP.HCM phát hiện 201 con heo dương tính chất cấm trên đường vào lò mổ",
+      "link": "https://thanhnien.vn/csgt-tphcm-phat-hien-201-con-heo-duong-tinh-chat-cam-tren-duong-vao-lo-mo-185260727222149891.htm",
+      "summary": "Lực lượng CSGT TP.HCM phối hợp kiểm dịch kiểm tra xe chở gia súc phát hiện 201 con heo có kết quả dương tính với chất cấm Salbutamol khi đang trên đường đưa vào cơ sở giết mổ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T22:50:00+07:00",
+      "fetched": "2026-07-28T05:57:37.888879+07:00"
+    },
+    {
+      "id": "bf062035eaa21fa3027e6db329c72450",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 28.7.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-2872026-185260727224726106.htm",
+      "summary": "Tin tức Xuất khẩu ứng phó với thuế mới của Mỹ; Vào Nam Cát Tiên cùng đặc nhiệm... Tây; Sau 5 tháng, cuộc chiến Iran sẽ về đâu?... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 28.7.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T22:49:00+07:00",
+      "fetched": "2026-07-28T05:57:37.889009+07:00"
+    },
+    {
+      "id": "261bc8097831d5060c45b6167b90205f",
+      "title": "Từng 'kẹt cứng ngắc', nút giao An Phú sắp có hướng lưu thông cho xe từ cảng Cát Lái",
+      "link": "https://thanhnien.vn/tung-ket-cung-ngac-nut-giao-an-phu-sap-co-huong-luu-thong-cho-xe-tu-cang-cat-lai-185260726163742952.htm",
+      "summary": "Sau gần 4 năm thi công, cầu vượt N4 tại nút giao An Phú đang bước vào giai đoạn hoàn thiện. Dự kiến thông xe cuối tháng 7.2026, công trình được kỳ vọng phân tách dòng xe từ Đồng Văn Cống về Mai Chí Thọ, góp phần giảm áp lực tại cửa ngõ phía đông TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T22:49:00+07:00",
+      "fetched": "2026-07-28T05:57:37.889130+07:00"
+    },
+    {
+      "id": "19b596bc3003e17ae8a9ae63ddea9422",
+      "title": "Thí sinh chọn ngành STEM cao bất ngờ",
+      "link": "https://thanhnien.vn/thi-sinh-chon-nganh-stem-cao-bat-ngo-185260727185524397.htm",
+      "summary": "Số liệu mới nhất về tuyển sinh ĐH năm 2026 cho thấy tín hiệu khả quan khi tỷ lệ thí sinh chọn ngành STEM cao bất ngờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T22:45:00+07:00",
+      "fetched": "2026-07-28T05:57:37.889250+07:00"
+    },
+    {
+      "id": "8c971011078fa02bbe970be2690fb715",
+      "title": "Nga quyết kiểm soát Donbass, Ukraine xác định nhiều mục tiêu mới",
+      "link": "https://thanhnien.vn/nga-quyet-kiem-soat-donbass-ukraine-xac-dinh-nhieu-muc-tieu-moi-18526072720404954.htm",
+      "summary": "Hãng TASS ngày 27.7 dẫn lời Tổng thống Nga Vladimir Putin cho rằng Ukraine sẽ mất kiểm soát vùng lãnh thổ Donbass ở phía tây nước này, đồng thời nhắc lại việc NATO muốn mở rộng sát Nga nên nước này phải tiến hành chiến dịch quân sự tại Ukraine.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T22:31:00+07:00",
+      "fetched": "2026-07-28T05:57:37.889371+07:00"
+    },
+    {
+      "id": "defd5bfed35f80b98ace29347b8bfc65",
+      "title": "Tiêu điểm quốc tế 28.7: Iran cảnh báo Ukraine | Ca nhiễm Ebola tăng vọt",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-287-iran-canh-bao-ukraine-ca-nhiem-ebola-tang-vot-185260727221508587.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin Tiêu điểm quốc tế ngày 28.7.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T22:30:00+07:00",
+      "fetched": "2026-07-28T05:57:37.889490+07:00"
+    },
+    {
+      "id": "e7b61aadc5a36955b09685ce9cffc8a1",
+      "title": "10 vé dãy 345678 bất ngờ trúng xổ số miền Nam, nhiều người gặp may mắn",
+      "link": "https://thanhnien.vn/10-ve-day-345678-bat-ngo-trung-xo-so-mien-nam-nhieu-nguoi-gap-may-man-185260726213148618.htm",
+      "summary": "Hình ảnh 10 vé số dãy số đẹp 345678 trúng xổ số miền Nam bất ngờ gây sốt mạng xã hội. Ai gặp may mắn?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T22:30:00+07:00",
+      "fetched": "2026-07-28T05:57:37.889614+07:00"
+    },
+    {
+      "id": "e18235367859ef27f81e465945dbed00",
+      "title": "Giữ rừng thời công nghệ: Vào Nam Cát Tiên cùng đặc nhiệm... Tây",
+      "link": "https://thanhnien.vn/giu-rung-thoi-cong-nghe-vao-nam-cat-tien-cung-dac-nhiem-tay-185260727202238009.htm",
+      "summary": "Giữ rừng, bảo vệ rừng không còn là câu chuyện riêng của lực lượng kiểm lâm hay những tấm biển cấm giữa đại ngàn. Ở Vườn quốc gia Cát Tiên, rừng đang được bảo vệ bằng nhiều cách khác nhau: camera công nghệ, cộng đồng địa phương, du lịch sinh thái, cho lữ khách làm kiểm lâm, những trải nghiệm sống với...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T22:27:00+07:00",
+      "fetched": "2026-07-28T05:57:37.889739+07:00"
+    },
+    {
+      "id": "9016768338d6051dff04eca807a68ccb",
+      "title": "Thực sự là tinh thần phục vụ mà dân mong chờ",
+      "link": "https://thanhnien.vn/thuc-su-la-tinh-than-phuc-vu-ma-dan-mong-cho-185260727190033286.htm",
+      "summary": "Việc cán bộ ở xã Bù Đăng, tỉnh Đồng Nai đến nhà dân hỗ trợ làm sổ đỏ mang lại niềm vui lớn cho nhiều người. Qua đó, bạn đọc cũng kỳ vọng về một cuộc cải cách hành chính toàn diện, thực chất ở khắp các địa phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T22:26:00+07:00",
+      "fetched": "2026-07-28T05:57:37.889881+07:00"
+    },
+    {
+      "id": "542899cba611b1df32f4b3cabea8d669",
+      "title": "Ngăn bệnh dại từ gốc",
+      "link": "https://thanhnien.vn/ngan-benh-dai-tu-goc-18526072719042319.htm",
+      "summary": "Nhiều địa phương bước vào cao điểm nắng nóng, công tác phòng, chống bệnh dại càng được đặt ra cấp thiết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T22:25:00+07:00",
+      "fetched": "2026-07-28T05:57:37.890004+07:00"
+    },
+    {
+      "id": "0bc0b050cdc644801acc3889e706bca0",
+      "title": "Mbappe: 'Thất bại ở World Cup 2026 sẽ còn là nỗi đau gặm nhấm'",
+      "link": "https://vnexpress.net/mbappe-that-bai-o-world-cup-2026-se-con-la-noi-dau-gam-nham-5102231.html",
+      "summary": "Một tuần sau World Cup 2026, Kylian Mbappe viết tâm thư, cảm ơn người hâm mộ và thừa nhận việc ra về với vị trí thứ tư là nỗi đau lớn với anh cùng tuyển Pháp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T22:21:57+07:00",
+      "fetched": "2026-07-28T05:57:34.648472+07:00"
+    },
+    {
+      "id": "0bc0b050cdc644801acc3889e706bca0",
+      "title": "Mbappe: 'Thất bại ở World Cup 2026 sẽ còn là nỗi đau gặm nhấm'",
+      "link": "https://vnexpress.net/mbappe-that-bai-o-world-cup-2026-se-con-la-noi-dau-gam-nham-5102231.html",
+      "summary": "Một tuần sau World Cup 2026, Kylian Mbappe viết tâm thư, cảm ơn người hâm mộ và thừa nhận việc ra về với vị trí thứ tư là nỗi đau lớn với anh cùng tuyển Pháp.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-27T22:21:57+07:00",
+      "fetched": "2026-07-28T05:57:46.832556+07:00"
+    },
+    {
+      "id": "05c0a64dea1ad9a32c832917cec0c46a",
+      "title": "Lịch âm hôm nay 28.7: Rằm tháng 6 là ngày 'rất đẹp', ngày này nên làm gì?",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-287-ram-thang-6-la-ngay-rat-dep-ngay-nay-nen-lam-gi-185260726155512787.htm",
+      "summary": "Lịch âm hôm nay là ngày rằm tháng 6, dân gian quan niệm đây là ngày đẹp khi 'xuất hành 4 phương, 8 hướng đều tốt, trăm sự được như ý'. Dương lịch 28.7 có gì đáng lưu ý?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T22:21:00+07:00",
+      "fetched": "2026-07-28T05:57:37.890123+07:00"
+    },
+    {
+      "id": "d02d40d24520626fae2a2bbb116d031e",
+      "title": "Món quà Messi tặng toàn đội tuyển Argentina sau World Cup",
+      "link": "https://vnexpress.net/mon-qua-messi-tang-toan-doi-tuyen-argentina-sau-world-cup-5102234.html",
+      "summary": "Kelci Rose, bạn gái hậu vệ Marcos Senesi, chia sẻ đoạn video bóc túi quà lưu niệm từ World Cup 2026, trong đó có bộ bình giữ nhiệt và cốc uống mate do Lionel Messi tặng toàn bộ các tuyển thủ Argentina.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T22:06:07+07:00",
+      "fetched": "2026-07-28T05:57:34.648634+07:00"
+    },
+    {
+      "id": "d02d40d24520626fae2a2bbb116d031e",
+      "title": "Món quà Messi tặng toàn đội tuyển Argentina sau World Cup",
+      "link": "https://vnexpress.net/mon-qua-messi-tang-toan-doi-tuyen-argentina-sau-world-cup-5102234.html",
+      "summary": "Kelci Rose, bạn gái hậu vệ Marcos Senesi, chia sẻ đoạn video bóc túi quà lưu niệm từ World Cup 2026, trong đó có bộ bình giữ nhiệt và cốc uống mate do Lionel Messi tặng toàn bộ các tuyển thủ Argentina.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-27T22:06:07+07:00",
+      "fetched": "2026-07-28T05:57:46.832696+07:00"
+    },
+    {
+      "id": "c24183b7f22e4e1a5376abe31496746e",
+      "title": "Hành trình khổ luyện giúp runner Scotland phá kỷ lục tồn tại 27 năm",
+      "link": "https://vnexpress.net/hanh-trinh-kho-luyen-giup-runner-scotland-pha-ky-luc-ton-tai-27-nam-5102246.html",
+      "summary": "Josh Kerr đã thay đổi toàn bộ cuộc sống, theo đuổi chế độ tập luyện khắc nghiệt để chạy một dặm (1,6 km) trong 3 phút 42 giây 66 giây, phá kỷ lục thế giới tồn tại suốt 27 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T22:05:36+07:00",
+      "fetched": "2026-07-28T05:57:34.648780+07:00"
+    },
+    {
+      "id": "c24183b7f22e4e1a5376abe31496746e",
+      "title": "Hành trình khổ luyện giúp runner Scotland phá kỷ lục tồn tại 27 năm",
+      "link": "https://vnexpress.net/hanh-trinh-kho-luyen-giup-runner-scotland-pha-ky-luc-ton-tai-27-nam-5102246.html",
+      "summary": "Josh Kerr đã thay đổi toàn bộ cuộc sống, theo đuổi chế độ tập luyện khắc nghiệt để chạy một dặm (1,6 km) trong 3 phút 42 giây 66 giây, phá kỷ lục thế giới tồn tại suốt 27 năm.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-27T22:05:36+07:00",
+      "fetched": "2026-07-28T05:57:46.832848+07:00"
+    },
+    {
+      "id": "2bc9edade89021ce1c110b752616b322",
+      "title": "Nguy cơ biển Caspi thành mặt trận mới sau vụ Ukraine tập kích tàu hàng Iran",
+      "link": "https://vnexpress.net/nguy-co-bien-caspi-thanh-mat-tran-moi-sau-vu-ukraine-tap-kich-tau-hang-iran-5101928.html",
+      "summary": "Ukraine tập kích tàu Iran trên biển Caspi làm gia tăng căng thẳng song phương, đồng thời dấy lên lo ngại vùng biển chiến lược này trở thành điểm nóng mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T22:00:00+07:00",
+      "fetched": "2026-07-28T05:57:34.648941+07:00"
+    },
+    {
+      "id": "8382025df2e1ec76b8ebeb6dee43b103",
+      "title": "Trung tâm vũ trụ của Musk và Bezos có thể là thảm họa cho hành tinh",
+      "link": "https://vnexpress.net/trung-tam-vu-tru-cua-musk-va-bezos-co-the-la-tham-hoa-cho-hanh-tinh-5101823.html",
+      "summary": "Trung tâm dữ liệu vũ trụ mà công ty SpaceX của Elon Musk và Blue Origin của Jeff Bezos dự định xây dựng có thể gây ô nhiễm, làm thay đổi khí quyển Trái Đất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T22:00:00+07:00",
+      "fetched": "2026-07-28T05:57:34.649070+07:00"
+    },
+    {
+      "id": "0bd81b49cf9973be53ac4e0501c4fadd",
+      "title": "Những mảnh ghép trong danh tính liệt sĩ",
+      "link": "https://vnexpress.net/nhung-manh-ghep-trong-danh-tinh-liet-si-5101774.html",
+      "summary": "Không họ, năm sinh, phiên hiệu đơn vị, hài cốt liệt sĩ \"Tuyến\" vẫn chưa được đoàn tụ cùng gia đình sau 54 năm mất tích. Các mảnh ghép giúp lấp đầy danh tính ông nằm tại ba nơi, xa nhất cách nửa vòng trái đất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T22:00:00+07:00",
+      "fetched": "2026-07-28T05:57:34.649195+07:00"
+    },
+    {
+      "id": "143c5be176567b21a004e68c0ae59b8d",
+      "title": "Chuyên gia cảnh báo sai lầm khi dùng dầu ăn dễ sinh chất độc",
+      "link": "https://vnexpress.net/chuyen-gia-canh-bao-sai-lam-khi-dung-dau-an-de-sinh-chat-doc-5101741.html",
+      "summary": "Dùng duy nhất một loại dầu cho mọi cách chế biến dễ gây biến chất, sinh chất độc ở nhiệt độ cao và làm giảm giá trị dinh dưỡng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T22:00:00+07:00",
+      "fetched": "2026-07-28T05:57:34.649317+07:00"
+    },
+    {
+      "id": "da0a9e5578b3f574d0009440a62dc44c",
+      "title": "Dân số Việt Nam mất cân bằng giới tính khi sinh như thế nào",
+      "link": "https://vnexpress.net/dan-so-viet-nam-mat-can-bang-gioi-tinh-khi-sinh-nhu-the-nao-5099917.html",
+      "summary": "Dân số Việt Nam đang mất cân bằng giới tính khi sinh với tỷ lệ 111,4 bé trai trên 100 bé gái, vượt xa quy luật sinh học tự nhiên là 104-106/100.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T22:00:00+07:00",
+      "fetched": "2026-07-28T05:57:34.649455+07:00"
+    },
+    {
+      "id": "d30aa480bc52cb4140dfb516405788d3",
+      "title": "Subaru khuyến mãi hàng trăm triệu đồng loạt xe tháng 7",
+      "link": "https://vnexpress.net/subaru-khuyen-mai-hang-tram-trieu-dong-loat-xe-thang-7-5102141.html",
+      "summary": "Các mẫu Forester, Crosstrek, Outback được hãng khuyến mãi 114-360 triệu đồng cho các phiên bản sản xuất 2024-2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T22:00:00+07:00",
+      "fetched": "2026-07-28T05:57:34.649583+07:00"
+    },
+    {
+      "id": "2bc9edade89021ce1c110b752616b322",
+      "title": "Nguy cơ biển Caspi thành mặt trận mới sau vụ Ukraine tập kích tàu hàng Iran",
+      "link": "https://vnexpress.net/nguy-co-bien-caspi-thanh-mat-tran-moi-sau-vu-ukraine-tap-kich-tau-hang-iran-5101928.html",
+      "summary": "Ukraine tập kích tàu Iran trên biển Caspi làm gia tăng căng thẳng song phương, đồng thời dấy lên lo ngại vùng biển chiến lược này trở thành điểm nóng mới.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-27T22:00:00+07:00",
+      "fetched": "2026-07-28T05:57:41.326728+07:00"
+    },
+    {
+      "id": "8382025df2e1ec76b8ebeb6dee43b103",
+      "title": "Trung tâm vũ trụ của Musk và Bezos có thể là thảm họa cho hành tinh",
+      "link": "https://vnexpress.net/trung-tam-vu-tru-cua-musk-va-bezos-co-the-la-tham-hoa-cho-hanh-tinh-5101823.html",
+      "summary": "Trung tâm dữ liệu vũ trụ mà công ty SpaceX của Elon Musk và Blue Origin của Jeff Bezos dự định xây dựng có thể gây ô nhiễm, làm thay đổi khí quyển Trái Đất.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-27T22:00:00+07:00",
+      "fetched": "2026-07-28T05:57:45.725715+07:00"
+    },
+    {
+      "id": "eef2a771c74e52958ac798af70b43eef",
+      "title": "LeBron James giảm gần 93% lương",
+      "link": "https://vnexpress.net/lebron-james-giam-gan-93-luong-5102242.html",
+      "summary": "Siêu sao NBA LeBron James chấp nhận mức lương chỉ 3,88 triệu USD khi gia nhập Philadelphia 76ers, giảm gần 93% so với mùa vừa qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T21:36:02+07:00",
+      "fetched": "2026-07-28T05:57:34.649709+07:00"
+    },
+    {
+      "id": "eef2a771c74e52958ac798af70b43eef",
+      "title": "LeBron James giảm gần 93% lương",
+      "link": "https://vnexpress.net/lebron-james-giam-gan-93-luong-5102242.html",
+      "summary": "Siêu sao NBA LeBron James chấp nhận mức lương chỉ 3,88 triệu USD khi gia nhập Philadelphia 76ers, giảm gần 93% so với mùa vừa qua.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-27T21:36:02+07:00",
+      "fetched": "2026-07-28T05:57:46.832400+07:00"
+    },
+    {
+      "id": "c30c133af530fd9b351bdc5a7d5e2dcf",
+      "title": "Xe khách lật ngửa trên đường trơn",
+      "link": "https://vnexpress.net/xe-khach-lat-ngua-tren-duong-tron-5102056.html",
+      "summary": "Xe khách bất ngờ mất lái lao lên dải phân cách rồi lật ngửa, đè lên một ôtô con đang đỗ và khiến hơn 30 người thương vong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T21:00:00+07:00",
+      "fetched": "2026-07-28T05:57:34.649863+07:00"
+    },
+    {
+      "id": "cd0461dbb7ce5935f687bdab3e9d7fa3",
+      "title": "AI Trung Quốc đắt khách tại Mỹ",
+      "link": "https://vnexpress.net/ai-trung-quoc-dat-khach-tai-my-5102036.html",
+      "summary": "Chi phí thấp và năng lực xử lý cải thiện nhanh, các mô hình trí tuệ nhân tạo (AI) Trung Quốc ngày càng được ưa chuộng tại Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-27T20:45:27+07:00",
+      "fetched": "2026-07-28T05:57:34.650004+07:00"
+    },
+    {
+      "id": "cd0461dbb7ce5935f687bdab3e9d7fa3",
+      "title": "AI Trung Quốc 'đắt khách' tại Mỹ",
+      "link": "https://vnexpress.net/ai-trung-quoc-dat-khach-tai-my-5102036.html",
+      "summary": "Chi phí thấp và năng lực xử lý cải thiện nhanh, các mô hình trí tuệ nhân tạo (AI) Trung Quốc ngày càng được ưa chuộng tại Mỹ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-27T20:45:27+07:00",
+      "fetched": "2026-07-28T05:57:42.730663+07:00"
     },
     {
       "id": "ef60e4027f061e59346a38e49832d3e6",
