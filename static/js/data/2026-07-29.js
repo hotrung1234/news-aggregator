@@ -1,6 +1,6 @@
 window.newsData_2026_07_29 = {
   "date": "2026-07-29",
-  "lastUpdated": "2026-07-29T04:04:10.228571+07:00",
+  "lastUpdated": "2026-07-29T05:55:07.937558+07:00",
   "articles": [
     {
       "id": "9f846d9cfdf5d72a81c71365d852ea6e",
@@ -151,6 +151,286 @@ window.newsData_2026_07_29 = {
       "category": "Tổng hợp",
       "published": "2026-07-29T02:18:05.228645+07:00",
       "fetched": "2026-07-29T02:18:05.228789+07:00"
+    },
+    {
+      "id": "5995eff89801e05b82dea1e054425293",
+      "title": "Mua hàng online có còn rẻ?",
+      "link": "https://thanhnien.vn/mua-hang-online-co-con-re-185260728230353518.htm",
+      "summary": "Dù phí sàn, chi phí quảng cáo và giá một số mặt hàng cùng tăng, doanh số thương mại điện tử vẫn bứt phá. Người tiêu dùng đang mua hàng không vì giá rẻ hay đắt, mà vì sự tiện lợi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T22:54:00+07:00",
+      "fetched": "2026-07-29T05:55:01.090059+07:00"
+    },
+    {
+      "id": "efd7765a2dc265af6b4d42a5f8917f89",
+      "title": "Bộ GD-ĐT: Hoạt động giáo dục tăng cường không thu tiền của học sinh",
+      "link": "https://thanhnien.vn/bo-gd-dt-hoat-dong-giao-duc-tang-cuong-khong-thu-tien-cua-hoc-sinh-185260728195652467.htm",
+      "summary": "Hoạt động giáo dục tăng cường là nội dung giáo dục theo yêu cầu chung tại các chủ trương của Đảng, được tổ chức trong khuôn khổ dạy học 2 buổi/ngày, áp dụng cho tất cả học sinh, không thu tiền, nhằm phát triển toàn diện phẩm chất, năng lực người học.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T22:54:00+07:00",
+      "fetched": "2026-07-29T05:55:01.090184+07:00"
+    },
+    {
+      "id": "9ad1eccdd77d5703f868cb4fd68760a1",
+      "title": "Tăng trưởng dựa trên công nghệ, năng suất và đổi mới",
+      "link": "https://thanhnien.vn/tang-truong-dua-tren-cong-nghe-nang-suat-va-doi-moi-185260728225515605.htm",
+      "summary": "Chuyển từ phát triển dựa vào thâm dụng lao động, vốn và tài nguyên thiên nhiên sang mô hình phát triển dựa trên năng suất, tri thức, khoa học - công nghệ, đổi mới sáng tạo và nhân tố con người. Đó là một trong 4 bước chuyển chiến lược để VN vươn lên thành nước phát triển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T22:53:00+07:00",
+      "fetched": "2026-07-29T05:55:01.090315+07:00"
+    },
+    {
+      "id": "e36f6659b0ea569d830a09e0488b79c4",
+      "title": "Phép thử năng lực của doanh nghiệp",
+      "link": "https://thanhnien.vn/phep-thu-nang-luc-cua-doanh-nghiep-185260728213558402.htm",
+      "summary": "Ứng phó mức thuế mới từ Mỹ một lần nữa lại là phép thử cho năng lực cạnh tranh của cộng đồng doanh nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T22:52:00+07:00",
+      "fetched": "2026-07-29T05:55:01.090425+07:00"
+    },
+    {
+      "id": "b8b01ace83136755341d46a1018f2c8c",
+      "title": "Ứng xử thế nào với kim cương?",
+      "link": "https://thanhnien.vn/ung-xu-the-nao-voi-kim-cuong-185260728213130997.htm",
+      "summary": "Giao dịch thấp, giá sụt giảm, nhiều cửa hàng vẫn đóng cửa càng khiến những người sở hữu kim cương muốn bán ra. Mà càng nhiều người bán thì lại càng nhiều tiệm đóng cửa vì mất thanh khoản. Trường hợp có nơi thu lại, giá cũng lao dốc. Vậy ứng xử thế nào với kim cương lúc này là câu hỏi không dễ trả lờ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T22:51:00+07:00",
+      "fetched": "2026-07-29T05:55:01.090537+07:00"
+    },
+    {
+      "id": "227e784b0114e55dd81719206efc4c65",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 29.7.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-2972026-185260728220811242.htm",
+      "summary": "Tin tức Ứng xử thế nào với kim cương?; Hàng thủ Việt Nam cần cẩn trọng trước Singapore; Giải mã chiến lược 'vừa đàm vừa đánh' của Mỹ lẫn Iran… là những thông tin hấp dẫn bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 29.7.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T22:50:00+07:00",
+      "fetched": "2026-07-29T05:55:01.090647+07:00"
+    },
+    {
+      "id": "c512d380593b0129f6f02e0392340038",
+      "title": "Hơn 50% thí sinh đăng ký ngành STEM: Nhu cầu nhân lực 3-5 năm tới ra sao?",
+      "link": "https://thanhnien.vn/hon-50-thi-sinh-dang-ky-nganh-stem-nhu-cau-nhan-luc-3-5-nam-toi-ra-sao-185260728184819118.htm",
+      "summary": "Theo công bố của Bộ GD-ĐT về tình hình đăng ký xét tuyển nguyện vọng vào các trường ĐH năm nay, có trên 50% thí sinh lựa chọn các ngành học thuộc lĩnh vực STEM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T22:45:00+07:00",
+      "fetched": "2026-07-29T05:55:01.090751+07:00"
+    },
+    {
+      "id": "5c2ef8c2df4917df48adfb53f88ce99a",
+      "title": "Cô dâu, chú rể trộn bánh tráng thay cắt bánh cưới, tái hiện mối tình 10 năm",
+      "link": "https://thanhnien.vn/co-dau-chu-re-tron-banh-trang-thay-cat-banh-cuoi-tai-hien-moi-tinh-10-nam-185260726160921683.htm",
+      "summary": "Bánh tráng trộn từng là món ăn gắn bó với những năm tháng học sinh của cặp đôi. Sau 10 năm yêu nhau, họ đưa ký ức ấy vào hôn lễ bằng một nghi thức đặc biệt thay cho màn cắt bánh cưới truyền thống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T22:45:00+07:00",
+      "fetched": "2026-07-29T05:55:01.090854+07:00"
+    },
+    {
+      "id": "c64c533530f8c27403bd23d98e282733",
+      "title": "Khách vào rừng, dân hưởng lợi",
+      "link": "https://thanhnien.vn/khach-vao-rung-dan-huong-loi-185260728215115552.htm",
+      "summary": "Sau những bước chân xuyên rừng cùng cựu biệt kích David Minetti ở số báo trước, câu hỏi lớn còn lại là: Làm thế nào để người dân bản địa có thể sống với rừng, nhờ rừng, nhưng để bảo tồn chứ không phải là khai thác, tận diệt theo lối cũ?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T22:43:00+07:00",
+      "fetched": "2026-07-29T05:55:01.090957+07:00"
+    },
+    {
+      "id": "419012e7a1f3301bc8c5c0f1fa38967c",
+      "title": "Samsung ngừng cập nhật cho ứng dụng định vị Find",
+      "link": "https://thanhnien.vn/samsung-ngung-cap-nhat-cho-ung-dung-dinh-vi-find-185260728220945494.htm",
+      "summary": "Hàng triệu người dùng Samsung Galaxy đời cũ đối mặt với việc một ứng dụng phổ biến sắp ngừng hỗ trợ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T22:41:00+07:00",
+      "fetched": "2026-07-29T05:55:01.091060+07:00"
+    },
+    {
+      "id": "d471472d067562bd6466308adc7597dc",
+      "title": "Phát triển mô hình tích hợp Đông - Tây y",
+      "link": "https://thanhnien.vn/phat-trien-mo-hinh-tich-hop-dong-tay-y-185260728181440531.htm",
+      "summary": "Tây y có ưu thế về chẩn đoán, cấp cứu, phẫu thuật và điều trị còn y học cổ truyền mạnh về phục hồi chức năng, giảm triệu chứng, nâng cao thể trạng và chất lượng sống. Nếu kết hợp hợp lý, hai nền y học sẽ bổ sung thế mạnh cho nhau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T22:41:00+07:00",
+      "fetched": "2026-07-29T05:55:01.091162+07:00"
+    },
+    {
+      "id": "d488140dc37c86659f64bf877371b105",
+      "title": "Khi tiểu thương U60 học chốt đơn: ‘Phiên chợ mạng’ giữa lòng chợ truyền thống",
+      "link": "https://thanhnien.vn/khi-tieu-thuong-u60-hoc-chot-don-phien-cho-mang-giua-long-cho-truyen-thong-185260728150931764.htm",
+      "summary": "Không rành công nghệ, từng loay hoay với những lần bấm nhầm khi livestream, người bán đầm ở chợ Bắc Ninh (TP.HCM) vẫn kiên trì học hỏi để bán hàng online, với hy vọng giữ được nghề giữa những đổi thay của thói quen mua sắm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T22:40:00+07:00",
+      "fetched": "2026-07-29T05:55:01.091276+07:00"
+    },
+    {
+      "id": "605c1b92dbfc3405907a83372d2296da",
+      "title": "Đổi mới tư duy quản lý hành chính sang quản trị phát triển về đất đai",
+      "link": "https://thanhnien.vn/doi-moi-tu-duy-quan-ly-hanh-chinh-sang-quan-tri-phat-trien-ve-dat-dai-185260728222036161.htm",
+      "summary": "Ngày 28.7, Ủy ban Thường vụ Quốc hội tiếp tục các nội dung phiên họp thứ tư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T22:36:00+07:00",
+      "fetched": "2026-07-29T05:55:01.091390+07:00"
+    },
+    {
+      "id": "b74734024e152cfac06a4287fc2e238c",
+      "title": "Xây dựng Hội Chữ thập đỏ Việt Nam vững mạnh, chuyên nghiệp, hiện đại",
+      "link": "https://thanhnien.vn/xay-dung-hoi-chu-thap-do-viet-nam-vung-manh-chuyen-nghiep-hien-dai-185260728221223921.htm",
+      "summary": "Sáng 28.7, Đại hội đại biểu toàn quốc Hội Chữ thập đỏ VN lần thứ XII, nhiệm kỳ 2026 - 2031 tổ chức phiên khai mạc với sự tham dự của 500 đại biểu chính thức, đại diện cho hơn 5,6 triệu cán bộ, hội viên, tình nguyện viên và thanh thiếu niên Chữ thập đỏ cả nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T22:33:00+07:00",
+      "fetched": "2026-07-29T05:55:01.091498+07:00"
+    },
+    {
+      "id": "0f7bff680ac9a83328f15bbf2fa04ea7",
+      "title": "Tiêu điểm quốc tế ngày 29.7: Mỹ cạn mục tiêu ở Iran? | Nga bác tin về binh sĩ Triều Tiên",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-ngay-297-my-can-muc-tieu-o-iran-nga-bac-tin-ve-binh-si-trieu-tien-185260728234449313.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin Tiêu điểm quốc tế ngày 29.7.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T22:30:00+07:00",
+      "fetched": "2026-07-29T05:55:01.091604+07:00"
+    },
+    {
+      "id": "b40edf7008cabad0ed59df5a1d92c65c",
+      "title": "Vì sao Paolo Maldini từ chức Giám đốc Kỹ thuật LĐBĐ Italy?",
+      "link": "https://vnexpress.net/vi-sao-paolo-maldini-tu-chuc-giam-doc-ky-thuat-ldbd-italy-5102712.html",
+      "summary": "Giám đốc kỹ thuật Paolo Maldini cùng Cố vấn Leonardo cùng từ chức chỉ sau 16 ngày đảm nhiệm vai trò tại LĐBĐ Italy (FIGC) vì cho rằng lãnh đạo cơ quan này không muốn thay đổi.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-28T22:26:17+07:00",
+      "fetched": "2026-07-29T05:55:07.933415+07:00"
+    },
+    {
+      "id": "bf94e4e358cc524e338e4f5c5773cfe8",
+      "title": "Djokovic đánh đôi cùng Sabalenka ở Mỹ Mở rộng",
+      "link": "https://vnexpress.net/djokovic-danh-doi-cung-sabalenka-o-my-mo-rong-5102727.html",
+      "summary": "Chủ nhân 24 Grand Slam Novak Djokovic kết hợp cùng tay vợt nữ số một thế giới Aryna Sabalenka, ở thể thức thi đấu đôi nam nữ mới lạ tại Mỹ Mở rộng 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-28T22:20:46+07:00",
+      "fetched": "2026-07-29T05:55:07.933557+07:00"
+    },
+    {
+      "id": "3ce5386cbf75500fb75c3c27e6594f37",
+      "title": "Cuộc đấu công nghệ màn hình trên thị trường TV tại Việt Nam",
+      "link": "https://vnexpress.net/cuoc-dau-cong-nghe-man-hinh-tren-thi-truong-tv-tai-viet-nam-5102004.html",
+      "summary": "TCL cải tiến Mini LED, LG trung thành với OLED còn Samsung \"tất tay\" ở phân khúc cao cấp cho Micro RGB, tạo nên cuộc đấu công nghệ màn hình TV trên thị trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T22:18:36+07:00",
+      "fetched": "2026-07-29T05:54:58.461077+07:00"
+    },
+    {
+      "id": "3ce5386cbf75500fb75c3c27e6594f37",
+      "title": "Cuộc đấu công nghệ màn hình trên thị trường TV tại Việt Nam",
+      "link": "https://vnexpress.net/cuoc-dau-cong-nghe-man-hinh-tren-thi-truong-tv-tai-viet-nam-5102004.html",
+      "summary": "TCL cải tiến Mini LED, LG trung thành với OLED còn Samsung \"tất tay\" ở phân khúc cao cấp cho Micro RGB, tạo nên cuộc đấu công nghệ màn hình TV trên thị trường.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-28T22:18:36+07:00",
+      "fetched": "2026-07-29T05:55:06.807005+07:00"
+    },
+    {
+      "id": "6da5411c6f37cf990544e18aa972874d",
+      "title": "Xoay xở trong những căn nhà siêu mỏng ven rạch Xuyên Tâm",
+      "link": "https://vnexpress.net/xoay-xo-trong-nhung-can-nha-sieu-mong-ven-rach-xuyen-tam-5102639.html",
+      "summary": "Sau khi bàn giao hơn 3/4 diện tích nhà để cải tạo rạch Xuyên Tâm, anh Lý Hoàng sống trong phần nền còn lại chưa đầy 4 m2, không đủ nằm duỗi thẳng chân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T22:00:00+07:00",
+      "fetched": "2026-07-29T05:54:58.461228+07:00"
+    },
+    {
+      "id": "c03c4210f9446a01ad1027a106b9cbb0",
+      "title": "Có nên bật bộ phát wifi liên tục 24/7 tại nhà?",
+      "link": "https://vnexpress.net/co-nen-bat-bo-phat-wifi-lien-tuc-24-7-tai-nha-5102547.html",
+      "summary": "Bộ phát wifi bật liên tục liệu có gặp vấn đề về bảo mật hay làm chậm kết nối các thiết bị trong nhà?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T22:00:00+07:00",
+      "fetched": "2026-07-29T05:54:58.461358+07:00"
+    },
+    {
+      "id": "abf5cfd76005c53df607bdc1837a573a",
+      "title": "6 việc nên làm mỗi sáng giúp giảm cân",
+      "link": "https://vnexpress.net/6-viec-nen-lam-moi-sang-giup-giam-can-5102158.html",
+      "summary": "Uống nước ngay sau khi thức dậy, ăn sáng giàu protein, uống cà phê đúng cách hay lên kế hoạch bữa ăn là những thói quen buổi sáng có thể hỗ trợ giảm cân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T22:00:00+07:00",
+      "fetched": "2026-07-29T05:54:58.461480+07:00"
+    },
+    {
+      "id": "9b672c71e3cf585bfd3d48dae4840f33",
+      "title": "Arab Saudi vỡ mộng sau cú 'quay xe' của ông Trump",
+      "link": "https://vnexpress.net/arab-saudi-vo-mong-sau-cu-quay-xe-cua-ong-trump-5102104.html",
+      "summary": "Arab Saudi tưởng đã đạt thỏa thuận hạt nhân lịch sử với Mỹ, nhưng tuyên bố bất ngờ của ông Trump khiến Riyadh đối mặt nguy cơ mọi tính toán đổ vỡ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T22:00:00+07:00",
+      "fetched": "2026-07-29T05:54:58.461599+07:00"
+    },
+    {
+      "id": "de1c75a6d8ec315c25b96fc9ea0750a0",
+      "title": "Tìm ẩn số ADN trong hài cốt liệt sĩ",
+      "link": "https://vnexpress.net/tim-an-so-adn-trong-hai-cot-liet-si-5101927.html",
+      "summary": "Tờ giám định ADN xác minh danh tính liệt sĩ khép lại ba mươi năm ròng vợ chồng ông Dương, bà Miến đi tìm hài cốt cha.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T22:00:00+07:00",
+      "fetched": "2026-07-29T05:54:58.461712+07:00"
+    },
+    {
+      "id": "b1d69394301d72552f5618a8d956f907",
+      "title": "Sản xuất ôtô ở Đức đắt đỏ, Mercedes chuyển sang nước khác",
+      "link": "https://vnexpress.net/san-xuat-oto-o-duc-dat-do-mercedes-chuyen-sang-nuoc-khac-5102293.html",
+      "summary": "Chi phí sản xuất ở Hungary rẻ hơn 70% khiến Mercedes mở rộng nhà máy ở đây, trong khi siết chặt hoạt động tại Đức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T22:00:00+07:00",
+      "fetched": "2026-07-29T05:54:58.461823+07:00"
+    },
+    {
+      "id": "9b672c71e3cf585bfd3d48dae4840f33",
+      "title": "Arab Saudi vỡ mộng sau cú 'quay xe' của ông Trump",
+      "link": "https://vnexpress.net/arab-saudi-vo-mong-sau-cu-quay-xe-cua-ong-trump-5102104.html",
+      "summary": "Arab Saudi tưởng đã đạt thỏa thuận hạt nhân lịch sử với Mỹ, nhưng tuyên bố bất ngờ của ông Trump khiến Riyadh đối mặt nguy cơ mọi tính toán đổ vỡ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-28T22:00:00+07:00",
+      "fetched": "2026-07-29T05:55:03.597904+07:00"
+    },
+    {
+      "id": "c03c4210f9446a01ad1027a106b9cbb0",
+      "title": "Có nên bật bộ phát wifi liên tục 24/7 tại nhà?",
+      "link": "https://vnexpress.net/co-nen-bat-bo-phat-wifi-lien-tuc-24-7-tai-nha-5102547.html",
+      "summary": "Bộ phát wifi bật liên tục liệu có gặp vấn đề về bảo mật hay làm chậm kết nối các thiết bị trong nhà?",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-28T22:00:00+07:00",
+      "fetched": "2026-07-29T05:55:06.807138+07:00"
+    },
+    {
+      "id": "3b2a1c969650e171734fadc15a04a587",
+      "title": "Barie bị xe tải tông bay, đâm xuyên xe con",
+      "link": "https://vnexpress.net/barie-bi-xe-tai-tong-bay-dam-xuyen-xe-con-5102397.html",
+      "summary": "Cảnh tượng kinh hoàng diễn ra ở Tô Châu ngày 27/7 khi xe tải chạy trái phép vào đường cao tốc và gạt trúng barie giới hạn chiều cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T21:00:00+07:00",
+      "fetched": "2026-07-29T05:54:58.461934+07:00"
     },
     {
       "id": "4dd408ddc4751cccbdd9476d87163366",
