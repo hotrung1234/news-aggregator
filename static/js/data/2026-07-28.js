@@ -1,7 +1,157 @@
 window.newsData_2026_07_28 = {
   "date": "2026-07-28",
-  "lastUpdated": "2026-07-28T17:30:34.480568+07:00",
+  "lastUpdated": "2026-07-28T20:58:04.813415+07:00",
   "articles": [
+    {
+      "id": "755f2735e8e9a2a7a378cbbd06399479",
+      "title": "Thua lỗ tiền ảo, một bác sĩ ở Huế thành 'trộm chuyên nghiệp' đột nhập 5 tiệm vàng",
+      "link": "https://tuoitre.vn/thua-lo-tien-ao-mot-bac-si-o-hue-thanh-trom-chuyen-nghiep-dot-nhap-5-tiem-vang-100260728170232593.htm",
+      "summary": "Thua lỗ khi đầu tư tiền ảo, một bác sĩ ở Huế rơi vào nợ nần, rồi nhiều lần đột nhập các tiệm vàng để trộm tài sản trị giá hơn 5 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T20:57:56.414688+07:00",
+      "fetched": "2026-07-28T20:57:56.414746+07:00"
+    },
+    {
+      "id": "7dbb6ad2a0eaddb1b8864032d7cc17f1",
+      "title": "Phó thủ tướng Lê Tiến Châu đảm nhận nhiệm vụ mới, chỉ đạo thu hồi tài sản vụ Vạn Thịnh Phát",
+      "link": "https://tuoitre.vn/pho-thu-tuong-le-tien-chau-dam-nhan-nhiem-vu-moi-chi-dao-thu-hoi-tai-san-vu-van-thinh-phat-100260728180627713.htm",
+      "summary": "Phó thủ tướng Lê Tiến Châu làm Phó trưởng Ban Chỉ đạo liên ngành Trung ương về tổ chức thi hành án, thu hồi tài sản bị chiếm đoạt, thất thoát trong các vụ liên quan đến Tập đoàn Vạn Thịnh Phát.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T20:57:56.414609+07:00",
+      "fetched": "2026-07-28T20:57:56.414677+07:00"
+    },
+    {
+      "id": "0ad818aa46e99b7121c759bdaf144d9d",
+      "title": "Bí thư Trần Lưu Quang: Khuyến khích phát triển trường tư để gỡ bài toán thiếu giáo viên",
+      "link": "https://tuoitre.vn/bi-thu-tran-luu-quang-phat-huy-vai-tro-truong-tu-de-go-bai-toan-thieu-giao-vien-100260728173201427.htm",
+      "summary": "Nhiều giải pháp để giải bài toán thiếu giáo viên như phát triển trường tư, cho thuê cơ sở vật chất trường công... được Bí thư Thành ủy TP.HCM Trần Lưu Quang nêu ra tại buổi đối thoại chiều 28-7.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T20:57:56.414541+07:00",
+      "fetched": "2026-07-28T20:57:56.414598+07:00"
+    },
+    {
+      "id": "3b7321f0ecc8faeec9e71b1c01eced21",
+      "title": "Người dân TP.HCM đi xe buýt miễn phí còn bốc thăm trúng thưởng tại 6 bến xe",
+      "link": "https://tuoitre.vn/nguoi-dan-tphcm-di-xe-buyt-mien-phi-con-boc-tham-trung-thuong-tai-6-ben-xe-100260728171503699.htm",
+      "summary": "Người dân TP.HCM khi đi xe buýt sẽ được bốc thăm trúng thưởng là những phiếu mua hàng siêu thị Co.opmart, mỗi phiếu trị giá 500.000 đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T20:57:56.414475+07:00",
+      "fetched": "2026-07-28T20:57:56.414531+07:00"
+    },
+    {
+      "id": "d8d96f404a1dc6f1e5e5986db40e1e26",
+      "title": "Đảng viên không được cổ xúy cho xuất bản phẩm xuyên tạc lịch sử, bôi nhọ lãnh tụ",
+      "link": "https://tuoitre.vn/dang-vien-khong-duoc-co-xuy-cho-xuat-ban-pham-xuyen-tac-lich-su-boi-nho-lanh-tu-100260728181720336.htm",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm đã ký ban hành Quy định 207 của Ban Chấp hành Trung ương Đảng về những điều đảng viên không được làm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T20:57:56.414409+07:00",
+      "fetched": "2026-07-28T20:57:56.414465+07:00"
+    },
+    {
+      "id": "f2cc652563b0349be64ad676e660dd0e",
+      "title": "Bị bắt vì 'tra tấn' hàng xóm bằng tiếng guitar suốt 7 năm",
+      "link": "https://tuoitre.vn/bi-bat-vi-tra-tan-hang-xom-bang-tieng-guitar-suot-7-nam-100260728172637707.htm",
+      "summary": "Một người đàn ông Nhật Bản bị bắt sau khi bị cáo buộc chơi guitar với âm lượng lớn suốt hơn 7 năm, khiến nhiều hàng xóm lớn tuổi mất ngủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T20:57:56.414342+07:00",
+      "fetched": "2026-07-28T20:57:56.414399+07:00"
+    },
+    {
+      "id": "77870b12ce500a1fbb2494e668c1606e",
+      "title": "TP.HCM đạt mức tăng trưởng GRDP cao nhất 10 năm",
+      "link": "https://tuoitre.vn/tphcm-dat-muc-tang-truong-grdp-cao-nhat-10-nam-100260728173217201.htm",
+      "summary": "Tại Hội nghị sơ kết hoạt động 6 tháng đầu năm và nhiệm vụ 6 tháng cuối năm ngày 28-7, Hiệp hội Doanh nghiệp TP.HCM (HUBA) nhận định khu vực doanh nghiệp tiếp tục giữ vai trò trung tâm trong quá trình bứt phá và tăng trưởng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T20:57:56.414273+07:00",
+      "fetched": "2026-07-28T20:57:56.414332+07:00"
+    },
+    {
+      "id": "0fb975b33967caa6cf6c312b0ab30ae4",
+      "title": "Xếp hàng cả buổi không mua được vé trận Việt Nam - Singapore",
+      "link": "https://tuoitre.vn/xep-hang-ca-buoi-khong-mua-duoc-ve-tran-viet-nam-singapore-100260728175239348.htm",
+      "summary": "Trong ngày đầu tiên vé trận đội tuyển Việt Nam gặp Singapore tại ASEAN Cup 2026 được mở bán trực tiếp vào chiều 28-7, nhiều người hâm mộ không mua được vé dù xếp hàng cả buổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T20:57:56.414200+07:00",
+      "fetched": "2026-07-28T20:57:56.414262+07:00"
+    },
+    {
+      "id": "b3fe9b96225c3f7f68b32a8bcd0582a6",
+      "title": "Dầm mưa đội nắng tìm thêm 19 bộ hài cốt liệt sĩ tại công viên Lê Thị Riêng",
+      "link": "https://tuoitre.vn/dam-mua-doi-nang-tim-them-19-bo-hai-cot-liet-si-tai-cong-vien-le-thi-rieng-100260728175945509.htm",
+      "summary": "Trong ngày 28-7, cơ quan chức năng đã tìm thêm 19 bộ hài cốt liệt sĩ tại công viên Lê Thị Riêng, tới nay đã có 144 liệt sĩ được tìm thấy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T20:57:56.414131+07:00",
+      "fetched": "2026-07-28T20:57:56.414190+07:00"
+    },
+    {
+      "id": "7d2a25332b601c536db61a37ed8fbd6b",
+      "title": "Cựu binh Mỹ phản ứng việc 'phân loại lại' thương vong trong chiến tranh Iran",
+      "link": "https://tuoitre.vn/cuu-binh-my-phan-ung-viec-phan-loai-lai-thuong-vong-trong-chien-tranh-iran-100260728173559268.htm",
+      "summary": "Việc Lầu Năm Góc phân loại lại thương vong trong chiến tranh Iran đang bị nhiều cựu quân nhân Mỹ xem là hành động \"thiếu tôn trọng\" những người đã thiệt mạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T20:57:56.414057+07:00",
+      "fetched": "2026-07-28T20:57:56.414120+07:00"
+    },
+    {
+      "id": "b98e9d2d906348d212f6d0f5983fca0a",
+      "title": "Bé gái chết sau thử nghiệm chỉnh sửa gene, một liệu pháp đang nghiên cứu trên... khỉ",
+      "link": "https://tuoitre.vn/be-gai-chet-sau-thu-nghiem-chinh-sua-gen-mot-lieu-phap-dang-nghien-cuu-tren-khi-100260728175346007.htm",
+      "summary": "Sự việc dấy lên làn sóng tranh luận lớn tại Trung Quốc, với hàng loạt câu hỏi về đạo đức nghiên cứu và quy trình thử nghiệm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T20:57:56.413952+07:00",
+      "fetched": "2026-07-28T20:57:56.414044+07:00"
+    },
+    {
+      "id": "d08be7fc707469857450cb70ac8d153a",
+      "title": "Cán bộ, công chức TP.HCM phải đi đầu chuyển đổi sang xe điện",
+      "link": "https://tuoitre.vn/can-bo-cong-chuc-tphcm-phai-di-dau-chuyen-doi-sang-xe-dien-100260728181949956.htm",
+      "summary": "TP.HCM yêu cầu cơ quan nhà nước, cán bộ, công chức, viên chức đẩy nhanh chuyển đổi sang xe điện, năng lượng xanh, từ xe công vụ đến xe cá nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T20:57:56.413879+07:00",
+      "fetched": "2026-07-28T20:57:56.413941+07:00"
+    },
+    {
+      "id": "10a5ebaad9dba80ac26fb4c7ab4df5bd",
+      "title": "Nguyễn Thành Bảo vượt mặt 10 cao thủ Trung Quốc, đứng đầu giải cờ tướng danh giá",
+      "link": "https://tuoitre.vn/nguyen-thanh-bao-vuot-mat-10-cao-thu-trung-quoc-dung-dau-giai-co-tuong-danh-gia-100260728184800291.htm",
+      "summary": "Dù không thể đánh bại đội cờ tướng hùng mạnh của Trung Quốc, làng cờ Việt Nam vẫn có niềm vui lớn khi kỳ thủ 48 tuổi Nguyễn Thành Bảo đứng đầu bảng xếp hạng cá nhân Giải cờ tướng quốc tế Việt Nam - Quảng Đông, diễn ra tại Đà Nẵng 4 ngày qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T20:57:56.413801+07:00",
+      "fetched": "2026-07-28T20:57:56.413868+07:00"
+    },
+    {
+      "id": "8b0652de767c79f8d6a3ea3a39294852",
+      "title": "Sụt lún nửa mặt đường quốc lộ 24 kéo dài từ mùa mưa năm ngoái",
+      "link": "https://tuoitre.vn/sut-lun-nua-mat-duong-quoc-lo-24-keo-dai-tu-mua-mua-nam-ngoai-100260728172124386.htm",
+      "summary": "Điểm sụt lún dài 70m trên quốc lộ 24, đoạn qua đèo Vi Ô Lắk (xã Kon Plông, tỉnh Quảng Ngãi), khiến một nửa mặt đường bị lún nứt. Sau hơn 8 tháng, điểm sạt lở vẫn chưa được khắc phục dứt điểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T20:57:56.413717+07:00",
+      "fetched": "2026-07-28T20:57:56.413789+07:00"
+    },
+    {
+      "id": "53315983d4019e786f5bdfd138885a12",
+      "title": "Vàng, sổ tiết kiệm của cán bộ đi B còn gửi lại, họ lên đường chỉ mang theo tuổi xuân và lý tưởng",
+      "link": "https://tuoitre.vn/vang-so-tiet-kiem-cua-can-bo-di-b-con-gui-lai-ho-len-duong-chi-mang-theo-tuoi-xuan-va-ly-tuong-100260728180458533.htm",
+      "summary": "Nhiều bạn đọc bày tỏ xúc động sâu sắc trước sự hy sinh ‘quá lớn, quá nhiều’ cho Tổ quốc của lớp cha anh khi đọc bài ‘Nhiều vàng và sổ tiết kiệm của cán bộ đi B hơn nửa thế kỷ vẫn chưa tìm thấy chủ nhân’ trên Tuổi Trẻ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T20:57:56.413546+07:00",
+      "fetched": "2026-07-28T20:57:56.413702+07:00"
+    },
     {
       "id": "38f6a2128e3f9c806df4798eddb4ec1c",
       "title": "Lập trình viên người Việt bị bắt vì phụ trách IT cho đường dây ma túy",
@@ -151,6 +301,66 @@ window.newsData_2026_07_28 = {
       "category": "Tổng hợp",
       "published": "2026-07-28T17:30:27.513570+07:00",
       "fetched": "2026-07-28T17:30:27.513706+07:00"
+    },
+    {
+      "id": "f98992c2bddacc4ec4aa8c1da2cf475e",
+      "title": "Nông dân Brazil mã hóa bò sữa đưa lên sàn chứng khoán",
+      "link": "https://thanhnien.vn/nong-dan-brazil-ma-hoa-bo-sua-dua-len-san-chung-khoan-185260725073712905.htm",
+      "summary": "Nông dân ở Brazil đang tiên phong mã hóa đàn gia súc, đưa mã số của 10 con bò sữa lên sàn giao dịch chứng khoán quốc gia, huy động được gần 20.000 USD.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T13:44:00+07:00",
+      "fetched": "2026-07-28T20:57:54.352104+07:00"
+    },
+    {
+      "id": "ac06ee436c24030f8025ce0a25b65009",
+      "title": "Đau lưng ở dân văn phòng: Đừng đợi cột sống 'lên tiếng’ mới đi khám",
+      "link": "https://thanhnien.vn/dau-lung-o-dan-van-phong-dung-doi-cot-song-len-tieng-moi-di-kham-185260728204405469.htm",
+      "summary": "Nhiều người nghĩ đau lưng, đau cổ vai gáy do ngồi lâu là chuyện bình thường nên tự xử trí sai cách. Từ đây, bác sĩ chỉ cách bảo vệ cột sống và nhận biết khi nào cần đi khám.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T13:43:00+07:00",
+      "fetched": "2026-07-28T20:57:54.352280+07:00"
+    },
+    {
+      "id": "34ef57936d9d0bc187270191aa4bac5e",
+      "title": "Nhiều người chết trong vụ nổ trung tâm thương mại Aeon sau động đất Nhật Bản",
+      "link": "https://thanhnien.vn/nhieu-nguoi-chet-trong-vu-no-trung-tam-thuong-mai-aeon-sau-dong-dat-nhat-ban-185260728200003687.htm",
+      "summary": "Đài Fuji đưa tin đã có nhiều người thiệt mạng trong vụ nổ xảy ra tại một trung tâm thương mại Aeon ở tỉnh Kumamoto theo sau trận động đất 7,1 độ Richter ở Nhật Bản vào chiều nay (28.7).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T13:36:00+07:00",
+      "fetched": "2026-07-28T20:57:54.352440+07:00"
+    },
+    {
+      "id": "a268057c5e273b37f88d9aa5332305ba",
+      "title": "Tiêu hủy 75.937 hộp sản phẩm bột rau vi phạm, buộc doanh nghiệp nộp lại 3,28 tỉ đồng",
+      "link": "https://thanhnien.vn/tieu-huy-75937-hop-san-pham-bot-rau-vi-pham-buoc-doanh-nghiep-nop-lai-328-ti-dong-185260728175536282.htm",
+      "summary": "Công ty cổ phần sản xuất và thương mại Eherbal bị buộc tiêu hủy số sản phẩm vi phạm trị giá 2,66 tỉ đồng, buộc nộp lại 3,28 tỉ đồng thu lợi bất hợp pháp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T13:36:00+07:00",
+      "fetched": "2026-07-28T20:57:54.352593+07:00"
+    },
+    {
+      "id": "56416c14f20b1e05fa2a3e46f037b816",
+      "title": "Hóa chất Đức Giang muốn miễn nhiệm 2 thành viên HĐQT",
+      "link": "https://vnexpress.net/hoa-chat-duc-giang-muon-mien-nhiem-2-thanh-vien-hdqt-5102682.html",
+      "summary": "Hóa chất Đức Giang trình cổ đông miễn nhiệm chức Thành viên HĐQT của ông Lưu Bách Đạt và ông Nguyễn Quốc Trung, do hai người này đã bị khởi tố.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-28T13:25:41+07:00",
+      "fetched": "2026-07-28T20:57:59.995813+07:00"
+    },
+    {
+      "id": "e96542d87dd663c402f4558fae249746",
+      "title": "Doanh số trên TikTok Shop tăng 66%",
+      "link": "https://vnexpress.net/doanh-so-tren-tiktok-shop-tang-66-5102594.html",
+      "summary": "Giá trị giao dịch (GMV) trên TikTok Shop tăng trưởng 66% năm qua, gấp hơn 2,5 lần so với tốc độ phát triển toàn thị trường.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-28T13:24:59+07:00",
+      "fetched": "2026-07-28T20:57:59.996016+07:00"
     },
     {
       "id": "b47abe2084af13318226c91526e8cfce",
@@ -303,6 +513,316 @@ window.newsData_2026_07_28 = {
       "fetched": "2026-07-28T13:23:29.675259+07:00"
     },
     {
+      "id": "f38d25c599b26627ea92eb374553f7d2",
+      "title": "Thủ tướng Lê Minh Hưng hội kiến Chủ tịch Quốc hội Campuchia",
+      "link": "https://thanhnien.vn/thu-tuong-le-minh-hung-hoi-kien-chu-tich-quoc-hoi-campuchia-185260728195922385.htm",
+      "summary": "Chiều 28.7, tại trụ sở Chính phủ, Thủ tướng Lê Minh Hưng đã hội kiến Chủ tịch Quốc hội Campuchia Khuon Sudary đang thăm chính thức Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T13:20:00+07:00",
+      "fetched": "2026-07-28T20:57:54.352751+07:00"
+    },
+    {
+      "id": "ee30bd51aef1847b0ef232defcbc0c94",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm tiếp Chủ tịch Quốc hội Campuchia",
+      "link": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-to-lam-tiep-chu-tich-quoc-hoi-campuchia-5102672.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm đề nghị quốc hội Việt Nam - Campuchia tích cực thúc đẩy các dự án hợp tác, phối hợp ban hành các chính sách tạo thuận lợi cho quan hệ song phương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-28T13:18:19+07:00",
+      "fetched": "2026-07-28T20:57:58.117972+07:00"
+    },
+    {
+      "id": "69d9453337e63a6cd1575f1ef8fd7329",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm tiếp Chủ tịch Quốc hội Campuchia",
+      "link": "https://thanhnien.vn/tong-bi-thu-chu-tich-nuoc-to-lam-tiep-chu-tich-quoc-hoi-campuchia-185260728193541771.htm",
+      "summary": "Ngày 28.7, Tổng Bí thư, Chủ tịch nước Tô Lâm đã tiếp Chủ tịch Quốc hội Campuchia Khuon Sudary nhân dịp đoàn đại biểu cấp cao Quốc hội Campuchia thăm chính thức Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T13:14:00+07:00",
+      "fetched": "2026-07-28T20:57:54.352907+07:00"
+    },
+    {
+      "id": "652995db22d3a6d317bba6a24f8f6bf1",
+      "title": "Đắk Lắk: Tạm đình chỉ cơ sở nấu tiệc có món gà nghi có dòi",
+      "link": "https://thanhnien.vn/dak-lak-tam-dinh-chi-co-so-nau-tiec-co-mon-ga-nghi-co-doi-185260728191448691.htm",
+      "summary": "Sau vụ người dân phản ánh phát hiện dòi trong món gà tại một buổi tiệc ở xã Ea Ktur (Đắk Lắk), chính quyền địa phương đã kiểm tra, yêu cầu tạm đình chỉ hoạt động cơ sở nấu ăn và lập hồ sơ xử lý các vi phạm về an toàn thực phẩm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T13:14:00+07:00",
+      "fetched": "2026-07-28T20:57:54.353092+07:00"
+    },
+    {
+      "id": "53a10cec80c937fcda90047691149a48",
+      "title": "Truyền thông Philippines chỉ trích đội nhà vì khởi đầu ASEAN Cup cực tệ, thua sốc Myanmar",
+      "link": "https://thanhnien.vn/truyen-thong-philippines-chi-trich-doi-nha-vi-khoi-dau-asean-cup-cuc-te-thua-soc-myanmar-185260728195356601.htm",
+      "summary": "Đội tuyển Philippines nhận gáo nước lạnh ngay trận ra quân ASEAN Cup 2026 khi để thua Myanmar 1-4 trên sân New Clark City. Truyền thông nước này đồng loạt bày tỏ sự thất vọng, cho rằng ‘The Azkals’ đã có màn trình diễn dưới kỳ vọng và tự đẩy mình vào thế khó ngay từ đầu giải.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T13:09:00+07:00",
+      "fetched": "2026-07-28T20:57:54.353255+07:00"
+    },
+    {
+      "id": "210daf284d83369b7f4c0e1139cf2307",
+      "title": "Bắt khẩn cấp thanh niên cướp xe máy đem đi cầm cố để tiêu xài",
+      "link": "https://thanhnien.vn/bat-khan-cap-thanh-nien-cuop-xe-may-dem-di-cam-co-de-tieu-xai-185260728172151624.htm",
+      "summary": "Công an tỉnh Đắk Lắk bắt khẩn cấp thanh niên 20 tuổi xin đi nhờ xe, sau đó đe dọa rồi cướp xe máy đem đi cầm cố để lấy tiền tiêu xài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T13:06:00+07:00",
+      "fetched": "2026-07-28T20:57:54.353405+07:00"
+    },
+    {
+      "id": "d1fde765e686ff1f071be0841476360a",
+      "title": "Xem nhanh 20h ngày 28.7: Hái sầu riêng kiếm tiền triệu mỗi ngày | Khán giả Việt Nam nguy cơ bỏ lỡ ASIAD",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-287-hai-sau-rieng-kiem-tien-trieu-moi-ngay-khan-gia-viet-nam-nguy-co-bo-lo-asiad-185260728184203285.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 28.7 có nhiều tin tức đáng chú ý về: Kiếm tiền triệu mỗi ngày từ làm “người nhện” hái sầu riêng; khán giả Việt Nam nguy cơ không được xem trực tiếp ASIAD 20;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T13:00:00+07:00",
+      "fetched": "2026-07-28T20:57:54.353561+07:00"
+    },
+    {
+      "id": "420ef0e0b6e0fa4427774e9e1bd537c7",
+      "title": "Bác sĩ ơi: Tầm soát sức khỏe sinh sản sớm có lợi ích gì?",
+      "link": "https://thanhnien.vn/bac-si-oi-tam-soat-suc-khoe-sinh-san-som-co-loi-ich-gi-185260728155524029.htm",
+      "summary": "Thay vì \"đợi có bệnh mới chữa\", ngày càng nhiều bạn trẻ và các cặp đôi sắp cưới chọn chủ động tầm soát sức khỏe sinh sản tiền hôn nhân như một \"tấm khiêng\" bảo vệ cho tương lai. Sự chuẩn bị này không chỉ giúp bóc tách sớm những rủi ro thầm lặng mà còn là chiếc chìa khóa giúp gỡ bỏ áp lực, đón con yê...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T13:00:00+07:00",
+      "fetched": "2026-07-28T20:57:54.353718+07:00"
+    },
+    {
+      "id": "ee6b42206d89e639ece8edd5d51cfbfe",
+      "title": "Bộ Y tế chỉ cách hoạt động thể lực giảm nguy cơ mắc ung thư, trầm cảm",
+      "link": "https://thanhnien.vn/bo-y-te-chi-cach-hoat-dong-the-luc-giam-nguy-co-mac-ung-thu-tram-cam-185260728181005581.htm",
+      "summary": "Hoạt động thể lực giúp giảm tỷ lệ tử vong do mọi nguyên nhân, đặc biệt tử vong do bệnh tim mạch; giảm nguy cơ mắc ung thư và cải thiện sức khỏe tâm thần. Tuy nhiên, vẫn có khoảng 22,2% người trưởng thành Việt Nam thiếu hoạt động thể lực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T12:58:00+07:00",
+      "fetched": "2026-07-28T20:57:54.353872+07:00"
+    },
+    {
+      "id": "9fa913a0e8bc9762afd1e9903bb27aeb",
+      "title": "Nữ giám đốc cùng người tình huy động 600 tỉ 'nướng' vào sàn ngoại hối",
+      "link": "https://thanhnien.vn/nu-giam-doc-cung-nguoi-tinh-huy-dong-600-ti-nuong-vao-san-ngoai-hoi-185260728192538089.htm",
+      "summary": "Sau khi đầu tư ngoại hối bị thua lỗ, nữ giám đốc cùng bạn trai đã dùng các chiêu trò để huy động 600 tỉ đồng từ 200 người để tiếp tục đầu tư vào sàn giao dịch Exness.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T12:54:00+07:00",
+      "fetched": "2026-07-28T20:57:54.354046+07:00"
+    },
+    {
+      "id": "089d348a8d07a5ac908ecd943b4dff24",
+      "title": "ASEAN Cup 2026, Malaysia 1-0 Lào: Paulo Josue mở tỷ số cho 'Hổ Malay'",
+      "link": "https://thanhnien.vn/lich-thi-dau-hom-nay-doi-tuyen-malaysia-thi-uy-suc-manh-de-bep-lao-de-vuot-mat-thai-lan-185260728121255777.htm",
+      "summary": "Đội tuyển Malaysia sẽ tiếp đón Lào lúc 20 giờ ngày 28.7 ở lượt trận thứ hai bảng B ASEAN Cup 2026. Với lợi thế sân nhà cùng lực lượng và phong độ vượt trội, thầy trò HLV Tan Cheng Hoe đứng trước cơ hội lớn giành trọn 3 điểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T12:54:00+07:00",
+      "fetched": "2026-07-28T20:57:54.354205+07:00"
+    },
+    {
+      "id": "8e4cb58707c5725d30168fc0da85b537",
+      "title": "Bão Noul càn quét nhà máy BYD, một xe thành phẩm bị hư hỏng",
+      "link": "https://thanhnien.vn/bao-noul-can-quet-nha-may-byd-mot-xe-thanh-pham-bi-hu-hong-185260727203642763.htm",
+      "summary": "Cơn bão Noul đổ bộ vào miền Nam Trung Quốc khiến nhà máy sản xuất ô tô BYD bị ảnh hưởng, một số mẫu xe thành phẩm cùng cơ sở vật chất tại nhà máy bị hư hỏng, dây chuyền sản xuất một số dòng xe bị gián đoạn khiến hoạt động giao hàng có thể bị chậm trễ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T12:53:00+07:00",
+      "fetched": "2026-07-28T20:57:54.354354+07:00"
+    },
+    {
+      "id": "25a1adb7c714ae38104d342503d12d3d",
+      "title": "Trùm Chen Zhi bị truy tố thêm tội danh, có thể đối mặt án tử hình",
+      "link": "https://vnexpress.net/trum-chen-zhi-bi-truy-to-them-toi-danh-co-the-doi-mat-an-tu-hinh-5102597.html",
+      "summary": "Trùm lừa đảo Chen Zhi có nguy cơ đối mặt án tử hình khi bị các công tố viên Trung Quốc bổ sung thêm tội cố ý gây thương tích.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T12:37:09+07:00",
+      "fetched": "2026-07-28T20:57:51.441814+07:00"
+    },
+    {
+      "id": "25a1adb7c714ae38104d342503d12d3d",
+      "title": "Trùm Chen Zhi bị truy tố thêm tội danh, có thể đối mặt án tử hình",
+      "link": "https://vnexpress.net/trum-chen-zhi-bi-truy-to-them-toi-danh-co-the-doi-mat-an-tu-hinh-5102597.html",
+      "summary": "Trùm lừa đảo Chen Zhi có nguy cơ đối mặt án tử hình khi bị các công tố viên Trung Quốc bổ sung thêm tội cố ý gây thương tích.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-28T12:37:09+07:00",
+      "fetched": "2026-07-28T20:57:58.118189+07:00"
+    },
+    {
+      "id": "26e85eec07664cf25ab12b29e548cd45",
+      "title": "PNJ đã chi hơn 7.000 tỷ đồng thu mua lại kim cương, vàng",
+      "link": "https://vnexpress.net/pnj-da-chi-hon-7-000-ty-dong-thu-mua-lai-kim-cuong-vang-5102673.html",
+      "summary": "Từ đầu tháng 7, PNJ đã mua lại tất cả sản phẩm từ khách hàng trị giá khoảng 7.062 tỷ đồng, chủ yếu là kim cương, vàng và trang sức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T12:31:33+07:00",
+      "fetched": "2026-07-28T20:57:51.442019+07:00"
+    },
+    {
+      "id": "26e85eec07664cf25ab12b29e548cd45",
+      "title": "PNJ đã chi hơn 7.000 tỷ đồng thu mua lại kim cương, vàng",
+      "link": "https://vnexpress.net/pnj-da-chi-hon-7-000-ty-dong-thu-mua-lai-kim-cuong-vang-5102673.html",
+      "summary": "Từ đầu tháng 7, PNJ đã mua lại tất cả sản phẩm từ khách hàng trị giá khoảng 7.062 tỷ đồng, chủ yếu là kim cương, vàng và trang sức.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-28T12:31:33+07:00",
+      "fetched": "2026-07-28T20:57:59.996189+07:00"
+    },
+    {
+      "id": "331ac7577065abad15e51ac4e228d308",
+      "title": "Trung ương ban hành Quy định mới về 19 điều đảng viên không được làm",
+      "link": "https://vnexpress.net/trung-uong-ban-hanh-quy-dinh-moi-ve-19-dieu-dang-vien-khong-duoc-lam-5102647.html",
+      "summary": "Quy định mới bổ sung việc cấm đảng viên dùng trí tuệ nhân tạo phát tán thông tin sai sự thật; lợi dụng sắp xếp bộ máy, tẩu tán tài sản, hợp thức hóa sai phạm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T12:07:40+07:00",
+      "fetched": "2026-07-28T20:57:51.442191+07:00"
+    },
+    {
+      "id": "67ff3637e977c02d08f1628f62d04a2c",
+      "title": "Quy tắc 5 chữ 'vàng' giúp phát hiện sớm thận suy yếu",
+      "link": "https://vnexpress.net/quy-tac-5-chu-vang-giup-phat-hien-som-than-suy-yeu-5102411.html",
+      "summary": "Nhận biết sớm bệnh thận qua quy tắc 5 dấu hiệu cảnh báo: Bọt (tiểu bọt), Phù (sưng chi), Cao (huyết áp), Thiếu (thiếu máu) và Mệt (mệt mỏi).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T12:00:00+07:00",
+      "fetched": "2026-07-28T20:57:51.442351+07:00"
+    },
+    {
+      "id": "0ff182824f9485a4746b4872bbe5cbd9",
+      "title": "Tổ ấm của Lương Thế Thành - Thúy Diễm",
+      "link": "https://vnexpress.net/to-am-cua-luong-the-thanh-thuy-diem-5099380.html",
+      "summary": "Diễn viên Lương Thế Thành ngưng nhận phim mới, dành trọn thời gian chăm sóc bà xã Thúy Diễm đang mang thai lần hai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T12:00:00+07:00",
+      "fetched": "2026-07-28T20:57:51.442508+07:00"
+    },
+    {
+      "id": "504d047109952b347936804ad4df2fc5",
+      "title": "5 sự thật về muỗi truyền bệnh viêm não Nhật Bản",
+      "link": "https://vnexpress.net/5-su-that-ve-muoi-truyen-benh-viem-nao-nhat-ban-5102599.html",
+      "summary": "Muỗi truyền viêm não Nhật Bản thường hoạt động về đêm, bay xa đến 3,2 km và có thể đưa virus qua nhiều vật chủ trước khi lây sang người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T12:00:00+07:00",
+      "fetched": "2026-07-28T20:57:51.442665+07:00"
+    },
+    {
+      "id": "1e4264601d328b5dd84026a4952413b6",
+      "title": "Phẫu thuật chỉnh sửa khuỷu tay 16 năm bị vẹo",
+      "link": "https://vnexpress.net/phau-thuat-chinh-sua-khuyu-tay-16-nam-bi-veo-5102563.html",
+      "summary": "An, 24 tuổi, gãy vẹo khuỷu tay phải 16 năm, nay được bác sĩ cắt xương chỉnh trục về đúng vị trí.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T12:00:00+07:00",
+      "fetched": "2026-07-28T20:57:51.442820+07:00"
+    },
+    {
+      "id": "67f0293666727ecf72a8db5dee4c710e",
+      "title": "20 VĐV chinh phục Full Aqua trong 3 tiếng tại Hoiana Aquaman 2026",
+      "link": "https://vnexpress.net/hoiana-aquaman-2026-20-vdv-full-aqua-3-tieng-5102416.html",
+      "summary": "Hoiana Aquaman 2026 khép lại sáng 26/7 với 1.500 VĐV, chứng kiến Vũ Đình Duân vô địch lần thứ tư và Nguyễn Thị Kim Cương hoàn tất hat-trick.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T12:00:00+07:00",
+      "fetched": "2026-07-28T20:57:51.442974+07:00"
+    },
+    {
+      "id": "c6ac6caff7d46084933209a2edb21629",
+      "title": "6 quả giàu chất xơ nên ăn thường xuyên",
+      "link": "https://vnexpress.net/6-qua-giau-chat-xo-nen-an-thuong-xuyen-5102390.html",
+      "summary": "Ổi, thanh long, chanh leo, táo và xoài giàu chất xơ, giúp hỗ trợ tiêu hóa, phòng táo bón, góp phần kiểm soát đường huyết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T12:00:00+07:00",
+      "fetched": "2026-07-28T20:57:51.443162+07:00"
+    },
+    {
+      "id": "d31c03b7a10b5699a25b46c1da4503af",
+      "title": "Nhiều người có thể đã chết trong trung tâm thương mại do động đất ở Nhật Bản",
+      "link": "https://vnexpress.net/nhieu-nguoi-co-the-da-chet-trong-trung-tam-thuong-mai-do-dong-dat-o-nhat-ban-5102667.html",
+      "summary": "Nhiều người được cho là đã tử vong bên trong trung tâm thương mại Aeon Mall ở tỉnh Kumamoto, trong khi hàng chục người nhập viện sau trận động đất 7,1 độ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T11:46:05+07:00",
+      "fetched": "2026-07-28T20:57:51.443322+07:00"
+    },
+    {
+      "id": "d31c03b7a10b5699a25b46c1da4503af",
+      "title": "Nhiều người có thể đã chết trong trung tâm thương mại do động đất ở Nhật Bản",
+      "link": "https://vnexpress.net/nhieu-nguoi-co-the-da-chet-trong-trung-tam-thuong-mai-do-dong-dat-o-nhat-ban-5102667.html",
+      "summary": "Nhiều người được cho là đã tử vong bên trong trung tâm thương mại Aeon Mall ở tỉnh Kumamoto, trong khi hàng chục người nhập viện sau trận động đất 7,1 độ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-28T11:46:05+07:00",
+      "fetched": "2026-07-28T20:57:58.118368+07:00"
+    },
+    {
+      "id": "4d833eb6025fef41253a150ae995dd0b",
+      "title": "Cảnh sát sẽ mời người dân cưỡi ngựa kỵ binh, ngồi môtô đặc chủng",
+      "link": "https://vnexpress.net/canh-sat-se-moi-nguoi-dan-cuoi-ngua-ky-binh-ngoi-moto-dac-chung-5102592.html",
+      "summary": "Lần đầu người dân và du khách sẽ được mời cưỡi thử ngựa kỵ binh, ngồi lên dàn môtô đặc chủng 1.800 cc trong vòng chung kết hội thao Công an nhân dân 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T11:23:15+07:00",
+      "fetched": "2026-07-28T20:57:51.443485+07:00"
+    },
+    {
+      "id": "773647bfe8cdedb1089ff80c20bb5fcd",
+      "title": "Rudi Voller: 'Bóng đá Argentina là gương xấu'",
+      "link": "https://vnexpress.net/rudi-voller-bong-da-argentina-la-guong-xau-5102659.html",
+      "summary": "Huyền thoại bóng đá Đức, từng vô địch World Cup 1990 và hiện là Giám đốc Thể thao LĐBĐ Đức (DFB) Rudi Voller đề cao bóng đá Tây Ban Nha, trong khi hạ thấp phong cách chơi của Argentina.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T11:22:31+07:00",
+      "fetched": "2026-07-28T20:57:51.443641+07:00"
+    },
+    {
+      "id": "773647bfe8cdedb1089ff80c20bb5fcd",
+      "title": "Rudi Voller: 'Bóng đá Argentina là gương xấu'",
+      "link": "https://vnexpress.net/rudi-voller-bong-da-argentina-la-guong-xau-5102659.html",
+      "summary": "Huyền thoại bóng đá Đức, từng vô địch World Cup 1990 và hiện là Giám đốc Thể thao LĐBĐ Đức (DFB) Rudi Voller đề cao bóng đá Tây Ban Nha, trong khi hạ thấp phong cách chơi của Argentina.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-28T11:22:31+07:00",
+      "fetched": "2026-07-28T20:58:04.802164+07:00"
+    },
+    {
+      "id": "8594c8c91fe1c55ea749346070a809ae",
+      "title": "Sân bay lớn nhất Thái Lan quá tải, khách xếp hàng dài",
+      "link": "https://vnexpress.net/san-bay-lon-nhat-thai-lan-qua-tai-khach-xep-hang-dai-5102317.html",
+      "summary": "Nhiều khách du lịch, trong đó có cả người Việt, phải đợi 2-3 tiếng mới nhập cảnh được vào Thái Lan ở sân bay Suvarnabhumi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T11:16:45+07:00",
+      "fetched": "2026-07-28T20:57:51.443807+07:00"
+    },
+    {
+      "id": "5f4ed5c95af3b2352e73f0cd7401472e",
+      "title": "Dùng tài khoản người khác 'xoay vòng' tiền, chiếm đoạt 10 tỷ đồng",
+      "link": "https://vnexpress.net/dung-tai-khoan-nguoi-khac-xoay-vong-tien-chiem-doat-10-ty-dong-5102611.html",
+      "summary": "Theo cơ quan điều tra, Nguyễn Thị Kiều Vân mượn tài khoản của người khác nhận tiền góp vốn, rồi dùng chính số tiền này tạo giao dịch giả để lừa nạn nhân 10 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T11:12:53+07:00",
+      "fetched": "2026-07-28T20:57:51.443957+07:00"
+    },
+    {
+      "id": "4abfab177caa2c38e123674c23276d4c",
+      "title": "Lấy chồng vì tiền, giờ tôi phải trả giá",
+      "link": "https://vnexpress.net/lay-chong-vi-tien-gio-toi-phai-tra-gia-5102543.html",
+      "summary": "Nếu ngày ấy tôi không quá nôn nóng muốn có cuộc sống đủ đầy, hôm nay tôi có phải chịu hôn nhân bình lặng nhưng thiếu sự đồng điệu?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T11:00:00+07:00",
+      "fetched": "2026-07-28T20:57:51.444137+07:00"
+    },
+    {
       "id": "213b9e025531f1ea1ec6d3448dae547a",
       "title": "Tìm tổ chức đấu giá bộ kim cương gần 25 tỉ đồng của bà Trương Mỹ Lan",
       "link": "https://thanhnien.vn/tim-to-chuc-dau-gia-bo-kim-cuong-gan-25-ti-dong-cua-ba-truong-my-lan-185260728171335403.htm",
@@ -311,6 +831,16 @@ window.newsData_2026_07_28 = {
       "category": "Tổng hợp",
       "published": "2026-07-28T10:26:00+07:00",
       "fetched": "2026-07-28T17:30:25.585238+07:00"
+    },
+    {
+      "id": "ddfe21c50bffe6437dc1e460ae4e98b9",
+      "title": "Việt Nam tìm động lực tăng trưởng từ những không gian mới",
+      "link": "https://vnexpress.net/viet-nam-tim-dong-luc-tang-truong-tu-nhung-khong-gian-moi-5102633.html",
+      "summary": "Việt Nam cần khai phá những không gian phát triển mới nhờ khoa học, công nghệ và đổi mới sáng tạo, theo các chuyên gia.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-28T10:25:43+07:00",
+      "fetched": "2026-07-28T20:58:03.313813+07:00"
     },
     {
       "id": "c2c2703a59ec4ba96698da956d4ae350",
