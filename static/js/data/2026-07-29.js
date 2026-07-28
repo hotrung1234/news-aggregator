@@ -1,6 +1,6 @@
 window.newsData_2026_07_29 = {
   "date": "2026-07-29",
-  "lastUpdated": "2026-07-29T02:18:10.469154+07:00",
+  "lastUpdated": "2026-07-29T04:04:10.228571+07:00",
   "articles": [
     {
       "id": "9f846d9cfdf5d72a81c71365d852ea6e",
@@ -151,6 +151,16 @@ window.newsData_2026_07_29 = {
       "category": "Tổng hợp",
       "published": "2026-07-29T02:18:05.228645+07:00",
       "fetched": "2026-07-29T02:18:05.228789+07:00"
+    },
+    {
+      "id": "4dd408ddc4751cccbdd9476d87163366",
+      "title": "Áp lực công việc khiến chuyện chăn gối nguội lạnh",
+      "link": "https://vnexpress.net/ap-luc-cong-viec-khien-chuyen-chan-goi-nguoi-lanh-5102248.html",
+      "summary": "Vừa gần gũi vợ, anh Hưng chợt nhớ email chưa trả lời và lo lắng cho cuộc họp sáng hôm sau, khi nhận ra dương vật giảm cương, anh càng cuống cuồng và cuối cùng đành bỏ dở cuộc yêu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-28T20:00:00+07:00",
+      "fetched": "2026-07-29T04:03:59.392291+07:00"
     },
     {
       "id": "9c6ccdc625d8d041a697049095991a36",
