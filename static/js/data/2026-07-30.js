@@ -1,7 +1,27 @@
 window.newsData_2026_07_30 = {
   "date": "2026-07-30",
-  "lastUpdated": "2026-07-30T03:52:14.621372+07:00",
+  "lastUpdated": "2026-07-30T05:57:35.421845+07:00",
   "articles": [
+    {
+      "id": "4943989cf4afa7a5377d495baf7c71ea",
+      "title": "Thời tiết hôm nay 30-7: Nam Bộ và Lâm Đồng nhiều nơi sẽ mưa rất to",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-30-7-nam-bo-va-lam-dong-nhieu-noi-se-mua-rat-to-100260729195921462.htm",
+      "summary": "Hôm nay 30-7, mưa dông vẫn xảy ra ở nhiều nơi, mưa kéo dài kéo theo các loại hình thiên tai có thể xảy ra như lũ quét, sạt lở, dông lốc mạnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T05:57:25.721399+07:00",
+      "fetched": "2026-07-30T05:57:25.721449+07:00"
+    },
+    {
+      "id": "9fa550b618282c7a96b0682fa289e03d",
+      "title": "Tin tức sáng 30-7: TP.HCM sẽ hoàn thành hồ sơ pháp lý đất đai doanh nghiệp nhà nước trong năm 2026",
+      "link": "https://tuoitre.vn/tin-tuc-sang-30-7-tphcm-se-hoan-thanh-ho-so-phap-ly-dat-dai-doanh-nghiep-nha-nuoc-trong-nam-2026-100260729182725035.htm",
+      "summary": "Một số tin tức đáng chú ý về TP.HCM: Xây dựng bộ tiêu chí xã nông thôn mới hiện đại phù hợp đặc thù; Nghiên cứu đưa tro xỉ công nghiệp để sản xuất gạch, bê tông xây dựng công viên, vỉa hè; Hội nghị tham vấn ý kiến về lập quy hoạch tổng thể TP.HCM...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-30T05:57:25.721262+07:00",
+      "fetched": "2026-07-30T05:57:25.721388+07:00"
+    },
     {
       "id": "14543c2a3aa60c3a8c9dc1a6ad31532a",
       "title": "NÓNG: CEO công ty drone quân sự của Nga bị mưu sát",
@@ -181,6 +201,246 @@ window.newsData_2026_07_30 = {
       "category": "Tổng hợp",
       "published": "2026-07-30T00:11:53.013256+07:00",
       "fetched": "2026-07-30T00:11:53.013407+07:00"
+    },
+    {
+      "id": "97a78f3471e3affe8a49ede117535e78",
+      "title": "Nguồn cung xăng dầu có thực sự khan hiếm?",
+      "link": "https://thanhnien.vn/nguon-cung-xang-dau-co-thuc-su-khan-hiem-185260729160642798.htm",
+      "summary": "Trong khi nhiều doanh nghiệp bán lẻ xăng dầu phản ánh không lấy đủ hàng để bán, các thương nhân đầu mối lại khẳng định nguồn hàng vẫn được bảo đảm. Số liệu nhập khẩu và sản xuất trong nước cũng cho thấy nguồn cung không hề thiếu. Vậy điều gì khiến các cây xăng vẫn rơi vào cảnh \"khát\" hàng?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T22:56:00+07:00",
+      "fetched": "2026-07-30T05:57:23.818270+07:00"
+    },
+    {
+      "id": "f0e5576f5f6c0c8c3a1dc93cb8dba345",
+      "title": "Giải pháp nào cho thi tốt nghiệp THPT và và tuyển sinh ĐH đảm bảo công bằng?",
+      "link": "https://thanhnien.vn/giai-phap-nao-cho-thi-tot-nghiep-thpt-va-va-tuyen-sinh-dh-dam-bao-cong-bang-185260729225056096.htm",
+      "summary": "Thời gian vừa qua xuất hiện nhiều ý kiến đề xuất các giải pháp cho vấn đề tốt nghiệp THPT và tuyển sinh ĐH, CĐ. Giải quyết hai vấn đề trên là một công việc rất khó khăn và phức tạp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T22:54:00+07:00",
+      "fetched": "2026-07-30T05:57:23.818396+07:00"
+    },
+    {
+      "id": "21cd65c02ff3a552155592177b9a141b",
+      "title": "Vì sao tiền ùn ùn vào ngân hàng?",
+      "link": "https://thanhnien.vn/vi-sao-tien-un-un-vao-ngan-hang-185260729223941271.htm",
+      "summary": "Lãi suất tiết kiệm cao trong khi giá vàng, chứng khoán cùng sụt giảm và bất động sản thanh khoản kém khiến dòng tiền trên thị trường ùn ùn chảy vào ngân hàng. Điều này giúp các nhà băng có thêm vốn cung cấp cho nền kinh tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T22:53:00+07:00",
+      "fetched": "2026-07-30T05:57:23.818505+07:00"
+    },
+    {
+      "id": "4fe069fb2815e4287a26054c66a13c4e",
+      "title": "Đích đến của giáo dục STEM",
+      "link": "https://thanhnien.vn/dich-den-cua-giao-duc-stem-185260729201232837.htm",
+      "summary": "Mùa tuyển sinh đại học năm 2026 ghi nhận một dấu mốc đáng mừng khi lần đầu tiên STEM trở thành lựa chọn của đa số thí sinh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T22:53:00+07:00",
+      "fetched": "2026-07-30T05:57:23.818612+07:00"
+    },
+    {
+      "id": "cef76ecdcf12fbbc94a1bef8c1e955c9",
+      "title": "Chữ 'Cần': Vượt qua tâm lý nghe ngóng bằng tư duy hành động",
+      "link": "https://thanhnien.vn/chu-can-vuot-qua-tam-ly-nghe-ngong-bang-tu-duy-hanh-dong-185260727164436236.htm",
+      "summary": "Sáp nhập bộ máy là một cuộc cách mạng tinh gọn, nhưng cũng là khúc quanh dễ nảy sinh tâm lý 'nghe ngóng', chờ đợi ở một bộ phận cán bộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T22:51:00+07:00",
+      "fetched": "2026-07-30T05:57:23.818716+07:00"
+    },
+    {
+      "id": "f70d54925848753f8cb24bd5688746d8",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 30.7.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-3072026-18526072922430827.htm",
+      "summary": "Tin tức Vì sao tiền ùn ùn vào ngân hàng?; Từ TP.HCM đi sân bay Long Thành thế nào?; Thử thách cho đội tuyển VN ở FIFA ASEAN Cup 2026... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 30.7.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T22:50:00+07:00",
+      "fetched": "2026-07-30T05:57:23.818821+07:00"
+    },
+    {
+      "id": "45b290f87fb536ac3e41924e6d04b5b9",
+      "title": "Người đàn ông mang cá đi tặng người lạ",
+      "link": "https://thanhnien.vn/nguoi-dan-ong-mang-ca-di-tang-nguoi-la-185260729201004248.htm",
+      "summary": "\"Con tặng chứ không bán!\", câu nói ấy đã trở nên quen thuộc trong những đoạn video của anh Bùi Văn Ánh (34 tuổi, xã Bờ Y, Quảng Ngãi) mỗi khi dừng xe bên đường để hỏi một người xa lạ: \"Cô, chú... có ăn cá không?\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T22:45:00+07:00",
+      "fetched": "2026-07-30T05:57:23.818936+07:00"
+    },
+    {
+      "id": "9cc512b57dd0f2bfd5c301f9eb436078",
+      "title": "Hơn 50% thí sinh đăng ký ngành STEM: Để không chỉ là 'cơn sốt' ngắn hạn",
+      "link": "https://thanhnien.vn/hon-50-thi-sinh-dang-ky-nganh-stem-de-khong-chi-la-con-sot-ngan-han-185260729192822688.htm",
+      "summary": "Để không xảy ra những tình trạng lệch pha giữa cung và cầu trong thị trường lao động việc làm, cần thiết có sự tham gia điều tiết, định hướng bằng các chính sách kịp thời của nhà nước ngay từ khâu tuyển sinh, đào tạo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T22:45:00+07:00",
+      "fetched": "2026-07-30T05:57:23.819042+07:00"
+    },
+    {
+      "id": "86b6efae2c62fb8e0aa6bc8ffa3bd35e",
+      "title": "Bí ẩn 'bức tường' dưới biển Quy Nhơn: Di tích cổ hay tuyệt tác thiên nhiên?",
+      "link": "https://thanhnien.vn/bi-an-buc-tuong-duoi-bien-quy-nhon-di-tich-co-hay-tuyet-tac-thien-nhien-185260729145149238.htm",
+      "summary": "Hai 'bức tường' ở vùng biển Quy Nhơn chỉ lộ diện khi thủy triều rút. Đến nay, các nhà khoa học vẫn chưa thể khẳng định đây là di tích cổ hay tuyệt tác của thiên nhiên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T22:45:00+07:00",
+      "fetched": "2026-07-30T05:57:23.819145+07:00"
+    },
+    {
+      "id": "bf61c6910ac2ee562c7b297ac8d4cb55",
+      "title": "Nga đối diện áp lực mới",
+      "link": "https://thanhnien.vn/nga-doi-dien-ap-luc-moi-185260729222349195.htm",
+      "summary": "Thượng viện Mỹ vừa thông qua dự luật với nhiều biện pháp mạnh nhằm gia tăng áp lực đối với Nga, trong khi Kyiv tiếp tục tìm kiếm sự ủng hộ từ Washington.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T22:33:00+07:00",
+      "fetched": "2026-07-30T05:57:23.819246+07:00"
+    },
+    {
+      "id": "798c16c9a26b48688fdd473e17812aa3",
+      "title": "Dừng phát hành sách về nhà Trần và Đức Thánh Trần để thẩm định lại nội dung",
+      "link": "https://thanhnien.vn/dung-phat-hanh-sach-ve-nha-tran-va-duc-thanh-tran-de-tham-dinh-lai-noi-dung-185260729225932615.htm",
+      "summary": "NXB Hội Nhà văn vừa có thông báo về việc dừng phát hành và hoạt động quảng bá để phục vụ công tác thẩm định lại nội dung đối với 3 xuất bản phẩm thuộc 2 đầu sách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T22:30:00+07:00",
+      "fetched": "2026-07-30T05:57:23.819345+07:00"
+    },
+    {
+      "id": "5212c50ebe77ba018f20f388a07017e2",
+      "title": "Tiêu điểm quốc tế 30.7: Động đất Nhật gây tổn thất lớn | Iran tập kích căn cứ Mỹ",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-307-dong-dat-nhat-gay-ton-that-lon-iran-tap-kich-can-cu-my-185260729221401175.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin Tiêu điểm quốc tế ngày 30.7.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T22:30:00+07:00",
+      "fetched": "2026-07-30T05:57:23.819446+07:00"
+    },
+    {
+      "id": "1a3a73f0f6a35a94fc61f5ada0d426e2",
+      "title": "5 người ở TP.HCM cùng trúng 5,2 tỉ xổ số miền Nam nhờ dãy số may mắn",
+      "link": "https://thanhnien.vn/5-nguoi-o-tphcm-cung-trung-52-ti-xo-so-mien-nam-nho-day-so-may-man-185260729104026984.htm",
+      "summary": "Nhờ dãy số may mắn, 5 người ở TP.HCM cùng trúng 5,2 tỉ đồng xổ số miền Nam và được 1 đại lý đổi thưởng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T22:30:00+07:00",
+      "fetched": "2026-07-30T05:57:23.819546+07:00"
+    },
+    {
+      "id": "14bc5856da45c715721eea13b844c617",
+      "title": "Tử vi ngày 30 tháng 7: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-30-thang-7-con-giap-nao-may-man-hom-nay-18526073000314382.htm",
+      "summary": "Tử vi ngày 30 tháng 7 mang đến những gợi ý tham khảo cho 12 con giáp. Có những điều không cần quá lớn lao để tạo nên khác biệt, chỉ cần xuất hiện vào đúng thời điểm. Hãy tin vào sự chuẩn bị của mình và đừng bỏ lỡ những tín hiệu tích cực đang đến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T22:15:00+07:00",
+      "fetched": "2026-07-30T05:57:23.819646+07:00"
+    },
+    {
+      "id": "4072d7d4c55b42c46fb48e083ad23a21",
+      "title": "Lý do Iran chưa nối lại đàm phán với Mỹ",
+      "link": "https://vnexpress.net/ly-do-iran-chua-noi-lai-dam-phan-voi-my-5102795.html",
+      "summary": "Dù giao tranh tạm lắng, Iran không vội đàm phán lại với Mỹ, dường như vì tin rằng họ có thể chịu áp lực tốt hơn và đang nắm lợi thế tại Hormuz.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T22:00:00+07:00",
+      "fetched": "2026-07-30T05:57:20.971340+07:00"
+    },
+    {
+      "id": "62d4939c17686744278c22c4ec3aa293",
+      "title": "Cô gái bán cua online đưa đặc sản Cà Mau sang Mỹ",
+      "link": "https://vnexpress.net/co-gai-ban-cua-online-dua-dac-san-ca-mau-sang-my-5102711.html",
+      "summary": "Từ vài đơn cua bán qua mạng khi còn là sinh viên, Trương Ngọc Ánh xây dựng cơ sở đặc sản doanh thu 20 tỷ đồng mỗi năm, xuất khẩu chính ngạch sang Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T22:00:00+07:00",
+      "fetched": "2026-07-30T05:57:20.971469+07:00"
+    },
+    {
+      "id": "b4703bfba4b6cbfd4d8c69f541105652",
+      "title": "'Internet đang chết'",
+      "link": "https://vnexpress.net/internet-dang-chet-5102219.html",
+      "summary": "Nhiều công ty an ninh mạng ghi nhận lưu lượng truy cập từ bot vượt con người, khiến thuyết \"Internet chết\" không còn bị coi là viển vông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T22:00:00+07:00",
+      "fetched": "2026-07-30T05:57:20.971586+07:00"
+    },
+    {
+      "id": "33f43e3543dd7bf54d1a4eb028192e84",
+      "title": "Bác sĩ cảnh báo sai lầm nguy hại sức khỏe khi ngủ bật quạt mùa nóng",
+      "link": "https://vnexpress.net/bac-si-canh-bao-sai-lam-nguy-hai-suc-khoe-khi-ngu-bat-quat-mua-nong-5101971.html",
+      "summary": "Thói quen duy trì luồng gió từ quạt thổi trực tiếp vào người suốt đêm không chỉ làm khô da mà còn kích hoạt các bệnh dị ứng, làm suy yếu hệ miễn dịch đường hô hấp mà nhiều người không ngờ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T22:00:00+07:00",
+      "fetched": "2026-07-30T05:57:20.971702+07:00"
+    },
+    {
+      "id": "80f9a677f44defd5cc84cee9a8fe16b0",
+      "title": "Avore EX - xe máy điện phong cách nakedbike giá từ 1.300 USD",
+      "link": "https://vnexpress.net/avore-ex-xe-may-dien-phong-cach-nakedbike-gia-tu-1-300-usd-5102791.html",
+      "summary": "Mẫu xe máy điện kiểu dáng xe côn tay, lắp môtơ điện công suất 14 mã lực, tốc độ tối đa 100-114 km, phạm vi hoạt động 160-260 km.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T22:00:00+07:00",
+      "fetched": "2026-07-30T05:57:20.971810+07:00"
+    },
+    {
+      "id": "b3a6c8737515f3f6c0194ae57eb5b041",
+      "title": "Nỗ lực kiểm soát sau vụ AI “nổi loạn”",
+      "link": "https://thanhnien.vn/no-luc-kiem-soat-sau-vu-ai-noi-loan-185260729222003153.htm",
+      "summary": "Hơn 1.000 nhân viên từ các công ty trí tuệ nhân tạo (AI) hàng đầu đã ký kiến nghị kêu gọi chính phủ Mỹ thúc đẩy hợp tác quốc tế nhằm làm chậm tốc độ phát triển các mô hình AI tiên tiến nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T22:00:00+07:00",
+      "fetched": "2026-07-30T05:57:23.819747+07:00"
+    },
+    {
+      "id": "4072d7d4c55b42c46fb48e083ad23a21",
+      "title": "Lý do Iran chưa nối lại đàm phán với Mỹ",
+      "link": "https://vnexpress.net/ly-do-iran-chua-noi-lai-dam-phan-voi-my-5102795.html",
+      "summary": "Dù giao tranh tạm lắng, Iran không vội đàm phán lại với Mỹ, dường như vì tin rằng họ có thể chịu áp lực tốt hơn và đang nắm lợi thế tại Hormuz.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-29T22:00:00+07:00",
+      "fetched": "2026-07-30T05:57:28.183571+07:00"
+    },
+    {
+      "id": "b4703bfba4b6cbfd4d8c69f541105652",
+      "title": "'Internet đang chết'",
+      "link": "https://vnexpress.net/internet-dang-chet-5102219.html",
+      "summary": "Nhiều công ty an ninh mạng ghi nhận lưu lượng truy cập từ bot vượt con người, khiến thuyết \"Internet chết\" không còn bị coi là viển vông.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-29T22:00:00+07:00",
+      "fetched": "2026-07-30T05:57:33.508975+07:00"
+    },
+    {
+      "id": "b38d8879215f506c19fa5f7e3d79d6fb",
+      "title": "Cấm chồng triệt sản vì sợ 'đổi tính nết'",
+      "link": "https://vnexpress.net/cam-chong-triet-san-vi-so-doi-tinh-net-5092438.html",
+      "summary": "Hơn một tháng nay, anh Hùng và vợ không nói chuyện, vì anh muốn đi triệt sản còn bạn đời lại hoài nghi chồng ngoại tình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T21:28:47+07:00",
+      "fetched": "2026-07-30T05:57:20.971930+07:00"
+    },
+    {
+      "id": "3fb65f6f3756b441dbd9c2b7387e42e9",
+      "title": "Ôtô vượt lấn làn 'dọa' ngã người đi xe máy",
+      "link": "https://vnexpress.net/oto-vuot-lan-lan-doa-nga-nguoi-di-xe-may-5102956.html",
+      "summary": "Chiếc xe tải lấn làn vượt ở khúc cua khiến người đi xe máy ở hướng ngược chiều giật mình tự ngã, hôm 29/7 tại QL3 qua đoạn đền Thác Giềng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-29T21:00:00+07:00",
+      "fetched": "2026-07-30T05:57:20.972038+07:00"
     },
     {
       "id": "6a2ba9a0207f7a817dc57ed2459f8b1a",
