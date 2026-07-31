@@ -1,7 +1,157 @@
 window.newsData_2026_07_31 = {
   "date": "2026-07-31",
-  "lastUpdated": "2026-07-31T20:56:47.438351+07:00",
+  "lastUpdated": "2026-07-31T23:01:01.643498+07:00",
   "articles": [
+    {
+      "id": "e6719208b1ad5e46fe1bd73441636ffb",
+      "title": "Chính phủ ban hành nghị quyết đơn giản hóa thủ tục cấp mã số vùng trồng, gỡ khó cho nông sản, sầu riêng xuất khẩu",
+      "link": "https://tuoitre.vn/chinh-phu-ban-hanh-nghi-quyet-don-gian-hoa-thu-tuc-cap-ma-so-vung-trong-go-kho-cho-nong-san-sau-rieng-xuat-khau-100260731203202942.htm",
+      "summary": "Từ hôm nay (31-7), việc cấp và quản lý mã số vùng trồng, mã số cơ sở đóng gói được thực hiện toàn trình trên môi trường mạng và rút ngắn thời gian cấp mã.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T23:00:55.306814+07:00",
+      "fetched": "2026-07-31T23:00:55.306856+07:00"
+    },
+    {
+      "id": "8baf18a5459d79264ca55ade68c47523",
+      "title": "Mạng lưới các lãnh sự danh dự - cánh tay nối dài không thể thiếu của đối ngoại Việt Nam",
+      "link": "https://tuoitre.vn/mang-luoi-cac-lanh-su-danh-du-canh-tay-noi-dai-khong-the-thieu-cua-doi-ngoai-viet-nam-100260731203707624.htm",
+      "summary": "Không phải cán bộ và cũng không được nhận lương từ ngân sách, các lãnh sự danh dự Việt Nam ở nước ngoài nhiều năm qua vẫn luôn bền bỉ cống hiến vì tình cảm với mảnh đất chữ S.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T23:00:55.306764+07:00",
+      "fetched": "2026-07-31T23:00:55.306807+07:00"
+    },
+    {
+      "id": "42a111a71941dd4c7d6e9ca706c99eb4",
+      "title": "Bạn đọc Báo điện tử Tuổi Trẻ chung tay hỗ trợ gia đình vợ chồng mất do bị điện giật",
+      "link": "https://tuoitre.vn/ban-doc-bao-dien-tu-tuoi-tre-chung-tay-ho-tro-gia-dinh-vo-chong-mat-do-bi-dien-giat-100260731211628981.htm",
+      "summary": "Trước câu chuyện đau lòng hai vợ chồng tử vong vì điện giật, một bạn đọc Báo điện tử Tuổi Trẻ đã gửi 30 triệu đồng hỗ trợ, mong san sẻ phần nào mất mát với người ở lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T23:00:55.306714+07:00",
+      "fetched": "2026-07-31T23:00:55.306757+07:00"
+    },
+    {
+      "id": "be75bfc24677b6fd68bf15bb570b9489",
+      "title": "Ban nhạc tàu sân bay Mỹ biểu diễn ca khúc 'Việt Nam ơi' bên cầu Rồng Đà Nẵng",
+      "link": "https://tuoitre.vn/ban-nhac-tau-san-bay-my-bieu-dien-ca-khuc-viet-nam-oi-ben-cau-rong-da-nang-100260731205235387.htm",
+      "summary": "Đông đảo du khách, người dân tập trung ở khuôn viên bờ bắc cầu Rồng Đà Nẵng tối 31-7 để thưởng thức chương trình văn nghệ do 9 thành viên ban nhạc tàu sân bay Mỹ USS George Washington trình diễn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T23:00:55.306662+07:00",
+      "fetched": "2026-07-31T23:00:55.306707+07:00"
+    },
+    {
+      "id": "dd8856269cfa0d425f79a1cab3b7dcd2",
+      "title": "Đà Nẵng tổ chức lễ truy điệu, an táng 4 hài cốt liệt sĩ vừa được tìm thấy tại hang Đá Sập",
+      "link": "https://tuoitre.vn/da-nang-to-chuc-le-truy-dieu-an-tang-4-hai-cot-liet-si-vua-duoc-tim-thay-tai-hang-da-sap-100260731202441982.htm",
+      "summary": "Đà Nẵng tổ chức lễ viếng, truy điệu và an táng 4 hài cốt liệt sĩ được tìm thấy tại hang Đá Sập (núi Lâm Tây, xã Hà Nha).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T23:00:55.306611+07:00",
+      "fetched": "2026-07-31T23:00:55.306654+07:00"
+    },
+    {
+      "id": "ab90c7c86353b081c3c3ba1dcc5947dc",
+      "title": "Hơn 10.500 runner khởi động VPBank HCMC Music Half Marathon 2026",
+      "link": "https://tuoitre.vn/hon-10500-runner-khoi-dong-vpbank-hcmc-music-half-marathon-2026-100260731205917693.htm",
+      "summary": "Hơn 10.500 vận động viên trong và ngoài nước đã có mặt trong ngày đầu nhận race-kit, khởi động VPBank Ho Chi Minh City Music Half Marathon 2026. Bộ vật phẩm cùng chuỗi hoạt động lễ hội, âm nhạc tạo không khí sôi động trước ngày thi đấu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T23:00:55.306557+07:00",
+      "fetched": "2026-07-31T23:00:55.306603+07:00"
+    },
+    {
+      "id": "5a9c887d92429d351f6bb05db75c0219",
+      "title": "Bóng chuyền nữ Việt Nam thắng vất vả Philippines",
+      "link": "https://tuoitre.vn/bong-chuyen-nu-viet-nam-thang-vat-va-philippines-100260731214159386.htm",
+      "summary": "Tối 31-7, tại trận ra quân chặng 1 SEA V.Cup 2026, tuyển bóng chuyền nữ Việt Nam chật vật để vượt qua Philippines.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T23:00:55.306506+07:00",
+      "fetched": "2026-07-31T23:00:55.306550+07:00"
+    },
+    {
+      "id": "5f9aad08637ea0bb41eea8b9c4e7ef66",
+      "title": "HLV Kim Sang Sik: 'Đình Bắc chưa đạt những gì ban huấn luyện chuẩn bị và kỳ vọng'",
+      "link": "https://tuoitre.vn/hlv-kim-sang-sik-dinh-bac-chua-dat-nhung-gi-ban-huan-luyen-chuan-bi-va-ky-vong-100260731213218894.htm",
+      "summary": "HLV tuyển Việt Nam Kim Sang Sik đã nói như vậy trong cuộc họp báo sau trận Việt Nam hòa Singapore 0-0 ở lượt trận thứ 3 bảng A ASEAN Cup 2026 trên sân Mỹ Đình (Hà Nội).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T23:00:55.306449+07:00",
+      "fetched": "2026-07-31T23:00:55.306497+07:00"
+    },
+    {
+      "id": "78bb6547ca99a4653f35c85cbdd57404",
+      "title": "HLV tuyển Singapore: 'Chúng tôi kỳ vọng chiến thắng nhưng hài lòng với 1 trận hòa'",
+      "link": "https://tuoitre.vn/hlv-tuyen-singapore-chung-toi-ky-vong-chien-thang-nhung-hai-long-voi-1-tran-hoa-100260731214035739.htm",
+      "summary": "Đó là phát biểu của HLV tuyển Singapore Gavin Lee trong cuộc họp báo sau trận hòa 0-0 với chủ nhà Việt Nam ở lượt trận thứ 3 bảng A ASEAN Cup 2026 trên sân Mỹ Đình (Hà Nội) tối 31-7.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T23:00:55.306395+07:00",
+      "fetched": "2026-07-31T23:00:55.306441+07:00"
+    },
+    {
+      "id": "e032cf8465c59cdc30f66a6c3dc978dc",
+      "title": "Đình Bắc không hài lòng khi bị HLV Kim Sang Sik thay ra ở trận gặp Singapore",
+      "link": "https://tuoitre.vn/dinh-bac-khong-hai-long-khi-bi-hlv-kim-sang-sik-thay-ra-o-tran-gap-singapore-100260731214035315.htm",
+      "summary": "Tiền đạo Nguyễn Đình Bắc cho thấy rõ sự không hài lòng khi phải rời sân sớm ở trận đội tuyển Việt Nam gặp Singapore tối 31-7, trên sân Mỹ Đình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T23:00:55.306342+07:00",
+      "fetched": "2026-07-31T23:00:55.306387+07:00"
+    },
+    {
+      "id": "12cc28f8a32bd0d566ddaff6e406fc95",
+      "title": "Chạy sát tốc độ tối đa vẫn bị xe tải dí còi cả cây số, văn hóa giao thông đang đi về đâu?",
+      "link": "https://tuoitre.vn/chay-sat-toc-do-toi-da-van-bi-xe-tai-di-coi-ca-cay-so-van-hoa-giao-thong-dang-di-ve-dau-100260731214315772.htm",
+      "summary": "Giữa đoạn cao tốc Cam Lộ - La Sơn đang nâng cấp, nhiều tài xế phản ánh liên tục bị xe phía sau bấm còi, nháy đèn, bám sát đuôi dù đang chạy đúng tốc độ tối đa quy định, khiến người cầm lái rơi vào trạng thái căng thẳng, ức chế và tiềm ẩn nguy cơ tai nạn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T23:00:55.306282+07:00",
+      "fetched": "2026-07-31T23:00:55.306334+07:00"
+    },
+    {
+      "id": "44d1d5afd523373e6198a58c87b5d99c",
+      "title": "60.000 người từ châu Phi tràn sang, Thủ tướng Tây Ban Nha nói bị 'xâm phạm toàn vẹn lãnh thổ'",
+      "link": "https://tuoitre.vn/60000-nguoi-tu-chau-phi-tran-sang-thu-tuong-tay-ban-nha-noi-bi-xam-pham-toan-ven-lanh-tho-100260731203419831.htm",
+      "summary": "Thủ tướng Pedro Sanchez mô tả làn sóng người di cư ồ ạt tràn vào Ceuta là \"cuộc tấn công\" và là \"hành vi xâm phạm toàn vẹn lãnh thổ Tây Ban Nha\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T23:00:55.306214+07:00",
+      "fetched": "2026-07-31T23:00:55.306272+07:00"
+    },
+    {
+      "id": "bcef411b4657fbe0b9f128561aa43a30",
+      "title": "Apple, Amazon báo kết quả kinh doanh vượt kỳ vọng, trấn an lo ngại 'đốt tiền' cho AI",
+      "link": "https://tuoitre.vn/apple-amazon-bao-ket-qua-kinh-doanh-vuot-ky-vong-tran-an-lo-ngai-dot-tien-cho-ai-100260731214706127.htm",
+      "summary": "Kết quả kinh doanh vượt kỳ vọng của hai tập đoàn công nghệ Apple và Amazon đã phần nào trấn an thị trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T23:00:55.306158+07:00",
+      "fetched": "2026-07-31T23:00:55.306206+07:00"
+    },
+    {
+      "id": "5121b826eac3e8e66e093b70df658cd1",
+      "title": "Bảng xếp hạng ASEAN Cup 2026: Việt Nam nằm dưới Singapore và Indonesia",
+      "link": "https://tuoitre.vn/bang-xep-hang-asean-cup-2026-viet-nam-nam-duoi-singapore-va-indonesia-100260731183728003.htm",
+      "summary": "Tuyển Việt Nam đã rơi xuống vị trí thứ 3 bảng A sau khi lượt trận thứ 3 ASEAN Cup 2026 khép lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T23:00:55.306094+07:00",
+      "fetched": "2026-07-31T23:00:55.306150+07:00"
+    },
+    {
+      "id": "3f3fb2a5e8a74837a8529895fd0d85c6",
+      "title": "Thiếu tướng Trần Xuân Mạnh giữ chức Tư lệnh Quân khu 1",
+      "link": "https://tuoitre.vn/thieu-tuong-tran-xuan-manh-giu-chuc-tu-lenh-quan-khu-1-100260731215340742.htm",
+      "summary": "Thủ tướng Lê Minh Hưng vừa ký quyết định bổ nhiệm Thiếu tướng Trần Xuân Mạnh, Phó tư lệnh kiêm Tham mưu trưởng Quân khu 1, giữ chức Tư lệnh Quân khu 1. Quyết định có hiệu lực từ ngày 31-7-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T23:00:55.305943+07:00",
+      "fetched": "2026-07-31T23:00:55.306083+07:00"
+    },
     {
       "id": "7f620fbfa00b07be4145402fa3b81409",
       "title": "Sau đợt tăng vọt, thấy gì khi lãi suất vay mượn qua đêm bất ngờ xuống còn 0,7%?",
@@ -301,6 +451,306 @@ window.newsData_2026_07_31 = {
       "category": "Tổng hợp",
       "published": "2026-07-31T17:35:09.274362+07:00",
       "fetched": "2026-07-31T17:35:09.274508+07:00"
+    },
+    {
+      "id": "656e9a112503190b2c57c1abba9c18f7",
+      "title": "Highlight đội tuyển Việt Nam 0-0 Singapore: Phung phí cơ hội | ASEAN Cup 2026",
+      "link": "https://thanhnien.vn/highlight-doi-tuyen-viet-nam-0-0-singapore-phung-phi-co-hoi-asean-cup-2026-185260731225854241.htm",
+      "summary": "Không thể đánh bại Singapore trên sân Mỹ Đình, đội tuyển Việt Nam lỡ cơ hội chiếm ngôi đầu bảng A ASEAN Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T15:58:00+07:00",
+      "fetched": "2026-07-31T23:00:53.398862+07:00"
+    },
+    {
+      "id": "64123409f34093b904f3001a5f455dff",
+      "title": "Đội tuyển Việt Nam phung phí cơ hội, chia điểm tiếc nuối trước Singapore",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-phung-phi-co-hoi-chia-diem-tiec-nuoi-truoc-singapore-185260731223443462.htm",
+      "summary": "Đội tuyển Việt Nam tạo ra thế trận lấn lướt, tung ra hàng loạt pha dứt điểm và hai lần đưa bóng tìm đến xà ngang, nhưng vẫn không thể xuyên thủng hàng phòng ngự kiên cường của Singapore.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T15:43:00+07:00",
+      "fetched": "2026-07-31T23:00:53.399012+07:00"
+    },
+    {
+      "id": "68d6f66ca4c81a3f5101c055dfbb60c9",
+      "title": "HLV Kim Sang-sik trả lời Thanh Niên: 'Đình Bắc bị thay vì chưa hoàn thành nhiệm vụ, Tài Lộc đá tốt'",
+      "link": "https://thanhnien.vn/hlv-kim-sang-sik-tra-loi-thanh-nien-dinh-bac-bi-thay-vi-chua-hoan-thanh-nhiem-vu-tai-loc-da-tot-185260731223339754.htm",
+      "summary": "HLV Kim Sang-sik lý giải quyết định thay Đình Bắc, đồng thời mong học trò chơi tốt hơn ở những trận sau, khi đội tuyển Việt Nam gặp Indonesia và Campuchia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T15:42:00+07:00",
+      "fetched": "2026-07-31T23:00:53.399142+07:00"
+    },
+    {
+      "id": "5fed9acc01fb739afbef550089b2181d",
+      "title": "Báo Đông Nam Á: ‘Việt Nam áp đảo Singapore nhưng phung phí quá nhiều cơ hội vàng’",
+      "link": "https://thanhnien.vn/bao-dong-nam-a-viet-nam-ap-dao-singapore-nhung-phung-phi-qua-nhieu-co-hoi-vang-18526073122291969.htm",
+      "summary": "Đội tuyển Việt Nam bị Singapore cầm hòa 0-0 trên sân Mỹ Đình ở lượt trận thứ 3 bảng A ASEAN Cup 2026. Kết quả này khiến truyền thông Đông Nam Á đồng loạt nhận định thầy trò HLV Kim Sang-sik đã bỏ lỡ cơ hội bứt phá, đồng thời đẩy cuộc đua vào bán kết trở nên căng thẳng hơn bao giờ hết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T15:36:00+07:00",
+      "fetched": "2026-07-31T23:00:53.399288+07:00"
+    },
+    {
+      "id": "079d73f01ec01fe663082310ea7f6e58",
+      "title": "Siết chuẩn nhiên liệu giúp Trung Quốc giảm ô nhiễm, tiết kiệm gần 24 tỷ USD",
+      "link": "https://vnexpress.net/siet-chuan-nhien-lieu-giup-trung-quoc-giam-o-nhiem-tiet-kiem-gan-24-ty-usd-5103937.html",
+      "summary": "Trung Quốc chuyển đổi nhiên liệu từ China V lên VI cách đây 7 năm, giúp tiết kiệm gần 24 tỷ USD chi phí y tế, nhờ cải thiện chất lượng không khí.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-31T15:35:47+07:00",
+      "fetched": "2026-07-31T23:00:57.982652+07:00"
+    },
+    {
+      "id": "a219ddf99a5707b79fedf3f6b4379b5f",
+      "title": "Chấm điểm đội tuyển Việt Nam 0-0 Singapore: Hên - Bắc - Son đều dưới 7, Lê Giang Patrik cao nhất",
+      "link": "https://thanhnien.vn/cham-diem-doi-tuyen-viet-nam-0-0-singapore-hen-bac-son-deu-duoi-7-le-giang-patrik-cao-nhat-185260731222009692.htm",
+      "summary": "Theo thống kê từ Sofascore, đội tuyển Việt Nam được chấm điểm trung bình 6,94, nhỉnh hơn đôi chút so với mức 6,9 của Singapore trong trận hòa không bàn thắng trên sân Mỹ Đình tối 31.7. Và đương nhiên, các ngôi sao tấn công trong tay HLV Kim Sang-sik đều không có điểm số cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T15:27:00+07:00",
+      "fetched": "2026-07-31T23:00:53.399433+07:00"
+    },
+    {
+      "id": "d19663c6a5713876ebd7490d9324273f",
+      "title": "HLV Singapore: 'Chúng tôi đã không thể thắng Việt Nam, nhưng hòa cũng rất đáng tự hào'",
+      "link": "https://thanhnien.vn/hlv-singapore-chung-toi-da-khong-the-thang-viet-nam-nhung-hoa-cung-rat-dang-tu-hao-18526073121385549.htm",
+      "summary": "HLV Gavin Lee của Singapore hài lòng với trận hòa 0-0 trước đội tuyển Việt Nam, qua đó bảo vệ ngôi đầu bảng A ASEAN Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T15:25:00+07:00",
+      "fetched": "2026-07-31T23:00:53.399556+07:00"
+    },
+    {
+      "id": "73b46b2ae445ad013750e15f45b8292e",
+      "title": "Hàng nghìn phương tiện ùn ứ trên cầu Vĩnh Tuy",
+      "link": "https://vnexpress.net/hang-nghin-phuong-tien-un-u-tren-cau-vinh-tuy-5103931.html",
+      "summary": "Ảnh hưởng bởi ngập và lòng đường dưới chân cầu bị thu hẹp phục vụ thi công hầm chui, hàng nghìn phương tiện ùn ứ trên cầu Vĩnh Tuy tối 31/7.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T15:24:51+07:00",
+      "fetched": "2026-07-31T23:00:50.360693+07:00"
+    },
+    {
+      "id": "6af8cf1608698397169d15a4ad269bd2",
+      "title": "Bảng xếp hạng mới nhất ASEAN Cup 2026: Việt Nam tụt xuống thứ 3, phải thắng Indonesia mới đi tiếp",
+      "link": "https://thanhnien.vn/bang-xep-hang-moi-nhat-asean-cup-2026-viet-nam-tut-xuong-thu-3-phai-thang-indonesia-moi-di-tiep-185260731215724865.htm",
+      "summary": "Bảng xếp hạng mới nhất ASEAN Cup 2026 cho thấy đội tuyển Việt Nam tụt hạng ở bảng A, buộc phải thắng Indonesia ở vòng tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T15:12:00+07:00",
+      "fetched": "2026-07-31T23:00:53.399674+07:00"
+    },
+    {
+      "id": "d3a3697a791b4460521d9a306219c2e9",
+      "title": "HLV Kim Sang-sik họp báo sau trận hòa Singapore",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-hop-bao-sau-tran-hoa-singapore-5103833.html",
+      "summary": "HLV Kim Sang-sik đưa ra những đánh giá sau trận Việt Nam hòa Singapore 0-0 ở lượt ba bảng A ASEAN Cup 2026 trên sân Mỹ Đình tối 31/7.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T15:05:43+07:00",
+      "fetched": "2026-07-31T23:00:50.360850+07:00"
+    },
+    {
+      "id": "823414665cac4721bfb9e5ff434294f1",
+      "title": "HLV Kim Sang-sik: 'Đình Bắc chưa làm tốt nhiệm vụ'",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-dinh-bac-chua-lam-tot-nhiem-vu-5103833.html",
+      "summary": "HLV Kim Sang-sik đưa ra những đánh giá sau trận Việt Nam hòa Singapore 0-0 ở lượt ba bảng A ASEAN Cup 2026 trên sân Mỹ Đình tối 31/7.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-31T15:05:43+07:00",
+      "fetched": "2026-07-31T23:01:01.631986+07:00"
+    },
+    {
+      "id": "f484d8f4ecbbf16af8c8fa14b0262649",
+      "title": "Lịch trình di chuyển khắc nghiệt của đội tuyển Việt Nam sang Indonesia: Chỉ được nghỉ vài giờ, sẽ rất buồn ngủ",
+      "link": "https://thanhnien.vn/lich-trinh-di-chuyen-khac-nghiet-cua-doi-tuyen-viet-nam-sang-indonesia-chi-duoc-nghi-vai-gio-se-rat-buon-ngu-185260731200808335.htm",
+      "summary": "Ngay sau khi khép lại trận hòa 0-0 với Singapore tối 31.7 trên sân Mỹ Đình, đội tuyển Việt Nam sẽ phải lập tức chuẩn bị cho chuyến làm khách đầy thử thách trước Indonesia ở lượt trận thứ 4 vòng bảng ASEAN Cup 2026, với quỹ thời gian nghỉ ngơi cực kỳ eo hẹp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T15:02:00+07:00",
+      "fetched": "2026-07-31T23:00:53.399792+07:00"
+    },
+    {
+      "id": "e43b3f4bfe0f035e74be4f4de16f281f",
+      "title": "Vi phạm chính sách dân số, kế hoạch hóa gia đình vẫn có thể được kết nạp Đảng",
+      "link": "https://thanhnien.vn/vi-pham-chinh-sach-dan-so-ke-hoach-hoa-gia-dinh-van-co-the-duoc-ket-nap-dang-18526073120202299.htm",
+      "summary": "Theo kết luận của Bộ Chính trị, Ban Bí thư, các ban thường vụ tỉnh ủy, thành ủy, đảng ủy trực thuộc Trung ương căn cứ kết luận của Ban Bí thư để triển khai thực hiện việc xem xét, kết nạp đảng viên đối với những người vi phạm chính sách dân số và kế hoạch hóa gia đình theo quy định hiện hành của Đản...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T15:00:00+07:00",
+      "fetched": "2026-07-31T23:00:53.399915+07:00"
+    },
+    {
+      "id": "c9e4e0272d54a58583003735d532affc",
+      "title": "Đội tuyển Việt Nam hoàn toàn bế tắc, bị Singapore chia điểm quá đáng tiếc: Đại chiến Indonesia ngày nào?",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-hoan-toan-be-tac-bi-singapore-chia-diem-qua-dang-tiec-dai-chien-indonesia-ngay-nao-185260731215341551.htm",
+      "summary": "Được thi đấu trên sân Mỹ Đình và được đánh giá cao hơn, đội tuyển Việt Nam nhập cuộc với quyết tâm giành trọn 3 điểm. Tuy nhiên, trước một Singapore chơi kỷ luật, tổ chức tốt và không ngại đáp trả, thầy trò HLV Kim Sang-sik phải chấp nhận trận hòa 0-0 dù tạo ra rất nhiều cơ hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T14:56:00+07:00",
+      "fetched": "2026-07-31T23:00:53.400031+07:00"
+    },
+    {
+      "id": "e7770fdabd22f501d486e6d9ad7be9dd",
+      "title": "Hơn 37.500 di dân tràn vào Tây Ban Nha đã trở lại Morocco",
+      "link": "https://vnexpress.net/hon-37-500-di-dan-tran-vao-tay-ban-nha-da-tro-lai-morocco-5103916.html",
+      "summary": "Chính quyền Tây Ban Nha cho biết hơn 37.500 di dân tràn vào vùng lãnh thổ Ceuta đã quay đầu về Morocco.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T14:54:58+07:00",
+      "fetched": "2026-07-31T23:00:50.360990+07:00"
+    },
+    {
+      "id": "e7770fdabd22f501d486e6d9ad7be9dd",
+      "title": "Hơn 37.500 di dân tràn vào Tây Ban Nha đã trở lại Morocco",
+      "link": "https://vnexpress.net/hon-37-500-di-dan-tran-vao-tay-ban-nha-da-tro-lai-morocco-5103916.html",
+      "summary": "Chính quyền Tây Ban Nha cho biết hơn 37.500 di dân tràn vào vùng lãnh thổ Ceuta đã quay đầu về Morocco.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-31T14:54:58+07:00",
+      "fetched": "2026-07-31T23:00:56.882136+07:00"
+    },
+    {
+      "id": "e20d4aacf1162d9de51e9a730506fc71",
+      "title": "HLV Kim Sang-sik khó chịu với Đình Bắc",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-kho-chiu-voi-dinh-bac-5103919.html",
+      "summary": "HLV đội tuyển Việt Nam tỏ vẻ không hài lòng khi Nguyễn Đình Bắc rời sân cuối hiệp một trận đấu Singapore ở ASEAN Cup 2026, tối 31/7.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T14:48:00+07:00",
+      "fetched": "2026-07-31T23:00:50.361125+07:00"
+    },
+    {
+      "id": "e20d4aacf1162d9de51e9a730506fc71",
+      "title": "HLV Kim Sang-sik khó chịu với Đình Bắc",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-kho-chiu-voi-dinh-bac-5103919.html",
+      "summary": "HLV đội tuyển Việt Nam tỏ vẻ không hài lòng khi Nguyễn Đình Bắc rời sân cuối hiệp một trận đấu Singapore ở ASEAN Cup 2026, tối 31/7.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-31T14:48:00+07:00",
+      "fetched": "2026-07-31T23:01:01.632152+07:00"
+    },
+    {
+      "id": "dde8d6a04cb1f302891e150db09f7d93",
+      "title": "Golden Gate không còn là công ty đại chúng",
+      "link": "https://vnexpress.net/golden-gate-khong-con-la-cong-ty-dai-chung-5103922.html",
+      "summary": "Ủy ban Chứng khoán vừa hủy tư cách đại chúng của Golden Gate do chưa thực hiện các thủ tục đăng ký chứng khoán, đăng ký giao dịch cổ phiếu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T14:34:16+07:00",
+      "fetched": "2026-07-31T23:00:50.361253+07:00"
+    },
+    {
+      "id": "dde8d6a04cb1f302891e150db09f7d93",
+      "title": "Golden Gate không còn là công ty đại chúng",
+      "link": "https://vnexpress.net/golden-gate-khong-con-la-cong-ty-dai-chung-5103922.html",
+      "summary": "Ủy ban Chứng khoán vừa hủy tư cách đại chúng của Golden Gate do chưa thực hiện các thủ tục đăng ký chứng khoán, đăng ký giao dịch cổ phiếu.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-31T14:34:16+07:00",
+      "fetched": "2026-07-31T23:00:57.982804+07:00"
+    },
+    {
+      "id": "09d9ef718979e7258e6bd678f99ece96",
+      "title": "HLV Kim Sang-sik nhiều lần ôm đầu khi Việt Nam phung phí cơ hội",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-nhieu-lan-om-dau-khi-viet-nam-phung-phi-co-hoi-5103925.html",
+      "summary": "HLV Kim Sang-sik nhiều lần ôm đầu khi tuyển Việt Nam liên tiếp phung phí cơ hội trước Singapore ở trận thứ hai bảng A ASEAN Cup 2026 trên sân Mỹ Đình, tối 31/7.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T14:34:07+07:00",
+      "fetched": "2026-07-31T23:00:50.361402+07:00"
+    },
+    {
+      "id": "149918a9314f9813553a40bbfa267be5",
+      "title": "Đội tuyển bóng chuyền nữ Việt Nam thắng vất vả Philippines ở chặng 1 SEA V.Cup 2026",
+      "link": "https://thanhnien.vn/doi-tuyen-bong-chuyen-nu-viet-nam-thang-vat-va-philippines-o-chang-1-sea-vcup-2026-185260731195855804.htm",
+      "summary": "Đội tuyển bóng chuyền nữ Việt Nam giành chiến thắng 3-1 trước Philippines ở trận khai mạc chặng 1 giải bóng chuyền nữ Đông Nam Á (SEA V.Cup) 2026 diễn ra hôm nay tại nhà thi đấu Đông Anh (Hà Nội).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T14:29:00+07:00",
+      "fetched": "2026-07-31T23:00:53.400153+07:00"
+    },
+    {
+      "id": "44eb00f4300dcff94a3396034319c19e",
+      "title": "Ngân hàng quốc doanh tiếp tục được 'nới thanh khoản'",
+      "link": "https://vnexpress.net/ngan-hang-quoc-doanh-tiep-tuc-duoc-noi-thanh-khoan-5103806.html",
+      "summary": "Ngân hàng Nhà nước lần thứ hai trong năm nay điều chỉnh cách tính tỷ lệ cho vay trên tổng tiền gửi, giúp nhóm nhà băng quốc doanh có thêm dư địa cung ứng vốn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T14:28:07+07:00",
+      "fetched": "2026-07-31T23:00:50.361529+07:00"
+    },
+    {
+      "id": "44eb00f4300dcff94a3396034319c19e",
+      "title": "Ngân hàng quốc doanh tiếp tục được 'nới thanh khoản'",
+      "link": "https://vnexpress.net/ngan-hang-quoc-doanh-tiep-tuc-duoc-noi-thanh-khoan-5103806.html",
+      "summary": "Ngân hàng Nhà nước lần thứ hai trong năm nay điều chỉnh cách tính tỷ lệ cho vay trên tổng tiền gửi, giúp nhóm nhà băng quốc doanh có thêm dư địa cung ứng vốn.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-31T14:28:07+07:00",
+      "fetched": "2026-07-31T23:00:57.982943+07:00"
+    },
+    {
+      "id": "8b6299f47134b44446df20d37f6c1f7d",
+      "title": "Triệt phá đường dây bơm chiết pod chill chứa ma túy do người nước ngoài cầm đầu",
+      "link": "https://thanhnien.vn/triet-pha-duong-day-bom-chiet-pod-chill-chua-ma-tuy-do-nguoi-nuoc-ngoai-cam-dau-185260731204524632.htm",
+      "summary": "Công an TP.HCM triệt phá thành công đường dây mua bán pod chill chứa ma túy do nhóm đối tượng người Singapore và Malaysia cầm đầu, khởi tố 65 bị can.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T14:27:00+07:00",
+      "fetched": "2026-07-31T23:00:53.400288+07:00"
+    },
+    {
+      "id": "5399979347d037b699beb90606c6a3c5",
+      "title": "Phim 'Chiếc kén' đổi tên, chuẩn bị ra rạp sau vụ Trương Ngọc Ánh bị bắt",
+      "link": "https://thanhnien.vn/phim-chiec-ken-doi-ten-chuan-bi-ra-rap-sau-vu-truong-ngoc-anh-bi-bat-185260731210428772.htm",
+      "summary": "Sau ồn ào của Trương Ngọc Ánh, đoàn phim 'Chiếc kén' gây chú ý khi thông báo đổi tên, đồng thời ấn định ra rạp vào tháng 9.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T14:23:00+07:00",
+      "fetched": "2026-07-31T23:00:53.400413+07:00"
+    },
+    {
+      "id": "5e64a0f991a1ab098e9830d0cfaa57f0",
+      "title": "41 phút đáng quên của Đình Bắc…",
+      "link": "https://thanhnien.vn/41-phut-dang-quen-cua-dinh-bac-185260731211242257.htm",
+      "summary": "Sau màn tỏa sáng trước Timor Leste với cú hat-trick, Đình Bắc bỏ lỡ 3 cơ hội và bị thay ra sớm trong trận đấu vòng bảng ASEAN Cup giữa đội tuyển Việt Nam và Singapore.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T14:21:00+07:00",
+      "fetched": "2026-07-31T23:00:53.400535+07:00"
+    },
+    {
+      "id": "b9854a34477903483a3589047dcfc8ea",
+      "title": "Sao Việt chuộng chân váy lửng ngày hè",
+      "link": "https://vnexpress.net/sao-viet-chuong-chan-vay-lung-ngay-he-5103552.html",
+      "summary": "Hồ Ngọc Hà, Chi Pu, Tóc Tiên kết hợp chân váy dài ngang đầu gối với áo tắm, tank top trong mùa nóng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T14:20:00+07:00",
+      "fetched": "2026-07-31T23:00:50.361656+07:00"
+    },
+    {
+      "id": "52ed4252930adde84be92e1390d38e4c",
+      "title": "Uống paracetamol quá liều, bé trai 5 tuổi suy gan nguy kịch",
+      "link": "https://thanhnien.vn/uong-paracetamol-qua-lieu-be-trai-5-tuoi-suy-gan-nguy-kich-185260731200009007.htm",
+      "summary": "Bé trai 5 tuổi bị suy gan cấp, phải thở máy, thay huyết tương và lọc máu sau khi uống paracetamol quá liều.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T14:20:00+07:00",
+      "fetched": "2026-07-31T23:00:53.400654+07:00"
+    },
+    {
+      "id": "be16b0438567652b5e04c87a22a16e8a",
+      "title": "Người vợ ngoan hiền của tôi ngoại tình sau lần họp lớp",
+      "link": "https://vnexpress.net/nguoi-vo-ngoan-hien-cua-toi-ngoai-tinh-sau-lan-hop-lop-5103760.html",
+      "summary": "Vợ nói cuộc sống hôn nhân quá đơn điệu, còn người kia luôn biết cách lắng nghe và quan tâm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T14:00:00+07:00",
+      "fetched": "2026-07-31T23:00:50.361781+07:00"
     },
     {
       "id": "366423225475030ef14e1d55b30420ee",
@@ -773,6 +1223,16 @@ window.newsData_2026_07_31 = {
       "fetched": "2026-07-31T20:56:46.398488+07:00"
     },
     {
+      "id": "589a36667c2d3f10c304ccf2e8487a04",
+      "title": "Mảng di động của Samsung lần đầu lỗ",
+      "link": "https://vnexpress.net/mang-di-dong-cua-samsung-lan-dau-lo-5103714.html",
+      "summary": "Giá chip nhớ tăng khiến Samsung, công ty smartphone dẫn đầu thế giới, cũng không duy trì được lợi nhuận.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-31T12:08:36+07:00",
+      "fetched": "2026-07-31T23:01:00.684654+07:00"
+    },
+    {
       "id": "04493f1630edd5af17d410a5595abe3f",
       "title": "Lý do con người bất động khi gặp nguy hiểm",
       "link": "https://vnexpress.net/ly-do-con-nguoi-bat-dong-khi-gap-nguy-hiem-5103710.html",
@@ -811,6 +1271,16 @@ window.newsData_2026_07_31 = {
       "category": "Thể thao",
       "published": "2026-07-31T11:30:49+07:00",
       "fetched": "2026-07-31T20:56:47.427701+07:00"
+    },
+    {
+      "id": "27470ebf50074fdc6ceb156906032a1d",
+      "title": "Việt Nam bị Singapore cầm hòa ở ASEAN Cup",
+      "link": "https://vnexpress.net/viet-nam-vs-singapore-5103811-tong-thuat.html",
+      "summary": "Đội tuyển Việt Nam phung phí cơ hội, bị Singapore cầm hòa 0-0 ở lượt ba bảng A ASEAN Cup 2026 trên sân Mỹ Đình.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-31T11:30:49+07:00",
+      "fetched": "2026-07-31T23:01:01.632345+07:00"
     },
     {
       "id": "b6436b2b750cf813d5b587b5263df63b",
