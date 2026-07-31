@@ -1,6 +1,6 @@
 window.newsData_2026_08_01 = {
   "date": "2026-08-01",
-  "lastUpdated": "2026-08-01T02:19:39.044440+07:00",
+  "lastUpdated": "2026-08-01T04:00:54.987195+07:00",
   "articles": [
     {
       "id": "e032cf8465c59cdc30f66a6c3dc978dc",
@@ -151,6 +151,16 @@ window.newsData_2026_08_01 = {
       "category": "Tổng hợp",
       "published": "2026-08-01T02:19:30.025398+07:00",
       "fetched": "2026-08-01T02:19:30.025540+07:00"
+    },
+    {
+      "id": "e6a0fd28f2a9fdd554ab272a29e72aa0",
+      "title": "'Nhạc trưởng' Singapore đặc biệt khen ngợi Quang Hải, tự hào trận hòa đội tuyển Việt Nam",
+      "link": "https://thanhnien.vn/nhac-truong-singapore-dac-biet-khen-ngoi-quang-hai-tu-hao-tran-hoa-doi-tuyen-viet-nam-185260801005819108.htm",
+      "summary": "Dù chỉ giành 1 điểm trên sân Mỹ Đình, tiền vệ Kyoga vẫn dành những lời khen đặc biệt cho Nguyễn Quang Hải, đồng thời khẳng định Singapore hoàn toàn xứng đáng với kết quả hòa 0-0 trước đội tuyển Việt Nam ở bảng A ASEAN Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T21:00:00+07:00",
+      "fetched": "2026-08-01T04:00:46.737533+07:00"
     },
     {
       "id": "731181aa9448910efe577e9521855acc",
