@@ -1,7 +1,157 @@
 window.newsData_2026_07_31 = {
   "date": "2026-07-31",
-  "lastUpdated": "2026-07-31T06:02:26.150323+07:00",
+  "lastUpdated": "2026-07-31T09:30:23.108404+07:00",
   "articles": [
+    {
+      "id": "5642ca785f4007456fc014ba61856d83",
+      "title": "Chuẩn bị cho tuổi già từ tuổi 40: Cần gì để tuổi già có sức khỏe, thu nhập và phẩm giá?",
+      "link": "https://tuoitre.vn/chuan-bi-cho-tuoi-gia-tu-tuoi-40-can-gi-de-tuoi-gia-co-suc-khoe-thu-nhap-va-pham-gia-100260730141538034.htm",
+      "summary": "Bộ Y tế đang lấy ý kiến dự thảo Thông tư hướng dẫn thực hiện Chương trình mục tiêu quốc gia về chăm sóc sức khỏe, dân số và phát triển giai đoạn 2026 đến 2035. Một trong những nội dung đáng chú ý là đề xuất hướng dẫn người từ 40 tuổi trở lên chuẩn bị cho tuổi già.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T09:30:18.111942+07:00",
+      "fetched": "2026-07-31T09:30:18.111996+07:00"
+    },
+    {
+      "id": "f28741a4c1ff87131fb2ecc9fa7b143d",
+      "title": "The Fullton Regal - Khi thiên nhiên trở thành mạch nguồn nuôi dưỡng nếp sống",
+      "link": "https://tuoitre.vn/the-fullton-regal-khi-thien-nhien-tro-thanh-mach-nguon-nuoi-duong-nep-song-10026073011492318.htm",
+      "summary": "Tại The Fullton Regal, Courtyard Villa (biệt thự đơn lập) và Park Mansion (biệt thự công viên) đưa thiên nhiên vượt khỏi vai trò cảnh quan để hòa quyện trong bản sắc sống của gia chủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T09:30:18.111865+07:00",
+      "fetched": "2026-07-31T09:30:18.111931+07:00"
+    },
+    {
+      "id": "491e9fc3ae795ff2ae4f387ab0ca7f38",
+      "title": "UEH.ISB tiếp cận những xu hướng giáo dục mới từ mạng lưới đối tác toàn cầu",
+      "link": "https://tuoitre.vn/uehisb-tiep-can-nhung-xu-huong-giao-duc-moi-tu-mang-luoi-doi-tac-toan-cau-100260730172519005.htm",
+      "summary": "Thông qua chuỗi hoạt động UEH Global 50+ Partners in 5 Continents, Đại học Kinh tế TP.HCM (UEH) và Trường Tài năng UEH.ISB đang từng bước tiếp cận nhiều xu hướng đổi mới sáng tạo và mô hình Đại học Hạnh phúc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T09:30:18.111792+07:00",
+      "fetched": "2026-07-31T09:30:18.111854+07:00"
+    },
+    {
+      "id": "f7c4afbe5314d7288f912ad0b77be2b0",
+      "title": "Tin học Đại Dương đồng hành chương trình Trao tặng Phòng học số",
+      "link": "https://tuoitre.vn/tin-hoc-dai-duong-dong-hanh-chuong-trinh-trao-tang-phong-hoc-so-100260730194704185.htm",
+      "summary": "Ngày 25-7, nhân kỷ niệm 79 năm Ngày Thương binh - Liệt sĩ (27-7-1947 - 27-7-2026), Thành ủy - HĐND - UBND - Ủy ban MTTQ Việt Nam TPHCM đã tổ chức chương trình thăm và trao tặng Phòng học số cho một số trường học trên địa bàn huyện Côn Đảo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T09:30:18.111720+07:00",
+      "fetched": "2026-07-31T09:30:18.111781+07:00"
+    },
+    {
+      "id": "81e1dc8d10840b2479aada757aa2351f",
+      "title": "Tổ chức nhiều hoạt động vui chơi cho con của công nhân tại các khu trọ",
+      "link": "https://tuoitre.vn/to-chuc-nhieu-hoat-dong-vui-choi-cho-con-cua-cong-nhan-tai-cac-khu-tro-100260731070552401.htm",
+      "summary": "Tại một số phường, xã của TP.HCM, các chiến sĩ tình nguyện hè đã thiết kế hoạt động vui chơi cho con công nhân ở khu trọ, đưa các em đến với trải nghiệm 'Một ngày làm nông dân'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T09:30:18.111648+07:00",
+      "fetched": "2026-07-31T09:30:18.111709+07:00"
+    },
+    {
+      "id": "c9a5b5ce4293d101f9ea4b04dede2245",
+      "title": "Đọc nhanh 31-7: Giá vàng tăng mạnh; xuất hiện thêm doanh nghiệp Việt tài sản trên 1 triệu tỉ đồng",
+      "link": "https://tuoitre.vn/doc-nhanh-31-7-gia-vang-tang-manh-xuat-hien-them-doanh-nghiep-viet-tai-san-tren-1-trieu-ti-dong-100260731081344299.htm",
+      "summary": "Sáng nay, giá vàng thế giới phục hồi mạnh, mỗi ounce giao dịch quanh mức 4.091 USD, tăng 52 USD so với phiên trước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T09:30:18.111579+07:00",
+      "fetched": "2026-07-31T09:30:18.111637+07:00"
+    },
+    {
+      "id": "b6828449ad179a4fc2b7d4b9e1850009",
+      "title": "Cityview Signature hưởng lợi từ đà phát triển hạ tầng và đô thị Biên Hòa",
+      "link": "https://tuoitre.vn/cityview-signature-huong-loi-tu-da-phat-trien-ha-tang-va-do-thi-bien-hoa-100260730200841641.htm",
+      "summary": "Nhờ quy hoạch bài bản, lực đẩy từ hạ tầng liên kết vùng, Biên Hòa đang bước vào giai đoạn bứt phá thành tâm điểm an cư và đầu tư nổi bật tại TP Đồng Nai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T09:30:18.111511+07:00",
+      "fetched": "2026-07-31T09:30:18.111569+07:00"
+    },
+    {
+      "id": "9c4440017ddcc833336e1cff5b316d22",
+      "title": "PNJ duy trì đà tăng trưởng trong nửa đầu năm 2026",
+      "link": "https://tuoitre.vn/pnj-duy-tri-da-tang-truong-trong-nua-dau-nam-2026-100260731082347582.htm",
+      "summary": "Công ty Cổ phần Vàng Bạc Đá Quý Phú Nhuận (PNJ) vừa công bố kết quả kinh doanh 6 tháng đầu năm 2026 với doanh thu thuần đạt 25.729 tỉ đồng (tăng 49,4% so với cùng kỳ) và lợi nhuận sau thuế đạt 1.256 tỉ đồng (tăng 6,3% so với cùng kỳ).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T09:30:18.111437+07:00",
+      "fetched": "2026-07-31T09:30:18.111501+07:00"
+    },
+    {
+      "id": "c917d0e1cebe44e5818733609fe00242",
+      "title": "Có thuốc nào phòng ngừa ung thư?",
+      "link": "https://tuoitre.vn/co-thuoc-nao-phong-ngua-ung-thu-100260731081808929.htm",
+      "summary": "Khi ca mắc ung thư gia tăng, nhiều người khỏe mạnh hoặc bệnh nhân đã điều trị ung thư ổn định băn khoăn liệu có thuốc để phòng ngừa ung thư tái phát hoặc không xuất hiện hay không?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T09:30:18.111369+07:00",
+      "fetched": "2026-07-31T09:30:18.111427+07:00"
+    },
+    {
+      "id": "4a3e6cc5ff7474c5dc421d06a780d84c",
+      "title": "Honda SH bản giới hạn 200 chiếc ra mắt: Giá từ 235 triệu, dàn áo được thợ Việt xử lý",
+      "link": "https://tuoitre.vn/honda-sh-ban-gioi-han-200-chiec-ra-mat-gia-tu-235-trieu-dan-ao-duoc-tho-viet-xu-ly-100260731083115703.htm",
+      "summary": "Với số lượng sản xuất giới hạn, thiết kế khác biệt và giá bán từ 235 triệu đồng, Honda SH Super Vetro 2-in-1 hướng đến nhóm khách hàng có nhu cầu sưu tầm hoặc tìm kiếm sự khác biệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T09:30:18.111298+07:00",
+      "fetched": "2026-07-31T09:30:18.111358+07:00"
+    },
+    {
+      "id": "b112cab06e7989eef4b16758377afa69",
+      "title": "Laser hé lộ gần 400 công trình bí ẩn của nền văn minh cổ từng có tới 3 triệu dân ở Amazon",
+      "link": "https://tuoitre.vn/laser-he-lo-gan-400-cong-trinh-bi-an-cua-nen-van-minh-co-tung-co-toi-3-trieu-dan-o-amazon-100260730153805822.htm",
+      "summary": "Các nhà khảo cổ phát hiện gần 400 công trình đất khổng lồ ẩn dưới tán rừng Amazon, hé lộ quy mô đáng kinh ngạc của một nền văn minh cổ và làm thay đổi hiểu biết về lịch sử con người ở rừng mưa nhiệt đới lớn nhất thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T09:30:18.111223+07:00",
+      "fetched": "2026-07-31T09:30:18.111287+07:00"
+    },
+    {
+      "id": "5d4cb2d2ae5b9bfa473c92889c8ceb44",
+      "title": "Dự kiến làm cầu đi bộ băng qua đường Trần Phú ở Nha Trang",
+      "link": "https://tuoitre.vn/du-kien-lam-cau-di-bo-bang-qua-duong-tran-phu-o-nha-trang-100260731075203501.htm",
+      "summary": "Khánh Hòa dự kiến làm cầu đi bộ băng qua đường Trần Phú (phường Nha Trang) để giảm ùn tắc giao thông, mở ra hướng phát triển không gian đô thị hiện đại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T09:30:18.111098+07:00",
+      "fetched": "2026-07-31T09:30:18.111210+07:00"
+    },
+    {
+      "id": "04ba15eab9d44b9ba7071e1abafc3fef",
+      "title": "Nghiên cứu mới: Dung dịch bôi vài giây giúp chặn sâu răng ở trẻ",
+      "link": "https://tuoitre.vn/nghien-cuu-moi-dung-dich-boi-vai-giay-giup-chan-sau-rang-o-tre-100260730123406434.htm",
+      "summary": "Một loại dung dịch chỉ mất vài giây để bôi lên răng có thể ngăn hơn một nửa số lỗ sâu răng tiếp tục phát triển, giúp nhiều trẻ nhỏ không phải khoan răng, tiêm thuốc tê hoặc gây mê.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T09:30:18.111020+07:00",
+      "fetched": "2026-07-31T09:30:18.111084+07:00"
+    },
+    {
+      "id": "5779c46830ad66f85b3aff626bf51ec4",
+      "title": "Quy trình cấp mã vùng trồng, giấy kiểm nghiệm sầu riêng xuất khẩu sang Trung Quốc thế nào?",
+      "link": "https://tuoitre.vn/quy-trinh-cap-ma-vung-trong-giay-kiem-nghiem-sau-rieng-xuat-khau-sang-trung-quoc-the-nao-100260730182952725.htm",
+      "summary": "Theo quy định để xuất khẩu sầu riêng sang Trung Quốc, người dân, hợp tác xã và doanh nghiệp phải được cấp mã số vùng trồng, mã số cơ sở đóng gói sau khi đáp ứng các yêu cầu kỹ thuật và được Tổng cục Hải quan Trung Quốc phê duyệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T09:30:18.110939+07:00",
+      "fetched": "2026-07-31T09:30:18.111009+07:00"
+    },
+    {
+      "id": "366e631ca43b95656de767efea104ae7",
+      "title": "Hội An lần đầu tiên tổ chức Lễ hội đèn lồng quốc tế",
+      "link": "https://tuoitre.vn/hoi-an-lan-dau-tien-to-chuc-le-hoi-den-long-quoc-te-100260731074951212.htm",
+      "summary": "UBND TP Đà Nẵng vừa ban hành kế hoạch về tổ chức Lễ hội đèn lồng quốc tế Hội An 2026 với chủ đề \"Hội An - Sắc màu di sản\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T09:30:18.110785+07:00",
+      "fetched": "2026-07-31T09:30:18.110924+07:00"
+    },
     {
       "id": "82d4db06dc0a1d1519e7caebef561a11",
       "title": "Thời tiết hôm nay 31-7: Mưa to từ Thanh Hóa đến Quảng Ngãi, cao nguyên Trung Bộ và Nam Bộ",
@@ -41,6 +191,406 @@ window.newsData_2026_07_31 = {
       "category": "Tổng hợp",
       "published": "2026-07-31T06:02:19.287882+07:00",
       "fetched": "2026-07-31T06:02:19.288019+07:00"
+    },
+    {
+      "id": "f430bf4087a54d95ffdecffc384cc311",
+      "title": "Johnny Trí Nguyễn: Từng lo lắng, quan ngại về Tuấn Trần",
+      "link": "https://thanhnien.vn/johnny-tri-nguyen-tung-lo-lang-quan-ngai-ve-tuan-tran-18526073108321333.htm",
+      "summary": "Ở cương vị là đạo diễn hành động kiêm diễn viên trong phim Hộ linh tráng sĩ - Bí ẩn mộ vua Đinh, Johnny Trí Nguyễn mong muốn các diễn viên tự thực hiện cảnh hành động. Tuy nhiên, việc Tuấn Trần gặp chấn thương nghiêm trọng ở cuối phim khiến cho Johnny Trí Nguyễn không khỏi lo lắng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T02:28:00+07:00",
+      "fetched": "2026-07-31T09:30:16.700176+07:00"
+    },
+    {
+      "id": "c0431246535c18c43ea11e05a4203ca6",
+      "title": "Liệu bạn có giải mã được câu thành ngữ kinh điển này?",
+      "link": "https://vnexpress.net/lieu-ban-co-giai-ma-duoc-cau-thanh-ngu-kinh-dien-nay-5103603.html",
+      "summary": "Thành ngữ tượng trưng cho ý chí kiên cường, sự nỗ lực vượt qua mọi khó khăn, thử thách khắc nghiệt để đạt đến thành công vang dội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T02:24:21+07:00",
+      "fetched": "2026-07-31T09:30:13.989804+07:00"
+    },
+    {
+      "id": "12223fcd99eadf6e18f54f50715a21d5",
+      "title": "Xe máy điện mới của Yamaha lộ diện",
+      "link": "https://vnexpress.net/xe-may-dien-moi-cua-yamaha-lo-dien-5103400.html",
+      "summary": "Mẫu xe ga điện thiết kế nhỏ gọn, phong cách thể thao, pin đặt dưới yên, truyền động dây đai, ra mắt trong 2027.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T02:20:00+07:00",
+      "fetched": "2026-07-31T09:30:13.989985+07:00"
+    },
+    {
+      "id": "96fd779e0845897fd5b45264f796842e",
+      "title": "Chồng ngất xỉu vì sốc tâm lý khi chứng kiến vợ 'vượt cạn'",
+      "link": "https://vnexpress.net/chong-ngat-xiu-vi-soc-tam-ly-khi-chung-kien-vo-vuot-can-5103566.html",
+      "summary": "Vừa nghe tiếng khóc chào đời của con, người bố 28 tuổi đột ngột ngất xỉu, khiến các bác sĩ phải lập tức chuyển sang cấp cứu tại chỗ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T02:19:14+07:00",
+      "fetched": "2026-07-31T09:30:13.990182+07:00"
+    },
+    {
+      "id": "4c07662fdd33f5990289a335c834b9db",
+      "title": "Khói trước, lửa sau",
+      "link": "https://thanhnien.vn/khoi-truoc-lua-sau-185260730225705253.htm",
+      "summary": "Sau nhiều lần úp mở và tuyên cáo, Mỹ chính thức bắt đầu xem xét và cân đối sự hiện diện quân sự của nước này ở châu Âu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T02:19:00+07:00",
+      "fetched": "2026-07-31T09:30:16.700358+07:00"
+    },
+    {
+      "id": "dabcbe4d46fdf437319868eb2aeec5a8",
+      "title": "HLV Timor Leste không muốn đấu võ với Indonesia",
+      "link": "https://vnexpress.net/hlv-timor-leste-khong-muon-dau-vo-voi-indonesia-5103582.html",
+      "summary": "HLV Ze Pedro khẳng định Timor Leste sẽ thi đấu quyết liệt nhưng không chơi bạo lực trong cuộc chạm trán Indonesia ở lượt ba bảng A ASEAN Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T02:17:10+07:00",
+      "fetched": "2026-07-31T09:30:13.990352+07:00"
+    },
+    {
+      "id": "dabcbe4d46fdf437319868eb2aeec5a8",
+      "title": "HLV Timor Leste không muốn đấu võ với Indonesia",
+      "link": "https://vnexpress.net/hlv-timor-leste-khong-muon-dau-vo-voi-indonesia-5103582.html",
+      "summary": "HLV Ze Pedro khẳng định Timor Leste sẽ thi đấu quyết liệt nhưng không chơi bạo lực trong cuộc chạm trán Indonesia ở lượt ba bảng A ASEAN Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-31T02:17:10+07:00",
+      "fetched": "2026-07-31T09:30:23.101591+07:00"
+    },
+    {
+      "id": "e90d2015a1fc6ff5209f8bbdc1af5851",
+      "title": "Lệnh cấm và cuộc chiến 'giành lại trẻ em' từ màn hình",
+      "link": "https://vnexpress.net/lenh-cam-va-cuoc-chien-gianh-lai-tre-em-tu-man-hinh-5102713.html",
+      "summary": "Dịp hè, chị Ngọc Hạnh đón ba cháu từ quê ra Hà Nội chơi, nhưng kỳ nghỉ đã bị \"đánh cắp\" bởi những chiếc điện thoại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T02:09:28+07:00",
+      "fetched": "2026-07-31T09:30:13.990515+07:00"
+    },
+    {
+      "id": "10aaa3787f2f1c875d17e65b358b938e",
+      "title": "Không cần ép cân khắc nghiệt, minh tinh Đài Loan giảm 4 kg nhờ bí quyết đơn giản",
+      "link": "https://vnexpress.net/khong-can-ep-can-khac-nghiet-minh-tinh-dai-loan-giam-4-kg-nho-bi-quyet-don-gian-5103506.html",
+      "summary": "Từng nặng 78 kg, nữ ca sĩ Trương Tú Khanh giảm còn 53 kg nhờ áp dụng 4 quy tắc vận động và ăn uống khoa học mà không cần can thiệp y khoa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T02:04:48+07:00",
+      "fetched": "2026-07-31T09:30:13.990677+07:00"
+    },
+    {
+      "id": "04d4d8656b9042dcc909d2814061c397",
+      "title": "Giá USD hôm nay 31.7.2026: Ngân hàng giảm mạnh",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-3172026-ngan-hang-giam-manh-185260731085753387.htm",
+      "summary": "Các ngân hàng thương mại giảm mạnh giá USD. Đồng bạc xanh trên thị trường thế giới cũng quay đầu đi xuống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T02:04:00+07:00",
+      "fetched": "2026-07-31T09:30:16.700540+07:00"
+    },
+    {
+      "id": "1ba76c8ae9e21385330f1fcee76a3bca",
+      "title": "Thêm hãng ôtô Trung Quốc sắp vào Việt Nam",
+      "link": "https://vnexpress.net/them-hang-oto-trung-quoc-sap-vao-viet-nam-5103306.html",
+      "summary": "Forthing (thuộc Dongfeng) và Li Auto dự kiến mở bán xe tại Việt Nam vào cuối 2026, đầu 2027.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T02:02:46+07:00",
+      "fetched": "2026-07-31T09:30:13.990838+07:00"
+    },
+    {
+      "id": "7baa6cee5eea52ca3e669d71a083eb7f",
+      "title": "Giá vàng hôm nay 31.7.2026: Tăng vọt 1,5 triệu đồng nhưng người mua vẫn lỗ",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-3172026-tang-vot-15-trieu-dong-nhung-nguoi-mua-van-lo-185260731065054385.htm",
+      "summary": "Giá vàng tiếp tục đà tăng khi lạm phát của Mỹ ở mức thấp nhưng người mua trong nước vẫn thua lỗ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T02:02:00+07:00",
+      "fetched": "2026-07-31T09:30:16.700699+07:00"
+    },
+    {
+      "id": "b9298a8fc54047cb9be507299f47556e",
+      "title": "VNG lãi kỷ lục",
+      "link": "https://vnexpress.net/vng-lai-ky-luc-5103512.html",
+      "summary": "VNG lãi gần 530 tỷ đồng trong quý gần nhất nhờ đóng góp của một khoản thu nhập tài chính bất thường, qua đó lập đỉnh mới từ khi lên sàn chứng khoán.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T02:00:00+07:00",
+      "fetched": "2026-07-31T09:30:13.990996+07:00"
+    },
+    {
+      "id": "e81ddcbb7fc2d88ae8469d09217a704f",
+      "title": "Tôi mệt mỏi vì mang tư duy của một nhà tuyển dụng đi tìm bạn đời",
+      "link": "https://vnexpress.net/toi-met-moi-vi-mai-miet-di-tim-nguoi-yeu-theo-mot-ban-danh-sach-tieu-chuan-5103393.html",
+      "summary": "Tôi nên làm gì đây khi mà tuổi 27 đã gần kề, bạn bè đều là đã lập gia đình, tôi sợ lớn tuổi sẽ khó sinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T02:00:00+07:00",
+      "fetched": "2026-07-31T09:30:13.991190+07:00"
+    },
+    {
+      "id": "f31815e20c0e2249e575193f4e2bad58",
+      "title": "GS Vũ Minh Khương: 'Đừng đo thành công 5G bằng số trạm BTS'",
+      "link": "https://vnexpress.net/gs-vu-minh-khuong-dung-do-thanh-cong-5g-bang-so-tram-bts-5102725.html",
+      "summary": "Thành công của 5G cần được đo bằng giá trị tạo ra cho nền kinh tế, thay vì chỉ nhìn vào số trạm BTS, vùng phủ hay số thuê bao, theo GS.TS Vũ Minh Khương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T02:00:00+07:00",
+      "fetched": "2026-07-31T09:30:13.991357+07:00"
+    },
+    {
+      "id": "7a5bec15781902e2d282fac5be4a794c",
+      "title": "Thương hiệu Việt nâng chuẩn vận hành khi kinh doanh trên Shopee",
+      "link": "https://vnexpress.net/thuong-hieu-viet-nang-chuan-van-hanh-khi-kinh-doanh-tren-shopee-5103571.html",
+      "summary": "Royal và Bitex nâng cao năng lực vận hành trên Shopee, từ chuẩn hóa quy trình đến ứng dụng công cụ số, nhằm đáp ứng kỳ vọng ngày càng cao của người tiêu dùng Việt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T02:00:00+07:00",
+      "fetched": "2026-07-31T09:30:13.991520+07:00"
+    },
+    {
+      "id": "aa549c8e7cfacf40c31eb3ca032970d1",
+      "title": "TPBank ra mắt tính năng quản trị chi phí doanh nghiệp",
+      "link": "https://vnexpress.net/tpbank-ra-mat-tinh-nang-quan-tri-chi-phi-doanh-nghiep-5103570.html",
+      "summary": "TPBank bổ sung tính năng Biz Expense trên nền tảng TPBank Biz, hỗ trợ doanh nghiệp quản lý chi phí, đáp ứng yêu cầu thanh toán không dùng tiền mặt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T02:00:00+07:00",
+      "fetched": "2026-07-31T09:30:13.991684+07:00"
+    },
+    {
+      "id": "328636bef63640ce5ab9c9e00df8140b",
+      "title": "Phẫu thuật '5 trong 1' chữa ngủ ngáy, viêm xoang tái phát",
+      "link": "https://vnexpress.net/phau-thuat-5-trong-1-chua-ngu-ngay-viem-xoang-tai-phat-5103545.html",
+      "summary": "Anh Nam, 50 tuổi, ngủ ngáy to, viêm đa xoang tái phát nhiều năm, bác sĩ phát hiện mắc 5 bệnh mũi họng, được phẫu thuật xử lý trong một lần mổ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T02:00:00+07:00",
+      "fetched": "2026-07-31T09:30:13.991839+07:00"
+    },
+    {
+      "id": "59534ccd36b203fad660b4f3f247637c",
+      "title": "Cầu đường Bình Tiên cải thiện kết nối khu Tây Nam TP HCM",
+      "link": "https://vnexpress.net/cau-duong-binh-tien-cai-thien-ket-noi-khu-tay-nam-tp-hcm-5103469.html",
+      "summary": "Dự án cầu đường Bình Tiên cùng các công trình hạ tầng kết nối kỳ vọng cải thiện khả năng lưu thông, qua đó tạo thêm dư địa phát triển cho bất động sản khu Nam TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T02:00:00+07:00",
+      "fetched": "2026-07-31T09:30:13.991992+07:00"
+    },
+    {
+      "id": "24138ead6a13603c5438e758811b0f50",
+      "title": "Mastercard thúc đẩy du lịch Việt bằng các giải pháp thanh toán xuyên biên giới",
+      "link": "https://vnexpress.net/mastercard-thuc-day-du-lich-viet-bang-cac-giai-phap-thanh-toan-xuyen-bien-gioi-5103379.html",
+      "summary": "Mastercard mở rộng các giải pháp thanh toán xuyên biên giới tại Việt Nam, giúp du khách quốc tế thanh toán thuận tiện hơn và hỗ trợ doanh nghiệp trong nước khai thác dòng khách quốc tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T02:00:00+07:00",
+      "fetched": "2026-07-31T09:30:13.992205+07:00"
+    },
+    {
+      "id": "06eacf561e78dc1bcdb1c3d11c880bc9",
+      "title": "Galaxy Tab S10+ giảm gần giá Tab S11: Chọn màn hình lớn hay máy đời mới?",
+      "link": "https://thanhnien.vn/galaxy-tab-s10-giam-gan-gia-tab-s11-chon-man-hinh-lon-hay-may-doi-moi-185260731084225959.htm",
+      "summary": "Khi Galaxy Tab S10+ giảm còn gần mức giá của Tab S11, người mua phải cân nhắc giữa không gian hiển thị rộng và lợi thế của thế hệ mới. Lựa chọn phù hợp phụ thuộc vào nhu cầu sử dụng hơn là tên gọi đời máy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T02:00:00+07:00",
+      "fetched": "2026-07-31T09:30:16.700857+07:00"
+    },
+    {
+      "id": "a5f9416bb84f652204b8e4009e909278",
+      "title": "5 tiên phong của phong trào 'Tuổi trẻ Việt Nam tiên phong trong kỷ nguyên mới'",
+      "link": "https://thanhnien.vn/5-tien-phong-cua-phong-trao-tuoi-tre-viet-nam-tien-phong-trong-ky-nguyen-moi-185260730202103665.htm",
+      "summary": "Phong trào \"Tuổi trẻ Việt Nam tiên phong trong kỷ nguyên mới\" với hệ thống 5 tiên phong, tập trung vào những nhiệm vụ chiến lược của đất nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T02:00:00+07:00",
+      "fetched": "2026-07-31T09:30:16.701013+07:00"
+    },
+    {
+      "id": "e0654aad216d66a48f3144f43cad0108",
+      "title": "Chi gần 7 triệu đồng cho con học nấu ăn, dù đồ ăn giao tận cửa",
+      "link": "https://thanhnien.vn/chi-gan-7-trieu-dong-cho-con-hoc-nau-an-du-do-an-giao-tan-cua-185260730150034908.htm",
+      "summary": "Chỉ cần vài thao tác trên điện thoại, một bữa ăn có thể được giao tận cửa. Thế nhưng trong dịp hè, nhiều phụ huynh tại TP.HCM vẫn chi từ vài triệu đồng để con theo học các lớp nấu ăn thiếu nhi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T02:00:00+07:00",
+      "fetched": "2026-07-31T09:30:16.701197+07:00"
+    },
+    {
+      "id": "69800053c7f23908d01f3063251d8a04",
+      "title": "'Huy đồng nát' biến rác thải thành yêu thương",
+      "link": "https://thanhnien.vn/huy-dong-nat-bien-rac-thai-thanh-yeu-thuong-185260713145950348.htm",
+      "summary": "Suốt hơn 20 năm qua, tuổi trẻ của anh Vũ Quang Huy gắn liền với những hoạt động tình nguyện. Với anh, đó không chỉ là niềm đam mê mà đã trở thành một phần không thể thiếu của cuộc sống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T02:00:00+07:00",
+      "fetched": "2026-07-31T09:30:16.701355+07:00"
+    },
+    {
+      "id": "b9298a8fc54047cb9be507299f47556e",
+      "title": "VNG lãi kỷ lục",
+      "link": "https://vnexpress.net/vng-lai-ky-luc-5103512.html",
+      "summary": "VNG lãi gần 530 tỷ đồng trong quý gần nhất nhờ đóng góp của một khoản thu nhập tài chính bất thường, qua đó lập đỉnh mới từ khi lên sàn chứng khoán.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-31T02:00:00+07:00",
+      "fetched": "2026-07-31T09:30:20.200480+07:00"
+    },
+    {
+      "id": "aa549c8e7cfacf40c31eb3ca032970d1",
+      "title": "TPBank ra mắt tính năng quản trị chi phí doanh nghiệp",
+      "link": "https://vnexpress.net/tpbank-ra-mat-tinh-nang-quan-tri-chi-phi-doanh-nghiep-5103570.html",
+      "summary": "TPBank bổ sung tính năng Biz Expense trên nền tảng TPBank Biz, hỗ trợ doanh nghiệp quản lý chi phí, đáp ứng yêu cầu thanh toán không dùng tiền mặt.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-31T02:00:00+07:00",
+      "fetched": "2026-07-31T09:30:20.202181+07:00"
+    },
+    {
+      "id": "24138ead6a13603c5438e758811b0f50",
+      "title": "Mastercard thúc đẩy du lịch Việt bằng các giải pháp thanh toán xuyên biên giới",
+      "link": "https://vnexpress.net/mastercard-thuc-day-du-lich-viet-bang-cac-giai-phap-thanh-toan-xuyen-bien-gioi-5103379.html",
+      "summary": "Mastercard mở rộng các giải pháp thanh toán xuyên biên giới tại Việt Nam, giúp du khách quốc tế thanh toán thuận tiện hơn và hỗ trợ doanh nghiệp trong nước khai thác dòng khách quốc tế.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-31T02:00:00+07:00",
+      "fetched": "2026-07-31T09:30:20.202341+07:00"
+    },
+    {
+      "id": "f31815e20c0e2249e575193f4e2bad58",
+      "title": "GS Vũ Minh Khương: 'Đừng đo thành công 5G bằng số trạm BTS'",
+      "link": "https://vnexpress.net/gs-vu-minh-khuong-dung-do-thanh-cong-5g-bang-so-tram-bts-5102725.html",
+      "summary": "Thành công của 5G cần được đo bằng giá trị tạo ra cho nền kinh tế, thay vì chỉ nhìn vào số trạm BTS, vùng phủ hay số thuê bao, theo GS.TS Vũ Minh Khương.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-31T02:00:00+07:00",
+      "fetched": "2026-07-31T09:30:22.051397+07:00"
+    },
+    {
+      "id": "a41dac21291d20c07822849d772f9feb",
+      "title": "Từ đối thủ, Casemiro ca ngợi Messi ngày ra mắt Inter Miami: ‘Vị thần của bóng đá’",
+      "link": "https://thanhnien.vn/tu-doi-thu-casemiro-ca-ngoi-messi-ngay-ra-mat-inter-miami-vi-than-cua-bong-da-185260731085122712.htm",
+      "summary": "Từng là những đối thủ không đội trời chung, Casemiro và Messi giờ sát cánh cùng nhau tại CLB Inter Miami. Trong ngày ra mắt chính thức trước 500 CĐV trên sân Nu ngày 31.7, Casemiro không tiếc lời gọi Messi là 'vị thần bóng đá'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T01:59:00+07:00",
+      "fetched": "2026-07-31T09:30:16.701508+07:00"
+    },
+    {
+      "id": "441eb5867ee262cf9b26541c41f906af",
+      "title": "Mỹ tính thu phí với sinh viên quốc tế muốn ở lại làm việc",
+      "link": "https://thanhnien.vn/my-tinh-thu-phi-voi-sinh-vien-quoc-te-muon-o-lai-lam-viec-185260731075121721.htm",
+      "summary": "Chính quyền Tổng thống Mỹ Donald Trump đang cân nhắc áp khoản phí 100.000 USD đối với sinh viên quốc tế muốn ở lại làm việc sau khi tốt nghiệp đại học tại Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T01:59:00+07:00",
+      "fetched": "2026-07-31T09:30:16.701671+07:00"
+    },
+    {
+      "id": "908c47b147a5eeb1822b178e448d261a",
+      "title": "Tòa nhà ở Việt Nam vào top công trình kiến trúc đẹp nhất thế giới",
+      "link": "https://thanhnien.vn/toa-nha-o-viet-nam-vao-top-cong-trinh-kien-truc-dep-nhat-the-gioi-185260730091637169.htm",
+      "summary": "Top 26 công trình kiến trúc đẹp nhất thế giới nên chiêm ngưỡng năm 2026, do tạp chí du lịch có trụ sở ở Anh Time Out bình chọn, với sự góp mặt của một tòa nhà ở Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T01:49:00+07:00",
+      "fetched": "2026-07-31T09:30:16.701835+07:00"
+    },
+    {
+      "id": "8b7987be36a8559ad96002c14da40400",
+      "title": "Giá heo hơi hôm nay 31.7.2026: Thị trường miền Nam vẫn thấp nhất",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-3172026-thi-truong-mien-nam-van-thap-nhat-185260731080541476.htm",
+      "summary": "Thị trường hôm nay ghi nhận giá heo hơi tiếp tục giảm tại miền Bắc, trong khi giá heo hơi tại miền Nam vẫn đang duy trì mức thấp nhất cả nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T01:41:00+07:00",
+      "fetched": "2026-07-31T09:30:16.701992+07:00"
+    },
+    {
+      "id": "6f33d6cdbbea0bfe7e0c8f4497cb69e4",
+      "title": "Microsoft lập kỷ lục thế giới về mức tăng vốn hóa",
+      "link": "https://vnexpress.net/microsoft-lap-ky-luc-the-gioi-ve-muc-tang-von-hoa-5103553.html",
+      "summary": "Chỉ trong một phiên, vốn hóa của gã khổng lồ phần mềm tăng gần 450 tỷ USD - kỷ lục với một công ty trên toàn cầu.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-31T01:34:23+07:00",
+      "fetched": "2026-07-31T09:30:20.200658+07:00"
+    },
+    {
+      "id": "a8f4f4e038abc22614cecf819551501e",
+      "title": "HDBank lập kỷ lục với khoản vay xã hội, bền vững hợp vốn quốc tế",
+      "link": "https://thanhnien.vn/hdbank-lap-ky-luc-voi-khoan-vay-xa-hoi-ben-vung-hop-von-quoc-te-185260731075757162.htm",
+      "summary": "Khoản vay xã hội hợp vốn quốc tế trị giá 721 triệu USD mà HDBank ký kết ngày 30.7 đã thiết lập một dấu mốc mới trên thị trường vốn Việt Nam. Đây là khoản vay xã hội hợp vốn quốc tế lớn nhất từ trước tới nay do một tổ chức Việt Nam huy động thành công, đồng thời khẳng định niềm tin mạnh mẽ của các đị...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T01:30:00+07:00",
+      "fetched": "2026-07-31T09:30:16.702175+07:00"
+    },
+    {
+      "id": "682f34b485c45b75bccf8ec2beb7d631",
+      "title": "PNJ duy trì đà tăng trưởng quý 2 12%, doanh thu 6 tháng đạt 25.729 tỉ đồng",
+      "link": "https://thanhnien.vn/pnj-duy-tri-da-tang-truong-quy-2-12-doanh-thu-6-thang-dat-25729-ti-dong-185260731083355808.htm",
+      "summary": "Công ty cổ phần Vàng Bạc Đá Quý Phú Nhuận (PNJ) vừa công bố kết quả kinh doanh 6 tháng đầu năm 2026 với doanh thu thuần đạt 25.729 tỉ đồng (tăng 49,4% so với cùng kỳ) và lợi nhuận sau thuế đạt 1.256 tỉ đồng (tăng 6,3% so với cùng kỳ).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T01:26:00+07:00",
+      "fetched": "2026-07-31T09:30:16.702342+07:00"
+    },
+    {
+      "id": "7c94214420b0a3cffdb6ec7ad55cb893",
+      "title": "Vĩnh biệt cựu cầu thủ, BLV tài năng Trịnh Quốc Hưng",
+      "link": "https://thanhnien.vn/vinh-biet-cuu-cau-thu-blv-tai-nang-trinh-quoc-hung-185260731081921538.htm",
+      "summary": "Cựu cầu thủ, HLV và bình luận viên Trịnh Quốc Hưng qua đời tối 30.7 ở tuổi 43. Sự ra đi đột ngột của anh khiến giới bóng đá, đồng nghiệp và đông đảo người hâm mộ không khỏi bàng hoàng, tiếc thương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-07-31T01:26:00+07:00",
+      "fetched": "2026-07-31T09:30:16.702512+07:00"
+    },
+    {
+      "id": "672d822c720c3de1e85754ff8add23fb",
+      "title": "Ngân hàng muốn rút ngắn thời gian xóa sổ tài khoản 'ngủ đông'",
+      "link": "https://vnexpress.net/ngan-hang-muon-rut-ngan-thoi-gian-xoa-so-tai-khoan-ngu-dong-5103505.html",
+      "summary": "MBBank đề xuất đóng các tài khoản không hoạt động trên một năm, thay vì 3 năm như dự thảo của Ngân hàng Nhà nước, còn nhiều nhà băng khác muốn tự chủ quyết định thời gian.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-31T01:15:00+07:00",
+      "fetched": "2026-07-31T09:30:20.200823+07:00"
+    },
+    {
+      "id": "d61a23ecf6fed44f9fdaa9441ca55a67",
+      "title": "Tổng thống Mỹ công bố thỏa thuận giải giáp hoàn toàn Hamas",
+      "link": "https://vnexpress.net/tong-thong-my-cong-bo-thoa-thuan-giai-giap-hoan-toan-hamas-5103534.html",
+      "summary": "Ông Trump tuyên bố đạt thỏa thuận về \"giải giáp hoàn toàn\" lực lượng Hamas, thêm rằng Israel sẽ rút quân khỏi Gaza khi quá trình này hoàn tất.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-31T00:55:44+07:00",
+      "fetched": "2026-07-31T09:30:19.157673+07:00"
+    },
+    {
+      "id": "9c34b0b2091e9ba322c25b2e36381bc8",
+      "title": "Ông Trump: Mỹ chưa chắc đã cho Ukraine sản xuất tên lửa Patriot",
+      "link": "https://vnexpress.net/ong-trump-my-chua-chac-da-cho-ukraine-san-xuat-ten-lua-patriot-5103535.html",
+      "summary": "Tổng thống Trump chưa quyết định cho Ukraine tự chế tạo tên lửa phòng không Patriot, dù từng \"bật đèn xanh\" về vấn đề này hồi đầu tháng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-31T00:36:40+07:00",
+      "fetched": "2026-07-31T09:30:19.157855+07:00"
+    },
+    {
+      "id": "f773a4de431801e21c079e88e83aef76",
+      "title": "Cựu cầu thủ Trịnh Quốc Hưng qua đời",
+      "link": "https://vnexpress.net/cuu-cau-thu-trinh-quoc-hung-qua-doi-5103536.html",
+      "summary": "Cựu cầu thủ, HLV, bình luận viên Trịnh Quốc Hưng đột ngột qua đời ở tuổi 43, tối 30/7.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-31T00:25:27+07:00",
+      "fetched": "2026-07-31T09:30:23.101771+07:00"
     },
     {
       "id": "9d4f66d75db393f8f995515eaf098a6e",
@@ -193,6 +743,36 @@ window.newsData_2026_07_31 = {
       "fetched": "2026-07-31T00:23:04.375114+07:00"
     },
     {
+      "id": "17839ecbb3a3c610e02e90632319d45b",
+      "title": "Mark Zuckerberg: 'Hàng tỷ người sẽ dùng trợ lý AI cá nhân'",
+      "link": "https://vnexpress.net/mark-zuckerberg-hang-ty-nguoi-se-dung-tro-ly-ai-ca-nhan-5103521.html",
+      "summary": "Mark Zuckerberg, CEO Meta, dự đoán 5 năm tới, nhiều khả năng hàng tỷ người sẽ có trợ lý AI giúp sức trong công việc và cuộc sống thường nhật.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-07-31T00:00:00+07:00",
+      "fetched": "2026-07-31T09:30:22.051577+07:00"
+    },
+    {
+      "id": "5a3e30de084e68d03f6708831afbf3ac",
+      "title": "Iran tuyên bố phóng tên lửa, phá hủy loạt tiêm kích F-35 Mỹ",
+      "link": "https://vnexpress.net/iran-tuyen-bo-phong-ten-lua-pha-huy-loat-tiem-kich-f-35-my-5103530.html",
+      "summary": "Iran thông báo phá hủy 3 tiêm kích F-35 Mỹ và làm hư hại 3 máy bay trong đòn tập kích căn cứ ở Jordan, song Washington bác thông tin.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-07-30T23:55:35+07:00",
+      "fetched": "2026-07-31T09:30:19.158031+07:00"
+    },
+    {
+      "id": "8ba44a4567d2886480d20962e79a37d7",
+      "title": "Novaland báo lãi 6 tháng gần 1.800 tỷ đồng",
+      "link": "https://vnexpress.net/novaland-bao-lai-6-thang-gan-1-800-ty-dong-5103507.html",
+      "summary": "Nhờ doanh thu tài chính tăng đột biến, Novaland báo lãi sau thuế 1.772 tỷ đồng trong 6 tháng, hoàn thành 96% kế hoạch lợi nhuận cả năm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-30T23:30:00+07:00",
+      "fetched": "2026-07-31T09:30:20.200984+07:00"
+    },
+    {
       "id": "c87069173c34841d213d7c04d990216e",
       "title": "Làm sao giúp người cao tuổi thoát bẫy lừa đảo?",
       "link": "https://thanhnien.vn/lam-sao-giup-nguoi-cao-tuoi-thoat-bay-lua-dao-185260730200448555.htm",
@@ -233,6 +813,16 @@ window.newsData_2026_07_31 = {
       "fetched": "2026-07-31T06:02:17.530871+07:00"
     },
     {
+      "id": "a89f3200981494fd6d3a241d3dd0a423",
+      "title": "Thế khó của Porsche ở thị trường Trung Quốc",
+      "link": "https://vnexpress.net/the-kho-cua-porsche-o-thi-truong-trung-quoc-5103380.html",
+      "summary": "Bất chấp doanh số tại Trung Quốc lao dốc hơn một nửa, Porsche vẫn kiên định với chiến lược giữ giá bán cao và tái cấu trúc toàn bộ tập đoàn để giữ phân khúc hạng sang.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-07-30T23:00:00+07:00",
+      "fetched": "2026-07-31T09:30:20.201168+07:00"
+    },
+    {
       "id": "1718da73e72a2da9eb4eb9c514712874",
       "title": "Làm tiếp thị liên kết có 'dễ ăn'?",
       "link": "https://thanhnien.vn/lam-tiep-thi-lien-ket-co-de-an-185260730230150388.htm",
@@ -241,6 +831,26 @@ window.newsData_2026_07_31 = {
       "category": "Tổng hợp",
       "published": "2026-07-30T22:59:00+07:00",
       "fetched": "2026-07-31T06:02:17.531026+07:00"
+    },
+    {
+      "id": "55a43fba948639c8270f5709ab6fb9d9",
+      "title": "Trọng tài chung kết World Cup: 'Messi đã hành xử đúng mực'",
+      "link": "https://vnexpress.net/trong-tai-chung-ket-world-cup-messi-da-hanh-xu-dung-muc-5103522.html",
+      "summary": "Trọng tài Slavko Vincic lần đầu chia sẻ về trải nghiệm bắt chính trận chung kết World Cup 2026, trong đó ông đánh giá cao việc Lionel Messi luôn giữ thái độ chuyên nghiệp.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-30T22:57:31+07:00",
+      "fetched": "2026-07-31T09:30:23.102288+07:00"
+    },
+    {
+      "id": "3e720fd930de6428a858edc0b2886da0",
+      "title": "Ancelotti: 'Quãng nghỉ uống nước khiến Brazil sớm rời World Cup'",
+      "link": "https://vnexpress.net/ancelotti-quang-nghi-uong-nuoc-khien-brazil-som-roi-world-cup-5103527.html",
+      "summary": "HLV Carlo Ancelotti cho rằng Brazil sớm bị loại khỏi World Cup 2026 vì quãng nghỉ uống nước giữa hiệp, nhưng tin thất bại đó là điểm khởi đầu cho cuộc tái thiết.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-07-30T22:48:37+07:00",
+      "fetched": "2026-07-31T09:30:23.102446+07:00"
     },
     {
       "id": "1a4034031b8a0786bf1729b7b3422344",
