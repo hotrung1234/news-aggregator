@@ -1,6 +1,6 @@
 window.newsData_2026_08_02 = {
   "date": "2026-08-02",
-  "lastUpdated": "2026-08-02T02:03:36.969181+07:00",
+  "lastUpdated": "2026-08-02T03:47:09.679534+07:00",
   "articles": [
     {
       "id": "e9e504cfcfdbd8e4ff81c496592e92ae",
@@ -151,6 +151,16 @@ window.newsData_2026_08_02 = {
       "category": "Tổng hợp",
       "published": "2026-08-02T02:03:30.589207+07:00",
       "fetched": "2026-08-02T02:03:30.589332+07:00"
+    },
+    {
+      "id": "23ea84f18d906c461edcdb92f620cde3",
+      "title": "5.000 runner sẵn sàng cho giải chạy 81 năm ngành Công an",
+      "link": "https://vnexpress.net/5-000-runner-chuan-bi-cho-cuoc-dua-mung-81-nam-nganh-cong-an-5104173.html",
+      "summary": "Giải chạy \"Hành trình 81 năm - Vì An ninh Tổ quốc\" khởi tranh lúc 4h ngày 2/8 tại NovaWorld Phan Thiet với bốn cự ly 5km, 10km, 21km và 42km.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T20:30:00+07:00",
+      "fetched": "2026-08-02T03:46:58.642069+07:00"
     },
     {
       "id": "e07e935152bdba3b597da84856f3f17d",
