@@ -1,7 +1,17 @@
 window.newsData_2026_08_02 = {
   "date": "2026-08-02",
-  "lastUpdated": "2026-08-02T03:47:09.679534+07:00",
+  "lastUpdated": "2026-08-02T05:51:48.341347+07:00",
   "articles": [
+    {
+      "id": "438995edb4cf1c53adfb02f1adedc09f",
+      "title": "Thời tiết hôm nay 2-8: Cả nước có mưa, trên biển dông gió, đề phòng lốc xoáy",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-2-8-ca-nuoc-co-mua-tren-bien-dong-gio-de-phong-loc-xoay-10026080116373378.htm",
+      "summary": "Hôm nay 2-8, thời tiết ba miền trên cả nước đều có mưa, trên biển dông gió, đề phòng lốc xoáy, vòi rồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-02T05:51:38.754875+07:00",
+      "fetched": "2026-08-02T05:51:38.755026+07:00"
+    },
     {
       "id": "e9e504cfcfdbd8e4ff81c496592e92ae",
       "title": "Cử nhân, sinh viên công nghệ bị khởi tố vì lập ứng dụng, website chiếu phim lậu",
@@ -151,6 +161,226 @@ window.newsData_2026_08_02 = {
       "category": "Tổng hợp",
       "published": "2026-08-02T02:03:30.589207+07:00",
       "fetched": "2026-08-02T02:03:30.589332+07:00"
+    },
+    {
+      "id": "b4f5e1e97d8442c1e2814fd1abe28df5",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 2.8.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-282026-185260801230410992.htm",
+      "summary": "Tin tức Chung cư mới sẽ có thời hạn sử dụng; Việt Nam đang định hình lại bản đồ du lịch Đông Nam Á; Tổng thống Trump tiếp tục “tăng cược” vào ván bài Iran... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 2.8.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T22:50:00+07:00",
+      "fetched": "2026-08-02T05:51:36.789688+07:00"
+    },
+    {
+      "id": "38a66a30e1858f455d03a762376663d4",
+      "title": "Hàm Trần và Huỳnh Lập so kè trong tháng 8",
+      "link": "https://thanhnien.vn/ham-tran-va-huynh-lap-so-ke-trong-thang-8-185260801204053454.htm",
+      "summary": "Phòng vé Việt tháng 8.2026 dự kiến công chiếu hai phim mới là 'Sợi chỉ đỏ' và 'Nghỉ hè sợ nghỉ hưu'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T22:50:00+07:00",
+      "fetched": "2026-08-02T05:51:36.789836+07:00"
+    },
+    {
+      "id": "25c1c592879ac50a9fe108e0593c247a",
+      "title": "Đưa y dược cổ truyền Việt Nam ra thế giới",
+      "link": "https://thanhnien.vn/dua-y-duoc-co-truyen-viet-nam-ra-the-gioi-185260801224227064.htm",
+      "summary": "Theo chỉ đạo của Tổng Bí thư, Chủ tịch nước Tô Lâm, cần đẩy mạnh xây dựng thương hiệu quốc gia về y học cổ truyền VN, gắn với kinh tế sức khỏe, du lịch chữa bệnh, xuất khẩu sản phẩm và kết hợp sức mạnh mềm của văn hóa VN.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T22:48:00+07:00",
+      "fetched": "2026-08-02T05:51:36.789973+07:00"
+    },
+    {
+      "id": "4963617c418e6f2b700203ff56f16b46",
+      "title": "Đừng bỏ quên ruộng đồng khi nói về nhân lực mũi nhọn",
+      "link": "https://thanhnien.vn/dung-bo-quen-ruong-dong-khi-noi-ve-nhan-luc-mui-nhon-185260801103025858.htm",
+      "summary": "Những năm gần đây, nói đến phát triển nguồn nhân lực, người ta thường nhắc bán dẫn, trí tuệ nhân tạo, dữ liệu lớn và công nghệ số. Đây là những lĩnh vực Việt Nam cần ưu tiên. Nhưng nếu chính sách chỉ xoay quanh một số ngành đang được chú ý, giáo dục nghề nghiệp có thể tiếp tục đứng xa nông nghiệp và...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T22:45:00+07:00",
+      "fetched": "2026-08-02T05:51:36.790108+07:00"
+    },
+    {
+      "id": "b50a79225d2af6f701eb06bb1508f761",
+      "title": "Đi ngang qua Củ Chi, nhiều xe khách dừng lại chỉ để mua củ mì nóng hổi",
+      "link": "https://thanhnien.vn/di-ngang-qua-cu-chi-nhieu-xe-khach-dung-lai-chi-de-mua-cu-mi-nong-hoi-185260728194734557.htm",
+      "summary": "Dọc các tuyến đường ở Củ Chi, những sạp củ mì nghi ngút khói từ lâu đã trở thành điểm dừng quen thuộc của nhiều đoàn khách. Để giữ chân thực khách suốt nhiều năm, người bán vẫn kiên trì chọn nguyên liệu ngon, nấu bằng bếp củi và tự tay làm muối chấm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T22:45:00+07:00",
+      "fetched": "2026-08-02T05:51:36.790251+07:00"
+    },
+    {
+      "id": "3d1e07a4e5e070ea463a55eeceb5faef",
+      "title": "Man Utd thắng ngược Atletico, giành Cup giao hữu",
+      "link": "https://vnexpress.net/man-utd-thang-nguoc-atletico-gianh-cup-giao-huu-5104207.html",
+      "summary": "Bị dẫn từ sớm, Man Utd vẫn thắng Atletico Madrid 2-1 nhờ cú đúp của tiền đạo Bryan Mbeumo để giành Cup Snapdragon tối 1/8.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-01T22:44:54+07:00",
+      "fetched": "2026-08-02T05:51:48.336529+07:00"
+    },
+    {
+      "id": "22c1d5f5c530ed44c0b527caa639f20f",
+      "title": "Tên lửa SpaceX sắp đâm vào mặt trăng",
+      "link": "https://thanhnien.vn/ten-lua-spacex-sap-dam-vao-mat-trang-185260801222559501.htm",
+      "summary": "Một tên lửa của Công ty SpaceX (Mỹ) đang trôi dạt trên quỹ đạo và sắp va chạm với mặt trăng, sau khi thực hiện nhiệm vụ phóng 2 tàu đổ bộ lên mặt trăng cách đây hơn 1 năm, theo AP.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T22:34:00+07:00",
+      "fetched": "2026-08-02T05:51:36.790377+07:00"
+    },
+    {
+      "id": "454fbcf493101ca4beeb99b4affca65d",
+      "title": "Người dân nói gì sau một tuần phân làn trên đường Nguyễn Hữu Cảnh?",
+      "link": "https://thanhnien.vn/nguoi-dan-noi-gi-sau-mot-tuan-phan-lan-tren-duong-nguyen-huu-canh-185260801230912798.htm",
+      "summary": "Từng khiến không ít tài xế lúng túng trong những ngày đầu, phương án phân làn mới trên đường Nguyễn Hữu Cảnh đang dần phát huy hiệu quả sau một tuần áp dụng. Nhiều người thường xuyên lưu thông qua tuyến đường này cho biết tình trạng ùn ứ đã giảm, việc di chuyển cũng thuận tiện hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T22:31:00+07:00",
+      "fetched": "2026-08-02T05:51:36.790499+07:00"
+    },
+    {
+      "id": "de2e5b8ddccf3a4dedc031259f695408",
+      "title": "Tiêu điểm quốc tế ngày 2.8: Lỗ hổng phòng không Ukraine | Lộ tàu phát xít Đức ở Danube",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-ngay-28-lo-hong-phong-khong-ukraine-lo-tau-phat-xit-duc-o-danube-185260802024355829.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 2.8.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T22:30:00+07:00",
+      "fetched": "2026-08-02T05:51:36.790621+07:00"
+    },
+    {
+      "id": "3c8ea7369d87991d54ee8a8cb0aabccd",
+      "title": "Mua 9 tờ vé số ế, khách ở Đồng Nai trúng độc đắc xổ số miền Nam",
+      "link": "https://thanhnien.vn/mua-9-to-ve-so-e-khach-o-dong-nai-trung-doc-dac-xo-so-mien-nam-185260801173344486.htm",
+      "summary": "Một đại lý vé số ở Tây Ninh thông báo đã đổi thưởng cho khách ở Đồng Nai trúng độc đắc 9 tờ vé số theo kết quả xổ số miền Nam ngày 30 tháng 7.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T22:30:00+07:00",
+      "fetched": "2026-08-02T05:51:36.790739+07:00"
+    },
+    {
+      "id": "72f1493655a2d157687b0a8d353cb1ec",
+      "title": "Chiến sự Ukraine ngày 1.620: Nga phóng số tên lửa kỷ lục, Kyiv đánh chìm tàu container",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1620-nga-phong-so-ten-lua-ky-luc-kyiv-danh-chim-tau-container-185260801183113579.htm",
+      "summary": "Ngày 1.8, chiến sự Ukraine tiếp tục căng thẳng khi Nga lại phóng nhiều tên lửa đạn đạo sang giữa bối cảnh Kyiv thiếu thốn vũ khí đánh chặn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T22:15:00+07:00",
+      "fetched": "2026-08-02T05:51:36.790861+07:00"
+    },
+    {
+      "id": "50ca9a70a60be4955801a21dfead04c9",
+      "title": "Tử vi ngày 2 tháng 8: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-2-thang-8-con-giap-nao-may-man-hom-nay-185260731232117986.htm",
+      "summary": "Tử vi ngày 2 tháng 8 mang đến những gợi ý tham khảo cho 12 con giáp. Có những điều chúng ta nghĩ mình đã hiểu rất rõ: một công việc quen thuộc, một người bạn lâu năm, con đường mỗi ngày đi qua hay chính bản thân mình. Nhưng đôi khi, chỉ cần nhìn kỹ hơn hoặc thử làm theo một cách khác, bạn sẽ nhận ra...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T22:15:00+07:00",
+      "fetched": "2026-08-02T05:51:36.790982+07:00"
+    },
+    {
+      "id": "0fa65ff5d99992be366556e2c11ca9cd",
+      "title": "Đội tuyển Việt Nam: Đừng để sự tự tin thái quá biến thành áp lực",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-dung-de-su-tu-tin-thai-qua-bien-thanh-ap-luc-185260801230343142.htm",
+      "summary": "Đội tuyển VN đã lỡ một nhịp quan trọng trên con đường bảo vệ danh hiệu vô địch ASEAN Cup. Trước đối thủ Singapore cực kỳ thành công về mặt chiến thuật, VN chỉ giành được 1 điểm và tự đưa mình vào thế khó khi làm khách tại Indonesia vào ngày 3.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T22:10:00+07:00",
+      "fetched": "2026-08-02T05:51:36.791105+07:00"
+    },
+    {
+      "id": "fd62616866a63209baf2a8b75c727476",
+      "title": "'Nữ quái' bẫy tình những người đàn ông giàu có nhưng cô đơn",
+      "link": "https://vnexpress.net/nu-quai-bay-tinh-nhung-nguoi-dan-ong-giau-co-nhung-co-don-5104159.html",
+      "summary": "Ông Robert, 67 tuổi đưa người phụ nữ kém 25 tuổi quen qua ứng dụng hẹn hò về nhà. Hai ngày sau, xác của ông được thấy ven quốc lộ, còn tiền tiết kiệm đã bốc hơi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T22:09:15+07:00",
+      "fetched": "2026-08-02T05:51:33.371287+07:00"
+    },
+    {
+      "id": "b161659d2a8bb160f3c3cbfa6aba1911",
+      "title": "Tây Ban Nha giải quyết 'cơn địa chấn' di cư",
+      "link": "https://thanhnien.vn/tay-ban-nha-giai-quyet-con-dia-chan-di-cu-185260801220458736.htm",
+      "summary": "Reuters ngày 1.8 dẫn thông cáo của Bộ Nội vụ Tây Ban Nha cho hay nước này đã ngăn chặn được làn sóng người di cư ồ ạt tràn sang vùng lãnh thổ Ceuta (do Tây Ban Nha kiểm soát nhưng nằm sát phần đất với Ma Rốc ở châu Phi).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T22:08:00+07:00",
+      "fetched": "2026-08-02T05:51:36.791236+07:00"
+    },
+    {
+      "id": "5502a2cc89f3b333d938105f90b88ad7",
+      "title": "Toyota là hãng xe bán chạy nhất thế giới nửa đầu năm",
+      "link": "https://vnexpress.net/toyota-la-hang-xe-ban-chay-nhat-the-gioi-nua-dau-nam-5104069.html",
+      "summary": "Dù doanh số toàn cầu giảm nhẹ do thị trường Trung Quốc và Trung Đông hạ nhiệt, Toyota vẫn bỏ xa đối thủ Volkswagen.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T22:00:00+07:00",
+      "fetched": "2026-08-02T05:51:33.371449+07:00"
+    },
+    {
+      "id": "1ae34c4bb9c0c01b3431675292216dfe",
+      "title": "Lý do Điện Biên thử nghiệm 6.000 chuyến bay không người lái",
+      "link": "https://vnexpress.net/ly-do-dien-bien-thu-nghiem-6-000-chuyen-bay-khong-nguoi-lai-5104060.html",
+      "summary": "Điện Biên sở hữu nhiều điều kiện tự nhiên đặc thù, được chọn thử nghiệm mô hình kinh tế thiết bị bay không người lái (UAV).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T22:00:00+07:00",
+      "fetched": "2026-08-02T05:51:33.371589+07:00"
+    },
+    {
+      "id": "f2550ec2dfc54e4164ecd4974f991498",
+      "title": "Khuyến khích doanh nghiệp thưởng nhân viên chăm tập thể dục",
+      "link": "https://vnexpress.net/khuyen-khich-doanh-nghiep-thuong-nhan-vien-cham-tap-the-duc-5104050.html",
+      "summary": "Doanh nghiệp bố trí thời gian để nhân viên tập thể dục giữa giờ, tổ chức hoạt động thể thao và khen thưởng người tích cực rèn luyện thể lực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T22:00:00+07:00",
+      "fetched": "2026-08-02T05:51:33.371722+07:00"
+    },
+    {
+      "id": "7a6f05359ce59a6150e9261ea146da09",
+      "title": "Cồn 50 ha ở miền Tây teo dần vì sạt lở",
+      "link": "https://vnexpress.net/con-50-ha-o-mien-tay-teo-dan-vi-sat-lo-5103926.html",
+      "summary": "Từng rộng khoảng 50 ha, cồn Thanh Long giữa sông Cổ Chiên nay chỉ còn khoảng 30 ha, nhiều nhà cửa, vườn cây bị cuốn trôi và người dân phải tính chuyện di dời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T22:00:00+07:00",
+      "fetched": "2026-08-02T05:51:33.371858+07:00"
+    },
+    {
+      "id": "0c5e1b19334d66acdb2f72cdf63f1da6",
+      "title": "Hôm nay 2.8 là ngày gì được nhiều người quan tâm? Theo lịch âm cần thận trọng",
+      "link": "https://thanhnien.vn/hom-nay-28-la-ngay-gi-duoc-nhieu-nguoi-quan-tam-theo-lich-am-can-than-trong-185260731203120554.htm",
+      "summary": "Hôm nay ngày 2.8 là ngày gì đặc biệt ở Việt Nam cũng như trên thế giới mà nhiều người quan tâm? Lịch âm hôm nay là ngày rất xấu theo quan niệm dân gian, cần lưu ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T22:00:00+07:00",
+      "fetched": "2026-08-02T05:51:36.791356+07:00"
+    },
+    {
+      "id": "1ae34c4bb9c0c01b3431675292216dfe",
+      "title": "Lý do Điện Biên thử nghiệm 6.000 chuyến bay không người lái",
+      "link": "https://vnexpress.net/ly-do-dien-bien-thu-nghiem-6-000-chuyen-bay-khong-nguoi-lai-5104060.html",
+      "summary": "Điện Biên sở hữu nhiều điều kiện tự nhiên đặc thù, được chọn thử nghiệm mô hình kinh tế thiết bị bay không người lái (UAV).",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-01T22:00:00+07:00",
+      "fetched": "2026-08-02T05:51:47.235417+07:00"
+    },
+    {
+      "id": "c6e8ccb6ae4e3ab45ef217e0de31c79a",
+      "title": "Động đất mạnh 4,7 độ Richter làm rung chuyển miền nam Ý",
+      "link": "https://thanhnien.vn/dong-dat-manh-47-do-richter-lam-rung-chuyen-mien-nam-y-185260801222930642.htm",
+      "summary": "Reuters đưa tin một trận động đất mạnh 4,7 độ Richter xảy ra tại khu vực Campi Flegrei, gần thành phố Naples (miền nam Ý) chiều 31.7 gây mất điện, gián đoạn giao thông công cộng và làm hư hại một số tòa nhà.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T21:46:00+07:00",
+      "fetched": "2026-08-02T05:51:36.791478+07:00"
     },
     {
       "id": "23ea84f18d906c461edcdb92f620cde3",
