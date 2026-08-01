@@ -1,6 +1,6 @@
 window.newsData_2026_08_01 = {
   "date": "2026-08-01",
-  "lastUpdated": "2026-08-01T16:54:56.992983+07:00",
+  "lastUpdated": "2026-08-01T18:14:03.422620+07:00",
   "articles": [
     {
       "id": "07c3f487e922053e7fa8cb2f11f61f34",
@@ -303,6 +303,276 @@ window.newsData_2026_08_01 = {
       "fetched": "2026-08-01T13:25:32.038025+07:00"
     },
     {
+      "id": "f8a7effa4e27bc44ea50d4832072cd74",
+      "title": "BYD sắp đưa sạc siêu nhanh 1.500 kW vào Việt Nam: Hạ tầng điện có đáp ứng?",
+      "link": "https://thanhnien.vn/byd-sap-dua-sac-sieu-nhanh-1500-kw-vao-viet-nam-ha-tang-dien-co-dap-ung-185260701111645567.htm",
+      "summary": "Dù rất được chờ đợi, tuy nhiên câu hỏi đặt ra là liệu công nghệ sạc siêu nhanh với công suất lên đến 1.500 kW của BYD có khả thi tại Việt Nam và hạ tầng điện trong nước đã sẵn sàng để đáp ứng?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T10:54:00+07:00",
+      "fetched": "2026-08-01T18:13:52.405164+07:00"
+    },
+    {
+      "id": "6c5a4304ea4204ed9731d6fefe1e7a8b",
+      "title": "Xe đầu kéo tại Việt Nam có thêm lựa chọn mới",
+      "link": "https://thanhnien.vn/xe-dau-keo-tai-viet-nam-co-them-lua-chon-moi-185260801074301552.htm",
+      "summary": "Foton Galaxus R5 vừa gia nhập thị trường xe đầu kéo tại Việt Nam với hai phiên bản, hướng đến nhóm khách hàng doanh nghiệp vận tải đường dài, logistics và chuyên chở hàng hóa tải nặng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T10:50:00+07:00",
+      "fetched": "2026-08-01T18:13:52.405354+07:00"
+    },
+    {
+      "id": "dc93d38cf42e8e02a70351d794a7a9c3",
+      "title": "Chủ The Coffee House, Hutong nói gì khi bị hủy tư cách công ty đại chúng?",
+      "link": "https://thanhnien.vn/chu-the-coffee-house-hutong-noi-gi-khi-bi-huy-tu-cach-cong-ty-dai-chung-185260801171948285.htm",
+      "summary": "Công ty sở hữu The Coffee House, Hutong vừa được thông báo hủy tư cách công ty đại chúng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T10:48:00+07:00",
+      "fetched": "2026-08-01T18:13:52.405552+07:00"
+    },
+    {
+      "id": "f04831454ccb0c259700069e611324fc",
+      "title": "Vụ tiêu cực thi tốt nghiệp THPT ở Quảng Trị: Hủy kết quả 5 thí sinh",
+      "link": "https://thanhnien.vn/vu-tieu-cuc-thi-tot-nghiep-thpt-o-quang-tri-huy-ket-qua-5-thi-sinh-185260801163029659.htm",
+      "summary": "Ngoài con trai của Hiệu trưởng trường THPT Lê Trực, còn có 4 thí sinh khác bị hủy kết quả thi liên quan đến vụ tiêu cực thi tốt nghiệp tại Quảng Trị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T10:48:00+07:00",
+      "fetched": "2026-08-01T18:13:52.405715+07:00"
+    },
+    {
+      "id": "254d48c9d4b970e6ce5ab9227ef9f5e3",
+      "title": "Lịch thi đấu đội tuyển Việt Nam - Indonesia mới nhất: Trận cầu sinh tử của đội khách, xem kênh nào?",
+      "link": "https://thanhnien.vn/lich-thi-dau-doi-tuyen-viet-nam-indonesia-moi-nhat-tran-cau-sinh-tu-cua-doi-khach-xem-kenh-nao-185260801174012894.htm",
+      "summary": "Đội tuyển Việt Nam sẽ chạm trán Indonesia lúc 20 giờ 30 ngày 3.8. Sau trận hòa Singapore, thầy trò HLV Kim Sang-sik buộc phải có điểm trước đối thủ trực tiếp để sáng cửa giành vé vào bán kết ASEAN Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T10:43:00+07:00",
+      "fetched": "2026-08-01T18:13:52.405872+07:00"
+    },
+    {
+      "id": "5ebd86fbd5eda326de0e66b6d5038ce7",
+      "title": "Việt Nam dẫn đầu Đông Nam Á về tốc độ tăng trưởng thị trường xe máy",
+      "link": "https://thanhnien.vn/viet-nam-dan-dau-dong-nam-a-ve-toc-do-tang-truong-thi-truong-xe-may-18526080106401164.htm",
+      "summary": "Trong giai đoạn nửa đầu năm 2026, người dân các nước khu vực Đông Nam Á đã mua sắm hơn 7,8 triệu xe máy mới, trong đó Việt Nam được xem là một trong những thị trường có tốc độ tăng trưởng nhanh nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T10:42:00+07:00",
+      "fetched": "2026-08-01T18:13:52.406037+07:00"
+    },
+    {
+      "id": "dea44b8cb5950542ebf9ca1aef708d10",
+      "title": "Thanh tra tỉnh Lâm Đồng kết luận nhiều sai phạm tại Công ty Tam Hiệp",
+      "link": "https://thanhnien.vn/thanh-tra-tinh-lam-dong-ket-luan-nhieu-sai-pham-tai-cong-ty-tam-hiep-185260801170957027.htm",
+      "summary": "Thanh tra tỉnh Lâm Đồng kết luận Công ty Tam Hiệp để xảy ra nhiều sai phạm trong quản lý đất rừng giai đoạn 2023 - 2025, trong đó để người dân lấn chiếm khoảng 2.098 ha đất và nhiều vi phạm trong giao khoán đất lâm nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T10:40:00+07:00",
+      "fetched": "2026-08-01T18:13:52.406194+07:00"
+    },
+    {
+      "id": "73318f8befe010c343bde24a4e375b86",
+      "title": "Giá vàng giảm mạnh trong nửa năm qua, 'đu đỉnh' lỗ 54,3 triệu/lượng",
+      "link": "https://thanhnien.vn/gia-vang-giam-manh-trong-nua-nam-qua-du-dinh-lo-543-trieu-luong-185260801170546767.htm",
+      "summary": "Nửa năm trở lại đây, người mua vàng, bạc vùng đỉnh đã lỗ lần lượt hơn 54 triệu đồng/lượng vàng và gần 67 triệu đồng/kg bạc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T10:33:00+07:00",
+      "fetched": "2026-08-01T18:13:52.406348+07:00"
+    },
+    {
+      "id": "3d1c32bf962ddcca2d1a6fcbfcecc1d2",
+      "title": "Đường sách TP.HCM rộn ràng trải nghiệm văn hóa dân gian",
+      "link": "https://thanhnien.vn/duong-sach-tphcm-ron-rang-trai-nghiem-van-hoa-dan-gian-185260801164628454.htm",
+      "summary": "Ngày hội sách và văn hóa đêm lần thứ 7 chủ đề “Khuôn vàng thước ngọc” khai mạc tối 31.7 tại Đường sách TP.HCM, thu hút đông đảo bạn đọc với chuỗi trải nghiệm văn hóa dân gian, trò chơi tương tác và workshop sáng tạo hấp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T10:32:00+07:00",
+      "fetched": "2026-08-01T18:13:52.406546+07:00"
+    },
+    {
+      "id": "744de309f75bb806e04f87c2a3ec64e8",
+      "title": "Cận cảnh tàu đổ bộ Hải quân Singapore đến cảng Cam Ranh",
+      "link": "https://thanhnien.vn/tau-do-bo-hai-quan-singapore-den-cang-cam-ranh-18526080115024961.htm",
+      "summary": "Tàu đổ bộ lớp Endurance RSS Persistence của Hải quân Singapore đã cập cảng quốc tế Cam Ranh, bắt đầu chuyến thăm xã giao tỉnh Khánh Hòa từ ngày 1 - 5.8, với nhiều hoạt động giao lưu, góp phần tăng cường quan hệ hợp tác quốc phòng và hải quân giữa Việt Nam và Singapore.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T10:31:00+07:00",
+      "fetched": "2026-08-01T18:13:52.406715+07:00"
+    },
+    {
+      "id": "8c700c360aa0bf839c175c530ce71b66",
+      "title": "Lý do Samsung đưa tên gọi Ultra lên dòng Galaxy Z Fold",
+      "link": "https://vnexpress.net/ly-do-samsung-dua-ten-goi-ultra-len-dong-galaxy-z-fold-5104138.html",
+      "summary": "Với Galaxy Z Fold8 Ultra, Samsung lần đầu đưa tên gọi Ultra lên dòng Galaxy Z Fold nhằm khẳng định mang những trải nghiệm cao cấp lên một thiết bị gập.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T10:30:00+07:00",
+      "fetched": "2026-08-01T18:13:49.418274+07:00"
+    },
+    {
+      "id": "8c700c360aa0bf839c175c530ce71b66",
+      "title": "Lý do Samsung đưa tên gọi Ultra lên dòng Galaxy Z Fold",
+      "link": "https://vnexpress.net/ly-do-samsung-dua-ten-goi-ultra-len-dong-galaxy-z-fold-5104138.html",
+      "summary": "Với Galaxy Z Fold8 Ultra, Samsung lần đầu đưa tên gọi Ultra lên dòng Galaxy Z Fold nhằm khẳng định mang những trải nghiệm cao cấp lên một thiết bị gập.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-01T10:30:00+07:00",
+      "fetched": "2026-08-01T18:14:01.442833+07:00"
+    },
+    {
+      "id": "1c80a897a4b07d556a133d9bfb474950",
+      "title": "Hàng nghìn runner đổ về Phan Thiết nhận bib Giải chạy ngành Công an",
+      "link": "https://vnexpress.net/hang-nghin-runner-do-ve-phan-thiet-nhan-bib-giai-chay-nganh-cong-an-5104132.html",
+      "summary": "Đông kín runner đổ về khu Expo tại Bikini Beach, NovaWorld Phan Thiết nhận bib và race kit cho giải chạy \"Hành trình 81 năm - Vì An ninh Tổ quốc\", chiều 1/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T10:28:47+07:00",
+      "fetched": "2026-08-01T18:13:49.418491+07:00"
+    },
+    {
+      "id": "1f3f2c7c2c1e582cafa93a7f68e81e5e",
+      "title": "Houthi phủ nhận kế hoạch thu phí ở biển Đỏ",
+      "link": "https://vnexpress.net/houthi-phu-nhan-ke-hoach-thu-phi-o-bien-do-5104129.html",
+      "summary": "Lực lượng Houthi tại Yemen bác bỏ thông tin đang lên kế hoạch thu phí các tàu thuyền đi qua biển Đỏ và eo biển chiến lược.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T10:25:19+07:00",
+      "fetched": "2026-08-01T18:13:49.418677+07:00"
+    },
+    {
+      "id": "1f3f2c7c2c1e582cafa93a7f68e81e5e",
+      "title": "Houthi phủ nhận kế hoạch thu phí ở biển Đỏ",
+      "link": "https://vnexpress.net/houthi-phu-nhan-ke-hoach-thu-phi-o-bien-do-5104129.html",
+      "summary": "Lực lượng Houthi tại Yemen bác bỏ thông tin đang lên kế hoạch thu phí các tàu thuyền đi qua biển Đỏ và eo biển chiến lược.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-01T10:25:19+07:00",
+      "fetched": "2026-08-01T18:13:56.005802+07:00"
+    },
+    {
+      "id": "7912761730aa589c3ac27696ad7ea946",
+      "title": "Hậu vệ Trương Tiến Anh nhận tin buồn từ quê nhà, nén nỗi đau trước trận gặp Indonesia",
+      "link": "https://thanhnien.vn/hau-ve-truong-tien-anh-nhan-tin-buon-tu-que-nha-nen-noi-dau-truoc-tran-gap-indonesia-185260801172258548.htm",
+      "summary": "Trong thời điểm cùng đội tuyển Việt Nam có mặt tại Indonesia để chuẩn bị cho trận đấu quan trọng với đội chủ nhà ở bảng A ASEAN Cup 2026, hậu vệ Trương Tiến Anh đã đón nhận tin buồn từ gia đình khi bà anh qua đời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T10:25:00+07:00",
+      "fetched": "2026-08-01T18:13:52.406886+07:00"
+    },
+    {
+      "id": "694658eb20cde9dfb5a3098de5dda7e8",
+      "title": "Xổ số miền Nam ngày 1 tháng 8: Trúng cọc vé đài Hậu Giang, nhận thưởng liền",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-1-thang-8-trung-coc-ve-dai-hau-giang-nhan-thuong-lien-185260801171038886.htm",
+      "summary": "Sau khi có kết quả xổ số miền Nam ngày 1 tháng 8, một khách trúng cọc vé gồm 160 tờ đài Hậu Giang nhận thưởng sớm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T10:23:00+07:00",
+      "fetched": "2026-08-01T18:13:52.407050+07:00"
+    },
+    {
+      "id": "8d0d7a194887495c0bbc406e60d44195",
+      "title": "Điểm tin 17h: Chính sách nổi bật có hiệu lực từ tháng 8 | 19 xuồng máy bị cháy trong đêm ở Quảng Ninh",
+      "link": "https://vnexpress.net/diem-tin-17h-chinh-sach-noi-bat-co-hieu-luc-tu-thang-8-19-xuong-may-bi-chay-trong-dem-o-quang-ninh-5104137.html",
+      "summary": "Tàu chở 200 khách đi Côn Đảo gặp sự cố; Phát hiện 'rồng đá' dài 10 km, đề xuất thành điểm du lịch Lai Châu;...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T10:21:14+07:00",
+      "fetched": "2026-08-01T18:13:49.418855+07:00"
+    },
+    {
+      "id": "c96a783f2223b411723e31476d6a0224",
+      "title": "Lá gan của người mẹ cứu con trai 14 tuổi thoát ung thư",
+      "link": "https://vnexpress.net/la-gan-cua-nguoi-me-cuu-con-trai-14-tuoi-thoat-ung-thu-5104101.html",
+      "summary": "Sau 10 đợt hóa trị, thiếu niên 14 tuổi ung thư gan được mẹ hiến một phần lá gan để ghép, mở ra cơ hội sống mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T10:19:00+07:00",
+      "fetched": "2026-08-01T18:13:49.419027+07:00"
+    },
+    {
+      "id": "6bb686a36aa2c94345d33920cb628750",
+      "title": "Sunshine làm đại đô thị 2 tỷ USD phía tây Hà Nội",
+      "link": "https://vnexpress.net/sunshine-lam-dai-do-thi-2-ty-usd-phia-tay-ha-noi-5104109.html",
+      "summary": "Sunshine Group bắt đầu triển khai đại đô thị sinh thái rộng 250 ha tại ba xã phía tây Hà Nội với tổng vốn đầu tư 2 tỷ USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T10:18:57+07:00",
+      "fetched": "2026-08-01T18:13:49.419198+07:00"
+    },
+    {
+      "id": "703e867c28f978cc5d823b34dfeefcfe",
+      "title": "Eximbank có tổng giám đốc mới",
+      "link": "https://vnexpress.net/eximbank-co-tong-giam-doc-moi-5104133.html",
+      "summary": "Bà Phạm Thị Huyền Trang, cựu chủ tịch Eximbank, được bổ nhiệm làm Tổng giám đốc nhà băng này từ ngày 1/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T10:09:14+07:00",
+      "fetched": "2026-08-01T18:13:49.419377+07:00"
+    },
+    {
+      "id": "703e867c28f978cc5d823b34dfeefcfe",
+      "title": "Eximbank có tổng giám đốc mới",
+      "link": "https://vnexpress.net/eximbank-co-tong-giam-doc-moi-5104133.html",
+      "summary": "Bà Phạm Thị Huyền Trang, cựu chủ tịch Eximbank, được bổ nhiệm làm Tổng giám đốc nhà băng này từ ngày 1/8.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-01T10:09:14+07:00",
+      "fetched": "2026-08-01T18:13:57.787233+07:00"
+    },
+    {
+      "id": "8adadac72c79d3c9a99cc52cda6733ba",
+      "title": "Truyền thông châu Á thất vọng khi Việt Nam chỉ hòa Singapore",
+      "link": "https://vnexpress.net/truyen-thong-chau-a-that-vong-khi-viet-nam-chi-hoa-singapore-5104131.html",
+      "summary": "Nhiều tờ báo châu Á bất ngờ khi Việt Nam hòa Singapore 0-0 ở lượt ba bảng A ASEAN Cup 2026, thậm chí còn âu lo về cơ hội vào bán kết của thầy trò Kim Sang-sik.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T10:08:19+07:00",
+      "fetched": "2026-08-01T18:13:49.419566+07:00"
+    },
+    {
+      "id": "f7fb94a9f1e949a225984d123dc443a0",
+      "title": "Truyền thông châu Á bất ngờ khi Việt Nam chỉ hòa Singapore",
+      "link": "https://vnexpress.net/truyen-thong-chau-a-bat-ngo-khi-viet-nam-chi-hoa-singapore-5104131.html",
+      "summary": "Nhiều tờ báo châu Á bất ngờ khi Việt Nam hòa Singapore 0-0 ở lượt ba bảng A ASEAN Cup 2026, thậm chí còn âu lo về cơ hội vào bán kết của thầy trò Kim Sang-sik.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-01T10:08:19+07:00",
+      "fetched": "2026-08-01T18:14:03.412746+07:00"
+    },
+    {
+      "id": "ddfa4e176947d330dbb7935492c3efce",
+      "title": "Bắt giữ người đàn ông trộm cắp, tàng trữ ma túy ở Cần Thơ",
+      "link": "https://thanhnien.vn/bat-giu-nguoi-dan-ong-trom-cap-tang-tru-ma-tuy-o-can-tho-185260801164404789.htm",
+      "summary": "Kiểm tra đột xuất căn nhà không số trên địa bàn, Công an phường Sóc Trăng, thành phố Cần Thơ phát hiện một người đàn ông tàng trữ trái phép chất ma túy và trộm cắp tài sản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T10:07:00+07:00",
+      "fetched": "2026-08-01T18:13:52.407209+07:00"
+    },
+    {
+      "id": "cc8a3bb184ee928c2000073bb6613213",
+      "title": "Đội tuyển Việt Nam đến Indonesia, gặp sự cố nhỏ với quà tiếp sức",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-den-indonesia-gap-su-co-nho-voi-qua-tiep-suc-185260801170429938.htm",
+      "summary": "Đội tuyển Việt Nam đã có mặt tại Indonesia để chuẩn bị cho trận gặp đội tuyển Indonesia ở bảng A ASEAN Cup 2026. Toàn đội giữ tinh thần thoải mái sau hành trình dài, trong khi một sự cố nhỏ xảy ra với phần quà tiếp sức từ người hâm mộ Việt Nam khiến nhiều người bật cười.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T10:04:00+07:00",
+      "fetched": "2026-08-01T18:13:52.407370+07:00"
+    },
+    {
+      "id": "a868f988c981bd945210b0ed20528736",
+      "title": "Toàn cảnh 17h: Bắt kẻ cướp của, kéo lê nạn nhân | Cận cảnh tàu Hải quân Singapore thăm Việt Nam",
+      "link": "https://thanhnien.vn/toan-canh-17h-bat-nong-ke-cuop-cua-keo-le-nan-nhan-can-canh-tau-hai-quan-singapore-tham-viet-nam-185260801160959886.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T10:00:00+07:00",
+      "fetched": "2026-08-01T18:13:52.407567+07:00"
+    },
+    {
       "id": "9238e3a70d97735fd7f7640e79e764cd",
       "title": "Ứng dụng công nghệ và dữ liệu để bảo vệ bản quyền số trên internet",
       "link": "https://thanhnien.vn/ung-dung-cong-nghe-va-du-lieu-de-bao-ve-ban-quyen-so-tren-internet-185260801110217082.htm",
@@ -313,6 +583,36 @@ window.newsData_2026_08_01 = {
       "fetched": "2026-08-01T16:54:45.735771+07:00"
     },
     {
+      "id": "9c052746fed1b56614da54f8f377b842",
+      "title": "Cách làm món sườn chiên sả lá lốt",
+      "link": "https://vnexpress.net/cach-lam-mon-suon-chien-sa-la-lot-5103175.html",
+      "summary": "Sườn chiên sả lá lốt là món ăn có nguyên liệu đơn giản, cách làm nhanh gọn, được cả người lớn lẫn trẻ nhỏ yêu thích.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T09:52:49+07:00",
+      "fetched": "2026-08-01T18:13:49.419725+07:00"
+    },
+    {
+      "id": "34eec10f017d5ce927368fc2b8b7deb7",
+      "title": "Tuyển Việt Nam đến Jakarta, chuẩn bị đối đầu Indonesia",
+      "link": "https://vnexpress.net/tuyen-viet-nam-den-jakarta-chuan-bi-doi-dau-indonesia-5104128.html",
+      "summary": "Chiều 1/8, thầy trò HLV Kim có mặt tại sân bay quốc tế Soekarno-Hatta, Jakarta, sẵn sàng bước vào cuộc đối đầu với chủ nhà Indonesia tại ASEAN Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T09:49:14+07:00",
+      "fetched": "2026-08-01T18:13:49.419882+07:00"
+    },
+    {
+      "id": "5215888ef3f9c449ba945f8aca87a892",
+      "title": "Hà Nội nêu nguyên nhân xuất hiện điểm ngập ở Long Biên",
+      "link": "https://vnexpress.net/ha-noi-neu-nguyen-nhan-xuat-hien-diem-ngap-o-long-bien-5104080.html",
+      "summary": "Theo Sở Xây dựng, mưa lớn 115 mm trong thời gian ngắn gây quá tải hệ thống thoát nước hiện có, làm một số điểm ở quận Long Biên cũ bị ngập, ảnh hưởng đến giao thông tối 31/7.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T09:39:11+07:00",
+      "fetched": "2026-08-01T18:13:49.420044+07:00"
+    },
+    {
       "id": "2ab26d236d85e536f7588e448a41bb05",
       "title": "Hủy kết quả 5 thí sinh gian lận thi tốt nghiệp ở Quảng Trị",
       "link": "https://vnexpress.net/huy-ket-qua-5-thi-sinh-gian-lan-thi-tot-nghiep-o-quang-tri-5104122.html",
@@ -321,6 +621,16 @@ window.newsData_2026_08_01 = {
       "category": "Tổng hợp",
       "published": "2026-08-01T09:37:24+07:00",
       "fetched": "2026-08-01T16:54:42.524706+07:00"
+    },
+    {
+      "id": "d9b5b8771edf21f05c38b51140bb543f",
+      "title": "5 thí sinh bị hủy kết quả thi tốt nghiệp THPT vì gian lận",
+      "link": "https://vnexpress.net/huy-ket-qua-5-thi-sinh-vu-gian-lan-thi-tot-nghiep-o-thpt-le-truc-quang-tri-5104122.html",
+      "summary": "5 thí sinh ở trường THPT Lê Trực, gồm con của hiệu trưởng, bị hủy kết quả tất cả bài thi tốt nghiệp vì gian lận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-01T09:37:24+07:00",
+      "fetched": "2026-08-01T18:13:49.420202+07:00"
     },
     {
       "id": "7d63055727ee3fad48b1ada2788fa5ff",
