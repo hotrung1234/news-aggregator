@@ -1,7 +1,127 @@
 window.newsData_2026_08_04 = {
   "date": "2026-08-04",
-  "lastUpdated": "2026-08-04T00:47:58.783243+07:00",
+  "lastUpdated": "2026-08-04T02:25:55.701539+07:00",
   "articles": [
+    {
+      "id": "cb2d33bcefcb5123b8122c18d72f6d39",
+      "title": "Hai Long: Tuyển Việt Nam chịu áp lực rất lớn trước trận đấu Indonesia",
+      "link": "https://tuoitre.vn/hai-long-tuyen-viet-nam-chiu-ap-luc-rat-lon-truoc-tran-dau-indonesia-100260803230845338.htm",
+      "summary": "Cầu thủ Nguyễn Hai Long bày tỏ niềm hạnh phúc khi giúp đội tuyển Việt Nam thắng tưng bừng Indonesia 3-0 ngay trên sân khách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T02:25:48.512513+07:00",
+      "fetched": "2026-08-04T02:25:48.512554+07:00"
+    },
+    {
+      "id": "ac8610887bee95e0606e5974a45f291e",
+      "title": "Bảng xếp hạng ASEAN Cup 2026: Việt Nam vượt lên Singapore, Indonesia",
+      "link": "https://tuoitre.vn/bang-xep-hang-asean-cup-2026-viet-nam-vuot-len-singapore-indonesia-100260803225955944.htm",
+      "summary": "Tuyển Việt Nam đã vươn lên dẫn đầu bảng A ASEAN Cup 2026 sau khi lượt trận thứ 4 kết thúc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T02:25:48.512465+07:00",
+      "fetched": "2026-08-04T02:25:48.512506+07:00"
+    },
+    {
+      "id": "97a859b38658df69e5edd8b9d05c3b12",
+      "title": "Văn Vĩ nhận danh hiệu Cầu thủ xuất sắc nhất trận",
+      "link": "https://tuoitre.vn/van-vi-nhan-danh-hieu-cau-thu-xuat-sac-nhat-tran-100260803231942507.htm",
+      "summary": "Với màn trình diễn xuất sắc, hậu vệ cánh Nguyễn Văn Vĩ được bầu là Cầu thủ xuất sắc nhất trận trong chiến thắng thuyết phục 3-0 của tuyển Việt Nam trước chủ nhà Indonesia tối 3-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T02:25:48.512414+07:00",
+      "fetched": "2026-08-04T02:25:48.512457+07:00"
+    },
+    {
+      "id": "5e3e31f48dd4485571b36a998f1f4281",
+      "title": "CĐV Indonesia: Thất bại trước Việt Nam chỉ là... tai nạn",
+      "link": "https://tuoitre.vn/cdv-indonesia-that-bai-truoc-viet-nam-chi-la-tai-nan-100260803224804917.htm",
+      "summary": "Dù thảm bại 0-3 trước Việt Nam ngay trên sân nhà Pakansari, nhưng các cổ động viên Indonesia vẫn chưa phục lắm. Họ cho rằng kết quả này chỉ là \"tai nạn\" và hẹn Việt Nam ở trận chung kết. Hoặc xa hơn là giải đấu FIFA ASEAN Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T02:25:48.512363+07:00",
+      "fetched": "2026-08-04T02:25:48.512407+07:00"
+    },
+    {
+      "id": "b3f8b3f2115387c7482db84be3841620",
+      "title": "Sau 30 năm, Việt Nam mới lại thắng Indonesia trên sân khách ở ASEAN Cup",
+      "link": "https://tuoitre.vn/sau-30-nam-viet-nam-moi-lai-thang-indonesia-tren-san-khach-o-asean-cup-100260803230113676.htm",
+      "summary": "Sau 30 năm, tuyển Việt Nam mới được hưởng niềm vui ở AFF Cup hay ASEAN Cup trước Indonesia trên sân nhà của họ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T02:25:48.512312+07:00",
+      "fetched": "2026-08-04T02:25:48.512355+07:00"
+    },
+    {
+      "id": "4791ccb981292715dc468a4b4b082110",
+      "title": "Lặn cùng cá mập y tá ở Maldives",
+      "link": "https://tuoitre.vn/lan-cung-ca-map-y-ta-o-maldives-100260803183508803.htm",
+      "summary": "\"Nó không cắn đâu\", câu nói của hướng dẫn viên khiến cô gái Việt Trần Thị Tường Vy mạnh dạn thử lặn cùng cá mập dưới làn nước trong vắt tại quốc đảo Maldives.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T02:25:48.512258+07:00",
+      "fetched": "2026-08-04T02:25:48.512304+07:00"
+    },
+    {
+      "id": "129d181e5c19c8b2bd0b002873f0d5f4",
+      "title": "Tổng thống Mỹ Donald Trump: 'Lãnh đạo Iran là những kẻ hai mặt'",
+      "link": "https://tuoitre.vn/tong-thong-my-donald-trump-lanh-dao-iran-la-nhung-ke-hai-mat-100260803233628533.htm",
+      "summary": "Ông Trump nói Iran \"hai mặt\" khi vừa đề nghị đàm phán, vừa phủ nhận mọi cuộc đối thoại với Washington.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T02:25:48.512204+07:00",
+      "fetched": "2026-08-04T02:25:48.512250+07:00"
+    },
+    {
+      "id": "3900f67660359fdb11d169aaeed2b528",
+      "title": "Báo Indonesia phẫn nộ, yêu cầu thủ môn đội nhà nên ngồi dự bị",
+      "link": "https://tuoitre.vn/bao-indonesia-phan-no-yeu-cau-thu-mon-doi-nha-nen-ngoi-du-bi-100260803234748072.htm",
+      "summary": "Sau thất bại 0-3 trước Việt Nam, thủ môn Nadeo Argawinata hứng chịu “cơn bão chỉ trích” từ dư luận nước này. Báo chí xứ vạn đảo tin rằng màn trình diễn kém cỏi của Nadeo góp phần không nhỏ trong trận thua bạc nhược của Indonesia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T02:25:48.512148+07:00",
+      "fetched": "2026-08-04T02:25:48.512196+07:00"
+    },
+    {
+      "id": "82876ca544f2eb533ab8950ffbab86e3",
+      "title": "Tuyển futsal Việt Nam bất bại ở giải châu lục tại Thái Lan",
+      "link": "https://tuoitre.vn/tuyen-futsal-viet-nam-bat-bai-o-giai-chau-luc-tai-thai-lan-100260803224955568.htm",
+      "summary": "Chiến thắng 2-1 trước Afghanistan giúp đội tuyển futsal Việt Nam tiếp tục bất bại tại Giải giao hữu vô địch futsal châu lục - Thái Lan 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T02:25:48.512090+07:00",
+      "fetched": "2026-08-04T02:25:48.512140+07:00"
+    },
+    {
+      "id": "3dca754f1b8217340dfa7530aa5d2996",
+      "title": "'Nơi trú ẩn' mới cho giới đầu tư bất động sản Mỹ và du khách",
+      "link": "https://tuoitre.vn/noi-tru-an-moi-cho-gioi-dau-tu-bat-dong-san-my-va-du-khach-100260804000537587.htm",
+      "summary": "Sự chuyển dịch từ canh tác anh đào sang sản xuất rượu vang cao cấp cùng lợi thế về khí hậu ôn hòa đang biến thành phố Traverse City, bang Michigan, Mỹ, thành \"nơi trú ẩn\" hấp dẫn cho giới đầu tư bất động sản và du khách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T02:25:48.512026+07:00",
+      "fetched": "2026-08-04T02:25:48.512081+07:00"
+    },
+    {
+      "id": "d2c9a00b018fe1987ae0b706f7467b5c",
+      "title": "Truyền thông khu vực: 'Indonesia bất lực, không làm được gì trước Việt Nam'",
+      "link": "https://tuoitre.vn/truyen-thong-khu-vuc-indonesia-bat-luc-khong-lam-duoc-gi-truoc-viet-nam-100260804001644377.htm",
+      "summary": "Báo chí Đông Nam Á tỏ ra thán phục khi chứng kiến tuyển Việt Nam giành chiến thắng thuyết phục trước Indonesia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T02:25:48.511941+07:00",
+      "fetched": "2026-08-04T02:25:48.512016+07:00"
+    },
+    {
+      "id": "67b35e4318f910b8f89a74e4b9c63c58",
+      "title": "Báo chí Indonesia: Tuyển Indonesia bị Việt Nam hủy diệt với lối chơi pressing tầm cao",
+      "link": "https://tuoitre.vn/bao-chi-indonesia-tuyen-indonesia-bi-viet-nam-huy-diet-voi-loi-choi-pressing-tam-cao-1002608032356085.htm",
+      "summary": "Báo chí Indonesia đã hết lời than khóc cho màn trình diễn tệ hại của đội nhà sau thảm bại 0-3 trước Việt Nam tối 3-8. Họ nhận định \"chiến thuật pressing tầm cao\" của tuyển Việt Nam đã khiến các cầu thủ Indonesia hoảng loạn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T02:25:48.511781+07:00",
+      "fetched": "2026-08-04T02:25:48.511927+07:00"
+    },
     {
       "id": "a410b6825a962e4755a1c2441843e445",
       "title": "Nghiên cứu: Tập một lần mỗi tuần vẫn có thể giảm mỡ bụng",
@@ -151,6 +271,86 @@ window.newsData_2026_08_04 = {
       "category": "Tổng hợp",
       "published": "2026-08-04T00:47:52.463759+07:00",
       "fetched": "2026-08-04T00:47:52.463900+07:00"
+    },
+    {
+      "id": "8398c437cee467793e13f8bc0fbdc350",
+      "title": "Chuyên gia châu Á: ‘Việt Nam thắng Indonesia thật ấn tượng, biết tung những đòn quyết định’",
+      "link": "https://thanhnien.vn/chuyen-gia-chau-a-viet-nam-thang-indonesia-that-an-tuong-biet-tung-nhung-don-quyet-dinh-185260804020121313.htm",
+      "summary": "Đội tuyển Việt Nam có màn trình diễn thuyết phục khi đánh bại Indonesia 3-0, qua đó lấy lại ngôi đầu bảng A ASEAN Cup 2026. Theo chuyên gia Gabriel Tan của ESPN châu Á, đây là dấu hiệu cho thấy nhà đương kim vô địch đã trở lại đúng hướng trong hành trình bảo vệ danh hiệu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-03T19:08:00+07:00",
+      "fetched": "2026-08-04T02:25:46.674538+07:00"
+    },
+    {
+      "id": "a2740bb4d1a76170e372106ff44b5b14",
+      "title": "Đội trưởng Indonesia thừa nhận xứng đáng thua Việt Nam, Hoàng Hên đặc biệt khiêm tốn",
+      "link": "https://thanhnien.vn/doi-truong-indonesia-thua-nhan-xung-dang-thua-viet-nam-hoang-hen-dac-biet-khiem-ton-1852608040130582.htm",
+      "summary": "Thom Haye thừa nhận đội tuyển Indonesia không còn cách nào khác ngoài việc chấp nhận thất bại trước Việt Nam, trong khi Đỗ Hoàng Hên bày tỏ sự tự hào sau chiến thắng 3-0 ngay trên sân Pakansari.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-03T19:04:00+07:00",
+      "fetched": "2026-08-04T02:25:46.674691+07:00"
+    },
+    {
+      "id": "1fe1f8981a4c6e935c8d9436c7989c29",
+      "title": "'Cao bồi nhí' quăng dây thòng lọng cứu người đuối nước",
+      "link": "https://vnexpress.net/cao-boi-nhi-quang-day-thong-long-cuu-nguoi-duoi-nuoc-5104747.html",
+      "summary": "Thấy người đàn ông bị dòng nước xiết cuốn trôi, Jory Thomas nhanh trí dùng sợi dây thòng lọng chăn bò quăng trúng nạn nhân rồi kéo vào bờ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-03T19:00:00+07:00",
+      "fetched": "2026-08-04T02:25:50.139885+07:00"
+    },
+    {
+      "id": "2dfcba9d51a21045703f991e568ecf5f",
+      "title": "Lộ tâm trạng cầu thủ Indonesia sau trận thua đậm Việt Nam, ai bị chỉ trích nặng nhất?",
+      "link": "https://thanhnien.vn/lo-tam-trang-cau-thu-indonesia-sau-tran-thua-viet-nam-ai-bi-chi-trich-nang-nhat-185260804010102544.htm",
+      "summary": "Sau thất bại 0-3 trước đội tuyển Việt Nam, các cầu thủ Indonesia lộ rõ vẻ thất vọng. Thủ môn Nadeo Argawinata và đội trưởng Rizky Ridho trở thành tâm điểm chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-03T18:07:00+07:00",
+      "fetched": "2026-08-04T02:25:46.674828+07:00"
+    },
+    {
+      "id": "3ed6578102d570b7f725ec1375ea8d26",
+      "title": "Điều gì khiến vợ chồng lệch nhịp ham muốn?",
+      "link": "https://vnexpress.net/dieu-gi-khien-vo-chong-lech-nhip-ham-muon-5104327.html",
+      "summary": "Áp lực tài chính, căng thẳng kéo dài hay thiếu ngủ có thể khiến một người muốn gần gũi nhưng người còn lại né tránh, tạo khoảng cách trong đời sống vợ chồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-03T18:00:47+07:00",
+      "fetched": "2026-08-04T02:25:43.961190+07:00"
+    },
+    {
+      "id": "fb24b596d431cde8095e6b75d4f1ff59",
+      "title": "Tình cảnh khiến gần hai triệu người Mỹ thất nghiệp dài hạn",
+      "link": "https://vnexpress.net/tinh-canh-khien-gan-hai-trieu-nguoi-my-that-nghiep-dai-han-5104489.html",
+      "summary": "Thị trường lao động Mỹ có dấu hiệu cải thiện, nhưng gần hai triệu người vẫn không tìm được việc trong ít nhất nửa năm, khi tốc độ tuyển dụng trì trệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-03T18:00:00+07:00",
+      "fetched": "2026-08-04T02:25:43.961355+07:00"
+    },
+    {
+      "id": "fb24b596d431cde8095e6b75d4f1ff59",
+      "title": "Tình cảnh khiến gần hai triệu người Mỹ thất nghiệp dài hạn",
+      "link": "https://vnexpress.net/tinh-canh-khien-gan-hai-trieu-nguoi-my-that-nghiep-dai-han-5104489.html",
+      "summary": "Thị trường lao động Mỹ có dấu hiệu cải thiện, nhưng gần hai triệu người vẫn không tìm được việc trong ít nhất nửa năm, khi tốc độ tuyển dụng trì trệ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-03T18:00:00+07:00",
+      "fetched": "2026-08-04T02:25:50.140057+07:00"
+    },
+    {
+      "id": "ec758fc3019946336cd2598a8b59cb6e",
+      "title": "Chuyên gia địa chất: 'Rồng đá' Lai Châu đặc biệt hiếm gặp",
+      "link": "https://vnexpress.net/chuyen-gia-dia-chat-rong-da-lai-chau-dac-biet-hiem-gap-5104585.html",
+      "summary": "Dài khoảng 10 km, rộng 100-600 m và vẫn đang phát triển, \"rồng đá\" Nậm Vời được đánh giá đặc biệt hiếm gặp, có thể trở thành điểm nghiên cứu địa chất của thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-03T17:31:08+07:00",
+      "fetched": "2026-08-04T02:25:43.961496+07:00"
     },
     {
       "id": "c689d800756ba19ded19c945936fc5a9",
