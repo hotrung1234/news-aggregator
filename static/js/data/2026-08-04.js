@@ -1,7 +1,107 @@
 window.newsData_2026_08_04 = {
   "date": "2026-08-04",
-  "lastUpdated": "2026-08-04T05:56:45.359465+07:00",
+  "lastUpdated": "2026-08-04T09:10:10.784005+07:00",
   "articles": [
+    {
+      "id": "bdc4dc1d310acb92b17befa843dac302",
+      "title": "Thời tiết hôm nay 4-8: Bắc Bộ vẫn mưa rất to, chú ý lũ, sạt lở nghiêm trọng",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-4-8-bac-bo-van-mua-rat-to-chu-y-lu-sat-lo-nghiem-trong-100260803162208994.htm",
+      "summary": "Hôm nay 4-8, những cơn mưa lớn vẫn trút xuống Bắc Bộ, đề phòng lũ quét, sạt lở gây nguy hiểm tới tính mạng người dân và tài sản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T09:10:04.941670+07:00",
+      "fetched": "2026-08-04T09:10:04.941718+07:00"
+    },
+    {
+      "id": "ea9d3cbab77a4440cf17677dc56d466e",
+      "title": "Lý giải pha ăn mừng của Hai Long vào lưới Indonesia",
+      "link": "https://tuoitre.vn/ly-giai-pha-an-mung-cua-hai-long-vao-luoi-indonesia-100260804001717292.htm",
+      "summary": "Sau khi ghi bàn thắng thứ 2 vào lưới Indonesia tối 3-8, Hai Long đã có màn ăn mừng độc đáo: chạy ra đường biên, hướng về ống kính và chỉ tay vào áo, nơi in logo ASEAN Cup 2026. Vì sao Hai Long lại có pha ăn mừng khó hiểu như vậy?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T09:10:04.941628+07:00",
+      "fetched": "2026-08-04T09:10:04.941664+07:00"
+    },
+    {
+      "id": "314b99c10f91ec2a4121a745c4303d24",
+      "title": "Tổng thống Indonesia: 'Đội tuyển chúng ta xứng đáng giành vé World Cup 2030'",
+      "link": "https://tuoitre.vn/tong-thong-indonesia-doi-tuyen-chung-ta-xung-dang-gianh-ve-world-cup-2030-100260803231443845.htm",
+      "summary": "Ngay trước thềm trận đấu với tuyển Việt Nam ở ASEAN Cup diễn ra tối 3-8, Tổng thống Indonesia - ông Prabowo Subianto đưa ra phát biểu đáng chú ý về tham vọng của nền bóng đá nước nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T09:10:04.941586+07:00",
+      "fetched": "2026-08-04T09:10:04.941622+07:00"
+    },
+    {
+      "id": "a17900f9d1ae08f2e5908377c7824ae7",
+      "title": "Tin tức sáng 4-8: Thu ngân sách 7 tháng vượt 1,8 triệu tỉ; TP.HCM thúc tiến độ 29 trường học xong trong tháng 8",
+      "link": "https://tuoitre.vn/tin-tuc-sang-4-8-thu-ngan-sach-7-thang-vuot-18-trieu-ti-tphcm-thuc-tien-do-29-truong-hoc-xong-trong-thang-8-100260803230755098.htm",
+      "summary": "Tin tức đáng chú ý: Thu ngân sách 7 tháng vượt 1,8 triệu tỉ; TP.HCM thúc tiến độ 29 dự án trường học xong trong tháng 8; Quốc hội thảo luận sửa 9 luật về quân sự, quốc phòng và nhiều nội dung quan trọng...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T09:10:04.941543+07:00",
+      "fetched": "2026-08-04T09:10:04.941579+07:00"
+    },
+    {
+      "id": "2a3fb83e17d940cc85a1a5310c02b19b",
+      "title": "Lịch trực tiếp ASEAN Cup 2026 ngày 4-8: Philippines đấu Thái Lan",
+      "link": "https://tuoitre.vn/lich-truc-tiep-asean-cup-2026-ngay-4-8-philippines-dau-thai-lan-100260803160845152.htm",
+      "summary": "Tuyển Philippines sẽ đối đầu Thái Lan ở lượt trận thứ 4 bảng B ASEAN Cup 2026, vào lúc 20h ngày 4-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T09:10:04.941501+07:00",
+      "fetched": "2026-08-04T09:10:04.941537+07:00"
+    },
+    {
+      "id": "76a140c6222652bd2a688ef1706b15da",
+      "title": "Nên ăn gì để giảm nguy cơ sỏi thận?",
+      "link": "https://tuoitre.vn/nen-an-gi-de-giam-nguy-co-soi-than-100260803183555908.htm",
+      "summary": "Uống không đủ nước vẫn là nguyên nhân hàng đầu làm tăng nguy cơ sỏi thận. Tuy nhiên, chế độ ăn uống cũng đóng vai trò rất quan trọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T09:10:04.941455+07:00",
+      "fetched": "2026-08-04T09:10:04.941494+07:00"
+    },
+    {
+      "id": "de59c09c3c5bda87504ce9d35b44674f",
+      "title": "Màn trình diễn cao tay của HLV Kim Sang Sik",
+      "link": "https://tuoitre.vn/man-trinh-dien-cao-tay-cua-hlv-kim-sang-sik-100260803225232334.htm",
+      "summary": "Tối 3-8, đội tuyển Việt Nam thắng Indonesia 3-0 ngay trên sân khách theo cách không tưởng, nhờ sự bất ngờ trong đấu pháp và nhân sự của HLV Kim Sang Sik.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T09:10:04.941407+07:00",
+      "fetched": "2026-08-04T09:10:04.941448+07:00"
+    },
+    {
+      "id": "295bf89b646ead509e8f560fa9c405c8",
+      "title": "Tuyển Việt Nam khiến HLV Indonesia không thể 'biến mất' ở băng ghế huấn luyện",
+      "link": "https://tuoitre.vn/tuyen-viet-nam-khien-hlv-indonesia-khong-the-bien-mat-o-bang-ghe-huan-luyen-10026080400291558.htm",
+      "summary": "HLV John Herdman của tuyển Indonesia không thể đứng yên trên khán đài chỉ đạo trong trận đấu với Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T09:10:04.941358+07:00",
+      "fetched": "2026-08-04T09:10:04.941400+07:00"
+    },
+    {
+      "id": "1be29d111f0bc109fb6edc1085f1b097",
+      "title": "Tin tức thế giới 4-8: Ukraine bãi nhiệm đại sứ tại Mỹ; \n'Cơ hội đàm phán cuối cùng' của Iran với Mỹ",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-4-8-ukraine-bai-nhiem-dai-su-tai-my-co-hoi-dam-phan-cuoi-cung-cua-iran-voi-my-100260804063550012.htm",
+      "summary": "Ông Trump dọa 'chặt đầu' Iran nếu không đàm phán ở 'cơ hội cuối cùng'; Cuba mất điện lần 2 trong chưa đầy 24 giờ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T09:10:04.941298+07:00",
+      "fetched": "2026-08-04T09:10:04.941351+07:00"
+    },
+    {
+      "id": "10e5a2630f8d128b2d74a1145e02f5ad",
+      "title": "Cựu tuyển thủ Tuấn Phong: HLV Kim Sang Sik hay khi dám để Xuân Son ngồi ngoài",
+      "link": "https://tuoitre.vn/cuu-tuyen-thu-tuan-phong-hlv-kim-sang-sik-hay-khi-dam-de-xuan-son-ngoi-ngoai-100260804005300398.htm",
+      "summary": "Bình luận sau trận thắng 3-0 của đội tuyển Việt Nam trước Indonesia ở ASEAN Cup 2026, cựu tuyển thủ Nguyễn Tuấn Phong đánh giá cao chiến thuật của HLV Kim Sang Sik.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T09:10:04.941167+07:00",
+      "fetched": "2026-08-04T09:10:04.941288+07:00"
+    },
     {
       "id": "9b8a3389062e524baa9799d76fa68796",
       "title": "AFC khen ngợi tuyển Việt Nam sau chiến thắng trước Indonesia",
@@ -141,6 +241,316 @@ window.newsData_2026_08_04 = {
       "category": "Tổng hợp",
       "published": "2026-08-04T02:25:48.511781+07:00",
       "fetched": "2026-08-04T02:25:48.511927+07:00"
+    },
+    {
+      "id": "bdde35565faee5adc05d576534323bf7",
+      "title": "Chiếc bánh được mệnh danh thời trang và đẹp nhất thế giới",
+      "link": "https://thanhnien.vn/chiec-banh-duoc-menh-danh-thoi-trang-va-dep-nhat-the-gioi-185260804083243032.htm",
+      "summary": "Có những chiếc bánh trông đẹp đến nỗi không nỡ ăn. Một trong số đó là bánh principessa (bánh công chúa) của Sant Ambroeus, có mặt ở New York Mỹ nhưng xuất xứ từ Milan, Ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T02:09:00+07:00",
+      "fetched": "2026-08-04T09:10:03.176951+07:00"
+    },
+    {
+      "id": "97473ebef3dae10da9f3476c0a295ecf",
+      "title": "Sân bay duy nhất tại Việt Nam mang hình dáng hoa dã quỳ sắp tái xuất",
+      "link": "https://thanhnien.vn/san-bay-duy-nhat-tai-viet-nam-mang-hinh-dang-hoa-da-quy-sap-tai-xuat-185260804085634552.htm",
+      "summary": "Bạn có biết, tại Việt Nam có một sân bay sở hữu thiết kế vô cùng đặc biệt, được lấy cảm hứng từ loài hoa dã quỳ - biểu tượng rực rỡ của vùng đất cao nguyên?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T02:08:00+07:00",
+      "fetched": "2026-08-04T09:10:03.177069+07:00"
+    },
+    {
+      "id": "8313c33e7978499dc3edd5d3543d446c",
+      "title": "Đâu là tinh thần cốt lõi của học thật, thi thật, nhân tài thật, giá trị thật?",
+      "link": "https://thanhnien.vn/dau-la-tinh-than-cot-loi-cua-hoc-that-thi-that-nhan-tai-that-gia-tri-that-185260804085719739.htm",
+      "summary": "Khi trí tuệ nhân tạo (AI) có thể trả lời hầu hết câu hỏi chỉ trong vài giây, tri thức không còn chủ yếu được tiếp cận qua nhà trường và người thầy, giáo dục đứng trước câu hỏi lớn: Trường học sẽ dạy gì để con người không bị máy móc thay thế?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T02:00:00+07:00",
+      "fetched": "2026-08-04T09:10:03.177179+07:00"
+    },
+    {
+      "id": "0fae39e299abbcc85d7df6701043245d",
+      "title": "Bức thư cuối cùng của liệt sĩ Nguyễn Đức Dục: Hẹn ngày thống nhất Tổ quốc",
+      "link": "https://thanhnien.vn/buc-thu-cuoi-cung-cua-liet-si-nguyen-duc-duc-hen-ngay-thong-nhat-to-quoc-185260804001517735.htm",
+      "summary": "Hơn nửa thế kỷ qua, gia đình ông Nguyễn Văn Tiến vẫn gìn giữ những lá thư, kỷ vật của liệt sĩ Nguyễn Đức Dục. Trong đó, bức thư cuối cùng với lời hẹn 'ngày thống nhất không còn xa' khiến ai cũng nghẹn ngào mỗi khi nhắc lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T02:00:00+07:00",
+      "fetched": "2026-08-04T09:10:03.177278+07:00"
+    },
+    {
+      "id": "cc549be38d49c05e26d74b8cb9cdffad",
+      "title": "Khi 'thợ đụng' kiếm việc bằng một cú chạm",
+      "link": "https://thanhnien.vn/khi-tho-dung-kiem-viec-bang-mot-cu-cham-185260803200658918.htm",
+      "summary": "Ngày càng có nhiều ứng dụng công nghệ trong lĩnh vực chăm sóc nhà cửa, kết nối giữa khách hàng và thợ. Từ đây, không ít \"thợ đụng\" có cơ hội tìm được việc làm thêm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T02:00:00+07:00",
+      "fetched": "2026-08-04T09:10:03.177373+07:00"
+    },
+    {
+      "id": "f02f02183635ad916ddf1ab8e8c53d16",
+      "title": "Người gieo những thanh âm thiện lành",
+      "link": "https://thanhnien.vn/nguoi-gieo-nhung-thanh-am-thien-lanh-185260725152442631.htm",
+      "summary": "Suốt nhiều năm qua, giữa Sài Gòn nhộn nhịp, một không gian nhỏ vẫn vang tiếng đàn và những bài luyện thanh quen thuộc. Từ nơi ấy, biết bao người được chắp cánh để theo đuổi đam mê nghệ thuật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T02:00:00+07:00",
+      "fetched": "2026-08-04T09:10:03.177468+07:00"
+    },
+    {
+      "id": "ae1a4df9575c98c7a3f93d9bf5133b44",
+      "title": "Rộ tin Mỹ sắp đóng cửa cơ quan ngoại giao tại 5 nước",
+      "link": "https://thanhnien.vn/ro-tin-my-sap-dong-cua-co-quan-ngoai-giao-tai-5-nuoc-185260804080243923.htm",
+      "summary": "Giới thạo tin cho hay Mỹ có kế hoạch đóng cửa các cơ quan đại diện tại Medan (Indonesia), Nagoya (Nhật Bản), Winnipeg (Canada), St. George's (Grenada) và Douala (Cameroon).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T01:54:00+07:00",
+      "fetched": "2026-08-04T09:10:03.177559+07:00"
+    },
+    {
+      "id": "9047d665eb6fcdf65731a2d451836a9b",
+      "title": "Giá USD hôm nay 4.8.2026: Tỷ giá trung tâm tiếp tục tăng",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-482026-ty-gia-trung-tam-tiep-tuc-tang-185260804082623173.htm",
+      "summary": "Giá USD trong ngân hàng thương mại quay đầu giảm dù tỷ giá trung tâm tiếp tục tăng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T01:50:00+07:00",
+      "fetched": "2026-08-04T09:10:03.177648+07:00"
+    },
+    {
+      "id": "65640c43c10f4dc4db3817a7cf2b4ace",
+      "title": "Giá vàng hôm nay 4.8.2026: Tiếp tục trượt giảm",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-482026-tiep-tuc-truot-giam-185260804084143501.htm",
+      "summary": "Giá vàng trong nước tiếp tục giảm khoảng 1 triệu đồng mỗi lượng, tốc độ giảm giá của vàng miếng SJC nhanh hơn so với thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T01:49:00+07:00",
+      "fetched": "2026-08-04T09:10:03.177760+07:00"
+    },
+    {
+      "id": "ebcd35c93231c3b6482fc026ee0cd2ab",
+      "title": "OpenAI có 1 tỉ người dùng nhưng vẫn chưa giải được bài toán lợi nhuận",
+      "link": "https://thanhnien.vn/openai-co-1-ti-nguoi-dung-nhung-van-chua-giai-duoc-bai-toan-loi-nhuan-185260803230700048.htm",
+      "summary": "OpenAI tiếp tục mở rộng quy mô người dùng và giảm giá mô hình, nhưng doanh thu tăng vẫn chưa bù được chi phí vận hành hạ tầng AI.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T01:48:00+07:00",
+      "fetched": "2026-08-04T09:10:03.177853+07:00"
+    },
+    {
+      "id": "08215a48429794257185ff05eb46cd55",
+      "title": "Hai người đi bộ dưới lòng đường bị ôtô tông",
+      "link": "https://vnexpress.net/hai-nguoi-di-bo-duoi-long-duong-bi-oto-tong-5104611.html",
+      "summary": "Ôtô chạy nhanh không giảm tốc, trong khi hai người đi bộ dưới lòng đường ngược chiều, hôm 2/8 tại Nguyễn Duy Hiệu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T01:47:18+07:00",
+      "fetched": "2026-08-04T09:09:59.109415+07:00"
+    },
+    {
+      "id": "a4bdacc61ade84d765b38f1dcb6d8a89",
+      "title": "Sự kiên nhẫn của HLV Kim Sang-sik với Nguyễn Đình Bắc",
+      "link": "https://thanhnien.vn/su-kien-nhan-cua-hlv-kim-sang-sik-voi-nguyen-dinh-bac-185260804083201485.htm",
+      "summary": "Quyết định tiếp tục tin tưởng Nguyễn Đình Bắc ở đội tuyển Việt Nam thắng Indonesia 3-0 cho thấy cách dùng người tinh tế của HLV Kim Sang-sik.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T01:47:00+07:00",
+      "fetched": "2026-08-04T09:10:03.177948+07:00"
+    },
+    {
+      "id": "f2702ccb4e9728f804fc2e9d0e85cab8",
+      "title": "Ngắm tuyệt tác từ nham thạch triệu năm bên gành Đá Đỏ",
+      "link": "https://thanhnien.vn/ngam-tuyet-tac-tu-nham-thach-trieu-nam-ben-ganh-da-do-185260804064926032.htm",
+      "summary": "Giữa những điểm đến ngày càng đông đúc của du lịch biển miền Trung, gành Đá Đỏ (xã Đông Sơn, Quảng Ngãi) vẫn giữ cho mình vẻ đẹp nguyên sơ hiếm có. Nơi đây chinh phục du khách bằng những khối đá màu nâu đỏ vô cùng độc đáo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T01:44:00+07:00",
+      "fetched": "2026-08-04T09:10:03.178038+07:00"
+    },
+    {
+      "id": "cae7f454477ff15270d2d07b8eb50137",
+      "title": "Loạt 'ông lớn' hàng không châu Á dồn dập tới khảo sát siêu sân bay Long Thành",
+      "link": "https://thanhnien.vn/loat-ong-lon-hang-khong-chau-a-don-dap-toi-khao-sat-sieu-san-bay-long-thanh-185260804083723907.htm",
+      "summary": "Chỉ còn 1 tháng trước giai đoạn chính thức đưa vào khai thác thử nghiệm, Cảng hàng không quốc tế (HKQT) Long Thành liên tục đón tiếp các đoàn công tác cấp cao từ các doanh nghiệp hàng không top đầu châu Á đến khảo sát thực địa nhằm chuẩn bị cho kế hoạch khai thác sắp tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T01:43:00+07:00",
+      "fetched": "2026-08-04T09:10:03.178129+07:00"
+    },
+    {
+      "id": "451bd0c85f44837a49c54c3e70658a69",
+      "title": "Tìm một người để cùng nhau gọi là 'nhà'",
+      "link": "https://vnexpress.net/tim-mot-nguoi-de-cung-nhau-goi-la-nha-5104833.html",
+      "summary": "Mình sinh năm 1998, làm công việc thí nghiệm điện, ngày nào cũng tiếp xúc với máy móc, tủ điện và những con số.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T01:42:34+07:00",
+      "fetched": "2026-08-04T09:09:59.109544+07:00"
+    },
+    {
+      "id": "2af1a57039f2bbc91e7ed6e0c33408d9",
+      "title": "Nhà sáng lập Dell tiết lộ trang giấy 'thay đổi cuộc đời'",
+      "link": "https://vnexpress.net/nha-sang-lap-dell-tiet-lo-trang-giay-thay-doi-cuoc-doi-5104843.html",
+      "summary": "Michael Dell, nhà sáng lập kiêm CEO công ty máy tính Dell, đăng ảnh chụp báo cáo kết quả kinh doanh theo quý của công ty ngày 31/7/1984, giúp thuyết phục cha mẹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T01:28:09+07:00",
+      "fetched": "2026-08-04T09:09:59.109656+07:00"
+    },
+    {
+      "id": "389456479d1d2817519f739cfa01591d",
+      "title": "Lịch thi đấu mới nhất đội tuyển Việt Nam - Campuchia trên sân Mỹ Đình, xác định các kênh phát",
+      "link": "https://thanhnien.vn/lich-thi-dau-moi-nhat-doi-tuyen-viet-nam-campuchia-tren-san-my-dinh-xac-dinh-cac-kenh-phat-185260804075717026.htm",
+      "summary": "Đội tuyển Việt Nam sẽ trở về sân Mỹ Đình để tiếp đón Campuchia ở lượt trận cuối bảng A ASEAN Cup 2026. Trận đấu có ý nghĩa quan trọng trong cuộc đua giành ngôi đầu bảng, đồng thời quyết định tấm vé vào bán kết của thầy trò HLV Kim Sang-sik.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T01:25:00+07:00",
+      "fetched": "2026-08-04T09:10:03.178219+07:00"
+    },
+    {
+      "id": "14b420b40e31c9e3f9e47701bc970405",
+      "title": "Tìm người đủ chín chắn để cùng nhau cố gắng",
+      "link": "https://vnexpress.net/tim-nguoi-du-chin-chan-de-cung-nhau-co-gang-5104834.html",
+      "summary": "Mình sinh năm 2003, sống và làm việc tại Bình Dương với công việc là giáo viên tiếng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T01:20:18+07:00",
+      "fetched": "2026-08-04T09:09:59.109778+07:00"
+    },
+    {
+      "id": "a43978a6eb1133ac30936e2a714d3944",
+      "title": "Mong gặp người biết yêu thương và sẻ chia",
+      "link": "https://vnexpress.net/mong-gap-nguoi-biet-yeu-thuong-va-se-chia-5104835.html",
+      "summary": "Em sống và làm việc tại thành phố Cần Thơ, theo đạo Phật, là giảng viên đại học.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T01:19:58+07:00",
+      "fetched": "2026-08-04T09:09:59.109881+07:00"
+    },
+    {
+      "id": "a1d09da2b4633ea4f21f5d1ceba162c2",
+      "title": "Nga cáo buộc Ukraine tập kích bãi biển khiến 7 dân thường thiệt mạng",
+      "link": "https://vnexpress.net/nga-cao-buoc-ukraine-tap-kich-bai-bien-khien-7-dan-thuong-thiet-mang-5104872.html",
+      "summary": "Ít nhất 7 người đã thiệt mạng trong đợt tập kích của Ukraine nhằm vào làng nghỉ mát Arkhipo-Osipovka ven biển Đen, theo chính quyền vùng Krasnodar của Nga.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T01:12:13+07:00",
+      "fetched": "2026-08-04T09:09:59.109984+07:00"
+    },
+    {
+      "id": "a1d09da2b4633ea4f21f5d1ceba162c2",
+      "title": "Nga cáo buộc Ukraine tập kích bãi biển khiến 7 dân thường thiệt mạng",
+      "link": "https://vnexpress.net/nga-cao-buoc-ukraine-tap-kich-bai-bien-khien-7-dan-thuong-thiet-mang-5104872.html",
+      "summary": "Ít nhất 7 người đã thiệt mạng trong đợt tập kích của Ukraine nhằm vào làng nghỉ mát Arkhipo-Osipovka ven biển Đen, theo chính quyền vùng Krasnodar của Nga.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-04T01:12:13+07:00",
+      "fetched": "2026-08-04T09:10:06.097951+07:00"
+    },
+    {
+      "id": "1d2a6becf5994e546c1a791353324388",
+      "title": "Giá Bitcoin hôm nay 4.8.2026: Strategy tiếp tục bán Bitcoin",
+      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-482026-strategy-tiep-tuc-ban-bitcoin-185260804075405228.htm",
+      "summary": "Giá Bitcoin hôm nay tăng nhẹ lên 63.000 USD bất chấp thông tin Strategy công bố việc bán thêm 1.638 Bitcoin.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T01:09:00+07:00",
+      "fetched": "2026-08-04T09:10:03.178313+07:00"
+    },
+    {
+      "id": "c1e1e38a01ebe516ffcd2433224585db",
+      "title": "Cả họ cấp tốc dạy chặt gà cho thanh niên 'ghi điểm' bố vợ tương lai",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-ca-ho-cap-toc-day-chat-ga-cho-thanh-nien-ghi-diem-bo-vo-tuong-lai-5104738.html",
+      "summary": "Vừa đến tuổi yêu đương, chàng trai đã được cả đại gia đình quây kín truyền dạy bí quyết chặt gà đẹp như đầu bếp chuyên nghiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T01:00:00+07:00",
+      "fetched": "2026-08-04T09:09:59.110085+07:00"
+    },
+    {
+      "id": "0446ea0072a319045e9c875ea4d0f165",
+      "title": "Rối loạn lo âu kèm ám ảnh với đồ ăn, thức uống",
+      "link": "https://vnexpress.net/roi-loan-lo-au-kem-am-anh-voi-do-an-thuc-uong-5104874.html",
+      "summary": "Anh Hùng, 35 tuổi, tim đập nhanh, tức ngực, khó thở, hoảng loạn, bác sĩ chẩn đoán rối loạn lo âu kèm ám ảnh với đồ ăn, thức uống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T01:00:00+07:00",
+      "fetched": "2026-08-04T09:09:59.110183+07:00"
+    },
+    {
+      "id": "2d4d560b3c0aeb9c1b985998aaff5f85",
+      "title": "U mạch máu chèn ép dây thần kinh đầu gối",
+      "link": "https://vnexpress.net/u-mach-mau-chen-ep-day-than-kinh-dau-goi-5104873.html",
+      "summary": "Chị Nhi, 37 tuổi, điều trị thoái hóa khớp gối 10 năm, nay đau nhiều, chụp CT phát hiện khối u mạch máu chèn ép dây thần kinh đầu gối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T01:00:00+07:00",
+      "fetched": "2026-08-04T09:09:59.110280+07:00"
+    },
+    {
+      "id": "1b35d171e6afc16ee978735b126822dd",
+      "title": "Khu Nam TP HCM thêm động lực nhờ hạ tầng mở rộng",
+      "link": "https://vnexpress.net/khu-nam-tp-hcm-them-dong-luc-nho-ha-tang-mo-rong-5104790.html",
+      "summary": "Các dự án giao thông đang triển khai, trong đó có cầu đường Bình Tiên, kỳ vọng cải thiện kết nối cho khu Nam TP HCM, tạo dư địa phát triển đô thị cho quận 8, Bình Chánh (cũ).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T01:00:00+07:00",
+      "fetched": "2026-08-04T09:09:59.110382+07:00"
+    },
+    {
+      "id": "cedac31781cc62b59a73777289ad0c0f",
+      "title": "Loét động mạch chủ kèm ung thư thận",
+      "link": "https://vnexpress.net/loet-dong-mach-chu-kem-ung-thu-than-5104780.html",
+      "summary": "Ông Tuấn, 59 tuổi, đau ngực âm ỉ, bác sĩ chẩn đoán loét động mạch chủ dọa vỡ kèm ung thư thận và can thiệp kịp thời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T01:00:00+07:00",
+      "fetched": "2026-08-04T09:09:59.110479+07:00"
+    },
+    {
+      "id": "0b7d7a22134631a0e3550ff137509a85",
+      "title": "5 yếu tố giúp Festival Island Nha Trang hút đầu tư",
+      "link": "https://vnexpress.net/5-yeu-to-giup-festival-island-nha-trang-hut-dau-tu-5104724.html",
+      "summary": "Festival Island Nha Trang được định vị là \"vùng xanh sinh lời bền vững\" nhờ vị trí trung tâm, hệ sinh thái trải nghiệm 24/7 từ Sun Group, tầm nhìn sông, núi, biển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T01:00:00+07:00",
+      "fetched": "2026-08-04T09:09:59.110576+07:00"
+    },
+    {
+      "id": "237324a4ac068dd8abe15140c5434b39",
+      "title": "PhenikaaMec cứu người bệnh thoát nguy cơ ngừng tim",
+      "link": "https://vnexpress.net/phenikaamec-cuu-nguoi-benh-thoat-nguy-co-ngung-tim-5104620.html",
+      "summary": "Người bệnh 69 tuổi, quê Hà Tĩnh, nhịp tim dưới 30 lần/phút, nguy cơ ngừng tim được bác sĩ Bệnh viện Đại học Phenikaa cấy máy tạo nhịp vĩnh viễn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T01:00:00+07:00",
+      "fetched": "2026-08-04T09:09:59.110679+07:00"
+    },
+    {
+      "id": "d9275646c8abb015c706b86c3d6a6486",
+      "title": "Ẩm thực Quảng Đông của Dim Tu Tac có mặt tại Topaz City",
+      "link": "https://vnexpress.net/am-thuc-quang-dong-cua-dim-tu-tac-co-mat-tai-topaz-city-5104038.html",
+      "summary": "Dim Tu Tac khai trương chi nhánh tại Topaz City, mở rộng hệ thống với không gian mới, phục vụ thực đơn Quảng Đông chuẩn vị và trải nghiệm đồng nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T01:00:00+07:00",
+      "fetched": "2026-08-04T09:09:59.110790+07:00"
+    },
+    {
+      "id": "7579ab715e80ae12ca67f1ef7cdcc851",
+      "title": "Kizuna bắt tay Lysaght phát triển nhà xưởng dịch vụ chất lượng cao",
+      "link": "https://vnexpress.net/kizuna-bat-tay-lysaght-phat-trien-nha-xuong-dich-vu-chat-luong-cao-5103839.html",
+      "summary": "Kizuna và Lysaght vừa ký kết hợp tác chiến lược cho dự án nhà xưởng Kizuna 5 quy mô 8,5 ha, tổng vốn hơn 1.717 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-04T01:00:00+07:00",
+      "fetched": "2026-08-04T09:09:59.110884+07:00"
     },
     {
       "id": "a410b6825a962e4755a1c2441843e445",
@@ -293,6 +703,56 @@ window.newsData_2026_08_04 = {
       "fetched": "2026-08-04T00:47:52.463900+07:00"
     },
     {
+      "id": "4c4227d55f4bb5b5c85af2876be1a4e6",
+      "title": "Đô thị lớn của Mỹ ngày càng vắng bóng trẻ em",
+      "link": "https://vnexpress.net/do-thi-lon-cua-my-ngay-cang-vang-bong-tre-em-5104436.html",
+      "summary": "Khi vợ chồng Escobedo đến Willows, Texas 25 năm trước, khu phố luôn đông đúc trẻ em, nhưng cảnh tượng quen thuộc bây giờ là những người hàng xóm nghỉ hưu chăm vườn tược.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-04T00:34:53+07:00",
+      "fetched": "2026-08-04T09:10:06.098069+07:00"
+    },
+    {
+      "id": "0f5ed3ad00c85c7e04207267e95195a7",
+      "title": "Ông Zelensky bãi nhiệm đại sứ Ukraine tại Mỹ",
+      "link": "https://vnexpress.net/ong-zelensky-bai-nhiem-dai-su-ukraine-tai-my-5104866.html",
+      "summary": "Tổng thống Zelensky bãi nhiệm đại sứ tại Mỹ Olga Stefanishyna trong đợt cải tổ chính phủ của Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-04T00:12:32+07:00",
+      "fetched": "2026-08-04T09:10:06.098177+07:00"
+    },
+    {
+      "id": "fb6066e0cd4d99d928002e6e83f6cc62",
+      "title": "Ông Trump: Mỹ đang cho Iran 'cơ hội cuối cùng'",
+      "link": "https://vnexpress.net/ong-trump-my-dang-cho-iran-co-hoi-cuoi-cung-5104861.html",
+      "summary": "Tổng thống Trump nói các cuộc đàm phán giữa Mỹ và Iran vẫn diễn ra và Tehran đang đứng trước cơ hội cuối cùng nếu không muốn phải trả giá đắt.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-03T23:47:01+07:00",
+      "fetched": "2026-08-04T09:10:06.098289+07:00"
+    },
+    {
+      "id": "269c57bb85b62a428540b6b3edbe10b7",
+      "title": "Vì sao Việt Nam chưa vào bán kết ASEAN Cup 2026?",
+      "link": "https://vnexpress.net/vi-sao-viet-nam-chua-vao-ban-ket-asean-cup-2026-5104854.html",
+      "summary": "Dù đè bẹp Indonesia, Việt Nam chưa chắc chắn vượt qua bảng A, thậm chí có thể bị loại nếu thua Campuchia 0-9 ở lượt cuối ASEAN Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-03T23:09:57+07:00",
+      "fetched": "2026-08-04T09:10:10.763509+07:00"
+    },
+    {
+      "id": "a72ceea975b099bfa9e9aaf263d86ea3",
+      "title": "Đội trưởng Indonesia: 'Thất vọng và bế tắc sau khi thua Việt Nam'",
+      "link": "https://vnexpress.net/doi-truong-indonesia-that-vong-va-be-tac-sau-khi-thua-viet-nam-5104856.html",
+      "summary": "Rizky Ridho thừa nhận Indonesia chịu tâm lý nặng nề sau khi thua Việt Nam 0-3 ở ASEAN Cup 2026, nhưng tin đội nhà sẽ đứng dậy một cách mạnh mẽ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-03T23:02:23+07:00",
+      "fetched": "2026-08-04T09:10:10.763633+07:00"
+    },
+    {
       "id": "417ae5433a00700178c06acfb17ec1f0",
       "title": "Siết trách nhiệm hiệu trưởng về ngộ độc thực phẩm",
       "link": "https://thanhnien.vn/siet-trach-nhiem-hieu-truong-ve-ngo-doc-thuc-pham-185260803172039552.htm",
@@ -333,6 +793,16 @@ window.newsData_2026_08_04 = {
       "fetched": "2026-08-04T05:56:36.314242+07:00"
     },
     {
+      "id": "13662325a00f84a1d0265d4b806b9316",
+      "title": "Nghi vấn gian lận bằng áo ngực tại Tour de France nữ",
+      "link": "https://vnexpress.net/nghi-van-gian-lan-bang-ao-nguc-tai-tour-de-france-nu-5104804.html",
+      "summary": "Nhiều đội đua thuộc hệ thống WorldTour đề nghị tăng cường kiểm tra sau khi nghi ngờ một số VĐV nữ sử dụng vật liệu độn trong áo ngực nhằm thay đổi hình dáng cơ thể, qua đó cải thiện tính khí động học ở các chặng đua tính giờ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-03T22:48:11+07:00",
+      "fetched": "2026-08-04T09:10:10.763973+07:00"
+    },
+    {
       "id": "a4b96caadd13cdc134c7ac9c55007c19",
       "title": "Thị trường lao động 'chuyển làn'",
       "link": "https://thanhnien.vn/thi-truong-lao-dong-chuyen-lan-185260803221402282.htm",
@@ -371,6 +841,16 @@ window.newsData_2026_08_04 = {
       "category": "Tổng hợp",
       "published": "2026-08-03T22:45:00+07:00",
       "fetched": "2026-08-04T05:56:36.314584+07:00"
+    },
+    {
+      "id": "6b13f5ca9e52999c6f31530c54db048e",
+      "title": "Báo Anh: 'Ông Trump sẽ tìm cách giúp chủ tịch FIFA Infantino tại vị'",
+      "link": "https://vnexpress.net/bao-anh-ong-trump-se-tim-cach-giup-chu-tich-fifa-infantino-tai-vi-5104851.html",
+      "summary": "Theo tờ Telegraph, Tổng thống Mỹ Donald Trump sẽ hỗ trợ tối đa để Chủ tịch FIFA Gianni Infantino vượt qua làn sóng yêu cầu từ chức sau khi kế hoạch cổ phần hóa World Cup trị giá 20 tỷ USD sụp đổ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-03T22:43:20+07:00",
+      "fetched": "2026-08-04T09:10:10.764070+07:00"
     },
     {
       "id": "1a6fe13b1cd08c0acbe1bbbd4227da98",
@@ -441,6 +921,36 @@ window.newsData_2026_08_04 = {
       "category": "Tổng hợp",
       "published": "2026-08-03T22:30:00+07:00",
       "fetched": "2026-08-04T05:56:36.315195+07:00"
+    },
+    {
+      "id": "bfa14264a5507a3c0fe022cbe29d9925",
+      "title": "Sancho tập nhờ sân đội hạng 10 Anh",
+      "link": "https://vnexpress.net/sancho-tap-nho-san-doi-hang-10-anh-5104802.html",
+      "summary": "Tiền đạo Jadon Sancho bất ngờ chọn sân của Flixton - một CLB bán chuyên tại Manchester, để duy trì thể lực sau khi rời Man Utd theo dạng tự do.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-03T22:29:33+07:00",
+      "fetched": "2026-08-04T09:10:10.764167+07:00"
+    },
+    {
+      "id": "87f0c18987c9db43123f6a9b49351bf8",
+      "title": "Việt Nam khiến Indonesia chịu thống kê chưa từng có ở ASEAN Cup",
+      "link": "https://vnexpress.net/viet-nam-khien-indonesia-chiu-thong-ke-chua-tung-co-o-asean-cup-5104852.html",
+      "summary": "Thất bại 0-3 trước Việt Nam ở bảng A khiến Indonesia nhận trận thua đậm nhất trên sân nhà trong lịch sử giải vô địch Đông Nam Á - ASEAN Cup.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-03T22:26:24+07:00",
+      "fetched": "2026-08-04T09:10:10.763763+07:00"
+    },
+    {
+      "id": "d2c8e93234977a45057fe33a60fc5491",
+      "title": "LĐBĐ Đông Nam Á: 'Việt Nam chơi đúng như nhà vô địch'",
+      "link": "https://vnexpress.net/ldbd-dong-nam-a-viet-nam-choi-dung-nhu-nha-vo-dich-5104855.html",
+      "summary": "Truyền thông khu vực, trong đó có trang chủ Liên đoàn bóng đá Đông Nam Á (AFF), ca ngợi chiến thắng 3-0 của Việt Nam ngay trên sân Indonesia tại lượt bốn bảng A ASEAN Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-03T22:22:13+07:00",
+      "fetched": "2026-08-04T09:10:10.763872+07:00"
     },
     {
       "id": "c8c8fd9496c02ff8f68bed300d94467f",
@@ -1011,6 +1521,16 @@ window.newsData_2026_08_04 = {
       "category": "Thể thao",
       "published": "2026-08-03T15:31:15+07:00",
       "fetched": "2026-08-04T00:47:58.779940+07:00"
+    },
+    {
+      "id": "14b6fc1b64676f2b122f57f8629506dc",
+      "title": "HLV Indonesia: 'Không kịp trở tay vì hai bàn thua sớm trước Việt Nam'",
+      "link": "https://vnexpress.net/hlv-indonesia-khong-kip-tro-tay-vi-hai-ban-thua-som-truoc-viet-nam-5104813.html",
+      "summary": "Theo HLV John Herdman, hai bàn thua trong 15 phút đầu làm phá sản các toan tính chiến thuật, khiến Indonesia thua Việt Nam 0-3 trên sân nhà ở lượt bốn bảng A ASEAN Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-03T15:31:15+07:00",
+      "fetched": "2026-08-04T09:10:10.764359+07:00"
     },
     {
       "id": "1e034dbaf58e5a0cb2f7b7558822ca04",
