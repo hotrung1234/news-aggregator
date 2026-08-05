@@ -1,7 +1,17 @@
 window.newsData_2026_08_06 = {
   "date": "2026-08-06",
-  "lastUpdated": "2026-08-06T02:24:40.898948+07:00",
+  "lastUpdated": "2026-08-06T04:03:43.419256+07:00",
   "articles": [
+    {
+      "id": "9bebb77053824f55f6727e08c279a086",
+      "title": "Thời tiết hôm nay 6-8: Bắc Bộ mưa to, bão trên Biển Đông suy yếu",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-6-8-bac-bo-mua-to-bao-tren-bien-dong-suy-yeu-10026080516194987.htm",
+      "summary": "Hôm nay 6-8, thời tiết Bắc Bộ tiếp tục mưa xối xả, Nam Bộ và Trung bộ mưa rào và dông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-06T04:03:36.288051+07:00",
+      "fetched": "2026-08-06T04:03:36.288229+07:00"
+    },
     {
       "id": "7963e04d4c86058a589d5e9de488cbd6",
       "title": "Việt Nam xuất bản bộ 'Tuyển tập các tác phẩm chọn lọc của Fidel Castro Ruz' tặng Nhân dân Cuba",
