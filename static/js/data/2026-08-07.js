@@ -1,7 +1,157 @@
 window.newsData_2026_08_07 = {
   "date": "2026-08-07",
-  "lastUpdated": "2026-08-07T12:37:43.397864+07:00",
+  "lastUpdated": "2026-08-07T14:09:44.565033+07:00",
   "articles": [
+    {
+      "id": "699993d97aa2e0ec5dad4863d2485c2f",
+      "title": "An ninh mạng Công an TP.HCM nhất bảng cuộc thi 'Hành trình truy vết tội phạm mạng'",
+      "link": "https://tuoitre.vn/an-ninh-mang-cong-an-tphcm-nhat-bang-cuoc-thi-hanh-trinh-truy-vet-toi-pham-mang-100260807111938084.htm",
+      "summary": "Đội thi \"BếnNhàRồng\" của Phòng An ninh mạng và phòng chống tội phạm sử dụng công nghệ cao Công an TP.HCM xuất sắc giành giải nhất bảng C tại cuộc thi \"Hành trình truy vết tội phạm mạng\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T14:09:39.198846+07:00",
+      "fetched": "2026-08-07T14:09:39.198906+07:00"
+    },
+    {
+      "id": "0b55eab4e6b266c3ea377aea8553eb84",
+      "title": "AI lần đầu tạo thành công vi rút tiêu diệt vi khuẩn",
+      "link": "https://tuoitre.vn/ai-lan-dau-tao-thanh-cong-vi-rut-tieu-diet-vi-khuan-100260807111040435.htm",
+      "summary": "Lần đầu các nhà khoa học dùng AI tạo thành công vi rút tiêu diệt vi khuẩn trong phòng thí nghiệm, mở ra triển vọng trị kháng kháng sinh nhưng cũng làm dấy lên lo ngại về an toàn sinh học.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T14:09:39.198778+07:00",
+      "fetched": "2026-08-07T14:09:39.198836+07:00"
+    },
+    {
+      "id": "e6b5da7923ca752463b628fbb3eea166",
+      "title": "Phường Cát Lái triển khai mô hình Khu phố thông minh, đưa chuyển đổi số gần hơn với người dân",
+      "link": "https://tuoitre.vn/phuong-cat-lai-trien-khai-mo-hinh-khu-pho-thong-minh-dua-chuyen-doi-so-gan-hon-voi-nguoi-dan-100260807112738471.htm",
+      "summary": "Nhận định khu phố là địa bàn gần dân nhất, giúp người dân thông tin nhanh hơn, tương tác thuận tiện hơn, phản ánh kiến nghị kịp thời hơn, phường Cát Lái triển khai xây dựng mô hình Khu phố thông minh tại 24 khu phố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T14:09:39.198707+07:00",
+      "fetched": "2026-08-07T14:09:39.198764+07:00"
+    },
+    {
+      "id": "a32fa0126404088785d676f28cd1b8e9",
+      "title": "Vụ Huấn Hoa Hồng: Vì sao ‘giang hồ mạng’ vẫn có sức hút dù liên tục vướng pháp luật?",
+      "link": "https://tuoitre.vn/vu-huan-hoa-hong-vi-sao-giang-ho-mang-van-co-suc-hut-du-lien-tuc-vuong-phap-luat-100260807120605519.htm",
+      "summary": "Vì sao Huấn Hoa Hồng vẫn có lượng người theo dõi lớn? Vì sao ‘giang hồ mạng’ vẫn có sức hút dù liên tục vướng pháp luật?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T14:09:39.198642+07:00",
+      "fetched": "2026-08-07T14:09:39.198697+07:00"
+    },
+    {
+      "id": "5adbee4fdf5681bb53e18a448e4ea0c7",
+      "title": "Những công trình đầu tiên cao tốc Tân Phú - Bảo Lộc do Sơn Hải thi công",
+      "link": "https://tuoitre.vn/nhung-cong-trinh-dau-tien-cao-toc-tan-phu-bao-loc-do-son-hai-thi-cong-100260807120752516.htm",
+      "summary": "Sau nhiều tháng vướng thủ tục và mặt bằng, tuyến cao tốc Tân Phú - Bảo Lộc hơn 18.000 tỉ đồng nối TP.HCM với Lâm Đồng đã có những mũi thi công đầu tiên. Công trình do Tập đoàn Sơn Hải thi công.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T14:09:39.198573+07:00",
+      "fetched": "2026-08-07T14:09:39.198632+07:00"
+    },
+    {
+      "id": "0855946c46d332bc15ef022ca3706094",
+      "title": "'Giang hồ mạng' Tiến Bịp lãnh 8 năm tù",
+      "link": "https://tuoitre.vn/giang-ho-mang-tien-bip-lanh-8-nam-tu-100260807123907329.htm",
+      "summary": "Sau hơn một năm kể từ ngày bị bắt quả tang sử dụng ma túy ở Hải Phòng, Nguyễn Thành Long (tức Tiến \"Bịp\") - nhân vật từng nổi tiếng với các livestream \"đạo lý giang hồ\" trên mạng xã hội - đã phải trả giá bằng bản án 8 năm tù.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T14:09:39.198498+07:00",
+      "fetched": "2026-08-07T14:09:39.198563+07:00"
+    },
+    {
+      "id": "7bd0c1a2f630e026f805db6e693e3183",
+      "title": "Mỹ kiểm tra tài khoản mạng xã hội khi xét visa: Áp dụng đối tượng nào?",
+      "link": "https://tuoitre.vn/my-kiem-tra-tai-khoan-mang-xa-hoi-khi-xet-visa-ap-dung-doi-tuong-nao-100260807093439717.htm",
+      "summary": "Động thái này tiếp nối hàng loạt chính sách siết nhập cư và cấp visa của Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T14:09:39.198420+07:00",
+      "fetched": "2026-08-07T14:09:39.198488+07:00"
+    },
+    {
+      "id": "806d34aa583205adb1dcdfc3a393140b",
+      "title": "Đông Thiên Đức 'gây sốc' khi ra nhạc điện tử cùng Vicky Nhung",
+      "link": "https://tuoitre.vn/dong-thien-duc-gay-soc-khi-ra-nhac-dien-tu-cung-vicky-nhung-100260807105506608.htm",
+      "summary": "Không đi theo hướng ballad quen thuộc, Vicky Nhung chọn Future Bass và Electronic Pop để kể lại câu chuyện tình trong sáng tác mới của 'nhạc sĩ tình sầu' Đông Thiên Đức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T14:09:39.198328+07:00",
+      "fetched": "2026-08-07T14:09:39.198387+07:00"
+    },
+    {
+      "id": "40b16b8c06a42bd6e67d208c2338a5dc",
+      "title": "Thi tốt nghiệp THPT dự kiến diễn ra ngày 11 và 12-6 hàng năm",
+      "link": "https://tuoitre.vn/thi-tot-nghiep-thpt-du-kien-dien-ra-ngay-11-va-12-6-hang-nam-100260807114529113.htm",
+      "summary": "Bộ GD-ĐT ban hành khung thời gian năm học từ năm 2026-2027, trong đó kỳ thi tốt nghiệp THPT dự kiến diễn ra ngày 11 và 12-6, tuyển sinh đầu cấp hoàn thành trước 31-7.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T14:09:39.198260+07:00",
+      "fetched": "2026-08-07T14:09:39.198318+07:00"
+    },
+    {
+      "id": "e7dfee6c7e72f9a857f499d6bb438f35",
+      "title": "Loạt cổ phiếu doanh nghiệp có vốn Nhà nước tăng kịch trần",
+      "link": "https://tuoitre.vn/loat-co-phieu-doanh-nghiep-co-von-nha-nuoc-tang-kich-tran-100260807120426423.htm",
+      "summary": "Dòng tiền bất ngờ tìm đến nhóm cổ phiếu doanh nghiệp có vốn Nhà nước, đưa hàng loạt mã tăng kịch trần và trở thành tâm điểm của thị trường trong phiên sáng 7-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T14:09:39.198192+07:00",
+      "fetched": "2026-08-07T14:09:39.198250+07:00"
+    },
+    {
+      "id": "ffda62e6a3e45ebd0ee4485ce7d43b11",
+      "title": "Bộ Tư lệnh thủ đô: Nghĩa trang Mai Dịch có nhiều mộ liệt sĩ chưa xác định được thông tin",
+      "link": "https://tuoitre.vn/bo-tu-lenh-thu-do-nghia-trang-mai-dich-co-nhieu-mo-liet-si-chua-xac-dinh-duoc-thong-tin-100260807121739224.htm",
+      "summary": "Hà Nội bắt đầu khai quật, lấy mẫu hài cốt liệt sĩ tại Nghĩa trang Mai Dịch, nơi có 469 mộ chưa xác định được thông tin. Thành phố quyết tâm hoàn thành chiến dịch trong tháng 10-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T14:09:39.198122+07:00",
+      "fetched": "2026-08-07T14:09:39.198181+07:00"
+    },
+    {
+      "id": "d4914a7efb7b39b1eb41d25620dfb2c7",
+      "title": "Côn Đảo trưng bày tư liệu quý về Bác Tôn",
+      "link": "https://tuoitre.vn/con-dao-trung-bay-tu-lieu-quy-ve-bac-ton-100260807111654228.htm",
+      "summary": "Triển lãm tại Côn Đảo giới thiệu nhiều tư liệu, hình ảnh quý về Chủ tịch Tôn Đức Thắng, giúp người dân hiểu rõ hơn về cuộc đời, sự nghiệp cách mạng của Bác Tôn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T14:09:39.198051+07:00",
+      "fetched": "2026-08-07T14:09:39.198112+07:00"
+    },
+    {
+      "id": "fb3257d3cb8ee30bd8ee04cd1deb42f3",
+      "title": "Công ty sở hữu tòa tháp 35 tầng trung tâm TP.HCM mang về cho Vietcombank hơn 3.000 tỉ đồng?",
+      "link": "https://tuoitre.vn/cong-ty-so-huu-toa-thap-35-tang-trung-tam-tphcm-mang-ve-cho-vietcombank-hon-3000-ti-dong-10026080711560264.htm",
+      "summary": "Sau khi nhận chuyển nhượng 48% vốn trong 6 tháng năm 2026, Vietcombank trở thành chủ sở hữu duy nhất doanh nghiệp đứng sau Vietcombank Tower tại khu vực bến Bạch Đằng, TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T14:09:39.197976+07:00",
+      "fetched": "2026-08-07T14:09:39.198039+07:00"
+    },
+    {
+      "id": "b28b68bc7f4cfb2d6e1b86001832b1cb",
+      "title": "Ngôi sao đẳng cấp thế giới dự giải cầu lông lớn nhất Việt Nam",
+      "link": "https://tuoitre.vn/ngoi-sao-dang-cap-the-gioi-du-giai-cau-long-lon-nhat-viet-nam-100260807120057003.htm",
+      "summary": "Vào giữa tháng 9, Giải cầu lông Vietnam Open tại TP.HCM có cơ hội chứng kiến sự xuất hiện của đương kim huy chương đồng Olympic.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T14:09:39.197897+07:00",
+      "fetched": "2026-08-07T14:09:39.197965+07:00"
+    },
+    {
+      "id": "17292a168f621d1ceef3549bb66783f0",
+      "title": "Cô giáo trẻ tử vong ở công trình 1.800 tỉ: Siết an toàn công trường",
+      "link": "https://tuoitre.vn/co-giao-tre-tu-vong-o-cong-trinh-1800-ti-siet-an-toan-cong-truong-100260807120646966.htm",
+      "summary": "Người dân ở xã Thăng Bình (Đà Nẵng) bức xúc sau vụ tai nạn giao thông khiến một cô giáo trẻ tử vong tại khu vực thi công cầu vượt đường sắt trên tuyến quốc lộ 14E - dự án có tổng vốn đầu tư hơn 1.800 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T14:09:39.197744+07:00",
+      "fetched": "2026-08-07T14:09:39.197883+07:00"
+    },
     {
       "id": "c958f1943e02d8fcf2bd3b6dba43f320",
       "title": "'Xe điện tự sạc' lập kỷ lục chạy gần 2.000km, đi từ Hà Nội đến TP.HCM không cần tiếp nhiên liệu",
@@ -303,6 +453,16 @@ window.newsData_2026_08_07 = {
       "fetched": "2026-08-07T09:29:34.557766+07:00"
     },
     {
+      "id": "59caa30b957ff8fd629530d8b6fd3be8",
+      "title": "Điểm chuẩn đại học năm 2026 có gì đặc biệt?",
+      "link": "https://thanhnien.vn/diem-chuan-dai-hoc-nam-2026-co-gi-dac-biet-185260806181311717.htm",
+      "summary": "Từ ngày 9.8, các trường ĐH bắt đầu công bố điểm chuẩn. Điểm chuẩn ĐH  năm nay có gì đặc biệt so với các năm trước?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T06:55:00+07:00",
+      "fetched": "2026-08-07T14:09:37.472535+07:00"
+    },
+    {
       "id": "804b09bae0dc611cd763176bd1335cb4",
       "title": "Huấn Hoa Hồng từng vướng những vụ việc 'ồn ào' nào?",
       "link": "https://tuoitre.vn/huan-hoa-hong-tung-vuong-nhung-vu-viec-on-ao-nao-100260806210720798.htm",
@@ -451,6 +611,286 @@ window.newsData_2026_08_07 = {
       "category": "Tổng hợp",
       "published": "2026-08-07T06:54:47.960973+07:00",
       "fetched": "2026-08-07T06:54:47.961114+07:00"
+    },
+    {
+      "id": "52e1608c20af9addfd3a2a735fb705ec",
+      "title": "Tiểu đêm mấy lần là bất thường? Bác sĩ chỉ ra các dấu hiệu đáng lo",
+      "link": "https://thanhnien.vn/tieu-dem-may-lan-la-bat-thuong-bac-si-chi-ra-cac-dau-hieu-dang-lo-185260807123310063.htm",
+      "summary": "Tiểu đêm có thể liên quan đến nhiều nguyên nhân như bệnh lý tuyến tiền liệt, bàng quang, tiểu đường, bệnh thận, suy tim hoặc ngưng thở khi ngủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T06:54:00+07:00",
+      "fetched": "2026-08-07T14:09:37.472705+07:00"
+    },
+    {
+      "id": "b8b7456a11d1b19a6e011f1445166601",
+      "title": "Honda Giorno+ có bản Buzz Lightyear sản xuất giới hạn 200 xe, chờ ngày về Việt Nam",
+      "link": "https://thanhnien.vn/honda-giorno-co-ban-buzz-lightyear-san-xuat-gioi-han-200-xe-cho-ngay-ve-viet-nam-18526080620411722.htm",
+      "summary": "Mẫu xe tay ga 125 phân khối - Honda Giorno+ sản xuất tại Thái Lan có phiên bản mới mang tên Honda Giorno+ Buzz Lightyear lấy cảm hứng từ nhân vật Buzz Lightyear trong bộ phim hoạt hình Toy Story và chỉ được Honda sản xuất giới hạn 200 xe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T06:54:00+07:00",
+      "fetched": "2026-08-07T14:09:37.472865+07:00"
+    },
+    {
+      "id": "8a5b9f543ab31bec880f386eebf6f8c4",
+      "title": "Nửa thế kỷ kiến tạo tương lai, EVNHCMC vinh dự nhận Huân chương Lao động hạng ba",
+      "link": "https://thanhnien.vn/nua-the-ky-kien-tao-tuong-lai-evnhcmc-vinh-du-nhan-huan-chuong-lao-dong-hang-ba-185260807115825727.htm",
+      "summary": "50 năm đồng hành với sự phát triển của TP.HCM, cũng là nửa thế kỷ với những cột mốc không ngừng được nối dài bằng trí tuệ, bản lĩnh và sự cống hiến của nhiều thế hệ kiến tạo tương lai, EVNHCMC đã vinh dự nhận Huân chương Lao động hạng ba do Chủ tịch nước ký tặng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T06:50:00+07:00",
+      "fetched": "2026-08-07T14:09:37.473020+07:00"
+    },
+    {
+      "id": "030c87af9649d6793778f06f705769c9",
+      "title": "Thực phẩm quen thuộc có thể là 'sát thủ' gây hại thận",
+      "link": "https://vnexpress.net/thuc-pham-quen-thuoc-co-the-la-sat-thu-gay-hai-than-5106210.html",
+      "summary": "Dưa cà muối chua, đồ chiên rán, cá khô, mắm, rượu bia là thực phẩm quen thuộc, song có thể gây hại thận khi lạm dụng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T06:47:39+07:00",
+      "fetched": "2026-08-07T14:09:35.028013+07:00"
+    },
+    {
+      "id": "b4871f46aa8d92ff81e91c02c40df973",
+      "title": "Thuế mới của Mỹ tạo thêm sức ép lên thủy sản Việt",
+      "link": "https://vnexpress.net/thue-moi-cua-my-tao-them-suc-ep-len-thuy-san-viet-5106348.html",
+      "summary": "Xuất khẩu thủy sản Việt tăng trong 7 tháng đầu năm, nhưng sức ép được dự báo gia tăng từ tháng 8 khi chính sách thuế mới của Mỹ bắt đầu tác động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T06:45:57+07:00",
+      "fetched": "2026-08-07T14:09:35.028193+07:00"
+    },
+    {
+      "id": "b4871f46aa8d92ff81e91c02c40df973",
+      "title": "Thuế mới của Mỹ tạo thêm sức ép lên thủy sản Việt",
+      "link": "https://vnexpress.net/thue-moi-cua-my-tao-them-suc-ep-len-thuy-san-viet-5106348.html",
+      "summary": "Xuất khẩu thủy sản Việt tăng trong 7 tháng đầu năm, nhưng sức ép được dự báo gia tăng từ tháng 8 khi chính sách thuế mới của Mỹ bắt đầu tác động.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-07T06:45:57+07:00",
+      "fetched": "2026-08-07T14:09:41.365732+07:00"
+    },
+    {
+      "id": "329ad45e96e8f59b03a915e9dd7964f2",
+      "title": "3 triệu học sinh TP HCM được khám sức khỏe miễn phí từ năm học tới",
+      "link": "https://vnexpress.net/3-trieu-hoc-sinh-tp-hcm-duoc-kham-suc-khoe-mien-phi-tu-nam-hoc-toi-5106335.html",
+      "summary": "Khoảng 3 triệu học sinh, sinh viên có hộ khẩu thường trú hoặc tạm trú tại TP HCM sẽ được khám sức khỏe định kỳ miễn phí từ ngân sách thành phố, bắt đầu từ năm học 2026-2027.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T06:45:36+07:00",
+      "fetched": "2026-08-07T14:09:35.028368+07:00"
+    },
+    {
+      "id": "d8c02520dd3bc4ffcd806a02c94db517",
+      "title": "Thành lập khu công nghệ cao Hưng Yên gần 500 ha",
+      "link": "https://vnexpress.net/thanh-lap-khu-cong-nghe-cao-hung-yen-gan-500-ha-5106322.html",
+      "summary": "Phó thủ tướng Hồ Quốc Dũng vừa ký quyết định thành lập khu công nghệ cao tỉnh Hưng Yên với diện tích gần 500 ha.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T06:45:10+07:00",
+      "fetched": "2026-08-07T14:09:35.028586+07:00"
+    },
+    {
+      "id": "adbe06bb0943ede051e965fcafbc1bba",
+      "title": "Một phường ở TP.HCM phát động 24 khu phố thông minh, người dân được trải nghiệm gì?",
+      "link": "https://thanhnien.vn/mot-phuong-o-tphcm-phat-dong-24-khu-pho-thong-minh-nguoi-dan-duoc-trai-nghiem-gi-185260807132126032.htm",
+      "summary": "Phường Cát Lái tổ chức ngày hội chuyển đổi số, phát động mô hình 24 khu phố thông minh, giúp người dân trải nghiệm dịch vụ công trực tuyến, thanh toán số, AI, robot...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T06:45:00+07:00",
+      "fetched": "2026-08-07T14:09:37.473173+07:00"
+    },
+    {
+      "id": "1c2770ad0f6017510e604c50de51e2d7",
+      "title": "Máy bay Boeing 737 MAX lại có nguy cơ nứt thân",
+      "link": "https://thanhnien.vn/may-bay-boeing-737-max-lai-co-nguy-co-nut-than-185260807124242798.htm",
+      "summary": "Cục Hàng không liên bang Mỹ (FAA) yêu cầu kiểm tra hàng trăm máy bay Boeing 737 MAX sau khi phát hiện các vết nứt tại một số vị trí trên thân, cảnh báo hư hỏng nếu không được phát hiện có thể ảnh hưởng đến độ bền kết cấu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T06:42:00+07:00",
+      "fetched": "2026-08-07T14:09:37.473325+07:00"
+    },
+    {
+      "id": "b930154c8649be936cc2aea9d94cbadd",
+      "title": "Đơn vị U gan Bệnh viện Hoàn Mỹ Sài Gòn: Điều trị toàn diện bệnh lý gan",
+      "link": "https://thanhnien.vn/don-vi-u-gan-benh-vien-hoan-my-sai-gon-dieu-tri-toan-dien-benh-ly-gan-185260807134125345.htm",
+      "summary": "Đơn vị U gan, Bệnh viện Hoàn Mỹ Sài Gòn không ngừng cập nhật và tối ưu hóa quy trình điều trị đa mô thức, mang lại các giải pháp y tế chuẩn mực, an toàn và hiệu quả với chi phí hợp lý cho người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T06:41:00+07:00",
+      "fetched": "2026-08-07T14:09:37.473500+07:00"
+    },
+    {
+      "id": "2a2ad1adedd467fa456850f232ec0099",
+      "title": "Matt Damon và Ben Affleck 'trắng tay' sau khi đóng bộ phim đoạt hai giải Oscar",
+      "link": "https://thanhnien.vn/matt-damon-va-ben-affleck-trang-tay-sau-khi-dong-bo-phim-doat-hai-giai-oscar-185260807130123407.htm",
+      "summary": "Matt Damon tiết lộ anh và Ben Affleck từng chỉ còn chưa tới 150.000 USD mỗi người sau khi bán kịch bản 'Good Will Hunting', dù bộ phim sau đó giành hai giải Oscar và trở thành một trong những tác phẩm đáng nhớ của điện ảnh Mỹ, Daily Mail đưa tin ngày 6.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T06:41:00+07:00",
+      "fetched": "2026-08-07T14:09:37.473678+07:00"
+    },
+    {
+      "id": "ec5568b3c6b0b2c4429e5508a90a1a51",
+      "title": "Điều tra dòng tiền 150 tỷ đồng liên quan chủ dự án The Western Capital",
+      "link": "https://vnexpress.net/dieu-tra-dong-tien-150-ty-dong-lien-quan-chu-du-an-the-western-capital-5106398.html",
+      "summary": "Tòa yêu cầu làm rõ khoản 150 tỷ đồng giữa Công ty Hoàng Phúc, chủ đầu tư The Western Capital, và bị cáo Quách Mộc Tân trong vụ lừa bán nhà ở xã hội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T06:40:47+07:00",
+      "fetched": "2026-08-07T14:09:35.028752+07:00"
+    },
+    {
+      "id": "8afe53f12e3ada15f2e5ba87f2db690f",
+      "title": "Giải mã 2 nút bấm nhiều người không hiểu ý nghĩa trên ô tô",
+      "link": "https://thanhnien.vn/giai-ma-2-nut-bam-nhieu-nguoi-khong-hieu-y-nghia-tren-o-to-185260801080031949.htm",
+      "summary": "Nút tắt hệ thống cân bằng điện tử và nút sấy kính sau đều trang bị trên nhiều mẫu ô tô. Tuy nhiên, không ít tài xế ít sử dụng hoặc chưa hiểu đúng công dụng của hai tính năng này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T06:38:00+07:00",
+      "fetched": "2026-08-07T14:09:37.473828+07:00"
+    },
+    {
+      "id": "11242f53272e0acb3b558bb848992dd8",
+      "title": "Zendaya và Tom Holland bí mật tổ chức lễ cưới tại Anh",
+      "link": "https://thanhnien.vn/zendaya-va-tom-holland-bi-mat-to-chuc-le-cuoi-tai-anh-185260807122834067.htm",
+      "summary": "Zendaya và Tom Holland được cho là tiếp tục tổ chức một buổi lễ cưới riêng tư tại Anh với sự góp mặt của gia đình và bạn bè thân thiết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T06:35:00+07:00",
+      "fetched": "2026-08-07T14:09:37.473976+07:00"
+    },
+    {
+      "id": "edd539716375e69516ff21e8a24a8e1e",
+      "title": "Thị trường ô tô điện lớn nhất thế giới 'đảo chiều' sau nhiều năm tăng trưởng mạnh",
+      "link": "https://thanhnien.vn/thi-truong-o-to-dien-lon-nhat-the-gioi-dao-chieu-sau-nhieu-nam-tang-truong-manh-185260806064655532.htm",
+      "summary": "Sau nhiều năm tăng trưởng tưởng chừng như không thể ngăn cản, doanh số bán xe điện mới tại Trung Quốc - thị trường ô tô điện lớn nhất thế giới đã giảm 14% so với cùng kỳ năm ngoái.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T06:33:00+07:00",
+      "fetched": "2026-08-07T14:09:37.474124+07:00"
+    },
+    {
+      "id": "c8ed00ccd4f3e88e84d53bf2a9388ae4",
+      "title": "Thân nhân lo lắng khi thủy thủ tàu sân bay Mỹ xuống sức trong chiến dịch Trung Đông",
+      "link": "https://thanhnien.vn/than-nhan-lo-lang-khi-thuy-thu-tau-san-bay-my-xuong-suc-trong-chien-dich-trung-dong-185260807122013861.htm",
+      "summary": "Tinh thần và thể trạng của thủy thủ đoàn tàu sân bay USS Abraham Lincoln của Mỹ được cho là đang suy giảm sau thời gian dài làm nhiệm vụ tại Trung Đông, trong bối cảnh có nhiều phản ánh về tình trạng thiếu thực phẩm và thời gian nghỉ ngơi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T06:30:00+07:00",
+      "fetched": "2026-08-07T14:09:37.474280+07:00"
+    },
+    {
+      "id": "940ff638cbc37f44729d0c820ea73c5b",
+      "title": "Mcredit ghi danh Top 5 công ty tài chính tiêu dùng uy tín năm 2026",
+      "link": "https://thanhnien.vn/mcredit-ghi-danh-top-5-cong-ty-tai-chinh-tieu-dung-uy-tin-nam-2026-185260807112424808.htm",
+      "summary": "Công ty Tài chính tín dụng tiêu dùng TNHH MB Shinsei (Mcredit) vừa được vinh danh Top 5 công ty tài chính tiêu dùng uy tín năm 2026 do Vietnam Report công bố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T06:30:00+07:00",
+      "fetched": "2026-08-07T14:09:37.474461+07:00"
+    },
+    {
+      "id": "c87f90d7994ea978a798b6b3e2f12f9f",
+      "title": "'Viên' trong tiếng Hán Việt thường chỉ con vật nào?",
+      "link": "https://vnexpress.net/cau-do-tieng-viet-do-chu-choi-chu-han-viet-vien-trong-tieng-han-viet-thuong-chi-loai-nao-5102099.html",
+      "summary": "Một chữ Hán Việt quen thuộc nhưng ít người biết ý nghĩa, bạn có đoán được \"Viên\" dùng để chỉ loài động vật nào không? Hãy thử sức ngay!",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T06:29:18+07:00",
+      "fetched": "2026-08-07T14:09:35.028916+07:00"
+    },
+    {
+      "id": "e45e8e4fcb538728bbc9d6ed01a38654",
+      "title": "Hình ảnh táo bạo của Kỳ Duyên trong phim mới",
+      "link": "https://thanhnien.vn/hinh-anh-tao-bao-cua-ky-duyen-trong-phim-moi-185260807120148954.htm",
+      "summary": "'Chị chị em em 3' tung teaser và poster đầu tiên hé lộ màn kết hợp giữa Kỳ Duyên và Steven Nguyễn. Đồng thời, nhà sản xuất Will Vũ chia sẻ về quá trình lựa chọn hai gương mặt cho vai diễn trung tâm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T06:21:00+07:00",
+      "fetched": "2026-08-07T14:09:37.474614+07:00"
+    },
+    {
+      "id": "9597a42a420109a20a60b824beb24707",
+      "title": "Dùng loa ting ting thông báo chuyển khoản, cẩn thận những cuộc gọi lừa đảo",
+      "link": "https://thanhnien.vn/dung-loa-ting-ting-thong-bao-chuyen-khoan-can-than-nhung-cuoc-goi-lua-dao-185260807102601985.htm",
+      "summary": "Một chiêu lừa mới xuất hiện khi việc dùng loa ting ting thông báo chuyển khoản ngày càng phổ biến đối với những người bán hàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T06:20:00+07:00",
+      "fetched": "2026-08-07T14:09:37.474768+07:00"
+    },
+    {
+      "id": "c471e8d54aa7e42e3fe4da4e7db4c3f8",
+      "title": "Việt Nam trong top tìm kiếm hè 2026 của khách châu Âu",
+      "link": "https://vnexpress.net/viet-nam-trong-top-tim-kiem-he-2026-cua-khach-chau-au-5106350.html",
+      "summary": "Việt Nam tăng một bậc lên vị trí thứ tư trong danh sách các điểm đến châu Á được khách Âu tìm kiếm nhiều nhất dịp hè, theo dữ liệu của nền tảng du lịch Agoda.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T06:14:18+07:00",
+      "fetched": "2026-08-07T14:09:35.029076+07:00"
+    },
+    {
+      "id": "52fca648f62a2bb8950a75edd36881b7",
+      "title": "Bộ trưởng Hoàng Minh Sơn: TP HCM cần cơ chế vượt trội hút giảng viên quốc tế",
+      "link": "https://vnexpress.net/bo-truong-hoang-minh-son-tp-hcm-can-co-che-vuot-troi-hut-giang-vien-quoc-te-5106366.html",
+      "summary": "Bộ trưởng Giáo dục và Đào tạo Hoàng Minh Sơn cho rằng TP HCM cần chính sách đủ mạnh để thu hút giảng viên, nhà khoa học xuất sắc từ nước ngoài về làm việc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T06:12:05+07:00",
+      "fetched": "2026-08-07T14:09:35.029238+07:00"
+    },
+    {
+      "id": "fb128e435aa1833f226bed0f3e446575",
+      "title": "'Cần dẫn vốn quốc tế, ưu tiên vốn trung ương phát triển đô thị'",
+      "link": "https://vnexpress.net/can-dan-von-quoc-te-uu-tien-von-trung-uong-phat-trien-do-thi-5106357.html",
+      "summary": "Đại biểu Phạm Trọng Nhân cho rằng cần mở kênh vốn quốc tế và ưu tiên ngân sách trung ương cho hạ tầng liên vùng, giúp các đô thị có nguồn lực phát triển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T05:59:00+07:00",
+      "fetched": "2026-08-07T14:09:35.029411+07:00"
+    },
+    {
+      "id": "e37962685a45542aafaf5e13d220eed5",
+      "title": "Tiến 'Bịp' bị tuyên 8 năm tù",
+      "link": "https://vnexpress.net/tien-bip-bi-tuyen-8-nam-tu-5106271.html",
+      "summary": "Nguyễn Thành Long (tức Tiến \"Bịp\") bị cáo buộc chuyển tiền để bạn mua ma túy về sử dụng chung sau buổi livestream.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T05:56:48+07:00",
+      "fetched": "2026-08-07T14:09:35.029584+07:00"
+    },
+    {
+      "id": "392cb50027ec079d165b668e285c7deb",
+      "title": "Đề xuất giảm 30% thuế cho hộ kinh doanh, doanh nghiệp thu đến 10 tỷ đồng",
+      "link": "https://vnexpress.net/de-xuat-giam-30-thue-cho-ho-kinh-doanh-doanh-nghiep-thu-den-10-ty-dong-5106390.html",
+      "summary": "Bộ Tài chính đề xuất giảm 30% thuế thu nhập trong năm 2026-2027 cho hộ  kinh doanh và doanh nghiệp có khoản thu tối đa 10 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T05:48:00+07:00",
+      "fetched": "2026-08-07T14:09:35.029739+07:00"
+    },
+    {
+      "id": "392cb50027ec079d165b668e285c7deb",
+      "title": "Đề xuất giảm 30% thuế cho hộ kinh doanh, doanh nghiệp thu đến 10 tỷ đồng",
+      "link": "https://vnexpress.net/de-xuat-giam-30-thue-cho-ho-kinh-doanh-doanh-nghiep-thu-den-10-ty-dong-5106390.html",
+      "summary": "Bộ Tài chính đề xuất giảm 30% thuế thu nhập trong năm 2026-2027 cho hộ  kinh doanh và doanh nghiệp có khoản thu tối đa 10 tỷ đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-07T05:48:00+07:00",
+      "fetched": "2026-08-07T14:09:41.365907+07:00"
+    },
+    {
+      "id": "6a2d2856e87cb42970e4cc4b3d3fd954",
+      "title": "Bảo mẫu bật dây thun vào lòng bàn chân nhiều trẻ ở TP HCM",
+      "link": "https://vnexpress.net/bao-mau-bat-day-thun-vao-long-ban-chan-nhieu-tre-o-tp-hcm-5106320.html",
+      "summary": "Nữ bảo mẫu 55 tuổi bị phản ánh đánh chửi, kéo căng dây thun rồi bật vào lòng bàn chân nhiều trẻ tại một cơ sở mầm non, khiến các bé khóc đau đớn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T05:40:31+07:00",
+      "fetched": "2026-08-07T14:09:35.029901+07:00"
     },
     {
       "id": "4f6f484e410394e3cadfafc096cb3c3e",
