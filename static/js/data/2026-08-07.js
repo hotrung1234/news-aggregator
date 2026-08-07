@@ -1,7 +1,157 @@
 window.newsData_2026_08_07 = {
   "date": "2026-08-07",
-  "lastUpdated": "2026-08-07T21:50:17.095604+07:00",
+  "lastUpdated": "2026-08-07T23:50:42.805799+07:00",
   "articles": [
+    {
+      "id": "6960d059bff65a64d8ac2d57cb9cddaf",
+      "title": "HLV tuyển Campuchia dự đoán Việt Nam sẽ vào chung kết ASEAN Cup 2026",
+      "link": "https://tuoitre.vn/hlv-campuchia-tuyen-viet-nam-gan-nhu-khong-co-diem-yeu-100260807170253797.htm",
+      "summary": "Phát biểu trong cuộc họp báo sau trận thua Việt Nam 1-3 ở lượt trận cuối cùng bảng A ASEAN Cup 2026, HLV tuyển Campuchia Koji Gyotoku dành nhiều lợi khen ngợi và dự đoán Việt Nam sẽ vào chung kết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T23:50:35.823182+07:00",
+      "fetched": "2026-08-07T23:50:35.823228+07:00"
+    },
+    {
+      "id": "4655ce1f6a2f94790319709bb325dcc9",
+      "title": "Cháy ở khu du lịch Champa Island Nha Trang, nhiều đồ đạc bị thiêu rụi",
+      "link": "https://tuoitre.vn/chay-o-khu-du-lich-champa-island-nha-trang-nhieu-do-dac-bi-thieu-rui-100260807190502496.htm",
+      "summary": "Ngọn lửa bốc lên từ khu vực hội trường Champa Island Nha Trang thuộc khu du lịch Champa Island Nha Trang - resort hotel & spa, phường Tây Nha Trang (Khánh Hòa).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T23:50:35.823121+07:00",
+      "fetched": "2026-08-07T23:50:35.823174+07:00"
+    },
+    {
+      "id": "017e39ab0dbc1fd8247e9b53dd23ae29",
+      "title": "Ủy ban Cạnh tranh phạt Grab 1,36 tỉ đồng do vi phạm quyền lợi người tiêu dùng",
+      "link": "https://tuoitre.vn/uy-ban-canh-tranh-phat-grab-136-ti-dong-do-vi-pham-quyen-loi-nguoi-tieu-dung-100260807211642809.htm",
+      "summary": "Công ty TNHH Grab đã thực hiện 6 hành vi vi phạm liên quan tới bảo vệ quyền lợi người tiêu dùng nên bị xử phạt với số tiền 1,36 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T23:50:35.823055+07:00",
+      "fetched": "2026-08-07T23:50:35.823113+07:00"
+    },
+    {
+      "id": "e047eaff3757d77c9fb6790ba20b77a4",
+      "title": "Quang Hải làm nên lịch sử ở đội tuyển Việt Nam",
+      "link": "https://tuoitre.vn/quang-hai-lam-nen-lich-su-o-doi-tuyen-viet-nam-100260807211734363.htm",
+      "summary": "Ra sân trận gặp Campuchia ở ASEAN Cup 2026, tiền vệ Nguyễn Quang Hải đã vượt qua cựu tiền đạo Lê Công Vinh để trở thành cầu thủ khoác áo đội tuyển quốc gia nhiều nhất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T23:50:35.823006+07:00",
+      "fetched": "2026-08-07T23:50:35.823048+07:00"
+    },
+    {
+      "id": "e1d14571c69d9dc0171ec1d4467f06f4",
+      "title": "Hướng về biển đảo, tri ân những người con âm thầm bảo vệ Tổ quốc",
+      "link": "https://tuoitre.vn/huong-ve-bien-dao-tri-an-nhung-nguoi-con-am-tham-bao-ve-to-quoc-100260807205957072.htm",
+      "summary": "Hội Liên hiệp Phụ nữ TP.HCM phát động đóng góp Quỹ \"Vì biển đảo quê hương - Vì tuyến đầu Tổ quốc\". Tổng công ty thương mại Sài Gòn - TNHH MTV (SATRA) đánh dấu 15 năm chương trình \"SATRA vì biển đảo quê hương\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T23:50:35.822948+07:00",
+      "fetched": "2026-08-07T23:50:35.822999+07:00"
+    },
+    {
+      "id": "fcf9c4359ae9213cbc01156f343a5779",
+      "title": "Indonesia bị chê cười vì 'cả làng bóng đá không tìm nổi một thủ môn'",
+      "link": "https://tuoitre.vn/indonesia-bi-che-cuoi-vi-ca-lang-bong-da-khong-tim-noi-mot-thu-mon-100260807213958497.htm",
+      "summary": "Vị trí thủ môn một lần nữa trở thành điểm yếu khiến tuyển Indonesia phải nhận kết quả đáng thất vọng tại ASEAN Cup 2026, dù HLV John Herdman đã cố gắng tạo ra sự thay đổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T23:50:35.822900+07:00",
+      "fetched": "2026-08-07T23:50:35.822942+07:00"
+    },
+    {
+      "id": "05a88a2a7b2714ebdfc375371e091615",
+      "title": "Việt Nam có khả năng đá bán kết ASEAN Cup 2026 với ai, khi nào?",
+      "link": "https://tuoitre.vn/viet-nam-co-kha-nang-da-ban-ket-asean-cup-2026-voi-ai-khi-nao-100260807210116374.htm",
+      "summary": "Sau khi giành ngôi nhất bảng A ASEAN Cup 2026, tuyển Việt Nam đã xác định được thời điểm thi đấu hai trận bán kết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T23:50:35.822850+07:00",
+      "fetched": "2026-08-07T23:50:35.822893+07:00"
+    },
+    {
+      "id": "fcb0180134236e0ed9fed9d0ef8fa6fb",
+      "title": "Vì sao TikToker 'Vua Quạt', 'Khánh Sky' bị khởi tố, bắt tạm giam?",
+      "link": "https://tuoitre.vn/vi-sao-tiktoker-vua-quat-khanh-sky-bi-khoi-to-bat-tam-giam-100260807215026087.htm",
+      "summary": "Theo kết quả điều tra ban đầu, các buổi livestream chửi bới, đăng tải thông tin xúc phạm, cùng việc kéo đến doanh nghiệp để phát trực tiếp từ mâu thuẫn trên mạng xã hội là căn cứ để Công an tỉnh Bắc Ninh khởi tố ba bị can, trong đó có TikToker Khánh Sky và Vua Quạt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T23:50:35.822804+07:00",
+      "fetched": "2026-08-07T23:50:35.822843+07:00"
+    },
+    {
+      "id": "1c2363d53cdec6a297bb9ba443ff9e34",
+      "title": "Tháo bánh xe hơi rồi lấy gạch kê lại, có thể bị xử lý thế nào?",
+      "link": "https://tuoitre.vn/thao-banh-xe-hoi-roi-lay-gach-ke-lai-co-the-bi-xu-ly-the-nao-100260807213511545.htm",
+      "summary": "Luật sư cho rằng không phải cứ làm hư hỏng tài sản trong quá trình trộm cắp là đương nhiên bị xử lý thêm về tội hủy hoại hoặc cố ý làm hư hỏng tài sản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T23:50:35.822754+07:00",
+      "fetched": "2026-08-07T23:50:35.822797+07:00"
+    },
+    {
+      "id": "c4089d95c0db0d4bec1d200c37a95902",
+      "title": "Video: Cú đúp đẳng cấp vào lưới Campuchia của Đình Bắc",
+      "link": "https://tuoitre.vn/video-cu-dup-dang-cap-vao-luoi-campuchia-cua-dinh-bac-100260807210755146.htm",
+      "summary": "Tiền đạo Nguyễn Đình Bắc thi đấu chói sáng khi lập cú đúp vào lưới Campuchia trên sân Mỹ Đình. Hai bàn thắng đến từ hai kịch bản khác nhau, nhưng cho thấy đẳng cấp của một trong những chân sút hàng đầu Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T23:50:35.822702+07:00",
+      "fetched": "2026-08-07T23:50:35.822746+07:00"
+    },
+    {
+      "id": "3175575ef3a7c8c78352790d0fa040c2",
+      "title": "Bảng xếp hạng ASEAN Cup 2026: Việt Nam, Singapore đi tiếp, Indonesia bị loại",
+      "link": "https://tuoitre.vn/bang-xep-hang-asean-cup-2026-viet-nam-singapore-di-tiep-indonesia-bi-loai-100260807223004009.htm",
+      "summary": "Tuyển Việt Nam và Singapore là hai đội giành vé đi tiếp vào bán kết ở bảng A ASEAN Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T23:50:35.822647+07:00",
+      "fetched": "2026-08-07T23:50:35.822693+07:00"
+    },
+    {
+      "id": "89010015bf490e3c9c0c466f8c8cf63c",
+      "title": "Báo Indonesia chỉ trích VAR 'thảm họa' vì xóa thẻ đỏ cho cầu thủ Singapore",
+      "link": "https://tuoitre.vn/bao-indonesia-chi-trich-var-tham-hoa-vi-xoa-the-do-cho-cau-thu-singapore-100260807223019978.htm",
+      "summary": "Phút 58, trận đấu tưởng chừng đã chấm hết với Singapore khi tiền vệ nhập tịch Song Ui Young của họ bị phạt thẻ vàng thứ 2 rời sân. Khi đó Indonesia đang dẫn trước 1-0 tại lượt cuối bảng A ASEAN Cup 2026 diễn ra tối 7-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T23:50:35.822590+07:00",
+      "fetched": "2026-08-07T23:50:35.822639+07:00"
+    },
+    {
+      "id": "7cf66ead483ba41f8c03b66636742cff",
+      "title": "7/8 học sinh Việt Nam đoạt huy chương Olympic Trí tuệ nhân tạo quốc tế",
+      "link": "https://tuoitre.vn/7-8-hoc-sinh-viet-nam-doat-huy-chuong-olympic-tri-tue-nhan-tao-quoc-te-100260807223438267.htm",
+      "summary": "Tối 7-8, Bộ Giáo dục và Đào tạo cho biết có 7/8 học sinh Việt Nam dự thi Olympic Trí tuệ nhân tạo quốc tế (IOAI) năm 2026 đoạt huy chương, trong đó có 2 huy chương vàng, 1 huy chương bạc và 4 huy chương đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T23:50:35.822529+07:00",
+      "fetched": "2026-08-07T23:50:35.822582+07:00"
+    },
+    {
+      "id": "4baa18142132602cc2b66550e954f8d1",
+      "title": "Video: Pha phản lưới nhà của hậu vệ Campuchia",
+      "link": "https://tuoitre.vn/video-pha-phan-luoi-nha-cua-hau-ve-campuchia-100260807223729769.htm",
+      "summary": "Trong lúc nỗ lực cản phá cú dứt điểm của Xuân Son, hậu vệ Vakhim bên phía Campuchia lại lóng ngóng đưa bóng vào lưới nhà, giúp Việt Nam vươn lên dẫn trước 2-1 ở phút 84.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T23:50:35.822463+07:00",
+      "fetched": "2026-08-07T23:50:35.822521+07:00"
+    },
+    {
+      "id": "9ce9e532f1b491dd55278e0c0eb225d7",
+      "title": "Vé xem tuyển Việt Nam đá bán kết ASEAN Cup 2026 lên đến 1 triệu đồng",
+      "link": "https://tuoitre.vn/ve-xem-tuyen-viet-nam-da-ban-ket-asean-cup-2026-len-den-1-trieu-dong-100260807225805036.htm",
+      "summary": "Vé xem đội tuyển Việt Nam đá trận bán kết lượt về ASEAN Cup 2026 trên sân Mỹ Đình có giá cao nhất là 1 triệu đồng, thấp nhất là 300.000 đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T23:50:35.822301+07:00",
+      "fetched": "2026-08-07T23:50:35.822451+07:00"
+    },
     {
       "id": "7a96aa03f967d181c9055e4f4c59253f",
       "title": "Du khách Pháp cõng cựu chiến binh lên cột cờ Lũng Cú",
@@ -453,6 +603,136 @@ window.newsData_2026_08_07 = {
       "fetched": "2026-08-07T17:49:06.156012+07:00"
     },
     {
+      "id": "b3e47afa4a9853cd6d979a7e0f7829ec",
+      "title": "Tòa phúc thẩm ngăn ông Trump xây phòng khiêu vũ 400 triệu USD",
+      "link": "https://thanhnien.vn/toa-phuc-tham-ngan-ong-trump-xay-phong-khieu-vu-400-trieu-usd-185260807232754051.htm",
+      "summary": "Tòa án phúc thẩm liên bang tại Mỹ đã ra lệnh cho chính quyền Tổng thống Donald Trump ngừng dự án xây dựng phòng khiêu vũ trị giá 400 triệu USD tại Nhà Trắng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T16:32:00+07:00",
+      "fetched": "2026-08-07T23:50:33.793329+07:00"
+    },
+    {
+      "id": "e89d3e5a26745416a84c0b8e9e58c819",
+      "title": "Nghiên cứu phương án thi, tuyển sinh đại học phù hợp tình hình mới",
+      "link": "https://vnexpress.net/nghien-cuu-phuong-an-thi-tuyen-sinh-dai-hoc-phu-hop-tinh-hinh-moi-5106640.html",
+      "summary": "Chính phủ giao Bộ Giáo dục và Đào tạo nghiên cứu phương án tổ chức thi, tuyển sinh đại học phù hợp tình hình mới, báo cáo Thủ tướng trong quý III/2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T16:29:22+07:00",
+      "fetched": "2026-08-07T23:50:30.777996+07:00"
+    },
+    {
+      "id": "11daea61b07c98a898c81a3e3f4f6206",
+      "title": "HLV Campuchia: 'Không thua đậm vì hiểu cách đá của Việt Nam'",
+      "link": "https://vnexpress.net/hlv-campuchia-khong-thua-dam-vi-hieu-cach-da-cua-viet-nam-5106649.html",
+      "summary": "HLV Koji Gyotoku cho rằng kinh nghiệm đối đầu giúp Campuchia thi đấu tốt và chỉ thua Việt Nam 1-3 ở lượt cuối bảng A ASEAN Cup 2026 tối nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T16:28:50+07:00",
+      "fetched": "2026-08-07T23:50:30.778191+07:00"
+    },
+    {
+      "id": "11daea61b07c98a898c81a3e3f4f6206",
+      "title": "HLV Campuchia: 'Không thua đậm vì hiểu cách đá của Việt Nam'",
+      "link": "https://vnexpress.net/hlv-campuchia-khong-thua-dam-vi-hieu-cach-da-cua-viet-nam-5106649.html",
+      "summary": "HLV Koji Gyotoku cho rằng kinh nghiệm đối đầu giúp Campuchia thi đấu tốt và chỉ thua Việt Nam 1-3 ở lượt cuối bảng A ASEAN Cup 2026 tối nay.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-07T16:28:50+07:00",
+      "fetched": "2026-08-07T23:50:42.793503+07:00"
+    },
+    {
+      "id": "9dc2d390ad6b886259681cc4bf2e2ec5",
+      "title": "Thù hằn trên mạng",
+      "link": "https://vnexpress.net/thu-han-tren-mang-5106645.html",
+      "summary": "Ngày 5/8, khi hàng triệu người bị cuốn vào ma lực của một cuộc livestream đình đám, tôi chú ý đến một thông tin khác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T16:28:45+07:00",
+      "fetched": "2026-08-07T23:50:30.778568+07:00"
+    },
+    {
+      "id": "9b711d5a41a340606db29ce362b939ed",
+      "title": "Highlight đội tuyển Singapore 1-1 Indonesia: Vé bán kết kịch tính | ASEAN Cup 2026",
+      "link": "https://thanhnien.vn/highlight-doi-tuyen-singapore-1-1-indonesia-ve-ban-ket-kich-tinh-asean-cup-2026-185260807231643579.htm",
+      "summary": "Singapore và Indonesia cầm chân nhau 1-1 trong trận đấu kịch tính ở lượt cuối bảng A ASEAN Cup 2026. Kết quả này giúp Singapore giành vé vào bán kết, trong khi Indonesia dừng bước đầy tiếc nuối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T16:16:00+07:00",
+      "fetched": "2026-08-07T23:50:33.793471+07:00"
+    },
+    {
+      "id": "2b08919aecb278c3789a63cd695d7db2",
+      "title": "Khởi tố 19 người trong băng nhóm dàn cảnh cướp dây chuyền vàng tại Tân Huê Viên",
+      "link": "https://thanhnien.vn/khoi-to-19-nguoi-trong-bang-nhom-dan-canh-cuop-day-chuyen-vang-tai-tan-hue-vien-185260807225353188.htm",
+      "summary": "Cơ quan Cảnh sát điều tra Công an thành phố Cần Thơ vừa khởi tố 19 bị can trong băng nhóm 28 đối tượng dàn cảnh chen lấn, giật dây chuyền vàng nặng hơn 1 lượng của nữ du khách tại khuôn viên Liên Hoa Bảo Tháp thuộc Công ty Tân Huê Viên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T16:15:00+07:00",
+      "fetched": "2026-08-07T23:50:33.793605+07:00"
+    },
+    {
+      "id": "6eb8949e8b9739b6e6a35100688fe80e",
+      "title": "Báo Đông Nam Á: ‘Đình Bắc thật ấn tượng, Việt Nam càng đá càng khiến các đối thủ dè chừng’",
+      "link": "https://thanhnien.vn/bao-dong-nam-a-dinh-bac-that-an-tuong-viet-nam-khien-cac-doi-thu-e-de-185260807230830001.htm",
+      "summary": "Đội tuyển Việt Nam khép lại vòng bảng ASEAN Cup 2026 bằng chiến thắng 3-1 trước Campuchia, qua đó giành ngôi nhất bảng A. Truyền thông Đông Nam Á đặc biệt ấn tượng với Nguyễn Đình Bắc và đánh giá ‘Những chiến binh sao vàng’ hiện vẫn là ứng cử viên sáng giá nhất cho ngôi vô địch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T16:14:00+07:00",
+      "fetched": "2026-08-07T23:50:33.793735+07:00"
+    },
+    {
+      "id": "e10bc4dc5360f6775e11f0f375a64180",
+      "title": "Highlight đội tuyển Việt Nam 3-1 Campuchia: Đình Bắc đập tan mọi nghi ngờ | ASEAN Cup 2026",
+      "link": "https://thanhnien.vn/highlight-doi-tuyen-viet-nam-3-1-campuchia-dinh-bac-dap-tan-moi-nghi-ngo-asean-cup-2026-185260807231009183.htm",
+      "summary": "Đình Bắc lập cú đúp, góp công lớn giúp đội tuyển Việt Nam đánh bại Campuchia 3-1 để giành ngôi nhất bảng A ASEAN Cup 2026, qua đó khép lại vòng bảng với thành tích bất bại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T16:10:00+07:00",
+      "fetched": "2026-08-07T23:50:33.793858+07:00"
+    },
+    {
+      "id": "801de1207e771bc2e0936f7b48ea736c",
+      "title": "Đình Bắc lý giải màn ăn mừng hôn cỏ cực chất: 'Mặt sân Mỹ Đình đẹp quá'",
+      "link": "https://thanhnien.vn/dinh-bac-ly-giai-man-an-mung-hon-co-cuc-chat-mat-san-my-dinh-dep-qua-185260807225757141.htm",
+      "summary": "Tiền đạo Đình Bắc chia sẻ thú vị về màn ăn mừng hôn cỏ, sau khi ghi bàn thắng ấn định tỷ số 3-1 cho đội tuyển Việt Nam trước Campuchia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T16:06:00+07:00",
+      "fetched": "2026-08-07T23:50:33.793980+07:00"
+    },
+    {
+      "id": "91226701f18e283eccff524778fa3ead",
+      "title": "Singapore thoát thẻ đỏ nhờ VAR, hòa Indonesia để vào bán kết",
+      "link": "https://vnexpress.net/singapore-thoat-the-do-nho-var-hoa-indonesia-de-vao-ban-ket-5106642.html",
+      "summary": "VAR hủy thẻ đỏ giúp Singapore thoát cảnh thiếu người, Ilhan Fandi sau đó ghi bàn gỡ hòa 1-1 đưa đội nhà vào bán kết, Indonesia bị loại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T16:03:16+07:00",
+      "fetched": "2026-08-07T23:50:30.778794+07:00"
+    },
+    {
+      "id": "82fc4b94e2d6e08648a955f9c646f3e2",
+      "title": "Việt Nam - Thái Lan nhất trí thúc đẩy đạt kim ngạch 25 tỷ USD",
+      "link": "https://vnexpress.net/viet-nam-thai-lan-nhat-tri-thuc-day-dat-kim-ngach-25-ty-usd-5106630.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm tiếp Chủ tịch Quốc hội Thái Lan, nhất trí hướng tới mục tiêu đạt kim ngạch thương mại 25 tỷ USD và xa hơn là 50 tỷ USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T15:57:01+07:00",
+      "fetched": "2026-08-07T23:50:30.778935+07:00"
+    },
+    {
+      "id": "82fc4b94e2d6e08648a955f9c646f3e2",
+      "title": "Việt Nam - Thái Lan nhất trí thúc đẩy đạt kim ngạch 25 tỷ USD",
+      "link": "https://vnexpress.net/viet-nam-thai-lan-nhat-tri-thuc-day-dat-kim-ngach-25-ty-usd-5106630.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm tiếp Chủ tịch Quốc hội Thái Lan, nhất trí hướng tới mục tiêu đạt kim ngạch thương mại 25 tỷ USD và xa hơn là 50 tỷ USD.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-07T15:57:01+07:00",
+      "fetched": "2026-08-07T23:50:36.839404+07:00"
+    },
+    {
       "id": "57b8d692b33258c8a76515db1bfa9dc2",
       "title": "Vì sao có những ký ức tưởng mất lại bất ngờ quay trở lại?",
       "link": "https://tuoitre.vn/vi-sao-co-nhung-ky-uc-tuong-mat-lai-bat-ngo-quay-tro-lai-100260807125940484.htm",
@@ -601,6 +881,156 @@ window.newsData_2026_08_07 = {
       "category": "Tổng hợp",
       "published": "2026-08-07T15:55:10.640592+07:00",
       "fetched": "2026-08-07T15:55:10.640753+07:00"
+    },
+    {
+      "id": "3ebc2cfcefdef2b9bc485745fe725831",
+      "title": "Chủ tịch VFF xuống sân chúc mừng đội tuyển Việt Nam: Thưởng tiền tỉ cho vé bán kết",
+      "link": "https://thanhnien.vn/chu-tich-vff-xuong-san-chuc-mung-doi-tuyen-viet-nam-thuong-tien-ti-cho-ve-ban-ket-185260807224641017.htm",
+      "summary": "Chủ tịch Liên đoàn Bóng đá Việt Nam (VFF) Trần Quốc Tuấn đã xuống sân chúc mừng đội tuyển Việt Nam sau trận thắng 3-1 trước Campuchia ở trận cuối cùng vòng bảng ASEAN Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T15:53:00+07:00",
+      "fetched": "2026-08-07T23:50:33.794112+07:00"
+    },
+    {
+      "id": "63f7fc1f64e7d7059fc8bc0848662260",
+      "title": "HLV Kim Sang-sik phê bình nhẹ đội tuyển Việt Nam, nói cực hay về Đình Bắc: ‘Tôi khuyên cậu ấy…’",
+      "link": "https://thanhnien.vn/hlv-kim-sang-sik-phe-binh-nhe-doi-tuyen-viet-nam-noi-cuc-hay-ve-dinh-bac-toi-khuyen-cau-ay-185260807164033329.htm",
+      "summary": "HLV Kim Sang-sik khẳng định bản thân dù có nghiêm khắc với Đình Bắc, cũng là để học trò tiến bộ hơn từng ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T15:52:00+07:00",
+      "fetched": "2026-08-07T23:50:33.794235+07:00"
+    },
+    {
+      "id": "b83a213e26425722234ecc33fa501b99",
+      "title": "Đội tuyển Indonesia bị chỉ trích dữ dội vì loại từ vòng bảng: ‘Kết quả khó nuốt trôi’",
+      "link": "https://thanhnien.vn/doi-tuyen-indonesia-bi-chi-trich-du-doi-vi-loai-tu-vong-bang-ket-qua-kho-nuot-troi-185260807224208503.htm",
+      "summary": "Đội tuyển Indonesia đã phải dừng bước ngay vòng bảng ASEAN Cup 2026 sau trận hòa 1-1 trước Singapore. Truyền thông Indonesia không giấu được sự thất vọng khi cho rằng đội nhà đã bỏ lỡ cơ hội quá lớn để đi tiếp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T15:45:00+07:00",
+      "fetched": "2026-08-07T23:50:33.794360+07:00"
+    },
+    {
+      "id": "e4a26339678c2ae94c8c2a9b60c7b74d",
+      "title": "Báo Indonesia cay đắng khi đội nhà hòa Singapore: VAR đảo ngược thẻ đỏ, 30 năm trắng tay tại ASEAN Cup",
+      "link": "https://thanhnien.vn/bao-indonesia-cay-dang-khi-doi-nha-hoa-singapore-var-dao-nguoc-the-do-30-nam-trang-tay-tai-asean-cup-18526080722392097.htm",
+      "summary": "Tối 7.8, đội tuyển Indonesia 'đang bị tổn thương và khao khát chiến thắng' bị Singapore cầm hòa với tỷ số 1-1 trên sân Jalan Besar, khiến sớm chia tay ASEAN Cup 2026 ngay vòng bảng khi xếp thứ 3 bảng A.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T15:43:00+07:00",
+      "fetched": "2026-08-07T23:50:33.794477+07:00"
+    },
+    {
+      "id": "c1cb45f7e372319e51ac9f62b71c3b3f",
+      "title": "CSGT xử lý nhiều xe quá tốc độ ở hầm Hải Vân, xe khách chạy 105 km/giờ",
+      "link": "https://thanhnien.vn/csgt-xu-ly-nhieu-xe-qua-toc-do-o-ham-hai-van-xe-khach-chay-105-km-gio-18526080720443571.htm",
+      "summary": "CSGT Trạm Phú Lộc thuộc Phòng CSGT Công an thành phố Huế đang đẩy mạnh tuần tra, kiểm soát, sử dụng thiết bị kỹ thuật nghiệp vụ để ghi nhận và xử lý nghiêm các trường hợp vi phạm tốc độ khi lưu thông qua hầm đường bộ Hải Vân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T15:42:00+07:00",
+      "fetched": "2026-08-07T23:50:33.794596+07:00"
+    },
+    {
+      "id": "ed7eb2b38584a0d11b8b365405562231",
+      "title": "Vụ dàn cảnh cướp dây chuyền của du khách tại Tân Huê Viên:Khởi tố 19 bị can",
+      "link": "https://thanhnien.vn/vu-dan-canh-cuop-day-chuyen-cua-du-khach-tai-tan-hue-vienkhoi-to-19-bi-can-185260807222001954.htm",
+      "summary": "Liên quan vụ băng nhóm gồm 28 người dàn cảnh giật cướp dây chuyền của du khách tại khuôn viên Liên Hoa Bảo Tháp của Công ty Tân Huê Viên, Công an thành phố Cần Thơ đã khởi tố 19 bị can.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T15:41:00+07:00",
+      "fetched": "2026-08-07T23:50:33.794718+07:00"
+    },
+    {
+      "id": "72722b702cab016135fee1688a6ff979",
+      "title": "Đình Bắc: 'Tôi đã nhìn nhận lại bản thân'",
+      "link": "https://vnexpress.net/dinh-bac-toi-da-nhin-nhan-lai-ban-than-5106641.html",
+      "summary": "Tiền đạo Nguyễn Đình Bắc cho biết anh đã thay đổi, sau khi lập cú đúp giúp Việt Nam thắng Campuchia 3-1 ở lượt cuối bảng A ASEAN Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T15:34:25+07:00",
+      "fetched": "2026-08-07T23:50:30.779137+07:00"
+    },
+    {
+      "id": "72722b702cab016135fee1688a6ff979",
+      "title": "Đình Bắc: 'Tôi đã nhìn nhận lại bản thân'",
+      "link": "https://vnexpress.net/dinh-bac-toi-da-nhin-nhan-lai-ban-than-5106641.html",
+      "summary": "Tiền đạo Nguyễn Đình Bắc cho biết anh đã thay đổi, sau khi lập cú đúp giúp Việt Nam thắng Campuchia 3-1 ở lượt cuối bảng A ASEAN Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-07T15:34:25+07:00",
+      "fetched": "2026-08-07T23:50:42.793654+07:00"
+    },
+    {
+      "id": "2dc4393289804cf360c2326ec130c878",
+      "title": "Lịch thi đấu bán kết ASEAN Cup 2026 mới nhất: Việt Nam đá lượt đi và lượt về ngày nào?",
+      "link": "https://thanhnien.vn/lich-thi-dau-ban-ket-asean-cup-2026-moi-nhat-doi-tuyen-viet-nam-da-ngay-nao-185260807222925345.htm",
+      "summary": "Với chiến thắng ở lượt trận hạ màn vòng bảng, đội tuyển Việt Nam giành tấm vé đi tiếp vào bán kết giải ASEAN Cup 2026 với vị trí dẫn đầu bảng A.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T15:32:00+07:00",
+      "fetched": "2026-08-07T23:50:33.794834+07:00"
+    },
+    {
+      "id": "2594154959fd76ebd52a545c66c62a9d",
+      "title": "Đình Bắc rực sáng, đội tuyển Việt Nam thắng Campuchia giành ngôi nhất bảng",
+      "link": "https://thanhnien.vn/dinh-bac-ruc-sang-doi-tuyen-viet-nam-thang-campuchia-gianh-ngoi-nhat-bang-185260807222913938.htm",
+      "summary": "Đình Bắc tỏa sáng với cú đúp, giúp đội tuyển Việt Nam đánh bại Campuchia 3-1 ở lượt trận cuối bảng A ASEAN Cup 2026. Chiến thắng này đưa thầy trò HLV Kim Sang-sik vào bán kết với ngôi nhất bảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T15:31:00+07:00",
+      "fetched": "2026-08-07T23:50:33.794948+07:00"
+    },
+    {
+      "id": "d6e4a9213d3b805fc2df64e4975d964a",
+      "title": "Trấn Thành làm phim tết 2027 sau khi 'Thỏ ơi' thu gần 450 tỉ đồng",
+      "link": "https://thanhnien.vn/tran-thanh-lam-phim-tet-2027-sau-khi-tho-oi-thu-gan-450-ti-dong-185260807221328091.htm",
+      "summary": "Tiếp nối thành công của mùa phim tết vừa qua với 'Thỏ ơi', Trấn Thành chính thức khởi động dự án phim tết 2027 mang tên 'Em'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T15:29:00+07:00",
+      "fetched": "2026-08-07T23:50:33.795073+07:00"
+    },
+    {
+      "id": "3a82c716a63960d0ae9f5801e4957047",
+      "title": "Pha phản lưới nhà của hậu vệ Campuchia giúp Việt Nam nâng tỷ số",
+      "link": "https://vnexpress.net/pha-phan-luoi-nha-cua-hau-ve-campuchia-giup-viet-nam-nang-ty-so-5106639.html",
+      "summary": "Phút 84, Xuân Son chích bóng chéo góc nhưng đi chệch khung thành, Vakhim lùi về phá hụt khiến bóng vào lưới nhà, giúp Việt Nam dẫn 2-1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T15:24:12+07:00",
+      "fetched": "2026-08-07T23:50:30.779362+07:00"
+    },
+    {
+      "id": "0f0c081dd1304152ce04a40492f82bff",
+      "title": "Du khách nước ngoài bị sóng cuốn mất tích ở Đăk Lăk",
+      "link": "https://vnexpress.net/du-khach-nuoc-ngoai-bi-song-cuon-mat-tich-o-dak-lak-5106632.html",
+      "summary": "Người đàn ông Trung Quốc khi đi chơi với bạn ở biển Tuy Hoà, đứng ở mép nước bị sóng lớn cuốn mất tích.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T15:17:25+07:00",
+      "fetched": "2026-08-07T23:50:30.779570+07:00"
+    },
+    {
+      "id": "1c9aafd41e306282ffedf663f39b3d49",
+      "title": "HLV Kim Sang-sik: 'Đình Bắc phải vươn tầm châu lục và thế giới'",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-dinh-bac-phai-vuon-tam-chau-luc-va-the-gioi-5106488.html",
+      "summary": "HLV Kim Sang-sik khuyến khích Nguyễn Đình Bắc hướng đến các mục tiêu cao hơn, sau khi tiền đạo này tỏa sáng giúp Việt Nam hạ Campuchia 3-1 ở lượt cuối bảng A ASEAN Cup 2026 tối 7/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T14:55:10+07:00",
+      "fetched": "2026-08-07T23:50:30.779773+07:00"
+    },
+    {
+      "id": "1c9aafd41e306282ffedf663f39b3d49",
+      "title": "HLV Kim Sang-sik: 'Đình Bắc phải vươn tầm châu lục và thế giới'",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-dinh-bac-phai-vuon-tam-chau-luc-va-the-gioi-5106488.html",
+      "summary": "HLV Kim Sang-sik khuyến khích Nguyễn Đình Bắc hướng đến các mục tiêu cao hơn, sau khi tiền đạo này tỏa sáng giúp Việt Nam hạ Campuchia 3-1 ở lượt cuối bảng A ASEAN Cup 2026 tối 7/8.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-07T14:55:10+07:00",
+      "fetched": "2026-08-07T23:50:42.793785+07:00"
     },
     {
       "id": "b40d8fabe8669ab6d2c957845a0bcd8f",
@@ -1321,6 +1751,16 @@ window.newsData_2026_08_07 = {
       "category": "Thể thao",
       "published": "2026-08-07T12:11:34+07:00",
       "fetched": "2026-08-07T19:55:21.283032+07:00"
+    },
+    {
+      "id": "911e4df368fc0a3c78f30fe8b1a5d4eb",
+      "title": "Indonesia bị loại khỏi ASEAN Cup",
+      "link": "https://vnexpress.net/ket-qua-singapore-vs-indonesia-5106603.html",
+      "summary": "Chỉ hòa 1-1 với Singapore trong trận đấu quyết định vé bán kết, Indonesia rời ASEAN Cup 2026 ngay từ vòng bảng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-07T12:11:34+07:00",
+      "fetched": "2026-08-07T23:50:42.794037+07:00"
     },
     {
       "id": "9007d1eb73dafd8f532a71d989b68c47",
