@@ -1,7 +1,157 @@
 window.newsData_2026_08_07 = {
   "date": "2026-08-07",
-  "lastUpdated": "2026-08-07T19:55:21.293870+07:00",
+  "lastUpdated": "2026-08-07T21:50:17.095604+07:00",
   "articles": [
+    {
+      "id": "7a96aa03f967d181c9055e4f4c59253f",
+      "title": "Du khách Pháp cõng cựu chiến binh lên cột cờ Lũng Cú",
+      "link": "https://tuoitre.vn/du-khach-phap-cong-cuu-chien-binh-len-cot-co-lung-cu-100260807184825727.htm",
+      "summary": "Vừa qua trên mạng xã hội lan tỏa hình ảnh đẹp về một nam du khách Pháp cõng cựu chiến binh lên cột cờ Lũng Cú. Hành động đẹp đã nhận mưa lời khen trên Facebook, Tiktok.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T21:50:08.060439+07:00",
+      "fetched": "2026-08-07T21:50:08.060518+07:00"
+    },
+    {
+      "id": "5db4347bf4b76bdd8254b749a80ff881",
+      "title": "Hàng rong, chèo kéo du khách, lừa đảo du lịch ngày càng tinh vi, TP.HCM siết quản lý",
+      "link": "https://tuoitre.vn/hang-rong-cheo-keo-du-khach-lua-dao-du-lich-ngay-cang-tinh-vi-tphcm-siet-quan-ly-100260807185410381.htm",
+      "summary": "TPHCM sẽ tăng kiểm tra doanh nghiệp lữ hành, liên thông dữ liệu với lực lượng công an, xây dựng cơ chế cảnh báo sớm nhằm kịp thời phát hiện, xử lý các hành vi ảnh hưởng đến du khách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T21:50:08.060350+07:00",
+      "fetched": "2026-08-07T21:50:08.060426+07:00"
+    },
+    {
+      "id": "605833a169e09be7717a1e192ce74d47",
+      "title": "Thái Lan duyệt viện trợ tối đa 1 triệu baht cho mỗi nạn nhân vụ xả súng",
+      "link": "https://tuoitre.vn/thai-lan-duyet-vien-tro-toi-da-1-trieu-baht-cho-moi-nan-nhan-vu-xa-sung-100260807193340389.htm",
+      "summary": "Chính phủ Thái Lan duyệt viện trợ cho các nạn nhân của vụ nam sinh Thái Lan xả súng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T21:50:08.060269+07:00",
+      "fetched": "2026-08-07T21:50:08.060337+07:00"
+    },
+    {
+      "id": "17e075ee7ea0a9a5747e27de9bb5451a",
+      "title": "Thuế TP.HCM đạt 58% mục tiêu thu 1 triệu tỉ đồng",
+      "link": "https://tuoitre.vn/thue-tphcm-dat-58-muc-tieu-thu-1-trieu-ti-dong-100260807190430052.htm",
+      "summary": "7 tháng đầu năm 2026, Thuế TP.HCM đã thu được gần 466.900 tỉ đồng, đạt 74,5% dự toán Chính phủ giao và đạt 58,4% mục tiêu thu ngân sách nhà nước của TP.HCM là 1 triệu tỉ đồng, tăng 24,5% so với cùng kỳ năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T21:50:08.060185+07:00",
+      "fetched": "2026-08-07T21:50:08.060257+07:00"
+    },
+    {
+      "id": "a808478ab8aee0c18984dd8da52fd3e0",
+      "title": "Doanh nghiệp Huấn Hoa Hồng góp vốn giải thể, bất ngờ về hoạt động công ty 100 tỉ khác",
+      "link": "https://tuoitre.vn/doanh-nghiep-huan-hoa-hong-gop-von-giai-the-bat-ngo-ve-hoat-dong-cong-ty-100-ti-khac-100260807190446508.htm",
+      "summary": "Một doanh nghiệp có vốn góp của Bùi Xuân Huấn (Huấn Hoa Hồng) mới đây đã giải thể. Trong khi một công ty có vốn điều lệ lên tới 100 tỉ đồng khác mà Huấn Hoa Hồng làm chủ tịch lại không ghi nhận đồng doanh thu nào từ khi thành lập.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T21:50:08.060125+07:00",
+      "fetched": "2026-08-07T21:50:08.060177+07:00"
+    },
+    {
+      "id": "33e2f6a1feaa9f16cca48c68adcedb72",
+      "title": "Các nhà xuất bản tuyệt đối không được đánh đổi chất lượng lấy lợi ích trước mắt",
+      "link": "https://tuoitre.vn/cac-nha-xuat-ban-tuyet-doi-khong-duoc-danh-doi-chat-luong-lay-loi-ich-truoc-mat-100260807194335979.htm",
+      "summary": "Một trong những câu chuyện được nói tới nhiều trong hội nghị là việc rút kinh nghiệm từ vụ việc cuốn sách Chuyện với Thanh - Lời kể mới về ánh sáng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T21:50:08.060039+07:00",
+      "fetched": "2026-08-07T21:50:08.060116+07:00"
+    },
+    {
+      "id": "ee54ed6c81de23e6eb467b263ad9a254",
+      "title": "ICE gắn camera cho các đặc vụ, nhưng chỉ công bố video khi 'có lợi nhất cho ICE'",
+      "link": "https://tuoitre.vn/ice-gan-camera-cho-cac-dac-vu-nhung-chi-cong-bo-video-khi-co-loi-nhat-cho-ice-100260807194608964.htm",
+      "summary": "ICE sẽ trang bị camera gắn trên người cho các đặc vụ, nhưng chỉ công bố video nếu cho rằng điều đó \"phù hợp với lợi ích tốt nhất của cơ quan\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T21:50:08.059924+07:00",
+      "fetched": "2026-08-07T21:50:08.060023+07:00"
+    },
+    {
+      "id": "1fa09c3b4967eb88976eb79bdcc12393",
+      "title": "Đề xuất nâng trần khung phí quản lý chung cư vì mức cũ đã 'lỗi thời'",
+      "link": "https://tuoitre.vn/de-xuat-nang-tran-khung-phi-quan-ly-chung-cu-vi-muc-cu-da-loi-thoi-10026080719370437.htm",
+      "summary": "Luật sư Nguyễn Thị Mỹ Viễn, Phó Chủ tịch kiêm Tổng thư ký Hiệp hội Quản lý vận hành nhà chung cư TP.HCM, cho rằng mức giá khung phí quản lý nhà chung cư do Sở Xây dựng ban hành hiện ở mức 7.000 đồng/m2/tháng là không còn phù hợp với thực tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T21:50:08.059549+07:00",
+      "fetched": "2026-08-07T21:50:08.059902+07:00"
+    },
+    {
+      "id": "db662dd99d9db29a76a85ab5f582e8f5",
+      "title": "Phó thủ tướng yêu cầu rà soát học phí đại học: Các trường đang thu bao nhiêu?",
+      "link": "https://tuoitre.vn/pho-thu-tuong-yeu-cau-ra-soat-hoc-phi-dai-hoc-cac-truong-dang-thu-bao-nhieu-100260807161503942.htm",
+      "summary": "Phó thủ tướng yêu cầu học phí đại học phải tương xứng chất lượng đào tạo, đồng thời mở rộng tín dụng sinh viên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T21:50:08.059495+07:00",
+      "fetched": "2026-08-07T21:50:08.059541+07:00"
+    },
+    {
+      "id": "b140d4517473db336afbe3e787ea5c46",
+      "title": "CSGT đào tạo kỹ năng lái xe máy cho người đã có bằng lái lâu năm, thực hiện trên toàn quốc",
+      "link": "https://tuoitre.vn/csgt-dao-tao-ky-nang-lai-xe-may-cho-nguoi-da-co-bang-lai-lau-nam-thuc-hien-tren-toan-quoc-100260807184637442.htm",
+      "summary": "Cục Cảnh sát giao thông sẽ triển khai chiến dịch đào tạo kỹ năng lái xe an toàn trên phạm vi toàn quốc từ ngày 10-8 đến hết năm nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T21:50:08.059439+07:00",
+      "fetched": "2026-08-07T21:50:08.059486+07:00"
+    },
+    {
+      "id": "8db5429d3c98579e414498c666d53d99",
+      "title": "Khánh Sky: 'Càng thấy nhiều view, đông người xem, tôi càng chửi nhiều'",
+      "link": "https://tuoitre.vn/khanh-sky-cang-thay-nhieu-view-dong-nguoi-xem-toi-cang-chui-nhieu-100260807203131932.htm",
+      "summary": "Khánh Sky khai nhận không bỏ qua các cơ hội \"bú fame\" với rất nhiều view, người quan tâm, \"trong khi chửi bới càng thấy nhiều view, đông người xem, tôi càng chửi nhiều\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T21:50:08.059381+07:00",
+      "fetched": "2026-08-07T21:50:08.059430+07:00"
+    },
+    {
+      "id": "d0c8d4c55582993cf8f6e4381683150b",
+      "title": "Phó bí thư Thành ủy TP.HCM Văn Thị Bạch Tuyết: Nỗ lực trong sinh hoạt Đảng và chăm lo công nhân là điều đáng quý",
+      "link": "https://tuoitre.vn/pho-bi-thu-thanh-uy-tphcm-van-thi-bach-tuyet-no-luc-trong-sinh-hoat-dang-va-cham-lo-cong-nhan-la-dieu-dang-quy-100260807203051063.htm",
+      "summary": "Chiều 7-8, đoàn khảo sát Thành ủy TP.HCM do bà Văn Thị Bạch Tuyết, Phó bí thư Thành ủy TP.HCM làm trưởng đoàn khảo sát công tác xây dựng tổ chức Đảng, tổ chức chính trị - xã hội tại Đảng ủy Công ty TNHH Pouyuen Việt Nam (phường Tân Tạo).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T21:50:08.059320+07:00",
+      "fetched": "2026-08-07T21:50:08.059372+07:00"
+    },
+    {
+      "id": "007e0cf7d0220a1ceb9597287881b90f",
+      "title": "Camera AI truy vết xe tải làm rơi vãi đất ra đường trong đêm",
+      "link": "https://tuoitre.vn/camera-ai-truy-vet-xe-tai-lam-roi-vai-dat-ra-duong-trong-dem-100260807201740646.htm",
+      "summary": "Thông qua hệ thống camera AI, cảnh sát phát hiện xe tải biển kiểm soát 29H-734.XX chở đất nhưng che chắn không bảo đảm, khiến đất rơi vãi xuống mặt đường ở Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T21:50:08.059258+07:00",
+      "fetched": "2026-08-07T21:50:08.059312+07:00"
+    },
+    {
+      "id": "b29173d312949809eb6b41fe3e1c04e3",
+      "title": "Tú Sương với vai diễn bà mẹ khùng, Quang Hùng MasterD kể chuyện tình",
+      "link": "https://tuoitre.vn/tu-suong-voi-vai-dien-ba-me-khung-quang-hung-masterd-ke-chuyen-tinh-100260807132430874.htm",
+      "summary": "Tin tức xem - nghe cuối tuần: Tú Sương với vai diễn bà mẹ khùng, Quang Hùng MasterD kể chuyện tình Tinh hà say hi, 'hiện tượng phòng vé Trung Quốc' ra rạp Việt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T21:50:08.059187+07:00",
+      "fetched": "2026-08-07T21:50:08.059248+07:00"
+    },
+    {
+      "id": "4b8aed4ef192c5f188099e9afbf865f8",
+      "title": "Một du khách Trung Quốc bị sóng cuốn mất tích tại bãi biển Tuy Hòa",
+      "link": "https://tuoitre.vn/mot-du-khach-trung-quoc-bi-song-cuon-mat-tich-tai-bai-bien-tuy-hoa-100260807204407743.htm",
+      "summary": "Lực lượng chức năng vẫn đang khẩn trương tìm kiếm một nam du khách quốc tịch Trung Quốc bị sóng cuốn mất tích tại bãi biển Tuy Hòa (phường Tuy Hòa, tỉnh Đắk Lắk).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T21:50:08.059024+07:00",
+      "fetched": "2026-08-07T21:50:08.059174+07:00"
+    },
     {
       "id": "37f58d0af38e7e35eabeb0c91c3ff1ee",
       "title": "Triển lãm Quốc tế Thực phẩm, Đồ uống và Thiết bị - Công nghệ chế biến, bao bì",
@@ -453,6 +603,76 @@ window.newsData_2026_08_07 = {
       "fetched": "2026-08-07T15:55:10.640753+07:00"
     },
     {
+      "id": "b40d8fabe8669ab6d2c957845a0bcd8f",
+      "title": "Mãn nhãn xem 'phi hành gia' thắp sáng biển Quy Nhơn bằng flyboard",
+      "link": "https://thanhnien.vn/man-nhan-xem-phi-hanh-gia-thap-sang-bien-quy-nhon-bang-flyboard-185260807210549422.htm",
+      "summary": "Hàng ngàn người dân, du khách đội mưa xem trình diễn flyboard kết hợp pháo sáng trên biển Quy Nhơn (Gia Lai) tối 7.8, trong chuỗi sự kiện hưởng ứng Năm Du lịch quốc gia 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T14:41:00+07:00",
+      "fetched": "2026-08-07T21:50:06.045407+07:00"
+    },
+    {
+      "id": "c85c5c30e63676ade0810df255182b4d",
+      "title": "Nước Đông Nam Á nào có dòng sông đảo chiều mỗi năm?",
+      "link": "https://vnexpress.net/nuoc-dong-nam-a-nao-co-dong-song-dao-chieu-moi-nam-5106590.html",
+      "summary": "Sông này chảy về phía nam vào mùa khô, chảy về hướng ngược lại vào mùa mưa, là dòng sông hiếm hoi có đặc điểm này. Nó ở nước nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T14:40:26+07:00",
+      "fetched": "2026-08-07T21:50:02.831563+07:00"
+    },
+    {
+      "id": "28a34e03ede0a6249d62ad66d6e6efe3",
+      "title": "PGS Hà Đình Đức trong ký ức tổ trưởng lai dắt rùa Hồ Gươm",
+      "link": "https://vnexpress.net/pgs-ha-dinh-duc-trong-ky-uc-to-truong-lai-dat-rua-ho-guom-5106619.html",
+      "summary": "Đã nhiều năm qua đi nhưng ông Nguyễn Ngọc Khôi chưa quên khoảng thời gian năm 2011, ngày nào \"nhà rùa học\" Hà Đình Đức cũng có mặt ở Hồ Gươm theo dõi rùa nổi và các diễn biến quanh hồ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T14:40:18+07:00",
+      "fetched": "2026-08-07T21:50:02.831751+07:00"
+    },
+    {
+      "id": "946c824c10bf367e73598820ab652a24",
+      "title": "Hợp tác công nghệ sẽ là trọng tâm chuyến thăm Australia của Tổng Bí thư, Chủ tịch nước",
+      "link": "https://vnexpress.net/hop-tac-cong-nghe-se-la-trong-tam-chuyen-tham-australia-cua-tong-bi-thu-chu-tich-nuoc-5106615.html",
+      "summary": "Thứ trưởng Ngoại giao cho biết Tổng Bí thư, Chủ tịch nước Tô Lâm dự kiến thảo luận với lãnh đạo Australia về hợp tác công nghệ, chuyển đổi năng lượng và đào tạo nhân lực trình độ cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T14:35:14+07:00",
+      "fetched": "2026-08-07T21:50:02.831898+07:00"
+    },
+    {
+      "id": "946c824c10bf367e73598820ab652a24",
+      "title": "Hợp tác công nghệ sẽ là trọng tâm chuyến thăm Australia của Tổng Bí thư, Chủ tịch nước",
+      "link": "https://vnexpress.net/hop-tac-cong-nghe-se-la-trong-tam-chuyen-tham-australia-cua-tong-bi-thu-chu-tich-nuoc-5106615.html",
+      "summary": "Thứ trưởng Ngoại giao cho biết Tổng Bí thư, Chủ tịch nước Tô Lâm dự kiến thảo luận với lãnh đạo Australia về hợp tác công nghệ, chuyển đổi năng lượng và đào tạo nhân lực trình độ cao.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-07T14:35:14+07:00",
+      "fetched": "2026-08-07T21:50:09.964567+07:00"
+    },
+    {
+      "id": "d99dc4eb11852b9b5dfd1aa2e94d8068",
+      "title": "Cô dâu, chú rể Ấn Độ tổ chức 'siêu đám cưới' tại Nha Trang",
+      "link": "https://vnexpress.net/co-dau-chu-re-an-do-to-chuc-sieu-dam-cuoi-tai-nha-trang-5106610.html",
+      "summary": "Một cặp Ấn Độ dự kiến tổ chức đám cưới với khoảng 1.400 khách mời trong 4 ngày, chi phí hơn 130 tỷ đồng, tại đảo Hòn Tre, vịnh Nha Trang, vào tháng 12 tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T14:29:04+07:00",
+      "fetched": "2026-08-07T21:50:02.832032+07:00"
+    },
+    {
+      "id": "a8f50c5abc1ecf2a6b8fa28a01b00048",
+      "title": "Sở GD-ĐT TP.HCM lên tiếng vụ cô giáo bắn dây thun vào chân trẻ",
+      "link": "https://thanhnien.vn/so-gd-dt-tphcm-len-tieng-vu-co-giao-ban-day-thun-vao-chan-tre-185260807195540891.htm",
+      "summary": "Vụ cô giáo bắn dây thun vào chân trẻ mầm non ở phường Thuận Giao, TP.HCM đang được điều tra, xử lý. Sở GD-ĐT TP.HCM tiếp tục phối hợp chặt chẽ, theo dõi, chỉ đạo xử lý hành vi vi phạm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T14:12:00+07:00",
+      "fetched": "2026-08-07T21:50:06.045554+07:00"
+    },
+    {
       "id": "699993d97aa2e0ec5dad4863d2485c2f",
       "title": "An ninh mạng Công an TP.HCM nhất bảng cuộc thi 'Hành trình truy vết tội phạm mạng'",
       "link": "https://tuoitre.vn/an-ninh-mang-cong-an-tphcm-nhat-bang-cuoc-thi-hanh-trinh-truy-vet-toi-pham-mang-100260807111938084.htm",
@@ -601,6 +821,276 @@ window.newsData_2026_08_07 = {
       "category": "Tổng hợp",
       "published": "2026-08-07T14:09:39.197744+07:00",
       "fetched": "2026-08-07T14:09:39.197883+07:00"
+    },
+    {
+      "id": "2a23e14791eddf0f4ad0663a97d4b20a",
+      "title": "Ca sĩ Hương Tràm khóc nghẹn trên truyền hình",
+      "link": "https://thanhnien.vn/ca-si-huong-tram-khoc-nghen-tren-truyen-hinh-185260807192452313.htm",
+      "summary": "Xót xa trước hoàn cảnh của các em nhỏ trong 'Mái ấm gia đình Việt', Hương Tràm quyết định bỏ tiền túi hỗ trợ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T14:08:00+07:00",
+      "fetched": "2026-08-07T21:50:06.045707+07:00"
+    },
+    {
+      "id": "9bed278276a3f85ac506e66de4b30e71",
+      "title": "Chữ Nghĩa Chữ Nghề - Người canh giấc ngủ dài | Phim ngắn Vietnamese 2026",
+      "link": "https://thanhnien.vn/chu-nghia-chu-nghe-nguoi-canh-giac-ngu-dai-phim-ngan-vietnamese-2026-18526080718322351.htm",
+      "summary": "Phim ngắn 'Chữ Nghĩa Chữ Nghề - Người canh giấc ngủ dài' là tác phẩm tham dự cuộc thi phim ngắn Vietnamese 2026. Cuộc thi do Báo Thanh Niên phối hợp cùng Hiệp hội Xúc tiến phát triển điện ảnh Việt Nam tổ chức với sự đồng hành của Sở Du lịch TP.HCM, Sở Văn hóa - Thể thao TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T14:00:00+07:00",
+      "fetched": "2026-08-07T21:50:06.045835+07:00"
+    },
+    {
+      "id": "5e1c6241b193a82bfe7dcdeda743160e",
+      "title": "Giá vàng thế giới tăng vọt",
+      "link": "https://thanhnien.vn/gia-vang-the-gioi-tang-vot-185260807204339923.htm",
+      "summary": "Giá vàng thế giới tăng mạnh sau khi Mỹ công bố số liệu việc làm phi nông nghiệp không khả quan. Giá bạc cũng đã ghi nhận mức tăng tốt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T13:54:00+07:00",
+      "fetched": "2026-08-07T21:50:06.045958+07:00"
+    },
+    {
+      "id": "bbd0d77ced83ee9ac4375dad8b7840a0",
+      "title": "TikToker Khánh Sky khai: 'Càng chửi bới càng nhiều view'",
+      "link": "https://vnexpress.net/tiktoker-khanh-sky-khai-cang-chui-boi-cang-nhieu-view-5106623.html",
+      "summary": "Nguyễn Văn Hợi (tức TikToker Khánh Sky) khai không bỏ qua các cơ hội gây chú ý, bởi thấy càng chửi bới càng nhiều người quan tâm, càng nhiều view.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T13:52:30+07:00",
+      "fetched": "2026-08-07T21:50:02.832162+07:00"
+    },
+    {
+      "id": "8fc2a2d0f399eae7ae244b46246a314f",
+      "title": "Trấn Thành khởi động phim Tết 2027",
+      "link": "https://vnexpress.net/tran-thanh-khoi-dong-phim-tet-2027-5106625.html",
+      "summary": "Đạo diễn Trấn Thành và êkíp khởi động phim điện ảnh \"Em\", gia nhập cuộc đua phim Tết 2027.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T13:52:24+07:00",
+      "fetched": "2026-08-07T21:50:02.832290+07:00"
+    },
+    {
+      "id": "93a096cff9d2c5154a9977b94cbd995b",
+      "title": "TP.HCM: Làm việc với bảo mẫu bạo hành trẻ em tại cơ sở mầm non",
+      "link": "https://thanhnien.vn/tphcm-lam-viec-voi-bao-mau-bao-hanh-tre-em-tai-co-so-mam-non-185260807185747788.htm",
+      "summary": "Công an phường Thuận Giao (TP.HCM) khẩn trương làm rõ vụ bảo mẫu bạo hành trẻ em tại cơ sở mầm non Lá Xanh sau khi clip được đăng tải trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T13:48:00+07:00",
+      "fetched": "2026-08-07T21:50:06.046084+07:00"
+    },
+    {
+      "id": "f56f4e52a40f14a5b3b635daab14f701",
+      "title": "Thủng lốp trên cao tốc Bắc - Nam: CSGT tìm hơn 120 chủ xe",
+      "link": "https://thanhnien.vn/thung-lop-tren-cao-toc-bac-nam-csgt-tim-hon-120-chu-xe-185260807191153157.htm",
+      "summary": "Liên quan vụ hàng loạt phương tiện thủng lốp trên cao tốc Bắc - Nam đoạn qua Đắk Lắk khiến hơn 120 ô tô hư hỏng, Cục CSGT đề nghị chủ xe cung cấp hồ sơ để bảo vệ quyền lợi và xử lý trách nhiệm các bên liên quan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T13:46:00+07:00",
+      "fetched": "2026-08-07T21:50:06.046204+07:00"
+    },
+    {
+      "id": "894865f67e5e41195c770037f20c67aa",
+      "title": "TP.HCM lập cơ chế cảnh báo sớm lừa đảo du lịch",
+      "link": "https://thanhnien.vn/tphcm-lap-co-che-canh-bao-som-lua-dao-du-lich-185260807200908469.htm",
+      "summary": "Trước tình trạng chèo kéo, 'chặt chém' du khách còn tái diễn và lừa đảo du lịch trên không gian mạng ngày càng tinh vi, TP.HCM sẽ liên thông dữ liệu, xây dựng cơ chế cảnh báo sớm để kịp thời phát hiện, ngăn chặn vi phạm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T13:44:00+07:00",
+      "fetched": "2026-08-07T21:50:06.046332+07:00"
+    },
+    {
+      "id": "aae19d39a104bc123869396c43f716bb",
+      "title": "Bộ Y tế đề xuất chuẩn bị tuổi già từ 40 tuổi: Người dân và chuyên gia nói gì?",
+      "link": "https://thanhnien.vn/bo-y-te-de-xuat-chuan-bi-tuoi-gia-tu-40-tuoi-nguoi-dan-va-chuyen-gia-noi-gi-185260807130737441.htm",
+      "summary": "Đề xuất của Bộ Y tế về việc hướng dẫn người từ 40 tuổi trở lên chuẩn bị cho tuổi già đang thu hút sự quan tâm của dư luận. Trong khi chuyên gia khuyến nghị nên chủ động từ sớm, phần lớn người dân cho rằng ở tuổi này họ vẫn còn nhiều gánh nặng kinh tế và khát vọng cống hiến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T13:41:00+07:00",
+      "fetched": "2026-08-07T21:50:06.046452+07:00"
+    },
+    {
+      "id": "c7aae9af07e8a3e6de751bbbe9c236bf",
+      "title": "7 mẫu xe máy đáng chú ý vừa trình làng Việt Nam",
+      "link": "https://thanhnien.vn/7-mau-xe-may-dang-chu-y-vua-trinh-lang-viet-nam-185260805161632079.htm",
+      "summary": "Từ xe tay ga phổ thông, xe côn tay thể thao đến những mẫu xe điện hoàn toàn mới, thị trường xe máy Việt Nam vừa đón thêm loạt sản phẩm mới, qua đó bổ sung lựa chọn cho người tiêu dùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T13:37:00+07:00",
+      "fetched": "2026-08-07T21:50:06.046574+07:00"
+    },
+    {
+      "id": "e1b6bdd5e48dfd4119011386c9fd30cf",
+      "title": "TP HCM muốn đưa logistics thành ngành mũi nhọn",
+      "link": "https://vnexpress.net/tp-hcm-muon-dua-logistics-thanh-nganh-mui-nhon-5106588.html",
+      "summary": "TP HCM đặt mục tiêu logistics đóng góp 8-10% GRDP, tăng trưởng 13-16% mỗi năm đến 2035, hướng tới trở thành trung tâm logistics và cảng trung chuyển quốc tế hàng đầu châu Á.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T13:30:00+07:00",
+      "fetched": "2026-08-07T21:50:02.832425+07:00"
+    },
+    {
+      "id": "187049a8a4463dd5a37e9eb7b111f933",
+      "title": "Ả Rập Xê Út, Pakistan, Thổ Nhĩ Kỳ ký thỏa thuận phòng thủ tập thể",
+      "link": "https://thanhnien.vn/a-rap-xe-ut-pakistan-tho-nhi-ky-ky-thoa-thuan-phong-thu-tap-the-185260807192451251.htm",
+      "summary": "Ả Rập Xê Út, Pakistan và Thổ Nhĩ Kỳ vừa ký thỏa thuận quốc phòng, thiết lập cơ chế bảo vệ lẫn nhau trong trường hợp có một nước bị tấn công.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T13:27:00+07:00",
+      "fetched": "2026-08-07T21:50:06.046707+07:00"
+    },
+    {
+      "id": "0c3caa896b076d71f808b1c7f53b02fa",
+      "title": "Béo phì ở Việt Nam 'tăng phi mã'",
+      "link": "https://vnexpress.net/beo-phi-o-viet-nam-tang-phi-ma-5106415.html",
+      "summary": "Việt Nam thuộc nhóm quốc gia có tỷ lệ béo phì thấp song tốc độ tăng nhanh nhất Đông Nam Á, nguy cơ bùng phát các bệnh không lây nhiễm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T13:26:47+07:00",
+      "fetched": "2026-08-07T21:50:02.832552+07:00"
+    },
+    {
+      "id": "17dce663ddc1b51ddc65c5fdeeab9cd0",
+      "title": "Chênh lệch giá vàng giảm mạnh còn dưới 5 triệu/lượng",
+      "link": "https://thanhnien.vn/chenh-lech-gia-vang-giam-manh-con-duoi-5-trieu-luong-185260807172125492.htm",
+      "summary": "Sau khoảng 3 tuần liên tục giảm, chênh lệch giá vàng trong nước và giá vàng thế giới quy đổi hiện chỉ gần 5 triệu đồng/lượng. Dự báo, chênh lệch còn có thể tiếp tục thu hẹp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T13:25:00+07:00",
+      "fetched": "2026-08-07T21:50:06.046828+07:00"
+    },
+    {
+      "id": "9c4e207fcc48d7d8d6a63f1776cf92e0",
+      "title": "Dự kiến cấm hội phụ huynh 'gây áp lực' với người không đóng quỹ",
+      "link": "https://vnexpress.net/du-kien-cam-hoi-phu-huynh-gay-ap-luc-voi-nguoi-khong-dong-quy-5106521.html",
+      "summary": "Hội phụ huynh không được quy định mức thu, rồi ép buộc, gây áp lực với người không đóng quỹ, kể cả khi số đông đã đồng ý, theo dự kiến của Bộ Giáo dục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T13:21:04+07:00",
+      "fetched": "2026-08-07T21:50:02.832712+07:00"
+    },
+    {
+      "id": "f9a34e1517e86b43332d221a2c0aec09",
+      "title": "Bố vợ không cho mua chung cư vì tháng nào cũng phải đóng 800 nghìn đồng phí dịch vụ",
+      "link": "https://vnexpress.net/bo-vo-khong-cho-mua-chung-cu-vi-thang-nao-cung-phai-dong-800-nghin-dong-phi-dich-vu-5106504.html",
+      "summary": "Trong khi đó, một ngày đẹp trời, nhà mặt đất bị thấm dột, phải tốn cả chục triệu sửa chữa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T13:15:00+07:00",
+      "fetched": "2026-08-07T21:50:02.832847+07:00"
+    },
+    {
+      "id": "78218af0ed5c7c1e03aed8cd709e755e",
+      "title": "Lũ lụt khiến 97 người chết ở Ấn Độ",
+      "link": "https://vnexpress.net/lu-lut-khien-97-nguoi-chet-o-an-do-5106570.html",
+      "summary": "Ít nhất 97 người thiệt mạng trong đợt lũ lụt nghiêm trọng, chôn vùi nhiều làng mạc ở bang Assam, đông bắc Ấn Độ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T13:10:29+07:00",
+      "fetched": "2026-08-07T21:50:02.832971+07:00"
+    },
+    {
+      "id": "78218af0ed5c7c1e03aed8cd709e755e",
+      "title": "Lũ lụt khiến 97 người chết ở Ấn Độ",
+      "link": "https://vnexpress.net/lu-lut-khien-97-nguoi-chet-o-an-do-5106570.html",
+      "summary": "Ít nhất 97 người thiệt mạng trong đợt lũ lụt nghiêm trọng, chôn vùi nhiều làng mạc ở bang Assam, đông bắc Ấn Độ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-07T13:10:29+07:00",
+      "fetched": "2026-08-07T21:50:09.964744+07:00"
+    },
+    {
+      "id": "0637d5795ea4016172395acc457e9461",
+      "title": "AI tạo ra 16 loại virus chưa từng có trong tự nhiên",
+      "link": "https://vnexpress.net/ai-tao-ra-16-loai-virus-chua-tung-co-trong-tu-nhien-5106551.html",
+      "summary": "Các nhà khoa học Mỹ tạo các virus đầu tiên từ bản thiết kế của trí tuệ nhân tạo, mở ra hy vọng cho các loại thuốc mới nhưng cũng gây lo ngại về tính an toàn của công nghệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T13:03:32+07:00",
+      "fetched": "2026-08-07T21:50:02.833094+07:00"
+    },
+    {
+      "id": "0637d5795ea4016172395acc457e9461",
+      "title": "AI tạo ra 16 loại virus chưa từng có trong tự nhiên",
+      "link": "https://vnexpress.net/ai-tao-ra-16-loai-virus-chua-tung-co-trong-tu-nhien-5106551.html",
+      "summary": "Các nhà khoa học Mỹ tạo các virus đầu tiên từ bản thiết kế của trí tuệ nhân tạo, mở ra hy vọng cho các loại thuốc mới nhưng cũng gây lo ngại về tính an toàn của công nghệ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-07T13:03:32+07:00",
+      "fetched": "2026-08-07T21:50:15.754193+07:00"
+    },
+    {
+      "id": "1dc84e657116724461b739558151ab92",
+      "title": "Phải lòng quản lý hơn nhiều tuổi dù chồng hết lòng vì vợ con",
+      "link": "https://vnexpress.net/phai-long-quan-ly-hon-nhieu-tuoi-du-chong-het-long-vi-vo-con-5106529.html",
+      "summary": "Tôi muốn quên hẳn người đó, tập trung vun đắp cho gia đình nhỏ, chồng và con xứng đáng có người vợ yêu chồng, người mẹ yêu con trọn vẹn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T13:00:00+07:00",
+      "fetched": "2026-08-07T21:50:02.833220+07:00"
+    },
+    {
+      "id": "6d508ec781f17dd03e197df41aff5a4c",
+      "title": "Nam giới có nên 'phát quang thảm xanh'?",
+      "link": "https://vnexpress.net/nam-gioi-co-nen-phat-quang-tham-xanh-5106612.html",
+      "summary": "\"Thảm xanh\" tự nhiên vốn đóng vai trò như lớp đệm bảo vệ và giảm ma sát cho cơ thể, chuyên gia cảnh báo, việc \"tỉa tót\" quá đà hoặc áp dụng sai phương pháp có thể vô tình phá hỏng rào chắn tự nhiên, mở đường cho vi khuẩn bùng phát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T13:00:00+07:00",
+      "fetched": "2026-08-07T21:50:02.833342+07:00"
+    },
+    {
+      "id": "654f10ed28cbef164dee5cae695ee740",
+      "title": "Chuỗi trải nghiệm Huda Beach Water Fest tại quảng trường Tam Thanh",
+      "link": "https://vnexpress.net/chuoi-trai-nghiem-huda-beach-water-fest-tai-quang-truong-tam-thanh-5106431.html",
+      "summary": "Huda Beach Water Fest 2026 với chuỗi trò chơi dưới nước và đại nhạc hội quy tụ nhiều nghệ sĩ, diễn ra tại quảng trường biển Tam Thanh trong hai ngày 8-9/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T13:00:00+07:00",
+      "fetched": "2026-08-07T21:50:02.833466+07:00"
+    },
+    {
+      "id": "ae0b7b3e07ff508ade160cab3c948032",
+      "title": "Xem nhanh 20h ngày 7.8: Khởi tố Vua Quạt, Khánh Sky, Hồ Văn Khoa | Xã miền núi nói gì về quà từ thiện của Huấn Hoa Hồng",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-78-khoi-to-vua-quat-khanh-sky-ho-van-khoa-xa-mien-nui-noi-gi-ve-qua-tu-thien-cua-huan-hoa-hong-185260807195411813.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 7.8 có nhiều tin tức đáng chú ý về: Khởi tố 'Vua Quạt', Khánh 'Sky' và Hồ Văn Khoa; xã Mường Than lên tiếng về quà từ thiện của Huấn Hoa Hồng;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T13:00:00+07:00",
+      "fetched": "2026-08-07T21:50:06.046948+07:00"
+    },
+    {
+      "id": "cc30a3ffb1aa51a91e4c99d982c1b458",
+      "title": "Lọc ảo tuyển sinh 2026: Nhóm ngành nào thu hút nhiều thí sinh?",
+      "link": "https://thanhnien.vn/loc-ao-tuyen-sinh-2026-nhom-nganh-nao-thu-hut-nhieu-thi-sinh-185260807053906202.htm",
+      "summary": "Từ ngày 30.7, các trường ĐH đã tải được dữ liệu thí sinh xét tuyển trường mình từ hệ thống tuyển sinh chung và thực hiện rà soát dữ liệu, chuẩn bị cho việc lọc ảo xét tuyển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T13:00:00+07:00",
+      "fetched": "2026-08-07T21:50:06.047064+07:00"
+    },
+    {
+      "id": "60fc5d3a23c6478fee7205f5c4e64afb",
+      "title": "Thái Lan chấn động vì vụ xả súng trong trường học",
+      "link": "https://thanhnien.vn/thai-lan-chan-dong-vi-vu-xa-sung-trong-truong-hoc-185260807194749235.htm",
+      "summary": "Cảnh sát cho biết hung thủ đã sát hại ông bà rồi đến trường học xả súng giết chết sáu người, gồm giáo viên và học sinh, trước khi tự sát. Mười lăm người khác cũng bị thương tại ngôi trường nằm ở ngoại ô Bangkok. Đây là vụ nổ súng trong trường học thứ hai tại Thái Lan trong năm nay",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-07T12:56:00+07:00",
+      "fetched": "2026-08-07T21:50:06.047178+07:00"
+    },
+    {
+      "id": "8685fe45ed5b67c4cfa8748324621a86",
+      "title": "Việt Nam lần đầu vô địch cầu mây đôi nữ thế giới",
+      "link": "https://vnexpress.net/viet-nam-lan-dau-vo-dich-cau-may-doi-nu-the-gioi-5106613.html",
+      "summary": "Cầu mây Việt Nam lần đầu giành HC vàng nội dung đôi nữ tại giải vô địch thế giới, sau trận thắng Myanmar 2-0 ở chung kết chiều 7/8.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-07T12:46:21+07:00",
+      "fetched": "2026-08-07T21:50:17.083836+07:00"
     },
     {
       "id": "c958f1943e02d8fcf2bd3b6dba43f320",
@@ -3671,6 +4161,16 @@ window.newsData_2026_08_07 = {
       "category": "Kinh doanh",
       "published": "2026-08-06T19:37:28+07:00",
       "fetched": "2026-08-07T09:29:38.020814+07:00"
+    },
+    {
+      "id": "c08e43249826cd55531d0a1168153e8f",
+      "title": "Hưng Thịnh Land giảm mạnh nợ trái phiếu",
+      "link": "https://vnexpress.net/hung-thinh-land-giam-manh-no-trai-phieu-5106157.html",
+      "summary": "Hưng Thịnh Land năm ngoái lỗ sau thuế 834 tỷ đồng, nối dài chuỗi lỗ từ 2023.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-06T19:37:28+07:00",
+      "fetched": "2026-08-07T21:50:11.760447+07:00"
     },
     {
       "id": "946dfb123354a8bf00bc7bcf075cccd7",
