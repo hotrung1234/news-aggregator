@@ -1,7 +1,17 @@
 window.newsData_2026_08_09 = {
   "date": "2026-08-09",
-  "lastUpdated": "2026-08-09T01:32:14.201768+07:00",
+  "lastUpdated": "2026-08-09T03:24:38.236228+07:00",
   "articles": [
+    {
+      "id": "1bf3a9e2baad5c73d125f322902f6be3",
+      "title": "Thời tiết hôm nay 9-8: Áp thấp tan nhưng còn dông trên biển, Nam Bộ chiều mưa to",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-9-8-ap-thap-tan-nhung-con-dong-tren-bien-nam-bo-chieu-mua-to-100260808160602593.htm",
+      "summary": "Hôm nay 9-8, thời tiết Bắc Bộ ngày nắng nóng, Nam Bộ chiều tối mưa to vài nơi, trên biển dù áp thấp tan nhưng biển phía Bắc vẫn dông gió mạnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T03:24:29.474489+07:00",
+      "fetched": "2026-08-09T03:24:29.474643+07:00"
+    },
     {
       "id": "c045fb091d7323835f2868b660f6d88f",
       "title": "Đà Nẵng tính lập Sở Giao dịch hàng hóa trong Trung tâm Tài chính quốc tế",
@@ -151,6 +161,36 @@ window.newsData_2026_08_09 = {
       "category": "Tổng hợp",
       "published": "2026-08-09T01:32:07.244715+07:00",
       "fetched": "2026-08-09T01:32:07.244876+07:00"
+    },
+    {
+      "id": "0ebe6f919996dc6747bbf25914d55d8f",
+      "title": "10.000 runner sẵn sàng chinh phục VnExpress Marathon Nha Trang mùa 5",
+      "link": "https://vnexpress.net/10-000-runner-san-sang-chinh-phuc-vnexpress-marathon-nha-trang-mua-5-5106856.html",
+      "summary": "Cuộc đua bắt đầu lúc 3h, ngày 9/8, đưa runner qua những cung đường ven vịnh biển đẹp như tranh và vượt giới hạn với đèo Lương Sơn khúc khuỷu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T19:25:00+07:00",
+      "fetched": "2026-08-09T03:24:24.668363+07:00"
+    },
+    {
+      "id": "b865a80d51ec39f56328d9392b0ffc15",
+      "title": "Ông Kim đi tìm sự ổn định cho đội tuyển Việt Nam",
+      "link": "https://thanhnien.vn/ong-kim-di-tim-su-on-dinh-cho-doi-tuyen-viet-nam-185260808223219845.htm",
+      "summary": "Đội tuyển VN đã vào bán kết ASEAN Cup 2026 với chuỗi thành tích bất bại, nhưng nếu như trận thắng Indonesia mang lại cảm xúc sung sướng, thì trận thắng Campuchia để lại nhiều nỗi âu lo. Nếu không đạt được sự ổn định, đội tuyển VN sẽ gặp khó ở chặng đường chông gai phía trước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T19:01:00+07:00",
+      "fetched": "2026-08-09T03:24:27.744585+07:00"
+    },
+    {
+      "id": "2052982860dc254ce965968d0fcdca81",
+      "title": "Madam Pang thực hiện lời hứa đặc biệt với Thái Lan, HLV Myanmar phản ứng gay gắt trọng tài",
+      "link": "https://thanhnien.vn/madam-pang-thuc-hien-loi-hua-dac-biet-voi-thai-lan-hlv-myanmar-phan-ung-gay-gat-trong-tai-185260808232415063.htm",
+      "summary": "Đội tuyển Thái Lan toàn thắng vòng bảng ASEAN Cup 2026 và nhận khoản thưởng 2 triệu baht từ Madam Pang, trong khi HLV Myanmar Jorn Andersen có phản ứng gay gắt sau thất bại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T18:46:00+07:00",
+      "fetched": "2026-08-09T03:24:27.744754+07:00"
     },
     {
       "id": "a4a1b6351d058a2dbd616dd0dd2824c4",
