@@ -1,7 +1,157 @@
 window.newsData_2026_08_09 = {
   "date": "2026-08-09",
-  "lastUpdated": "2026-08-09T13:50:49.900619+07:00",
+  "lastUpdated": "2026-08-09T15:37:28.662943+07:00",
   "articles": [
+    {
+      "id": "6465b2060a4826a25241a47ba2b63545",
+      "title": "Xóa sạch lỗ lũy kế, thách thức cho EVN vào top 500 doanh nghiệp toàn cầu, mỗi năm lãi 3%",
+      "link": "https://tuoitre.vn/xoa-sach-lo-luy-ke-thach-thuc-cho-evn-vao-top-500-doanh-nghiep-toan-cau-moi-nam-lai-3-10026080911235896.htm",
+      "summary": "Cùng với việc công bố đã xóa sạch lỗ lũy kế từ năm 2022, Tập đoàn Điện lực Việt Nam (EVN) đã đăng ký vào nhóm 500 doanh nghiệp lớn nhất thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T15:37:19.709602+07:00",
+      "fetched": "2026-08-09T15:37:19.709673+07:00"
+    },
+    {
+      "id": "89b896f5daafcd2a63f318cf24b6fc94",
+      "title": "Điểm chuẩn Đại học Bách khoa Hà Nội có ngành lên tới 29,54",
+      "link": "https://tuoitre.vn/diem-chuan-dai-hoc-bach-khoa-ha-noi-co-nganh-len-toi-2954-100260808221422393.htm",
+      "summary": "Chiều 9-8, Đại học Bách khoa Hà Nội công bố điểm chuẩn trúng tuyển đại học chính quy năm 2026, trong đó có tới 17/68 chương trình lấy điểm chuẩn trên 28 điểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T15:37:19.709244+07:00",
+      "fetched": "2026-08-09T15:37:19.709586+07:00"
+    },
+    {
+      "id": "5118f8233449d446b60579c5c89495d5",
+      "title": "Tay vợt trẻ Việt Nam vô địch giải cầu lông quốc tế tại Philippines",
+      "link": "https://tuoitre.vn/tay-vot-tre-viet-nam-vo-dich-giai-cau-long-quoc-te-tai-philippines-100260809134710522.htm",
+      "summary": "Bằng bản lĩnh phi thường, tay vợt trẻ Nguyễn Tất Duy Lợi xuất sắc lên ngôi vô địch trên đất Philippines.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T15:37:19.709194+07:00",
+      "fetched": "2026-08-09T15:37:19.709237+07:00"
+    },
+    {
+      "id": "cf92a32309552f09f6b6fea2747a8b44",
+      "title": "Vụ tiêu cực thi tốt nghiệp: Một thí sinh chỉ bị đề nghị trừ điểm, vì sao?",
+      "link": "https://tuoitre.vn/vu-tieu-cuc-thi-tot-nghiep-mot-thi-sinh-chi-bi-de-nghi-tru-diem-vi-sao-100260809140010537.htm",
+      "summary": "Sau khi 5 thí sinh tại điểm thi Trường THPT Lê Trực (Quảng Trị) bị hủy bài thi, nhiều người đặt câu hỏi về trường hợp thí sinh thứ 6 được xác định có liên quan đến vụ tiêu cực này nhưng chỉ bị đề nghị trừ điểm bài thi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T15:37:19.709140+07:00",
+      "fetched": "2026-08-09T15:37:19.709186+07:00"
+    },
+    {
+      "id": "8b1167b7a4e00090559de6ec3502a738",
+      "title": "Hiệp định thương mại đối ứng với Mỹ: sau mức thuế là những 'luật chơi' dài hạn",
+      "link": "https://tuoitre.vn/hiep-dinh-thuong-mai-doi-ung-voi-my-sau-muc-thue-la-nhung-luat-choi-dai-han-100260809135806479.htm",
+      "summary": "Từ ngày 24-7, Mỹ áp thuế bổ sung theo Mục 301 của Đạo luật Thương mại năm 1974 đối với hàng hóa thuộc diện điều chỉnh của 60 nền kinh tế. Việt Nam nằm trong nhóm chịu mức 12,5%, trong khi một số đối tác được áp dụng mức 10%.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T15:37:19.709087+07:00",
+      "fetched": "2026-08-09T15:37:19.709133+07:00"
+    },
+    {
+      "id": "9f82a28503b27ad16e74d385b875219d",
+      "title": "Cần Thơ xúc tiến loạt dự án điện gió với tổng vốn hơn 92.000 tỉ đồng",
+      "link": "https://tuoitre.vn/can-tho-xuc-tien-loat-du-an-dien-gio-voi-tong-von-hon-92000-ti-dong-100260809112218324.htm",
+      "summary": "Cần Thơ đặt mục tiêu đến năm 2030 triển khai 21 dự án điện gió, tổng công suất hơn 2.390 MW, trong đó nhiều dự án đã được cấp chủ trương đầu tư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T15:37:19.709035+07:00",
+      "fetched": "2026-08-09T15:37:19.709080+07:00"
+    },
+    {
+      "id": "71ef912aaa9c4925115d8e7571847ad8",
+      "title": "Giải quyết các bài toán phát triển cho Việt Nam nhìn từ nước Úc",
+      "link": "https://tuoitre.vn/giai-quyet-cac-bai-toan-phat-trien-cho-viet-nam-nhin-tu-nuoc-uc-100260809010754805.htm",
+      "summary": "Phó chủ tịch Hội chuyên gia và trí thức Việt Nam - Úc (VASEA) mong muốn chuyển từ \"mạng lưới chuyên gia\" sang \"mạng lưới giải quyết bài toán\", bắt đầu từ những nhu cầu cụ thể của Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T15:37:19.708980+07:00",
+      "fetched": "2026-08-09T15:37:19.709027+07:00"
+    },
+    {
+      "id": "b6b662506aeaeaa325e8fe5c18720505",
+      "title": "Trường đại học Công nghệ TP.HCM: Điểm chuẩn ngành y khoa cao nhất 23",
+      "link": "https://tuoitre.vn/truong-dai-hoc-cong-nghe-tphcm-diem-chuan-nganh-y-khoa-cao-nhat-23-100260809141117659.htm",
+      "summary": "Trường đại học Công nghệ TP.HCM công bố điểm chuẩn năm 2026 của phương thức xét điểm thi tốt nghiệp THPT từ 15 - 22 điểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T15:37:19.708926+07:00",
+      "fetched": "2026-08-09T15:37:19.708972+07:00"
+    },
+    {
+      "id": "2a70e3f03ad795132619364016ff0272",
+      "title": "Bóng chuyền nữ Thái Lai lại thua, Philippines gây 'sốc' ở giải thế giới",
+      "link": "https://tuoitre.vn/bong-chuyen-nu-thai-lai-lai-thua-philippines-gay-soc-o-giai-the-gioi-10026080914094736.htm",
+      "summary": "Hai đội bóng chuyền nữ của khu vực Đông Nam Á là Thái Lan và Philippines đang tạo ra những kết quả trái ngược tại Giải U17 thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T15:37:19.708872+07:00",
+      "fetched": "2026-08-09T15:37:19.708919+07:00"
+    },
+    {
+      "id": "fd0078d7e815b52cf87b6fbd47c43c07",
+      "title": "App kết nối người lạ đi chung ôtô vào Việt Nam: Chia tiền xăng, không trả cước",
+      "link": "https://tuoitre.vn/app-ket-noi-nguoi-la-di-chung-oto-vao-viet-nam-chia-tien-xang-khong-tra-cuoc-100260809111529016.htm",
+      "summary": "Những ghế trống trên ôtô cá nhân có thể trở thành lựa chọn đi lại mới, khi BlaBlaCar mở dịch vụ tại Việt Nam, cho phép chủ xe tìm người cùng hành trình để chia tiền xăng và phí cầu đường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T15:37:19.708815+07:00",
+      "fetched": "2026-08-09T15:37:19.708864+07:00"
+    },
+    {
+      "id": "678d64bbefbe82284c434c2d8bb74cef",
+      "title": "Phó tổng thống Mỹ Vance: Đàm phán Mỹ - Iran tiến triển nhưng vẫn còn bất đồng",
+      "link": "https://tuoitre.vn/pho-tong-thong-my-vance-dam-phan-my-iran-tien-trien-nhung-van-con-bat-dong-100260809143101566.htm",
+      "summary": "Ông Vance nói đàm phán với Iran có tiến triển, nhưng vấn đề Hormuz vẫn chưa được giải quyết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T15:37:19.708758+07:00",
+      "fetched": "2026-08-09T15:37:19.708807+07:00"
+    },
+    {
+      "id": "2e2eec7f1f866eabbb1e42384d4e7ac9",
+      "title": "Chân dung 4 đội vào bán kết ASEAN Cup 2026",
+      "link": "https://tuoitre.vn/chan-dung-4-doi-vao-ban-ket-asean-cup-2026-100260809112011047.htm",
+      "summary": "Cùng báo Tuổi Trẻ điểm qua chân dung Thái Lan, Việt Nam, Singapore và Malaysia - 4 đội vào bán kết ASEAN Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T15:37:19.708700+07:00",
+      "fetched": "2026-08-09T15:37:19.708750+07:00"
+    },
+    {
+      "id": "3a88102f2a9d22522225828cc170de4a",
+      "title": "Đội K71 tới, người gác việc nhà, người lái máy xúc đi theo tìm liệt sĩ",
+      "link": "https://tuoitre.vn/doi-k71-toi-nguoi-gac-viec-nha-nguoi-lai-may-xuc-di-theo-tim-liet-si-100260809131221511.htm",
+      "summary": "Theo chân Đội K71 Bộ Chỉ huy Quân sự tỉnh Tây Ninh tìm kiếm, quy tập mộ hài cốt liệt sĩ chúng tôi bất ngờ biết hai người đàn ông tham gia tích cực trong \"chiến dịch\" không phải là người của Đội K71.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T15:37:19.708637+07:00",
+      "fetched": "2026-08-09T15:37:19.708691+07:00"
+    },
+    {
+      "id": "5e2fb43e073167dc7dba21443b257a34",
+      "title": "Trương Lăng Hách ngày càng 'đắt giá': Hai phim liên tiếp phủ kín quảng cáo",
+      "link": "https://tuoitre.vn/truong-lang-hach-ngay-cang-dat-gia-hai-phim-lien-tiep-phu-kin-quang-cao-100260809145204861.htm",
+      "summary": "'Giây phút ấy vượt quá giới hạn' khép lại với thành tích: toàn bộ phim đều có quảng cáo trên cả Tencent Video và iQIYI, giúp Trương Lăng Hách tiếp tục chứng minh sức hút thương mại sau Trục Ngọc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T15:37:19.708562+07:00",
+      "fetched": "2026-08-09T15:37:19.708627+07:00"
+    },
+    {
+      "id": "0de1580758aa57d447b030d9f1ed55c5",
+      "title": "Sáp nhập đại học: Lớn hơn phải mạnh hơn",
+      "link": "https://tuoitre.vn/sap-nhap-dai-hoc-lon-hon-phai-manh-hon-100260809122928455.htm",
+      "summary": "Giảm số trường sau sáp nhập đại học chỉ là phương tiện, mục tiêu phải là nâng chất lượng, hiệu quả hoạt động và đóng góp cho phát triển.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T15:37:19.708384+07:00",
+      "fetched": "2026-08-09T15:37:19.708549+07:00"
+    },
     {
       "id": "ec1f083f37302e01985861d67efb1cc3",
       "title": "8.500 người về thảo nguyên Bùi Hui 'chạm vào mây'",
@@ -453,6 +603,46 @@ window.newsData_2026_08_09 = {
       "fetched": "2026-08-09T10:38:20.950680+07:00"
     },
     {
+      "id": "fdff5a05eb206f0078ebf4369be45590",
+      "title": "Cựu thứ trưởng Nguyễn Bá Hoan bị xét xử vụ nhận hối lộ hơn 16 tỉ",
+      "link": "https://thanhnien.vn/cuu-thu-truong-nguyen-ba-hoan-bi-xet-xu-vu-nhan-hoi-lo-hon-16-ti-18526080915011844.htm",
+      "summary": "Ông Nguyễn Bá Hoan, cựu Thứ trưởng Bộ LĐ-TB-XH, bị đưa ra xét xử với cáo buộc nhận hàng chục tỉ đồng, bỏ mặc cho cấp dưới o ép doanh nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T08:35:00+07:00",
+      "fetched": "2026-08-09T15:37:17.845659+07:00"
+    },
+    {
+      "id": "4bb990824bf7309c6e4e7c35862d0192",
+      "title": "Xây dựng nhà máy nước vốn đầu tư khoảng 420 tỉ đồng tại Cần Thơ",
+      "link": "https://thanhnien.vn/xay-dung-nha-may-nuoc-von-dau-tu-khoang-420-ti-dong-tai-can-tho-185260809145548583.htm",
+      "summary": "Nhà máy nước có tổng vốn khoảng 420 tỉ đồng, do Công ty cổ phần Đầu tư và Phát triển hạ tầng Cửu Long Capital làm chủ đầu tư, đã được khởi công xây dựng tại xã Tân Thạnh, TP.Cần Thơ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T08:34:00+07:00",
+      "fetched": "2026-08-09T15:37:17.845809+07:00"
+    },
+    {
+      "id": "a620bb1ee22a456da0bd6ba695757e00",
+      "title": "Người dân TP.HCM có nhất thiết đăng ký thẻ GTCC mới được miễn vé xe buýt, metro?",
+      "link": "https://thanhnien.vn/nguoi-dan-tphcm-co-nhat-thiet-dang-ky-the-gtcc-moi-duoc-mien-ve-xe-buyt-metro-185260809152718649.htm",
+      "summary": "Đó là vấn đề Trung tâm Quản lý giao thông công cộng TP.HCM (Trung tâm QLGTCC) đang muốn thông tin rõ ràng tới người dân, sau khi ghi nhận số lượng đăng ký làm thẻ Giao thông công cộng (GTCC) tăng đột biến trong những ngày gần đây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T08:32:00+07:00",
+      "fetched": "2026-08-09T15:37:17.845941+07:00"
+    },
+    {
+      "id": "9b41007c052ae36bdf8d8f9503cae02c",
+      "title": "Tô phở 25.000 đồng thời 'bão giá' ở Hà Nội",
+      "link": "https://thanhnien.vn/to-pho-25000-dong-thoi-bao-gia-o-ha-noi-185260808200253777.htm",
+      "summary": "Trong thời điểm giá cả nguyên vật liệu và thực phẩm đồng loạt leo thang, giữa trung tâm Hà Nội vẫn có một quán phở bán với giá rẻ bất ngờ, thu hút rất đông thực khách gần xa đến thưởng thức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T08:31:00+07:00",
+      "fetched": "2026-08-09T15:37:17.846067+07:00"
+    },
+    {
       "id": "4fb5d570767993b1bf6f65eb27849c3b",
       "title": "Doanh nhân Vĩnh Long tại TP.HCM trao Tuổi Trẻ 1 tỉ đồng: 'Còn hơi thở, còn tiếp sức đến trường!'",
       "link": "https://tuoitre.vn/doanh-nhan-vinh-long-tai-tphcm-trao-tuoi-tre-1-ti-dong-con-hoi-tho-con-tiep-suc-den-truong-100260808183333233.htm",
@@ -601,6 +791,286 @@ window.newsData_2026_08_09 = {
       "category": "Tổng hợp",
       "published": "2026-08-09T08:23:31.658156+07:00",
       "fetched": "2026-08-09T08:23:31.658289+07:00"
+    },
+    {
+      "id": "4956bc31c537f30eb1f05110a50d164b",
+      "title": "Thông điệp lớn ở ngã ba biên giới",
+      "link": "https://thanhnien.vn/thong-diep-lon-o-nga-ba-bien-gioi-185260809140706936.htm",
+      "summary": "Lá cờ Tổ quốc tung bay giữa đại ngàn A Pa Chải, tiếng Quốc ca vang lên nơi biên giới Việt Nam - Lào - Trung Quốc, trong Hành trình 'Tôi yêu Tổ quốc tôi' năm 2026, đã truyền đi thông điệp lớn của tuổi trẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T08:23:00+07:00",
+      "fetched": "2026-08-09T15:37:17.846201+07:00"
+    },
+    {
+      "id": "8a44781b87831faf1d7f15141a33746a",
+      "title": "PNJ lên tiếng về kết luận thanh tra",
+      "link": "https://thanhnien.vn/pnj-len-tieng-ve-ket-luan-thanh-tra-18526080915141617.htm",
+      "summary": "Ngày 9.8, Công ty CP vàng bạc đá quý Phú Nhuận (PNJ) có công văn gửi Sở Giao dịch chứng khoán TP.HCM (HoSE) về thông báo kết luận thanh tra của Thanh tra chính phủ liên quan đến nghĩa vụ nộp thuế bổ sung thuế giá trị gia tăng (GTGT) của công ty.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T08:17:00+07:00",
+      "fetched": "2026-08-09T15:37:17.846328+07:00"
+    },
+    {
+      "id": "6a257f32755ed0cf04dde79a0394adfc",
+      "title": "Dàn xe cổ gây chú ý ở TP.HCM: Có người đi gần 20 km đến chụp ảnh",
+      "link": "https://thanhnien.vn/dan-xe-co-gay-chu-y-o-tphcm-co-nguoi-di-gan-20-km-den-chup-anh-185260809143246108.htm",
+      "summary": "Hàng trăm chiếc xe cổ có tuổi đời hàng chục năm cùng xuất hiện tại TP.HCM, khiến nhiều người mê xe tìm đến từ sớm. Có người đi gần 20 km, chuẩn bị váy đen, găng tay dài, mũ rộng vành chỉ để có vài tấm ảnh bên dàn xe xưa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T08:17:00+07:00",
+      "fetched": "2026-08-09T15:37:17.846468+07:00"
+    },
+    {
+      "id": "6f13834dd13fff5d19e0add21988b41c",
+      "title": "Nghi thức Đội: Lễ Diễu hành được thực hiện khi nào, ra sao?",
+      "link": "https://thanhnien.vn/nghi-thuc-doi-le-dieu-hanh-duoc-thuc-hien-khi-nao-ra-sao-185260808220509139.htm",
+      "summary": "Lễ Diễu hành trong Nghi thức Đội được thực hiện khi nào và quy trình diễn ra ra sao để đảm bảo tính trang nghiêm, chuẩn chỉnh? Cùng theo dõi video hướng dẫn chi tiết do Hội đồng Huấn luyện Trung ương, trường Lê Duẩn và trường THCS Thăng Long (Hà Nội) thực hiện dưới sự chỉ đạo của Hội đồng Đội Trung ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T08:04:00+07:00",
+      "fetched": "2026-08-09T15:37:17.846599+07:00"
+    },
+    {
+      "id": "f5f672ddac1656e21ae57345db8b302b",
+      "title": "Việt Nam Quốc tang 2 ngày tưởng nhớ Chủ tịch Quốc hội Lào",
+      "link": "https://thanhnien.vn/viet-nam-quoc-tang-2-ngay-tuong-nho-chu-tich-quoc-hoi-lao-185260809142749452.htm",
+      "summary": "Việt Nam quyết định để tang Chủ tịch Quốc hội Lào Saysomphone Phomvihane theo nghi thức Quốc tang trong 2 ngày, từ ngày 10 - 11.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T08:03:00+07:00",
+      "fetched": "2026-08-09T15:37:17.846718+07:00"
+    },
+    {
+      "id": "27a2b634840a278e72357effa9ec2204",
+      "title": "Lý do TV giá hàng chục triệu vẫn cho âm thanh kém hơn soundbar",
+      "link": "https://thanhnien.vn/ly-do-tv-gia-hang-chuc-trieu-van-cho-am-thanh-kem-hon-soundbar-18526071505262847.htm",
+      "summary": "Chỉ với vài triệu đồng, soundbar có thể cải thiện rõ chất lượng lời thoại, âm trầm và hiệu ứng khi xem phim hoặc bóng đá trên TV.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T08:02:00+07:00",
+      "fetched": "2026-08-09T15:37:17.846840+07:00"
+    },
+    {
+      "id": "f83099d4a5e867d2f652050ca784c099",
+      "title": "Ba sai lầm khi che chắn dàn nóng điều hòa",
+      "link": "https://vnexpress.net/ba-sai-lam-khi-che-chan-dan-nong-dieu-hoa-5106972.html",
+      "summary": "Che chắn dàn nóng điều hòa sai cách như trùm kín, làm mái che quá thấp khiến máy ngốn điện, giảm hiệu suất và dễ hư hỏng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T08:00:20+07:00",
+      "fetched": "2026-08-09T15:37:14.835793+07:00"
+    },
+    {
+      "id": "6dfb961d9a07d9e24cdb494541e31610",
+      "title": "Thời điểm ăn trứng hỗ trợ giảm cân, tăng cơ",
+      "link": "https://vnexpress.net/thoi-diem-an-trung-ho-tro-giam-can-tang-co-5106479.html",
+      "summary": "Ăn trứng vào bữa sáng có thể giúp no lâu, hỗ trợ kiểm soát cân nặng, ăn sau khi tập luyện phù hợp hơn với người muốn phục hồi và phát triển cơ bắp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T08:00:00+07:00",
+      "fetched": "2026-08-09T15:37:14.835962+07:00"
+    },
+    {
+      "id": "e02aba0a40f36fbacb532f24d90064e8",
+      "title": "Vòng Vành Long quay đầu 'chờ đối thủ' khi vô địch VnExpress Marathon",
+      "link": "https://vnexpress.net/vong-vanh-long-quay-dau-cho-doi-thu-vo-dich-42km-vnexpress-marathon-5107033.html",
+      "summary": "Vòng Vành Long đánh võng, quay đầu chạy ngược chiều để chờ đối thủ phía sau vì cảm thấy \"quá cô đơn\" trên đường đua vô địch VnExpress Marathon Nha Trang, sáng 9/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T08:00:00+07:00",
+      "fetched": "2026-08-09T15:37:14.836106+07:00"
+    },
+    {
+      "id": "c73a6bcbf3dd061d613a49cc1e26506a",
+      "title": "Đang dương tính HPV, có được tiêm vaccine?",
+      "link": "https://vnexpress.net/dang-duong-tinh-hpv-co-duoc-tiem-vaccine-5106803.html",
+      "summary": "Tôi dương tính với type HPV 16 gây ung thư và 6 gây sùi mào gà, vừa đốt hết các nốt sùi, liệu có tái phát và tiêm vaccine được không? (Hải Châu, 28 tuổi, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T08:00:00+07:00",
+      "fetched": "2026-08-09T15:37:14.836242+07:00"
+    },
+    {
+      "id": "b1ad79a773d2678cef2df31bab7840eb",
+      "title": "Tận dụng dữ liệu để lựa chọn cự ly thi đấu phù hợp",
+      "link": "https://vnexpress.net/tan-dung-du-lieu-de-lua-chon-cu-ly-thi-dau-phu-hop-5106564.html",
+      "summary": "5, 10 hay 21 km đều có những yêu cầu khác nhau về thể lực và khả năng phục hồi, do đó, runner có thể tận dụng dữ liệu để hiểu cơ thể và chọn mục tiêu phù hợp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T08:00:00+07:00",
+      "fetched": "2026-08-09T15:37:14.836375+07:00"
+    },
+    {
+      "id": "f7c54b771c8df9b74510aae72188c86a",
+      "title": "Điểm chuẩn đại học 2026 được công bố: Thí sinh cần nhớ những mốc nào?",
+      "link": "https://thanhnien.vn/diem-chuan-dai-hoc-2026-sap-duoc-cong-bo-thi-sinh-can-nho-nhung-moc-nao-185260808235510001.htm",
+      "summary": "Lịch công bố điểm chuẩn đại học của các trường cụ thể ra sao sau khi hệ thống lọc ảo kết thúc? Nếu trúng tuyển thì quy trình xác nhận nhập học và làm thủ tục nhập học diễn ra theo các mốc thời gian cụ thể nào? Trường hợp thí sinh chưa trúng tuyển đợt 1, các trường có kế hoạch xét tuyển bổ sung cho n...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T08:00:00+07:00",
+      "fetched": "2026-08-09T15:37:17.846958+07:00"
+    },
+    {
+      "id": "80abf7db2889f5e82a3862f7e10b1a4d",
+      "title": "Cầu lông Việt Nam đoạt 1 HCV, 2 HCB ở giải trẻ quốc tế Philippines 2026",
+      "link": "https://thanhnien.vn/cau-long-viet-nam-doat-1-hcv-2-hcb-o-giai-tre-quoc-te-philippines-2026-185260809144722048.htm",
+      "summary": "2 tuyển thủ trẻ Nguyễn Tất Duy Lợi, Nguyễn Thị Thu Huyền mang về cho cầu lông Việt Nam 1 HCV, 2 HCB ở giải cầu lông trẻ quốc tế Philippines.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T07:57:00+07:00",
+      "fetched": "2026-08-09T15:37:17.847071+07:00"
+    },
+    {
+      "id": "6572960879596b8ad43133a89582ccd3",
+      "title": "12.000 lượt tham dự Tuần lễ cập nhật kiến thức y khoa lần thứ 11",
+      "link": "https://thanhnien.vn/12000-luot-tham-du-tuan-le-cap-nhat-kien-thuc-y-khoa-lan-thu-11-18526080914575566.htm",
+      "summary": "Bước sang năm tổ chức thứ 11, Tuần lễ cập nhật kiến thức y khoa liên tục tiếp tục là một trong những hoạt động đào tạo thường niên trọng điểm của Bệnh viện Đại học Y Dược TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T07:56:00+07:00",
+      "fetched": "2026-08-09T15:37:17.847182+07:00"
+    },
+    {
+      "id": "886d736ab26d83d1e0a69b94ccb72533",
+      "title": "Kỷ lục điểm chuẩn 2026 ghi nhận ở ĐH Bách khoa Hà Nội là 29,54",
+      "link": "https://thanhnien.vn/ky-luc-diem-chuan-2026-ghi-nhan-o-dh-bach-khoa-ha-noi-la-2954-18526080914114778.htm",
+      "summary": "Điểm chuẩn IT-E10 của ĐH Bách khoa Hà Nội năm nay là 29,54. Đây là mức điểm chuẩn cao nhất xét kết quả thi tốt nghiệp THPT mùa xét tuyển ĐH 2026, và cũng là mức điểm kỷ lục của ĐH Bách khoa Hà Nội từ trước đến nay",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T07:54:00+07:00",
+      "fetched": "2026-08-09T15:37:17.847299+07:00"
+    },
+    {
+      "id": "94e7623050648016d3afd21a4f1c5a59",
+      "title": "Cái gì cũng hỏi AI: Đến lúc 'hại mình' mới giật mình",
+      "link": "https://thanhnien.vn/cai-gi-cung-hoi-ai-den-luc-hai-minh-moi-giat-minh-185260809121841517.htm",
+      "summary": "AI đã trở thành \"trợ lý\" quen thuộc của người trẻ trong học tập, công việc và cuộc sống. Nhưng cái gì cũng hỏi AI có thể kéo theo nguy cơ lộ thông tin cá nhân, bí mật công việc, tài chính, cùng rắc rối, rủi ro bị lừa đảo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T07:52:00+07:00",
+      "fetched": "2026-08-09T15:37:17.847415+07:00"
+    },
+    {
+      "id": "b6b8922ad5574525c262035a58293236",
+      "title": "Đại học Khoa học Tự nhiên Hà Nội công bố điểm chuẩn từ 22 trở lên",
+      "link": "https://vnexpress.net/diem-chuan-dai-hoc-khoa-hoc-tu-nhien-ha-noi-hus-2026-kem-hoc-phi-moi-nhat-5107057.html",
+      "summary": "Trường Đại học Khoa học Tự nhiên, Đại học Quốc gia Hà Nội (HUS), lấy điểm chuẩn 22-26,35, tăng so với năm ngoái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T07:51:01+07:00",
+      "fetched": "2026-08-09T15:37:14.836525+07:00"
+    },
+    {
+      "id": "6878d993829ee07793bdf9dedba7331f",
+      "title": "Điểm chuẩn Đại học Nha Trang cao nhất 27,66/40",
+      "link": "https://vnexpress.net/diem-chuan-dai-hoc-nha-trang-ntu-2026-moi-nhat-5107024.html",
+      "summary": "Ngành Marketing lấy điểm chuẩn cao nhất trường Đại học Nha Trang với 27,66/40 điểm ở tổ hợp Văn, Sử và Toán.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T07:48:51+07:00",
+      "fetched": "2026-08-09T15:37:14.836653+07:00"
+    },
+    {
+      "id": "b7422921367888bca07e7d50899b3fb3",
+      "title": "Đại học Thương mại lấy điểm chuẩn cao nhất 26,5",
+      "link": "https://vnexpress.net/diem-chuan-dai-hoc-thuong-mai-tmu-2026-chi-tiet-nhat-5106902.html",
+      "summary": "Ngành Logistics và Quản lý chuỗi cung ứng lấy điểm chuẩn cao nhất Đại học Thương mại năm 2026, song đã giảm 1,3 điểm so với năm ngoái; các ngành khác lấy mức 23-25 điểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T07:44:50+07:00",
+      "fetched": "2026-08-09T15:37:14.836787+07:00"
+    },
+    {
+      "id": "6f9bda72104bb4c12c543cca75d59311",
+      "title": "'Mua ôtô nhưng chỉ để đi viếng đám ma, thăm người ốm'",
+      "link": "https://vnexpress.net/mua-oto-nhung-chi-de-di-vieng-dam-ma-tham-nguoi-om-5107054.html",
+      "summary": "'Cái xe của tôi giờ hầu như chỉ dùng để đi đâu đó tranh thủ thời gian ngắn như viếng đám ma, thăm người ốm'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T07:41:37+07:00",
+      "fetched": "2026-08-09T15:37:14.836911+07:00"
+    },
+    {
+      "id": "0963a1dd14851d0152a0314a1182abe3",
+      "title": "Nghị sĩ ném trứng vào quyền lãnh đạo Kosovo",
+      "link": "https://vnexpress.net/nghi-si-nem-trung-vao-quyen-lanh-dao-kosovo-5107031.html",
+      "summary": "Nghị viện Kosovo phải ngừng họp sau khi quyền lãnh đạo hành pháp Albin Kurti bị một nghị sĩ đối lập ném trứng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T07:35:06+07:00",
+      "fetched": "2026-08-09T15:37:14.837037+07:00"
+    },
+    {
+      "id": "0963a1dd14851d0152a0314a1182abe3",
+      "title": "Nghị sĩ ném trứng vào quyền lãnh đạo Kosovo",
+      "link": "https://vnexpress.net/nghi-si-nem-trung-vao-quyen-lanh-dao-kosovo-5107031.html",
+      "summary": "Nghị viện Kosovo phải ngừng họp sau khi quyền lãnh đạo hành pháp Albin Kurti bị một nghị sĩ đối lập ném trứng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-09T07:35:06+07:00",
+      "fetched": "2026-08-09T15:37:21.732802+07:00"
+    },
+    {
+      "id": "29a6c345ef36c246a2d94920cb31ded1",
+      "title": "10 đạo diễn quyền lực của Hollywood",
+      "link": "https://vnexpress.net/10-dao-dien-quyen-luc-cua-hollywood-5106984.html",
+      "summary": "Christopher Nolan dẫn đầu danh sách đạo diễn quyền lực nhất Hollywood khi \"Oppenheimer\" và \"The Odyssey\" là phim thành công thương mại lẫn nghệ thuật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T07:31:45+07:00",
+      "fetched": "2026-08-09T15:37:14.837165+07:00"
+    },
+    {
+      "id": "2ed959a47e66006efbd698fdd3dd3fad",
+      "title": "Mini Aceman - xe điện giá hơn 2,4 tỷ đồng có gì?",
+      "link": "https://vnexpress.net/mini-aceman-xe-dien-gia-hon-2-4-ty-dong-co-gi-5106859.html",
+      "summary": "Mẫu xe chạy điện cỡ nhỏ với tầm hoạt động 406 km, môtơ dẫn động cầu trước có công suất 218 mã lực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T07:29:26+07:00",
+      "fetched": "2026-08-09T15:37:14.837286+07:00"
+    },
+    {
+      "id": "28237ac7e7ff98e3c1b6d24c6d9e1d8f",
+      "title": "Điểm chuẩn Đại học Công nghệ TP HCM từ 15",
+      "link": "https://vnexpress.net/cap-nhat-diem-chuan-dai-hoc-cong-nghe-tp-hcm-hutech-2026-nhanh-nhat-5107045.html",
+      "summary": "Điểm chuẩn 52/64 ngành, chương trình của trường Đại học Công nghệ TP HCM (HUTECH) là 15 cho tổ hợp ba môn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T07:23:41+07:00",
+      "fetched": "2026-08-09T15:37:14.837410+07:00"
+    },
+    {
+      "id": "6717f80bc54c4facaa438dcd5b9901c9",
+      "title": "Miền Bắc và Trung nắng nóng kéo dài",
+      "link": "https://vnexpress.net/mien-bac-va-trung-nang-nong-keo-dai-5107046.html",
+      "summary": "Nắng nóng mở rộng ở miền Bắc và Trung từ đầu tuần và kéo dài hết tuần, trong khi mưa giông ở cao nguyên Trung Bộ và Nam Bộ giảm dần từ ngày 12/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T07:15:50+07:00",
+      "fetched": "2026-08-09T15:37:14.837554+07:00"
+    },
+    {
+      "id": "534e9d44a3dc6be6214c207c3a1006c1",
+      "title": "OpenAI tự hãm mô hình AI mới vì lo 'nguy hiểm cho an ninh mạng'",
+      "link": "https://vnexpress.net/openai-tu-ham-mo-hinh-ai-moi-vi-lo-nguy-hiem-cho-an-ninh-mang-5106924.html",
+      "summary": "OpenAI cho biết đã làm chậm quá trình phát triển Astra sau đánh giá nội bộ phát hiện mô hình này có thể gây nguy hiểm cho an ninh mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T07:00:00+07:00",
+      "fetched": "2026-08-09T15:37:14.837677+07:00"
+    },
+    {
+      "id": "534e9d44a3dc6be6214c207c3a1006c1",
+      "title": "OpenAI tự hãm mô hình AI mới vì lo 'nguy hiểm cho an ninh mạng'",
+      "link": "https://vnexpress.net/openai-tu-ham-mo-hinh-ai-moi-vi-lo-nguy-hiem-cho-an-ninh-mang-5106924.html",
+      "summary": "OpenAI cho biết đã làm chậm quá trình phát triển Astra sau đánh giá nội bộ phát hiện mô hình này có thể gây nguy hiểm cho an ninh mạng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-09T07:00:00+07:00",
+      "fetched": "2026-08-09T15:37:26.905247+07:00"
     },
     {
       "id": "d8980007243416d4e7777748419fc0d4",
