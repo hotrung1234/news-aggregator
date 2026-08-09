@@ -1,7 +1,157 @@
 window.newsData_2026_08_09 = {
   "date": "2026-08-09",
-  "lastUpdated": "2026-08-09T05:24:30.596775+07:00",
+  "lastUpdated": "2026-08-09T08:23:37.816607+07:00",
   "articles": [
+    {
+      "id": "4fb5d570767993b1bf6f65eb27849c3b",
+      "title": "Doanh nhân Vĩnh Long tại TP.HCM trao Tuổi Trẻ 1 tỉ đồng: 'Còn hơi thở, còn tiếp sức đến trường!'",
+      "link": "https://tuoitre.vn/doanh-nhan-vinh-long-tai-tphcm-trao-tuoi-tre-1-ti-dong-con-hoi-tho-con-tiep-suc-den-truong-100260808183333233.htm",
+      "summary": "Câu lạc bộ Doanh nhân Vĩnh Long tại TP.HCM đã trao 1 tỉ đồng cho chương trình ‘Tiếp sức đến trường’ của báo Tuổi Trẻ dành cho tân sinh viên Vĩnh Long vượt khó.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T08:23:31.659121+07:00",
+      "fetched": "2026-08-09T08:23:31.659170+07:00"
+    },
+    {
+      "id": "0b22b5cc0f9b1f6b376d8e8afd11f72c",
+      "title": "Nguyễn Minh Nhật Quang thắng ấn tượng 3 cao thủ cờ tướng Trung Quốc",
+      "link": "https://tuoitre.vn/nguyen-minh-nhat-quang-thang-an-tuong-3-cao-thu-co-tuong-trung-quoc-100260808223318286.htm",
+      "summary": "Khép lại ngày thi đấu đầu tiên của giải cờ tướng danh giá Thượng Hải Bôi (hôm 8-8), Nguyễn Minh Nhật Quang gây ấn tượng cực lớn khi liên tiếp đánh bại các cao thủ đến từ Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T08:23:31.659062+07:00",
+      "fetched": "2026-08-09T08:23:31.659112+07:00"
+    },
+    {
+      "id": "75f3773382c63fd81fa700fb8ebc5d28",
+      "title": "Những 'đường kiến tạo vĩ đại' của Jorge Messi thay đổi số phận đứa trẻ thiên tài Leonel Messi",
+      "link": "https://tuoitre.vn/nhung-duong-kien-tao-vi-dai-cua-jorge-messi-thay-doi-so-phan-dua-tre-thien-tai-leonel-messi-100260808193107947.htm",
+      "summary": "Có một câu chuyện làng bóng đá có lẽ đã hiểu sai nhiều năm qua, rằng gia đình Messi chạy vạy khắp nơi để tìm một nơi tài trợ chi phí tiêm hormon tăng trưởng cho cậu con trai, và may mắn được Barca cứu vớt. Không phải vậy!",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T08:23:31.659003+07:00",
+      "fetched": "2026-08-09T08:23:31.659053+07:00"
+    },
+    {
+      "id": "d4c297b7d2b66ef780accea081b242ad",
+      "title": "Vì sao xác định ADN liệt sĩ lại lấy mẫu con em gái ruột thay vì con ruột?",
+      "link": "https://tuoitre.vn/vi-sao-xac-dinh-adn-liet-si-lai-lay-mau-con-em-gai-ruot-thay-vi-con-ruot-100260808162641909.htm",
+      "summary": "Nhiều gia đình không khỏi thắc mắc khi được hướng dẫn lấy mẫu ADN của con em gái ruột của liệt sĩ thay vì lấy mẫu chính người con ruột. Thực tế con ruột có quan hệ huyết thống gần gũi hơn em gái ruột?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T08:23:31.658943+07:00",
+      "fetched": "2026-08-09T08:23:31.658993+07:00"
+    },
+    {
+      "id": "f703e0e54d3e11a6179a8b55e83aef07",
+      "title": "Lịch thi đấu bán kết ASEAN Cup 2026",
+      "link": "https://tuoitre.vn/lich-thi-dau-ban-ket-asean-cup-2026-100260808210525427.htm",
+      "summary": "Sau khi vòng bảng khép lại tối 8-8, ASEAN Cup 2026 đã xác định các đội vào bán kết cũng như lịch thi đấu cụ thể.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T08:23:31.658885+07:00",
+      "fetched": "2026-08-09T08:23:31.658933+07:00"
+    },
+    {
+      "id": "b3e348c6ecff730ab677365f03bad26e",
+      "title": "Trái cây Úc, New Zealand vào mùa 'rầm rộ'  tại TP.HCM",
+      "link": "https://tuoitre.vn/trai-cay-uc-new-zealand-vao-mua-ram-ro-tai-tphcm-100260808203351819.htm",
+      "summary": "Các loại trái cây là thế mạnh của Úc và New Zealand hiện đang hiện diện phổ biến tại nhiều quầy trái cây nhập khẩu. Trong đó táo, cam và kiwi đang được người tiêu dùng Việt Nam ưa thích, nhờ vị ngon lại có nhiều khuyến mãi để kích cầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T08:23:31.658826+07:00",
+      "fetched": "2026-08-09T08:23:31.658876+07:00"
+    },
+    {
+      "id": "777ca4f75347a479d2f7adfab8155fbe",
+      "title": "Dễ có kịch bản Việt Nam gặp Thái Lan ở chung kết ASEAN Cup 2026",
+      "link": "https://tuoitre.vn/de-co-kich-ban-viet-nam-gap-thai-lan-o-chung-ket-asean-cup-2026-100260808223830515.htm",
+      "summary": "Tránh phải đối đầu nhau ở bán kết ASEAN Cup 2026, Thái Lan và Việt Nam được chờ đợi sẽ gặp nhau ở trận chung kết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T08:23:31.658766+07:00",
+      "fetched": "2026-08-09T08:23:31.658816+07:00"
+    },
+    {
+      "id": "7d446c95ffd1052ea3dbbffc666d5d87",
+      "title": "Đình Bắc đang dẫn đầu 'Vua phá lưới' và chỉ số nào nữa ở ASEAN Cup?",
+      "link": "https://tuoitre.vn/dinh-bac-dang-dan-dau-vua-pha-luoi-va-chi-so-nao-nua-o-asean-cup-10026080822153497.htm",
+      "summary": "Khép lại giai đoạn vòng bảng ASEAN Cup, siêu sao Nguyễn Đình Bắc của Việt Nam được các chuyên trang thống kê vinh danh ở rất nhiều hạng mục đặc biệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T08:23:31.658709+07:00",
+      "fetched": "2026-08-09T08:23:31.658757+07:00"
+    },
+    {
+      "id": "0491d9b7d21cef91519535ae83e07cd0",
+      "title": "Tin tức thế giới 9-8: Lào quốc tang 5 ngày; Mỹ chỉ trích Trung Quốc ở Biển Đông",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-9-8-lao-quoc-tang-5-ngay-my-chi-trich-trung-quoc-o-bien-dong-100260809060434633.htm",
+      "summary": "Lào tổ chức quốc tang 5 ngày, từ hôm nay, để tưởng nhớ Chủ tịch Quốc hội Phomvihane; Bulgaria triệu tập đại sứ Ukraine.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T08:23:31.658650+07:00",
+      "fetched": "2026-08-09T08:23:31.658700+07:00"
+    },
+    {
+      "id": "64e4df26d671eebb671b3f84dc9f019a",
+      "title": "Vụ Công ty GFDI lừa đảo: 7.108 bị hại, triệu tập 1.571 người liên quan đến 2 điểm cầu xét xử",
+      "link": "https://tuoitre.vn/vu-cong-ty-gfdi-lua-dao-7108-bi-hai-trieu-tap-1571-nguoi-lien-quan-den-2-diem-cau-xet-xu-100260808205610054.htm",
+      "summary": "Vụ án lừa đảo chiếm đoạt tài sản tại Công ty GFDI với 7.108 bị hại, 1.571 người có quyền lợi, nghĩa vụ liên quan sẽ được xét xử trực tiếp tại TAND TP Đà Nẵng, kết nối trực tuyến với 2 điểm cầu tại Cung thể thao Tiên Sơn và Nhà hát Trưng Vương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T08:23:31.658588+07:00",
+      "fetched": "2026-08-09T08:23:31.658642+07:00"
+    },
+    {
+      "id": "e6651c2eddacfd428a669a9100834397",
+      "title": "FIFA phản công 'âm mưu lật đổ chủ tịch Infantino, bóp méo sự thật'",
+      "link": "https://tuoitre.vn/fifa-phan-cong-am-muu-lat-do-chu-tich-infantino-bop-meo-su-that-100260809053413102.htm",
+      "summary": "Liên đoàn bóng đá thế giới (FIFA) đã mở đợt công kích nhắm vào truyền thông với cáo buộc về một \"nỗ lực có phối hợp\" nhằm hạ bệ chủ tịch Gianni Infantino.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T08:23:31.658524+07:00",
+      "fetched": "2026-08-09T08:23:31.658579+07:00"
+    },
+    {
+      "id": "ff9f0ddc0e0050d81f0e07c69d26390d",
+      "title": "195 võ sĩ trẻ đọ sức tại giải MMA quốc gia ở Đà Nẵng",
+      "link": "https://tuoitre.vn/195-vo-si-tre-do-suc-tai-giai-mma-quoc-gia-o-da-nang-100260808231126917.htm",
+      "summary": "Giải vô địch trẻ Võ thuật tổng hợp (MMA) quốc gia năm 2026 lần đầu được đưa vào hệ thống thi đấu thể thao thành tích cao quốc gia, quy tụ 195 vận động viên của 15 đoàn, tranh tài tại Đà Nẵng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T08:23:31.658441+07:00",
+      "fetched": "2026-08-09T08:23:31.658515+07:00"
+    },
+    {
+      "id": "b60234f6c1c2fdbfcbf11f4d4f1c0338",
+      "title": "Lê Tuấn Minh khởi đầu chiến thắng tại giải cờ vua Đông Nam Á 2026",
+      "link": "https://tuoitre.vn/le-tuan-minh-khoi-dau-chien-thang-tai-giai-co-vua-dong-nam-a-2026-10026080900490293.htm",
+      "summary": "Tối 8-8, các kỳ thủ hàng đầu Việt Nam bao gồm Đại kiện tướng Lê Tuấn Minh, \"thần đồng\" Đầu Khương Duy đồng loạt bước vào tranh tài tại Giải cờ vua Đông Nam Á 2026 tổ chức tại Singapore.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T08:23:31.658378+07:00",
+      "fetched": "2026-08-09T08:23:31.658431+07:00"
+    },
+    {
+      "id": "5a9030305725832bc3345d862b62c54c",
+      "title": "Cơm nguội để ngăn mát rồi hấp hoặc rang vẫn có thể gây ngộ độc, vì sao?",
+      "link": "https://tuoitre.vn/com-nguoi-de-ngan-mat-roi-hap-hoac-rang-van-co-the-gay-ngo-doc-vi-sao-10026080817273854.htm",
+      "summary": "Cơm nguội để ngăn mát rồi hôm sau hấp hoặc rang lại là thói quen trong nhiều gia đình Việt Nam. Nhưng nếu xử lý không đúng, một loại vi khuẩn có trong gạo có thể sinh độc tố gây ngộ độc thực phẩm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T08:23:31.658301+07:00",
+      "fetched": "2026-08-09T08:23:31.658368+07:00"
+    },
+    {
+      "id": "5bf2d5fd1d3b2c890fbd9d757e9f265c",
+      "title": "Anh trai vượt ngàn chông gai: Đinh Mạnh Ninh cứu Nhà Hiển Nhiên",
+      "link": "https://tuoitre.vn/anh-trai-vuot-ngan-chong-gai-dinh-manh-ninh-cuu-nha-hien-nhien-100260808222021551.htm",
+      "summary": "Tập 6 'Anh trai vượt ngàn chông gai 2026' mở màn Công diễn 2 bằng luật chơi khắc nghiệt, những màn đối kháng 1-1 và nhiều cú 'thoát vai' đáng nhớ: Đinh Mạnh Ninh hát rock, Thái VG lần đầu hát ballad, Thuận Nguyễn nhảy tap dance trên giày bọc lửa…",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T08:23:31.658156+07:00",
+      "fetched": "2026-08-09T08:23:31.658289+07:00"
+    },
     {
       "id": "8e71a21334fc343e03de3dcfcb2a1bca",
       "title": "Tin tức sáng 9-8: Quốc hội thảo luận sửa Luật Phòng, chống rửa tiền; Lãi suất qua đêm giảm mạnh",
@@ -171,6 +321,376 @@ window.newsData_2026_08_09 = {
       "category": "Tổng hợp",
       "published": "2026-08-09T01:32:07.244715+07:00",
       "fetched": "2026-08-09T01:32:07.244876+07:00"
+    },
+    {
+      "id": "5e0f17d330826ab7058ce772354b447e",
+      "title": "HLV Tan Cheng Hoe không e ngại đội tuyển Việt Nam, CĐV Malaysia và Philippines ẩu đả",
+      "link": "https://thanhnien.vn/hlv-tan-cheng-hoe-khong-e-ngai-doi-tuyen-viet-nam-cdv-malaysia-va-philippines-au-da-185260809080843313.htm",
+      "summary": "HLV Tan Cheng Hoe thừa nhận đội tuyển Việt Nam được đánh giá cao hơn nhưng khẳng định Malaysia không có lý do để e ngại ở bán kết ASEAN Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T01:18:00+07:00",
+      "fetched": "2026-08-09T08:23:25.991288+07:00"
+    },
+    {
+      "id": "ba942b5287ffbde73c45fb0df150c506",
+      "title": "Báo Malaysia xem Việt Nam là thử thách lớn ở bán kết ASEAN Cup",
+      "link": "https://vnexpress.net/bao-malaysia-xem-viet-nam-la-thu-thach-lon-o-ban-ket-asean-cup-5106947.html",
+      "summary": "Truyền thông Malaysia đánh giá đội nhà trải qua vòng bảng thành công, nhưng thừa nhận ĐKVĐ Việt Nam là thử thách cực đại ở bán kết ASEAN Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-09T01:05:12+07:00",
+      "fetched": "2026-08-09T08:23:37.811018+07:00"
+    },
+    {
+      "id": "a12aec3c34df7f397990c136a4458f78",
+      "title": "Bỏ rơi tôi - Thơ của Lê Anh Hoài",
+      "link": "https://thanhnien.vn/bo-roi-toi-tho-cua-le-anh-hoai-185260807200732985.htm",
+      "summary": "Ta với tìm nhau qua cái lạnh màn hìnhnhư người thức cố nhìn vào giấc mơ kẻ khácánh sáng xanhlập lòe lân tinhdịu êm như một lời tỏ tình nhân tạo",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T01:05:00+07:00",
+      "fetched": "2026-08-09T08:23:27.247089+07:00"
+    },
+    {
+      "id": "d4d20232ce88746d24581c7fcdbc5ddb",
+      "title": "Bỗng hiểu - Thơ của Lê Anh Hoài",
+      "link": "https://thanhnien.vn/bong-hieu-tho-cua-le-anh-hoai-185260807200628485.htm",
+      "summary": "ta bỗng hiểutự do không phải là chạy rông khắp thế gian",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T01:05:00+07:00",
+      "fetched": "2026-08-09T08:23:28.507305+07:00"
+    },
+    {
+      "id": "3a2a17751df27febf8f936be62932407",
+      "title": "Apple sẽ tăng giá bán iPhone 17 từ ngày 10.8?",
+      "link": "https://thanhnien.vn/apple-se-tang-gia-ban-iphone-17-tu-ngay-108-185260808185214548.htm",
+      "summary": "iPhone 17 đang đối mặt nguy cơ tăng giá khi chi phí bộ nhớ và linh kiện leo thang nhằm phục vụ nhu cầu đối với AI (trí tuệ nhân tạo).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T01:03:00+07:00",
+      "fetched": "2026-08-09T08:23:28.507580+07:00"
+    },
+    {
+      "id": "00f8bb4efea427c6b104daf500c96d89",
+      "title": "Các cách tra cứu điểm chuẩn đại học 2026 nhanh nhất",
+      "link": "https://thanhnien.vn/cac-cach-tra-cuu-diem-chuan-dai-hoc-2026-nhanh-nhat-185260808224833297.htm",
+      "summary": "Hàng loạt trường công bố điểm chuẩn đại học 2026 trong hôm nay (9.8). Ngay khi các trường công bố, thí sinh tra cứu điểm chuẩn theo các cách dưới đây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T01:00:00+07:00",
+      "fetched": "2026-08-09T08:23:28.507736+07:00"
+    },
+    {
+      "id": "d2817e488267c4cca54da2d8be8f1445",
+      "title": "SATRA: Từ dấu ấn thương hiệu Việt đến HUB thương mại xanh - số",
+      "link": "https://thanhnien.vn/satra-tu-dau-an-thuong-hieu-viet-den-hub-thuong-mai-xanh-so-18526080821035747.htm",
+      "summary": "Được vinh danh tại hạng mục 'Dấu ấn Thương hiệu Việt Hàng đầu' năm 2026, Tổng Công ty Thương mại Sài Gòn - TNHH Một Thành viên (SATRA) không chỉ khẳng định bề dày uy tín của một doanh nghiệp thương mại - dịch vụ chủ lực tại TP.HCM, mà còn cho thấy năng lực định hình một hệ sinh thái thương mại toàn ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T01:00:00+07:00",
+      "fetched": "2026-08-09T08:23:28.507880+07:00"
+    },
+    {
+      "id": "325514a8bb46e40cdcad95098b292c12",
+      "title": "Không dám nhắn tin kể chuyện riêng, vì sợ chụp màn hình",
+      "link": "https://thanhnien.vn/khong-dam-nhan-tin-ke-chuyen-rieng-vi-so-chup-man-hinh-185260808144023829.htm",
+      "summary": "Bạn đã bao giờ phát hiện câu chuyện, tâm sự của mình bị bạn bè chụp màn hình tin nhắn và gửi cho người khác chưa?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T01:00:00+07:00",
+      "fetched": "2026-08-09T08:23:28.508017+07:00"
+    },
+    {
+      "id": "6c43225e7fe5ac7da503b7cfd1fa4aa6",
+      "title": "Nhàn đàm: Nhiều hơn khi cho đi",
+      "link": "https://thanhnien.vn/nhan-dam-nhieu-hon-khi-cho-di-185260807202320642.htm",
+      "summary": "Một cuốn sách đã đọc xong, trang giấy dần úa vàng theo năm tháng. Nhưng những con chữ trong đó vẫn mới với người khác, khi kiến thức có thể chẳng cũ đi. Ai đó soạn những cuốn sách ấy thành chồng, vuốt...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T01:00:00+07:00",
+      "fetched": "2026-08-09T08:23:29.913644+07:00"
+    },
+    {
+      "id": "6aa1d730e6455890e59b481c8de690c0",
+      "title": "Khi biết điểm chuẩn đại học 2026, thí sinh cần làm gì để chắc chắn trúng tuyển?",
+      "link": "https://thanhnien.vn/khi-biet-diem-chuan-dai-hoc-2026-thi-sinh-can-lam-gi-de-chac-chan-trung-tuyen-185260807101846194.htm",
+      "summary": "Bộ GD-ĐT quy định, các cơ sở đào tạo thực hiện lọc ảo giai đoạn cuối và tiến hành rà soát kết quả trước khi công bố điểm trúng tuyển trước 17 giờ ngày 13.8. Khi biết điểm chuẩn đại học 2026, thí sinh cần làm gì để chắc chắn trúng tuyển?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T01:00:00+07:00",
+      "fetched": "2026-08-09T08:23:29.914048+07:00"
+    },
+    {
+      "id": "4e7632b83e04b3b3fd5f88931af7a99e",
+      "title": "Khúc cầu siêu trong miệng mèo | Phim ngắn Vietnamese 2026",
+      "link": "https://thanhnien.vn/khuc-cau-sieu-trong-mieng-meo-phim-ngan-vietnamese-2026-185260808225613193.htm",
+      "summary": "'Khúc cầu siêu trong miệng mèo' là tác phẩm tham dự cuộc thi phim ngắn Vietnamese 2026. Cuộc thi do Báo Thanh Niên phối hợp cùng Hiệp hội Xúc tiến phát triển điện ảnh Việt Nam tổ chức với sự đồng hành của Sở Du lịch TP.HCM, Sở Văn hóa - Thể thao TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T00:55:00+07:00",
+      "fetched": "2026-08-09T08:23:29.914199+07:00"
+    },
+    {
+      "id": "592edaebcc7193c85a196bf5b78c9aac",
+      "title": "Cột cờ Thủ Ngữ - nơi tán dóc của dân Sài Gòn xưa",
+      "link": "https://thanhnien.vn/cot-co-thu-ngu-noi-tan-doc-cua-dan-sai-gon-xua-185260808205956251.htm",
+      "summary": "Khu vực dưới chân Cột cờ Thủ Ngữ đối diện Bến Nhà Rồng (TP.HCM) từng được gọi là \"Mũi Tán Dóc\". Cái tên nghe rất lạ này do chính các bợm rượu Sài Gòn xưa đặt ra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T00:45:00+07:00",
+      "fetched": "2026-08-09T08:23:29.914340+07:00"
+    },
+    {
+      "id": "6215ddf2e6eee1456c4556b96d28101e",
+      "title": "Mẹo giúp dán kính cường lực thẳng hàng, không phải bóc ra làm lại",
+      "link": "https://thanhnien.vn/meo-giup-dan-kinh-cuong-luc-thang-hang-khong-phai-boc-ra-lam-lai-185260808145626592.htm",
+      "summary": "Không cần ra cửa hàng, người dùng vẫn có thể tự dán kính cường lực đẹp và chuẩn nếu biết cách vệ sinh màn hình và căn chỉnh đúng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T00:45:00+07:00",
+      "fetched": "2026-08-09T08:23:29.914473+07:00"
+    },
+    {
+      "id": "d4812fc3abc06b886d155288e8bd7099",
+      "title": "Giá USD hôm nay 9.8.2026: Giảm sâu cùng euro, bảng Anh",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-982026-giam-sau-cung-euro-bang-anh-185260808211919206.htm",
+      "summary": "Giá USD trong nước có một tuần giảm mạnh cùng chiều với một số ngoại tệ khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T00:44:00+07:00",
+      "fetched": "2026-08-09T08:23:29.914616+07:00"
+    },
+    {
+      "id": "d165d60edc4ade571d87dacb2a3f1b18",
+      "title": "Giá vàng hôm nay 9.8.2026: Vì sao tăng 3 triệu trong tuần nhưng người mua không lãi?",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-982026-vi-sao-tang-3-trieu-trong-tuan-nhung-nguoi-mua-khong-lai-185260808204755188.htm",
+      "summary": "Giá vàng ghi nhận một tuần tăng cao trên thế giới và trong nước nhưng người mua vẫn không có lãi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T00:44:00+07:00",
+      "fetched": "2026-08-09T08:23:29.914759+07:00"
+    },
+    {
+      "id": "7124917ef9b088a79b422204ee68a167",
+      "title": "Nâng ngưỡng doanh thu 10 tỉ đồng: Hộ kinh doanh giảm áp lực kế toán, sổ sách",
+      "link": "https://thanhnien.vn/nang-nguong-doanh-thu-10-ti-dong-ho-kinh-doanh-giam-ap-luc-ke-toan-so-sach-185260808191635747.htm",
+      "summary": "Đề xuất nâng ngưỡng doanh thu áp dụng phương pháp tính thuế đơn giản đối với hộ, cá nhân kinh doanh từ 3 tỉ đồng lên 10 tỉ đồng/năm được kỳ vọng sẽ tạo thêm dư địa cho khu vực kinh doanh nhỏ phát triển, giảm chi phí và áp lực tuân thủ thuế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T00:37:00+07:00",
+      "fetched": "2026-08-09T08:23:29.914893+07:00"
+    },
+    {
+      "id": "234a7a659e2c8faf254498d74a4696c6",
+      "title": "Iran nêu 6 điều kiện để mở lại eo biển Hormuz",
+      "link": "https://vnexpress.net/iran-neu-6-dieu-kien-de-mo-lai-eo-bien-hormuz-5106941.html",
+      "summary": "Iran cho biết mở lại eo biển Hormuz tùy thuộc vào cách Mỹ thay đổi hành vi, đồng thời đưa ra 6 điều kiện cho Washington.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T00:11:38+07:00",
+      "fetched": "2026-08-09T08:23:23.313910+07:00"
+    },
+    {
+      "id": "234a7a659e2c8faf254498d74a4696c6",
+      "title": "Iran nêu 6 điều kiện để mở lại eo biển Hormuz",
+      "link": "https://vnexpress.net/iran-neu-6-dieu-kien-de-mo-lai-eo-bien-hormuz-5106941.html",
+      "summary": "Iran cho biết mở lại eo biển Hormuz tùy thuộc vào cách Mỹ thay đổi hành vi, đồng thời đưa ra 6 điều kiện cho Washington.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-09T00:11:38+07:00",
+      "fetched": "2026-08-09T08:23:33.204522+07:00"
+    },
+    {
+      "id": "ed2911aa2f3231efc9e3496d0b963604",
+      "title": "Vé máy bay đi Singapore, Thái Lan giảm sâu trong mùa hè",
+      "link": "https://vnexpress.net/ve-may-bay-di-singapore-thai-lan-giam-sau-trong-mua-he-5106811.html",
+      "summary": "Vé máy bay quốc tế từ sau đại dịch đến nay luôn ở mức cao, nhưng đến cao điểm hè 2026, nhiều chặng đi Singapore, Thái Lan chỉ còn 1,6-1,9 triệu đồng cả thuế, phí.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T00:00:00+07:00",
+      "fetched": "2026-08-09T08:23:23.314067+07:00"
+    },
+    {
+      "id": "381cc976458835e23f8be967714bf1a5",
+      "title": "Vé máy bay TP HCM- Hà Nội tăng gấp rưỡi dịp concert Big Bang",
+      "link": "https://vnexpress.net/ve-may-bay-tp-hcm-ha-noi-tang-gap-ruoi-dip-concert-big-bang-5106368.html",
+      "summary": "Giá vé máy bay khứ hồi TP HCM - Hà Nội dịp concert Big Bang cao hơn khoảng 1-2 triệu đồng so với tuần trước, trong bối cảnh nhu cầu tìm kiếm du lịch Hà Nội tăng gấp 4 lần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T00:00:00+07:00",
+      "fetched": "2026-08-09T08:23:23.314217+07:00"
+    },
+    {
+      "id": "f616b8d3a518adfd0c19ca86d51b3968",
+      "title": "Shokz OpenDots 2 - tai nghe TWS dạng kẹp, pin 40 tiếng",
+      "link": "https://vnexpress.net/shokz-opendots-2-tai-nghe-tws-dang-kep-pin-40-tieng-5106166.html",
+      "summary": "OpenDots 2, tai nghe thiết kế mở dạng kẹp tai thế hệ hai của Shokz, cải tiến chất lượng âm thanh, khả năng đàm thoại và kết nối so với thế hệ trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T00:00:00+07:00",
+      "fetched": "2026-08-09T08:23:23.314360+07:00"
+    },
+    {
+      "id": "ccd69f719d896563fec19acdc8828a7f",
+      "title": "New York tái áp dụng 'tem bêu tên' xe đỗ sai quy định",
+      "link": "https://vnexpress.net/new-york-tai-ap-dung-tem-beu-ten-xe-do-sai-quy-dinh-5106917.html",
+      "summary": "Việc phớt lờ quy định đỗ xe có thể khiến tài xế phải đối mặt với một hình thức cảnh báo khó chịu: dán \"tem bêu tên\" trên kính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T00:00:00+07:00",
+      "fetched": "2026-08-09T08:23:23.314506+07:00"
+    },
+    {
+      "id": "d48c8ccd32a479642dbce8e2316fcb31",
+      "title": "Lợi ích khi trẻ hạn chế xem thiết bị điện tử",
+      "link": "https://vnexpress.net/loi-ich-khi-tre-han-che-xem-thiet-bi-dien-tu-5106752.html",
+      "summary": "Trẻ hạn chế thời gian xem thiết bị điện tử sẽ có thời gian vận động, tập trung, giao tiếp và phát triển khả năng sáng tạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T00:00:00+07:00",
+      "fetched": "2026-08-09T08:23:23.314642+07:00"
+    },
+    {
+      "id": "ed2911aa2f3231efc9e3496d0b963604",
+      "title": "Vé máy bay đi Singapore, Thái Lan giảm sâu trong mùa hè",
+      "link": "https://vnexpress.net/ve-may-bay-di-singapore-thai-lan-giam-sau-trong-mua-he-5106811.html",
+      "summary": "Vé máy bay quốc tế từ sau đại dịch đến nay luôn ở mức cao, nhưng đến cao điểm hè 2026, nhiều chặng đi Singapore, Thái Lan chỉ còn 1,6-1,9 triệu đồng cả thuế, phí.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-09T00:00:00+07:00",
+      "fetched": "2026-08-09T08:23:34.294575+07:00"
+    },
+    {
+      "id": "f616b8d3a518adfd0c19ca86d51b3968",
+      "title": "Shokz OpenDots 2 - tai nghe TWS dạng kẹp, pin 40 tiếng",
+      "link": "https://vnexpress.net/shokz-opendots-2-tai-nghe-tws-dang-kep-pin-40-tieng-5106166.html",
+      "summary": "OpenDots 2, tai nghe thiết kế mở dạng kẹp tai thế hệ hai của Shokz, cải tiến chất lượng âm thanh, khả năng đàm thoại và kết nối so với thế hệ trước.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-09T00:00:00+07:00",
+      "fetched": "2026-08-09T08:23:36.925689+07:00"
+    },
+    {
+      "id": "892bee6fb7aeec74fdb269d1c717cb21",
+      "title": "Chuyện tình 14 năm của mẹ đơn thân Việt ở Đài Loan",
+      "link": "https://vnexpress.net/chuyen-tinh-14-nam-cua-me-don-than-viet-o-dai-loan-5104867.html",
+      "summary": "Sang Đài Loan xuất khẩu lao động, người phụ nữ Vĩnh Long nên duyên cùng người đàn ông bản địa sau 14 năm cùng nhau vượt qua những biến cố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T23:30:00+07:00",
+      "fetched": "2026-08-09T08:23:23.314773+07:00"
+    },
+    {
+      "id": "293086bd0bd9d1efb2b3da17eb210663",
+      "title": "Chủ tịch FIFA bị đồn từng ngoại tình với nhân viên",
+      "link": "https://vnexpress.net/chu-tich-fifa-bi-don-tung-ngoai-tinh-voi-nhan-vien-5106812.html",
+      "summary": "Theo tờ Telegraph, Gianni Infantino từng thăng chức và tăng lương cho nhân viên cấp dưới có quan hệ tình cảm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T23:17:54+07:00",
+      "fetched": "2026-08-09T08:23:23.314904+07:00"
+    },
+    {
+      "id": "293086bd0bd9d1efb2b3da17eb210663",
+      "title": "Chủ tịch FIFA bị đồn từng ngoại tình với nhân viên",
+      "link": "https://vnexpress.net/chu-tich-fifa-bi-don-tung-ngoai-tinh-voi-nhan-vien-5106812.html",
+      "summary": "Theo tờ Telegraph, Gianni Infantino từng thăng chức và tăng lương cho nhân viên cấp dưới có quan hệ tình cảm.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-08T23:17:54+07:00",
+      "fetched": "2026-08-09T08:23:37.811312+07:00"
+    },
+    {
+      "id": "b32dcd48b6ba46ab076b4e52435380f1",
+      "title": "Cuộc chiến giành chỗ trên áo đấu La Liga",
+      "link": "https://vnexpress.net/cuoc-chien-gianh-cho-tren-ao-dau-la-liga-5106886.html",
+      "summary": "20 đội La Liga trở thành cuộc đua quảng bá giữa các thương hiệu thể thao và nhà tài trợ, khi mỗi vị trí trên áo đấu đều mang giá trị thương mại lớn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T23:15:36+07:00",
+      "fetched": "2026-08-09T08:23:23.315036+07:00"
+    },
+    {
+      "id": "b32dcd48b6ba46ab076b4e52435380f1",
+      "title": "Cuộc chiến giành chỗ trên áo đấu La Liga",
+      "link": "https://vnexpress.net/cuoc-chien-gianh-cho-tren-ao-dau-la-liga-5106886.html",
+      "summary": "20 đội La Liga trở thành cuộc đua quảng bá giữa các thương hiệu thể thao và nhà tài trợ, khi mỗi vị trí trên áo đấu đều mang giá trị thương mại lớn.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-08T23:15:36+07:00",
+      "fetched": "2026-08-09T08:23:37.811171+07:00"
+    },
+    {
+      "id": "8e375075e70c9d2337872370571cf20e",
+      "title": "Ngôi sao NBA bị vợ cũ đòi 50 triệu USD",
+      "link": "https://vnexpress.net/ngoi-sao-nba-bi-vo-cu-doi-50-trieu-usd-5106906.html",
+      "summary": "Anamaria Goltes, vợ cũ của Luka Doncic, đòi 50 triệu USD để giải quyết tranh chấp, đồng thời muốn giảm thời gian ngôi sao Lakers được ở cùng hai con gái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T23:14:10+07:00",
+      "fetched": "2026-08-09T08:23:23.315167+07:00"
+    },
+    {
+      "id": "8e375075e70c9d2337872370571cf20e",
+      "title": "Ngôi sao NBA bị vợ cũ đòi 50 triệu USD",
+      "link": "https://vnexpress.net/ngoi-sao-nba-bi-vo-cu-doi-50-trieu-usd-5106906.html",
+      "summary": "Anamaria Goltes, vợ cũ của Luka Doncic, đòi 50 triệu USD để giải quyết tranh chấp, đồng thời muốn giảm thời gian ngôi sao Lakers được ở cùng hai con gái.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-08T23:14:10+07:00",
+      "fetched": "2026-08-09T08:23:37.811449+07:00"
+    },
+    {
+      "id": "e0daffc249a003ed79e0dfbf87764ce5",
+      "title": "15 phút tiệc trà lộn xộn tại hội nghị tập đoàn lớn",
+      "link": "https://vnexpress.net/15-phut-tiec-tra-lon-xon-tai-hoi-nghi-tap-doan-lon-5106686.html",
+      "summary": "15 phút giải lao không cho thấy cách mỗi người tôn trọng không gian và thời gian của người khác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T23:08:47+07:00",
+      "fetched": "2026-08-09T08:23:23.315299+07:00"
+    },
+    {
+      "id": "968f665ae4ceb6ab5984e1f509f7d3bf",
+      "title": "Đua nhau khoe lỗ chứng khoán",
+      "link": "https://vnexpress.net/dua-nhau-khoe-lo-chung-khoan-5106913.html",
+      "summary": "Giới trẻ Hàn Quốc đang đối phó với tình trạng thị trường chứng khoán lao dốc bằng cách làm video hài hước và ảnh chế khoe khoản lỗ trên mạng xã hội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T23:00:00+07:00",
+      "fetched": "2026-08-09T08:23:23.315432+07:00"
+    },
+    {
+      "id": "ce3fcd0e832f98134b244d9bea9e9243",
+      "title": "Ba triệu m3 bùn nạo vét ở kênh dài nhất TP HCM không có nơi đổ",
+      "link": "https://vnexpress.net/ba-trieu-m3-bun-nao-vet-o-kenh-dai-nhat-tp-hcm-khong-co-noi-do-5106901.html",
+      "summary": "Dự án cải tạo kênh Tham Lương - Bến Cát - rạch Nước Lên dài gần 32 km dự kiến nạo vét hơn ba triệu m3 bùn nhưng chưa có nơi tiếp nhận, nguy cơ ảnh hưởng tiến độ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T23:00:00+07:00",
+      "fetched": "2026-08-09T08:23:23.315572+07:00"
+    },
+    {
+      "id": "b3c6a4262c6ee554f51cc22836d41250",
+      "title": "Vì sao 'giang hồ mạng' vẫn liên tiếp xuất hiện dù nhiều người đã vào tù?",
+      "link": "https://vnexpress.net/vi-sao-giang-ho-mang-van-lien-tiep-xuat-hien-du-nhieu-nguoi-da-vao-tu-5106851.html",
+      "summary": "Khá \"Bảnh\", Phú Lê, Quang \"Rambo\"... từng bị bắt; mới nhất Khánh Sky, Hồ Văn Khoa, Vua Quạt tiếp tục bị khởi tố, song những \"giang hồ mạng\" mới vẫn xuất hiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T23:00:00+07:00",
+      "fetched": "2026-08-09T08:23:23.315706+07:00"
+    },
+    {
+      "id": "074067cfb8e09519b0dd291b370d5748",
+      "title": "Nợ mà không có tiền trả, phải làm gì để tránh bị đi tù?",
+      "link": "https://vnexpress.net/no-ma-khong-co-tien-tra-phai-lam-gi-de-tranh-bi-di-tu-5106589.html",
+      "summary": "Tôi vay của người quen 300 triệu đồng và đã đến thời hạn thanh toán theo thỏa thuận; tuy nhiên, tôi đang gặp khó khăn về tài chính nên không có tiền để trả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-08T23:00:00+07:00",
+      "fetched": "2026-08-09T08:23:23.315838+07:00"
     },
     {
       "id": "c6b53e1857194af530b15319143f092a",
