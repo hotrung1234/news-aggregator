@@ -1,6 +1,6 @@
 window.newsData_2026_08_10 = {
   "date": "2026-08-10",
-  "lastUpdated": "2026-08-10T01:34:54.452497+07:00",
+  "lastUpdated": "2026-08-10T03:27:46.386060+07:00",
   "articles": [
     {
       "id": "860f7bb701b78cc21b8ef648c651cbbc",
@@ -151,6 +151,66 @@ window.newsData_2026_08_10 = {
       "category": "Tổng hợp",
       "published": "2026-08-10T01:34:45.199643+07:00",
       "fetched": "2026-08-10T01:34:45.199790+07:00"
+    },
+    {
+      "id": "5cbe0c65ac6d72ca9c56288029c0242e",
+      "title": "Đừng để Quang Hải lạc nhịp ở đội tuyển Việt Nam",
+      "link": "https://thanhnien.vn/dung-de-quang-hai-lac-nhip-o-doi-tuyen-viet-nam-18526080921094422.htm",
+      "summary": "Ra sân cả 4 trận vòng bảng ASEAN Cup, nhưng Quang Hải hầu như không để lại dấu ấn trong lối vận hành của đội tuyển Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T19:24:00+07:00",
+      "fetched": "2026-08-10T03:27:38.347656+07:00"
+    },
+    {
+      "id": "e4cab20ee453bf5bb3894c4d03ebb5e7",
+      "title": "Nhà phố xoay quanh không gian học và chơi của trẻ",
+      "link": "https://vnexpress.net/nha-pho-xoay-quanh-khong-gian-hoc-va-choi-cua-tre-5106794.html",
+      "summary": "Thay vì bố trí các phòng theo mô hình khép kín, nhóm thiết kế lựa đặt không gian học tập và vui chơi của trẻ vào vị trí trung tâm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T19:00:00+07:00",
+      "fetched": "2026-08-10T03:27:35.605704+07:00"
+    },
+    {
+      "id": "b0376f47ef2d382d6a26671e5c42bfac",
+      "title": "Nữ tu giúp cô bé ung thư tìm lại niềm tin",
+      "link": "https://vnexpress.net/nu-tu-giup-co-be-ung-thu-tim-lai-niem-tin-5105830.html",
+      "summary": "Thấy cô bé 12 tuổi bế tắc khi cha mẹ ly hôn, em gái mất trong khi bản thân mắc ung thư, sơ Ngọc Diễm, 44 tuổi, từng bước đồng hành, giúp em vượt qua khủng hoảng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T18:06:40+07:00",
+      "fetched": "2026-08-10T03:27:35.605832+07:00"
+    },
+    {
+      "id": "119e723bf703530b0ca96b3629989acf",
+      "title": "Đề xuất bắt buộc dự án hạ tầng lớn trích tiền đầu tư văn hóa, nghệ thuật",
+      "link": "https://vnexpress.net/de-xuat-bat-buoc-du-an-ha-tang-lon-trich-tien-dau-tu-van-hoa-nghe-thuat-5107110.html",
+      "summary": "Dự thảo Luật Phát triển công nghiệp văn hóa đề xuất bắt buộc các dự án lớn đầu tư cho hạ tầng văn hóa; Nhà nước góp vốn, chia sẻ rủi ro với các dự án văn hóa trọng điểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T18:00:09+07:00",
+      "fetched": "2026-08-10T03:27:35.605942+07:00"
+    },
+    {
+      "id": "f8b87b861e3c897b5e6f5b651294fbcd",
+      "title": "Giải mã 3 lầm tưởng thường gặp về đau bụng kinh",
+      "link": "https://vnexpress.net/giai-ma-3-lam-tuong-thuong-gap-ve-dau-bung-kinh-5106393.html",
+      "summary": "Thuốc giảm đau hay tránh thai giúp dịu đau kinh nguyệt an toàn nếu dùng đúng cách, nhưng đau bất thường cần khám phụ khoa để điều trị tận gốc bệnh lý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T18:00:00+07:00",
+      "fetched": "2026-08-10T03:27:35.606048+07:00"
+    },
+    {
+      "id": "d507335c089b084be70443fbacd09728",
+      "title": "Lý do người Việt kết hôn ngày càng muộn",
+      "link": "https://vnexpress.net/ly-do-nguoi-viet-ket-hon-ngay-cang-muon-5105489.html",
+      "summary": "21h30, khi đơn hàng cuối cùng được gửi đi, Bùi Tuấn cầm điện thoại và bắt đầu nhiệm vụ thứ hai trong ngày: Tìm vợ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-09T17:50:21+07:00",
+      "fetched": "2026-08-10T03:27:35.606166+07:00"
     },
     {
       "id": "6dee0807413e05dd99d7e0ffa9552b00",
