@@ -1,6 +1,6 @@
 window.newsData_2026_08_11 = {
   "date": "2026-08-11",
-  "lastUpdated": "2026-08-11T01:52:21.841847+07:00",
+  "lastUpdated": "2026-08-11T03:38:02.040873+07:00",
   "articles": [
     {
       "id": "6d44050fdeacbcdbaaea4817680f883c",
@@ -151,6 +151,56 @@ window.newsData_2026_08_11 = {
       "category": "Tổng hợp",
       "published": "2026-08-11T01:52:15.730382+07:00",
       "fetched": "2026-08-11T01:52:15.730500+07:00"
+    },
+    {
+      "id": "46cba4983f2231360b3d52334d9666d1",
+      "title": "Cận cảnh biệt thự gần 90 năm tuổi của Zendaya",
+      "link": "https://vnexpress.net/can-canh-biet-thu-gan-90-nam-tuoi-cua-zendaya-5107490.html",
+      "summary": "Công trình xây từ năm 1939, bố trí sáu phòng ngủ, bảy phòng tắm, nhà khách tách biệt và hồ bơi giữa khuôn viên nhiều cây xanh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T19:47:26+07:00",
+      "fetched": "2026-08-11T03:37:52.745240+07:00"
+    },
+    {
+      "id": "100558a1a736f0fbdc235932333adceb",
+      "title": "Lãi cổ phiếu gần 50%, có nên dùng margin kiếm thêm?",
+      "link": "https://vnexpress.net/lai-co-phieu-gan-50-co-nen-dung-margin-kiem-them-5107408.html",
+      "summary": "Theo chuyên gia, bản chất của margin là khuếch đại cả lợi nhuận lẫn thua lỗ, nếu sử dụng quá mức, có thể phải bán cổ phiếu lúc bất lợi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T19:39:27+07:00",
+      "fetched": "2026-08-11T03:37:52.745419+07:00"
+    },
+    {
+      "id": "100558a1a736f0fbdc235932333adceb",
+      "title": "Lãi cổ phiếu gần 50%, có nên dùng margin kiếm thêm?",
+      "link": "https://vnexpress.net/lai-co-phieu-gan-50-co-nen-dung-margin-kiem-them-5107408.html",
+      "summary": "Theo chuyên gia, bản chất của margin là khuếch đại cả lợi nhuận lẫn thua lỗ, nếu sử dụng quá mức, có thể phải bán cổ phiếu lúc bất lợi.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-10T19:39:27+07:00",
+      "fetched": "2026-08-11T03:37:58.884586+07:00"
+    },
+    {
+      "id": "db2951cf5004d680a54f951f19f8d483",
+      "title": "Cuộc đối đầu xoay quanh làn đường dành cho xe đạp ở Chicago",
+      "link": "https://vnexpress.net/cuoc-doi-dau-xoay-quanh-lan-duong-danh-cho-xe-dap-o-chicago-5107546.html",
+      "summary": "Các quan chức thành phố coi việc có thêm làn xe đạp tại Đại lộ Archer là biện pháp nâng cao an toàn, trong khi các chủ nhà hàng than phiền bị mất khách vì không còn chỗ đỗ ôtô.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T19:00:00+07:00",
+      "fetched": "2026-08-11T03:37:52.745593+07:00"
+    },
+    {
+      "id": "db2951cf5004d680a54f951f19f8d483",
+      "title": "Cuộc đối đầu xoay quanh làn đường dành cho xe đạp ở Chicago",
+      "link": "https://vnexpress.net/cuoc-doi-dau-xoay-quanh-lan-duong-danh-cho-xe-dap-o-chicago-5107546.html",
+      "summary": "Các quan chức thành phố coi việc có thêm làn xe đạp tại Đại lộ Archer là biện pháp nâng cao an toàn, trong khi các chủ nhà hàng than phiền bị mất khách vì không còn chỗ đỗ ôtô.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-10T19:00:00+07:00",
+      "fetched": "2026-08-11T03:37:57.484610+07:00"
     },
     {
       "id": "e519566195c3c82e05ab8b6c2ac62838",
