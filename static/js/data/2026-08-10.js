@@ -1,6 +1,6 @@
 window.newsData_2026_08_10 = {
   "date": "2026-08-10",
-  "lastUpdated": "2026-08-10T21:54:10.023381+07:00",
+  "lastUpdated": "2026-08-10T23:50:53.743743+07:00",
   "articles": [
     {
       "id": "6d4ac9807fbe3fbaf7113794092947f8",
@@ -603,6 +603,76 @@ window.newsData_2026_08_10 = {
       "fetched": "2026-08-10T16:15:49.674146+07:00"
     },
     {
+      "id": "a076ddc53d58237b23cb57b7b93c8b52",
+      "title": "Khoảnh khắc nhà cửa đổ sập trong động đất 7,4 độ tại Colombia",
+      "link": "https://vnexpress.net/khoanh-khac-nha-cua-do-sap-trong-dong-dat-7-4-do-tai-colombia-5107609.html",
+      "summary": "Nhà cửa cùng các công trình đổ sập, người dân hoảng loạn tháo chạy khi trận động đất mạnh 7,4 độ xảy ra tại Colombia, ngày 10/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T15:57:00+07:00",
+      "fetched": "2026-08-10T23:50:43.669878+07:00"
+    },
+    {
+      "id": "e50460b828b15cc9b571ea4044a1ffc2",
+      "title": "Camera ghi cảnh cựu nghị sĩ Thái Lan tiếp cận lãnh đạo tỉnh trước khi nổ súng",
+      "link": "https://vnexpress.net/camera-ghi-canh-cuu-nghi-si-thai-lan-tiep-can-lanh-dao-tinh-truoc-khi-no-sung-5107593.html",
+      "summary": "Hình ảnh camera cho thấy cựu nghị sĩ Chalong Riewraeng đi theo Chủ tịch Hội đồng Hành chính tỉnh Nonthaburi đến ôtô, trao đổi vài giây rồi nổ súng khiến lãnh đạo tỉnh tử vong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T15:49:50+07:00",
+      "fetched": "2026-08-10T23:50:43.670060+07:00"
+    },
+    {
+      "id": "2b76071fc7707d22a56be69ca8c9b244",
+      "title": "Động đất rung chuyển Colombia, ít nhất 22 người chết",
+      "link": "https://vnexpress.net/dong-dat-rung-chuyen-colombia-it-nhat-22-nguoi-chet-5107602.html",
+      "summary": "Trận động đất mạnh 7,4 độ làm rung chuyển Colombia và các nước láng giềng ở Mỹ Latin, khiến ít nhất 22 người thiệt mạng, hàng chục tòa nhà đổ sập.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T15:29:32+07:00",
+      "fetched": "2026-08-10T23:50:43.670234+07:00"
+    },
+    {
+      "id": "3ec61e606dc0ed205868dc87cf1a34b1",
+      "title": "Động đất rung chuyển Colombia, ít nhất 30 người chết",
+      "link": "https://vnexpress.net/dong-dat-rung-chuyen-colombia-it-nhat-30-nguoi-chet-5107602.html",
+      "summary": "Trận động đất mạnh 7,4 độ làm rung chuyển Colombia và các nước láng giềng ở Mỹ Latin, khiến ít nhất 30 người thiệt mạng, hàng chục tòa nhà đổ sập.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-10T15:29:32+07:00",
+      "fetched": "2026-08-10T23:50:48.565873+07:00"
+    },
+    {
+      "id": "42cda804a05e239effda42ad987c3102",
+      "title": "Phó thủ tướng: Không để doanh nghiệp tốt mất cơ hội kinh doanh vì thiếu vốn",
+      "link": "https://vnexpress.net/pho-thu-tuong-khong-de-doanh-nghiep-tot-mat-co-hoi-kinh-doanh-vi-thieu-von-5107590.html",
+      "summary": "Phó thủ tướng Nguyễn Văn Thắng yêu cầu giảm chi phí vay, đổi mới thẩm định và xử lý vướng mắc, không để doanh nghiệp có dự án tốt thiếu vốn vì thủ tục không cần thiết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T14:53:15+07:00",
+      "fetched": "2026-08-10T23:50:43.670395+07:00"
+    },
+    {
+      "id": "42cda804a05e239effda42ad987c3102",
+      "title": "Phó thủ tướng: Không để doanh nghiệp tốt mất cơ hội kinh doanh vì thiếu vốn",
+      "link": "https://vnexpress.net/pho-thu-tuong-khong-de-doanh-nghiep-tot-mat-co-hoi-kinh-doanh-vi-thieu-von-5107590.html",
+      "summary": "Phó thủ tướng Nguyễn Văn Thắng yêu cầu giảm chi phí vay, đổi mới thẩm định và xử lý vướng mắc, không để doanh nghiệp có dự án tốt thiếu vốn vì thủ tục không cần thiết.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-10T14:53:15+07:00",
+      "fetched": "2026-08-10T23:50:49.874777+07:00"
+    },
+    {
+      "id": "8df1d9c82c913022dacce6501e230372",
+      "title": "Người đàn ông thất nghiệp mạo danh cán bộ thanh tra để lừa 'chạy án'",
+      "link": "https://vnexpress.net/nguoi-dan-ong-that-nghiep-mao-danh-can-bo-thanh-tra-de-lua-chay-an-5107575.html",
+      "summary": "Phan Tấn Phòng, 52 tuổi, đặt mua đồng phục thanh tra, khoe quan hệ rộng có thể \"chạy án\" nhằm chiếm đoạt tiền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T14:45:51+07:00",
+      "fetched": "2026-08-10T23:50:43.670559+07:00"
+    },
+    {
       "id": "87fe14d3df3c5a9538745ba6fcf277cb",
       "title": "Những cách đơn giản tăng sản lượng điện mặt trời",
       "link": "https://thanhnien.vn/nhung-cach-don-gian-tang-san-luong-dien-mat-troi-185260809204138517.htm",
@@ -611,6 +681,16 @@ window.newsData_2026_08_10 = {
       "category": "Tổng hợp",
       "published": "2026-08-10T14:37:00+07:00",
       "fetched": "2026-08-10T21:54:00.721258+07:00"
+    },
+    {
+      "id": "c06a2cb1ebf2752f87ba6a5c0d239c2f",
+      "title": "Ba đại học đầu tiên đăng ký trở thành 'tinh hoa'",
+      "link": "https://vnexpress.net/ba-dai-hoc-dau-tien-dang-ky-tro-thanh-tinh-hoa-5107578.html",
+      "summary": "VinUni và hai đại học quốc gia đăng ký trở thành cơ sở đào tạo tinh hoa, Bộ Giáo dục nói sẽ giao nhiệm vụ kèm cơ chế đánh giá, chứ không mặc nhiên công nhận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T14:33:39+07:00",
+      "fetched": "2026-08-10T23:50:43.670757+07:00"
     },
     {
       "id": "65abdcde1476de7bb3d24bb5d0a80e58",
@@ -803,6 +883,16 @@ window.newsData_2026_08_10 = {
       "fetched": "2026-08-10T21:54:04.364748+07:00"
     },
     {
+      "id": "4dd0196f3f4d636f5882d788cbc0eb1a",
+      "title": "Vợ chồng già 4 giờ sáng đi bán báo ở TP.HCM: ‘Còn sức khỏe là còn đi’",
+      "link": "https://thanhnien.vn/vo-chong-gia-4-gio-sang-di-ban-bao-o-tphcm-con-suc-khoe-la-con-di-185260806192548532.htm",
+      "summary": "Hơn 20 năm qua, dù báo giấy ngày càng ít, vợ chồng ông Sơn, bà Út vẫn đều đặn ra sạp mỗi sáng, xem đó là niềm vui tuổi già.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T14:15:00+07:00",
+      "fetched": "2026-08-10T23:50:46.016355+07:00"
+    },
+    {
       "id": "93a40f87cd39896af715cc398b933598",
       "title": "Hà Nội thêm 540 chỉ tiêu vào lớp 10 trường công cho học sinh chưa trúng tuyển",
       "link": "https://thanhnien.vn/ha-noi-them-540-chi-tieu-vao-lop-10-truong-cong-cho-hoc-sinh-chua-trung-tuyen-185260810203232284.htm",
@@ -821,6 +911,16 @@ window.newsData_2026_08_10 = {
       "category": "Tổng hợp",
       "published": "2026-08-10T14:04:00+07:00",
       "fetched": "2026-08-10T21:54:00.721906+07:00"
+    },
+    {
+      "id": "9a8cbaa69a3a5fa339643c4f872b3d80",
+      "title": "Tôi đòi ly hôn chồng mới chịu 'gần gũi' ít ngày",
+      "link": "https://vnexpress.net/toi-doi-ly-hon-chong-moi-chiu-gan-gui-it-ngay-5107534.html",
+      "summary": "Tôi từng nhiều lần hỏi chồng có vấn đề gì không, thậm chí chủ động nói về nhu cầu của mình nhưng anh luôn né tránh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T14:00:00+07:00",
+      "fetched": "2026-08-10T23:50:43.671076+07:00"
     },
     {
       "id": "eda1e9a829c228d532dca3fffe1dfd67",
