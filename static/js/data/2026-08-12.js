@@ -1,6 +1,6 @@
 window.newsData_2026_08_12 = {
   "date": "2026-08-12",
-  "lastUpdated": "2026-08-12T01:57:24.281336+07:00",
+  "lastUpdated": "2026-08-12T03:38:49.517786+07:00",
   "articles": [
     {
       "id": "d85d52fe01cf4cb7d5e23a99a9f5ac0b",
@@ -151,6 +151,26 @@ window.newsData_2026_08_12 = {
       "category": "Tổng hợp",
       "published": "2026-08-12T01:57:19.153255+07:00",
       "fetched": "2026-08-12T01:57:19.153403+07:00"
+    },
+    {
+      "id": "eb857b8b484a694592c484fda9dc31b9",
+      "title": "Cảnh sát Mỹ cưỡi ngựa, quăng dây bắt bò mộng",
+      "link": "https://vnexpress.net/canh-sat-my-cuoi-ngua-quang-day-bat-bo-mong-5107659.html",
+      "summary": "Nhóm cảnh sát Alabama mặc thường phục truy bắt một con bò mộng nặng gần 7 tạ sổng chuồng bằng kỹ thuật quăng dây như cao bồi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T19:00:00+07:00",
+      "fetched": "2026-08-12T03:38:40.370965+07:00"
+    },
+    {
+      "id": "eb857b8b484a694592c484fda9dc31b9",
+      "title": "Cảnh sát Mỹ cưỡi ngựa, quăng dây bắt bò mộng",
+      "link": "https://vnexpress.net/canh-sat-my-cuoi-ngua-quang-day-bat-bo-mong-5107659.html",
+      "summary": "Nhóm cảnh sát Alabama mặc thường phục truy bắt một con bò mộng nặng gần 7 tạ sổng chuồng bằng kỹ thuật quăng dây như cao bồi.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-11T19:00:00+07:00",
+      "fetched": "2026-08-12T03:38:45.271160+07:00"
     },
     {
       "id": "e6ed636f7a3f2a3911cc1b05d8235319",
