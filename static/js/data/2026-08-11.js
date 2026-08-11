@@ -1,7 +1,157 @@
 window.newsData_2026_08_11 = {
   "date": "2026-08-11",
-  "lastUpdated": "2026-08-11T05:33:37.509946+07:00",
+  "lastUpdated": "2026-08-11T08:23:06.272444+07:00",
   "articles": [
+    {
+      "id": "36b9c4f612b54f855c44e43b69450fab",
+      "title": "Đại biểu Quốc hội: Luật Phát triển đô thị phải mở đường cho TP.HCM và các thành phố bứt phá",
+      "link": "https://tuoitre.vn/dai-bieu-quoc-hoi-luat-phat-trien-do-thi-phai-mo-duong-cho-tphcm-va-cac-thanh-pho-but-pha-100260810223830366.htm",
+      "summary": "Theo chương trình kỳ họp, Quốc hội sẽ dành cả buổi sáng nay (11-8) để thảo luận tại hội trường về dự Luật Phát triển đô thị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T08:22:59.131736+07:00",
+      "fetched": "2026-08-11T08:22:59.131775+07:00"
+    },
+    {
+      "id": "904fb743bf885a6968c7a8554da3168b",
+      "title": "Bánh khọt, bò kho, cà ri vịt... đưa món ăn Việt Nam thành 'trend' ở Úc",
+      "link": "https://tuoitre.vn/banh-khot-bo-kho-ca-ri-vit-dua-mon-an-viet-nam-thanh-trend-o-uc-10026081100071665.htm",
+      "summary": "Hiện diện tại một đất nước cách quê hương hơn 7.000km, các nhà hàng Việt vẫn có đủ nguyên liệu để phục vụ những món ăn chuẩn vị, nhờ sự tham gia sâu rộng của người Việt vào chuỗi cung ứng thực phẩm Việt tại Úc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T08:22:59.131689+07:00",
+      "fetched": "2026-08-11T08:22:59.131730+07:00"
+    },
+    {
+      "id": "a39e4c1a761734c8e8d7cee1476af81f",
+      "title": "4 người bị sóng cuốn xuống biển Đà Nẵng: Mở rộng vùng tìm kiếm ra giữa Sơn Trà và đảo Cù Lao Chàm",
+      "link": "https://tuoitre.vn/4-nguoi-bi-song-cuon-xuong-bien-da-nang-mo-rong-vung-tim-kiem-ra-giua-son-tra-va-dao-cu-lao-cham-100260811071400956.htm",
+      "summary": "Gần 3 ngày quần thảo, đến nay các lực lượng cứu nạn vẫn chưa tìm thấy 2 người mất tích do bị sóng cuốn xuống biển khi chụp ảnh ở khu vực Mũi Nghê, trên bán đảo Sơn Trà, Đà Nẵng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T08:22:59.131644+07:00",
+      "fetched": "2026-08-11T08:22:59.131683+07:00"
+    },
+    {
+      "id": "bad6d6d6bc8929224e001dca196d7193",
+      "title": "Đắk Lắk có trường hợp đầu tiên tử vong do sốt xuất huyết Dengue trong năm nay",
+      "link": "https://tuoitre.vn/dak-lak-co-truong-hop-dau-tien-tu-vong-do-sot-xuat-huyet-dengue-trong-nam-nay-100260811071626732.htm",
+      "summary": "Ngày 11-8, theo thông tin từ Sở Y tế tỉnh Đắk Lắk, trên địa bàn tỉnh vừa ghi nhận trường hợp đầu tiên tử vong do bệnh sốt xuất huyết Dengue trong năm nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T08:22:59.131602+07:00",
+      "fetched": "2026-08-11T08:22:59.131637+07:00"
+    },
+    {
+      "id": "43a47e9b200a3d1b2cf666acc901ee13",
+      "title": "Trí tuệ nhân tạo có thể thành môn thi học sinh giỏi quốc gia",
+      "link": "https://tuoitre.vn/tri-tue-nhan-tao-co-the-thanh-mon-thi-hoc-sinh-gioi-quoc-gia-100260811071448718.htm",
+      "summary": "Sau thành tích 7 huy chương tại Olympic AI quốc tế 2026, Bộ Giáo dục và Đào tạo định hướng đưa AI vào kỳ thi học sinh giỏi quốc gia trong thời gian tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T08:22:59.131558+07:00",
+      "fetched": "2026-08-11T08:22:59.131596+07:00"
+    },
+    {
+      "id": "c827910f981c19636ed80f3f1d47bb7b",
+      "title": "Sáng nay tòa xét xử nữ giám đốc tổ chức show Về đây bốn cánh chim trời",
+      "link": "https://tuoitre.vn/sang-nay-toa-xet-xu-nu-giam-doc-to-chuc-show-ve-day-bon-canh-chim-troi-100260810234721295.htm",
+      "summary": "Sau gần 8 tháng kể từ khi khởi tố, Nguyễn Thị Thu Hà - Giám đốc Công ty Ngọc Việt Education, đơn vị tổ chức show \"Về đây bốn cánh chim trời\" - ra hầu tòa liên quan vụ chương trình bị hủy vào phút chót khi khán giả đã có mặt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T08:22:59.131502+07:00",
+      "fetched": "2026-08-11T08:22:59.131551+07:00"
+    },
+    {
+      "id": "6b80390106c1cfb4732dfbfac85a91fd",
+      "title": "Giáo sư có 3 bằng sáng chế tại Mỹ làm hiệu trưởng đại học ở Đồng Nai",
+      "link": "https://tuoitre.vn/giao-su-co-3-bang-sang-che-tai-my-lam-hieu-truong-dai-hoc-o-dong-nai-100260811070935969.htm",
+      "summary": "GS.TS Nguyễn Quốc Hưng, có hơn 100 công bố quốc tế và 3 bằng sáng chế tại Mỹ, vừa được bổ nhiệm làm Hiệu trưởng Trường đại học Công nghệ Miền Đông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T08:22:59.131422+07:00",
+      "fetched": "2026-08-11T08:22:59.131491+07:00"
+    },
+    {
+      "id": "f505a931856adc8c3088c33ed8b99177",
+      "title": "Kê biên nhiều đất, ô tô của vợ chồng Tổng giám đốc GFDI, có BMW X3, Lexus LX 570",
+      "link": "https://tuoitre.vn/ke-bien-nhieu-dat-o-to-cua-vo-chong-tong-giam-doc-gfdi-co-bmw-x3-lexus-lx-570-100260811071018912.htm",
+      "summary": "Cơ quan điều tra đã kê biên, phong tỏa tài khoản liên quan đến vợ chồng ông Nguyễn Quang Hoàng, Tổng giám đốc GFDI, cùng các đồng phạm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T08:22:59.131354+07:00",
+      "fetched": "2026-08-11T08:22:59.131412+07:00"
+    },
+    {
+      "id": "a7e34fde149a1200497fc4852a19b566",
+      "title": "Thủ tướng Thái bất bình vì cựu nghị sĩ giết người ung dung hút thuốc, không bị còng tay",
+      "link": "https://tuoitre.vn/thu-tuong-thai-bat-binh-vi-cuu-nghi-si-giet-nguoi-ung-dung-hut-thuoc-khong-bi-cong-tay-100260811073125422.htm",
+      "summary": "Thủ tướng Thái Lan nhấn mạnh không được đối xử hay hỗ trợ đặc biệt cho nghi phạm, dù người này giữ địa vị gì.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T08:22:59.131287+07:00",
+      "fetched": "2026-08-11T08:22:59.131345+07:00"
+    },
+    {
+      "id": "d6550e4748dd2bcea91300354604403f",
+      "title": "Vì sao giá vé máy bay đi Singapore, Thái Lan giảm sâu trong tháng 8 và 9?",
+      "link": "https://tuoitre.vn/vi-sao-gia-ve-may-bay-di-singapore-thai-lan-giam-sau-trong-thang-8-va-9-100260810171055571.htm",
+      "summary": "Từ TP.HCM, hành khách mua vé máy bay đi Singapore, Bangkok với giá 1,4 - 1,9 triệu đồng/chiều, thấp hơn không ít chuyến đi Hà Nội. Giá vé nhiều đường bay quốc tế ngày càng gay gắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T08:22:59.131215+07:00",
+      "fetched": "2026-08-11T08:22:59.131277+07:00"
+    },
+    {
+      "id": "3ba29fd267b4940103612ed9810bd648",
+      "title": "Dinh dưỡng cân bằng - bí quyết nuôi dưỡng sức khoẻ từ bên trong",
+      "link": "https://tuoitre.vn/dinh-duong-can-bang-bi-quyet-nuoi-duong-suc-khoe-tu-ben-trong-100260807112611102.htm",
+      "summary": "Một chế độ dinh dưỡng khoa học không chỉ giúp cơ thể duy trì năng lượng mà còn góp phần xây dựng nền tảng sức khỏe lâu dài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T08:22:59.131167+07:00",
+      "fetched": "2026-08-11T08:22:59.131208+07:00"
+    },
+    {
+      "id": "040de3daecedf26c12097b3e0a3ff60b",
+      "title": "LG Best Care: Nỗ lực chăm sóc toàn diện, hoàn thiện trải nghiệm người dùng",
+      "link": "https://tuoitre.vn/lg-best-care-no-luc-cham-soc-toan-dien-hoan-thien-trai-nghiem-nguoi-dung-100260810171445172.htm",
+      "summary": "Từ hỗ trợ từ xa, phục vụ ngoài giờ đến đồng hành tại vùng thiên tai, hành trình LG Best Care được ghi dấu bằng những con số cụ thể. Phía sau mỗi dấu mốc là nỗ lực giảm bớt bất tiện, giúp người dùng sớm trở lại nhịp sinh hoạt quen thuộc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T08:22:59.131087+07:00",
+      "fetched": "2026-08-11T08:22:59.131160+07:00"
+    },
+    {
+      "id": "2369fd0238f82e50a226c365fb35d601",
+      "title": "Chủ tịch Tập đoàn Mỹ Hạnh lừa nhà đầu tư góp 1.300 tỉ, dùng 125 tỉ mua nhà, xe Mercedes",
+      "link": "https://tuoitre.vn/chu-tich-tap-doan-my-hanh-lua-nha-dau-tu-gop-1300-ti-dung-125-ti-mua-nha-xe-mercedes-100260811074359937.htm",
+      "summary": "Từ lời quảng bá dự án sâm Ngọc Linh với lợi nhuận lên tới 48%/năm, Chủ tịch Tập đoàn Mỹ Hạnh đã \"dụ\" 1.200 nhà đầu tư góp gần 1.300 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T08:22:59.130811+07:00",
+      "fetched": "2026-08-11T08:22:59.131074+07:00"
+    },
+    {
+      "id": "6e86609e0e200bf3b73657d65310f10c",
+      "title": "Ăn cà chua mỗi ngày có thể giúp giảm mỡ trong gan?",
+      "link": "https://tuoitre.vn/an-ca-chua-moi-ngay-co-the-giup-giam-mo-trong-gan-100260810222418933.htm",
+      "summary": "Một nghiên cứu mới cho thấy việc bổ sung cà chua vào chế độ ăn có thể giúp giảm lượng mỡ tích tụ trong gan ở người mắc bệnh gan nhiễm mỡ liên quan đến rối loạn chuyển hóa (MASLD).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T08:22:59.130755+07:00",
+      "fetched": "2026-08-11T08:22:59.130803+07:00"
+    },
+    {
+      "id": "ff260e9189e3e7176de02b499c8d22ae",
+      "title": "Dân được trả lại tiền đất cơ sở Thuế đã thu bổ sung trái luật tại Khánh Hòa",
+      "link": "https://tuoitre.vn/dan-duoc-tra-lai-tien-dat-co-so-thue-da-thu-bo-sung-trai-luat-tai-khanh-hoa-100260810213834881.htm",
+      "summary": "Người dân bị thu tiền đất bổ sung tại xã Tân Định (Khánh Hòa) đã được Thuế cơ sở 1 trả lại toàn bộ tiền thu tăng thêm trái luật. Đó là trường hợp tương tự 118 thông báo thu bổ sung bởi Thuế cơ sở 4 Khánh Hòa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T08:22:59.130621+07:00",
+      "fetched": "2026-08-11T08:22:59.130746+07:00"
+    },
     {
       "id": "6d44050fdeacbcdbaaea4817680f883c",
       "title": "Hát dở có phải do ‘không có năng khiếu’? Khoa học có câu trả lời bất ngờ",
@@ -151,6 +301,386 @@ window.newsData_2026_08_11 = {
       "category": "Tổng hợp",
       "published": "2026-08-11T01:52:15.730382+07:00",
       "fetched": "2026-08-11T01:52:15.730500+07:00"
+    },
+    {
+      "id": "a939083a1fe3b0352df2ce38c2ac6f71",
+      "title": "Lịch sử đối đầu nhiều duyên nợ, bóng đá Việt Nam thắng áp đảo Malaysia",
+      "link": "https://thanhnien.vn/lich-su-doi-dau-nhieu-duyen-no-bong-da-viet-nam-thang-ap-dao-malaysia-185260810221836328.htm",
+      "summary": "Đội tuyển VN thắng nhiều trận hơn, ghi nhiều bàn hơn so với Malaysia trong lịch sử đối đầu tại ASEAN Cup.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T01:21:00+07:00",
+      "fetched": "2026-08-11T08:22:57.161907+07:00"
+    },
+    {
+      "id": "3aa6c749912a454ff19e37fe9b974cf8",
+      "title": "Messi tạm hoãn thi đấu, CLB Inter Miami và David Beckham có hành động đặc biệt",
+      "link": "https://thanhnien.vn/messi-tam-hoan-thi-dau-clb-inter-miami-va-david-beckham-co-hanh-dong-dac-biet-185260811081850951.htm",
+      "summary": "Messi đã quyết định ở lại Argentina trong thời gian chưa xác định để được ở gần gia đình sau khi hoàn tất tang lễ người cha thân yêu của mình, ông Jorge Messi vừa qua đời. CLB Inter Miami và ông David Beckham cũng lập tức có hành động đặc biệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T01:20:00+07:00",
+      "fetched": "2026-08-11T08:22:57.162035+07:00"
+    },
+    {
+      "id": "efd95512bebf2c9ed39dd3772f38fa84",
+      "title": "Sự cố hy hữu ở 'Top Chef Việt Nam' khiến Việt Hoàng phải ra về",
+      "link": "https://thanhnien.vn/su-co-hy-huu-o-top-chef-viet-nam-khien-viet-hoang-phai-ra-ve-185260810214501239.htm",
+      "summary": "Lần đầu tiên tại 'Top Chef Việt Nam 2026', một tình huống chưa từng có đã xảy ra gây bất ngờ cho người chơi lẫn khán giả truyền hình. Sự cố khiến Chef Việt Hoàng phải gói dao rời đấu trường trong sự hụt hẫng, tiếc nuối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T01:13:00+07:00",
+      "fetched": "2026-08-11T08:22:57.162145+07:00"
+    },
+    {
+      "id": "7f8347dd17c6741e274155d854412fe6",
+      "title": "Khám thai đúng mốc, tầm soát dị tật, chủ động dự phòng sinh non",
+      "link": "https://thanhnien.vn/kham-thai-dung-moc-tam-soat-di-tat-chu-dong-du-phong-sinh-non-185260810210745283.htm",
+      "summary": "Theo thống kê, khoảng 20% trường hợp mang thai được xếp vào nhóm thai kỳ nguy cơ cao, những trường hợp này nếu không kiểm soát tốt có khả năng xảy ra biến chứng cho mẹ, thai nhi hoặc cả hai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T01:00:00+07:00",
+      "fetched": "2026-08-11T08:22:57.162249+07:00"
+    },
+    {
+      "id": "144cee37b54161c48fb614a23c1db412",
+      "title": "Văn hóa Việt không thiếu giá trị đặc sắc, chỉ thiếu cách kể hấp dẫn",
+      "link": "https://thanhnien.vn/van-hoa-viet-khong-thieu-gia-tri-dac-sac-chi-thieu-cach-ke-hap-dan-185260810210356723.htm",
+      "summary": "Tại Phiên họp thứ hai của Ban Chỉ đạo T.Ư về phát triển văn hóa VN ngày 13.7, Tổng Bí thư, Chủ tịch nước Tô Lâm đã chỉ ra rằng nhiều giá trị văn hóa VN chưa được thể hiện tương xứng trên không gian số; một bộ phận người dân, nhất là thế hệ trẻ, có xu hướng tiếp cận, ghi nhớ và hiểu biết nhiều hơn về...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T01:00:00+07:00",
+      "fetched": "2026-08-11T08:22:57.162354+07:00"
+    },
+    {
+      "id": "06dbddc87c687c4803f00e3fd9e8ea1b",
+      "title": "Agribank tiên phong triển khai chương trình tín dụng ưu đãi 70.000 tỉ đồng",
+      "link": "https://thanhnien.vn/agribank-tien-phong-trien-khai-chuong-trinh-tin-dung-uu-dai-70000-ti-dong-185260810201207684.htm",
+      "summary": "Thực hiện nghiêm túc, kịp thời chỉ đạo của Chính phủ, Ngân hàng Nhà nước Việt Nam (NHNN), Ngân hàng Nông nghiệp và Phát triển Nông thôn Việt Nam (Agribank) triển khai chương trình tín dụng ưu đãi quy mô 70.000 tỉ đồng hướng đến các động lực tăng trưởng kinh tế, tiếp tục khẳng định vai trò Ngân hàng ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T01:00:00+07:00",
+      "fetched": "2026-08-11T08:22:57.162459+07:00"
+    },
+    {
+      "id": "0cb2015031529c01b8ad6933bc814b86",
+      "title": "Khải Hoàn Imperial thu hút cộng đồng chuyên gia quốc tế tại Thuận An",
+      "link": "https://thanhnien.vn/khai-hoan-imperial-thu-hut-cong-dong-chuyen-gia-quoc-te-tai-thuan-an-18526081019512766.htm",
+      "summary": "Giới doanh nhân và chuyên gia quốc tế tại Việt Nam khi tìm nhà ở không chỉ xem xét những vị trí gần nơi làm việc. Không gian sống họ còn cần phải đáp ứng tiêu chuẩn rất cao về tiện ích, sức khỏe, sự riêng tư và có thể kết hợp làm việc tại nhà. Tại đông bắc TP.HCM, Khải Hoàn Imperial là dự án tiên ph...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T01:00:00+07:00",
+      "fetched": "2026-08-11T08:22:57.162578+07:00"
+    },
+    {
+      "id": "2a2af307331e9b3841f2cf99a59a0b3f",
+      "title": "Khi chuẩn sống toàn cầu được định hình bởi những lựa chọn xứng tầm",
+      "link": "https://thanhnien.vn/khi-chuan-song-toan-cau-duoc-dinh-hinh-boi-nhung-lua-chon-xung-tam-185260810192710063.htm",
+      "summary": "Gia đình hiện đại thường đứng trước một sự đánh đổi: Chọn sống giữa trung tâm sầm uất để dễ dàng bắt nhịp cùng thời đại, hay lùi về những khu vực xa xôi để đổi lấy sự bình yên cho gia đình? Bán đảo SOLA hiện diện như một lời giải trọn vẹn cho bài toán đó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T01:00:00+07:00",
+      "fetched": "2026-08-11T08:22:57.162682+07:00"
+    },
+    {
+      "id": "6f033b8219bdd8503ba0c904c19f9e40",
+      "title": "Món quà trong một trận đấu game mở đầu chuyện tình 1.500 km",
+      "link": "https://thanhnien.vn/mon-qua-trong-mot-tran-dau-game-mo-dau-chuyen-tinh-1500-km-185260810185329126.htm",
+      "summary": "Từ một lần ghép đội ngẫu nhiên trong một trận đấu game, chàng trai ở Bắc Giang và cô gái ở Vũng Tàu nên duyên. Gần 8 năm trôi qua, họ vẫn đồng hành bên nhau, cùng xây dựng tổ ấm và phát triển công việc kinh doanh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T01:00:00+07:00",
+      "fetched": "2026-08-11T08:22:57.162783+07:00"
+    },
+    {
+      "id": "67191dff7948150f93257d2bf450bc7d",
+      "title": "Cách diện áo lụa tôn dáng, tạo điểm nhấn riêng cho nàng công sở",
+      "link": "https://thanhnien.vn/thoi-trang-tre/cach-dien-ao-lua-ton-dang-tao-diem-nhan-rieng-cho-nang-cong-so-185260807173938421.htm",
+      "summary": "Vải lụa nổi tiếng bởi vẻ đẹp sang trọng và kiêu sa. Những cách diện áo lụa tôn dáng cho mọi vóc người dưới đây giúp nàng công sở tạo điểm nhấn riêng qua từng bản phối diện đi làm, đi tiệc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T01:00:00+07:00",
+      "fetched": "2026-08-11T08:22:57.162885+07:00"
+    },
+    {
+      "id": "202433ceef0c579f98812241b8d49c7f",
+      "title": "Một số ngân hàng giảm lãi suất cho vay",
+      "link": "https://thanhnien.vn/mot-so-ngan-hang-giam-lai-suat-cho-vay-185260811074432008.htm",
+      "summary": "Một số ngân hàng giảm lãi suất cho vay từ 0,5 – 2%/năm sau khi Ngân hàng Nhà nước đề nghị triển khai chương trình tín dụng hướng đến mục tiêu tăng trưởng kinh tế 2 con số.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T00:59:00+07:00",
+      "fetched": "2026-08-11T08:22:57.162984+07:00"
+    },
+    {
+      "id": "9616ea477a0e55bb742208e97884bf47",
+      "title": "Thợ lặn tình cờ tìm thấy xác tàu cổ 2.000 năm dưới đáy biển",
+      "link": "https://thanhnien.vn/tho-lan-tinh-co-tim-thay-xac-tau-co-2000-nam-duoi-day-bien-185260811072247618.htm",
+      "summary": "Thợ lặn tưởng rằng mình chỉ nhìn thấy một tảng đá bình thường, nhưng khi tiến lại gần hơn, đó lại là xác tàu cổ 2.000 năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T00:56:00+07:00",
+      "fetched": "2026-08-11T08:22:57.163085+07:00"
+    },
+    {
+      "id": "fe12109bf35e7b7e520cb2bf17d8e6fd",
+      "title": "Giá xăng dầu hôm nay 11.8.2026: Bật tăng mạnh",
+      "link": "https://thanhnien.vn/gia-xang-dau-hom-nay-1182026-bat-tang-manh-18526081107190154.htm",
+      "summary": "Giá dầu thế giới tăng mạnh trong phiên giao dịch đầu tuần do thị trường đánh giá triển vọng mở eo biển Hormuz trở nên mong manh. Trong khi đó, giá xăng dầu thành phẩm bình quân vẫn thấp hơn kỳ điều hành giá tuần trước. Dự báo xăng dầu trong nước có thể giảm tiếp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T00:55:00+07:00",
+      "fetched": "2026-08-11T08:22:57.163185+07:00"
+    },
+    {
+      "id": "0fb714f3603065f1a4e3ad0951f65ee9",
+      "title": "Giá heo hơi hôm nay 11.8.2026: Mất mốc quan trọng",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-1182026-mat-moc-quan-trong-185260811072251977.htm",
+      "summary": "Đà giảm giá heo hơi tiếp tục kéo dài ở nhiều tỉnh, thành trên cả nước. Trong hôm nay, cột mốc quan trọng 60.000 đồng/kg cũng bị 'cuốn trôi'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T00:48:00+07:00",
+      "fetched": "2026-08-11T08:22:57.163286+07:00"
+    },
+    {
+      "id": "bb18cb99f02b144b8242a78ab6325a05",
+      "title": "Bao nhiêu thị thực Mỹ đã bị thu hồi dưới thời ông Trump?",
+      "link": "https://thanhnien.vn/bao-nhieu-thi-thuc-my-da-bi-thu-hoi-duoi-thoi-ong-trump-185260811065034782.htm",
+      "summary": "Bộ Ngoại giao Mỹ hôm 10.8 cho biết đã thu hồi hơn 175.000 thị thực Mỹ của công dân nước ngoài kể từ khi bắt đầu nhiệm kỳ 2 của Tổng thống Donald Trump tại Nhà Trắng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T00:41:00+07:00",
+      "fetched": "2026-08-11T08:22:57.163387+07:00"
+    },
+    {
+      "id": "efcb72a30eebdadf604ac78346827f8f",
+      "title": "Ông bà thua kiện dù cháu nội khác ADN",
+      "link": "https://vnexpress.net/ong-ba-thua-kien-du-chau-noi-khac-adn-5107583.html",
+      "summary": "Phát hiện cháu nội 8 tuổi không cùng huyết thống, cặp vợ chồng ở Quảng Tây kiện con dâu đòi bồi thường nhưng bị tòa bác đơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T00:34:41+07:00",
+      "fetched": "2026-08-11T08:22:54.161200+07:00"
+    },
+    {
+      "id": "91112709679bb3b283d83a3ebd2dc184",
+      "title": "Ít nhất 111 người chết vì động đất Colombia",
+      "link": "https://vnexpress.net/it-nhat-111-nguoi-chet-vi-dong-dat-colombia-5107637.html",
+      "summary": "Trận động đất mạnh 7,4 độ khiến ít nhất 111 người thiệt mạng tại Colombia và chính quyền nước này đã ban bố tình trạng khẩn cấp để ứng phó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T00:31:30+07:00",
+      "fetched": "2026-08-11T08:22:54.161335+07:00"
+    },
+    {
+      "id": "91112709679bb3b283d83a3ebd2dc184",
+      "title": "Ít nhất 111 người chết vì động đất Colombia",
+      "link": "https://vnexpress.net/it-nhat-111-nguoi-chet-vi-dong-dat-colombia-5107637.html",
+      "summary": "Trận động đất mạnh 7,4 độ khiến ít nhất 111 người thiệt mạng tại Colombia và chính quyền nước này đã ban bố tình trạng khẩn cấp để ứng phó.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-11T00:31:30+07:00",
+      "fetched": "2026-08-11T08:23:00.412419+07:00"
+    },
+    {
+      "id": "f8d1946d703f04e02cb78af807b0b77d",
+      "title": "Smart #2 - ôtô điện 2 chỗ lộ diện",
+      "link": "https://vnexpress.net/smart-2-oto-dien-2-cho-lo-dien-5107479.html",
+      "summary": "Mẫu micro EV phiên bản sản xuất hé lộ hồ sơ pháp lý tại Trung Quốc, lắp môtơ điện công suất 80 mã lực, phạm vi hoạt động 300 km.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T00:31:00+07:00",
+      "fetched": "2026-08-11T08:22:54.161450+07:00"
+    },
+    {
+      "id": "69ac515e68107a8603fed8e94f836fb4",
+      "title": "Tỷ phú Jeff Bezos muốn mua 30% cổ phần Liverpool",
+      "link": "https://vnexpress.net/ty-phu-jeff-bezos-muon-mua-30-co-phan-liverpool-5107617.html",
+      "summary": "Jeff Bezos, nhà sáng lập Amazon, đang tiến gần thỏa thuận mua khoảng 30% cổ phần Liverpool trong thương vụ trị giá 1,82 tỷ USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T00:21:33+07:00",
+      "fetched": "2026-08-11T08:22:54.161582+07:00"
+    },
+    {
+      "id": "69ac515e68107a8603fed8e94f836fb4",
+      "title": "Tỷ phú Jeff Bezos muốn mua 30% cổ phần Liverpool",
+      "link": "https://vnexpress.net/ty-phu-jeff-bezos-muon-mua-30-co-phan-liverpool-5107617.html",
+      "summary": "Jeff Bezos, nhà sáng lập Amazon, đang tiến gần thỏa thuận mua khoảng 30% cổ phần Liverpool trong thương vụ trị giá 1,82 tỷ USD.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-11T00:21:33+07:00",
+      "fetched": "2026-08-11T08:23:06.268230+07:00"
+    },
+    {
+      "id": "ee791ac7ae566f5a3825955ede691973",
+      "title": "Hamilton khoe loạt ảnh tình tứ bên Kim Kardashian",
+      "link": "https://vnexpress.net/hamilton-khoe-loat-anh-tinh-tu-ben-kim-kardashian-5107620.html",
+      "summary": "Tay đua cựu số một thế giới Lewis Hamilton chia sẻ loạt ảnh tình cảm bên Kim Kardashian trong kỳ nghỉ giữa mùa F1, cho thấy mối quan hệ ngày càng gắn bó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T00:12:22+07:00",
+      "fetched": "2026-08-11T08:22:54.161691+07:00"
+    },
+    {
+      "id": "ee791ac7ae566f5a3825955ede691973",
+      "title": "Hamilton khoe loạt ảnh tình tứ bên Kim Kardashian",
+      "link": "https://vnexpress.net/hamilton-khoe-loat-anh-tinh-tu-ben-kim-kardashian-5107620.html",
+      "summary": "Tay đua cựu số một thế giới Lewis Hamilton chia sẻ loạt ảnh tình cảm bên Kim Kardashian trong kỳ nghỉ giữa mùa F1, cho thấy mối quan hệ ngày càng gắn bó.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-11T00:12:22+07:00",
+      "fetched": "2026-08-11T08:23:06.268343+07:00"
+    },
+    {
+      "id": "5d249b136d9121bb469177f261edcd92",
+      "title": "Báo Thái Lan: 'Sẽ rất đáng giá nếu gặp Việt Nam ở chung kết ASEAN Cup'",
+      "link": "https://vnexpress.net/bao-thai-lan-se-rat-dang-gia-neu-gap-viet-nam-o-chung-ket-asean-cup-5107566.html",
+      "summary": "Tờ Thai Rath dự đoán Thái Lan gặp Việt Nam ở chung kết ASEAN Cup 2026, và trận đấu đó rất quan trọng với đội tuyển này trước Asian Cup.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T00:07:29+07:00",
+      "fetched": "2026-08-11T08:22:54.161801+07:00"
+    },
+    {
+      "id": "5d249b136d9121bb469177f261edcd92",
+      "title": "Báo Thái Lan: 'Sẽ rất đáng giá nếu gặp Việt Nam ở chung kết ASEAN Cup'",
+      "link": "https://vnexpress.net/bao-thai-lan-se-rat-dang-gia-neu-gap-viet-nam-o-chung-ket-asean-cup-5107566.html",
+      "summary": "Tờ Thai Rath dự đoán Thái Lan gặp Việt Nam ở chung kết ASEAN Cup 2026, và trận đấu đó rất quan trọng với đội tuyển này trước Asian Cup.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-11T00:07:29+07:00",
+      "fetched": "2026-08-11T08:23:06.267870+07:00"
+    },
+    {
+      "id": "be25a54f4c7cecf0b7225680bd4f74d8",
+      "title": "AFC, CONCACAF, UEFA ngầm kêu gọi phế truất Chủ tịch FIFA",
+      "link": "https://vnexpress.net/afc-concacaf-uefa-ngam-keu-goi-phe-truat-chu-tich-fifa-5107604.html",
+      "summary": "LĐBĐ châu Á, châu Âu, Bắc Trung Mỹ và Caribe cùng đăng một bức thư vào chiều 10/8, cho rằng Chủ tịch FIFA Gianni Infantino đang chi phối thay vì phục vụ bóng đá.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T00:03:25+07:00",
+      "fetched": "2026-08-11T08:22:54.161908+07:00"
+    },
+    {
+      "id": "be25a54f4c7cecf0b7225680bd4f74d8",
+      "title": "AFC, CONCACAF, UEFA ngầm kêu gọi phế truất Chủ tịch FIFA",
+      "link": "https://vnexpress.net/afc-concacaf-uefa-ngam-keu-goi-phe-truat-chu-tich-fifa-5107604.html",
+      "summary": "LĐBĐ châu Á, châu Âu, Bắc Trung Mỹ và Caribe cùng đăng một bức thư vào chiều 10/8, cho rằng Chủ tịch FIFA Gianni Infantino đang chi phối thay vì phục vụ bóng đá.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-11T00:03:25+07:00",
+      "fetched": "2026-08-11T08:23:06.267998+07:00"
+    },
+    {
+      "id": "84caf408c7e13e8bbed9b67f497cd7b2",
+      "title": "Ông Trump yêu cầu Iran bồi thường thiệt hại chiến tranh",
+      "link": "https://vnexpress.net/ong-trump-yeu-cau-iran-boi-thuong-thiet-hai-chien-tranh-5107633.html",
+      "summary": "Tổng thống Trump nói sẽ yêu cầu Iran bồi thường thiệt hại chiến tranh trong mọi cuộc đàm phán hòa bình, đáp trả điều kiện tương tự mà Tehran trước đó đưa ra.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T00:03:22+07:00",
+      "fetched": "2026-08-11T08:22:54.162013+07:00"
+    },
+    {
+      "id": "84caf408c7e13e8bbed9b67f497cd7b2",
+      "title": "Ông Trump yêu cầu Iran bồi thường thiệt hại chiến tranh",
+      "link": "https://vnexpress.net/ong-trump-yeu-cau-iran-boi-thuong-thiet-hai-chien-tranh-5107633.html",
+      "summary": "Tổng thống Trump nói sẽ yêu cầu Iran bồi thường thiệt hại chiến tranh trong mọi cuộc đàm phán hòa bình, đáp trả điều kiện tương tự mà Tehran trước đó đưa ra.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-11T00:03:22+07:00",
+      "fetched": "2026-08-11T08:23:00.412557+07:00"
+    },
+    {
+      "id": "eaca958badd1f55ed3a6790c8c45faa3",
+      "title": "Đến nơi 'yên tĩnh nhất Trái Đất'",
+      "link": "https://vnexpress.net/den-noi-yen-tinh-nhat-trai-dat-5107335.html",
+      "summary": "Một trong những trải nghiệm được du khách yêu thích khi đến Hawaii là đứng yên và tận hưởng sự tĩnh lặng tại Vườn quốc gia Haleakalā.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T00:00:00+07:00",
+      "fetched": "2026-08-11T08:22:54.162121+07:00"
+    },
+    {
+      "id": "a4d403691d12588a9b9936540510969d",
+      "title": "Người Mỹ ưu tiên sưởi ghế thay vì tính năng công nghệ khi mua ôtô",
+      "link": "https://vnexpress.net/nguoi-my-uu-tien-suoi-ghe-thay-vi-tinh-nang-cong-nghe-khi-mua-oto-5106766.html",
+      "summary": "Thay vì các hệ thống hỗ trợ lái thông minh, phần lớn khách hàng mua xe mới tại Mỹ lại sẵn sàng chi thêm tiền cho ghế sưởi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T00:00:00+07:00",
+      "fetched": "2026-08-11T08:22:54.162224+07:00"
+    },
+    {
+      "id": "9dbb34b0bde79c53f724fc4affe679e6",
+      "title": "Tiền vệ nhập tịch Indonesia bức xúc khi bị CĐV chỉ trích",
+      "link": "https://vnexpress.net/tien-ve-nhap-tich-indonesia-buc-xuc-khi-bi-cdv-chi-trich-5107572.html",
+      "summary": "Tiền vệ Marc Klok thừa nhận đau đớn sau khi Indonesia lần thứ sáu bị loại ở vòng bảng ASEAN Cup 2026, nhưng khẳng định vô địch không phải mục tiêu quan trọng nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T23:58:45+07:00",
+      "fetched": "2026-08-11T08:22:54.162333+07:00"
+    },
+    {
+      "id": "9dbb34b0bde79c53f724fc4affe679e6",
+      "title": "Tiền vệ nhập tịch Indonesia bức xúc khi bị CĐV chỉ trích",
+      "link": "https://vnexpress.net/tien-ve-nhap-tich-indonesia-buc-xuc-khi-bi-cdv-chi-trich-5107572.html",
+      "summary": "Tiền vệ Marc Klok thừa nhận đau đớn sau khi Indonesia lần thứ sáu bị loại ở vòng bảng ASEAN Cup 2026, nhưng khẳng định vô địch không phải mục tiêu quan trọng nhất.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-10T23:58:45+07:00",
+      "fetched": "2026-08-11T08:23:06.268115+07:00"
+    },
+    {
+      "id": "212adc8b151c5702f0913f9ac639c3d9",
+      "title": "Ba năm tìm chồng 'như tuyển nhân sự' của cô gái Hưng Yên",
+      "link": "https://vnexpress.net/ba-nam-tim-chong-nhu-tuyen-nhan-su-cua-co-gai-hung-yen-5103621.html",
+      "summary": "Suốt ba năm, cuối tuần nào chị Bùi Nghĩa cũng xếp lịch gặp gỡ, làm quen người khác giới để \"tuyển chồng\" nhưng mối duyên của chị lại bất ngờ đến trong hòm thư rác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T23:28:00+07:00",
+      "fetched": "2026-08-11T08:22:54.162437+07:00"
+    },
+    {
+      "id": "ce7aeb88bed302e13483de76f57ae57e",
+      "title": "Điểm tin 6h: Miền Bắc nắng nóng 39 độ C | TP HCM bắn pháo hoa 7 điểm dịp Quốc khánh 2/9",
+      "link": "https://vnexpress.net/diem-tin-6h-mien-bac-nang-nong-39-do-c-tp-hcm-ban-phao-hoa-7-diem-dip-quoc-khanh-2-9-5107629.html",
+      "summary": "Cựu thứ trưởng Nguyễn Bá Hoan nộp lại 15,8 tỷ đồng nhận hối lộ; Trung Quốc mở chiến dịch truy thu thuế giới siêu giàu...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T23:05:50+07:00",
+      "fetched": "2026-08-11T08:22:54.162570+07:00"
+    },
+    {
+      "id": "1dd40c128d3e41c0b528139803d1e61e",
+      "title": "Cựu nghị sĩ Thái Lan nêu lý do bắn chết lãnh đạo tỉnh",
+      "link": "https://vnexpress.net/cuu-nghi-si-thai-lan-neu-ly-do-ban-chet-lanh-dao-tinh-5107597.html",
+      "summary": "Cựu nghị sĩ Chalong khai rằng ông bắn chết chủ tịch Hội đồng Hành chính tỉnh Nonthaburi do bị tài xế của người này \"chĩa súng\" khi tìm cách giải quyết mâu thuẫn tiền bạc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T23:00:00+07:00",
+      "fetched": "2026-08-11T08:22:54.162677+07:00"
+    },
+    {
+      "id": "a52f7b50dfa6a5d7ab709fadffdb4397",
+      "title": "Tiệm truyện tranh tuổi thơ trong khu tập thể cũ Hà Nội",
+      "link": "https://vnexpress.net/tiem-truyen-tranh-tuoi-tho-trong-khu-tap-the-cu-ha-noi-5107136.html",
+      "summary": "Mỗi ngày, tiệm truyện tranh cũ của chị Nguyễn Thị An trong khu tập thể ở phường Đống Đa đón 40- 50 lượt khách thuộc nhiều lứa tuổi, từ phụ huynh thế hệ 8X đến các em nhỏ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-10T23:00:00+07:00",
+      "fetched": "2026-08-11T08:22:54.162784+07:00"
+    },
+    {
+      "id": "1dd40c128d3e41c0b528139803d1e61e",
+      "title": "Cựu nghị sĩ Thái Lan nêu lý do bắn chết lãnh đạo tỉnh",
+      "link": "https://vnexpress.net/cuu-nghi-si-thai-lan-neu-ly-do-ban-chet-lanh-dao-tinh-5107597.html",
+      "summary": "Cựu nghị sĩ Chalong khai rằng ông bắn chết chủ tịch Hội đồng Hành chính tỉnh Nonthaburi do bị tài xế của người này \"chĩa súng\" khi tìm cách giải quyết mâu thuẫn tiền bạc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-10T23:00:00+07:00",
+      "fetched": "2026-08-11T08:23:00.412674+07:00"
     },
     {
       "id": "e8fab66083a01e3315e838fe928ef22a",
