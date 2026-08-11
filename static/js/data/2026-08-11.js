@@ -1,7 +1,157 @@
 window.newsData_2026_08_11 = {
   "date": "2026-08-11",
-  "lastUpdated": "2026-08-11T21:54:20.215292+07:00",
+  "lastUpdated": "2026-08-11T23:54:35.988069+07:00",
   "articles": [
+    {
+      "id": "b7080732fdc5aeb4516e274481ceda02",
+      "title": "Thị trường vắc xin thế giới chuyển hướng sang người cao tuổi",
+      "link": "https://tuoitre.vn/thi-truong-vac-xin-the-gioi-chuyen-huong-sang-nguoi-cao-tuoi-100260811214126205.htm",
+      "summary": "Thị trường  vắc xin toàn cầu đang chuyển đổi sang nhóm người trưởng thành và cao tuổi do giảm sinh và già hóa dân số, ảnh hưởng đến chiến lược của các hãng dược.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T23:54:29.038843+07:00",
+      "fetched": "2026-08-11T23:54:29.038879+07:00"
+    },
+    {
+      "id": "ef0423ceddb65d63cbeb13f1293c4d74",
+      "title": "Khởi tố chủ cửa hàng bán 'đồ hiệu' có tiếng ở Cần Thơ",
+      "link": "https://tuoitre.vn/khoi-to-chu-cua-hang-ban-do-hieu-co-tieng-o-can-tho-100260811205725856.htm",
+      "summary": "Chủ cửa hàng chuyên bán \"đồ hiệu\" Thanh Hiển Luxury bị khởi tố về hành vi “xâm phạm quyền sở hữu công nghiệp”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T23:54:29.038805+07:00",
+      "fetched": "2026-08-11T23:54:29.038837+07:00"
+    },
+    {
+      "id": "0297c19f6426397d1585d67adc6d81a3",
+      "title": "Xây hàng rào đụng mộ gạch cổ, khai quật thấy kiếm, chân đèn, tiền cổ",
+      "link": "https://tuoitre.vn/xay-hang-rao-dung-mo-gach-co-khai-quat-thay-kiem-chan-den-tien-co-100260811190228949.htm",
+      "summary": "Khai quật khu vực người dân trình báo nghi phát hiện mộ cổ ở Nghệ An, lực lượng chức năng tìm thấy một số hiện vật như kiếm, chân đèn, tiền cổ…",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T23:54:29.038765+07:00",
+      "fetched": "2026-08-11T23:54:29.038799+07:00"
+    },
+    {
+      "id": "54fb45152bfd2962ab1ada88c1b24d1a",
+      "title": "Số doanh nghiệp quy mô lớn ở Đồng bằng sông Cửu Long chỉ 0,9%",
+      "link": "https://tuoitre.vn/so-doanh-nghiep-quy-mo-lon-o-dong-bang-song-cuu-long-chi-09-100260811185150186.htm",
+      "summary": "Tỉ lệ doanh nghiệp có quy mô lớn ở Đồng bằng sông Cửu Long chỉ có 0,9%, trong khi tỉ lệ doanh nghiệp siêu nhỏ chiếm tới 87%.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T23:54:29.038726+07:00",
+      "fetched": "2026-08-11T23:54:29.038759+07:00"
+    },
+    {
+      "id": "d85d52fe01cf4cb7d5e23a99a9f5ac0b",
+      "title": "HLV Hoàng Văn Phúc nói lý do không triệu tập Huỳnh Như cho tuyển nữ Việt Nam",
+      "link": "https://tuoitre.vn/hlv-hoang-van-phuc-noi-ly-do-khong-trieu-tap-huynh-nhu-cho-tuyen-nu-viet-nam-100260811194319055.htm",
+      "summary": "HLV trưởng Hoàng Văn Phúc cho biết đang chuẩn bị nhiều lối chơi khác nhau cho đội tuyển nữ Việt Nam hướng đến Asiad 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T23:54:29.038684+07:00",
+      "fetched": "2026-08-11T23:54:29.038719+07:00"
+    },
+    {
+      "id": "587b2a1093c17db7b30291e07cad96d1",
+      "title": "Đồng Nai: Đội K76 phát hiện thêm điểm có hài cốt liệt sĩ ở xã biên giới giáp Campuchia",
+      "link": "https://tuoitre.vn/dong-nai-doi-k76-phat-hien-them-diem-co-hai-cot-liet-si-o-xa-bien-gioi-giap-campuchia-100260811205430748.htm",
+      "summary": "Ngay trong ngày đầu ra quân, Đội K76 đã phát hiện một bộ hài cốt liệt sĩ tại xã biên giới Lộc Tấn, giáp Campuchia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T23:54:29.038631+07:00",
+      "fetched": "2026-08-11T23:54:29.038666+07:00"
+    },
+    {
+      "id": "52d0b77dd75984730de47048ec89aa1d",
+      "title": "Lâm Đồng kích cầu du lịch khi sân bay Liên Khương hoạt động trở lại",
+      "link": "https://tuoitre.vn/lam-dong-kich-cau-du-lich-khi-san-bay-lien-khuong-hoat-dong-tro-lai-100260811201625242.htm",
+      "summary": "Sân bay Liên Khương hoạt động trở lại, Lâm Đồng tung loạt chương trình kích cầu mời gọi du khách đến với hành trình khám phá biển, hoa và đại ngàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T23:54:29.038591+07:00",
+      "fetched": "2026-08-11T23:54:29.038625+07:00"
+    },
+    {
+      "id": "cc2ca434179dcf54ff3534e96e79f2b0",
+      "title": "Góp mặt AFC Champions League Elite nhận ngay 22 tỉ,  CLB Công An Hà Nội hướng tới triệu đô la?",
+      "link": "https://tuoitre.vn/gop-mat-afc-champions-league-elite-nhan-ngay-22-ti-clb-cong-an-ha-noi-huong-toi-trieu-do-la-100260811211533271.htm",
+      "summary": "Đánh bại CLB Adelaide United (Úc) 2-0 trên sân khách ở vòng play-off, qua đó góp mặt ở AFC Champions League Elite mùa giải 2026-2027, CLB Công An Hà Nội ngay lập tức \"bỏ túi\" số tiền khủng hơn 22 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T23:54:29.038537+07:00",
+      "fetched": "2026-08-11T23:54:29.038584+07:00"
+    },
+    {
+      "id": "9e292f1afb21fb8eb7ac9ebe7418b406",
+      "title": "Roadshow DatVietVAC: Hé lộ cách mở rộng nguồn thu ngàn tỉ trước thềm lên sàn",
+      "link": "https://tuoitre.vn/roadshow-datvietvac-he-lo-cach-mo-rong-nguon-thu-ngan-ti-truoc-them-len-san-100260811191635649.htm",
+      "summary": "Sau những chương trình hút hàng chục tỉ lượt xem, nhà sản xuất “vũ trụ Say Hi” - DatVietVAC đang mở rộng cách kiếm tiền từ nghệ sĩ, concert và người hâm mộ trước thềm lên sàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T23:54:29.038495+07:00",
+      "fetched": "2026-08-11T23:54:29.038530+07:00"
+    },
+    {
+      "id": "6ff28b807ab0cbef0e5e7cf3169e254c",
+      "title": "Cựu huấn luyện viên trưởng đội tuyển Việt Nam Phan Thanh Hùng qua đời",
+      "link": "https://tuoitre.vn/cuu-huan-luyen-vien-truong-doi-tuyen-viet-nam-phan-thanh-hung-qua-doi-100260809200533992.htm",
+      "summary": "Cựu HLV trưởng đội tuyển Việt Nam, ông Phan Thanh Hùng qua đời ở tuổi 67 sau thời gian lâm bệnh nặng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T23:54:29.038454+07:00",
+      "fetched": "2026-08-11T23:54:29.038489+07:00"
+    },
+    {
+      "id": "fc6cc011e33fef7d913faf2c780231fb",
+      "title": "20 năm Hành quân xanh: Dấu chân tình nguyện vì nhân dân phục vụ",
+      "link": "https://tuoitre.vn/20-nam-hanh-quan-xanh-dau-chan-tinh-nguyen-vi-nhan-dan-phuc-vu-100260811211957745.htm",
+      "summary": "Tối 11-8, Thành Đoàn TP.HCM đã tổ chức chương trình kỷ niệm và tiếp lửa truyền thống với chủ đề 20 năm Hành quân xanh - Dấu chân tình nguyện - Vì nhân dân phục vụ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T23:54:29.038409+07:00",
+      "fetched": "2026-08-11T23:54:29.038447+07:00"
+    },
+    {
+      "id": "fa7f89849ea750564b930d6e17feffb1",
+      "title": "HLV Polking tự hào: CLB Công An Hà Nội đại diện cho bóng đá Việt Nam",
+      "link": "https://tuoitre.vn/hlv-polking-tu-hao-clb-cong-an-ha-noi-dai-dien-cho-bong-da-viet-nam-100260811220324081.htm",
+      "summary": "HLV trưởng Alexandre Polking tự hào khi CLB Công An Hà Nội giành vé dự giải đấu cao nhất châu Á, khẳng định tầm vóc của bóng đá Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T23:54:29.038363+07:00",
+      "fetched": "2026-08-11T23:54:29.038402+07:00"
+    },
+    {
+      "id": "369919e376f7c45662d43401952188a7",
+      "title": "Vụ drone xuất hiện gần sân bay Tân Sơn Nhất: 19 chuyến phải bay chờ hoặc hạ cánh",
+      "link": "https://tuoitre.vn/vu-drone-xuat-hien-gan-san-bay-tan-son-nhat-19-chuyen-phai-bay-cho-hoac-ha-canh-100260811220341003.htm",
+      "summary": "Ít nhất 19 chuyến bay bị ảnh hưởng, một số chuyến phải bay chờ hoặc chuyển hướng hạ cánh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T23:54:29.038315+07:00",
+      "fetched": "2026-08-11T23:54:29.038356+07:00"
+    },
+    {
+      "id": "9d4a52c0fd2ef995549951a77edfb5a2",
+      "title": "Thường trực Ban Bí thư Trần Cẩm Tú sẽ dự lễ truy điệu Chủ tịch Quốc hội Lào tại Vientiane",
+      "link": "https://tuoitre.vn/thuong-truc-ban-bi-thu-tran-cam-tu-se-du-le-truy-dieu-chu-tich-quoc-hoi-lao-tai-vientiane-100260811220706464.htm",
+      "summary": "Thường trực Ban Bí thư Trần Cẩm Tú sẽ dự lễ truy điệu Chủ tịch Quốc hội Lào tại thủ đô Vientiane.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T23:54:29.038257+07:00",
+      "fetched": "2026-08-11T23:54:29.038306+07:00"
+    },
+    {
+      "id": "1d95da645bf28d1c9aa00b82a4632f18",
+      "title": "Lê Quang Liêm dừng bước đáng tiếc tại giải cờ vua triệu USD",
+      "link": "https://tuoitre.vn/le-quang-liem-dung-buoc-dang-tiec-tai-giai-co-vua-trieu-usd-100260811220842726.htm",
+      "summary": "Tối 11-7, Đại kiện tướng Lê Quang Liêm đã chính thức kết thúc hành trình tại Esports World Cup (EWC) 2026 theo cách đầy tiếc nuối.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T23:54:29.038120+07:00",
+      "fetched": "2026-08-11T23:54:29.038247+07:00"
+    },
     {
       "id": "48a430a4a94f1814b67d1cfd136f8507",
       "title": "Có bệnh viện TP.HCM 'săn' tuyển hàng chục điều dưỡng",
@@ -453,6 +603,86 @@ window.newsData_2026_08_11 = {
       "fetched": "2026-08-11T17:47:13.453685+07:00"
     },
     {
+      "id": "9176783404682c215c4244ee383f9a94",
+      "title": "Khánh thành Nhà Việt Nam đầu tiên tại Australia",
+      "link": "https://vnexpress.net/khanh-thanh-nha-viet-nam-dau-tien-tai-australia-5108048.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm dự lễ khánh thành Nhà Việt Nam tại Australia, không gian phục vụ các hoạt động ngoại giao, văn hóa và cộng đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T16:28:21+07:00",
+      "fetched": "2026-08-11T23:54:25.169477+07:00"
+    },
+    {
+      "id": "9176783404682c215c4244ee383f9a94",
+      "title": "Khánh thành Nhà Việt Nam đầu tiên tại Australia",
+      "link": "https://vnexpress.net/khanh-thanh-nha-viet-nam-dau-tien-tai-australia-5108048.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm dự lễ khánh thành Nhà Việt Nam tại Australia, không gian phục vụ các hoạt động ngoại giao, văn hóa và cộng đồng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-11T16:28:21+07:00",
+      "fetched": "2026-08-11T23:54:30.851851+07:00"
+    },
+    {
+      "id": "d565b186d66daaf9a136dad21b0de96a",
+      "title": "Cựu HLV trưởng đội tuyển Việt Nam qua đời, bóng đá Việt Nam bàng hoàng",
+      "link": "https://thanhnien.vn/cuu-hlv-truong-doi-tuyen-viet-nam-qua-doi-bong-da-viet-nam-bang-hoang-185260811231634579.htm",
+      "summary": "HLV Phan Thanh Hùng, nguyên HLV trưởng đội tuyển Việt Nam, đã qua đời tại quê nhà Đà Nẵng sau thời gian dài lâm bệnh. Đáng tiếc, chỉ 2 ngày trước khi từ trần, ông vừa được VFF trao Kỷ niệm chương ghi nhận những đóng góp cho bóng đá Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T16:22:00+07:00",
+      "fetched": "2026-08-11T23:54:27.594896+07:00"
+    },
+    {
+      "id": "afe27e5b40bf744f0542682a37c6cf93",
+      "title": "Những ký ức đậm sâu về HLV Phan Thanh Hùng, tác giả bàn thắng tại vòng loại World Cup",
+      "link": "https://thanhnien.vn/nhung-ky-uc-dam-sau-ve-hlv-phan-thanh-hung-tac-gia-ban-thang-tai-vong-loai-world-cup-185260811225919126.htm",
+      "summary": "Tin HLV Phan Thanh Hùng từ trần ở tuổi 66 thực sự là cú sốc lớn với làng bóng và người hâm mộ bóng đá Việt Nam. Dẫu biết ông đã bị căn bệnh quái ác thời gian gần đây khiến sức khỏe suy yếu, nhưng không thể không xúc động trước sự ra đi quá nhanh của một tượng đài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T16:12:00+07:00",
+      "fetched": "2026-08-11T23:54:27.595014+07:00"
+    },
+    {
+      "id": "07ee68940ab4390fe87586f9cfcbea20",
+      "title": "Đội tuyển Việt Nam trước ngày sang Malaysia: Tăng tốc chiến thuật, thể trạng toàn đội ổn định",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-truoc-ngay-sang-malaysia-tang-toc-chien-thuat-the-trang-toan-doi-on-dinh-185260811205736313.htm",
+      "summary": "Đội tuyển Việt Nam đang hoàn tất những khâu chuẩn bị cuối cùng trước khi sang Malaysia đá bán kết ASEAN Cup 2026, với lực lượng đầy đủ và sự tập trung cao nhất cho vòng đấu loại trực tiếp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T16:12:00+07:00",
+      "fetched": "2026-08-11T23:54:27.595120+07:00"
+    },
+    {
+      "id": "e6add1c4d0faa1337a7543f51d805170",
+      "title": "Việt Nam chia sẻ với Australia cách thúc đẩy người dân tiếp nhận AI",
+      "link": "https://vnexpress.net/viet-nam-chia-se-voi-australia-cach-thuc-day-nguoi-dan-tiep-nhan-ai-5108057.html",
+      "summary": "Bộ trưởng Vũ Hải Quân cho biết Việt Nam đã quyết liệt chuyển đổi số, tạo nền tảng để từng bước đưa AI vào hoạt động cho người dân, doanh nghiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T15:56:23+07:00",
+      "fetched": "2026-08-11T23:54:25.169601+07:00"
+    },
+    {
+      "id": "e6add1c4d0faa1337a7543f51d805170",
+      "title": "Việt Nam chia sẻ với Australia cách thúc đẩy người dân tiếp nhận AI",
+      "link": "https://vnexpress.net/viet-nam-chia-se-voi-australia-cach-thuc-day-nguoi-dan-tiep-nhan-ai-5108057.html",
+      "summary": "Bộ trưởng Vũ Hải Quân cho biết Việt Nam đã quyết liệt chuyển đổi số, tạo nền tảng để từng bước đưa AI vào hoạt động cho người dân, doanh nghiệp.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-11T15:56:23+07:00",
+      "fetched": "2026-08-11T23:54:34.315886+07:00"
+    },
+    {
+      "id": "b2c23fdbc0ca3633ea37557448515f7b",
+      "title": "Ba lý do khiến Đại học Thương mại giảm 2-4 điểm chuẩn",
+      "link": "https://vnexpress.net/vi-sao-diem-chuan-dai-hoc-thuong-mai-nam-2026-giam-2-4-diem-5107413.html",
+      "summary": "Điểm chuẩn Đại học Thương mại giảm mạnh do siết quy đổi chứng chỉ ngoại ngữ, giới hạn nguyện vọng và đổi cách quy đổi giữa các phương thức xét tuyển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T15:54:01+07:00",
+      "fetched": "2026-08-11T23:54:25.169726+07:00"
+    },
+    {
       "id": "6a678bdf05b340c8931dc4542b5a729a",
       "title": "Người dân miền Tây ngồi ở nhà vẫn được lấy mẫu xét nghiệm",
       "link": "https://tuoitre.vn/nguoi-dan-mien-tay-ngoi-o-nha-van-duoc-lay-mau-xet-nghiem-100260811114010786.htm",
@@ -603,6 +833,96 @@ window.newsData_2026_08_11 = {
       "fetched": "2026-08-11T15:50:20.776078+07:00"
     },
     {
+      "id": "4bd6c27e3d0ad8d0c7efdc558ca0f0d2",
+      "title": "Thái Lan ngừng cấp phép mua súng sau vụ nam sinh sát hại 8 người",
+      "link": "https://vnexpress.net/thai-lan-ngung-cap-phep-mua-sung-sau-vu-nam-sinh-sat-hai-8-nguoi-5108005.html",
+      "summary": "Thủ tướng Thái Lan ra lệnh ngừng cấp phép mua súng sau vụ nam sinh bắn chết ông bà rồi tới trường sát hại nhiều người ở nước này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T15:50:20+07:00",
+      "fetched": "2026-08-11T23:54:25.169833+07:00"
+    },
+    {
+      "id": "4bd6c27e3d0ad8d0c7efdc558ca0f0d2",
+      "title": "Thái Lan ngừng cấp phép mua súng sau vụ nam sinh sát hại 8 người",
+      "link": "https://vnexpress.net/thai-lan-ngung-cap-phep-mua-sung-sau-vu-nam-sinh-sat-hai-8-nguoi-5108005.html",
+      "summary": "Thủ tướng Thái Lan ra lệnh ngừng cấp phép mua súng sau vụ nam sinh bắn chết ông bà rồi tới trường sát hại nhiều người ở nước này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-11T15:50:20+07:00",
+      "fetched": "2026-08-11T23:54:30.851973+07:00"
+    },
+    {
+      "id": "85c914b763c54052ff4b940d04914ca8",
+      "title": "10 triệu lao động được đào tạo kỹ năng AI đến 2030",
+      "link": "https://vnexpress.net/10-trieu-lao-dong-duoc-dao-tao-ky-nang-ai-den-2030-5108050.html",
+      "summary": "Ít nhất 10 triệu lao động sẽ được đào tạo, bồi dưỡng hoặc cập nhật kỹ năng sử dụng trí tuệ nhân tạo cơ bản trong 4 năm tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T15:45:38+07:00",
+      "fetched": "2026-08-11T23:54:25.169935+07:00"
+    },
+    {
+      "id": "5d992510acda9e6baf216e2ab9f8089d",
+      "title": "Lướt smartphone liên tục tàn phá cơ thể người dùng ra sao?",
+      "link": "https://thanhnien.vn/luot-smartphone-lien-tuc-tan-pha-co-the-nguoi-dung-ra-sao-185260811091625985.htm",
+      "summary": "Cơ thể bạn đang bị biến đổi nguy hiểm thế nào khi sử dụng smartphone nhiều giờ mỗi ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T15:31:00+07:00",
+      "fetched": "2026-08-11T23:54:27.595218+07:00"
+    },
+    {
+      "id": "3866bfe1021f92633d5545062f6489cd",
+      "title": "Microsoft tăng phí bản quyền Windows 11, giá PC lại tiếp tục tăng",
+      "link": "https://thanhnien.vn/microsoft-tang-phi-ban-quyen-windows-11-gia-pc-lai-tiep-tuc-tang-18526081122051697.htm",
+      "summary": "Microsoft tăng phí bản quyền Windows 11, khiến các hãng PC chịu thêm chi phí và người dùng có nguy cơ phải trả nhiều hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T15:26:00+07:00",
+      "fetched": "2026-08-11T23:54:27.595313+07:00"
+    },
+    {
+      "id": "da0c1abd0e5b409639a566566d594a0b",
+      "title": "CLB CAHN nhận hơn 22 tỉ đồng sau kỳ tích châu Á, HLV Polking phát biểu quá hay",
+      "link": "https://thanhnien.vn/clb-cahn-nhan-hon-22-ti-dong-sau-ky-tich-chau-a-hlv-polking-phat-bieu-qua-hay-185260811221216329.htm",
+      "summary": "CLB Công an Hà Nội (CAHN) không chỉ làm nên lịch sử cho bóng đá Việt Nam khi giành quyền góp mặt tại vòng league AFC Champions League Elite 2026 - 2027, mà còn chắc chắn nhận khoản tiền hơn 22 tỉ đồng từ Liên đoàn Bóng đá châu Á (AFC).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T15:19:00+07:00",
+      "fetched": "2026-08-11T23:54:27.595419+07:00"
+    },
+    {
+      "id": "1802705054222febd89c5884559f378f",
+      "title": "Cựu HLV trưởng đội tuyển Việt Nam Phan Thanh Hùng qua đời",
+      "link": "https://thanhnien.vn/cuu-hlv-truong-doi-tuyen-viet-nam-phan-thanh-hung-qua-doi-185260811215728583.htm",
+      "summary": "HLV Phan Thanh Hùng đã trút hơi thở cuối cùng vào tối 11.8, sau thời gian dài chống chọi với bệnh ung thư gan, hưởng thọ 66 tuổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T15:01:00+07:00",
+      "fetched": "2026-08-11T23:54:27.595518+07:00"
+    },
+    {
+      "id": "7b1938a4182412215c9c77a5cb01c78e",
+      "title": "Cựu HLV đội tuyển Việt Nam Phan Thanh Hùng qua đời",
+      "link": "https://vnexpress.net/cuu-hlv-doi-tuyen-viet-nam-phan-thanh-hung-qua-doi-5108055.html",
+      "summary": "Cựu HLV Phan Thanh Hùng qua đời ở tuổi 66 sau một thời gian chống chọi với bệnh tật, tối 11/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T14:51:20+07:00",
+      "fetched": "2026-08-11T23:54:25.170037+07:00"
+    },
+    {
+      "id": "7b1938a4182412215c9c77a5cb01c78e",
+      "title": "Cựu HLV đội tuyển Việt Nam Phan Thanh Hùng qua đời",
+      "link": "https://vnexpress.net/cuu-hlv-doi-tuyen-viet-nam-phan-thanh-hung-qua-doi-5108055.html",
+      "summary": "Cựu HLV Phan Thanh Hùng qua đời ở tuổi 66 sau một thời gian chống chọi với bệnh tật, tối 11/8.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-11T14:51:20+07:00",
+      "fetched": "2026-08-11T23:54:35.976975+07:00"
+    },
+    {
       "id": "7ffd0a16c6d1d13423bf14dbbdf8e01e",
       "title": "Ăn nghệ thường xuyên tốt cho sức khỏe thế nào?",
       "link": "https://thanhnien.vn/an-nghe-thuong-xuyen-tot-cho-suc-khoe-the-nao-185260811214100282.htm",
@@ -633,6 +953,16 @@ window.newsData_2026_08_11 = {
       "fetched": "2026-08-11T21:54:12.945937+07:00"
     },
     {
+      "id": "661309ddbc78d7a8398ffde114e92e16",
+      "title": "Thủy Tiên ôn kỷ niệm mặc váy cưới",
+      "link": "https://vnexpress.net/thuy-tien-on-ky-niem-mac-vay-cuoi-5107863.html",
+      "summary": "Ca sĩ Thủy Tiên nói nhớ cảm giác hồi hộp khi mặc váy do NTK Đỗ Long thực hiện để chụp ảnh cưới với cầu thủ Công Vinh năm 2014.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T14:37:04+07:00",
+      "fetched": "2026-08-11T23:54:25.170140+07:00"
+    },
+    {
       "id": "728b11c0a9f408823ce8921f868ac813",
       "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm gặp gỡ cộng đồng người Việt Nam tại Úc",
       "link": "https://thanhnien.vn/tong-bi-thu-chu-tich-nuoc-to-lam-gap-go-cong-dong-nguoi-viet-nam-tai-uc-185260811205520407.htm",
@@ -641,6 +971,46 @@ window.newsData_2026_08_11 = {
       "category": "Tổng hợp",
       "published": "2026-08-11T14:28:00+07:00",
       "fetched": "2026-08-11T21:54:12.946035+07:00"
+    },
+    {
+      "id": "673c2ecc247607bf32f461009535b2aa",
+      "title": "Cô gái ấm áp, sống tình cảm tìm người thương",
+      "link": "https://vnexpress.net/co-gai-am-ap-song-tinh-cam-tim-nguoi-thuong-5106260.html",
+      "summary": "Em thuộc thế hệ 8x, sống và làm việc tại TP HCM, làm trong lĩnh vực báo chí truyền thông, đã có hơn 15 năm gắn bó với nghề.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T14:23:50+07:00",
+      "fetched": "2026-08-11T23:54:25.170244+07:00"
+    },
+    {
+      "id": "2b7f380209765ac776abcb61c203515a",
+      "title": "Mong một cuộc hẹn cùng em ở Perth",
+      "link": "https://vnexpress.net/mong-mot-cuoc-hen-cung-em-o-perth-5107752.html",
+      "summary": "Chúng ta có thể bắt đầu bằng một ly cà phê, một buổi đi dạo hay cùng khám phá những góc nhỏ của thành phố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T14:23:18+07:00",
+      "fetched": "2026-08-11T23:54:25.170341+07:00"
+    },
+    {
+      "id": "fd1a7466f034c546eba6570a72200136",
+      "title": "Cân đối được sổ sách nhưng còn thiếu người cân bằng cuộc sống",
+      "link": "https://vnexpress.net/can-doi-duoc-so-sach-nhung-con-thieu-nguoi-can-bang-cuoc-song-5106253.html",
+      "summary": "Mình 34 tuổi, là kế toán tại công ty Nhật ở Đà Nẵng, thích biển, cà phê, những chuyến đi ngắn ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T14:21:54+07:00",
+      "fetched": "2026-08-11T23:54:25.170439+07:00"
+    },
+    {
+      "id": "60bf086f257effd5082d317f9dcc83bb",
+      "title": "Chồng sắp cưới luôn tử tế với thiên hạ nhưng lại hà khắc với vợ",
+      "link": "https://vnexpress.net/chong-sap-cuoi-luon-tu-te-voi-thien-ha-nhung-lai-ha-khac-voi-vo-5107971.html",
+      "summary": "Tôi nghĩ giờ còn yêu, sau này bao nhiêu chuyện tiền bạc, con cái rồi cứ như thế này làm sao sống với nhau được.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T14:20:21+07:00",
+      "fetched": "2026-08-11T23:54:25.170535+07:00"
     },
     {
       "id": "b597ef88ab32c691244c8d8dcd1cffd1",
@@ -871,6 +1241,16 @@ window.newsData_2026_08_11 = {
       "category": "Tổng hợp",
       "published": "2026-08-11T13:38:29+07:00",
       "fetched": "2026-08-11T21:54:10.369516+07:00"
+    },
+    {
+      "id": "19fed07b89359d6322fcd981d38f4f05",
+      "title": "Tân Sơn Nhất ngưng cất, hạ cánh hơn 2 giờ vì UAV xâm nhập",
+      "link": "https://vnexpress.net/tan-son-nhat-ngung-cat-ha-canh-hon-2-gio-vi-uav-xam-nhap-5108032.html",
+      "summary": "Hàng loạt chuyến bay đến, đi Tân Sơn Nhất phải thay đổi lịch trình sau khi phát hiện hai đợt UAV xâm nhập vùng trời, sân bay ngừng cất, hạ cánh hơn hai giờ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-11T13:38:29+07:00",
+      "fetched": "2026-08-11T23:54:25.170739+07:00"
     },
     {
       "id": "284b7ef369850442f8fd2518db6faf75",
