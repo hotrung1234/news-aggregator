@@ -1,6 +1,6 @@
 window.newsData_2026_08_13 = {
   "date": "2026-08-13",
-  "lastUpdated": "2026-08-13T03:39:13.207997+07:00",
+  "lastUpdated": "2026-08-13T05:36:23.487940+07:00",
   "articles": [
     {
       "id": "dac85751a83c004789b2900335f86b45",
@@ -173,6 +173,226 @@ window.newsData_2026_08_13 = {
       "fetched": "2026-08-13T01:57:18.585556+07:00"
     },
     {
+      "id": "3fa24d06c99e35645e580f050104aa81",
+      "title": "Kyiv chuyển đề xuất chấm dứt xung đột cho Washington",
+      "link": "https://thanhnien.vn/kyiv-chuyen-de-xuat-cham-dut-xung-dot-cho-washington-185260812214604352.htm",
+      "summary": "Tổng thống Ukraine Volodymyr Zelensky ngày 11.8 thông báo nước này đã chuyển cho phía Mỹ các đề xuất về kế hoạch chấm dứt xung đột với Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T22:35:00+07:00",
+      "fetched": "2026-08-13T05:36:16.194597+07:00"
+    },
+    {
+      "id": "b751ba15226825b4421a1b65f363790b",
+      "title": "Uống thuốc nam không rõ nguồn gốc: Dấu hiệu cảnh báo nào cần đi khám ngay?",
+      "link": "https://thanhnien.vn/uong-thuoc-nam-khong-ro-nguon-goc-dau-hieu-canh-bao-nao-can-di-kham-ngay-185260812183646402.htm",
+      "summary": "Các loại thuốc nam trôi nổi đang tiềm ẩn nhiều nguy cơ gây hại sức khỏe. Từ đó, các chuyên gia hướng dẫn cách nhận biết dấu hiệu nguy hiểm và hướng xử trí đúng khi đã lỡ dùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T22:32:00+07:00",
+      "fetched": "2026-08-13T05:36:16.194769+07:00"
+    },
+    {
+      "id": "b4e83d9427307bf9082f73a47cecd887",
+      "title": "Vợ chồng ở TP.HCM trúng độc đắc 6 tỉ xổ số miền Nam, đưa con giữ tiền",
+      "link": "https://thanhnien.vn/vo-chong-o-tphcm-trung-doc-dac-6-ti-xo-so-mien-nam-dua-con-giu-tien-185260812115336173.htm",
+      "summary": "Trúng độc đắc 6 tỉ xổ số miền Nam, người phụ nữ ở TP.HCM được đại lý tới nhà đổi thưởng. Bà và chồng nhận tiền rồi đưa con giữ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T22:30:00+07:00",
+      "fetched": "2026-08-13T05:36:16.194929+07:00"
+    },
+    {
+      "id": "447feb49f0b839d01f8d7a7e87c10ccc",
+      "title": "Tử vi ngày 13 tháng 8: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-13-thang-8-con-giap-nao-may-man-hom-nay-18526081221411532.htm",
+      "summary": "Tử vi ngày 13 tháng 8, tức mùng 1 tháng 7 âm lịch, mang đến những gợi ý tham khảo cho 12 con giáp. Hãy bắt đầu tháng mới bằng một việc tử tế, dù rất nhỏ. Một lời hỏi thăm, sự nhường nhịn hay giúp ai đó đúng lúc cũng có thể khiến ngày đầu tháng trở nên dễ chịu hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T22:15:00+07:00",
+      "fetched": "2026-08-13T05:36:16.195088+07:00"
+    },
+    {
+      "id": "c19851622597c32ef6fd58e53d453140",
+      "title": "Thiên tai tiếp diễn nghiêm trọng sau khi gây thiệt hại 100 tỉ USD",
+      "link": "https://thanhnien.vn/thien-tai-tiep-dien-nghiem-trong-sau-khi-gay-thiet-hai-100-ti-usd-185260812215529976.htm",
+      "summary": "Số người chết do động đất tại Colombia tăng vọt và bão Dolphin tiếp tục gây ảnh hưởng ở Trung Quốc, trong khi Swiss Re ước tính thiệt hại kinh tế do thiên tai toàn cầu trong nửa đầu năm lên tới 100 tỉ USD.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T22:14:00+07:00",
+      "fetched": "2026-08-13T05:36:16.195271+07:00"
+    },
+    {
+      "id": "e5e56ee7d4c2283696a08f576b92c8ca",
+      "title": "TP.HCM miễn phí vé, hành khách đi xe buýt vẫn 'sốt ruột': Lý do là đây...",
+      "link": "https://thanhnien.vn/tphcm-mien-phi-ve-hanh-khach-di-xe-buyt-van-sot-ruot-ly-do-la-day-185260812132648907.htm",
+      "summary": "TP.HCM nghiên cứu mở làn ưu tiên trên một số tuyến để xe buýt chạy đúng giờ, trong bối cảnh lượng khách tăng sau khi thành phố triển khai chính sách miễn vé. Đây được kỳ vọng là bước cải thiện trải nghiệm, giúp người dân yên tâm hơn khi lựa chọn xe buýt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T22:03:00+07:00",
+      "fetched": "2026-08-13T05:36:16.195427+07:00"
+    },
+    {
+      "id": "dd38a78cdaae011ad1b75b1974abb232",
+      "title": "Người tiêu dùng chùn tay 'chốt đơn' online",
+      "link": "https://vnexpress.net/nguoi-tieu-dung-chun-tay-chot-don-online-5108290.html",
+      "summary": "Tăng trưởng thương mại điện tử có dấu hiệu chậm lại khi người tiêu dùng nhạy cảm hơn với giá cả, không còn dễ \"chốt đơn\" như trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T22:00:00+07:00",
+      "fetched": "2026-08-13T05:36:13.819837+07:00"
+    },
+    {
+      "id": "833225ec630aa0d8ed887edf85d8b560",
+      "title": "Mối lo bị ám sát đeo bám ông Trump",
+      "link": "https://vnexpress.net/moi-lo-bi-am-sat-deo-bam-ong-trump-5108125.html",
+      "summary": "Từng thoát chết dưới họng súng của kẻ bắn tỉa, ông Trump luôn lo ngại về nguy cơ bị Iran ám sát, thậm chí bí mật đổi chuyên cơ khi rời hội nghị NATO ở Thổ Nhĩ Kỳ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T22:00:00+07:00",
+      "fetched": "2026-08-13T05:36:13.820021+07:00"
+    },
+    {
+      "id": "5974777483f91211b5b6e6d89f73e483",
+      "title": "'Rác AI' nơi công sở",
+      "link": "https://vnexpress.net/rac-ai-noi-cong-so-5107718.html",
+      "summary": "AI tạo ra sản phẩm trông có vẻ hoàn thiện nhưng chất lượng thấp nếu doanh nghiệp không có các quy trình kiểm soát hoặc hướng dẫn phù hợp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T22:00:00+07:00",
+      "fetched": "2026-08-13T05:36:13.820227+07:00"
+    },
+    {
+      "id": "cf2fdf767fbfa1a8bd5ef34f98791e8a",
+      "title": "Cô gái 'hóa thiên nga' sau gần ba tháng ăn cơm anh trai nấu",
+      "link": "https://vnexpress.net/co-gai-hoa-thien-nga-sau-gan-ba-thang-an-com-anh-trai-nau-5107360.html",
+      "summary": "Từng tự ti vì nặng 72 kg, Thái Gia Tiệp, 19 tuổi 'lột xác' nhờ bữa ăn lành mạnh kết hợp tập gym, dưới sự hỗ trợ của anh trai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T22:00:00+07:00",
+      "fetched": "2026-08-13T05:36:13.820396+07:00"
+    },
+    {
+      "id": "81e94451df2dfce9a29bc19b8e0da498",
+      "title": "Em bé 6 tuổi vượt qua ung thư giai đoạn cuối",
+      "link": "https://vnexpress.net/em-be-6-tuoi-vuot-qua-ung-thu-giai-doan-cuoi-5107170.html",
+      "summary": "Nguyễn Duy Khôi, 6 tuổi, ung thư nguyên bào thần kinh giai đoạn 4 di căn, từng tưởng hết hy vọng nhưng nay hồi phục nhờ ghép tế bào gốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T22:00:00+07:00",
+      "fetched": "2026-08-13T05:36:13.820564+07:00"
+    },
+    {
+      "id": "ffbee1b03deeb75869382537d96f9ec8",
+      "title": "Vượt ung thư máu 4 lần, chàng trai 21 tuổi 'gục ngã' trước u não ác tính",
+      "link": "https://vnexpress.net/vuot-ung-thu-mau-4-lan-chang-trai-21-tuoi-guc-nga-truoc-u-nao-ac-tinh-5105286.html",
+      "summary": "Sau 4 lần chiến thắng ung thư máu, Conor Harding ở Anh nhận tin mắc u não ác tính vô phương cứu chữa nhưng vẫn quyết tâm sống kiên cường vì gia đình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T22:00:00+07:00",
+      "fetched": "2026-08-13T05:36:13.820726+07:00"
+    },
+    {
+      "id": "b5c0b9c0b553991b7469288219996d34",
+      "title": "Xe bán chạy nhất của MG Việt Nam sắp có bản mới",
+      "link": "https://vnexpress.net/xe-ban-chay-nhat-cua-mg-viet-nam-sap-co-ban-moi-5108252.html",
+      "summary": "MG ZS thế hệ thứ hai với động cơ hybrid 1.5 dự kiến bán cuối 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T22:00:00+07:00",
+      "fetched": "2026-08-13T05:36:13.820882+07:00"
+    },
+    {
+      "id": "67850b37a2c96a6dd3bd25504971ba0b",
+      "title": "Thêm diễn biến căng thẳng tại Trung Đông",
+      "link": "https://thanhnien.vn/them-dien-bien-cang-thang-tai-trung-dong-185260812214247414.htm",
+      "summary": "Chính quyền Yemen đã cáo buộc lực lượng Houthi - một phe cánh quân sự ở nước này và thân Iran - đã phóng 3 tên lửa đạn đạo để tấn công một tàu chở hàng mang tên Tihamah tại eo biển Bab el-Mandeb ở biển Đỏ ngày 11.8, làm 6 người thiệt mạng. Một số nguồn cho rằng con tàu của Ả Rập Xê Út, trong khi cũn...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T22:00:00+07:00",
+      "fetched": "2026-08-13T05:36:16.195580+07:00"
+    },
+    {
+      "id": "0f56e8f6453dcac4ce07d012d0386286",
+      "title": "Lịch âm hôm nay là mùng 1 tháng 7: Lễ Vu lan rơi vào ngày nào?",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-la-mung-1-thang-7-le-vu-lan-roi-vao-ngay-nao-185260811142929499.htm",
+      "summary": "Theo lịch âm hôm nay 13.8 là mùng 1 tháng 7 (tháng Bính Thân). Tháng này xuất hiện nhiều ngày đặc biệt quan trọng trong văn hóa người Việt, cần lưu ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T22:00:00+07:00",
+      "fetched": "2026-08-13T05:36:16.195732+07:00"
+    },
+    {
+      "id": "833225ec630aa0d8ed887edf85d8b560",
+      "title": "Mối lo bị ám sát đeo bám ông Trump",
+      "link": "https://vnexpress.net/moi-lo-bi-am-sat-deo-bam-ong-trump-5108125.html",
+      "summary": "Từng thoát chết dưới họng súng của kẻ bắn tỉa, ông Trump luôn lo ngại về nguy cơ bị Iran ám sát, thậm chí bí mật đổi chuyên cơ khi rời hội nghị NATO ở Thổ Nhĩ Kỳ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-12T22:00:00+07:00",
+      "fetched": "2026-08-13T05:36:18.727218+07:00"
+    },
+    {
+      "id": "dd38a78cdaae011ad1b75b1974abb232",
+      "title": "Người tiêu dùng chùn tay 'chốt đơn' online",
+      "link": "https://vnexpress.net/nguoi-tieu-dung-chun-tay-chot-don-online-5108290.html",
+      "summary": "Tăng trưởng thương mại điện tử có dấu hiệu chậm lại khi người tiêu dùng nhạy cảm hơn với giá cả, không còn dễ \"chốt đơn\" như trước.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-12T22:00:00+07:00",
+      "fetched": "2026-08-13T05:36:19.943314+07:00"
+    },
+    {
+      "id": "09b69f5180ac34bc4e53d93e3d5ab3cc",
+      "title": "PSG đoạt Siêu Cup châu Âu 2026",
+      "link": "https://vnexpress.net/psg-doat-sieu-cup-chau-au-2026-5108506.html",
+      "summary": "PSG đánh bại Aston Villa 2-1 ở Salzburg để bảo vệ Siêu Cup châu Âu, trở thành đội thứ tư giành hai danh hiệu liên tiếp tại giải này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T21:47:52+07:00",
+      "fetched": "2026-08-13T05:36:13.821037+07:00"
+    },
+    {
+      "id": "09b69f5180ac34bc4e53d93e3d5ab3cc",
+      "title": "PSG đoạt Siêu cup châu Âu 2026",
+      "link": "https://vnexpress.net/psg-doat-sieu-cup-chau-au-2026-5108506.html",
+      "summary": "PSG đánh bại Aston Villa 2-1 ở Salzburg để bảo vệ Siêu cup châu Âu, trở thành đội thứ tư giành hai danh hiệu liên tiếp tại giải này.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-12T21:47:52+07:00",
+      "fetched": "2026-08-13T05:36:23.482693+07:00"
+    },
+    {
+      "id": "8ac8a3aab962012960dac523f642e0b0",
+      "title": "Desire Doue ghi bàn thắng gây tranh cãi, PSG hạ Aston Villa: Bảo vệ thành công Siêu cúp châu Âu",
+      "link": "https://thanhnien.vn/desire-doue-ghi-ban-thang-gay-tranh-cai-psg-ha-aston-villa-bao-ve-thanh-cong-sieu-cup-chau-au-185260813035732629.htm",
+      "summary": "Dù gặp đôi chút khó khăn nhưng PSG vẫn có thể vượt khó, đánh bại Aston Villa 2-1 ở trận tranh Siêu cúp châu Âu 2026, diễn ra vào rạng sáng 13.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T21:01:00+07:00",
+      "fetched": "2026-08-13T05:36:16.195892+07:00"
+    },
+    {
+      "id": "bb9986af8b4a21f9d7e9787f33f62ea4",
+      "title": "10 ôtô khách Việt mua ít nhất tháng 7",
+      "link": "https://vnexpress.net/oto-xe-may/v-car/doanh-so/10-oto-khach-viet-mua-it-nhat-thang-7-5107719.html",
+      "summary": "Ford Mustang Much-E, Isuzu mu-X hay Toyota Alphard là những cái tên lượng bán khiêm tốn nhất danh sách ôtô bàn giao ít tới tay khách Việt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T21:00:00+07:00",
+      "fetched": "2026-08-13T05:36:13.821227+07:00"
+    },
+    {
+      "id": "d05014ef276573178f7da5a81372c531",
+      "title": "Trọng tài người Somalia từng bị Mỹ từ chối nhập cảnh ở World Cup đi vào lịch sử",
+      "link": "https://thanhnien.vn/trong-tai-nguoi-somalia-tung-bi-my-tu-choi-nhap-canh-o-world-cup-di-vao-lich-su-185260813031742358.htm",
+      "summary": "Chỉ hơn 2 tháng sau khi bị từ chối nhập cảnh vào Mỹ và lỡ cơ hội điều khiển các trận đấu tại World Cup 2026, trọng tài người Somalia Omar Artan đã xuất hiện trên sân khấu bóng đá châu Âu theo cách đặc biệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T20:57:00+07:00",
+      "fetched": "2026-08-13T05:36:16.196050+07:00"
+    },
+    {
       "id": "00a6d96dd032cf6588d9a351060f38cd",
       "title": "'Nhà đầu tư sẽ sợ hải nếu lãi suất tiết kiệm vượt 10%'",
       "link": "https://vnexpress.net/nha-dau-tu-se-so-hai-neu-lai-suat-tiet-kiem-vuot-10-5108173.html",
@@ -181,6 +401,16 @@ window.newsData_2026_08_13 = {
       "category": "Kinh doanh",
       "published": "2026-08-12T20:00:00+07:00",
       "fetched": "2026-08-13T03:39:09.395970+07:00"
+    },
+    {
+      "id": "cf3044880064a6172a44a9b5cd9ebf2b",
+      "title": "Cha mẹ nóng giận, trẻ dễ học theo cách phản ứng tiêu cực",
+      "link": "https://vnexpress.net/cha-me-nong-gian-tre-de-hoc-theo-cach-phan-ung-tieu-cuc-5106841.html",
+      "summary": "Cha mẹ thường xuyên nóng giận, la mắng hoặc phản ứng gay gắt trước hành vi của con không chỉ khiến trẻ sợ hãi, tổn thương mà còn dễ học theo cách phản ứng tiêu cực đó khi đối diện với cảm xúc của mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T20:00:00+07:00",
+      "fetched": "2026-08-13T05:36:13.821566+07:00"
     },
     {
       "id": "cc93dbfa3b0479040eb5f45ca06d87ff",
