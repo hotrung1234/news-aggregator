@@ -1,7 +1,157 @@
 window.newsData_2026_08_12 = {
   "date": "2026-08-12",
-  "lastUpdated": "2026-08-12T17:57:36.452453+07:00",
+  "lastUpdated": "2026-08-12T20:00:56.197141+07:00",
   "articles": [
+    {
+      "id": "c693c9e7505eb39ce7657fd39b349d87",
+      "title": "Hoa hậu Việt Nam 2026: Hoa khôi giảng đường, người đẹp nói 6 ngoại ngữ hội tụ",
+      "link": "https://tuoitre.vn/hoa-hau-viet-nam-2026-hoa-khoi-giang-duong-nguoi-dep-noi-6-ngoai-ngu-hoi-tu-100260812172430018.htm",
+      "summary": "Vòng chung khảo cuộc thi Hoa hậu Việt Nam 2026 quy tụ nhiều gương mặt trẻ sở hữu thành tích học tập, ngoại ngữ và hoạt động cộng đồng nổi bật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T20:00:50.525704+07:00",
+      "fetched": "2026-08-12T20:00:50.525766+07:00"
+    },
+    {
+      "id": "3358aff222983bea7c074e2a9f0bba55",
+      "title": "Nuôi heo, nuôi gà trên nhà cao tầng: Đại biểu Quốc hội đề nghị đổi cách quản lý",
+      "link": "https://tuoitre.vn/nuoi-heo-nuoi-ga-tren-nha-cao-tang-dai-bieu-quoc-hoi-de-nghi-doi-cach-quan-ly-10026081214512523.htm",
+      "summary": "Mô hình chăn nuôi công nghệ cao có thể tạo năng lực sản xuất rất lớn trên diện tích đất nhỏ, khiến cách tính mật độ chăn nuôi hiện nay không còn phù hợp, theo đại biểu Quốc hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T20:00:50.525615+07:00",
+      "fetched": "2026-08-12T20:00:50.525692+07:00"
+    },
+    {
+      "id": "ce7d9de150ada927db7541faeed10506",
+      "title": "Giải báo chí ‘Vì sự nghiệp phát triển văn hóa Việt Nam’ lần đầu sẽ trao giải đặc biệt",
+      "link": "https://tuoitre.vn/giai-bao-chi-vi-su-nghiep-phat-trien-van-hoa-viet-nam-lan-dau-se-trao-giai-dac-biet-100260812173115017.htm",
+      "summary": "Một trong những điểm đổi mới của Giải Báo chí toàn quốc ‘Vì sự nghiệp phát triển văn hóa Việt Nam’ lần thứ tư là sẽ trao giải đặc biệt lần đầu tiên, trị giá 100 triệu đồng cùng một chuyến du lịch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T20:00:50.525547+07:00",
+      "fetched": "2026-08-12T20:00:50.525605+07:00"
+    },
+    {
+      "id": "11ec12fa0d8fbf4a69f0a3991e076de9",
+      "title": "Đạo diễn Chị đẹp mua cơm ngon cho tôi qua đời",
+      "link": "https://tuoitre.vn/dao-dien-chi-dep-mua-com-ngon-cho-toi-qua-doi-10026081217332009.htm",
+      "summary": "Đạo diễn Ahn Pan Seok, người đứng sau thành công của Bí mật tòa tháp trắng, Chị đẹp mua cơm ngon cho tôi... vừa qua đời ở tuổi 65 sau thời gian chống chọi với bệnh tật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T20:00:50.525475+07:00",
+      "fetched": "2026-08-12T20:00:50.525537+07:00"
+    },
+    {
+      "id": "a9a0e895824dc814cfb092e2b8aa9836",
+      "title": "Cựu Thủ tướng Trung Quốc Chu Dung Cơ qua đời ở tuổi 98",
+      "link": "https://tuoitre.vn/cuu-thu-tuong-trung-quoc-chu-dung-co-qua-doi-o-tuoi-98-100260812173511466.htm",
+      "summary": "Ngày 12-8, Tân Hoa xã đưa tin cựu Thủ tướng Trung Quốc Chu Dung Cơ qua đời tại Bắc Kinh, hưởng thọ 98 tuổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T20:00:50.525408+07:00",
+      "fetched": "2026-08-12T20:00:50.525465+07:00"
+    },
+    {
+      "id": "987373d95e6b0165c16e57c6bbe07ba6",
+      "title": "Tòa bác toàn bộ yêu cầu khởi kiện về thu hồi đất và bồi thường ở Phú Quốc",
+      "link": "https://tuoitre.vn/toa-bac-toan-bo-yeu-cau-khoi-kien-ve-thu-hoi-dat-va-boi-thuong-o-phu-quoc-100260812171908428.htm",
+      "summary": "Nhiều người dân đặc khu Phú Quốc (tỉnh An Giang) khiếu kiện quyết định hành chính trong lĩnh vực quản lý đất đai về thu hồi đất, bồi thường hỗ trợ tái định cư trên đảo Phú Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T20:00:50.525338+07:00",
+      "fetched": "2026-08-12T20:00:50.525397+07:00"
+    },
+    {
+      "id": "18c2e1b7ce264a9372b80e273903e6ba",
+      "title": "Cặp đôi yêu nhau từ ngoài đời đến phim Mùa hè năm ấy",
+      "link": "https://tuoitre.vn/cap-doi-yeu-nhau-tu-ngoai-doi-den-phim-mua-he-nam-ay-100260812173856921.htm",
+      "summary": "Mùa hè năm ấy đang nhận sự chú ý của khán giả. Ngoài mẹ con Vân Dung - Long Vũ, phim còn có sự góp mặt của Tô Dũng - Minh Thu, cặp đôi yêu nhau từ ngoài đời lên màn ảnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T20:00:50.525270+07:00",
+      "fetched": "2026-08-12T20:00:50.525327+07:00"
+    },
+    {
+      "id": "327650d4bc49008208ee494ede2c756a",
+      "title": "Nam Bộ mưa gia tăng từ chiều 13-8, nắng nóng thu hẹp ở Bắc Bộ từ 14-8",
+      "link": "https://tuoitre.vn/nam-bo-mua-gia-tang-tu-chieu-13-8-nang-nong-thu-hep-o-bac-bo-tu-14-8-100260812173542394.htm",
+      "summary": "Dự báo từ chiều 13-8, mưa dông ở Nam Bộ sẽ gia tăng. Còn nắng nóng ở Bắc Bộ sẽ thu hẹp từ 14-8 và chấm dứt sau một ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T20:00:50.525203+07:00",
+      "fetched": "2026-08-12T20:00:50.525260+07:00"
+    },
+    {
+      "id": "22941e5ef3f3a118402444eee7f8dc3c",
+      "title": "Iran nói Mỹ không còn tàu chiến nào tại vịnh Ba Tư",
+      "link": "https://tuoitre.vn/iran-noi-my-khong-con-tau-chien-nao-tai-vinh-ba-tu-100260812174130508.htm",
+      "summary": "IRGC tuyên bố Mỹ hiện không còn tàu chiến nào tại vịnh Ba Tư, đồng thời cho rằng hiện diện quân sự của Washington trong khu vực đã bị thay đổi đáng kể.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T20:00:50.525135+07:00",
+      "fetched": "2026-08-12T20:00:50.525193+07:00"
+    },
+    {
+      "id": "ba2609e0438e6e24f6364473afce2352",
+      "title": "Dùng giấy khen giả 'lập công phá án' để xin giảm án rồi bỏ trốn, bị đề nghị truy tố",
+      "link": "https://tuoitre.vn/dung-giay-khen-gia-lap-cong-pha-an-de-xin-giam-an-roi-bo-tron-bi-de-nghi-truy-to-100260812172459539.htm",
+      "summary": "Nguyễn Hoàng Quân bị cáo buộc dùng giấy khen giả để nhận thành tích phá án, xin giảm án trong vụ đánh bạc rồi bỏ trốn khi bị điều tra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T20:00:50.525066+07:00",
+      "fetched": "2026-08-12T20:00:50.525125+07:00"
+    },
+    {
+      "id": "c2796230d66e6472157bb6d7e3be1676",
+      "title": "Cá linh nuôi cận mùa nước nổi đạt giá trị thương phẩm cao",
+      "link": "https://tuoitre.vn/ca-linh-nuoi-can-mua-nuoc-noi-dat-gia-tri-thuong-pham-cao-100260812172528535.htm",
+      "summary": "Mô hình nuôi cá linh cận mùa nước nổi của các hộ nông dân phường Mỹ Trà, tỉnh Đồng Tháp đem lại giá trị kinh tế cao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T20:00:50.524996+07:00",
+      "fetched": "2026-08-12T20:00:50.525055+07:00"
+    },
+    {
+      "id": "8505fc7386b701f48f43fc9604ab7c58",
+      "title": "Học sinh TP.HCM tựu trường ngày 24-8, các lớp đầu cấp, cuối cấp ngày 17-8",
+      "link": "https://tuoitre.vn/hoc-sinh-tphcm-tuu-truong-ngay-24-8-cac-lop-dau-cap-cuoi-cap-ngay-17-8-100260812175154193.htm",
+      "summary": "UBND TP.HCM vừa ban hành kế hoạch năm học 2026-2027, trong đó học sinh đầu cấp, cuối cấp tựu trường từ 17-8, các khối khác từ 24-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T20:00:50.524926+07:00",
+      "fetched": "2026-08-12T20:00:50.524985+07:00"
+    },
+    {
+      "id": "7c7e2a311b85cad00760fcaecb17dbde",
+      "title": "Toàn bộ cán bộ Quảng Trị làm việc ở trung tâm chính trị, trừ ngoại lệ do đặc thù",
+      "link": "https://tuoitre.vn/toan-bo-can-bo-quang-tri-lam-viec-o-trung-tam-chinh-tri-tru-ngoai-le-do-dac-thu-100260812174040895.htm",
+      "summary": "UBND tỉnh Quảng Trị yêu cầu hầu hết cán bộ, công chức, viên chức làm việc tập trung tại trung tâm chính trị - hành chính tỉnh, chỉ một số trường hợp ngoại lệ do đặc thù nhiệm vụ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T20:00:50.524851+07:00",
+      "fetched": "2026-08-12T20:00:50.524914+07:00"
+    },
+    {
+      "id": "f88f96271837b8ccbc8becfc55972c13",
+      "title": "Những điểm đáng chú ý trong tuyên bố chung Việt - Úc",
+      "link": "https://tuoitre.vn/nhung-diem-dang-chu-y-trong-tuyen-bo-chung-viet-uc-100260812142105162.htm",
+      "summary": "3 tuyên bố chung nhân chuyến thăm cấp Nhà nước tới Úc của Tổng Bí thư, Chủ tịch nước Tô Lâm mở ra những định hướng tăng cường hợp tác cho Việt Nam và Úc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T20:00:50.524770+07:00",
+      "fetched": "2026-08-12T20:00:50.524839+07:00"
+    },
+    {
+      "id": "f4df869a75ef2a6137a72418a79bcca3",
+      "title": "Đại học Huế rà soát việc xét tuyển đại học bằng chứng chỉ IELTS",
+      "link": "https://tuoitre.vn/dai-hoc-hue-ra-soat-viec-xet-tuyen-dai-hoc-bang-chung-chi-ielts-100260812172240265.htm",
+      "summary": "Đại học Huế rà soát trường hợp thí sinh đăng ký xét tuyển bằng IELTS nhưng trúng tuyển theo phương thức khác, có nguy cơ ảnh hưởng nguyện vọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T20:00:50.524603+07:00",
+      "fetched": "2026-08-12T20:00:50.524755+07:00"
+    },
     {
       "id": "db66c5ce094c9753462da7ad4b5e0ce8",
       "title": "Tuổi Trẻ Startup Award: Đổi mới sáng tạo đóng vai trò then chốt với đô thị tương lai",
@@ -383,6 +533,346 @@ window.newsData_2026_08_12 = {
       "fetched": "2026-08-12T14:18:51.406362+07:00"
     },
     {
+      "id": "a117a1f1b4db627f08310d437d30dae7",
+      "title": "Palm River ghi dấu mốc mới với sự đồng hành của hơn 30 đối tác chiến lược",
+      "link": "https://thanhnien.vn/palm-river-ghi-dau-moc-moi-voi-su-dong-hanh-cua-hon-30-doi-tac-chien-luoc-185260812192658859.htm",
+      "summary": "Sau khi khởi công vào tháng 6 rồi, Palm River tiếp tục đánh dấu bước triển khai tiếp theo khi Hướng Việt Properties công bố 32 đối tác chiến lược đồng hành phát triển thị trường, đồng thời giới thiệu Palm River là phân khu căn hộ ven sông trong tổng thể Palm City tại khu đông TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T13:00:00+07:00",
+      "fetched": "2026-08-12T20:00:48.999509+07:00"
+    },
+    {
+      "id": "f1636819376529df15f1ab337a9d4490",
+      "title": "Xem nhanh 20h ngày 12.8: Tiệm vàng mua 100 bao đá mỗi ngày | Sự cố UAV náo loạn Tân Sơn Nhất được xử lý ra sao",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-128-tiem-vang-mua-100-bao-da-moi-ngay-su-co-uav-nao-loan-tan-son-nhat-duoc-xu-ly-ra-sao-185260812185354726.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 12.8 có nhiều tin tức đáng chú ý về: Hai lần UAV gây náo loạn sân bay Tân Sơn Nhất khiến hàng trăm chuyến bay bị ảnh hưởng; tiệm vàng ở TP.HCM mỗi ngày mua hơn 100 bao đá, bà chủ hé lộ lý do đặc biệt;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T13:00:00+07:00",
+      "fetched": "2026-08-12T20:00:48.999701+07:00"
+    },
+    {
+      "id": "f984b3eb98eb986d809ca8837da4d65f",
+      "title": "Bia Tuborg bắt tay 24K Right đồng sáng tạo MV phá chuẩn cùng hàng trăm Gen Z",
+      "link": "https://thanhnien.vn/bia-tuborg-bat-tay-24k-right-dong-sang-tao-mv-pha-chuan-cung-hang-tram-gen-z-185260812151145626.htm",
+      "summary": "Thương hiệu bia Tuborg thuộc Công ty bia Carlsberg Việt Nam vừa chính thức bắt tay cùng rapper 24K.Right và hơn 100 Gen Z ra mắt MV 'Nhiệm vụ hệ thống +100 người chơi hệ phá chuẩn'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T13:00:00+07:00",
+      "fetched": "2026-08-12T20:00:48.999865+07:00"
+    },
+    {
+      "id": "c5afd2be1648240933e439086e3d961a",
+      "title": "Khánh Thi - Phan Hiển: Từ thầy trò đến vợ chồng, hé lộ bí mật gia đình sau 18 năm",
+      "link": "https://thanhnien.vn/khanh-thi-phan-hien-tu-thay-tro-den-vo-chong-he-lo-bi-mat-gia-dinh-sau-18-nam-18526081117210222.htm",
+      "summary": "Chia sẻ trong buổi mini talkshow với Báo Thanh Niên, Khánh Thi - Phan Hiển không chỉ bày tỏ niềm tự hào với tài năng của con trai lớn Kubi mà còn bật mí thêm những câu chuyện thú vị cũng như bí quyết 'giữ lửa' cho tổ ấm sau 18 năm gắn bó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T13:00:00+07:00",
+      "fetched": "2026-08-12T20:00:49.000025+07:00"
+    },
+    {
+      "id": "2ed5392db174e17c26e371c7615c4015",
+      "title": "Gu thời trang táo bạo cùng họa tiết da báo kinh điển",
+      "link": "https://thanhnien.vn/thoi-trang-tre/gu-thoi-trang-tao-bao-cung-hoa-tiet-da-bao-kinh-dien-185260811122849284.htm",
+      "summary": "Họa tiết da báo chính là những mảng màu nâu, đen, vàng mật ong đan xen tưởng như hoang dã lại có khả năng biến hóa đáng kinh ngạc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T13:00:00+07:00",
+      "fetched": "2026-08-12T20:00:49.000187+07:00"
+    },
+    {
+      "id": "4240b78c888223d15f4ed4d553185bc9",
+      "title": "Sớm triển khai thực tế kết nối VNeID và SingPass",
+      "link": "https://thanhnien.vn/som-trien-khai-thuc-te-ket-noi-vneid-va-singpass-185260812192538273.htm",
+      "summary": "Ngày 12.8, tại trụ sở Chính phủ, Thủ tướng Lê Minh Hưng đã tiếp Đại sứ Singapore tại Việt Nam Rajpal Singh đến chào xã giao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T12:54:00+07:00",
+      "fetched": "2026-08-12T20:00:49.000354+07:00"
+    },
+    {
+      "id": "0a7264a55e30aa991435da0274a4afbb",
+      "title": "Billiards: Trần Quyết Chiến, Bao Phương Vinh cạnh tranh hấp dẫn với tài năng Hàn Quốc",
+      "link": "https://thanhnien.vn/billiards-tran-quyet-chien-bao-phuong-vinh-canh-tranh-hap-dan-voi-tai-nang-han-quoc-18526081219335693.htm",
+      "summary": "Trần Quyết Chiến và các cơ thủ hàng đầu Việt Nam sẽ có màn tranh tài hấp dẫn với những tài năng trẻ Hàn Quốc, tại giải billiards carom 3 băng quốc tế HTV 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T12:51:00+07:00",
+      "fetched": "2026-08-12T20:00:49.000503+07:00"
+    },
+    {
+      "id": "b08d5fd727678215033f757639d7c77c",
+      "title": "Mỹ đã phát hiện mối đe dọa tên lửa đất đối không nhắm vào Không lực Một",
+      "link": "https://vnexpress.net/my-da-phat-hien-moi-de-doa-ten-lua-dat-doi-khong-nham-vao-khong-luc-mot-5108446.html",
+      "summary": "Tình báo Mỹ nắm được mối đe dọa về việc sử dụng tên lửa đất đối không nhắm vào Không lực Một, đồng thời cho hay phía Iran biết rõ nơi ông Trump nghỉ lại tại Thổ Nhĩ Kỳ hồi tháng 7.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-12T12:50:46+07:00",
+      "fetched": "2026-08-12T20:00:51.418291+07:00"
+    },
+    {
+      "id": "8a79556e7c6644a9654771750c4a2294",
+      "title": "Rạng sáng mai 13.8, bầu trời Việt Nam cùng lúc xuất hiện 3 hiện tượng kỳ thú",
+      "link": "https://thanhnien.vn/rang-sang-mai-138-bau-troi-viet-nam-cung-luc-xuat-hien-3-hien-tuong-ky-thu-185260812122346179.htm",
+      "summary": "Đêm nay và rạng sáng mai 13.8, người Việt có cơ hội ngắm dải Ngân hà, mưa sao băng Perseids cực đại và 6 hành tinh cùng xuất hiện trên bầu trời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T12:35:00+07:00",
+      "fetched": "2026-08-12T20:00:49.000671+07:00"
+    },
+    {
+      "id": "53c01c0c0686feb92f74652c37d44ae8",
+      "title": "Vụ cháy ở chợ Biên Hòa: Nguy cơ công trình sụp đổ, phải tháo dỡ khẩn cấp",
+      "link": "https://thanhnien.vn/vu-chay-o-cho-bien-hoa-nguy-co-cong-trinh-sup-do-phai-thao-do-khan-cap-185260812190234695.htm",
+      "summary": "Do bị hư hại nặng sau vụ cháy và có nguy cơ sụp đổ, nên một phần công trình trung tâm thương mại trong khu vực chợ Biên Hòa buộc phải tháo dỡ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T12:33:00+07:00",
+      "fetched": "2026-08-12T20:00:49.000829+07:00"
+    },
+    {
+      "id": "de5542c2333d85f5787159f289b671df",
+      "title": "Nam ca sĩ 9X từng chật vật muốn bỏ nghề, tiết lộ mối ơn với Trấn Thành",
+      "link": "https://thanhnien.vn/nam-ca-si-9x-tung-chat-vat-muon-bo-nghe-tiet-lo-moi-on-voi-tran-thanh-185260812184630851.htm",
+      "summary": "Từng chông chênh muốn bỏ nghề, Phạm Anh Duy vẫn âm thầm kiên trì với âm nhạc. Bên cạnh nỗ lực của chính mình, bước ngoặt đặc biệt cùng sự nâng đỡ của Trấn Thành trở thành điểm tựa, giúp nam ca sĩ từng bước khẳng định bản thân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T12:33:00+07:00",
+      "fetched": "2026-08-12T20:00:49.000979+07:00"
+    },
+    {
+      "id": "10ae9033a6051a1049594de2bbcc9796",
+      "title": "Kết quả xổ số Vietlott Mega 6/45 tối 12.8, giải độc đắc tăng 18,2 tỉ đồng",
+      "link": "https://thanhnien.vn/ket-qua-xo-so-vietlott-mega-6-45-toi-128-giai-doc-dac-tang-182-ti-dong-185260812192552992.htm",
+      "summary": "Tối 12.8, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Mega 6/45 và ghi nhận không có người trúng giải độc đắc nên số tiền cộng dồn là 18,2 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T12:26:00+07:00",
+      "fetched": "2026-08-12T20:00:49.001138+07:00"
+    },
+    {
+      "id": "0b803119e8bf0592226794f84afdbbc2",
+      "title": "Trường ĐH Hoa Sen đón nhận Huân chương lao động hạng Ba",
+      "link": "https://thanhnien.vn/truong-dh-hoa-sen-don-nhan-huan-chuong-lao-dong-hang-ba-185260812170030419.htm",
+      "summary": "Tại lễ kỷ niệm 35 năm thành lập, Trường ĐH Hoa Sen vinh dự đón nhận Huân chương Lao động hạng Ba ghi nhận và biểu dương thành tích trong công tác nghiên cứu, ứng dụng khoa học kỹ thuật và đào tạo nhân lực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T12:26:00+07:00",
+      "fetched": "2026-08-12T20:00:49.001287+07:00"
+    },
+    {
+      "id": "5cd72b303c5ceeced7fd6717951b86ba",
+      "title": "Giám thị lần 1 không được trông thi lại tốt nghiệp Trường chuyên Tuyên Quang",
+      "link": "https://thanhnien.vn/giam-thi-lan-1-khong-duoc-trong-thi-lai-tot-nghiep-truong-chuyen-tuyen-quang-185260812190944462.htm",
+      "summary": "Lãnh đạo Sở GD-ĐT Tuyên Quang cho biết, đại diện Đại học Bách khoa Hà Nội sẽ làm Trưởng đoàn phụ trách kiểm tra thi lại tốt nghiệp THPT tại Trường THPT chuyên Tuyên Quang, giám thị đã trông thi lần 1 tại đây  sẽ không được trông thi lần này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T12:25:00+07:00",
+      "fetched": "2026-08-12T20:00:49.001442+07:00"
+    },
+    {
+      "id": "91c5b6f85fd7628d9177e0d01c7d35d1",
+      "title": "Xâm phạm quyền tác giả game online, thu lợi gần 2,5 tỉ đồng",
+      "link": "https://thanhnien.vn/xam-pham-quyen-tac-gia-game-online-thu-loi-gan-25-ti-dong-185260812182949445.htm",
+      "summary": "Thuê người làm game \"nhái\" Ninja School Online rồi bán tài khoản, tiền ảo cho người chơi, Nguyễn Mạnh Cần thu lợi gần 2,5 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T12:24:00+07:00",
+      "fetched": "2026-08-12T20:00:49.001595+07:00"
+    },
+    {
+      "id": "80961f1ab8c3fa86b928a86b47caa15a",
+      "title": "Ghé xem rạp cưới, móc cốp xe cướp 80 triệu đồng: Màn truy xét thần tốc lúc giữa trưa",
+      "link": "https://thanhnien.vn/ghe-xem-rap-cuoi-moc-cop-xe-cuop-80-trieu-dong-man-truy-xet-than-toc-luc-giua-trua-185260812164520887.htm",
+      "summary": "Tò mò ghé xem rạp đám cưới vì thấy trang trí đẹp, nam thanh niên 20 tuổi nổi lòng tham móc cốp xe quên tắt máy lấy trộm 80 triệu đồng và đã bị Công an tỉnh Đắk Lắk bắt giữ chỉ sau 6 giờ truy xét.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T12:22:00+07:00",
+      "fetched": "2026-08-12T20:00:49.001767+07:00"
+    },
+    {
+      "id": "67d2dcd5c6d3065e2e8d05fa68345742",
+      "title": "5 ôtô tông liên hoàn trên cao tốc TP HCM - Trung Lương",
+      "link": "https://vnexpress.net/5-oto-tong-lien-hoan-tren-cao-toc-tp-hcm-trung-luong-5108445.html",
+      "summary": "Ôtô 5 chỗ va chạm với 4 xe tải trên cao tốc TP HCM - Trung Lương, khiến các phương tiện hư hỏng, giao thông ùn ứ nhiều km chiều 12/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T12:06:03+07:00",
+      "fetched": "2026-08-12T20:00:46.461289+07:00"
+    },
+    {
+      "id": "abf82125a4a3474a398e209768858d6a",
+      "title": "Vietjet tăng 82.000 ghế bay phục vụ cao điểm 2/9",
+      "link": "https://vnexpress.net/vietjet-tang-82-000-ghe-bay-phuc-vu-cao-diem-2-9-5108417.html",
+      "summary": "Vietjet dự kiến tăng 82.000 chỗ, tương đương 400 chuyến bay, đáp ứng nhu cầu di chuyển trong nước và quốc tế, từ ngày 26/8 đến 5/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T12:01:00+07:00",
+      "fetched": "2026-08-12T20:00:46.461475+07:00"
+    },
+    {
+      "id": "abf82125a4a3474a398e209768858d6a",
+      "title": "Vietjet tăng 82.000 ghế bay phục vụ cao điểm 2/9",
+      "link": "https://vnexpress.net/vietjet-tang-82-000-ghe-bay-phuc-vu-cao-diem-2-9-5108417.html",
+      "summary": "Vietjet dự kiến tăng 82.000 chỗ, tương đương 400 chuyến bay, đáp ứng nhu cầu di chuyển trong nước và quốc tế, từ ngày 26/8 đến 5/9.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-12T12:01:00+07:00",
+      "fetched": "2026-08-12T20:00:53.255636+07:00"
+    },
+    {
+      "id": "4e169878cbf8c13d7bd33637594f8d6a",
+      "title": "Điểm chuẩn Đại học Y Dược Cần Thơ tăng, cao nhất 25,3",
+      "link": "https://vnexpress.net/chi-tiet-diem-chuan-dai-hoc-y-duoc-can-tho-2026-5108447.html",
+      "summary": "Ngành Y khoa dẫn đầu điểm chuẩn trường Đại học Y Dược Cần Thơ với 25,3 điểm, tăng 1,42 so với năm ngoái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T12:00:31+07:00",
+      "fetched": "2026-08-12T20:00:46.461645+07:00"
+    },
+    {
+      "id": "5d35a26405d30dcd3c91ed401d0b8ca0",
+      "title": "Chiến thuật 'chim mồi' giúp Mật vụ bảo vệ Tổng thống Mỹ",
+      "link": "https://vnexpress.net/chien-thuat-chim-moi-giup-mat-vu-bao-ve-tong-thong-my-5108115.html",
+      "summary": "Từ bí mật đổi máy bay đến tráo vị trí xe, Mật vụ Mỹ thường xuyên dùng các chiến thuật \"chim mồi\" để đánh lạc hướng, bảo vệ tối đa cho Tổng thống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T12:00:00+07:00",
+      "fetched": "2026-08-12T20:00:46.461840+07:00"
+    },
+    {
+      "id": "50a79f642f47d1adcf983e7edc9de5ab",
+      "title": "Chi phí sản xuất iPhone 18 Pro có thể tăng 40%",
+      "link": "https://vnexpress.net/chi-phi-san-xuat-iphone-18-pro-co-the-tang-40-5107600.html",
+      "summary": "Giá bộ nhớ tăng mạnh khiến chi phí sản xuất iPhone 18 Pro được cho là cao hơn 38% so với thế hệ trước, buộc Apple nâng giá bán hoặc hy sinh một phần lợi nhuận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T12:00:00+07:00",
+      "fetched": "2026-08-12T20:00:46.462005+07:00"
+    },
+    {
+      "id": "0903e2d033be09f021c730d0268f40bb",
+      "title": "Nguyễn Kim miễn phí đổi trả trong 60 ngày",
+      "link": "https://vnexpress.net/nguyen-kim-mien-phi-doi-tra-trong-60-ngay-5108332.html",
+      "summary": "Nguyễn Kim triển khai chính sách đổi trả hàng miễn phí trong 60 ngày cho khách hàng cá nhân, cùng hàng loạt chính sách ưu đãi từ ngày 1 đến 31/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T12:00:00+07:00",
+      "fetched": "2026-08-12T20:00:46.462165+07:00"
+    },
+    {
+      "id": "7d3767c05d5c1b681f22126e9f3b9be6",
+      "title": "Phát hiện chồng mắc sùi mào gà, nên làm gì?",
+      "link": "https://vnexpress.net/phat-hien-chong-mac-sui-mao-ga-nen-lam-gi-5108307.html",
+      "summary": "Chồng tôi vừa được chẩn đoán mắc sùi mào gà, phải đốt laser. Hiện tại tôi không có triệu chứng nhưng rất lo lắng, giờ tôi nên làm gì? (Kim, 32 tuổi, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T12:00:00+07:00",
+      "fetched": "2026-08-12T20:00:46.462319+07:00"
+    },
+    {
+      "id": "8dc436d0ad9e2def8fbc54cc7748aa17",
+      "title": "Phụ nữ nên ăn uống thế nào khi giảm estrogen",
+      "link": "https://vnexpress.net/phu-nu-nen-an-uong-the-nao-khi-giam-estrogen-5108253.html",
+      "summary": "Phụ nữ ưu tiên bổ sung protein từ đậu nành, chất xơ từ rau xanh khi estrogen suy giảm để duy trì cơ bắp, xương chắc khỏe và kiểm soát cân nặng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T12:00:00+07:00",
+      "fetched": "2026-08-12T20:00:46.462471+07:00"
+    },
+    {
+      "id": "f1fd30434b303761c13081ccae6e07b3",
+      "title": "Starlux Airlines đưa nghệ thuật đương đại vào thiết kế vỏ ngoài tàu bay",
+      "link": "https://vnexpress.net/starlux-airlines-dua-nghe-thuat-duong-dai-vao-thiet-ke-vo-ngoai-tau-bay-5101260.html",
+      "summary": "Hãng hàng không Starlux Airlines và nghệ sĩ đương đại Nhật Bản Hajime Sorayama hợp tác thiết kế tàu bay AirSorayama, ra mắt ngày 12/7.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T12:00:00+07:00",
+      "fetched": "2026-08-12T20:00:46.462625+07:00"
+    },
+    {
+      "id": "5d35a26405d30dcd3c91ed401d0b8ca0",
+      "title": "Chiến thuật 'chim mồi' giúp Mật vụ bảo vệ Tổng thống Mỹ",
+      "link": "https://vnexpress.net/chien-thuat-chim-moi-giup-mat-vu-bao-ve-tong-thong-my-5108115.html",
+      "summary": "Từ bí mật đổi máy bay đến tráo vị trí xe, Mật vụ Mỹ thường xuyên dùng các chiến thuật \"chim mồi\" để đánh lạc hướng, bảo vệ tối đa cho Tổng thống.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-12T12:00:00+07:00",
+      "fetched": "2026-08-12T20:00:51.418467+07:00"
+    },
+    {
+      "id": "50a79f642f47d1adcf983e7edc9de5ab",
+      "title": "Chi phí sản xuất iPhone 18 Pro có thể tăng 40%",
+      "link": "https://vnexpress.net/chi-phi-san-xuat-iphone-18-pro-co-the-tang-40-5107600.html",
+      "summary": "Giá bộ nhớ tăng mạnh khiến chi phí sản xuất iPhone 18 Pro được cho là cao hơn 38% so với thế hệ trước, buộc Apple nâng giá bán hoặc hy sinh một phần lợi nhuận.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-12T12:00:00+07:00",
+      "fetched": "2026-08-12T20:00:54.824351+07:00"
+    },
+    {
+      "id": "09732d780a6ffa746ce23ebc046334b5",
+      "title": "Bà Nguyễn Thị Thanh Nhàn bị phạt thêm 10 năm tù",
+      "link": "https://vnexpress.net/ba-nguyen-thi-thanh-nhan-bi-phat-them-10-nam-tu-5108398.html",
+      "summary": "Bà Nguyễn Thị Thanh Nhàn bị phạt thêm 10 năm tù do chỉ đạo thông thầu, nâng khống giá thiết bị, gây thiệt hại cho tỉnh Bạc Liêu (cũ) hơn 4,4 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T11:59:05+07:00",
+      "fetched": "2026-08-12T20:00:46.462835+07:00"
+    },
+    {
+      "id": "05fc9c0c9b05e6c071f214ba82d2b137",
+      "title": "Sở Giáo dục Tuyên Quang: Ôn tập, khích lệ thí sinh trước kỳ thi lại",
+      "link": "https://vnexpress.net/so-giao-duc-tuyen-quang-on-tap-khich-le-thi-sinh-truoc-ky-thi-lai-5108438.html",
+      "summary": "326 thí sinh chuyên Tuyên Quang được khích lệ, ôn tập trước kỳ thi lần hai, còn giám thị là 'tốt nhất trong những người tốt', theo Sở Giáo dục tỉnh này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T11:47:58+07:00",
+      "fetched": "2026-08-12T20:00:46.463001+07:00"
+    },
+    {
+      "id": "55b00860154cccbdbc3233560648d54f",
+      "title": "Khách quốc tế đến Phong Nha - Kẻ Bàng được bỏ xin phép vào vùng biên",
+      "link": "https://vnexpress.net/khach-quoc-te-den-phong-nha-ke-bang-duoc-bo-xin-phep-vao-vung-bien-5108437.html",
+      "summary": "Khách quốc tế đến Phong Nha - Kẻ Bàng trước đây phải xin phép vào khu vực biên giới, phát sinh thêm 10 USD mỗi người nhưng hiện đã được tháo gỡ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T11:25:20+07:00",
+      "fetched": "2026-08-12T20:00:46.463160+07:00"
+    },
+    {
+      "id": "2187fb7c890a44efd5e1a40368d502f5",
+      "title": "Cựu thủ tướng Trung Quốc Chu Dung Cơ từ trần",
+      "link": "https://vnexpress.net/cuu-thu-tuong-trung-quoc-chu-dung-co-tu-tran-5108427.html",
+      "summary": "Cựu thủ tướng Chu Dung Cơ, người có những cải cách thị trường góp phần thúc đẩy kinh tế Trung Quốc, qua đời, hưởng thọ 97 tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T11:10:16+07:00",
+      "fetched": "2026-08-12T20:00:46.463322+07:00"
+    },
+    {
+      "id": "2187fb7c890a44efd5e1a40368d502f5",
+      "title": "Cựu thủ tướng Trung Quốc Chu Dung Cơ từ trần",
+      "link": "https://vnexpress.net/cuu-thu-tuong-trung-quoc-chu-dung-co-tu-tran-5108427.html",
+      "summary": "Cựu thủ tướng Chu Dung Cơ, người có những cải cách thị trường góp phần thúc đẩy kinh tế Trung Quốc, qua đời, hưởng thọ 97 tuổi.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-12T11:10:16+07:00",
+      "fetched": "2026-08-12T20:00:51.418632+07:00"
+    },
+    {
+      "id": "da5d21a49802a9a445c3e29a2882ffc3",
+      "title": "Đề xuất khám sức khỏe miễn phí cho 1,3 triệu người chưa thường trú, tạm trú ở TP HCM",
+      "link": "https://vnexpress.net/de-xuat-kham-suc-khoe-mien-phi-cho-1-3-trieu-nguoi-chua-thuong-tru-tam-tru-o-tp-hcm-5108429.html",
+      "summary": "Sở Y tế TP HCM đề xuất cho hơn 1,3 triệu người sống tại thành phố nhưng chưa đủ điều kiện đăng ký thường trú, tạm trú được khám sức khỏe miễn phí.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T11:04:12+07:00",
+      "fetched": "2026-08-12T20:00:46.463475+07:00"
+    },
+    {
       "id": "877c454b8903faeaf49829600db65881",
       "title": "Thanh Hóa tăng tốc thi công 6 trường nội trú để kịp vào năm học mới 2026-2027",
       "link": "https://tuoitre.vn/thanh-hoa-tang-toc-thi-cong-6-truong-noi-tru-de-kip-vao-nam-hoc-moi-2026-2027-100260812074605283.htm",
@@ -531,6 +1021,26 @@ window.newsData_2026_08_12 = {
       "category": "Tổng hợp",
       "published": "2026-08-12T11:03:20.907057+07:00",
       "fetched": "2026-08-12T11:03:20.907209+07:00"
+    },
+    {
+      "id": "4f26364e359e7aa25ca2a309278320da",
+      "title": "Xử lý hàng chục 'cò mồi' chèo kéo khách tại sân bay Nội Bài",
+      "link": "https://vnexpress.net/xu-ly-hang-chuc-co-moi-cheo-keo-khach-tai-san-bay-noi-bai-5108184.html",
+      "summary": "Lực lượng công an cửa khẩu sân bay Nội Bài phát hiện, xử phạt 12 trường hợp cò mồi, chèo kéo hành khách đi taxi trong sân bay chỉ trong 3 ngày qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-12T11:01:26+07:00",
+      "fetched": "2026-08-12T20:00:46.463632+07:00"
+    },
+    {
+      "id": "d4bea89701d1cab4fe6b1c19c6218454",
+      "title": "Phan Thanh Hùng - người truyền lửa của bóng đá Việt Nam",
+      "link": "https://vnexpress.net/phan-thanh-hung-nguoi-truyen-lua-cua-bong-da-viet-nam-5108435.html",
+      "summary": "Trước khi qua đời ở tuổi 66 vào ngày 11/8, ông Phan Thanh Hùng được xem là HLV bản địa hiếm hoi định hình được triết lý chiến thuật và truyền cảm hứng cho giới bóng đá Việt Nam.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-12T11:00:27+07:00",
+      "fetched": "2026-08-12T20:00:56.185555+07:00"
     },
     {
       "id": "f160b5d9562fc8de694740e3a628cc91",
