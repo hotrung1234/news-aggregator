@@ -1,6 +1,6 @@
 window.newsData_2026_08_13 = {
   "date": "2026-08-13",
-  "lastUpdated": "2026-08-13T14:21:05.781047+07:00",
+  "lastUpdated": "2026-08-13T16:07:59.534097+07:00",
   "articles": [
     {
       "id": "670c7237a7cf8c018141a62d884c9a1e",
@@ -303,6 +303,216 @@ window.newsData_2026_08_13 = {
       "fetched": "2026-08-13T11:08:07.340452+07:00"
     },
     {
+      "id": "f69f1fb61d4890d8531028b4c79c7920",
+      "title": "HLV Tan Cheng Hoe hứa không đổ lỗi hoàn cảnh nếu Malaysia thua đội tuyển Việt Nam ở bán kết",
+      "link": "https://thanhnien.vn/hlv-tan-cheng-hoe-hua-khong-do-loi-hoan-canh-neu-malaysia-thua-doi-tuyen-viet-nam-o-ban-ket-185260813153138067.htm",
+      "summary": "Đội tuyển Malaysia đang đối mặt với tình trạng thiếu hụt lực lượng trước trận bán kết lượt đi ASEAN Cup 2026 gặp Việt Nam. Hoàn cảnh này khiến HLV Tan Cheng Hoe được truyền thông Malaysia gợi lại ký ức không vui tại giải đấu năm 2020, nhưng ông khẳng định vẫn giữ sự lạc quan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T09:04:00+07:00",
+      "fetched": "2026-08-13T16:07:49.792149+07:00"
+    },
+    {
+      "id": "728d79d148c41dc555020cc393f50885",
+      "title": "Xổ số miền Nam ngày 13 tháng 8 - Kết quả xổ số hôm nay thứ năm",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-13-thang-8-ket-qua-xo-so-hom-nay-thu-nam-185260813155315226.htm",
+      "summary": "Xem kết quả xổ số miền Nam ngày 13 tháng 8; xổ số miền Bắc, xổ số miền Trung, xổ số điện toán trực tiếp nhanh hôm nay thứ năm ngày 13.8.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T09:00:00+07:00",
+      "fetched": "2026-08-13T16:07:49.792327+07:00"
+    },
+    {
+      "id": "8aeea416a47dbad3a1cee921b8eebb0d",
+      "title": "Diện váy ren tạo nét quyến rũ vừa đủ cho mọi bữa tiệc",
+      "link": "https://thanhnien.vn/thoi-trang-tre/dien-vay-ren-tao-net-quyen-ru-vua-du-cho-moi-bua-tiec-185260813010253543.htm",
+      "summary": "Mùa tiệc năm nay, không khó để hiểu vì sao xu hướng váy ren lại nhận được sự đón nhận nồng nhiệt nhờ khả năng giúp người mặc luôn nổi bật và tỏa sáng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T09:00:00+07:00",
+      "fetched": "2026-08-13T16:07:49.792489+07:00"
+    },
+    {
+      "id": "478bfac85cb3519faf4cb52f4775d0bf",
+      "title": "Ronaldo và chặng nước rút chinh phục cột mốc 1.000 bàn thắng",
+      "link": "https://vnexpress.net/ronaldo-va-chang-nuoc-rut-chinh-phuc-cot-moc-1-000-ban-thang-5108777.html",
+      "summary": "Saudi Pro League 2026-2027 khởi tranh hôm nay, trong mùa giải tiền đạo 41 tuổi Cristiano Ronaldo hướng tới cột mốc 1.000 bàn thắng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T08:57:16+07:00",
+      "fetched": "2026-08-13T16:07:46.361876+07:00"
+    },
+    {
+      "id": "e42a5437b42297e008f934902b9391e5",
+      "title": "Van Gogh Timeless: Cánh cửa mới để công chúng Việt đến với nghệ thuật",
+      "link": "https://thanhnien.vn/van-gogh-timeless-canh-cua-moi-de-cong-chung-viet-den-voi-nghe-thuat-185260813095156919.htm",
+      "summary": "Có lẽ rất ít họa sĩ trong lịch sử hội họa có khả năng bước qua thời đại của mình mạnh mẽ như Vincent van Gogh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T08:57:00+07:00",
+      "fetched": "2026-08-13T16:07:49.792647+07:00"
+    },
+    {
+      "id": "156a9ba4116b83735fc295295600be84",
+      "title": "Những sinh viên hoàn thành chương trình xe ô tô điện VinFast đầu tiên ở Vĩnh Long",
+      "link": "https://thanhnien.vn/nhung-sinh-vien-hoan-thanh-chuong-trinh-xe-o-to-dien-vinfast-dau-tien-o-vinh-long-185260813143327414.htm",
+      "summary": "19 sinh viên đầu tiên của Trường ĐH Sư phạm kỹ thuật Vĩnh Long đã hoàn thành chương trình đào tạo kỹ thuật sửa chữa cơ bản xe ô tô điện VinFast.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T08:55:00+07:00",
+      "fetched": "2026-08-13T16:07:49.792800+07:00"
+    },
+    {
+      "id": "f0cc23f52c40c5353c9596496edec08b",
+      "title": "Lộ diện 'ngôi sao hố đen' đỏ rực giữa vũ trụ sơ khai",
+      "link": "https://thanhnien.vn/lo-dien-ngoi-sao-ho-den-do-ruc-giua-vu-tru-so-khai-185260813142916678.htm",
+      "summary": "Phát hiện thiên thể mới có kích thước bằng toàn bộ hệ mặt trời và phát ra ánh sáng đỏ rực rỡ ở khoảng cách hàng tỉ năm ánh sáng so với trái đất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T08:53:00+07:00",
+      "fetched": "2026-08-13T16:07:49.792988+07:00"
+    },
+    {
+      "id": "65121fa41fa1e8a2b356fb13e845a679",
+      "title": "Công ty của Elon Musk tuyển kỹ sư tại Việt Nam",
+      "link": "https://vnexpress.net/cong-ty-cua-elon-musk-tuyen-ky-su-tai-viet-nam-5108743.html",
+      "summary": "SpaceX, công ty do Elon Musk sáng lập, tuyển kỹ sư tại Hà Nội phụ trách về thiết bị đầu cuối Starlink và có thể làm việc với các nhà cung cấp trong nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T08:52:28+07:00",
+      "fetched": "2026-08-13T16:07:46.362085+07:00"
+    },
+    {
+      "id": "65121fa41fa1e8a2b356fb13e845a679",
+      "title": "Công ty của Elon Musk tuyển kỹ sư tại Việt Nam",
+      "link": "https://vnexpress.net/cong-ty-cua-elon-musk-tuyen-ky-su-tai-viet-nam-5108743.html",
+      "summary": "SpaceX, công ty do Elon Musk sáng lập, tuyển kỹ sư tại Hà Nội phụ trách về thiết bị đầu cuối Starlink và có thể làm việc với các nhà cung cấp trong nước.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-13T08:52:28+07:00",
+      "fetched": "2026-08-13T16:07:58.100619+07:00"
+    },
+    {
+      "id": "9ae27d659bee398034c3df7628b0f19e",
+      "title": "Hoàng Hên: 'Malaysia mạnh nhưng Việt Nam mạnh hơn'",
+      "link": "https://vnexpress.net/hoang-hen-malaysia-manh-nhung-viet-nam-manh-hon-5108766.html",
+      "summary": "Tiền vệ nhập tịch Đỗ Hoàng Hên tự tin tuyển Việt Nam mạnh hơn Malaysia khi cùng đội lên đường sang Kuala Lumpur trưa 13/8, chuẩn bị cho bán kết lượt đi ASEAN Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T08:51:02+07:00",
+      "fetched": "2026-08-13T16:07:46.362255+07:00"
+    },
+    {
+      "id": "a60643529d11b7bc9b3b9de5f185658c",
+      "title": "Kẻ truy sát 5 người ở Bệnh viện Sản Nhi Nghệ An bị phạt 15 năm tù",
+      "link": "https://vnexpress.net/ke-truy-sat-5-nguoi-o-benh-vien-san-nhi-nghe-an-bi-phat-15-nam-tu-5108750.html",
+      "summary": "Bàn Văn Vỹ, 30 tuổi, bị phạt 15 năm tù vì dùng dao tấn công 5 người tại Bệnh viện Sản Nhi Nghệ An, khai gây án trong cơn bức xúc vì nghĩ cán bộ y tế xem thường gia đình mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T08:50:33+07:00",
+      "fetched": "2026-08-13T16:07:46.362421+07:00"
+    },
+    {
+      "id": "b24b12bf7915ed43a388757ad1f9711f",
+      "title": "Tổng thống Putin lần đầu đến thăm hòn đảo tranh chấp với Nhật Bản",
+      "link": "https://thanhnien.vn/tong-thong-putin-lan-dau-den-tham-hon-dao-tranh-chap-voi-nhat-ban-185260813131801395.htm",
+      "summary": "Tổng thống Nga Vladimir Putin mới đây đã đến thăm đảo Iturup thuộc quần đảo Kuril, nơi Nhật Bản tuyên bố chủ quyền nhóm 4 đảo phía nam và gọi là Vùng lãnh thổ phương bắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T08:47:00+07:00",
+      "fetched": "2026-08-13T16:07:49.793148+07:00"
+    },
+    {
+      "id": "257b416ebbfa38063e4be95438c3bf85",
+      "title": "Aguero: 'Đội hình C của Malaysia sẽ khiến Việt Nam bất ngờ'",
+      "link": "https://vnexpress.net/aguero-doi-hinh-c-cua-malaysia-se-khien-viet-nam-bat-ngo-5108773.html",
+      "summary": "Tiền vệ nhập tịch Sergio Aguero tin rằng các cầu thủ Malaysia có nhiều động lực chứng tỏ bản thân, sau khi bị đánh giá thấp tại ASEAN Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T08:46:40+07:00",
+      "fetched": "2026-08-13T16:07:46.362585+07:00"
+    },
+    {
+      "id": "257b416ebbfa38063e4be95438c3bf85",
+      "title": "Aguero: 'Đội hình C của Malaysia sẽ khiến Việt Nam bất ngờ'",
+      "link": "https://vnexpress.net/aguero-doi-hinh-c-cua-malaysia-se-khien-viet-nam-bat-ngo-5108773.html",
+      "summary": "Tiền vệ nhập tịch Sergio Aguero tin rằng các cầu thủ Malaysia có nhiều động lực chứng tỏ bản thân, sau khi bị đánh giá thấp tại ASEAN Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-13T08:46:40+07:00",
+      "fetched": "2026-08-13T16:07:59.524640+07:00"
+    },
+    {
+      "id": "e08cb03ada198bfe7bbe89713866da1f",
+      "title": "Ông Hùng Cao bị chất vấn sau thông tin thủy thủ nhảy khỏi tàu sân bay gần Iran",
+      "link": "https://vnexpress.net/ong-hung-cao-bi-chat-van-sau-thong-tin-thuy-thu-nhay-khoi-tau-san-bay-gan-iran-5108719.html",
+      "summary": "Nghị sĩ Mỹ chất vấn ông Hegseth và ông Hùng Cao về các vấn đề trên tàu sân bay Lincoln, sau khi có tin nhiều thủy thủ từng cố nhảy xuống biển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T08:45:00+07:00",
+      "fetched": "2026-08-13T16:07:46.362751+07:00"
+    },
+    {
+      "id": "e08cb03ada198bfe7bbe89713866da1f",
+      "title": "Ông Hùng Cao bị chất vấn sau thông tin thủy thủ nhảy khỏi tàu sân bay gần Iran",
+      "link": "https://vnexpress.net/ong-hung-cao-bi-chat-van-sau-thong-tin-thuy-thu-nhay-khoi-tau-san-bay-gan-iran-5108719.html",
+      "summary": "Nghị sĩ Mỹ chất vấn ông Hegseth và ông Hùng Cao về các vấn đề trên tàu sân bay Lincoln, sau khi có tin nhiều thủy thủ từng cố nhảy xuống biển.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-13T08:45:00+07:00",
+      "fetched": "2026-08-13T16:07:53.520283+07:00"
+    },
+    {
+      "id": "2b09bdaf50865328043ae1a7f83a38bb",
+      "title": "Bị sán nhái dài 7 cm ký sinh dù không ăn đồ tái, sống",
+      "link": "https://vnexpress.net/bi-san-nhai-dai-7-cm-ky-sinh-du-khong-an-do-tai-song-5108748.html",
+      "summary": "Người đàn ông 40 tuổi bất ngờ phát hiện khối u dưới da đùi nên đi khám, bác sĩ phát hiện ấu trùng sán nhái - một bệnh ký sinh trùng ít gặp, dù không có yếu tố phơi nhiễm thường gặp là ăn thực phẩm chưa nấu chín.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T08:44:52+07:00",
+      "fetched": "2026-08-13T16:07:46.362911+07:00"
+    },
+    {
+      "id": "ce762e184445c69b07a080b7e671acd7",
+      "title": "Tìm cô gái từng trải qua nhiều đau khổ trong cuộc sống",
+      "link": "https://vnexpress.net/tim-co-gai-tung-trai-qua-nhieu-dau-kho-trong-cuoc-song-5108736.html",
+      "summary": "Giữa cuộc sống vội vã hôm nay, anh tìm tri kỷ để cùng chia sẻ những niềm vui, khó khăn, thử thách trong cuộc sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T08:44:29+07:00",
+      "fetched": "2026-08-13T16:07:46.363174+07:00"
+    },
+    {
+      "id": "c341167821006d9b2c4a0146db551322",
+      "title": "‘Phù thủy’ Rajagobal tin Malaysia có thể làm điều bất ngờ khi tiếp đón đội tuyển Việt Nam",
+      "link": "https://thanhnien.vn/phu-thuy-rajagobal-tin-malaysia-co-the-lam-dieu-bat-ngo-khi-tiep-don-doi-tuyen-viet-nam-185260813153939166.htm",
+      "summary": "Cựu HLV đội tuyển Malaysia, ông Rajagobal kêu gọi đội nhà 'hãy tận hưởng và chẳng có gì để mất' khi đối đầu với đội tuyển Việt Nam trong hai lượt trận bán kết ASEAN Cup 2026 ngày 16 và 19.8 tới đây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T08:44:00+07:00",
+      "fetched": "2026-08-13T16:07:49.793306+07:00"
+    },
+    {
+      "id": "62bfdffd46876006e7bd79bd7be53910",
+      "title": "Vé đợt 2 bán kết lượt về hết ‘sạch bách’, chờ Việt Nam đánh bại Malaysia ở Mỹ Đình",
+      "link": "https://thanhnien.vn/ve-dot-2-ban-ket-luot-ve-het-sach-bach-cho-viet-nam-danh-bai-malaysia-o-my-dinh-18526081216270482.htm",
+      "summary": "Đội tuyển Việt Nam ghi được nhiều bàn thắng nhất, phạm lỗi ít nhất, nhận ít thẻ vàng nhất, tính đến trước vòng bán kết ASEAN Cup 2026. Đây đều là những thông số phản ánh chất lượng kỹ thuật của cầu thủ Việt Nam tăng lên theo thời gian. Có lẽ vì thế mà vé bán kết lượt về gặp Malaysia vào ngày 19.8 rấ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T08:44:00+07:00",
+      "fetched": "2026-08-13T16:07:49.793470+07:00"
+    },
+    {
+      "id": "251b60ac6ede61557b8157cfe2b3def2",
+      "title": "Gọi điện thoại mạo danh lừa hơn 110 tỷ đồng, rửa tiền từ dữ liệu cá nhân",
+      "link": "https://vnexpress.net/goi-dien-thoai-mao-danh-lua-hon-110-ty-dong-rua-tien-tu-du-lieu-ca-nhan-5108669.html",
+      "summary": "Cơ quan điều tra đã khởi tố 18 người trong đường dây thu mua dữ liệu cá nhân, dựng kịch bản lừa đảo, rửa tiền, chiếm đoạt hơn 110 tỷ đồng của hàng nghìn nạn nhân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T08:43:06+07:00",
+      "fetched": "2026-08-13T16:07:46.363423+07:00"
+    },
+    {
       "id": "fbadf9cffbf33b5e564e391141ff8798",
       "title": "Dàn nhạc 100 nghệ sĩ xuất sắc châu Á thăng hoa ở Nhà hát Hồ Gươm",
       "link": "https://tuoitre.vn/dan-nhac-100-nghe-si-xuat-sac-chau-a-thang-hoa-o-nha-hat-ho-guom-100260813012653587.htm",
@@ -451,6 +661,186 @@ window.newsData_2026_08_13 = {
       "category": "Tổng hợp",
       "published": "2026-08-13T08:42:18.289714+07:00",
       "fetched": "2026-08-13T08:42:18.289859+07:00"
+    },
+    {
+      "id": "40c0c9b4640a77c13e892a13fcc3b048",
+      "title": "Giữa muôn vàn người, hy vọng chúng ta sẽ tìm thấy nhau",
+      "link": "https://vnexpress.net/giua-muon-van-nguoi-hy-vong-chung-ta-se-tim-thay-nhau-5108738.html",
+      "summary": "Có lẽ đến độ tuổi này, mình không còn tìm một mối quan hệ để cho vui, mà mong gặp một người để cùng đồng hành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T08:41:00+07:00",
+      "fetched": "2026-08-13T16:07:46.363641+07:00"
+    },
+    {
+      "id": "4025ec7fefd627f7ef171144d4c3ae9c",
+      "title": "Ra quân 'giải cứu' hồ Hoàn Kiếm khỏi nạn rùa tai đỏ xâm hại",
+      "link": "https://thanhnien.vn/ra-quan-giai-cuu-ho-hoan-kiem-khoi-nan-rua-tai-do-xam-hai-185260813151607313.htm",
+      "summary": "Chính quyền sở tại cùng các cơ quan chuyên môn vừa triển khai phương án đặt bẫy, xử lý rùa tai đỏ ở hồ Hoàn Kiếm (Hà Nội) nhằm bảo vệ môi trường sinh thái và đa dạng sinh học ở khu vực này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T08:41:00+07:00",
+      "fetched": "2026-08-13T16:07:49.793626+07:00"
+    },
+    {
+      "id": "e66ceaafa88bba937c15e450c331451d",
+      "title": "Cô gái sống tích cực, biết lắng nghe tìm người thương",
+      "link": "https://vnexpress.net/co-gai-song-tich-cuc-biet-lang-nghe-tim-nguoi-thuong-5108734.html",
+      "summary": "Em sinh năm 1992, cao 1m62, là nhân viên văn phòng, trong lĩnh vực thực phẩm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T08:37:49+07:00",
+      "fetched": "2026-08-13T16:07:46.363831+07:00"
+    },
+    {
+      "id": "a1db6c30363c00cd4b8428da85791e64",
+      "title": "Từ cô gái truyền thống viết cho bạn đời tương lai",
+      "link": "https://vnexpress.net/tu-co-gai-truyen-thong-viet-cho-ban-doi-tuong-lai-5108739.html",
+      "summary": "Giữa thế giới này, gặp được người đồng giá trị sống rất khó, nối được nhân duyên với người ấy lại càng khó hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T08:37:13+07:00",
+      "fetched": "2026-08-13T16:07:46.364018+07:00"
+    },
+    {
+      "id": "818f85f6a5617ed1af4a5e96bfea5de7",
+      "title": "Hội đồng Đội phải trả lời được một câu hỏi lớn",
+      "link": "https://thanhnien.vn/hoi-dong-doi-phai-tra-loi-duoc-mot-cau-hoi-lon-185260813150230257.htm",
+      "summary": "Phát biểu giao nhiệm vụ tại Hội nghị lần thứ nhất Hội đồng Đội T.Ư khóa X, Bí thư thứ nhất T.Ư Đoàn Bùi Quang Huy đề nghị Hội đồng Đội T.Ư phải trả lời được câu hỏi lớn: Tổ chức Đội phải làm gì để thực sự đồng hành, gần gũi và đáp ứng tốt hơn những nhu cầu của thiếu nhi trong giai đoạn hiện nay?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T08:35:00+07:00",
+      "fetched": "2026-08-13T16:07:49.793777+07:00"
+    },
+    {
+      "id": "bc68842c8a2a182b6ce297bdad74177b",
+      "title": "Các sân bay trên thế giới đối phó với drone ra sao?",
+      "link": "https://thanhnien.vn/cac-san-bay-tren-the-gioi-doi-pho-voi-drone-ra-sao-185260813152751398.htm",
+      "summary": "Với hàng triệu chiếc drone thương mại nằm trong tay người dùng cá nhân, các sân bay trên toàn thế giới phải đối mặt với một vấn đề nan giải chưa từng có. Đối với các nhân viên kiểm soát không lưu, bất kỳ vật thể lạ nào xuất hiện trên đường bay đều là nguy cơ tiềm ẩn dẫn đến thảm họa - có khả năng là...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T08:32:00+07:00",
+      "fetched": "2026-08-13T16:07:49.793932+07:00"
+    },
+    {
+      "id": "3e36fb8a361761da47e46adaa059e04d",
+      "title": "Cemmery ra mắt bộ sưu tập 'School mood on' mừng năm học mới",
+      "link": "https://vnexpress.net/cemmery-ra-mat-bo-suu-tap-school-mood-on-mung-nam-hoc-moi-5107984.html",
+      "summary": "Cemmery tung bộ sưu tập \"School mood on\" gồm trang phục, balo và túi xách theo phong cách basic, giúp Gen Z phối đồ linh hoạt dịp năm học mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T08:30:00+07:00",
+      "fetched": "2026-08-13T16:07:46.364181+07:00"
+    },
+    {
+      "id": "f979bb10649e3658d4f66811bbdea883",
+      "title": "Trường đại học Văn Hiến cất nóc khối đào tạo học tập thực hành HEC2",
+      "link": "https://thanhnien.vn/truong-dai-hoc-van-hien-cat-noc-khoi-dao-tao-hoc-tap-thuc-hanh-hec2-185260813154002519.htm",
+      "summary": "Ngày 10.8.2026, Trường đại học Văn Hiến đã cất nóc khối đào tạo học tập thực hành HEC2 có 15 tầng, hơn 47.000 m2 sàn sẽ được sử dụng từ năm học 2026 - 2027. Đồng thời khởi công xây dựng Khối tòa nhà Complex VHU30 công trình dự kiến hoàn thành chào mừng 30 năm thành lập trường 11.7.2027.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T08:30:00+07:00",
+      "fetched": "2026-08-13T16:07:49.794116+07:00"
+    },
+    {
+      "id": "fdc00ead39b91d2c2c9f26eb0918bcee",
+      "title": "Tím tái cả khi thức, bé trai 4 tuổi mắc hội chứng hiếm gặp",
+      "link": "https://thanhnien.vn/tim-tai-ca-khi-thuc-be-trai-4-tuoi-mac-hoi-chung-hiem-gap-185260813151116996.htm",
+      "summary": "Từ ngáy to, ngưng thở khi ngủ đến tím tái cả ban ngày, bé trai 4 tuổi đã trải qua gần 2 năm tìm nguyên nhân gốc rễ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T08:30:00+07:00",
+      "fetched": "2026-08-13T16:07:49.794266+07:00"
+    },
+    {
+      "id": "bab5c237bde087b0912499e51f2bbe87",
+      "title": "Ăn đúng vẫn tăng đường huyết: 4 nguyên nhân ít ngờ tới",
+      "link": "https://thanhnien.vn/an-dung-van-tang-duong-huyet-4-nguyen-nhan-it-ngo-toi-185260812203735362.htm",
+      "summary": "Đường huyết không chỉ phụ thuộc vào chế độ ăn mà còn chịu ảnh hưởng bởi nhiều yếu tố khác. Vì vậy, dù ăn uống kỷ luật, người mắc tiền tiểu đường hoặc tiểu đường vẫn có thể bị đường huyết cao, không nhất thiết do ăn sai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T08:29:00+07:00",
+      "fetched": "2026-08-13T16:07:49.794418+07:00"
+    },
+    {
+      "id": "fd374100f181ea55d8651e8308d85521",
+      "title": "Đà Nẵng quy hoạch khu du lịch hơn 160 ha ở phường Hải Vân",
+      "link": "https://vnexpress.net/da-nang-quy-hoach-khu-du-lich-hon-160-ha-o-phuong-hai-van-5108717.html",
+      "summary": "UBND TP Đà Nẵng vừa phê duyệt quy hoạch phân khu 1/2000 khu du lịch Khe Răm, dự kiến bố trí bến thuyền, khu nghỉ dưỡng cao cấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T08:24:31+07:00",
+      "fetched": "2026-08-13T16:07:46.364345+07:00"
+    },
+    {
+      "id": "664150303b361a86e5a2a330caed987f",
+      "title": "Việt Nam - New Zealand hướng tới sớm mở đường bay thẳng",
+      "link": "https://vnexpress.net/viet-nam-new-zealand-huong-toi-som-mo-duong-bay-thang-5108731.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước hội đàm với Thủ tướng New Zealand, nhất trí thúc đẩy các hãng hàng không sớm mở đường bay thẳng giữa hai nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T08:17:37+07:00",
+      "fetched": "2026-08-13T16:07:46.364528+07:00"
+    },
+    {
+      "id": "664150303b361a86e5a2a330caed987f",
+      "title": "Việt Nam - New Zealand hướng tới sớm mở đường bay thẳng",
+      "link": "https://vnexpress.net/viet-nam-new-zealand-huong-toi-som-mo-duong-bay-thang-5108731.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước hội đàm với Thủ tướng New Zealand, nhất trí thúc đẩy các hãng hàng không sớm mở đường bay thẳng giữa hai nước.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-13T08:17:37+07:00",
+      "fetched": "2026-08-13T16:07:53.520463+07:00"
+    },
+    {
+      "id": "ecf12762e7d70ec8d3a9f963f1a1463a",
+      "title": "Dragon Capital dự báo hai kịch bản lãi suất khi đầu tư nửa cuối năm",
+      "link": "https://vnexpress.net/dragon-capital-du-bao-hai-kich-ban-lai-suat-khi-dau-tu-nua-cuoi-nam-5108589.html",
+      "summary": "Các chuyên gia Dragon Capital phân tích tác động vĩ mô, xây dựng hai kịch bản lãi suất, nhận định triển vọng nhóm tài sản và gợi mở chiến lược đầu tư, tại Investor Day vào 15h15 hôm nay (13/8).",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-13T08:13:00+07:00",
+      "fetched": "2026-08-13T16:07:54.912902+07:00"
+    },
+    {
+      "id": "83696821ca6e541dc5d851affe3a5eaf",
+      "title": "ICE dự kiến chi 20 triệu USD để trang bị găng tay chích điện",
+      "link": "https://vnexpress.net/ice-du-kien-chi-20-trieu-usd-de-trang-bi-gang-tay-chich-dien-5108386.html",
+      "summary": "Cơ quan Thực thi Di trú và Hải quan Mỹ (ICE) có kế hoạch mua loại găng tay được quảng cáo là tạo ra cú sốc điện giúp nhanh chóng khống chế đối tượng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-13T07:53:50+07:00",
+      "fetched": "2026-08-13T16:07:53.520632+07:00"
+    },
+    {
+      "id": "f87fd6eff2dd5ada7eeeb8bf0e9ce00b",
+      "title": "Ông Zelensky: Ukraine sẽ hạ toàn bộ tên lửa Nga nếu có 10% kho Patriot Mỹ",
+      "link": "https://vnexpress.net/ong-zelensky-ukraine-se-ha-toan-bo-ten-lua-nga-neu-co-10-kho-patriot-my-5108584.html",
+      "summary": "Tổng thống Zelensky tuyên bố Ukraine đủ sức bắn hạ toàn bộ tên lửa đạn đạo Nga nếu sở hữu 10% kho dự trữ tên lửa Patriot của Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-13T07:47:04+07:00",
+      "fetched": "2026-08-13T16:07:53.520792+07:00"
+    },
+    {
+      "id": "c5b30497da3903d8db475306fd9ce21d",
+      "title": "Giá xăng, dầu tiếp tục giảm",
+      "link": "https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-13-8-5108703.html",
+      "summary": "Từ 15h hôm nay, giá xăng, dầu (trừ mazut) trong nước cùng giảm, theo đà biến động của thị trường năng lượng thế giới.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-13T07:41:01+07:00",
+      "fetched": "2026-08-13T16:07:54.911257+07:00"
+    },
+    {
+      "id": "5a09b01d3e082c9d2ae126b82b70b6d7",
+      "title": "Việt Nam cần có phòng thí nghiệm phát triển chip dùng chung",
+      "link": "https://vnexpress.net/viet-nam-can-co-phong-thi-nghiem-phat-trien-chip-dung-chung-5108691.html",
+      "summary": "Các chuyên gia đề xuất xây dựng phòng thí nghiệm dùng chung để viện, trường đại học và doanh nghiệp cùng nghiên cứu, phát triển chip bán dẫn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-13T07:19:11+07:00",
+      "fetched": "2026-08-13T16:07:58.100796+07:00"
     },
     {
       "id": "fcf628b25372df8518c88171a5bdf4f9",
