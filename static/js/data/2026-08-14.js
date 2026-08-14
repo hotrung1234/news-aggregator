@@ -1,7 +1,157 @@
 window.newsData_2026_08_14 = {
   "date": "2026-08-14",
-  "lastUpdated": "2026-08-14T05:37:08.351869+07:00",
+  "lastUpdated": "2026-08-14T08:40:27.579562+07:00",
   "articles": [
+    {
+      "id": "6726792b437fffe916f882b06ff40ae3",
+      "title": "Phát hiện điều bất ngờ về những ‘điểm nhột’ trên cơ thể người",
+      "link": "https://tuoitre.vn/phat-hien-dieu-bat-ngo-ve-nhung-diem-nhot-tren-co-the-nguoi-100260811133905736.htm",
+      "summary": "Dù lớn lên trong những nền văn hóa rất khác nhau, con người dường như vẫn có những 'điểm nhột' gần như giống hệt nhau trên cơ thể.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T08:40:18.390231+07:00",
+      "fetched": "2026-08-14T08:40:18.390274+07:00"
+    },
+    {
+      "id": "636c5dd89c1f551a415481acf500b8f8",
+      "title": "Lều cắm trại tương lai: Gió thổi, chạm nhẹ cũng tạo điện",
+      "link": "https://tuoitre.vn/leu-cam-trai-tuong-lai-gio-thoi-cham-nhe-cung-tao-dien-100260813145328846.htm",
+      "summary": "Các nhà khoa học phát triển loại lều thông minh có thể thu năng lượng từ gió, rung động và cả những cú chạm nhẹ, tạo điện cho đèn, cảm biến và thiết bị công suất thấp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T08:40:18.390184+07:00",
+      "fetched": "2026-08-14T08:40:18.390225+07:00"
+    },
+    {
+      "id": "257c1cdd3e695df5ac200fc65acd1e4e",
+      "title": "Bộ trưởng Chiến tranh Mỹ phản bác tình hình tồi tệ trên tàu sân bay USS Abraham Lincoln",
+      "link": "https://tuoitre.vn/bo-truong-chien-tranh-my-phan-bac-tinh-hinh-toi-te-tren-tau-san-bay-uss-abraham-lincoln-100260814070605346.htm",
+      "summary": "Ông Hegseth khẳng định thông tin về điều kiện xuống cấp trên tàu sân bay USS Abraham Lincoln là 'hoàn toàn sai lệch'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T08:40:18.390141+07:00",
+      "fetched": "2026-08-14T08:40:18.390178+07:00"
+    },
+    {
+      "id": "70421b2f395657c7366755a88aebd0d8",
+      "title": "Thanh Hóa tuyển 1.632 giáo viên, có hơn 8.000 người đăng ký thi tuyển",
+      "link": "https://tuoitre.vn/thanh-hoa-tuyen-1632-giao-vien-co-hon-8000-nguoi-dang-ky-thi-tuyen-100260814070629441.htm",
+      "summary": "Sở Giáo dục và Đào tạo Thanh Hóa đang triển khai kế hoạch tuyển dụng 1.632 giáo viên các cấp học năm 2026. Sau khi chốt hồ sơ, có hơn 8.000 người đăng ký tham gia kỳ thi tuyển giáo viên năm nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T08:40:18.390097+07:00",
+      "fetched": "2026-08-14T08:40:18.390134+07:00"
+    },
+    {
+      "id": "afbd43a094191739d1e184eccaedabb1",
+      "title": "Khai thác khoáng sản: Nhiều nơi kê khai nộp thuế gian dối",
+      "link": "https://tuoitre.vn/khai-thac-khoang-san-nhieu-noi-ke-khai-nop-thue-gian-doi-100260813190902567.htm",
+      "summary": "Thanh tra Chính phủ phát hiện tại nhiều mỏ khoáng sản, khối lượng kê khai nộp thuế, phí thấp hơn số liệu báo cáo cơ quan tài nguyên. Có mỏ chênh hàng trăm nghìn m³, làm giảm thu ngân sách tạm tính hơn 13,5 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T08:40:18.390043+07:00",
+      "fetched": "2026-08-14T08:40:18.390089+07:00"
+    },
+    {
+      "id": "e42bc83ef0ea7dbf73aa57a685493482",
+      "title": "Thanh Hóa lần đầu tiên cấp đồ dùng học tập, tư trang cho học sinh nội trú các xã biên giới",
+      "link": "https://tuoitre.vn/thanh-hoa-lan-dau-tien-cap-do-dung-hoc-tap-tu-trang-cho-hoc-sinh-noi-tru-cac-xa-bien-gioi-100260814064029747.htm",
+      "summary": "Chủ tịch UBND tỉnh Thanh Hóa vừa ký quyết định số 81 quy định danh mục trang cấp đồ dùng cá nhân và học phẩm cho học sinh trường phổ thông nội trú tại các xã biên giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T08:40:18.390005+07:00",
+      "fetched": "2026-08-14T08:40:18.390035+07:00"
+    },
+    {
+      "id": "c5d3c8ac7600e211388de5076c88de62",
+      "title": "Người hùng tuyển Tây Ban Nha gia nhập PSG",
+      "link": "https://tuoitre.vn/nguoi-hung-tuyen-tay-ban-nha-gia-nhap-psg-100260814072129152.htm",
+      "summary": "Hàng loạt tờ báo uy tín tại Pháp và Tây Ban Nha đồng loạt xác nhận CLB Paris Saint Germain (PSG) và Barca đã đạt thỏa thuận về tiền đạo Ferran Torres vào rạng sáng 14-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T08:40:18.389969+07:00",
+      "fetched": "2026-08-14T08:40:18.389999+07:00"
+    },
+    {
+      "id": "0946786544130ade6a433a48af92b388",
+      "title": "Cầu thủ nào nguy hiểm nhất của Malaysia mà tuyển Việt Nam phải đề phòng?",
+      "link": "https://tuoitre.vn/cau-thu-nao-nguy-hiem-nhat-cua-malaysia-ma-tuyen-viet-nam-phai-de-phong-100260814003812296.htm",
+      "summary": "Tiền đạo Pavithran đã hai lần nhận danh hiệu \"Cầu thủ xuất sắc nhất trận\" ở ASEAN Cup 2026. Nhưng Malaysia còn có cầu thủ khác nguy hiểm hơn nhiều mà đội tuyển Việt Nam phải đề phòng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T08:40:18.389932+07:00",
+      "fetched": "2026-08-14T08:40:18.389963+07:00"
+    },
+    {
+      "id": "8558d21e2a0ee1dbf409421d08ada64b",
+      "title": "Ngôi sao Malaysia nhận xét Việt Nam 'mạnh gấp đôi chúng tôi' trước bán kết ASEAN Cup",
+      "link": "https://tuoitre.vn/ngoi-sao-malaysia-nhan-xet-viet-nam-manh-gap-doi-chung-toi-truoc-ban-ket-asean-cup-100260813221931505.htm",
+      "summary": "Phát biểu trước thềm trận bán kết lượt đi ASEAN Cup 2026 gặp Việt Nam vào ngày 16-8 tới đây, ngôi sao Pavithran Gunalan của Malaysia đưa ra nhận định khiêm tốn về thực lực của đội nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T08:40:18.389884+07:00",
+      "fetched": "2026-08-14T08:40:18.389926+07:00"
+    },
+    {
+      "id": "240e996f8b67d5653887d28ef9931b22",
+      "title": "Giao Hàng Nặng tái định vị: Đối tác logistics chuyên biệt cho kênh bán lẻ",
+      "link": "https://tuoitre.vn/giao-hang-nang-tai-dinh-vi-doi-tac-logistics-chuyen-biet-cho-kenh-ban-le-100260804155401418.htm",
+      "summary": "Ngày 30-7, tại Triển lãm Quốc tế Logistics Việt Nam 2026 (VILOG 2026), Giao Hàng Nặng công bố định vị mới là đối tác logistics chuyên biệt cho kênh bán lẻ, ra mắt nhận diện thương hiệu, hệ sinh thái logistics tích hợp và các giải pháp ứng dụng AI.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T08:40:18.389820+07:00",
+      "fetched": "2026-08-14T08:40:18.389875+07:00"
+    },
+    {
+      "id": "d9eb0245d0c2e686fede9eac4f4a6b49",
+      "title": "Xăng E10 và những lưu ý giúp xe vận hành ổn định hơn",
+      "link": "https://tuoitre.vn/xang-e10-va-nhung-luu-y-giup-xe-van-hanh-on-dinh-hon-100260813173750094.htm",
+      "summary": "Khi sử dụng xăng E10, một số người cảm nhận tình trạng xe hoạt động kém hiệu quả, trong khi đó, các chuyên gia cho rằng nguyên nhân có thể đến từ thói quen bảo dưỡng chưa đúng cách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T08:40:18.389767+07:00",
+      "fetched": "2026-08-14T08:40:18.389813+07:00"
+    },
+    {
+      "id": "4954f8e1fa885764e15933284cfb1580",
+      "title": "Điểm bán Vietlott đón thêm nhiều lượt khách nhờ Lotto 5/35",
+      "link": "https://tuoitre.vn/diem-ban-vietlott-don-them-nhieu-luot-khach-nho-lotto-5-35-100260813182905686.htm",
+      "summary": "Xổ số quay nhanh Lotto 5/35 mở thưởng vào lúc 13h và 21h mỗi ngày, giúp các điểm bán vé thu hút người chơi vào giờ nghỉ trưa và chiều tối.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T08:40:18.389481+07:00",
+      "fetched": "2026-08-14T08:40:18.389757+07:00"
+    },
+    {
+      "id": "d288d17f0af138f1042b87b7e1e34885",
+      "title": "Đề xuất trên 25 tuổi mới được hiến tạng cho người ngoài gia đình để tránh buôn bán tạng",
+      "link": "https://tuoitre.vn/de-xuat-tren-25-tuoi-moi-duoc-hien-tang-cho-nguoi-ngoai-gia-dinh-de-tranh-buon-ban-tang-100260813164933717.htm",
+      "summary": "Bộ Y tế đề xuất người hiến bộ phận cơ thể cho thành viên gia đình phải từ đủ 18 tuổi và trường hợp hiến cho người không phải thành viên gia đình, người hiến phải từ đủ 25 tuổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T08:40:18.389427+07:00",
+      "fetched": "2026-08-14T08:40:18.389472+07:00"
+    },
+    {
+      "id": "bb9788cca1db4639703e3b3317a9fda6",
+      "title": "Huấn luyện cảnh khuyển ‘tung đòn’ tấn công tội phạm, 'ra hiệu' trong im lặng",
+      "link": "https://tuoitre.vn/huan-luyen-canh-khuyen-tung-don-tan-cong-toi-pham-ra-hieu-trong-im-lang-100260813215040788.htm",
+      "summary": "Khác với chó nghiệp vụ ở một số lực lượng, cảnh khuyển của Bộ Tư lệnh cảnh vệ được huấn luyện theo những yêu cầu riêng, phù hợp với tính chất đặc thù nhiệm vụ bảo vệ VIP.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T08:40:18.389380+07:00",
+      "fetched": "2026-08-14T08:40:18.389421+07:00"
+    },
+    {
+      "id": "990950d402165ad964142a24eae1b930",
+      "title": "Chứng khoán 14-8: VN-Index rung lắc, vùng hỗ trợ nào đang được chờ đợi?",
+      "link": "https://tuoitre.vn/chung-khoan-14-8-vn-index-rung-lac-vung-ho-tro-nao-dang-duoc-cho-doi-100260814074820245.htm",
+      "summary": "Các công ty chứng khoán cho rằng VN-Index có thể tiếp tục chịu áp lực điều chỉnh trong phiên 14-8. Vùng 1.740 điểm được nhiều bên chú ý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T08:40:18.389241+07:00",
+      "fetched": "2026-08-14T08:40:18.389371+07:00"
+    },
     {
       "id": "39a3b5e5b20688ea34d789fc8eb52771",
       "title": "Một trường ở TP.HCM có hai lớp 100% học sinh đậu đại học y, phụ huynh xôn xao",
@@ -153,6 +303,206 @@ window.newsData_2026_08_14 = {
       "fetched": "2026-08-14T01:58:09.982553+07:00"
     },
     {
+      "id": "92b9226003259ea779295e95d7157842",
+      "title": "Lý do tàu cao tốc không có dây an toàn",
+      "link": "https://vnexpress.net/ly-do-tau-cao-toc-khong-co-day-an-toan-5108726.html",
+      "summary": "Việc tàu cao tốc không trang bị dây an toàn là do thiết bị này không thực sự cần thiết, đồng thời nhằm tránh các chấn thương do lực quán tính khi phanh gấp.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-14T01:00:00+07:00",
+      "fetched": "2026-08-14T08:40:19.863217+07:00"
+    },
+    {
+      "id": "4c4456fac74794d0d5df4d0bdce2a444",
+      "title": "Bộ trưởng Quốc phòng Mỹ lên tiếng về vụ thủy thủ cố nhảy khỏi tàu sân bay",
+      "link": "https://vnexpress.net/bo-truong-quoc-phong-my-len-tieng-ve-vu-thuy-thu-co-nhay-khoi-tau-san-bay-5108951.html",
+      "summary": "Ông Hegseth khẳng định tình hình bị \"bóp méo\", sau khi xuất hiện thông tin nhiều thủy thủ từng cố nhảy khỏi tàu sân bay đang triển khai gần Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-14T00:58:45+07:00",
+      "fetched": "2026-08-14T08:40:19.863327+07:00"
+    },
+    {
+      "id": "2ac97ab6dad28fb188d140897eb48e62",
+      "title": "Bác sĩ cảnh báo nguy cơ ung thư khi dùng nồi chiên không dầu sai cách",
+      "link": "https://vnexpress.net/bac-si-canh-bao-nguy-co-ung-thu-khi-dung-noi-chien-khong-dau-sai-cach-5108804.html",
+      "summary": "Chuyên gia y tế cảnh báo thói quen lạm dụng nồi chiên không dầu hàng ngày ở nhiệt độ cao có thể tạo ra các hợp chất gây ung thư nguy hại tới sức khỏe con người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T00:34:21+07:00",
+      "fetched": "2026-08-14T08:40:13.377016+07:00"
+    },
+    {
+      "id": "227db78c568827e261e18a01d204ecb6",
+      "title": "Bộ trưởng Hegseth: Mỹ có thể phong tỏa cảng biển Iran vô thời hạn",
+      "link": "https://vnexpress.net/bo-truong-hegseth-my-co-the-phong-toa-cang-bien-iran-vo-thoi-han-5108952.html",
+      "summary": "Bộ trưởng Quốc phòng Mỹ tuyên bố nước này có đủ nguồn lực để duy trì phong tỏa đường biển đối với Iran đến khi đạt được mục tiêu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T00:23:34+07:00",
+      "fetched": "2026-08-14T08:40:13.377125+07:00"
+    },
+    {
+      "id": "227db78c568827e261e18a01d204ecb6",
+      "title": "Bộ trưởng Hegseth: Mỹ có thể phong tỏa cảng biển Iran vô thời hạn",
+      "link": "https://vnexpress.net/bo-truong-hegseth-my-co-the-phong-toa-cang-bien-iran-vo-thoi-han-5108952.html",
+      "summary": "Bộ trưởng Quốc phòng Mỹ tuyên bố nước này có đủ nguồn lực để duy trì phong tỏa đường biển đối với Iran đến khi đạt được mục tiêu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-14T00:23:34+07:00",
+      "fetched": "2026-08-14T08:40:19.863425+07:00"
+    },
+    {
+      "id": "1389bfa8a44494fdcb37600a9b3df554",
+      "title": "Nội Bài phân làn mới, tài xế đi thế nào cho đúng?",
+      "link": "https://vnexpress.net/noi-bai-phan-lan-moi-tai-xe-di-the-nao-cho-dung-5106103.html",
+      "summary": "Thay vì các xe cùng áp sát nhà ga để đón, trả khách như trước, sân bay Nội Bài nay phân làn, bố trí điểm dừng riêng theo từng loại phương tiện nhằm giảm ùn tắc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T00:00:08+07:00",
+      "fetched": "2026-08-14T08:40:13.377222+07:00"
+    },
+    {
+      "id": "57fe8d96b91d27be14f82a69d4b02b68",
+      "title": "Thấy 'ruồi bay', phát hiện bong võng mạc cận thị",
+      "link": "https://vnexpress.net/thay-ruoi-bay-phat-hien-bong-vong-mac-can-thi-5108790.html",
+      "summary": "Người phụ nữ 36 tuổi cận thị, nay mắt trái xuất hiện vùng che khuất tầm nhìn kèm \"ruồi bay\" (đốm trước mắt), được chẩn đoán bong võng mạc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T00:00:00+07:00",
+      "fetched": "2026-08-14T08:40:13.377314+07:00"
+    },
+    {
+      "id": "e037a6a9273c8d3c7a1dac19b0db6156",
+      "title": "Tổn thất với ông Trump khi phát ngôn viên Leavitt từ chức",
+      "link": "https://vnexpress.net/ton-that-voi-ong-trump-khi-phat-ngon-vien-leavitt-tu-chuc-5108533.html",
+      "summary": "Karoline Leavitt rời Nhà Trắng khiến Tổng thống Trump mất trợ lý thân tín và gương mặt truyền thông nổi bật, trong lúc Mỹ chuẩn bị bước vào bầu cử giữa kỳ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T00:00:00+07:00",
+      "fetched": "2026-08-14T08:40:13.377403+07:00"
+    },
+    {
+      "id": "ab5493c65fc8baf87e5fbce9428ab859",
+      "title": "Khách chờ hai tiếng, gửi email để ăn bánh mì của đầu bếp Mỹ ở TP HCM",
+      "link": "https://vnexpress.net/khach-cho-hai-tieng-gui-email-de-an-banh-mi-cua-dau-bep-my-o-tp-hcm-5108440.html",
+      "summary": "Quầy bánh mì của đầu bếp Mỹ Chad Kubanoff chỉ bán 50 ổ mỗi ngày, khiến khách xếp hàng, gửi email đặt trước khi quầy mở cửa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T00:00:00+07:00",
+      "fetched": "2026-08-14T08:40:13.377495+07:00"
+    },
+    {
+      "id": "296225caf7488bdbb3cf3c172668c76a",
+      "title": "Xương cá mắc trong phế quản người đàn ông",
+      "link": "https://vnexpress.net/xuong-ca-mac-trong-phe-quan-nguoi-dan-ong-5108845.html",
+      "summary": "Ông Tư, 71 tuổi, mệt mỏi sau uống thuốc không rõ nguồn gốc chữa xương khớp, đi khám tình cờ phát hiện mảnh xương cá mắc trong phế quản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T00:00:00+07:00",
+      "fetched": "2026-08-14T08:40:13.377595+07:00"
+    },
+    {
+      "id": "831bc5c5d3a4c22cbbc8a586684a758e",
+      "title": "Điều gì xảy ra sau khi mắc đái tháo đường thai kỳ?",
+      "link": "https://vnexpress.net/dieu-gi-xay-ra-sau-khi-mac-dai-thao-duong-thai-ky-5108837.html",
+      "summary": "Tôi sinh 2 con đều mắc đái tháo đường thai kỳ thì có nguy cơ mắc đái tháo đường type 2 không, cần kiểm tra và phòng ngừa thế nào? (Minh Hạnh, Ninh Bình)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T00:00:00+07:00",
+      "fetched": "2026-08-14T08:40:13.377692+07:00"
+    },
+    {
+      "id": "7c3f7fd590931ce565391729f15a33d0",
+      "title": "Lấn làn tránh xe đỗ chắn lối có bị phạt?",
+      "link": "https://vnexpress.net/lan-lan-tranh-xe-do-chan-loi-co-bi-phat-5108745.html",
+      "summary": "Trường hợp xe khách đỗ chiếm hết làn đường, tôi đè vạch liền để đi tiếp thì có bị phạt. (Hoàng Hải)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-14T00:00:00+07:00",
+      "fetched": "2026-08-14T08:40:13.377787+07:00"
+    },
+    {
+      "id": "e037a6a9273c8d3c7a1dac19b0db6156",
+      "title": "Tổn thất với ông Trump khi phát ngôn viên Leavitt từ chức",
+      "link": "https://vnexpress.net/ton-that-voi-ong-trump-khi-phat-ngon-vien-leavitt-tu-chuc-5108533.html",
+      "summary": "Karoline Leavitt rời Nhà Trắng khiến Tổng thống Trump mất trợ lý thân tín và gương mặt truyền thông nổi bật, trong lúc Mỹ chuẩn bị bước vào bầu cử giữa kỳ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-14T00:00:00+07:00",
+      "fetched": "2026-08-14T08:40:19.863517+07:00"
+    },
+    {
+      "id": "57394fd871b48dd12e99f69575819ec2",
+      "title": "Nga phản bác Nhật về chuyến thăm quần đảo tranh chấp của ông Putin",
+      "link": "https://vnexpress.net/nga-phan-bac-nhat-ve-chuyen-tham-quan-dao-tranh-chap-cua-ong-putin-5108948.html",
+      "summary": "Moskva mô tả những tuyên bố từ Tokyo là \"vô căn cứ, gây phẫn nộ\", sau khi Nhật Bản phản đối ông Putin thăm quần đảo Kuril tranh chấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T23:54:46+07:00",
+      "fetched": "2026-08-14T08:40:13.377876+07:00"
+    },
+    {
+      "id": "57394fd871b48dd12e99f69575819ec2",
+      "title": "Nga phản bác Nhật về chuyến thăm quần đảo tranh chấp của ông Putin",
+      "link": "https://vnexpress.net/nga-phan-bac-nhat-ve-chuyen-tham-quan-dao-tranh-chap-cua-ong-putin-5108948.html",
+      "summary": "Moskva mô tả những tuyên bố từ Tokyo là \"vô căn cứ, gây phẫn nộ\", sau khi Nhật Bản phản đối ông Putin thăm quần đảo Kuril tranh chấp.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-13T23:54:46+07:00",
+      "fetched": "2026-08-14T08:40:19.863618+07:00"
+    },
+    {
+      "id": "2e665c8964e81a419b9ea89fa1456590",
+      "title": "Hơn 320 thí sinh chuyên Tuyên Quang thi lại môn đầu tiên",
+      "link": "https://vnexpress.net/hon-320-thi-sinh-chuyen-tuyen-quang-thi-lai-mon-dau-tien-5108886.html",
+      "summary": "Nhiều thí sinh đến trường thi chuyên Tuyên Quang từ 6h, người ra vào bị kiểm tra giấy tờ nghiêm ngặt, trong kỳ thi tốt nghiệp lần hai 'chưa từng có' vì gian lận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T23:47:44+07:00",
+      "fetched": "2026-08-14T08:40:13.377961+07:00"
+    },
+    {
+      "id": "fc54770370849b0f98ccfbe2b42efc00",
+      "title": "Người trẻ từ chối kiểu làm việc 'cày cuốc'",
+      "link": "https://vnexpress.net/nguoi-tre-tu-choi-kieu-lam-viec-cay-cuoc-5108938.html",
+      "summary": "Từng kiệt sức và suy giảm trí nhớ sau những ngày dài làm việc 20 tiếng, Bảo Ngọc 28 tuổi ở TP HCM quyết định dừng lại, đàm phán ranh giới công việc với sếp để lấy lại sự cân bằng cuộc sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T23:31:57+07:00",
+      "fetched": "2026-08-14T08:40:13.378043+07:00"
+    },
+    {
+      "id": "3f61789b85ee7383b51855f6710fbfad",
+      "title": "Hơn 5.600 môtô Honda lỗi ốc khóa ở tay lái",
+      "link": "https://vnexpress.net/hon-5-600-moto-honda-loi-oc-khoa-o-tay-lai-5108789.html",
+      "summary": "Trên các xe Honda thuộc diện ảnh hưởng, một số ốc có thể lỏng, nguy cơ rơi hoặc kẹt vào tay lái, khiến người dùng khó điều khiển xe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T23:30:00+07:00",
+      "fetched": "2026-08-14T08:40:13.378127+07:00"
+    },
+    {
+      "id": "f7817bdbf704232345ad13d4e20fcf46",
+      "title": "Ba rào cản khiến nam giới Việt ngoài 30 khó kết hôn",
+      "link": "https://vnexpress.net/ba-rao-can-khien-nam-gioi-viet-ngoai-30-kho-ket-hon-5105474.html",
+      "summary": "Nhiều nam giới ngoài 30 tuổi có thu nhập ổn định nhưng vẫn khó kết hôn do thiếu kỹ năng hẹn hò và đặt tiêu chuẩn bạn đời không thực tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T23:29:00+07:00",
+      "fetched": "2026-08-14T08:40:13.378213+07:00"
+    },
+    {
+      "id": "57f53cfe883f28fd0e8065506c6e47c5",
+      "title": "Anh em sinh đôi cùng đạt gần 29 điểm vào Y Hà Nội",
+      "link": "https://vnexpress.net/anh-em-sinh-doi-cung-dat-gan-29-diem-vao-y-ha-noi-5108416.html",
+      "summary": "Thường chỉ tự học một tiếng mỗi tối, cặp sinh đôi Bảo Minh và Anh Minh cùng đạt 28,63 điểm, thừa điểm đỗ ngành Răng Hàm Mặt, trường Đại học Y Hà Nội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-13T23:20:26+07:00",
+      "fetched": "2026-08-14T08:40:13.378309+07:00"
+    },
+    {
       "id": "2fdc29b45dbf982ed5dd1bf61ddb602d",
       "title": "Phút sinh tử buộc Mật vụ Mỹ sơ tán ông Trump khỏi chuyên cơ",
       "link": "https://vnexpress.net/phut-sinh-tu-buoc-mat-vu-my-so-tan-ong-trump-khoi-chuyen-co-5108529.html",
@@ -301,6 +651,16 @@ window.newsData_2026_08_14 = {
       "category": "Kinh doanh",
       "published": "2026-08-13T18:48:04+07:00",
       "fetched": "2026-08-14T01:58:13.103593+07:00"
+    },
+    {
+      "id": "fd12972829386903cab18597dfbfb900",
+      "title": "CEO Dragon Capital: 'Lãi suất thời gian tới sẽ khó tăng cao hay giảm mạnh đột ngột'",
+      "link": "https://vnexpress.net/ceo-dragon-capital-lai-suat-thoi-gian-toi-se-kho-tang-cao-hay-giam-manh-dot-ngot-5108932.html",
+      "summary": "Ông Lê Anh Tuấn, Tổng giám đốc Dragon Capital, dự báo diễn biến lãi suất thời gian tới sẽ ổn định hơn, không tăng cao hay giảm mạnh đột ngột.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-13T18:48:04+07:00",
+      "fetched": "2026-08-14T08:40:21.795362+07:00"
     },
     {
       "id": "6128e70f10747a6401a025c440e011d0",
