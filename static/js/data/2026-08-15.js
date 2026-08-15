@@ -1,7 +1,157 @@
 window.newsData_2026_08_15 = {
   "date": "2026-08-15",
-  "lastUpdated": "2026-08-15T13:32:13.771680+07:00",
+  "lastUpdated": "2026-08-15T15:23:03.563284+07:00",
   "articles": [
+    {
+      "id": "0deb576a74a8e2e9e336e4c96e6133ed",
+      "title": "Dùng Facebook giả dụ nghi phạm cướp tài sản để công an bắt giữ",
+      "link": "https://tuoitre.vn/dung-facebook-gia-du-nghi-pham-cuop-tai-san-de-cong-an-bat-giu-100260815123423258.htm",
+      "summary": "Sau thời gian bị người quen qua Facebook hẹn gặp rồi khống chế cướp tài sản tại khu vực bờ kè quảng trường, một phụ nữ ở Đồng Tháp đã dùng tài khoản Facebook giả để tìm ra nghi phạm, hẹn gặp và trình báo công an. Đối tượng đã thừa nhận hành vi cướp tài sản, đồng thời có kết quả dương tính với ma túy...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T15:22:56.782335+07:00",
+      "fetched": "2026-08-15T15:22:56.782383+07:00"
+    },
+    {
+      "id": "49e079df2219b5557e8f3974ea3fa356",
+      "title": "Bệnh viện Bình Dân lập kỷ lục Việt Nam với gần 4.300 ca phẫu thuật robot",
+      "link": "https://tuoitre.vn/benh-vien-binh-dan-lap-ky-luc-viet-nam-voi-gan-4300-ca-phau-thuat-robot-100260815115818927.htm",
+      "summary": "Sau 10 năm tiên phong phẫu thuật robot, Bệnh viện Bình Dân (TP.HCM) đã thực hiện gần 4.300 ca, xác lập kỷ lục Việt Nam về số ca phẫu thuật robot nhiều nhất trong một thập kỷ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T15:22:56.782282+07:00",
+      "fetched": "2026-08-15T15:22:56.782327+07:00"
+    },
+    {
+      "id": "8cc645e5e0ebbc6d8473382d1285a78a",
+      "title": "Người miền Tây đi cao tốc Bến Lức - Long Thành bằng đường nào?",
+      "link": "https://tuoitre.vn/nguoi-mien-tay-di-cao-toc-ben-luc-long-thanh-bang-duong-nao-100260815122042319.htm",
+      "summary": "Cao tốc Bến Lức - Long Thành sắp thông toàn tuyến, người dân miền Tây có thể vào cao tốc này bằng đường nào?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T15:22:56.782226+07:00",
+      "fetched": "2026-08-15T15:22:56.782270+07:00"
+    },
+    {
+      "id": "acb3a149d9e72c2a2156c05a96b425d2",
+      "title": "Động đất 7,7 độ rung chuyển Indonesia, ít nhất 20 người chết, nhiều công trình đổ sập",
+      "link": "https://tuoitre.vn/dong-dat-77-do-rung-chuyen-indonesia-it-nhat-20-nguoi-chet-nhieu-cong-trinh-do-sap-100260815124408829.htm",
+      "summary": "Trận động đất 7,7 độ ngoài khơi đảo Flores (Indonesia) khiến ít nhất 20 người thiệt mạng, hàng nghìn người sơ tán.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T15:22:56.782172+07:00",
+      "fetched": "2026-08-15T15:22:56.782219+07:00"
+    },
+    {
+      "id": "8bcf0cfbfa3ab58edf6d89ad26b407a3",
+      "title": "HDBank sắp gọi tên chủ nhân sổ tiết kiệm 200 triệu đồng",
+      "link": "https://tuoitre.vn/hdbank-sap-goi-ten-chu-nhan-so-tiet-kiem-200-trieu-dong-100260815123055088.htm",
+      "summary": "HDBank sẽ tổ chức kỳ quay số thứ 4 của chương trình 'Tiết kiệm Tỷ phú - Hè Vàng Đại Cát' vào ngày 25-8, với giải thưởng 16 sổ tiết kiệm, cao nhất trị giá 200 triệu đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T15:22:56.782121+07:00",
+      "fetched": "2026-08-15T15:22:56.782164+07:00"
+    },
+    {
+      "id": "5e492b0294e12d1e3d6563498eb175f9",
+      "title": "Trẻ sử dụng mạng xã hội: Không chỉ gây nghiện mà còn những nguy cơ nào?",
+      "link": "https://tuoitre.vn/tre-su-dung-mang-xa-hoi-khong-chi-gay-nghien-ma-con-nhung-nguy-co-nao-100260815121446121.htm",
+      "summary": "Mạng xã hội đang trở thành một phần không thể thiếu trong đời sống trẻ em, thanh thiếu niên, mở ra nhiều cơ hội học tập, kết nối, sáng tạo và thể hiện bản thân. Nhưng cùng với đó là những rủi ro ngày càng rõ đối với sức khỏe tâm thần.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T15:22:56.782068+07:00",
+      "fetched": "2026-08-15T15:22:56.782114+07:00"
+    },
+    {
+      "id": "fa02abfbf2b6d401ce67383c2da359d5",
+      "title": "Thủ tướng yêu cầu công khai bữa ăn học sinh mỗi ngày, chấm dứt đùn đẩy trách nhiệm",
+      "link": "https://tuoitre.vn/thu-tuong-yeu-cau-cong-khai-bua-an-hoc-sinh-moi-ngay-cham-dut-dun-day-trach-nhiem-100260815122335718.htm",
+      "summary": "Thủ tướng yêu cầu siết an toàn thực phẩm trường học, làm rõ trách nhiệm người đứng đầu và công khai bữa ăn, nguồn thực phẩm để phụ huynh giám sát.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T15:22:56.782013+07:00",
+      "fetched": "2026-08-15T15:22:56.782060+07:00"
+    },
+    {
+      "id": "99ee187f4d8f0d90b77e9e319b2ba42c",
+      "title": "Thanh Ngọc và Đinh Tiến Đạt lần đầu kết hợp, kể lại bi kịch Mỵ Châu - Trọng Thủy",
+      "link": "https://tuoitre.vn/thanh-ngoc-va-dinh-tien-dat-lan-dau-ket-hop-ke-lai-bi-kich-my-chau-trong-thuy-100260815120019964.htm",
+      "summary": "Sau hơn 20 năm hoạt động, Thanh Ngọc lần đầu kết hợp Đinh Tiến Đạt trong Mỵ Châu - ca khúc được sáng tác dựa theo truyền thuyết quen thuộc để đối thoại về tình yêu, trách nhiệm và những lựa chọn không thể quay lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T15:22:56.781959+07:00",
+      "fetched": "2026-08-15T15:22:56.782005+07:00"
+    },
+    {
+      "id": "47b9c03fd30ab59d84c8fcf737b7e8d6",
+      "title": "Siêu máy tính dự đoán Việt Nam thắng Malaysia 4-0, vì sao?",
+      "link": "https://tuoitre.vn/sieu-may-tinh-du-doan-viet-nam-thang-malaysia-4-0-vi-sao-10026081510403397.htm",
+      "summary": "Football Prediction AI, chuyên trang bóng đá nổi tiếng về việc tổng hợp dữ liệu, phân tích rồi đưa ra dự đoán kết quả, mới đây đã đưa ra dự đoán gây sốc về trận bán kết lượt đi ASEAN Cup 2026 giữa Malaysia và Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T15:22:56.781891+07:00",
+      "fetched": "2026-08-15T15:22:56.781950+07:00"
+    },
+    {
+      "id": "f43d97289dcba69e4864e546f8f8ae3d",
+      "title": "Tim Cook: Tôi muốn được nhớ đến là một người tử tế và lương thiện",
+      "link": "https://tuoitre.vn/tim-cook-toi-muon-duoc-nho-den-la-mot-nguoi-tu-te-va-luong-thien-10026081511484251.htm",
+      "summary": "Sau 15 năm lãnh đạo Apple, Tim Cook chuẩn bị rời vị trí CEO. Ông chia sẻ muốn được nhớ đến là \"một người tử tế và lương thiện”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T15:22:56.781836+07:00",
+      "fetched": "2026-08-15T15:22:56.781882+07:00"
+    },
+    {
+      "id": "f7beb104820dd602ce121f65c8bccca2",
+      "title": "The One Piece của Netflix sẽ khác anime gốc đến mức nào?",
+      "link": "https://tuoitre.vn/the-one-piece-cua-netflix-se-khac-anime-goc-den-muc-nao-100260815121034439.htm",
+      "summary": "The One Piece của Netflix sẽ không chỉ làm mới hình ảnh anime cũ. CEO WIT Studio cho biết dự án là phiên bản khởi động lại, với cách kể và nhịp độ được điều chỉnh để phù hợp với khán giả mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T15:22:56.781780+07:00",
+      "fetched": "2026-08-15T15:22:56.781828+07:00"
+    },
+    {
+      "id": "6dd370060d0e5f4c0fd6bef0e9e9eb23",
+      "title": "Video: HLV Malaysia muốn noi gương tuyển Cape Verde khi đối đầu Việt Nam",
+      "link": "https://tuoitre.vn/video-hlv-malaysia-muon-noi-guong-tuyen-cape-verde-khi-doi-dau-viet-nam-100260815114759628.htm",
+      "summary": "HLV trưởng Tan Cheng Hoe (Malaysia) coi những trận thua đội tuyển Việt Nam chỉ là quá khứ và nói lần đối đầu sắp tới tại ASEAN Cup 2026 sẽ rất khác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T15:22:56.781724+07:00",
+      "fetched": "2026-08-15T15:22:56.781772+07:00"
+    },
+    {
+      "id": "7b33ddd167194efe173afe9507bccb79",
+      "title": "Nhà máy Lọc dầu Dung Quất đã đóng góp hơn 10 tỉ USD vào ngân sách",
+      "link": "https://tuoitre.vn/nha-may-loc-dau-dung-quat-da-dong-gop-hon-10-ti-usd-vao-ngan-sach-100260815115404529.htm",
+      "summary": "Nhà máy Lọc hóa dầu Dung Quất hoạt động từ 2009. Từ đó đến nay đã đóng góp hơn 10 tỉ USD vào ngân sách nhà nước và đang mở rộng công suất với tổng vốn đầu tư lên 4,54 tỉ USD.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T15:22:56.781664+07:00",
+      "fetched": "2026-08-15T15:22:56.781716+07:00"
+    },
+    {
+      "id": "363cfad85a92f0a07df01e71312550aa",
+      "title": "Bộ trưởng bang đông dân nhất nước Úc: Nhiều cánh cửa cơ hội đã mở ra cho Việt - Úc",
+      "link": "https://tuoitre.vn/bo-truong-bang-dong-dan-nhat-nuoc-uc-nhieu-canh-cua-co-hoi-da-mo-ra-cho-viet-uc-100260815102931326.htm",
+      "summary": "Bộ trưởng bang New South Wales nói chuyến thăm Úc của Tổng Bí thư, Chủ tịch nước Tô Lâm đã đạt thành công lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T15:22:56.781593+07:00",
+      "fetched": "2026-08-15T15:22:56.781655+07:00"
+    },
+    {
+      "id": "43fe21723eedb4ae7da3efcf0b515c62",
+      "title": "Cả xóm có cái ti vi trắng đen 9 inch, người lớn xoay ăng ten, con nít hô ‘được rồi, quay ngược lại’",
+      "link": "https://tuoitre.vn/ca-xom-co-cai-ti-vi-trang-den-9-inch-nguoi-lon-xoay-ang-ten-con-nit-ho-duoc-roi-quay-nguoc-lai-100260808192052068.htm",
+      "summary": "Buổi tối, con nít cả xóm ăn cơm nhanh rồi tập trung ngồi trước cái ti vi trắng đen ở nhà bà Sáu chờ xem chương trình yêu thích.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T15:22:56.781417+07:00",
+      "fetched": "2026-08-15T15:22:56.781580+07:00"
+    },
     {
       "id": "17737e174250322457094b67118cfc56",
       "title": "Tự doanh công ty chứng khoán đảo chiều mua ròng gần 1.100 tỉ đồng sau tuần bán kỷ lục",
@@ -433,6 +583,66 @@ window.newsData_2026_08_15 = {
       "fetched": "2026-08-15T09:48:59.168420+07:00"
     },
     {
+      "id": "8fe103fd7dee8995b985357e3fab46b0",
+      "title": "Hoa khôi ĐH Ngoại thương từng nặng 90kg đăng quang á hậu giờ ra sao?",
+      "link": "https://thanhnien.vn/hoa-khoi-dh-ngoai-thuong-tung-nang-90kg-dang-quang-a-hau-gio-ra-sao-185260815145007756.htm",
+      "summary": "Hoa khôi Trường ĐH Ngoại thương TP.HCM gây ấn tượng khi từng nặng 90kg đăng quang Á hậu Hoa hậu Hoàn vũ Việt Nam 2022. Cuộc sống hiện tại của Huỳnh Phạm Thủy Tiên khiến nhiều người bất ngờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T08:17:00+07:00",
+      "fetched": "2026-08-15T15:22:55.051083+07:00"
+    },
+    {
+      "id": "c8f44b6eabeaab4c8603432f4aa2cbcb",
+      "title": "Tổng rà soát sử dụng biên chế công chức cả nước",
+      "link": "https://thanhnien.vn/tong-ra-soat-su-dung-bien-che-cong-chuc-ca-nuoc-185260815145113223.htm",
+      "summary": "Bộ Nội vụ đề nghị các bộ, ngành, địa phương tổng rà soát sử dụng biên chế tại vị trí công chức trước ngày 25.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T08:11:00+07:00",
+      "fetched": "2026-08-15T15:22:55.051231+07:00"
+    },
+    {
+      "id": "1205e42ffc883d4d3f7e4284f89b1b63",
+      "title": "Ba bố con sống sót sau 16 tiếng trôi dạt trên biển",
+      "link": "https://vnexpress.net/ba-bo-con-song-sot-sau-16-tieng-troi-dat-tren-bien-5109465.html",
+      "summary": "Gia đình người Pháp được giải cứu sau hơn 16 tiếng lênh đênh trên biển do môtô nước bị lật ngoài khơi đảo Koh Samui.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-15T08:09:48+07:00",
+      "fetched": "2026-08-15T15:22:58.885651+07:00"
+    },
+    {
+      "id": "e9c5283eb7f8a3f68a00718b014017cf",
+      "title": "Trung vệ Malaysia cảnh giác trước Nguyễn Đình Bắc",
+      "link": "https://vnexpress.net/trung-ve-malaysia-canh-giac-truoc-nguyen-dinh-bac-5109460.html",
+      "summary": "Theo Ubaidullah Shamsul Fazili, tiền đạo Nguyễn Đình Bắc là cầu thủ đáng để mắt nhất của Việt Nam ở lượt đi bán kết ASEAN Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-15T08:07:47+07:00",
+      "fetched": "2026-08-15T15:23:03.554979+07:00"
+    },
+    {
+      "id": "3e2ff733170ca85e523b6923c3958f94",
+      "title": "Đoàn Văn Hậu sau hơn 2 năm chấn thương: ‘Được ra sân đã là điều tuyệt vời’",
+      "link": "https://thanhnien.vn/doan-van-hau-sau-hon-2-nam-chan-thuong-duoc-ra-san-da-la-dieu-tuyet-voi-185260815143923555.htm",
+      "summary": "Sau hơn 2 năm vật lộn với chấn thương gót Achilles, Đoàn Văn Hậu đã trở lại sân cỏ và tiếp tục khoác áo đội tuyển Việt Nam. Trong chia sẻ với ASEAN United FC - kênh truyền thông số của Liên đoàn Bóng đá Đông Nam Á (AFF), hậu vệ 27 tuổi nói về hành trình hồi phục, tình yêu với bóng đá và mục tiêu cùn...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T08:07:00+07:00",
+      "fetched": "2026-08-15T15:22:55.051364+07:00"
+    },
+    {
+      "id": "27cb9bf361b625e9e1ba1514812f999c",
+      "title": "Quảng Ninh: Phát hiện thi thể hiệu trưởng trường mầm non dưới mương nước",
+      "link": "https://thanhnien.vn/quang-ninh-phat-hien-thi-the-hieu-truong-truong-mam-non-duoi-muong-nuoc-185260815115235731.htm",
+      "summary": "Thi thể hiệu trưởng trường mầm non được phát hiện dưới mương nước ven tỉnh lộ ở Quảng Ninh. Gần hiện trường có chiếc xe máy vẫn cắm chìa khóa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T08:05:00+07:00",
+      "fetched": "2026-08-15T15:22:55.051515+07:00"
+    },
+    {
       "id": "5a1750738248018bec15ca387ab4cace",
       "title": "Tin tức sáng 15-8: TP.HCM lấy ý kiến về bồi thường, tái định cư khi thu hồi đất",
       "link": "https://tuoitre.vn/tin-tuc-sang-15-8tphcm-lay-y-kien-ve-boi-thuong-tai-dinh-cu-khi-thu-hoi-dat-100260814230643959.htm",
@@ -493,6 +703,286 @@ window.newsData_2026_08_15 = {
       "fetched": "2026-08-15T08:01:55.415139+07:00"
     },
     {
+      "id": "218b19e62d7a04cedffe0cbb814eba48",
+      "title": "Google bổ sung tính năng được người dùng Gemini chờ đợi",
+      "link": "https://thanhnien.vn/google-bo-sung-tinh-nang-duoc-nguoi-dung-gemini-cho-doi-185260815113406727.htm",
+      "summary": "Người dùng Gemini có thể xóa watermark hiển thị khỏi nội dung AI, trong khi Google vẫn duy trì công nghệ nhận diện ngầm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T07:56:00+07:00",
+      "fetched": "2026-08-15T15:22:55.051644+07:00"
+    },
+    {
+      "id": "921be6445ec5d458e75c4bfb333a50fb",
+      "title": "Hé lộ thiết kế của One UI 9.5 trên Samsung Galaxy S26",
+      "link": "https://thanhnien.vn/he-lo-thiet-ke-cua-one-ui-95-tren-samsung-galaxy-s26-185260815103444402.htm",
+      "summary": "Diện mạo hiện đại cùng trải nghiệm AI mới của One UI 9.5 vừa bị rò rỉ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T07:53:00+07:00",
+      "fetched": "2026-08-15T15:22:55.051772+07:00"
+    },
+    {
+      "id": "ca5e0d2083a862229c903a1c0233e71a",
+      "title": "Ngành truyền thông đa phương tiện điểm chuẩn trong top đầu, khác báo chí ra sao?",
+      "link": "https://thanhnien.vn/nganh-truyen-thong-da-phuong-tien-diem-chuan-trong-top-dau-khac-bao-chi-ra-sao-185260813194628845.htm",
+      "summary": "Năm 2026, ngành truyền thông đa phương tiện tiếp tục thu hút người học và cùng với ngành báo chí có chất lượng đầu vào đứng trong top đầu. Vậy chương trình đào tạo, công việc của 2 ngành này có sự khác biệt ra sao?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T07:53:00+07:00",
+      "fetched": "2026-08-15T15:22:55.051904+07:00"
+    },
+    {
+      "id": "581aafad727130d09ac31003c4846ec8",
+      "title": "'Ngôi sao bán dẫn' CXMT trở thành công ty giá trị nhất Trung Quốc",
+      "link": "https://vnexpress.net/ngoi-sao-ban-dan-cxmt-tro-thanh-cong-ty-gia-tri-nhat-trung-quoc-5109468.html",
+      "summary": "CXMT vượt Tencent trở thành công ty Trung Quốc có giá trị vốn hóa cao nhất, cho thấy nhu cầu bộ nhớ tăng cao trong cơn sốt từ AI tại thị trường này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T07:49:18+07:00",
+      "fetched": "2026-08-15T15:22:52.407529+07:00"
+    },
+    {
+      "id": "581aafad727130d09ac31003c4846ec8",
+      "title": "'Ngôi sao bán dẫn' CXMT trở thành công ty giá trị nhất Trung Quốc",
+      "link": "https://vnexpress.net/ngoi-sao-ban-dan-cxmt-tro-thanh-cong-ty-gia-tri-nhat-trung-quoc-5109468.html",
+      "summary": "CXMT vượt Tencent trở thành công ty Trung Quốc có giá trị vốn hóa cao nhất, cho thấy nhu cầu bộ nhớ tăng cao trong cơn sốt từ AI tại thị trường này.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-15T07:49:18+07:00",
+      "fetched": "2026-08-15T15:23:02.420589+07:00"
+    },
+    {
+      "id": "427ead341af352840675a3ba15344645",
+      "title": "Bác sĩ giải thích: Vì sao thuốc nhỏ mắt có thể gây dị ứng toàn thân?",
+      "link": "https://thanhnien.vn/bac-si-giai-thich-vi-sao-thuoc-nho-mat-co-the-gay-di-ung-toan-than-185260815141544629.htm",
+      "summary": "Nhiều người cho rằng thuốc nhỏ mắt chỉ tác dụng tại chỗ nên hiếm gây phản ứng nghiêm trọng. Tuy nhiên, thuốc có thể thấm qua niêm mạc mắt, xuống mũi họng gây dị ứng toàn thân, thậm chí đe dọa tính mạng ở người mẫn cảm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T07:44:00+07:00",
+      "fetched": "2026-08-15T15:22:55.052032+07:00"
+    },
+    {
+      "id": "915ba31b078673d8ebcd9e59b9c719e2",
+      "title": "Trao 225 suất học bổng tiếp sức sinh viên nghèo xứ Huế",
+      "link": "https://thanhnien.vn/trao-225-suat-hoc-bong-tiep-suc-sinh-vien-ngheo-xu-hue-185260815124323135.htm",
+      "summary": "Ngày 15.8, Ủy ban MTTQ Việt Nam thành phố Huế phối hợp với ĐH Huế trao 225 suất học bổng, tổng trị giá 450 triệu đồng do Hội đồng hương Huế tại TP.HCM và doanh nhân Lê Xuân Hoàng tài trợ cho sinh viên vượt khó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T07:44:00+07:00",
+      "fetched": "2026-08-15T15:22:55.052157+07:00"
+    },
+    {
+      "id": "5acc2243321bec6a6f34e1ba97976a41",
+      "title": "Phó thủ tướng Phạm Gia Túc: Dung Quất cần thu hút dự án công nghệ cao",
+      "link": "https://vnexpress.net/pho-thu-tuong-pham-gia-tuc-dung-quat-can-thu-hut-du-an-cong-nghe-cao-5109355.html",
+      "summary": "Sau 30 năm phát triển thành trung tâm lọc dầu và công nghiệp nặng, Dụng Quất cần thu hút các dự án công nghệ cao, theo Phó thủ tướng Thường trực Phạm Gia Túc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T07:41:48+07:00",
+      "fetched": "2026-08-15T15:22:52.407701+07:00"
+    },
+    {
+      "id": "5acc2243321bec6a6f34e1ba97976a41",
+      "title": "Phó thủ tướng Phạm Gia Túc: Dung Quất cần thu hút dự án công nghệ cao",
+      "link": "https://vnexpress.net/pho-thu-tuong-pham-gia-tuc-dung-quat-can-thu-hut-du-an-cong-nghe-cao-5109355.html",
+      "summary": "Sau 30 năm phát triển thành trung tâm lọc dầu và công nghiệp nặng, Dụng Quất cần thu hút các dự án công nghệ cao, theo Phó thủ tướng Thường trực Phạm Gia Túc.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-15T07:41:48+07:00",
+      "fetched": "2026-08-15T15:22:59.774793+07:00"
+    },
+    {
+      "id": "c08a8b1f62acdd1c1c12930702597b99",
+      "title": "Kỳ đà hoa 20 kg bò vào bếp nhà hàng ở Phú Quốc",
+      "link": "https://vnexpress.net/ky-da-hoa-20-kg-bo-vao-bep-nha-hang-o-phu-quoc-5109472.html",
+      "summary": "Con kỳ đà hoa dài khoảng 2 m bất ngờ bò vào khu vực bếp một nhà hàng ở Phú Quốc, được nhân viên giữ lại và bàn giao kiểm lâm thả về rừng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T07:40:26+07:00",
+      "fetched": "2026-08-15T15:22:52.407839+07:00"
+    },
+    {
+      "id": "8cd187b41d140efe45816d90ededbf81",
+      "title": "Đội tuyển Việt Nam dẫn đầu chỉ số fair-play ASEAN Cup 2026, Xuân Mạnh chuyền chính xác nhất",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-dan-dau-chi-so-fair-play-asean-cup-2026-xuan-manh-chuyen-chinh-xac-nhat-185260815143834741.htm",
+      "summary": "Theo thống kê của ASEAN United FC - kênh truyền thông số của Liên đoàn Bóng đá Đông Nam Á (AFF), Phạm Xuân Mạnh nằm trong nhóm cầu thủ có số đường chuyền chính xác nhiều nhất vòng bảng ASEAN Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T07:40:00+07:00",
+      "fetched": "2026-08-15T15:22:55.052278+07:00"
+    },
+    {
+      "id": "8351aec13905edefd46d0ac53f5792dd",
+      "title": "Đâu là năng lực quan trọng sinh viên phải thể hiện tại vòng chung kết ResFes 2026?",
+      "link": "https://thanhnien.vn/dau-la-nang-luc-quan-trong-sinh-vien-phai-the-hien-tai-vong-chung-ket-resfes-2026-185260815135149448.htm",
+      "summary": "Vòng chung kết ResFes 2026 diễn ra tại Trường ĐH FPT Cần Thơ có 58 đề tài nghiên cứu khoa học. Ngoài sinh viên trong nước còn có đội bạn đến từ Philippines tham gia cuộc thi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T07:40:00+07:00",
+      "fetched": "2026-08-15T15:22:55.052405+07:00"
+    },
+    {
+      "id": "3fd65d5c980e0944891dda6d5f1056d6",
+      "title": "Hoàng Đức, Quang Hải và Xuân Son từng chọc thủng lưới Malaysia: Sẵn sàng tái lập thành tích tuyệt vời",
+      "link": "https://thanhnien.vn/hoang-duc-quang-hai-va-xuan-son-tung-choc-thung-luoi-malaysia-san-sang-tai-lap-thanh-tich-tuyet-voi-185260813115547411.htm",
+      "summary": "Ở các cuộc đối đầu gần đây nhất giữa 2 đội Việt Nam và Malaysia ở các giải chính thức, 3 ngôi sao Hoàng Đức, Xuân Son, Quang Hải đã ghi bàn vào lưới Malaysia. Ở chiều ngược lại, Endrick của Malaysia từng chọc thủng lưới Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T07:36:00+07:00",
+      "fetched": "2026-08-15T15:22:55.052551+07:00"
+    },
+    {
+      "id": "ae6d767d3e723cc72eecd9a5fab020e3",
+      "title": "Phụ huynh, học sinh TP.HCM chọn môn thi lớp 10 ra sao khi Bộ lấy ý kiến?",
+      "link": "https://thanhnien.vn/phu-huynh-hoc-sinh-tphcm-chon-mon-thi-lop-10-ra-sao-khi-bo-lay-y-kien-185260815130519891.htm",
+      "summary": "Bộ GD-ĐT thực hiện việc lấy ý kiến của sở GD-ĐT 3 địa phương Hà Nội, Hải Phòng và TP.HCM về góp ý dự thảo Thông tư ban hành Quy chế tiếp nhận và tuyển sinh học sinh đầu cấp, trong đó thi lớp 10 chỉ còn 2 môn toán, ngữ văn. Phụ huynh, học sinh, giáo viên TP.HCM đưa ra ý kiến như thế nào?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T07:31:00+07:00",
+      "fetched": "2026-08-15T15:22:55.052680+07:00"
+    },
+    {
+      "id": "3132941be1cf6bda5cf2978d6bcaf064",
+      "title": "Giải đấu đặc biệt dành cho các ‘nàng tiên’ dân tộc thiểu số, cú đột phá bất ngờ của VTV",
+      "link": "https://thanhnien.vn/giai-dau-dac-biet-danh-cho-cac-nang-tien-dan-toc-thieu-so-cu-dot-pha-bat-ngo-cua-vtv-185260815114455851.htm",
+      "summary": "Giải bóng đá nữ các dân tộc thiểu số Việt Nam - VTV Cup được kỳ vọng không chỉ đẩy mạnh phong trào thể thao quần chúng, mà còn giúp đội tuyển nữ Việt Nam có thêm nguồn cầu thủ phong phú để cải thiện sức mạnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T07:25:00+07:00",
+      "fetched": "2026-08-15T15:22:55.052807+07:00"
+    },
+    {
+      "id": "c8371e1667fa3cd2b82750615505c14e",
+      "title": "Lisa lên tiếng sau ồn ào kỷ niệm 10 năm BlackPink",
+      "link": "https://thanhnien.vn/lisa-len-tieng-sau-on-ao-ky-niem-10-nam-blackpink-185260815130523435.htm",
+      "summary": "BlackPink vừa kỷ niệm 10 năm ra mắt bằng một buổi gặp gỡ người hâm mộ gây tranh cãi, trong khi cách phản hồi khác nhau của bốn thành viên tiếp tục thu hút sự chú ý, Kbizoom đưa tin ngày 14.7.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T07:19:00+07:00",
+      "fetched": "2026-08-15T15:22:55.052932+07:00"
+    },
+    {
+      "id": "31cd2c8eb68886cd36adf72643d81e5b",
+      "title": "Giải truyện ngắn đối phó việc 'dùng AI để viết'",
+      "link": "https://vnexpress.net/giai-truyen-ngan-doi-pho-viec-dung-ai-de-viet-5109441.html",
+      "summary": "Giải truyện ngắn Khối Thịnh vượng chung dời thời hạn nhận bài mùa 2027 sau scandal vinh danh truyện nghi sử dụng AI.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T07:07:01+07:00",
+      "fetched": "2026-08-15T15:22:52.407974+07:00"
+    },
+    {
+      "id": "84cf8bb03aceb4c7d219aa822d58f925",
+      "title": "Giá xoài cát Hòa Lộc tăng gấp đôi sau ba tháng",
+      "link": "https://vnexpress.net/gia-xoai-cat-hoa-loc-tang-gap-doi-sau-ba-thang-5109411.html",
+      "summary": "Xoài cát Hòa Lộc tăng gấp đôi lên 55.000-80.000 đồng một kg tại vườn, còn giá bán lẻ lên tới 190.000 đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T07:00:44+07:00",
+      "fetched": "2026-08-15T15:22:52.408101+07:00"
+    },
+    {
+      "id": "84cf8bb03aceb4c7d219aa822d58f925",
+      "title": "Giá xoài cát Hòa Lộc tăng gấp đôi sau ba tháng",
+      "link": "https://vnexpress.net/gia-xoai-cat-hoa-loc-tang-gap-doi-sau-ba-thang-5109411.html",
+      "summary": "Xoài cát Hòa Lộc tăng gấp đôi lên 55.000-80.000 đồng một kg tại vườn, còn giá bán lẻ lên tới 190.000 đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-15T07:00:44+07:00",
+      "fetched": "2026-08-15T15:22:59.774949+07:00"
+    },
+    {
+      "id": "3ef475f59d0ec8a4ee0a51f3231e8eed",
+      "title": "Tom Holland 10 năm đóng vai Người Nhện",
+      "link": "https://vnexpress.net/tom-holland-10-nam-dong-vai-nguoi-nhen-5107811.html",
+      "summary": "Từ diễn viên nhạc kịch, Tom Holland được chọn vào vai Người Nhện ở tuổi 19, mở ra cơ hội đóng loạt \"Spider-Man\" hơn 10 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T07:00:00+07:00",
+      "fetched": "2026-08-15T15:22:52.408224+07:00"
+    },
+    {
+      "id": "4383a90f320379d1dbd3ab4bcd23ea2f",
+      "title": "Có nên cho trẻ nghỉ học khi lớp có ca tay chân miệng?",
+      "link": "https://vnexpress.net/co-nen-cho-tre-nghi-hoc-khi-lop-co-ca-tay-chan-mieng-5109462.html",
+      "summary": "Cô giáo thông báo lớp có bé mắc tay chân miệng độ 1, được theo dõi tại nhà, tôi có nên cho con nghỉ hay tiếp tục đến trường? (Thúy Mai, 32 tuổi, Phú Thọ)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T07:00:00+07:00",
+      "fetched": "2026-08-15T15:22:52.408349+07:00"
+    },
+    {
+      "id": "ed54e9213a624bb20e761ea29f8a124e",
+      "title": "Cách phòng ngừa bệnh xương khớp",
+      "link": "https://vnexpress.net/cach-phong-ngua-benh-xuong-khop-5109442.html",
+      "summary": "Vận động hợp lý, kiểm soát cân nặng, điều chỉnh tư thế, dinh dưỡng khoa học, chủ động thăm khám có thể giúp giảm nguy cơ mắc các bệnh lý xương khớp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T07:00:00+07:00",
+      "fetched": "2026-08-15T15:22:52.408507+07:00"
+    },
+    {
+      "id": "794a1e2f54b339bc5711374dd4d94b41",
+      "title": "Nắng nóng có nên uống bia giải nhiệt?",
+      "link": "https://vnexpress.net/nang-nong-co-nen-uong-bia-giai-nhiet-5109425.html",
+      "summary": "Trời nắng nóng, chồng tôi và bạn bè hay uống bia cho mát, nhất là sau khi chơi thể thao. Thói quen này có tốt không? (Thu Giang, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T07:00:00+07:00",
+      "fetched": "2026-08-15T15:22:52.408646+07:00"
+    },
+    {
+      "id": "fd553564000353891c47bbbe3847fb9f",
+      "title": "Chợ thịt chó lớn nhất Hàn Quốc trước ngày bị cấm hoàn toàn",
+      "link": "https://vnexpress.net/cho-thit-cho-lon-nhat-han-quoc-truoc-ngay-bi-cam-hoan-toan-5109319.html",
+      "summary": "Trong ngày cao điểm mùa hè cuối cùng, chợ thịt chó nổi tiếng nhất Hàn Quốc thưa thớt khách, nhiều tiểu thương rục rịch chuyển nghề.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T06:54:55+07:00",
+      "fetched": "2026-08-15T15:22:52.408770+07:00"
+    },
+    {
+      "id": "e98c55526b98d1eb4607315d02dee93a",
+      "title": "Tôi mua ôtô cho vợ tự lái, còn mình đi xe máy mỗi ngày",
+      "link": "https://vnexpress.net/toi-mua-oto-cho-vo-tu-lai-con-minh-di-xe-may-moi-ngay-5109407.html",
+      "summary": "Thay vì tiếp tục tranh luận ai đúng ai sai, chúng tôi quyết định mua ôtô. Vợ tự lái, còn tôi vẫn đi xe máy đi làm mỗi ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T06:50:44+07:00",
+      "fetched": "2026-08-15T15:22:52.408916+07:00"
+    },
+    {
+      "id": "72b9f91febf6d81186431ff5f0ee7c02",
+      "title": "Mỹ muốn mua tên lửa giá rẻ tầm 1.000 km cho HIMARS",
+      "link": "https://vnexpress.net/my-muon-mua-ten-lua-gia-re-tam-1-000-km-cho-himars-5109412.html",
+      "summary": "Lục quân Mỹ tìm kiếm mẫu tên lửa mới cho HIMARS, yêu cầu nó đạt tầm bắn 1.000 km và chi phí thấp hơn các vũ khí sẵn có.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T06:49:30+07:00",
+      "fetched": "2026-08-15T15:22:52.409039+07:00"
+    },
+    {
+      "id": "72b9f91febf6d81186431ff5f0ee7c02",
+      "title": "Mỹ muốn mua tên lửa giá rẻ tầm 1.000 km cho HIMARS",
+      "link": "https://vnexpress.net/my-muon-mua-ten-lua-gia-re-tam-1-000-km-cho-himars-5109412.html",
+      "summary": "Lục quân Mỹ tìm kiếm mẫu tên lửa mới cho HIMARS, yêu cầu nó đạt tầm bắn 1.000 km và chi phí thấp hơn các vũ khí sẵn có.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-15T06:49:30+07:00",
+      "fetched": "2026-08-15T15:22:58.885809+07:00"
+    },
+    {
+      "id": "44eb85faf430c5a82b9b900afef614b1",
+      "title": "Lời khai của thầy giáo sát hại nữ đồng nghiệp sau tiệc liên hoan",
+      "link": "https://vnexpress.net/loi-khai-cua-thay-giao-sat-hai-nu-dong-nghiep-sau-tiec-lien-hoan-5109461.html",
+      "summary": "Nguyễn Hồng Lĩnh, 38 tuổi, khai sau tiệc liên hoan ở trường đã đến phòng nữ nhân viên thư viện, sát hại cô vì ghen rồi chở thi thể 20 km đến rẫy cà phê để phi tang.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T06:38:19+07:00",
+      "fetched": "2026-08-15T15:22:52.409165+07:00"
+    },
+    {
       "id": "2ca1e4fcbd19ee647a4b828c88c94d61",
       "title": "HLV Kim Sang-sik: ‘Mục tiêu của đội tuyển Việt Nam là vào chung kết’",
       "link": "https://thanhnien.vn/hlv-kim-sang-sik-muc-tieu-cua-doi-tuyen-viet-nam-la-vao-chung-ket-185260815131112739.htm",
@@ -501,6 +991,16 @@ window.newsData_2026_08_15 = {
       "category": "Tổng hợp",
       "published": "2026-08-15T06:30:00+07:00",
       "fetched": "2026-08-15T13:32:02.683091+07:00"
+    },
+    {
+      "id": "b389c56bf14906ab25e2411298e6941c",
+      "title": "Bệnh viện Bình Dân lập kỷ lục hơn 4.200 ca mổ bằng robot",
+      "link": "https://vnexpress.net/benh-vien-binh-dan-lap-ky-luc-hon-4-200-ca-mo-bang-robot-5109440.html",
+      "summary": "Bệnh viện Bình Dân mổ 4.278 ca bằng robot trong 10 năm triển khai kỹ thuật này, xác lập kỷ lục Việt Nam về số ca mổ robot nhiều nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T06:29:58+07:00",
+      "fetched": "2026-08-15T15:22:52.409282+07:00"
     },
     {
       "id": "c12818068a8936079cfc289b4b49a52c",
