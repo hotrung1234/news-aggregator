@@ -1,6 +1,6 @@
 window.newsData_2026_08_16 = {
   "date": "2026-08-16",
-  "lastUpdated": "2026-08-16T03:18:22.203136+07:00",
+  "lastUpdated": "2026-08-16T05:16:58.472316+07:00",
   "articles": [
     {
       "id": "abcd7bb69fdf051977b838252dfee40a",
@@ -171,6 +171,166 @@ window.newsData_2026_08_16 = {
       "category": "Tổng hợp",
       "published": "2026-08-16T01:23:27.248526+07:00",
       "fetched": "2026-08-16T01:23:27.248655+07:00"
+    },
+    {
+      "id": "259632e76cc773008fa0472abee4c692",
+      "title": "Thi lại tại điểm thi chuyên Tuyên Quang: Thí sinh nói đề thi khó",
+      "link": "https://thanhnien.vn/thi-lai-tai-diem-thi-chuyen-tuyen-quang-thi-sinh-noi-de-thi-kho-185260815220957142.htm",
+      "summary": "Sáng qua 15.8, các thí sinh tại điểm thi Trường THPT chuyên Tuyên Quang đã hoàn tất 2 môn thi tự chọn, kết thúc kỳ thi lại tốt nghiệp THPT.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T22:16:00+07:00",
+      "fetched": "2026-08-16T05:16:47.518044+07:00"
+    },
+    {
+      "id": "1305990ba6d78f7b494171c03e3668cb",
+      "title": "Tây Ban Nha siết an ninh Ceuta trước nguy cơ vượt biên ồ ạt",
+      "link": "https://thanhnien.vn/tay-ban-nha-siet-an-ninh-ceuta-truoc-nguy-co-vuot-bien-o-at-185260815215753695.htm",
+      "summary": "Tây Ban Nha đã tăng cường lực lượng an ninh tại Ceuta, vùng lãnh thổ của nước này ở Bắc Phi, sau khi xuất hiện các lời kêu gọi trên mạng xã hội về một đợt vượt biên quy mô lớn vào ngày 15.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T22:16:00+07:00",
+      "fetched": "2026-08-16T05:16:47.518216+07:00"
+    },
+    {
+      "id": "999d3ad52f4050ae2c343cf1abd8d4f0",
+      "title": "Tử vi ngày 16 tháng 8: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-16-thang-8-con-giap-nao-may-man-hom-nay-185260815160618329.htm",
+      "summary": "Tử vi ngày 16 tháng 8 mang đến những gợi ý tham khảo cho 12 con giáp. Tử vi hôm nay khuyên bạn đừng lấp kín ngày nghỉ bằng những việc 'phải làm'. Một buổi sáng không báo thức, bữa ăn không vội hay cuộc dạo chơi chẳng cần kế hoạch đôi khi lại đem đến nguồn năng lượng tích cực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T22:15:00+07:00",
+      "fetched": "2026-08-16T05:16:47.518389+07:00"
+    },
+    {
+      "id": "907ba9f67cb74d4890578c5ce14f168c",
+      "title": "Thái Lan phô diễn sức mạnh áp đảo",
+      "link": "https://thanhnien.vn/thai-lan-pho-dien-suc-manh-ap-dao-185260815223103821.htm",
+      "summary": "Đánh bại Singapore với tỷ số 3-1 ngay tại sân khách Jalan Besar ở bán kết lượt đi ASEAN Cup 2026 vào tối 15.8, Thái Lan đặt một chân vào chung kết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T22:14:00+07:00",
+      "fetched": "2026-08-16T05:16:47.518605+07:00"
+    },
+    {
+      "id": "faeb0ec232d824ed6f984b7de3792b40",
+      "title": "Quảng Ngãi cần xây dựng đội ngũ cán bộ bản lĩnh, dám nghĩ, dám làm",
+      "link": "https://thanhnien.vn/quang-ngai-can-xay-dung-doi-ngu-can-bo-ban-linh-dam-nghi-dam-lam-185260815221251196.htm",
+      "summary": "Chiều 15.8, tại Quảng Ngãi, Ủy viên Bộ Chính trị, Phó thủ tướng Thường trực Phạm Gia Túc cùng đoàn công tác của Chính phủ làm việc với Ban Thường vụ Tỉnh ủy Quảng Ngãi về tình hình phát triển kinh tế ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T22:07:00+07:00",
+      "fetched": "2026-08-16T05:16:48.786931+07:00"
+    },
+    {
+      "id": "1da0ca844620b899741cfd00f9227c35",
+      "title": "Lãnh đạo Đảng, Nhà nước gửi thư, điện mừng Ngày Độc lập của Ấn Độ; Quốc khánh Hàn Quốc, Congo",
+      "link": "https://thanhnien.vn/lanh-dao-dang-nha-nuoc-gui-thu-dien-mung-ngay-doc-lap-cua-an-do-quoc-khanh-han-quoc-congo-185260815220806608.htm",
+      "summary": "Nhân dịp kỷ niệm lần thứ 80 ngày Độc lập của nước Cộng hòa Ấn Độ (15.8.1947 - 15.8.2026), ngày 15.8.2026, Tổng Bí thư, Chủ tịch nước Tô Lâm đã gửi điện mừng tới Tổng thống Droupadi Murmu; Thủ tướng Ch...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T22:07:00+07:00",
+      "fetched": "2026-08-16T05:16:49.932054+07:00"
+    },
+    {
+      "id": "eb254f7c4266a7ab80658900fc2a0573",
+      "title": "Lo lắng drone xâm phạm an toàn bay",
+      "link": "https://thanhnien.vn/lo-lang-drone-xam-pham-an-toan-bay-185260815230913456.htm",
+      "summary": "Bạn đọc cho rằng việc sớm phát hiện nguy cơ, khống chế, bắn hạ drone xâm phạm vùng an toàn bay ngay từ đầu là rất cần thiết",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T22:05:00+07:00",
+      "fetched": "2026-08-16T05:16:49.932296+07:00"
+    },
+    {
+      "id": "7ebb1e505045f4b110fceca5ffa779ad",
+      "title": "Ồn ào vụ ông Trump đối phó đe dọa ám sát",
+      "link": "https://thanhnien.vn/on-ao-vu-ong-trump-doi-pho-de-doa-am-sat-185260815222356667.htm",
+      "summary": "Vụ Tổng thống Mỹ Donald Trump bí mật đổi máy bay tại Thổ Nhĩ Kỳ hồi tháng 7 vừa được đề cập trong đơn kháng cáo mới của Bộ Tư pháp Mỹ nộp lên Tòa Tối cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T22:00:00+07:00",
+      "fetched": "2026-08-16T05:16:49.932464+07:00"
+    },
+    {
+      "id": "e3b7b18be5be0b5e4ace07b0693fad73",
+      "title": "Hơn 55 tỉ đồng tiếp sức quân dân ở biên giới, biển đảo tuyến đầu Tổ quốc",
+      "link": "https://thanhnien.vn/hon-55-ti-dong-tiep-suc-quan-dan-o-bien-gioi-bien-dao-tuyen-dau-to-quoc-185260815220258754.htm",
+      "summary": "Hơn 55,1 tỉ đồng được ủng hộ vào Quỹ \"Vì biển đảo quê hương - Vì tuyến đầu Tổ quốc\" TP.HCM để gửi đến biên giới, biển đảo, tiếp thêm nguồn lực và động viên cán bộ, chiến sĩ, người dân nơi tuyến đầu Tổ quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T22:00:00+07:00",
+      "fetched": "2026-08-16T05:16:49.932622+07:00"
+    },
+    {
+      "id": "0761a2f37164907100e73fe41cd4f693",
+      "title": "Lịch âm hôm nay 16.8: Chú ý ngày Nhâm Tuất",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-168-chu-y-ngay-nham-tuat-185260813205837116.htm",
+      "summary": "Theo lịch âm hôm nay 16.8 là ngày Nhâm Tuất. Dân gian quan niệm đây là ngày may mắn, cần lưu ý gì? Dương lịch hôm nay có ngày gì đặc biệt?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T22:00:00+07:00",
+      "fetched": "2026-08-16T05:16:49.932777+07:00"
+    },
+    {
+      "id": "a63da226ab80b43426953d1bfa5a2e66",
+      "title": "Vì sao tuyệt đối không nên tắm nước lạnh trong những ngày nắng nóng?",
+      "link": "https://thanhnien.vn/vi-sao-tuyet-doi-khong-nen-tam-nuoc-lanh-trong-nhung-ngay-nang-nong-185260813164704048.htm",
+      "summary": "Những ngày thời tiết oi bức, dội một gáo nước lạnh buốt lên người thường mang lại cảm giác sảng khoái và dễ chịu tức thì. Tuy nhiên, theo chuyên trang sức khỏe Independent, đây lại là một thói quen giải nhiệt sai lầm. Việc tiếp xúc đột ngột với nước lạnh thực chất lại khiến cơ thể bạn cảm thấy oi nó...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T22:00:00+07:00",
+      "fetched": "2026-08-16T05:16:49.932962+07:00"
+    },
+    {
+      "id": "47922c6dc16f2a39dac629e346cbdbdf",
+      "title": "Chiến sự Ukraine ngày 1.634: Kyiv nói đánh trúng trung tâm sản xuất tên lửa Nga",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1634-ukraine-noi-danh-trung-trung-tam-san-xuat-ten-lua-nga-185260815215838944.htm",
+      "summary": "Hôm 15.8, Ukraine nói đã tấn công tầm xa trúng một sân bay quân sự của Nga và trung tâm sản xuất tên lửa mà theo Kyiv đóng vai trò hỗ trợ mạng Internet vệ tinh nội địa theo mô hình Starlink của tỉ phú Elon Musk.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T21:34:00+07:00",
+      "fetched": "2026-08-16T05:16:49.933124+07:00"
+    },
+    {
+      "id": "18b7716793934f01fe3acd11271956a0",
+      "title": "Vạch trần chiêu \"tặng quà, bán hàng dỏm\"",
+      "link": "https://thanhnien.vn/vach-tran-chieu-tang-qua-ban-hang-dom-185260815190236101.htm",
+      "summary": "Thời gian qua, lực lượng Công an nhân dân đã triệt phá nhiều đường dây, ổ nhóm tội phạm quy mô lớn, góp phần giữ vững an ninh trật tự, đảm bảo cuộc sống bình yên, an toàn cho người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T21:32:00+07:00",
+      "fetched": "2026-08-16T05:16:49.933285+07:00"
+    },
+    {
+      "id": "96580320d51b51cf9b4635b921360df2",
+      "title": "Giải mã giếng khoan tự phun khí, nước cuồn cuộn ở Gia Lai",
+      "link": "https://thanhnien.vn/giai-ma-gieng-khoan-tu-phun-khi-nuoc-cuon-cuon-o-gia-lai-185260815100705645.htm",
+      "summary": "Cục Địa chất và Khoáng sản Việt Nam nhận định các giếng khoan ở xã xã Chư Prông, tỉnh Gia Lai bất ngờ phun trào khí và nước lên mặt đất là hiện tượng địa chất mang tính khu vực, liên quan đến hệ thống đứt gãy Pô Cô và hoạt động núi lửa trẻ, đồng thời cảnh báo nguy cơ mất an toàn cho người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T21:30:00+07:00",
+      "fetched": "2026-08-16T05:16:49.933449+07:00"
+    },
+    {
+      "id": "4b12b9f5d24e5f37433d8d74da3a7639",
+      "title": "'Bất lực' trước tình trạng trâu, bò thả rông ở Khu kinh tế Nhơn Hội?",
+      "link": "https://thanhnien.vn/bat-luc-truoc-tinh-trang-trau-bo-tha-rong-o-khu-kinh-te-nhon-hoi-185260814224817022.htm",
+      "summary": "Tình trạng hàng trăm con trâu, bò thả rông tại Khu kinh tế Nhơn Hội gây mất mỹ quan, tiềm ẩn nguy cơ tai nạn giao thông trong suốt nhiều năm qua, nhưng đến nay cơ quan chức năng vẫn đang tìm cách xử lý...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T21:26:00+07:00",
+      "fetched": "2026-08-16T05:16:49.933606+07:00"
+    },
+    {
+      "id": "25a08d3826a0e6b214b082814801dad9",
+      "title": "Cách cảnh sát thử nghiệm xe như thực tế",
+      "link": "https://vnexpress.net/cach-canh-sat-thu-nghiem-xe-nhu-thuc-te-5108775.html",
+      "summary": "Cảnh sát Oberbayern Nord thuộc bang Bavaria thử nghiệm mẫu xe chuyên dụng theo đúng những gì có thể xảy ra khi họ làm nhiệm vụ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T21:00:00+07:00",
+      "fetched": "2026-08-16T05:16:45.076441+07:00"
     },
     {
       "id": "31c99ca2612e03264d133347f1364a7d",
