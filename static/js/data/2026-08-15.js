@@ -1,7 +1,157 @@
 window.newsData_2026_08_15 = {
   "date": "2026-08-15",
-  "lastUpdated": "2026-08-15T17:18:39.165653+07:00",
+  "lastUpdated": "2026-08-15T19:30:23.842254+07:00",
   "articles": [
+    {
+      "id": "b28ffafbb5311ecdc3a23fe2bb79360a",
+      "title": "Bắc Bộ và Bắc Trung Bộ sắp mưa lớn diện rộng, có nơi trên 450mm",
+      "link": "https://tuoitre.vn/bac-bo-va-bac-trung-bo-sap-mua-lon-dien-rong-co-noi-tren-450mm-100260815160709901.htm",
+      "summary": "Dự báo từ khoảng 17 đến 21-8, ở Bắc Bộ, Thanh Hóa đến Hà Tĩnh có mưa lớn diện rộng với lượng mưa phổ biến từ 150-300mm/đợt, có nơi trên 450mm/đợt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T19:30:17.150138+07:00",
+      "fetched": "2026-08-15T19:30:17.150407+07:00"
+    },
+    {
+      "id": "671be092e1fd1ce9ce7ea18be4d09f8d",
+      "title": "100.000 hội viên sau hơn hai tháng: Điều gì làm nên sức hút của Sun Signature?",
+      "link": "https://tuoitre.vn/100000-hoi-vien-sau-hon-hai-thang-dieu-gi-lam-nen-suc-hut-cua-sun-signature-100260815161706199.htm",
+      "summary": "Ngày 14-8, chỉ sau hơn 2 tháng chính thức ra mắt, Sun Signature, chương trình khách hàng thân thiết của Sun Group phát triển cùng Amadeus, Visa và Ngân hàng TMCP Quốc Dân (NCB) đã cán mốc 100.000 hội viên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T19:30:17.150087+07:00",
+      "fetched": "2026-08-15T19:30:17.150121+07:00"
+    },
+    {
+      "id": "ba91093624f89ab66e3d74a9f5c9c6da",
+      "title": "Tú Sương, Võ Minh Lâm sẽ vào vai vua và hoàng hậu đầu tiên của nhà Lý trong Dời đô",
+      "link": "https://tuoitre.vn/tu-suong-vo-minh-lam-se-vao-vai-vua-va-hoang-hau-dau-tien-cua-nha-ly-trong-doi-do-100260815163010002.htm",
+      "summary": "Kỷ niệm 3 năm ngày nhà viết kịch Lê Duy Hạnh ra đi, đạo diễn Lê Nguyên Đạt cho Tuổi Trẻ biết ông chuẩn bị làm chương trình Đêm huyền thoại để tưởng nhớ ông Lê Duy Hạnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T19:30:17.150046+07:00",
+      "fetched": "2026-08-15T19:30:17.150081+07:00"
+    },
+    {
+      "id": "2aa3783ec702200e0c3f20a4edbb2a3c",
+      "title": "Đội K93 tìm thấy hài cốt liệt sĩ Nguyễn Văn Minh ở xã Nhơn Hội, An Giang",
+      "link": "https://tuoitre.vn/doi-k93-tim-thay-hai-cot-liet-si-nguyen-van-minh-o-xa-nhon-hoi-an-giang-100260815162904485.htm",
+      "summary": "Đội K93, Bộ Chỉ huy quân sự tỉnh An Giang vừa tìm kiếm, quy tập được hài cốt liệt sĩ Nguyễn Văn Minh ở ấp Phú Thuận, xã Nhơn Hội, tỉnh An Giang, hy sinh trong thời kỳ kháng chiến chống Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T19:30:17.150003+07:00",
+      "fetched": "2026-08-15T19:30:17.150040+07:00"
+    },
+    {
+      "id": "e304cafd63fc3f535c095b66c75579c2",
+      "title": "Văn Hậu nói gì trước trận tuyển Việt Nam gặp Malaysia?",
+      "link": "https://tuoitre.vn/van-hau-noi-gi-truoc-tran-tuyen-viet-nam-gap-malaysia-100260815165132859.htm",
+      "summary": "Phát biểu trước trận bán kết ASEAN Cup 2026, hậu vệ Đoàn Văn Hậu quyết tâm cùng đội tuyển Việt Nam giành kết quả thuận lợi trước Malaysia để tiến vào chung kết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T19:30:17.149959+07:00",
+      "fetched": "2026-08-15T19:30:17.149993+07:00"
+    },
+    {
+      "id": "eff0b9e1bf44ca3672dfdb8789459471",
+      "title": "Thi lớp 10 chỉ hai môn toán - văn, chuyện gì sẽ xảy ra với tiếng Anh?",
+      "link": "https://tuoitre.vn/thi-lop-10-chi-hai-mon-toan-van-chuyen-gi-se-xay-ra-voi-tieng-anh-100260815163232109.htm",
+      "summary": "Dự thảo thi lớp 10 chỉ gồm toán, văn khiến phụ huynh nhẹ nhõm, nhưng giáo viên lo học sinh sẽ xem nhẹ tiếng Anh nếu môn này không còn trong kỳ thi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T19:30:17.149917+07:00",
+      "fetched": "2026-08-15T19:30:17.149953+07:00"
+    },
+    {
+      "id": "9f2b608435c604152444db6e8d0878dc",
+      "title": "Lò phản ứng hạt nhân đã tắt vẫn phát ra 'ánh sáng ma', lần đầu tiên con người đo được",
+      "link": "https://tuoitre.vn/lo-phan-ung-hat-nhan-da-tat-van-phat-ra-anh-sang-ma-lan-dau-tien-con-nguoi-do-duoc-100260815094053082.htm",
+      "summary": "Sau khi lò phản ứng ngừng hoạt động, nhiên liệu hạt nhân vẫn phát ra phản neutrino. Các nhà khoa học lần đầu đo được dòng hạt vô hình này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T19:30:17.149876+07:00",
+      "fetched": "2026-08-15T19:30:17.149910+07:00"
+    },
+    {
+      "id": "22cbc80e6fc7dcb29963a9f96fb7c95f",
+      "title": "Sinh viên miền Tây cần biết làm chủ AI, hiểu văn hóa sông nước",
+      "link": "https://tuoitre.vn/sinh-vien-mien-tay-can-biet-lam-chu-ai-hieu-van-hoa-song-nuoc-100260815132112577.htm",
+      "summary": "Doanh nghiệp tại Cần Thơ kỳ vọng sinh viên miền Tây làm chủ trí tuệ nhân tạo (AI) nhưng cũng phải phát huy lợi thế am hiểu văn hóa sông nước khi bước vào thị trường lao động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T19:30:17.149836+07:00",
+      "fetched": "2026-08-15T19:30:17.149870+07:00"
+    },
+    {
+      "id": "1c31abc5495fbcedd94a1b382e4a0334",
+      "title": "Hé lộ hậu trường hàn gắn quan hệ giữa ông Trump và tỉ phú Elon Musk",
+      "link": "https://tuoitre.vn/he-lo-hau-truong-han-gan-quan-he-giua-ong-trump-va-ti-phu-elon-musk-10026081517221008.htm",
+      "summary": "Tỉ phú Elon Musk phát tín hiệu chi 100 triệu USD hỗ trợ Đảng Cộng hòa trong cuộc bầu cử giữa nhiệm kỳ Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T19:30:17.149796+07:00",
+      "fetched": "2026-08-15T19:30:17.149830+07:00"
+    },
+    {
+      "id": "f568686bba77f4a797e04f6c27c7425c",
+      "title": "Giám đốc Sở Y tế TP.HCM: Mỗi bệnh viện phải có chuyên ngành thế mạnh, hướng đến trung tâm xuất sắc",
+      "link": "https://tuoitre.vn/giam-doc-so-y-te-tphcm-moi-benh-vien-phai-co-chuyen-nganh-the-manh-huong-den-trung-tam-xuat-sac-100260815171019916.htm",
+      "summary": "Mỗi bệnh viện cần chọn chuyên ngành thế mạnh của mình, đầu tư trọng tâm để hình thành các trung tâm xuất sắc theo từng chuyên ngành, từ đó đưa TP.HCM trở thành trung tâm sức khỏe của khu vực ASEAN.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T19:30:17.149752+07:00",
+      "fetched": "2026-08-15T19:30:17.149790+07:00"
+    },
+    {
+      "id": "636aaa18b2fc8c7a5efc32117d9712ba",
+      "title": "'Siết' chuyển giao công nghệ, Bộ Công Thương lo 1 tỉ USD từ xuất khẩu ô tô bị ảnh hưởng",
+      "link": "https://tuoitre.vn/siet-chuyen-giao-cong-nghe-bo-cong-thuong-lo-1-ti-usd-tu-xuat-khau-o-to-bi-anh-huong-100260815153740388.htm",
+      "summary": "Bộ Công Thương tiếp tục đề nghị cân nhắc việc không áp dụng quy định hạn chế chuyển giao và cấm chuyển giao công nghệ trong sản xuất, lắp ráp và xuất khẩu ô tô.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T19:30:17.149708+07:00",
+      "fetched": "2026-08-15T19:30:17.149746+07:00"
+    },
+    {
+      "id": "f6dd64904d7cfd148766a34e08c05275",
+      "title": "Tân cử nhân hát khi phát biểu tốt nghiệp từng là thí sinh The Voice Kids gần chục năm trước",
+      "link": "https://tuoitre.vn/tan-cu-nhan-hat-khi-phat-bieu-tot-nghiep-tung-la-thi-sinh-the-voice-kids-gan-chuc-nam-truoc-100260815111527838.htm",
+      "summary": "'Nếu một mai tôi có bay lên trời, thì người ơi tôi đã sống rất thảnh thơi…' - Nguyễn Minh Nhật, tân cử nhân ngành thiết kế đồ họa Trường đại học Văn Lang, cất giọng ấm áp kết thúc bài phát biểu của mình trong lễ tốt nghiệp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T19:30:17.149662+07:00",
+      "fetched": "2026-08-15T19:30:17.149701+07:00"
+    },
+    {
+      "id": "a3f69dd694984ec65758e9d3aedc73a1",
+      "title": "Trend làm đẹp đổi xoành xoạch, doanh nghiệp chạy sao cho kịp?",
+      "link": "https://tuoitre.vn/trend-lam-dep-doi-xoanh-xoach-doanh-nghiep-chay-sao-cho-kip-100260815170350209.htm",
+      "summary": "Ngành làm đẹp luôn đứng top đầu về doanh số trên chợ mạng song cũng là ngành thay đổi nhanh nhất, doanh nghiệp cần làm gì để kịp bắt trend?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T19:30:17.149615+07:00",
+      "fetched": "2026-08-15T19:30:17.149655+07:00"
+    },
+    {
+      "id": "3ad07da8f92072cb3f57b697236661ee",
+      "title": "Đè bẹp tuyển Hàn Quốc, các nữ sinh viên Nhật Bản tạo địa chấn làng bóng chuyền đỉnh cao",
+      "link": "https://tuoitre.vn/de-bep-tuyen-han-quoc-cac-nu-sinh-vien-nhat-ban-tao-dia-chan-lang-bong-chuyen-dinh-cao-100260815174938793.htm",
+      "summary": "Chiều 15-8, các cô gái sinh viên Nhật Bản tạo nên địa chấn ở Giải vô địch bóng chuyền nữ Đông Á khi đè bẹp tuyển Hàn Quốc với tỉ số 3-0.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T19:30:17.149560+07:00",
+      "fetched": "2026-08-15T19:30:17.149608+07:00"
+    },
+    {
+      "id": "924d46724da5b0dc2e4fbac78e79a3f1",
+      "title": "Hoa mắt trước ma trận công dụng của sữa trên thị trường",
+      "link": "https://tuoitre.vn/hoa-mat-truoc-ma-tran-cong-dung-cua-sua-tren-thi-truong-100260815153150436.htm",
+      "summary": "Thị trường sữa ngày càng đa dạng về chủng loại, giá bán và công dụng, từ sản phẩm cho trẻ nhỏ đến người cao tuổi, người tiểu đường, khiến người tiêu dùng không dễ chọn đúng sản phẩm phù hợp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T19:30:17.149421+07:00",
+      "fetched": "2026-08-15T19:30:17.149549+07:00"
+    },
     {
       "id": "c1ddea68e6977427a4dcc43af3298e7a",
       "title": "Bộ Y tế đề nghị kiểm tra thiết bị y tế có giá biến động bất thường",
@@ -453,6 +603,216 @@ window.newsData_2026_08_15 = {
       "fetched": "2026-08-15T13:32:04.813075+07:00"
     },
     {
+      "id": "cd6b35f4004a405207464a9ddf881e6d",
+      "title": "Đội tuyển Malaysia ‘báo động đỏ', chỉ còn 16 cầu thủ đấu Việt Nam: Buổi tập bất ổn",
+      "link": "https://thanhnien.vn/doi-tuyen-malaysia-bao-dong-do-chi-con-16-cau-thu-dau-viet-nam-buoi-tap-bat-on-1852608151915093.htm",
+      "summary": "Tình hình lực lượng của đội tuyển Malaysia trước cuộc đọ sức với đội tuyển Việt Nam tại bán kết lượt đi đang rơi vào trạng thái báo động đỏ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T12:23:00+07:00",
+      "fetched": "2026-08-15T19:30:15.503838+07:00"
+    },
+    {
+      "id": "84291aae32a052ea55adf22160205e88",
+      "title": "Robot hút bụi thế hệ mới có thể làm được những gì?",
+      "link": "https://thanhnien.vn/robot-hut-bui-the-he-moi-co-the-lam-duoc-nhung-gi-185260714215841456.htm",
+      "summary": "Nhiều mẫu robot hút bụi mới được trang bị các tính năng vượt xa việc hút và lau sàn truyền thống hằng ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T12:21:00+07:00",
+      "fetched": "2026-08-15T19:30:15.503951+07:00"
+    },
+    {
+      "id": "16241534dda7b735beb201ba1f648912",
+      "title": "Khởi tố giám đốc một ban quản lý hàng loạt dự án 'rùa bò' ở Huế",
+      "link": "https://thanhnien.vn/khoi-to-giam-doc-mot-ban-quan-ly-hang-loat-du-an-rua-bo-o-hue-18526081518263642.htm",
+      "summary": "Cơ quan Cảnh sát điều tra Công an thành phố Huế đã khởi tố bị can, bắt tạm giam ông Hà Xuân Hậu, Giám đốc Ban Quản lý dự án Đầu tư xây dựng và phát triển đô thị thành phố Huế, về tội 'thiếu trách nhiệm gây hậu quả nghiêm trọng'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T12:20:00+07:00",
+      "fetched": "2026-08-15T19:30:15.504052+07:00"
+    },
+    {
+      "id": "f447e60bf8cc79d6507c238111c690a9",
+      "title": "Nha Trang siết chặt quản lý dịch vụ bãi biển sau 18 giờ",
+      "link": "https://thanhnien.vn/nha-trang-siet-chat-quan-ly-dich-vu-bai-bien-sau-18-gio-185260815141201311.htm",
+      "summary": "Phường Nha Trang đang khẩn trương hoàn thiện Đề án Kinh tế đêm, hướng tới khai thác không gian biển về đêm theo quy định, vừa tạo điều kiện phát triển du lịch, dịch vụ, vừa bảo đảm an ninh, môi trường và mỹ quan đô thị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T12:17:00+07:00",
+      "fetched": "2026-08-15T19:30:15.504170+07:00"
+    },
+    {
+      "id": "fc077c9fd64b9095bfee02d1e8eb79fb",
+      "title": "Đề xuất cơ chế điều động, luân chuyển nhân sự có kinh nghiệm về sân bay Long Thành",
+      "link": "https://thanhnien.vn/de-xuat-co-che-dieu-dong-luan-chuyen-nhan-su-co-kinh-nghiem-ve-san-bay-long-thanh-185260815161059936.htm",
+      "summary": "Tại tọa đàm 'Đào tạo nguồn nhân lực cho hệ sinh thái sân bay quốc tế Long Thành' do Báo Thanh Niên tổ chức sáng 14.8tại Sân golf Long Thành (Đồng Nai), tiến sĩ Nguyễn Hồng Tây, Phó trưởng đại diện Bộ Nội vụ phía nam, chia sẻ hệ sinh thái sân bay quốc tế Long Thành đòi hỏi nguồn nhân lực đông đảo son...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T12:10:00+07:00",
+      "fetched": "2026-08-15T19:30:15.504275+07:00"
+    },
+    {
+      "id": "a8bd515ca4b50abd3190d11f93d347d1",
+      "title": "Đội tuyển Việt Nam làm quen mặt cỏ cứng trước bán kết ASEAN Cup",
+      "link": "https://vnexpress.net/doi-tuyen-viet-nam-lam-quen-mat-co-cung-truoc-ban-ket-asean-cup-5109547.html",
+      "summary": "Các cầu thủ Việt Nam tranh thủ từng phút một để làm quen thảm cỏ Kuala Lumpur chuẩn bị cho lượt đi bán kết ASEAN Cup với Malaysia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T12:07:49+07:00",
+      "fetched": "2026-08-15T19:30:12.832139+07:00"
+    },
+    {
+      "id": "33a6499c2472d587b1afaa4bb138c641",
+      "title": "ASEAN Cup 2026, Singapore 0-0 Thái Lan: Khó cản 'Voi chiến'",
+      "link": "https://thanhnien.vn/truc-tiep-singapore-thai-lan-ban-ket-asean-cup-hom-nay-kho-can-voi-chien-185260815162311846.htm",
+      "summary": "'Voi chiến' Thái Lan được đánh giá cao hơn so với Singapore ở bán kết lượt đi ASEAN Cup 2026 diễn ra lúc 20 giờ hôm nay trên sân Jalan Besar.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T12:06:00+07:00",
+      "fetched": "2026-08-15T19:30:15.504369+07:00"
+    },
+    {
+      "id": "9457a2d621bba3539fc17b987a127056",
+      "title": "Vì sao Huấn Hoa Hồng bị bắt?",
+      "link": "https://vnexpress.net/vi-sao-huan-hoa-hong-bi-bat-5109546.html",
+      "summary": "Bùi Xuân Huấn bị cáo buộc sử dụng sai mục đích tiền từ thiện huy động được; cùng vợ và nhiều người bỏ ngoài sổ sách kế toán khi bán nước hoa có doanh thu hơn 300 tỷ đồng...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T12:02:36+07:00",
+      "fetched": "2026-08-15T19:30:12.832271+07:00"
+    },
+    {
+      "id": "3089c036fb379e363430892b10ea8952",
+      "title": "Loại lá chiên cùng trứng là món ngon chữa bệnh",
+      "link": "https://vnexpress.net/loai-la-chien-cung-trung-la-mon-ngon-chua-benh-5109357.html",
+      "summary": "Lá mơ lông chiên cùng trứng là món ăn ngon miệng và hỗ trợ chữa các bệnh lý đường tiêu hóa trong đó có viêm đại tràng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T12:00:00+07:00",
+      "fetched": "2026-08-15T19:30:12.832381+07:00"
+    },
+    {
+      "id": "42c8dd99172f35661e3f9c220bf3ebaa",
+      "title": "Cách phát ngôn viên Gen Z phản đòn truyền thông để bảo vệ ông Trump",
+      "link": "https://vnexpress.net/cach-phat-ngon-vien-gen-z-phan-don-truyen-thong-de-bao-ve-ong-trump-5109064.html",
+      "summary": "Leavitt biến những câu hỏi khó và chỉ trích từ truyền thông thành cơ hội củng cố thông điệp MAGA, giúp bảo vệ nghị trình của Tổng thống Donald Trump.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T12:00:00+07:00",
+      "fetched": "2026-08-15T19:30:12.832481+07:00"
+    },
+    {
+      "id": "4cd59ef081cc448d825e8beb3ca9e1a5",
+      "title": "Khu vườn sống chậm của Kim Hiền tại Mỹ",
+      "link": "https://vnexpress.net/khu-vuon-song-cham-cua-kim-hien-tai-my-5107190.html",
+      "summary": "Sau khi ly hôn, diễn viên Kim Hiền chọn nhịp sống chậm, hòa mình vào thiên nhiên tại biệt thự ở Fountain Valley, bang California, Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T12:00:00+07:00",
+      "fetched": "2026-08-15T19:30:12.832580+07:00"
+    },
+    {
+      "id": "63a8d441e3249c0612fd9be26db202e1",
+      "title": "Honda Việt Nam tổ chức hội thi nhân viên dịch vụ khách hàng 2026",
+      "link": "https://vnexpress.net/honda-viet-nam-to-chuc-hoi-thi-nhan-vien-dich-vu-khach-hang-2026-5109542.html",
+      "summary": "Vòng chung kết \"Hội thi Nhân viên Dịch vụ khách hàng xuất sắc 2026\" diễn ra ngày 15/8, nhằm nâng cao chuyên môn, kỹ năng nghiệp vụ và chất lượng phục vụ khách hàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T12:00:00+07:00",
+      "fetched": "2026-08-15T19:30:12.832677+07:00"
+    },
+    {
+      "id": "87e17ff07b7a4b05b58abe7c70e7f355",
+      "title": "HDBank quay số kỳ 4 chương trình 'Tiết kiệm tỷ phú'",
+      "link": "https://vnexpress.net/hdbank-quay-so-ky-4-chuong-trinh-tiet-kiem-ty-phu-5109528.html",
+      "summary": "Khách hàng tham gia \"Tiết kiệm Tỷ phú - Hè vàng đại cát\" có cơ hội nhận sổ tiết kiệm đến 200 triệu đồng, chuyến du lịch Hàn Quốc và giải 16 lượng vàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T12:00:00+07:00",
+      "fetched": "2026-08-15T19:30:12.832772+07:00"
+    },
+    {
+      "id": "27b16c910607c3cb1da86ef6fb70c102",
+      "title": "Mẹ kể hành trình con điều trị viêm màng não do thủy đậu",
+      "link": "https://vnexpress.net/me-ke-hanh-trinh-con-dieu-tri-viem-mang-nao-do-thuy-dau-5109526.html",
+      "summary": "5 ngày trước nhập viện, bé Mậm, 7 tuổi, ở xã Đô Lương, Nghệ An nổi mụn nước, sốt cao, được chẩn đoán tay chân miệng, theo dõi tại nhà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T12:00:00+07:00",
+      "fetched": "2026-08-15T19:30:12.832867+07:00"
+    },
+    {
+      "id": "3a11fed974ed9ec3a1a4f90c8618a18f",
+      "title": "Chọn màu môi theo tông da tại Thẩm mỹ Linh Anh",
+      "link": "https://vnexpress.net/chon-mau-moi-theo-tong-da-tai-tham-my-linh-anh-5108695.html",
+      "summary": "Thay vì dựa theo cảm tính, nhiều chị em đến Thẩm mỹ Linh Anh để phân tích tông da, nền môi và đặc điểm gương mặt trước khi chọn màu phun phù hợp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T12:00:00+07:00",
+      "fetched": "2026-08-15T19:30:12.832966+07:00"
+    },
+    {
+      "id": "42c8dd99172f35661e3f9c220bf3ebaa",
+      "title": "Cách phát ngôn viên Gen Z phản đòn truyền thông để bảo vệ ông Trump",
+      "link": "https://vnexpress.net/cach-phat-ngon-vien-gen-z-phan-don-truyen-thong-de-bao-ve-ong-trump-5109064.html",
+      "summary": "Leavitt biến những câu hỏi khó và chỉ trích từ truyền thông thành cơ hội củng cố thông điệp MAGA, giúp bảo vệ nghị trình của Tổng thống Donald Trump.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-15T12:00:00+07:00",
+      "fetched": "2026-08-15T19:30:18.495347+07:00"
+    },
+    {
+      "id": "87e17ff07b7a4b05b58abe7c70e7f355",
+      "title": "HDBank quay số kỳ 4 chương trình 'Tiết kiệm tỷ phú'",
+      "link": "https://vnexpress.net/hdbank-quay-so-ky-4-chuong-trinh-tiet-kiem-ty-phu-5109528.html",
+      "summary": "Khách hàng tham gia \"Tiết kiệm Tỷ phú - Hè vàng đại cát\" có cơ hội nhận sổ tiết kiệm đến 200 triệu đồng, chuyến du lịch Hàn Quốc và giải 16 lượng vàng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-15T12:00:00+07:00",
+      "fetched": "2026-08-15T19:30:19.600518+07:00"
+    },
+    {
+      "id": "fd8deb906beb356604c1bf18e29f943f",
+      "title": "Tổng thống Hàn Quốc đề xuất cùng Triều Tiên đạt cơ chế hòa bình",
+      "link": "https://thanhnien.vn/tong-thong-han-quoc-de-xuat-cung-trieu-tien-dat-co-che-hoa-binh-185260815174445169.htm",
+      "summary": "Trong bối cảnh quan hệ liên Triều trở nên căng thẳng vì cuộc tập trận Mỹ - Hàn Quốc, Tổng thống Hàn Quốc Lee Jae Myung vừa qua đã đề xuất các phương án đối thoại nhằm tìm kiếm một chế độ hòa bình cho bán đảo Triều Tiên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T11:38:00+07:00",
+      "fetched": "2026-08-15T19:30:15.504460+07:00"
+    },
+    {
+      "id": "a58612d97deecf36e1c49bb9a9c6f11d",
+      "title": "Huấn Hoa Hồng bị bắt",
+      "link": "https://thanhnien.vn/huan-hoa-hong-bi-bat-185260806183750758.htm",
+      "summary": "Bùi Xuân Huấn (tức Huấn Hoa Hồng) và vợ cùng 4 người khác vừa bị khởi tố để làm rõ các hành vi lừa đảo chiếm đoạt tài sản và vi phạm quy định về kế toán gây hậu quả nghiêm trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T11:36:00+07:00",
+      "fetched": "2026-08-15T19:30:15.504549+07:00"
+    },
+    {
+      "id": "252d38b41c4030eff1b043c1d87a3b9b",
+      "title": "Ít nhất 38 người thiệt mạng sau động đất mạnh 7,7 độ tại Indonesia",
+      "link": "https://thanhnien.vn/it-nhat-38-nguoi-thiet-mang-sau-dong-dat-manh-77-do-tai-indonesia-185260815181702092.htm",
+      "summary": "Giới chức cho biết ít nhất 38 người đã thiệt mạng sau khi một trận động đất mạnh 7,7 độ cùng hàng chục dư chấn xảy ra ở vùng biển phía đông Indonesia vào ngày 15.8. Lực lượng cứu hộ đang khẩn trương tiếp cận các khu vực gần tâm chấn nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T11:35:00+07:00",
+      "fetched": "2026-08-15T19:30:15.504640+07:00"
+    },
+    {
+      "id": "0136ad2eb1fdb5fde4c635e3bc3279c9",
+      "title": "Đáp án tất cả môn thi tốt nghiệp lần 2 ở chuyên Tuyên Quang",
+      "link": "https://vnexpress.net/dap-an-de-thi-cac-mon-thi-tot-nghiep-thpt-lan-2-o-truong-chuyen-tuyen-quang-5109543.html",
+      "summary": "Bộ Giáo dục và Đào tạo công bố đáp án 12 môn thi tốt nghiệp THPT lần 2 ở điểm thi THPT chuyên Tuyên Quang, vài tiếng sau khi 326 thí sinh kết thúc môn cuối cùng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T11:30:06+07:00",
+      "fetched": "2026-08-15T19:30:12.833064+07:00"
+    },
+    {
       "id": "38c801088d4951564596a19469c10cde",
       "title": "Người dân đầu nguồn Đồng bằng sông Cửu Long thắc thỏm chờ mùa nước nổi",
       "link": "https://tuoitre.vn/nguoi-dan-dau-nguon-dong-bang-song-cuu-long-thac-thom-cho-mua-nuoc-noi-100260814222134381.htm",
@@ -601,6 +961,126 @@ window.newsData_2026_08_15 = {
       "category": "Tổng hợp",
       "published": "2026-08-15T11:25:52.787220+07:00",
       "fetched": "2026-08-15T11:25:52.787353+07:00"
+    },
+    {
+      "id": "44b1ac919de47f0d4427a84425334eff",
+      "title": "Vợ chồng Huấn Hoa Hồng bị khởi tố",
+      "link": "https://vnexpress.net/vo-chong-huan-hoa-hong-bi-khoi-to-5107497.html",
+      "summary": "Bùi Xuân Huấn, tức Huấn Hoa Hồng, bị bắt với cáo buộc lừa đảo chiếm đoạt tài sản và vi phạm quy định về kế toán gây hậu quả nghiêm trọng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T11:25:21+07:00",
+      "fetched": "2026-08-15T19:30:12.833175+07:00"
+    },
+    {
+      "id": "529073a535ff9b9ded068d664b4ef116",
+      "title": "Hồ Hạnh Nhi hé lộ mối quan hệ của chồng và bạn trai cũ",
+      "link": "https://thanhnien.vn/ho-hanh-nhi-he-lo-moi-quan-he-cua-chong-va-ban-trai-cu-185260815174443164.htm",
+      "summary": "Mới đây, Hồ Hạnh Nhi lên tiếng về khoảnh khắc chồng mình là doanh nhân Philip Lee và bạn trai cũ của cô - tài tử Huỳnh Tông Trạch ôm nhau thân thiện ở Malaysia lan truyền rầm rộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T11:23:00+07:00",
+      "fetched": "2026-08-15T19:30:15.504729+07:00"
+    },
+    {
+      "id": "97d1000968b9c58c40f80a16c05e6689",
+      "title": "Đã quy tập 327 hài cốt liệt sĩ tại công viên Lê Thị Riêng",
+      "link": "https://thanhnien.vn/da-quy-tap-327-hai-cot-liet-si-tai-cong-vien-le-thi-rieng-185260815181243367.htm",
+      "summary": "Ngày 15.8, lực lượng quy tập thêm 6 hài cốt liệt sĩ tại khu B, nâng tổng số được tìm thấy ở công viên Lê Thị Riêng lên 327.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T11:20:00+07:00",
+      "fetched": "2026-08-15T19:30:15.504821+07:00"
+    },
+    {
+      "id": "3c2cd11e9a431dd63472f3cecd1f2c05",
+      "title": "'Xe chơi' Toyota Land Cruiser FJ có gì hấp dẫn khách Việt?",
+      "link": "https://thanhnien.vn/xe-choi-toyota-land-cruiser-fj-co-gi-hap-dan-khach-viet-185260814130547334.htm",
+      "summary": "Nhỏ gọn hơn Land Cruiser LC 300 và Prado LC 250 nên Toyota Land Cruiser FJ với thiết kế cá tính nhưng vẫn đầy đủ trang bị tiện nghi... hướng đến nhóm khách hàng thích trải nghiệm, xê dịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T11:09:00+07:00",
+      "fetched": "2026-08-15T19:30:15.504910+07:00"
+    },
+    {
+      "id": "154a69b83a78afd82ca7456b677cc5e8",
+      "title": "Các trường tiểu học TP.HCM đồng loạt thông báo ngày học sinh lớp 1 tựu trường",
+      "link": "https://thanhnien.vn/cac-truong-tieu-hoc-tphcm-dong-loat-thong-bao-ngay-hoc-sinh-lop-1-tuu-truong-185260815155417789.htm",
+      "summary": "Nhiều trường tiểu học TP.HCM thông báo ngày học sinh lớp 1 tựu trường vào thứ hai, ngày 17.8. Cũng nhiều trường sẽ tựu trường vào 18.8 hoặc 24.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T11:06:00+07:00",
+      "fetched": "2026-08-15T19:30:15.505003+07:00"
+    },
+    {
+      "id": "b803fc5537a5c3fb2d5cb89a66290256",
+      "title": "Ô tô Hyundai sản xuất tại Việt Nam xuất khẩu sang Mexico, Australia",
+      "link": "https://thanhnien.vn/o-to-hyundai-san-xuat-tai-viet-nam-xuat-khau-sang-mexico-australia-185260815120337864.htm",
+      "summary": "Hyundai Thành Công vừa mở rộng hoạt động xuất khẩu ô tô Hyundai sản xuất tại Việt Nam sang thị trường Mexico và Australia, trong bối cảnh doanh nghiệp đặt mục tiêu gia tăng sản lượng xuất khẩu trong những năm tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T11:06:00+07:00",
+      "fetched": "2026-08-15T19:30:15.505095+07:00"
+    },
+    {
+      "id": "f15e4974558a6bdd321e1f9e1dfe3b4d",
+      "title": "Không dám bỏ chồng vì sợ anh hủy chu cấp tài chính",
+      "link": "https://vnexpress.net/khong-dam-bo-chong-vi-so-anh-huy-chu-cap-tai-chinh-5109430.html",
+      "summary": "Tôi có nên mặc kệ chồng, miễn sao tháng anh vẫn đưa đủ số tiền vợ chồng thống nhất, để tôi có tiền trả nợ mua đất, tích lũy thêm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T11:00:00+07:00",
+      "fetched": "2026-08-15T19:30:12.833286+07:00"
+    },
+    {
+      "id": "8c35b1e0aa4cfe9735584158ea1f1d30",
+      "title": "Motul Việt Nam cùng 200 tay lái FE+ chinh phục miền Trung nắng gió",
+      "link": "https://thanhnien.vn/motul-viet-nam-cung-200-tay-lai-fe-chinh-phuc-mien-trung-nang-gio-185260815180550146.htm",
+      "summary": "Sau 3 mùa bùng nổ tại 4 đỉnh cực Tổ quốc, năm nay Motul Việt Nam cùng cộng đồng FE+ tiếp tục mở ra hành trình mới hội ngộ tại Quảng Ngãi với hơn 100 ô tô và 200 thành viên từ ba miền đất nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T11:00:00+07:00",
+      "fetched": "2026-08-15T19:30:15.505201+07:00"
+    },
+    {
+      "id": "09633885ad758ad67e5d8ee167b4c573",
+      "title": "Vì sao đường sắt Lào Cai - Hà Nội - Hải Phòng tăng vốn hơn 86.000 tỷ đồng?",
+      "link": "https://vnexpress.net/vi-sao-duong-sat-lao-cai-ha-noi-hai-phong-tang-von-hon-86-000-ty-dong-5109513.html",
+      "summary": "Dự án đường sắt Lào Cai - Hà Nội - Hải Phòng được bổ sung đoạn Yên Viên - Gia Lâm và đầu tư đường đôi Hà Nội - Hải Phòng... làm tăng tổng đầu tư hơn 86.000 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T10:59:23+07:00",
+      "fetched": "2026-08-15T19:30:12.833385+07:00"
+    },
+    {
+      "id": "e72413c79dd9e4414a71f9a31a578a6d",
+      "title": "YouTuber tố khách sạn không cho nhận phòng dù đã trả tiền",
+      "link": "https://vnexpress.net/youtuber-to-khach-san-khong-cho-nhan-phong-du-da-tra-tien-5109417.html",
+      "summary": "Một YouTuber chuyên đánh giá khách sạn cáo buộc khu nghỉ dưỡng hạng sang tại Mexico hủy đặt phòng và gọi cảnh sát để báo án anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T10:49:18+07:00",
+      "fetched": "2026-08-15T19:30:12.833477+07:00"
+    },
+    {
+      "id": "035a3d63ef1d8f2008f3862a9bfb47a1",
+      "title": "Bị cô gái kéo giữ, tên cướp bỏ xe chạy thoát thân",
+      "link": "https://vnexpress.net/bi-co-gai-keo-giu-ten-cuop-bo-xe-chay-thoat-than-5109527.html",
+      "summary": "Nguyễn Hồ Ngọc Kỳ, 22 tuổi, áp sát giật điện thoại của cô gái nhưng bị nạn nhân kéo áo, giằng co phải bỏ lại xe máy để tháo chạy, ngày 15/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-15T10:48:24+07:00",
+      "fetched": "2026-08-15T19:30:12.833574+07:00"
+    },
+    {
+      "id": "b1fcf59d2c1cfd67239eeb7bec94b563",
+      "title": "Tàu chiến Mỹ gặp 'tai biến kỹ thuật', mất điện nhiều ngày trên Biển Đông",
+      "link": "https://vnexpress.net/tau-chien-my-gap-tai-bien-ky-thuat-mat-dien-nhieu-ngay-tren-bien-dong-5109463.html",
+      "summary": "Khu trục hạm USS Benfold bị hỏng máy phát khi hoạt động ở Biển Đông, khiến nhiều hệ thống điện trên tàu bị tê liệt suốt nhiều ngày.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-15T10:41:09+07:00",
+      "fetched": "2026-08-15T19:30:18.495468+07:00"
     },
     {
       "id": "5b3f6785eaae00bbb84438c702443335",
