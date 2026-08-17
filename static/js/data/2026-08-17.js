@@ -1,7 +1,157 @@
 window.newsData_2026_08_17 = {
   "date": "2026-08-17",
-  "lastUpdated": "2026-08-17T19:36:27.203005+07:00",
+  "lastUpdated": "2026-08-17T21:23:11.631585+07:00",
   "articles": [
+    {
+      "id": "cce93ec3c302f12d54b46b63976ac073",
+      "title": "Cựu nghị sĩ Mỹ nói Washington thảo luận khả năng tấn công hạt nhân Iran",
+      "link": "https://tuoitre.vn/cuu-nghi-si-my-noi-washington-thao-luan-kha-nang-tan-cong-hat-nhan-iran-100260817185904835.htm",
+      "summary": "Cựu nghị sĩ Mỹ Marjorie Taylor Greene tuyên bố Washington đang thực sự thảo luận về việc hạ thấp ngưỡng sử dụng vũ khí hạt nhân để có thể nhằm vào Iran.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T21:23:06.493626+07:00",
+      "fetched": "2026-08-17T21:23:06.493661+07:00"
+    },
+    {
+      "id": "4cf14251467c80a10c24d8082fe2bc55",
+      "title": "VIFC ra mắt hệ thống đăng ký thành viên giai đoạn 2026 - 2027",
+      "link": "https://tuoitre.vn/vifc-ra-mat-he-thong-dang-ky-thanh-vien-giai-doan-2026-2027-100260817161929921.htm",
+      "summary": "Chiều 17-8, VIFC-HCM phối hợp VIFC-DN ra mắt hệ thống đăng ký và công nhận thành viên của Trung tâm tài chính quốc tế tại Việt Nam giai đoạn 2026 - 2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T21:23:06.493584+07:00",
+      "fetched": "2026-08-17T21:23:06.493619+07:00"
+    },
+    {
+      "id": "d10d35d3c4a4328d66c0a48c29a73474",
+      "title": "Sáp nhập đơn vị hành chính hướng tới phát triển bền vững và liên kết vùng",
+      "link": "https://tuoitre.vn/sap-nhap-don-vi-hanh-chinh-huong-toi-phat-trien-ben-vung-va-lien-ket-vung-10026081718532497.htm",
+      "summary": "Sắp xếp đơn vị hành chính không chỉ nhằm tinh gọn bộ máy, mà còn hướng tới tổ chức lại không gian phát triển và tăng cường liên kết vùng. Đây là nội dung được trao đổi tại hội thảo khoa học quốc gia tổ chức ở TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T21:23:06.493544+07:00",
+      "fetched": "2026-08-17T21:23:06.493578+07:00"
+    },
+    {
+      "id": "5b5778fd1e46dee219ab05c3896c6b00",
+      "title": "Jimin BTS nhận 'mưa lời khen' vì một hành động trong concert",
+      "link": "https://tuoitre.vn/jimin-bts-nhan-mua-loi-khen-vi-mot-hanh-dong-trong-concert-100260817183439924.htm",
+      "summary": "Jimin (BTS) được khen ngợi khi chủ động tiến đến ôm hôn và tặng quà lưu niệm cho một fan nhí mắc bệnh ung thư trong concert Arirang tại Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T21:23:06.493504+07:00",
+      "fetched": "2026-08-17T21:23:06.493538+07:00"
+    },
+    {
+      "id": "c565c3b4db398de8e5da93126061ab24",
+      "title": "Vì sao cụm phà Đại Ngãi chưa thay đổi cách bán vé để tài xế bớt khổ?",
+      "link": "https://tuoitre.vn/vi-sao-cum-pha-dai-ngai-chua-thay-doi-cach-ban-ve-de-tai-xe-bot-kho-100260817190057452.htm",
+      "summary": "Tài xế ô tô bức xúc do phải xuống xe chạy bộ mua vé mỗi khi qua phà Đại Ngãi trên tuyến quốc lộ 60, từ Cần Thơ đi Vĩnh Long.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T21:23:06.493463+07:00",
+      "fetched": "2026-08-17T21:23:06.493497+07:00"
+    },
+    {
+      "id": "79660d89c5bc787d7f327594752a5c56",
+      "title": "Vì sao người trưởng thành dễ thiếu hụt vitamin nhóm B?",
+      "link": "https://tuoitre.vn/vi-sao-nguoi-truong-thanh-de-thieu-hut-vitamin-nhom-b-100260817113913156.htm",
+      "summary": "Bữa sáng vội vàng, bữa trưa qua loa cùng chế độ ăn thiếu đa dạng là hình ảnh quen thuộc của nhiều người trưởng thành. Để rồi khi thấy mệt mỏi, nhiều người thường nghĩ đến thiếu ngủ hoặc áp lực công việc mà ít chú ý đến nền tảng dinh dưỡng hằng ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T21:23:06.493420+07:00",
+      "fetched": "2026-08-17T21:23:06.493457+07:00"
+    },
+    {
+      "id": "2521d5efb8b7b338134c3b4491258b0e",
+      "title": "MoMo bắt tay Green SM Food: Mở kênh tăng trưởng mới cho các chủ quán F&B",
+      "link": "https://tuoitre.vn/momo-bat-tay-green-sm-food-mo-kenh-tang-truong-moi-cho-cac-chu-quan-fb-100260817114754641.htm",
+      "summary": "Tiếp tục khẳng định vị thế tiên phong và cam kết đồng hành cùng cộng đồng doanh nghiệp, hộ kinh doanh và tiểu thương trong hành trình chuyển đổi số, MoMo chính thức hợp tác với Green SM Food triển khai giải pháp đăng ký gian hàng ngay trên ứng dụng MoMo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T21:23:06.493376+07:00",
+      "fetched": "2026-08-17T21:23:06.493414+07:00"
+    },
+    {
+      "id": "89135eb97669dd09a07e9c41b709fddc",
+      "title": "Tìm dư địa mới cho thương mại điện tử tại Việt Nam",
+      "link": "https://tuoitre.vn/tim-du-dia-moi-cho-thuong-mai-dien-tu-tai-viet-nam-100260817155150199.htm",
+      "summary": "Theo báo cáo của Bộ Công Thương, thương mại điện tử (TMĐT) hiện mới chỉ đóng góp khoảng 10% vào tổng mức bán lẻ hàng hóa và dịch vụ tiêu dùng cả nước. Dư địa tăng trưởng dài hạn còn rất lớn, nhưng làm thế nào để khai mở?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T21:23:06.493332+07:00",
+      "fetched": "2026-08-17T21:23:06.493370+07:00"
+    },
+    {
+      "id": "1012b3540d7fc8866a33fcd194102f26",
+      "title": "Liên hoan phim quốc tế Hà Nội trở lại vào tháng 11",
+      "link": "https://tuoitre.vn/lien-hoan-phim-quoc-te-ha-noi-tro-lai-vao-thang-11-100260817192259453.htm",
+      "summary": "Có nhiều hoạt động điện ảnh nói riêng và văn hóa nói chung diễn ra trong khuôn khổ Liên hoan phim quốc tế Hà Nội lần thứ VIII này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T21:23:06.493289+07:00",
+      "fetched": "2026-08-17T21:23:06.493326+07:00"
+    },
+    {
+      "id": "a1647b141767acad1899c83c317b3197",
+      "title": "Cá tra Việt Nam gặp khó tại Mỹ vì 'thuế chồng thuế'?",
+      "link": "https://tuoitre.vn/ca-tra-viet-nam-gap-kho-tai-my-vi-thue-chong-thue-100260817191114007.htm",
+      "summary": "Mức thuế chống bán phá giá cuối cùng mà Mỹ đưa ra tăng mạnh so với mức sơ bộ khiến cá tra Việt Nam sẽ khó cạnh tranh tại thị trường này khi phải chịu thêm thuế Section 301.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T21:23:06.493243+07:00",
+      "fetched": "2026-08-17T21:23:06.493283+07:00"
+    },
+    {
+      "id": "48062c11f4191960708b46eff8f80815",
+      "title": "Khởi tố 3 người đánh cắp bản quyền game 'Con đường tơ lụa'",
+      "link": "https://tuoitre.vn/khoi-to-3-nguoi-danh-cap-ban-quyen-game-con-duong-to-lua-100260817190544615.htm",
+      "summary": "Nguyễn Văn Hưng và 2 đồng phạm bị khởi tố vì hành vi sao chép, đánh cắp bản quyền trò chơi “Con đường tơ lụa”, rồi đưa vào vận hành game lậu “Sro Thổ quỷ” nhằm mục đích thu lợi bất chính.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T21:23:06.493200+07:00",
+      "fetched": "2026-08-17T21:23:06.493237+07:00"
+    },
+    {
+      "id": "005b7df0b88579f3e996d2605bc28427",
+      "title": "Ngoài nhẫn vàng được trả lại, nhiều thông tin bất ngờ trong hồ sơ kỷ vật đi B",
+      "link": "https://tuoitre.vn/ngoai-nhan-vang-duoc-tra-lai-nhieu-thong-tin-bat-ngo-trong-ho-so-ky-vat-di-b-10026081717361787.htm",
+      "summary": "Gửi lại hồ sơ, tài sản rồi vào Nam làm nhiệm vụ những năm 1959-1975, có cán bộ đi B trở về, nhưng cũng có người mãi mãi nằm lại. Nhiều hồ sơ đến tay thân nhân trong nỗi mừng tủi xen lẫn sự bất ngờ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T21:23:06.493156+07:00",
+      "fetched": "2026-08-17T21:23:06.493193+07:00"
+    },
+    {
+      "id": "d686a413e01500d059fd28c1d0b35b22",
+      "title": "Chuyển 5 hồ sơ vi phạm về chôn lấp chất thải sang PC03 TP.HCM",
+      "link": "https://tuoitre.vn/chuyen-5-ho-so-vi-pham-ve-chon-lap-chat-thai-sang-pc03-tphcm-100260817183440784.htm",
+      "summary": "Ngày 17-8, Ban Quản lý các Khu chế xuất và công nghiệp TP.HCM thông tin về việc quản lý môi trường tại các khu chế xuất, khu công nghiệp. Qua đợt kiểm tra 100 cơ sở mới đây, 87 cơ sở bị lập biên bản vi phạm, 5 hồ sơ được chuyển PC03.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T21:23:06.493107+07:00",
+      "fetched": "2026-08-17T21:23:06.493149+07:00"
+    },
+    {
+      "id": "ded931c63b9e9388881b72dadd7f6849",
+      "title": "Bãi đá phế thải Ấn Độ hóa điểm du lịch, tưng bừng chụp hình cưới",
+      "link": "https://tuoitre.vn/bai-da-phe-thai-an-do-hoa-diem-du-lich-tung-bung-chup-hinh-cuoi-100260817180841341.htm",
+      "summary": "Du khách đổ xô đến một bãi phế thải đá cẩm thạch ở Ấn Độ vì khung cảnh nhìn giống một dãy núi tuyết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T21:23:06.493046+07:00",
+      "fetched": "2026-08-17T21:23:06.493100+07:00"
+    },
+    {
+      "id": "83c8a25c7b9579658dd034be1d8a5cca",
+      "title": "Phó giám đốc Công an Hà Nội: Ông Nguyễn Sỹ Cương có đầy đủ điều kiện được miễn trách nhiệm hình sự",
+      "link": "https://tuoitre.vn/pho-giam-doc-cong-an-ha-noi-ong-nguyen-sy-cuong-co-day-du-dieu-kien-duoc-mien-trach-nhiem-hinh-su-100260817184548528.htm",
+      "summary": "Thiếu tướng Nguyễn Quốc Toản - Chánh văn phòng, Người phát ngôn Bộ Công an - cho biết người dân cần tỉnh táo, nâng cao cảnh giác. Mỗi người dân, đặc biệt là người trẻ khi tham gia không gian mạng cần xây dựng cho mình \"sức đề kháng tự nhiên trên không gian số\", không chia sẻ thông tin chưa được kiểm...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T21:23:06.492910+07:00",
+      "fetched": "2026-08-17T21:23:06.493036+07:00"
+    },
     {
       "id": "afad4aaa4e404ae6e9fac8a832db811a",
       "title": "Iran đòi Mỹ bồi thường 'hàng nghìn tỉ USD' vì gây ô nhiễm vùng Vịnh",
@@ -363,6 +513,56 @@ window.newsData_2026_08_17 = {
       "fetched": "2026-08-17T15:38:11.857508+07:00"
     },
     {
+      "id": "16cdcc03c72efcc71c198db9d2a9284e",
+      "title": "JBL Live 780NC: Tai nghe over-ear kết hợp thiết kế nổi bật và chống ồn chủ động",
+      "link": "https://thanhnien.vn/jbl-live-780nc-tai-nghe-over-ear-ket-hop-thiet-ke-noi-bat-va-chong-on-chu-dong-185260817211643569.htm",
+      "summary": "JBL Live 780NC gây chú ý với thiết kế over-ear trẻ trung, khả năng chống ồn chủ động thích ứng cùng chất âm giàu năng lượng đặc trưng của JBL. Bên cạnh đó, mẫu tai nghe còn hỗ trợ LDAC, Bluetooth 6.0, kết nối hai thiết bị và thời lượng pin lên đến 80 giờ, hướng đến nhu cầu nghe nhạc, làm việc và giả...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T14:16:00+07:00",
+      "fetched": "2026-08-17T21:23:04.785472+07:00"
+    },
+    {
+      "id": "71ce14dd759b94ffeb51aaa74c56b966",
+      "title": "VNG khởi động giải chạy cộng đồng UpRace 2026",
+      "link": "https://thanhnien.vn/vng-khoi-dong-giai-chay-cong-dong-uprace-2026-185260817175428858.htm",
+      "summary": "VNG khởi động giải chạy UpRace 2026 mùa 8 với thông điệp \"Run for a Rising Việt Nam\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T14:00:00+07:00",
+      "fetched": "2026-08-17T21:23:04.785587+07:00"
+    },
+    {
+      "id": "1c7d1f020d9763231a52159add799511",
+      "title": "Quảng Trị - Khánh Hòa nối 'miền hoa lửa với vịnh ngọc xanh', mở rộng du lịch",
+      "link": "https://thanhnien.vn/quang-tri-khanh-hoa-noi-mien-hoa-lua-voi-vinh-ngoc-xanh-mo-rong-du-lich-185260817161609811.htm",
+      "summary": "Việc khai trương đường bay Nha Trang - Đồng Hới cùng chuỗi hoạt động văn hóa, thể thao, du lịch mở thêm kết nối giữa Quảng Trị và Khánh Hòa, góp phần thúc đẩy liên kết vùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T13:59:00+07:00",
+      "fetched": "2026-08-17T21:23:04.785688+07:00"
+    },
+    {
+      "id": "fa886cef2ac5f73a23ccd36f49750e08",
+      "title": "Lazada bị phạt 350 triệu đồng",
+      "link": "https://vnexpress.net/lazada-bi-phat-350-trieu-dong-5110163.html",
+      "summary": "Cung cấp thông tin gây nhầm lẫn cho người tiêu dùng, Lazada bị Ủy ban Cạnh tranh Quốc gia xử phạt 350 triệu đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-17T13:56:58+07:00",
+      "fetched": "2026-08-17T21:23:09.024229+07:00"
+    },
+    {
+      "id": "04b5822f0a2f63379d6aadea72e0b566",
+      "title": "Bộ GD-ĐT đề xuất 3 mức đánh giá dạy và học tiếng Anh",
+      "link": "https://thanhnien.vn/bo-gd-dt-de-xuat-3-muc-danh-gia-day-va-hoc-tieng-anh-18526081718441264.htm",
+      "summary": "Bộ GD-ĐT đang xây dựng dự thảo Thông tư quy định tiêu chuẩn, tiêu chí đánh giá các cơ sở giáo dục trong triển khai thực hiện đưa tiếng Anh thành ngôn ngữ thứ hai trong trường học.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T13:50:00+07:00",
+      "fetched": "2026-08-17T21:23:04.785785+07:00"
+    },
+    {
       "id": "193eba2cb6673b9570ecb1cf03e0419f",
       "title": "Các nạn nhân vụ xe chở khách du lịch đâm xe container trên cao tốc đang ra sao?",
       "link": "https://tuoitre.vn/cac-nan-nhan-vu-xe-cho-khach-du-lich-dam-xe-container-tren-cao-toc-dang-ra-sao-10026081712033113.htm",
@@ -513,6 +713,196 @@ window.newsData_2026_08_17 = {
       "fetched": "2026-08-17T13:46:56.335944+07:00"
     },
     {
+      "id": "150b82ee320e5c9e3d0d4fb07cdf95fe",
+      "title": "Dược sĩ Tiến: Tôi không cần chứng minh mình giỏi giang",
+      "link": "https://thanhnien.vn/duoc-si-tien-toi-khong-can-chung-minh-minh-gioi-giang-185260817174442024.htm",
+      "summary": "Sau nhiều năm tham gia vào làng giải trí, Dược sĩ Tiến thừa nhận không còn cố gắng chứng tỏ cho mọi người thấy mình là người học giỏi, tư duy tốt. Thay vào đó, anh muốn khám phá khả năng của mình ở lĩnh vực nghệ thuật, đặc biệt là ca hát.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T13:35:00+07:00",
+      "fetched": "2026-08-17T21:23:04.785884+07:00"
+    },
+    {
+      "id": "b3b47f7230247bf198bc57f36001dbe0",
+      "title": "Có nên sử dụng phụ kiện bảo vệ ống kính camera smartphone?",
+      "link": "https://thanhnien.vn/co-nen-su-dung-phu-kien-bao-ve-ong-kinh-camera-smartphone-185260817160810045.htm",
+      "summary": "Camera smartphone hiện nay vốn được thiết kế bền bỉ, trong khi kính bảo vệ bên ngoài đôi khi lại ảnh hưởng chất lượng chụp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T13:33:00+07:00",
+      "fetched": "2026-08-17T21:23:04.785980+07:00"
+    },
+    {
+      "id": "e40d458bb3d3d7abe2480fbed1549eed",
+      "title": "Ông Trump dọa 'ném bom tơi bời' đồng minh Oman",
+      "link": "https://vnexpress.net/ong-trump-doa-nem-bom-toi-boi-dong-minh-oman-5110159.html",
+      "summary": "Tổng thống Trump cảnh báo sẽ ra lệnh không kích Oman nếu quốc gia vùng Vịnh cản trở các nỗ lực của Mỹ tại eo biển Hormuz.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T13:32:04+07:00",
+      "fetched": "2026-08-17T21:23:02.090738+07:00"
+    },
+    {
+      "id": "e40d458bb3d3d7abe2480fbed1549eed",
+      "title": "Ông Trump dọa 'ném bom tơi bời' đồng minh Oman",
+      "link": "https://vnexpress.net/ong-trump-doa-nem-bom-toi-boi-dong-minh-oman-5110159.html",
+      "summary": "Tổng thống Trump cảnh báo sẽ ra lệnh không kích Oman nếu quốc gia vùng Vịnh cản trở các nỗ lực của Mỹ tại eo biển Hormuz.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-17T13:32:04+07:00",
+      "fetched": "2026-08-17T21:23:07.446651+07:00"
+    },
+    {
+      "id": "8068a4757331dc29e3412c6d84057d80",
+      "title": "Hôn nhân kín tiếng của 'phù thủy Wanda' Elizabeth Olsen",
+      "link": "https://vnexpress.net/hon-nhan-kin-tieng-cua-phu-thuy-wanda-elizabeth-olsen-5109835.html",
+      "summary": "6 năm trước, Elizabeth Olsen âm thầm cưới nhạc sĩ Robbie Arnett, chỉ để lộ thông tin khi vô tình gọi anh là chồng trong một cuộc phỏng vấn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T13:30:00+07:00",
+      "fetched": "2026-08-17T21:23:02.090864+07:00"
+    },
+    {
+      "id": "e9dca825a304667e0ba1426226a4fdf3",
+      "title": "Coca-Cola lan toả niềm vui bóng đá với người hâm mộ tại FIFA World Cup",
+      "link": "https://vnexpress.net/coca-cola-lan-toa-niem-vui-bong-da-voi-nguoi-ham-mo-tai-fifa-world-cup-5110165.html",
+      "summary": "Coca-Cola góp phần kết nối người hâm mộ Việt Nam, lan toả niềm vui bóng đá vượt ra ngoài sân cỏ FIFA World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T13:30:00+07:00",
+      "fetched": "2026-08-17T21:23:02.090972+07:00"
+    },
+    {
+      "id": "47ba0de691796a69ec897f5aa4f9397c",
+      "title": "Johnny Depp sắp quay lại đóng 'Cướp biển vùng Caribbean'?",
+      "link": "https://thanhnien.vn/johnny-depp-sap-quay-lai-dong-cuop-bien-vung-caribbean-185260817174536778.htm",
+      "summary": "Theo Deadline, nhà sản xuất Jerry Bruckheimer cho biết họ đang viết kịch bản cho phần 6 của 'Cướp biển vùng Caribbean' và thảo luận với Johnny Depp về việc tham gia dự án.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T13:29:00+07:00",
+      "fetched": "2026-08-17T21:23:04.786091+07:00"
+    },
+    {
+      "id": "6b623506167bd1a92f889a18c5f74d8c",
+      "title": "Giá vàng thế giới giảm mạnh khi sản xuất Mỹ tăng vượt dự báo",
+      "link": "https://thanhnien.vn/gia-vang-the-gioi-giam-manh-khi-san-xuat-my-tang-vuot-du-bao-185260817202034828.htm",
+      "summary": "Tối 17.8, giá vàng thế giới giảm mạnh khoảng 30 USD/ounce trong phiên giao dịch tại Mỹ, xuống khoảng 4.366 USD/ounce. Kim loại quý chịu áp lực sau khi dữ liệu kinh tế mới công bố cho thấy hoạt động sản xuất tại khu vực New York tăng trưởng mạnh hơn dự kiến, làm giảm kỳ vọng Cục Dự trữ liên bang Mỹ (...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T13:28:00+07:00",
+      "fetched": "2026-08-17T21:23:04.786187+07:00"
+    },
+    {
+      "id": "4853a7734af0296affcee13763cd4177",
+      "title": "Phát hiện âm mưu kích động, gây rối trong vụ việc liên quan ông Nguyễn Sỹ Cương",
+      "link": "https://thanhnien.vn/phat-hien-am-muu-kich-dong-gay-roi-trong-vu-viec-lien-quan-ong-nguyen-sy-cuong-185260817201825911.htm",
+      "summary": "Vụ tai nạn giao thông trên đường Nguyễn Huy Tự (Hà Nội) xảy ra hơn 1 năm trước đã được cơ quan điều tra giải quyết rõ ràng. Gia đình nạn nhân cũng hoàn toàn đồng ý với kết quả của cơ quan điều tra mà không có phân vân, thắc mắc gì.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T13:26:00+07:00",
+      "fetched": "2026-08-17T21:23:04.786282+07:00"
+    },
+    {
+      "id": "97d701730e38e7d6f877bcb60d3656b6",
+      "title": "Ông Trump dọa tấn công Oman, nhấn mạnh việc ngăn Iran sản xuất vũ khí hạt nhân",
+      "link": "https://thanhnien.vn/ong-trump-doa-tan-cong-oman-nhan-manh-viec-ngan-iran-san-xuat-vu-khi-hat-nhan-18526081719454704.htm",
+      "summary": "Tổng thống Mỹ Donald Trump phát biểu về tình hình Trung Đông, đe dọa tấn công Oman nếu nước này can thiệp vào nỗ lực của Mỹ tại eo biển Hormuz, đồng thời tái khẳng định mục tiêu đảm bảo Iran không sở hữu vũ khí hạt nhân",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T13:25:00+07:00",
+      "fetched": "2026-08-17T21:23:04.786376+07:00"
+    },
+    {
+      "id": "ccc67a8b72cb4a1c4c6a5bb4cd1489a1",
+      "title": "Con trai nuôi Hoài Linh tiết lộ cuộc sống sau 11 năm nổi tiếng",
+      "link": "https://thanhnien.vn/con-trai-nuoi-hoai-linh-tiet-lo-cuoc-song-sau-11-nam-noi-tieng-185260817184752918.htm",
+      "summary": "Sau 11 năm giành quán quân tại một cuộc thi, Ben Hoàng Quân - con trai nuôi Hoài Linh có màn 'lột xác' về ngoại hình, bền bỉ theo đuổi các hoạt động nghệ thuật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T13:24:00+07:00",
+      "fetched": "2026-08-17T21:23:04.786475+07:00"
+    },
+    {
+      "id": "292018199a39c106383ce187b69fee85",
+      "title": "Đội tuyển Việt Nam về nước, VFF nói gì trước bán kết lượt về đấu Malaysia tại Mỹ Đình?",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-ve-nuoc-vff-noi-gi-truoc-ban-ket-luot-ve-dau-malaysia-tai-my-dinh-185260817201711828.htm",
+      "summary": "Liên đoàn Bóng đá Việt Nam (VFF) khẳng định ưu tiên của đội tuyển Việt Nam lúc này là hồi phục thể trạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T13:18:00+07:00",
+      "fetched": "2026-08-17T21:23:04.786572+07:00"
+    },
+    {
+      "id": "81a4bf5841f0fcd88976bc202f302a50",
+      "title": "Hàng nghìn người đổ về 'biển vô cực' Quang Lang từ 3h",
+      "link": "https://vnexpress.net/hang-nghin-nguoi-do-ve-bien-vo-cuc-quang-lang-tu-3h-5109664.html",
+      "summary": "Từ khoảng 3h sáng, hàng nghìn du khách tập trung tại biển Quang Lang, đi xe bánh xích hoặc lội bùn để kịp ngắm bình minh trên bãi triều.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T13:16:03+07:00",
+      "fetched": "2026-08-17T21:23:02.091101+07:00"
+    },
+    {
+      "id": "f14387bf076f62dcf71d6bf1d54ac737",
+      "title": "Ban Bí thư ban hành Quy định mới về quản lý cán bộ",
+      "link": "https://thanhnien.vn/ban-bi-thu-ban-hanh-quy-dinh-moi-ve-quan-ly-can-bo-185260817175133018.htm",
+      "summary": "Quy định mới của Ban Bí thư nhấn mạnh yêu cầu bảo đảm mỗi cán bộ chỉ có một hồ sơ cán bộ dùng chung trong toàn hệ thống chính trị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T13:16:00+07:00",
+      "fetched": "2026-08-17T21:23:04.786662+07:00"
+    },
+    {
+      "id": "6311532259d1efb6385346d8dae71fe9",
+      "title": "Hàng chục ca nô tiếp tục quần thảo tìm 2 người mất tích ở Mũi Nghê",
+      "link": "https://thanhnien.vn/hang-chuc-ca-no-tiep-tuc-quan-thao-tim-2-nguoi-mat-tich-o-mui-nghe-185260817192122913.htm",
+      "summary": "Hàng chục ca nô, xuồng máy của các đội thiện nguyện quần thảo quanh Mũi Nghê (thành phố Đà Nẵng), nỗ lực tìm tung tích 2 người mất tích suốt 10 ngày qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T13:01:00+07:00",
+      "fetched": "2026-08-17T21:23:04.786751+07:00"
+    },
+    {
+      "id": "4145048e1c7bef55276706496ae2e4f4",
+      "title": "Trả giá sau 5 năm đi làm 12 km vì lương cao từ Thủ Đức vào quận 3",
+      "link": "https://vnexpress.net/tra-gia-sau-5-nam-di-lam-12-km-vi-luong-cao-tu-thu-duc-vao-quan-3-5110075.html",
+      "summary": "Tính cả hai chiều, có thời điểm tôi phải rong ruổi trên đường suốt gần 3 tiếng mỗi ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T13:00:00+07:00",
+      "fetched": "2026-08-17T21:23:02.091203+07:00"
+    },
+    {
+      "id": "bc87f161c41b38d86d719a083c1b4c6b",
+      "title": "Cocolux đẩy mạnh mô hình bán lẻ kết hợp trải nghiệm",
+      "link": "https://vnexpress.net/cocolux-day-manh-mo-hinh-ban-le-ket-hop-trai-nghiem-5110160.html",
+      "summary": "Cocolux và CeraVe tổ chức sự kiện ra mắt sản phẩm, dùng thử, tư vấn chăm sóc da, giao lưu với nghệ sĩ Captain Boy, tại Aeon Mall Long Biên (Hà Nội) cuối tháng 7.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T13:00:00+07:00",
+      "fetched": "2026-08-17T21:23:02.091300+07:00"
+    },
+    {
+      "id": "a5e1302ea4bee6eb0d4cda1e5ba0637b",
+      "title": "Thu Cúc TCI khai trương cơ sở Hải Phòng, mở rộng dịch vụ y tế chuyên sâu",
+      "link": "https://thanhnien.vn/thu-cuc-tci-khai-truong-co-so-hai-phong-mo-rong-dich-vu-y-te-chuyen-sau-185260817193317762.htm",
+      "summary": "Vừa qua, Thu Cúc TCI chính thức đưa Phòng khám Đa khoa Thu Cúc TCI Hải Phòng vào hoạt động, đánh dấu cơ sở thứ 5 của hệ thống. Với đội ngũ chuyên gia từ Hà Nội, mô hình đa chuyên khoa và hệ thống chẩn đoán hiện đại, cơ sở mới mở rộng khả năng tiếp cận y tế chuyên sâu cho người dân Hải Phòng và khu v...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T13:00:00+07:00",
+      "fetched": "2026-08-17T21:23:04.786841+07:00"
+    },
+    {
+      "id": "d44869b28bf5d48bad6f7b1b64495b06",
+      "title": "Gần 20% dân số TP HCM hoàn thành khám sức khỏe miễn phí",
+      "link": "https://vnexpress.net/gan-20-dan-so-tp-hcm-hoan-thanh-kham-suc-khoe-mien-phi-5110117.html",
+      "summary": "Gần 2,6 triệu người TP HCM đã được khám sức khỏe và cập nhật hồ sơ sức khỏe điện tử, đạt 19,6% dân số thành phố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T12:40:56+07:00",
+      "fetched": "2026-08-17T21:23:02.091397+07:00"
+    },
+    {
       "id": "64316449a9fda00467974591aa842b29",
       "title": "Tân sinh viên ở Huế chật vật tìm trọ: 'Săn lùng' cả tuần lễ vẫn chưa có",
       "link": "https://thanhnien.vn/tan-sinh-vien-o-hue-chat-vat-tim-tro-san-lung-ca-tuan-le-van-chua-co-185260817182843116.htm",
@@ -521,6 +911,16 @@ window.newsData_2026_08_17 = {
       "category": "Tổng hợp",
       "published": "2026-08-17T12:33:00+07:00",
       "fetched": "2026-08-17T19:36:16.257340+07:00"
+    },
+    {
+      "id": "74c6ee7c9834dca11a4ad0c76b645239",
+      "title": "27 nạn nhân vụ ôtô khách tông đuôi xe container đa chấn thương",
+      "link": "https://vnexpress.net/27-nan-nhan-vu-oto-khach-tong-duoi-xe-container-da-chan-thuong-5110107.html",
+      "summary": "7 trong 34 người nạn nhân vụ ôtô chở khách đi du lịch Cửa Lò tông đuôi xe container trên cao tốc Diễn Châu - Bãi Vọt xuất viện sau khi sơ cứu, 27 người điều trị đa chấn thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T12:32:34+07:00",
+      "fetched": "2026-08-17T21:23:02.091492+07:00"
     },
     {
       "id": "01aa88703c4b8b950f10a84a488c140c",
@@ -581,6 +981,16 @@ window.newsData_2026_08_17 = {
       "category": "Tổng hợp",
       "published": "2026-08-17T12:17:25+07:00",
       "fetched": "2026-08-17T19:36:12.945242+07:00"
+    },
+    {
+      "id": "d5fd62ebd237c013553d5b8a2b119173",
+      "title": "Cầu Nhật Tân ùn tắc hơn 3 km sau hai vụ tai nạn liên hoàn",
+      "link": "https://vnexpress.net/cau-nhat-tan-un-tac-hon-3-km-sau-hai-vu-tai-nan-lien-hoan-5110153.html",
+      "summary": "Hai vụ tai nạn liên hoàn xảy ra cách nhau khoảng 50 m trên cầu Nhật Tân, hướng Hà Nội đi Nội Bài, khiến giao thông ùn tắc khoảng 3 km, chiều 17/8,",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T12:17:25+07:00",
+      "fetched": "2026-08-17T21:23:02.091780+07:00"
     },
     {
       "id": "3ad7816f8ff7cf44703a1bf2475ede1c",
