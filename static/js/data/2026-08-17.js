@@ -1,7 +1,157 @@
 window.newsData_2026_08_17 = {
   "date": "2026-08-17",
-  "lastUpdated": "2026-08-17T09:56:00.859999+07:00",
+  "lastUpdated": "2026-08-17T11:37:25.875605+07:00",
   "articles": [
+    {
+      "id": "0855b5da37e963847d08a51bf0d64937",
+      "title": "TP.HCM chính thức chốt phương án sắp xếp trường, trường nào không bị sáp nhập?",
+      "link": "https://tuoitre.vn/tphcm-chinh-thuc-chot-phuong-an-sap-xep-truong-truong-nao-khong-bi-sap-nhap-100260817085518274.htm",
+      "summary": "TP.HCM chính thức phê duyệt phương án sắp xếp mạng lưới trường công lập, trong đó quy định rõ những trường không thuộc diện sáp nhập.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T11:37:18.498237+07:00",
+      "fetched": "2026-08-17T11:37:18.498282+07:00"
+    },
+    {
+      "id": "611c7dbee72d76ee2f67861828bcecb0",
+      "title": "Hoạt hình Ngưu Lai dở tệ, sao lại 'cháy vé' ở Trung Quốc?",
+      "link": "https://tuoitre.vn/hoat-hinh-nguu-lai-do-te-sao-lai-chay-ve-o-trung-quoc-10026081619470052.htm",
+      "summary": "Nhìn nhận thế nào về việc phim hoạt hình Ngưu Lai bất ngờ gây sốt phòng vé bất chấp 'nội dung quá dở và đồ họa quá xấu'?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T11:37:18.498185+07:00",
+      "fetched": "2026-08-17T11:37:18.498228+07:00"
+    },
+    {
+      "id": "5ef73e2ac8cae2a5ffee69bf13b36fda",
+      "title": "Trương Thiều Hàm diện đầm Phan Huy trên sân khấu Jiangsu Concert 2026",
+      "link": "https://tuoitre.vn/truong-thieu-ham-dien-dam-phan-huy-tren-san-khau-jiangsu-concert-2026-100260817004528246.htm",
+      "summary": "Ca sĩ Trương Thiều Hàm gây chú ý khi xuất hiện tại Jiangsu Concert 2026 trong thiết kế mới nhất của Phan Huy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T11:37:18.498134+07:00",
+      "fetched": "2026-08-17T11:37:18.498177+07:00"
+    },
+    {
+      "id": "c61920245d66f2777514b5d731c51896",
+      "title": "Người trẻ thuê nấu ăn theo giờ, vừa có cơm nhà vừa đỡ tốn thời gian",
+      "link": "https://tuoitre.vn/nguoi-tre-thue-nau-an-theo-gio-vua-co-com-nha-vua-do-ton-thoi-gian-100260815210417678.htm",
+      "summary": "Không cần đi chợ hay nấu nướng, nhiều người trẻ và hộ gia đình giờ đây chọn thuê người nấu cơm hộ như một cách để vừa có bữa cơm nhà vừa tiết kiệm thời gian.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T11:37:18.498083+07:00",
+      "fetched": "2026-08-17T11:37:18.498126+07:00"
+    },
+    {
+      "id": "9eb6abeeae0dc815a002be0077db0159",
+      "title": "Đường dây nóng phản ánh 'hét giá' giữ xe tại lễ hội sầu riêng",
+      "link": "https://tuoitre.vn/duong-day-nong-phan-anh-het-gia-giu-xe-tai-le-hoi-sau-rieng-100260817082929065.htm",
+      "summary": "Số điện thoại tiếp nhận phản ánh được công bố để người dân, du khách báo các điểm giữ xe tự phát, thu phí cao, không niêm yết giá hoặc gây phiền hà trong thời gian diễn ra Lễ hội Sầu riêng Đắk Lắk 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T11:37:18.498031+07:00",
+      "fetched": "2026-08-17T11:37:18.498075+07:00"
+    },
+    {
+      "id": "bec66ad32832c910363730c54b3bb2a4",
+      "title": "Vụ điện giật chết 2 vợ chồng: Buổi trao, nhận lại tiền cọc đầy nước mắt",
+      "link": "https://tuoitre.vn/vu-dien-giat-chet-2-vo-chong-buoi-trao-nhan-lai-tien-coc-day-nuoc-mat-100260816210937441.htm",
+      "summary": "Người phụ nữ đặt cọc 200 triệu mua căn nhà của hai vợ chồng bị điện giật chết ở Đà Nẵng nhận lại 160 triệu đồng, hỗ trợ 40 triệu cho hai anh em mồ côi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T11:37:18.497969+07:00",
+      "fetched": "2026-08-17T11:37:18.498017+07:00"
+    },
+    {
+      "id": "181b439830b37510a0a3b6325d2429cf",
+      "title": "Báo chí Malaysia: 'Góc quay của VAR quá tệ, vẫn không ai hiểu gì'",
+      "link": "https://tuoitre.vn/bao-chi-malaysia-goc-quay-cua-var-qua-te-van-khong-ai-hieu-gi-100260817090139389.htm",
+      "summary": "Đến sáng 17-8, một số trang báo Malaysia đã bắt đầu chất vấn VAR và trọng tài sau trận thua 0-2 của đội nhà trước Việt Nam ở lượt đi bán kết ASEAN Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T11:37:18.497901+07:00",
+      "fetched": "2026-08-17T11:37:18.497960+07:00"
+    },
+    {
+      "id": "3733218787b4fd556078776815a492b2",
+      "title": "Mùa Vu lan: Thương đôi mắt mẹ, đã 102 tuổi vẫn dõi theo con",
+      "link": "https://tuoitre.vn/mua-vu-lan-thuong-doi-mat-me-da-102-tuoi-van-doi-theo-con-100260817090008376.htm",
+      "summary": "Đôi mắt ấy ngày xưa khi tôi còn nhỏ bị bệnh, mẹ đã có những đêm thức trắng. Cũng đôi mắt ấy, mẹ từng ra cửa ngóng trông đứa con từ phương trời xa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T11:37:18.497848+07:00",
+      "fetched": "2026-08-17T11:37:18.497893+07:00"
+    },
+    {
+      "id": "adcc0b3aad7b384e74451c1dfbee2866",
+      "title": "Aguero: Không có gì hối tiếc vì Malaysia đã chơi trận hay nhất trước Việt Nam",
+      "link": "https://tuoitre.vn/aguero-khong-co-gi-hoi-tiec-vi-malaysia-da-choi-tran-hay-nhat-truoc-viet-nam-10026081709121713.htm",
+      "summary": "Dù thất bại 0-2 trước Việt Nam ở bán kết lượt đi ASEAN Cup 2026 nhưng các cầu thủ Malaysia vẫn cảm thấy tự hào vì đã chơi \"trận đấu hay nhất\" của họ tại giải.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T11:37:18.497793+07:00",
+      "fetched": "2026-08-17T11:37:18.497840+07:00"
+    },
+    {
+      "id": "607a4b4f4125ebcf657fb605e633f912",
+      "title": "Giảm giờ làm: Không thể mãi dựa vào lao động giá rẻ",
+      "link": "https://tuoitre.vn/giam-gio-lam-khong-the-mai-dua-vao-lao-dong-gia-re-100260817083824876.htm",
+      "summary": "Giảm giờ làm không giảm lợi nhuận doanh nghiệp mà là động lực thúc đẩy doanh nghiệp nâng cao năng suất, cải thiện điều kiện làm việc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T11:37:18.497738+07:00",
+      "fetched": "2026-08-17T11:37:18.497785+07:00"
+    },
+    {
+      "id": "b5f470586da95f7cdb6e6920940009c4",
+      "title": "Kinh doanh online: Hết thời giấu doanh thu, trốn thuế",
+      "link": "https://tuoitre.vn/kinh-doanh-online-het-thoi-giau-doanh-thu-tron-thue-100260817085604552.htm",
+      "summary": "Dữ liệu từ nền tảng bán hàng, đơn vị vận chuyển đến ngân hàng và hệ thống thanh toán đang dần được kết nối. Khi các nguồn dữ liệu liên thông, việc giấu doanh thu, trốn thuế sẽ khó hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T11:37:18.497680+07:00",
+      "fetched": "2026-08-17T11:37:18.497730+07:00"
+    },
+    {
+      "id": "7088e6e01e1862992911269d8c1a3c58",
+      "title": "Khu du lịch biển toàn resort, người lao động ở đâu?",
+      "link": "https://tuoitre.vn/khu-du-lich-bien-toan-resort-nguoi-lao-dong-o-dau-100260817084221559.htm",
+      "summary": "Resort, khách sạn mọc lên dày đặc, nhưng người làm lễ tân, buồng phòng, kỹ thuật... có thể phải đi hàng chục cây số mỗi ngày để đến nơi làm việc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T11:37:18.497622+07:00",
+      "fetched": "2026-08-17T11:37:18.497672+07:00"
+    },
+    {
+      "id": "13a9fe5fff9ef911362a80a9c8d2e9df",
+      "title": "Vé xem trận Việt Nam - Malaysia chỉ còn ở 'chợ đen'",
+      "link": "https://tuoitre.vn/ve-xem-tran-viet-nam-malaysia-chi-con-o-cho-den-10026081709131462.htm",
+      "summary": "Vé vào sân xem trận bán kết lượt về ASEAN Cup 2026 giữa đội tuyển Việt Nam và Malaysia đã bán hết sau hai lần mở bán trực tuyến. Người có nhu cầu mua giờ phải tìm trên thị trường \"chợ đen\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T11:37:18.497562+07:00",
+      "fetched": "2026-08-17T11:37:18.497613+07:00"
+    },
+    {
+      "id": "c0101852891aedb38bb7f4a396708bf2",
+      "title": "Cần Thơ miễn phí sách giáo khoa cho học sinh hộ nghèo, cận nghèo, có hoàn cảnh khó khăn",
+      "link": "https://tuoitre.vn/can-tho-mien-phi-sach-giao-khoa-cho-hoc-sinh-ho-ngheo-can-ngheo-co-hoan-canh-kho-khan-100260817081114725.htm",
+      "summary": "Thành phố Cần Thơ ưu tiên thực hiện miễn phí sách giáo khoa đối với học sinh thuộc hộ nghèo, hộ cận nghèo và học sinh có hoàn cảnh khó khăn tại 38 xã, phường vùng đồng bào dân tộc thiểu số.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T11:37:18.497493+07:00",
+      "fetched": "2026-08-17T11:37:18.497553+07:00"
+    },
+    {
+      "id": "93e3738e45518bd102fd5db82a196248",
+      "title": "Tư lệnh CENTCOM lên tiếng về sự cố trên tàu USS Abraham Lincoln",
+      "link": "https://tuoitre.vn/tu-lenh-centcom-len-tieng-ve-su-co-tren-tau-uss-abraham-lincoln-100260817092328233.htm",
+      "summary": "Tư lệnh CENTCOM Brad Cooper lên tiếng về sức khỏe tâm thần và điều kiện sinh hoạt của thủy thủ tàu sân bay USS Abraham Lincoln.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T11:37:18.497333+07:00",
+      "fetched": "2026-08-17T11:37:18.497480+07:00"
+    },
     {
       "id": "ed415b03841c1710ae0ef7b6df391135",
       "title": "Tin tức thế giới 17-8: Ông Trump nói về tập trận với Hàn Quốc; Con rể ông Trump gặp lãnh đạo Hamas",
@@ -263,6 +413,336 @@ window.newsData_2026_08_17 = {
       "fetched": "2026-08-17T05:17:05.838023+07:00"
     },
     {
+      "id": "9411327d4232ab064ba454fd8939e6d3",
+      "title": "An ninh thắt chặt tại phiên tòa xét xử ca sĩ Chi Dân, người mẫu An Tây",
+      "link": "https://thanhnien.vn/an-ninh-that-chat-tai-phien-toa-xet-xu-ca-si-chi-dan-nguoi-mau-an-tay-185260817111313567.htm",
+      "summary": "An ninh thắt chặt tại phiên tòa xét xử chuyên án mang bí số VN10, liên quan đến 4 nữ tiếp viên hàng không bị lợi dụng vận chuyển trái phép chất ma túy, phát hiện tại sân bay quốc tế Tân Sơn Nhất hồi tháng 3.2023.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T04:35:00+07:00",
+      "fetched": "2026-08-17T11:37:16.353247+07:00"
+    },
+    {
+      "id": "b4cfec2ce27bf13d1f10886080937337",
+      "title": "Kết luận điều tra vụ người gây tai nạn 'không có tội' bị khởi tố",
+      "link": "https://thanhnien.vn/ket-luan-dieu-tra-vu-nguoi-gay-tai-nan-khong-co-toi-bi-khoi-to-1852608170919193.htm",
+      "summary": "Cơ quan CSĐT Công an tỉnh Vĩnh Long vừa có kết luận điều tra và chuyển Viện KSND cùng cấp, đề nghị truy tố bị can từng được xác định \"không có tội\" trong vụ tai nạn giao thông chết người năm 2024 tại huyện Trà Ôn, tỉnh Vĩnh Long (cũ).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T04:35:00+07:00",
+      "fetched": "2026-08-17T11:37:16.353393+07:00"
+    },
+    {
+      "id": "4b13e593e5be298c672a6bf7089426cd",
+      "title": "TP.HCM công bố dự kiến số lượng hiệu trưởng, hiệu phó, nhân viên giảm sau sắp xếp",
+      "link": "https://thanhnien.vn/tphcm-cong-bo-du-kien-so-luong-hieu-truong-hieu-pho-nhan-vien-giam-sau-sap-xep-185260817111853993.htm",
+      "summary": "Sau khi công bố phương án tổng thể sắp xếp các cơ sở giáo dục từ mầm non cho đến THPT, theo thống kê dự kiến của TP.HCM, từng địa bàn phường, xã, đặc khu sẽ có số lượng cán bộ quản lý, nhân sự hỗ trợ giáo dục giảm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T04:34:00+07:00",
+      "fetched": "2026-08-17T11:37:16.353527+07:00"
+    },
+    {
+      "id": "e044bc2a4bd8370acd1fba08338ea8c7",
+      "title": "Lịch cúp nước 7 phường ở TP.HCM từ tối nay 17.8",
+      "link": "https://thanhnien.vn/lich-cup-nuoc-7-phuong-o-tphcm-tu-toi-nay-178-185260817104552714.htm",
+      "summary": "Từ tối nay 17.8 đến hết ngày 20.8, 7 phường ở TP.HCM cúp nước để thực hiện công tác bảo dưỡng, bảo trì hệ thống đường ống nước sạch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T04:32:00+07:00",
+      "fetched": "2026-08-17T11:37:16.353652+07:00"
+    },
+    {
+      "id": "5eff597c568c75da21d4205f89b81cb8",
+      "title": "Đình Bắc bị đau nằm sân, thủ môn Malaysia ân cần chăm sóc như bác sĩ: Hình ảnh quá đẹp!",
+      "link": "https://thanhnien.vn/dinh-bac-bi-dau-nam-san-thu-mon-malaysia-an-can-cham-soc-nhu-bac-si-hinh-anh-qua-dep-185260817105348385.htm",
+      "summary": "Trong lúc chờ đợi tổ y tế vào sân, thủ môn bên phía Malaysia là Azri Ghani đã có hành động fair-play đáng khen, trực tiếp hỗ trợ cho Nguyễn Đình Bắc khi tiền đạo này bị căng cơ trên sân Kuala Lumpur vào tối 16.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T04:31:00+07:00",
+      "fetched": "2026-08-17T11:37:16.353774+07:00"
+    },
+    {
+      "id": "0d1b7fbe7890efcffe4b7e90662fb34e",
+      "title": "Chủ tịch VFF giao nhiệm vụ đặc biệt: Việt Nam thắng tiếp Malaysia, vào chung kết lập cú đúp vô địch",
+      "link": "https://thanhnien.vn/chu-tich-vff-giao-nhiem-vu-dac-biet-viet-nam-thang-tiep-malaysia-vao-chung-ket-lap-cu-dup-vo-dich-185260817112316521.htm",
+      "summary": "Sau khi đội tuyển Việt Nam giành chiến thắng 2-0 trước Malaysia, Chủ tịch VFF Trần Quốc Tuấn đã vào phòng thay đồ để chúc mừng và động viên toàn đội. Ông đánh giá cao nỗ lực của thầy trò HLV Kim Sang-sik, đồng thời nhấn mạnh cơ hội vào chung kết đang rộng mở nhưng đội tuyển không được chủ quan",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T04:25:00+07:00",
+      "fetched": "2026-08-17T11:37:16.353894+07:00"
+    },
+    {
+      "id": "b8e12f0423cb7fdb32f27bd915a5dde9",
+      "title": "Mã độc Android mới chiếm đoạt thẻ ngân hàng một cách tinh vi",
+      "link": "https://thanhnien.vn/ma-doc-android-moi-chiem-doat-the-ngan-hang-mot-cach-tinh-vi-18526081710221877.htm",
+      "summary": "Cảnh báo mã độc Android mới có thể giúp hacker 'xài' thẻ ngân hàng theo thời gian thực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T04:23:00+07:00",
+      "fetched": "2026-08-17T11:37:16.354029+07:00"
+    },
+    {
+      "id": "5d512a3215d19baed4d49e5d67249c68",
+      "title": "Nam du khách Trung Quốc mất tích trên biển: Chấn chỉnh livestream, tung tin thất thiệt",
+      "link": "https://thanhnien.vn/nam-du-khach-trung-quoc-mat-tich-tren-bien-chan-chinh-livestream-tung-tin-that-thiet-185260817103424987.htm",
+      "summary": "UBND phường Tuy Hòa (Đắk Lắk) yêu cầu chấm dứt livestream, đăng tải thông tin chưa kiểm chứng khi lực lượng chức năng tìm kiếm nam du khách Trung Quốc mất tích trên biển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T04:17:00+07:00",
+      "fetched": "2026-08-17T11:37:16.354157+07:00"
+    },
+    {
+      "id": "15e0effe1edfce0fe0ef313f2853d6fe",
+      "title": "Phép toán khi Đường sách TP.HCM vào top 'chợ sách' tốt nhất thế giới",
+      "link": "https://thanhnien.vn/phep-toan-khi-duong-sach-tphcm-vao-top-cho-sach-tot-nhat-the-gioi-185260816221006446.htm",
+      "summary": "Lần đầu tiên, Đường sách TP.HCM ('Nguyen Van Binh Book Street') vào top 10 'chợ sách' tốt nhất thế giới (The Best Book Markets in the World), theo bình chọn của trang www.1000libraries.com.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T04:09:00+07:00",
+      "fetched": "2026-08-17T11:37:16.354281+07:00"
+    },
+    {
+      "id": "bd6968f319a91dd159ef51616f902d05",
+      "title": "Thị trường ô tô Việt tăng tốc",
+      "link": "https://thanhnien.vn/thi-truong-o-to-viet-tang-toc-185260817102615895.htm",
+      "summary": "Nửa đầu năm 2026, tổng lượng ô tô tiêu thụ tại Việt Nam đạt khoảng 328.818 xe, tăng gần 29% so với cùng kỳ năm trước, cũng là mức cao nhất từ trước đến nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T04:08:00+07:00",
+      "fetched": "2026-08-17T11:37:16.354404+07:00"
+    },
+    {
+      "id": "864a478caf3905b4a3787a3544678942",
+      "title": "Thấy biển 'Đi chậm' nhưng vẫn bị phạt tốc độ: Nhiều tài xế mắc sai lầm",
+      "link": "https://thanhnien.vn/thay-bien-di-cham-nhung-van-bi-phat-toc-do-nhieu-tai-xe-mac-sai-lam-185260816221643288.htm",
+      "summary": "Biển \"Đi chậm\" không quy định người điều khiển phương tiện phải chạy ở một mức tốc độ cố định. Thay vào đó, tài xế cần chủ động giảm tốc, quan sát và lựa chọn tốc độ phù hợp với điều kiện thực tế để bảo đảm an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T04:07:00+07:00",
+      "fetched": "2026-08-17T11:37:16.354526+07:00"
+    },
+    {
+      "id": "e8c39cd00dc8a8676f2632ee8cb4cb97",
+      "title": "Sáng nay tựu trường: Thầy hiệu trưởng TP.HCM gửi lời chào học sinh lớp 1",
+      "link": "https://thanhnien.vn/sang-nay-tuu-truong-thay-hieu-truong-tphcm-gui-loi-chao-hoc-sinh-lop-1-185260817092728316.htm",
+      "summary": "Sáng nay, học sinh đầu cấp và cuối cấp tựu trường năm học 2026-2027. Chào các em học sinh lớp 1 đến với ngôi nhà chung là trường tiểu học, thầy hiệu trưởng TP.HCM mong các em có những tháng ngày đáng nhớ cùng thầy cô giáo và các bạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T04:03:00+07:00",
+      "fetched": "2026-08-17T11:37:16.354644+07:00"
+    },
+    {
+      "id": "1fb6b448e913ed4a910459f013e5eb9d",
+      "title": "Điểm chung phía sau thành công của các nền kinh tế Đông Bắc Á",
+      "link": "https://vnexpress.net/diem-chung-phia-sau-thanh-cong-cua-cac-nen-kinh-te-dong-bac-a-5109900.html",
+      "summary": "Theo nhiều nghiên cứu, một điểm chung phía sau thành công của Nhật Bản, Hàn Quốc hay Trung Quốc là sự hình thành các doanh nghiệp quy mô lớn, có khả năng dẫn dắt những ngành chiến lược.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-17T04:00:00+07:00",
+      "fetched": "2026-08-17T11:37:22.041996+07:00"
+    },
+    {
+      "id": "74cd425c62c66a0a895a7e580fd3c560",
+      "title": "Cầu thủ Malaysia: 'Chúng tôi khiến Việt Nam kinh ngạc trong hiệp đầu'",
+      "link": "https://vnexpress.net/cau-thu-malaysia-chung-toi-khien-viet-nam-kinh-ngac-trong-hiep-dau-5109941.html",
+      "summary": "Sergio Aguero và Paulo Josue cho rằng Malaysia đã chơi tốt dù thua Việt Nam 0-2 ở lượt đi bán kết ASEAN Cup 2026 trên sân Kuala Lumpur tối 16/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T03:56:00+07:00",
+      "fetched": "2026-08-17T11:37:13.727270+07:00"
+    },
+    {
+      "id": "5321b9764ef0dee34334a25a9fd20171",
+      "title": "Giải mã ký hiệu trên cần gạt mưa ô tô, không phải tài xế nào cũng hiểu",
+      "link": "https://thanhnien.vn/giai-ma-ky-hieu-tren-can-gat-mua-o-to-khong-phai-tai-xe-nao-cung-hieu-185260714141130507.htm",
+      "summary": "Cần gạt mưa là một trong những bộ phận có nhiều ký hiệu và chế độ vận hành nhất trên ô tô; tuy nhiên không ít người dùng, đặc biệt là tài xế mới vẫn lúng túng khi sử dụng, thậm chí dùng sai khiến bộ phận này không phát huy hết hiệu quả và giảm tuổi thọ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T03:56:00+07:00",
+      "fetched": "2026-08-17T11:37:16.354764+07:00"
+    },
+    {
+      "id": "74cd425c62c66a0a895a7e580fd3c560",
+      "title": "Cầu thủ Malaysia: 'Chúng tôi khiến Việt Nam kinh ngạc trong hiệp đầu'",
+      "link": "https://vnexpress.net/cau-thu-malaysia-chung-toi-khien-viet-nam-kinh-ngac-trong-hiep-dau-5109941.html",
+      "summary": "Sergio Aguero và Paulo Josue cho rằng Malaysia đã chơi tốt dù thua Việt Nam 0-2 ở lượt đi bán kết ASEAN Cup 2026 trên sân Kuala Lumpur tối 16/8.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-17T03:56:00+07:00",
+      "fetched": "2026-08-17T11:37:25.867942+07:00"
+    },
+    {
+      "id": "4e0a5a629fad6def05bc9f0a65d86322",
+      "title": "Điểm danh những ngành học có điểm chuẩn 'nóng' nhất năm 2026 ở các trường top",
+      "link": "https://thanhnien.vn/diem-danh-nhung-nganh-hoc-co-diem-chuan-nong-nhat-nam-2026-o-cac-truong-top-185260816221124131.htm",
+      "summary": "Năm 2026, điểm chuẩn các ngành 'nóng' tại các trường ĐH top ghi nhận kỷ lục mới khi có ngành đạt mức tuyệt đối, nhiều ngành cao chót vót và tiếp tục dẫn đầu 2 năm liên tiếp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T03:52:00+07:00",
+      "fetched": "2026-08-17T11:37:16.354886+07:00"
+    },
+    {
+      "id": "57fc93f59b125ad7d0fd5910e6a6644e",
+      "title": "Thủ đoạn trốn thuế 'khủng' trong vụ Huấn Hoa Hồng",
+      "link": "https://thanhnien.vn/thu-doan-tron-thue-khung-trong-vu-huan-hoa-hong-185260817101801854.htm",
+      "summary": "Trong vụ án Huấn Hoa Hồng, thủ đoạn trốn thuế khá quen thuộc là không xuất đầy đủ hóa đơn, để một phần doanh thu ngoài sổ sách kế toán, có dấu hiệu rõ rệt của việc duy trì 2 sổ sách kế toán.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T03:51:00+07:00",
+      "fetched": "2026-08-17T11:37:16.355023+07:00"
+    },
+    {
+      "id": "2e26b6d94b3067d73ca6d4ca801b7444",
+      "title": "Tìm người phụ nữ hiền lành",
+      "link": "https://vnexpress.net/tim-nguoi-phu-nu-hien-lanh-5109898.html",
+      "summary": "Mình sống chân thành, hòa đồng và luôn trân trọng những mối quan hệ nghiêm túc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T03:50:39+07:00",
+      "fetched": "2026-08-17T11:37:13.727432+07:00"
+    },
+    {
+      "id": "4a3bb0706771f4c80a0ac9b51e0ab9a6",
+      "title": "Nghịch lý thủ khoa toàn quốc vẫn không đủ điểm vào Sư phạm",
+      "link": "https://vnexpress.net/tra-cuu-diem-chuan-diem-chuan-dai-hoc-2026-nghich-ly-thu-khoa-toan-quoc-van-khong-du-diem-vao-su-pham-5109892.html",
+      "summary": "Ngành Sư phạm cần thu hút người giỏi, nhưng đến mức ngay cả một thủ khoa toàn quốc vẫn không đủ điểm chuẩn xét tuyển thì có hợp lý không?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T03:50:19+07:00",
+      "fetched": "2026-08-17T11:37:13.727576+07:00"
+    },
+    {
+      "id": "b4db6621f6516ef4efb1ab673f65601f",
+      "title": "Hướng tuyến đường sắt Lào Cai - Hà Nội - Hải Phòng",
+      "link": "https://vnexpress.net/huong-tuyen-duong-sat-lao-cai-ha-noi-hai-phong-5109858.html",
+      "summary": "Chính phủ vừa đề xuất Quốc hội điều chỉnh hướng tuyến, chiều dài, tổng mức đầu tư của dự án đường sắt Lào Cai - Hà Nội - Hải Phòng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T03:49:18+07:00",
+      "fetched": "2026-08-17T11:37:13.727710+07:00"
+    },
+    {
+      "id": "0fb20ae046974de02d4c730224b0b98a",
+      "title": "Nhật Bản tạo ra chuột cái từ chuột đực",
+      "link": "https://vnexpress.net/nhat-ban-tao-ra-chuot-cai-tu-chuot-duc-5109237.html",
+      "summary": "Các nhà nghiên cứu Nhật Bản sử dụng kỹ thuật CRISPR để tạo ra chuột cái nhân bản từ chuột đực, với hy vọng bảo tồn những loài động vật nguy cấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T03:46:08+07:00",
+      "fetched": "2026-08-17T11:37:13.727838+07:00"
+    },
+    {
+      "id": "0fb20ae046974de02d4c730224b0b98a",
+      "title": "Nhật Bản tạo ra chuột cái từ chuột đực",
+      "link": "https://vnexpress.net/nhat-ban-tao-ra-chuot-cai-tu-chuot-duc-5109237.html",
+      "summary": "Các nhà nghiên cứu Nhật Bản sử dụng kỹ thuật CRISPR để tạo ra chuột cái nhân bản từ chuột đực, với hy vọng bảo tồn những loài động vật nguy cấp.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-17T03:46:08+07:00",
+      "fetched": "2026-08-17T11:37:24.591503+07:00"
+    },
+    {
+      "id": "ad5c17324e72ba79e75a7ecd17863385",
+      "title": "Cứu bé trai 6 tuổi bị cọc sắt đâm xuyên vùng bụng",
+      "link": "https://vnexpress.net/cuu-be-trai-6-tuoi-bi-coc-sat-dam-xuyen-vung-bung-5109863.html",
+      "summary": "Bé trai ngã từ độ cao khoảng 10 m, bị cọc hàng rào đâm xuyên bụng và tầng sinh môn, vừa được các bác sĩ Bệnh viện Việt Đức cứu sống sau ca phẫu thuật 4 giờ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T03:44:58+07:00",
+      "fetched": "2026-08-17T11:37:13.728023+07:00"
+    },
+    {
+      "id": "43777e707779300f18e2e30690af2456",
+      "title": "Tư lệnh Mỹ thừa nhận lo ngại về sĩ khí trên tàu sân bay gần Iran",
+      "link": "https://vnexpress.net/tu-lenh-my-thua-nhan-lo-ngai-ve-si-khi-tren-tau-san-bay-gan-iran-5109843.html",
+      "summary": "Lãnh đạo CENTCOM nói rằng đợt triển khai của USS Abramham Lincoln đã ảnh hưởng tâm lý thủy thủ, kêu gọi quan tâm hơn đến sức khỏe tâm thần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T03:44:51+07:00",
+      "fetched": "2026-08-17T11:37:13.728157+07:00"
+    },
+    {
+      "id": "43777e707779300f18e2e30690af2456",
+      "title": "Tư lệnh Mỹ thừa nhận lo ngại về sĩ khí trên tàu sân bay gần Iran",
+      "link": "https://vnexpress.net/tu-lenh-my-thua-nhan-lo-ngai-ve-si-khi-tren-tau-san-bay-gan-iran-5109843.html",
+      "summary": "Lãnh đạo CENTCOM nói rằng đợt triển khai của USS Abramham Lincoln đã ảnh hưởng tâm lý thủy thủ, kêu gọi quan tâm hơn đến sức khỏe tâm thần.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-17T03:44:51+07:00",
+      "fetched": "2026-08-17T11:37:20.495136+07:00"
+    },
+    {
+      "id": "3fe4cf09c23c3e13bc51d36ec3b319f2",
+      "title": "Ukraine đau đầu vì 'ghế nóng' đại sứ tại Mỹ vắng chủ",
+      "link": "https://vnexpress.net/ukraine-dau-dau-vi-ghe-nong-dai-su-tai-my-vang-chu-5109336.html",
+      "summary": "Tổng thống Ukraine Volodymyr Zelensky đang chật vật tìm kiếm đại sứ đủ tầm đại diện cho Kiev trước chính quyền Mỹ, khi các ứng viên tiềm năng đều né tránh chiếc ghế nóng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T03:43:14+07:00",
+      "fetched": "2026-08-17T11:37:13.728290+07:00"
+    },
+    {
+      "id": "3fe4cf09c23c3e13bc51d36ec3b319f2",
+      "title": "Ukraine đau đầu vì 'ghế nóng' đại sứ tại Mỹ vắng chủ",
+      "link": "https://vnexpress.net/ukraine-dau-dau-vi-ghe-nong-dai-su-tai-my-vang-chu-5109336.html",
+      "summary": "Tổng thống Ukraine Volodymyr Zelensky đang chật vật tìm kiếm đại sứ đủ tầm đại diện cho Kiev trước chính quyền Mỹ, khi các ứng viên tiềm năng đều né tránh chiếc ghế nóng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-17T03:43:14+07:00",
+      "fetched": "2026-08-17T11:37:20.495295+07:00"
+    },
+    {
+      "id": "4f722d08ac6a1eaefeb009885470f171",
+      "title": "Cháy nhà liền kề ở Hà Nội",
+      "link": "https://vnexpress.net/chay-nha-lien-ke-o-ha-noi-5109917.html",
+      "summary": "Ngôi nhà liền kề ba tầng, một tum ở khu đô thị mới Phùng Khoang, phường Thanh Xuân, bốc cháy ngùn ngụt sáng 17/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T03:41:45+07:00",
+      "fetched": "2026-08-17T11:37:13.728418+07:00"
+    },
+    {
+      "id": "e6431384b1d62ebd6c313e366b26cf10",
+      "title": "TP HCM công bố phương án sắp xếp trường công ở 168 xã, phường",
+      "link": "https://vnexpress.net/danh-sach-chi-tiet-phuong-an-sap-xep-sap-nhap-truong-hoc-o-161-xa-phuong-cua-tp-hcm-5109867.html",
+      "summary": "625 đầu mối trường công ở TP HCM bị giảm, song một số địa bàn, trường lớp được giữ nguyên; dự kiến 3.100 hiệu trưởng, hiệu phó và nhân viên trường học thuộc diện sắp xếp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T03:37:02+07:00",
+      "fetched": "2026-08-17T11:37:13.728544+07:00"
+    },
+    {
+      "id": "fbbc3dd3d785dd652281662526e22a81",
+      "title": "AFF: 'Malaysia không đáng thua Việt Nam hai bàn'",
+      "link": "https://vnexpress.net/aff-malaysia-khong-dang-thua-viet-nam-hai-ban-5109915.html",
+      "summary": "Trang chủ Liên đoàn Bóng đá Đông Nam Á (AFF) cho rằng Malaysia đã chơi không tệ và không đáng phải thua Việt Nam 0-2 ở lượt đi bán kết ASEAN Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T03:24:27+07:00",
+      "fetched": "2026-08-17T11:37:13.728679+07:00"
+    },
+    {
+      "id": "fbbc3dd3d785dd652281662526e22a81",
+      "title": "AFF: 'Malaysia không đáng thua Việt Nam hai bàn'",
+      "link": "https://vnexpress.net/aff-malaysia-khong-dang-thua-viet-nam-hai-ban-5109915.html",
+      "summary": "Trang chủ Liên đoàn Bóng đá Đông Nam Á (AFF) cho rằng Malaysia đã chơi không tệ và không đáng phải thua Việt Nam 0-2 ở lượt đi bán kết ASEAN Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-17T03:24:27+07:00",
+      "fetched": "2026-08-17T11:37:25.868123+07:00"
+    },
+    {
+      "id": "782818acc65839e98d830e39a2dded48",
+      "title": "Miễn, giảm phí 42 thủ tục hành chính cho người tích hợp đủ giấy tờ trên VNeID",
+      "link": "https://vnexpress.net/mien-giam-phi-42-thu-tuc-hanh-chinh-cho-nguoi-tich-hop-du-giay-to-tren-vneid-5109877.html",
+      "summary": "Công dân tích hợp đủ 5 loại giấy tờ cơ bản như giấy khai sinh, GPLX, thẻ ngân hàng... sẽ được miễn 100% phí với 34 thủ tục và giảm 10-50% phí với 8 loại giao dịch có giá trị lớn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T03:18:43+07:00",
+      "fetched": "2026-08-17T11:37:13.728804+07:00"
+    },
+    {
       "id": "0964a253b382fb4aac42de32aa4626a3",
       "title": "Ronaldo bất ngờ tiết lộ chuyện sắp giải nghệ",
       "link": "https://tuoitre.vn/ronaldo-bat-ngo-tiet-lo-chuyen-sap-giai-nghe-10026081700315752.htm",
@@ -271,6 +751,56 @@ window.newsData_2026_08_17 = {
       "category": "Tổng hợp",
       "published": "2026-08-17T03:17:25.632337+07:00",
       "fetched": "2026-08-17T03:17:25.632502+07:00"
+    },
+    {
+      "id": "6165b8f4474c0677c034b7eb45edafed",
+      "title": "Xe điện Ferrari Luce đầu tiên xuất xưởng lập kỷ lục 40 triệu USD",
+      "link": "https://vnexpress.net/xe-dien-ferrari-luce-dau-tien-xuat-xuong-lap-ky-luc-40-trieu-usd-5109831.html",
+      "summary": "Ferrari Luce số khung 0 vừa được gõ búa 40 triệu USD tại sự kiện đấu giá, gấp hơn 60 lần giá khởi điểm của hãng công bố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T03:14:24+07:00",
+      "fetched": "2026-08-17T11:37:13.728924+07:00"
+    },
+    {
+      "id": "88718ad1eb4a66994ad904746301e531",
+      "title": "Vợ của Thái tử là Thái tử phi, vậy vợ của hoàng tử gọi là gì?",
+      "link": "https://vnexpress.net/vo-cua-thai-tu-la-thai-tu-phi-vay-vo-cua-hoang-tu-goi-la-gi-danh-xung-hoang-toc-de-khien-nhieu-nguoi-nham-lan-5108212.html",
+      "summary": "Nếu vợ Thái tử được gọi là Thái tử phi, vậy người phụ nữ kết hôn với hoàng tử sẽ mang danh xưng gì?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T03:00:41+07:00",
+      "fetched": "2026-08-17T11:37:13.729071+07:00"
+    },
+    {
+      "id": "41fb2ffa19e3cd25734de63e841aa241",
+      "title": "Công ty Việt dùng blockchain rút ngắn khâu kiểm tra chứng từ quốc tế",
+      "link": "https://vnexpress.net/cong-ty-viet-dung-blockchain-rut-ngan-khau-kiem-tra-chung-tu-quoc-te-5109279.html",
+      "summary": "Pila thử nghiệm dùng chứng chỉ số để kiểm tra thư tín dụng, hướng tới giảm các bước đối soát thủ công trong giao dịch xuyên biên giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-17T03:00:00+07:00",
+      "fetched": "2026-08-17T11:37:13.729192+07:00"
+    },
+    {
+      "id": "1dab2dacb56920362f02f93bf5a05842",
+      "title": "Dàn giám khảo chấm chung kết Đấu trường AI Kinh doanh",
+      "link": "https://vnexpress.net/dan-giam-khao-cham-chung-ket-dau-truong-ai-kinh-doanh-5109893.html",
+      "summary": "Chuyên gia từ McKinsey, NTU Singapore, Techcombank, Đại học Ngoại thương và WeAngels Innovation Capital sẽ đánh giá các dự án ứng dụng AI của học sinh 15-18 tuổi tại chung kết The NextX, ngày 29/8.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-17T03:00:00+07:00",
+      "fetched": "2026-08-17T11:37:22.042124+07:00"
+    },
+    {
+      "id": "41fb2ffa19e3cd25734de63e841aa241",
+      "title": "Công ty Việt dùng blockchain rút ngắn khâu kiểm tra chứng từ quốc tế",
+      "link": "https://vnexpress.net/cong-ty-viet-dung-blockchain-rut-ngan-khau-kiem-tra-chung-tu-quoc-te-5109279.html",
+      "summary": "Pila thử nghiệm dùng chứng chỉ số để kiểm tra thư tín dụng, hướng tới giảm các bước đối soát thủ công trong giao dịch xuyên biên giới.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-17T03:00:00+07:00",
+      "fetched": "2026-08-17T11:37:24.591922+07:00"
     },
     {
       "id": "4e00b95cc701cf0f621622b6a74b7f92",
@@ -851,6 +1381,16 @@ window.newsData_2026_08_17 = {
       "category": "Kinh doanh",
       "published": "2026-08-17T01:00:00+07:00",
       "fetched": "2026-08-17T09:55:57.696694+07:00"
+    },
+    {
+      "id": "33339a45ef40e4629e31825e5f2e8aae",
+      "title": "Chủ tịch Nura: ‘Việt Nam có thể trở thành thị trường trọng điểm của mô hình tầm soát’",
+      "link": "https://vnexpress.net/chu-tich-nura-viet-nam-co-the-tro-thanh-thi-truong-trong-diem-cua-mo-hinh-tam-soat-5109444.html",
+      "summary": "Từ khi chưa có vốn và quyền triển khai, ông Nguyễn Huy Tuấn thuyết phục Fujifilm chọn Việt Nam làm thị trường Nura đầu tiên tại Đông Nam Á.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-17T01:00:00+07:00",
+      "fetched": "2026-08-17T11:37:22.042490+07:00"
     },
     {
       "id": "11928a41df88de3b84a2f7dddd96d543",
