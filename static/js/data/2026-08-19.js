@@ -1,7 +1,37 @@
 window.newsData_2026_08_19 = {
   "date": "2026-08-19",
-  "lastUpdated": "2026-08-19T01:32:27.404163+07:00",
+  "lastUpdated": "2026-08-19T03:19:07.470844+07:00",
   "articles": [
+    {
+      "id": "4ea07c8972dfe2e3c29eb507967e9a20",
+      "title": "Giá vàng hôm nay 19-8 bất ngờ giảm mạnh",
+      "link": "https://tuoitre.vn/gia-vang-hom-nay-19-8-bat-ngo-giam-manh-100260819001656345.htm",
+      "summary": "Giá vàng thế giới hôm nay, 19-8, có lúc đã giảm 60 USD/ounce, về mức 4.354 USD/ounce, sau đó hồi phục nhẹ lên 4.366 USD/ounce.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T03:19:01.385869+07:00",
+      "fetched": "2026-08-19T03:19:01.386151+07:00"
+    },
+    {
+      "id": "a5e392e173f997be6b662a00d6157f15",
+      "title": "Video: 'Siêu phẩm' bấm bóng của cầu thủ Singapore vào lưới Thái Lan",
+      "link": "https://tuoitre.vn/video-sieu-pham-bam-bong-cua-cau-thu-singapore-vao-luoi-thai-lan-100260818234636043.htm",
+      "summary": "Tận dụng tốt sai lầm của hàng phòng ngự Thái Lan, tiền vệ Harhys Stewart thực hiện tình huống bấm bóng ở khoảng cách 25m, mở tỉ số cho Singapore.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T03:19:01.385791+07:00",
+      "fetched": "2026-08-19T03:19:01.385858+07:00"
+    },
+    {
+      "id": "31ab3fe7533bfd32f6f4559ea67e65c6",
+      "title": "Người hâm mộ Thái Lan: 'Đá thế này không nên vào chung kết'",
+      "link": "https://tuoitre.vn/nguoi-ham-mo-thai-lan-da-the-nay-khong-nen-vao-chung-ket-100260818220059617.htm",
+      "summary": "Người hâm mộ Thái Lan tỏ thái độ không hài lòng chút nào với màn trình diễn của thầy trò ông Anthony Hudson trong trận bán kết lượt về với Singapore, diễn ra tối ngày 18-8 (giờ Việt Nam).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T03:19:01.385660+07:00",
+      "fetched": "2026-08-19T03:19:01.385777+07:00"
+    },
     {
       "id": "f3eafff4fa6cdcb4b3e37ece5829295e",
       "title": "Thống đốc: Ngân hàng phải chủ động phòng ngừa gian lận trong kỷ nguyên AI",
