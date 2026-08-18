@@ -1,6 +1,6 @@
 window.newsData_2026_08_19 = {
   "date": "2026-08-19",
-  "lastUpdated": "2026-08-19T03:19:07.470844+07:00",
+  "lastUpdated": "2026-08-19T05:18:53.137519+07:00",
   "articles": [
     {
       "id": "4ea07c8972dfe2e3c29eb507967e9a20",
@@ -181,6 +181,136 @@ window.newsData_2026_08_19 = {
       "category": "Tổng hợp",
       "published": "2026-08-19T01:32:20.418996+07:00",
       "fetched": "2026-08-19T01:32:20.419131+07:00"
+    },
+    {
+      "id": "f9fd8d1a22c911cc33a43ecca8575ef7",
+      "title": "Tử vi ngày 19 tháng 8: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-19-thang-8-con-giap-nao-may-man-hom-nay-185260819050342987.htm",
+      "summary": "Tử vi ngày 19 tháng 8 mang đến những gợi ý tham khảo cho 12 con giáp. Tử vi hôm nay có thể thú vị bởi những cuộc gặp không hẹn trước: một người quen cũ, đồng nghiệp khác bộ phận hay người tình cờ ngồi cạnh. Đừng vội lướt qua, bởi một cuộc trò chuyện ngắn đôi khi mang đến thông tin hữu ích hoặc niềm ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T22:15:00+07:00",
+      "fetched": "2026-08-19T05:18:43.084239+07:00"
+    },
+    {
+      "id": "ea1192a0e32904c09babfac5426dc611",
+      "title": "Chấp nhận 3 lần bàn giao mặt bằng, hầm chui hơn 1.000 tỉ đồng sẽ thoát cảnh tai nạn?",
+      "link": "https://thanhnien.vn/chap-nhan-3-lan-ban-giao-mat-bang-ham-chui-hon-1000-ti-dong-se-thoat-canh-tai-nan-185260815181449208.htm",
+      "summary": "Ngã năm Phước Kiến, P.Thủ Dầu Một, TP.HCM là điểm giao của nhiều tuyến đường lớn, nơi xe tải, container và phương tiện cá nhân thường xuyên dồn về, gây ùn ứ và tiềm ẩn nguy cơ tai nạn. Hầm chui trị giá 1.050 tỉ đồng đang được thi công, được kỳ vọng tổ chức lại dòng xe, giảm áp lực cho nút giao và gi...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T22:15:00+07:00",
+      "fetched": "2026-08-19T05:18:43.084394+07:00"
+    },
+    {
+      "id": "5907cf5c885faac9d7fc994d65f50c29",
+      "title": "Động đất liên tục gây tổn thất lớn ở 4 nước",
+      "link": "https://thanhnien.vn/dong-dat-lien-tuc-gay-ton-that-lon-o-4-nuoc-18526081821122726.htm",
+      "summary": "Số liệu cập nhật cho thấy những trận động đất mạnh xảy ra gần đây ở Indonesia, Nhật Bản, Venezuela và Colombia đã gây tổn thất lớn về người và của.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T22:13:00+07:00",
+      "fetched": "2026-08-19T05:18:43.084529+07:00"
+    },
+    {
+      "id": "6b927f96bd13c4847260de216fadcbc4",
+      "title": "Chiến sự Ukraine ngày 1.637: Ukraine tấn công dồn dập vào Nga",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1637-ukraine-tan-cong-don-dap-vao-nga-185260818195105598.htm",
+      "summary": "Hãng tin TASS đánh giá cuộc tấn công bằng UAV của Ukraine vào Nga trong đêm 17.8 và rạng sáng 18.8 là một trong những cuộc tấn công quy mô lớn nhất kể từ đầu năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T22:01:00+07:00",
+      "fetched": "2026-08-19T05:18:43.084660+07:00"
+    },
+    {
+      "id": "7553396f8e00b1cc127154e333021df0",
+      "title": "Đội tuyển Việt Nam chiếm ưu thế nhưng không chủ quan",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-chiem-uu-the-nhung-khong-chu-quan-185260818222813469.htm",
+      "summary": "Chiến thắng 2-0 tại Kuala Lumpur giúp đội tuyển VN mở ra lợi thế lớn khi tiếp Malaysia tại Mỹ Đình vào tối nay 19.8. Dù vậy, truyền thông Malaysia vẫn trông chờ vào phép màu với những bài viết động viên thầy trò HLV Tan Cheng Hoe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T22:00:00+07:00",
+      "fetched": "2026-08-19T05:18:43.084798+07:00"
+    },
+    {
+      "id": "5bda3b5dd268d1d6ab592dd60973b44c",
+      "title": "Ngư dân sống sót kỳ diệu sau 4 ngày đêm lênh đênh trên biển: 'Phải sống tiếp để về với hai con'",
+      "link": "https://thanhnien.vn/ngu-dan-song-sot-ky-dieu-sau-4-ngay-dem-lenh-denh-tren-bien-phai-song-tiep-de-ve-voi-hai-con-185260818210008784.htm",
+      "summary": "Sau 4 ngày 4 đêm lênh đênh giữa biển khơi do trượt chân rơi khỏi tàu cá, ông Trương Văn Chung đã được cán bộ, chiến sĩ Tàu 743 thuộc Hải đoàn 129 phát hiện, ứng cứu kịp thời giữa thời tiết giông gió. Động lực lớn nhất giúp người đàn ông này kiên cường giành giật sự sống chính là ý nghĩ phải sống để ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T22:00:00+07:00",
+      "fetched": "2026-08-19T05:18:43.084948+07:00"
+    },
+    {
+      "id": "4bcbc3a7fd3e086bdbfe67684318e070",
+      "title": "Giá đất bồi thường khu Mả Lạng: Dự kiến cao nhất đường Nguyễn Trãi, hơn 484 triệu đồng/m²",
+      "link": "https://thanhnien.vn/gia-dat-boi-thuong-khu-ma-lang-du-kien-cao-nhat-duong-nguyen-trai-hon-484-trieu-dong-m-185260818164348791.htm",
+      "summary": "Dự thảo giá đất bồi thường khu Mả Lạng lên đến hơn 484 triệu đồng/m2, cao hơn 1,7 lần bảng giá của TP.HCM. Hơn 1.000 hộ dân được hỗ trợ tạm cư và tái định cư thế nào?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T22:00:00+07:00",
+      "fetched": "2026-08-19T05:18:43.085079+07:00"
+    },
+    {
+      "id": "8665ad4dd500119e9c32a264dbccc352",
+      "title": "Hôm nay ngày Thất tịch 2026: 19.8 còn là ngày gì mà nhiều người quan tâm?",
+      "link": "https://thanhnien.vn/hom-nay-ngay-that-tich-2026-198-con-la-ngay-gi-ma-nhieu-nguoi-quan-tam-185260816124312412.htm",
+      "summary": "Theo lịch âm hôm nay là ngày Thất tịch mùng 7 tháng 7. Dương lịch hôm nay xuất hiện 2 sự kiện đặc biệt được nhiều người Việt quan tâm, chia sẻ. Ngày 19.8 là ngày gì?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T22:00:00+07:00",
+      "fetched": "2026-08-19T05:18:43.085209+07:00"
+    },
+    {
+      "id": "d10b7f388c43755ea9bf92e5d73711a9",
+      "title": "Anthropic Claude bị phản ứng vì gắn nhãn AI vào kết quả",
+      "link": "https://vnexpress.net/anthropic-claude-bi-phan-ung-vi-gan-nhan-ai-vao-ket-qua-5110034.html",
+      "summary": "Một số người dùng hủy gói đăng ký Claude sau khi Anthropic áp dụng chính sách gắn nhãn bản quyền lên văn bản do công cụ này tạo ra.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-18T22:00:00+07:00",
+      "fetched": "2026-08-19T05:18:51.733931+07:00"
+    },
+    {
+      "id": "dbd7893dd61bbc72f0f3801e4d9e6b3a",
+      "title": "Anh đáp trả cảnh báo của Nga",
+      "link": "https://thanhnien.vn/anh-dap-tra-canh-bao-cua-nga-185260818202226095.htm",
+      "summary": "Hôm qua 18.8, Bộ Quốc phòng Anh phản ứng sau khi bị Nga cảnh báo phải trả giá về việc hỗ trợ cho Ukraine. Đợt căng thẳng mới nhất nổ ra sau khi tờ Sunday Times đưa tin Ukraine đã sử dụng máy bay không người lái (UAV) do Anh cung cấp để tấn công lãnh thổ Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T21:50:00+07:00",
+      "fetched": "2026-08-19T05:18:43.085333+07:00"
+    },
+    {
+      "id": "f4bbdf2f8632c08bff161d9daa31b42d",
+      "title": "5 năm 'Cùng con đi tiếp cuộc đời': Giấc mơ con vào đại học của người mẹ không biết chữ",
+      "link": "https://thanhnien.vn/5-nam-cung-con-di-tiep-cuoc-doi-giac-mo-con-vao-dai-hoc-cua-nguoi-me-khong-biet-chu-185260815003029339.htm",
+      "summary": "Từng suýt gác lại sách vở khi cha mất vì đại dịch, Khang nay đã vững bước vào đại học nhờ sự tiếp sức của \"Cùng con đi tiếp cuộc đời\". Hành trình 5 năm đồng hành đã thắp sáng tương lai cho cậu học trò nghèo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T21:39:00+07:00",
+      "fetched": "2026-08-19T05:18:43.085456+07:00"
+    },
+    {
+      "id": "f6995962e0ff20cc18f8c3405f1e8c8a",
+      "title": "Tỷ phú 87 tuổi chi 40 triệu USD mua xe điện Ferrari đầu tiên",
+      "link": "https://vnexpress.net/ty-phu-87-tuoi-chi-40-trieu-usd-mua-xe-dien-ferrari-dau-tien-5110361.html",
+      "summary": "Bác sĩ nhãn khoa, nhà sáng chế, doanh nhân kiêm nhà đầu tư và từ thiện nổi tiếng người Mỹ Herbert Wertheim là chủ chiếc Ferrari Luce số khung 0.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T21:00:00+07:00",
+      "fetched": "2026-08-19T05:18:39.912944+07:00"
+    },
+    {
+      "id": "cf1e2f619bdbf018a02088f584cf1811",
+      "title": "Điều gì xảy ra khi uống một cốc nước nóng lúc thức dậy?",
+      "link": "https://vnexpress.net/dieu-gi-xay-ra-khi-uong-mot-coc-nuoc-nong-luc-thuc-day-5110307.html",
+      "summary": "Nhiều người có thói quen uống một cốc nước nóng ngay sau khi thức dậy để thanh lọc cơ thể, nhưng việc này có thể gây hại khôn lường cho hệ tim mạch nếu thực hiện sai cách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T20:00:00+07:00",
+      "fetched": "2026-08-19T05:18:39.913134+07:00"
     },
     {
       "id": "d0e473f0a870570bb108a0cab24281ec",
