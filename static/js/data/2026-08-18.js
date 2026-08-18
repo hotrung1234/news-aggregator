@@ -1,7 +1,157 @@
 window.newsData_2026_08_18 = {
   "date": "2026-08-18",
-  "lastUpdated": "2026-08-18T17:23:48.612319+07:00",
+  "lastUpdated": "2026-08-18T19:38:10.658729+07:00",
   "articles": [
+    {
+      "id": "185f8269323130edd4df04e6169d47b5",
+      "title": "TP.HCM giảm 465 hiệu trưởng sau sắp xếp trường học, chọn hiệu trưởng mới thế nào?",
+      "link": "https://tuoitre.vn/tphcm-giam-465-hieu-truong-sau-sap-xep-truong-hoc-chon-hieu-truong-moi-the-nao-100260818170801193.htm",
+      "summary": "TP.HCM giảm khoảng 465 hiệu trưởng, 930 hiệu phó sau sắp xếp trường học. Vậy ai sẽ được chọn giữ chức hiệu trưởng trường mới?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T19:38:01.667905+07:00",
+      "fetched": "2026-08-18T19:38:01.667955+07:00"
+    },
+    {
+      "id": "7a4f0a531b6c2a6adc7e4cdab4a58606",
+      "title": "Nhật Bản nâng điều kiện khi xét thị thực nhân lực trình độ cao",
+      "link": "https://tuoitre.vn/nhat-ban-nang-dieu-kien-khi-xet-thi-thuc-nhan-luc-trinh-do-cao-100260818173254897.htm",
+      "summary": "Theo phóng viên TTXVN tại Tokyo, Chính phủ Nhật Bản dự kiến nâng ngưỡng thu nhập trong hệ thống xét điểm đối với người nước ngoài xin tư cách lưu trú Nhân lực chuyên môn trình độ cao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T19:38:01.667840+07:00",
+      "fetched": "2026-08-18T19:38:01.667897+07:00"
+    },
+    {
+      "id": "c5ab545c56f8432a84fe29dabedcb2e4",
+      "title": "227 bị cáo trong chuyên án ma túy VN10: Có những người trẻ lạc lối nhiều lần",
+      "link": "https://tuoitre.vn/227-bi-cao-trong-chuyen-an-ma-tuy-vn10-co-nhung-nguoi-tre-lac-loi-nhieu-lan-100260817182555853.htm",
+      "summary": "Tại phòng xét xử ở điểm cầu Trại tạm giam Chí Hòa (T30) - nơi xét xử 227 bị cáo trong chuyên án ma túy VN10 - có những bị cáo vị thành niên, có những người đã từng lạc lối nhưng sau khi chấp hành án lại “quen đường cũ”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T19:38:01.667787+07:00",
+      "fetched": "2026-08-18T19:38:01.667832+07:00"
+    },
+    {
+      "id": "17d74d71e84da386a37e7d10befe58b5",
+      "title": "Một câu nói, một mạng người: án tử hình cho nam thanh niên chém anh họ",
+      "link": "https://tuoitre.vn/mot-cau-noi-mot-mang-nguoi-an-tu-hinh-cho-nam-thanh-nien-chem-anh-ho-100260818162648286.htm",
+      "summary": "Chỉ từ một câu nói về việc mua que thử ma túy, mâu thuẫn bất ngờ bùng lên thành vụ truy sát. Đỗ Đăng Dương rút dao chém người anh họ đang bế con nhỏ, khiến nạn nhân tử vong, bé gái 2 tuổi bị thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T19:38:01.667733+07:00",
+      "fetched": "2026-08-18T19:38:01.667778+07:00"
+    },
+    {
+      "id": "29c6ef24e4eda90fc544df158458b04c",
+      "title": "Google triển khai trí tuệ nhân tạo Gemini cho học sinh phổ thông",
+      "link": "https://tuoitre.vn/google-trien-khai-tri-tue-nhan-tao-gemini-cho-hoc-sinh-pho-thong-10026081817422467.htm",
+      "summary": "Google vừa kích hoạt chatbot Gemini trên ứng dụng Classroom cho học sinh từ tiểu học đến trung học, đánh dấu bước tiến mới trong nỗ lực đưa các công cụ trí tuệ nhân tạo (AI) vào hệ thống giáo dục Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T19:38:01.667680+07:00",
+      "fetched": "2026-08-18T19:38:01.667724+07:00"
+    },
+    {
+      "id": "05ab02cd976b9f7c0c3b1a8793c3e4fe",
+      "title": "Khởi tố vụ án đổ xà bần sai quy định gây ô nhiễm môi trường ở An Giang",
+      "link": "https://tuoitre.vn/khoi-to-vu-an-do-xa-ban-sai-quy-dinh-gay-o-nhiem-moi-truong-o-an-giang-100260818173109976.htm",
+      "summary": "Công an tỉnh An Giang phát hiện tại khu đất của ông Đ.L.V. (ở tổ 04, ấp Tân Điền, xã Châu Thành, tỉnh An Giang) có khoảng 3.810 m³ xà bần được sử dụng để san lấp mặt bằng, gây ô nhiễm môi trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T19:38:01.667627+07:00",
+      "fetched": "2026-08-18T19:38:01.667672+07:00"
+    },
+    {
+      "id": "1b69776564ab48d41fdf4a89d7a2ce17",
+      "title": "SHZ: 24 năm phát triển tiếng Trung ứng dụng, tiếp tục đổi mới với HSK 3.0",
+      "link": "https://tuoitre.vn/shz-24-nam-phat-trien-tieng-trung-ung-dung-tiep-tuc-doi-moi-voi-hsk-30-100260815153041525.htm",
+      "summary": "Trung tâm tiếng Trung SHZ (Trung tâm Ngoại ngữ Hoa Văn Thương Mại Thành Phố) tiếp tục đầu tư hoàn thiện chương trình đào tạo tiếng Trung theo định hướng lấy việc học của học viên làm trung tâm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T19:38:01.667575+07:00",
+      "fetched": "2026-08-18T19:38:01.667620+07:00"
+    },
+    {
+      "id": "67bf8dffa7087a15a84deb8605b35c5b",
+      "title": "Đêm diễn tri ân của NSND Kim Cương: Một đêm diễn - Vạn tấm lòng",
+      "link": "https://tuoitre.vn/dem-dien-tri-an-cua-nsnd-kim-cuong-mot-dem-dien-van-tam-long-100260818093755451.htm",
+      "summary": "Có những cuộc hội ngộ không được đo bằng số nghệ sĩ xuất hiện trên sân khấu, mà bằng bao nhiêu tấm lòng cùng muốn trở về. “Đêm diễn tri ân khán giả của Nghệ sĩ Nhân dân Kim Cương” là một cuộc hội ngộ như thế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T19:38:01.667517+07:00",
+      "fetched": "2026-08-18T19:38:01.667567+07:00"
+    },
+    {
+      "id": "ca8418df3e7c41e12b0b5562025d4f59",
+      "title": "Kiểm soát thị trường thuốc lá: Từ thực thi đến chính sách quản lý điểm bán",
+      "link": "https://tuoitre.vn/kiem-soat-thi-truong-thuoc-la-tu-thuc-thi-den-chinh-sach-quan-ly-diem-ban-100260818173228348.htm",
+      "summary": "Hoạt động buôn lậu thuốc lá đang diễn biến ngày càng phức tạp với phương thức xé lẻ, tinh vi và dịch chuyển mạnh mẽ lên môi trường số.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T19:38:01.667462+07:00",
+      "fetched": "2026-08-18T19:38:01.667510+07:00"
+    },
+    {
+      "id": "830c8bde036bd18d9b83848cca9f3b55",
+      "title": "Khởi tố, bắt tạm giam Phú Lê, vợ bị can này cũng bị khởi tố",
+      "link": "https://tuoitre.vn/khoi-to-bat-tam-giam-phu-le-vo-bi-can-nay-cung-bi-khoi-to-100260818173242308.htm",
+      "summary": "Cơ quan Cảnh sát điều tra Công an TP Hà Nội đã ra quyết định khởi tố bị can, lệnh bắt tạm giam đối với Lê Văn Phú (thường được gọi với tên Phú Lê). Vợ của Phú Lã Thúy Kiều cũng bị khởi tố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T19:38:01.667405+07:00",
+      "fetched": "2026-08-18T19:38:01.667454+07:00"
+    },
+    {
+      "id": "ddde12488fb072d8dfe247bf94f04bb9",
+      "title": "Thương người mẹ tìm con mất tích ở Mũi Nghê, chủ bếp cơm '0 đồng' nấu cơm tiếp sức đội tìm kiếm",
+      "link": "https://tuoitre.vn/thuong-nguoi-me-tim-con-mat-tich-o-mui-nghe-chu-bep-com-0-dong-nau-com-tiep-suc-doi-tim-kiem-100260818150044687.htm",
+      "summary": "Hàng chục suất cơm nóng hổi miễn phí được mang lên núi Sơn Trà, Đà Nẵng để tiếp sức những tình nguyện viên phương xa về tìm kiếm người mất tích ở Mũi Nghê.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T19:38:01.667343+07:00",
+      "fetched": "2026-08-18T19:38:01.667396+07:00"
+    },
+    {
+      "id": "87af741d301a1f6068d2925bc12f5b40",
+      "title": "Cá rô phi đơn tính đang giá cao, nhưng vì sao người nuôi chưa mặn mà?",
+      "link": "https://tuoitre.vn/ca-ro-phi-don-tinh-dang-gia-cao-nhung-vi-sao-nguoi-nuoi-chua-man-ma-100260818110103126.htm",
+      "summary": "Thời gian qua do giá bán thấp, trong khi chi phí đầu tư cao nên nhiều nông dân bị lỗ vốn, không còn mặn mà với mô hình nuôi cá rô phi đơn tính.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T19:38:01.667284+07:00",
+      "fetched": "2026-08-18T19:38:01.667334+07:00"
+    },
+    {
+      "id": "9f47dc5c416470532bdad6f647c86c96",
+      "title": "74% doanh nghiệp vừa và nhỏ mới dùng AI ở mức cơ bản, vướng ở đâu?",
+      "link": "https://tuoitre.vn/74-doanh-nghiep-vua-va-nho-moi-dung-ai-o-muc-co-ban-vuong-o-dau-100260818161116694.htm",
+      "summary": "Theo các chuyên gia, công cụ AI ngày càng dễ tiếp cận nhưng con người, dữ liệu, quản trị và khả năng chứng minh hiệu quả đầu tư mới đang quyết định doanh nghiệp có thể đưa AI vào vận hành thực tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T19:38:01.667223+07:00",
+      "fetched": "2026-08-18T19:38:01.667276+07:00"
+    },
+    {
+      "id": "189dc028bbf0efb7c5efded6f2b2a908",
+      "title": "Thủ khoa đánh giá năng lực cao điểm nhất trước nay trúng tuyển ngành khoa học máy tính",
+      "link": "https://tuoitre.vn/thu-khoa-danh-gia-nang-luc-cao-diem-nhat-truoc-nay-trung-tuyen-nganh-khoa-hoc-may-tinh-100260818114258323.htm",
+      "summary": "Trần Tiến Đạt, nam sinh từng bỏ học rồi đạt điểm cao nhất lịch sử kỳ thi đánh giá năng lực, vừa trúng tuyển ngành khoa học máy tính chương trình tiên tiến.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T19:38:01.667151+07:00",
+      "fetched": "2026-08-18T19:38:01.667213+07:00"
+    },
+    {
+      "id": "519a7cc045263f3c652b6b256bb0fad3",
+      "title": "Bộ GD-ĐT: Một số trường đại học thu học phí vượt trần, khối ngành sức khỏe cao nhất",
+      "link": "https://tuoitre.vn/bo-gd-dt-mot-so-truong-dai-hoc-thu-hoc-phi-vuot-tran-khoi-nganh-suc-khoe-cao-nhat-100260818141830923.htm",
+      "summary": "Bộ Giáo dục và Đào tạo khảo sát 58 cơ sở giáo dục đại học, phát hiện một số trường thu học phí vượt trần nhưng chưa đủ điều kiện áp dụng cơ chế tính theo chi phí đào tạo thực tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T19:38:01.666979+07:00",
+      "fetched": "2026-08-18T19:38:01.667138+07:00"
+    },
     {
       "id": "28a119f25ceacfb2a0c9e769e2ea5df2",
       "title": "Nhiều đơn vị, khí tài Phòng không - Không quân diễn tập lớn ở miền Trung",
@@ -453,6 +603,236 @@ window.newsData_2026_08_18 = {
       "fetched": "2026-08-18T13:36:50.520465+07:00"
     },
     {
+      "id": "afc3dfbce53132b97918f6af93a7e76c",
+      "title": "Vũ Thị Trang giành chiến thắng áp đảo ở giải cầu lông vô địch thế giới 2026",
+      "link": "https://thanhnien.vn/vu-thi-trang-gianh-chien-thang-ap-dao-o-giai-cau-long-vo-dich-the-gioi-2026-185260818191704194.htm",
+      "summary": "Tay vợt Vũ Thị Trang đáp lại kỳ vọng của người hâm mộ cầu lông Việt Nam khi giành chiến thắng ở trận ra quân tại giải cầu lông vô địch thế giới 2026 diễn ra hôm nay tại Ấn Độ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T12:34:00+07:00",
+      "fetched": "2026-08-18T19:37:59.296846+07:00"
+    },
+    {
+      "id": "9fd2a7cd443142a34806cebaaf63c738",
+      "title": "Samsung có thể ra mắt smartphone gập rộng hơn cả Galaxy Z Fold8",
+      "link": "https://thanhnien.vn/samsung-co-the-ra-mat-smartphone-gap-rong-hon-ca-galaxy-z-fold8-185260818144136385.htm",
+      "summary": "Nếu tin đồn chính xác, Samsung sẽ tiếp tục mở rộng dòng smartphone gập với thiết kế mới vượt qua Galaxy Z Fold8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T12:29:00+07:00",
+      "fetched": "2026-08-18T19:37:59.297023+07:00"
+    },
+    {
+      "id": "d14706e57a30be42de2f73d5c7057677",
+      "title": "Từ Tucson đến Palisade, Hyundai đang ‘phủ sóng’ SUV hybrid tại Việt Nam",
+      "link": "https://thanhnien.vn/tu-tucson-den-palisade-hyundai-dang-phu-song-suv-hybrid-tai-viet-nam-185260817124404647.htm",
+      "summary": "Sau Santa Fe, Hyundai đang chuẩn bị bổ sung Tucson và Palisade phiên bản hybrid, từng bước mở rộng dải sản phẩm SUV trang bị công nghệ lai xăng - điện tại Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T12:27:00+07:00",
+      "fetched": "2026-08-18T19:37:59.297161+07:00"
+    },
+    {
+      "id": "b889434b1ace8f6c3c4ecd65801be16f",
+      "title": "'Giang hồ mạng' Phú Lê vừa bị khởi tố là ai?",
+      "link": "https://thanhnien.vn/giang-ho-mang-phu-le-vua-bi-khoi-to-la-ai-185260818190108432.htm",
+      "summary": "Trước khi bị khởi tố, Phú Lê được biết đến là một 'giang hồ mạng', thường sản xuất các sản phẩm ca nhạc đăng tải trên YouTube.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T12:26:00+07:00",
+      "fetched": "2026-08-18T19:37:59.297287+07:00"
+    },
+    {
+      "id": "b1ccbfeb48b968c283cea38a46aacc49",
+      "title": "Cholesterol cao: Sau 17 giờ nên làm 3 việc này",
+      "link": "https://thanhnien.vn/cholesterol-cao-sau-17-gio-nen-lam-3-viec-nay-185260818192645717.htm",
+      "summary": "Bên cạnh việc điều trị, chú ý và điều chỉnh một vài thói quen sau 17 giờ cũng có thể góp phần kiểm soát tốt cholesterol và sức khỏe tim mạch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T12:24:00+07:00",
+      "fetched": "2026-08-18T19:37:59.297415+07:00"
+    },
+    {
+      "id": "b6956ef9d5d7dbbde6836fd0e56f6e6c",
+      "title": "Vụ 4 nữ tiếp viên hàng không bị lợi dụng xách ma túy: Thủ đoạn ngụy trang hàng cấm",
+      "link": "https://thanhnien.vn/vu-4-nu-tiep-vien-hang-khong-bi-loi-dung-xach-ma-tuy-thu-doan-nguy-trang-hang-cam-185260818164922029.htm",
+      "summary": "Liên quan vụ 4 nữ tiếp viên hàng không bị lợi dụng xách ma túy, cáo trạng xác định, sau khi ngụy trang ma túy, bị cáo Hà Danh Nậm thuê các tiếp viên hàng không, người Việt Nam định cư, học tập tại Pháp bỏ vào vali hành lý hoặc thuê dịch vụ chuyển phát nhanh vận chuyển vào Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T12:19:00+07:00",
+      "fetched": "2026-08-18T19:37:59.297546+07:00"
+    },
+    {
+      "id": "c8bae135fe0b6b0b7987559ad7ebedc5",
+      "title": "Về tận xã, bác sĩ hướng dẫn người dân nhận biết dấu hiệu đột quỵ",
+      "link": "https://thanhnien.vn/ve-tan-xa-bac-si-huong-dan-nguoi-dan-nhan-biet-dau-hieu-dot-quy-185260818171109067.htm",
+      "summary": "Chương trình 'Sức khỏe cho mọi nhà' đã khám, tư vấn sức khỏe, dấu hiệu đột quỵ miễn phí cho hàng trăm người dân xã Thạnh Hòa, thành phố Cần Thơ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T12:04:00+07:00",
+      "fetched": "2026-08-18T19:37:59.297671+07:00"
+    },
+    {
+      "id": "3fe8790665c342bd4349e26081aea64d",
+      "title": "TP.HCM tính giá thu gom, vận chuyển rác sinh hoạt mới từ ngày 1.9",
+      "link": "https://thanhnien.vn/tphcm-tinh-gia-thu-gom-van-chuyen-rac-sinh-hoat-moi-tu-ngay-19-18526081818382103.htm",
+      "summary": "Từ ngày 1.9, TP.HCM áp dụng giá dịch vụ thu gom, vận chuyển, xử lý rác sinh hoạt mới, toàn thành phố được chia thành 8 nhóm khu vực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T12:03:00+07:00",
+      "fetched": "2026-08-18T19:37:59.297794+07:00"
+    },
+    {
+      "id": "24a6909f4c16a5182a3f2d8632086b85",
+      "title": "Báo Thanh Niên công bố giải pickleball Cùng con đi tiếp cuộc đời - cúp Bà Bầu Club",
+      "link": "https://thanhnien.vn/bao-thanh-nien-cong-bo-giai-pickleball-cung-con-di-tiep-cuoc-doi-cup-ba-bau-club-185260818181640251.htm",
+      "summary": "Giải pickleball Cùng con đi tiếp cuộc đời (lần thứ 5 - năm 2026) - cúp Bà Bầu Club do Báo Thanh Niên tổ chức vào ngày 22 - 23.8 tại TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T12:00:00+07:00",
+      "fetched": "2026-08-18T19:37:59.297933+07:00"
+    },
+    {
+      "id": "89b05558fc1f57501afcda31d2af4f60",
+      "title": "Hành trình chinh phục học bổng toàn phần NUS - Top 8 thế giới của VASer Hoàng Ngọc Ánh Minh",
+      "link": "https://thanhnien.vn/hanh-trinh-chinh-phuc-hoc-bong-toan-phan-nus-top-8-the-gioi-cua-vaser-hoang-ngoc-anh-minh-185260818175519419.htm",
+      "summary": "Đằng sau suất học bổng toàn phần danh giá từ Đại học Quốc gia Singapore (NUS), trường đại học Top 3 châu Á và Top 8 thế giới (Theo QS World University Rankings 2026), là một hành trình chuẩn bị bài bản và đầy quyết tâm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T12:00:00+07:00",
+      "fetched": "2026-08-18T19:37:59.298063+07:00"
+    },
+    {
+      "id": "0e983b6ec2515bad06e2aa93418efc64",
+      "title": "Heineken Pickleball World Cup 2026: Chuẩn mực thể thao quốc tế đến sân chơi Việt Nam",
+      "link": "https://thanhnien.vn/heineken-pickleball-world-cup-2026-chuan-muc-the-thao-quoc-te-den-san-choi-viet-nam-185260818175026667.htm",
+      "summary": "Điều gì khiến giải đấu Pickleball hàng đầu thế giới chọn Đà Nẵng làm điểm đến? Quy tụ 5.000 vận động viên từ 81 quốc gia và vùng lãnh thổ, Heineken Pickleball World Cup 2026 tạo nên dấu mốc thể thao ấn tượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T12:00:00+07:00",
+      "fetched": "2026-08-18T19:37:59.298187+07:00"
+    },
+    {
+      "id": "60f359fc20c6ff188b40a5a6ca1f7fcd",
+      "title": "ASEAN Cup 2026, Thái Lan 0-0 Singapore: Chủ nhà giăng bẫy trên sân Rajamangala",
+      "link": "https://thanhnien.vn/asean-cup-2026-thai-lan-0-0-singapore-chu-nha-giang-bay-tren-san-rajamangala-185260818170846207.htm",
+      "summary": "Trong trận bán kết lượt đi ASEAN Cup 2026 tại sân nhà, đội tuyển Singapore đã phải trả giá đắt (thua 1-3) khi chủ động chơi tấn công trước đối thủ lọc lõi Thái Lan. Ở lượt về vào 20 giờ hôm nay (18.8), Singapore sẽ phải chơi thế nào khi bị dồn vào thế chân tường?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T12:00:00+07:00",
+      "fetched": "2026-08-18T19:37:59.298310+07:00"
+    },
+    {
+      "id": "1c34ef95de702c0cd333b7a1f484ed17",
+      "title": "Bốn vịnh biển Khánh Hòa hội tụ trong triển lãm ảnh 'Hải trình tứ vịnh'",
+      "link": "https://thanhnien.vn/bon-vinh-bien-khanh-hoa-hoi-tu-trong-trien-lam-anh-hai-trinh-tu-vinh-185260818165027204.htm",
+      "summary": "Triển lãm nhiếp ảnh giới thiệu bốn vịnh biển Nha Trang, Cam Ranh, Vân Phong và Vĩnh Hy mở cửa tại trung tâm Nha Trang trong hơn một tháng, đánh dấu bước khởi đầu cho định vị điểm đến du lịch biển mới của Khánh Hòa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T12:00:00+07:00",
+      "fetched": "2026-08-18T19:37:59.298431+07:00"
+    },
+    {
+      "id": "58db32bd47b85901eea6153264dbe852",
+      "title": "Thông báo từ Cơ quan CSĐT TP.HCM: Tìm chủ xe máy bị trộm làm phương tiện gây án",
+      "link": "https://thanhnien.vn/thong-bao-tu-co-quan-csdt-tphcm-tim-chu-xe-may-bi-trom-lam-phuong-tien-gay-an-185260817192925093.htm",
+      "summary": "Cơ quan Cảnh sát điều tra Công an TP.HCM phát thông báo tìm chủ xe máy hiệu Honda Cub màu xanh để phục vụ điều tra và xử lý vụ án trộm cắp tài sản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T12:00:00+07:00",
+      "fetched": "2026-08-18T19:37:59.298553+07:00"
+    },
+    {
+      "id": "12b38f872549e59011cde4efd29fa0b3",
+      "title": "iPhone 18 tiêu chuẩn 'không ra mắt năm nay'",
+      "link": "https://vnexpress.net/iphone-18-tieu-chuan-khong-ra-mat-nam-nay-5109181.html",
+      "summary": "iPhone 18 bản tiêu chuẩn, iPhone Air thế hệ hai và iPhone 18e được cho là không ra mắt vào tháng 9 tới như thông lệ của Apple.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-18T12:00:00+07:00",
+      "fetched": "2026-08-18T19:38:08.507125+07:00"
+    },
+    {
+      "id": "1658256056e9d04c31e50384fb8729d7",
+      "title": "Thái Lan - Singapore: Chủ nhà thay 6 vị trí",
+      "link": "https://vnexpress.net/thai-lan-vs-singapore-5110483.html",
+      "summary": "Thái Lan tiếp Singapore ở lượt về bán kết ASEAN Cup 2026 với lợi thế dẫn hai bàn sau trận lượt đi. Bóng lăn lúc 20h.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-18T12:00:00+07:00",
+      "fetched": "2026-08-18T19:38:10.646265+07:00"
+    },
+    {
+      "id": "f8f9d28b299f7a3e97023eb133181b7a",
+      "title": "Cựu thứ trưởng Nguyễn Bá Hoan: Nhận hối lộ nhưng vẫn làm đúng",
+      "link": "https://vnexpress.net/cuu-thu-truong-nguyen-ba-hoan-nhan-hoi-lo-nhung-van-lam-dung-5110524.html",
+      "summary": "Bị cáo buộc nhũng nhiễu doanh nghiệp để vòi vĩnh 16,3 tỷ đồng, cựu thứ trưởng Nguyễn Bá Hoan nói 10 tỷ trong số này là quà Tết; khẳng định nhận tiền nhưng làm đúng, không gây khó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T11:53:36+07:00",
+      "fetched": "2026-08-18T19:37:55.969679+07:00"
+    },
+    {
+      "id": "f7295046c57d1d71a1af370631a644bf",
+      "title": "Doanh nghiệp Huế cần đón đầu vận hội",
+      "link": "https://thanhnien.vn/doanh-nghiep-hue-can-don-dau-van-hoi-185260818161716651.htm",
+      "summary": "Đó là khuyến nghị của các chuyên gia trong khuôn khổ Vòng đối thoại địa phương - Diễn đàn Kinh tế tư nhân Việt Nam 2026  tổ chức tại thành phố Huế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T11:48:00+07:00",
+      "fetched": "2026-08-18T19:37:59.298674+07:00"
+    },
+    {
+      "id": "2b68e906d279a1f4aa05e3610ef70101",
+      "title": "Việt Nam nguy cơ mất hậu vệ trụ cột ở lượt về bán kết ASEAN Cup",
+      "link": "https://vnexpress.net/viet-nam-nguy-co-mat-hau-ve-tru-cot-o-luot-ve-ban-ket-asean-cup-5110529.html",
+      "summary": "Hậu vệ Nguyễn Văn Vĩ phải tập riêng nên khó có thể ra sân ở lượt về bán kết ASEAN Cup 2026 với Malaysia tối 19/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T11:42:03+07:00",
+      "fetched": "2026-08-18T19:37:55.969847+07:00"
+    },
+    {
+      "id": "2b68e906d279a1f4aa05e3610ef70101",
+      "title": "Việt Nam nguy cơ mất hậu vệ trụ cột ở lượt về bán kết ASEAN Cup",
+      "link": "https://vnexpress.net/viet-nam-nguy-co-mat-hau-ve-tru-cot-o-luot-ve-ban-ket-asean-cup-5110529.html",
+      "summary": "Hậu vệ Nguyễn Văn Vĩ phải tập riêng nên khó có thể ra sân ở lượt về bán kết ASEAN Cup 2026 với Malaysia tối 19/8.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-18T11:42:03+07:00",
+      "fetched": "2026-08-18T19:38:10.646422+07:00"
+    },
+    {
+      "id": "e635f009c626b911c8c3a0c2552c82b6",
+      "title": "Ông Trump ca ngợi thiếu niên cứu người giữa sóng lớn là 'anh hùng thực thụ'",
+      "link": "https://vnexpress.net/ong-trump-ca-ngoi-thieu-nien-cuu-nguoi-giua-song-lon-la-anh-hung-thuc-thu-5110478.html",
+      "summary": "Tổng thống Mỹ mời nhân viên cứu hộ 16 tuổi Ryder Williams đến Nhà Trắng, sau khi cậu cứu sống một bé trai khỏi sóng dữ ở California.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T11:36:54+07:00",
+      "fetched": "2026-08-18T19:37:55.970013+07:00"
+    },
+    {
+      "id": "e635f009c626b911c8c3a0c2552c82b6",
+      "title": "Ông Trump ca ngợi thiếu niên cứu người giữa sóng lớn là 'anh hùng thực thụ'",
+      "link": "https://vnexpress.net/ong-trump-ca-ngoi-thieu-nien-cuu-nguoi-giua-song-lon-la-anh-hung-thuc-thu-5110478.html",
+      "summary": "Tổng thống Mỹ mời nhân viên cứu hộ 16 tuổi Ryder Williams đến Nhà Trắng, sau khi cậu cứu sống một bé trai khỏi sóng dữ ở California.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-18T11:36:54+07:00",
+      "fetched": "2026-08-18T19:38:03.706265+07:00"
+    },
+    {
+      "id": "a7844d09fd348fdefc73f36bf932556c",
+      "title": "'Siêu anh hùng' mang niềm vui đến bệnh nhi Argentina",
+      "link": "https://vnexpress.net/sieu-anh-hung-mang-niem-vui-den-benh-nhi-argentina-5110513.html",
+      "summary": "Hàng trăm người hóa trang thành các nhân vật hoạt hình, anh hùng quen thuộc, chạy xe máy diễu hành đưa quà tới Bệnh viện Nhi Garrahan trong sự kiện gây quỹ thường niên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T11:36:20+07:00",
+      "fetched": "2026-08-18T19:37:55.970148+07:00"
+    },
+    {
       "id": "a318c7fefe3d357bdd1d6f6923cf6155",
       "title": "Tòa miễn án phí hình sự cho 6 bị cáo cựu chiến binh kêu oan",
       "link": "https://tuoitre.vn/toa-mien-an-phi-hinh-su-cho-6-bi-cao-cuu-chien-binh-keu-oan-10026081808580231.htm",
@@ -601,6 +981,136 @@ window.newsData_2026_08_18 = {
       "category": "Tổng hợp",
       "published": "2026-08-18T11:31:18.510182+07:00",
       "fetched": "2026-08-18T11:31:18.510318+07:00"
+    },
+    {
+      "id": "f952a5f76e8abfea19d5e3be71c32c03",
+      "title": "Thiếu niên cứu người giữa sóng lớn được ông Trump vinh danh tại Nhà Trắng",
+      "link": "https://vnexpress.net/thieu-nien-cuu-nguoi-giua-song-lon-duoc-ong-trump-vinh-danh-tai-nha-trang-5110522.html",
+      "summary": "Ryder Williams được Tổng thống Trump mời tới Nhà Trắng để ghi nhận hành động dũng cảm, sau khi cậu cứu một bé trai 10 tuổi bị sóng cuốn ở bãi biển California.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T11:30:28+07:00",
+      "fetched": "2026-08-18T19:37:55.970281+07:00"
+    },
+    {
+      "id": "0bcacd251d1fd5e1c30050567a48cc91",
+      "title": "Lãi suất tiết kiệm vẫn tăng nhưng lãi cho vay chững lại",
+      "link": "https://vnexpress.net/lai-suat-tiet-kiem-van-tang-nhung-lai-cho-vay-chung-lai-5110534.html",
+      "summary": "Các ngân hàng tăng lãi suất tiền gửi kỳ hạn 6-12 tháng lên bình quân 7,8%, trong khi lãi suất cho vay duy trì ở 10,5%, ngắt chuỗi tăng kéo dài từ cuối năm ngoái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T11:26:25+07:00",
+      "fetched": "2026-08-18T19:37:55.970407+07:00"
+    },
+    {
+      "id": "0bcacd251d1fd5e1c30050567a48cc91",
+      "title": "Lãi suất tiết kiệm vẫn tăng nhưng lãi cho vay chững lại",
+      "link": "https://vnexpress.net/lai-suat-tiet-kiem-van-tang-nhung-lai-cho-vay-chung-lai-5110534.html",
+      "summary": "Các ngân hàng tăng lãi suất tiền gửi kỳ hạn 6-12 tháng lên bình quân 7,8%, trong khi lãi suất cho vay duy trì ở 10,5%, ngắt chuỗi tăng kéo dài từ cuối năm ngoái.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-18T11:26:25+07:00",
+      "fetched": "2026-08-18T19:38:05.078440+07:00"
+    },
+    {
+      "id": "285305516f14fe147ae99ec3ffed7dec",
+      "title": "TP HCM miễn phí sách giáo khoa từ lớp 1 đến 12",
+      "link": "https://vnexpress.net/tp-hcm-mien-phi-sach-giao-khoa-tu-lop-1-den-12-5110502.html",
+      "summary": "Tất cả học sinh phổ thông, không phân biệt trường công hay tư, được miễn phí sách giáo khoa theo hình thức mượn - trả, nhưng phải bồi thường nếu làm hỏng, mất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T11:12:01+07:00",
+      "fetched": "2026-08-18T19:37:55.970573+07:00"
+    },
+    {
+      "id": "552b29a083a99568eb83befd45e15b4c",
+      "title": "Vợ chồng 'giang hồ mạng' Phú Lê, Thúy Kiều bị khởi tố",
+      "link": "https://vnexpress.net/vo-chong-giang-ho-mang-phu-le-thuy-kieu-bi-khoi-to-5110532.html",
+      "summary": "Vợ chồng Lê Văn Phú và Lã Thúy Kiều bị cáo buộc không hạch toán hơn 107 tỷ đồng tiền bán hàng vào sổ sách và lập hàng trăm hóa đơn khống để hợp thức hàng tồn kho.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T11:07:33+07:00",
+      "fetched": "2026-08-18T19:37:55.970704+07:00"
+    },
+    {
+      "id": "4b7cbcca0f8bf06ca91027541bce8eb3",
+      "title": "Chém 'tình địch' rồi chở nạn nhân đi cấp cứu",
+      "link": "https://vnexpress.net/chem-tinh-dich-roi-cho-nan-nhan-di-cap-cuu-5110472.html",
+      "summary": "Sau khi đâm chém người đàn ông 41 tuổi trong cuộc hẹn đánh nhau, Trần Văn Phương lấy xe máy chở nạn nhân đến bệnh viện cấp cứu rồi bỏ trốn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T11:04:32+07:00",
+      "fetched": "2026-08-18T19:37:55.970841+07:00"
+    },
+    {
+      "id": "5eb4d5d1ce40e4a59abe0718647ca07a",
+      "title": "Blue Origin sẽ xây bệ phóng cho tên lửa đẩy hạng siêu nặng",
+      "link": "https://vnexpress.net/blue-origin-se-xay-be-phong-cho-ten-lua-day-hang-sieu-nang-5110350.html",
+      "summary": "Blue Origin sẽ mở rộng địa điểm phóng tại Florida thành cơ sở hai bệ để hỗ trợ tên lửa New Glenn 9x4 lớn và mạnh mẽ hơn đang trong quá trình phát triển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T11:00:00+07:00",
+      "fetched": "2026-08-18T19:37:55.971031+07:00"
+    },
+    {
+      "id": "dfa9c111b3741c05e65e653102f7694c",
+      "title": "Tôi thành người cộc cằn vì sống với vợ nóng tính",
+      "link": "https://vnexpress.net/tinh-yeu-khong-du-sau-van-cuoi-toi-tra-gia-bang-su-co-don-5110253.html",
+      "summary": "Có những lúc tôi đứng trong nhà của mình mà cảm giác mình như người thừa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T11:00:00+07:00",
+      "fetched": "2026-08-18T19:37:55.971172+07:00"
+    },
+    {
+      "id": "f921fae3c00773ef9bf1d2f14c1431bd",
+      "title": "Làng Sen trên huy chương VnExpress Marathon Grand Tour Nghệ An 2026",
+      "link": "https://vnexpress.net/vnexpress-marathon-grand-tour-nghe-an-2026-lang-sen-5110353.html",
+      "summary": "Huy chương VnExpress Marathon Grand Tour Nghệ An 2026 có khung mô phỏng Thành cổ Vinh, lồng mái nhà tranh Làng Sen và sắc xanh gợi nhớ quê Bác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T11:00:00+07:00",
+      "fetched": "2026-08-18T19:37:55.971294+07:00"
+    },
+    {
+      "id": "a17cf5e0fe029c937501d58f6b13fe95",
+      "title": "4 thói quen ăn uống không tốt cho não của trẻ",
+      "link": "https://vnexpress.net/4-thoi-quen-an-uong-khong-tot-cho-nao-cua-tre-5110341.html",
+      "summary": "Bỏ bữa sáng, ăn nhiều đồ ngọt, thức ăn nhanh, thực phẩm chế biến sẵn hay ít rau có thể khiến trẻ thiếu dưỡng chất cần thiết cho não bộ phát triển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T11:00:00+07:00",
+      "fetched": "2026-08-18T19:37:55.971425+07:00"
+    },
+    {
+      "id": "5eb4d5d1ce40e4a59abe0718647ca07a",
+      "title": "Blue Origin sẽ xây bệ phóng cho tên lửa đẩy hạng siêu nặng",
+      "link": "https://vnexpress.net/blue-origin-se-xay-be-phong-cho-ten-lua-day-hang-sieu-nang-5110350.html",
+      "summary": "Blue Origin sẽ mở rộng địa điểm phóng tại Florida thành cơ sở hai bệ để hỗ trợ tên lửa New Glenn 9x4 lớn và mạnh mẽ hơn đang trong quá trình phát triển.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-18T11:00:00+07:00",
+      "fetched": "2026-08-18T19:38:08.507688+07:00"
+    },
+    {
+      "id": "7f2b74acf0e02be8ac4c33c67a40f76c",
+      "title": "Bị cáo: Không đưa tiền cho cựu thứ trưởng Hoan, việc 'chắc chắn không thuận lợi'",
+      "link": "https://vnexpress.net/bi-cao-khong-dua-tien-cho-cuu-thu-truong-hoan-viec-chac-chan-khong-thuan-loi-5110484.html",
+      "summary": "Chủ doanh nghiệp Hoàng Long khai lĩnh vực xuất khẩu lao động rất đặc thù, phải qua nhiều \"nấc\", mỗi lần gặp lãnh đạo phải có \"tí nọ tí kia\", nếu không \"việc chắc chắn không thuận\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T10:52:40+07:00",
+      "fetched": "2026-08-18T19:37:55.971549+07:00"
+    },
+    {
+      "id": "3917e834b3102572ef4bf77181f84b0a",
+      "title": "Cách làm món tôm cuốn",
+      "link": "https://vnexpress.net/cach-lam-mon-tom-cuon-5105464.html",
+      "summary": "Nguyên liệu gồm tôm, trứng gà rán thái chỉ, giò lụa, các loại rau thơm, xà lách và dọc hành chần mềm, được cuốn lại như bó mạ non, ăn kèm nước mắm chua ngọt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-18T10:31:33+07:00",
+      "fetched": "2026-08-18T19:37:55.971675+07:00"
     },
     {
       "id": "e3b738d63b292ec3402116b53e91b016",
