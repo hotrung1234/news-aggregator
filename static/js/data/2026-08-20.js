@@ -1,7 +1,27 @@
 window.newsData_2026_08_20 = {
   "date": "2026-08-20",
-  "lastUpdated": "2026-08-20T01:29:17.285707+07:00",
+  "lastUpdated": "2026-08-20T03:22:14.646272+07:00",
   "articles": [
+    {
+      "id": "d67296b9730dde4a5fcfb4827f1a23aa",
+      "title": "Thời tiết hôm nay 20-8: Áp thấp nhiệt đới hướng vào vịnh Bắc Bộ, cả nước mưa to",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-20-8-ap-thap-nhiet-doi-huong-vao-vinh-bac-bo-ca-nuoc-mua-to-100260819161428954.htm",
+      "summary": "Hôm nay 20-8, thời tiết chủ đạo trên cả nước là mưa dông, nhiều nơi mưa to đến rất to, chú ý các hinh thái thời tiết cực đoan đi kèm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T03:22:07.827922+07:00",
+      "fetched": "2026-08-20T03:22:07.827969+07:00"
+    },
+    {
+      "id": "6331a0ce681c4f38d54ae6f7cbc6f54b",
+      "title": "Bí ẩn tranh đá di sản thế giới ở Trung Quốc có lời giải gây bất ngờ",
+      "link": "https://tuoitre.vn/bi-an-tranh-da-di-san-the-gioi-o-trung-quoc-co-loi-giai-gay-bat-ngo-100260819155757497.htm",
+      "summary": "Làm thế nào những bức vẽ màu đỏ đặc biệt trên đá Hoa Sơn ở Quảng Tây, Trung Quốc có thể tồn tại trong tình trạng tốt suốt hàng ngàn năm?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T03:22:07.827774+07:00",
+      "fetched": "2026-08-20T03:22:07.827911+07:00"
+    },
     {
       "id": "0f3f20cd1c32d2e1790f3f4f9858940f",
       "title": "Fan Thái Lan: 'Cũng dẫn trước 2 bàn mà sao Việt Nam đá khác quá'",
@@ -151,6 +171,66 @@ window.newsData_2026_08_20 = {
       "category": "Tổng hợp",
       "published": "2026-08-20T01:29:06.863128+07:00",
       "fetched": "2026-08-20T01:29:06.863303+07:00"
+    },
+    {
+      "id": "9bc99efc481dd4d0ace3da6731140678",
+      "title": "Nguyễn Xuân Son lại khiến fan Đông Nam Á trầm trồ",
+      "link": "https://thanhnien.vn/nguyen-xuan-son-lai-khien-fan-dong-nam-a-tram-tro-185260820021414136.htm",
+      "summary": "Một lần nữa, Nguyễn Xuân Son trở thành tâm điểm của sự chú ý từ người hâm mộ bóng đá khu vực, sau màn trình diễn chói sáng trong màu áo đội tuyển Việt Nam ở bán kết lượt về ASEAN Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T20:00:00+07:00",
+      "fetched": "2026-08-20T03:22:05.994328+07:00"
+    },
+    {
+      "id": "8c2895eab7e106eed8fd56e27a9d5723",
+      "title": "Ba nguyên tắc ăn uống hỗ trợ kiểm soát acid uric",
+      "link": "https://vnexpress.net/ba-nguyen-tac-an-uong-ho-tro-kiem-soat-acid-uric-5110460.html",
+      "summary": "Giảm thực phẩm giàu purin, hạn chế rượu bia, đồng thời tăng cường thực phẩm giàu chất xơ và vitamin C có thể hỗ trợ kiểm soát chỉ số acid uric.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T19:00:00+07:00",
+      "fetched": "2026-08-20T03:22:03.440210+07:00"
+    },
+    {
+      "id": "0e4a22984ce579f5c86d60683316a7ec",
+      "title": "Kết hôn rồi vẫn xem phim khiêu dâm có bất thường?",
+      "link": "https://vnexpress.net/ket-hon-roi-van-xem-phim-khieu-dam-co-bat-thuong-5110407.html",
+      "summary": "Tôi đã kết hôn nhưng vẫn xem phim khiêu dâm, như vậy có bất thường hay vấn đề tình dục không, thưa bác sĩ? (Vũ, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T18:10:00+07:00",
+      "fetched": "2026-08-20T03:22:03.440341+07:00"
+    },
+    {
+      "id": "ca50835f268478c4efb0de5ab0d9e8cf",
+      "title": "Điều gì xảy ra với đường ruột khi uống cà phê?",
+      "link": "https://vnexpress.net/dieu-gi-xay-ra-voi-duong-ruot-khi-uong-ca-phe-5110030.html",
+      "summary": "Uống cà phê, đặc biệt vào buổi sáng, có thể kích thích nhu động ruột, thúc đẩy hoạt động tiêu hóa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T18:02:04+07:00",
+      "fetched": "2026-08-20T03:22:03.440450+07:00"
+    },
+    {
+      "id": "703f9d156e903e20a45ac129ab910064",
+      "title": "Ung thư tuyến nước bọt",
+      "link": "https://vnexpress.net/suc-khoe/cam-nang/ung-thu-tuyen-nuoc-bot-448",
+      "summary": "Ung thư tuyến nước bọt có thể xuất hiện dưới dạng một khối u không đau ở vùng hàm, má, miệng hoặc cổ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T18:00:00+07:00",
+      "fetched": "2026-08-20T03:22:03.440559+07:00"
+    },
+    {
+      "id": "ea7a0b03c96cf93ab6714aa92be9b14e",
+      "title": "Vườn rau quê của Hàn Thái Tú ở Mỹ",
+      "link": "https://vnexpress.net/vuon-rau-que-cua-han-thai-tu-o-my-5110331.html",
+      "summary": "Ca sĩ Hàn Thái Tú tận dụng khoảng đất trống trong khuôn viên nhà 1.500 m2 tại Mỹ để trồng rau muống, đậu bắp, lá quế và cây ăn trái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-19T18:00:00+07:00",
+      "fetched": "2026-08-20T03:22:03.440663+07:00"
     },
     {
       "id": "8f822783cd88b2095fdc29fb81ca4b76",
