@@ -1,7 +1,147 @@
 window.newsData_2026_08_20 = {
   "date": "2026-08-20",
-  "lastUpdated": "2026-08-20T21:32:14.129794+07:00",
+  "lastUpdated": "2026-08-20T23:30:26.587975+07:00",
   "articles": [
+    {
+      "id": "47cad5dde03ba67921aa23f791b17f9e",
+      "title": "Nắng nóng khiến cả chục ngàn người chết ở châu Âu",
+      "link": "https://tuoitre.vn/nang-nong-khien-ca-chuc-ngan-nguoi-chet-o-chau-au-100260820200357681.htm",
+      "summary": "Cá biệt tại Đức, có tuần vào cuối tháng 6 ghi nhận tới 9.600 người chết vì nắng nóng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T23:30:20.686021+07:00",
+      "fetched": "2026-08-20T23:30:20.686082+07:00"
+    },
+    {
+      "id": "edbc91690083d93a20e339989d4827c0",
+      "title": "Đề xuất xây dựng ‘hệ miễn dịch trí tuệ’ cho công dân",
+      "link": "https://tuoitre.vn/de-xuat-xay-dung-he-mien-dich-tri-tue-cho-cong-dan-100260820192801548.htm",
+      "summary": "PGS.TS Phạm Minh Sơn cho biết một số tham luận tại hội thảo ‘Đổi mới tuyên truyền, phổ biến lý luận chính trị trên không gian mạng’ đã nhấn mạnh việc xây dựng ‘hệ miễn dịch trí tuệ’ cho công dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T23:30:20.685954+07:00",
+      "fetched": "2026-08-20T23:30:20.686010+07:00"
+    },
+    {
+      "id": "f28d2e47c19474b1b0004c192eaab8b2",
+      "title": "Phú Quốc phát triển nguồn nhân lực chất lượng cao trên nền tảng giáo dục chất lượng",
+      "link": "https://tuoitre.vn/phu-quoc-phat-trien-nguon-nhan-luc-chat-luong-cao-tren-nen-tang-giao-duc-chat-luong-100260820201402637.htm",
+      "summary": "Phú Quốc đặt mục tiêu phát triển nguồn nhân lực chất lượng cao trên nền tảng giáo dục chất lượng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T23:30:20.685887+07:00",
+      "fetched": "2026-08-20T23:30:20.685943+07:00"
+    },
+    {
+      "id": "5f0087b6f83fe69c0d689286c04ec4d4",
+      "title": "Việt Nam đứng thứ 3 thế giới về lượng tìm kiếm tour du lịch trọn gói trên Google",
+      "link": "https://tuoitre.vn/viet-nam-dung-thu-3-the-gioi-ve-luong-tim-kiem-tour-du-lich-tron-goi-tren-google-10026082020231402.htm",
+      "summary": "Theo Google Việt Nam, trong nửa đầu năm 2026, Việt Nam đứng thứ 3 thế giới về lượng tìm kiếm tour du lịch trọn gói trên nền tảng Google, tăng 22% so với cùng kỳ. Lượng tìm kiếm từ khách quốc tế tăng 20%.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T23:30:20.685819+07:00",
+      "fetched": "2026-08-20T23:30:20.685877+07:00"
+    },
+    {
+      "id": "3a97c4ed99f949cc3e2588e84dbc5b04",
+      "title": "Đắk Lắk khởi tố nhiều thanh thiếu niên gây rối trật tự công cộng",
+      "link": "https://tuoitre.vn/dak-lak-khoi-to-nhieu-thanh-thieu-nien-gay-roi-trat-tu-cong-cong-100260820201345104.htm",
+      "summary": "Nhiều nhóm thanh thiếu niên cầm hung khí tụ tập, gây náo loạn giữa khu dân cư ở Đắk Lắk vừa bị cơ quan chức năng khởi tố, để điều tra về các tội cố ý gây thương tích và gây rối trật tự công cộng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T23:30:20.685749+07:00",
+      "fetched": "2026-08-20T23:30:20.685808+07:00"
+    },
+    {
+      "id": "f241f5fb794d66ac67ff9c39449c0869",
+      "title": "Tìm người biết thông tin cô gái trong bức ảnh dưới phần mộ liệt sĩ ở Đà Nẵng",
+      "link": "https://tuoitre.vn/tim-nguoi-biet-thong-tin-co-gai-trong-buc-anh-duoi-phan-mo-liet-si-o-da-nang-100260820202253788.htm",
+      "summary": "Ngày 20-8, khi triển khai nhiệm vụ tại Nghĩa trang liệt sĩ Tam Thái (xã Chiên Đàn, thành phố Đà Nẵng), lực lượng chức năng phát hiện một bức ảnh cùng nhiều di vật tại phần mộ liệt sĩ chưa xác định danh tính.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T23:30:20.685678+07:00",
+      "fetched": "2026-08-20T23:30:20.685738+07:00"
+    },
+    {
+      "id": "c2e0d539e00a2d05902c88f3dba987a3",
+      "title": "Ấm lòng với những suất cơm miễn phí",
+      "link": "https://tuoitre.vn/thang-cua-tinh-nguoi-100260820205438842.htm",
+      "summary": "Chúng ta đang trải qua những ngày đầu của tháng bảy âm lịch. Đây thường là khoảng thời gian đặc biệt không chỉ với người tín Phật, mà với hầu hết người dân TP.HCM. Tháng này, ngoài ý nghĩa tâm linh, còn là tháng mà tình người nở rộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T23:30:20.685601+07:00",
+      "fetched": "2026-08-20T23:30:20.685667+07:00"
+    },
+    {
+      "id": "f6936da8eab04c05517bd0c7e67a9ba3",
+      "title": "Tổng Bí thư, Chủ tịch nước: Không để vấn đề đã thành điểm nghẽn rồi mới có chính sách chạy theo",
+      "link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-khong-de-van-de-da-thanh-diem-nghen-roi-moi-co-chinh-sach-chay-theo-1002608202018096.htm",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm nhấn mạnh Học viện Chính trị quốc gia Hồ Chí Minh phải góp phần đào tạo ra đội ngũ cán bộ có bản lĩnh chính trị vững vàng, tư duy lý luận và tư duy chiến lược.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T23:30:20.685528+07:00",
+      "fetched": "2026-08-20T23:30:20.685590+07:00"
+    },
+    {
+      "id": "df1ff5a431171d01b872643365de2da2",
+      "title": "Phụ huynh 'săn' sách giáo khoa, nhà xuất bản nói sẽ in bổ sung 9 triệu bản từ 25-8",
+      "link": "https://tuoitre.vn/phu-huynh-san-sach-giao-khoa-nha-xuat-ban-noi-se-in-bo-sung-9-trieu-ban-tu-25-8-10026082020114868.htm",
+      "summary": "Nhà xuất bản Giáo dục Việt Nam cho biết đang tăng cường in bổ sung, điều chuyển sách giáo khoa giữa các địa phương để giải quyết thiếu hụt cục bộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T23:30:20.685445+07:00",
+      "fetched": "2026-08-20T23:30:20.685516+07:00"
+    },
+    {
+      "id": "e116afc99aa76e7e7bd93e6b2a559055",
+      "title": "Hai trẻ sơ sinh cùng bị bỏ rơi ở La Gi, phường thông báo tìm cha mẹ",
+      "link": "https://tuoitre.vn/hai-tre-so-sinh-cung-bi-bo-roi-o-la-gi-phuong-thong-bao-tim-cha-me-100260820203050913.htm",
+      "summary": "Hai trẻ sơ sinh cùng lúc được người dân ở phường La Gi, tỉnh Lâm Đồng (vùng Bình Thuận cũ) phát hiện bị bỏ rơi. Phường thông báo tìm cha mẹ đẻ của các cháu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T23:30:20.685356+07:00",
+      "fetched": "2026-08-20T23:30:20.685416+07:00"
+    },
+    {
+      "id": "710b6f1ff9ccd90a3ba4c456fbf6a7da",
+      "title": "Xã Bình Chánh huy động xe cuốc hỗ trợ người dân tháo dỡ nhà, bàn giao mặt bằng mở rộng quốc lộ 1",
+      "link": "https://tuoitre.vn/xa-binh-chanh-huy-dong-xe-cuoc-ho-tro-nguoi-dan-thao-do-nha-ban-giao-mat-bang-mo-rong-quoc-lo-1-100260820205932763.htm",
+      "summary": "Bên cạnh lập 9 tổ công tác vận động người dân đồng thuận bàn giao mặt bằng, xã Bình Chánh (TP.HCM) huy động xe cuốc hỗ trợ người dân tháo dỡ nhà để bàn giao mặt bằng cho dự án mở rộng quốc lộ 1 (nay là đường Lê Khả Phiêu).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T23:30:20.685286+07:00",
+      "fetched": "2026-08-20T23:30:20.685346+07:00"
+    },
+    {
+      "id": "9b6c04377a2d5c5bf43a3b4a42f3cb57",
+      "title": "Những tấm bảng giản dị của tình người",
+      "link": "https://tuoitre.vn/nhung-tam-bang-gian-di-cua-tinh-nguoi-100260820210709151.htm",
+      "summary": "Giữa cái nắng bỏng rát của buổi trưa hè hay cơn mưa rào bất chợt, người ta dễ dàng bắt gặp những hình ảnh rất đỗi thân thương: những tấm bảng giản dị, thường được đặt tạm ở một góc đường, con hẻm nhỏ hay trên chiếc ghế nhựa bạc màu cạnh lề đường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T23:30:20.685212+07:00",
+      "fetched": "2026-08-20T23:30:20.685275+07:00"
+    },
+    {
+      "id": "8fcb4781208b0b67b3c2ff6b9f4ab52c",
+      "title": "Lịch trực tiếp bóng chuyền nữ châu Á 2026 ngày 21-8",
+      "link": "https://tuoitre.vn/lich-truc-tiep-bong-chuyen-nu-chau-a-2026-ngay-21-8-100260820174626038.htm",
+      "summary": "Ngày 21-8, Giải bóng chuyền nữ vô địch châu Á 2026 sẽ chính thức khởi tranh tại Thiên Tân (Trung Quốc).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T23:30:20.685133+07:00",
+      "fetched": "2026-08-20T23:30:20.685201+07:00"
+    },
+    {
+      "id": "a473602d40eab8979fdc93a17ee48f41",
+      "title": "Hà Nội lại mở loạt triển lãm, đêm nhạc miễn phí",
+      "link": "https://tuoitre.vn/ha-noi-lai-mo-loat-trien-lam-dem-nhac-mien-phi-100260820211900725.htm",
+      "summary": "Trong khuôn khổ Festival Thăng Long - Hà Nội lần thứ II năm 2026 từ ngày 11 đến 20-9, một loạt đêm nhạc, trưng bày, triển lãm, tọa đàm mở cửa miễn phí cho công chúng tại nhiều không gian văn hóa tiêu biểu của thủ đô.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T23:30:20.684976+07:00",
+      "fetched": "2026-08-20T23:30:20.685119+07:00"
+    },
     {
       "id": "6d61055db9d86d15fbb98b2e0251742c",
       "title": "Pep Guardiola rời đi, Man City còn đủ mạnh?",
@@ -453,6 +593,76 @@ window.newsData_2026_08_20 = {
       "fetched": "2026-08-20T17:25:11.938382+07:00"
     },
     {
+      "id": "738b8dae1faba5e2905d78bee5231127",
+      "title": "Vận tải cơ quân sự Mỹ quay đầu sau cảnh báo hàng không của Nga",
+      "link": "https://vnexpress.net/van-tai-co-quan-su-my-quay-dau-sau-canh-bao-hang-khong-cua-nga-5111422.html",
+      "summary": "Vận tải cơ C-17A Mỹ cất cánh từ New Zealand phải trở lại nơi xuất phát sau khi có cảnh báo từ cơ quan hàng không Nga.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T16:15:20+07:00",
+      "fetched": "2026-08-20T23:30:16.452816+07:00"
+    },
+    {
+      "id": "738b8dae1faba5e2905d78bee5231127",
+      "title": "Vận tải cơ quân sự Mỹ quay đầu sau cảnh báo hàng không của Nga",
+      "link": "https://vnexpress.net/van-tai-co-quan-su-my-quay-dau-sau-canh-bao-hang-khong-cua-nga-5111422.html",
+      "summary": "Vận tải cơ C-17A Mỹ cất cánh từ New Zealand phải trở lại nơi xuất phát sau khi có cảnh báo từ cơ quan hàng không Nga.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-20T16:15:20+07:00",
+      "fetched": "2026-08-20T23:30:21.757149+07:00"
+    },
+    {
+      "id": "b77e4221f1076fe145276a56529d6e49",
+      "title": "103 xã, phường ở Cần Thơ hoàn thành sáp nhập, đổi tên trường công",
+      "link": "https://vnexpress.net/tra-cuu-danh-sach-truong-sau-sap-xep-sap-nhap-o-tp-can-tho-5111432.html",
+      "summary": "Hầu hết xã, phường ở Cần Thơ chỉ còn một trường học ở mỗi cấp, giảm tới 750 đầu mối, cùng gần 1.100 hiệu trưởng, hiệu phó, sau sáp nhập.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T15:56:11+07:00",
+      "fetched": "2026-08-20T23:30:16.452998+07:00"
+    },
+    {
+      "id": "940f0b5d8c0eb93efe487d79fc4b57a5",
+      "title": "Cháy lớn tại nhà thờ ở Ninh Bình",
+      "link": "https://vnexpress.net/chay-lon-tai-nha-tho-o-ninh-binh-5111480.html",
+      "summary": "Mái gỗ nhà thờ Giáo xứ Áng Sơn bốc cháy dữ dội, làm hư hỏng gian cung thánh cùng nhiều tài sản, song không gây thương vong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T15:51:58+07:00",
+      "fetched": "2026-08-20T23:30:16.453167+07:00"
+    },
+    {
+      "id": "d5ca7b463c189b2238c726afce3a735b",
+      "title": "Hà Nội nêu lý do di chuyển tượng đài 'Quyết tử để Tổ quốc quyết sinh'",
+      "link": "https://thanhnien.vn/ha-noi-neu-ly-do-di-chuyen-tuong-dai-quyet-tu-de-to-quoc-quyet-sinh-185260820212845373.htm",
+      "summary": "Sở VH-TT-DL Hà Nội cho biết, việc di chuyển tượng đài 'Quyết tử để Tổ quốc quyết sinh' ở gần hồ Hoàn Kiếm về Bộ Tư lệnh Thủ đô là phù hợp với ý nghĩa lịch sử của công trình này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T15:47:00+07:00",
+      "fetched": "2026-08-20T23:30:19.160676+07:00"
+    },
+    {
+      "id": "ea6d4bd927f3564006a2003b5dabbf75",
+      "title": "Đồng loạt đòi thu, đồng loạt dừng",
+      "link": "https://vnexpress.net/dong-loat-doi-thu-dong-loat-dung-5111474.html",
+      "summary": "Tháng 8/2026, hai đơn vị duy nhất đang cung cấp dịch vụ thu phí không dừng (ETC) tại Việt Nam - là VETC và ePass - đồng loạt áp dụng khoản phí 6.600 đồng/tháng/khách hàng cá nhân dưới tên gọi \"phí quản lý tài khoản\". Việc này được các doanh nghiệp lý giải là nhằm bù đắp chi phí vận hành hạ tầng công...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T15:46:17+07:00",
+      "fetched": "2026-08-20T23:30:16.453329+07:00"
+    },
+    {
+      "id": "cf4ecd4327c1fe80209841370a50c812",
+      "title": "Tổng thống Putin thăm di hài vừa khai quật của đại công tước chiến binh thời Trung Cổ",
+      "link": "https://thanhnien.vn/tong-thong-putin-tham-di-hai-vua-khai-quat-cua-dai-cong-tuoc-chien-binh-thoi-trung-co-18526082022182329.htm",
+      "summary": "Hôm nay (20.8), Tổng thống Nga Vladimir Putin đến xem quan tài đá của đại công tước chiến binh Dmitry Donskoy thời Trung Cổ, sau khi hài cốt của ông gần đây được tìm thấy trong quá trình trùng tu nhà thờ gần Điện Kremlin.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T15:39:00+07:00",
+      "fetched": "2026-08-20T23:30:19.160848+07:00"
+    },
+    {
       "id": "9671273434235f07266dbde79446abe4",
       "title": "Hành hung người đi đường, người đàn ông còn thách thức 'quay thoải mái đi em ơi, mặt đây này'",
       "link": "https://tuoitre.vn/hanh-hung-nguoi-di-duong-nguoi-dan-ong-con-thach-thuc-quay-thoai-mai-di-em-oi-mat-day-nay-10026082012320522.htm",
@@ -603,6 +813,96 @@ window.newsData_2026_08_20 = {
       "fetched": "2026-08-20T15:33:05.798709+07:00"
     },
     {
+      "id": "1f9cb5b7755278001498bba3d35f9803",
+      "title": "Gộp 4 chương trình quốc gia phải đo được người dân hưởng lợi gì",
+      "link": "https://vnexpress.net/gop-4-chuong-trinh-quoc-gia-phai-do-duoc-nguoi-dan-huong-loi-gi-5111463.html",
+      "summary": "Đại biểu cho rằng chương trình dự kiến đầu tư 808.558 tỷ đồng phải được đánh giá bằng thay đổi về thu nhập, giáo dục, y tế và đời sống, thay vì chỉ đếm công trình hay vốn giải ngân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T15:28:46+07:00",
+      "fetched": "2026-08-20T23:30:16.453530+07:00"
+    },
+    {
+      "id": "a0ae257cc5e7fd90d22aa28e6cb67d56",
+      "title": "Cựu số 1 thế giới Daniil Medvedev ném vợt, làm vỡ bảng điện tử",
+      "link": "https://vnexpress.net/cuu-so-1-the-gioi-daniil-medvedev-nem-vot-lam-vo-bang-dien-tu-5111469.html",
+      "summary": "Cựu số 1 thế giới Daniil Medvedev ném vợt vỡ bảng điện tử khi thua tay vợt chủ nhà Nakashima tại vòng 3 Cincinnati Open.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T15:26:11+07:00",
+      "fetched": "2026-08-20T23:30:16.453703+07:00"
+    },
+    {
+      "id": "32811c21eee22a930bfeaf50bc3671d1",
+      "title": "Camera ghi cảnh giông lốc quật mạnh ở Lâm Đồng, Đăk Lăk",
+      "link": "https://vnexpress.net/camera-ghi-canh-giong-loc-quat-manh-o-lam-dong-dak-lak-5111468.html",
+      "summary": "Mưa lớn kèm giông lốc quét qua Lâm Đồng, Đăk Lăk chiều 20/8, làm nhiều nhà dân tốc mái, hàng loạt cây xanh và trụ điện bật gốc, ngã đổ xuống đường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T15:12:58+07:00",
+      "fetched": "2026-08-20T23:30:16.453868+07:00"
+    },
+    {
+      "id": "51c29a1817a4473dfcf299d2ab9f044e",
+      "title": "Nhà sáng lập Evergrande bị kết án tù chung thân",
+      "link": "https://thanhnien.vn/nha-sang-lap-evergrande-bi-ket-an-tu-chung-than-185260820211437447.htm",
+      "summary": "Theo tin từ đài truyền hình CCTV, một tòa án Trung Quốc vào ngày 20.8 đã tuyên án tù chung thân đối với người sáng lập Tập đoàn China Evergrande - nhà phát triển bất động sản gánh khoản nợ lớn nhất thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T15:09:00+07:00",
+      "fetched": "2026-08-20T23:30:19.161006+07:00"
+    },
+    {
+      "id": "46e025182c37d98691f563c9747674ba",
+      "title": "Máy bay chở 160 người hủy cất cánh vì động cơ 'khạc lửa'",
+      "link": "https://vnexpress.net/may-bay-cho-160-nguoi-huy-cat-canh-vi-dong-co-khac-lua-5111459.html",
+      "summary": "Máy bay của Malaysia Airlines chở 160 người phải hủy cất cánh sau khi gặp sự cố động cơ trong lúc lăn bánh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T15:04:44+07:00",
+      "fetched": "2026-08-20T23:30:16.454055+07:00"
+    },
+    {
+      "id": "46e025182c37d98691f563c9747674ba",
+      "title": "Máy bay chở 160 người hủy cất cánh vì động cơ 'khạc lửa'",
+      "link": "https://vnexpress.net/may-bay-cho-160-nguoi-huy-cat-canh-vi-dong-co-khac-lua-5111459.html",
+      "summary": "Máy bay của Malaysia Airlines chở 160 người phải hủy cất cánh sau khi gặp sự cố động cơ trong lúc lăn bánh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-20T15:04:44+07:00",
+      "fetched": "2026-08-20T23:30:21.757325+07:00"
+    },
+    {
+      "id": "1d498c13b0d67bdfae609f593f390bc8",
+      "title": "Bà Tôn Thị Ngọc Hạnh tiếp tục làm Chủ tịch Hội Khuyến học tỉnh Lâm Đồng",
+      "link": "https://thanhnien.vn/ba-ton-nu-ngoc-hanh-tiep-tuc-lam-chu-tich-hoi-khuyen-hoc-tinh-lam-dong-185260820193137022.htm",
+      "summary": "Ngày 20.8, tại phường Xuân Hương – Đà Lạt, Hội Khuyến học tỉnh Lâm Đồng tổ chức Đại hội đại biểu lần thứ 1, nhiệm kỳ 2026 – 2031 với 297 đại biểu tham dự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T14:45:00+07:00",
+      "fetched": "2026-08-20T23:30:19.161163+07:00"
+    },
+    {
+      "id": "c0f134c34f518a823fb3d81c85b6e9a1",
+      "title": "Tìm người đàn ông đủ bao dung và tình thương",
+      "link": "https://vnexpress.net/tim-nguoi-dan-ong-du-bao-dung-va-tinh-thuong-5111209.html",
+      "summary": "Mọi người thường thấy em hay cười, một con người vui vẻ, lạc quan, nhưng em khá nội tâm, ít chia sẻ chuyện riêng của mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T14:43:44+07:00",
+      "fetched": "2026-08-20T23:30:16.454214+07:00"
+    },
+    {
+      "id": "eb8cff15723db42c57f8be29368ec7ec",
+      "title": "Tìm danh tính liệt sĩ, bất ngờ với bức ảnh chân dung nữ trong chiếc ví",
+      "link": "https://thanhnien.vn/tim-danh-tinh-liet-si-bat-ngo-voi-buc-anh-chan-dung-nu-trong-chiec-vi-185260820211144029.htm",
+      "summary": "Trong mộ liệt sĩ chưa xác định danh tính ở Đà Nẵng, lực lượng chức năng bất ngờ phát hiện chiếc ví có ảnh chân dung nữ cùng nhiều di vật, mở thêm manh mối tìm thông tin liệt sĩ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T14:37:00+07:00",
+      "fetched": "2026-08-20T23:30:19.161328+07:00"
+    },
+    {
       "id": "c639eb766168bb9d06a5f21a8c84c842",
       "title": "4 thói quen bảo mật quen thuộc nay đã lỗi thời và không còn an toàn",
       "link": "https://thanhnien.vn/4-thoi-quen-bao-mat-quen-thuoc-nay-da-loi-thoi-va-khong-con-an-toan-185260816152022553.htm",
@@ -653,6 +953,26 @@ window.newsData_2026_08_20 = {
       "fetched": "2026-08-20T21:32:03.880410+07:00"
     },
     {
+      "id": "c866c044ce4c3e06e11a072e4d7659f7",
+      "title": "Cứ mâu thuẫn, chồng lại bảo tôi không coi nhà anh ra gì",
+      "link": "https://vnexpress.net/cu-mau-thuan-chong-lai-bao-toi-khong-coi-nha-anh-ra-gi-5111103.html",
+      "summary": "Tôi chưa bao giờ thiếu lễ phép với nhà chồng, vẫn tôn trọng bố mẹ chồng, anh chị em bên chồng và cố gắng cư xử đúng mực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T14:00:00+07:00",
+      "fetched": "2026-08-20T23:30:16.454378+07:00"
+    },
+    {
+      "id": "56f08530c4e5c461e4c272596e4e606f",
+      "title": "Tôi phát điên vì app ngân hàng  liên tục spam quảng cáo",
+      "link": "https://vnexpress.net/toi-phat-dien-vi-app-ngan-hang-lien-tuc-spam-quang-cao-5111345.html",
+      "summary": "Cứ ngỡ là biến động số dư nhưng mở điện thoại lại thấy 'bạn muốn gửi tiết kiệm', 'đặt vé xe, khách sạn'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T14:00:00+07:00",
+      "fetched": "2026-08-20T23:30:16.454597+07:00"
+    },
+    {
       "id": "7dc1285de2cac83fc5d55de4f090c8aa",
       "title": "Xếp hàng dài mua sách giáo khoa nhưng không mua được, nhà xuất bản nói gì?",
       "link": "https://thanhnien.vn/xep-hang-dai-mua-sach-giao-khoa-nhung-khong-mua-duoc-nha-xuat-ban-noi-gi-185260820192022916.htm",
@@ -671,6 +991,16 @@ window.newsData_2026_08_20 = {
       "category": "Tổng hợp",
       "published": "2026-08-20T13:45:08+07:00",
       "fetched": "2026-08-20T21:32:00.516947+07:00"
+    },
+    {
+      "id": "2ed732defb591c9e57beb56f0642374c",
+      "title": "Căn hộ 'siêu sang' tại TP HCM giá cao nhất một tỷ đồng mỗi m2",
+      "link": "https://vnexpress.net/can-ho-sieu-sang-tai-tp-hcm-gia-cao-nhat-mot-ty-dong-moi-m2-5111446.html",
+      "summary": "Phân khúc căn hộ 'siêu sang' tại TP HCM đã tiệm cận mức trung bình 470 triệu đồng mỗi m2 và cao nhất lên đến một tỷ đồng, theo chuyên gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T13:45:08+07:00",
+      "fetched": "2026-08-20T23:30:16.454778+07:00"
     },
     {
       "id": "5233eb9f7dcbad3c5ec89c9f0eed0d31",
