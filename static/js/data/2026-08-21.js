@@ -1,6 +1,6 @@
 window.newsData_2026_08_21 = {
   "date": "2026-08-21",
-  "lastUpdated": "2026-08-21T01:33:35.410778+07:00",
+  "lastUpdated": "2026-08-21T03:23:49.623872+07:00",
   "articles": [
     {
       "id": "f6936da8eab04c05517bd0c7e67a9ba3",
@@ -151,6 +151,36 @@ window.newsData_2026_08_21 = {
       "category": "Tổng hợp",
       "published": "2026-08-21T01:33:24.479293+07:00",
       "fetched": "2026-08-21T01:33:24.479451+07:00"
+    },
+    {
+      "id": "eba9acde81797d6633f085c9fa4cdfe0",
+      "title": "Novaland đặt mục tiêu bàn giao gần 2.300 căn nhà trong nửa cuối năm",
+      "link": "https://vnexpress.net/novaland-dat-muc-tieu-ban-giao-gan-2-300-can-nha-trong-nua-cuoi-nam-5111458.html",
+      "summary": "Với trọng điểm là Victoria Village và Aqua City, Novaland đặt mục tiêu bàn giao 2.265 căn nhà trong những tháng tới, gấp 6,6 lần so với nửa đầu năm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-20T20:06:23+07:00",
+      "fetched": "2026-08-21T03:23:45.926754+07:00"
+    },
+    {
+      "id": "8e271a6879a21509275fe99c96c7ac6d",
+      "title": "Em trai ông Nguyễn Duy Hưng dự chi gần 100 tỷ đồng mua cổ phiếu SSI",
+      "link": "https://vnexpress.net/em-trai-ong-nguyen-duy-hung-du-chi-gan-100-ty-dong-mua-co-phieu-ssi-5111496.html",
+      "summary": "Ông Nguyễn Hồng Nam, em trai ông Nguyễn Duy Hưng, đăng ký mua 5 triệu cổ phiếu SSI, với tổng giá trị khoảng 97 tỷ đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-20T19:55:38+07:00",
+      "fetched": "2026-08-21T03:23:45.926360+07:00"
+    },
+    {
+      "id": "c91fc4abfd6e2347b0f5ff8429c25495",
+      "title": "Điều gì xảy ra khi uống cà phê mỗi ngày?",
+      "link": "https://vnexpress.net/dieu-gi-xay-ra-khi-uong-ca-phe-moi-ngay-5110400.html",
+      "summary": "Nhiều người cho rằng cà phê chứa caffeine nên không tốt cho người bị huyết áp, tim mạch, không nên uống mỗi ngày, có đúng không? (Tùng, 36 tuổi, Hà Nội).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T19:00:00+07:00",
+      "fetched": "2026-08-21T03:23:38.727765+07:00"
     },
     {
       "id": "49b955fd09e309101818be4ff5238c87",
