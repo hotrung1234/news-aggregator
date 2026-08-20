@@ -1,7 +1,157 @@
 window.newsData_2026_08_20 = {
   "date": "2026-08-20",
-  "lastUpdated": "2026-08-20T17:25:18.833929+07:00",
+  "lastUpdated": "2026-08-20T19:40:35.683061+07:00",
   "articles": [
+    {
+      "id": "2e16ca036e2f8a543850c9a601bc93b5",
+      "title": "Sinh viên 6 nước đến TP.HCM tranh tài: từ AI trồng cà phê đến máy bán thực phẩm thông minh",
+      "link": "https://tuoitre.vn/sinh-vien-6-nuoc-den-tphcm-tranh-tai-tu-ai-trong-ca-phe-den-may-ban-thuc-pham-thong-minh-100260820161700822.htm",
+      "summary": "Từ AI hỗ trợ nông dân trồng cà phê đến biến vỏ trấu thành than sinh học, sinh viên 6 nước mang những ý tưởng gần gũi vào cuộc thi đổi mới sáng tạo tại TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T19:40:13.629563+07:00",
+      "fetched": "2026-08-20T19:40:13.629619+07:00"
+    },
+    {
+      "id": "a09019bdaa0d6b055fc3d3e5d1497da8",
+      "title": "Tiếng Anh có thể thành môn bắt buộc từ lớp 1",
+      "link": "https://tuoitre.vn/tieng-anh-co-the-thanh-mon-bat-buoc-tu-lop-1-100260820155538836.htm",
+      "summary": "Theo dự thảo Bộ Giáo dục và Đào tạo đang lấy ý kiến, nếu chọn tiếng Anh là ngoại ngữ 1, học sinh sẽ học môn này bắt buộc từ lớp 1.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T19:40:13.629497+07:00",
+      "fetched": "2026-08-20T19:40:13.629552+07:00"
+    },
+    {
+      "id": "2e2170071cb360b3e745ded1fe490f8d",
+      "title": "Ca sĩ Chi Dân thừa nhận rủ nhóm bạn hùn tiền, phê ma túy nhiều ngày",
+      "link": "https://tuoitre.vn/ca-si-chi-dan-thua-nhan-ru-nhom-ban-hun-tien-phe-ma-tuy-nhieu-ngay-100260818143939512.htm",
+      "summary": "Tại phiên tòa xét xử 227 bị cáo trong đường dây ma túy liên quan 4 tiếp viên hàng không, Nguyễn Trung Hiếu (tức ca sĩ Chi Dân) bị xét xử về tội Tổ chức sử dụng trái phép chất ma túy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T19:40:13.629430+07:00",
+      "fetched": "2026-08-20T19:40:13.629487+07:00"
+    },
+    {
+      "id": "44bac1e66f627fee37b3f614d9d8f955",
+      "title": "Thu hút FDI: Phải kéo doanh nghiệp Việt đi cùng",
+      "link": "https://tuoitre.vn/thu-hut-fdi-phai-keo-doanh-nghiep-viet-di-cung-100260820165137546.htm",
+      "summary": "Thu hút FDI không chỉ nhằm tăng vốn đầu tư mà phải tạo thêm cơ hội để doanh nghiệp Việt tham gia sâu hơn vào chuỗi giá trị toàn cầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T19:40:13.629358+07:00",
+      "fetched": "2026-08-20T19:40:13.629419+07:00"
+    },
+    {
+      "id": "4d3d3c7ca678b7f1341393e9dba5894e",
+      "title": "Tự doanh mua ròng 508 tỉ đồng trước ngày FTSE Russell chốt danh mục cổ phiếu Việt Nam",
+      "link": "https://tuoitre.vn/tu-doanh-mua-rong-508-ti-dong-truoc-ngay-ftse-russell-chot-danh-muc-co-phieu-viet-nam-100260820174721685.htm",
+      "summary": "Phiên 20-8 chỉ có 3 mã cổ phiếu bị khối tự doanh bán ròng từ 1 tỉ đồng trở lên, ít nhất kể từ tháng 1-2025, đồng thời đẩy mạnh mua ròng một loạt cổ phiếu lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T19:40:13.629291+07:00",
+      "fetched": "2026-08-20T19:40:13.629348+07:00"
+    },
+    {
+      "id": "7bcdf2d7e49bee5d40ef60b4fd53e293",
+      "title": "Các ngân hàng Đức lo ngại mô hình nghỉ hưu từng phần trong ngành bị chấm dứt",
+      "link": "https://tuoitre.vn/cac-ngan-hang-duc-lo-ngai-mo-hinh-nghi-huu-tung-phan-trong-nganh-bi-cham-dut-100260820180043661.htm",
+      "summary": "Các ngân hàng tư nhân tại Đức đang phản đối khả năng bãi bỏ cơ chế nghỉ hưu từng phần theo mô hình khối, cho rằng đây là công cụ quan trọng giúp ngành thực hiện tái cơ cấu và cắt giảm nhân sự một cách ít gây xáo trộn xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T19:40:13.629216+07:00",
+      "fetched": "2026-08-20T19:40:13.629279+07:00"
+    },
+    {
+      "id": "14bd52b6cfcf1f476c6282a1ce72b259",
+      "title": "Huế sắp có dự án đại lộ Bắc Nam 20.000 tỉ đồng song song với đường sắt cao tốc",
+      "link": "https://tuoitre.vn/hue-sap-co-du-an-dai-lo-bac-nam-20000-ti-dong-song-song-voi-duong-sat-cao-toc-100260820174914538.htm",
+      "summary": "Tuyến đường đại lộ Bắc Nam của TP Huế dài khoảng 75km, quy mô 6 làn xe, tổng mức đầu tư dự kiến khoảng 20.000 tỉ đồng sẽ được kêu gọi đầu tư theo phương thức PPP (đối tác công tư).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T19:40:13.629147+07:00",
+      "fetched": "2026-08-20T19:40:13.629206+07:00"
+    },
+    {
+      "id": "41655be39852f72b342ef703a837f766",
+      "title": "TP Huế hợp nhất Sở Văn hóa và Thể thao với Sở Du lịch để tinh gọn bộ máy",
+      "link": "https://tuoitre.vn/tp-hue-hop-nhat-so-van-hoa-va-the-thao-voi-so-du-lich-de-tinh-gon-bo-may-100260820160329055.htm",
+      "summary": "Nhằm tinh gọn bộ máy, HĐND TP Huế đã có nghị quyết hợp nhất Sở Văn hóa và Thể thao với Sở Du lịch thành Sở Văn hóa, Thể thao và Du lịch TP Huế từ ngày 1-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T19:40:13.629073+07:00",
+      "fetched": "2026-08-20T19:40:13.629136+07:00"
+    },
+    {
+      "id": "d38c77166e6f101a763b06a06db790c5",
+      "title": "Các hồ chứa nước ở Hà Tĩnh xả tràn điều tiết nước ứng phó mưa lớn",
+      "link": "https://tuoitre.vn/cac-ho-chua-nuoc-o-ha-tinh-xa-tran-dieu-tiet-nuoc-ung-pho-mua-lon-100260820173109876.htm",
+      "summary": "Trước dự báo mưa lớn còn kéo dài, đơn vị quản lý các hồ chứa nước ở Hà Tĩnh ra thông báo xả tràn điều tiết nước để bảo đảm an toàn công trình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T19:40:13.628981+07:00",
+      "fetched": "2026-08-20T19:40:13.629060+07:00"
+    },
+    {
+      "id": "0f453e09e629e5023a7a39edc935b8f6",
+      "title": "Tìm số nhà cũ trên những con đường mới ở Hà Nội",
+      "link": "https://tuoitre.vn/tim-so-nha-cu-tren-nhung-con-duong-moi-o-ha-noi-100260819210928049.htm",
+      "summary": "Những tuyến đường sau giải phóng mặt bằng tại Hà Nội đang gấp rút hoàn thành, kéo theo đó là sự thay đổi của nhiều ngôi nhà và cả cách người dân tìm đến một địa chỉ cũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T19:40:13.628900+07:00",
+      "fetched": "2026-08-20T19:40:13.628959+07:00"
+    },
+    {
+      "id": "202ca4fc5e255613ff65f0bcf8915d2b",
+      "title": "Phát hiện cơ chế giúp giảm viêm nhanh cho cơ thể",
+      "link": "https://tuoitre.vn/phat-hien-co-che-giup-giam-viem-nhanh-cho-co-the-100260820180944562.htm",
+      "summary": "Các nhà khoa học Israel phát hiện việc chủ động tập trung vào vùng cơ thể đang bị đau và viêm có thể giúp phản ứng viêm giảm nhanh hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T19:40:13.628831+07:00",
+      "fetched": "2026-08-20T19:40:13.628889+07:00"
+    },
+    {
+      "id": "fa591c780a7956b9eda86f614fdee39b",
+      "title": "Khởi tố 4 bị can lừa đảo, chiếm đoạt tài sản và rửa tiền trên không gian mạng",
+      "link": "https://tuoitre.vn/khoi-to-4-bi-can-lua-dao-chiem-doat-tai-san-va-rua-tien-tren-khong-gian-mang-100260820180331453.htm",
+      "summary": "Công an xã Hóa Quỳ, tỉnh Thanh Hóa vừa triệt xóa nhóm nghi phạm sử dụng không gian mạng để lừa đảo, chiếm đoạt tài sản, thu gom, mua bán tài khoản ngân hàng để che giấu, trung chuyển dòng tiền do phạm tội mà có.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T19:40:13.628759+07:00",
+      "fetched": "2026-08-20T19:40:13.628820+07:00"
+    },
+    {
+      "id": "b9d14a79c5097a8f77f9ec1a0d62856f",
+      "title": "Hiệp ước Mecca: 'Cú bắt tay' lịch sử có đủ sức thay thế chiếc ô an ninh Mỹ?",
+      "link": "https://tuoitre.vn/hiep-uoc-mecca-cu-bat-tay-lich-su-co-du-suc-thay-the-chiec-o-an-ninh-my-100260820162714733.htm",
+      "summary": "Liên minh mới cho thấy các nước đang tìm cách giảm phụ thuộc vào Mỹ. Liệu đây có thể trở thành \"NATO kiểu mới\"?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T19:40:13.628686+07:00",
+      "fetched": "2026-08-20T19:40:13.628748+07:00"
+    },
+    {
+      "id": "651760432d531c716e792adad6bd4c55",
+      "title": "TP.HCM chấn chỉnh tình trạng 'bầy hầy' tại trạm rác Hiệp Bình Chánh",
+      "link": "https://tuoitre.vn/tphcm-chan-chinh-tinh-trang-bay-hay-tai-tram-rac-hiep-binh-chanh-100260820172446559.htm",
+      "summary": "Tại họp báo kinh tế - xã hội TP.HCM chiều 20-8, Sở Nông nghiệp và Môi trường có thông tin về tình trạng ô nhiễm kéo dài tại trạm trung chuyển rác Hiệp Bình Chánh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T19:40:13.628607+07:00",
+      "fetched": "2026-08-20T19:40:13.628674+07:00"
+    },
+    {
+      "id": "9db8ccabb2e0a7ee26b30d33d56a3238",
+      "title": "Pháp ban hành luật trợ tử",
+      "link": "https://tuoitre.vn/phap-ban-hanh-luat-tro-tu-10026082018174155.htm",
+      "summary": "Luật mới cho phép một số người trưởng thành mắc bệnh không thể chữa khỏi được lựa chọn chấm dứt sự sống, với các điều kiện và quy trình kiểm soát nghiêm ngặt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T19:40:13.628452+07:00",
+      "fetched": "2026-08-20T19:40:13.628593+07:00"
+    },
     {
       "id": "c4d9fd9eb338e9991dae4e9cf344ae54",
       "title": "Toàn bộ xe cứu thương sẽ được gắn định vị, không phân biệt công hay tư",
@@ -453,6 +603,246 @@ window.newsData_2026_08_20 = {
       "fetched": "2026-08-20T13:39:01.259549+07:00"
     },
     {
+      "id": "da1d7cff435df6ac8eda5fd010ea5f9e",
+      "title": "Hollywood chạy theo phim ngắn kiểu TikTok",
+      "link": "https://thanhnien.vn/hollywood-chay-theo-phim-ngan-kieu-tiktok-185260820151558148.htm",
+      "summary": "Ngành công nghiệp điện ảnh Hollywood đang dốc lực đầu tư vào các phim ngắn quay dọc để kéo khán giả xem qua điện thoại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T12:35:00+07:00",
+      "fetched": "2026-08-20T19:40:11.554584+07:00"
+    },
+    {
+      "id": "e40a46de84bb7cf5d587bd09d878b8ca",
+      "title": "Quy định về trường hợp quỹ bảo hiểm y tế chi trả 100% mức hưởng",
+      "link": "https://thanhnien.vn/quy-dinh-ve-truong-hop-quy-bao-hiem-y-te-chi-tra-100-muc-huong-185260820190552821.htm",
+      "summary": "Người bệnh tham gia bảo hiểm y tế từ đủ 5 năm liên tục, nếu số tiền cùng chi trả khi khám chữa bệnh trong năm vượt 6 tháng lương cơ sở sẽ được quỹ bảo hiểm y tế thanh toán 100% chi phí trong phạm vi được hưởng, không phải cùng chi trả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T12:28:00+07:00",
+      "fetched": "2026-08-20T19:40:11.554761+07:00"
+    },
+    {
+      "id": "71588d93260df646b43b76fc01e65c49",
+      "title": "Người mẫu An Tây thừa nhận tổ chức dùng ma túy: Trợ lý xin dùng chung nên đồng ý",
+      "link": "https://thanhnien.vn/nguoi-mau-an-tay-thua-nhan-to-chuc-dung-ma-tuy-tro-ly-xin-dung-chung-nen-dong-y-185260820181032727.htm",
+      "summary": "Tại tòa, người mẫu An Tây khai nhận trợ lý đã xin sử dụng ma túy chung và bị cáo đồng ý. Đồng thời, bị cáo này cũng thừa nhận hành vi như cáo trạng quy kết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T12:19:00+07:00",
+      "fetched": "2026-08-20T19:40:11.554927+07:00"
+    },
+    {
+      "id": "d4ff3c7124ffec339236abaf7c5dac81",
+      "title": "Một tô phở Việt có thể kể gì với du khách nước ngoài?",
+      "link": "https://thanhnien.vn/mot-to-pho-viet-co-the-ke-gi-voi-du-khach-nuoc-ngoai-185260820162948764.htm",
+      "summary": "Gần 60 hướng dẫn viên du lịch TP.HCM cùng tìm hiểu câu chuyện hơn một thế kỷ của phở Việt, để từ một món ăn có thể kể với du khách về lịch sử, văn hóa và con người Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T12:19:00+07:00",
+      "fetched": "2026-08-20T19:40:11.555125+07:00"
+    },
+    {
+      "id": "fee8cc7de9e70b20b02be1ec6bc4dac1",
+      "title": "Phát hiện chiếc bút khắc chữ Long Bắc trong mộ liệt sĩ ở Gia Lai",
+      "link": "https://thanhnien.vn/phat-hien-chiec-but-khac-chu-long-bac-trong-mo-liet-si-o-gia-lai-185260820185526209.htm",
+      "summary": "Tìm thấy bút máy khắc chữ Long Bắc cùng hình chim bồ câu trong mộ liệt sĩ, mở thêm manh mối xác định danh tính, tìm thân nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T12:12:00+07:00",
+      "fetched": "2026-08-20T19:40:11.555289+07:00"
+    },
+    {
+      "id": "8789e968ea28e859dd8fe42e470ff13b",
+      "title": "Hoàng Thùy Linh, ca nương Kiều Anh hát khai mạc Festival Thăng Long Hà Nội 2026",
+      "link": "https://thanhnien.vn/hoang-thuy-linh-ca-nuong-kieu-anh-hat-khai-mac-festival-thang-long-ha-noi-2026-185260820185104827.htm",
+      "summary": "Festival Thăng Long Hà Nội 2026 diễn ra từ 11 - 20.9 với chủ đề “Dòng chảy di sản - Heritage Flow”, quy tụ nghệ sĩ trong nước, quốc tế cùng nhiều hoạt động tại các không gian văn hóa, di sản, hướng đến quảng bá hình ảnh thủ đô và lan tỏa giá trị di sản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T12:12:00+07:00",
+      "fetched": "2026-08-20T19:40:11.555457+07:00"
+    },
+    {
+      "id": "3ab1e869eec31dacc78a8ce60424696e",
+      "title": "Tài xế chú ý: Camera AI phát hiện được xe ô tô 'độ' đèn",
+      "link": "https://thanhnien.vn/tai-xe-chu-y-camera-ai-phat-hien-duoc-xe-o-to-do-den-185260820145549643.htm",
+      "summary": "Không chỉ nhận diện các lỗi vi phạm giao thông thông thường, hệ thống camera AI hiện nay còn phát hiện được các ô tô \"độ\", lắp thêm đèn không đúng quy định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T12:09:00+07:00",
+      "fetched": "2026-08-20T19:40:11.555619+07:00"
+    },
+    {
+      "id": "1007bb2034a932a3522b2ef11d04c7ec",
+      "title": "Thành phố Huế hợp nhất Sở Văn hóa và Thể thao với Sở Du lịch",
+      "link": "https://thanhnien.vn/thanh-pho-hue-hop-nhat-so-van-hoa-va-the-thao-voi-so-du-lich-185260820183424802.htm",
+      "summary": "HĐND thành phố Huế vừa thông qua nghị quyết hợp nhất Sở Văn hóa và Thể thao với Sở Du lịch, đồng thời kết thúc hoạt động Ban Đô thị HĐND thành phố để tinh gọn bộ máy, nhiều cán bộ tiếp tục được điều chuyển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T12:05:00+07:00",
+      "fetched": "2026-08-20T19:40:11.555774+07:00"
+    },
+    {
+      "id": "6a4b1d4dc4f6578c566a7f4c45924c36",
+      "title": "Madam Pang cùng Bộ trưởng can thiệp kịp thời: Trận Thái Lan đấu Việt Nam được phát miễn phí",
+      "link": "https://thanhnien.vn/madam-pang-cung-bo-truong-can-thiep-kip-thoi-tran-thai-lan-dau-viet-nam-duoc-phat-mien-phi-18526082019005752.htm",
+      "summary": "Người hâm mộ xứ chùa vàng sẽ được xem miễn phí 2 trận chung kết ASEAN Cup 2026 giữa Thái Lan và Việt Nam, sau thỏa thuận thành công giữa Madam Pang, lãnh đạo Bộ Du lịch và Thể thao với đơn vị nắm bản quyền truyền hình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T12:04:00+07:00",
+      "fetched": "2026-08-20T19:40:11.555936+07:00"
+    },
+    {
+      "id": "0d07dc2a7a45cfa6d7254c9d7e5bcc68",
+      "title": "Mỹ đặt câu hỏi về lòng tin của các đồng minh NATO",
+      "link": "https://thanhnien.vn/my-dat-cau-hoi-ve-long-tin-cua-cac-dong-minh-nato-185260820132356703.htm",
+      "summary": "Trong bối cảnh cuộc chiến của Mỹ tại Trung Đông vẫn đang tiếp diễn, chính quyền Washington đang đặt ra câu hỏi về lòng tin và sự ủng hộ của các đồng minh NATO đối với chiến lược của Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T12:04:00+07:00",
+      "fetched": "2026-08-20T19:40:11.556113+07:00"
+    },
+    {
+      "id": "92b1863af3dcf9d9596f3df4ebc0d79a",
+      "title": "Ô tô điện rẻ nhất thị trường Việt gây sốt khi chạy thử tại nhà máy",
+      "link": "https://thanhnien.vn/o-to-dien-re-nhat-thi-truong-viet-gay-sot-khi-chay-thu-tai-nha-may-185260819164351628.htm",
+      "summary": "Mẫu ô tô điện siêu nhỏ Nano S05 với mức giá dự kiến chỉ 148 triệu đồng mới vừa xuất hiện trên đường chạy thử tại nhà máy TMT Motors, cho thấy xe đã tiến rất gần giai đoạn thương mại hóa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T12:04:00+07:00",
+      "fetched": "2026-08-20T19:40:11.556268+07:00"
+    },
+    {
+      "id": "fe09ae33d713d4085b9b9c9ae62dc735",
+      "title": "Chồng đổ lỗi tại mẹ tôi nên anh mới tiếp tục chơi cờ bạc",
+      "link": "https://vnexpress.net/chong-do-loi-tai-me-toi-nen-anh-moi-tiep-tuc-choi-co-bac-5111104.html",
+      "summary": "Anh nói: \"Anh không chơi thì mẹ vợ nhắn tin nói này nọ, anh chơi thì chửi, vậy anh chơi cho rồi\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T12:00:00+07:00",
+      "fetched": "2026-08-20T19:40:08.261607+07:00"
+    },
+    {
+      "id": "5d1fbc2dd331ef7334a3a907ec84eda1",
+      "title": "Hải quân Mỹ xoay chuyển tình thế ở Hormuz thế nào",
+      "link": "https://vnexpress.net/hai-quan-my-xoay-chuyen-tinh-the-o-hormuz-the-nao-5111089.html",
+      "summary": "Hải quân Mỹ đang dựng một \"lá chắn\" ở Hormuz, bảo vệ tàu dầu trước mối đe dọa từ Iran, giúp đảo ngược tình thế ở eo biển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T12:00:00+07:00",
+      "fetched": "2026-08-20T19:40:08.261814+07:00"
+    },
+    {
+      "id": "27fd9483e519f96674285bdecdf17baf",
+      "title": "Bài học khi tôi gửi 100 CV xin việc nhờ AI viết hộ",
+      "link": "https://vnexpress.net/cv-xin-viec-mau-ba-thang-that-nghiep-du-toi-gui-100-cv-xin-viec-nho-ai-viet-ho-5111091.html",
+      "summary": "100 đơn xin việc được gửi đi, chỉ có 7 cái được nhà tuyển dụng hồi âm, nhưng thật trớ trêu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T12:00:00+07:00",
+      "fetched": "2026-08-20T19:40:08.262003+07:00"
+    },
+    {
+      "id": "c3ec151d47437a4163cd7669724ec65e",
+      "title": "Viêm não Nhật Bản có thể chuyển nặng sau vài ngày sốt",
+      "link": "https://vnexpress.net/viem-nao-nhat-ban-co-the-chuyen-nang-sau-vai-ngay-sot-5111372.html",
+      "summary": "Trong 2-3 ngày đầu, viêm não Nhật Bản có thể chỉ gây sốt, đau đầu, mệt mỏi, nhưng sau đó co giật, rối loạn ý thức, hôn mê hoặc suy hô hấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T12:00:00+07:00",
+      "fetched": "2026-08-20T19:40:08.262195+07:00"
+    },
+    {
+      "id": "935d3a411825627ce1cb4fdf9be5bc28",
+      "title": "Tán sạch sỏi san hô bằng đường hầm nhỏ qua da",
+      "link": "https://vnexpress.net/tan-sach-soi-san-ho-bang-duong-ham-nho-qua-da-5111336.html",
+      "summary": "Anh Tuấn, 45 tuổi, có sỏi san hô choán gần hết đài bể thận phải, được bác sĩ tán sạch sỏi bằng kỹ thuật đường hầm nhỏ qua da.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T12:00:00+07:00",
+      "fetched": "2026-08-20T19:40:08.262369+07:00"
+    },
+    {
+      "id": "8c32cc4284acc6e38a8d3ed6b93b647c",
+      "title": "3 tiêu chí chọn giày chạy bộ khi thi đấu ngày mưa",
+      "link": "https://vnexpress.net/3-tieu-chi-chon-giay-chay-bo-ngay-mua-5111274.html",
+      "summary": "Lựa chọn chất liệu upper thoát nước, ưu tiên đế ngoài bám đường và tăng size giày giúp runner duy trì pace, tránh chấn thương khi thi đấu dưới mưa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T12:00:00+07:00",
+      "fetched": "2026-08-20T19:40:08.262575+07:00"
+    },
+    {
+      "id": "d23a0efe8af1c0534c8a2375aed255c5",
+      "title": "Bỏ công chứng bắt buộc khi chuyển nhượng đất sẽ 'rất rủi ro'",
+      "link": "https://thanhnien.vn/bo-cong-chung-bat-buoc-khi-chuyen-nhuong-dat-se-rat-rui-ro-185260820143608666.htm",
+      "summary": "Đại biểu Quốc hội Nguyễn Thị Hồng Hạnh lo ngại việc bỏ công chứng bắt buộc với một số giao dịch bất động sản có thể sẽ gây ra những rủi ro nhất định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T12:00:00+07:00",
+      "fetched": "2026-08-20T19:40:11.556428+07:00"
+    },
+    {
+      "id": "2552fc80c2b4b65c4df9c62f397e71e3",
+      "title": "TP.HCM: Triệt xóa đường dây cờ bạc qua mạng giao dịch hơn 559 tỉ đồng",
+      "link": "https://thanhnien.vn/tphcm-triet-xoa-duong-day-co-bac-qua-mang-giao-dich-hon-559-ti-dong-185260820181121162.htm",
+      "summary": "Phòng Cảnh sát hình sự Công an TP.HCM vừa triệt phá thành công đường dây đánh bạc và tổ chức đánh bạc qua mạng với quy mô giao dịch hơn 559 tỉ đồng, lấy tài khoản từ Campuchia phân phối qua nhiều tầng nấc, bước đầu khởi tố và bắt tạm giam 40 đối tượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T11:59:00+07:00",
+      "fetched": "2026-08-20T19:40:11.556586+07:00"
+    },
+    {
+      "id": "1e21c089881c623f0adc201eb99fb214",
+      "title": "Vì sao 'cô tiên từ thiện' Trúc Phương tái sử dụng ma túy sau 3 năm từng tuyên bố từ bỏ?",
+      "link": "https://thanhnien.vn/vi-sao-co-tien-tu-thien-truc-phuong-tai-su-dung-ma-tuy-sau-3-nam-tung-tuyen-bo-tu-bo-185260820181338426.htm",
+      "summary": "Vào ngày 16.3.2024, vì muốn tổ chức sinh nhật bất ngờ cho bạn, bị cáo Nguyễn Đỗ Trúc Phương (được biết đến với biệt danh “cô tiên từ thiện”) đã gọi điện rủ rê các bạn và chuẩn bị rượu, thức ăn, bóng cười. Sau đó, bữa tiệc đã kéo dài đến đêm, cùng với sự xuất hiện của các loại ma túy khác là nước vui...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T11:58:00+07:00",
+      "fetched": "2026-08-20T19:40:11.556739+07:00"
+    },
+    {
+      "id": "6a6672a7017b7575b78d47cf986d86a0",
+      "title": "Bệnh viện quân đội nghĩa tình nơi đất miền Tây",
+      "link": "https://thanhnien.vn/benh-vien-quan-doi-nghia-tinh-noi-dat-mien-tay-185260820190650879.htm",
+      "summary": "Một bệnh viện quân đội tại miền Tây đã triển khai kế hoạch khám bệnh miễn phí cho hơn 100.000 người dân. Nghĩa cử này càng thắt chặt thêm mối keo sơn quân - dân thắm tình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T11:57:00+07:00",
+      "fetched": "2026-08-20T19:40:11.556893+07:00"
+    },
+    {
+      "id": "bb3ffc0a7e7ddcdbacf48cf29d6b0eba",
+      "title": "Đội tuyển đến Thái Lan đá chung kết ASEAN Cup 2026",
+      "link": "https://vnexpress.net/doi-tuyen-den-thai-lan-da-chung-ket-asean-cup-2026-5111403.html",
+      "summary": "Thầy trò HLV Kim Sang-sik đến thủ đô Bangkok chiều 20/8, chuẩn bị cho lượt đi chung kết ASEAN Cup 2026 với chủ nhà Thái Lan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T11:48:24+07:00",
+      "fetched": "2026-08-20T19:40:08.262762+07:00"
+    },
+    {
+      "id": "bb3ffc0a7e7ddcdbacf48cf29d6b0eba",
+      "title": "Đội tuyển đến Thái Lan đá chung kết ASEAN Cup 2026",
+      "link": "https://vnexpress.net/doi-tuyen-den-thai-lan-da-chung-ket-asean-cup-2026-5111403.html",
+      "summary": "Thầy trò HLV Kim Sang-sik đến thủ đô Bangkok chiều 20/8, chuẩn bị cho lượt đi chung kết ASEAN Cup 2026 với chủ nhà Thái Lan.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-20T11:48:24+07:00",
+      "fetched": "2026-08-20T19:40:35.670248+07:00"
+    },
+    {
+      "id": "6506789c568380914b206dd47a0f728d",
+      "title": "Đề nghị luật hóa chính sách đặc thù cho đô thị lấn biển",
+      "link": "https://vnexpress.net/de-nghi-luat-hoa-chinh-sach-dac-thu-cho-do-thi-lan-bien-5111451.html",
+      "summary": "Chính phủ đề xuất cơ chế riêng cho khu đô thị lấn biển quy mô từ 100.000 tỷ đồng, nhằm tạo quỹ đất và thu hút nhà đầu tư chiến lược, vốn, công nghệ, nhân lực chất lượng cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T11:41:32+07:00",
+      "fetched": "2026-08-20T19:40:08.262924+07:00"
+    },
+    {
       "id": "f9088b2ee476b51b897ce7f4fd159a64",
       "title": "Đến lượt Viettel Money thông báo tạm dừng thu phí giao dịch ePass",
       "link": "https://tuoitre.vn/den-luot-viettel-money-thong-bao-tam-dung-thu-phi-giao-dich-epass-100260820092803186.htm",
@@ -601,6 +991,106 @@ window.newsData_2026_08_20 = {
       "category": "Tổng hợp",
       "published": "2026-08-20T11:33:02.327799+07:00",
       "fetched": "2026-08-20T11:33:02.327947+07:00"
+    },
+    {
+      "id": "b0c551ad6394fea223adbf85a97bc258",
+      "title": "Tên lửa Nga gây loạt vụ nổ sáng rực bầu trời Kiev",
+      "link": "https://vnexpress.net/ten-lua-nga-gay-loat-vu-no-sang-ruc-bau-troi-kiev-5111326.html",
+      "summary": "Nga tuyên bố tập kích hàng loạt cơ sở quốc phòng và hậu cần ở Kiev, dẫn đến những vụ nổ lớn tại thủ đô của Ukraine.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T11:15:11+07:00",
+      "fetched": "2026-08-20T19:40:08.263121+07:00"
+    },
+    {
+      "id": "b0c551ad6394fea223adbf85a97bc258",
+      "title": "Tên lửa Nga gây loạt vụ nổ sáng rực bầu trời Kiev",
+      "link": "https://vnexpress.net/ten-lua-nga-gay-loat-vu-no-sang-ruc-bau-troi-kiev-5111326.html",
+      "summary": "Nga tuyên bố tập kích hàng loạt cơ sở quốc phòng và hậu cần ở Kiev, dẫn đến những vụ nổ lớn tại thủ đô của Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-20T11:15:11+07:00",
+      "fetched": "2026-08-20T19:40:19.436376+07:00"
+    },
+    {
+      "id": "c6605e68e38dc1c105fe4d30e9875b72",
+      "title": "Thói quen giúp nữ bác sĩ hết mỡ máu, sở hữu vòng eo 'con kiến'",
+      "link": "https://vnexpress.net/thoi-quen-giup-nu-bac-si-het-mo-mau-so-huu-vong-eo-con-kien-5111234.html",
+      "summary": "Nhờ tập kháng lực kết hợp ăn uống đúng cách, nữ bác sĩ 47 tuổi ở Trung Quốc sở hữu cơ bụng số 11 săn chắc, đưa chỉ số mỡ máu về mức bình thường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T11:10:37+07:00",
+      "fetched": "2026-08-20T19:40:08.263289+07:00"
+    },
+    {
+      "id": "6e7ff00b8f8ad7c5a5b367504e7a0036",
+      "title": "Đến hạn trả 300 triệu đồng nhưng chưa có tiền, tôi xử lý thế nào cho đúng?",
+      "link": "https://vnexpress.net/den-han-tra-300-trieu-dong-nhung-chua-co-tien-toi-xu-ly-the-nao-cho-dung-5110147.html",
+      "summary": "Vì hoàn cảnh khó khăn, tôi vay 300 triệu đồng, đã đến hạn thanh toán nhưng hiện chưa có khả năng trả nợ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T11:02:46+07:00",
+      "fetched": "2026-08-20T19:40:08.263485+07:00"
+    },
+    {
+      "id": "9be4a74da50aecdd094315c1cf572f82",
+      "title": "Hai nâng cấp camera dự kiến chỉ có trên iPhone 18 Pro Max",
+      "link": "https://vnexpress.net/hai-nang-cap-camera-du-kien-chi-co-tren-iphone-18-pro-max-5110572.html",
+      "summary": "Apple được cho là chỉ trang bị hệ thống khẩu độ linh hoạt và ống kính tiềm vọng cải tiến trên phiên bản cao cấp iPhone 18 Pro Max.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T11:00:00+07:00",
+      "fetched": "2026-08-20T19:40:08.263667+07:00"
+    },
+    {
+      "id": "d225fa49985141265427221af02fd35a",
+      "title": "Ám ảnh 'chung cư 50 năm là phá bỏ'",
+      "link": "https://vnexpress.net/am-anh-chung-cu-50-nam-la-pha-bo-5111312.html",
+      "summary": "Điều cần được quan tâm là công trình còn an toàn, có thể bảo trì, cải tạo và tiếp tục sử dụng đến đâu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T11:00:00+07:00",
+      "fetched": "2026-08-20T19:40:08.263825+07:00"
+    },
+    {
+      "id": "9be4a74da50aecdd094315c1cf572f82",
+      "title": "Hai nâng cấp camera dự kiến chỉ có trên iPhone 18 Pro Max",
+      "link": "https://vnexpress.net/hai-nang-cap-camera-du-kien-chi-co-tren-iphone-18-pro-max-5110572.html",
+      "summary": "Apple được cho là chỉ trang bị hệ thống khẩu độ linh hoạt và ống kính tiềm vọng cải tiến trên phiên bản cao cấp iPhone 18 Pro Max.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-20T11:00:00+07:00",
+      "fetched": "2026-08-20T19:40:34.066821+07:00"
+    },
+    {
+      "id": "c46234775e195c73c852e1409fcc42df",
+      "title": "Sabeco đẩy mạnh xuất khẩu, mở rộng thị trường quốc tế",
+      "link": "https://vnexpress.net/sabeco-day-manh-xuat-khau-mo-rong-thi-truong-quoc-te-5111427.html",
+      "summary": "Sabeco tìm kiếm thị trường, đối tác, đầu tư năng lực sản xuất phát triển sản phẩm nâng sức cạnh tranh của bia Việt trên thị trường quốc tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T10:30:00+07:00",
+      "fetched": "2026-08-20T19:40:08.263982+07:00"
+    },
+    {
+      "id": "df8374942130c7dae7042e67aed12845",
+      "title": "Đề xuất giảm 30% thuế cho cá nhân, doanh nghiệp doanh thu không quá 10 tỷ",
+      "link": "https://vnexpress.net/de-xuat-giam-30-thue-cho-ca-nhan-doanh-nghiep-doanh-thu-khong-qua-10-ty-5111385.html",
+      "summary": "Chính phủ đề xuất giảm 30% thuế cho cá nhân kinh doanh, doanh nghiệp có doanh thu không quá 10 tỷ đồng mỗi năm trong kỳ tính thuế 2026, 2027.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T10:25:43+07:00",
+      "fetched": "2026-08-20T19:40:08.264194+07:00"
+    },
+    {
+      "id": "df8374942130c7dae7042e67aed12845",
+      "title": "Đề xuất giảm 30% thuế cho cá nhân, doanh nghiệp doanh thu không quá 10 tỷ",
+      "link": "https://vnexpress.net/de-xuat-giam-30-thue-cho-ca-nhan-doanh-nghiep-doanh-thu-khong-qua-10-ty-5111385.html",
+      "summary": "Chính phủ đề xuất giảm 30% thuế cho cá nhân kinh doanh, doanh nghiệp có doanh thu không quá 10 tỷ đồng mỗi năm trong kỳ tính thuế 2026, 2027.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-20T10:25:43+07:00",
+      "fetched": "2026-08-20T19:40:24.418288+07:00"
     },
     {
       "id": "c5a4c4b7e0eec208493c0e2ac038684c",
