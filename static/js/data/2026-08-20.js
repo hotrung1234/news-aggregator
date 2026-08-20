@@ -1,7 +1,157 @@
 window.newsData_2026_08_20 = {
   "date": "2026-08-20",
-  "lastUpdated": "2026-08-20T19:40:35.683061+07:00",
+  "lastUpdated": "2026-08-20T21:32:14.129794+07:00",
   "articles": [
+    {
+      "id": "6d61055db9d86d15fbb98b2e0251742c",
+      "title": "Pep Guardiola rời đi, Man City còn đủ mạnh?",
+      "link": "https://tuoitre.vn/pep-guardiola-roi-di-man-city-con-du-manh-100260820192240125.htm",
+      "summary": "Man City đối mặt nhiều thách thức trong mùa giải đầu tiên sau triều đại của HLV Pep Guardiola.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T21:32:05.897998+07:00",
+      "fetched": "2026-08-20T21:32:05.898070+07:00"
+    },
+    {
+      "id": "ac21973e44292233774330985faa0d80",
+      "title": "Việt Nam và Singapore lần đầu đối thoại chiến lược giữa hai Đảng",
+      "link": "https://tuoitre.vn/viet-nam-va-singapore-lan-dau-doi-thoai-chien-luoc-giua-hai-dang-100260820191133838.htm",
+      "summary": "Thường trực Ban Bí thư Trần Cẩm Tú sẽ thăm chính thức Singapore, đồng chủ trì Đối thoại chiến lược lần thứ nhất giữa Đảng Cộng sản Việt Nam và Đảng Hành động Nhân dân Singapore.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T21:32:05.897916+07:00",
+      "fetched": "2026-08-20T21:32:05.897985+07:00"
+    },
+    {
+      "id": "42305233ba8587105062bd5eaac3e4cd",
+      "title": "Kim Tử Long, Trịnh Kim Chi làm vua và hoàng hậu trong nhạc kịch phong cách Broadway",
+      "link": "https://tuoitre.vn/kim-tu-long-trinh-kim-chi-lam-vua-va-hoang-hau-trong-nhac-kich-phong-cach-broadway-100260820171343508.htm",
+      "summary": "Trong vở, 'dân cải lương' ngoài Kim Tử Long còn có kép trẻ Trọng Nhân. Trọng Nhân tuy chỉ ngoài 20 nhưng được xem là tài năng triển vọng của sàn cải lương. Trong vở Sự tích quả dưa hấu anh vào vai Hoàng tử Khang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T21:32:05.897832+07:00",
+      "fetched": "2026-08-20T21:32:05.897904+07:00"
+    },
+    {
+      "id": "bc5cc60b04939ad28b8b4c01950c65f5",
+      "title": "Công an Đồng Nai tìm 50 bị hại trong vụ đưa tiền để hứa 'chạy' vào 15 trường",
+      "link": "https://tuoitre.vn/cong-an-dong-nai-tim-50-bi-hai-trong-vu-dua-tien-de-hua-chay-vao-15-truong-100260820191316605.htm",
+      "summary": "Cơ quan Cảnh sát điều tra Công an TP Đồng Nai thụ lý vụ án lừa đảo và đang tìm 50 bị hại lo tiền để xin nhập học cho học sinh vào học ở nhiều trường của TP Biên Hòa và huyện Vĩnh Cửu (cũ).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T21:32:05.897729+07:00",
+      "fetched": "2026-08-20T21:32:05.897818+07:00"
+    },
+    {
+      "id": "effffb056d2e170036bba9705c65ed52",
+      "title": "Thiếu gì, khó gì ở sân bay Long Thành?",
+      "link": "https://tuoitre.vn/thieu-gi-kho-gi-o-san-bay-long-thanh-100260820190949523.htm",
+      "summary": "Mục tiêu đưa sân bay Long Thành vào khai thác thương mại tháng 12-2026 không thay đổi. Nhưng ở chặng nước rút, ngoài tiến độ trên công trường, những điểm nghẽn về nhân lực, dòng tiền và thủ tục đang trở thành bài toán phải gỡ sớm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T21:32:05.897638+07:00",
+      "fetched": "2026-08-20T21:32:05.897717+07:00"
+    },
+    {
+      "id": "ab945c398de92b50bd2be0271de578a5",
+      "title": "Hiệu trưởng xin xuống làm giáo viên để nghỉ chế độ 154: Ai có thể đăng ký?",
+      "link": "https://tuoitre.vn/hieu-truong-xin-xuong-lam-giao-vien-de-nghi-che-do-154-ai-co-the-dang-ky-100260820193154288.htm",
+      "summary": "Theo quy định, hiệu trưởng, hiệu phó chỉ được xem xét giải quyết chế độ tinh giản biên chế theo Nghị định 154 khi trường không thiếu giáo viên giảng dạy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T21:32:05.897531+07:00",
+      "fetched": "2026-08-20T21:32:05.897623+07:00"
+    },
+    {
+      "id": "f3bd8ee9fb6b24d82ec0189836858fa5",
+      "title": "Giám sát vệ sinh thực phẩm 'mâm cơm 35.000 đồng/người ăn' viral trên mạng",
+      "link": "https://tuoitre.vn/giam-sat-ve-sinh-thuc-pham-mam-com-35000-dong-nguoi-an-viral-tren-mang-100260820190729867.htm",
+      "summary": "Quán cơm Chung Thủy ở Quảng Ngãi bất ngờ viral trên mạng xã hội khi bán giá 35.000 đồng/mâm cơm cho một người ăn. Chi cục An toàn vệ sinh thực phẩm đã giám sát, hướng dẫn để việc chế biến thực phẩm an toàn, phục vụ người dân tốt hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T21:32:05.897186+07:00",
+      "fetched": "2026-08-20T21:32:05.897510+07:00"
+    },
+    {
+      "id": "197c0538489a8cfb14472fb39347983b",
+      "title": "Chiến sĩ Mùa hè số được người dân đặt lịch hướng dẫn vì quá nhiệt tình",
+      "link": "https://tuoitre.vn/chien-si-mua-he-so-duoc-nguoi-dan-dat-lich-huong-dan-vi-qua-nhiet-tinh-100260820125424994.htm",
+      "summary": "Tối 20-8, Hội sinh viên Việt Nam TP.HCM đã gặp gỡ, biểu dương sinh viên tình nguyện thuộc các Đội hình Mùa hè số cấp thành năm 2026 tại Thành Đoàn TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T21:32:05.897134+07:00",
+      "fetched": "2026-08-20T21:32:05.897178+07:00"
+    },
+    {
+      "id": "e52e088862875e004088811f0e1b455e",
+      "title": "Drone, diều uy hiếp sân bay: Không thể chờ sự cố mới ứng phó",
+      "link": "https://tuoitre.vn/drone-dieu-uy-hiep-san-bay-khong-the-cho-su-co-moi-ung-pho-100260820192939701.htm",
+      "summary": "Khi drone xuất hiện gần Tân Sơn Nhất, hàng chục chuyến bay phải chờ, chuyển hướng, nhưng câu hỏi khó nhất vẫn là thiết bị của ai và người điều khiển đang ở đâu. Singapore đã giải bài toán này bằng “biển số điện tử”, trong khi Trung Quốc và Mỹ thử nghiệm nhiều công nghệ vô hiệu hóa từ mặt đất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T21:32:05.897085+07:00",
+      "fetched": "2026-08-20T21:32:05.897126+07:00"
+    },
+    {
+      "id": "b114bc35c048cb3d48a372565e859a9c",
+      "title": "VETC, ePass có hưởng lợi từ số dư của người dùng?",
+      "link": "https://tuoitre.vn/vetc-epass-co-huong-loi-tu-so-du-cua-nguoi-dung-100260820165243496.htm",
+      "summary": "Theo chuyên gia, việc các ví điện tử không dừng chuyển gánh nặng chi phí sang người dùng cuối là chưa hợp lý, với khả năng các ví có lợi ích tài chính từ dòng tiền người dùng duy trì trong tài khoản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T21:32:05.897028+07:00",
+      "fetched": "2026-08-20T21:32:05.897077+07:00"
+    },
+    {
+      "id": "bf394a531f1059198e7ca5e2003235c4",
+      "title": "Điện Kremlin: Nội bộ Ukraine đang chia rẽ vì chuyện bầu cử",
+      "link": "https://tuoitre.vn/dien-kremlin-noi-bo-ukraine-dang-chia-re-vi-chuyen-bau-cu-100260820194041404.htm",
+      "summary": "Lời kêu gọi tổ chức bầu cử của cựu Bộ trưởng Quốc phòng Ukraine, theo Điện Kremlin, cho thấy sự chia rẽ trong nội bộ giới lãnh đạo ở Kiev.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T21:32:05.896972+07:00",
+      "fetched": "2026-08-20T21:32:05.897019+07:00"
+    },
+    {
+      "id": "21691e5928585caa086920b860262e6c",
+      "title": "Thái Lan xem Việt Nam là người bạn thân thiết, đối tác quan trọng trong ASEAN",
+      "link": "https://tuoitre.vn/thai-lan-xem-viet-nam-la-nguoi-ban-than-thiet-doi-tac-quan-trong-trong-asean-100260820123339611.htm",
+      "summary": "Tổng Lãnh sự Thái Lan tại TP.HCM cho biết Việt Nam là người bạn thân thiết, đối tác quan trọng của Thái Lan trong ASEAN.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T21:32:05.896914+07:00",
+      "fetched": "2026-08-20T21:32:05.896963+07:00"
+    },
+    {
+      "id": "3b3f929314d35837b7d324c3f2859148",
+      "title": "Hàng loạt VĐV, quan chức thể thao Thái Lan bị phạt nặng vì... lắm lời",
+      "link": "https://tuoitre.vn/hang-loat-vdv-quan-chuc-the-thao-thai-lan-bi-phat-nang-vi-lam-loi-100260820133526643.htm",
+      "summary": "Liên đoàn Cầu mây thế giới (ISTAF) vừa tạo ra một tiền lệ đặc biệt, khi họ phạt các VĐV và quan chức Thái Lan vì tội cãi vã nhiều lần.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T21:32:05.896852+07:00",
+      "fetched": "2026-08-20T21:32:05.896905+07:00"
+    },
+    {
+      "id": "1e324ef1917c19a8e0bcb7af0e3cf5ee",
+      "title": "Nghiên cứu lại tuyến kết nối cao tốc TP.HCM - Trung Lương vào đường về Đồng Tháp Mười Tây Ninh",
+      "link": "https://tuoitre.vn/nghien-cuu-lai-tuyen-ket-noi-cao-toc-tphcm-trung-luong-vao-duong-ve-dong-thap-muoi-tay-ninh-100260820193535642.htm",
+      "summary": "Sau khi Cục Đường bộ Việt Nam có văn bản không đồng ý phương án kết nối Dự án đường Tân An - Bình Hiệp vào cao tốc TP.HCM - Trung Lương, chủ đầu tư đang thực hiện nghiên cứu lại hướng tuyến. Điều này kéo theo một số vướng mắc cần giải quyết để dự án có thể sớm triển khai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T21:32:05.896769+07:00",
+      "fetched": "2026-08-20T21:32:05.896842+07:00"
+    },
+    {
+      "id": "23da6b170c214c0a1af9b984aceef714",
+      "title": "Phó thủ tướng: Đảm bảo doanh nghiệp có thể tiếp cận tín dụng cho hoạt động xuất khẩu",
+      "link": "https://tuoitre.vn/pho-thu-tuong-dam-bao-doanh-nghiep-co-the-tiep-can-tin-dung-cho-hoat-dong-xuat-khau-100260820200243221.htm",
+      "summary": "Phó thủ tướng Thường trực Phạm Gia Túc yêu cầu Ngân hàng Nhà nước Việt Nam có giải pháp để đảm bảo doanh nghiệp xuất khẩu có thể tiếp cận tín dụng cho hoạt động xuất khẩu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T21:32:05.896615+07:00",
+      "fetched": "2026-08-20T21:32:05.896756+07:00"
+    },
     {
       "id": "2e16ca036e2f8a543850c9a601bc93b5",
       "title": "Sinh viên 6 nước đến TP.HCM tranh tài: từ AI trồng cà phê đến máy bán thực phẩm thông minh",
@@ -453,6 +603,126 @@ window.newsData_2026_08_20 = {
       "fetched": "2026-08-20T15:33:05.798709+07:00"
     },
     {
+      "id": "c639eb766168bb9d06a5f21a8c84c842",
+      "title": "4 thói quen bảo mật quen thuộc nay đã lỗi thời và không còn an toàn",
+      "link": "https://thanhnien.vn/4-thoi-quen-bao-mat-quen-thuoc-nay-da-loi-thoi-va-khong-con-an-toan-185260816152022553.htm",
+      "summary": "Ngừng ngay 4 thói quen thiết lập bảo mật dưới này trước khi tài khoản bị tấn công.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T14:28:00+07:00",
+      "fetched": "2026-08-20T21:32:03.879878+07:00"
+    },
+    {
+      "id": "31269caa430fb1e63d01fb754f958f79",
+      "title": "Tăng cường phối hợp giữa Quốc hội, Chính phủ với Mặt trận Tổ quốc Việt Nam",
+      "link": "https://thanhnien.vn/tang-cuong-phoi-hop-giua-quoc-hoi-chinh-phu-voi-mat-tran-to-quoc-viet-nam-185260820203700003.htm",
+      "summary": "Bà Hà Thị Nga cho biết khối Mặt trận có 39 đại biểu Quốc hội khóa XVI. Đây là điều kiện và cơ hội để Mặt trận đưa tiếng nói, tâm tư nguyện vọng chính đáng của các tầng lớp nhân dân đến với nghị trường Quốc hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T14:26:00+07:00",
+      "fetched": "2026-08-20T21:32:03.880029+07:00"
+    },
+    {
+      "id": "eded98feb3f6a5d505522eee48288e72",
+      "title": "Việt Nam là một trong những đối tác quan trọng hàng đầu của Philippines",
+      "link": "https://thanhnien.vn/viet-nam-la-mot-trong-nhung-doi-tac-quan-trong-hang-dau-cua-philippines-185260820210136672.htm",
+      "summary": "Sáng 20.8, Tổng Bí thư, Chủ tịch nước Tô Lâm đã tiếp đoàn đại biểu cấp cao Hội đồng An ninh quốc gia Philippines do Cố vấn Eduardo SL Oban Jr dẫn đầu, đang thăm và làm việc tại Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T14:18:00+07:00",
+      "fetched": "2026-08-20T21:32:03.880159+07:00"
+    },
+    {
+      "id": "d7331b32de1ff1b73e5a6a12f6ef9010",
+      "title": "Chống hình thức, gian lận học thuật, ngại tranh luận, né tránh vấn đề khó",
+      "link": "https://thanhnien.vn/chong-hinh-thuc-gian-lan-hoc-thuat-ngai-tranh-luan-ne-tranh-van-de-kho-185260820204126753.htm",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm nhấn mạnh, Học viện Chính trị quốc gia Hồ Chí Minh phải là hình mẫu về xây dựng Đảng, kỷ luật, liêm chính học thuật, đạo đức công vụ, sử dụng nguồn lực công, trách nhiệm giải trình; chống hình thức, gian lận học thuật, ngại tranh luận, né tránh vấn đề khó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T14:12:00+07:00",
+      "fetched": "2026-08-20T21:32:03.880284+07:00"
+    },
+    {
+      "id": "12400787bec91a6e2f18e2e7ac783997",
+      "title": "Hơn 20 cuộc điện thoại bóp méo sự thật vụ 'nữ sinh tử vong ở Vĩnh Long'",
+      "link": "https://thanhnien.vn/hon-20-cuoc-dien-thoai-bop-meo-su-that-vu-nu-sinh-tu-vong-o-vinh-long-18526082020402501.htm",
+      "summary": "Quá trình giải quyết vụ Nguyễn Văn Bảo Trung gây tai nạn cho nữ sinh, cựu Phó thủ trưởng Cơ quan CSĐT Công an huyện Trà Ôn và người thân của Trung đã có hơn 20 cuộc gọi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T14:02:00+07:00",
+      "fetched": "2026-08-20T21:32:03.880410+07:00"
+    },
+    {
+      "id": "7dc1285de2cac83fc5d55de4f090c8aa",
+      "title": "Xếp hàng dài mua sách giáo khoa nhưng không mua được, nhà xuất bản nói gì?",
+      "link": "https://thanhnien.vn/xep-hang-dai-mua-sach-giao-khoa-nhung-khong-mua-duoc-nha-xuat-ban-noi-gi-185260820192022916.htm",
+      "summary": "Nhiều nhà sách giáo dục tại TP.HCM hôm nay và nhiều ngày qua đều chứng kiến số người đổ về mua sách giáo khoa đông gấp nhiều lần ngày thường. Nhiều thời điểm người mua xếp hàng dài nhưng cũng không mua được cuốn đang cần vì hết sách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T13:56:00+07:00",
+      "fetched": "2026-08-20T21:32:03.880533+07:00"
+    },
+    {
+      "id": "b0599d2419359fc15bba9f270e3d44b2",
+      "title": "Một tỷ đồng mỗi m2 căn hộ 'siêu sang' tại TP HCM",
+      "link": "https://vnexpress.net/mot-ty-dong-moi-m2-can-ho-sieu-sang-tai-tp-hcm-5111446.html",
+      "summary": "Phân khúc căn hộ 'siêu sang' tại TP HCM đã tiệm cận mức trung bình 470 triệu đồng mỗi m2 và cao nhất lên đến một tỷ đồng, theo chuyên gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T13:45:08+07:00",
+      "fetched": "2026-08-20T21:32:00.516947+07:00"
+    },
+    {
+      "id": "5233eb9f7dcbad3c5ec89c9f0eed0d31",
+      "title": "Đề xuất cơ chế với dự án đô thị lấn biển từ 100.000 tỉ đồng",
+      "link": "https://thanhnien.vn/de-xuat-co-che-voi-du-an-do-thi-lan-bien-tu-100000-ti-dong-185260820201416856.htm",
+      "summary": "Chính phủ đề xuất áp dụng cơ chế, chính sách với dự án xây dựng khu đô thị lấn biển quy mô từ 100.000 tỉ đồng, nhằm tạo nguồn lực phát triển mới, xây dựng Việt Nam thành quốc gia biển mạnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T13:44:00+07:00",
+      "fetched": "2026-08-20T21:32:03.880664+07:00"
+    },
+    {
+      "id": "b7d5dabe21ab7f929d9b862be5c24933",
+      "title": "Cô gái gen Z hát nhạc cách mạng 'gây sốt' là ai?",
+      "link": "https://thanhnien.vn/co-gai-gen-z-hat-nhac-cach-mang-gay-sot-la-ai-185260820185146193.htm",
+      "summary": "Chăm chỉ ra mắt các sản phẩm mới trên YouTube, Phương Tuệ Trinh mong muốn đưa dòng nhạc cách mạng đến gần hơn với khán giả trẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T13:43:00+07:00",
+      "fetched": "2026-08-20T21:32:03.880806+07:00"
+    },
+    {
+      "id": "81c4dadf06af6ece658e60907d4eec03",
+      "title": "Mưa lớn gây sạt lở, đe dọa hàng chục hộ dân ở Quảng Ngãi",
+      "link": "https://thanhnien.vn/mua-lon-gay-sat-lo-de-doa-hang-chuc-ho-dan-o-quang-ngai-185260820200907262.htm",
+      "summary": "Mưa lớn kèm gió mạnh khiến nhiều khu vực miền núi Quảng Ngãi xảy ra sạt lở, nhà dân bị hư hỏng, nhiều tuyến đường bị đất đá vùi lấp. Tại xã Măng Ri, 28 hộ dân đang đối mặt nguy cơ mất an toàn do sạt lở tái diễn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T13:42:00+07:00",
+      "fetched": "2026-08-20T21:32:03.880935+07:00"
+    },
+    {
+      "id": "00f79311edd9d8729cd034f4d8539fc1",
+      "title": "5 mẫu smartphone LG khiến người dùng tiếc nuối",
+      "link": "https://thanhnien.vn/5-mau-smartphone-lg-khien-nguoi-dung-tiec-nuoi-185260820150426657.htm",
+      "summary": "Từ màn hình xoay, hai màn hình đến pin tháo rời, những smartphone LG này vẫn khiến người dùng tiếc nuối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T13:41:00+07:00",
+      "fetched": "2026-08-20T21:32:03.881083+07:00"
+    },
+    {
+      "id": "f4acd312188ffb3eefa7dedd6a35ca56",
+      "title": "Cựu thứ trưởng nhận hơn 16 tỉ, luật sư nói do 'thụ động', doanh nghiệp tự nguyện",
+      "link": "https://thanhnien.vn/cuu-thu-truong-nhan-hon-16-ti-luat-su-noi-do-thu-dong-doanh-nghiep-tu-nguyen-18526082020192471.htm",
+      "summary": "Bào chữa cho cựu Thứ trưởng Nguyễn Bá Hoan trước cáo buộc nhận hối lộ hơn 16 tỉ đồng, luật sư cho rằng thân chủ nhận tiền 'thụ động', do sự tự nguyện tiếp cận từ các doanh nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T13:40:00+07:00",
+      "fetched": "2026-08-20T21:32:03.881267+07:00"
+    },
+    {
       "id": "6cc91c7814a00631a5e9a2963862eceb",
       "title": "Bắc Ninh chưa có chủ trương sáp nhập 99 xã, phường thành 34 đơn vị",
       "link": "https://tuoitre.vn/bac-ninh-chua-co-chu-truong-sap-nhap-99-xa-phuong-thanh-34-don-vi-100260820112027692.htm",
@@ -601,6 +871,146 @@ window.newsData_2026_08_20 = {
       "category": "Tổng hợp",
       "published": "2026-08-20T13:39:01.259407+07:00",
       "fetched": "2026-08-20T13:39:01.259549+07:00"
+    },
+    {
+      "id": "bb93f24bcd5c260dde25ce05aaa5c9d3",
+      "title": "CĐV Việt Nam đã săn sạch vé ở Rajamangala, sẵn sàng tiếp lửa thầy trò ông Kim đánh bại Thái Lan",
+      "link": "https://thanhnien.vn/cdv-viet-nam-da-san-sach-ve-o-rajamangala-san-sang-tiep-lua-thay-tro-ong-kim-danh-bai-thai-lan-185260820203037588.htm",
+      "summary": "Không chỉ gây ấn tượng bằng màn trình diễn trên sân cỏ, người hâm mộ Việt Nam còn tạo dấu ấn mạnh mẽ trước thềm trận chung kết lượt đi ASEAN Cup 2026 khi nhanh chóng mua hết số vé được dành riêng tại sân Rajamangala.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T13:39:00+07:00",
+      "fetched": "2026-08-20T21:32:03.881396+07:00"
+    },
+    {
+      "id": "e1f81df82d825dc771884a2098b49a46",
+      "title": "Giữ tình làng nghĩa xóm để tháo gỡ tranh chấp lối đi tại Suối Dầu",
+      "link": "https://thanhnien.vn/giu-tinh-lang-nghia-xom-de-thao-go-tranh-chap-loi-di-tai-suoi-dau-185260820180309039.htm",
+      "summary": "Cần lối đi để vận chuyển nông sản, một hộ dân đã xâm phạm đất đai, tài sản hộ kế cạnh tại xã Suối Dầu (tỉnh Khánh Hòa).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T13:38:00+07:00",
+      "fetched": "2026-08-20T21:32:03.881514+07:00"
+    },
+    {
+      "id": "1fd8b7352eb5385df548d22ec05d0806",
+      "title": "Thời trẻ của Thu Hà 'Lá ngọc cành vàng'",
+      "link": "https://vnexpress.net/thoi-tre-cua-thu-ha-la-ngoc-canh-vang-5111110.html",
+      "summary": "Nghệ sĩ Thu Hà, nổi tiếng qua phim \"Lá ngọc cành vàng\", từng xuất hiện dày đặc trên màn ảnh, bìa báo và ảnh lịch thập niên 1990.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T13:35:18+07:00",
+      "fetched": "2026-08-20T21:32:00.517114+07:00"
+    },
+    {
+      "id": "929b62c0312dd4aee78d4ddcb67a21e3",
+      "title": "Triều Tiên phóng cùng lúc 10 tên lửa đạn đạo giữa lúc Mỹ - Hàn tập trận",
+      "link": "https://vnexpress.net/trieu-tien-phong-cung-luc-10-ten-lua-dan-dao-giua-luc-my-han-tap-tran-5111454.html",
+      "summary": "Seoul cho biết Bình Nhưỡng đã phóng hơn 10 tên lửa đạn đạo ra biển, trong lúc Hàn Quốc và Mỹ đang tập trận chung.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T13:34:29+07:00",
+      "fetched": "2026-08-20T21:32:00.517257+07:00"
+    },
+    {
+      "id": "929b62c0312dd4aee78d4ddcb67a21e3",
+      "title": "Triều Tiên phóng cùng lúc 10 tên lửa đạn đạo giữa lúc Mỹ - Hàn tập trận",
+      "link": "https://vnexpress.net/trieu-tien-phong-cung-luc-10-ten-lua-dan-dao-giua-luc-my-han-tap-tran-5111454.html",
+      "summary": "Seoul cho biết Bình Nhưỡng đã phóng hơn 10 tên lửa đạn đạo ra biển, trong lúc Hàn Quốc và Mỹ đang tập trận chung.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-20T13:34:29+07:00",
+      "fetched": "2026-08-20T21:32:08.018222+07:00"
+    },
+    {
+      "id": "c113ae7b55ae2b17cd911aa5abb64c85",
+      "title": "Chùa nào nổi tiếng tục 'đánh kẻ tiểu nhân'?",
+      "link": "https://vnexpress.net/chua-nao-noi-tieng-tuc-danh-ke-tieu-nhan-5111408.html",
+      "summary": "Ngôi chùa cổ gần 300 năm là điểm đến quen thuộc của cộng đồng người Hoa và nổi tiếng với tục \"đánh kẻ tiểu nhân\" để xua đuổi điều xấu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T13:33:27+07:00",
+      "fetched": "2026-08-20T21:32:00.517393+07:00"
+    },
+    {
+      "id": "544824572c03fbf7a5baf7de69cf01ed",
+      "title": "Tên nước Đông Nam Á nào có nghĩa 'vùng đất của sự tự do'?",
+      "link": "https://vnexpress.net/ten-nuoc-dong-nam-a-nao-co-nghia-vung-dat-cua-su-tu-do-5111450.html",
+      "summary": "Tên quốc gia này trong ngôn ngữ của họ có nghĩa là \"vùng đất của sự tự do\". Bạn có biết đó là quốc gia nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T13:25:13+07:00",
+      "fetched": "2026-08-20T21:32:00.517526+07:00"
+    },
+    {
+      "id": "64597f26f6de5ecd50263f445aef8e27",
+      "title": "Ca sĩ Hồ Như Ý thay đổi ra sao sau 'Solo cùng bolero'?",
+      "link": "https://thanhnien.vn/ca-si-ho-nhu-y-thay-doi-ra-sao-sau-solo-cung-bolero-185260820194309854.htm",
+      "summary": "Sau 'Solo cùng bolero', Hồ Như Ý chăm chỉ với các hoạt động nghệ thuật. Bên cạnh đó, cô còn duy trì các dự án thiện nguyện theo tâm nguyện của đấng sinh thành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T13:22:00+07:00",
+      "fetched": "2026-08-20T21:32:03.881629+07:00"
+    },
+    {
+      "id": "0ec1faefed623202142f9f6fe62e60de",
+      "title": "Sách giáo khoa không thiếu, vì sao phụ huynh vẫn phải xếp hàng để mua?",
+      "link": "https://thanhnien.vn/sach-giao-khoa-khong-thieu-vi-sao-phu-huynh-van-phai-xep-hang-de-mua-185260820192750188.htm",
+      "summary": "Hàng dài phụ huynh xếp hàng mua sách giáo khoa đang diễn ra tại một số điểm bán ở TP.HCM, trong khi Nhà xuất bản Giáo dục Việt Nam khẳng định nguồn cung cơ bản đáp ứng nhu cầu và đang tiếp tục bổ sung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T13:21:00+07:00",
+      "fetched": "2026-08-20T21:32:03.881748+07:00"
+    },
+    {
+      "id": "e9f363f82a3705af7a1e6fb1cbfc749c",
+      "title": "MC Diệp Chi chọn ghế massage hỗ trợ trị liệu tặng bố",
+      "link": "https://vnexpress.net/mc-diep-chi-chon-ghe-massage-ho-tro-tri-lieu-tang-bo-5110840.html",
+      "summary": "Nữ MC chọn thương hiệu ghế massage Family Inada iFiT Pro hỗ trợ trị liệu chuyên sâu, có khả năng tác động đến những vùng cơ thường xuyên chịu áp lực để tặng bố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T13:00:00+07:00",
+      "fetched": "2026-08-20T21:32:00.517658+07:00"
+    },
+    {
+      "id": "e968cb0683a24897ab6a1d11eeb9259a",
+      "title": "Messi vỗ đầu đối thủ 16 tuổi ở MLS",
+      "link": "https://vnexpress.net/messi-vo-dau-doi-thu-16-tuoi-o-mls-5111456.html",
+      "summary": "Lionel Messi bị xem xét kỷ luật sau khi vỗ vào đầu Cavan Sullivan trong màn xô xát cuối trận Inter Miami hòa Philadelphia Union 2-2 ở MLS.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T12:52:54+07:00",
+      "fetched": "2026-08-20T21:32:00.517822+07:00"
+    },
+    {
+      "id": "e968cb0683a24897ab6a1d11eeb9259a",
+      "title": "Messi vỗ đầu đối thủ 16 tuổi ở MLS",
+      "link": "https://vnexpress.net/messi-vo-dau-doi-thu-16-tuoi-o-mls-5111456.html",
+      "summary": "Lionel Messi bị xem xét kỷ luật sau khi vỗ vào đầu Cavan Sullivan trong màn xô xát cuối trận Inter Miami hòa Philadelphia Union 2-2 ở MLS.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-20T12:52:54+07:00",
+      "fetched": "2026-08-20T21:32:14.116093+07:00"
+    },
+    {
+      "id": "8bff8efbdc45b4e84d18072b57a86753",
+      "title": "Giông lốc tốc mái nhà, quật ngã cây đè người đi đường ở Lâm Đồng, Đăk Lăk",
+      "link": "https://vnexpress.net/giong-loc-toc-mai-nha-quat-nga-cay-de-nguoi-di-duong-o-lam-dong-dak-lak-5111457.html",
+      "summary": "Giông lốc chiều 20/8 làm hàng chục nhà dân tốc mái, cây xanh ngã đổ đè người đi đường tại Lâm Đồng, Đăk Lăk.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T12:50:42+07:00",
+      "fetched": "2026-08-20T21:32:00.517971+07:00"
+    },
+    {
+      "id": "52b1d6f08dad40318c2eef16d85c66b8",
+      "title": "Ca sĩ Chi Dân thừa nhận khởi xướng sử dụng ma túy",
+      "link": "https://vnexpress.net/ca-si-chi-dan-thua-nhan-khoi-xuong-su-dung-ma-tuy-5111431.html",
+      "summary": "Khai tại tòa, Nguyễn Trung Hiếu, tức ca sĩ Chi Dân thừa nhận hành vi phạm tội như nêu trong cáo trạng và nhận là người khởi xướng, rủ bạn tổ chức sử dụng ma túy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-20T12:42:47+07:00",
+      "fetched": "2026-08-20T21:32:00.518134+07:00"
     },
     {
       "id": "da1d7cff435df6ac8eda5fd010ea5f9e",
