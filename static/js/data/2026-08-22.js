@@ -1,7 +1,27 @@
 window.newsData_2026_08_22 = {
   "date": "2026-08-22",
-  "lastUpdated": "2026-08-22T01:31:26.840943+07:00",
+  "lastUpdated": "2026-08-22T03:21:19.450826+07:00",
   "articles": [
+    {
+      "id": "5b6b1508aee2796d3e98b751f21468e4",
+      "title": "Giá vàng thế giới tăng không ngừng, vượt xa 4.600 USD/ounce",
+      "link": "https://tuoitre.vn/gia-vang-the-gioi-tang-khong-ngung-vuot-xa-4600-usd-ounce-100260822001501667.htm",
+      "summary": "Chỉ 24 giờ qua, giá vàng thế giới đã tăng 300 USD/ounce, tương đương 9,5 triệu đồng/lượng và chạm mốc 4.631 USD/ounce lúc 0h hôm nay, 22-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T03:21:11.429911+07:00",
+      "fetched": "2026-08-22T03:21:11.430204+07:00"
+    },
+    {
+      "id": "09dae44913587a496e090f68f2f4e6dd",
+      "title": "Công an xuất hiện tại nhà Hải Sapa TV trong đêm",
+      "link": "https://tuoitre.vn/cong-an-xuat-hien-tai-nha-hai-sapa-tv-trong-dem-100260811100720682.htm",
+      "summary": "Công an và kiểm sát viên xuất hiện tại nhà riêng của ông Vũ Hoàng Hải (tức Hải Sapa TV, 40 tuổi) ở số 51-51 đường D1, Lạc Long Quân, phường Lào Cai, tỉnh Lào Cai trong đêm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T03:21:11.429765+07:00",
+      "fetched": "2026-08-22T03:21:11.429902+07:00"
+    },
     {
       "id": "df7f97af720ba04d9ecb885da0946955",
       "title": "Người dân châu Âu tăng cường trữ tiền mặt",
@@ -153,6 +173,16 @@ window.newsData_2026_08_22 = {
       "fetched": "2026-08-22T01:31:19.192251+07:00"
     },
     {
+      "id": "348b1b6db23f7b6a4e50d09a99cffc7f",
+      "title": "Vì sao càng gần sáng càng dễ tỉnh giấc?",
+      "link": "https://vnexpress.net/vi-sao-cang-gan-sang-cang-de-tinh-giac-5111301.html",
+      "summary": "Càng gần sáng, giấc ngủ càng nông, thời gian ngủ sâu giảm và cơ thể dần chuyển sang trạng thái tỉnh táo, khiến nhiều người dễ thức giấc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T19:00:00+07:00",
+      "fetched": "2026-08-22T03:21:06.477897+07:00"
+    },
+    {
       "id": "159830a7f95aeb0e85a54049054853ad",
       "title": "Chủ động làm xét nghiệm này, nguy cơ tử vong do ung thư giảm 43%",
       "link": "https://thanhnien.vn/chu-dong-lam-xet-nghiem-nay-nguy-co-tu-vong-do-ung-thu-giam-43-185260821214035188.htm",
@@ -181,6 +211,16 @@ window.newsData_2026_08_22 = {
       "category": "Thế giới",
       "published": "2026-08-21T18:00:00+07:00",
       "fetched": "2026-08-22T01:31:21.062593+07:00"
+    },
+    {
+      "id": "ca978c2830e3188ebe57f58bd6c96226",
+      "title": "6 thói quen khiến bạn dễ ốm",
+      "link": "https://vnexpress.net/6-thoi-quen-khien-ban-de-om-5107664.html",
+      "summary": "Ăn khuya và ăn nhiều thịt chế biến sẵn chứa chất bảo quản, dễ dẫn đến rối loạn chuyển hóa, tích tụ mỡ gây viêm, khiến hệ miễn dịch suy giảm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T18:00:00+07:00",
+      "fetched": "2026-08-22T03:21:06.478109+07:00"
     },
     {
       "id": "27479932d6ad73f38795a1ce3489a010",
