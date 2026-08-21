@@ -1,7 +1,157 @@
 window.newsData_2026_08_21 = {
   "date": "2026-08-21",
-  "lastUpdated": "2026-08-21T11:33:50.741164+07:00",
+  "lastUpdated": "2026-08-21T13:39:27.537674+07:00",
   "articles": [
+    {
+      "id": "ac3e8078f1ec3d80f9e5bf67c31f1f58",
+      "title": "Làm sao ngăn drone, diều uy hiếp sân bay nằm giữa đô thị đông đúc?",
+      "link": "https://tuoitre.vn/lam-sao-ngan-drone-dieu-uy-hiep-san-bay-nam-giua-do-thi-dong-duc-100260821111222343.htm",
+      "summary": "Drone được bay ở đâu, ai quản người sử dụng, các sân bay trong đô thị cần mua thiết bị gì để phát hiện từ xa và lực lượng nào xử lý khi vật thể xâm nhập? Từ công nghệ đến pháp lý, hàng loạt câu hỏi nóng về vùng trời quanh sân bay cần được giải đáp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T13:39:21.791980+07:00",
+      "fetched": "2026-08-21T13:39:21.792030+07:00"
+    },
+    {
+      "id": "faf205182b59eabd92855508d31e3076",
+      "title": "Đèo Gia Bắc còn ngổn ngang đất đá, hạn chế xe qua lại",
+      "link": "https://tuoitre.vn/deo-gia-bac-con-ngon-ngang-dat-da-han-che-xe-qua-lai-100260821105632709.htm",
+      "summary": "Các điểm sạt lở từ cuối năm trước trên đèo Gia Bắc, quốc lộ 28, xã Sơn Điền, tỉnh Lâm Đồng vẫn chưa khắc phục xong. Địa phương khuyến cáo xe cộ không chạy qua lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T13:39:21.791919+07:00",
+      "fetched": "2026-08-21T13:39:21.791970+07:00"
+    },
+    {
+      "id": "1bb19350bcc0b6384149674c25c29113",
+      "title": "Cựu Bộ trưởng Quốc phòng Ukraine chưa đe dọa được ông Zelensky",
+      "link": "https://tuoitre.vn/cuu-bo-truong-quoc-phong-ukraine-chua-de-doa-duoc-ong-zelensky-10026082111283095.htm",
+      "summary": "Lời kêu gọi tổ chức bầu cử giữa thời chiến của ông Mykhailo Fedorov dường như đang phản tác dụng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T13:39:21.791863+07:00",
+      "fetched": "2026-08-21T13:39:21.791911+07:00"
+    },
+    {
+      "id": "06258493f5902616b82d69c6e37d771f",
+      "title": "Rắc rối từ chuyện xin mở đường đi vào rẫy khai thác lâm sản",
+      "link": "https://tuoitre.vn/rac-roi-tu-chuyen-xin-mo-duong-di-vao-ray-khai-thac-lam-san-100260820182919007.htm",
+      "summary": "Một người dân ở TP.HCM gửi đơn kêu cứu vì bỗng nhiên bị phá hoại đất đai, cây trồng bị nhổ bỏ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T13:39:21.791806+07:00",
+      "fetched": "2026-08-21T13:39:21.791855+07:00"
+    },
+    {
+      "id": "7c2b305efd923723c43979acdc5cafc5",
+      "title": "Ông chú Nhật Bản và hai chú mèo 'khó ở' gây sốt",
+      "link": "https://tuoitre.vn/ong-chu-nhat-ban-va-hai-chu-meo-kho-o-gay-sot-100260821112316507.htm",
+      "summary": "Sự đối lập thú vị giữa nụ cười tươi tắn của người chủ và gương mặt nghiêm nghị, bất đắc dĩ của các 'boss' mèo đang gây sốt trên mạng xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T13:39:21.791748+07:00",
+      "fetched": "2026-08-21T13:39:21.791797+07:00"
+    },
+    {
+      "id": "46bef6b9f58a51d1fbdf97b16989d447",
+      "title": "Tham ô tài sản công ty, đã bồi thường đủ, 2 bị cáo vẫn lãnh án 24 năm tù",
+      "link": "https://tuoitre.vn/tham-o-tai-san-cong-ty-da-boi-thuong-du-2-bi-cao-van-lanh-an-24-nam-tu-100260821112908799.htm",
+      "summary": "Đại là quản lý vùng của công ty đã bàn với thủ kho nhiều lần lấy hàng là thức ăn cho heo ra ngoài bán với tổng khối tượng hơn 86 tấn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T13:39:21.791689+07:00",
+      "fetched": "2026-08-21T13:39:21.791739+07:00"
+    },
+    {
+      "id": "a1ad49b9d6894bc4a66f75a2d9dede7e",
+      "title": "Hà Nội dự kiến xét tuyển vào lớp 10 thay vì thi tuyển",
+      "link": "https://tuoitre.vn/ha-noi-du-kien-xet-tuyen-vao-lop-10-thay-vi-thi-tuyen-100260821105252955.htm",
+      "summary": "Với cấp THCS, Hà Nội sẽ đánh giá kết quả thường xuyên và xác thực kết quả để tiến tới xét vào lớp 10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T13:39:21.791630+07:00",
+      "fetched": "2026-08-21T13:39:21.791680+07:00"
+    },
+    {
+      "id": "08c8c7b37976c4c33ed1177d26755614",
+      "title": "Thông xe nhánh cầu vượt từ Đồng Văn Cống đi nút giao An Phú TP.HCM",
+      "link": "https://tuoitre.vn/thong-xe-nhanh-cau-vuot-tu-dong-van-cong-di-nut-giao-an-phu-tphcm-100260821114853087.htm",
+      "summary": "TP.HCM đã thông xe nhánh cầu trái cầu Giồng Ông Tố và nhánh cầu N4 (thuộc nút giao An Phú) từ sáng 21-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T13:39:21.791561+07:00",
+      "fetched": "2026-08-21T13:39:21.791620+07:00"
+    },
+    {
+      "id": "d22658bd9c16248655bd927af166523d",
+      "title": "Đà Nẵng công bố 219 tiêu chí cho cơ sở lưu trú du lịch xanh",
+      "link": "https://tuoitre.vn/da-nang-cong-bo-219-tieu-chi-cho-co-so-luu-tru-du-lich-xanh-100260821112938899.htm",
+      "summary": "Việc tự nguyện áp dụng Da Nang Green Stay giúp cơ sở lưu trú tối ưu vận hành, tiết kiệm điện, nước, giảm chất thải, nâng cao chất lượng dịch vụ và hình ảnh thương hiệu, đồng thời tăng khả năng tiếp cận nhóm du khách quan tâm đến du lịch có trách nhiệm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T13:39:21.791502+07:00",
+      "fetched": "2026-08-21T13:39:21.791552+07:00"
+    },
+    {
+      "id": "21165b7fa1d2883e8309ea00b691ecf0",
+      "title": "Những định nghĩa lấm lem bụi phố",
+      "link": "https://tuoitre.vn/nhung-dinh-nghia-lam-lem-bui-pho-100260820211706158.htm",
+      "summary": "Xe lội ngang vũng nước đục ngầu, ống pô lụp bụp mấy tiếng rồi tắt lịm. Đầu xe ngoặt mạnh. Tôi chống vội mũi giày xuống mặt nhựa đường sũng nước. Chết máy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T13:39:21.791445+07:00",
+      "fetched": "2026-08-21T13:39:21.791494+07:00"
+    },
+    {
+      "id": "80068ced39fe5c7cf35743ca2d39a99f",
+      "title": "AI sẽ điều khiển đường bay để máy bay tránh ‘vệt trắng’ gây nóng Trái đất?",
+      "link": "https://tuoitre.vn/ai-se-dieu-khien-duong-bay-de-may-bay-tranh-vet-trang-gay-nong-trai-dat-100260821112733609.htm",
+      "summary": "Một thử nghiệm quy mô lớn tại Anh sử dụng trí tuệ nhân tạo (AI) giúp máy bay thay đổi đường bay, qua đó hạn chế hình thành những vệt ngưng tụ - dấu hiệu quen thuộc của hoạt động hàng không song cũng góp phần làm Trái đất nóng lên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T13:39:21.791386+07:00",
+      "fetched": "2026-08-21T13:39:21.791436+07:00"
+    },
+    {
+      "id": "16881e7c7620ea0475070297acbd520f",
+      "title": "Nhiều bãi xe container vẫn hoạt động sai quy định trên đường Võ Chí Công",
+      "link": "https://tuoitre.vn/nhieu-bai-xe-container-van-hoat-dong-sai-quy-dinh-tren-duong-vo-chi-cong-100260821111603419.htm",
+      "summary": "Sau khi dải phân cách trên đường Võ Chí Công được lắp nhằm đóng kết nối với bãi container tự phát, chủ bãi 'xin' tạm tháo dỡ 15 ngày để di dời thùng container, thiết bị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T13:39:21.791327+07:00",
+      "fetched": "2026-08-21T13:39:21.791377+07:00"
+    },
+    {
+      "id": "3eaef8a0fe00d3d23df7c843a9e2b4cd",
+      "title": "Lisa BlackPink táo bạo trong bộ ảnh mới",
+      "link": "https://tuoitre.vn/lisa-blackpink-tao-bao-trong-bo-anh-moi-100260821105023545.htm",
+      "summary": "Lisa (BlackPink) gây sốt với tạo hình cá tính, quyến rũ trong loạt ảnh mới của Vouge Korea. Tại đây, cô có chia sẻ hiếm hoi về hành trình mở rộng hoạt động tại Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T13:39:21.791265+07:00",
+      "fetched": "2026-08-21T13:39:21.791317+07:00"
+    },
+    {
+      "id": "2c2f1b9e069a7b12514cba51d0986f31",
+      "title": "Kiến nghị miễn, giảm giá dịch vụ đường bộ cho dân sống gần Trạm thu phí BOT Quang Đức",
+      "link": "https://tuoitre.vn/kien-nghi-mien-giam-gia-dich-vu-duong-bo-cho-dan-song-gan-tram-thu-phi-bot-quang-duc-100260821102626294.htm",
+      "summary": "Ngày 21-8, HĐND tỉnh Đắk Lắk cho hay đã có văn bản gửi Ủy ban Thường vụ Quốc hội về việc kiến nghị xem xét miễn, giảm giá dịch vụ sử dụng đường bộ tại Trạm thu phí BOT Quang Đức, phường Cư Bao, Đắk Lắk.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T13:39:21.791196+07:00",
+      "fetched": "2026-08-21T13:39:21.791256+07:00"
+    },
+    {
+      "id": "569405ae39a3a8024ad68a9f3679fc02",
+      "title": "Giám đốc Sở Y tế TP.HCM biểu dương ê-kíp nối đôi chân gần đứt lìa tại Bệnh viện Đa khoa Bà Rịa",
+      "link": "https://tuoitre.vn/giam-doc-so-y-te-tphcm-bieu-duong-e-kip-noi-doi-chan-gan-dut-lia-tai-benh-vien-da-khoa-ba-ria-100260821095733584.htm",
+      "summary": "Các y, bác sĩ Bệnh viện Đa khoa Bà Rịa nối thành công đôi chân gần đứt lìa cho bệnh nhân 59 tuổi bị tai nạn lao động được Giám đốc Sở y tế Tăng Chí Thượng biểu dương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T13:39:21.791056+07:00",
+      "fetched": "2026-08-21T13:39:21.791183+07:00"
+    },
     {
       "id": "ec7514907572d81fa40bd479cce72a95",
       "title": "Đắk Lắk mong muốn tư nhân đầu tư phòng kiểm nghiệm sầu riêng",
@@ -403,6 +553,336 @@ window.newsData_2026_08_21 = {
       "fetched": "2026-08-21T08:04:59.844221+07:00"
     },
     {
+      "id": "1e2176983536eb6592e8e642bdcdc6a1",
+      "title": "Mẹo biến một ổ USB thành nhiều 'kho lưu trữ' độc lập",
+      "link": "https://thanhnien.vn/meo-bien-mot-o-usb-thanh-nhieu-kho-luu-tru-doc-lap-185260821113342853.htm",
+      "summary": "Thay vì để dữ liệu lộn xộn trong một thư mục lớn, việc phân vùng USB giúp người dùng tối ưu hóa không gian và quản lý tệp chuyên nghiệp hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T06:29:00+07:00",
+      "fetched": "2026-08-21T13:39:20.326155+07:00"
+    },
+    {
+      "id": "d8242625518094eda016d20f29494432",
+      "title": "Hành trình 'Tôi yêu Tổ quốc tôi' tri ân chiến sĩ Gạc Ma",
+      "link": "https://thanhnien.vn/hanh-trinh-toi-yeu-to-quoc-toi-tri-an-chien-si-gac-ma-185260821104055872.htm",
+      "summary": "Tại chặng 4 - Hành trình \"Tôi yêu Tổ quốc tôi\" năm 2026, sáng 21.8, hơn 700 hội viên, thanh niên về Khu tưởng niệm chiến sĩ Gạc Ma (Khánh Hòa) dâng hương, tri ân các liệt sĩ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T06:26:00+07:00",
+      "fetched": "2026-08-21T13:39:20.326310+07:00"
+    },
+    {
+      "id": "82e453252668e5b0dc53b43928c711fd",
+      "title": "Bắt giữ nghi phạm trộm 80 lượng vàng tại Vĩnh Long",
+      "link": "https://thanhnien.vn/bat-giu-nghi-pham-trom-80-luong-vang-tai-vinh-long-185260821110201807.htm",
+      "summary": "Trong quá trình tuần tra, lực lượng công an phát hiện và bắt giữ nghi phạm trộm 80 lượng vàng trị giá hơn 8 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T06:19:00+07:00",
+      "fetched": "2026-08-21T13:39:20.326450+07:00"
+    },
+    {
+      "id": "54a143b1a673e90f59e28527c6642bb0",
+      "title": "Dọc biển Nha Trang sẽ được trang bị máy khử rung tim tự động",
+      "link": "https://thanhnien.vn/doc-bien-nha-trang-se-duoc-trang-bi-may-khu-rung-tim-tu-dong-185260821113701946.htm",
+      "summary": "Khánh Hòa triển khai 80 máy khử rung tim tự động tại các vị trí trọng điểm, trong đó 25 máy đặt dọc bờ biển Nha Trang, nhằm rút ngắn thời gian vàng cấp cứu ngừng tim ngoài bệnh viện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T06:18:00+07:00",
+      "fetched": "2026-08-21T13:39:20.326579+07:00"
+    },
+    {
+      "id": "fa7a1e25dec53b8cddd5e6a4ac40bdde",
+      "title": "Công an tỉnh Quảng Ngãi khởi tố 2 người đổ chất thải rắn ra môi trường",
+      "link": "https://thanhnien.vn/cong-an-tinh-quang-ngai-khoi-to-2-nguoi-do-chat-thai-ran-ra-moi-truong-185260821114526611.htm",
+      "summary": "Đổ thải hơn 1.800 tấn chất thải rắn trực tiếp ra môi trường, phó giám đốc cùng nhân viên quản lý trạm trộn bê tông bị Cơ quan Cảnh sát điều tra Công an tỉnh Quảng Ngãi khởi tố về tội gây ô nhiễm môi trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T06:16:00+07:00",
+      "fetched": "2026-08-21T13:39:20.326705+07:00"
+    },
+    {
+      "id": "20284ec16c7a7031f82fb6f665f0de59",
+      "title": "Bạn thấy bao nhiêu con số trong bức ảnh?",
+      "link": "https://vnexpress.net/thu-thach-thi-giac-ban-thay-bao-nhieu-con-so-trong-buc-anh-5111676.html",
+      "summary": "Nhìn qua chỉ là người đàn ông đội mũ, nhưng bức phác họa này lại ẩn giấu hàng loạt con số. Bạn có đủ tinh mắt tìm ra tất cả?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T06:15:00+07:00",
+      "fetched": "2026-08-21T13:39:17.936195+07:00"
+    },
+    {
+      "id": "900e9db04eacdbf16901522e813606d7",
+      "title": "Tài xế ôtô kéo xe máy xoẹt lửa ở Phan Thiết bị phạt 2 năm tù",
+      "link": "https://vnexpress.net/tai-xe-oto-keo-xe-may-xoet-lua-o-phan-thiet-bi-phat-2-nam-tu-5111692.html",
+      "summary": "Phạm Quốc Huy, 34 tuổi, bị phạt 2 năm tù vì sau khi uống rượu bia đã vượt đèn đỏ, tông chết người rồi lái ôtô rời hiện trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T06:02:17+07:00",
+      "fetched": "2026-08-21T13:39:17.936360+07:00"
+    },
+    {
+      "id": "4000c0b1e7b07e2da4db95c45720940f",
+      "title": "'Bỏ Tiếng Anh thi vào lớp 10 rất thiệt thòi cho học sinh thành phố'",
+      "link": "https://vnexpress.net/tieng-anh-bo-tieng-anh-thi-vao-lop-10-rat-thiet-thoi-cho-hoc-sinh-thanh-pho-5111560.html",
+      "summary": "Nếu chỉ thi hai môn Toán, Văn kỳ thi vào lớp 10 thì liệu có công bằng với những học sinh thành phố tiếp cận Tiếng Anh từ rất sớm?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T06:00:00+07:00",
+      "fetched": "2026-08-21T13:39:17.936501+07:00"
+    },
+    {
+      "id": "f81a7cf52135927c543d3e30f9d93f3c",
+      "title": "Nhiệm vụ giải cứu kính viễn vọng NASA thất bại",
+      "link": "https://vnexpress.net/nhiem-vu-giai-cuu-kinh-vien-vong-nasa-that-bai-5111213.html",
+      "summary": "NASA hôm 19/8 thông báo dừng nỗ lực điều chỉnh quỹ đạo của Đài quan sát Neil Gehrels Swift đang rơi xuống Trái Đất sau khi tàu vũ trụ cứu hộ tư nhân gặp sự cố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T06:00:00+07:00",
+      "fetched": "2026-08-21T13:39:17.936641+07:00"
+    },
+    {
+      "id": "2725306653491773259e864e7409dd53",
+      "title": "Khách sạn Lotte Sài Gòn giới thiệu bộ sưu tập bánh trung thu 2026",
+      "link": "https://vnexpress.net/khach-san-lotte-sai-gon-gioi-thieu-bo-suu-tap-banh-trung-thu-2026-5111642.html",
+      "summary": "Bộ sưu tập bánh trung thu 2026 của Lotte Sài Gòn mang tên \"Thu phong nguyệt vị\" với hai phiên bản hộp, các nhân bánh chứa nhiều nguyên liệu cao cấp như sò điệp, vi cá.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T06:00:00+07:00",
+      "fetched": "2026-08-21T13:39:17.936776+07:00"
+    },
+    {
+      "id": "14cac9aba38da5e06d349ee3441ec3c2",
+      "title": "Lê Phong ký kết Anabuki Nhật Bản, nâng chuẩn bàn giao cao cấp The Emerald Garden View",
+      "link": "https://thanhnien.vn/le-phong-ky-ket-anabuki-nhat-ban-nang-chuan-ban-giao-cao-cap-the-emerald-garden-view-185260821115906989.htm",
+      "summary": "Ngày 20.8, tại Sales Gallery The Emerald Garden View, Tập đoàn Lê Phong chính thức ký kết cùng Anabuki Interior Design (Anabuki ID) - đơn vị thuộc hệ sinh thái Anabuki tại Việt Nam - triển khai giải pháp hoàn thiện và cung cấp nội thất cho dự án.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T06:00:00+07:00",
+      "fetched": "2026-08-21T13:39:20.326833+07:00"
+    },
+    {
+      "id": "f6aab8c77da893b1dd88d53240a028c4",
+      "title": "Diện đồ rực rỡ chuẩn mốt, đẹp rạng rỡ mà không lo bị 'lố'",
+      "link": "https://thanhnien.vn/thoi-trang-tre/dien-do-ruc-ro-chuan-mot-dep-rang-ro-ma-khong-lo-bi-lo-185260821085153294.htm",
+      "summary": "Khoác lên mình những trang phục rực rỡ không chỉ là cách đánh thức thị giác mà còn là bản tuyên ngôn của sự tự tin khi có thể làm chủ bảng màu mang lại vẻ đẹp rạng rỡ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T06:00:00+07:00",
+      "fetched": "2026-08-21T13:39:20.326964+07:00"
+    },
+    {
+      "id": "f81a7cf52135927c543d3e30f9d93f3c",
+      "title": "Nhiệm vụ giải cứu kính viễn vọng NASA thất bại",
+      "link": "https://vnexpress.net/nhiem-vu-giai-cuu-kinh-vien-vong-nasa-that-bai-5111213.html",
+      "summary": "NASA hôm 19/8 thông báo dừng nỗ lực điều chỉnh quỹ đạo của Đài quan sát Neil Gehrels Swift đang rơi xuống Trái Đất sau khi tàu vũ trụ cứu hộ tư nhân gặp sự cố.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-21T06:00:00+07:00",
+      "fetched": "2026-08-21T13:39:26.207252+07:00"
+    },
+    {
+      "id": "6f464e819250434ce46d3b2c8230b643",
+      "title": "Bị bắt quả tang khi trộm 80 lượng vàng",
+      "link": "https://vnexpress.net/bi-bat-qua-tang-khi-trom-80-luong-vang-5111694.html",
+      "summary": "Phan Thanh Tình 33 tuổi, bị cảnh sát bắt quả tang khi đang đột nhập tiệm vàng tại chợ Trường An, phường Long Châu, lấy 80 lượng vàng, trị giá khoảng 8 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T05:52:23+07:00",
+      "fetched": "2026-08-21T13:39:17.936908+07:00"
+    },
+    {
+      "id": "de844391ec458d3a05fad924c7bf4973",
+      "title": "Đại biểu đề nghị giữ quy định công chứng đất đai trong luật",
+      "link": "https://vnexpress.net/dai-bieu-de-nghi-giu-quy-dinh-cong-chung-dat-dai-trong-luat-5111645.html",
+      "summary": "Nhiều đại biểu đề nghị Luật Đất đai sửa đổi tiếp tục quy định bắt buộc công chứng hoặc chứng thực một số giao dịch quyền sử dụng đất, thay vì chuyển nội dung này xuống nghị định.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T05:48:18+07:00",
+      "fetched": "2026-08-21T13:39:17.937049+07:00"
+    },
+    {
+      "id": "e8e0cbba28a73df907259dac795bd296",
+      "title": "Nga điều máy bay hỗ trợ Serbia xử lý cháy rừng",
+      "link": "https://thanhnien.vn/nga-dieu-may-bay-ho-tro-serbia-xu-ly-chay-rung-185260821122556387.htm",
+      "summary": "Khi Serbia đang phải đối mặt với những vụ cháy rừng trong điều kiện nóng bức và khô hạn, Nga đã triển khai máy bay chuyên dụng để hỗ trợ chính quyền địa phương Serbia trong bối cảnh châu Âu đang thiếu hụt lực lượng cũng như vật tư cứu hộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T05:41:00+07:00",
+      "fetched": "2026-08-21T13:39:20.327103+07:00"
+    },
+    {
+      "id": "5e01ed908de97aaef1caf3aafab29d07",
+      "title": "Hà Tĩnh: 20 cán bộ quản lý tự nguyện xin thôi chức khi sắp xếp trường học",
+      "link": "https://thanhnien.vn/ha-tinh-20-can-bo-quan-ly-tu-nguyen-xin-thoi-chuc-khi-sap-xep-truong-hoc-185260821121652629.htm",
+      "summary": "Trong quá trình thực hiện sắp xếp lại hệ thống trường học tại Hà Tĩnh, đã có 20 hiệu trưởng, phó hiệu trưởng chủ động viết đơn xin thôi giữ chức vụ, sẵn sàng lùi lại để nhường cơ hội cho thế hệ trẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T05:41:00+07:00",
+      "fetched": "2026-08-21T13:39:20.327230+07:00"
+    },
+    {
+      "id": "b6eb48cd0914ef2fd60ca60498b0851d",
+      "title": "Công an tìm 50 phụ huynh 'chạy trường' bị lừa tiền",
+      "link": "https://vnexpress.net/cong-an-tim-50-phu-huynh-chay-truong-bi-lua-tien-5111671.html",
+      "summary": "Sau khi khởi tố Bùi Thị Hòa về hành vi lừa đảo \"chạy trường\", công an đang tìm 50 người đã giao tiền xin cho con vào học.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T05:39:51+07:00",
+      "fetched": "2026-08-21T13:39:17.937184+07:00"
+    },
+    {
+      "id": "3503d8a64b3a8429975dc859df3e41a5",
+      "title": "Vì sao Thủ tướng Israel leo thang căng thẳng với Thổ Nhĩ Kỳ?",
+      "link": "https://thanhnien.vn/vi-sao-thu-tuong-israel-leo-thang-cang-thang-voi-tho-nhi-ky-185260820161505275.htm",
+      "summary": "Trong khi xung đột tại Trung Đông vẫn chưa có tiến triển tích cực, Thủ tướng Israel Benjamin Netanyahu có ý định leo thang căng thẳng với Thổ Nhĩ Kỳ như một cách để tập hợp cử tri ủng hộ trước cuộc bầu cử tháng 10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T05:33:00+07:00",
+      "fetched": "2026-08-21T13:39:20.327362+07:00"
+    },
+    {
+      "id": "5bac98f5fd6f45009d75f1401182f817",
+      "title": "Mua ô tô 7 chỗ nhưng chủ yếu chỉ dùng 5 chỗ: Có thực sự lãng phí?",
+      "link": "https://thanhnien.vn/mua-o-to-7-cho-nhung-chu-yeu-chi-dung-5-cho-co-thuc-su-lang-phi-18526081911202735.htm",
+      "summary": "Không ít gia đình chỉ có 4 - 5 thành viên nhưng khi mua ô tô vẫn ưu tiên các mẫu SUV, crossover 7 chỗ hoặc MPV 5+2 chỗ ngồi; việc thường xuyên để trống hàng ghế thứ ba có phải là một sự lãng phí, hay đây lại là lựa chọn mang tính thực dụng của nhiều người Việt dùng ô tô?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T05:30:00+07:00",
+      "fetched": "2026-08-21T13:39:20.327487+07:00"
+    },
+    {
+      "id": "77eaebab83f0dfa531b5cc35eb3016b7",
+      "title": "Người phụ nữ họ Trương chi hơn 25 tỉ đồng để mua bộ kim cương của Trương Mỹ Lan",
+      "link": "https://thanhnien.vn/nguoi-phu-nu-ho-truong-chi-hon-25-ti-dong-de-mua-bo-kim-cuong-cua-truong-my-lan-185260821120005089.htm",
+      "summary": "Theo thông tin từ đơn vị tổ chức buổi đấu giá, chỉ có 1 người đăng ký và đủ điều kiện tham gia đấu giá 2 chiếc hoa tai gắn kim cương tự nhiên, đã thất lạc hóa đơn, của bị án Trương Mỹ Lan (70 tuổi, Chủ tịch HĐQT Tập đoàn Vạn Thịnh Phát).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T05:29:00+07:00",
+      "fetched": "2026-08-21T13:39:20.327614+07:00"
+    },
+    {
+      "id": "1683f1519ccab4fa7ba5022268f69b3c",
+      "title": "Sáng nay, không còn cảnh xếp hàng dài mua sách giáo khoa",
+      "link": "https://thanhnien.vn/sang-nay-khong-con-canh-xep-hang-dai-mua-sach-giao-khoa-185260821105153909.htm",
+      "summary": "Trái ngược với hình ảnh hàng trăm phụ huynh, học sinh TP.HCM xếp hàng dài từ quầy thu ngân tới cổng nhà sách hôm qua để chờ mua sách giáo khoa, sáng nay (21.8), ở đây đã thông thoáng, dễ thở hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T05:27:00+07:00",
+      "fetched": "2026-08-21T13:39:20.327738+07:00"
+    },
+    {
+      "id": "7b91f003566a2c83051714695df5c7c5",
+      "title": "Thị trường năng lượng toàn cầu phát tín hiệu báo động",
+      "link": "https://vnexpress.net/thi-truong-nang-luong-toan-cau-phat-tin-hieu-bao-dong-5111673.html",
+      "summary": "Nguồn cung nhiên liệu toàn cầu nguy cơ rơi vào khủng hoảng, khi 3 trong 4 trung tâm lọc dầu lớn đang gặp khó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T05:19:00+07:00",
+      "fetched": "2026-08-21T13:39:17.937314+07:00"
+    },
+    {
+      "id": "7b91f003566a2c83051714695df5c7c5",
+      "title": "Thị trường năng lượng toàn cầu phát tín hiệu báo động",
+      "link": "https://vnexpress.net/thi-truong-nang-luong-toan-cau-phat-tin-hieu-bao-dong-5111673.html",
+      "summary": "Nguồn cung nhiên liệu toàn cầu nguy cơ rơi vào khủng hoảng, khi 3 trong 4 trung tâm lọc dầu lớn đang gặp khó.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-21T05:19:00+07:00",
+      "fetched": "2026-08-21T13:39:23.875174+07:00"
+    },
+    {
+      "id": "b6fb825980c228e77237736464ad5062",
+      "title": "Săn bình minh trên 'biển vô cực'",
+      "link": "https://vnexpress.net/san-binh-minh-tren-bien-vo-cuc-5110580.html",
+      "summary": "Khi những ánh nắng đầu ngày xuất hiện, \"biển vô cực\" Quang Lang chìm trong những gam màu rực rỡ từ vàng đến hồng, tím, khiến khách đổ xô đến chụp hình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T05:18:49+07:00",
+      "fetched": "2026-08-21T13:39:17.937447+07:00"
+    },
+    {
+      "id": "b1c33ffcda0f3e8868af343e31279ed0",
+      "title": "Hết thời lái xe tùy tiện khi camera AI giăng khắp phố",
+      "link": "https://vnexpress.net/het-thoi-lai-xe-tuy-tien-khi-camera-ai-giang-khap-pho-5111606.html",
+      "summary": "Khả năng ghi nhận vi phạm ngày càng rộng khiến tài xế phải bỏ tâm lý chủ quan, làm theo thói quen khi tham gia giao thông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T05:16:43+07:00",
+      "fetched": "2026-08-21T13:39:17.937578+07:00"
+    },
+    {
+      "id": "424f1867b4df116f4371d7a7a1d3536f",
+      "title": "Đại biểu lo rủi ro khi bỏ công chứng nhà đất, Bộ trưởng NN-MT nói gì?",
+      "link": "https://thanhnien.vn/dai-bieu-lo-rui-ro-khi-bo-cong-chung-nha-dat-bo-truong-nn-mt-noi-gi-185260821114827866.htm",
+      "summary": "Đại biểu lo ngại rủi ro khi dự thảo luật Đất đai sửa đổi không còn quy định công chứng bắt buộc với chuyển nhượng nhà đất. Song, Bộ trưởng Bộ NN-MT khẳng định quyền lợi của người sử dụng đất luôn được đảm bảo khi giao dịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T05:16:00+07:00",
+      "fetched": "2026-08-21T13:39:20.327863+07:00"
+    },
+    {
+      "id": "ce9b9f7d8b60f32a934a69a31c0fca10",
+      "title": "'Vua tiền mặt' bình quân mỗi ngày thu 27 tỷ đồng lãi ngân hàng",
+      "link": "https://vnexpress.net/vua-tien-mat-binh-quan-moi-ngay-thu-27-ty-dong-lai-ngan-hang-5111644.html",
+      "summary": "Tập đoàn Bảo Việt thu gần 4.930 tỷ đồng lãi tiền gửi ngân hàng trong nửa đầu năm, tương ứng mỗi ngày khoảng 27 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T05:15:25+07:00",
+      "fetched": "2026-08-21T13:39:17.937706+07:00"
+    },
+    {
+      "id": "ce9b9f7d8b60f32a934a69a31c0fca10",
+      "title": "'Vua tiền mặt' bình quân mỗi ngày thu 27 tỷ đồng lãi ngân hàng",
+      "link": "https://vnexpress.net/vua-tien-mat-binh-quan-moi-ngay-thu-27-ty-dong-lai-ngan-hang-5111644.html",
+      "summary": "Tập đoàn Bảo Việt thu gần 4.930 tỷ đồng lãi tiền gửi ngân hàng trong nửa đầu năm, tương ứng mỗi ngày khoảng 27 tỷ đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-21T05:15:25+07:00",
+      "fetched": "2026-08-21T13:39:23.875335+07:00"
+    },
+    {
+      "id": "51491d42b414a690c6366cc96eb78a04",
+      "title": "Bộ Xây dựng: Giá chung cư Hà Nội giảm, trung bình 123 triệu/m2",
+      "link": "https://thanhnien.vn/bo-xay-dung-gia-chung-cu-ha-noi-giam-trung-binh-123-trieu-m2-185260821112137523.htm",
+      "summary": "Theo Bộ Xây dựng, quý 2 giá bán căn hộ chung cư trên thị trường thứ cấp giảm so với quý 1. Trong đó, giá bán căn hộ chung cư Hà Nội bình quân khoảng 123 triệu đồng/m2; TP.HCM khoảng 108 triệu đồng/m2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T05:14:00+07:00",
+      "fetched": "2026-08-21T13:39:20.327987+07:00"
+    },
+    {
+      "id": "502e9e5f2690b954e8c925fd5803b9da",
+      "title": "Trùm hacker giả mạo Jungkook BTS và nhiều tài phiệt, chiếm 27 triệu USD",
+      "link": "https://vnexpress.net/trum-hacker-gia-mao-jungkook-bts-va-nhieu-tai-phiet-chiem-27-trieu-usd-5111658.html",
+      "summary": "Trùm hacker họ Chun bị tuyên 20 năm tù sau khi bị dẫn độ từ Thái Lan, với cáo buộc tổ chức xâm nhập website chính phủ, tài phiệt, người nổi tiếng để ăn cắp tiền, dữ liệu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T05:02:37+07:00",
+      "fetched": "2026-08-21T13:39:17.937837+07:00"
+    },
+    {
+      "id": "e974310b906710eaa149313ba1f41faf",
+      "title": "Ngô Thanh Vân bế con catwalk",
+      "link": "https://vnexpress.net/ngo-thanh-van-be-con-catwalk-5111668.html",
+      "summary": "\"Đả nữ\" Ngô Thanh Vân bế con gái - bé Gạo, một tuổi - diện đầm xòe làm vedette trong show của nhà thiết kế Trần Hùng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T05:00:38+07:00",
+      "fetched": "2026-08-21T13:39:17.937979+07:00"
+    },
+    {
+      "id": "a260bee93fb46431509f133d737df466",
+      "title": "5 sai lầm nên tránh khi ngủ trưa",
+      "link": "https://vnexpress.net/5-sai-lam-nen-tranh-khi-ngu-trua-5111313.html",
+      "summary": "Ngủ trưa quá lâu, quá muộn hoặc bù thiếu ngủ kéo dài có thể gây mệt mỏi, khó tập trung và ảnh hưởng giấc ngủ ban đêm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-21T05:00:00+07:00",
+      "fetched": "2026-08-21T13:39:17.938144+07:00"
+    },
+    {
       "id": "1ba544ef5435ed40cbaa98f7df1cd6f2",
       "title": "Diễn viên Thu Quỳnh catwalk trên ruộng bậc thang",
       "link": "https://thanhnien.vn/dien-vien-thu-quynh-catwalk-tren-ruong-bac-thang-185260821110157654.htm",
@@ -411,6 +891,16 @@ window.newsData_2026_08_21 = {
       "category": "Tổng hợp",
       "published": "2026-08-21T04:30:00+07:00",
       "fetched": "2026-08-21T11:33:38.956903+07:00"
+    },
+    {
+      "id": "6699fad5e833230087d4272e5e334d50",
+      "title": "Đơn vị Mỹ cho lính nghỉ phép chơi game nếu tiếp tục tại ngũ",
+      "link": "https://vnexpress.net/don-vi-my-cho-linh-nghi-phep-choi-game-neu-tiep-tuc-tai-ngu-5111600.html",
+      "summary": "Công binh lục quân Mỹ ra ưu đãi đặc biệt cho binh sĩ gia hạn tại ngũ là 4 ngày nghỉ vào thời điểm phát hành game GTA 6.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-21T04:29:20+07:00",
+      "fetched": "2026-08-21T13:39:22.604125+07:00"
     },
     {
       "id": "2b6e989c83afcf43841fc19d29c3db6d",
