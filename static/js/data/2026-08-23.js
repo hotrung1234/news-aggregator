@@ -1,7 +1,157 @@
 window.newsData_2026_08_23 = {
   "date": "2026-08-23",
-  "lastUpdated": "2026-08-23T08:06:27.301849+07:00",
+  "lastUpdated": "2026-08-23T09:58:40.167043+07:00",
   "articles": [
+    {
+      "id": "5f82ae2f664bb6eee03686c10df54686",
+      "title": "Lịch trực tiếp bóng đá châu Âu đêm 23-8, rạng sáng 24-8: Barca, Man City ra trận",
+      "link": "https://tuoitre.vn/lich-truc-tiep-bong-da-chau-au-dem-23-8-sang-24-8-barca-man-city-ra-tran-100260822192601573.htm",
+      "summary": "Tâm điểm của bóng đá châu Âu đêm 23-8 và rạng sáng 24-8 là trận ra quân mùa giải 2026-2027 của hai 'ông lớn' Barca và Man City.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T09:58:30.903662+07:00",
+      "fetched": "2026-08-23T09:58:30.903716+07:00"
+    },
+    {
+      "id": "ee56c6339b06340cebbfb4f9ccc21347",
+      "title": "30 cây cầu đã thi công, cao tốc qua Cần Thơ còn vướng ở đâu?",
+      "link": "https://tuoitre.vn/30-cay-cau-da-thi-cong-cao-toc-qua-can-tho-con-vuong-o-dau-100260822184237906.htm",
+      "summary": "Sau hơn 4 năm triển khai, cao tốc Châu Đốc - Cần Thơ - Sóc Trăng qua Cần Thơ đạt hơn 61% giá trị xây lắp, trong khi nhu cầu cát và đá vẫn là vấn đề đáng chú ý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T09:58:30.903609+07:00",
+      "fetched": "2026-08-23T09:58:30.903654+07:00"
+    },
+    {
+      "id": "1ec2f4bd26c0271bd060988ecb4c4b58",
+      "title": "Tiểu thuyết của Kawabata lần đầu được dịch sang tiếng Việt",
+      "link": "https://tuoitre.vn/tieu-thuyet-cua-kawabata-lan-dau-duoc-dich-sang-tieng-viet-100260823083313522.htm",
+      "summary": "Tiểu thuyết Mấy độ cầu vồng là một trong những tiểu thuyết còn được ít người biết của đại văn hào Nhật Bản Kawabata Yasunari vừa được dịch và xuất bản ở Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T09:58:30.903543+07:00",
+      "fetched": "2026-08-23T09:58:30.903600+07:00"
+    },
+    {
+      "id": "eb9ac1f6320a72f52c5777aab2a76101",
+      "title": "Bỏ nghề hướng dẫn viên, người đàn ông về quê nuôi loài côn trùng đặc biệt, bán cả ngàn con/tháng",
+      "link": "https://tuoitre.vn/bo-nghe-huong-dan-vien-nguoi-dan-ong-ve-que-nuoi-loai-con-trung-dac-biet-ban-ca-ngan-con-thang-100260822162048297.htm",
+      "summary": "Từng là hướng dẫn viên du lịch, anh Huỳnh Văn Thuận không ngờ có ngày mình lại gắn bó với loài côn trùng sống dưới nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T09:58:30.903492+07:00",
+      "fetched": "2026-08-23T09:58:30.903535+07:00"
+    },
+    {
+      "id": "62b075fa7bc4cb591b9c4dd8194af5a5",
+      "title": "Ôm tro cốt mẹ gửi vào chùa, chọn Học viện Hàng không vì ngôi trường gần mẹ",
+      "link": "https://tuoitre.vn/om-tro-cot-me-gui-vao-chua-chon-hoc-vien-hang-khong-vi-ngoi-truong-gan-me-100260823070239202.htm",
+      "summary": "Phạm Ngọc Xuân Giao lớn lên trong cảnh không cha, sống cùng mẹ ở ấp Tân Tây B, xã Tân Đông, Đồng Tháp. Khi Giao sắp chạm vào giấc mơ đại học thì không thể ngờ lại mồ côi mẹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T09:58:30.903439+07:00",
+      "fetched": "2026-08-23T09:58:30.903484+07:00"
+    },
+    {
+      "id": "ae0f8a451168f16a5e1df55838951978",
+      "title": "Thu hút nhà máy tỉ USD, đừng quên nhà ở của công nhân",
+      "link": "https://tuoitre.vn/thu-hut-nha-may-ti-usd-dung-quen-nha-o-cua-cong-nhan-100260823070715666.htm",
+      "summary": "Phía sau những nhà máy quy mô lớn và kế hoạch tuyển dụng hàng chục nghìn lao động là một câu hỏi ngày càng trở nên cấp thiết: người lao động sẽ sống ở đâu?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T09:58:30.903387+07:00",
+      "fetched": "2026-08-23T09:58:30.903431+07:00"
+    },
+    {
+      "id": "7bb1a273bc7024b21c563128ee61574d",
+      "title": "Ngủ đủ giấc nhưng thức dậy vẫn đau đầu: Vì sao?",
+      "link": "https://tuoitre.vn/ngu-du-giac-nhung-thuc-day-van-dau-dau-vi-sao-100260822101023973.htm",
+      "summary": "Đã ngủ đủ 7-8 giờ nhưng vừa thức dậy đã thấy đau đầu. Các bác sĩ cho biết, tình trạng này có thể liên quan đến tư thế ngủ, chứng ngưng thở khi ngủ, nghiến răng hoặc một số rối loạn đau đầu tiềm ẩn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T09:58:30.903328+07:00",
+      "fetched": "2026-08-23T09:58:30.903379+07:00"
+    },
+    {
+      "id": "130994685dcb62bacbe0114e4d861546",
+      "title": "Mua gói tập cả năm nhưng đủ lý do để không đến phòng gym",
+      "link": "https://tuoitre.vn/mua-goi-tap-ca-nam-nhung-du-ly-do-de-khong-den-phong-gym-100260817231827357.htm",
+      "summary": "Đăng ký gói tập gym cả năm tốn mấy chục triệu đồng song lại bỏ ngang. Nhiều người cứ nghĩ gói tập bài bản sẽ tạo động lực nhưng thực tế không hẳn thế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T09:58:30.903271+07:00",
+      "fetched": "2026-08-23T09:58:30.903319+07:00"
+    },
+    {
+      "id": "f482c224d9786077e7bb07f3bbf0727a",
+      "title": "Bức ảnh người phụ nữ tóc ngắn dưới mộ liệt sĩ, có ai thấy thân quen?",
+      "link": "https://tuoitre.vn/buc-anh-nguoi-phu-nu-toc-ngan-duoi-mo-liet-si-co-ai-thay-than-quen-100260823090515366.htm",
+      "summary": "Một bức ảnh chân dung người phụ nữ tóc ngắn, dù đã phai mờ theo năm tháng, vừa được phục dựng rõ nét hơn sau khi được tìm thấy trong một phần mộ liệt sĩ chưa xác định danh tính tại Nghĩa trang liệt sĩ Hành Thịnh, xã Đình Cương, tỉnh Quảng Ngãi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T09:58:30.903216+07:00",
+      "fetched": "2026-08-23T09:58:30.903263+07:00"
+    },
+    {
+      "id": "1ac537fbf85706766bd04e62c63f88a3",
+      "title": "Tài thay người của HLV Kim Sang Sik",
+      "link": "https://tuoitre.vn/tai-thay-nguoi-cua-hlv-kim-sang-sik-100260823072125599.htm",
+      "summary": "6 lần HLV Kim Sang Sik thay người tại ASEAN Cup 2026, lần nào đội tuyển Việt Nam cũng có bàn thắng. Trận thắng Thái Lan 2-0 ở chung kết lượt đi là ví dụ mới nhất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T09:58:30.903160+07:00",
+      "fetched": "2026-08-23T09:58:30.903207+07:00"
+    },
+    {
+      "id": "2e171472e30ab7a5e4eb330944e0c583",
+      "title": "Giá căn hộ TP.HCM liệu có hạ nhiệt khi nhiều dự án khởi công?",
+      "link": "https://tuoitre.vn/gia-can-ho-tphcm-lieu-co-ha-nhiet-khi-nhieu-du-an-khoi-cong-100260822003400938.htm",
+      "summary": "Hàng loạt dự án căn hộ đồng loạt khởi công, cùng sự bùng nổ về nguồn cung khi có thêm hơn 21.165 căn nhà đủ điều kiện mở bán khiến nhiều người ở TP.HCM đang hy vọng giá căn hộ sẽ giảm ít nhiều.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T09:58:30.903098+07:00",
+      "fetched": "2026-08-23T09:58:30.903152+07:00"
+    },
+    {
+      "id": "1a260d20379c6fc4f718c7ed85c96804",
+      "title": "Cụ bà đón sinh nhật lần thứ 117, tiết lộ bí quyết sống thọ: 'Đừng cãi lộn'",
+      "link": "https://tuoitre.vn/cu-ba-don-sinh-nhat-lan-thu-117-tiet-lo-bi-quyet-song-tho-dung-cai-lon-100260823091135151.htm",
+      "summary": "Ở tuổi 117 cụ bà Ethel Caterham vẫn được vui vẻ đón sinh nhật cùng gia đình, bạn bè. Cụ chia sẻ bí quyết khá đơn giản của mình: lắng nghe, làm điều mình thích và... đừng tranh cãi với ai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T09:58:30.903037+07:00",
+      "fetched": "2026-08-23T09:58:30.903089+07:00"
+    },
+    {
+      "id": "7fc09bf1b2de435eeef9feee029552df",
+      "title": "Bão số 4 diễn biến phức tạp, Lạng Sơn sơ tán hơn 2.300 hộ do lũ lớn",
+      "link": "https://tuoitre.vn/bao-so-4-dien-bien-phuc-tap-lang-son-so-tan-hon-2300-ho-do-lu-lon-100260823093522305.htm",
+      "summary": "Theo chuyên gia khí tượng, dự báo trong những ngày tới diễn biến bão số 4 (Narra) còn diễn biến phức tạp và gây mưa lớn ở Đông Bắc Bộ. Tại Lạng Sơn, mưa lớn gây ra sạt lở, ngập lụt khiến 1 người chết, hơn 2.300 hộ phải sơ tán.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T09:58:30.902974+07:00",
+      "fetched": "2026-08-23T09:58:30.903029+07:00"
+    },
+    {
+      "id": "91267083a8dc89f9d458c515d2ecd607",
+      "title": "Ban Bí thư: Xây dựng hình ảnh người đảng viên trong khu vực kinh tế tư nhân thời kỳ mới",
+      "link": "https://tuoitre.vn/ban-bi-thu-xay-dung-hinh-anh-nguoi-dang-vien-trong-khu-vuc-kinh-te-tu-nhan-thoi-ky-moi-100260823092047381.htm",
+      "summary": "Thường trực Ban Bí thư Trần Cẩm Tú đã ký ban hành chỉ thị 12 của Ban Bí thư về đổi mới, nâng cao chất lượng công tác xây dựng Đảng trong khu vực kinh tế tư nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T09:58:30.902901+07:00",
+      "fetched": "2026-08-23T09:58:30.902963+07:00"
+    },
+    {
+      "id": "7d63330c36304fcd73352623827055b8",
+      "title": "Sạt lở gây sập nhà do mưa lớn, một người tại Lạng Sơn tử vong",
+      "link": "https://tuoitre.vn/sat-lo-gay-sap-nha-do-mua-lon-mot-nguoi-tai-lang-son-tu-vong-100260823090303974.htm",
+      "summary": "Mưa lũ do bão số 4 gây thiệt hại nghiêm trọng tại Lạng Sơn và Bắc Ninh, khiến một người ở Lạng Sơn tử vong, hàng trăm nhà dân ngập, nhiều tuyến đường bị chia cắt và lũ trên một số sông vượt báo động 3.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T09:58:30.902714+07:00",
+      "fetched": "2026-08-23T09:58:30.902885+07:00"
+    },
     {
       "id": "113e7d379cb4a5beed92191d2ed0823e",
       "title": "Thời tiết hôm nay 23-8: Bão số 4 gây mưa rất to tại Bắc Bộ",
@@ -213,6 +363,356 @@ window.newsData_2026_08_23 = {
       "fetched": "2026-08-23T03:17:53.944093+07:00"
     },
     {
+      "id": "facb29e6d52760fd36d6018473874caf",
+      "title": "TP.HCM: 'Siêu' phường công nghiệp đề xuất giữ nguyên hiện trạng đơn vị hành chính",
+      "link": "https://thanhnien.vn/tphcm-sieu-phuong-cong-nghiep-de-xuat-giu-nguyen-hien-trang-don-vi-hanh-chinh-185260823093109081.htm",
+      "summary": "Qua hội nghị báo cáo kết quả hoạt động sau 1 năm thực hiện mô hình chính quyền địa phương 2 cấp, các đại biểu nhiều xã, phường khu vực bắc TP.HCM đề nghị giữ nguyên hiện trạng đơn vị hành chính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T02:57:00+07:00",
+      "fetched": "2026-08-23T09:58:28.698154+07:00"
+    },
+    {
+      "id": "83a1c055b59911df652f7850dce45bda",
+      "title": "Hơn 50 thí sinh chuyên Tuyên Quang đỗ Bách khoa Hà Nội, Kinh tế quốc dân",
+      "link": "https://thanhnien.vn/hon-50-thi-sinh-chuyen-tuyen-quang-do-bach-khoa-ha-noi-kinh-te-quoc-dan-185260823093859534.htm",
+      "summary": "Kết quả lọc ảo cho thấy có 51 thí sinh chuyên Tuyên Quang đã đỗ Đại học Bách khoa Hà Nội và Đại học Kinh tế quốc dân, trong đó chỉ 1 thí sinh đỗ bằng phương thức xét kết quả thi tốt nghiệp THPT 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T02:55:00+07:00",
+      "fetched": "2026-08-23T09:58:28.698302+07:00"
+    },
+    {
+      "id": "cc9396fb92b6c9b307644761969316e1",
+      "title": "Vi phạm lỗi nào bị tịch thu ô tô?",
+      "link": "https://thanhnien.vn/vi-pham-loi-nao-bi-tich-thu-o-to-185260821181918037.htm",
+      "summary": "Nhiều người cho rằng tịch thu phương tiện chủ yếu áp dụng với xe máy. Tuy nhiên, quy định hiện hành vẫn có những trường hợp người vi phạm bị tịch thu cả ô tô, dù đây là tài sản có giá trị lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T02:52:00+07:00",
+      "fetched": "2026-08-23T09:58:28.698443+07:00"
+    },
+    {
+      "id": "cc6d9c206ac16df6eaae1a07bd047560",
+      "title": "AFF khen Đình Bắc đánh gót điệu nghệ, ấn tượng cú vô lê ngoạn mục của Quang Hải",
+      "link": "https://thanhnien.vn/aff-khen-dinh-bac-danh-got-dieu-nghe-an-tuong-cu-vo-le-ngoan-muc-cua-quang-hai-185260823094130336.htm",
+      "summary": "Sau chiến thắng của đội tuyển Việt Nam trước Thái Lan ở chung kết lượt đi ASEAN Cup 2026, trang ASEAN United FC của AFF dành nhiều lời khen cho màn trình diễn của thầy trò HLV Kim Sang-sik, đặc biệt là pha đánh gót kiến tạo của Đình Bắc và những bước chạy đầy năng lượng của Quang Hải.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T02:50:00+07:00",
+      "fetched": "2026-08-23T09:58:28.698572+07:00"
+    },
+    {
+      "id": "88b9a37d1a74f034536485194c16735d",
+      "title": "7 tỉnh trong vùng trọng tâm mưa lớn của bão số 4",
+      "link": "https://thanhnien.vn/7-tinh-trong-vung-trong-tam-mua-lon-cua-bao-so-4-185260823091337726.htm",
+      "summary": "Cơn bão số 4 đang gây ra mưa lớn ở các tỉnh miền Bắc và dự báo có 7 tỉnh nằm trong vùng trọng tâm mưa lớn trong ngày 23 - 24.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T02:49:00+07:00",
+      "fetched": "2026-08-23T09:58:28.698716+07:00"
+    },
+    {
+      "id": "53c836f250f14bd301989f99d9bbdf93",
+      "title": "Hơn 633.000 thí sinh xác nhận nhập học, 23.000 em sẽ được xem xét cấp học bổng",
+      "link": "https://thanhnien.vn/hon-633000-thi-sinh-xac-nhan-nhap-hoc-23000-em-se-duoc-xem-xet-cap-hoc-bong-18526082308351853.htm",
+      "summary": "Nhờ chính sách cấp học bổng cho sinh viên các nhóm ngành khoa học cơ bản, kỹ thuật then chốt và công nghệ chiến lược mà lượng thí sinh xác nhận nhập học các ngành này tăng đáng kể.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T02:47:00+07:00",
+      "fetched": "2026-08-23T09:58:28.698841+07:00"
+    },
+    {
+      "id": "300dea94a2830700e9bc962298595ff3",
+      "title": "Người tặng bút máy cho liệt sĩ Nguyễn Xuân Hải: 'Hơn 60 năm vẫn đợi ông về'",
+      "link": "https://thanhnien.vn/nguoi-tang-but-may-cho-liet-si-nguyen-xuan-hai-hon-60-nam-van-doi-ong-ve-185260822135255797.htm",
+      "summary": "Hơn 60 năm qua, bà Trần Thị Đượm vẫn mong một ngày tìm được người chồng liệt sĩ Nguyễn Xuân Hải để đưa ông về quê. Hy vọng bất ngờ đến với gia đình bà khi một chiếc bút máy khắc tên 'Nguyễn Xuân Hải' được phát hiện trong phần mộ liệt sĩ chưa xác định danh tính ở Quảng Ngãi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T02:46:00+07:00",
+      "fetched": "2026-08-23T09:58:28.698964+07:00"
+    },
+    {
+      "id": "596edf0e99819dfe6bbcab1074026a8a",
+      "title": "Tập thể dục rất tốt nhưng bác sĩ cảnh báo tập kiểu này có thể gây suy thận",
+      "link": "https://thanhnien.vn/tap-the-duc-rat-tot-nhung-bac-si-canh-bao-tap-kieu-nay-co-the-gay-suy-than-185260823094627992.htm",
+      "summary": "Tập thể dục tốt mọi mặt cho sức khỏe, tuy nhiên tập luyện trong thời tiết nắng nóng mà không chú ý điều này, có thể gây suy thận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T02:44:00+07:00",
+      "fetched": "2026-08-23T09:58:28.699081+07:00"
+    },
+    {
+      "id": "9542c6cde5a40e1ada76cfb8181b2b08",
+      "title": "Cơn giận ông Trump trút lên đồng minh khi chiến sự Iran bế tắc",
+      "link": "https://vnexpress.net/con-gian-ong-trump-trut-len-dong-minh-khi-chien-su-iran-be-tac-5111530.html",
+      "summary": "Bế tắc trong nỗ lực buộc Iran khuất phục, Tổng thống Trump ngày càng gia tăng sức ép, thậm chí trút giận lên những đồng minh từng đóng vai trò trung gian.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-23T02:33:28+07:00",
+      "fetched": "2026-08-23T09:58:32.808075+07:00"
+    },
+    {
+      "id": "fadabbf7f5df4be9e811baaf19cae054",
+      "title": "Bão số 4 áp sát Quảng Ninh - Hải Phòng, gây mưa lớn vượt 300 mm",
+      "link": "https://thanhnien.vn/bao-so-4-ap-sat-quang-ninh-hai-phong-gay-mua-lon-vuot-300-mm-185260823090837404.htm",
+      "summary": "Bão số 4 đang di chuyển chậm trên vùng biển Quảng Ninh - Hải Phòng, gây mưa rất to tại nhiều nơi ở Đông Bắc bộ. Cơ quan khí tượng cảnh báo biển động rất mạnh, gió giật cấp 11 và nguy cơ ngập úng, lũ quét, sạt lở đất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T02:32:00+07:00",
+      "fetched": "2026-08-23T09:58:28.699207+07:00"
+    },
+    {
+      "id": "ba871ded61f72c6551a9e0e7e85ea009",
+      "title": "Ra mắt thẻ Vietcombank Haha Collection",
+      "link": "https://vnexpress.net/ra-mat-the-vietcombank-haha-collection-5112337.html",
+      "summary": "Ngân hàng TMCP Ngoại thương Việt Nam ra mắt thẻ Vietcombank Haha Collection, kèm loạt đặc quyền tặng vé hậu trường, ghi hình cùng dàn cast Quán Nhà Haha cho chủ thẻ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-23T02:30:00+07:00",
+      "fetched": "2026-08-23T09:58:33.864651+07:00"
+    },
+    {
+      "id": "f76630bb5d25809da090da64de0b27a0",
+      "title": "Messi ghi bàn Inter Miami vẫn chưa thắng, David Beckham sẽ ra tay",
+      "link": "https://thanhnien.vn/messi-ghi-ban-inter-miami-van-chua-thang-david-beckham-se-ra-tay-18526082309223246.htm",
+      "summary": "Sáng 23.8, Messi tiếp tục ghi bàn ở trận thứ hai liên tiếp, nhưng Inter Miami vẫn chưa có chiến thắng, thậm chí kết quả còn tệ hơn khi họ để thua Toronto FC với tỷ số 1-2 ngay sân nhà ở giải MLS.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T02:26:00+07:00",
+      "fetched": "2026-08-23T09:58:28.699326+07:00"
+    },
+    {
+      "id": "14563a5ad5e81618eb000ab3f93972eb",
+      "title": "Vietjet và Vikki 'tiếp lửa' - Việt Nam rực đỏ Bangkok",
+      "link": "https://thanhnien.vn/vietjet-va-vikki-tiep-lua-viet-nam-ruc-do-bangkok-185260823091222515.htm",
+      "summary": "Bangkok đã có một đêm rực đỏ. Giữa mưa lớn trên sân khách và sức ép từ khán đài, đội tuyển Việt Nam chơi đầy bản lĩnh, đánh bại Thái Lan 2 - 0 ở lượt đi chung kết ASEAN Cup tối 22.8. Cùng hàng nghìn cổ động viên Việt Nam vượt đường xa \"tiếp lửa\", Vietjet và Vikki góp phần nối dài một hành trình bóng...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T02:16:00+07:00",
+      "fetched": "2026-08-23T09:58:28.699451+07:00"
+    },
+    {
+      "id": "c0c31a6fba7e9eb767394816d6bd2994",
+      "title": "Trọng tài UAE bắt chung kết lượt về Việt Nam - Thái Lan: Vua thẻ đỏ, từng thổi 54 quả phạt đền",
+      "link": "https://thanhnien.vn/trong-tai-uae-bat-chung-ket-luot-ve-viet-nam-thai-lan-vua-the-do-tung-thoi-54-qua-phat-den-185260822183602089.htm",
+      "summary": "Danh tính tổ trọng tài được Liên đoàn Bóng đá Đông Nam Á (AFF) phân công, điều hành trận chung kết lượt về ASEAN Cup 2026 giữa đội tuyển Việt Nam và Thái Lan trên sân Mỹ Đình đã được tiết lộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T02:09:00+07:00",
+      "fetched": "2026-08-23T09:58:28.699573+07:00"
+    },
+    {
+      "id": "9b7bd88f01251c93ffbbe39bc69904db",
+      "title": "Phó chủ tịch FAT từng ‘ám chỉ’ đội tuyển Việt Nam, ông nghĩ gì khi Hai Long và Quang Hải ghi bàn?",
+      "link": "https://thanhnien.vn/pho-chu-tich-fat-tung-am-chi-doi-tuyen-viet-nam-ong-nghi-gi-khi-hai-long-va-quang-hai-ghi-ban-185260823085544094.htm",
+      "summary": "Trước trận chung kết lượt đi ASEAN Cup 2026, Phó chủ tịch LĐBĐ Thái Lan (FAT) Charnwit Polcheewin từng ví đội hình đội tuyển Việt Nam là 'Việt Nam và Brazil' với Xuân Son, Hoàng Hên và Tài Lộc. Sau 90 phút tại Rajamangala, 2 cầu thủ gốc Việt hoàn toàn là những người gieo sầu cho 'Voi chiến'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T02:02:00+07:00",
+      "fetched": "2026-08-23T09:58:28.699709+07:00"
+    },
+    {
+      "id": "346f7ae08b57bb1765b01e03d7e63585",
+      "title": "Hàng xóm ở Mỹ hờ hững trước tin vợ chồng Hoàng tử Harry trở về Anh",
+      "link": "https://vnexpress.net/hang-xom-o-my-ho-hung-truoc-tin-vo-chong-hoang-tu-harry-tro-ve-anh-5112135.html",
+      "summary": "Trái với việc truyền thông Anh đưa tin rầm rộ, hàng xóm tại California, Mỹ thờ ơ khi biết tin cặp đôi Harry và Meghan sắp quay về Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T02:00:00+07:00",
+      "fetched": "2026-08-23T09:58:25.490688+07:00"
+    },
+    {
+      "id": "761e1a6206ae33c5487d0668423e515b",
+      "title": "Người dân sẽ giám sát hóa chất nguy hiểm qua mã QR truy xuất nguồn gốc",
+      "link": "https://vnexpress.net/nguoi-dan-se-giam-sat-hoa-chat-nguy-hiem-qua-ma-qr-truy-xuat-nguon-goc-5112018.html",
+      "summary": "Bộ Công an đề xuất nhà sản xuất phải khai đủ 7 thông tin tối thiểu về hóa chất, thể hiện qua mã QR để người mua có thể tra cứu từ khâu sản xuất đến mua bán, tự bảo vệ mình và gia đình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T02:00:00+07:00",
+      "fetched": "2026-08-23T09:58:25.490864+07:00"
+    },
+    {
+      "id": "e2c747201977d5c7c2344ffee79f3a0a",
+      "title": "Nơi mỗi năm có gần 3 tháng chìm hoàn toàn trong bóng tối",
+      "link": "https://vnexpress.net/noi-moi-nam-co-gan-3-thang-chim-hoan-toan-trong-bong-toi-5111766.html",
+      "summary": "Longyearbyen là thị trấn gần cực Bắc nhất thế giới, nơi bóng tối kéo dài gần 3 tháng mỗi năm và có gấu Bắc Cực đi lang thang tự do.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T02:00:00+07:00",
+      "fetched": "2026-08-23T09:58:25.491009+07:00"
+    },
+    {
+      "id": "974f0999aa6216c90172296870cc9adf",
+      "title": "5 điểm mới ở giải chạy trẻ em Kun Marathon Vũng Tàu",
+      "link": "https://vnexpress.net/5-diem-moi-o-giai-chay-tre-em-kun-marathon-vung-tau-2026-5112324.html",
+      "summary": "Kun Marathon Vũng Tàu 2026 diễn ra sáng 29/8 với đường chạy sát biển, 5 khu vận động và dàn khách mời, dành cho 2.000 trẻ 6-10 tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T02:00:00+07:00",
+      "fetched": "2026-08-23T09:58:25.491146+07:00"
+    },
+    {
+      "id": "20187ac26acb40b5c270fced71444001",
+      "title": "Các yếu tố làm tăng nguy cơ sỏi thận",
+      "link": "https://vnexpress.net/cac-yeu-to-lam-tang-nguy-co-soi-than-5112293.html",
+      "summary": "Uống ít nước, ăn nhiều muối, thừa cân, mắc một số bệnh lý và tiền sử gia đình có thể làm tăng nguy cơ hình thành sỏi thận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T02:00:00+07:00",
+      "fetched": "2026-08-23T09:58:25.491274+07:00"
+    },
+    {
+      "id": "babdd786bce9f93937a22fd50f7a378b",
+      "title": "Hội thảo về cơ hội lấy thẻ xanh Mỹ theo diện EB-3",
+      "link": "https://vnexpress.net/hoi-thao-ve-co-hoi-lay-the-xanh-my-theo-dien-eb-3-5112197.html",
+      "summary": "Hội thảo EB-3 của Newland USA cung cấp thông tin về chính sách di trú Mỹ năm 2026, cơ hội việc làm và lộ trình dành cho lao động Việt có tay nghề.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T02:00:00+07:00",
+      "fetched": "2026-08-23T09:58:25.491403+07:00"
+    },
+    {
+      "id": "fec1e1fd6351434f1ad17c27c4981e44",
+      "title": "5 dấu hiệu cơ thể đang mất cơ sau tuổi 40",
+      "link": "https://vnexpress.net/5-dau-hieu-co-the-dang-mat-co-sau-tuoi-40-5112120.html",
+      "summary": "Cân nặng có thể chưa thay đổi, nhưng việc xách đồ, đứng lên, leo cầu thang hoặc đi bộ khó hơn có thể cảnh báo cơ bắp đang suy giảm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T02:00:00+07:00",
+      "fetched": "2026-08-23T09:58:25.491530+07:00"
+    },
+    {
+      "id": "1265d72ec89f471fe14e12a4ce2957ad",
+      "title": "Ăn uống thế nào để hạn chế mỡ bụng khi già đi",
+      "link": "https://vnexpress.net/an-uong-the-nao-de-han-che-mo-bung-khi-gia-di-5112100.html",
+      "summary": "Ăn chậm để nhận biết cảm giác no, ưu tiên protein, rau củ, ngũ cốc nguyên hạt, hạn chế đồ uống có đường và món chiên rán có thể giúp hạn chế mỡ bụng khi lớn tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T02:00:00+07:00",
+      "fetched": "2026-08-23T09:58:25.491683+07:00"
+    },
+    {
+      "id": "d854306a7c96815206d7da6ac4c8f56a",
+      "title": "AMD Ryzen™ 100 Series ‘Hawk Point’: Bất ngờ với Zen 4 và RDNA 3",
+      "link": "https://thanhnien.vn/amd-ryzen-100-series-hawk-point-bat-ngo-voi-zen-4-va-rdna-3-185260823081734151.htm",
+      "summary": "AMD vừa âm thầm bổ sung loạt bộ xử lý mới mang tên mã 'Hawk Point' vào dòng Ryzen™ 100, các mẫu máy tính trang bị dòng chip mới này cũng đã bắt đầu có mặt tại thị trường Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T02:00:00+07:00",
+      "fetched": "2026-08-23T09:58:28.699830+07:00"
+    },
+    {
+      "id": "ba683b5f41bd34b9c0dce8ff865b6a50",
+      "title": "Làm ứng dụng hướng nghiệp giúp học sinh bớt chơi vơi khi chọn ngành",
+      "link": "https://thanhnien.vn/lam-ung-dung-huong-nghiep-giup-hoc-sinh-bot-choi-voi-khi-chon-nganh-185260822201413174.htm",
+      "summary": "Từ những tin nhắn cầu cứu của học sinh giữa ma trận chọn ngành, anh Nguyễn Vũ Toàn (38 tuổi), ngụ TP.Đà Nẵng (trước đây là Quảng Nam), dành gần 2 năm xây dựng ứng dụng Ngành Học (https://majorhub.vn/) với mong muốn giúp người trẻ hiểu ngành trước khi chọn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T02:00:00+07:00",
+      "fetched": "2026-08-23T09:58:28.699962+07:00"
+    },
+    {
+      "id": "346f7ae08b57bb1765b01e03d7e63585",
+      "title": "Hàng xóm ở Mỹ hờ hững trước tin vợ chồng Hoàng tử Harry trở về Anh",
+      "link": "https://vnexpress.net/hang-xom-o-my-ho-hung-truoc-tin-vo-chong-hoang-tu-harry-tro-ve-anh-5112135.html",
+      "summary": "Trái với việc truyền thông Anh đưa tin rầm rộ, hàng xóm tại California, Mỹ thờ ơ khi biết tin cặp đôi Harry và Meghan sắp quay về Anh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-23T02:00:00+07:00",
+      "fetched": "2026-08-23T09:58:32.808229+07:00"
+    },
+    {
+      "id": "84c86bdb0b420a346577f380b07dffe4",
+      "title": "31 thí sinh chuyên Tuyên Quang đỗ Bách khoa Hà Nội",
+      "link": "https://vnexpress.net/31-hoc-sinh-chuyen-tuyen-quang-do-dai-hoc-bach-khoa-ha-noi-vao-nhung-nganh-nao-5112329.html",
+      "summary": "30/31 thí sinh chuyên Tuyên Quang đỗ Đại học Bách khoa Hà Nội bằng điểm thi đánh giá tư duy TSA và giải cấp tỉnh, quốc gia, nhiều em vào ngành 'hot'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T01:50:31+07:00",
+      "fetched": "2026-08-23T09:58:25.491854+07:00"
+    },
+    {
+      "id": "dbc5a372e717d54be7f5360e4969cb8d",
+      "title": "Ông Putin: 'Ukraine đã mở hộp Pandora'",
+      "link": "https://vnexpress.net/ong-putin-ukraine-da-mo-hop-pandora-5112321.html",
+      "summary": "Ông Putin nói Ukraine \"đã mở hộp Pandora\" khi tập kích hạ tầng kinh tế Nga, cho biết Moskva sẽ nhắm vào những lĩnh vực nhạy cảm nhất của Kiev.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T01:48:01+07:00",
+      "fetched": "2026-08-23T09:58:25.491989+07:00"
+    },
+    {
+      "id": "dbc5a372e717d54be7f5360e4969cb8d",
+      "title": "Ông Putin: 'Ukraine đã mở hộp Pandora'",
+      "link": "https://vnexpress.net/ong-putin-ukraine-da-mo-hop-pandora-5112321.html",
+      "summary": "Ông Putin nói Ukraine \"đã mở hộp Pandora\" khi tập kích hạ tầng kinh tế Nga, cho biết Moskva sẽ nhắm vào những lĩnh vực nhạy cảm nhất của Kiev.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-23T01:48:01+07:00",
+      "fetched": "2026-08-23T09:58:32.808368+07:00"
+    },
+    {
+      "id": "05713fb4c83c12533e76260f020b4239",
+      "title": "Dấu hiệu cảnh báo gan 'kêu cứu' do rượu bia",
+      "link": "https://vnexpress.net/dau-hieu-canh-bao-gan-keu-cuu-do-ruou-bia-5112028.html",
+      "summary": "Vàng da, mệt mỏi, chán ăn, đau vùng bụng trên bên phải hay bụng sưng có thể là những dấu hiệu cảnh báo gan đang bị ảnh hưởng bởi rượu bia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T01:47:26+07:00",
+      "fetched": "2026-08-23T09:58:25.492111+07:00"
+    },
+    {
+      "id": "25b5a088e3022ff193086c4c71a11b6d",
+      "title": "Canada sẽ áp thuế trả đũa Mỹ từ tháng 9",
+      "link": "https://vnexpress.net/canada-se-ap-thue-tra-dua-my-tu-thang-9-5112301.html",
+      "summary": "Chính phủ Canada tuyên bố áp các biện pháp thuế trả đũa Mỹ từ ngày 8/9 sau khi đàm phán thương mại giữa hai nước đổ vỡ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T01:35:45+07:00",
+      "fetched": "2026-08-23T09:58:25.492229+07:00"
+    },
+    {
+      "id": "25b5a088e3022ff193086c4c71a11b6d",
+      "title": "Canada sẽ áp thuế trả đũa Mỹ từ tháng 9",
+      "link": "https://vnexpress.net/canada-se-ap-thue-tra-dua-my-tu-thang-9-5112301.html",
+      "summary": "Chính phủ Canada tuyên bố áp các biện pháp thuế trả đũa Mỹ từ ngày 8/9 sau khi đàm phán thương mại giữa hai nước đổ vỡ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-23T01:35:45+07:00",
+      "fetched": "2026-08-23T09:58:33.864073+07:00"
+    },
+    {
+      "id": "dbe43ec9db6b0bd7f0f2cd51feebd8d7",
+      "title": "Lắp điện mặt trời hộ gia đình bao lâu hoàn vốn?",
+      "link": "https://vnexpress.net/lap-dien-mat-troi-ho-gia-dinh-bao-lau-hoan-von-5111789.html",
+      "summary": "Lắp điện mặt trời có thể tốn 160-250 triệu đồng, nhưng thời gian hoàn vốn khác nhau tùy gia đình dùng điện ban ngày hay ban đêm và có đầu tư pin lưu trữ hay không.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T01:32:00+07:00",
+      "fetched": "2026-08-23T09:58:25.492349+07:00"
+    },
+    {
+      "id": "dbe43ec9db6b0bd7f0f2cd51feebd8d7",
+      "title": "Lắp điện mặt trời hộ gia đình bao lâu hoàn vốn?",
+      "link": "https://vnexpress.net/lap-dien-mat-troi-ho-gia-dinh-bao-lau-hoan-von-5111789.html",
+      "summary": "Lắp điện mặt trời có thể tốn 160-250 triệu đồng, nhưng thời gian hoàn vốn khác nhau tùy gia đình dùng điện ban ngày hay ban đêm và có đầu tư pin lưu trữ hay không.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-23T01:32:00+07:00",
+      "fetched": "2026-08-23T09:58:33.864229+07:00"
+    },
+    {
+      "id": "d2d97f138684372b31573615ee1e9ef8",
+      "title": "Quang Dũng nhớ mẹ",
+      "link": "https://vnexpress.net/quang-dung-nho-me-5112167.html",
+      "summary": "Ca sĩ Quang Dũng hát \"Tia nắng của mẹ\", thể hiện nỗi nhớ đấng sinh thành đã qua đời một năm trước, dịp lễ Vu Lan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T01:27:00+07:00",
+      "fetched": "2026-08-23T09:58:25.492475+07:00"
+    },
+    {
       "id": "a2ba7a5c0461b6247243747af41878bd",
       "title": "HLV Kim Sang Sik: 'Đây mới chỉ là trận lượt đi, chúng tôi vẫn còn 90 phút tại Mỹ Đình'",
       "link": "https://tuoitre.vn/truc-tuyen-hlv-kim-sang-sik-tra-loi-hop-bao-sau-chung-ket-luot-di-asean-cup-2026-10026082219081943.htm",
@@ -363,6 +863,36 @@ window.newsData_2026_08_23 = {
       "fetched": "2026-08-23T01:23:59.408098+07:00"
     },
     {
+      "id": "8dd9374a5c4c03eb9a2f38039b344ff0",
+      "title": "Carrick: 'Không cần la hét hay tạo hỗn loạn vì một trận thua'",
+      "link": "https://vnexpress.net/carrick-khong-can-la-het-hay-tao-hon-loan-vi-mot-tran-thua-5112304.html",
+      "summary": "HLV Michael Carrick cho rằng Man Utd cần giữ bình tĩnh và không hoảng loạn sau trận thua Hull City 0-2 ở vòng một Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T01:21:50+07:00",
+      "fetched": "2026-08-23T09:58:25.492620+07:00"
+    },
+    {
+      "id": "8dd9374a5c4c03eb9a2f38039b344ff0",
+      "title": "Carrick: 'Không cần la hét hay tạo hỗn loạn vì một trận thua'",
+      "link": "https://vnexpress.net/carrick-khong-can-la-het-hay-tao-hon-loan-vi-mot-tran-thua-5112304.html",
+      "summary": "HLV Michael Carrick cho rằng Man Utd cần giữ bình tĩnh và không hoảng loạn sau trận thua Hull City 0-2 ở vòng một Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-23T01:21:50+07:00",
+      "fetched": "2026-08-23T09:58:40.160224+07:00"
+    },
+    {
+      "id": "de810785ce414a978896babd666c7b75",
+      "title": "Sự tự tin khiến Thái Lan ôm hận ở chung kết lượt đi ASEAN Cup 2026",
+      "link": "https://vnexpress.net/su-tu-tin-khien-thai-lan-om-han-o-chung-ket-luot-di-asean-cup-2026-5112308.html",
+      "summary": "Hai bàn thắng trong trận chung kết lượt đi ASEAN Cup 2026 của đội tuyển Việt Nam mang màu sắc tình huống, nhưng là hệ quả gián tiếp từ việc khai thác sơ hở từ chính lối chơi quá tự tin của Thái Lan.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-23T01:12:49+07:00",
+      "fetched": "2026-08-23T09:58:40.160380+07:00"
+    },
+    {
       "id": "18563e0f5c0864253a2febd773c2a1f5",
       "title": "Huế em - Thơ của Đào Đức Tuấn",
       "link": "https://thanhnien.vn/hue-em-tho-cua-dao-duc-tuan-185260822155957432.htm",
@@ -431,6 +961,16 @@ window.newsData_2026_08_23 = {
       "category": "Tổng hợp",
       "published": "2026-08-23T01:00:00+07:00",
       "fetched": "2026-08-23T08:06:16.808381+07:00"
+    },
+    {
+      "id": "397356256a9ec3bac88224f2d9dd915e",
+      "title": "Trung tâm dữ liệu đầu tiên sử dụng 16 triệu nơron người",
+      "link": "https://vnexpress.net/trung-tam-du-lieu-dau-tien-su-dung-16-trieu-noron-nguoi-5112202.html",
+      "summary": "Các nhà nghiên cứu Singapore ra mắt một nguyên mẫu trung tâm dữ liệu mới sử dụng tế bào thần kinh người (nơron) để xử lý thông tin thay vì phụ thuộc hoàn toàn vào chip silicon.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-23T01:00:00+07:00",
+      "fetched": "2026-08-23T09:58:38.028557+07:00"
     },
     {
       "id": "c6158b0af3200f37d92920c1c888ccc4",
@@ -1001,6 +1541,16 @@ window.newsData_2026_08_23 = {
       "category": "Kinh doanh",
       "published": "2026-08-22T17:27:20+07:00",
       "fetched": "2026-08-23T01:24:02.277903+07:00"
+    },
+    {
+      "id": "b3a669e17aa249562aac0ad1a5fd845a",
+      "title": "Hai em nhỏ mồ côi ở Đà Nẵng được ngân hàng miễn trả nợ 1,7 tỷ đồng",
+      "link": "https://vnexpress.net/hai-em-nho-mo-coi-o-da-nang-duoc-ngan-hang-mien-tra-no-1-7-ty-dong-5112294.html",
+      "summary": "Sau khi cha mẹ qua đời vì điện giật, hai em nhỏ ở Đà Nẵng vẫn giữ được căn nhà đã thế chấp nhờ được ngân hàng miễn khoản nợ 1,7 tỷ đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-22T17:27:20+07:00",
+      "fetched": "2026-08-23T09:58:33.864365+07:00"
     },
     {
       "id": "63c0b12d34e8750b1f2895525a40a5af",
