@@ -1,7 +1,157 @@
 window.newsData_2026_08_23 = {
   "date": "2026-08-23",
-  "lastUpdated": "2026-08-23T05:17:55.684473+07:00",
+  "lastUpdated": "2026-08-23T08:06:27.301849+07:00",
   "articles": [
+    {
+      "id": "113e7d379cb4a5beed92191d2ed0823e",
+      "title": "Thời tiết hôm nay 23-8: Bão số 4 gây mưa rất to tại Bắc Bộ",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-23-8-bao-so-4-gay-mua-rat-to-tai-bac-bo-100260822160700497.htm",
+      "summary": "Hôm nay 23-8, thời tiết phía Bắc ảnh hưởng bởi cơn bão số 4 nên mưa to đến rất to, cơn bão này di chuyển lòng vòng trong vịnh Bắc Bộ rồi có xu hướng ngược ra phía biển trở lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T08:06:18.804445+07:00",
+      "fetched": "2026-08-23T08:06:18.804504+07:00"
+    },
+    {
+      "id": "97eb99655aeb2a8c8f1c7c3b3f3131bd",
+      "title": "Báo Thái Lan: 'Chúng ta thua vì thiếu may mắn, chưa kết thúc đâu'",
+      "link": "https://tuoitre.vn/bao-thai-lan-chung-ta-thua-vi-thieu-may-man-chua-ket-thuc-dau-100260822182430487.htm",
+      "summary": "Không giống như người hâm mộ, báo chí Thái Lan đa phần thể hiện thái độ \"không phục\" sau thất bại 0-2 trước Việt Nam ở trận chung kết lượt đi ASEAN Cup 2026, tối ngày 22-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T08:06:18.804375+07:00",
+      "fetched": "2026-08-23T08:06:18.804434+07:00"
+    },
+    {
+      "id": "3de83e22142d45dcd2b3385dab449212",
+      "title": "Tin tức thế giới 23-8: Ông Putin nói sẽ đánh hạ tầng kinh tế Ukraine; Canada tung đòn trả đũa Mỹ",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-23-8-ong-putin-noi-se-danh-ha-tang-kinh-te-ukraine-canada-tung-don-tra-dua-my-10026082304571016.htm",
+      "summary": "Ông Putin nói Kiev đã 'mở hộp Pandora'; Pháp sẽ chuyển tên lửa đánh chặn cho Ukraine sau các cuộc tấn công của Nga.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T08:06:18.804306+07:00",
+      "fetched": "2026-08-23T08:06:18.804365+07:00"
+    },
+    {
+      "id": "000b5061a3ee330681b189ae833bae11",
+      "title": "Tin tức sáng 23-8: Một doanh nghiệp cho đối tác vay hơn 1.000 tỉ đồng, lãi suất 12%",
+      "link": "https://tuoitre.vn/tin-tuc-sang-23-8-mot-doanh-nghiep-cho-doi-tac-vay-hon-1000-ti-dong-lai-suat-12-100260822144333324.htm",
+      "summary": "Một số tin tức đáng chú ý: Hôm nay Quốc hội bàn sửa Bộ luật Hình sự, Bộ luật Tố tụng hình sự; Xử phạt Năng lượng Trung Nam; TP.HCM: Tăng cường bảo đảm trật tự giao thông dịp Quốc khánh 2-9; Thực hiện kết nối, liên thông và chia sẻ dữ liệu khám bệnh, chữa bệnh...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T08:06:18.804240+07:00",
+      "fetched": "2026-08-23T08:06:18.804295+07:00"
+    },
+    {
+      "id": "3eeaca1fda4f62af8d3e477d572ea6e0",
+      "title": "Hôm nay, bão số 4 vẫn loanh quanh trên biển Quảng Ninh - Hải Phòng, Đông Bắc Bộ mưa lớn",
+      "link": "https://tuoitre.vn/hom-nay-bao-so-4-van-loanh-quanh-tren-bien-quang-ninh-hai-phong-dong-bac-bo-mua-lon-100260823013120844.htm",
+      "summary": "Dự báo hôm nay (23-8), bão số 4 (Narra) tiếp tục ít di chuyển hoặc đi chậm trên vùng biển Quảng Ninh - Hải Phòng và gây mưa lớn cho khu vực Đông Bắc Bộ, nam Phú Thọ và Thanh Hóa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T08:06:18.804171+07:00",
+      "fetched": "2026-08-23T08:06:18.804229+07:00"
+    },
+    {
+      "id": "dae2eb91b389d36cd4653df93f0f7d95",
+      "title": "Sốc: Ngôi sao bóng đá Bồ Đào Nha qua đời khi đang thi đấu",
+      "link": "https://tuoitre.vn/soc-ngoi-sao-bong-da-bo-dao-nha-qua-doi-khi-dang-thi-dau-100260823014417785.htm",
+      "summary": "Khuya ngày 22-8, ngôi sao bóng đá Bồ Đào Nha Quevin Castro đột ngột qua đời ở tuổi 25 sau khi đổ gục trên sân cỏ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T08:06:18.804101+07:00",
+      "fetched": "2026-08-23T08:06:18.804160+07:00"
+    },
+    {
+      "id": "758edf2c5fb77253a1377d14544e13fb",
+      "title": "'Mợ ngố' Song Ji Hyo: 'Lê Dương Bảo Lâm có nguồn năng lượng tôi theo không được'",
+      "link": "https://tuoitre.vn/mo-ngo-song-ji-hyo-le-duong-bao-lam-co-nguon-nang-luong-toi-theo-khong-duoc-100260822212836001.htm",
+      "summary": "Song Ji Hyo và đầu bếp David Lee trở lại Việt Nam với hành trình khám phá ẩm thực, văn hóa và đời sống miền Tây Nam Bộ trong Mợ ngố khen ngon mùa 2.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T08:06:18.804025+07:00",
+      "fetched": "2026-08-23T08:06:18.804090+07:00"
+    },
+    {
+      "id": "82f2abd106f1ee2485cb2a4b8f91b6ab",
+      "title": "Michael 2 sẽ hé lộ góc khuất của 'ông hoàng nhạc pop'",
+      "link": "https://tuoitre.vn/michael-2-se-he-lo-goc-khuat-cua-ong-hoang-nhac-pop-100260822094351647.htm",
+      "summary": "Phần tiếp theo của phim tiểu sử về Michael Jackson sẽ kể nhiều hơn về các cáo buộc lạm dụng trẻ em và để tiếng nói của 'ông hoàng nhạc pop' được lắng nghe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T08:06:18.803953+07:00",
+      "fetched": "2026-08-23T08:06:18.804014+07:00"
+    },
+    {
+      "id": "e3becee4900d8025e35a810628677a5a",
+      "title": "Hộ linh tráng sĩ ra mắt hoành tráng ở Ninh Bình và những người lái đò, nông dân lần đầu đi thảm đỏ",
+      "link": "https://tuoitre.vn/ho-linh-trang-si-ra-mat-hoanh-trang-o-ninh-binh-va-nhung-nguoi-lai-do-nong-dan-lan-dau-di-tham-do-100260823065456359.htm",
+      "summary": "Hộ linh tráng sĩ vừa có buổi ra mắt hoành tráng tại Ninh Bình - bối cảnh chính của phim. Dễ thương nhất là cảnh những người lái đò, cô chú nông dân lần đầu đi thảm đò, xem phim cười tủm tỉm vì quê mình quá đẹp, cảnh hành động quá mê.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T08:06:18.803880+07:00",
+      "fetched": "2026-08-23T08:06:18.803942+07:00"
+    },
+    {
+      "id": "7d972866c9792501cb231dc55b5790ca",
+      "title": "Hoàng Tôn bứt phá, Nhà Bềnh Bồng lấy nước mắt khán giả Anh trai vượt ngàn chông gai",
+      "link": "https://tuoitre.vn/hoang-ton-but-pha-nha-benh-bong-lay-nuoc-mat-khan-gia-anh-trai-vuot-ngan-chong-gai-100260822185838409.htm",
+      "summary": "Anh trai vượt ngàn chông gai 2026 mở màn Công diễn 3 với những màu sắc đối lập: Hoàng Tôn thử sức với hình ảnh mới, Phùng Minh Cương đưa xiếc lên sân khấu, trong khi Nhà Bềnh Bồng khiến khán giả xúc động với chuyến tàu trở về tuổi thơ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T08:06:18.803807+07:00",
+      "fetched": "2026-08-23T08:06:18.803869+07:00"
+    },
+    {
+      "id": "e6f9da50bce482f8472c993a9584358e",
+      "title": "Liên quân Quang Hùng MasterD gây choáng với màn múa cột táo bạo ở Tinh hà say hi",
+      "link": "https://tuoitre.vn/lien-quan-quang-hung-masterd-gay-choang-voi-man-mua-cot-tao-bao-o-tinh-ha-say-hi-100260822230111447.htm",
+      "summary": "Tập 8 'Tinh hà say hi' đẩy 24 nghệ sĩ vào Dance Battle với sân khấu nước, múa cột, lộn ngược trên không và những màn cypher căng thẳng. Sau cuộc đấu, DILLAN, Thể Thiên, Song Luân và Vương Bình phải chia tay chương trình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T08:06:18.803724+07:00",
+      "fetched": "2026-08-23T08:06:18.803796+07:00"
+    },
+    {
+      "id": "5b4ea05d1f049b1e4ad1bd90e155fe8e",
+      "title": "Nhạc số miễn phí ê hề, vì sao các concert lớn lại bùng nổ gần đây?",
+      "link": "https://tuoitre.vn/nhac-so-mien-phi-e-he-vi-sao-cac-concert-lon-lai-bung-no-gan-day-100260822234717681.htm",
+      "summary": "Các concert với hàng vạn khán giả liên tục cháy vé gần dường như là một hiện thực ‘vô lý’ khi mà nhạc số ê hề cho phép công chúng có thể nghe nhạc miễn phí mọi lúc mọi nơi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T08:06:18.803617+07:00",
+      "fetched": "2026-08-23T08:06:18.803688+07:00"
+    },
+    {
+      "id": "2b0129ca5cf9702977a1da6b6edcd5ab",
+      "title": "4 anime đáng xem trên Netflix trong năm 2026",
+      "link": "https://tuoitre.vn/4-anime-dang-xem-tren-netflix-trong-nam-2026-100260823001639945.htm",
+      "summary": "Từ những thương hiệu đình đám như Jujutsu Kaisen, JoJo's Bizarre Adventure đến các tác phẩm mới lạ, Netflix đang sở hữu nhiều anime đáng chú ý trong năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T08:06:18.803526+07:00",
+      "fetched": "2026-08-23T08:06:18.803605+07:00"
+    },
+    {
+      "id": "cde6f06685faa5626ffaacb29842484b",
+      "title": "Sacombank xóa nợ 1,7 tỉ đồng cho vợ chồng bị điện giật tử vong: Người con trai ngỡ đang mơ",
+      "link": "https://tuoitre.vn/sacombank-xoa-no-17-ti-dong-cho-vo-chong-bi-dien-giat-chet-nguoi-con-trai-ngo-dang-mo-100260823045013958.htm",
+      "summary": "Lê Viết Hồng Anh, con trai đầu của vợ chồng bị điện giật chết thương tâm ở Đà Nẵng, nghẹn ngào nói \"con xin cúi đầu cảm ơn\" khi hay tin ngân hàng Sacombank quyết định xóa toàn bộ khoản nợ 1,7 tỉ đồng của cha mẹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T08:06:18.803442+07:00",
+      "fetched": "2026-08-23T08:06:18.803514+07:00"
+    },
+    {
+      "id": "23c16ec40c32792d98057659cbac79e7",
+      "title": "'Tân binh' cứu HLV Mourinho trong ngày tái xuất ở La Liga sau 13 năm",
+      "link": "https://tuoitre.vn/tan-binh-cuu-hlv-mourinho-trong-ngay-tai-xuat-o-la-liga-sau-13-nam-100260823053302348.htm",
+      "summary": "Phải nhờ đến bàn thắng ở phút 90 của tân binh Carlos Espi, Real Madrid của HLV Mourinho mới có được chiến thắng 2-1 trước Espanyol trên sân khách RCDE rạng sáng 23-8 ở trận ra quân tại Giải vô địch Tây Ban Nha (La Liga).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T08:06:18.803268+07:00",
+      "fetched": "2026-08-23T08:06:18.803427+07:00"
+    },
     {
       "id": "e95e55343599040dce0cbcc900a71932",
       "title": "Bão số 4 trút mưa lớn, dân ở Lạng Sơn 'mất ngủ' vì lũ dâng nhanh",
@@ -211,6 +361,346 @@ window.newsData_2026_08_23 = {
       "category": "Tổng hợp",
       "published": "2026-08-23T01:23:59.407969+07:00",
       "fetched": "2026-08-23T01:23:59.408098+07:00"
+    },
+    {
+      "id": "18563e0f5c0864253a2febd773c2a1f5",
+      "title": "Huế em - Thơ của Đào Đức Tuấn",
+      "link": "https://thanhnien.vn/hue-em-tho-cua-dao-duc-tuan-185260822155957432.htm",
+      "summary": "Thâu em dìatui màu hoa nỏcháy bộn bềvó nhịp nghìn thu",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T01:05:00+07:00",
+      "fetched": "2026-08-23T08:06:14.903203+07:00"
+    },
+    {
+      "id": "d3dc0ff34e96a8e023ae8927bc4d308f",
+      "title": "Thủy chung - Thơ của Đào Đức Tuấn",
+      "link": "https://thanhnien.vn/thuy-chung-tho-cua-dao-duc-tuan-185260822155715512.htm",
+      "summary": "Có bông hoa nở nhiều lầnnhìn sao thêm một lần yêubông hoa trong veo vẫn phải đi tìmtình tang tang tình tính tính",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T01:05:00+07:00",
+      "fetched": "2026-08-23T08:06:16.807195+07:00"
+    },
+    {
+      "id": "513ac1dd094bde4861767c1c896b1827",
+      "title": "CĐV 'đi bão' mừng đội tuyển Việt Nam thắng lượt đi, tấm tắc khen Quang Hải quá hay",
+      "link": "https://thanhnien.vn/cdv-di-bao-mung-doi-tuyen-viet-nam-thang-luot-di-tam-tac-khen-quang-hai-qua-hay-185260823021012327.htm",
+      "summary": "Ngay sau chiến thắng 2-0 trước Thái Lan ở chung kết lượt đi ASEAN Cup 2026, hàng nghìn cổ động viên tại TP.HCM đã đổ xuống các tuyến đường trung tâm để ăn mừng. Trong tiếng trống, tiếng kèn và cờ đỏ sao vàng, nhiều người không ngớt lời khen màn trình diễn của đội tuyển Việt Nam, đặc biệt là Quang Hả...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T01:04:00+07:00",
+      "fetched": "2026-08-23T08:06:16.807669+07:00"
+    },
+    {
+      "id": "9953778cd7fa20c581bfe18e562b4880",
+      "title": "Fan tiếc nuối khi 'anh trai' Vương Bình, DILLAN... bị loại khỏi 'Tinh hà say hi'",
+      "link": "https://thanhnien.vn/fan-tiec-nuoi-khi-anh-trai-vuong-binh-dillan-bi-loai-khoi-tinh-ha-say-hi-185260823012633581.htm",
+      "summary": "Kết quả Live Stage 3 của 'Tinh hà say hi' với việc 4 'anh trai' Song Luân, Thể Thiên, DILLAN và Vương Bình phải dừng chân, khiến nhiều khán giả tiếc nuối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T01:00:00+07:00",
+      "fetched": "2026-08-23T08:06:16.807884+07:00"
+    },
+    {
+      "id": "effdf96fe95075721d41c696ea7f88d9",
+      "title": "Nhàn đàm: Thu sang từ một vạt cỏ may",
+      "link": "https://thanhnien.vn/nhan-dam-thu-sang-tu-mot-vat-co-may-185260822160638799.htm",
+      "summary": "Một chiều cuối hạ, tôi khẽ kéo rèm cửa phòng ngủ sang một bên và chợt ngỡ ngàng khi thấy bầu trời tối sầm như chiều muộn. Bước ra ban công, tôi ngước nhìn khoảng không đặc quánh những đám mây xám. Mưa sắp đến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T01:00:00+07:00",
+      "fetched": "2026-08-23T08:06:16.808047+07:00"
+    },
+    {
+      "id": "4142be586bcc202ce077afa294568a80",
+      "title": "Mặc đẹp chuẩn 'gu' đường phố với gam màu trung tính mới",
+      "link": "https://thanhnien.vn/thoi-trang-tre/mac-dep-chuan-gu-duong-pho-voi-gam-mau-trung-tinh-moi-185260822141730667.htm",
+      "summary": "Mùa thu đông 2026 gọi tên các gam màu trung tính mới, mang đến vô số gợi ý mặc đẹp, giản đơn nhưng vẫn sang trọng và quý phái. Tủ đồ thời trang xuống phố dịp này không thể thiếu chân váy midi, tank top, blazer, quần ống rộng...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T01:00:00+07:00",
+      "fetched": "2026-08-23T08:06:16.808215+07:00"
+    },
+    {
+      "id": "3114e2f67cf976354fb195ce40d80d12",
+      "title": "Nữ thủ khoa nói gì khiến cả hội trường nghẹn ngào rơi nước mắt?",
+      "link": "https://thanhnien.vn/nu-thu-khoa-noi-gi-khien-ca-hoi-truong-nghen-ngao-roi-nuoc-mat-185260822134551939.htm",
+      "summary": "Thay vì nói về bảng vàng thành tích cá nhân, bài phát biểu của nữ thủ khoa này đã khiến hàng nghìn người lặng đi vì xúc động khi nhắc đến điều này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T01:00:00+07:00",
+      "fetched": "2026-08-23T08:06:16.808381+07:00"
+    },
+    {
+      "id": "c6158b0af3200f37d92920c1c888ccc4",
+      "title": "Toàn cảnh tuyến đường tại TP.HCM sắp rộng 60 m ở cửa ngõ đông bắc",
+      "link": "https://thanhnien.vn/toan-canh-tuyen-duong-tai-tphcm-sap-rong-60-m-o-cua-ngo-dong-bac-185260822115646679.htm",
+      "summary": "Mặt bằng dự án mở rộng quốc lộ 13 ở TP.HCM đang chạy nước rút trước thời điểm dự kiến khởi công dịp Quốc khánh 2.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T00:56:00+07:00",
+      "fetched": "2026-08-23T08:06:16.808537+07:00"
+    },
+    {
+      "id": "935bb5b7fe152e477a07a1929b24eeec",
+      "title": "‘Đan sĩ áo đen’ dựng Đan viện Thiên An xứ Huế từ túp lều tranh",
+      "link": "https://thanhnien.vn/dan-si-ao-den-dung-dan-vien-thien-an-xu-hue-tu-tup-leu-tranh-185260822204626133.htm",
+      "summary": "Đan viện Thiên An có nhà thờ hầm và tháp chuông bảy tầng gợi dáng tháp chùa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T00:45:00+07:00",
+      "fetched": "2026-08-23T08:06:16.808727+07:00"
+    },
+    {
+      "id": "95d4038b5196a1fec9fc8e72ebb8eb4d",
+      "title": "Ấn Độ chạy đua cứu 22 thủy thủ sau vụ chìm tàu hàng ở vịnh Bengal",
+      "link": "https://thanhnien.vn/an-do-chay-dua-cuu-22-thuy-thu-sau-vu-chim-tau-hang-o-vinh-bengal-185260823071233133.htm",
+      "summary": "Ấn Độ phải huy động lực lượng tìm kiếm cứu nạn quy mô lớn khi một tàu chở hàng mang cờ Panama chở quặng sắt đến Singapore đã chìm ở vịnh Bengal, khiến 22 thành viên thủy thủ đoàn mất tích.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T00:28:00+07:00",
+      "fetched": "2026-08-23T08:06:16.808892+07:00"
+    },
+    {
+      "id": "95526138d283cab388d032b32a83faa0",
+      "title": "Iran tuyên bố sẽ coi các nước tham gia cấm vận cùng Mỹ là kẻ thù",
+      "link": "https://thanhnien.vn/iran-tuyen-bo-se-coi-cac-nuoc-tham-gia-cam-van-cung-my-la-ke-thu-185260823071321081.htm",
+      "summary": "Iran cảnh báo các quốc gia không nên tham gia vào \"cuộc chiến kinh tế\" của Mỹ chống lại nước Cộng hòa Hồi giáo này nếu không muốn bị coi là kẻ thù.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T00:26:00+07:00",
+      "fetched": "2026-08-23T08:06:16.809046+07:00"
+    },
+    {
+      "id": "0f4355f1fdbbf501a89e0a5159a14723",
+      "title": "Giá USD hôm nay 23.8.2026: Đà giảm tiếp tục trong khi euro, bảng Anh tăng vọt",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-2382026-da-giam-tiep-tuc-trong-khi-euro-bang-anh-tang-vot-185260822175519128.htm",
+      "summary": "Giá USD tiếp tục ghi nhận một tuần sụt giảm cả trên thế giới lẫn trong nước và ngược chiều với một số ngoại tệ khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T00:24:00+07:00",
+      "fetched": "2026-08-23T08:06:16.809207+07:00"
+    },
+    {
+      "id": "2d583ee7f2b5e84087a6afe08bf54ea5",
+      "title": "Giá vàng hôm nay 23.8.2026: Vàng nhẫn tăng vọt lên sát 150 triệu đồng",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-2382026-vang-nhan-tang-vot-len-sat-150-trieu-dong-185260822162915526.htm",
+      "summary": "Giá vàng ghi nhận tăng suốt tuần cả trên thế giới lẫn trong nước khi đồng USD suy yếu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T00:23:00+07:00",
+      "fetched": "2026-08-23T08:06:16.809362+07:00"
+    },
+    {
+      "id": "c3f5e59c9115dc387407ff654a4a7dc9",
+      "title": "Máy bay điện bay bằng pin lớn nhất thế giới vận hành chuyến đầu tiên",
+      "link": "https://thanhnien.vn/may-bay-dien-bay-bang-pin-lon-nhat-the-gioi-van-hanh-chuyen-dau-tien-185260822193614231.htm",
+      "summary": "Chiếc máy bay điện bay bằng pin lớn nhất thế giới đã hoàn thành chuyến bay thử nghiệm đầu tiên thành công, kéo dài 27 phút với chi phí điện năng cực thấp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T00:22:00+07:00",
+      "fetched": "2026-08-23T08:06:16.809516+07:00"
+    },
+    {
+      "id": "3e16e42ab3e8c037f2e958acbc944955",
+      "title": "Trương Tiến Anh khôn khéo trên sân, tinh tế hết mực khi ăn mừng: ‘Vàng 10’ của thầy Kim lên tiếng",
+      "link": "https://thanhnien.vn/truong-tien-anh-khon-kheo-tren-san-tinh-te-het-muc-khi-an-mung-vang-10-cua-thay-kim-noi-gi-185260822235237325.htm",
+      "summary": "Hậu vệ Tiến Anh muốn đội tuyển Việt Nam giữ tập trung cao độ vì thử thách ở chung kết lượt về ASEAN Cup 2026 vẫn còn nguyên ở phía trước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T00:21:00+07:00",
+      "fetched": "2026-08-23T08:06:16.809673+07:00"
+    },
+    {
+      "id": "73061154ba2c96a50cb95ab58a63920f",
+      "title": "Iran dọa tập kích các công ty Mỹ trong 'cuộc chiến kinh tế'",
+      "link": "https://vnexpress.net/iran-doa-tap-kich-cac-cong-ty-my-trong-cuoc-chien-kinh-te-5112312.html",
+      "summary": "Iran cảnh báo sẽ tấn công các doanh nghiệp Mỹ tại Trung Đông và trên thế giới nếu ông Trump thực thi cuộc chiến kinh tế với Tehran.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T00:16:58+07:00",
+      "fetched": "2026-08-23T08:06:09.789282+07:00"
+    },
+    {
+      "id": "73061154ba2c96a50cb95ab58a63920f",
+      "title": "Iran dọa tập kích các công ty Mỹ trong 'cuộc chiến kinh tế'",
+      "link": "https://vnexpress.net/iran-doa-tap-kich-cac-cong-ty-my-trong-cuoc-chien-kinh-te-5112312.html",
+      "summary": "Iran cảnh báo sẽ tấn công các doanh nghiệp Mỹ tại Trung Đông và trên thế giới nếu ông Trump thực thi cuộc chiến kinh tế với Tehran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-23T00:16:58+07:00",
+      "fetched": "2026-08-23T08:06:20.191496+07:00"
+    },
+    {
+      "id": "b86e83b493c8966fd5f3b164b75c5501",
+      "title": "Tuyên ngôn nữ quyền của những cô gái nhuộm lông nách",
+      "link": "https://vnexpress.net/tuyen-ngon-nu-quyen-cua-nhung-co-gai-nhuom-long-nach-5112145.html",
+      "summary": "Vượt qua định kiến lâu nay rằng để lông nách là xấu xí, những cô gái nhuộm lông nách rực rỡ tại Trung Quốc muốn khẳng định quyền tự quyết của phái đẹp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T00:00:00+07:00",
+      "fetched": "2026-08-23T08:06:09.789475+07:00"
+    },
+    {
+      "id": "ddd8d3b9813de775e03175e7659af342",
+      "title": "Bẫy lừa 'giả gái xinh' khiến đại gia 68 tuổi mất 41 tỷ đồng",
+      "link": "https://vnexpress.net/bay-lua-gia-gai-xinh-khien-dai-gia-68-tuoi-mat-41-ty-dong-5111731.html",
+      "summary": "Giả phụ nữ xinh đẹp kết bạn rồi tỏ tình, trong 3 ngày nhóm của Phạm Sỹ Huynh đã lừa người đàn ông giàu có ở TP HCM chuyển 41 tỷ đồng để làm nhiệm vụ trên sàn Lazada giả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T00:00:00+07:00",
+      "fetched": "2026-08-23T08:06:09.789648+07:00"
+    },
+    {
+      "id": "058ed17b27fd8bb0c24d455ff7fa643e",
+      "title": "5 nhà hàng chay với phong cách khác biệt cho mùa Vu Lan ở Hà Nội",
+      "link": "https://vnexpress.net/5-nha-hang-chay-voi-phong-cach-khac-biet-cho-mua-vu-lan-o-ha-noi-5111132.html",
+      "summary": "Ăn chay kiểu fine dining, set menu, buffet, phương Tây hay truyền thống là những trải nghiệm đa dạng cho rằm tháng 7.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T00:00:00+07:00",
+      "fetched": "2026-08-23T08:06:09.789844+07:00"
+    },
+    {
+      "id": "64d8e095bbc7f8d9f0a912f51b5d0f9d",
+      "title": "Vì sao mụn trứng cá tái phát?",
+      "link": "https://vnexpress.net/vi-sao-mun-trung-ca-tai-phat-5112091.html",
+      "summary": "Tôi mua thuốc trị mụn ở hiệu thuốc, dùng một thời gian thấy tình trạng cải thiện nhưng khi ngừng thuốc, mụn lại tái phát. Làm thế nào để điều trị mụn hiệu quả? (Hoài An, Thái Nguyên)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-23T00:00:00+07:00",
+      "fetched": "2026-08-23T08:06:09.790009+07:00"
+    },
+    {
+      "id": "b86e83b493c8966fd5f3b164b75c5501",
+      "title": "Tuyên ngôn nữ quyền của những cô gái nhuộm lông nách",
+      "link": "https://vnexpress.net/tuyen-ngon-nu-quyen-cua-nhung-co-gai-nhuom-long-nach-5112145.html",
+      "summary": "Vượt qua định kiến lâu nay rằng để lông nách là xấu xí, những cô gái nhuộm lông nách rực rỡ tại Trung Quốc muốn khẳng định quyền tự quyết của phái đẹp.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-23T00:00:00+07:00",
+      "fetched": "2026-08-23T08:06:20.191678+07:00"
+    },
+    {
+      "id": "dfb05a6a7fc2b2413c94bc20290f32d9",
+      "title": "Nga không còn tàu chiến nào ở Địa Trung Hải",
+      "link": "https://vnexpress.net/nga-khong-con-tau-chien-nao-o-dia-trung-hai-5112169.html",
+      "summary": "Quan chức NATO cho biết hải quân Nga hiện không còn hiện diện ở Địa Trung Hải, do phải điều tàu chiến để bảo vệ \"hạm đội bóng tối\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T23:42:32+07:00",
+      "fetched": "2026-08-23T08:06:09.790171+07:00"
+    },
+    {
+      "id": "dfb05a6a7fc2b2413c94bc20290f32d9",
+      "title": "Nga không còn tàu chiến nào ở Địa Trung Hải",
+      "link": "https://vnexpress.net/nga-khong-con-tau-chien-nao-o-dia-trung-hai-5112169.html",
+      "summary": "Quan chức NATO cho biết hải quân Nga hiện không còn hiện diện ở Địa Trung Hải, do phải điều tàu chiến để bảo vệ \"hạm đội bóng tối\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-22T23:42:32+07:00",
+      "fetched": "2026-08-23T08:06:20.191882+07:00"
+    },
+    {
+      "id": "3f9984c2b79fb818df0f6fda6226a69b",
+      "title": "Ai mua trăm tỷ đồng tăng cường sinh lý nam giới của Phú Lê?",
+      "link": "https://vnexpress.net/ai-mua-tram-ty-dong-tang-cuong-sinh-ly-nam-gioi-cua-phu-le-5112182.html",
+      "summary": "Người bán còn không biết thành phần, công dụng sản phẩm nhưng vẫn quảng cáo để bán. Vậy điều gì khiến khách hàng tin và xuống tiền?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T23:38:24+07:00",
+      "fetched": "2026-08-23T08:06:09.790330+07:00"
+    },
+    {
+      "id": "e8c7e8de4d3f177a61559e4c96ffcf6b",
+      "title": "BMW iX3 L 2026 giá từ 40.000 USD",
+      "link": "https://vnexpress.net/bmw-ix3-l-2026-gia-tu-40-000-usd-5111959.html",
+      "summary": "Mẫu xe điện gầm cao hạng sang bổ sung bản tiêu chuẩn, lắp pin LFP mới, phạm vi hoạt động 630-919 km, giá cao nhất 50.600 USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T23:29:00+07:00",
+      "fetched": "2026-08-23T08:06:09.790489+07:00"
+    },
+    {
+      "id": "e6c5f4fc213ab4a4f53ff56b6296d00c",
+      "title": "Dấu hiệu nào ở mắt cảnh báo thiếu vitamin B12?",
+      "link": "https://vnexpress.net/dau-hieu-nao-o-mat-canh-bao-thieu-vitamin-b12-5112184.html",
+      "summary": "Thiếu vitamin B12 không chỉ gây các vấn đề về máu và thần kinh mà trong một số trường hợp còn có thể ảnh hưởng đến mắt, thị lực và thần kinh thị giác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T23:14:17+07:00",
+      "fetched": "2026-08-23T08:06:09.790684+07:00"
+    },
+    {
+      "id": "a8501f27cdcb7cdb14cbc9876f0b0efb",
+      "title": "Hang động bạn chọn hé lộ nỗi sợ tiềm ẩn của bạn",
+      "link": "https://vnexpress.net/chon-mot-hang-dong-he-lo-noi-so-tiem-an-ban-so-thay-doi-co-don-hay-mat-kiem-soat-5110926.html",
+      "summary": "Chỉ cần chọn hang động khiến bạn chú ý đầu tiên, không suy nghĩ quá lâu, có thể gợi ý nỗi sợ mà bạn thường không dễ nhận ra.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T23:01:00+07:00",
+      "fetched": "2026-08-23T08:06:09.790894+07:00"
+    },
+    {
+      "id": "ccbd452481b719515bbb3b3c4c81a35e",
+      "title": "Các mô hình AI tiêu hao điện ra sao?",
+      "link": "https://vnexpress.net/cac-mo-hinh-ai-tieu-hao-dien-ra-sao-5111037.html",
+      "summary": "Lượng điện mô hình AI dùng để tạo một hình ảnh có thể sạc đầy một smartphone, đằng sau mỗi câu lệnh là hệ thống máy chủ vận hành liên tục trong các trung tâm dữ liệu có thể tiêu hao cỡ 2,4 triệu kWh mỗi ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T23:00:41+07:00",
+      "fetched": "2026-08-23T08:06:09.791060+07:00"
+    },
+    {
+      "id": "3dcccf5c93fd7d0f7926ce1620f05a99",
+      "title": "Tán gia bại sản sau tin nhắn cảm ơn của kẻ lừa đảo",
+      "link": "https://vnexpress.net/tan-gia-bai-san-sau-tin-nhan-cam-on-cua-ke-lua-dao-5112274.html",
+      "summary": "Chuyển toàn bộ 8 triệu tệ (30 tỷ đồng) tích cóp cả đời cho kẻ lừa đảo, ông Chen chỉ sực tỉnh khi đối phương nhắn tin cảm ơn rồi ngắt liên lạc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T23:00:00+07:00",
+      "fetched": "2026-08-23T08:06:09.791224+07:00"
+    },
+    {
+      "id": "f15c284093a2a4d463be94d90b728959",
+      "title": "Cha bệnh không chăm, tôi có được hưởng thừa kế?",
+      "link": "https://vnexpress.net/cha-benh-khong-cham-toi-co-duoc-huong-thua-ke-5112238.html",
+      "summary": "Năm 2000, khi tôi còn nhỏ, cha mẹ ly hôn và tôi theo mẹ. Cha tôi sống riêng, việc qua lại, chăm sóc các con cũng không thường xuyên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T23:00:00+07:00",
+      "fetched": "2026-08-23T08:06:09.791389+07:00"
+    },
+    {
+      "id": "c5d6f3b8ddcf0f355376672de6138b92",
+      "title": "Thói quen giúp người mẫu Hàn Quốc giảm 7 kg, vóc dáng thon gọn ở tuổi ngoài 40",
+      "link": "https://vnexpress.net/thoi-quen-giup-nguoi-mau-han-quoc-giam-7-kg-voc-dang-thon-gon-o-tuoi-ngoai-40-5110915.html",
+      "summary": "Nhờ kiên trì kiểm soát chế độ ăn uống, massage định kỳ kết hợp vận động nhẹ nhàng mỗi ngày, diễn viên Song Ji hyo dễ dàng duy trì sắc vóc trẻ trung cùng sức khỏe dẻo dai ở tuổi ngoài 40.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T23:00:00+07:00",
+      "fetched": "2026-08-23T08:06:09.791557+07:00"
+    },
+    {
+      "id": "475eabc8e229da9070104f92f12efe88",
+      "title": "Nhà Trắng nhầm lẫn giữa hai hãng Rolls-Royce",
+      "link": "https://vnexpress.net/nha-trang-nham-lan-giua-hai-hang-rolls-royce-5111933.html",
+      "summary": "Báo cáo mới nhất đăng trên website của Nhà Trắng xếp Rolls-Royce PLC - đơn vị sản xuất động cơ hàng không - cùng các hãng ôtô khác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-22T23:00:00+07:00",
+      "fetched": "2026-08-23T08:06:09.791735+07:00"
+    },
+    {
+      "id": "dc74e3a8598f7de7ca02403030ff7f4d",
+      "title": "Real thắng nhọc trận ra mắt Mourinho",
+      "link": "https://vnexpress.net/real-thang-nhoc-tran-ra-mat-mourinho-5112307.html",
+      "summary": "Trong trận chính thức đầu tiên dưới trướng Jose Mourinho, Real Madrid phải nhờ đến bàn thắng ở phút 90 để vượt qua Espanyol 2-1 ở vòng hai La Liga mùa 2026-2027.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-22T22:54:57+07:00",
+      "fetched": "2026-08-23T08:06:27.295518+07:00"
     },
     {
       "id": "e5d5eac759709fb67dde93f01eaa99da",
