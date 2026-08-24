@@ -1,6 +1,6 @@
 window.newsData_2026_08_24 = {
   "date": "2026-08-24",
-  "lastUpdated": "2026-08-24T13:50:52.523422+07:00",
+  "lastUpdated": "2026-08-24T15:43:04.992893+07:00",
   "articles": [
     {
       "id": "0c8279db2763783067e2d4cf7b6db584",
@@ -303,6 +303,116 @@ window.newsData_2026_08_24 = {
       "fetched": "2026-08-24T09:59:08.681804+07:00"
     },
     {
+      "id": "17a26f19382e727ee98c0c310de0b26c",
+      "title": "1.000 người Nhật hợp sức dùng dây thừng kéo tòa tháp nặng 400 tấn",
+      "link": "https://thanhnien.vn/1000-nguoi-nhat-hop-suc-dung-day-thung-keo-toa-thap-nang-400-tan-185260824152633865.htm",
+      "summary": "Khoảng 1.000 người tại Nhật Bản đã hợp sức dùng dây thừng kéo chiếc xe chở tòa tháp nặng 400 tấn về vị trí cũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T08:38:00+07:00",
+      "fetched": "2026-08-24T15:42:55.068578+07:00"
+    },
+    {
+      "id": "7d4b196fcfac07725bacc6ffbbda747c",
+      "title": "Thêm một lựa chọn cho học sinh sau lớp 9 từ năm học 2026-2027",
+      "link": "https://thanhnien.vn/them-mot-lua-chon-cho-hoc-sinh-sau-lop-9-tu-nam-hoc-2026-2027-185260824105348536.htm",
+      "summary": "Từ nay đến năm 2030, học sinh sau lớp 9 sẽ có thêm một lựa chọn chính thức bên cạnh THPT và trung cấp. Nhưng câu chuyện của trung học nghề không nằm ở một mô hình mới, mà ở việc mở ra nhiều con đường phát triển hơn cho người học.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T08:32:00+07:00",
+      "fetched": "2026-08-24T15:42:55.068744+07:00"
+    },
+    {
+      "id": "4a1eb2140128e86f769d22301e1a4ad0",
+      "title": "Bóng 'Bàn tay của Chúa' được bán với giá 3,35 triệu USD",
+      "link": "https://vnexpress.net/bong-ban-tay-cua-chua-duoc-ban-voi-gia-3-35-trieu-usd-5112807.html",
+      "summary": "Trái bóng mà cố huyền thoại Diego Maradona dùng để ghi hai trong những bàn thắng nổi tiếng nhất lịch sử bóng đá tại World Cup 1986 được bán đấu giá với giá 3,35 triệu USD.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-24T08:31:36+07:00",
+      "fetched": "2026-08-24T15:43:04.983806+07:00"
+    },
+    {
+      "id": "6b63f054986b63cd78b84b900dadd514",
+      "title": "FIFA xem xét tổ chức U15 World Cup với 211 đội tuyển",
+      "link": "https://vnexpress.net/fifa-xem-xet-to-chuc-u15-world-cup-voi-211-doi-tuyen-5112806.html",
+      "summary": "FIFA dự định U15 World Cup dành cho toàn bộ 211 thành viên, nhằm tạo cơ hội bình đẳng cho các cầu thủ trẻ trên toàn thế giới.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-24T08:27:33+07:00",
+      "fetched": "2026-08-24T15:43:04.983962+07:00"
+    },
+    {
+      "id": "cb46796a5b18ee79644cfe9ae96986d5",
+      "title": "Xóm bóc sả ở cù lao Tân Phú Đông",
+      "link": "https://thanhnien.vn/xom-boc-sa-o-cu-lao-tan-phu-dong-185260824125253347.htm",
+      "summary": "Gió biển thổi qua con đê hẹp ở xã cù lao Tân Phú Đông, mang theo vị mặn chát của vùng cửa biển. Chẳng cần bảng hiệu, chỉ cần nghe tiếng dao lách cách và nhìn những đống sả chất đầy trước hiên nhà, người ta cũng biết mình đã đến xóm bóc sả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T08:26:00+07:00",
+      "fetched": "2026-08-24T15:42:55.068902+07:00"
+    },
+    {
+      "id": "fad5e195be39016614248042660d8f86",
+      "title": "Sốt xuất huyết tại Gia Lai tăng mạnh, gần 5.000 ca mắc",
+      "link": "https://thanhnien.vn/sot-xuat-huyet-tai-gia-lai-tang-manh-gan-5000-ca-mac-185260824095210982.htm",
+      "summary": "Sốt xuất huyết tại Gia Lai đang diễn biến phức tạp khi toàn tỉnh ghi nhận 4.947 ca mắc từ đầu năm và đã có 1 trường hợp tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T08:20:00+07:00",
+      "fetched": "2026-08-24T15:42:55.069061+07:00"
+    },
+    {
+      "id": "55080f158b0714afb12d1a2b65cd99af",
+      "title": "Công an TP.HCM cảnh báo chiêu trò mượn danh KOL để bán hàng giả",
+      "link": "https://thanhnien.vn/cong-an-tphcm-canh-bao-chieu-tro-muon-danh-kol-de-ban-hang-gia-185260824132606682.htm",
+      "summary": "Ngày 24.8, Báo Công an nhân dân tổ chức tọa đàm trực tuyến với chủ đề: 'Minh bạch thông tin sản phẩm – Chung tay bảo vệ người tiêu dùng'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T08:14:00+07:00",
+      "fetched": "2026-08-24T15:42:55.069241+07:00"
+    },
+    {
+      "id": "4193ebb4f0d5f2ac25caf80d02d0e33d",
+      "title": "Bé gái 4 tuổi tử vong do bệnh dại nghi bị chó cắn",
+      "link": "https://thanhnien.vn/be-gai-4-tuoi-tu-vong-do-benh-dai-nghi-bi-cho-can-185260824135428308.htm",
+      "summary": "Một bé gái 4 tuổi ở Đồng Tháp được cơ quan chức năng xác định tử vong do bệnh dại, nghi bị chó cắn nhưng không được tiêm vắc xin và huyết thanh phòng dại kịp thời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T08:12:00+07:00",
+      "fetched": "2026-08-24T15:42:55.069407+07:00"
+    },
+    {
+      "id": "3216f3508557bf8b9e34806915a46128",
+      "title": "60 năm một lời chờ, nay tìm thấy tên chồng trên chiếc bút",
+      "link": "https://thanhnien.vn/60-nam-mot-loi-cho-nay-tim-thay-ten-chong-tren-chiec-but-185260823163925659.htm",
+      "summary": "Hơn 60 năm qua, bà Trần Thị Đượm vẫn chờ một ngày tìm được người chồng liệt sĩ Nguyễn Xuân Hải để đưa ông trở về quê hương. Và giờ đây, một chiếc bút máy khắc tên “Nguyễn Xuân Hải” được phát hiện trong một phần mộ liệt sĩ chưa xác định danh tính tại Quảng Ngãi đang mở ra hy vọng sau hơn 6 thập kỷ ch...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T08:08:00+07:00",
+      "fetched": "2026-08-24T15:42:55.069560+07:00"
+    },
+    {
+      "id": "257185e33bc145d3beb52c522ff56f62",
+      "title": "Kế hoạch cho thuê đáy biển để khai khoáng của chính quyền Mỹ bị phản ứng",
+      "link": "https://thanhnien.vn/ke-hoach-cho-thue-day-bien-de-khai-khoang-cua-chinh-quyen-my-bi-phan-ung-185260824144852029.htm",
+      "summary": "Kế hoạch của chính phủ Mỹ nhằm cho thuê đáy biển để thăm dò và khai khoáng gần rãnh Mariana đang vấp phải sự phản đối gay gắt từ các vùng lãnh thổ của nước này tại khu vực Thái Bình Dương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T08:07:00+07:00",
+      "fetched": "2026-08-24T15:42:55.069720+07:00"
+    },
+    {
+      "id": "1b4a82df32b2d364d21b9c15d8acd41a",
+      "title": "Chính thức giảm 30% thuế cho cá nhân kinh doanh từ hôm nay",
+      "link": "https://thanhnien.vn/chinh-thuc-giam-30-thue-cho-ca-nhan-kinh-doanh-tu-hom-nay-185260824130532913.htm",
+      "summary": "Theo Nghị quyết về giảm thuế thu nhập cá nhân, thuế thu nhập doanh nghiệp, cá nhân và doanh nghiệp có doanh thu năm đến 10 tỉ đồng sẽ được giảm 30% thuế trong năm 2026, 2027.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T08:07:00+07:00",
+      "fetched": "2026-08-24T15:42:55.069877+07:00"
+    },
+    {
       "id": "ff8ac4864248993509c1a00a097e89ca",
       "title": "Mưa trút nước ở Lạng Sơn, bộ đội đến đón dân, nhiều nhà khách mở cửa 'chăn ấm nệm êm' miễn phí",
       "link": "https://tuoitre.vn/mua-trut-nuoc-o-lang-son-bo-doi-den-don-dan-nhieu-nha-khach-mo-cua-chan-am-nem-em-mien-phi-100260823234222427.htm",
@@ -443,6 +553,266 @@ window.newsData_2026_08_24 = {
       "fetched": "2026-08-24T08:04:19.084828+07:00"
     },
     {
+      "id": "276e95293f84a26deff33f7d40c2796c",
+      "title": "Mỹ hủy tập trận đổ bộ với Hàn Quốc vì chiến sự Iran",
+      "link": "https://vnexpress.net/my-huy-tap-tran-do-bo-voi-han-quoc-vi-chien-su-iran-5112744.html",
+      "summary": "Mỹ hủy tập trận đổ bộ chung dự kiến diễn ra tháng sau với Hàn Quốc, với lý do khả năng huy động lực lượng bị hạn chế do chiến sự Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-24T08:04:15+07:00",
+      "fetched": "2026-08-24T15:42:58.690055+07:00"
+    },
+    {
+      "id": "e56de20622f5efa8b1caaadeb71023dd",
+      "title": "Ca sĩ Chi Dân bị đề nghị 7 - 8 năm tù vì tổ chức sử dụng ma túy",
+      "link": "https://thanhnien.vn/ca-si-chi-dan-bi-de-nghi-7-8-nam-tu-vi-to-chuc-su-dung-ma-tuy-18526082412431933.htm",
+      "summary": "Đại diện Viện KSND TP.HCM xác định, ca sĩ Chi Dân cùng anh trai Nguyễn Trung Tín đã bàn bạc, chuẩn bị địa điểm, dụng cụ và góp tiền mua nhiều loại ma túy để tổ chức sử dụng trái phép chất ma túy. Từ đó, đề nghị tuyên phạt ca sĩ Chi Dân 7 - 8 năm tù.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T08:03:00+07:00",
+      "fetched": "2026-08-24T15:42:55.070037+07:00"
+    },
+    {
+      "id": "cbeb872565750aee986405a1ad814e73",
+      "title": "Dùng thử iPhone Ultra, người trải nghiệm chỉ ra 'điểm trừ' khó chấp nhận",
+      "link": "https://thanhnien.vn/dung-thu-iphone-ultra-nguoi-trai-nghiem-chi-ra-diem-tru-kho-chap-nhan-185260824144153642.htm",
+      "summary": "Những người dùng thử iPhone Ultra đánh giá cao bản lề và màn hình lớn, nhưng lại gây tiếc nuối khi thiếu camera tele.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T08:01:00+07:00",
+      "fetched": "2026-08-24T15:42:55.070206+07:00"
+    },
+    {
+      "id": "55dfa8eddd5d4e22808945ef95efc525",
+      "title": "Ba cặp băng tần viễn thông nghìn tỷ đồng sắp được đấu giá",
+      "link": "https://vnexpress.net/ba-cap-bang-tan-vien-thong-nghin-ty-dong-sap-duoc-dau-gia-5112738.html",
+      "summary": "Ba cặp khối băng tần 900 MHz, có giá khởi điểm hơn 1.056 tỷ đồng, sẽ được Bộ Khoa học và Công nghệ đấu giá ngày 9/9.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-24T08:00:00+07:00",
+      "fetched": "2026-08-24T15:43:03.372029+07:00"
+    },
+    {
+      "id": "b98346c3f87a7aee2d9801da30f1c732",
+      "title": "Lịch thi đấu chung kết Việt Nam - Thái Lan mới nhất: Giờ vàng, xem kênh nào?",
+      "link": "https://thanhnien.vn/lich-thi-dau-chung-ket-viet-nam-thai-lan-moi-nhat-gio-vang-xem-kenh-nao-185260824111630391.htm",
+      "summary": "Đội tuyển Việt Nam đang nắm trong tay lợi thế lớn trước trận chung kết lượt về ASEAN Cup 2026 gặp Thái Lan trên sân Mỹ Đình. Thầy trò HLV Kim Sang-sik đang tự tin hướng tới mục tiêu bảo vệ thành công ngôi vô địch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T07:59:00+07:00",
+      "fetched": "2026-08-24T15:42:55.070361+07:00"
+    },
+    {
+      "id": "4b22ba3686a2e468ea29997430131335",
+      "title": "Khoảnh khắc lính Nga dùng súng máy 'bắn hạ tên lửa hành trình'",
+      "link": "https://vnexpress.net/khoanh-khac-linh-nga-dung-sung-may-ban-ha-ten-lua-hanh-trinh-5112647.html",
+      "summary": "Nga công bố video được cho là khoảnh khắc tên lửa hành trình Flamingo của Ukraine bị khẩu đội súng máy bắn hạ tại tỉnh Kursk.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-24T07:57:51+07:00",
+      "fetched": "2026-08-24T15:42:58.690270+07:00"
+    },
+    {
+      "id": "69b586d854299bbec757d8645e5abcd3",
+      "title": "Giảm 30% thuế cho hộ kinh doanh, doanh nghiệp thu không quá 10 tỷ đồng",
+      "link": "https://vnexpress.net/giam-30-thue-cho-ho-kinh-doanh-doanh-nghiep-thu-khong-qua-10-ty-dong-5112642.html",
+      "summary": "Hộ kinh doanh, doanh nghiệp có doanh thu tối đa 10 tỷ đồng sẽ được giảm 30% thuế trong hai năm 2026 và 2027.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-24T07:54:05+07:00",
+      "fetched": "2026-08-24T15:43:00.714136+07:00"
+    },
+    {
+      "id": "0f6a491835645d91e6878823fddd4f3c",
+      "title": "TP.HCM: 2 địa phương đã khám sức khỏe cho hơn 90% dân số",
+      "link": "https://thanhnien.vn/tphcm-2-dia-phuong-da-kham-suc-khoe-cho-hon-90-dan-so-185260824143817981.htm",
+      "summary": "Tính đến ngày 23.8, hơn 3,12 triệu người TP.HCM đã được khám sức khỏe, đạt 24,44%; hơn 3 triệu người đã được lập hồ sơ sức khỏe điện tử.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T07:52:00+07:00",
+      "fetched": "2026-08-24T15:42:55.070510+07:00"
+    },
+    {
+      "id": "d5f039423180cb4c2767243b63fa7246",
+      "title": "Hình ảnh ổ khóa và bó hành gợi ý tỉnh thành nào?",
+      "link": "https://vnexpress.net/duoi-hinh-bat-chu-hinh-anh-o-khoa-va-bo-hanh-goi-y-tinh-thanh-nao-5110036.html",
+      "summary": "Chiếc ổ khóa đồng cùng bó hành tươi xanh ẩn chứa tên một tỉnh thành Việt Nam. Liệu bạn có đủ nhanh trí giải mã trong 5 giây? Thử ngay!",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T07:50:44+07:00",
+      "fetched": "2026-08-24T15:42:52.017363+07:00"
+    },
+    {
+      "id": "ed23b83d8688f504e46c942d7c062d77",
+      "title": "Cảnh sát Mỹ mở chiến dịch phạt tài xế bám làn trái",
+      "link": "https://vnexpress.net/canh-sat-my-mo-chien-dich-phat-tai-xe-bam-lan-trai-5112556.html",
+      "summary": "Sở cảnh sát Florida phạt nặng tài xế đi chậm ở làn trái sau chiến dịch dẹp nạn chạy quá tốc độ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T07:40:46+07:00",
+      "fetched": "2026-08-24T15:42:52.017547+07:00"
+    },
+    {
+      "id": "3bf4d699a330c0007395ea6f769573d2",
+      "title": "PC Gia Lai bảo đảm cung cấp điện an toàn dịp Quốc khánh 2.9",
+      "link": "https://thanhnien.vn/pc-gia-lai-bao-dam-cung-cap-dien-an-toan-dip-quoc-khanh-29-185260824143848708.htm",
+      "summary": "Ngày 24.8, Công ty Điện lực Gia Lai (PC Gia Lai) cho biết đã chuẩn bị phương án vận hành, vật tư và nhân lực, sẵn sàng bảo đảm cung cấp điện an toàn, liên tục cho người dân và các hoạt động chào mừng Quốc khánh 2.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T07:35:00+07:00",
+      "fetched": "2026-08-24T15:42:55.070659+07:00"
+    },
+    {
+      "id": "f308ec901df65430369bb5f842b09c57",
+      "title": "Nữ thủ khoa trường y đăng quang Hoa khôi Sinh viên Việt Nam 2026",
+      "link": "https://thanhnien.vn/nu-thu-khoa-truong-y-dang-quang-hoa-khoi-sinh-vien-viet-nam-2026-185260824115015261.htm",
+      "summary": "Vượt qua 27 ứng cử viên, Nguyễn Ngọc Linh đến từ Trường đại học Y Hà Nội xuất sắc giành được ngôi vị 'Hoa khôi sinh viên Việt Nam 2026'. Đáng chú ý, cô từng là thủ khoa đầu vào ngành Bác sĩ răng hàm mặt, giành quán quân cuộc thi Sinh viên của năm 2024.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T07:34:00+07:00",
+      "fetched": "2026-08-24T15:42:55.070812+07:00"
+    },
+    {
+      "id": "cfbfba84e587e0629da07ee14a1b1308",
+      "title": "Ghép đoạn thần kinh lưu tại Ngân hàng mô cho người thợ bị tai nạn lao động",
+      "link": "https://vnexpress.net/ghep-doan-than-kinh-luu-tai-ngan-hang-mo-cho-nguoi-tho-bi-tai-nan-lao-dong-5112567.html",
+      "summary": "Nam công nhân 37 tuổi gặp tai nạn đứt dây thần kinh tọa, được bác sĩ Bệnh viện Việt Đức ghép đoạn thần kinh đang lưu giữ tại Ngân hàng mô.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T07:31:57+07:00",
+      "fetched": "2026-08-24T15:42:52.017712+07:00"
+    },
+    {
+      "id": "710def4c26656faaef6c4f46d04b876e",
+      "title": "Ba nhóm thực phẩm không nên bảo quản lâu trong tủ lạnh",
+      "link": "https://vnexpress.net/ba-nhom-thuc-pham-khong-nen-bao-quan-lau-trong-tu-lanh-5112179.html",
+      "summary": "Thịt tái, rau xà lách và hải sản chưa chín kỹ nếu bảo quản không đúng cách trong ngăn mát có thể chứa vi khuẩn gây hại, làm tăng nguy cơ ngộ độc thực phẩm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T07:30:00+07:00",
+      "fetched": "2026-08-24T15:42:52.017879+07:00"
+    },
+    {
+      "id": "4fa4b128044ebcd5960cce9519ea0370",
+      "title": "Biến cố phút chót khiến cặp song sinh dính đầu qua đời trên bàn mổ",
+      "link": "https://vnexpress.net/bien-co-phut-chot-khien-cap-song-sinh-dinh-dau-qua-doi-tren-ban-mo-5112528.html",
+      "summary": "Hai bé gái dính liền đầu người Brazil trút hơi thở cuối cùng trên bàn mổ, sau khi êkíp bác sĩ ngắt kết nối phần mô não chung cuối cùng trong ca phẫu thuật kéo dài 15 tiếng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T07:28:12+07:00",
+      "fetched": "2026-08-24T15:42:52.018037+07:00"
+    },
+    {
+      "id": "b48f4ff72876b1e4a6676d338007e8fd",
+      "title": "Tòa sơ thẩm 'có sai sót' trong vụ tuyên 5 năm tù với người tham ô 4 triệu đồng",
+      "link": "https://vnexpress.net/toa-so-tham-co-sai-sot-trong-vu-tuyen-5-nam-tu-voi-nguoi-tham-o-4-trieu-dong-5112739.html",
+      "summary": "Tòa phúc thẩm cho rằng cấp sơ thẩm có những thiếu sót tố tụng, nhiều tình tiết chưa rõ do đó hủy án sơ thẩm điều tra lại vụ nữ công an chức xã tham ô 4 triệu đồng trợ cấp thương binh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T07:19:01+07:00",
+      "fetched": "2026-08-24T15:42:52.018213+07:00"
+    },
+    {
+      "id": "0eca17b846906a9ea2f58527dfea877a",
+      "title": "Em coi trọng gia đình, sự tử tế, tôn trọng và trách nhiệm",
+      "link": "https://vnexpress.net/em-coi-trong-gia-dinh-su-tu-te-ton-trong-va-trach-nhiem-5112614.html",
+      "summary": "Em chỉ mong gặp người trưởng thành, sống tử tế, có trách nhiệm với lựa chọn của mình và nghiêm túc với tương lai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T07:13:08+07:00",
+      "fetched": "2026-08-24T15:42:52.018375+07:00"
+    },
+    {
+      "id": "4689805f20b545b04d0a46a08eb77bee",
+      "title": "Kawasaki Ninja e-1 2027 - môtô điện giá 7.900 USD",
+      "link": "https://vnexpress.net/kawasaki-ninja-e-1-2027-moto-dien-gia-7-900-usd-5112584.html",
+      "summary": "Mẫu sportbike thuần điện giới hạn công suất 12 mã lực, lắp hai pin có thể tháo rời, phạm vi hoạt động 66 km.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T07:06:53+07:00",
+      "fetched": "2026-08-24T15:42:52.018531+07:00"
+    },
+    {
+      "id": "00951d47de071fb05d04a0ac0d351a11",
+      "title": "Canh bạc của Thủ tướng Canada khi đấu thương mại với Mỹ",
+      "link": "https://vnexpress.net/canh-bac-cua-thu-tuong-canada-khi-dau-thuong-mai-voi-my-5112548.html",
+      "summary": "Chấp nhận tổn hại kinh tế để đối đầu thuế quan với Mỹ, Thủ tướng Carney đang đặt cược vào một canh bạc rủi ro nhằm bảo vệ chủ quyền Canada.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T07:06:19+07:00",
+      "fetched": "2026-08-24T15:42:52.018682+07:00"
+    },
+    {
+      "id": "00951d47de071fb05d04a0ac0d351a11",
+      "title": "Canh bạc của Thủ tướng Canada khi đấu thương mại với Mỹ",
+      "link": "https://vnexpress.net/canh-bac-cua-thu-tuong-canada-khi-dau-thuong-mai-voi-my-5112548.html",
+      "summary": "Chấp nhận tổn hại kinh tế để đối đầu thuế quan với Mỹ, Thủ tướng Carney đang đặt cược vào một canh bạc rủi ro nhằm bảo vệ chủ quyền Canada.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-24T07:06:19+07:00",
+      "fetched": "2026-08-24T15:42:58.690441+07:00"
+    },
+    {
+      "id": "9b4e1594f30d549b7a10f68384fae966",
+      "title": "Xây dựng tương lai cùng anh nhé",
+      "link": "https://vnexpress.net/xay-dung-tuong-lai-cung-anh-nhe-5112609.html",
+      "summary": "Mình muốn tìm một người chân thành, tình cảm, biết quan tâm và có cùng mong muốn xây dựng gia đình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T07:01:07+07:00",
+      "fetched": "2026-08-24T15:42:52.018839+07:00"
+    },
+    {
+      "id": "6fff9c7a92dc2780d32bffa947207bd4",
+      "title": "iPhone gập 'tạo ấn tượng mạnh' với người dùng thử",
+      "link": "https://vnexpress.net/iphone-gap-tao-an-tuong-manh-voi-nguoi-dung-thu-5112677.html",
+      "summary": "Mẫu điện thoại gập iPhone Ultra sắp ra mắt của Apple được cho là tạo ấn tượng tốt về trải nghiệm với những người dùng thử đầu tiên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T07:00:00+07:00",
+      "fetched": "2026-08-24T15:42:52.018995+07:00"
+    },
+    {
+      "id": "8c26a48d7c312524dd629895dd51f4c4",
+      "title": "Liệt hai chân do rò mạch máu tủy ngực",
+      "link": "https://vnexpress.net/liet-hai-chan-do-ro-mach-mau-tuy-nguc-5112545.html",
+      "summary": "Bà Hồng, 68 tuổi, yếu liệt hai chân, mất kiểm soát tiểu tiện, bác sĩ phát hiện rò động tĩnh mạch màng cứng khiến tủy ngực phù.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T07:00:00+07:00",
+      "fetched": "2026-08-24T15:42:52.019151+07:00"
+    },
+    {
+      "id": "51c3085b2cd02b348487283725f35e64",
+      "title": "Mổ u buồng trứng cho cô gái tăng áp động mạch phổi",
+      "link": "https://vnexpress.net/mo-u-buong-trung-cho-co-gai-tang-ap-dong-mach-phoi-5112535.html",
+      "summary": "Ngân, 22 tuổi, đang điều trị suy tim do tăng áp động mạch phổi thì phát hiện hai khối u buồng trứng, được bác sĩ phẫu thuật cắt u an toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T07:00:00+07:00",
+      "fetched": "2026-08-24T15:42:52.019336+07:00"
+    },
+    {
+      "id": "6fff9c7a92dc2780d32bffa947207bd4",
+      "title": "iPhone gập 'tạo ấn tượng mạnh' với người dùng thử",
+      "link": "https://vnexpress.net/iphone-gap-tao-an-tuong-manh-voi-nguoi-dung-thu-5112677.html",
+      "summary": "Mẫu điện thoại gập iPhone Ultra sắp ra mắt của Apple được cho là tạo ấn tượng tốt về trải nghiệm với những người dùng thử đầu tiên.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-24T07:00:00+07:00",
+      "fetched": "2026-08-24T15:43:03.372222+07:00"
+    },
+    {
+      "id": "4358ebb7321cf027c1424e614b935f63",
+      "title": "Vợ bỏ về ngoại, ép tôi bỏ tiền xây nhà trên cái ao bố mẹ vợ cho",
+      "link": "https://vnexpress.net/vo-bo-ve-ngoai-ep-toi-bo-tien-xay-nha-tren-cai-ao-bo-me-vo-cho-5112730.html",
+      "summary": "Vợ muốn tôi về bên vợ cất nhà trên khu đất cha mẹ cho cô ấy, nếu muốn vợ chồng tiếp tục và con cái có cha mẹ đầy đủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T06:58:05+07:00",
+      "fetched": "2026-08-24T15:42:52.019488+07:00"
+    },
+    {
       "id": "e6700c8fc5e6dd6cec8aaf7117f676a9",
       "title": "Thanh Vân Hugo: Làm thiện nguyện cũng là cách tôi dạy con biết sẻ chia",
       "link": "https://thanhnien.vn/thanh-van-hugo-lam-thien-nguyen-cung-la-cach-toi-day-con-biet-se-chia-185260824120943883.htm",
@@ -451,6 +821,16 @@ window.newsData_2026_08_24 = {
       "category": "Tổng hợp",
       "published": "2026-08-24T06:50:00+07:00",
       "fetched": "2026-08-24T13:50:44.055967+07:00"
+    },
+    {
+      "id": "95f70b3fe763f9f573328a13e060c925",
+      "title": "Những kiểu mốt thống trị Thu Đông 2026",
+      "link": "https://vnexpress.net/nhung-kieu-mot-thong-tri-thu-dong-2026-5112052.html",
+      "summary": "Mặc nội y như trang phục thường, váy ba lỗ là hai trong số xu hướng được đẩy mạnh nửa cuối năm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T06:49:30+07:00",
+      "fetched": "2026-08-24T15:42:52.019662+07:00"
     },
     {
       "id": "db4ba014c93dc34c40b84fb9707c4b26",
