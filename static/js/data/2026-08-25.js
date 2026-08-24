@@ -1,7 +1,17 @@
 window.newsData_2026_08_25 = {
   "date": "2026-08-25",
-  "lastUpdated": "2026-08-25T01:34:41.265863+07:00",
+  "lastUpdated": "2026-08-25T03:25:42.964709+07:00",
   "articles": [
+    {
+      "id": "93d540677e3fddad639b0788ab5a1838",
+      "title": "TP.HCM tổ chức tiệc chiêu đãi Quốc khánh: 'Sự nghiệp làm nên bởi chữ Đồng'",
+      "link": "https://tuoitre.vn/tphcm-to-chuc-tiec-chieu-dai-quoc-khanh-su-nghiep-lam-nen-boi-chu-dong-100260824230431447.htm",
+      "summary": "Tại tiệc chiêu đãi mừng 81 năm Quốc khánh 2-9, lãnh đạo TP.HCM gửi đến cộng đồng quốc tế thông điệp đồng lòng, đồng hành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T03:25:36.552312+07:00",
+      "fetched": "2026-08-25T03:25:36.552458+07:00"
+    },
     {
       "id": "c7b89f10c50affe3419cd5682465efc6",
       "title": "Tình tiết bất ngờ trong cuộc đua Quả bóng vàng, người chiến thắng 'sẽ không ai ngờ tới'",
@@ -151,6 +161,26 @@ window.newsData_2026_08_25 = {
       "category": "Tổng hợp",
       "published": "2026-08-25T01:34:35.481573+07:00",
       "fetched": "2026-08-25T01:34:35.481716+07:00"
+    },
+    {
+      "id": "451e59999f4e174046b9bf5c263c355c",
+      "title": "7 bữa sáng 'nhẹ bụng, tiêu mỡ' cho cả tuần",
+      "link": "https://vnexpress.net/7-bua-sang-nhe-bung-tieu-mo-cho-ca-tuan-5111333.html",
+      "summary": "Bữa sáng, bạn có thể ăn cháo, cơm nắm mè đen, khoai lang hấp để cải thiện tiêu hóa, bún phở nên hạn chế húp cạn nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T19:00:00+07:00",
+      "fetched": "2026-08-25T03:25:31.959470+07:00"
+    },
+    {
+      "id": "e4481f99343a92d9aabdef400a5ae281",
+      "title": "Những ngôi sao đi chân trần dự sự kiện",
+      "link": "https://vnexpress.net/nhung-ngoi-sao-di-chan-tran-du-su-kien-5112524.html",
+      "summary": "Julia Roberts, Cameron Diaz, Emma Thompson và nhiều sao đi chân trần để được thoải mái ở sự kiện điện ảnh, thời trang.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T19:00:00+07:00",
+      "fetched": "2026-08-25T03:25:31.959631+07:00"
     },
     {
       "id": "6fa8dc6673d028b419036a165414f3af",
