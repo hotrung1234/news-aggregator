@@ -1,7 +1,87 @@
 window.newsData_2026_08_25 = {
   "date": "2026-08-25",
-  "lastUpdated": "2026-08-25T21:40:33.758239+07:00",
+  "lastUpdated": "2026-08-25T23:32:30.447620+07:00",
   "articles": [
+    {
+      "id": "a8f8611207b1244b0e43f56ab8ffd602",
+      "title": "'Mong cơ quan thuế trả lời vướng mắc cũng rõ ràng, cụ thể y như khi ra kết luận thanh tra'",
+      "link": "https://tuoitre.vn/mong-co-quan-thue-tra-loi-vuong-mac-cung-ro-rang-cu-the-y-nhu-khi-ra-ket-luan-thanh-tra-100260825212713844.htm",
+      "summary": "Nhiều quy định trong luật chưa rõ ràng, 9 người có thể hiểu ra 11 ý. Thế nhưng khi doanh nghiệp làm văn bản hỏi thì cơ quan thuế lại vận dụng đúng ý trong văn bản để trả lời nên rốt cuộc doanh nghiệp không hiểu gì và cũng không biết làm sao cho đúng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T23:32:22.710634+07:00",
+      "fetched": "2026-08-25T23:32:22.710682+07:00"
+    },
+    {
+      "id": "37bb781f1039661864d7df5fe951ab99",
+      "title": "Nam sinh lớp 11 'ẵm' hơn 200 triệu đồng tiền thưởng học sinh giỏi của tỉnh",
+      "link": "https://tuoitre.vn/nam-sinh-lop-11-am-hon-200-trieu-dong-tien-thuong-hoc-sinh-gioi-cua-tinh-100260825174210996.htm",
+      "summary": "Giành cú đúp huy chương bạc tại các kỳ thi Olympic toán học quốc tế, khu vực và giải nhất học sinh giỏi quốc gia, nam sinh lớp 11 ở Nghệ An nhận thưởng hơn 200 triệu đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T23:32:22.710578+07:00",
+      "fetched": "2026-08-25T23:32:22.710626+07:00"
+    },
+    {
+      "id": "7b395a3e657775a9369b59726e05bf58",
+      "title": "Đại tướng Nguyễn Trọng Nghĩa trao Huy hiệu 80 năm tuổi Đảng cho đảng viên lão thành tại Quảng Trị",
+      "link": "https://tuoitre.vn/dai-tuong-nguyen-trong-nghia-trao-huy-hieu-80-nam-tuoi-dang-cho-dang-vien-lao-thanh-tai-quang-tri-100260825211820472.htm",
+      "summary": "Đại tướng Nguyễn Trọng Nghĩa, Ủy viên Bộ Chính trị, Bí thư Trung ương Đảng, Chủ nhiệm Tổng cục Chính trị Quân đội nhân dân Việt Nam thay mặt Bộ Chính trị, Ban Bí thư trao Huy hiệu 80 năm tuổi Đảng cho 6 đảng viên lão thành ở Quảng Trị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T23:32:22.710520+07:00",
+      "fetched": "2026-08-25T23:32:22.710569+07:00"
+    },
+    {
+      "id": "fc18bfb589f9b0be4fc8a66f7490d2e9",
+      "title": "Tăng phí hồ sơ H-1B và chuẩn bị thu hồi 200.000 visa: Mỹ sẽ mất nhiều hơn được?",
+      "link": "https://tuoitre.vn/tang-phi-ho-so-h-1b-va-chuan-bi-thu-hoi-200000-visa-my-se-mat-nhieu-hon-duoc-10026082518260461.htm",
+      "summary": "Giới chuyên gia nhận định Washington đang thu hẹp cả những con đường nhập cư hợp pháp vào Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T23:32:22.710464+07:00",
+      "fetched": "2026-08-25T23:32:22.710512+07:00"
+    },
+    {
+      "id": "774b5d088acbb2bdff60c69e3c59b430",
+      "title": "Việt Nam và Singapore hướng tới đối tác công nghệ chiến lược hàng đầu ở Đông Nam Á",
+      "link": "https://tuoitre.vn/viet-nam-va-singapore-huong-toi-doi-tac-cong-nghe-chien-luoc-hang-dau-o-dong-nam-a-100260825195645402.htm",
+      "summary": "Việt Nam và Singapore sẽ tự cường hơn về công nghệ thông qua hợp tác và kết nối, theo tuyên bố chung ngày 25-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T23:32:22.710405+07:00",
+      "fetched": "2026-08-25T23:32:22.710456+07:00"
+    },
+    {
+      "id": "c9c13fcbd681445adf3a74cb30a03896",
+      "title": "Ông Trump dọa đổi tên hồ Ontario của Canada thành 'hồ Mỹ'",
+      "link": "https://tuoitre.vn/ong-trump-doa-doi-ten-ho-ontario-cua-canada-thanh-ho-my-100260825220857283.htm",
+      "summary": "Một lần nữa, Tổng thống Mỹ muốn \"vẽ lại bản đồ thế giới\" bằng cách đổi tên hồ Ontario của Canada thành \"hồ Mỹ\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T23:32:22.710340+07:00",
+      "fetched": "2026-08-25T23:32:22.710395+07:00"
+    },
+    {
+      "id": "3106bd74b245da00f0ab99538903f7d3",
+      "title": "'Soi' suất ăn học đường từ gốc bằng công nghệ",
+      "link": "https://tuoitre.vn/soi-suat-an-hoc-duong-tu-goc-bang-cong-nghe-100260825220701291.htm",
+      "summary": "Không chỉ kiểm tra món ăn trên khay, với mô hình 'Tick xanh trách nhiệm', công nghệ giúp truy xuất hành trình từ miếng thịt, bó rau đến suất ăn hoàn chỉnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T23:32:22.710268+07:00",
+      "fetched": "2026-08-25T23:32:22.710331+07:00"
+    },
+    {
+      "id": "5f79ece02075d5f1d585c2488c83750f",
+      "title": "Ngôi sao cầu lông Nhật Bản đến Việt Nam",
+      "link": "https://tuoitre.vn/ngoi-sao-cau-long-nhat-ban-den-viet-nam-100260825230418185.htm",
+      "summary": "Tối 25-8, VĐV cầu lông Chiharu Shida (Nhật Bản) đã trở lại Hà Nội sau 10 năm và có buổi giao lưu với những người đam mê bộ môn này tại Nhà thi đấu Tây Hồ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T23:32:22.710104+07:00",
+      "fetched": "2026-08-25T23:32:22.710255+07:00"
+    },
     {
       "id": "d5aaff8f77e19b9e43303d4008c88840",
       "title": "Vụ vạch kẻ đường nét liền chắn ngã ba: Đừng để tài xế rơi vào thế khó",
@@ -453,6 +533,46 @@ window.newsData_2026_08_25 = {
       "fetched": "2026-08-25T17:27:50.267318+07:00"
     },
     {
+      "id": "537cacbcdfbc8a71e5bf108c8ad07725",
+      "title": "Mac mini dùng chip M6 giá từ 25 triệu đồng",
+      "link": "https://vnexpress.net/mac-mini-dung-chip-m6-gia-tu-25-trieu-dong-5113390.html",
+      "summary": "Mac mini nâng cấp chip M6 có giá từ 25 triệu đồng, cao hơn 10 triệu đồng so với mức khởi điểm của phiên bản M4 ra mắt năm 2024.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-25T16:17:27+07:00",
+      "fetched": "2026-08-25T23:32:28.416108+07:00"
+    },
+    {
+      "id": "f09b7faa82c046c2148fd360054d300d",
+      "title": "Ông Trump: Mỹ đã dọn sạch thủy lôi ở eo biển Hormuz",
+      "link": "https://vnexpress.net/ong-trump-my-da-don-sach-thuy-loi-o-eo-bien-hormuz-5113393.html",
+      "summary": "Ông Trump cho biết toàn bộ thủy lôi đã được kích nổ hoặc gỡ bỏ ở eo biển Hormuz, đồng thời cảnh báo Mỹ sẽ phá hủy mọi xuồng rải thủy lôi.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-25T15:58:38+07:00",
+      "fetched": "2026-08-25T23:32:24.557595+07:00"
+    },
+    {
+      "id": "36f4d77833f76881c997d6a19fa64f31",
+      "title": "Chủ tịch FIFA có mặt ở Hà Nội trưa 26.8, lưu trú tại khách sạn sang trọng phố Lý Thái Tổ",
+      "link": "https://thanhnien.vn/chu-tich-fifa-co-mat-o-ha-noi-trua-268-luu-tru-tai-khach-san-sang-trong-pho-ly-thai-to-185260825223701925.htm",
+      "summary": "Chủ tịch FIFA Gianni Infantino sẽ đến Hà Nội ngày 26.8, cùng Tổng thư ký FIFA Mattias Grafstrom dự khán trận chung kết lượt về ASEAN Cup 2026 giữa đội tuyển Việt Nam và Thái Lan trên sân Mỹ Đình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T15:44:00+07:00",
+      "fetched": "2026-08-25T23:32:20.229437+07:00"
+    },
+    {
+      "id": "5bf6dc1890ce2f3acc34d963019e75d4",
+      "title": "Việt Nam - Singapore ra tuyên bố chung về chiến lược kết nối công nghệ",
+      "link": "https://vnexpress.net/viet-nam-singapore-ra-tuyen-bo-chung-ve-chien-luoc-ket-noi-cong-nghe-5113383.html",
+      "summary": "Việt Nam và Singapore nhất trí tầm nhìn chung đưa hai nước trở thành đối tác công nghệ chiến lược hàng đầu ở Đông Nam Á.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-25T15:40:08+07:00",
+      "fetched": "2026-08-25T23:32:24.557754+07:00"
+    },
+    {
       "id": "3cfb66cdf1fe3fce0e2fba590812b8e2",
       "title": "Một suất ăn an toàn bắt đầu từ đâu?",
       "link": "https://tuoitre.vn/mot-suat-an-an-toan-bat-dau-tu-dau-100260825144020005.htm",
@@ -601,6 +721,56 @@ window.newsData_2026_08_25 = {
       "category": "Tổng hợp",
       "published": "2026-08-25T15:37:24.385086+07:00",
       "fetched": "2026-08-25T15:37:24.385242+07:00"
+    },
+    {
+      "id": "80e81a3cfe8baed25e025706997bfd34",
+      "title": "'TP HCM cần giảm chi phí đô thị để giữ lợi thế cạnh tranh'",
+      "link": "https://vnexpress.net/tp-hcm-can-giam-chi-phi-do-thi-de-giu-loi-the-canh-tranh-5113353.html",
+      "summary": "Giá nhà cao, ùn tắc, chi phí logistics đắt đỏ đang bào mòn lợi thế tập trung của TP HCM, đặt ra yêu cầu giảm gánh nặng đô thị để giữ sức cạnh tranh, theo các chuyên gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T15:26:05+07:00",
+      "fetched": "2026-08-25T23:32:17.015667+07:00"
+    },
+    {
+      "id": "211c20d9ac3801340cddccbaaa8d9893",
+      "title": "Chi tiền cho con đi đào khoai, chặt củi để nếm 'mùi gian khổ'",
+      "link": "https://vnexpress.net/chi-tien-cho-con-di-dao-khoai-chat-cui-de-nem-mui-gian-kho-5112213.html",
+      "summary": "Nhiều cha mẹ gửi con tới các trại hè ở nông thôn, đi đào khoai, chặt củi, cho lợn ăn... với hy vọng đứa trẻ đỡ ngỗ ngược và biết quý trọng sức lao động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T15:25:38+07:00",
+      "fetched": "2026-08-25T23:32:17.015857+07:00"
+    },
+    {
+      "id": "db993d9377f9d8c6f8ec60134d8a59d9",
+      "title": "Nếu vô địch ASEAN Cup 2026, đội tuyển Việt Nam được thưởng bao nhiêu từ ngân sách?",
+      "link": "https://thanhnien.vn/neu-vo-dich-asean-cup-2026-doi-tuyen-viet-nam-duoc-thuong-bao-nhieu-tu-ngan-sach-185260825215711245.htm",
+      "summary": "Nếu vô địch ASEAN Cup 2026, mỗi VĐV đội tuyển Việt Nam đủ điều kiện sẽ nhận 40 triệu đồng tiền thưởng từ ngân sách, chưa kể các khoản thưởng từ VFF và nguồn xã hội hóa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T15:05:00+07:00",
+      "fetched": "2026-08-25T23:32:20.229588+07:00"
+    },
+    {
+      "id": "94d49b13a482f01db1a50f8cc5adcf7d",
+      "title": "Sự nghiệp Trà 'Cave' Kiều Thanh trước khi bị bắt vì ma túy",
+      "link": "https://thanhnien.vn/su-nghiep-tra-cave-kieu-thanh-truoc-khi-bi-bat-vi-ma-tuy-185260825210555285.htm",
+      "summary": "Trước khi vướng vòng lao lý vì liên quan đến ma túy, NSƯT Kiều Thanh từng ghi dấu với nhiều vai diễn ấn tượng, đặc biệt là vai diễn Trà 'Cave'. Song sự nghiệp của cô cũng không ít lần 'dậy sóng' bởi phát ngôn gây tranh cãi và ồn ào đời tư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T14:53:00+07:00",
+      "fetched": "2026-08-25T23:32:20.229721+07:00"
+    },
+    {
+      "id": "d260f05be6a9731d854fd8f1d87723bb",
+      "title": "Huyền thoại đường 1C: Ký ức về 'tọa độ lửa'",
+      "link": "https://thanhnien.vn/huyen-thoai-duong-1c-ky-uc-ve-toa-do-lua-185260825211417649.htm",
+      "summary": "Trên tuyến đường 1C huyền thoại, nơi được mệnh danh là 'tọa độ lửa' miền Tây Nam bộ, không chỉ có đạn bom khốc liệt mà còn in dấu tuổi trẻ, ước mơ và sự cống hiến quên mình của những chàng trai, cô gái đương tuổi đôi mươi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T14:50:00+07:00",
+      "fetched": "2026-08-25T23:32:20.229848+07:00"
     },
     {
       "id": "787a75a01774e45768f6d123e244e2a1",
