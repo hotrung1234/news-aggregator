@@ -1,6 +1,6 @@
 window.newsData_2026_08_26 = {
   "date": "2026-08-26",
-  "lastUpdated": "2026-08-26T03:24:15.972347+07:00",
+  "lastUpdated": "2026-08-26T05:22:20.679028+07:00",
   "articles": [
     {
       "id": "7cbdc5995fbe047c65f8cd83fa45d755",
@@ -151,6 +151,166 @@ window.newsData_2026_08_26 = {
       "category": "Tổng hợp",
       "published": "2026-08-26T01:34:24.760293+07:00",
       "fetched": "2026-08-26T01:34:24.760427+07:00"
+    },
+    {
+      "id": "e95f23ded15627610095c7287f655a92",
+      "title": "Còn hơn 5.800 hộ dân ngập lụt, cô lập trong mưa lũ bão số 4",
+      "link": "https://thanhnien.vn/con-hon-5800-ho-dan-ngap-lut-co-lap-trong-mua-lu-bao-so-4-185260825225255294.htm",
+      "summary": "Theo Trung tâm Dự báo khí tượng thủy văn quốc gia, chiều 25.8, bão số 4 đã suy yếu thành áp thấp nhiệt đới và tiếp tục di chuyển theo hướng đông bắc, sẽ đổ bộ bán đảo Lôi Châu (Trung Quốc), sau đó suy yếu thành vùng áp thấp và tan dần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T22:21:00+07:00",
+      "fetched": "2026-08-26T05:22:13.436262+07:00"
+    },
+    {
+      "id": "ff433fdee75b65235279163327a0320b",
+      "title": "Ukraine dương oai với dàn vũ khí không người lái",
+      "link": "https://thanhnien.vn/ukraine-duong-oai-voi-dan-vu-khi-khong-nguoi-lai-185260825220536013.htm",
+      "summary": "Ukraine trong hôm 24.8 đã tổ chức một buổi trình diễn quân sự với sự tham gia của các loại thiết bị không người lái hoạt động trên bộ, trên biển và trên không nhân kỷ niệm ngày Độc lập của đất nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T22:21:00+07:00",
+      "fetched": "2026-08-26T05:22:13.436453+07:00"
+    },
+    {
+      "id": "20d66be38a0e7253627d3e81f0574988",
+      "title": "Mở ra những triển vọng mới trong quan hệ Việt Nam - Côte d'Ivoire",
+      "link": "https://thanhnien.vn/mo-ra-nhung-trien-vong-moi-trong-quan-he-viet-nam-cote-divoire-185260825224507555.htm",
+      "summary": "Côte d'Ivoire hiện là thị trường xuất khẩu gạo lớn thứ 3 của VN. Ngược lại, VN nhập khẩu hạt điều, bông và một số loại nguyên liệu từ Côte d'Ivoire.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T22:20:00+07:00",
+      "fetched": "2026-08-26T05:22:13.436615+07:00"
+    },
+    {
+      "id": "2e618354851874919cea5e12fb5c93af",
+      "title": "Cựu thanh niên xung phong tiếp tục giữ lửa truyền thống",
+      "link": "https://thanhnien.vn/cuu-thanh-nien-xung-phong-tiep-tuc-giu-lua-truyen-thong-185260825230627255.htm",
+      "summary": "Chiều tối 25.8, tại Hà Nội, Tổng Bí thư, Chủ tịch nước Tô Lâm gặp mặt đại biểu tiêu biểu dự Đại hội đại biểu toàn quốc Hội Cựu thanh niên xung phong Việt Nam lần thứ V, nhiệm kỳ 2026 - 2031.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T22:15:00+07:00",
+      "fetched": "2026-08-26T05:22:13.436808+07:00"
+    },
+    {
+      "id": "493808fdd17a34259c0a9e49688633d2",
+      "title": "Việt Nam - Lào tiếp tục phối hợp triển khai các nhiệm vụ hợp tác",
+      "link": "https://thanhnien.vn/viet-nam-lao-tiep-tuc-phoi-hop-trien-khai-cac-nhiem-vu-hop-tac-185260825224128346.htm",
+      "summary": "Chiều 25.8, tại Trụ sở Chính phủ, Thủ tướng Lê Minh Hưng đã tiếp ông Vanhxay Phongsavanh (Ủy viên Bộ Chính trị - Bí thư T.Ư Đảng - Chủ nhiệm Ban Kiểm tra T.Ư - Tổng thanh tra Nhà nước, Trưởng ban Phòng, chống tham nhũng T.Ư Lào) và Đoàn nhân dịp sang thăm và làm việc tại VN.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T22:15:00+07:00",
+      "fetched": "2026-08-26T05:22:13.436966+07:00"
+    },
+    {
+      "id": "aed4d4294d48845c7aa78a27c216884f",
+      "title": "Pháp xúc tiến cấm điện thoại di động tại trường trung học",
+      "link": "https://thanhnien.vn/phap-xuc-tien-cam-dien-thoai-di-dong-tai-truong-trung-hoc-185260825220812704.htm",
+      "summary": "Chính phủ Pháp ngày 24.8 thông báo lệnh cấm điện thoại di động (ĐTDĐ) tại các trường trung học phổ thông (THPT) có thể sẽ có hiệu lực từ năm học mới, bắt đầu vào tháng tới, theo AFP.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T22:15:00+07:00",
+      "fetched": "2026-08-26T05:22:13.437119+07:00"
+    },
+    {
+      "id": "c70014bf8bd8e24918f3fac87bbc7eef",
+      "title": "Tử vi ngày 26 tháng 8: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-26-thang-8-con-giap-nao-may-man-hom-nay-185260824091413644.htm",
+      "summary": "Tử vi ngày 26 tháng 8 mang đến những gợi ý tham khảo cho 12 con giáp. Bạn nên dành sự chú ý cho một điều rất quen: bữa cơm gia đình. Không cần món ngon hay dịp đặc biệt, đôi khi việc mọi người cùng có mặt đã đủ khiến một bữa ăn trở nên đáng nhớ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T22:15:00+07:00",
+      "fetched": "2026-08-26T05:22:13.437276+07:00"
+    },
+    {
+      "id": "33352a778ef04d90b13f8083e87356c1",
+      "title": "Phải bảo đảm chăm sóc y tế thiết yếu, thu nhập cơ bản",
+      "link": "https://thanhnien.vn/phai-bao-dam-cham-soc-y-te-thiet-yeu-thu-nhap-co-ban-185260825230305609.htm",
+      "summary": "Chiều 25.8, tại Hà Nội, Tổng Bí thư, Chủ tịch nước Tô Lâm chủ trì buổi làm việc với Đảng ủy Chính phủ và các cơ quan về tình hình thực hiện chính sách an sinh xã hội. Cùng dự có các Ủy viên Bộ Chính trị, Ủy viên Ban Bí thư, Ủy viên T.Ư Đảng; lãnh đạo các ban, bộ, ngành, cơ quan T.Ư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T22:13:00+07:00",
+      "fetched": "2026-08-26T05:22:13.437436+07:00"
+    },
+    {
+      "id": "54ede9169efd3e2b1b58a85b0e882964",
+      "title": "Từ mùa thu độc lập đến khát vọng hùng cường",
+      "link": "https://thanhnien.vn/tu-mua-thu-doc-lap-den-khat-vong-hung-cuong-185260825230050434.htm",
+      "summary": "Với thế và lực sau 81 năm kể từ mùa thu độc lập năm 1945, đất nước đang bước trên hành trình mới với khát vọng về quốc gia hùng cường, thịnh vượng vào 2045.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T22:11:00+07:00",
+      "fetched": "2026-08-26T05:22:13.437588+07:00"
+    },
+    {
+      "id": "f33f088d16a9c167c87a87126fcc8921",
+      "title": "Chiến sự Ukraine ngày 1.644: Nga bác ý tưởng lập vùng đệm ở Donbass",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1644-nga-bac-y-tuong-lap-vung-dem-o-donbass-185260825215718654.htm",
+      "summary": "Quân đội Nga và Ukraine trong ngày 25.8 vẫn tiến hành các cuộc không kích nhằm gây sức ép lên đối thủ, trong bối cảnh các đề xuất hòa bình liên tiếp không tìm được tiếng nói chung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T22:04:00+07:00",
+      "fetched": "2026-08-26T05:22:13.437770+07:00"
+    },
+    {
+      "id": "78f56ec8ca5a427fa38794235fe01d00",
+      "title": "Lấn chiếm hành lang đường sắt 'đến hẹn lại lên'",
+      "link": "https://thanhnien.vn/lan-chiem-hanh-lang-duong-sat-den-hen-lai-len-185260825193900104.htm",
+      "summary": "Nhiều năm nay, Hà Nội vẫn chật vật với tình trạng lấn chiếm hành lang an toàn đường sắt. Sau những đợt ra quân xử lý rầm rộ của cơ quan chức năng, vi phạm lại tái diễn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T22:00:00+07:00",
+      "fetched": "2026-08-26T05:22:13.437926+07:00"
+    },
+    {
+      "id": "90d62890ccdfe12119fd0a5a76798bf8",
+      "title": "Hà Nội mưa nhiều ngày nhưng giảm điểm ngập sâu và nước rút nhanh",
+      "link": "https://thanhnien.vn/ha-noi-mua-nhieu-ngay-nhung-giam-diem-ngap-sau-va-nuoc-rut-nhanh-185260825125208637.htm",
+      "summary": "Sau những ngày mưa liên tục do ảnh hưởng của bão số 4, nhiều khu vực từng thường xuyên ngập sâu tại Hà Nội đã ghi nhận khả năng tiêu thoát nước được cải thiện. Với người dân, thay đổi rõ nhất là nước rút nhanh hơn, giao thông thuận lợi hơn và những điểm ngập kéo dài trước đây không còn tái diễn với ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T22:00:00+07:00",
+      "fetched": "2026-08-26T05:22:13.438084+07:00"
+    },
+    {
+      "id": "70488d7ee50f4ae8e4e8ef2fe5095833",
+      "title": "Lịch âm hôm nay 26.8 cần chú ý ngày Kim Thổ, dương lịch có ngày đặc biệt",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-268-can-chu-y-ngay-kim-tho-duong-lich-co-ngay-dac-biet-185260824070830268.htm",
+      "summary": "Theo lịch hôm nay 26.8 là ngày Nhâm Thân, dân gian quan niệm đây là ngày Kim Thổ không nên xuất hành, khởi sự cần chú ý. Trong khi đó, dương lịch xuất hiện ngày đặc biệt dành cho loài chó - người bạn 4 chân của con người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T22:00:00+07:00",
+      "fetched": "2026-08-26T05:22:13.438234+07:00"
+    },
+    {
+      "id": "b362488e361da5ff91464a28fdf3a893",
+      "title": "Thấy mùi cơ thể như thế này, đi khám ngay!",
+      "link": "https://thanhnien.vn/thay-mui-co-the-nhu-the-nay-di-kham-ngay-18526081709045818.htm",
+      "summary": "Mùi cơ thể có thể thay đổi do thực phẩm, hormone, thuốc hoặc thời tiết. Tuy nhiên, nếu hơi thở hoặc mùi mồ hôi đột ngột thay đổi, kéo dài và đi kèm các triệu chứng bất thường khác, đây có thể là dấu hiệu cần lưu ý về sức khỏe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T22:00:00+07:00",
+      "fetched": "2026-08-26T05:22:13.438392+07:00"
+    },
+    {
+      "id": "9d858463f3e9995a36d7449408888184",
+      "title": "Vụ bắt cóc phủ bóng nỗ lực hút khách Trung Quốc của Thái Lan",
+      "link": "https://vnexpress.net/vu-bat-coc-phu-bong-no-luc-hut-khach-trung-quoc-cua-thai-lan-5113038.html",
+      "summary": "Vụ nữ du khách bị bắt cóc tại Thái Lan làm dấy lên lo ngại về an toàn, phủ bóng nỗ lực của nước này trong việc phục hồi thị trường khách Trung Quốc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-25T22:00:00+07:00",
+      "fetched": "2026-08-26T05:22:15.979452+07:00"
+    },
+    {
+      "id": "30bf55940466c5e559eb3dcf6ad8006c",
+      "title": "Bạo lực băng nhóm đẫm máu làm rúng động Haiti",
+      "link": "https://thanhnien.vn/bao-luc-bang-nhom-dam-mau-lam-rung-dong-haiti-185260825220428089.htm",
+      "summary": "Reuters hôm qua (25.8) dẫn thông tin từ LHQ xác nhận đã có ít nhất 47 người thiệt mạng và thêm 22 người bị thương trong vụ tấn công đẫm máu vào khuya 24.8 (giờ địa phương) của băng nhóm có vũ trang nhằm vào khu dân cư Kenscoff nằm ở vùng phụ cận thủ đô Port-au-Prince của Haiti, và con số trên có thể...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T21:45:00+07:00",
+      "fetched": "2026-08-26T05:22:13.438548+07:00"
     },
     {
       "id": "28060c946d34491b53f0e4115ae15eca",
