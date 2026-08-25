@@ -1,7 +1,157 @@
 window.newsData_2026_08_25 = {
   "date": "2026-08-25",
-  "lastUpdated": "2026-08-25T05:21:34.045782+07:00",
+  "lastUpdated": "2026-08-25T08:03:29.658050+07:00",
   "articles": [
+    {
+      "id": "a002b1f126df8b8beb21cbf31224b34d",
+      "title": "Thời tiết hôm nay 25-8: Bão số 4 ngược ra biển, từ chiều nay Bắc Bộ giảm mưa",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-25-8-bao-so-4-nguoc-ra-bien-tu-chieu-nay-bac-bo-giam-mua-100260824163105751.htm",
+      "summary": "Hôm nay 25-8, cơn bão số 4 ngược ra biển trở lại, đất liền Bắc Bộ giảm mưa từ chiều nay. Thời tiết Nam Bộ và Trung Bộ nắng nóng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T08:03:20.832510+07:00",
+      "fetched": "2026-08-25T08:03:20.832590+07:00"
+    },
+    {
+      "id": "ca2471d29735a912afd275bfd1a176d0",
+      "title": "Chelsea thắng sát nút ở trận ra quân Premier League",
+      "link": "https://tuoitre.vn/chelsea-thang-sat-nut-o-tran-ra-quan-premier-league-100260825051237051.htm",
+      "summary": "Rạng sáng 25-8, Chelsea đã đánh bại Fulham 3-2 ở trận đấu muộn vòng 1 Giải ngoại hạng Anh (Premier League) trên sân khách Craven Cottage.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T08:03:20.832443+07:00",
+      "fetched": "2026-08-25T08:03:20.832501+07:00"
+    },
+    {
+      "id": "f57927cd67f77dc68a1bd5e208624da7",
+      "title": "Cụ ông thấy mệt ghé quán xin ghế ngồi nhờ rồi gục chết, gia đình đòi quán bồi thường",
+      "link": "https://tuoitre.vn/cu-ong-thay-met-ghe-quan-xin-ghe-ngoi-nho-roi-guc-chet-gia-dinh-doi-quan-boi-thuong-100260824201552094.htm",
+      "summary": "Sau hai lần thương lượng, yêu cầu bồi thường 100.000 nhân dân tệ của gia đình cụ ông được giảm xuống còn 19.000 nhân dân tệ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T08:03:20.832378+07:00",
+      "fetched": "2026-08-25T08:03:20.832433+07:00"
+    },
+    {
+      "id": "682b7928e8f04abdb356c4ae766bf656",
+      "title": "Đề xuất nhiều xét nghiệm, chụp chiếu không phải thực hiện lại khi chuyển viện",
+      "link": "https://tuoitre.vn/de-xuat-nhieu-xet-nghiem-chup-chieu-khong-phai-thuc-hien-lai-khi-chuyen-vien-10026082416552496.htm",
+      "summary": "Bộ Y tế đang xây dựng dự thảo thông tư quy định về danh mục dịch vụ cận lâm sàng và điều kiện sử dụng kết quả.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T08:03:20.832312+07:00",
+      "fetched": "2026-08-25T08:03:20.832368+07:00"
+    },
+    {
+      "id": "521b95bd581abd947372d54147c88cf0",
+      "title": "Đi chân trần có phải cách giúp bàn chân khỏe hơn?",
+      "link": "https://tuoitre.vn/di-chan-tran-co-phai-cach-giup-ban-chan-khoe-hon-100260824085312093.htm",
+      "summary": "Đi chân trần được cho rằng cách này giúp bàn chân khỏe hơn, cải thiện thăng bằng và thậm chí giảm viêm, ngủ ngon.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T08:03:20.832242+07:00",
+      "fetched": "2026-08-25T08:03:20.832302+07:00"
+    },
+    {
+      "id": "6680d796121caad8c567795ee27e88dd",
+      "title": "Tin tức thế giới 25-8: Mỹ thực thi 'chiến tranh kinh tế' với Iran; Anh chuyển giao công nghệ tên lửa cho Ukraine",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-25-8-my-thuc-thi-chien-tranh-kinh-te-voi-iran-anh-chuyen-giao-cong-nghe-ten-lua-cho-ukraine-100260825054133694.htm",
+      "summary": "Mỹ công bố mở rộng chiến dịch trừng phạt cắt đứt nguồn lực kinh tế của Iran; Chỉ 31% người Mỹ ủng hộ cuộc chiến với Iran.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T08:03:20.832175+07:00",
+      "fetched": "2026-08-25T08:03:20.832232+07:00"
+    },
+    {
+      "id": "901dc3d0bd21e2a1d172566ad6bff2be",
+      "title": "Việt Nam sắp đón hãng xe mới, giá dự kiến dễ tiếp cận",
+      "link": "https://tuoitre.vn/viet-nam-sap-don-hang-xe-moi-gia-du-kien-de-tiep-can-100260824160123662.htm",
+      "summary": "Dongfeng Forthing chính thức gia nhập thị trường Thái Lan với hai mẫu xe năng lượng mới Friday và V9, mở đầu kế hoạch mở rộng tại ASEAN.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T08:03:20.832106+07:00",
+      "fetched": "2026-08-25T08:03:20.832165+07:00"
+    },
+    {
+      "id": "f26545a8150f22d7c4804148317b391f",
+      "title": "Trẻ em Singapore chào đời là được chính phủ 'nuôi', tổng cộng đến 1,4 tỉ đồng",
+      "link": "https://tuoitre.vn/tre-em-singapore-chao-doi-la-duoc-chinh-phu-nuoi-tong-cong-den-14-ti-dong-100260825061405154.htm",
+      "summary": "Với gói hỗ trợ mới, mỗi trẻ em ở Singapore có thể nhận tổng cộng hơn 1,4 tỉ đồng từ khi chào đời đến 17 tuổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T08:03:20.832032+07:00",
+      "fetched": "2026-08-25T08:03:20.832095+07:00"
+    },
+    {
+      "id": "d4ce0dcc4c9ac232a498b83b0d919c1b",
+      "title": "Thái Lan chưa từng thắng khi đá chung kết ASEAN Cup trên sân khách",
+      "link": "https://tuoitre.vn/thai-lan-chua-tung-thang-khi-da-chung-ket-asean-cup-tren-san-khach-100260825060455812.htm",
+      "summary": "Truyền thông Đông Nam Á vừa chỉ ra một thống kê bất ngờ về tuyển Thái Lan tại chung kết ASEAN Cup có thể giúp tuyển Việt Nam tự tin về khả năng nâng cao chức vô địch vào ngày mai 26-8 ở Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T08:03:20.831963+07:00",
+      "fetched": "2026-08-25T08:03:20.832021+07:00"
+    },
+    {
+      "id": "c45c91397ebe409b5e04519de64e23c1",
+      "title": "Mỹ siết visa B1 và B2, 200.000 người có thể bị thu hồi",
+      "link": "https://tuoitre.vn/my-siet-visa-b1-va-b2-200000-nguoi-co-the-bi-thu-hoi-100260825065254963.htm",
+      "summary": "Nếu được thực hiện, đây sẽ là đợt thu hồi thị thực hàng loạt lớn nhất trong lịch sử Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T08:03:20.831896+07:00",
+      "fetched": "2026-08-25T08:03:20.831953+07:00"
+    },
+    {
+      "id": "b7a9d53f48ea13eac9d56b411b5cfaf2",
+      "title": "Xuất hiện trở lại nhiều loại cá hiếm mùa nước nổi",
+      "link": "https://tuoitre.vn/xuat-hien-tro-lai-nhieu-loai-ca-hiem-mua-nuoc-noi-100260823085353466.htm",
+      "summary": "Mùa nước nổi năm nay xuất hiện trở lại nhiều loại cá hiếm tưởng chừng dần vắng bóng như cá leo, cá kết, rô biển...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T08:03:20.831827+07:00",
+      "fetched": "2026-08-25T08:03:20.831886+07:00"
+    },
+    {
+      "id": "4ff5316ef79335ab3621efe82194a68d",
+      "title": "Loại vải tím 'đi nắng mà mát', mát hơn cotton trắng tới 4,2°C",
+      "link": "https://tuoitre.vn/loai-vai-tim-di-nang-ma-mat-mat-hon-cotton-trang-toi-42c-100260824205527044.htm",
+      "summary": "Vải tím mới vừa phản xạ phần lớn năng lượng Mặt trời vừa thoát nhiệt, giúp bề mặt vải mát hơn cotton trắng 4,2°C dưới nắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T08:03:20.831757+07:00",
+      "fetched": "2026-08-25T08:03:20.831817+07:00"
+    },
+    {
+      "id": "85bb0607788f748b447d516709052815",
+      "title": "Quân đội, công an xuyên đêm dọn chợ Giếng Vuông, đón 800 tiểu thương trở lại buôn bán sau lũ",
+      "link": "https://tuoitre.vn/quan-doi-cong-an-xuyen-dem-don-cho-gieng-vuong-don-800-tieu-thuong-tro-lai-buon-ban-sau-lu-100260825064155458.htm",
+      "summary": "Hàng trăm cán bộ, chiến sĩ quân đội, công an và lực lượng chức năng khác đã không ngủ, dốc sức tổng vệ sinh chợ Giếng Vuông, sớm đón khoảng 800 hộ kinh doanh trở lại buôn bán.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T08:03:20.831682+07:00",
+      "fetched": "2026-08-25T08:03:20.831746+07:00"
+    },
+    {
+      "id": "f95457cd476347848a1520aa2cb2aa8c",
+      "title": "Chứng khoán 25-8: Bất động sản có kéo VN-Index vượt 1.800 điểm?",
+      "link": "https://tuoitre.vn/chung-khoan-25-8-bat-dong-san-co-keo-vn-index-vuot-1800-diem-100260824220105978.htm",
+      "summary": "Các công ty chứng khoán lưu ý với nhịp hồi phục nhanh trong 2 phiên gần đây, khả năng xuất hiện rung lắc hoặc chốt lời trong các phiên tới cần được lưu ý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T08:03:20.831595+07:00",
+      "fetched": "2026-08-25T08:03:20.831670+07:00"
+    },
+    {
+      "id": "9e7e2ebf5d95094038ee72da01c67eed",
+      "title": "Hơn 10 năm ‘để yên’, cánh đồng ở Anh bất ngờ mọc hàng ngàn cây lan",
+      "link": "https://tuoitre.vn/hon-10-nam-de-yen-canh-dong-o-anh-bat-ngo-moc-hang-ngan-cay-lan-100260824092346878.htm",
+      "summary": "Không gieo thêm hạt giống, không cải tạo đất quy mô lớn, một cánh đồng từng trồng trọt ở Anh sau hơn 10 năm đã biến thành đồng cỏ hoa dại với hàng ngàn cây lan mọc tự nhiên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T08:03:20.831402+07:00",
+      "fetched": "2026-08-25T08:03:20.831578+07:00"
+    },
     {
       "id": "93d540677e3fddad639b0788ab5a1838",
       "title": "TP.HCM tổ chức tiệc chiêu đãi Quốc khánh: 'Sự nghiệp làm nên bởi chữ Đồng'",
@@ -163,6 +313,386 @@ window.newsData_2026_08_25 = {
       "fetched": "2026-08-25T01:34:35.481716+07:00"
     },
     {
+      "id": "137ddbbbd4369ec0859192f34901c7ac",
+      "title": "Giá heo hơi hôm nay 25.8.2026: Lấy lại mốc quan trọng",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-2582026-lay-lai-moc-quan-trong-185260825074835019.htm",
+      "summary": "Giá heo hơi tiếp tục tăng, đáng chú ý khi nhiều địa phương đã lấy lại mốc quan trọng 60.000 đồng/kg.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T01:02:00+07:00",
+      "fetched": "2026-08-25T08:03:17.594032+07:00"
+    },
+    {
+      "id": "f9f82b2579e4782f5ab41f5e524e6738",
+      "title": "Làm IVF tại Việt Nam: Cần chuẩn bị gì trước khi điều trị hiếm muộn",
+      "link": "https://thanhnien.vn/lam-ivf-tai-viet-nam-can-chuan-bi-gi-truoc-khi-dieu-tri-hiem-muon-185260824211116948.htm",
+      "summary": "Ngày càng nhiều kiều bào, người nước ngoài lựa chọn Việt Nam điều trị hiếm muộn nhờ chuyên gia giàu kinh nghiệm, công nghệ hiện đại, chi phí hợp lý. Trong đó, IVF Tâm Anh là địa chỉ được nhiều người bệnh tin tưởng lựa chọn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T01:00:00+07:00",
+      "fetched": "2026-08-25T08:03:17.594206+07:00"
+    },
+    {
+      "id": "1f374d8ad63ca626b46c3cdc3afda814",
+      "title": "Vắc xin HPV giúp nước Anh tiến gần mục tiêu loại trừ ung thư cổ tử cung",
+      "link": "https://thanhnien.vn/vac-xin-hpv-giup-nuoc-anh-tien-gan-muc-tieu-loai-tru-ung-thu-co-tu-cung-185260824210525535.htm",
+      "summary": "Nghiên cứu mang tên 'Xu hướng tử vong do ung thư cổ tử cung sau tiêm chủng HPV tại Anh' của Đại học Queen Mary London (Anh) cho thấy, phụ nữ tại nước này được tiêm vắc xin HPV khi 12 - 13 tuổi, có nguy cơ tử vong do ung thư cổ tử cung trước tuổi 30 gần như bằng không. Kết quả được công bố vào tháng ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T01:00:00+07:00",
+      "fetched": "2026-08-25T08:03:17.594365+07:00"
+    },
+    {
+      "id": "98a3bdca060e889f2604a473f7de091a",
+      "title": "Gen Z đóng phim lịch sử",
+      "link": "https://thanhnien.vn/gen-z-dong-phim-lich-su-185260824200819223.htm",
+      "summary": "Phim lịch sử - chiến tranh thời gian gần đây ghi nhận sự tham gia ngày càng nhiều diễn viên gen Z. Với họ, khi đóng phim lịch sử không đơn thuần là hóa trang, nhập vai mà đó còn là hành trình học cách \"sống\" trong câu chuyện lịch sử.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T01:00:00+07:00",
+      "fetched": "2026-08-25T08:03:17.594518+07:00"
+    },
+    {
+      "id": "accace1ce6c7de3cb451673145fcc174",
+      "title": "Đi xe buýt miễn phí ở TP.HCM trúng thưởng xe đạp: Nam sinh tưởng bị lừa",
+      "link": "https://thanhnien.vn/di-xe-buyt-mien-phi-o-tphcm-trung-thuong-xe-dap-nam-sinh-tuong-bi-lua-185260824185014212.htm",
+      "summary": "Đi xe buýt miễn phí ở TP.HCM mỗi ngày, Lê Văn Tiến, học sinh Trường THPT Nguyễn Hữu Cầu, bất ngờ nhận cuộc gọi báo được bốc thăm trúng thưởng trong chương trình TP.HCM tri ân hành khách đi xe buýt nhiều. Nam sinh tá hỏa tưởng lừa đảo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T01:00:00+07:00",
+      "fetched": "2026-08-25T08:03:17.594699+07:00"
+    },
+    {
+      "id": "5a993b572294179819b2be8df2f868eb",
+      "title": "Nhà máy dừng hoạt động bao lâu thì thiệt hại vượt xa giá trị tài sản?",
+      "link": "https://thanhnien.vn/nha-may-dung-hoat-dong-bao-lau-thi-thiet-hai-vuot-xa-gia-tri-tai-san-18526082418134975.htm",
+      "summary": "Khi lựa chọn chương trình bảo hiểm cho nhà máy, doanh nghiệp thường tập trung trước hết vào giá trị tài sản. Tuy nhiên trong nhiều tổn thất thực tế, phần thiệt hại đáng kể lại đến từ thời gian dây chuyền ngừng hoạt động - khoản thiệt hại có thể lớn hơn đáng kể so với hình dung ban đầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T01:00:00+07:00",
+      "fetched": "2026-08-25T08:03:17.594852+07:00"
+    },
+    {
+      "id": "207759b081fbff3ac28207d26d2c4fe6",
+      "title": "Chính thức ra mắt Alora Nha Trang: Nightlife Landmark - Biểu tượng ánh sáng mới tại Nha Trang",
+      "link": "https://thanhnien.vn/chinh-thuc-ra-mat-alora-nha-trang-nightlife-landmark-bieu-tuong-anh-sang-moi-tai-nha-trang-185260824172742792.htm",
+      "summary": "Ngày 24.8.2026, KDI Group chính thức ra mắt Alora Nha Trang, tòa tháp thuộc đô thị resort quốc tế Libera Nha Trang - Asia's New Destination. Được định vị là Nightlife Landmark - biểu tượng ánh sáng và giải trí mới bừng sáng Nha Trang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T01:00:00+07:00",
+      "fetched": "2026-08-25T08:03:17.595001+07:00"
+    },
+    {
+      "id": "c51a7373975b3c92c1a35caf17def5ea",
+      "title": "Thường trực Ban Bí thư dự Lễ kỷ niệm 81 năm Quốc khánh Việt Nam tại Singapore",
+      "link": "https://thanhnien.vn/thuong-truc-ban-bi-thu-du-le-ky-niem-81-nam-quoc-khanh-viet-nam-tai-singapore-185260825025025416.htm",
+      "summary": "Ngày 24.8, Đại sứ quán Việt Nam tại Singapore đã long trọng tổ chức lễ kỷ niệm 81 năm Quốc khánh (2.9). Thường trực Ban Bí thư Trần Cẩm Tú cùng Đoàn đại biểu cấp cao Việt Nam tham dự sự kiện nhân chuyến thăm chính thức Singapore và đồng chủ trì Đối thoại chiến lược Việt Nam - Singapore lần thứ nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T00:59:00+07:00",
+      "fetched": "2026-08-25T08:03:17.595153+07:00"
+    },
+    {
+      "id": "c3d30c97b15933b2d9f909df7380af39",
+      "title": "Mỹ loại 'trở ngại cuối cùng' đối với Syria",
+      "link": "https://thanhnien.vn/my-loai-tro-ngai-cuoi-cung-doi-voi-syria-18526082507390182.htm",
+      "summary": "Mỹ ngày 24.8 chính thức đưa Syria ra khỏi danh sách các quốc gia bảo trợ khủng bố, gỡ bỏ điều mà Damascus xem là trở ngại lớn cuối cùng đối với việc đầu tư vào Syria, theo Reuters.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T00:56:00+07:00",
+      "fetched": "2026-08-25T08:03:17.595302+07:00"
+    },
+    {
+      "id": "234e0441f9b32b1c78c2fe300d87a91c",
+      "title": "Mỹ sắp thu hồi thị thực lớn nhất lịch sử, nhắm vào 200.000 người nước ngoài",
+      "link": "https://thanhnien.vn/my-sap-thu-hoi-thi-thuc-lon-nhat-lich-su-nham-vao-200000-nguoi-nuoc-ngoai-185260825064637576.htm",
+      "summary": "Bộ Ngoại giao Mỹ dự kiến thu hồi các thị thực B1 và B2 được cấp trong giai đoạn 2016-2026 cho những người từng hoặc đang xin tị nạn, mở ra đợt thu hồi lớn chưa từng thấy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T00:38:00+07:00",
+      "fetched": "2026-08-25T08:03:17.595458+07:00"
+    },
+    {
+      "id": "e19c8677847b92f70599f53ce755d6d0",
+      "title": "Mỹ dọa cấm vận các nước giao dịch với Iran, Tehran 'sẵn sàng' đối phó",
+      "link": "https://thanhnien.vn/my-doa-cam-van-cac-nuoc-giao-dich-voi-iran-tehran-san-sang-doi-pho-18526082507125177.htm",
+      "summary": "Bộ trưởng Tài chính Mỹ Scott Bessent đe dọa cấm vận các nước từ chối cắt đứt quan hệ kinh tế với Iran, trong khi Tehran cho biết đã có kế hoạch dài hạn và chuẩn bị trước nhằm đối phó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T00:34:00+07:00",
+      "fetched": "2026-08-25T08:03:17.595630+07:00"
+    },
+    {
+      "id": "04eeae697cec7a2f2691dcd264218690",
+      "title": "Washington muốn thu 103.000 USD cho thị thực H-1B",
+      "link": "https://thanhnien.vn/washington-muon-thu-103000-usd-cho-thi-thuc-h-1b-185260825070815391.htm",
+      "summary": "Chính quyền Tổng thống Mỹ Donald Trump vừa đề xuất áp mức phí hơn 100.000 USD đối với những công ty thuê lao động nước ngoài thông qua chương trình thị thực dành cho nhân lực tay nghề cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T00:32:00+07:00",
+      "fetched": "2026-08-25T08:03:17.595790+07:00"
+    },
+    {
+      "id": "32a29c89111c830eb3de4cc04895f6ea",
+      "title": "Chính sách thị thực của ông Trump bị tòa 'tuýt còi'",
+      "link": "https://thanhnien.vn/chinh-sach-thi-thuc-cua-ong-trump-bi-toa-tuyt-coi-185260823204612161.htm",
+      "summary": "Thẩm phán Jeannette A. Vargas thuộc Tòa án liên bang khu vực Manhattan (bang New York, Mỹ) ngày 22.8 bác bỏ chính sách của chính quyền Tổng thống Donald Trump đình chỉ cấp thị thực nhập cư cho công dân 75 quốc gia, theo Reuters.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T00:30:00+07:00",
+      "fetched": "2026-08-25T08:03:17.595940+07:00"
+    },
+    {
+      "id": "bb3c290f4f3385a762884b5ebb26159b",
+      "title": "Nữ tài xế lái ô tô chạy ngược chiều, bị phạt 19 triệu đồng",
+      "link": "https://thanhnien.vn/nu-tai-xe-lai-o-to-chay-nguoc-chieu-bi-phat-19-trieu-dong-18526082415224514.htm",
+      "summary": "Bất chấp luật và nguy hiểm rình rập, nữ tài xế vẫn liều lĩnh lái ô tô chạy ngược chiều trên quốc lộ, ép các xe đi đúng luật phải nhường đường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T00:19:00+07:00",
+      "fetched": "2026-08-25T08:03:17.596089+07:00"
+    },
+    {
+      "id": "9aa9b9dad7aee4ef405184347b294112",
+      "title": "Du lịch Việt mong ngóng chốt sớm lịch nghỉ lễ, Tết",
+      "link": "https://vnexpress.net/du-lich-viet-mong-ngong-chot-som-lich-nghi-le-tet-5112775.html",
+      "summary": "Các công ty du lịch kỳ vọng lịch nghỉ lễ, Tết được công bố trước ngày 30/9 năm liền kề để tự tin đặt trước dịch vụ, không sợ rủi ro chôn vốn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T00:15:23+07:00",
+      "fetched": "2026-08-25T08:03:13.180564+07:00"
+    },
+    {
+      "id": "6338082a9d75c9962da3ee63a66b4624",
+      "title": "Bão Narra xa đất liền, lũ nhiều sông vẫn trên báo động ba",
+      "link": "https://vnexpress.net/bao-narra-xa-dat-lien-lu-nhieu-song-van-tren-bao-dong-ba-5112968.html",
+      "summary": "Bão Narra đi ngược ra biển giúp mưa ở miền Bắc giảm rõ rệt, tuy nhiên lũ sông Thương, Lục Nam vẫn trên báo động ba.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T00:13:27+07:00",
+      "fetched": "2026-08-25T08:03:13.180773+07:00"
+    },
+    {
+      "id": "e6c0447a80f0461f936ef0d1ccfda5f4",
+      "title": "Người trẻ Việt - Trung cùng đưa ý tưởng khởi nghiệp vào thực tế",
+      "link": "https://thanhnien.vn/nguoi-tre-viet-trung-cung-dua-y-tuong-khoi-nghiep-vao-thuc-te-185260824194736258.htm",
+      "summary": "Chiều 24.8, tại TP.Quế Lâm (Quảng Tây, Trung Quốc), thanh niên Việt Nam - Trung Quốc tham gia chương trình đối thoại với chủ đề \"Thanh niên khởi nghiệp đổi mới sáng tạo\". Đây là hoạt động trong khuôn khổ chương trình \"Hành trình đỏ: Trại nghiên cứu, học tập của thanh niên Việt Nam theo dấu chân Bác ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-25T00:00:00+07:00",
+      "fetched": "2026-08-25T08:03:17.596239+07:00"
+    },
+    {
+      "id": "c05f4f052a9a67a1eaaba84811502a2c",
+      "title": "Thủ tướng Israel: Iran đã âm mưu ám sát con trai tôi",
+      "link": "https://vnexpress.net/thu-tuong-israel-iran-da-am-muu-am-sat-con-trai-toi-5112966.html",
+      "summary": "Thủ tướng Netanyahu cho biết Iran đã tìm cách ám sát một trong hai con trai của ông, giải thích đó là lý do cơ quan an ninh cần duy trì chế độ bảo vệ cho gia đình mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T23:54:37+07:00",
+      "fetched": "2026-08-25T08:03:13.180953+07:00"
+    },
+    {
+      "id": "c05f4f052a9a67a1eaaba84811502a2c",
+      "title": "Thủ tướng Israel: Iran đã âm mưu ám sát con trai tôi",
+      "link": "https://vnexpress.net/thu-tuong-israel-iran-da-am-muu-am-sat-con-trai-toi-5112966.html",
+      "summary": "Thủ tướng Netanyahu cho biết Iran đã tìm cách ám sát một trong hai con trai của ông, giải thích đó là lý do cơ quan an ninh cần duy trì chế độ bảo vệ cho gia đình mình.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-24T23:54:37+07:00",
+      "fetched": "2026-08-25T08:03:22.867373+07:00"
+    },
+    {
+      "id": "8e02c535aa1147ad0f8a5df1284570ec",
+      "title": "Neville: 'Liverpool, Man City chưa đủ sức đua vô địch với Arsenal'",
+      "link": "https://vnexpress.net/neville-liverpool-man-city-chua-du-suc-dua-vo-dich-voi-arsenal-5112923.html",
+      "summary": "Cựu danh thủ Gary Neville cho rằng Liverpool và Man City đang ở dưới khá xa so với đẳng cấp cần thiết để cạnh tranh chức vô địch Ngoại hạng Anh mùa này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T23:47:21+07:00",
+      "fetched": "2026-08-25T08:03:13.181131+07:00"
+    },
+    {
+      "id": "8e02c535aa1147ad0f8a5df1284570ec",
+      "title": "Neville: 'Liverpool, Man City chưa đủ sức đua vô địch với Arsenal'",
+      "link": "https://vnexpress.net/neville-liverpool-man-city-chua-du-suc-dua-vo-dich-voi-arsenal-5112923.html",
+      "summary": "Cựu danh thủ Gary Neville cho rằng Liverpool và Man City đang ở dưới khá xa so với đẳng cấp cần thiết để cạnh tranh chức vô địch Ngoại hạng Anh mùa này.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-24T23:47:21+07:00",
+      "fetched": "2026-08-25T08:03:29.652263+07:00"
+    },
+    {
+      "id": "a70aed6865c1270c5061c13a29817f1a",
+      "title": "Chelsea thắng nghẹt thở trong trận ra mắt của HLV Alonso",
+      "link": "https://vnexpress.net/chelsea-thang-nghet-tho-trong-tran-ra-mat-cua-hlv-alonso-5112970.html",
+      "summary": "Bộ ba tấn công Cole Palmer, Joao Pedro, Morgan Rogers cùng ghi bàn, giúp Chelsea thắng Fulham 3-2 ở vòng một Ngoại hạng Anh, qua đó mang đến màn ra mắt đầy hứa hẹn cho HLV Xabi Alonso.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T23:38:50+07:00",
+      "fetched": "2026-08-25T08:03:13.181292+07:00"
+    },
+    {
+      "id": "a70aed6865c1270c5061c13a29817f1a",
+      "title": "Chelsea thắng nghẹt thở trong trận ra mắt của HLV Alonso",
+      "link": "https://vnexpress.net/chelsea-thang-nghet-tho-trong-tran-ra-mat-cua-hlv-alonso-5112970.html",
+      "summary": "Bộ ba tấn công Cole Palmer, Joao Pedro, Morgan Rogers cùng ghi bàn, giúp Chelsea thắng Fulham 3-2 ở vòng một Ngoại hạng Anh, qua đó mang đến màn ra mắt đầy hứa hẹn cho HLV Xabi Alonso.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-24T23:38:50+07:00",
+      "fetched": "2026-08-25T08:03:29.652088+07:00"
+    },
+    {
+      "id": "e0bd844b5c694d935a2a9a78eb7780d5",
+      "title": "Mỹ công bố kế hoạch 'bóp nghẹt kinh tế' Iran",
+      "link": "https://vnexpress.net/my-cong-bo-ke-hoach-bop-nghet-kinh-te-iran-5112965.html",
+      "summary": "Bộ trưởng Tài chính Mỹ Bessent công bố các biện pháp trừng phạt mở rộng nhằm \"bóp nghẹt kinh tế\" Iran, trong khi Tehran tuyên bố đã có kế hoạch để ứng phó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T23:36:16+07:00",
+      "fetched": "2026-08-25T08:03:13.181449+07:00"
+    },
+    {
+      "id": "e0bd844b5c694d935a2a9a78eb7780d5",
+      "title": "Mỹ công bố kế hoạch 'bóp nghẹt kinh tế' Iran",
+      "link": "https://vnexpress.net/my-cong-bo-ke-hoach-bop-nghet-kinh-te-iran-5112965.html",
+      "summary": "Bộ trưởng Tài chính Mỹ Bessent công bố các biện pháp trừng phạt mở rộng nhằm \"bóp nghẹt kinh tế\" Iran, trong khi Tehran tuyên bố đã có kế hoạch để ứng phó.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-24T23:36:16+07:00",
+      "fetched": "2026-08-25T08:03:22.867573+07:00"
+    },
+    {
+      "id": "3c7c2ac9ac11a6265bc4c0bf83a383f2",
+      "title": "Nhiều cặp vợ chồng ký hợp đồng tiền hôn nhân",
+      "link": "https://vnexpress.net/nhieu-cap-vo-chong-ky-hop-dong-tien-hon-nhan-5111233.html",
+      "summary": "Thay vì e ngại sự sòng phẳng làm mất đi lãng mạn, nhiều cặp đôi chọn ký hợp đồng tiền hôn nhân để bảo đảm sự bình đẳng và rạch ròi tài sản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T23:27:00+07:00",
+      "fetched": "2026-08-25T08:03:13.181643+07:00"
+    },
+    {
+      "id": "bd58d7b3795c3303ee0243e79680f911",
+      "title": "Học viên sĩ quan lục quân băng lửa, vượt sông trên thao trường",
+      "link": "https://vnexpress.net/hoc-vien-si-quan-luc-quan-bang-lua-vuot-song-tren-thao-truong-5111647.html",
+      "summary": "Ngoài học trên giảng đường như sinh viên dân dự, học viên Sĩ quan Lục quân 2 còn có những tiết học trên thao trường, dầm mình dưới nước, băng vòng lửa...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T23:11:58+07:00",
+      "fetched": "2026-08-25T08:03:13.181801+07:00"
+    },
+    {
+      "id": "11518285be953cc6cd00b1704618118a",
+      "title": "Điểm tin 6h: Thêm nhiều học sinh chuyên Tuyên Quang đỗ trường Y, Luật | Nhiều quốc lộ qua Nghệ An sạt lở",
+      "link": "https://vnexpress.net/diem-tin-6h-them-nhieu-hoc-sinh-chuyen-tuyen-quang-do-truong-y-luat-nhieu-quoc-lo-qua-nghe-an-sat-lo-5112969.html",
+      "summary": "Hà Nội đề xuất hỗ trợ tới 6 triệu đồng cho hộ lắp điện mặt trời mái nhà; Dòng tiền chững lại, cổ phiếu bất động sản tầm trung giao dịch tích cực;...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T23:07:14+07:00",
+      "fetched": "2026-08-25T08:03:13.181953+07:00"
+    },
+    {
+      "id": "f48d6fcb58f9ca906477e32f7cfdc3ea",
+      "title": "Tích hợp giấy tờ trên VNeID thế nào để được miễn, giảm phí?",
+      "link": "https://vnexpress.net/tich-hop-giay-to-tren-vneid-the-nao-de-duoc-mien-giam-phi-5112929.html",
+      "summary": "Ngoài 5 loại giấy tờ cơ bản như giấy khai sinh, tài khoản an sinh xã hội, số thuê bao..., người dân cần tích hợp thêm các thông tin khác để được miễn phí 34 thủ tục hành chính và giảm 10-50% phí cho 8 loại giao dịch có giá trị lớn",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T23:00:00+07:00",
+      "fetched": "2026-08-25T08:03:13.182107+07:00"
+    },
+    {
+      "id": "cfcf7c85ef87a04578ab3718c5250a0b",
+      "title": "Đời buồn của người đàn ông được bầy sói nuôi 12 năm",
+      "link": "https://vnexpress.net/doi-buon-cua-nguoi-dan-ong-duoc-bay-soi-nuoi-12-nam-5112867.html",
+      "summary": "Marcos Rodríguez Pantoja, người từng sống 12 năm cùng bầy sói trong rừng sâu, vừa qua đời ở tuổi 80 sau phần lớn cuộc đời chật vật hòa nhập xã hội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T23:00:00+07:00",
+      "fetched": "2026-08-25T08:03:13.182259+07:00"
+    },
+    {
+      "id": "8eb1ade8a76af20054258dadfb91ad18",
+      "title": "'Mất ăn, mất ngủ' vì giải thể doanh nghiệp nhiều năm không hoạt động",
+      "link": "https://vnexpress.net/mat-an-mat-ngu-vi-giai-the-doanh-nghiep-nhieu-nam-khong-hoat-dong-5112711.html",
+      "summary": "Một doanh nghiệp 15 năm tuổi, nhiều năm không hoạt động nhưng chưa làm thủ tục đóng cửa, đến khi giải thể chủ đơn vị này mới phát hiện loạt nghĩa vụ cần xử lý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T23:00:00+07:00",
+      "fetched": "2026-08-25T08:03:13.182421+07:00"
+    },
+    {
+      "id": "1303d75c380714f95c49b26f89051a94",
+      "title": "Doanh nghiệp nhỏ xoay xở giữa 'bão' khó khăn",
+      "link": "https://vnexpress.net/doanh-nghiep-nho-xoay-xo-giua-bao-kho-khan-5111772.html",
+      "summary": "Ông Hồng, chủ một công ty vật liệu xây dựng ở TP HCM, thu hẹp quy mô hoạt động, đóng kho bãi và chủ trương bán hàng thu tiền ngay để cầm cự qua \"bão\" khó khăn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T23:00:00+07:00",
+      "fetched": "2026-08-25T08:03:13.182610+07:00"
+    },
+    {
+      "id": "1547c8c59816e586f39ff77a0a30fecc",
+      "title": "Lời hứa 'bên nhau không rời' trong phòng chờ sinh",
+      "link": "https://vnexpress.net/loi-hua-ben-nhau-khong-roi-trong-phong-cho-sinh-5110856.html",
+      "summary": "Tiếng máy theo dõi nhịp tim thai đập dồn dập từng hồi, anh Nam đứng nép sát mép giường bệnh, các ngón tay siết chặt bàn tay đẫm mồ hôi của vợ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T23:00:00+07:00",
+      "fetched": "2026-08-25T08:03:13.182765+07:00"
+    },
+    {
+      "id": "53f0ebc033923c57185aa793d5ce12ab",
+      "title": "Aston Martin Valen - siêu xe động cơ đặt trước mạnh nhất",
+      "link": "https://vnexpress.net/aston-martin-valen-sieu-xe-dong-co-dat-truoc-manh-nhat-5112932.html",
+      "summary": "Valen sở hữu động cơ đặt trước có công suất 838 mã lực, sản xuất giới hạn 150 chiếc trên toàn cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-24T23:00:00+07:00",
+      "fetched": "2026-08-25T08:03:13.182922+07:00"
+    },
+    {
+      "id": "8eb1ade8a76af20054258dadfb91ad18",
+      "title": "'Mất ăn, mất ngủ' vì giải thể doanh nghiệp nhiều năm không hoạt động",
+      "link": "https://vnexpress.net/mat-an-mat-ngu-vi-giai-the-doanh-nghiep-nhieu-nam-khong-hoat-dong-5112711.html",
+      "summary": "Một doanh nghiệp 15 năm tuổi, nhiều năm không hoạt động nhưng chưa làm thủ tục đóng cửa, đến khi giải thể chủ đơn vị này mới phát hiện loạt nghĩa vụ cần xử lý.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-24T23:00:00+07:00",
+      "fetched": "2026-08-25T08:03:24.287567+07:00"
+    },
+    {
+      "id": "1303d75c380714f95c49b26f89051a94",
+      "title": "Doanh nghiệp nhỏ xoay xở giữa 'bão' khó khăn",
+      "link": "https://vnexpress.net/doanh-nghiep-nho-xoay-xo-giua-bao-kho-khan-5111772.html",
+      "summary": "Ông Hồng, chủ một công ty vật liệu xây dựng ở TP HCM, thu hẹp quy mô hoạt động, đóng kho bãi và chủ trương bán hàng thu tiền ngay để cầm cự qua \"bão\" khó khăn.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-24T23:00:00+07:00",
+      "fetched": "2026-08-25T08:03:24.287766+07:00"
+    },
+    {
+      "id": "31b71f930dd9b88172c93c1fa76070c3",
+      "title": "Maguire ôm ghì đồng đội trong bàn thua của Man Utd",
+      "link": "https://vnexpress.net/maguire-om-ghi-dong-doi-trong-ban-thua-cua-man-utd-5112959.html",
+      "summary": "Trung vệ Harry Maguire hứng chỉ trích vì ôm ghì Noussair Mazraoui, khiến Man Utd bị thủng lưới trong trận thua Hull City ở vòng một Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-24T22:47:05+07:00",
+      "fetched": "2026-08-25T08:03:29.652426+07:00"
+    },
+    {
+      "id": "c03132e05373dbdf710aef353ab53df0",
+      "title": "Biểu cảm của Ronaldo khi gặp Chủ tịch FIFA gây tranh luận",
+      "link": "https://vnexpress.net/bieu-cam-cua-ronaldo-khi-gap-chu-tich-fifa-gay-tranh-luan-5112962.html",
+      "summary": "Cristiano Ronaldo vui vẻ nhận lời chúc trong cuộc trò chuyện ngắn với Chủ tịch FIFA Gianni Infantino, nhưng biểu cảm của anh sau đó lại gây chú ý.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-24T22:41:03+07:00",
+      "fetched": "2026-08-25T08:03:29.652612+07:00"
+    },
+    {
       "id": "66a2daa5965aa8dd00c1fb84ed831ca4",
       "title": "Sạt lở núi rác ở Guinea, 30 người thiệt mạng",
       "link": "https://thanhnien.vn/sat-lo-nui-rac-o-guinea-30-nguoi-thiet-mang-185260824221131905.htm",
@@ -271,6 +801,16 @@ window.newsData_2026_08_25 = {
       "category": "Công nghệ",
       "published": "2026-08-24T22:00:00+07:00",
       "fetched": "2026-08-25T05:21:31.897130+07:00"
+    },
+    {
+      "id": "678b4122e3b399250577ac48c46dd745",
+      "title": "Những bất đồng phút chót khiến thỏa thuận thương mại Mỹ - Canada sụp đổ",
+      "link": "https://vnexpress.net/nhung-bat-dong-phut-chot-khien-thoa-thuan-thuong-mai-my-canada-sup-do-5112575.html",
+      "summary": "Mỹ và Canada từng tiến sát một thỏa thuận thương mại, nhưng những bất đồng trong ba ngày cuối cùng đã khiến đàm phán sụp đổ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-24T22:00:00+07:00",
+      "fetched": "2026-08-25T08:03:22.867748+07:00"
     },
     {
       "id": "e93d60a9c7e8230750e3f2129162b4f3",
