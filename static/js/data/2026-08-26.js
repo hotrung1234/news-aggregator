@@ -1,6 +1,6 @@
 window.newsData_2026_08_26 = {
   "date": "2026-08-26",
-  "lastUpdated": "2026-08-26T19:43:49.092226+07:00",
+  "lastUpdated": "2026-08-26T21:40:22.928429+07:00",
   "articles": [
     {
       "id": "adee058ad04140f7795d02006a4ac8ee",
@@ -303,6 +303,96 @@ window.newsData_2026_08_26 = {
       "fetched": "2026-08-26T17:30:51.458317+07:00"
     },
     {
+      "id": "2608759444d716204a866c10ae6a2b99",
+      "title": "Trường ĐH Y dược Cần Thơ đưa 2.014 sinh viên về Hậu Giang (cũ) thực hành",
+      "link": "https://thanhnien.vn/truong-dh-y-duoc-can-tho-dua-2014-sinh-vien-ve-hau-giang-cu-thuc-hanh-18526082620434281.htm",
+      "summary": "Hàng ngàn sinh viên của Trường ĐH Y dược Cần Thơ sẽ được đưa về đào tạo thực hành tại các bệnh viện đặt ở khu vực tỉnh Hậu Giang cũ, nay là các phường Vị Thanh, Vị Tân, thành phố Cần Thơ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T14:23:00+07:00",
+      "fetched": "2026-08-26T21:40:10.817038+07:00"
+    },
+    {
+      "id": "db201d533ec901bd9774d14845a9fb69",
+      "title": "Trần Quyết Chiến mắc lỗi đáng tiếc, bất ngờ bị loại tại siêu cúp billiards",
+      "link": "https://thanhnien.vn/tran-quyet-chien-mac-loi-dang-tiec-bat-ngo-bi-loai-tai-sieu-cup-billiards-185260826211755858.htm",
+      "summary": "Trước đối thủ thi đấu quá hưng phấn, Trần Quyết Chiến đã nhận thất bại và dừng chân ở vòng knock-out đầu tiên của Siêu cúp billiards Phúc Thịnh 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T14:21:00+07:00",
+      "fetched": "2026-08-26T21:40:10.817212+07:00"
+    },
+    {
+      "id": "8e2b8e1244ce7d66e5d75749a8278e41",
+      "title": "Khoảnh khắc lũ quét như sóng thần tràn qua cửa khẩu Trung Quốc - Nepal",
+      "link": "https://vnexpress.net/khoanh-khac-lu-quet-nhu-song-than-tran-qua-cua-khau-trung-quoc-nepal-5113834.html",
+      "summary": "Đợt lũ quét từ vùng núi Tây Tạng, Trung Quốc tràn qua cửa khẩu với Nepal, khiến ít nhất 95 người thiệt mạng tại vùng Rasuwa.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-26T14:17:26+07:00",
+      "fetched": "2026-08-26T21:40:15.001513+07:00"
+    },
+    {
+      "id": "4c84a6e366310bbcb6c59b3942a2a8be",
+      "title": "Tùng Dương khuấy động sân Mỹ Đình ở trận chung kết ASEAN Cup 2026",
+      "link": "https://thanhnien.vn/tung-duong-khuay-dong-san-my-dinh-o-tran-chung-ket-asean-cup-2026-185260826205600816.htm",
+      "summary": "Màn trình diễn của ca sĩ Tùng Dương góp phần 'tăng nhiệt' cho chung kết lượt về ASEAN Cup 2026 trên sân Mỹ Đình, nơi chứng kiến màn so tài đỉnh cao giữa đội tuyển Việt Nam và Thái Lan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T14:06:00+07:00",
+      "fetched": "2026-08-26T21:40:10.817375+07:00"
+    },
+    {
+      "id": "871a8d69ac56ec5b2c9b389ce8c497bd",
+      "title": "Đề xuất tăng gấp đôi sinh hoạt phí cho thạc sĩ, tiến sĩ đào tạo ở nước ngoài",
+      "link": "https://thanhnien.vn/de-xuat-tang-gap-doi-sinh-hoat-phi-cho-thac-si-tien-si-dao-tao-o-nuoc-ngoai-185260826180211225.htm",
+      "summary": "Theo dự thảo nghị định về chính sách ưu đãi với nhân tài được gửi đi đào tạo, nghiên cứu ở nước ngoài mà Bộ GD-ĐT đang lấy ý kiến, mức sinh hoạt phí cho thạc sĩ, tiến sĩ sẽ được tăng gấp đôi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T14:02:00+07:00",
+      "fetched": "2026-08-26T21:40:10.817570+07:00"
+    },
+    {
+      "id": "3b8d8d49e2b4f168db8fbb579e302876",
+      "title": "Hàng trăm người nước ngoài mất tích vì lũ quét ở ranh giới Nepal - Tây Tạng",
+      "link": "https://thanhnien.vn/hang-tram-nguoi-nuoc-ngoai-mat-tich-vi-lu-quet-o-ranh-gioi-nepal-tay-tang-18526082619325144.htm",
+      "summary": "Giới chức Nepal hôm nay (26.8) thông báo ít nhất 384 du khách, bao gồm hàng trăm người nước ngoài đã mất tích do lũ quét dọc theo ranh giới Nepal - Tây Tạng, trong khi số người chết gia tăng nhanh chóng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T13:56:00+07:00",
+      "fetched": "2026-08-26T21:40:10.817727+07:00"
+    },
+    {
+      "id": "15fcef3afece7a01861bad0a84609c95",
+      "title": "Giá vàng, bạc thế giới giảm sau lực bán chốt lời",
+      "link": "https://thanhnien.vn/gia-vang-bac-giam-sau-luc-ban-chot-loi-185260826203133635.htm",
+      "summary": "Trong phiên giao dịch Mỹ (đêm 26.8), giá vàng và bạc thế giới đã giảm mạnh sau khi Mỹ công bố một số thông tin kinh tế khả quan dẫn đến lực bán chốt lời từ nhà đầu tư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T13:50:00+07:00",
+      "fetched": "2026-08-26T21:40:10.817882+07:00"
+    },
+    {
+      "id": "6ccda7f986d6a229afb6bc2d0e59566d",
+      "title": "Bắt giữ nghi phạm đập tủ kính cướp tiệm vàng sau hơn 1 giờ gây án",
+      "link": "https://thanhnien.vn/bat-giu-nghi-pham-dap-tu-kinh-cuop-tiem-vang-sau-hon-1-gio-gay-an-185260826201142279.htm",
+      "summary": "Sau khi dùng gạch đập tủ kính cướp tiệm vàng trên đường Nguyễn Sỹ Sách, đối tượng đã bị Công an TP.HCM nhanh chóng truy xét và bắt giữ chỉ sau 82 phút gây án.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T13:50:00+07:00",
+      "fetched": "2026-08-26T21:40:10.818036+07:00"
+    },
+    {
+      "id": "1938e617410f26461e7d9ca1a52e85b6",
+      "title": "Đề xuất để người dân dùng chữ ký số miễn phí",
+      "link": "https://vnexpress.net/de-xuat-de-nguoi-dan-dung-chu-ky-so-mien-phi-5113828.html",
+      "summary": "Doanh nghiệp, bệnh viện, trường học có thể đứng ra trả chi phí ký số, để người dân sử dụng miễn phí dịch vụ này khi làm các thủ tục trực tuyến.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-26T13:45:54+07:00",
+      "fetched": "2026-08-26T21:40:20.919970+07:00"
+    },
+    {
       "id": "b014f6e7bb44b286fd47e76485798ba7",
       "title": "Không còn dồn dập những concert hàng chục ngàn người, công nghiệp biểu diễn Việt Nam sao vậy?",
       "link": "https://tuoitre.vn/khong-con-don-dap-nhung-concert-hang-chuc-ngan-nguoi-cong-nghiep-bieu-dien-viet-nam-sao-vay-100260825155956314.htm",
@@ -453,6 +543,156 @@ window.newsData_2026_08_26 = {
       "fetched": "2026-08-26T13:41:24.916771+07:00"
     },
     {
+      "id": "d23e01ad9600685155ea08b21c5e4ea0",
+      "title": "Đẩy mạnh tìm kiếm, quy tập 7.000 hài cốt liệt sĩ 'đến khi không còn thông tin'",
+      "link": "https://thanhnien.vn/day-manh-tim-kiem-quy-tap-7000-hai-cot-liet-si-den-khi-khong-con-thong-tin-185260826191431358.htm",
+      "summary": "Đến nay, 'Chiến dịch 500 ngày đêm' đã tìm kiếm, quy tập được hơn 1.940 hài cốt liệt sĩ. Hành trình tìm kiếm những liệt sĩ còn nằm lại tiếp tục được đẩy mạnh, với quyết tâm 'đến khi không còn thông tin'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T13:41:00+07:00",
+      "fetched": "2026-08-26T21:40:10.818203+07:00"
+    },
+    {
+      "id": "31f3587c2dd8545a4ccae89bf97565f9",
+      "title": "Chuẩn bị cán bộ từ sớm, từ xa cho các vị trí trọng yếu",
+      "link": "https://thanhnien.vn/chuan-bi-can-bo-tu-som-tu-xa-cho-cac-vi-tri-trong-yeu-1852608262016481.htm",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm yêu cầu hoàn thiện thể chế và quản trị đội ngũ cán bộ dựa trên dữ liệu, trách nhiệm và kiểm soát quyền lực; phải hoàn thiện đồng bộ các quy định của Đảng và pháp luật của Nhà nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T13:38:00+07:00",
+      "fetched": "2026-08-26T21:40:10.818366+07:00"
+    },
+    {
+      "id": "23be7be0dbd03011c95e6848d832e7a8",
+      "title": "Mỹ tập kích xuồng nghi chở ma túy ở Caribbean khiến 4 người thiệt mạng",
+      "link": "https://thanhnien.vn/my-tap-kich-xuong-nghi-cho-ma-tuy-o-caribbean-khien-4-nguoi-thiet-mang-185260826162330142.htm",
+      "summary": "Quân đội Mỹ ngày 25.8 tấn công 1 chiếc xuồng với cáo buộc chở ma túy ở vùng biển Caribbean, khiến 4 người thiệt mạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T13:35:00+07:00",
+      "fetched": "2026-08-26T21:40:10.818549+07:00"
+    },
+    {
+      "id": "1ebf5a6f1dbc8fe7f906450347a93db1",
+      "title": "Madam Pang cầm nón lá ở khán đài VIP sân Mỹ Đình: ‘Bầu không khí cuồng nhiệt quá’",
+      "link": "https://thanhnien.vn/madam-pang-cam-non-la-o-khan-dai-vip-san-my-dinh-bau-khong-khi-cuong-nhiet-qua-185260826202803661.htm",
+      "summary": "Chủ tịch Liên đoàn Bóng đá Thái Lan (FAT) Nualphan Lamsam, thường được gọi là Madam Pang, đã có mặt tại sân Mỹ Đình trước trận chung kết lượt về ASEAN Cup 2026 và không khỏi ấn tượng trước bầu không khí cuồng nhiệt của người hâm mộ Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T13:32:00+07:00",
+      "fetched": "2026-08-26T21:40:10.818705+07:00"
+    },
+    {
+      "id": "ff35a4f5bf2c8096760c315bf2ab323d",
+      "title": "Biển người trên phố Nguyễn Huệ cổ vũ tuyển Việt Nam",
+      "link": "https://vnexpress.net/bien-nguoi-tren-pho-nguyen-hue-co-vu-tuyen-viet-nam-5113701.html",
+      "summary": "Hàng nghìn CĐV đổ về phố đi bộ Nguyễn Huệ, theo dõi trận chung kết ASEAN Cup 2026 qua 5 màn hình LED, tối 26/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T13:27:58+07:00",
+      "fetched": "2026-08-26T21:40:07.443176+07:00"
+    },
+    {
+      "id": "3be3a59966f8a4fda6bda0621a8b2ff1",
+      "title": "Không khí phố đi bộ Nguyễn Huệ trước thềm chung kết Việt Nam - Thái Lan",
+      "link": "https://thanhnien.vn/khong-khi-pho-di-bo-nguyen-hue-truoc-them-chung-ket-viet-nam-thai-lan-185260826202240882.htm",
+      "summary": "Thời tiết đổ mưa to, nhưng \"lửa\" đam mê thì vẫn đang rực cháy. Đó là những gì được ghi nhận tại phố đi bộ Nguyễn Huệ vào tối 26.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T13:23:00+07:00",
+      "fetched": "2026-08-26T21:40:10.818862+07:00"
+    },
+    {
+      "id": "39f8bd7c61bbb0c6e86992383da9c210",
+      "title": "CĐV trên phố Nguyễn Huệ thất thần khi Thái Lan ghi bàn sớm",
+      "link": "https://vnexpress.net/cdv-tren-pho-nguyen-hue-that-than-khi-thai-lan-ghi-ban-som-5113823.html",
+      "summary": "Người hâm mộ mang cờ Tổ quốc, cúp, băng rôn hò reo, cổ vũ tuyển Việt Nam trong trận chung kết lượt về với Thái Lan, dù đội nhà bị mở tỷ số sớm, tối 26/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T13:10:41+07:00",
+      "fetched": "2026-08-26T21:40:07.443363+07:00"
+    },
+    {
+      "id": "08587a371add386cac9bc872528dcc64",
+      "title": "VNGGames phát hành game 'Ananta' tại Việt Nam",
+      "link": "https://vnexpress.net/vnggames-phat-hanh-game-ananta-tai-viet-nam-5113732.html",
+      "summary": "Trò chơi nhập vai thế giới mở \"Ananta\" của NetEase Games và Naked Rain sẽ được VNGGames phát hành tại Việt Nam từ năm 2027.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T13:00:00+07:00",
+      "fetched": "2026-08-26T21:40:07.443591+07:00"
+    },
+    {
+      "id": "428744d3915e3ec7165effe8b87faa89",
+      "title": "Dấu hiệu cảnh báo rối loạn nhịp tim",
+      "link": "https://vnexpress.net/dau-hieu-canh-bao-roi-loan-nhip-tim-5113567.html",
+      "summary": "Rối loạn nhịp tim có thể biểu hiện qua tim đập thất thường, khó thở, đau tức ngực, choáng váng hoặc ngất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T13:00:00+07:00",
+      "fetched": "2026-08-26T21:40:07.443756+07:00"
+    },
+    {
+      "id": "4868ed86cea43f4603ce4d7aaa650d3d",
+      "title": "Xem nhanh 20h ngày 26.8: Giật đồ cúng cô hồn ở TP.HCM | Nỗi lo giảng đường của nữ sinh Huế mồ côi",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-268-giat-do-cung-co-hon-o-tphcm-noi-lo-giang-duong-cua-nu-sinh-hue-mo-coi-185260826175150896.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 26.8 có nhiều tin tức đáng chú ý về: Đám đông tranh nhau giật đồ cúng cô hồn ở TP.HCM: Vì sao phong tục này vẫn tồn tại đến nay?; Xót xa nữ sinh Huế mồ côi khóc nghẹn vì ngổn ngang trước cửa đại học;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T13:00:00+07:00",
+      "fetched": "2026-08-26T21:40:10.819015+07:00"
+    },
+    {
+      "id": "b963c1b5ca232d30be158be0ba1e40f5",
+      "title": "Lời giải cho ‘cơn khát’ chỗ đỗ xe: Đề xuất không gian ngầm dưới Công viên 23/9",
+      "link": "https://thanhnien.vn/loi-giai-cho-con-khat-cho-do-xe-de-xuat-khong-gian-ngam-duoi-cong-vien-23-9-18526082614254143.htm",
+      "summary": "Cảnh \"dài cổ\" chờ gửi xe mỗi sáng tại Công viên 23/9 sẽ sớm chấm dứt. Đồ án tổ hợp thương mại và bãi đỗ xe ngầm TOD vừa được đề xuất không chỉ giúp giải tỏa triệt để cơn khát chỗ đỗ, kết nối trực tiếp Metro mà còn giữ trọn vẹn \"lá phổi xanh\" trên mặt đất cho thành phố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T13:00:00+07:00",
+      "fetched": "2026-08-26T21:40:10.819170+07:00"
+    },
+    {
+      "id": "a9242753bea0b869fe08a45ae058c0fb",
+      "title": "Rằm tháng 7 xuất hiện nguyệt thực che hơn 96% mặt trăng: Ở Việt Nam có thấy?",
+      "link": "https://thanhnien.vn/ram-thang-7-xuat-hien-nguyet-thuc-che-hon-96-mat-trang-o-viet-nam-co-thay-18526082608395914.htm",
+      "summary": "Ngày mai 27.8, nhằm ngày rằm tháng 7 âm lịch, hiện tượng nguyệt thực sẽ xuất hiện ở nhiều nơi trên thế giới. Ở Việt Nam, có quan sát được hiện tượng này vào ngày lễ Vu lan?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T13:00:00+07:00",
+      "fetched": "2026-08-26T21:40:10.819327+07:00"
+    },
+    {
+      "id": "3cea93ee1b7417706efd48a69d84f64d",
+      "title": "Thủ tướng yêu cầu không giao xe cho học sinh chưa đủ điều kiện",
+      "link": "https://vnexpress.net/thu-tuong-yeu-cau-khong-giao-xe-cho-hoc-sinh-chua-du-dieu-kien-5113799.html",
+      "summary": "Lãnh đạo Chính phủ yêu cầu nhà trường phối hợp với phụ huynh ngăn học sinh lái xe khi chưa đủ tuổi, chưa có giấy phép hoặc kỹ năng tham gia giao thông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T12:49:00+07:00",
+      "fetched": "2026-08-26T21:40:07.443915+07:00"
+    },
+    {
+      "id": "76e8fbd8ea084677021bb927a2775d56",
+      "title": "Xe tải chở heo lật đè ôtô 7 chỗ, một người chết",
+      "link": "https://vnexpress.net/xe-tai-cho-heo-lat-de-oto-7-cho-mot-nguoi-chet-5113822.html",
+      "summary": "Xe tải chở heo bị nổ lốp, lật nghiêng khi đổ đèo Phú Sơn, đè trúng ôtô 7 chỗ chạy cùng chiều, khiến người mẹ tử vong, con trai hai tuổi bị thương, chiều 26/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T12:47:40+07:00",
+      "fetched": "2026-08-26T21:40:07.444072+07:00"
+    },
+    {
+      "id": "bdca4359b023ae6e36219729f362fd10",
+      "title": "Sao Việt đến sân Mỹ Đình cổ vũ đội tuyển Việt Nam",
+      "link": "https://vnexpress.net/sao-viet-den-san-my-dinh-co-vu-doi-tuyen-viet-nam-5113568.html",
+      "summary": "Nguyễn Văn Chung, Hoàng Bách nói háo hức khi đến sân Mỹ Đình cổ vũ đội tuyển Việt Nam đấu Thái Lan tại chung kết lượt về ASEAN Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T12:45:27+07:00",
+      "fetched": "2026-08-26T21:40:07.444225+07:00"
+    },
+    {
       "id": "d6fa23db61f4c602a37a73d758c9d455",
       "title": "Đà Lạt khẩn cấp cắm biển cảnh báo điểm sạt lở đồi thông uy hiếp công trình hạ tầng",
       "link": "https://thanhnien.vn/da-lat-khan-cap-cam-bien-canh-bao-diem-sat-lo-185260826181851235.htm",
@@ -473,6 +713,16 @@ window.newsData_2026_08_26 = {
       "fetched": "2026-08-26T19:43:39.907030+07:00"
     },
     {
+      "id": "5e0310015c9291e0a601dbe123ba5570",
+      "title": "Chuyển ba trường cao đẳng về Bộ Công an",
+      "link": "https://vnexpress.net/chuyen-ba-truong-cao-dang-ve-bo-cong-an-5113691.html",
+      "summary": "Ba trường cao đẳng thuộc Bộ Giáo dục và Đào tạo được chuyển về Bộ Công an, nhằm đào tạo nghề cho người đã hoàn thành nghĩa vụ công an nhân dân, chấp hành xong án tù, sau cai nghiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T12:31:29+07:00",
+      "fetched": "2026-08-26T21:40:07.444415+07:00"
+    },
+    {
       "id": "75ce08808834ee7a8e707900a8704f3f",
       "title": "Cháy rừng keo ở Đắk Lắk, thiệt hại khoảng 5,5 ha",
       "link": "https://thanhnien.vn/chay-rung-keo-o-dak-lak-thiet-hai-khoang-55-ha-185260826155212128.htm",
@@ -481,6 +731,16 @@ window.newsData_2026_08_26 = {
       "category": "Tổng hợp",
       "published": "2026-08-26T12:30:00+07:00",
       "fetched": "2026-08-26T19:43:39.907215+07:00"
+    },
+    {
+      "id": "59d2f1c0a24c388250dda66e984fecf7",
+      "title": "Mỗi ngày uống một ly sữa đậu nành có gây yếu sinh lý?",
+      "link": "https://vnexpress.net/moi-ngay-uong-mot-ly-sua-dau-nanh-co-gay-yeu-sinh-ly-5113778.html",
+      "summary": "Tôi thích uống sữa đậu nành, mỗi ngày đều uống một ly 300 ml. Có người nói nên kiêng vì sữa có thể gây yếu sinh lý, đúng không? (Tất Công Hoàn, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T12:30:00+07:00",
+      "fetched": "2026-08-26T21:40:07.444601+07:00"
     },
     {
       "id": "8932ce9aa0a46fe0ee40fe105a86d2fe",
@@ -521,6 +781,16 @@ window.newsData_2026_08_26 = {
       "category": "Tổng hợp",
       "published": "2026-08-26T12:23:00+07:00",
       "fetched": "2026-08-26T19:43:39.907674+07:00"
+    },
+    {
+      "id": "d6891d12856bf9d876d5b9c47b0bb7c0",
+      "title": "Fairmont Hanoi tổ chức lễ hội cưới, quy tụ gần 30 thương hiệu",
+      "link": "https://vnexpress.net/fairmont-hanoi-to-chuc-le-hoi-cuoi-quy-tu-gan-30-thuong-hieu-5113818.html",
+      "summary": "Fairmont Hanoi lần đầu tổ chức Fairmont Wedding Fest 2026, mang đến không gian trải nghiệm cưới cho các cặp đôi; đồng thời kết nối cộng đồng ngành cưới trong nước, quốc tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T12:20:00+07:00",
+      "fetched": "2026-08-26T21:40:07.444917+07:00"
     },
     {
       "id": "2d269b97c37779dd80a54b8c05ef3aa8",
