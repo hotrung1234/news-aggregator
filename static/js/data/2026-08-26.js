@@ -1,7 +1,157 @@
 window.newsData_2026_08_26 = {
   "date": "2026-08-26",
-  "lastUpdated": "2026-08-26T21:40:22.928429+07:00",
+  "lastUpdated": "2026-08-26T23:45:20.793942+07:00",
   "articles": [
+    {
+      "id": "2f5ca7539769e6877e01df172a6bc8b1",
+      "title": "HLV Kim Sang Sik: 'Có thời điểm, tôi mắng các cầu thủ rất nhiều'",
+      "link": "https://tuoitre.vn/hlv-kim-sang-sik-co-thoi-diem-toi-mang-cac-cau-thu-rat-nhieu-100260826193335983.htm",
+      "summary": "HLV tuyển Việt Nam Kim Sang Sik đã nói như vậy trong cuộc họp báo sau trận chung kết lượt về ASEAN Cup 2026 gặp Thái Lan trên sân Mỹ Đình tối 26-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T23:45:14.786714+07:00",
+      "fetched": "2026-08-26T23:45:14.786763+07:00"
+    },
+    {
+      "id": "be452ab9dd41392a1faac9bc8ad4a99f",
+      "title": "Tổ chức Cứu trợ trẻ em tại Việt Nam giành giải Nhà sáng tạo nội dung số vì trẻ em",
+      "link": "https://tuoitre.vn/to-chuc-cuu-tro-tre-em-tai-viet-nam-gianh-giai-nha-sang-tao-noi-dung-so-vi-tre-em-100260826214651521.htm",
+      "summary": "Với ứng dụng ‘Vui đọc cùng em’ giúp trẻ dân tộc thiểu số đọc hiểu tiếng Việt tốt hơn dựa trên nền tảng tiếng mẹ đẻ của các em, Tổ chức Cứu trợ trẻ em tại Việt Nam đã được trao giải thưởng Nhà sáng tạo nội dung số vì trẻ em.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T23:45:14.786658+07:00",
+      "fetched": "2026-08-26T23:45:14.786706+07:00"
+    },
+    {
+      "id": "3e8312427d1103331883200d7093bff4",
+      "title": "Đặng Hồng Hải và tranh luận 'buff gà nhà' ở Tinh hà say hi: Thứ hạng có phản ánh tài năng?",
+      "link": "https://tuoitre.vn/dang-hong-hai-va-tranh-luan-buff-ga-nha-o-tinh-ha-say-hi-thu-hang-co-phan-anh-tai-nang-100260826210418731.htm",
+      "summary": "Trên mạng xã hội Threads những ngày qua xuất hiện nhiều ý kiến cho rằng Đặng Hồng Hải được 'buff gà nhà', thậm chí có bình luận đặt vấn đề vì sao một nghệ sĩ chưa có độ nhận diện đại chúng cao lại liên tục xuất hiện ở nhóm thứ hạng cao của Tinh hà say hi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T23:45:14.786607+07:00",
+      "fetched": "2026-08-26T23:45:14.786649+07:00"
+    },
+    {
+      "id": "4acef665ab7c1a6b245d3264c0ec8a91",
+      "title": "Đêm không ngủ của hàng triệu người hâm mộ bóng đá Việt Nam",
+      "link": "https://tuoitre.vn/dem-khong-ngu-cua-hang-trieu-nguoi-ham-mo-bong-da-viet-nam-100260826192608027.htm",
+      "summary": "Ngay sau tiếng còi mãn cuộc, nhiều tuyến đường trung tâm tại các tỉnh, thành trên cả nước nhanh chóng trở nên sôi động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T23:45:14.786557+07:00",
+      "fetched": "2026-08-26T23:45:14.786599+07:00"
+    },
+    {
+      "id": "2af4e7c3faa97c04309c69f21d3778a1",
+      "title": "CĐV Thái Lan: Chúng ta ghi cả 4 bàn nhưng Việt Nam lại vô địch",
+      "link": "https://tuoitre.vn/cdv-thai-lan-chung-ta-ghi-ca-4-ban-nhung-viet-nam-lai-vo-dich-100260826220803644.htm",
+      "summary": "Người hâm mộ Thái Lan chua chát khi đội nhà ghi cả 4 bàn thắng ở trận chung kết lượt về ASEAN Cup 2026 nhưng không thể vô địch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T23:45:14.786506+07:00",
+      "fetched": "2026-08-26T23:45:14.786550+07:00"
+    },
+    {
+      "id": "22ed1e90013c77e293d82d3a2795696a",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm tiếp Chủ tịch FIFA Gianni Infantino",
+      "link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-tiep-chu-tich-fifa-gianni-infantino-100260826221548944.htm",
+      "summary": "Chiều tối ngày 26-8, Tổng Bí thư, Chủ tịch nước Tô Lâm tiếp Chủ tịch FIFA Gianni Infantino thăm lại Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T23:45:14.786456+07:00",
+      "fetched": "2026-08-26T23:45:14.786499+07:00"
+    },
+    {
+      "id": "20be5a759cddb140cde7689a4c0a13b2",
+      "title": "Lũ quét tại biên giới Nepal - Trung Quốc: 98 người chết và hơn 400 người mất tích",
+      "link": "https://tuoitre.vn/lu-quet-tai-bien-gioi-nepal-trung-quoc-98-nguoi-chet-va-hon-400-nguoi-mat-tich-100260826213229008.htm",
+      "summary": "Lũ quét kinh hoàng tại biên giới Nepal - Trung Quốc đã khiến ít nhất 98 người thiệt mạng và hơn 400 người mất tích.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T23:45:14.786405+07:00",
+      "fetched": "2026-08-26T23:45:14.786448+07:00"
+    },
+    {
+      "id": "0db4ba413a9703e775a7f659bd0e86ae",
+      "title": "HLV Kim Sang Sik tiếp tục đi vào lịch sử bóng đá Việt Nam",
+      "link": "https://tuoitre.vn/hlv-kim-sang-sik-tiep-tuc-di-vao-lich-su-bong-da-viet-nam-100260826223459084.htm",
+      "summary": "Với việc giúp \"những chiến binh sao vàng\" bảo vệ thành công chức vô địch ASEAN Cup, HLV Kim Sang Sik tiếp tục ghi dấu vào lịch sử bóng đá Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T23:45:14.786353+07:00",
+      "fetched": "2026-08-26T23:45:14.786397+07:00"
+    },
+    {
+      "id": "531936e167df999ad129b7ebc642600f",
+      "title": "TP.HCM luôn dành ưu tiên hàng đầu cho quan hệ hợp tác với Vientiane",
+      "link": "https://tuoitre.vn/tphcm-luon-danh-uu-tien-hang-dau-cho-quan-he-hop-tac-voi-vientiane-100260826214152078.htm",
+      "summary": "TP.HCM và thủ đô Vientiane thống nhất đẩy mạnh hợp tác, triển khai thực chất bản ghi nhớ giai đoạn 2026 - 2030 và phối hợp tổ chức các hoạt động kỷ niệm quan hệ Việt Nam - Lào.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T23:45:14.786299+07:00",
+      "fetched": "2026-08-26T23:45:14.786345+07:00"
+    },
+    {
+      "id": "a54d48088f9a6480ab320be1a49326e9",
+      "title": "Xuân Son cùng Đình Bắc đoạt danh hiệu Vua phá lưới ASEAN Cup 2026",
+      "link": "https://tuoitre.vn/xuan-son-cung-dinh-bac-doat-danh-hieu-vua-pha-luoi-asean-cup-2026-100260826223708733.htm",
+      "summary": "Nguyễn Đình Bắc và Nguyễn Xuân Son đã cùng nhau chia sẻ danh hiệu Vua phá lưới ASEAN Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T23:45:14.786244+07:00",
+      "fetched": "2026-08-26T23:45:14.786291+07:00"
+    },
+    {
+      "id": "9ef6444cdc7556ad7f7c858750ae61a3",
+      "title": "Trần Quyết Chiến bị loại 'sốc' ngay ngày ra quân Siêu cúp billiards",
+      "link": "https://tuoitre.vn/tran-quyet-chien-bi-loai-soc-ngay-ngay-ra-quan-sieu-cup-billiards-100260826224305685.htm",
+      "summary": "Ngày 26-8, Giải billiards carom 3 băng Siêu cúp Phúc Thịnh 2026 bắt đầu diễn ra vòng chung kết. Ngay lập tức đã có bất ngờ xảy ra với việc Trần Quyết Chiến dừng bước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T23:45:14.786179+07:00",
+      "fetched": "2026-08-26T23:45:14.786235+07:00"
+    },
+    {
+      "id": "a2e86e25bbd58ce66237b55c1f1a8cc6",
+      "title": "Bí ẩn phía sau hàng loạt thi thể trên 'đảo thiên đường' Jeju",
+      "link": "https://tuoitre.vn/bi-an-phia-sau-hang-loat-thi-the-tren-dao-thien-duong-jeju-100260826214959115.htm",
+      "summary": "Bê bối xử lý sai lệch hồ sơ mất tích tại Jeju gây hoang mang dư luận, khi liên tiếp tìm thấy 4 người tử vong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T23:45:14.786105+07:00",
+      "fetched": "2026-08-26T23:45:14.786170+07:00"
+    },
+    {
+      "id": "bd81e3b8a70c8eb8dd2f2d98164fc260",
+      "title": "Báo chí Thái Lan nói đội nhà đá hay hơn Việt Nam",
+      "link": "https://tuoitre.vn/bao-chi-thai-lan-noi-doi-nha-da-hay-hon-viet-nam-100260826224013678.htm",
+      "summary": "Nhiều trang báo Thái Lan tỏ thái độ hài lòng về màn trình diễn của thầy trò ông Anthony Hudson trong trận chung kết lượt về ASEAN Cup 2026, diễn ra trên sân Mỹ Đình tối 26-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T23:45:14.786044+07:00",
+      "fetched": "2026-08-26T23:45:14.786097+07:00"
+    },
+    {
+      "id": "8bfea91c133cfec6f0b52338597eddf9",
+      "title": "Đình Bắc: Toàn đội sẽ hướng đến những mục tiêu lớn hơn, vượt tầm Đông Nam Á",
+      "link": "https://tuoitre.vn/dinh-bac-toan-doi-se-huong-den-nhung-muc-tieu-lon-hon-vuot-tam-dong-nam-a-100260826225950261.htm",
+      "summary": "Đình Bắc, Xuân Son, Hoàng Đức, Hoàng Hên, Trương Tiến Anh đã có những chia sẻ đầy hạnh phúc sau chức vô địch ASEAN Cup 2026 lịch sử cùng đội tuyển Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T23:45:14.785971+07:00",
+      "fetched": "2026-08-26T23:45:14.786034+07:00"
+    },
+    {
+      "id": "bbb9ebdc8edc38f77783f2cdfd7a8a3b",
+      "title": "Phát hiện vui: Mỗi khi Tây Ban Nha vô địch thì Thái Lan lại... về nhì",
+      "link": "https://tuoitre.vn/phat-hien-vui-moi-khi-tay-ban-nha-vo-dich-thi-thai-lan-lai-ve-nhi-100260826230645901.htm",
+      "summary": "Bóng đá Thái Lan và Tây Ban Nha vốn không liên quan gì nhau, nhưng lại có sự trùng hợp đến lạ lùng khi nói về danh hiệu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T23:45:14.785815+07:00",
+      "fetched": "2026-08-26T23:45:14.785959+07:00"
+    },
     {
       "id": "adee058ad04140f7795d02006a4ac8ee",
       "title": "Gelex trở thành cổ đông lớn Xếp dỡ Hải An",
@@ -301,6 +451,356 @@ window.newsData_2026_08_26 = {
       "category": "Tổng hợp",
       "published": "2026-08-26T17:30:51.458168+07:00",
       "fetched": "2026-08-26T17:30:51.458317+07:00"
+    },
+    {
+      "id": "aff674654cc479a986aa4399dbc349b7",
+      "title": "Đội tuyển Việt Nam được thưởng hàng chục tỉ đồng sau chức vô địch ASEAN Cup 2026",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-duoc-thuong-hang-chuc-ti-dong-sau-chuc-vo-dich-asean-cup-2026-185260826234106557.htm",
+      "summary": "Chức vô địch ASEAN Cup 2026 không chỉ giúp đội tuyển Việt Nam hoàn tất mục tiêu bảo vệ ngôi vương Đông Nam Á, mà còn mang về tổng tiền thưởng ít nhất 28,3 tỉ đồng từ AFF, VFF, các doanh nghiệp, cá nhân và ngân sách nhà nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T16:41:00+07:00",
+      "fetched": "2026-08-26T23:45:12.997075+07:00"
+    },
+    {
+      "id": "61bc717b018fb13b1c7a460576ad521a",
+      "title": "Việt Nam đề nghị FIFA hỗ trợ phát triển hạ tầng, đăng cai các giải đấu lớn",
+      "link": "https://thanhnien.vn/viet-nam-de-nghi-fifa-ho-tro-phat-trien-ha-tang-dang-cai-cac-giai-dau-lon-185260826223026694.htm",
+      "summary": "Chiều tối 26.8, Tổng Bí thư, Chủ tịch nước Tô Lâm đã tiếp Chủ tịch Liên đoàn Bóng đá thế giới (FIFA) Gianni Infantino đang có mặt tại Hà Nội để dự khán trận chung kết lượt về ASEAN Cup 2026 giữa đội tuyển Việt Nam và Thái Lan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T16:21:00+07:00",
+      "fetched": "2026-08-26T23:45:12.997242+07:00"
+    },
+    {
+      "id": "ea4f01f4fa92455e58bc23767773f881",
+      "title": "HLV Hudson: 'Thái Lan chơi hay hơn, nhưng Việt Nam xứng đáng vô địch'",
+      "link": "https://thanhnien.vn/hlv-hudson-thai-lan-choi-hay-hon-nhung-viet-nam-xung-dang-vo-dich-185260826224330971.htm",
+      "summary": "HLV Hudson khẳng định đội tuyển Thái Lan xứng đáng với kết quả tốt hơn, thay vì thua Việt Nam ở chung kết ASEAN Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T16:11:00+07:00",
+      "fetched": "2026-08-26T23:45:12.997374+07:00"
+    },
+    {
+      "id": "57c732f26f364c812f6f473cd6e89f1f",
+      "title": "Hòa hú vía Thái Lan, Việt Nam bảo vệ thành công ngôi vương ASEAN Cup ngoạn mục",
+      "link": "https://thanhnien.vn/hoa-hu-via-thai-lan-viet-nam-bao-ve-thanh-cong-ngoi-vuong-asean-cup-ngoan-muc-185260826225353199.htm",
+      "summary": "Đội tuyển Việt Nam đã trải qua một trận chung kết lượt về đầy nghẹt thở trước Thái Lan, khi 2 lần bị đối thủ vượt lên dẫn trước nhưng vẫn giữ được lợi thế từ trận lượt đi để bảo vệ thành công chức vô địch ASEAN Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T16:09:00+07:00",
+      "fetched": "2026-08-26T23:45:12.997497+07:00"
+    },
+    {
+      "id": "12995ee3dc272dc92757f5b80305a579",
+      "title": "Apple gửi thư mời ra mắt iPhone 18 ngày 9/9",
+      "link": "https://vnexpress.net/apple-gui-thu-moi-ra-mat-iphone-18-ngay-9-9-5113866.html",
+      "summary": "Apple vừa gửi thư mời sự kiện ra mắt thế hệ iPhone 18 mới và có thể là cả iPhone gập đầu tiên của hãng vào ngày 9/9 tới.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-26T16:08:07+07:00",
+      "fetched": "2026-08-26T23:45:19.762715+07:00"
+    },
+    {
+      "id": "63c07648b320651147f49dc8f55febc5",
+      "title": "AFC: Bản lĩnh và khả năng tận dụng sai lầm giúp Việt Nam thắng Thái Lan",
+      "link": "https://thanhnien.vn/afc-ban-linh-va-kha-nang-tan-dung-sai-lam-giup-viet-nam-thang-thai-lan-185260826230418004.htm",
+      "summary": "Sau trận hòa 2-2 ở chung kết lượt về, trang chủ Liên đoàn Bóng đá châu Á (the-AFC) đánh giá bản lĩnh cùng khả năng tận dụng sai lầm của đối thủ đã giúp đội tuyển Việt Nam vượt qua Thái Lan để bảo vệ thành công chức vô địch ASEAN Cup.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T16:08:00+07:00",
+      "fetched": "2026-08-26T23:45:12.997622+07:00"
+    },
+    {
+      "id": "5ae2b3fcaef8c40b722f584f8bb2c8c5",
+      "title": "Xác định đối thủ cực mạnh của đội tuyển bóng chuyền nữ Việt Nam ở tứ kết",
+      "link": "https://thanhnien.vn/xac-dinh-doi-thu-cuc-manh-cua-doi-tuyen-bong-chuyen-nu-viet-nam-o-tu-ket-185260826230015179.htm",
+      "summary": "Đội tuyển bóng chuyền nữ Việt Nam đã xác định được đối thủ của mình ở tứ kết giải bóng chuyền vô địch 2026 diễn ra ở Thiên Tân (Trung Quốc).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T16:03:00+07:00",
+      "fetched": "2026-08-26T23:45:12.997746+07:00"
+    },
+    {
+      "id": "33465063b8b4c66322ba98e9d0750270",
+      "title": "Khoảnh khắc thầy trò Kim Sang-sik cầm cờ chạy vòng sân ăn mừng chức vô địch",
+      "link": "https://vnexpress.net/khoanh-khac-thay-tro-kim-sang-sik-cam-co-chay-vong-san-an-mung-chuc-vo-dich-5113867.html",
+      "summary": "Ngay sau tiếng còi mãn cuộc, HLV Kim Sang-sik được các học trò tung lên, trước khi cùng nhau cầm cờ chạy vòng quanh sân Mỹ Đình mừng bảo vệ chức vô địch ASEAN Cup.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T16:02:21+07:00",
+      "fetched": "2026-08-26T23:45:10.253422+07:00"
+    },
+    {
+      "id": "5c43ee00d4183ebf28bdd93126a38f79",
+      "title": "CĐV đi bão mừng đội tuyển Việt Nam vô địch ASEAN Cup 2026, trung tâm TP.HCM ngập sắc đỏ",
+      "link": "https://thanhnien.vn/cdv-di-bao-mung-doi-tuyen-viet-nam-vo-dich-asean-cup-2026-trung-tam-tphcm-ngap-sac-do-185260826225946477.htm",
+      "summary": "Ngay sau khi đội tuyển Việt Nam hòa Thái Lan 2-2 ở chung kết lượt về, qua đó thắng chung cuộc 4-2 và bảo vệ thành công chức vô địch ASEAN Cup 2026, hàng ngàn người hâm mộ tại TP.HCM đã đổ ra đường ăn mừng. Cờ đỏ sao vàng, tiếng còi xe, tiếng kèn và những tiếng hô 'Việt Nam vô địch' tạo nên không khí...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T16:02:00+07:00",
+      "fetched": "2026-08-26T23:45:12.997869+07:00"
+    },
+    {
+      "id": "89a8d17966638a6abee2f2e9b279889e",
+      "title": "Đình Bắc giành giải Cầu thủ hay nhất ASEAN Cup 2026",
+      "link": "https://vnexpress.net/dinh-bac-gianh-giai-cau-thu-hay-nhat-asean-cup-2026-5111769.html",
+      "summary": "Góp công lớn vào chức vô địch của đội tuyển Việt Nam, tiền đạo Nguyễn Đình Bắc được trao giải Cầu thủ xuất sắc của ASEAN Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T16:00:29+07:00",
+      "fetched": "2026-08-26T23:45:10.253586+07:00"
+    },
+    {
+      "id": "f80e94ceef0f53d981a0f60818fa151e",
+      "title": "Điện Kremlin xác nhận trùm CIA gặp giới chức tình báo Nga",
+      "link": "https://vnexpress.net/dien-kremlin-xac-nhan-trum-cia-gap-gioi-chuc-tinh-bao-nga-5113824.html",
+      "summary": "Điện Kremlin cho biết Giám đốc CIA Ratcliffe tới thăm Moskva, nhưng không gặp Tổng thống Putin mà hội đàm với các quan chức tình báo Nga.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T15:57:40+07:00",
+      "fetched": "2026-08-26T23:45:10.253725+07:00"
+    },
+    {
+      "id": "f80e94ceef0f53d981a0f60818fa151e",
+      "title": "Điện Kremlin xác nhận trùm CIA gặp giới chức tình báo Nga",
+      "link": "https://vnexpress.net/dien-kremlin-xac-nhan-trum-cia-gap-gioi-chuc-tinh-bao-nga-5113824.html",
+      "summary": "Điện Kremlin cho biết Giám đốc CIA Ratcliffe tới thăm Moskva, nhưng không gặp Tổng thống Putin mà hội đàm với các quan chức tình báo Nga.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-26T15:57:40+07:00",
+      "fetched": "2026-08-26T23:45:16.303543+07:00"
+    },
+    {
+      "id": "d32418509cea9745d1e9c23ec491ca11",
+      "title": "Highlight Việt Nam 2-2 Thái Lan (chung cuộc 4-2): Phép thuật HLV Kim Sang-sik",
+      "link": "https://thanhnien.vn/highlight-viet-nam-2-2-thai-lan-chung-cuoc-4-2-phep-thuat-hlv-kim-sang-sik-18526082622561252.htm",
+      "summary": "Sau khi bị Thái Lan dẫn trước và đẩy vào thế khó, đội tuyển Việt Nam vẫn thể hiện bản lĩnh, giữ vững lợi thế từ lượt đi để hòa 2-2 ở trận lượt về, qua đó thắng chung cuộc 4-2 và bảo vệ thành công chức vô địch ASEAN Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T15:56:00+07:00",
+      "fetched": "2026-08-26T23:45:12.997993+07:00"
+    },
+    {
+      "id": "f2c05a1f2ec814ff30bf9742b902c805",
+      "title": "Thái Lan đá phản lưới nhiều nhất lịch sử vòng knock-out ASEAN Cup",
+      "link": "https://vnexpress.net/thai-lan-da-phan-luoi-nhieu-nhat-lich-su-vong-knock-out-asean-cup-5113861.html",
+      "summary": "Hai bàn phản lưới ở lượt về chung kết ASEAN Cup 2026 khiến Thái Lan trở thành đội đá phản lưới nhiều nhất lịch sử các vòng knock-out giải đấu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T15:53:27+07:00",
+      "fetched": "2026-08-26T23:45:10.253862+07:00"
+    },
+    {
+      "id": "f2c05a1f2ec814ff30bf9742b902c805",
+      "title": "Thái Lan đá phản lưới nhiều nhất lịch sử vòng knock-out ASEAN Cup",
+      "link": "https://vnexpress.net/thai-lan-da-phan-luoi-nhieu-nhat-lich-su-vong-knock-out-asean-cup-5113861.html",
+      "summary": "Hai bàn phản lưới ở lượt về chung kết ASEAN Cup 2026 khiến Thái Lan trở thành đội đá phản lưới nhiều nhất lịch sử các vòng knock-out giải đấu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-26T15:53:27+07:00",
+      "fetched": "2026-08-26T23:45:20.780697+07:00"
+    },
+    {
+      "id": "2733b3c03614176f9cf0f8543a27ef9f",
+      "title": "Đội tuyển Việt Nam thống trị danh hiệu cá nhân tại ASEAN Cup 2026",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-thong-tri-danh-hieu-ca-nhan-tai-asean-cup-2026-185260826225103736.htm",
+      "summary": "Đội tuyển Việt Nam bảo vệ thành công chức vô địch khu vực. Trong khi đó, các học trò của HLV Kim Sang-sik thống trị các danh hiệu cá nhân tại ASEAN Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T15:53:00+07:00",
+      "fetched": "2026-08-26T23:45:12.998112+07:00"
+    },
+    {
+      "id": "d6eaf9021c54db819bc1fcb8db1f065f",
+      "title": "Hoàng Đức tiết lộ khoảnh khắc Thái Lan đá hỏng phạt đền, Hoàng Hên nói hạnh phúc",
+      "link": "https://thanhnien.vn/hoang-duc-tiet-lo-khoanh-khac-thai-lan-da-hong-phat-den-hoang-hen-noi-hanh-phuc-185260826224424528.htm",
+      "summary": "Sau khi đội tuyển Việt Nam bảo vệ thành công ngôi vương ASEAN Cup, Nguyễn Hoàng Đức thừa nhận đội nhà đã có thời điểm gặp may mắn, trong khi Đỗ Hoàng Hên không giấu được niềm hạnh phúc với danh hiệu đầu tiên cùng đội tuyển Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T15:47:00+07:00",
+      "fetched": "2026-08-26T23:45:12.998248+07:00"
+    },
+    {
+      "id": "e7bc618b27eeba8dae8ce2b26e228aa0",
+      "title": "Tùng Dương khuấy động sân Mỹ Đình trước giờ bóng lăn",
+      "link": "https://vnexpress.net/tung-duong-khuay-dong-san-my-dinh-truoc-gio-bong-lan-5113643.html",
+      "summary": "Tùng Dương hát \"Khát vọng vinh quang\" khi đón cựu tiền đạo Lê Công Vinh mang ASEAN Cup 2026 ra sân Mỹ Đình trước giờ trận chung kết lượt về.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T15:45:57+07:00",
+      "fetched": "2026-08-26T23:45:10.253988+07:00"
+    },
+    {
+      "id": "f28bd612029fb03f591a0aa130b4bb09",
+      "title": "Lời dạy của 'má Bảy' Phùng Há khiến NSND Bạch Tuyết 'mang theo suốt đời'",
+      "link": "https://thanhnien.vn/loi-day-cua-ma-bay-phung-ha-khien-nsnd-bach-tuyet-mang-theo-suot-doi-185260826212042151.htm",
+      "summary": "Gần đây, NSND Bạch Tuyết gây chú ý khi làm thành viên của hội đồng cố vấn dự án 'Dân chơi dân ca' của Phương Mỹ Chi. Giọng ca cải lương đã có những chia sẻ về vai trò mới này ở tuổi ngoài 80.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T15:45:00+07:00",
+      "fetched": "2026-08-26T23:45:12.998375+07:00"
+    },
+    {
+      "id": "d0d3134bf0774f78d0817d712b437b20",
+      "title": "Thái Lan lập kỷ lục phản lưới ở... tầm thế giới: Mất cúp đau đớn",
+      "link": "https://thanhnien.vn/thai-lan-lap-ky-luc-phan-luoi-o-tam-the-gioi-mat-cup-dau-don-185260826223351056.htm",
+      "summary": "Đội tuyển Thái Lan trở thành tập thể hiếm hoi trong lịch sử bóng đá thế giới phản lưới 2 bàn trong 1 trận chung kết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T15:37:00+07:00",
+      "fetched": "2026-08-26T23:45:12.998493+07:00"
+    },
+    {
+      "id": "7a854ddf3fa4279e6a577357924bdb13",
+      "title": "Bắt nghi phạm dọa giết, cướp tài sản, hiếp dâm phụ nữ 63 tuổi",
+      "link": "https://thanhnien.vn/bat-nghi-pham-doa-giet-cuop-tai-san-hiep-dam-phu-nu-63-tuoi-185260824222523183.htm",
+      "summary": "Công an tỉnh Đắk Lắk đã bắt tạm giam nghi phạm cướp tài sản, hiếp dâm người phụ nữ 63 tuổi đang trên đường ra chợ để mua rau quả về bán.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T15:34:00+07:00",
+      "fetched": "2026-08-26T23:45:12.998617+07:00"
+    },
+    {
+      "id": "d9d1ae13a72a2893bdab2a2f9c494f36",
+      "title": "Ảnh chế Thái Lan phản lưới nhà tràn ngập mạng xã hội",
+      "link": "https://vnexpress.net/thai-lan-ghi-4-ban-nhung-van-thua-viet-nam-tai-asean-cup-2026-vi-thang-co-hon-5113864.html",
+      "summary": "Trong trận chung kết lượt về giữa Việt Nam và Thái Lan, các cầu thủ Thái Lan dù đã ghi 4 bàn nhưng vẫn nhìn Việt Nam vô địch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T15:33:21+07:00",
+      "fetched": "2026-08-26T23:45:10.254118+07:00"
+    },
+    {
+      "id": "6e1bd91102b6a4067f545baf5d7a5988",
+      "title": "Báo Indonesia: Thái Lan đá phản lưới nhà hai lần, Việt Nam lên ngôi vô địch ASEAN Cup 2026",
+      "link": "https://thanhnien.vn/bao-indonesia-thai-lan-da-phan-luoi-nha-hai-lan-viet-nam-len-ngoi-vo-dich-asean-cup-2026-185260826223226728.htm",
+      "summary": "Theo CNN Indonesia, đội tuyển Việt Nam bị ức chế trong hiệp 1 vì cuốn vào lối chơi của Thái Lan ở trận chung kết lượt về ASEAN Cup 2026 hòa tỷ số 2-2 (chung cuộc là 4-2) tối 26.8. Phải đến khi đối phương sút hỏng quả phạt đền các cầu thủ của ông Kim Sang-sik mới thức giấc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T15:33:00+07:00",
+      "fetched": "2026-08-26T23:45:12.998749+07:00"
+    },
+    {
+      "id": "18335b6680767f5b1479fb2cb6e217f8",
+      "title": "Chấm điểm Việt Nam 2-2 Thái Lan: Hoàng Đức cao nhất, nhưng Hoàng Hên hay nhất",
+      "link": "https://thanhnien.vn/cham-diem-viet-nam-2-2-thai-lan-hoang-duc-cao-nhat-nhung-hoang-hen-hay-nhat-185260826222737135.htm",
+      "summary": "Sau trận hòa 2-2 đầy kịch tính giữa Việt Nam và Thái Lan tối 26.8 tại Mỹ Đình, tiền vệ Nguyễn Hoàng Đức nhận điểm số cao nhất đội từ Sofascore, trong khi Đỗ Hoàng Hên được ban tổ chức vinh danh là cầu thủ xuất sắc nhất trận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T15:33:00+07:00",
+      "fetched": "2026-08-26T23:45:12.998876+07:00"
+    },
+    {
+      "id": "ac1e9a378b28b0cbdda131cb7b27a502",
+      "title": "Dòng người 'đi bão' mừng Việt Nam vô địch ASEAN Cup",
+      "link": "https://vnexpress.net/dong-nguoi-di-bao-mung-viet-nam-vo-dich-asean-cup-5113863.html",
+      "summary": "Người dân đổ về các tuyến đường ở Hà Nội, TP HCM, phất cờ, reo hò để mừng tuyển Việt Nam thắng Thái Lan ở chung kết lượt về ASEAN Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T15:32:43+07:00",
+      "fetched": "2026-08-26T23:45:10.254275+07:00"
+    },
+    {
+      "id": "1207a633fdf98a464fb4b4e0522d0c96",
+      "title": "Quang Hải đi vào lịch sử bóng đá Việt Nam",
+      "link": "https://vnexpress.net/quang-hai-di-vao-lich-su-bong-da-viet-nam-5113860.html",
+      "summary": "Nguyễn Quang Hải trở thành cầu thủ Việt Nam đầu tiên ba lần vô địch Đông Nam Á, sau khi cùng đội tuyển đăng quang năm 2018, 2024 và 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T15:28:51+07:00",
+      "fetched": "2026-08-26T23:45:10.254407+07:00"
+    },
+    {
+      "id": "1207a633fdf98a464fb4b4e0522d0c96",
+      "title": "Quang Hải đi vào lịch sử bóng đá Việt Nam",
+      "link": "https://vnexpress.net/quang-hai-di-vao-lich-su-bong-da-viet-nam-5113860.html",
+      "summary": "Nguyễn Quang Hải trở thành cầu thủ Việt Nam đầu tiên ba lần vô địch Đông Nam Á, sau khi cùng đội tuyển đăng quang năm 2018, 2024 và 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-26T15:28:51+07:00",
+      "fetched": "2026-08-26T23:45:20.780851+07:00"
+    },
+    {
+      "id": "7dd524fdebd5caa90619ef272f82916a",
+      "title": "HLV Kim Sang-sik họp báo sau khi vô địch ASEAN Cup 2026",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-hop-bao-sau-khi-vo-dich-asean-cup-2026-5113635.html",
+      "summary": "HLV Kim Sang-sik trả lời truyền thông sau khi Việt Nam hòa Thái Lan 2-2 ở lượt về chung kết tối 26/8, và thắng chung cuộc 4-2 để lần thứ hai liên tiếp vô địch ASEAN Cup.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T15:27:03+07:00",
+      "fetched": "2026-08-26T23:45:10.254540+07:00"
+    },
+    {
+      "id": "7dd524fdebd5caa90619ef272f82916a",
+      "title": "HLV Kim Sang-sik họp báo sau khi vô địch ASEAN Cup 2026",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-hop-bao-sau-khi-vo-dich-asean-cup-2026-5113635.html",
+      "summary": "HLV Kim Sang-sik trả lời truyền thông sau khi Việt Nam hòa Thái Lan 2-2 ở lượt về chung kết tối 26/8, và thắng chung cuộc 4-2 để lần thứ hai liên tiếp vô địch ASEAN Cup.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-26T15:27:03+07:00",
+      "fetched": "2026-08-26T23:45:20.780990+07:00"
+    },
+    {
+      "id": "31660feef7ab14a4f49e9245de18d86c",
+      "title": "Việt Nam 2-2 Thái Lan",
+      "link": "https://vnexpress.net/viet-nam-2-2-thai-lan-5113854.html",
+      "summary": "Hai bàn phản lưới của Chatchai rồi Wanchai khiến Thái Lan bị cầm hòa trong trận lượt về tối 26/2, và thua với Việt Nam tổng tỷ số 2-4 ở chung kết ASEAN Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T15:07:28+07:00",
+      "fetched": "2026-08-26T23:45:10.254667+07:00"
+    },
+    {
+      "id": "92663589b1a53e0bc5d0f845af178e31",
+      "title": "HLV Thái Lan họp báo sau khi về nhì ASEAN Cup 2026",
+      "link": "https://vnexpress.net/hlv-thai-lan-hop-bao-sau-khi-ve-nhi-asean-cup-2026-5113636.html",
+      "summary": "HLV Anthony Hudson đưa ra những đánh giá sau khi Thái Lan thua Việt Nam ở lượt về chung kết ASEAN Cup 2026 trên sân Mỹ Đình tối 26/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T15:00:00+07:00",
+      "fetched": "2026-08-26T23:45:10.254788+07:00"
+    },
+    {
+      "id": "92663589b1a53e0bc5d0f845af178e31",
+      "title": "HLV Thái Lan họp báo sau khi về nhì ASEAN Cup 2026",
+      "link": "https://vnexpress.net/hlv-thai-lan-hop-bao-sau-khi-ve-nhi-asean-cup-2026-5113636.html",
+      "summary": "HLV Anthony Hudson chuẩn bị đưa ra những đánh giá sau khi Thái Lan thua Việt Nam ở lượt về chung kết ASEAN Cup 2026 trên sân Mỹ Đình tối 26/8.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-26T15:00:00+07:00",
+      "fetched": "2026-08-26T23:45:20.781123+07:00"
+    },
+    {
+      "id": "8ab6ba9612805ae59befcd2003ba0a61",
+      "title": "Biển người nhuộm đỏ đường phố mừng Việt Nam vô địch ASEAN Cup 2026",
+      "link": "https://vnexpress.net/bien-nguoi-xuong-duong-mung-viet-nam-vo-dich-asean-cup-5113653.html",
+      "summary": "Dòng người đổ ra đường, mang theo cờ đỏ sao vàng, hò reo và hát vang giữa tiếng kèn, trống sau khi tuyển Việt Nam thắng Thái Lan, giành chức vô địch ASEAN Cup, tối 26/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T14:52:42+07:00",
+      "fetched": "2026-08-26T23:45:10.254916+07:00"
+    },
+    {
+      "id": "53897cd7ed491dbd1a207a04b2abc219",
+      "title": "Hai bàn phản lưới của Thái Lan giúp Việt Nam vô địch ASEAN Cup",
+      "link": "https://vnexpress.net/hai-ban-phan-luoi-cua-thai-lan-giup-viet-nam-vo-dich-asean-cup-5113662.html",
+      "summary": "Việt Nam hòa Thái Lan 2-2 ở lượt về, thắng chung cuộc 4-2 và lần đầu bảo vệ thành công danh hiệu ASEAN Cup.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T14:37:27+07:00",
+      "fetched": "2026-08-26T23:45:10.255041+07:00"
+    },
+    {
+      "id": "0ba67f677d3982d3c9f75560c9805fa8",
+      "title": "Pha sút hỏng phạt đền của Thái Lan",
+      "link": "https://vnexpress.net/pha-sut-hong-phat-den-cua-thai-lan-5113847.html",
+      "summary": "Phút 49, tiền vệ Kakana đá hỏng phạt đền, khiến Thái Lan lỡ cơ hội dẫn 2-0 và cân bằng tổng tỷ số sau hai lượt trận, trước khi Việt Nam gỡ hòa chỉ ba phút sau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T14:34:45+07:00",
+      "fetched": "2026-08-26T23:45:10.255181+07:00"
     },
     {
       "id": "2608759444d716204a866c10ae6a2b99",
@@ -1011,6 +1511,16 @@ window.newsData_2026_08_26 = {
       "category": "Thể thao",
       "published": "2026-08-26T11:30:00+07:00",
       "fetched": "2026-08-26T19:43:49.080416+07:00"
+    },
+    {
+      "id": "a67f26c3d7692ac2badc99ee1faade7f",
+      "title": "Việt Nam vượt qua Thái Lan, vô địch ASEAN Cup 2026",
+      "link": "https://vnexpress.net/ket-qua-viet-nam-vs-thai-lan-5113742.html",
+      "summary": "Việt Nam hòa 2-2 ở lượt về chung kết ASEAN Cup 2026 nhờ hai bàn phản lưới của Thái Lan, qua đó thắng với tổng tỷ số 4-2 và bảo vệ danh hiệu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-26T11:30:00+07:00",
+      "fetched": "2026-08-26T23:45:20.781277+07:00"
     },
     {
       "id": "637cd879556dbe96b21ae14bc203a1ae",
