@@ -1,6 +1,6 @@
 window.newsData_2026_08_26 = {
   "date": "2026-08-26",
-  "lastUpdated": "2026-08-26T13:41:32.207465+07:00",
+  "lastUpdated": "2026-08-26T15:38:26.159216+07:00",
   "articles": [
     {
       "id": "b014f6e7bb44b286fd47e76485798ba7",
@@ -303,6 +303,226 @@ window.newsData_2026_08_26 = {
       "fetched": "2026-08-26T10:00:44.601638+07:00"
     },
     {
+      "id": "766c8c473b3ac70c0a186f0fe9b24d5f",
+      "title": "Hơn 15.000 người Mỹ nhiễm ký sinh trùng từ rau diếp",
+      "link": "https://vnexpress.net/hon-15-000-nguoi-my-nhiem-ky-sinh-trung-tu-rau-diep-5113590.html",
+      "summary": "Một túi rau diếp cắt sẵn, biểu tượng quen thuộc của chế độ ăn lành mạnh, đang trở thành tâm điểm của đợt bùng phát ký sinh trùng lớn chưa từng thấy ở Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T08:37:23+07:00",
+      "fetched": "2026-08-26T15:38:14.487522+07:00"
+    },
+    {
+      "id": "aa839aed8acb0421cc2e9fbe1d685676",
+      "title": "Mong em có sự nghiêm túc và trách nhiệm với lựa chọn của mình",
+      "link": "https://vnexpress.net/mong-em-co-su-nghiem-tuc-va-trach-nhiem-voi-lua-chon-cua-minh-5113541.html",
+      "summary": "Anh mong gặp một người sống tử tế, chân thành, biết yêu thương bản thân và những người mình quan tâm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T08:31:51+07:00",
+      "fetched": "2026-08-26T15:38:14.487694+07:00"
+    },
+    {
+      "id": "6a597665c8bcbadfebca6c648f4aaf63",
+      "title": "Madam Pang đến Hà Nội, tiếp lửa tuyển Thái Lan",
+      "link": "https://vnexpress.net/madam-pang-den-ha-noi-tiep-lua-tuyen-thai-lan-5113703.html",
+      "summary": "Bà Madam Pang, Chủ tịch LĐBĐ Thái Lan, đến sân bay Nội Bài sáng 26/8, chuẩn bị có mặt tại sân Mỹ Đình để tiếp sức tuyển Thái Lan ở trận chung kết lượt về ASEAN Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T08:30:52+07:00",
+      "fetched": "2026-08-26T15:38:14.487844+07:00"
+    },
+    {
+      "id": "7f7849bbef3bea9b09d6b2a935d86bc8",
+      "title": "Điều gì xảy ra với đường ruột khi ăn củ hành sống?",
+      "link": "https://vnexpress.net/dieu-gi-xay-ra-voi-duong-ruot-khi-an-cu-hanh-song-5112948.html",
+      "summary": "Ăn hành sống có thể gây trào ngược axit và kích thích đường ruột, dẫn đến các triệu chứng rối loạn tiêu hóa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T08:30:00+07:00",
+      "fetched": "2026-08-26T15:38:14.487979+07:00"
+    },
+    {
+      "id": "3e9bd272f6e9ba8050e6ce3472f02e11",
+      "title": "Ba quan chức mật vụ Mỹ bị đình chỉ công tác",
+      "link": "https://vnexpress.net/ba-quan-chuc-mat-vu-my-bi-dinh-chi-cong-tac-5113646.html",
+      "summary": "Ba quan chức Sở Mật vụ, được cho là làm việc trong mảng truyền thông, đã bị đình chỉ công tác để phục vụ cuộc điều tra nội bộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T08:29:24+07:00",
+      "fetched": "2026-08-26T15:38:14.488109+07:00"
+    },
+    {
+      "id": "3e9bd272f6e9ba8050e6ce3472f02e11",
+      "title": "Ba quan chức mật vụ Mỹ bị đình chỉ công tác",
+      "link": "https://vnexpress.net/ba-quan-chuc-mat-vu-my-bi-dinh-chi-cong-tac-5113646.html",
+      "summary": "Ba quan chức Sở Mật vụ, được cho là làm việc trong mảng truyền thông, đã bị đình chỉ công tác để phục vụ cuộc điều tra nội bộ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-26T08:29:24+07:00",
+      "fetched": "2026-08-26T15:38:21.307778+07:00"
+    },
+    {
+      "id": "67f07b5539210ba043b7ed04707783b2",
+      "title": "Từ vụ nam thanh niên bắt bồ câu: Chấn chỉnh văn hóa ứng xử nơi công cộng",
+      "link": "https://thanhnien.vn/tu-vu-nam-thanh-nien-bat-bo-cau-chan-chinh-van-hoa-ung-xu-noi-cong-cong-185260825194723938.htm",
+      "summary": "Đoạn clip ghi lại cảnh một nam thanh niên bất ngờ vồ bắt hai con bồ câu giữa khu vực trung tâm TP.HCM đang nhận được nhiều sự chú ý trên mạng xã hội. Hành động diễn ra công khai giữa không gian công cộng khiến nhiều người phản ứng, từ đó đặt ra câu hỏi về văn hóa ứng xử của con người với không gian ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T08:29:00+07:00",
+      "fetched": "2026-08-26T15:38:17.632747+07:00"
+    },
+    {
+      "id": "9ef1d1edc64bf89d11f91d333443a542",
+      "title": "Đà Nẵng lập kênh kết nối cung - cầu nhân lực cho doanh nghiệp",
+      "link": "https://vnexpress.net/da-nang-lap-kenh-ket-noi-cung-cau-nhan-luc-cho-doanh-nghiep-5113697.html",
+      "summary": "Chính quyền thành phố sẽ thiết lập kênh điều phối giữa Nhà nước, nhà trường và doanh nghiệp nhằm giải bài toán thiếu hụt nhân lực chất lượng cao trong các ngành mũi nhọn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T08:28:09+07:00",
+      "fetched": "2026-08-26T15:38:14.488242+07:00"
+    },
+    {
+      "id": "d9d65e3b70a1e66b20b6db76c2df32e0",
+      "title": "Mong gặp người đàn ông tử tế",
+      "link": "https://vnexpress.net/mong-gap-nguoi-dan-ong-tu-te-5113544.html",
+      "summary": "Em thực sự đánh giá cao lối nghĩ, cách sống và sự nhân hậu trong trái tim anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T08:27:37+07:00",
+      "fetched": "2026-08-26T15:38:14.488367+07:00"
+    },
+    {
+      "id": "6a4e2f98bd97666eba740623d39a1f13",
+      "title": "Tìm người đàn ông chín chắn và chính trực",
+      "link": "https://vnexpress.net/tim-nguoi-dan-ong-chin-chan-va-chinh-truc-5113543.html",
+      "summary": "Mong anh chân thành và tử tế, dùng sự thật lòng để đối xử với nhau, biết yêu thương và trân trọng gia đình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T08:27:21+07:00",
+      "fetched": "2026-08-26T15:38:14.488555+07:00"
+    },
+    {
+      "id": "8ac8d2561ea138668108581676c23e16",
+      "title": "Giá vàng quay đầu giảm sau 4 ngày tăng liên tiếp",
+      "link": "https://thanhnien.vn/gia-vang-quay-dau-giam-sau-4-ngay-tang-lien-tiep-185260826151719196.htm",
+      "summary": "Sau 4 ngày tăng liên tiếp (21 - 25.8), chiều nay 26.8, giá vàng miếng SJC quay đầu giảm 300.000 đồng/lượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T08:27:00+07:00",
+      "fetched": "2026-08-26T15:38:17.632898+07:00"
+    },
+    {
+      "id": "cec2278ac4e9407ff839fd54ffa636d7",
+      "title": "Sợ đau khó chịu, có phương pháp nội soi nào giúp tầm soát nhẹ nhàng hơn?",
+      "link": "https://thanhnien.vn/so-dau-kho-chiu-co-phuong-phap-noi-soi-nao-giup-tam-soat-nhe-nhang-hon-185260825135349814.htm",
+      "summary": "'Tôi rất sợ nội soi vì nghe nói đau và khó chịu nên cứ trì hoãn nhiều năm. Hiện nay có những phương pháp nào giúp nội soi nhẹ nhàng hơn nhưng vẫn đảm bảo phát hiện sớm ung thư?'. (K.Q., 28 tuổi, ở Đồng Tháp).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T08:27:00+07:00",
+      "fetched": "2026-08-26T15:38:17.633030+07:00"
+    },
+    {
+      "id": "9991c2a87b1b27118a52d41025bfa344",
+      "title": "Bạn gái im lặng khi tôi và tình địch cùng hỏi: 'Em chọn ai?'",
+      "link": "https://vnexpress.net/ban-gai-im-lang-khi-toi-va-tinh-dich-cung-hoi-em-chon-ai-5113680.html",
+      "summary": "Được cái cô ấy sắp xếp thời gian rất khéo để tôi và bạn trai kia không chạm mặt nhau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T08:26:42+07:00",
+      "fetched": "2026-08-26T15:38:14.488701+07:00"
+    },
+    {
+      "id": "32aceb350c7d057ab19c199906ff0d4b",
+      "title": "Cần Thơ an táng 38 hài cốt liệt sĩ tại nghĩa trang có hơn 3.800 ngôi mộ",
+      "link": "https://thanhnien.vn/can-tho-an-tang-38-hai-cot-liet-si-tai-nghia-trang-co-hon-3800-ngoi-mo-185260826125102207.htm",
+      "summary": "Buổi lễ an táng diễn ra xúc động vì những nỗ lực tìm kiếm đã được đền đáp, nhưng vẫn còn đó nỗi trăn trở khi 37 anh hùng liệt sĩ chưa xác định được thông tin.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T08:26:00+07:00",
+      "fetched": "2026-08-26T15:38:17.633154+07:00"
+    },
+    {
+      "id": "2add8e3a8be23cb100e2f4a49344d2b2",
+      "title": "Bắt nghi phạm cầm đầu đường dây hơn 155 người Việt lừa đảo tại Tam giác Vàng",
+      "link": "https://thanhnien.vn/bat-nghi-pham-cam-dau-duong-day-hon-155-nguoi-viet-lua-dao-tai-tam-giac-vang-185260826143322082.htm",
+      "summary": "Hoàng Thùy Linh, nghi phạm bị cáo buộc cầm đầu đường dây hơn 155 người Việt Nam hoạt động lừa đảo, mua bán người tại đặc khu Tam giác Vàng (Lào), vừa bị lực lượng chức năng bắt giữ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T08:23:00+07:00",
+      "fetched": "2026-08-26T15:38:17.633277+07:00"
+    },
+    {
+      "id": "7990281a0d003d1604a1cd26652e672f",
+      "title": "Hoa hậu Thanh Hà: Tôi trưởng thành hơn từ những lần 'cho đi'",
+      "link": "https://thanhnien.vn/hoa-hau-thanh-ha-toi-truong-thanh-hon-tu-nhung-lan-cho-di-185260824191234182.htm",
+      "summary": "Trong 2 ngày tranh tài của giải pickleball \"Cùng con đi tiếp cuộc đời\" (lần thứ 5 - năm 2026) - cúp Bà Bầu Club, Hoa hậu Nguyễn Thanh Hà dù không ghi danh với vai trò vận động viên, nhưng vẫn có mặt để đồng hành, lan tỏa thông điệp ý nghĩa của chương trình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T08:22:00+07:00",
+      "fetched": "2026-08-26T15:38:17.633402+07:00"
+    },
+    {
+      "id": "6693f6a581efa7f83ceb9d3084e547e5",
+      "title": "Nhiều du khách hủy đến Jeju sau loạt thi thể được phát hiện",
+      "link": "https://vnexpress.net/nhieu-du-khach-huy-den-jeju-sau-loat-thi-the-duoc-phat-hien-5113512.html",
+      "summary": "Việc liên tiếp phát hiện thi thể người mất tích tại các điểm du lịch nổi tiếng ở đảo Jeju khiến dư luận hoang mang, nhiều du khách hủy chuyến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T08:20:43+07:00",
+      "fetched": "2026-08-26T15:38:14.488838+07:00"
+    },
+    {
+      "id": "cd8947dfdaa7865323e2a135aebf11b2",
+      "title": "Hà Tĩnh: Khởi tố 3 người bị cáo buộc ép thanh niên viết giấy nợ 400 triệu đồng",
+      "link": "https://thanhnien.vn/ha-tinh-khoi-to-3-nguoi-bi-cao-buoc-ep-thanh-nien-viet-giay-no-400-trieu-dong-185260826145717418.htm",
+      "summary": "Ba người đàn ông bị cáo buộc đánh đập, đe dọa một thanh niên tại tiệm cầm đồ, ép nạn nhân viết giấy vay nợ 400 triệu đồng vừa bị Công an tỉnh Hà Tĩnh khởi tố, bắt tạm giam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T08:19:00+07:00",
+      "fetched": "2026-08-26T15:38:17.633547+07:00"
+    },
+    {
+      "id": "bbf6c9e2316e78d8be8930924d2370d6",
+      "title": "Anh Nguyễn Minh Triết: Không hạ thấp mục tiêu để dễ hoàn thành",
+      "link": "https://thanhnien.vn/anh-nguyen-minh-triet-khong-ha-thap-muc-tieu-de-de-hoan-thanh-185260826113301906.htm",
+      "summary": "Tại hội nghị sơ kết giữa nhiệm kỳ Hội Sinh viên Việt Nam khóa XI, anh Nguyễn Minh Triết, Bí thư thường trực T.Ư Đoàn, yêu cầu cán bộ Hội phải dám đổi mới, không hạ thấp mục tiêu để dễ hoàn thành trong nửa cuối nhiệm kỳ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T08:19:00+07:00",
+      "fetched": "2026-08-26T15:38:17.633675+07:00"
+    },
+    {
+      "id": "424477e342e4051088b1cc39ebded01d",
+      "title": "Bộ Khoa học và Công nghệ tập huấn thi hành pháp luật cho địa phương",
+      "link": "https://vnexpress.net/bo-khoa-hoc-va-cong-nghe-tap-huan-thi-hanh-phap-luat-cho-dia-phuong-5113686.html",
+      "summary": "Sáng 26/8, Bộ Khoa học và Công nghệ tổ chức hội nghị tập huấn nghiệp vụ tổ chức thi hành pháp luật cho lãnh đạo ngành và cán bộ các xã, phường tại TP Đà Nẵng và TP Huế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T08:18:08+07:00",
+      "fetched": "2026-08-26T15:38:14.488966+07:00"
+    },
+    {
+      "id": "0eb81973898891924fecead909511f01",
+      "title": "Phường ở TP HCM giảm 2/3 số trường công",
+      "link": "https://vnexpress.net/danh-sach-truong-hieu-truong-sau-sap-nhap-o-phuong-nhieu-loc-tp-hcm-5113580.html",
+      "summary": "Từ 15 trường trong không gian 1,71 km2, phường Nhiêu Lộc gộp còn 5 trường, tỷ lệ giảm là 66,67 - mức cao nhất ở TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T08:16:53+07:00",
+      "fetched": "2026-08-26T15:38:14.489096+07:00"
+    },
+    {
+      "id": "529daf4ff8ebc8c4fc10f5741a1c367c",
+      "title": "Google Maps biết quán ăn đông khách bằng cách nào?",
+      "link": "https://thanhnien.vn/google-maps-biet-quan-an-dong-khach-bang-cach-nao-185260825163704296.htm",
+      "summary": "Không cần chủ cửa hàng báo cáo, Google Maps vẫn biết địa điểm nào đông khách nhờ tính năng mà nhiều người cấp cho ứng dụng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T08:15:00+07:00",
+      "fetched": "2026-08-26T15:38:17.633801+07:00"
+    },
+    {
       "id": "e6c2e0924d917739da85b3bc92d7d07c",
       "title": "Chung kết Việt Nam - Thái Lan: Lịch sử chờ thầy trò HLV Kim Sang Sik",
       "link": "https://tuoitre.vn/chung-ket-viet-nam-thai-lan-lich-su-cho-thay-tro-hlv-kim-sang-sik-100260825160032058.htm",
@@ -451,6 +671,146 @@ window.newsData_2026_08_26 = {
       "category": "Tổng hợp",
       "published": "2026-08-26T08:05:30.487760+07:00",
       "fetched": "2026-08-26T08:05:30.487903+07:00"
+    },
+    {
+      "id": "d5e424ae663346bfdbe1076bf849de67",
+      "title": "Anh tin đủ nắng hoa sẽ nở, đủ duyên ắt sẽ gặp",
+      "link": "https://vnexpress.net/anh-tin-du-nang-hoa-se-no-du-duyen-at-se-gap-5113529.html",
+      "summary": "Anh tin rằng tình yêu không cần phải hoành tráng như phim, chỉ cần hai người thật lòng và chịu khó với nhau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T08:05:11+07:00",
+      "fetched": "2026-08-26T15:38:14.489220+07:00"
+    },
+    {
+      "id": "7803e23c281dc01b23fb5e75d182adf5",
+      "title": "Nỗi sợ 'nhỡ việc quan trọng' từ những cuộc gọi lừa đảo nháy máy một giây",
+      "link": "https://vnexpress.net/noi-so-nho-viec-quan-trong-tu-nhung-cuoc-goi-lua-dao-nhay-may-mot-giay-5113613.html",
+      "summary": "Biết cuộc gọi nháy máy có thể là \"bẫy\", anh Việt Hưng vẫn không dám bỏ qua số lạ vì người anh mắc bệnh, thường đi lang thang; một cuộc gọi nhỡ đôi khi có thể là cuộc gọi \"sống còn\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T08:02:49+07:00",
+      "fetched": "2026-08-26T15:38:14.489338+07:00"
+    },
+    {
+      "id": "014a7547e1af286e9d367bf2bc4aca5d",
+      "title": "Hai doanh nghiệp công nghệ Việt vào top tiềm năng châu Á",
+      "link": "https://vnexpress.net/hai-doanh-nghiep-cong-nghe-viet-vao-top-tiem-nang-chau-a-5113518.html",
+      "summary": "Hai doanh nghiệp trong lĩnh vực năng lượng và công nghệ xanh lần đầu xuất hiện trong danh sách Forbes Asia 100 to Watch 2026, công bố ngày 24/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T08:02:20+07:00",
+      "fetched": "2026-08-26T15:38:14.489457+07:00"
+    },
+    {
+      "id": "f85a9ad4957125150dee61a267797cf6",
+      "title": "AACI là gì? Khách hàng được lợi gì khi chọn Pensilia?",
+      "link": "https://thanhnien.vn/aaci-la-gi-khach-hang-duoc-loi-gi-khi-chon-pensilia-185260826142345305.htm",
+      "summary": "Khi điều trị nám, mụn, sẹo rỗ hoặc trẻ hóa da, khách hàng không chỉ nên hỏi hiệu quả, mà còn nên hỏi phòng khám kiểm soát an toàn ra sao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T08:00:00+07:00",
+      "fetched": "2026-08-26T15:38:17.633923+07:00"
+    },
+    {
+      "id": "915b302ebb8323a7974df147279475dd",
+      "title": "Dự án Chống Lừa Đảo nhận hỗ trợ từ Google",
+      "link": "https://thanhnien.vn/du-an-chong-lua-dao-nhan-ho-tro-tu-google-185260826144700166.htm",
+      "summary": "Dự án phi lợi nhuận Chống Lừa Đảo vừa chính thức trở thành đối tác triển khai chương trình Scam Ready ASEAN tại Việt Nam. Đây là chương trình khu vực do Quỹ ASEAN (ASEAN Foundation) thực hiện với sự hỗ trợ của Google.org, tập trung nâng cao khả năng nhận diện, phòng ngừa và ứng phó với các hình thức...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T07:57:00+07:00",
+      "fetched": "2026-08-26T15:38:17.634054+07:00"
+    },
+    {
+      "id": "a7188562a5321ab8fd482ef39921d056",
+      "title": "Chuyên án VN10: Viện kiểm sát trình chiếu lời khai, tài liệu đối đáp bị cáo kêu oan",
+      "link": "https://thanhnien.vn/chuyen-an-vn10-vien-kiem-sat-trinh-chieu-loi-khai-tai-lieu-doi-dap-bi-cao-keu-oan-185260826135837374.htm",
+      "summary": "Quá trình thẩm vấn và bào chữa, một số bị cáo trong chuyên án ma túy VN10 kêu oan. Khi đối đáp, Viện kiểm sát đã trình chiếu clip thể hiện lời khai nhận tội tại cơ quan điều tra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T07:55:00+07:00",
+      "fetched": "2026-08-26T15:38:17.634180+07:00"
+    },
+    {
+      "id": "7d461c26c540f05c9b2a304f080ff22e",
+      "title": "5 mẫu ô tô 7 chỗ hút khách nhất Việt Nam: Xe MPV chiếm đa số",
+      "link": "https://thanhnien.vn/5-mau-o-to-7-cho-hut-khach-nhat-viet-nam-xe-mpv-chiem-da-so-185260825092322783.htm",
+      "summary": "Phần lớn ô tô 7 chỗ hút khách nhất Việt Nam hiện nay là các mẫu xe điện VinFast và xe nhập khẩu thuộc các thương hiệu xe Nhật Bản, trong đó xe MPV 7 chỗ phổ thông chiếm đa số với VinFast Limo Green là cái tên bán chạy nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T07:55:00+07:00",
+      "fetched": "2026-08-26T15:38:17.634297+07:00"
+    },
+    {
+      "id": "5a55d2f37358d31f53c006a96ef9744b",
+      "title": "Cảnh giác với những cuộc nháy máy từ số lạ",
+      "link": "https://thanhnien.vn/canh-giac-voi-nhung-cuoc-nhay-may-tu-so-la-185260826143310552.htm",
+      "summary": "Rất nhiều người phản ánh mỗi ngày nhận hàng loạt cuộc gọi từ các số điện thoại lạ, có trường hợp chỉ đổ chuông vài giây rồi ngắt, có trường hợp liên tục gọi lại trong nhiều ngày. Đáng chú ý, một số người cho biết họ bị làm phiền kéo dài trong nhiều năm bởi những cuộc gọi tìm người vay tiền mà bản th...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T07:54:00+07:00",
+      "fetched": "2026-08-26T15:38:17.634414+07:00"
+    },
+    {
+      "id": "3e3b6463fce8eee781f006af14bc289b",
+      "title": "Công nghệ nối thêm 'mắt' giữ bình yên xóm làng Cà Mau",
+      "link": "https://thanhnien.vn/cong-nghe-noi-them-mat-giu-binh-yen-xom-lang-ca-mau-185260826145921203.htm",
+      "summary": "Từ cổng an ninh có thể đóng, mở bằng điện thoại đến mạng lưới camera truyền dữ liệu về công an xã, Cà Mau đưa công nghệ vào phòng chống tội phạm, giúp lực lượng cơ sở chủ động nắm địa bàn và kéo người dân cùng tham gia giữ bình yên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-26T07:50:00+07:00",
+      "fetched": "2026-08-26T15:38:17.634547+07:00"
+    },
+    {
+      "id": "7b665ff03ba04baa6ac71e51028bf049",
+      "title": "Nga phóng hai quả Iskander, 7 UAV để hủy diệt 'trận địa Flamingo Ukraine'",
+      "link": "https://vnexpress.net/nga-phong-hai-qua-iskander-7-uav-de-huy-diet-tran-dia-flamingo-ukraine-5113582.html",
+      "summary": "Nga đăng video đám cháy bao trùm khu vực nghi là trận địa tên lửa hành trình Flamingo sau đòn tập kích bằng hai quả Iskander-M và 7 UAV Geran-4.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-26T07:49:26+07:00",
+      "fetched": "2026-08-26T15:38:21.307933+07:00"
+    },
+    {
+      "id": "0c688cf01532fc5939fdf50b81882ca7",
+      "title": "Vì sao tiếng Pháp thành trở ngại trong đàm phán thương mại Mỹ - Canada?",
+      "link": "https://vnexpress.net/vi-sao-tieng-phap-thanh-tro-ngai-trong-dam-phan-thuong-mai-my-canada-5113197.html",
+      "summary": "Bất đồng về các quy định bảo vệ tiếng Pháp trở thành điểm nghẽn khiến đàm phán Mỹ - Canada đổ vỡ, leo thang thành chiến tranh thương mại.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-26T07:34:45+07:00",
+      "fetched": "2026-08-26T15:38:21.308069+07:00"
+    },
+    {
+      "id": "b656406d73cc66715354d019ddd1a029",
+      "title": "Khoảnh khắc cô gái Trung Quốc thoát khỏi xe nhóm bắt cóc",
+      "link": "https://vnexpress.net/khoanh-khac-co-gai-trung-quoc-thoat-khoi-xe-nhom-bat-coc-5113594.html",
+      "summary": "Cô gái Trung Quốc dường như xảy ra giằng co với nhóm nghi phạm bắt cóc trước khi thoát khỏi chiếc ôtô đang di chuyển.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-26T07:16:31+07:00",
+      "fetched": "2026-08-26T15:38:21.308204+07:00"
+    },
+    {
+      "id": "8fdf141b0500588b04ea480f47a30ef6",
+      "title": "Nhiều nơi lắp màn hình lớn, bắn pháo sáng cổ vũ tuyển Việt Nam",
+      "link": "https://vnexpress.net/nhieu-noi-lap-man-hinh-lon-ban-phao-sang-co-vu-tuyen-viet-nam-5113598.html",
+      "summary": "Màn hình lớn được lắp tại công viên, quảng trường ở nhiều địa phương, một số nơi tổ chức ca nhạc, bắn pháo sáng phục vụ người dân xem chung kết Việt Nam - Thái Lan.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-26T07:12:45+07:00",
+      "fetched": "2026-08-26T15:38:26.149743+07:00"
+    },
+    {
+      "id": "2ea2052702586502baac543c07a1d77d",
+      "title": "'Tủ lạnh dành cho người' ở Nhật Bản",
+      "link": "https://vnexpress.net/tu-lanh-danh-cho-nguoi-o-nhat-ban-5113608.html",
+      "summary": "Công ty thiết bị công nghiệp Trusco Nakayama sản xuất tủ lạnh lớn tương đương bốt điện thoại, giúp làm mát cơ thể người trong vài phút.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-26T07:04:10+07:00",
+      "fetched": "2026-08-26T15:38:24.906291+07:00"
     },
     {
       "id": "67389587f0bf998f75dfe2414f248711",
@@ -831,6 +1191,16 @@ window.newsData_2026_08_26 = {
       "category": "Thế giới",
       "published": "2026-08-26T04:44:13+07:00",
       "fetched": "2026-08-26T13:41:25.850508+07:00"
+    },
+    {
+      "id": "f16d502d2f8d5c6d555cf2ec1ec848b3",
+      "title": "Người gốc Việt bị bắt vì chở máy chém tới gần Đồi Capitol",
+      "link": "https://vnexpress.net/nguoi-goc-viet-bi-bat-vi-cho-may-chem-toi-gan-doi-capitol-5113552.html",
+      "summary": "Philan-Tam-Duy Le, sống tại bang California, đã bị bắt sau khi dùng xe bán tải chở máy chém tới gần tòa nhà quốc hội Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-26T04:44:13+07:00",
+      "fetched": "2026-08-26T15:38:21.308339+07:00"
     },
     {
       "id": "0d3e398f8fc356dfc3e3c3597a56fd6d",
