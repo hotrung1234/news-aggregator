@@ -1,7 +1,437 @@
 window.newsData_2026_08_29 = {
   "date": "2026-08-29",
-  "lastUpdated": "2026-08-29T09:40:20.436823+07:00",
+  "lastUpdated": "2026-08-29T17:44:20.937274+07:00",
   "articles": [
+    {
+      "id": "6372f6b01caee44e4b6724cf8cf8f3b0",
+      "title": "AI của Anthropic bắt đầu tự điều khiển phòng thí nghiệm, tự làm thí nghiệm thay con người",
+      "link": "https://tuoitre.vn/ai-cua-anthropic-bat-dau-tu-dieu-khien-phong-thi-nghiem-tu-lam-thi-nghiem-thay-con-nguoi-100260829150326811.htm",
+      "summary": "Anthropic đang thử nghiệm hệ thống cho phép AI như Claude tự điều khiển kính hiển vi, laser, cánh tay robot và thiết bị phòng thí nghiệm để làm thí nghiệm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T17:44:13.415370+07:00",
+      "fetched": "2026-08-29T17:44:13.415427+07:00"
+    },
+    {
+      "id": "caebc15fde2cb676c8df6681f9120683",
+      "title": "Nghỉ lễ 2-9: Bỏ túi ‘bí kíp’ ngừa dị ứng khi lên rừng, xuống biển",
+      "link": "https://tuoitre.vn/nghi-le-2-9-bo-tui-bi-kip-ngua-di-ung-khi-len-rung-xuong-bien-100260824152554385.htm",
+      "summary": "Kỳ nghỉ Quốc khánh 2-9 kéo dài 5 ngày là dịp để nhiều gia đình du lịch, nghỉ dưỡng. Tuy nhiên việc thay đổi môi trường đột ngột, thưởng thức thực phẩm lạ, tiếp xúc với thời tiết, côn trùng hoặc các yếu tố dị nguyên mới có thể kích hoạt những phản ứng dị ứng, thậm chí phản vệ nguy hiểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T17:44:13.415307+07:00",
+      "fetched": "2026-08-29T17:44:13.415360+07:00"
+    },
+    {
+      "id": "588745776b454634c0f452247624c57c",
+      "title": "81 năm Tết độc lập, tuổi trẻ TP.HCM góp sức trẻ",
+      "link": "https://tuoitre.vn/81-nam-tet-doc-lap-tuoi-tre-tphcm-gop-suc-tre-100260829110120688.htm",
+      "summary": "Từ những công trình làm xanh từng góc phố, những lá cờ Tổ quốc, đến hành trình tìm về những địa chỉ đỏ, tuổi trẻ TP.HCM đang đón Quốc khánh 2-9 bằng những việc làm cụ thể.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T17:44:13.415236+07:00",
+      "fetched": "2026-08-29T17:44:13.415297+07:00"
+    },
+    {
+      "id": "bf21188419dd6fa74afa756b4dceba37",
+      "title": "Sau 10 ngày tăng, giá vàng thế giới giảm trở lại",
+      "link": "https://tuoitre.vn/sau-10-ngay-tang-gia-vang-the-gioi-giam-tro-lai-100260829152037024.htm",
+      "summary": "Sau khi giảm 146,4 USD/ounce tối qua, giá vàng thế giới chốt tuần giao dịch ở mức 4.456.4 USD/ounce, kết thúc đà tăng của 10 ngày trước đó.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T17:44:13.415162+07:00",
+      "fetched": "2026-08-29T17:44:13.415226+07:00"
+    },
+    {
+      "id": "b2fd2970f0cc000ba1c6a5aa751ab34c",
+      "title": "Saigon Co.op tăng nhiệt khuyến mãi mừng Lễ 2-9, 'mưa' ưu đãi hàng Việt",
+      "link": "https://tuoitre.vn/saigon-coop-tang-nhiet-khuyen-mai-mung-le-2-9-mua-uu-dai-hang-viet-100260829153334222.htm",
+      "summary": "Dịp Quốc khánh 2-9 năm nay, Saigon Co.op tăng nhiệt chương trình khuyến mãi \"30 năm Tự hào siêu thị Việt\" với loạt ưu đãi tại hơn 800 điểm bán và các kênh trực tuyến qua hình thức giảm giá, hoàn tiền, cộng điểm và quà tặng cho các mặt hàng thiết yếu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T17:44:13.415072+07:00",
+      "fetched": "2026-08-29T17:44:13.415150+07:00"
+    },
+    {
+      "id": "82df2acfd57b34f377b539e113108b27",
+      "title": "VnEdu - Hệ sinh thái số cho quản trị trường học hiện đại",
+      "link": "https://tuoitre.vn/vnedu-he-sinh-thai-so-cho-quan-tri-truong-hoc-hien-dai-10026082915044529.htm",
+      "summary": "Hệ sinh thái VnEdu của VNPT đã và đang đồng hành cùng các trường học trên cả nước, góp phần kiến tạo nền tảng quản trị giáo dục hiện đại, chuyên nghiệp, hòa chung cùng quyết tâm chuyển đổi số quốc gia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T17:44:13.414737+07:00",
+      "fetched": "2026-08-29T17:44:13.415057+07:00"
+    },
+    {
+      "id": "515a6d698754f118ef9f1c3751dea0d0",
+      "title": "Trao Huy hiệu 80 năm tuổi Đảng cho đảng viên lão thành ở Cần Thơ",
+      "link": "https://tuoitre.vn/trao-huy-hieu-80-nam-tuoi-dang-cho-dang-vien-lao-thanh-o-can-tho-100260829142052378.htm",
+      "summary": "Ông Phạm Duy Khương, người tham gia hoạt động cách mạng từ năm 1945, vừa được trao Huy hiệu 80 năm tuổi Đảng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T17:44:11.925508+07:00",
+      "fetched": "2026-08-29T17:44:13.414677+07:00"
+    },
+    {
+      "id": "8b7640e1509d466b89810e359f9f3ec1",
+      "title": "U50 đi học cao đẳng: Các bạn học một lần, mình học 10 lần",
+      "link": "https://tuoitre.vn/u50-di-hoc-cao-dang-cac-ban-hoc-mot-lan-minh-hoc-10-lan-100260826171039231.htm",
+      "summary": "Từ 27 đến gần 50 tuổi, nhiều người vẫn quyết định trở lại giảng đường, học nghề bài bản sau nhiều năm đi làm, với mong muốn bắt đầu một chặng đường mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T17:44:11.925390+07:00",
+      "fetched": "2026-08-29T17:44:11.925494+07:00"
+    },
+    {
+      "id": "39ec3a7e3f88557925d1f2a8899f342d",
+      "title": "Sau phản ánh cát tặc, phường Bắc Gianh lập chốt 24/24 tại các điểm nóng",
+      "link": "https://tuoitre.vn/sau-phan-anh-cat-tac-phuong-bac-gianh-lap-chot-24-24-tai-cac-diem-nong-100260829144411501.htm",
+      "summary": "Sau phản ánh của Tuổi Trẻ về tình trạng khai thác cát trái phép tại các đồi cát ven biển, phường Bắc Gianh yêu cầu lập chốt kiểm soát 24/24 tại điểm nóng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T17:44:11.925049+07:00",
+      "fetched": "2026-08-29T17:44:11.925363+07:00"
+    },
+    {
+      "id": "98f2896ec72a307cde25aac136ea49a0",
+      "title": "Công an TP.HCM tìm người liên quan vụ lừa đảo chiếm đoạt tài sản",
+      "link": "https://tuoitre.vn/cong-an-tphcm-tim-nguoi-lien-quan-vu-lua-dao-chiem-doat-tai-san-100260829155835645.htm",
+      "summary": "Cơ quan Cảnh sát điều tra Công an TP.HCM đang trong quá trình điều tra vụ việc \"Lừa đảo chiếm đoạt tài sản\", xảy ra ngày 3-8-2025 tại địa chỉ: 11.03 B2 chung cư Tân Tạo, phường Tân Tạo, TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T17:44:11.924976+07:00",
+      "fetched": "2026-08-29T17:44:11.925039+07:00"
+    },
+    {
+      "id": "f586b3a4065ddbca8e28a9ce6baef8df",
+      "title": "Cuộc thi Lan tỏa năng lượng tích cực 2026: Bác sĩ về Châu Phong, chăm sóc sức khỏe bà con người Chăm",
+      "link": "https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2026-bac-si-ve-chau-phong-cham-soc-suc-khoe-ba-con-nguoi-cham-100260829114610384.htm",
+      "summary": "Mong muốn sẻ chia, chăm sóc sức khỏe cho bà con người Chăm, đoàn bác sĩ tình nguyện thuộc CLB Nha Dược Y Bác sĩ Bắc Trung Nam TP.HCM đã tìm đến Châu Phong, với 60 thành viên đã đến đây để khám chữa bệnh, cấp thuốc miễn phí và phát quà cho bà con.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T17:44:11.924882+07:00",
+      "fetched": "2026-08-29T17:44:11.924960+07:00"
+    },
+    {
+      "id": "21f25843be9d5fd05d0834983cf0f4ac",
+      "title": "Mở nhánh đường sông Cửa khẩu quốc tế Bình Hiệp, Tây Ninh sẽ thu hút thêm 60% hàng quá cảnh",
+      "link": "https://tuoitre.vn/mo-nhanh-duong-song-cua-khau-quoc-te-binh-hiep-tay-ninh-se-thu-hut-them-60-hang-qua-canh-100260828113208281.htm",
+      "summary": "Tây Ninh đang khảo sát để nâng cấp Cửa khẩu quốc tế Bình Hiệp, bên cạnh đó khảo sát việc mở mới cửa khẩu quốc tế đường sông để đưa nơi này thành Cửa khẩu quốc tế đường bộ và đường sông Bình Hiệp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T17:44:11.924807+07:00",
+      "fetched": "2026-08-29T17:44:11.924871+07:00"
+    },
+    {
+      "id": "fd78374a0e0dd8f147f061e55339a4cf",
+      "title": "Berlin bị tin tặc tống tiền 2 triệu euro sau vụ tấn công mạng",
+      "link": "https://tuoitre.vn/berlin-bi-tin-tac-tong-tien-2-trieu-euro-sau-vu-tan-cong-mang-10026082916010388.htm",
+      "summary": "Chính quyền Berlin bị nhóm tin tặc được cho là Rhysida đòi 30 Bitcoin, tương đương khoảng 2 triệu euro, sau vụ tấn công mạng khiến dữ liệu có thể bị đánh cắp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T17:44:11.924724+07:00",
+      "fetched": "2026-08-29T17:44:11.924795+07:00"
+    },
+    {
+      "id": "587f45c804138f1c92fcc8ae691db64f",
+      "title": "Doraemon, Conan cùng loạt bom tấn anime đổ bộ năm 2027",
+      "link": "https://tuoitre.vn/doraemon-conan-cung-loat-bom-tan-anime-do-bo-nam-2027-100260829094950019.htm",
+      "summary": "2027 được dự báo là năm bùng nổ của anime khi hàng loạt thương hiệu đình đám đồng loạt trở lại màn ảnh rộng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T17:44:11.924620+07:00",
+      "fetched": "2026-08-29T17:44:11.924691+07:00"
+    },
+    {
+      "id": "2b741072cd3bd98a86bdff8bb4b76dc6",
+      "title": "Spider-Man đánh bại Titanic, vào top 4 phim có doanh thu cao nhất lịch sử",
+      "link": "https://tuoitre.vn/spider-man-danh-bai-titanic-vao-top-4-phim-co-doanh-thu-cao-nhat-lich-su-100260829145732617.htm",
+      "summary": "Với 2,32 tỉ USD, bom tấn Spider-Man: Brand New Day dễ dàng vượt Titanic tại phòng vé toàn cầu và tiến sát nhóm 3 phim có doanh thu cao nhất mọi thời đại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T17:44:11.924473+07:00",
+      "fetched": "2026-08-29T17:44:11.924605+07:00"
+    },
+    {
+      "id": "0f47951f7dac14f80fa0582536b86f55",
+      "title": "Xổ số miền Nam ngày 29 tháng 8: Một người trúng độc đắc dãy 606990 đài Bình Phước",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-29-thang-8-mot-nguoi-trung-doc-dac-day-606990-dai-binh-phuoc-185260829173948257.htm",
+      "summary": "Sau khi có kết quả xổ số miền Nam ngày 29 tháng 8, một người ở Vĩnh Long trúng độc đắc 3 tờ vé số đài Bình Phước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T10:43:00+07:00",
+      "fetched": "2026-08-29T17:44:10.386852+07:00"
+    },
+    {
+      "id": "15a52acc166d37527b19ad9e62ea68ec",
+      "title": "Vì sao Windows liên tục cập nhật dù không có nhiều tính năng mới?",
+      "link": "https://thanhnien.vn/vi-sao-windows-lien-tuc-cap-nhat-du-khong-co-nhieu-tinh-nang-moi-185260829130326841.htm",
+      "summary": "Việc Windows cập nhật thường xuyên khiến nhiều người khó chịu, nhưng đằng sau đó là cuộc chiến không ngừng với các mối đe dọa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T10:43:00+07:00",
+      "fetched": "2026-08-29T17:44:10.387031+07:00"
+    },
+    {
+      "id": "865eca12a9efb36491814867fba46816",
+      "title": "7 tỉnh miền Bắc mưa lớn, dự báo Biển Đông đón bão số 5",
+      "link": "https://thanhnien.vn/7-tinh-mien-bac-mua-lon-du-bao-bien-dong-don-bao-so-5-185260829172624601.htm",
+      "summary": "Dự báo thời tiết từ đêm 30.8 và ngày 31.8, 7 tỉnh miền Bắc có mưa lớn. Bão số 5 có thể hình thành trên Biển Đông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T10:41:00+07:00",
+      "fetched": "2026-08-29T17:44:10.387193+07:00"
+    },
+    {
+      "id": "91600b92b730d0340a1c5600e7c44882",
+      "title": "Rộ tin có binh biến tại Niger, súng nổ suốt đêm tại thủ đô",
+      "link": "https://thanhnien.vn/ro-tin-co-binh-bien-tai-niger-sung-no-suot-dem-tai-thu-do-185260829171812201.htm",
+      "summary": "Các vụ đấu súng và nhiều tiếng nổ đã vang lên tại thủ đô Niamey của Niger trong ngày 29.8 và lực lượng cảnh vệ cho biết đã ngăn chặn một âm mưu tiếm quyền của quân nổi loạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T10:37:00+07:00",
+      "fetched": "2026-08-29T17:44:10.387359+07:00"
+    },
+    {
+      "id": "5a6d197d27b28c319c0499b46a3ecb95",
+      "title": "Ăn thực phẩm bị cháy xém có làm tăng nguy cơ ung thư? Bác sĩ giải đáp",
+      "link": "https://thanhnien.vn/an-thuc-pham-bi-chay-xem-co-lam-tang-nguy-co-ung-thu-bac-si-giai-dap-185260829173633736.htm",
+      "summary": "Chế độ ăn uống có mối liên hệ chặt chẽ với nguy cơ ung thư. Điều này đặt ra một câu hỏi đáng lưu ý: Liệu thực phẩm bị cháy có thể gây ung thư hay không?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T10:33:00+07:00",
+      "fetched": "2026-08-29T17:44:10.387525+07:00"
+    },
+    {
+      "id": "1ded95b9370754b997d937877b0c9b16",
+      "title": "Chồng sát hại vợ rồi trèo lên ngọn dừa trốn, nhưng bị ngã xuống đất bất tỉnh",
+      "link": "https://thanhnien.vn/chong-sat-hai-vo-roi-treo-len-ngon-dua-tron-nhung-bi-nga-xuong-dat-bat-tinh-185260829155124771.htm",
+      "summary": "Xảy ra mâu thuẫn gia đình, người đàn ông ở Cần Thơ bóp cổ và dùng hung khí sát hại vợ, sau đó trèo lên ngọn dừa trốn nhưng bị ngã xuống đất bất tỉnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T10:30:00+07:00",
+      "fetched": "2026-08-29T17:44:10.387681+07:00"
+    },
+    {
+      "id": "c74dfea75e5ddc670a81a18fced09751",
+      "title": "Vì sao máy ảnh kỹ thuật số vẫn hấp dẫn trong thời đại smartphone?",
+      "link": "https://thanhnien.vn/vi-sao-may-anh-ky-thuat-so-van-hap-dan-trong-thoi-dai-smartphone-185260823234028575.htm",
+      "summary": "Smartphone tiện lợi, nhưng máy ảnh kỹ thuật số vẫn vượt trội trong nhiều tình huống, đặc biệt với người muốn đầu tư nghiêm túc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T10:28:00+07:00",
+      "fetched": "2026-08-29T17:44:10.387870+07:00"
+    },
+    {
+      "id": "88d2ab4b0e76c51e5852fe88d6d053bf",
+      "title": "Indonesia sắp nhận tàu sân bay đầu tiên",
+      "link": "https://vnexpress.net/indonesia-sap-nhan-tau-san-bay-dau-tien-5114897.html",
+      "summary": "Indonesia chuẩn bị tiếp nhận tàu sân bay loại biên của Italy, trở thành quốc gia thứ hai ở Đông Nam Á sở hữu loại chiến hạm này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T10:21:41+07:00",
+      "fetched": "2026-08-29T17:44:07.566400+07:00"
+    },
+    {
+      "id": "88d2ab4b0e76c51e5852fe88d6d053bf",
+      "title": "Indonesia sắp nhận tàu sân bay đầu tiên",
+      "link": "https://vnexpress.net/indonesia-sap-nhan-tau-san-bay-dau-tien-5114897.html",
+      "summary": "Indonesia chuẩn bị tiếp nhận tàu sân bay loại biên của Italy, trở thành quốc gia thứ hai ở Đông Nam Á sở hữu loại chiến hạm này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-29T10:21:41+07:00",
+      "fetched": "2026-08-29T17:44:14.288629+07:00"
+    },
+    {
+      "id": "0c388f129ad1440a9ca663dc9998520e",
+      "title": "Tín hiệu tốt trên cao tốc ngày đầu nghỉ lễ 2.9: Tài xế chú ý khoảng cách, đi đúng làn",
+      "link": "https://thanhnien.vn/tin-hieu-tot-tren-cao-toc-ngay-dau-nghi-le-29-tai-xe-chu-y-khoang-cach-di-dung-lan-185260829171327265.htm",
+      "summary": "Theo Cục CSGT, trong ngày đầu kỳ nghỉ lễ Quốc khánh 2.9, dù lưu lượng phương tiện tăng cao nhưng đa số lái xe đã có ý thức giữ khoảng cách, đi đúng làn, chấp hành tốc độ và tình trạng phóng nhanh, lấn làn, chuyển làn liên tục giảm rõ rệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T10:20:00+07:00",
+      "fetched": "2026-08-29T17:44:10.388027+07:00"
+    },
+    {
+      "id": "87a95982e9452ecf5fd77e90ad21490e",
+      "title": "56 năm tìm anh, em trai bất ngờ thấy tên trong danh sách 17 liệt sĩ",
+      "link": "https://thanhnien.vn/56-nam-tim-anh-em-trai-bat-ngo-thay-ten-trong-danh-sach-17-liet-si-185260829154349382.htm",
+      "summary": "Sau 56 năm mòn mỏi tìm kiếm, người em trai quê ở thành phố Hải Phòng bất ngờ nhìn thấy tên anh trai trong danh sách 17 liệt sĩ được cho là hy sinh tại chiến trường Hiệp Đức (thành phố Đà Nẵng).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T10:20:00+07:00",
+      "fetched": "2026-08-29T17:44:10.388178+07:00"
+    },
+    {
+      "id": "633637ec861dc2d6be2d813eafa3479b",
+      "title": "Giữ khoảng cách an toàn trên cao tốc: Tài xế có thể dùng công nghệ trên xe",
+      "link": "https://thanhnien.vn/giu-khoang-cach-an-toan-tren-cao-toc-tai-xe-co-the-dung-cong-nghe-tren-xe-185260828122403365.htm",
+      "summary": "Bên cạnh việc áp dụng quy tắc \"3 giây\" theo chia sẻ từ các tài xế có kinh nghiệm hoặc quan sát biển báo khoảng cách trên cao tốc… người lái có thể tận dụng hệ thống \"kiểm soát hành trình thích ứng (Adaptive Cruise Control - ACC) trên ô tô để giữ khoảng cách an toàn khi lái ô tô trên cao tốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T10:14:00+07:00",
+      "fetched": "2026-08-29T17:44:10.388336+07:00"
+    },
+    {
+      "id": "0e93f597fdbcb2648211ba9062b8f6e3",
+      "title": "Điểm tin 17h: TP HCM khởi công mở rộng hai cửa ngõ và chỉnh trang khu Mả Lạng | Giá vàng giảm hơn một triệu đồng",
+      "link": "https://vnexpress.net/diem-tin-17h-tp-hcm-khoi-cong-mo-rong-hai-cua-ngo-va-chinh-trang-khu-ma-lang-gia-vang-giam-hon-mot-trieu-dong-5115005.html",
+      "summary": "Cứu 32 ngư dân trôi dạt ở Trường Sa; Số người chết trong lũ quét Nepal tăng lên gần 600...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T10:13:39+07:00",
+      "fetched": "2026-08-29T17:44:07.566584+07:00"
+    },
+    {
+      "id": "cae10fbd8b347b43c42df82d3ec8ec40",
+      "title": "Lại cháy nhà xưởng tại Hà Nội",
+      "link": "https://thanhnien.vn/lai-chay-nha-xuong-tai-ha-noi-185260829164544434.htm",
+      "summary": "Khoảng 14 giờ 30 ngày 29.8, cháy xảy ra tại dãy lán tạm, xưởng sửa chữa ô tô trên đường Lê Quang Đạo (Hà Nội). Sau hơn 30 phút, đám cháy cơ bản được khống chế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T10:12:00+07:00",
+      "fetched": "2026-08-29T17:44:10.388491+07:00"
+    },
+    {
+      "id": "b5bdddf8493743070f02369ee60ea36a",
+      "title": "CSGT xác định xe vi phạm lỗi không giữ khoảng cách an toàn như thế nào?",
+      "link": "https://vnexpress.net/csgt-xac-dinh-xe-vi-pham-loi-khong-giu-khoang-cach-an-toan-nhu-the-nao-5114992.html",
+      "summary": "Lực lượng chức năng căn cứ vào camera ghi hình cùng với các cột mốc, vạch kẻ đường để xác định phương tiện không giữ khoảng cách an toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T10:06:28+07:00",
+      "fetched": "2026-08-29T17:44:07.566790+07:00"
+    },
+    {
+      "id": "a3578bc827f9c89a1a77881c866b252a",
+      "title": "7 ôtô tông liên hoàn trên cao tốc Phan Thiết - Dầu Giây",
+      "link": "https://vnexpress.net/7-oto-tong-lien-hoan-tren-cao-toc-phan-thiet-dau-giay-5114990.html",
+      "summary": "Bảy ôtô tông liên hoàn trên cao tốc Phan Thiết - Dầu Giây khi lượng xe tăng cao trong ngày đầu kỳ nghỉ lễ 2/9, chiều 29/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T10:06:19+07:00",
+      "fetched": "2026-08-29T17:44:07.566969+07:00"
+    },
+    {
+      "id": "759cf050357cf7579096808db5cf5891",
+      "title": "Bộ trưởng GD-ĐT: Không phân luồng bằng cách đặt ra 'rào chắn' vào lớp 10",
+      "link": "https://thanhnien.vn/bo-truong-gd-dt-khong-phan-luong-bang-cach-dat-ra-rao-chan-vao-lop-10-185260828182904757.htm",
+      "summary": "Theo Bộ trưởng Bộ GD-ĐT, khi khả năng đáp ứng về trường, lớp từng bước phù hợp với nhu cầu học tập, áp lực cạnh tranh vào lớp 10 sẽ giảm, đồng thời nhấn mạnh quan điểm không nên phân luồng bằng cách đặt ra những 'rào chắn' vào lớp 10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T10:03:00+07:00",
+      "fetched": "2026-08-29T17:44:10.388641+07:00"
+    },
+    {
+      "id": "fefd7e25dd3262c1838e4d9e4281d0be",
+      "title": "Nepal có thể mất ít nhất 10% GDP vì trận lũ quét",
+      "link": "https://vnexpress.net/nepal-co-the-mat-it-nhat-10-gdp-vi-tran-lu-quet-5114978.html",
+      "summary": "Nepal ước tính thiệt hại sơ bộ do lũ quét gây ra hôm 26/8 là khoảng 4-5 tỷ USD, tương đương 10% GDP quốc gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T10:01:05+07:00",
+      "fetched": "2026-08-29T17:44:07.567134+07:00"
+    },
+    {
+      "id": "fefd7e25dd3262c1838e4d9e4281d0be",
+      "title": "Nepal có thể mất ít nhất 10% GDP vì trận lũ quét",
+      "link": "https://vnexpress.net/nepal-co-the-mat-it-nhat-10-gdp-vi-tran-lu-quet-5114978.html",
+      "summary": "Nepal ước tính thiệt hại sơ bộ do lũ quét gây ra hôm 26/8 là khoảng 4-5 tỷ USD, tương đương 10% GDP quốc gia.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-29T10:01:05+07:00",
+      "fetched": "2026-08-29T17:44:14.288923+07:00"
+    },
+    {
+      "id": "773f239372b565ed5119241dc8e01748",
+      "title": "Nguyễn Văn Khang chạy hai cự ly ở VnExpress Marathon Vũng Tàu Herbalife Cup",
+      "link": "https://vnexpress.net/nguyen-van-khang-chay-hai-cu-ly-o-vnexpress-marathon-vung-tau-5114967.html",
+      "summary": "Nguyễn Văn Khang chọn cự ly 10km làm bài khởi động trước khi tranh tài ở 5km, nội dung sở trường của anh, tại VnExpress Marathon Vũng Tàu Herbalife Cup sáng 30/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T10:00:00+07:00",
+      "fetched": "2026-08-29T17:44:07.567299+07:00"
+    },
+    {
+      "id": "cfa1415010d6f53d9b137962e48001e1",
+      "title": "Phòng khám Doctor Laser xây dựng phác đồ điều trị tăng sắc tố",
+      "link": "https://thanhnien.vn/phong-kham-doctor-laser-xay-dung-phac-do-dieu-tri-tang-sac-to-185260829165315089.htm",
+      "summary": "Phòng khám Da liễu Thẩm mỹ Doctor Laser tiếp nhận điều trị tăng sắc tố ở phụ nữ trung niên và lớn tuổi. Bác sĩ trực tiếp thăm khám, đánh giá nền da và mức độ sắc tố để lựa chọn hướng điều trị phù hợp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T10:00:00+07:00",
+      "fetched": "2026-08-29T17:44:10.388823+07:00"
+    },
+    {
+      "id": "6a225504d76f405833aeb1bb0e9cb17a",
+      "title": "Toàn cảnh 17h: Ngày đầu nghỉ lễ, cao tốc đông nghẹt | Kỳ tích bé 8 tuổi leo cây thoát lũ dữ ở Nepal",
+      "link": "https://thanhnien.vn/toan-canh-17h-ngay-dau-nghi-le-cao-toc-dong-nghet-ky-tich-be-8-tuoi-leo-cay-thoat-lu-du-o-nepal-185260829160117462.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T10:00:00+07:00",
+      "fetched": "2026-08-29T17:44:10.388988+07:00"
+    },
+    {
+      "id": "0ee24c3d2a85fef8fbcb618464586544",
+      "title": "Cận cảnh nơi sản xuất thuốc đông y giả của đôi vợ chồng ở Đồng Tháp",
+      "link": "https://thanhnien.vn/can-canh-noi-san-xuat-thuoc-dong-y-gia-cua-doi-vo-chong-o-dong-thap-185260829161218961.htm",
+      "summary": "Bên trong xưởng vợ chồng Huỳnh Văn Mẩn và Nguyễn Thị Bích Phương dùng để sản xuất thuốc đông y giả nhìn đâu cũng thấy bụi bẩn, thuốc sản xuất ra đựng trong bể xi măng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T09:59:00+07:00",
+      "fetched": "2026-08-29T17:44:10.389137+07:00"
+    },
+    {
+      "id": "ef3001aef54ef5630f4df4df24800fd4",
+      "title": "Diện tích tối thiểu tách thửa đất ở TP HCM từ 36 m2",
+      "link": "https://vnexpress.net/dien-tich-toi-thieu-tach-thua-dat-o-tp-hcm-tu-36-m2-5114994.html",
+      "summary": "Diện tích tối thiểu để tách thửa đất ở TP HCM từ 36 đến 100 m2, tùy khu vực, trong đó giữ nguyên nhiều ngưỡng từng áp dụng trước đây và bổ sung mức mới sau sáp nhập.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T09:48:11+07:00",
+      "fetched": "2026-08-29T17:44:07.567458+07:00"
+    },
+    {
+      "id": "a8ff6e93d5ca422fe33c905d9b9dde4d",
+      "title": "Đà Nẵng khởi công loạt dự án khu công nghiệp nghìn tỷ đồng",
+      "link": "https://vnexpress.net/da-nang-khoi-cong-loat-du-an-khu-cong-nghiep-nghin-ty-dong-5114985.html",
+      "summary": "Tận dụng quỹ đất sau sáp nhập, thành phố liên tiếp khởi công các khu công nghiệp trọng điểm tại phía Nam với tổng vốn hàng nghìn tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T09:44:37+07:00",
+      "fetched": "2026-08-29T17:44:07.567617+07:00"
+    },
+    {
+      "id": "a8ff6e93d5ca422fe33c905d9b9dde4d",
+      "title": "Đà Nẵng khởi công loạt dự án khu công nghiệp nghìn tỷ đồng",
+      "link": "https://vnexpress.net/da-nang-khoi-cong-loat-du-an-khu-cong-nghiep-nghin-ty-dong-5114985.html",
+      "summary": "Tận dụng quỹ đất sau sáp nhập, thành phố liên tiếp khởi công các khu công nghiệp trọng điểm tại phía Nam với tổng vốn hàng nghìn tỷ đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-29T09:44:37+07:00",
+      "fetched": "2026-08-29T17:44:15.877751+07:00"
+    },
+    {
+      "id": "42b8822433a5e6b3bf81b5d037533b5b",
+      "title": "Nhóm cướp phá kính, lấy vòng cổ hơn 4 triệu USD",
+      "link": "https://vnexpress.net/nhom-cuop-pha-kinh-lay-vong-co-hon-4-trieu-usd-5114965.html",
+      "summary": "Hai nghi phạm cướp vòng cổ bằng bạch kim 200 carat được đính 673 viên kim cương từ bảo tàng ở Vienna.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T09:40:15+07:00",
+      "fetched": "2026-08-29T17:44:07.567800+07:00"
+    },
+    {
+      "id": "42b8822433a5e6b3bf81b5d037533b5b",
+      "title": "Nhóm cướp phá kính, lấy vòng cổ hơn 4 triệu USD",
+      "link": "https://vnexpress.net/nhom-cuop-pha-kinh-lay-vong-co-hon-4-trieu-usd-5114965.html",
+      "summary": "Hai nghi phạm cướp vòng cổ bằng bạch kim 200 carat được đính 673 viên kim cương từ bảo tàng ở Vienna.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-29T09:40:15+07:00",
+      "fetched": "2026-08-29T17:44:14.289108+07:00"
+    },
     {
       "id": "057c440a6255799648a037a84e54cea4",
       "title": "TP.HCM đang làm gì để giải bài toán 14.000 tấn rác/ngày?",
@@ -151,6 +581,246 @@ window.newsData_2026_08_29 = {
       "category": "Tổng hợp",
       "published": "2026-08-29T09:40:12.485889+07:00",
       "fetched": "2026-08-29T09:40:12.486023+07:00"
+    },
+    {
+      "id": "c51525cb3a4ab89027a58d3f2889ede2",
+      "title": "Nổ lớn thổi bay tường 4 phòng trọ ở Phú Thọ",
+      "link": "https://vnexpress.net/no-lon-thoi-bay-tuong-4-phong-tro-o-phu-tho-5114986.html",
+      "summary": "Mái tôn đổ sập, mảnh vỡ văng xa hàng trăm mét và làm hư hại một số nhà lân cận sau vụ nổ tại xã Bình Xuyên, chiều 29/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T09:34:36+07:00",
+      "fetched": "2026-08-29T17:44:07.567964+07:00"
+    },
+    {
+      "id": "6ef8f6c7659c9c755d3a5c9071665227",
+      "title": "Biển Sầm Sơn vắng khách trong ngày đầu nghỉ lễ 2/9",
+      "link": "https://vnexpress.net/bien-sam-son-vang-khach-trong-ngay-dau-nghi-le-2-9-5114970.html",
+      "summary": "Ngày đầu kỳ nghỉ lễ Quốc khánh 2/9, biển Sầm Sơn vắng khách do có mưa, nước biển đục, nhiều khách sạn và nhà hàng chỉ đạt công suất phục vụ khoảng 30%.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T09:32:26+07:00",
+      "fetched": "2026-08-29T17:44:07.568120+07:00"
+    },
+    {
+      "id": "246a0e562787fab7dd6b2a986b0390cf",
+      "title": "Ngôi nhà đứng vững giữa trận lũ quét Nepal",
+      "link": "https://vnexpress.net/ngoi-nha-dung-vung-giua-tran-lu-quet-nepal-5114948.html",
+      "summary": "Video mới công bố cho thấy ngôi nhà hai tầng đứng vững giữa dòng lũ bùn cuồn cuộn, trong khi nhiều công trình xung quanh bị cuốn phăng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T09:14:12+07:00",
+      "fetched": "2026-08-29T17:44:07.568279+07:00"
+    },
+    {
+      "id": "246a0e562787fab7dd6b2a986b0390cf",
+      "title": "Ngôi nhà đứng vững giữa trận lũ quét Nepal",
+      "link": "https://vnexpress.net/ngoi-nha-dung-vung-giua-tran-lu-quet-nepal-5114948.html",
+      "summary": "Video mới công bố cho thấy ngôi nhà hai tầng đứng vững giữa dòng lũ bùn cuồn cuộn, trong khi nhiều công trình xung quanh bị cuốn phăng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-29T09:14:12+07:00",
+      "fetched": "2026-08-29T17:44:14.289274+07:00"
+    },
+    {
+      "id": "14617a238315b637b197e2fa06cc9c18",
+      "title": "Sát hại vợ rồi trốn trên ngọn dừa",
+      "link": "https://vnexpress.net/sat-hai-vo-roi-tron-tren-ngon-dua-5114976.html",
+      "summary": "Huỳnh Văn Nhi, 44 tuổi, siết cổ và dùng dao đâm vợ tử vong rồi trèo lên ngọn dừa sau nhà lẩn trốn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T09:11:35+07:00",
+      "fetched": "2026-08-29T17:44:07.568440+07:00"
+    },
+    {
+      "id": "ceea4b0d656a52bd5a557658f4282013",
+      "title": "Cháy xưởng độ ôtô ở Hà Nội",
+      "link": "https://vnexpress.net/chay-xuong-do-oto-o-ha-noi-5114980.html",
+      "summary": "Lửa bùng lên dữ dội tại xưởng độ xe, tạo cột khói đen cao hàng chục mét rồi lan sang hai gara sửa xe bên cạnh, chiều 29/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T09:09:35+07:00",
+      "fetched": "2026-08-29T17:44:07.568641+07:00"
+    },
+    {
+      "id": "27d6a1120fc8141e8af13feb30096fa0",
+      "title": "Galaxy S26 FE - smartphone giá tốt với AI cao cấp",
+      "link": "https://vnexpress.net/galaxy-s26-fe-smartphone-gia-tot-voi-ai-cao-cap-5114783.html",
+      "summary": "Mẫu điện thoại \"Fan Edition\" vừa ra mắt của Samsung cân bằng giữa sức mạnh xử lý, thời lượng pin và tính năng AI cao cấp, nhưng thiết kế không có nhiều đột phá.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-29T09:01:29+07:00",
+      "fetched": "2026-08-29T17:44:07.568846+07:00"
+    },
+    {
+      "id": "27d6a1120fc8141e8af13feb30096fa0",
+      "title": "Galaxy S26 FE - smartphone giá tốt với AI cao cấp",
+      "link": "https://vnexpress.net/galaxy-s26-fe-smartphone-gia-tot-voi-ai-cao-cap-5114783.html",
+      "summary": "Mẫu điện thoại \"Fan Edition\" vừa ra mắt của Samsung cân bằng giữa sức mạnh xử lý, thời lượng pin và tính năng AI cao cấp, nhưng thiết kế không có nhiều đột phá.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-29T09:01:29+07:00",
+      "fetched": "2026-08-29T17:44:19.229973+07:00"
+    },
+    {
+      "id": "4b3c168564ce825f4ab54b0e581378f7",
+      "title": "Doanh nghiệp bị xác định 'không hoạt động tại địa chỉ' cần làm gì?",
+      "link": "https://vnexpress.net/doanh-nghiep-bi-xac-dinh-khong-hoat-dong-tai-dia-chi-can-lam-gi-5114914.html",
+      "summary": "Doanh nghiệp bị xác định 'không hoạt động tại địa chỉ đăng ký' có thể khôi phục mã số thuế nếu muốn tiếp tục kinh doanh, hoặc hoàn tất nghĩa vụ để chấm dứt hoạt động.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-29T09:00:00+07:00",
+      "fetched": "2026-08-29T17:44:15.877938+07:00"
+    },
+    {
+      "id": "b2f6e6e6d3ba0dd9618859da51c2ff38",
+      "title": "Alvarez và ranh giới mong manh của đạo đức bóng đá",
+      "link": "https://vnexpress.net/alvarez-va-ranh-gioi-mong-manh-cua-dao-duc-bong-da-5114724.html",
+      "summary": "Những vụ cầu thủ muốn rời CLB như Ollie Watkins hay Julian Alvarez cho thấy ranh giới giữa quyền được lựa chọn tương lai và cách hành xử với đội bóng hiện tại luôn đầy rủi ro.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-29T08:49:13+07:00",
+      "fetched": "2026-08-29T17:44:20.930271+07:00"
+    },
+    {
+      "id": "843b8016f8c7563baa7504ebc0f3ae29",
+      "title": "Cherki được so sánh với Hazard",
+      "link": "https://vnexpress.net/cherki-duoc-so-sanh-voi-hazard-5114807.html",
+      "summary": "Cựu danh thủ Jamie Redknapp ca ngợi Rayan Cherki tạo nên khoảnh khắc thiên tài như Eden Hazard, sau khi tiền vệ Pháp lập cú đúp trong trận Man City thắng Crystal Palace 4-1 ở Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-29T08:42:50+07:00",
+      "fetched": "2026-08-29T17:44:20.931141+07:00"
+    },
+    {
+      "id": "72078839d5194cf6d5510bda2edbf83b",
+      "title": "CEO Techcombank thu nhập bình quân gần 3 tỷ đồng mỗi tháng",
+      "link": "https://vnexpress.net/ceo-techcombank-thu-nhap-binh-quan-gan-3-ty-dong-moi-thang-5114904.html",
+      "summary": "Ông Jens Lottner, Tổng giám đốc Techcombank, có thu nhập gần 17 tỷ đồng trong nửa đầu năm, tương đương bình quân 2,82 tỷ đồng mỗi tháng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-29T08:28:46+07:00",
+      "fetched": "2026-08-29T17:44:15.878109+07:00"
+    },
+    {
+      "id": "36d9bacd52ed16714c2ef2a3aa6bdcc8",
+      "title": "Người Việt dẫn đầu về tần suất ăn mỳ",
+      "link": "https://vnexpress.net/nguoi-viet-dan-dau-ve-tan-suat-an-my-5114866.html",
+      "summary": "Năm 2025, trung bình cứ 4-5 ngày, người Việt lại tiêu thụ một khẩu phần mỳ ăn liền - mức tần suất cao nhất thế giới.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-29T08:00:23+07:00",
+      "fetched": "2026-08-29T17:44:15.878272+07:00"
+    },
+    {
+      "id": "afcef9fdf7d3c0a3855c0b4210f46f04",
+      "title": "Điện thoại nguyên vẹn sau khi rơi từ độ cao hơn 30.000 m",
+      "link": "https://vnexpress.net/dien-thoai-nguyen-ven-sau-khi-roi-tu-do-cao-hon-30-000-m-5114646.html",
+      "summary": "Nhà sản xuất ốp Rhinoshield cùng công ty hàng không vũ trụ Anh thử nghiệm thả rơi iPhone 17 Pro từ độ cao 30.607 m mà không bị hư hại.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-29T08:00:00+07:00",
+      "fetched": "2026-08-29T17:44:19.229262+07:00"
+    },
+    {
+      "id": "dffb6ddf308efcb2ceaa85f799af340e",
+      "title": "Hàng trăm người được giải cứu từ đường hầm thủy điện Nepal",
+      "link": "https://vnexpress.net/hang-tram-nguoi-duoc-giai-cuu-tu-duong-ham-thuy-dien-nepal-5114946.html",
+      "summary": "Quân đội Nepal giải cứu 350 người từ một đường hầm thủy điện ngập bùn sau trận lũ quét, trong khi hơn 100 người còn mắc kẹt ở trong.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-29T07:48:46+07:00",
+      "fetched": "2026-08-29T17:44:14.289435+07:00"
+    },
+    {
+      "id": "6a1fc6523f30465281a05216a53b72b3",
+      "title": "Ngân hàng Thái cùng gia tộc với Madam Pang kinh doanh thế nào tại Việt Nam",
+      "link": "https://vnexpress.net/ngan-hang-thai-cung-gia-toc-voi-madam-pang-kinh-doanh-the-nao-tai-viet-nam-5114629.html",
+      "summary": "KBank - một trong ba ngân hàng lớn nhất Thái Lan, thuộc gia tộc Lamsam của Madam Pang - rót 285 triệu USD vào Việt Nam và chưa đạt điểm hòa vốn sau 5 năm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-29T06:34:03+07:00",
+      "fetched": "2026-08-29T17:44:15.878432+07:00"
+    },
+    {
+      "id": "04bada985a5196c2d4c4564d114b3087",
+      "title": "Cựu bộ trưởng quốc phòng Ukraine làm cố vấn cho Italy",
+      "link": "https://vnexpress.net/cuu-bo-truong-quoc-phong-ukraine-lam-co-van-cho-italy-5114884.html",
+      "summary": "Cựu bộ trưởng Mykhailo Fedorov thông báo đã nhận lời làm cố vấn đổi mới cho Bộ trưởng Quốc phòng Italy Guido Crosetto.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-29T05:18:36+07:00",
+      "fetched": "2026-08-29T17:44:14.289605+07:00"
+    },
+    {
+      "id": "f3520220e93a68fe6e49165e90ea0aa8",
+      "title": "Phân Bón Cà Mau trao tặng 55 mái ấm tại Cần Thơ",
+      "link": "https://vnexpress.net/phan-bon-ca-mau-trao-tang-55-mai-am-tai-can-tho-5114671.html",
+      "summary": "Phân Bón Cà Mau trao tặng 55 căn nhà Đại đoàn kết, tổng kinh phí 3,3 tỷ đồng cho các hộ gia đình khó khăn tại xã Thạnh Xuân, TP Cần Thơ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-29T05:00:00+07:00",
+      "fetched": "2026-08-29T17:44:15.879596+07:00"
+    },
+    {
+      "id": "3b5e26df84d462062d6b189e1c9ef7df",
+      "title": "Meta bị phản ứng vì dàn xếp 'vụ kiện nghìn tỷ USD'",
+      "link": "https://vnexpress.net/meta-bi-phan-ung-vi-dan-xep-vu-kien-nghin-ty-usd-5114488.html",
+      "summary": "Meta bị chỉ trích sau khi đạt thỏa thuận trả 18 tỷ USD để giải quyết vụ kiện liên quan đến sự an toàn của trẻ em trên Facebook, Instagram.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-29T05:00:00+07:00",
+      "fetched": "2026-08-29T17:44:19.229443+07:00"
+    },
+    {
+      "id": "1c026841e49dcd11e264a67f2e64a4eb",
+      "title": "CLB Malaysia xây đế chế bất bại 109 trận thế nào",
+      "link": "https://vnexpress.net/clb-malaysia-xay-de-che-bat-bai-109-tran-the-nao-5114743.html",
+      "summary": "Sau hơn một thập kỷ đầu tư mạnh tay, cải tổ toàn diện và thống trị bóng đá quốc nội, Johor Darul Ta'zim (JDT) đã lập kỷ lục thế giới với 109 trận bất bại liên tiếp.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-29T05:00:00+07:00",
+      "fetched": "2026-08-29T17:44:20.930454+07:00"
+    },
+    {
+      "id": "0ba4b407a0edc9c84c3f14608cd67d35",
+      "title": "Từ 1.300 USD trên truyền hình đến Champions League",
+      "link": "https://vnexpress.net/tu-1-300-usd-tren-truyen-hinh-den-champions-league-5114757.html",
+      "summary": "Năm 2002, Valdas Dambrauskas dùng số tiền kiếm được từ chương trình \"Ai là triệu phú\" để sang Anh học huấn luyện bóng đá. 24 năm sau, ông trở thành HLV người Lithuania đầu tiên đưa một CLB vào vòng đấu chính Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-29T04:20:13+07:00",
+      "fetched": "2026-08-29T17:44:20.930621+07:00"
+    },
+    {
+      "id": "162e93b3c1cbdcb58756f3afe6f35f2c",
+      "title": "Nổ lớn ở Kiev, nghi là kho tên lửa trúng UAV Nga",
+      "link": "https://vnexpress.net/no-lon-o-kiev-nghi-la-kho-ten-lua-trung-uav-nga-5114849.html",
+      "summary": "Nhà kho ở ngoại ô Kiev phát nổ dữ dội trong đòn tập kích UAV của Nga, khiến 6 người bị thương và hơn 200 người phải sơ tán.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-29T04:10:21+07:00",
+      "fetched": "2026-08-29T17:44:14.289816+07:00"
+    },
+    {
+      "id": "ac4411263dd553030061dc351aa0bd68",
+      "title": "Thái Lan hay, nhưng Việt Nam không hoàn toàn gặp may ở ASEAN Cup",
+      "link": "https://vnexpress.net/thai-lan-hay-nhung-viet-nam-khong-hoan-toan-gap-may-o-asean-cup-5114719.html",
+      "summary": "Thái Lan cho thấy sức mạnh với cấu trúc 4-4-2 kim cương trong trận chung kết lượt về ASEAN Cup 2026, nhưng việc họ dâng hai bàn thua cho Việt Nam không hẳn là vận đen, mà xuất phát từ chính cách thầy trò HLV Kim Sang-sik khai thác điểm yếu cố hữu của sơ đồ mà đối thủ áp dụng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-29T04:07:51+07:00",
+      "fetched": "2026-08-29T17:44:20.930814+07:00"
+    },
+    {
+      "id": "dc82ffeeed09e9a96c0e418ff8fc0565",
+      "title": "Giá vàng giảm hơn một triệu đồng",
+      "link": "https://vnexpress.net/gia-vang-giam-hon-mot-trieu-dong-5114834.html",
+      "summary": "Các thương hiệu bán ra vàng miếng, nhẫn trơn quanh 148,7 triệu đồng, giảm 1,5 triệu đồng so với ngày hôm qua.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-29T03:01:10+07:00",
+      "fetched": "2026-08-29T17:44:15.878599+07:00"
     },
     {
       "id": "6e924491f895677abcd1869388dbea1a",
@@ -361,6 +1031,16 @@ window.newsData_2026_08_29 = {
       "category": "Công nghệ",
       "published": "2026-08-29T02:00:00+07:00",
       "fetched": "2026-08-29T09:40:18.527469+07:00"
+    },
+    {
+      "id": "8f94ee8bf5e0ed69973cfa8806bc9d9a",
+      "title": "Giám đốc Canva Việt Nam: Thiết kế dần trở thành kỹ năng cần thiết",
+      "link": "https://vnexpress.net/giam-doc-canva-viet-nam-thiet-ke-dan-tro-thanh-ky-nang-can-thiet-5114139.html",
+      "summary": "Theo Giám đốc quốc gia Canva Việt Nam, thiết kế đang dần trở thành kỹ năng bổ trợ cho nhiều lĩnh vực thay vì được xem là một nghề chuyên biệt.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-29T02:00:00+07:00",
+      "fetched": "2026-08-29T17:44:19.229612+07:00"
     },
     {
       "id": "917571487f972fcfcc67f1619d3305a3",
@@ -711,6 +1391,16 @@ window.newsData_2026_08_29 = {
       "category": "Công nghệ",
       "published": "2026-08-29T00:40:00+07:00",
       "fetched": "2026-08-29T09:40:18.527964+07:00"
+    },
+    {
+      "id": "ea329856ecbd50bd655db064cb6236f3",
+      "title": "9 giải Nhất tại Hội thi Tin học trẻ toàn quốc",
+      "link": "https://vnexpress.net/9-giai-nhat-tai-hoi-thi-tin-hoc-tre-toan-quoc-5114779.html",
+      "summary": "248 thí sinh tranh tài tại vòng chung kết Hội thi Tin học trẻ toàn quốc lần thứ 32, trong đó 12 học sinh giành 9 giải Nhất ở các bảng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-29T00:35:08+07:00",
+      "fetched": "2026-08-29T17:44:19.230476+07:00"
     },
     {
       "id": "bbd4640aed2fe135275d4d9850a0ae09",
