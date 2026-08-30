@@ -1,6 +1,6 @@
 window.newsData_2026_08_31 = {
   "date": "2026-08-31",
-  "lastUpdated": "2026-08-31T02:01:25.736941+07:00",
+  "lastUpdated": "2026-08-31T05:22:07.178293+07:00",
   "articles": [
     {
       "id": "fa42df51a1996485747a90f29eb9cb7f",
@@ -151,6 +151,156 @@ window.newsData_2026_08_31 = {
       "category": "Tổng hợp",
       "published": "2026-08-31T02:01:16.302921+07:00",
       "fetched": "2026-08-31T02:01:16.303065+07:00"
+    },
+    {
+      "id": "48bc800cf4bdcf1733f68b0740f6e845",
+      "title": "Mở rộng quốc lộ 1 TP.HCM lên 60 m: Mặt bằng qua xã Tân Nhựt ra sao?",
+      "link": "https://thanhnien.vn/mo-rong-quoc-lo-1-tphcm-len-60-m-mat-bang-qua-xa-tan-nhut-ra-sao-185260830125025169.htm",
+      "summary": "Xã Tân Nhựt có 328/438 trường hợp đồng ý bàn giao mặt bằng dự án mở rộng quốc lộ 1 TP.HCM, tổng bồi thường khoảng 1.972 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T22:15:00+07:00",
+      "fetched": "2026-08-31T05:21:54.910484+07:00"
+    },
+    {
+      "id": "6f1fdbb739ab2d0860c18ae039d5b862",
+      "title": "Tử vi ngày 31 tháng 8: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-31-thang-8-con-giap-nao-may-man-hom-nay-185260824091950118.htm",
+      "summary": "Tử vi ngày 31 tháng 8 mang đến một gợi ý khác cho kỳ nghỉ dài: ở nhà cũng có thể là nghỉ lễ. Bạn không nhất thiết phải gắn với chuyến đi xa; một bữa ăn tự nấu, bộ phim xem cùng gia đình hay buổi chiều chẳng phải chen chúc đâu cũng có niềm vui riêng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T22:15:00+07:00",
+      "fetched": "2026-08-31T05:21:54.910698+07:00"
+    },
+    {
+      "id": "4eb76bb7905bada39e6692942bba1447",
+      "title": "Người dân dỡ nhà, nhường đất cho cầu đường Bình Tiên gần 6.300 tỉ ở TP.HCM",
+      "link": "https://thanhnien.vn/nguoi-dan-do-nha-nhuong-dat-cho-cau-duong-binh-tien-gan-6300-ti-o-tphcm-185260829140513734.htm",
+      "summary": "Nhiều hộ dân đang tháo dỡ nhà, bàn giao mặt bằng dự án cầu đường Bình Tiên, TP.HCM. Một hộ tại phường Bình Tiên nhận bồi thường gần 16 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T22:00:00+07:00",
+      "fetched": "2026-08-31T05:21:54.910868+07:00"
+    },
+    {
+      "id": "8e49b9f930811eb5613bb2ce2c7a5dc9",
+      "title": "Lịch âm hôm nay ngày 31.8 có gì đặc biệt?",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-ngay-318-co-gi-dac-biet-185260828214544671.htm",
+      "summary": "Hôm nay 31.8 là ngày cuối cùng của tháng 8, cũng là ngày thứ 3 trong kỳ nghỉ lễ Quốc khánh 2.9 kéo dài 5 ngày. Theo lịch dương, lịch âm hôm nay có gì đặc biệt?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T22:00:00+07:00",
+      "fetched": "2026-08-31T05:21:54.911025+07:00"
+    },
+    {
+      "id": "aea653c23b005ce6eb0c4558eec8dc81",
+      "title": "Những người khổng lồ miền Tây và phận đời phía sau vóc dáng khác thường",
+      "link": "https://thanhnien.vn/nhung-nguoi-khong-lo-mien-tay-va-phan-doi-phia-sau-voc-dang-khac-thuong-185260827215222195.htm",
+      "summary": "Từ giai thoại về cụ Cao Nhà Bàng cao hơn 2,3 m ở vùng Thất Sơn đến ông Nguyễn Văn Y, người cao gần 2,2 m đang sống tại Cần Thơ, những vóc dáng khác thường từng khiến nhiều người tò mò. Nhưng phía sau sự đặc biệt ấy là những phận đời nhiều biến động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T22:00:00+07:00",
+      "fetched": "2026-08-31T05:21:54.911183+07:00"
+    },
+    {
+      "id": "d029f32df4ddd0d08366ceaf9dd9dcca",
+      "title": "Giấc mơ đường sắt cao tốc dang dở của California",
+      "link": "https://vnexpress.net/giac-mo-duong-sat-cao-toc-dang-do-cua-california-5114365.html",
+      "summary": "Sau 18 năm, California vẫn loay hoay với giấc mơ đường sắt cao tốc, khi dự án đội vốn hàng chục tỷ USD nhưng chưa đặt được mét ray nào.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-30T22:00:00+07:00",
+      "fetched": "2026-08-31T05:21:59.761776+07:00"
+    },
+    {
+      "id": "ea6b982a2e1c2130fb657fc29dc64af9",
+      "title": "Điều gì diễn ra khi ngắt điện tủ lạnh?",
+      "link": "https://vnexpress.net/dieu-gi-dien-ra-khi-ngat-dien-tu-lanh-5113764.html",
+      "summary": "Ngắt điện tủ lạnh khi rời nhà có thể đảm bảo an toàn hơn về cháy nổ nhưng ngăn mát và ngăn đông không còn an toàn với thực phẩm sau 4-12 giờ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-30T22:00:00+07:00",
+      "fetched": "2026-08-31T05:22:05.697829+07:00"
+    },
+    {
+      "id": "a51b54079ab1d85df9f3fa1700b78085",
+      "title": "Real giữ mạch thắng dưới thời Mourinho",
+      "link": "https://vnexpress.net/real-giu-mach-thang-duoi-thoi-mourinho-5115285.html",
+      "summary": "Real Madrid thắng Malaga 4-0 ở vòng ba La Liga để giữ đỉnh bảng với 12 điểm tuyệt đối.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-30T21:42:53+07:00",
+      "fetched": "2026-08-31T05:22:07.173229+07:00"
+    },
+    {
+      "id": "b22109d0aa9fddd7a924121ca5883519",
+      "title": "Chiến sự Ukraine ngày 1.649: Nhà máy lọc dầu trúng đòn, Nga tuyên bố đáp trả lớn",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1649-nha-may-loc-dau-trung-don-nga-tuyen-bo-dap-tra-lon-185260830175738242.htm",
+      "summary": "Ukraine ngày 30.8 cho biết lực lượng nước này đã tấn công một nhà máy lọc dầu lớn tại tỉnh Leningrad và một căn cứ không quân ở vùng Krasnodar của Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T21:30:00+07:00",
+      "fetched": "2026-08-31T05:21:54.911339+07:00"
+    },
+    {
+      "id": "602fb43189266019ab2a9ad6f6133815",
+      "title": "Bác sĩ nội tiết lưu ý cách ăn bánh mì gối không vọt đường huyết",
+      "link": "https://vnexpress.net/bac-si-noi-tiet-luu-y-cach-an-banh-mi-goi-khong-vot-duong-huyet-5110441.html",
+      "summary": "Từ thử nghiệm cho thấy hai lát bánh mì gối làm đường huyết tăng vọt, bác sĩ nội tiết khuyên nên kết hợp cùng protein và chất xơ để duy trì năng lượng ổn định suốt buổi sáng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T21:00:57+07:00",
+      "fetched": "2026-08-31T05:21:51.626030+07:00"
+    },
+    {
+      "id": "8fe2b4f69c5fbc5f545e69038c09f330",
+      "title": "Định danh cá nhân đang thay thế những mã số nào?",
+      "link": "https://vnexpress.net/dinh-danh-ca-nhan-dang-thay-the-nhung-ma-so-nao-5115255.html",
+      "summary": "Số định danh cá nhân 12 chữ số được tích hợp thay thế mã số thuế, hồ sơ điện tử công chức và từ ngày 1/9 được chuyển đổi dần thay thế mã số bảo hiểm xã hội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T21:00:00+07:00",
+      "fetched": "2026-08-31T05:21:51.626323+07:00"
+    },
+    {
+      "id": "2394558b9c05c21e83f8995ace70d415",
+      "title": "Căn cứ khởi nghĩa Ba Đình trong phong trào Cần vương",
+      "link": "https://vnexpress.net/can-cu-khoi-nghia-ba-dinh-trong-phong-trao-can-vuong-5114989.html",
+      "summary": "Di tích khởi nghĩa Ba Đình với tổng vốn đầu tư hơn 95 tỷ đồng chuẩn bị được hoàn thiện nhằm kỷ niệm sự kiện chống Pháp 140 năm trước ở Thanh Hoá.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T21:00:00+07:00",
+      "fetched": "2026-08-31T05:21:51.626549+07:00"
+    },
+    {
+      "id": "612b19ba4ee12da9d16254c4bf7a5b7f",
+      "title": "Chỉ nha khoa: Một ngày nên dùng mấy lần là tốt nhất?",
+      "link": "https://thanhnien.vn/chi-nha-khoa-mot-ngay-nen-dung-may-lan-la-tot-nhat-185260830200245394.htm",
+      "summary": "Bàn chải đánh răng sẽ khó tiếp cận và làm sạch kẽ răng. Do đó, chỉ nha khoa được dùng để khắc phục hạn chế này. Nếu không làm sạch thức ăn và mảng bám mắc ở kẽ răng, chúng có thể gây viêm nướu, sâu răng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T20:04:00+07:00",
+      "fetched": "2026-08-31T05:21:54.911503+07:00"
+    },
+    {
+      "id": "58aba519f674d4b5364dd23bdd3025b7",
+      "title": "Các hãng bảo hiểm lãi tăng mạnh nhờ hoạt động tài chính",
+      "link": "https://vnexpress.net/cac-hang-bao-hiem-lai-tang-manh-nho-hoat-dong-tai-chinh-5115223.html",
+      "summary": "Doanh thu bán mới vẫn suy giảm, nhiều hãng nhân thọ báo lợi nhuận tăng mạnh nửa đầu năm nhờ nguồn thu tài chính hoặc giảm chi phí bán hàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-30T20:00:00+07:00",
+      "fetched": "2026-08-31T05:21:51.626782+07:00"
+    },
+    {
+      "id": "58aba519f674d4b5364dd23bdd3025b7",
+      "title": "Các hãng bảo hiểm lãi tăng mạnh nhờ hoạt động tài chính",
+      "link": "https://vnexpress.net/cac-hang-bao-hiem-lai-tang-manh-nho-hoat-dong-tai-chinh-5115223.html",
+      "summary": "Doanh thu bán mới vẫn suy giảm, nhiều hãng nhân thọ báo lợi nhuận tăng mạnh nửa đầu năm nhờ nguồn thu tài chính hoặc giảm chi phí bán hàng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-30T20:00:00+07:00",
+      "fetched": "2026-08-31T05:22:01.351615+07:00"
     },
     {
       "id": "8694d31fa6eb1cc4a12b8db6e8e24ce3",
@@ -391,6 +541,16 @@ window.newsData_2026_08_31 = {
       "category": "Thể thao",
       "published": "2026-08-30T17:00:00+07:00",
       "fetched": "2026-08-31T02:01:25.733508+07:00"
+    },
+    {
+      "id": "4db7cd9861c878e063967b3985d61842",
+      "title": "Hết hy vọng mua Alvarez, Barca tuyển mộ Gabriel Jesus",
+      "link": "https://vnexpress.net/het-hy-vong-mua-alvarez-barca-tuyen-mo-gabriel-jesus-5115266.html",
+      "summary": "Không thuyết phục Atletico Madrid bán Julian Alvarez, Barca nhanh chóng chuyển hướng sang Gabriel Jesus của Arsenal nhằm giải quyết bài toán ở vị trí trung phong.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-30T17:00:00+07:00",
+      "fetched": "2026-08-31T05:22:07.173396+07:00"
     },
     {
       "id": "3bf15571b934c5059d81aa02c1ca860d",
