@@ -1,7 +1,407 @@
 window.newsData_2026_08_31 = {
   "date": "2026-08-31",
-  "lastUpdated": "2026-08-31T05:22:07.178293+07:00",
+  "lastUpdated": "2026-08-31T10:26:10.558553+07:00",
   "articles": [
+    {
+      "id": "b921f8649a5f8becc5893be6a0854ea0",
+      "title": "Bổ sung 'giữ khoảng cách an toàn' vào thi sát hạch lái xe từ 1-3-2027",
+      "link": "https://tuoitre.vn/bo-sung-giu-khoang-cach-an-toan-vao-thi-sat-hach-lai-xe-tu-1-3-2027-10026083023030347.htm",
+      "summary": "Từ ngày 1-3-2027, thí sinh sát hạch lái xe sẽ thực hiện 12 bài thực hành trên đường, trong đó có các nội dung về giữ khoảng cách an toàn, chuyển làn, vượt xe và xử lý tình huống giao thông thực tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T10:26:05.421744+07:00",
+      "fetched": "2026-08-31T10:26:05.421808+07:00"
+    },
+    {
+      "id": "601404c2ccd6ce4f100797dcebbd9ca2",
+      "title": "Meghan Markle sau 6 năm rời Hoàng gia khác gì trước đây?",
+      "link": "https://tuoitre.vn/meghan-markle-sau-6-nam-roi-hoang-gia-khac-gi-truoc-day-100260830212427558.htm",
+      "summary": "Gia đình Hoàng tử Harry và Meghan Makle trở lại Anh. Sau 6 năm, Nữ Công tước xứ Sussex cuối cùng cũng được mặc theo đúng con người mình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T10:26:05.421663+07:00",
+      "fetched": "2026-08-31T10:26:05.421733+07:00"
+    },
+    {
+      "id": "4a2f2aa38962c723b2d4f9ed67446bd2",
+      "title": "Vùng áp thấp suy yếu từ bão Saudel đã xuống Biển Đông và mạnh trở lại thành áp thấp nhiệt đới",
+      "link": "https://tuoitre.vn/vung-ap-thap-suy-yeu-tu-bao-saudel-da-xuong-bien-dong-va-manh-tro-lai-thanh-ap-thap-nhiet-doi-100260831071905571.htm",
+      "summary": "Vùng áp thấp suy yếu từ bão Saudel đã đi xuống phía bắc Biển Đông và mạnh trở lại thành áp thấp nhiệt đới. Dự báo áp thấp nhiệt đới có thể mạnh lên thành bão số 5 trong 24 giờ tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T10:26:05.421585+07:00",
+      "fetched": "2026-08-31T10:26:05.421651+07:00"
+    },
+    {
+      "id": "9675c82ee3620a2c35d6339ddc634833",
+      "title": "HLV Polking: Cao Quang Vinh, Adou Minh rất 'máu' lên tuyển, thầy Kim Sang Sik sẽ hài lòng",
+      "link": "https://tuoitre.vn/hlv-polking-cao-quang-vinh-adou-minh-rat-mau-len-tuyen-thay-kim-sang-sik-se-hai-long-10026083023351073.htm",
+      "summary": "HLV Alexandre Polking tin rằng các học trò Cao Pendant Quang Vinh, Adou Minh sẽ không làm HLV Kim Sang Sik thất vọng nếu được gọi lên đội tuyển Việt Nam đá FIFA ASEAN Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T10:26:05.421502+07:00",
+      "fetched": "2026-08-31T10:26:05.421558+07:00"
+    },
+    {
+      "id": "e47ec9f7e4742606d0a5280109804cfe",
+      "title": "Giải phóng mặt bằng tại TP.HCM: Vì sao có đột phá?",
+      "link": "https://tuoitre.vn/go-nut-that-mat-bang-tai-tphcm-quyen-loi-nguoi-dan-va-tien-do-du-an-song-hanh-100260808214315114.htm",
+      "summary": "Cách tiếp cận của TP.HCM trong giải phóng mặt bằng là không đặt tiến độ và quyền lợi người dân ở hai phía đối lập.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T10:26:05.421436+07:00",
+      "fetched": "2026-08-31T10:26:05.421492+07:00"
+    },
+    {
+      "id": "3e9ff08ab7d08a536afabc21e6cff922",
+      "title": "FIFA ASEAN Cup 2026: Tuyển Việt Nam mạnh cỡ nào nếu có thêm 3 cầu thủ Việt kiều mới?",
+      "link": "https://tuoitre.vn/fifa-asean-cup-2026-tuyen-viet-nam-manh-co-nao-neu-co-them-3-cau-thu-viet-kieu-moi-100260831012533626.htm",
+      "summary": "Nếu HLV Kim Sang Sik bổ sung 3 cầu thủ Việt kiều mới so với ASEAN Cup 2026, đội tuyển Việt Nam sẽ càng đáng gờm hơn tại FIFA ASEAN Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T10:26:05.421370+07:00",
+      "fetched": "2026-08-31T10:26:05.421426+07:00"
+    },
+    {
+      "id": "142b99e34f65cab9697bf997255cc483",
+      "title": "LG PuriCare: Giải pháp lọc khí cho không gian sống hiện đại",
+      "link": "https://tuoitre.vn/lg-puricare-giai-phap-loc-khi-cho-khong-gian-song-hien-dai-100260829164020355.htm",
+      "summary": "Trong năm 2026, LG ra mắt ba dòng máy lọc khí LG PuriCare WallFit, LG PuriCare 360 HIT thế hệ mới và LG PuriCare AeroMini, mang đến những lựa chọn khác nhau về thiết kế, công năng và trải nghiệm, phù hợp với từng không gian sống.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T10:26:05.421301+07:00",
+      "fetched": "2026-08-31T10:26:05.421359+07:00"
+    },
+    {
+      "id": "4ecef8ec17e7a1b4c3767198d5e14648",
+      "title": "Trường Giang gây tò mò trong tập đầu tiên 2 ngày 1 đêm mùa 5",
+      "link": "https://tuoitre.vn/truong-giang-gay-to-mo-trong-tap-dau-tien-2-ngay-1-dem-mua-5-100260831065715308.htm",
+      "summary": "2 ngày 1 đêm trở lại với diện mạo mới. Dàn cast Trường Giang, Kiều Minh Tuấn, Ngô Kiến Huy, Lê Dương Bảo Lâm, Cris Phan và HIEUTHUHAI thành lập công ty du lịch đặc biệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T10:26:05.421234+07:00",
+      "fetched": "2026-08-31T10:26:05.421290+07:00"
+    },
+    {
+      "id": "4ce5a24daaed948569e182a8cef64664",
+      "title": "Thanh Tuấn là chàng trai xứ Huế, Thanh Thanh Hiền hóa cô gái Kinh Bắc ở Gala Chuông vàng vọng cổ",
+      "link": "https://tuoitre.vn/thanh-tuan-la-chang-trai-xu-hue-thanh-thanh-hien-hoa-co-gai-kinh-bac-o-gala-chuong-vang-vong-co-100260831065855981.htm",
+      "summary": "Đã từng là giám khảo giải Chuông vàng vọng cổ, nay hai nghệ sĩ Thanh Tuấn, Thanh Thanh Hiền trở lại góp giọng cùng đàn em trong Gala Chuông vàng vọng cổ lần thứ 21-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T10:26:05.421157+07:00",
+      "fetched": "2026-08-31T10:26:05.421224+07:00"
+    },
+    {
+      "id": "4f6d59c3f1baffc1fe9d6205d0871006",
+      "title": "Cảnh sát giao thông thông tin vụ tai nạn giao thông khiến biker 'Út Lụi' qua đời",
+      "link": "https://tuoitre.vn/canh-sat-giao-thong-thong-tin-vu-tai-nan-giao-thong-khien-biker-ut-lui-qua-doi-100260831075922786.htm",
+      "summary": "Các đơn vị nghiệp vụ Công an tỉnh Khánh Hòa đang điều tra nguyên nhân vụ tai nạn giao thông xe mô tô phân khối lớn khiến một người chết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T10:26:05.421088+07:00",
+      "fetched": "2026-08-31T10:26:05.421146+07:00"
+    },
+    {
+      "id": "726fefdbf012b371d2cf35345a96a7fd",
+      "title": "Lật xe khách trên quốc lộ 19 khiến nhiều người thương vong",
+      "link": "https://tuoitre.vn/lat-xe-khach-tren-quoc-lo-19-khien-nhieu-nguoi-thuong-vong-100260831073614483.htm",
+      "summary": "Rạng sáng nay (31-8), một vụ tai nạn giao thông đặc biệt nghiêm trọng xảy ra trên quốc lộ 19 khiến 3 người chết và hàng chục người bị thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T10:26:05.421020+07:00",
+      "fetched": "2026-08-31T10:26:05.421078+07:00"
+    },
+    {
+      "id": "78ec60cdbfd0cbfc003e23e6879a0b51",
+      "title": "Thái Lan xứng danh là nền thể thao số một Đông Nam Á",
+      "link": "https://tuoitre.vn/thai-lan-xung-danh-la-nen-the-thao-so-mot-dong-nam-a-100260830211125287.htm",
+      "summary": "Bỏ lại nỗi buồn bóng đá, người hâm mộ thể thao Thái Lan mới đây đón nhận niềm tự hào khi đội tuyển bóng chuyền nữ đánh bại chủ nhà Trung Quốc trong trận chung kết Giải vô địch châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T10:26:05.420950+07:00",
+      "fetched": "2026-08-31T10:26:05.421009+07:00"
+    },
+    {
+      "id": "8eb375559a08426815685b91bc6f0a06",
+      "title": "Loài cây thân như cái chai khổng lồ, nhựa vừa làm thuốc vừa có thể gây chết người",
+      "link": "https://tuoitre.vn/loai-cay-than-nhu-cai-chai-khong-lo-nhua-vua-lam-thuoc-vua-co-the-gay-chet-nguoi-100260828105905068.htm",
+      "summary": "Đảo Socotra của Yemen có một loài cây thân phình to như cái chai khổng lồ gây chú ý bởi đặc điểm đặc biệt: nhựa cây vừa có giá trị y học, vừa chứa các hợp chất có thể gây chết người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T10:26:05.420878+07:00",
+      "fetched": "2026-08-31T10:26:05.420939+07:00"
+    },
+    {
+      "id": "a3f7e5f16d2e3e07ac99bb25310c6187",
+      "title": "Lũ quét tan hoang Vườn quốc gia Grand Canyon, trực thăng phải vào cứu hàng chục người",
+      "link": "https://tuoitre.vn/lu-quet-tan-hoang-vuon-quoc-gia-grand-canyon-truc-thang-phai-vao-cuu-hang-chuc-nguoi-100260831074420969.htm",
+      "summary": "Trận lũ quét lớn tại Grand Canyon đã buộc hàng chục người sơ tán.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T10:26:05.420801+07:00",
+      "fetched": "2026-08-31T10:26:05.420866+07:00"
+    },
+    {
+      "id": "0b5619187546264daf5566ca11924fb7",
+      "title": "Cẩm Vân hát Bài ca không quên, nhạc sĩ 94 tuổi Doãn Nho bắt nhịp Tiến bước dưới quân kỳ ở Sao Độc lập",
+      "link": "https://tuoitre.vn/cam-van-hat-bai-ca-khong-quen-nhac-si-94-tuoi-doan-nho-bat-nhip-tien-buoc-duoi-quan-ky-o-sao-doc-lap-100260831082522235.htm",
+      "summary": "Sao Độc lập 2026 trở lại hoành tráng. Khán giả đứng lên hát Quốc ca tự hào, thiêng liêng trong không khí kỷ niệm Ngày Tết độc lập đang đến gần.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T10:26:05.420651+07:00",
+      "fetched": "2026-08-31T10:26:05.420786+07:00"
+    },
+    {
+      "id": "f054c4f274fff4865ecc10a0504cd75c",
+      "title": "Ông Putin và ông Tập dự hội nghị Tổ chức Hợp tác Thượng Hải ở Kyrgyzstan",
+      "link": "https://thanhnien.vn/ong-putin-va-ong-tap-du-hoi-nghi-to-chuc-hop-tac-thuong-hai-o-kyrgyzstan-185260831093150114.htm",
+      "summary": "Tổng thống Nga Vladimir Putin, Chủ tịch nước Trung Quốc Tập Cận Bình, Thủ tướng Ấn Độ Narendra Modi và hơn 10 nhà lãnh đạo khác sẽ có mặt tại Kyrgyzstan hôm nay 31.8 để tham dự hội nghị Tổ chức Hợp tác Thượng Hải (SCO).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T03:24:00+07:00",
+      "fetched": "2026-08-31T10:26:04.076740+07:00"
+    },
+    {
+      "id": "fc05ff838e6f9a81fb3e08d6d80b3d0e",
+      "title": "Giá Bitcoin hôm nay 31.8.2026: Đảo chiều giảm giá",
+      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-3182026-dao-chieu-giam-gia-18526083109290241.htm",
+      "summary": "Giá Bitcoin hôm nay có lúc tăng vọt lên 79.000 USD nhưng nhanh chóng quay đầu giảm giá về 77.000 USD.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T03:21:00+07:00",
+      "fetched": "2026-08-31T10:26:04.076911+07:00"
+    },
+    {
+      "id": "915f52df44eab8a6fe37f162c483ed90",
+      "title": "Đà Lạt đông khách dịp lễ 2.9 nhưng vẫn thông thoáng",
+      "link": "https://thanhnien.vn/da-lat-dong-khach-dip-le-29-nhung-van-thong-thoang-18526083018314325.htm",
+      "summary": "Dịp Quốc khánh 2.9, từ cửa ngõ cho tới các tuyến đường trung tâm, các điểm du lịch ở trung tâm Đà Lạt (Lâm Đồng) khá đông khách nhưng giao thông vẫn thông thoáng, chưa xảy ra ùn tắc hay quá tải.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T03:20:00+07:00",
+      "fetched": "2026-08-31T10:26:04.077076+07:00"
+    },
+    {
+      "id": "0bebde22df9eb6db928d71695bdc8e14",
+      "title": "Bác sĩ chỉ cách ăn sáng giúp sống khỏe, sống thọ",
+      "link": "https://thanhnien.vn/bac-si-chi-cach-an-sang-giup-song-khoe-song-tho-185260831093155362.htm",
+      "summary": "Bữa sáng không chỉ cung cấp năng lượng cho ngày mới mà còn ảnh hưởng lâu dài đến sức khỏe. Lựa chọn thực phẩm lành mạnh và duy trì đều đặn có thể góp phần phòng ngừa bệnh mạn tính, nâng cao thể chất, giúp sống khỏe hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T03:13:00+07:00",
+      "fetched": "2026-08-31T10:26:04.077233+07:00"
+    },
+    {
+      "id": "43ce22615e30327f38a2f78515528a8c",
+      "title": "Dàn sao 'hạng A' của Thái Lan bắn tín hiệu trước ngày tái đấu đội tuyển Việt",
+      "link": "https://thanhnien.vn/dan-sao-hang-a-cua-thai-lan-ban-tin-hieu-truoc-ngay-tai-dau-doi-tuyen-viet-185260831095842002.htm",
+      "summary": "Phong độ cao của những ngôi sao sáng như Supachok Sarachat và Suphanat Mueanta tại Nhật Bản là tín hiệu tích cực với Thái Lan, trước khi tái đấu đội tuyển Việt Nam tại FIFA ASEAN Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T03:08:00+07:00",
+      "fetched": "2026-08-31T10:26:04.077390+07:00"
+    },
+    {
+      "id": "f3f0a65a02d387975945077b36fc7b8a",
+      "title": "Quan hệ Việt Nam - Canada: Kỳ vọng những cột mốc mới",
+      "link": "https://thanhnien.vn/quan-he-viet-nam-canada-ky-vong-nhung-cot-moc-moi-185260830222609082.htm",
+      "summary": "Tổng lãnh sự Canada tại Việt Nam Annie Dubé đánh giá mối quan hệ hợp tác giữa hai nước đang bước sang một chương mới toàn diện và thực chất hơn. Với kim ngạch thương mại tăng trưởng mạnh mẽ cùng nền tảng quan hệ vững chắc, quan hệ Việt Nam - Canada không chỉ dừng lại ở mô hình chuỗi cung ứng truyền ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T03:00:00+07:00",
+      "fetched": "2026-08-31T10:26:04.077549+07:00"
+    },
+    {
+      "id": "081d003aab0f91f69def2841e28e9511",
+      "title": "Áo trễ vai phối quần jeans, khoe vai trần gợi cảm đầy thần thái",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ao-tre-vai-phoi-quan-jeans-khoe-vai-tran-goi-cam-day-than-thai-185260830172146371.htm",
+      "summary": "Từng gắn liền với dáng vẻ điệu đà có phần quen thuộc, chiếc áo trễ vai đang khoác lên mình diện mạo mới mẻ khi đồng hành cùng quần jeans đậm chất đường phố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T03:00:00+07:00",
+      "fetched": "2026-08-31T10:26:04.077731+07:00"
+    },
+    {
+      "id": "790e499ab10fdb28e4c40b5194cd6ec5",
+      "title": "Khi tình yêu nước không chỉ nằm trong trái tim",
+      "link": "https://thanhnien.vn/toi-yeu-to-quoc-toi-khi-tinh-yeu-nuoc-khong-chi-nam-trong-trai-tim-185260828222015122.htm",
+      "summary": "Từ việc mang tủ sách đến với trẻ em vùng khó, một dự án khởi nghiệp xanh, những chuyến tình nguyện hay việc đưa tri thức, công nghệ vào cộng đồng, mỗi người trẻ có một cách làm riêng để viết nên câu chuyện “Tôi yêu Tổ quốc tôi”.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T03:00:00+07:00",
+      "fetched": "2026-08-31T10:26:04.077885+07:00"
+    },
+    {
+      "id": "53a2ce4f49a253a00ac96c7f42c8cd08",
+      "title": "Lý giải thêm về nguyên nhân chính của thảm họa lũ quét ở Nepal",
+      "link": "https://vnexpress.net/ly-giai-them-ve-nguyen-nhan-chinh-cua-tham-hoa-lu-quet-o-nepal-5115281.html",
+      "summary": "Các nhà địa lý cho rằng một vụ sạt lở, không phải động đất hay sông băng sụp đổ, đã gây ra trận lũ quét ở biên giới Nepal và Tây Tạng khiến 800 người thiệt mạng, gần 3.000 người mất tích.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-31T03:00:00+07:00",
+      "fetched": "2026-08-31T10:26:09.269597+07:00"
+    },
+    {
+      "id": "cbfb20dd3bf73ea7711c315f3764e2c1",
+      "title": "Messi chính thức tiếp quản CLB ở Tây Ban Nha, gia đình chuyển sang ‘sắc áo xanh’",
+      "link": "https://thanhnien.vn/messi-chinh-thuc-tiep-quan-clb-o-tay-ban-nha-gia-dinh-chuyen-sang-sac-ao-xanh-185260831095058631.htm",
+      "summary": "Messi và các con trai Thiago, Mateo và Ciro vừa bất ngờ xuất hiện trong trang phục 'sắc áo xanh' lạ lẫm gây sốt mạng xã hội. Đây là màu áo của CLB UE Cornella do Messi cùng gia đình chủ sở hữu với đa số cổ phần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T02:57:00+07:00",
+      "fetched": "2026-08-31T10:26:04.078041+07:00"
+    },
+    {
+      "id": "a494d7abefd60e5d8e453d7c83f11dec",
+      "title": "Bức ảnh đầu tiên của ông Maduro trong nhà tù Mỹ",
+      "link": "https://vnexpress.net/buc-anh-dau-tien-cua-ong-maduro-trong-nha-tu-my-5115316.html",
+      "summary": "Tài khoản của Maduro đăng ảnh ông giơ ngón tay hình chữ V tại trại giam ở Mỹ, hé lộ hình ảnh trong tù đầu tiên của cựu lãnh đạo Venezuela.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-31T02:51:08+07:00",
+      "fetched": "2026-08-31T10:26:06.432698+07:00"
+    },
+    {
+      "id": "3726dad182f3825b67ad77ade04adcb5",
+      "title": "Đuổi hình bắt chữ: Ảnh gợi ý giúp bạn bắt được chữ gì?",
+      "link": "https://vnexpress.net/duoi-hinh-bat-chu-voi-va-cho-xuat-hien-cung-luc-ban-co-doan-ra-chu-gi-khong-5113293.html",
+      "summary": "Mỗi chi tiết đều có thể đang cất giấu một gợi ý nhỏ, chỉ chờ người chơi tinh mắt phát hiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T02:45:00+07:00",
+      "fetched": "2026-08-31T10:26:01.369455+07:00"
+    },
+    {
+      "id": "7f9df3a40a7e1a4a551b900c2e9d7769",
+      "title": "Bỏ bạn gái rồi tôi vẫn không thể có được tình cảm của đồng nghiệp",
+      "link": "https://vnexpress.net/bo-ban-gai-roi-toi-van-khong-the-co-duoc-tinh-cam-cua-dong-nghiep-5115317.html",
+      "summary": "Tôi chẳng thể mạnh dạn nói ra những suy nghĩ trong lòng với đồng nghiệp, ôm em một cái cho thỏa tình cảm này, bởi em đã có vợ con.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T02:34:53+07:00",
+      "fetched": "2026-08-31T10:26:01.369666+07:00"
+    },
+    {
+      "id": "98ecddd5c954809c35e9ef7010488243",
+      "title": "Nguyên tắc 4 giây giúp tôi tránh dính lỗi khoảng cách an toàn trên cao tốc",
+      "link": "https://vnexpress.net/nguyen-tac-4-giay-giup-toi-tranh-dinh-loi-khoang-cach-an-toan-tren-cao-toc-5115324.html",
+      "summary": "Khi xe phía trước vừa chạy qua cột mốc, tôi bắt đầu đếm: '1, 2, 3...'. Khi xe của mình chạy đến đúng cột mốc đó tôi dừng đếm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T02:34:38+07:00",
+      "fetched": "2026-08-31T10:26:01.369841+07:00"
+    },
+    {
+      "id": "2d2634c9745bcb0a660de74f25944ad2",
+      "title": "Những ký ức dẫn đường tìm liệt sĩ ở Cồn Tiên",
+      "link": "https://thanhnien.vn/nhung-ky-uc-dan-duong-tim-liet-si-o-con-tien-185260830075911977.htm",
+      "summary": "Gần 60 năm sau trận đánh tại căn cứ Cồn Tiên (Quảng Trị), những lời kể của nhân chứng, cựu chiến binh và người dân đang trở thành chỉ dấu quý giá, giúp lực lượng chức năng khoanh vùng, tìm kiếm những liệt sĩ còn nằm lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T02:32:00+07:00",
+      "fetched": "2026-08-31T10:26:04.078192+07:00"
+    },
+    {
+      "id": "65edcb9a8f35a129e049fa84e970e8b3",
+      "title": "Công viên nước Vũng Tàu hút khách dịp Quốc khánh",
+      "link": "https://vnexpress.net/cong-vien-nuoc-vung-tau-hut-khach-dip-quoc-khanh-5115323.html",
+      "summary": "Công viên nước Vũng Tàu thu hút du khách nhờ loạt chương trình nghệ thuật, pháo hoa trong hai ngày 29/8 và 1/9, cùng chính sách giá vé ưu đãi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T02:30:00+07:00",
+      "fetched": "2026-08-31T10:26:01.370011+07:00"
+    },
+    {
+      "id": "e38de2ed23e98ee4d54def200934aa8d",
+      "title": "Bến xe buýt Sài Gòn ngày lễ: Tuyến vắng hoe, có tuyến khách chờ 'dài cổ'",
+      "link": "https://thanhnien.vn/ben-xe-buyt-sai-gon-ngay-le-tuyen-vang-hoe-co-tuyen-khach-cho-dai-co-185260830160136519.htm",
+      "summary": "Nghỉ lễ dài ngày, nhiều hành khách trẻ ở TP.HCM chọn xe buýt làm phương tiện di chuyển. Tại Bến xe buýt Sài Gòn, có tuyến xe hành khách vắng hoe, nhưng ở một số tuyến khác, người dân kiên nhẫn đợi xe cả tiếng đồng hồ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T02:27:00+07:00",
+      "fetched": "2026-08-31T10:26:04.078352+07:00"
+    },
+    {
+      "id": "84be4a24e2dc67a7b24fe312b1c8ef10",
+      "title": "Không cần đến trụ sở, người Đà Nẵng làm thủ tục hành chính ngay khu dân cư",
+      "link": "https://thanhnien.vn/khong-can-den-tru-so-nguoi-da-nang-lam-thu-tuc-hanh-chinh-ngay-khu-dan-cu-185260830201424749.htm",
+      "summary": "Phường Ngũ Hành Sơn (Đà Nẵng) thí điểm 'Điểm trạm thủ tục số', hỗ trợ người dân làm thủ tục hành chính từ chuẩn bị giấy tờ, quét hồ sơ đến kê khai, nộp trực tuyến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T02:24:00+07:00",
+      "fetched": "2026-08-31T10:26:04.078499+07:00"
+    },
+    {
+      "id": "7c3bc5a98b990119bfe80c2e8a148fe4",
+      "title": "Quy định tách thửa mới: Cần ban hành tiêu chí kỹ thuật rõ ràng",
+      "link": "https://thanhnien.vn/quy-dinh-tach-thua-moi-can-ban-tieu-chi-ki-thuat-ro-rang-185260831072117042.htm",
+      "summary": "Quyết định 67 do UBND TP.HCM ban hành và có hiệu lực từ ngày 28.8 về điều kiện tách thửa đất, điều kiện hợp thửa đất và diện tích tối thiểu được tách thửa trên địa bàn TP.HCM trong đó giao UBND cấp xã xem xét, xác nhận lối đi chung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T02:21:00+07:00",
+      "fetched": "2026-08-31T10:26:04.078670+07:00"
+    },
+    {
+      "id": "2b2c9c90204771b89542727ae8435eb5",
+      "title": "Toyota Land Cruiser 300 bỏ máy xăng V6, thêm động cơ hybrid",
+      "link": "https://vnexpress.net/toyota-land-cruiser-300-bo-may-xang-v6-them-dong-co-hybrid-5115150.html",
+      "summary": "Mẫu SUV đầu bảng nâng cấp sức mạnh với hệ truyền động hybrid 457 mã lực, bổ sung bản máy dầu và cải tiến nhiều công nghệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T02:18:34+07:00",
+      "fetched": "2026-08-31T10:26:01.370176+07:00"
+    },
+    {
+      "id": "9f629e9aa862392fadaa01eca0b929d2",
+      "title": "Giá USD hôm nay 31.8: Đô tự do sụt giảm",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-318-do-tu-do-sut-giam-185260831082853132.htm",
+      "summary": "Giá USD đứng yên khi các ngân hàng nghỉ lễ nhưng thị trường tự do tiếp tục đà giảm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T02:15:00+07:00",
+      "fetched": "2026-08-31T10:26:04.078819+07:00"
+    },
+    {
+      "id": "e138eae2a635467e5725e437941d3540",
+      "title": "Giá vàng hôm nay 31.8.2026: Vàng miếng SJC đắt hơn thế giới gần 8 triệu đồng/lượng",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-3182026-vang-mieng-sjc-dat-hon-the-gioi-gan-8-trieu-dong-luong-185260831084744964.htm",
+      "summary": "Giá vàng thế giới giảm nhưng trong nước không theo kịp nên khoảng cách giữa vàng miếng SJC và thế giới lại được kéo lên gần 8 triệu đồng/lượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T02:13:00+07:00",
+      "fetched": "2026-08-31T10:26:04.078965+07:00"
+    },
+    {
+      "id": "a19f0ef98f7ab504d7e41cf89654e8b5",
+      "title": "Ông Trump kêu gọi trừng phạt nhà báo từng điều hành tranh luận tổng thống",
+      "link": "https://vnexpress.net/ong-trump-keu-goi-trung-phat-nha-bao-tung-dieu-hanh-tranh-luan-tong-thong-5115318.html",
+      "summary": "Ông Trump đe dọa trừng phạt nữ nhà báo Welke của NBC, bày tỏ thất vọng trước cách cô đưa tin liên quan cuộc bầu cử giữa kỳ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T02:11:56+07:00",
+      "fetched": "2026-08-31T10:26:01.370332+07:00"
+    },
+    {
+      "id": "a19f0ef98f7ab504d7e41cf89654e8b5",
+      "title": "Ông Trump kêu gọi trừng phạt nhà báo từng điều hành tranh luận tổng thống",
+      "link": "https://vnexpress.net/ong-trump-keu-goi-trung-phat-nha-bao-tung-dieu-hanh-tranh-luan-tong-thong-5115318.html",
+      "summary": "Ông Trump đe dọa trừng phạt nữ nhà báo Welke của NBC, bày tỏ thất vọng trước cách cô đưa tin liên quan cuộc bầu cử giữa kỳ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-31T02:11:56+07:00",
+      "fetched": "2026-08-31T10:26:06.432875+07:00"
+    },
+    {
+      "id": "1fc469a02c60f8f1385e61c888f55444",
+      "title": "Săn mây 'bất bại' ở Tà Xùa",
+      "link": "https://vnexpress.net/san-may-bat-bai-o-ta-xua-5112894.html",
+      "summary": "Cả ba ngày trong chuyến đi Tà Xùa giữa tháng 8 của gia đình chị Kiều Phương, ngày nào \"mây cũng tràn ngập\", đặc biệt ở Khe Cải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T02:01:31+07:00",
+      "fetched": "2026-08-31T10:26:01.370487+07:00"
+    },
     {
       "id": "fa42df51a1996485747a90f29eb9cb7f",
       "title": "Đánh bại Trung Quốc, bóng chuyền nữ Thái Lan giành vé dự Olympic 2028",
@@ -151,6 +551,206 @@ window.newsData_2026_08_31 = {
       "category": "Tổng hợp",
       "published": "2026-08-31T02:01:16.302921+07:00",
       "fetched": "2026-08-31T02:01:16.303065+07:00"
+    },
+    {
+      "id": "afb012930101e9f34d8ac7ae69997ca6",
+      "title": "Lưu thông tin lao động đã nghỉ việc, công ty sẽ bị phạt đến 70 triệu đồng?",
+      "link": "https://vnexpress.net/luu-thong-tin-lao-dong-da-nghi-viec-cong-ty-se-bi-phat-den-70-trieu-dong-5114449.html",
+      "summary": "Sau khi nghỉ việc, tôi lo ngại những thông tin cá nhân mà mình đã cung cấp trước đây có thể bị người khác trong công ty sử dụng vào mục đích không liên quan hoặc bị tiết lộ ra bên ngoài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T02:00:00+07:00",
+      "fetched": "2026-08-31T10:26:01.370675+07:00"
+    },
+    {
+      "id": "6a557dc8ebfb4a43a1ea56cda3a36666",
+      "title": "Bí mật trường thọ của hai cụ bà 109 tuổi",
+      "link": "https://vnexpress.net/bi-mat-truong-tho-cua-hai-cu-ba-109-tuoi-5112979.html",
+      "summary": "Cùng duy trì vận động mỗi sáng, hai cụ bà 109 tuổi tại Mỹ xem tình bạn kéo dài 80 năm là bí quyết giữ gìn thể chất và tinh thần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T02:00:00+07:00",
+      "fetched": "2026-08-31T10:26:01.370845+07:00"
+    },
+    {
+      "id": "f3f93207829ce352cffd229b86f64fbf",
+      "title": "Cách người trẻ tìm kiếm sự cân bằng khi chọn tủ lạnh",
+      "link": "https://vnexpress.net/cach-nguoi-tre-tim-kiem-su-can-bang-khi-chon-tu-lanh-5115244.html",
+      "summary": "Một chiếc tủ lạnh được thiết kế hài hòa với không gian tổng thể, đủ công năng thiết yếu, có thể sử dụng lâu dài là những ưu tiên của nhiều người trẻ đô thị khi chọn mua tủ lạnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T02:00:00+07:00",
+      "fetched": "2026-08-31T10:26:01.371005+07:00"
+    },
+    {
+      "id": "31ac8c2c1c7f5d7d80c6ee5a816199f6",
+      "title": "Viettel Logistics hướng tới mở rộng chuỗi logistics toàn cầu",
+      "link": "https://vnexpress.net/viettel-logistics-huong-toi-mo-rong-chuoi-logistics-toan-cau-5115038.html",
+      "summary": "Viettel Logistics mở rộng các hành lang vận tải xuyên biên giới, kết nối đường bộ, đường biển và đối tác quốc tế nhằm nâng cao năng lực phục vụ chuỗi cung ứng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T02:00:00+07:00",
+      "fetched": "2026-08-31T10:26:01.371165+07:00"
+    },
+    {
+      "id": "6717a45e71c452479dcfa227bbe19c9f",
+      "title": "Saigon Co.op kỳ vọng sức mua tăng hai con số dịp Quốc khánh",
+      "link": "https://vnexpress.net/saigon-co-op-ky-vong-suc-mua-tang-hai-con-so-dip-quoc-khanh-5114934.html",
+      "summary": "Saigon Co.op triển khai khoảng 5.000 mặt hàng ưu đãi tại hơn 800 điểm bán từ ngày 27/8 đến 9/9, kỳ vọng sức mua dịp Quốc khánh tăng mạnh, đóng góp cho mục tiêu tăng trưởng 10% năm 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T02:00:00+07:00",
+      "fetched": "2026-08-31T10:26:01.371338+07:00"
+    },
+    {
+      "id": "5e1f0cbd622b4398de2755ee5455eccd",
+      "title": "Vì sao zona thần kinh gây đau như điện giật?",
+      "link": "https://vnexpress.net/vi-sao-zona-than-kinh-gay-dau-nhu-dien-giat-5114910.html",
+      "summary": "Mẹ tôi 67 tuổi, đang mắc zona thần kinh ở vùng lưng phải, đau như kim châm, điện giật. Vì sao bệnh lại gây ra triệu chứng này, nên bôi thuốc gì? (Hoàng Kim, 45 tuổi, Hải Phòng)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T02:00:00+07:00",
+      "fetched": "2026-08-31T10:26:01.371529+07:00"
+    },
+    {
+      "id": "606f4c3c8198cb6a04f0ada8639de0c5",
+      "title": "Ba thói quen trong kỳ nghỉ lễ làm tăng nguy cơ đột quỵ",
+      "link": "https://vnexpress.net/ba-thoi-quen-trong-ky-nghi-le-lam-tang-nguy-co-dot-quy-5114734.html",
+      "summary": "Uống nhiều rượu bia, thức khuya, quên uống thuốc điều trị bệnh nền trong dịp lễ có thể khiến huyết áp dao động, rối loạn nhịp tim, có thể tăng nguy cơ đột quỵ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T02:00:00+07:00",
+      "fetched": "2026-08-31T10:26:01.371808+07:00"
+    },
+    {
+      "id": "6717a45e71c452479dcfa227bbe19c9f",
+      "title": "Saigon Co.op kỳ vọng sức mua tăng hai con số dịp Quốc khánh",
+      "link": "https://vnexpress.net/saigon-co-op-ky-vong-suc-mua-tang-hai-con-so-dip-quoc-khanh-5114934.html",
+      "summary": "Saigon Co.op triển khai khoảng 5.000 mặt hàng ưu đãi tại hơn 800 điểm bán từ ngày 27/8 đến 9/9, kỳ vọng sức mua dịp Quốc khánh tăng mạnh, đóng góp cho mục tiêu tăng trưởng 10% năm 2026.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-31T02:00:00+07:00",
+      "fetched": "2026-08-31T10:26:07.459490+07:00"
+    },
+    {
+      "id": "35133c9d8cb843044bd4f9710ca9642a",
+      "title": "Tàn dư bão Saudel mạnh lên thành áp thấp nhiệt đới trên Biển Đông",
+      "link": "https://vnexpress.net/tan-du-bao-saudel-manh-len-thanh-ap-thap-nhiet-doi-tren-bien-dong-5115315.html",
+      "summary": "Vùng áp thấp suy yếu từ bão Saudel sau khi đi qua Trung Quốc đã mạnh lên thành áp thấp nhiệt đới phía đông bán đảo Lôi Châu sáng 31/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T01:49:29+07:00",
+      "fetched": "2026-08-31T10:26:01.371993+07:00"
+    },
+    {
+      "id": "7c832ee3809fe49531a5e960660de174",
+      "title": "Đầu số 1556 sắp đấu giá, khởi điểm một tỷ đồng",
+      "link": "https://vnexpress.net/dau-so-1556-sap-dau-gia-khoi-diem-mot-ty-dong-5115306.html",
+      "summary": "Cục Viễn thông sẽ đấu giá trực tuyến quyền sử dụng đầu số dịch vụ giải đáp thông tin toàn quốc 1556 vào ngày 11/9, giá khởi điểm một tỷ đồng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-31T01:49:08+07:00",
+      "fetched": "2026-08-31T10:26:09.270104+07:00"
+    },
+    {
+      "id": "59b1c189d79676b0cb117fd6b8c5a450",
+      "title": "Nga can thiệp giúp Niger dẹp cuộc nổi loạn của binh sĩ",
+      "link": "https://vnexpress.net/nga-can-thiep-giup-niger-dep-cuoc-noi-loan-cua-binh-si-5115296.html",
+      "summary": "Quân đoàn châu Phi của Nga hỗ trợ chính quyền Niger đối phó cuộc nổi loạn do nhóm binh sĩ bất mãn gây ra tại một căn cứ không quân.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-31T01:46:21+07:00",
+      "fetched": "2026-08-31T10:26:06.433038+07:00"
+    },
+    {
+      "id": "3d4a2a2668da26e1fb8984b982a8a9f0",
+      "title": "Thoát khỏi tử thần trong đường hầm thủy điện giữa lũ quét Nepal",
+      "link": "https://vnexpress.net/thoat-khoi-tu-than-trong-duong-ham-thuy-dien-giua-lu-quet-nepal-5115250.html",
+      "summary": "Bám chặt thang sắt và chuyền nhau tấm tôn kê chân, Ram Chandra cùng nhóm công nhân thủy điện Nepal cầm cự suốt 6 tiếng để thoát khỏi đường hầm ngập bùn lũ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-31T01:27:40+07:00",
+      "fetched": "2026-08-31T10:26:06.433196+07:00"
+    },
+    {
+      "id": "7f88781c8ee7bff308e902d9aee00c13",
+      "title": "Carrick ca ngợi bản lĩnh của Man Utd",
+      "link": "https://vnexpress.net/carrick-ca-ngoi-ban-linh-cua-man-utd-5115287.html",
+      "summary": "HLV Michael Carrick hài lòng với cách Man Utd vượt qua cú sốc thua Hull ở lượt đầu, khi thắng đậm Ipswich 5-2 ở vòng hai Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-31T01:05:38+07:00",
+      "fetched": "2026-08-31T10:26:10.553111+07:00"
+    },
+    {
+      "id": "5a7776f1ccaa00cbc48421839ae5f441",
+      "title": "'Nhà khoa học giỏi không mặc nhiên trở thành chuyên gia sáng chế'",
+      "link": "https://vnexpress.net/nha-khoa-hoc-gioi-khong-mac-nhien-tro-thanh-chuyen-gia-sang-che-5113743.html",
+      "summary": "PGS.TS Từ Diệp Công Thành cho rằng, để hình thành sáng chế, cần một quá trình chuyên nghiệp từ tra cứu đơn đến công bố, vì vậy các nhà khoa học cần được hỗ trợ để họ có thời gian \"làm việc giỏi nhất\".",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-31T01:00:00+07:00",
+      "fetched": "2026-08-31T10:26:09.269779+07:00"
+    },
+    {
+      "id": "4e4b75e7efafcc62c3b49960bd37f654",
+      "title": "Neville: 'Man Utd không có hàng thủ 4 người đúng nghĩa'",
+      "link": "https://vnexpress.net/neville-man-utd-khong-co-hang-thu-4-nguoi-dung-nghia-5115293.html",
+      "summary": "Theo cựu hậu vệ Gary Neville, Man Utd cần bổ sung hai hậu vệ trước hạn chót chuyển nhượng, nếu không muốn những điểm yếu ở hàng thủ cản trở kế hoạch cải tổ của HLV Michael Carrick.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-31T00:52:31+07:00",
+      "fetched": "2026-08-31T10:26:10.553269+07:00"
+    },
+    {
+      "id": "85f4b0cb75dc05461160f06819922010",
+      "title": "Federer bật khóc trong ngày vào Đại sảnh Danh vọng",
+      "link": "https://vnexpress.net/federer-bat-khoc-trong-ngay-vao-dai-sanh-danh-vong-5115297.html",
+      "summary": "Cựu tay vợt Roger Federer nhiều lần rơi nước mắt khi được ghi danh vào Đại sảnh Danh vọng Quần vợt Quốc tế, gọi đây là vinh dự lớn bậc nhất cuộc đời.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-31T00:35:46+07:00",
+      "fetched": "2026-08-31T10:26:10.552269+07:00"
+    },
+    {
+      "id": "27397004d06ca79c0afa5090dada0b87",
+      "title": "Lũ quét tàn phá hẻm núi Grand Canyon, 15 người mất tích",
+      "link": "https://vnexpress.net/lu-quet-tan-pha-hem-nui-grand-canyon-15-nguoi-mat-tich-5115292.html",
+      "summary": "Trận lũ quét nghiêm trọng tràn qua Grand Canyon khiến ít nhất 15 người mất tích, phá hủy các cây cầu đi bộ, buộc hàng chục người phải sơ tán.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-31T00:15:56+07:00",
+      "fetched": "2026-08-31T10:26:06.433363+07:00"
+    },
+    {
+      "id": "bd7e8e74dc054c741c042640ed3c232b",
+      "title": "Vì sao Man Utd được công nhận bàn thắng dù Maguire để bóng chạm hai tay?",
+      "link": "https://vnexpress.net/vi-sao-man-utd-duoc-cong-nhan-ban-thang-du-maguire-de-bong-cham-hai-tay-5115286.html",
+      "summary": "Bàn phản lưới trong trận thắng Ipswich 5-2 vẫn được công nhận cho Man Utd dù bóng chạm cả hai tay Harry Maguire, do hậu vệ này không phải người trực tiếp ghi bàn.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-30T23:46:13+07:00",
+      "fetched": "2026-08-31T10:26:10.552441+07:00"
+    },
+    {
+      "id": "a4b0b17e05cb257832e7cbda4fd1cb76",
+      "title": "Mỹ tập kích hệ thống rải thủy lôi trên đảo Iran",
+      "link": "https://vnexpress.net/my-tap-kich-he-thong-rai-thuy-loi-tren-dao-iran-5115290.html",
+      "summary": "Quân đội Mỹ lần đầu trong hơn một tháng qua tấn công mục tiêu trên đảo Larak, nhắm vào bệ phóng rocket rải thủy lôi của Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-30T23:29:06+07:00",
+      "fetched": "2026-08-31T10:26:06.433518+07:00"
+    },
+    {
+      "id": "34f1e520f3c44b94ec569e41b3342c73",
+      "title": "Cuộc đua giành thị phần của các hãng đồ tập cao cấp tại Trung Quốc",
+      "link": "https://vnexpress.net/cuoc-dua-gianh-thi-phan-cua-cac-hang-do-tap-cao-cap-tai-trung-quoc-5115158.html",
+      "summary": "Sau hơn một thập kỷ Lululemon thống trị phân khúc đồ tập cao cấp tại Trung Quốc,  nhiều thương hiệu quốc tế và nội địa đang tăng tốc giành thị phần tỷ USD.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-30T23:00:00+07:00",
+      "fetched": "2026-08-31T10:26:07.458975+07:00"
     },
     {
       "id": "48bc800cf4bdcf1733f68b0740f6e845",
@@ -551,6 +1151,16 @@ window.newsData_2026_08_31 = {
       "category": "Thể thao",
       "published": "2026-08-30T17:00:00+07:00",
       "fetched": "2026-08-31T05:22:07.173396+07:00"
+    },
+    {
+      "id": "807f522194f1cd6c006916af4590a99e",
+      "title": "Bóng chuyền nữ Thái Lan vô địch châu Á để lần đầu dự Olympic",
+      "link": "https://vnexpress.net/bong-chuyen-nu-thai-lan-vo-dich-chau-a-de-lan-dau-du-olympic-5115269.html",
+      "summary": "Thái Lan thắng chủ nhà Trung Quốc 3-2 ở chung kết giải vô địch bóng chuyền bóng nữ châu Á 2026 tối nay, để làm nên lịch sử với tấm vé dự Olympic.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-30T15:53:06+07:00",
+      "fetched": "2026-08-31T10:26:10.553435+07:00"
     },
     {
       "id": "3bf15571b934c5059d81aa02c1ca860d",
