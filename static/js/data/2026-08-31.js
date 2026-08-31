@@ -1,7 +1,167 @@
 window.newsData_2026_08_31 = {
   "date": "2026-08-31",
-  "lastUpdated": "2026-08-31T10:26:10.558553+07:00",
+  "lastUpdated": "2026-08-31T17:28:15.103197+07:00",
   "articles": [
+    {
+      "id": "488da0a400893057bbf2f4055b3b5cd4",
+      "title": "Giảm 30% thuế cả năm: Sẽ sớm có hướng dẫn cách tính toán",
+      "link": "https://tuoitre.vn/giam-30-thue-ca-nam-se-som-co-huong-dan-cach-tinh-toan-100260831151008736.htm",
+      "summary": "Do chính sách có hiệu lực từ ngày 24-8, không ít doanh nghiệp, hộ kinh doanh lúng túng với những tính toán dịp cuối năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T17:28:05.925673+07:00",
+      "fetched": "2026-08-31T17:28:05.925727+07:00"
+    },
+    {
+      "id": "a9f92ab8ae64cf0c50c64f7925429bb8",
+      "title": "Anime isekai được đàn ông lớn tuổi xem nhiều tại Nhật",
+      "link": "https://tuoitre.vn/anime-isekai-duoc-dan-ong-lon-tuoi-xem-nhieu-tai-nhat-100260831091711052.htm",
+      "summary": "Một khảo sát tại Nhật Bản cho thấy anime thuộc thể loại isekai được đàn ông độ tuổi 35-64 theo dõi nhiều hơn đáng kể so với các nhóm khán giả khác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T17:28:05.925607+07:00",
+      "fetched": "2026-08-31T17:28:05.925663+07:00"
+    },
+    {
+      "id": "1f6419af547218fc19a5796d19529136",
+      "title": "Thanh Ngân, Nguyễn Văn Khởi hát mừng Quốc khánh 2-9",
+      "link": "https://tuoitre.vn/thanh-ngan-nguyen-van-khoi-hat-mung-quoc-khanh-2-9-100260831142023866.htm",
+      "summary": "Dịp lễ này, Nhà hát Trần Hữu Trang tổ chức các chương trình văn nghệ miễn phí phục vụ khán giả.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T17:28:05.925538+07:00",
+      "fetched": "2026-08-31T17:28:05.925596+07:00"
+    },
+    {
+      "id": "a9c9950286427c4419ea0707bf00470c",
+      "title": "Dashboard 'gói' trọn công tác Đoàn không còn lo ngập văn bản, báo cáo",
+      "link": "https://tuoitre.vn/dashboard-goi-tron-cong-tac-doan-khong-con-lo-ngap-van-ban-bao-cao-100260831110530816.htm",
+      "summary": "Từ một dashboard 'trợ thủ số' đến những công trình xanh, các bạn trẻ TP.HCM có những phần việc thiết thực mừng 81 năm Quốc khánh 2-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T17:28:05.925472+07:00",
+      "fetched": "2026-08-31T17:28:05.925527+07:00"
+    },
+    {
+      "id": "70b8e30870ff1d5912264b93cdf0a3a3",
+      "title": "Nhà tù Hỏa Lò đông kín người tham quan, Bảo tàng Lịch sử quốc gia cơ sở 2 mở xuyên lễ",
+      "link": "https://tuoitre.vn/nha-tu-hoa-lo-dong-kin-nguoi-tham-quan-bao-tang-lich-su-quoc-gia-co-so-2-mo-xuyen-le-100260831143754579.htm",
+      "summary": "Trong ngày thứ ba của kỳ nghỉ lễ 2-9, một số điểm di tích lịch sử và bảo tàng ở Hà Nội đón lượng lớn người dân và du khách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T17:28:05.925405+07:00",
+      "fetched": "2026-08-31T17:28:05.925462+07:00"
+    },
+    {
+      "id": "a5b7650cbf160af17f5a670b86b6c29f",
+      "title": "Sổ đỏ đã chuyển nhượng, vẫn ký hợp đồng bán nền thu hơn trăm tỉ đồng",
+      "link": "https://tuoitre.vn/so-do-da-chuyen-nhuong-van-ky-hop-dong-ban-nen-thu-hon-tram-ti-dong-100260831142646303.htm",
+      "summary": "Công ty Lê Thìn ký hợp đồng bán lô nền khu dân cư và thu hơn 124 tỉ đồng, trong khi sổ đỏ đã chuyển nhượng cho người khác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T17:28:05.925337+07:00",
+      "fetched": "2026-08-31T17:28:05.925395+07:00"
+    },
+    {
+      "id": "d1b5db4fae58e519efbd007ec76d7bf9",
+      "title": "Tai nạn hy hữu: tàu hỏa cổ ở Đà Lạt ủi xe hơi đời mới chết máy ngay giữa đường ray",
+      "link": "https://tuoitre.vn/tai-nan-hy-huu-tau-hoa-co-o-da-lat-ui-xe-hoi-doi-moi-chet-may-ngay-giua-duong-ray-100260831155236354.htm",
+      "summary": "Một vụ tai nạn hy hữu đã xảy ra, một ô tô con băng qua đường ray bị tàu hỏa du lịch cổ tuyến Đà Lạt - Trại Mát tông trúng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T17:28:05.925265+07:00",
+      "fetched": "2026-08-31T17:28:05.925324+07:00"
+    },
+    {
+      "id": "01c951c939ca787133ff2a89bb7b099e",
+      "title": "Vì sao khoai tây chiên 'cuốn' ta hơn đĩa salad lành mạnh",
+      "link": "https://tuoitre.vn/vi-sao-khoai-tay-chien-cuon-ta-hon-dia-salad-lanh-manh-100260827201204731.htm",
+      "summary": "Bạn có bao giờ tự nhủ chỉ ăn vài miếng khoai tây chiên, nhưng rồi chẳng mấy chốc đã ăn hết cả túi, trong khi đó, một bát rau lại khiến bạn nhanh chóng cảm thấy no. Vì sao lại có sự khác biệt này?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T17:28:05.925188+07:00",
+      "fetched": "2026-08-31T17:28:05.925254+07:00"
+    },
+    {
+      "id": "4168c0aaed98f6907e065ed9ab09fc19",
+      "title": "Thanh niên túng tiền đi cắt trộm cả xe sầu riêng ở Đắk Lắk",
+      "link": "https://tuoitre.vn/thanh-nien-tung-tien-di-cat-trom-ca-xe-sau-rieng-o-dak-lak-100260831133457255.htm",
+      "summary": "Sau khi mất việc, một thanh niên từ Hải Phòng vào Đắk Lắk làm thuê đã nảy sinh ý định đi trộm sầu riêng tại những khu vườn vắng người để bán lấy tiền tiêu xài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T17:28:05.925086+07:00",
+      "fetched": "2026-08-31T17:28:05.925175+07:00"
+    },
+    {
+      "id": "efde82531cd8cce7e4e4801f2eec4727",
+      "title": "Tai nạn chết người từ mô tô phân khối lớn: Lời cảnh báo về tốc độ và rủi ro thương vong",
+      "link": "https://tuoitre.vn/tai-nan-chet-nguoi-tu-mo-to-phan-khoi-lon-loi-canh-bao-ve-toc-do-va-rui-ro-thuong-vong-100260831155245956.htm",
+      "summary": "Nhiều vụ tai nạn giao thông nghiêm trọng liên quan đến mô tô phân khối lớn dấy lên hồi chuông cảnh báo về hiểm họa khi phương tiện này chạy với tốc độ cao trên đường dân sinh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T17:28:05.924983+07:00",
+      "fetched": "2026-08-31T17:28:05.925070+07:00"
+    },
+    {
+      "id": "9712261052248e05a3b08f4f51fe18e7",
+      "title": "Chất tạo ngọt trong kẹo cao su và mứt làm tăng nguy cơ đột quỵ và đau tim",
+      "link": "https://tuoitre.vn/chat-tao-ngot-trong-keo-cao-su-va-mut-lam-tang-nguy-co-dot-quy-va-dau-tim-100260831162442127.htm",
+      "summary": "Nghiên cứu quy mô lớn cho thấy người có nồng độ xylitol trong máu cao có nguy cơ gặp các vấn đề tim mạch nghiêm trọng hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T17:28:05.924867+07:00",
+      "fetched": "2026-08-31T17:28:05.924966+07:00"
+    },
+    {
+      "id": "fc2e4b656886f40e075dbd862bd543ec",
+      "title": "Vụ lật xe khách tại Gia Lai: Tuyến đường chưa được phép khai thác",
+      "link": "https://tuoitre.vn/vu-lat-xe-khach-tai-gia-lai-tuyen-duong-chua-duoc-phep-khai-thac-100260831161220705.htm",
+      "summary": "Trong vụ lật xe khách tại Gia Lai, công an xác định tài xế đã lái xe vào đoạn đường chưa được nghiệm thu, bàn giao và đưa vào khai thác, sử dụng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T17:28:05.924725+07:00",
+      "fetched": "2026-08-31T17:28:05.924846+07:00"
+    },
+    {
+      "id": "8128f1cb63b424fffd74257d722dad5d",
+      "title": "Cách điều tiết để máy bay bớt cảnh 'xếp hàng' vòng vòng trên trời dịp 2-9",
+      "link": "https://tuoitre.vn/cach-dieu-tiet-de-may-bay-bot-canh-xep-hang-vong-vong-tren-troi-dip-2-9-100260831160930471.htm",
+      "summary": "Dịp lễ 2-9, sân bay Nội Bài và Tân Sơn Nhất có thể phục vụ 743-800 chuyến bay/ngày. Làm thế nào để hàng trăm máy bay không cùng dồn đến sân bay, phải nối đuôi bay vòng chờ hạ cánh?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T17:28:05.924404+07:00",
+      "fetched": "2026-08-31T17:28:05.924708+07:00"
+    },
+    {
+      "id": "d327a37fcc270f208e33d8c6701c9e3f",
+      "title": "Cận cảnh điện Cần Chánh hồi sinh giữa Tử Cấm thành",
+      "link": "https://tuoitre.vn/can-canh-dien-can-chanh-hoi-sinh-giua-tu-cam-thanh-10026083113284048.htm",
+      "summary": "Từng là nơi vua thiết thường triều và tổ chức các nghi lễ trọng đại ở Huế, điện Cần Chánh đang dần hồi sinh sau gần 80 năm hoang phế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T17:28:05.924326+07:00",
+      "fetched": "2026-08-31T17:28:05.924392+07:00"
+    },
+    {
+      "id": "3cf94b25f8734f4da2502b1651ffb1a2",
+      "title": "Chỉnh sửa gien có thể giúp loại bỏ cholesterol cao trong suốt cuộc đời",
+      "link": "https://tuoitre.vn/chinh-sua-gien-co-the-giup-loai-bo-cholesterol-cao-trong-suot-cuoc-doi-100260831163302747.htm",
+      "summary": "Một lần chỉnh sửa gien bằng công nghệ CRISPR-Cas9 mở ra triển vọng điều trị cholesterol cao chỉ bằng một lần can thiệp thay vì phải dùng thuốc lâu dài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T17:28:05.924175+07:00",
+      "fetched": "2026-08-31T17:28:05.924311+07:00"
+    },
+    {
+      "id": "4f224944e09446514fe57f2d7ae845c1",
+      "title": "Tâm nguyện của 'Đường Tăng' La Gia Anh sau nhiều năm chống chọi bạo bệnh",
+      "link": "https://thanhnien.vn/tam-nguyen-cua-duong-tang-la-gia-anh-sau-nhieu-nam-chong-choi-bao-benh-185260831165013777.htm",
+      "summary": "Sau nhiều năm chống chọi với ung thư, La Gia Anh nhận thức được thời gian của mình không còn nhiều và bình thản trước cái chết. Tuy nhiên, điều khiến nghệ sĩ kỳ cựu trăn trở chính là vợ - nữ diễn viên Uông Minh Thuyên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T10:27:00+07:00",
+      "fetched": "2026-08-31T17:28:04.056020+07:00"
+    },
     {
       "id": "b921f8649a5f8becc5893be6a0854ea0",
       "title": "Bổ sung 'giữ khoảng cách an toàn' vào thi sát hạch lái xe từ 1-3-2027",
@@ -153,6 +313,436 @@ window.newsData_2026_08_31 = {
       "fetched": "2026-08-31T10:26:05.420786+07:00"
     },
     {
+      "id": "d5f66984d4bb1f2a31b2f2f0248f7384",
+      "title": "Xổ số miền Nam ngày 31 tháng 8: Một người trúng cọc vé 1,6 tỉ đài TP.HCM",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-31-thang-8-mot-nguoi-trung-coc-ve-16-ti-dai-tphcm-185260831165957925.htm",
+      "summary": "Sau khi có kết quả xổ số miền Nam ngày 31 tháng 8, một đại lý vé số ở Tây Ninh cho biết đã bán và đang đổi thưởng cho khách có cọc vé trúng đài TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T10:26:00+07:00",
+      "fetched": "2026-08-31T17:28:04.056192+07:00"
+    },
+    {
+      "id": "844a3b786865033e4197488a5acc05bb",
+      "title": "Dùng chiêu kinh doanh nông sản lợi nhuận cao, chiếm đoạt hơn 28 tỉ đồng",
+      "link": "https://thanhnien.vn/dung-chieu-kinh-doanh-nong-san-loi-nhuan-cao-chiem-doat-hon-28-ti-dong-185260831171432359.htm",
+      "summary": "Công an tỉnh Quảng Ngãi vừa bắt tạm giam người phụ nữ đưa ra thông tin gian dối về việc kinh doanh nông sản với lợi nhuận cao để huy động vốn, chiếm đoạt 28 tỉ đồng của nhiều bị hại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T10:23:00+07:00",
+      "fetched": "2026-08-31T17:28:04.056354+07:00"
+    },
+    {
+      "id": "e5b5d279df8808f20fbad45b710e13aa",
+      "title": "Nguyễn Văn Chung nói gì khi bị loại ở 'Anh trai vượt ngàn chông gai'",
+      "link": "https://thanhnien.vn/nguyen-van-chung-noi-gi-khi-bi-loai-o-anh-trai-vuot-ngan-chong-gai-185260831170633112.htm",
+      "summary": "Nói lời chia tay với chương trình 'Anh trai vượt ngàn chông gai', Nguyễn Văn Chung cho biết điều khiến anh hạnh phúc là được kết nối với các đồng nghiệp và trải nghiệm những điều mới mẻ trên sân khấu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T10:19:00+07:00",
+      "fetched": "2026-08-31T17:28:04.056512+07:00"
+    },
+    {
+      "id": "f4f86b2f6c8f420eb324816b7d03fe55",
+      "title": "‘Áo xưa dù nhàu’: Lằn ranh của lòng tử tế",
+      "link": "https://thanhnien.vn/ao-xua-du-nhau-lan-ranh-cua-long-tu-te-185260831163102571.htm",
+      "summary": "Sau thành công của Cánh đồng bất tận, Tiếng chim vườn ngọc, Bút máu… đạo diễn Minh Nguyệt (Sân khấu Trăng) vừa tái ngộ khán giả kịch tại Nhà hát TP.HCM qua vở diễn Áo xưa dù nhàu, được bà cảm tác từ truyện ngắn Sợi tóc của học giả Cao Huy Thuần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T10:12:00+07:00",
+      "fetched": "2026-08-31T17:28:04.056672+07:00"
+    },
+    {
+      "id": "72ca5e04e1e8bd4751b36a46a17d7258",
+      "title": "Người dùng Android sắp có thể khởi động máy tính Windows 11 từ xa",
+      "link": "https://thanhnien.vn/nguoi-dung-android-sap-co-the-khoi-dong-may-tinh-windows-11-tu-xa-185260830231923142.htm",
+      "summary": "Người dùng Windows 11 có thể sớm tắt, khởi động lại hoặc đưa máy tính vào chế độ ngủ trực tiếp bằng điện thoại Android.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T10:12:00+07:00",
+      "fetched": "2026-08-31T17:28:04.056855+07:00"
+    },
+    {
+      "id": "e4524d9bc80ea7485e94c0564533f269",
+      "title": "Thu hồi thông báo tạm hoãn xuất cảnh một doanh nhân nước ngoài",
+      "link": "https://thanhnien.vn/thu-hoi-thong-bao-tam-hoan-xuat-canh-mot-doanh-nhan-nuoc-ngoai-185260831145300902.htm",
+      "summary": "Hải quan Khu công nghệ cao (Chi cục Hải quan Khu vực II) vừa có thông báo đề nghị Cục Quản lý xuất nhập cảnh (Bộ Công an) thu hồi/chấm dứt thực hiện Thông báo tạm hoãn xuất cảnh do xác định không đúng đối tượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T10:04:00+07:00",
+      "fetched": "2026-08-31T17:28:04.057015+07:00"
+    },
+    {
+      "id": "1cc682900a5e12cc7e4a81254ea169ff",
+      "title": "Cô giáo kể khoảnh khắc đấm cá mập để thoát thân",
+      "link": "https://vnexpress.net/co-giao-ke-khoanh-khac-dam-ca-map-de-thoat-than-5115415.html",
+      "summary": "Leah Stewart đang bơi trên vùng biển ở Sydney thì phát hiện một chiếc vây khổng lồ nhô lên trên mặt nước.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-31T10:01:56+07:00",
+      "fetched": "2026-08-31T17:28:08.114161+07:00"
+    },
+    {
+      "id": "1876807d3ec1e86590810caaea440298",
+      "title": "Penthouse tại Nam trung tâm Đà Nẵng bắt gu sống của giới thượng lưu",
+      "link": "https://vnexpress.net/penthouse-tai-nam-trung-tam-da-nang-bat-gu-song-cua-gioi-thuong-luu-5115412.html",
+      "summary": "132 căn penthouse thuộc ba tổ hợp Cora Tower, Spana Tower và S-Light Tower theo đuổi phong cách Quiet Luxury (sang trọng trong thầm lặng) gu sống của cộng đồng tinh hoa ngày nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T10:00:00+07:00",
+      "fetched": "2026-08-31T17:28:00.730185+07:00"
+    },
+    {
+      "id": "6c1cf67e778b380e1779ca6487b3d25f",
+      "title": "Toàn cảnh 17h: Lời kể vụ lật xe khách ở Gia Lai | Ai cần cập nhật khi chuyển đổi mã số BHXH?",
+      "link": "https://thanhnien.vn/toan-canh-17h-loi-ke-vu-lat-xe-khach-o-gia-lai-ai-can-cap-nhat-khi-chuyen-doi-ma-so-bhxh-18526083115054198.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T10:00:00+07:00",
+      "fetched": "2026-08-31T17:28:04.057182+07:00"
+    },
+    {
+      "id": "8c07f835cccfcf379c40710ba819adbf",
+      "title": "Năm học 2026-2027: Sinh viên vay vốn học tập ở đâu?",
+      "link": "https://thanhnien.vn/nam-hoc-2026-2027-sinh-vien-vay-von-hoc-tap-o-dau-18526083116291232.htm",
+      "summary": "Năm học 2026-2027 đang đến gần, sinh viên có thể tìm chính sách tín dụng, vay vốn học tập từ nhiều chương trình khác nhau của Chính phủ và các trường ĐH.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T09:57:00+07:00",
+      "fetched": "2026-08-31T17:28:04.057332+07:00"
+    },
+    {
+      "id": "2f830c6a72ea468d6a0fc8f2ee8102ab",
+      "title": "Hollywood tiễn biệt Dolly Parton",
+      "link": "https://vnexpress.net/hollywood-tien-biet-dolly-parton-5115326.html",
+      "summary": "Để tưởng nhớ Dolly Parton, tất cả đài truyền hình tại Mỹ phát sóng chương trình tri ân bà, nhiều sao Hollywood và chính trị gia chia buồn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T09:50:31+07:00",
+      "fetched": "2026-08-31T17:28:00.730373+07:00"
+    },
+    {
+      "id": "9a7b985c69466a1b71f93bf158306b72",
+      "title": "Có hay không việc VFF đặt giới hạn ngoại binh nhập tịch cho đội tuyển Việt Nam?",
+      "link": "https://thanhnien.vn/co-hay-khong-viec-vff-dat-gioi-han-ngoai-binh-nhap-tich-cho-doi-tuyen-viet-nam-18526083116400523.htm",
+      "summary": "Bóng đá Việt Nam đang chứng kiến làn sóng cầu thủ ngoại 100% nhập tịch tràn ngập ở các CLB, kéo theo sự bùng nổ đầu vào cho đội tuyển Việt Nam với tất cả lợi ích và rủi ro.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T09:48:00+07:00",
+      "fetched": "2026-08-31T17:28:04.057488+07:00"
+    },
+    {
+      "id": "72f7c66562b9d160f342c25548af96dd",
+      "title": "Nghịch lý khí hậu từ lũ quét Nepal - nơi thải chưa đến 0,1% khí nhà kính toàn cầu",
+      "link": "https://vnexpress.net/nghich-ly-khi-hau-tu-lu-quet-nepal-noi-thai-chua-den-0-1-khi-nha-kinh-toan-cau-5115354.html",
+      "summary": "Dù phát thải thấp, Nepal nằm giữa hai quốc gia thải khí nhà kính lớn bậc nhất, sự nóng lên toàn cầu cùng ô nhiễm cục bộ khiến các dãy núi băng tan chảy nhanh chóng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T09:44:25+07:00",
+      "fetched": "2026-08-31T17:28:00.730542+07:00"
+    },
+    {
+      "id": "72f7c66562b9d160f342c25548af96dd",
+      "title": "Nghịch lý khí hậu từ lũ quét Nepal - nơi thải chưa đến 0,1% khí nhà kính toàn cầu",
+      "link": "https://vnexpress.net/nghich-ly-khi-hau-tu-lu-quet-nepal-noi-thai-chua-den-0-1-khi-nha-kinh-toan-cau-5115354.html",
+      "summary": "Dù phát thải thấp, Nepal nằm giữa hai quốc gia thải khí nhà kính lớn bậc nhất, sự nóng lên toàn cầu cùng ô nhiễm cục bộ khiến các dãy núi băng tan chảy nhanh chóng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-31T09:44:25+07:00",
+      "fetched": "2026-08-31T17:28:09.995148+07:00"
+    },
+    {
+      "id": "39c3f4a9cc06931df45b1d40b9b3cd88",
+      "title": "Đầu tư vào vàng hay gửi tiết kiệm?",
+      "link": "https://thanhnien.vn/dau-tu-vao-vang-hay-gui-tiet-kiem-185260831162057682.htm",
+      "summary": "Đó là băn khoăn của nhiều người khi giá vàng hiện nay đang thấp hơn so với cuối tháng 1 hơn 40 triệu đồng/lượng và lãi suất tiết kiệm hiện đang ở mức cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T09:39:00+07:00",
+      "fetched": "2026-08-31T17:28:04.057638+07:00"
+    },
+    {
+      "id": "d680701a1ea70f3924ba9eeebb9a864c",
+      "title": "Giờ nghỉ trưa cứu học sinh trong trận lũ kinh hoàng ở Nepal",
+      "link": "https://thanhnien.vn/gio-nghi-trua-cuu-hoc-sinh-trong-tran-lu-kinh-hoang-o-nepal-185260831160731478.htm",
+      "summary": "Trận lũ quét kinh hoàng tại Nepal phá hủy nhiều trường học, nhưng các học sinh tại một ngôi trường đã may mắn sống sót nhờ rời khỏi lớp đúng vào giờ nghỉ trưa, theo AP.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T09:39:00+07:00",
+      "fetched": "2026-08-31T17:28:04.057787+07:00"
+    },
+    {
+      "id": "13e6d5a09a06df6d1816d7f2d05c743c",
+      "title": "Điểm tin 17h: Xử phạt xe vi phạm khoảng cách sau 5 ngày áp dụng | Giá vàng đầu tuần lao dốc",
+      "link": "https://vnexpress.net/diem-tin-17h-xu-phat-xe-vi-pham-khoang-cach-sau-5-ngay-ap-dung-gia-vang-dau-tuan-lao-doc-5115414.html",
+      "summary": "Ôtô giường nằm chở 33 khách bị lật; Gọi điện quảng cáo sai giờ có thể bị phạt 100 triệu đồng...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T09:38:37+07:00",
+      "fetched": "2026-08-31T17:28:00.730706+07:00"
+    },
+    {
+      "id": "7f7e2ac757933be8d55c5fc2bb73f87a",
+      "title": "6 trận động đất liên tiếp xảy ra ở Măng Bút",
+      "link": "https://thanhnien.vn/6-tran-dong-dat-lien-tiep-xay-ra-o-mang-but-185260831161610389.htm",
+      "summary": "Từ 0 giờ 41 đến 3 giờ 28 ngày 31.8, liên tiếp xảy ra 6 trận động đất trên địa bàn xã Măng Bút (Quảng Ngãi) với cường độ lớn nhất là 4,0 độ Richter chấn tiêu khoảng 8,1 km.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T09:33:00+07:00",
+      "fetched": "2026-08-31T17:28:04.057974+07:00"
+    },
+    {
+      "id": "659024abec805416a01770c060adf678",
+      "title": "Quả khinh khí cầu du lịch lớn nhất Việt Nam có kích thước bao nhiêu?",
+      "link": "https://thanhnien.vn/qua-khinh-khi-cau-du-lich-lon-nhat-viet-nam-co-kich-thuoc-bao-nhieu-185260831144647212.htm",
+      "summary": "Nằm trong chuỗi sự kiện kỷ niệm 81 năm Cách mạng Tháng Tám thành công và Quốc khánh 2.9, tỉnh Cà Mau vừa ra mắt quả khinh khí cầu du lịch lớn nhất Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T09:30:00+07:00",
+      "fetched": "2026-08-31T17:28:04.058123+07:00"
+    },
+    {
+      "id": "2254a1e63c83228a2b4aa680e13b515c",
+      "title": "Lật xe khách 1 người tử vong ở Gia Lai: Xe đi vào đường chưa khai thác",
+      "link": "https://thanhnien.vn/lat-xe-khach-1-nguoi-tu-vong-o-gia-lai-xe-di-vao-duong-chua-khai-thac-185260831155658072.htm",
+      "summary": "Các cơ quan chức năng tỉnh Gia Lai xác định vụ lật xe khách khiến 1 người tử vong vào rạng sáng 31.8 xảy ra trên tuyến tránh chưa được bàn giao để đưa vào khai thác chính thức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T09:26:00+07:00",
+      "fetched": "2026-08-31T17:28:04.058276+07:00"
+    },
+    {
+      "id": "c47bd19b3a38b8ee515074c3075b9821",
+      "title": "Công an phát hiện flycam bay cao, cách sân bay Nội Bài 4,5 km",
+      "link": "https://vnexpress.net/cong-an-phat-hien-flycam-bay-cao-cach-san-bay-noi-bai-4-5-km-5115404.html",
+      "summary": "Công an phát hiện flycam bay ở độ cao 92 m tại khu công nghiệp Quang Minh, cách Cảng hàng không quốc tế Nội Bài khoảng 4,5 km.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T09:04:32+07:00",
+      "fetched": "2026-08-31T17:28:00.730904+07:00"
+    },
+    {
+      "id": "7811b17ae215ac1d8944290955eb2100",
+      "title": "5 thực phẩm tốt cho đường ruột nên dùng thường xuyên",
+      "link": "https://vnexpress.net/5-thuc-pham-tot-cho-duong-ruot-nen-dung-thuong-xuyen-5115010.html",
+      "summary": "Chuối, măng tây, quả mọng giàu và bơ giàu chất xơ, tinh bột kháng, có thể giúp nuôi dưỡng vi khuẩn có lợi, hỗ trợ đường ruột khỏe mạnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T09:00:00+07:00",
+      "fetched": "2026-08-31T17:28:00.731076+07:00"
+    },
+    {
+      "id": "436f7779405cd64b6033137161e877fa",
+      "title": "Herbalife tổ chức hoạt động 'tiếp lửa bóng đá'",
+      "link": "https://vnexpress.net/herbalife-to-chuc-hoat-dong-tiep-lua-bong-da-5115405.html",
+      "summary": "Herbalife Việt Nam tổ chức sự kiện \"Tiếp lửa bóng đá Việt Nam\", cổ vũ hai đội tuyển bóng đá quốc gia trước khi lên đường tham dự ASIAD, ngày 27/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T09:00:00+07:00",
+      "fetched": "2026-08-31T17:28:00.731239+07:00"
+    },
+    {
+      "id": "76b6bf5351fc06020f7bfbd2ad7992a6",
+      "title": "Runner khoe huy chương, áo hoàn thành 21km tại VnExpress Marathon Vũng Tàu",
+      "link": "https://vnexpress.net/runner-khoe-huy-chuong-ao-hoan-thanh-21km-tai-vnexpress-marathon-vung-tau-5115124.html",
+      "summary": "Sau khi vượt gió mạnh giật đến cấp 6 và những đoạn dốc ven biển sáng 30/8, các runner hào hứng tạo dáng cùng huy chương, lưu lại dấu ấn lần đầu VnExpress Marathon tổ chức tại Vũng Tàu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T09:00:00+07:00",
+      "fetched": "2026-08-31T17:28:00.731398+07:00"
+    },
+    {
+      "id": "be1658f9b47013dc112b63089379edd9",
+      "title": "7 thực phẩm hỗ trợ giảm đau cổ vai gáy",
+      "link": "https://vnexpress.net/7-thuc-pham-ho-tro-giam-dau-co-vai-gay-5114833.html",
+      "summary": "Bông cải xanh, hạt óc chó, trứng chứa nhiều vitamin D, magie, chất chống viêm có thể giúp giảm đau cổ vai gáy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T09:00:00+07:00",
+      "fetched": "2026-08-31T17:28:00.731553+07:00"
+    },
+    {
+      "id": "4a04a8a811324993b5d42cc7c6701303",
+      "title": "Du khách đổ đến Quảng trường Ba Đình chụp ảnh với áo dài",
+      "link": "https://vnexpress.net/du-khach-do-den-quang-truong-ba-dinh-chup-anh-voi-ao-dai-5115321.html",
+      "summary": "Từ đầu kỳ nghỉ 2/9, Quảng trường Ba Đình hầu như nhộn nhịp cả sáng lẫn chiều khi người dân, du khách đổ đến chụp ảnh với áo dài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T08:54:39+07:00",
+      "fetched": "2026-08-31T17:28:00.731717+07:00"
+    },
+    {
+      "id": "c5eaed5b47b91d785df4b64bb3403ddd",
+      "title": "Chuyến về quê nghỉ lễ dở dang sau cú lật xe khách",
+      "link": "https://vnexpress.net/chuyen-ve-que-nghi-le-do-dang-sau-cu-lat-xe-khach-5115378.html",
+      "summary": "Rời TP HCM để về quê nghỉ lễ, hàng chục hành khách trên xe giường nằm đang ngủ thì ôtô chao đảo giữa mưa lớn, lao khỏi đường và lật nghiêng khiến một người tử vong, 20 người bị thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T08:52:42+07:00",
+      "fetched": "2026-08-31T17:28:00.731915+07:00"
+    },
+    {
+      "id": "63b31d228568cc000276889e89236ab2",
+      "title": "Tác giả lời bài hát 'Trái Đất này là của chúng mình' qua đời",
+      "link": "https://vnexpress.net/tac-gia-loi-bai-hat-trai-dat-nay-la-cua-chung-minh-qua-doi-5115399.html",
+      "summary": "Nhà thơ Định Hải - tác giả \"Bài ca trái đất\", do nhạc sĩ Trương Quang Lục phổ thành ca khúc \"Trái đất này là của chúng mình\" - qua đời ở tuổi 89.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T08:48:35+07:00",
+      "fetched": "2026-08-31T17:28:00.732086+07:00"
+    },
+    {
+      "id": "dec5a67d1a9a7870da85e556593c0fef",
+      "title": "Hành khách trên xe gặp nạn: 'Xe rung khoảng 2 giây rồi lật'",
+      "link": "https://vnexpress.net/hanh-khach-tren-xe-gap-nan-xe-rung-khoang-2-giay-roi-lat-5115391.html",
+      "summary": "Anh Quốc Lên kể xe bất ngờ rung lắc mạnh, chỉ kịp bám vào lan can giường phía trên trước khi ôtô lật, nhiều người đang ngủ bị hất xuống sàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T08:45:37+07:00",
+      "fetched": "2026-08-31T17:28:00.732241+07:00"
+    },
+    {
+      "id": "5075ad12c50e7eceb1f238b04bc76797",
+      "title": "Robot hình người lộ nhiều điểm yếu tại Thế vận hội",
+      "link": "https://vnexpress.net/robot-hinh-nguoi-lo-nhieu-diem-yeu-tai-the-van-hoi-5115400.html",
+      "summary": "Robot phá kỷ lục của con người ở một số môn thể thao, nhưng lại gặp khó với những tác vụ đòi hỏi độ chính xác cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T08:39:55+07:00",
+      "fetched": "2026-08-31T17:28:00.732401+07:00"
+    },
+    {
+      "id": "5075ad12c50e7eceb1f238b04bc76797",
+      "title": "Robot hình người lộ nhiều điểm yếu tại Thế vận hội",
+      "link": "https://vnexpress.net/robot-hinh-nguoi-lo-nhieu-diem-yeu-tai-the-van-hoi-5115400.html",
+      "summary": "Robot phá kỷ lục của con người ở một số môn thể thao, nhưng lại gặp khó với những tác vụ đòi hỏi độ chính xác cao.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-31T08:39:55+07:00",
+      "fetched": "2026-08-31T17:28:13.076457+07:00"
+    },
+    {
+      "id": "2a0a9a4ae1d96c6b9c2535cdca5c38d0",
+      "title": "Ông Trump đăng video AI đảo Kharg của Iran 'nổ tung'",
+      "link": "https://vnexpress.net/ong-trump-dang-video-ai-dao-kharg-cua-iran-no-tung-5115392.html",
+      "summary": "Tổng thống Trump đăng video dựng bằng AI về loạt vụ nổ lớn tại đảo Kharg của Tehran và bị lãnh đạo công ty dầu mỏ ở Iran chế giễu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-08-31T08:33:14+07:00",
+      "fetched": "2026-08-31T17:28:00.732566+07:00"
+    },
+    {
+      "id": "2a0a9a4ae1d96c6b9c2535cdca5c38d0",
+      "title": "Ông Trump đăng video AI đảo Kharg của Iran 'nổ tung'",
+      "link": "https://vnexpress.net/ong-trump-dang-video-ai-dao-kharg-cua-iran-no-tung-5115392.html",
+      "summary": "Tổng thống Trump đăng video dựng bằng AI về loạt vụ nổ lớn tại đảo Kharg của Tehran và bị lãnh đạo công ty dầu mỏ ở Iran chế giễu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-31T08:33:14+07:00",
+      "fetched": "2026-08-31T17:28:08.114341+07:00"
+    },
+    {
+      "id": "6645813fbed5268fdb31a1bcb1887fff",
+      "title": "Giá vàng đầu tuần lao dốc",
+      "link": "https://vnexpress.net/gia-vang-dau-tuan-lao-doc-5115393.html",
+      "summary": "Giá vàng thế giới có lúc giảm hơn 40 USD, xuống sát 4.400 USD một ounce, còn trong nước không biến động nhiều ở phiên đầu tuần.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-31T08:06:40+07:00",
+      "fetched": "2026-08-31T17:28:09.995338+07:00"
+    },
+    {
+      "id": "d6cf159d8c713c5da3022a523154a08c",
+      "title": "Mourinho đạt khởi đầu tốt nhất ở Real Madrid",
+      "link": "https://vnexpress.net/mourinho-dat-khoi-dau-tot-nhat-o-real-madrid-5115330.html",
+      "summary": "HLV Jose Mourinho giúp Real Madrid toàn thắng ba vòng đầu La Liga 2026-2027, khởi đầu tốt nhất trong bốn mùa giải ông dẫn dắt đội bóng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-31T08:00:16+07:00",
+      "fetched": "2026-08-31T17:28:15.096074+07:00"
+    },
+    {
+      "id": "9741f836a72653a4b0bbb4b26c327253",
+      "title": "Iran nói tàu dầu trúng thủy lôi, bốc cháy ở Hormuz",
+      "link": "https://vnexpress.net/iran-noi-tau-dau-trung-thuy-loi-boc-chay-o-hormuz-5115382.html",
+      "summary": "Iran thông báo một siêu tàu chở dầu đã bốc cháy do trúng thủy lôi khi di chuyển qua eo biển Hormuz mà không theo hành lang do nước này vạch ra.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-31T07:34:25+07:00",
+      "fetched": "2026-08-31T17:28:08.114507+07:00"
+    },
+    {
+      "id": "dcb17504f76f368cd78d96528a83bd11",
+      "title": "Hộ kinh doanh thu đến 10 tỷ đồng tạm nộp thuế ra sao?",
+      "link": "https://vnexpress.net/ho-kinh-doanh-thu-den-10-ty-dong-tam-nop-thue-ra-sao-5115342.html",
+      "summary": "Trong thời gian chờ nâng ngưỡng doanh thu được áp cách tính thuế đơn giản từ 3 lên 10 tỷ đồng, hộ kinh doanh được hướng dẫn tạm nộp thuế thu nhập cá nhân theo doanh thu và thuế suất.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-31T07:16:40+07:00",
+      "fetched": "2026-08-31T17:28:09.995502+07:00"
+    },
+    {
+      "id": "f73b1fc1dd635296ea23c5c59d68b9ca",
+      "title": "Tử khí tại những ngôi làng Nepal gần như bị lũ quét xóa sổ",
+      "link": "https://vnexpress.net/tu-khi-tai-nhung-ngoi-lang-nepal-gan-nhu-bi-lu-quet-xoa-so-5115360.html",
+      "summary": "Nhiều ngôi làng Nepal bị phá hủy hoàn toàn vì lũ quét, mùi tử khí xuất hiện khắp nơi, khi nhiều nạn nhân vẫn bị chôn vùi dưới lớp bùn dày.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-08-31T06:57:28+07:00",
+      "fetched": "2026-08-31T17:28:08.114669+07:00"
+    },
+    {
+      "id": "e5dcf9b8a066d739e5a52f557684c0c0",
+      "title": "Cầu thủ gãy chân sau va chạm với đồng đội ở giải Iraq",
+      "link": "https://vnexpress.net/cau-thu-gay-chan-sau-va-cham-voi-dong-doi-o-giai-iraq-5115376.html",
+      "summary": "Simon Amin của Al Mosul chấn thương nặng sau pha va chạm mạnh với đồng đội, trong trận thua Al Shorta 0-2 ở vòng 4 giải vô địch quốc gia Iraq 2026-2027, tối qua.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-31T06:22:14+07:00",
+      "fetched": "2026-08-31T17:28:15.096257+07:00"
+    },
+    {
+      "id": "5925b739c5c640c86859d00b23382b8d",
+      "title": "Nhịp cầu vòm bê tông dài nhất thế giới",
+      "link": "https://vnexpress.net/nhip-cau-vom-be-tong-dai-nhat-the-gioi-5115087.html",
+      "summary": "Cầu Tian’e Longtan bắc qua sông Hồng Thủy có nhịp chính dài 600 m, vượt kỷ lục thế giới trước đó là 445 m, trong khi giảm 22% lượng bê tông sử dụng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-08-31T06:00:00+07:00",
+      "fetched": "2026-08-31T17:28:13.076635+07:00"
+    },
+    {
+      "id": "361d8c3c86a8336b2627f8f379adedcf",
+      "title": "Bellingham thích thú với vai trò mới dưới thời Mourinho",
+      "link": "https://vnexpress.net/bellingham-thich-thu-voi-vai-tro-moi-duoi-thoi-mourinho-5115288.html",
+      "summary": "Tiền vệ Jude Bellingham tận hưởng sự tự do trong vai trò mới dưới thời HLV Jose Mourinho, sau khi ghi bàn giúp Real Madrid thắng Malaga 4-0 ở vòng hai La Liga.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-31T05:00:00+07:00",
+      "fetched": "2026-08-31T17:28:15.096422+07:00"
+    },
+    {
+      "id": "7dd0916f7fa006ed54f521a163b1b62a",
+      "title": "Djokovic bật khóc khi thua sốc ở vòng một Mỹ Mở rộng 2026",
+      "link": "https://vnexpress.net/djokovic-bat-khoc-khi-thua-soc-o-vong-mot-my-mo-rong-2026-5115361.html",
+      "summary": "Novak Djokovic nhiều lần nôn trên sân rồi bật khóc trong set quyết định, trước khi thua Mariano Navone 6-7(5), 7-5, 6-4, 2-6, 1-6 ở vòng một Mỹ Mở rộng 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-31T04:37:08+07:00",
+      "fetched": "2026-08-31T17:28:15.096583+07:00"
+    },
+    {
+      "id": "32d9e4f2a3edaa0cb35d28eaa35a4b7b",
+      "title": "Giá dầu tăng vọt khi Mỹ tập kích Iran",
+      "link": "https://vnexpress.net/gia-dau-tang-vot-khi-my-tap-kich-iran-5115337.html",
+      "summary": "Việc Mỹ tập kích hai bệ phóng rocket của Iran nằm gần eo biển Hormuz đẩy giá dầu Brent lên trên 90 USD một thùng, cao nhất một tuần qua.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-08-31T03:40:45+07:00",
+      "fetched": "2026-08-31T17:28:09.995661+07:00"
+    },
+    {
       "id": "f054c4f274fff4865ecc10a0504cd75c",
       "title": "Ông Putin và ông Tập dự hội nghị Tổ chức Hợp tác Thượng Hải ở Kyrgyzstan",
       "link": "https://thanhnien.vn/ong-putin-va-ong-tap-du-hoi-nghi-to-chuc-hop-tac-thuong-hai-o-kyrgyzstan-185260831093150114.htm",
@@ -191,6 +781,16 @@ window.newsData_2026_08_31 = {
       "category": "Tổng hợp",
       "published": "2026-08-31T03:13:00+07:00",
       "fetched": "2026-08-31T10:26:04.077233+07:00"
+    },
+    {
+      "id": "4a2423f34eb3b27863c4228e8d625c7b",
+      "title": "Việt Nam tranh tài ở vòng loại U20 châu Á 2027 hôm nay",
+      "link": "https://vnexpress.net/viet-nam-tranh-tai-o-vong-loai-u20-chau-a-2027-hom-nay-5115340.html",
+      "summary": "Vòng loại U20 châu Á 2027 lần đầu áp dụng thể thức mới khiến cuộc đua giành vé dự vòng chung kết trở nên khốc liệt hơn với Việt Nam.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-08-31T03:09:34+07:00",
+      "fetched": "2026-08-31T17:28:15.096750+07:00"
     },
     {
       "id": "43ce22615e30327f38a2f78515528a8c",
