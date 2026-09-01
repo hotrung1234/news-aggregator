@@ -1,6 +1,6 @@
 window.newsData_2026_09_02 = {
   "date": "2026-09-02",
-  "lastUpdated": "2026-09-02T02:10:55.974393+07:00",
+  "lastUpdated": "2026-09-02T05:21:28.192162+07:00",
   "articles": [
     {
       "id": "b3a14e6e171423ac414e0b66ff16a887",
@@ -151,6 +151,226 @@ window.newsData_2026_09_02 = {
       "category": "Tổng hợp",
       "published": "2026-09-02T02:10:49.714006+07:00",
       "fetched": "2026-09-02T02:10:49.714174+07:00"
+    },
+    {
+      "id": "a8b441cd8161c8c9a517269051ac125d",
+      "title": "Tử vi ngày 2 tháng 9: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-2-thang-9-con-giap-nao-may-man-hom-nay-185260901224046259.htm",
+      "summary": "Tử vi ngày 2 tháng 9 mang đến những gợi ý tham khảo cho 12 con giáp. Sau những ngày nghỉ, thứ đáng mang về đôi khi không phải món quà hay thật nhiều ảnh đẹp, mà là một kỷ niệm vui, một cuộc trò chuyện đáng nhớ hoặc chút năng lượng đã được nạp lại. Tử vi hôm nay gợi ý tận hưởng trọn vẹn ngày lễ Quốc ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-01T22:15:00+07:00",
+      "fetched": "2026-09-02T05:21:16.266673+07:00"
+    },
+    {
+      "id": "f4850218b128e9328be3a7e4c409f5e7",
+      "title": "Nửa thế kỷ đợi cha và ngọn lửa hy vọng từ Chiến dịch 500 ngày đêm",
+      "link": "https://thanhnien.vn/nua-the-ky-doi-cha-va-ngon-lua-hy-vong-tu-chien-dich-500-ngay-dem-185260901210501758.htm",
+      "summary": "Hơn nửa thế kỷ, ký ức về cha là liệt sĩ của những người con chỉ là lời kể. Nay, 'Chiến dịch 500 ngày đêm' tại công viên Lê Thị Riêng đang thắp sáng hy vọng đoàn tụ. Xuyên suốt kỳ nghỉ lễ, lực lượng quy tập vẫn bám trụ hiện trường để sớm đưa các anh về quê hương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-01T22:15:00+07:00",
+      "fetched": "2026-09-02T05:21:16.266821+07:00"
+    },
+    {
+      "id": "4c7572174d070792f3d5d35921d3ad63",
+      "title": "Độc lập - Tết tự hào của người Việt",
+      "link": "https://thanhnien.vn/doc-lap-tet-tu-hao-cua-nguoi-viet-185260825185549598.htm",
+      "summary": "Có một ngày trong năm, mỗi người Việt Nam, dù ở bất cứ đâu, đều dễ dàng nhận ra mình đang cùng chung một niềm tự hào.Đó là ngày Quốc khánh 2.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-01T22:15:00+07:00",
+      "fetched": "2026-09-02T05:21:16.266953+07:00"
+    },
+    {
+      "id": "42adff54d7918454030d4c40d3bd3dca",
+      "title": "Ăn Tết Độc lập 2.9",
+      "link": "https://thanhnien.vn/an-tet-doc-lap-29-185260825171756412.htm",
+      "summary": "Nói đến ăn Tết Độc lập 2.9, tôi lại nhớ đến cách ăn Tết Độc lập của đồng bào Mông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-01T22:14:00+07:00",
+      "fetched": "2026-09-02T05:21:16.267082+07:00"
+    },
+    {
+      "id": "341e8433fa7e1ac73e7719bd4a05e28e",
+      "title": "Nước Việt Nam hiện đại khai sinh từ cuộc cách mạng",
+      "link": "https://thanhnien.vn/nuoc-viet-nam-hien-dai-khai-sinh-tu-cuoc-cach-mang-185260825213546061.htm",
+      "summary": "Ở thủ đô London của Anh, trước những tòa nhà từng có dấu ấn của các danh nhân thường gắn một tấm biển kim loại tráng men màu xanh chữ trắng để lưu danh. Tại tòa nhà hiện nay mang tên New Zealand House, có tấm biển lưu danh với dòng chữ 'Ho Chi Minh, 1890 - 1969, Founder of Modern Vietnam' (Hồ Chí Mi...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-01T22:10:00+07:00",
+      "fetched": "2026-09-02T05:21:16.267213+07:00"
+    },
+    {
+      "id": "1052857a09b67df6d3a790492872b9c0",
+      "title": "Việt Nam trong cuộc vươn mình",
+      "link": "https://thanhnien.vn/viet-nam-trong-cuoc-vuon-minh-185260825164958925.htm",
+      "summary": "Nhân dịp 81 năm Quốc khánh Việt Nam (2.9.1945 - 2.9.2026), các nhà ngoại giao, lãnh đạo doanh nghiệp nước ngoài, chuyên gia quốc tế đã chia sẻ với Thanh Niên về góc nhìn đối với sự phát triển cũng như vị thế của Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-01T22:06:00+07:00",
+      "fetched": "2026-09-02T05:21:16.267338+07:00"
+    },
+    {
+      "id": "55960640b14fc60cc72becd2846c9727",
+      "title": "Tết Độc Lập trên bốn bề Tổ quốc",
+      "link": "https://thanhnien.vn/tet-doc-lap-tren-bon-be-to-quoc-185260828151834164.htm",
+      "summary": "Xã Lũng Cú, tỉnh Tuyên Quang là cực Bắc của VN. Tại đây có cột cờ Quốc gia Lũng Cú nằm trên đỉnh núi cao khoảng 1.470 m so với mực nước biển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-01T22:02:00+07:00",
+      "fetched": "2026-09-02T05:21:17.455334+07:00"
+    },
+    {
+      "id": "c2f9ccc16da6d64c09932fe3d1dd2ada",
+      "title": "Lý do Nepal chật vật cứu nạn nhân kẹt trong hầm thủy điện",
+      "link": "https://vnexpress.net/ly-do-nepal-chat-vat-cuu-nan-nhan-ket-trong-ham-thuy-dien-5115659.html",
+      "summary": "Lũ quét phá hủy đường sá, vùi lấp cửa hầm và cuốn bùn đất vào sâu dưới lòng đất, cản trở nỗ lực tiếp cận hàng trăm công nhân mất tích tại Nepal.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-01T22:00:00+07:00",
+      "fetched": "2026-09-02T05:21:13.110189+07:00"
+    },
+    {
+      "id": "0609331d679a6c4dec103cedece353d2",
+      "title": "Vì sao sau 35 tuổi ăn ít vẫn béo bụng?",
+      "link": "https://vnexpress.net/vi-sao-sau-35-tuoi-an-it-van-beo-bung-5115582.html",
+      "summary": "Sau tuổi 35, nhiều người dễ tăng mỡ bụng dù ăn uống không thay đổi, do cơ thể mất cơ, chuyển hóa chậm hơn và có nhiều thay đổi về nội tiết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-01T22:00:00+07:00",
+      "fetched": "2026-09-02T05:21:13.110354+07:00"
+    },
+    {
+      "id": "357aceca702c211c8fe99338e345fba1",
+      "title": "Ký ức tuổi thơ trong 'Em mơ gặp Bác Hồ'",
+      "link": "https://vnexpress.net/ky-uc-tuoi-tho-trong-em-mo-gap-bac-ho-5114467.html",
+      "summary": "Nhạc phẩm ''Em mơ gặp Bác Hồ'', ''Cùng nhau ta đi lên'' gắn liền tuổi thơ nhiều thế hệ, gửi gắm ý thức học tập, trách nhiệm lao động của người trẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-01T22:00:00+07:00",
+      "fetched": "2026-09-02T05:21:13.110549+07:00"
+    },
+    {
+      "id": "8cd622b92a12d0797a7aac4f1e470ece",
+      "title": "Cơn sốt học bán dẫn để vào Samsung, SK Hynix",
+      "link": "https://vnexpress.net/con-sot-hoc-ban-dan-de-vao-samsung-sk-hynix-5112824.html",
+      "summary": "Lĩnh vực chip nhớ bùng nổ khiến nhiều học sinh, sinh viên tại Hàn Quốc chuyển hướng học nghề với mục tiêu làm việc tại Samsung, SK Hynix.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-01T22:00:00+07:00",
+      "fetched": "2026-09-02T05:21:13.110692+07:00"
+    },
+    {
+      "id": "cdcb5d633a064055af1c8ab8528c7ba5",
+      "title": "Lexus NX 2027 nâng cấp toàn diện, giá từ 46.600 USD",
+      "link": "https://vnexpress.net/lexus-nx-2027-nang-cap-toan-dien-gia-tu-46-600-usd-5115674.html",
+      "summary": "Mẫu crossover hạng sang nâng cấp diện mạo, nội thất thiết kế lại, hệ truyền động hybrid mới, giá cao nhất gần 60.000 USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-01T22:00:00+07:00",
+      "fetched": "2026-09-02T05:21:13.110828+07:00"
+    },
+    {
+      "id": "b759ebd938384f09134a3185b24fd351",
+      "title": "Bác sĩ hướng dẫn cách vận động sau mổ tim",
+      "link": "https://vnexpress.net/bac-si-huong-dan-cach-van-dong-sau-mo-tim-5114951.html",
+      "summary": "Người bệnh nên tập gập cổ chân trong những ngày đầu sau mổ, sau đó đi bộ vài phút và tăng dần thời gian lên 20-40 phút mỗi buổi khi vết mổ và xương ức đã lành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-01T22:00:00+07:00",
+      "fetched": "2026-09-02T05:21:13.110959+07:00"
+    },
+    {
+      "id": "eb77e90e3f9e89c64c937e6d1a92e962",
+      "title": "Mắc gout nên ăn uống thế nào khi du lịch biển?",
+      "link": "https://vnexpress.net/mac-gout-nen-an-uong-the-nao-khi-du-lich-bien-5114947.html",
+      "summary": "Tôi mắc bệnh gout và sắp đi du lịch biển dài ngày, cần chuẩn bị những gì để không bùng phát cơn đau khớp cấp mà vẫn có thể ăn uống thoải mái? (Anh Tuấn, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-01T22:00:00+07:00",
+      "fetched": "2026-09-02T05:21:13.111083+07:00"
+    },
+    {
+      "id": "2d6bcecbc045b0ac550e311163f4fa62",
+      "title": "5 phương pháp điều trị ung thư buồng trứng",
+      "link": "https://vnexpress.net/5-phuong-phap-dieu-tri-ung-thu-buong-trung-5114878.html",
+      "summary": "Ung thư buồng trứng có thể được phẫu thuật, hóa trị, xạ trị, thuốc trúng đích hoặc phối hợp nhiều phương pháp, tùy vào mức độ bệnh, tính chất khối u ác tính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-01T22:00:00+07:00",
+      "fetched": "2026-09-02T05:21:13.111204+07:00"
+    },
+    {
+      "id": "3cb7c73f3bbfdfc6157efa1899f93f14",
+      "title": "Cùng chuyến bay, vì sao người ngồi cạnh bạn mua vé rẻ hơn? | GIẢI MÃ",
+      "link": "https://thanhnien.vn/cung-chuyen-bay-vi-sao-nguoi-ngoi-canh-ban-mua-ve-re-hon-giai-ma-185260901203438917.htm",
+      "summary": "Cùng một chuyến bay, cùng hạng ghế, nhưng người ngồi cạnh có thể mua vé rẻ hơn bạn hàng trăm nghìn, thậm chí hàng triệu đồng. Sự chênh lệch này không hẳn do hãng hàng không ‘định giá riêng’ cho từng hành khách, mà liên quan đến cách các hãng chia nhiều bậc giá và liên tục điều chỉnh giá theo nhu cầu...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-01T22:00:00+07:00",
+      "fetched": "2026-09-02T05:21:17.455795+07:00"
+    },
+    {
+      "id": "6fdd5963c45ef402f99d22e6161d76d3",
+      "title": "Xổ số kiến thiết TP.HCM lan tỏa nghĩa tình từ những việc làm thiết thực",
+      "link": "https://thanhnien.vn/xo-so-kien-thiet-tphcm-lan-toa-nghia-tinh-tu-nhung-viec-lam-thiet-thuc-185260901091201982.htm",
+      "summary": "Từ tri ân người có công đến hỗ trợ mổ tim, xây mái ấm và chăm lo người yếu thế, Công ty Xổ số kiến thiết TP.HCM đã nối dài các hoạt động nghĩa tình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-01T22:00:00+07:00",
+      "fetched": "2026-09-02T05:21:17.455947+07:00"
+    },
+    {
+      "id": "288f6720d64e78ac712e1662911a9220",
+      "title": "Hôm nay 81 năm Quốc khánh 2.9, ngày cuối kỳ nghỉ lễ kéo dài 5 ngày",
+      "link": "https://thanhnien.vn/hom-nay-81-nam-quoc-khanh-29-ngay-cuoi-ky-nghi-le-keo-dai-5-ngay-185260901064213092.htm",
+      "summary": "Hôm nay ngày Quốc khánh 2.9 cũng là ngày cuối cùng của kỳ nghỉ lễ kéo dài 5 ngày. Lịch dương, lịch âm hôm nay có gì đặc biệt?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-01T22:00:00+07:00",
+      "fetched": "2026-09-02T05:21:17.456080+07:00"
+    },
+    {
+      "id": "b95f0366ba8bd342ad8bb6af8f280b4b",
+      "title": "Thực phẩm 'Zero đường' có thực sự vô hại ?",
+      "link": "https://thanhnien.vn/thuc-pham-zero-duong-co-thuc-su-vo-hai-185260828142151775.htm",
+      "summary": "“Zero đường” hay “không đường” đang trở thành lựa chọn phổ biến của những người muốn hạn chế đường trong chế độ ăn. Tuy nhiên, sản phẩm không chứa hoặc chứa rất ít đường không đồng nghĩa với việc có thể sử dụng không giới hạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-01T22:00:00+07:00",
+      "fetched": "2026-09-02T05:21:17.456206+07:00"
+    },
+    {
+      "id": "c2f9ccc16da6d64c09932fe3d1dd2ada",
+      "title": "Lý do Nepal chật vật cứu nạn nhân kẹt trong hầm thủy điện",
+      "link": "https://vnexpress.net/ly-do-nepal-chat-vat-cuu-nan-nhan-ket-trong-ham-thuy-dien-5115659.html",
+      "summary": "Lũ quét phá hủy đường sá, vùi lấp cửa hầm và cuốn bùn đất vào sâu dưới lòng đất, cản trở nỗ lực tiếp cận hàng trăm công nhân mất tích tại Nepal.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-01T22:00:00+07:00",
+      "fetched": "2026-09-02T05:21:21.720570+07:00"
+    },
+    {
+      "id": "8cd622b92a12d0797a7aac4f1e470ece",
+      "title": "Cơn sốt học bán dẫn để vào Samsung, SK Hynix",
+      "link": "https://vnexpress.net/con-sot-hoc-ban-dan-de-vao-samsung-sk-hynix-5112824.html",
+      "summary": "Lĩnh vực chip nhớ bùng nổ khiến nhiều học sinh, sinh viên tại Hàn Quốc chuyển hướng học nghề với mục tiêu làm việc tại Samsung, SK Hynix.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-01T22:00:00+07:00",
+      "fetched": "2026-09-02T05:21:26.281701+07:00"
+    },
+    {
+      "id": "8f2f2ae55bbbb0d904969196ee9dccc6",
+      "title": "Ôtô chạy hơn 80 km/h tông văng người đi xe đạp",
+      "link": "https://vnexpress.net/oto-chay-hon-80-km-h-tong-vang-nguoi-di-xe-dap-5115670.html",
+      "summary": "Ôtô chạy nhanh không kịp phanh khi người đi xe đạp bất ngờ băng ngang đường, khiến xe đạp và nạn nhân bị húc văng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-01T21:00:00+07:00",
+      "fetched": "2026-09-02T05:21:13.111334+07:00"
     },
     {
       "id": "4d5b34bff6d26bdd40a1dad3e3354bd0",
