@@ -1,7 +1,157 @@
 window.newsData_2026_09_02 = {
   "date": "2026-09-02",
-  "lastUpdated": "2026-09-02T15:21:41.814036+07:00",
+  "lastUpdated": "2026-09-02T21:03:03.411613+07:00",
   "articles": [
+    {
+      "id": "8d055b1380f015841a7bfe9caaad2260",
+      "title": "Bão số 5 không ảnh hưởng đến đất liền Việt Nam, bác bỏ tin càng vào gần bờ bão càng mạnh",
+      "link": "https://tuoitre.vn/bao-so-5-khong-anh-huong-den-dat-lien-viet-nam-bac-bo-tin-cang-vao-gan-bo-bao-cang-manh-100260902184615336.htm",
+      "summary": "Theo cơ quan khí tượng, hiện bão số 5 (Saudel) đang đi chậm ở phía đông bắc của bắc Biển Đông,  dự báo không ảnh hưởng đến đất liền nước ta.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T21:02:54.622417+07:00",
+      "fetched": "2026-09-02T21:02:54.622473+07:00"
+    },
+    {
+      "id": "654c230f0ee3932c33b6090aa7f93abb",
+      "title": "Hai tuổi thơ gặp nhau: Peppa Pig và Elmo lần đầu cùng xuất hiện trong một MV",
+      "link": "https://tuoitre.vn/hai-tuoi-tho-gap-nhau-peppa-pig-va-elmo-lan-dau-cung-xuat-hien-trong-mot-mv-100260902182536616.htm",
+      "summary": "Peppa Pig và Elmo lần đầu xuất hiện cùng nhau trong một sản phẩm âm nhạc, kết hợp hai ca khúc quen thuộc về trò chơi nhảy trong vũng nước thành một bản dance remix sôi động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T21:02:54.622348+07:00",
+      "fetched": "2026-09-02T21:02:54.622407+07:00"
+    },
+    {
+      "id": "5d946a8b21cf0fecd637dda3cde404a7",
+      "title": "Người hâm mộ Attack on Titan đón tin vui sau 17 năm",
+      "link": "https://tuoitre.vn/nguoi-ham-mo-attack-on-titan-don-tin-vui-sau-17-nam-10026090218592379.htm",
+      "summary": "Ngày 9-9, thời điểm manga Attack on Titan bắt đầu được đăng tải, vừa được Hiệp hội Ngày kỷ niệm Nhật Bản công nhận là 'ngày Attack on Titan'. Dịp này, loạt hoạt động dành cho người hâm mộ sẽ được triển khai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T21:02:54.622252+07:00",
+      "fetched": "2026-09-02T21:02:54.622336+07:00"
+    },
+    {
+      "id": "738273468f7a093104f1f85fcdb6eb03",
+      "title": "Loạt điểm nóng kẹt xe ở miền Tây chỉ ùn ứ nhẹ vì có nhiều lộ trình để đi",
+      "link": "https://tuoitre.vn/loat-diem-nong-ket-xe-o-mien-tay-chi-un-u-nhe-vi-co-nhieu-lo-trinh-de-di-100260902184632076.htm",
+      "summary": "Chiều 2-9, hàng vạn người dân miền Tây quay lại TP.HCM và các tỉnh miền Đông, Tây Nguyên sau kỳ nghỉ lễ khiến mật độ giao thông trên đường tăng mạnh, tuy nhiên không kẹt xe kéo dài như cách đây một năm trước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T21:02:54.622176+07:00",
+      "fetched": "2026-09-02T21:02:54.622233+07:00"
+    },
+    {
+      "id": "f0642207f0ca8914b9a5e38929e85ece",
+      "title": "Chém trọng thương người khác rồi lẩn trốn, bị bắt sau  21 năm",
+      "link": "https://tuoitre.vn/chem-trong-thuong-nguoi-khac-roi-lan-tron-bi-bat-sau-21-nam-100260902190302171.htm",
+      "summary": "Sau 21 năm lẩn trốn qua nhiều tỉnh thành, Nông Văn Quyết bị Công an tỉnh Đắk Lắk bắt giữ tại Bắc Ninh. Quyết bị cáo buộc đã cùng một người khác dùng dao chém một người trọng thương vào năm 2005.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T21:02:54.622108+07:00",
+      "fetched": "2026-09-02T21:02:54.622166+07:00"
+    },
+    {
+      "id": "a97ab1e666e20147b878fd386ebe0038",
+      "title": "Hàng ngàn người đổ về trung tâm Hà Nội và TP.HCM chờ xem pháo hoa mừng Quốc khánh",
+      "link": "https://tuoitre.vn/hang-ngan-nguoi-do-ve-trung-tam-ha-noi-va-tphcm-cho-xem-phao-hoa-mung-quoc-khanh-100260902192003029.htm",
+      "summary": "Chiều tối 2-9, không khí chào mừng Quốc khánh càng thêm rộn ràng tại nhiều khu vực ở các thành phố lớn như Hà Nội, TP.HCM và TP Cần Thơ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T21:02:54.622041+07:00",
+      "fetched": "2026-09-02T21:02:54.622097+07:00"
+    },
+    {
+      "id": "5e411d90a3e89367e74afd1da5c07007",
+      "title": "Vụ bắt Thứ trưởng Bộ Y tế Trần Văn Thuấn: Điểm chú ý ở tài chính doanh nghiệp trung tâm vụ án",
+      "link": "https://tuoitre.vn/vu-bat-thu-truong-bo-y-te-tran-van-thuan-diem-chu-y-o-tai-chinh-doanh-nghiep-trung-tam-vu-an-100260902173847159.htm",
+      "summary": "Công ty CP đầu tư y tế Việt Mỹ - doanh nghiệp liên quan vụ án khiến Thứ trưởng Bộ Y tế Trần Văn Thuấn bị khởi tố, bắt tạm giam - có lịch sử gần 20 năm hoạt động trong lĩnh vực thiết bị y tế. Vốn doanh nghiệp này tăng rất mạnh trong vài năm trở lại đây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T21:02:54.621968+07:00",
+      "fetched": "2026-09-02T21:02:54.622030+07:00"
+    },
+    {
+      "id": "e72f0e367a838cabb658aea6778e3da4",
+      "title": "Vũng Tàu, Côn Đảo hút khách, du lịch TP.HCM thu gần 4.900 tỉ đồng",
+      "link": "https://tuoitre.vn/vung-tau-con-dao-hut-khach-du-lich-tphcm-thu-gan-4900-ti-dong-100260902193623338.htm",
+      "summary": "Trong 5 ngày nghỉ lễ Quốc khánh 2-9, TP.HCM ước đón 1,65 triệu lượt khách du lịch nội địa, khách quốc tế khoảng 62.000 lượt. Tổng thu từ khách du lịch ước đạt 4.900 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T21:02:54.621895+07:00",
+      "fetched": "2026-09-02T21:02:54.621953+07:00"
+    },
+    {
+      "id": "98d4045462eede9a28d5ac6fd4c21ce2",
+      "title": "Hơn 500 học sinh Indonesia nhập viện, lại nghi ngộ độc từ 'bữa ăn miễn phí'",
+      "link": "https://tuoitre.vn/hon-500-hoc-sinh-indonesia-nhap-vien-lai-nghi-ngo-doc-tu-bua-an-mien-phi-100260902193349121.htm",
+      "summary": "Hơn 500 học sinh tại tỉnh Đông Java phải nhập viện sau khi ăn bữa trưa trong chương trình \"bữa ăn miễn phí\" do chính phủ cung cấp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T21:02:54.621826+07:00",
+      "fetched": "2026-09-02T21:02:54.621885+07:00"
+    },
+    {
+      "id": "9481376f37831ee5053df12cafa072dd",
+      "title": "Tay làm cá, tay chốt đơn, rồi ‘book ship’, hộ kinh doanh mong được xuất hóa đơn gộp",
+      "link": "https://tuoitre.vn/tay-lam-ca-tay-chot-don-roi-book-ship-ho-kinh-doanh-mong-duoc-xuat-hoa-don-gop-100260902185558821.htm",
+      "summary": "Bán khúc cá vài chục nghìn đồng nhưng ở thời thương mại điện tử, hộ kinh doanh phải xoay như chong chóng với hàng tá việc để có thể ra đơn. Vì vậy, họ mong quy định xuất hóa đơn gần hơn với đời sống.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T21:02:54.621750+07:00",
+      "fetched": "2026-09-02T21:02:54.621815+07:00"
+    },
+    {
+      "id": "73b8d121503f7f047e9c5bd3b2a84620",
+      "title": "Kỷ niệm 51 năm thành lập Báo Tuổi Trẻ, nghệ sĩ nhắc tờ lịch xưa cách đây hơn 40 năm",
+      "link": "https://tuoitre.vn/ky-niem-51-nam-thanh-lap-bao-tuoi-tre-nghe-si-nhac-to-lich-xua-cach-day-hon-40-nam-100260902195032946.htm",
+      "summary": "Hôm nay kỷ niệm 51 năm thành lập Báo Tuổi Trẻ (2-9-1975), nghệ sĩ Thành Lộc đăng tờ lịch xưa do Tuổi Trẻ phát hành vào năm 1984.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T21:02:54.621681+07:00",
+      "fetched": "2026-09-02T21:02:54.621740+07:00"
+    },
+    {
+      "id": "f20bd8152daab0c06c15a3a78a180768",
+      "title": "Ông Trump tuyên bố hài lòng với vị thế của Mỹ trong xung đột với Iran",
+      "link": "https://tuoitre.vn/ong-trump-tuyen-bo-hai-long-voi-vi-the-cua-my-trong-xung-dot-voi-iran-100260902195400427.htm",
+      "summary": "Tổng thống Donald Trump cho biết ông hài lòng với vị thế của Mỹ trong cuộc chiến với Iran.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T21:02:54.621612+07:00",
+      "fetched": "2026-09-02T21:02:54.621671+07:00"
+    },
+    {
+      "id": "c16988aea82a5a223c4f1b67726c1118",
+      "title": "Du lịch dịp lễ 2-9 sôi động, nhiều địa phương thu hàng nghìn tỉ đồng",
+      "link": "https://tuoitre.vn/du-lich-dip-le-2-9-soi-dong-nhieu-dia-phuong-thu-hang-nghin-ti-dong-100260902173615981.htm",
+      "summary": "Trong 5 ngày nghỉ lễ Quốc khánh 2-9 năm nay, hoạt động du lịch tại nhiều địa phương trên cả nước diễn ra sôi động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T21:02:54.621539+07:00",
+      "fetched": "2026-09-02T21:02:54.621601+07:00"
+    },
+    {
+      "id": "83a0995cf7eb55a43b4f154ff28c6694",
+      "title": "U20 Việt Nam gạt nỗi buồn, quyết thắng Palestine",
+      "link": "https://tuoitre.vn/u20-viet-nam-gat-noi-buon-quyet-thang-palestine-100260902202411882.htm",
+      "summary": "Đội tuyển U20 Việt Nam tập luyện xuyên lễ, quyết tâm chuẩn bị cho trận đấu quan trọng với U20 Palestine để nuôi hy vọng vượt qua vòng loại U20 châu Á 2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T21:02:54.621450+07:00",
+      "fetched": "2026-09-02T21:02:54.621527+07:00"
+    },
+    {
+      "id": "1531025f3a27f817e458cf01e277254c",
+      "title": "Lãnh đạo Hà Nội: 10 ngày phải giải quyết 129 đơn thư của dân bị thu hồi đất để làm bãi đỗ xe ngay vành đai 1",
+      "link": "https://tuoitre.vn/lanh-dao-ha-noi-10-ngay-phai-giai-quyet-129-don-thu-cua-dan-bi-thu-hoi-dat-de-lam-bai-do-xe-ngay-vanh-dai-1-10026090220141359.htm",
+      "summary": "Lãnh đạo Hà Nội yêu cầu trong 10 ngày phải giải quyết 129 đơn thư của người dân liên quan việc thu hồi đất thực hiện dự án bãi đỗ xe, cây xanh, vườn hoa giữa đường vành đai 1 và đê La Thành (phường Ô Chợ Dừa).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T21:02:54.621265+07:00",
+      "fetched": "2026-09-02T21:02:54.621435+07:00"
+    },
     {
       "id": "dd40cae595f75dfb106fdf6ee612f1f7",
       "title": "Sân bay Liên Khương mở lại đường bay quốc tế đến Đà Lạt",
@@ -151,6 +301,356 @@ window.newsData_2026_09_02 = {
       "category": "Tổng hợp",
       "published": "2026-09-02T15:21:34.244494+07:00",
       "fetched": "2026-09-02T15:21:34.244662+07:00"
+    },
+    {
+      "id": "fcb28f5d34fcdc1713cae3bc5517bfe7",
+      "title": "Máy tính bảng có thực sự thay thế được laptop?",
+      "link": "https://thanhnien.vn/may-tinh-bang-co-thuc-su-thay-the-duoc-laptop-185260831125824798.htm",
+      "summary": "Dù sở hữu cấu hình mạnh mẽ và thiết kế mỏng nhẹ, máy tính bảng vẫn bộc lộ nhiều hạn chế lớn khi dùng thay thế laptop.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T13:54:00+07:00",
+      "fetched": "2026-09-02T21:02:52.549625+07:00"
+    },
+    {
+      "id": "1fc0abc59ce3cee2502843dc9ad44e86",
+      "title": "Ly kỳ vụ chém người 21 năm trước: Nghi phạm lẩn trốn, lấy vợ sinh con che giấu thân phận",
+      "link": "https://thanhnien.vn/ly-ky-vu-chem-nguoi-21-nam-truoc-nghi-pham-lan-tron-lay-vo-sinh-con-che-giau-than-phan-185260902201319197.htm",
+      "summary": "Chém người trọng thương rồi bỏ trốn qua nhiều tỉnh thành, sau 21 năm che giấu thân phận, nghi phạm Nông Văn Quyết (50 tuổi) đã bị Công an tỉnh Đắk Lắk bắt giữ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T13:43:00+07:00",
+      "fetched": "2026-09-02T21:02:52.549797+07:00"
+    },
+    {
+      "id": "5aef8cbd6fc3367a26b8ab45f368e544",
+      "title": "Samsung đẩy nhanh tốc độ ra mắt Galaxy S27",
+      "link": "https://thanhnien.vn/samsung-day-nhanh-toc-do-ra-mat-galaxy-s27-185260902141226136.htm",
+      "summary": "Bộ đôi Galaxy S27 và S27 Plus đã đạt chứng nhận 3C, đồng thời hé lộ Samsung có thể bổ sung phiên bản Pro mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T13:42:00+07:00",
+      "fetched": "2026-09-02T21:02:52.549958+07:00"
+    },
+    {
+      "id": "e43635d7df032d9c04be8e6db4e5b3c0",
+      "title": "Bộ trưởng Hegseth tiếp tục loại nhiều sĩ quan khỏi danh sách thăng tướng",
+      "link": "https://thanhnien.vn/bo-truong-hegseth-tiep-tuc-loai-nhieu-si-quan-khoi-danh-sach-thang-tuong-185260902194137631.htm",
+      "summary": "Bộ trưởng Quốc phòng Mỹ Pete Hegseth đã loại tên ít nhất 6 sĩ quan Lục quân khỏi danh sách đề nghị thăng hàm lên tướng 2 sao, theo báo The Hill hôm 2.9 dẫn nguồn thạo tin.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T13:20:00+07:00",
+      "fetched": "2026-09-02T21:02:52.550115+07:00"
+    },
+    {
+      "id": "c6d6f65f94db5696a914768343d43de4",
+      "title": "Hà Lan chuyển 86 tấn vàng từ Mỹ, Canada sang Anh",
+      "link": "https://thanhnien.vn/ha-lan-chuyen-86-tan-vang-tu-my-canada-sang-anh-185260902193151393.htm",
+      "summary": "Hôm nay (2.9), Ngân hàng Trung ương Hà Lan thông báo đã chuyển 86 tấn vàng trong kho dự trữ của nước này từ Mỹ và Canada sang Anh, và nguyên nhân đến từ quan ngại khi 'bất ổn địa chính trị gia tăng' ở Bắc Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T13:20:00+07:00",
+      "fetched": "2026-09-02T21:02:52.550268+07:00"
+    },
+    {
+      "id": "33cf839a3c147328da9eaba30b3e05e6",
+      "title": "Billiards: Tay cơ Việt Nam tung sê-ri lớn, ngược dòng kịch tính thắng cao thủ Nhật Bản",
+      "link": "https://thanhnien.vn/billiards-tay-co-viet-nam-tung-se-ri-lon-nguoc-dong-kich-tinh-thang-cao-thu-nhat-ban-185260902200136556.htm",
+      "summary": "Cơ thủ Nguyễn Đình Quốc có khởi đầu suôn sẻ ở vòng loại thứ ba World Cup billiards Lier - Bỉ 2026, khi ngược dòng đánh bại VĐV người Nhật Bản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T13:08:00+07:00",
+      "fetched": "2026-09-02T21:02:52.550449+07:00"
+    },
+    {
+      "id": "aa5867d57d7d49993a38eece7dd040db",
+      "title": "Tàu sân bay Mỹ hoen rỉ, tróc sơn khi trở về từ Trung Đông",
+      "link": "https://vnexpress.net/tau-san-bay-my-hoen-ri-troc-son-khi-tro-ve-tu-trung-dong-5115840.html",
+      "summary": "Tàu sân bay USS Abraham Lincoln gây chú ý với những vết hoen rỉ và bong tróc lớn trên thân khi cập cảng Laem Chabang ở Thái Lan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T13:07:44+07:00",
+      "fetched": "2026-09-02T21:02:48.853415+07:00"
+    },
+    {
+      "id": "aa5867d57d7d49993a38eece7dd040db",
+      "title": "Tàu sân bay Mỹ hoen rỉ, tróc sơn khi trở về từ Trung Đông",
+      "link": "https://vnexpress.net/tau-san-bay-my-hoen-ri-troc-son-khi-tro-ve-tu-trung-dong-5115840.html",
+      "summary": "Tàu sân bay USS Abraham Lincoln gây chú ý với những vết hoen rỉ và bong tróc lớn trên thân khi cập cảng Laem Chabang ở Thái Lan.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-02T13:07:44+07:00",
+      "fetched": "2026-09-02T21:02:56.666624+07:00"
+    },
+    {
+      "id": "ff4efd21568b0bd2ba2c7d360760625f",
+      "title": "Xem nhanh 20h ngày 2.9: Cờ hoa rợp trời ngày Quốc khánh, khách Tây thích thú check-in",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-29-co-hoa-rop-troi-ngay-quoc-khanh-khach-tay-thich-thu-check-in-185260902185632275.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 2.9 có nhiều tin tức đáng chú ý về: Ngắm TP.HCM rợp cờ đỏ sao vàng ngày Quốc khánh; Khách nước ngoài lần đầu trải nghiệm Quốc khánh Việt Nam: ‘Rất tuyệt, tôi muốn quay lại’;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T13:00:00+07:00",
+      "fetched": "2026-09-02T21:02:52.550601+07:00"
+    },
+    {
+      "id": "9632aab6194548eb47204ac15c31a5ae",
+      "title": "Quần ống rộng phủ sóng thời trang công sở đầu thu",
+      "link": "https://thanhnien.vn/thoi-trang-tre/quan-ong-rong-phu-song-thoi-trang-cong-so-dau-thu-185260831170902794.htm",
+      "summary": "Bước vào mùa thu, quần ống rộng phủ sóng thời trang công sở, trở thành lựa chọn nổi bật nhờ phom dáng thoải mái và vẻ ngoài thanh lịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T13:00:00+07:00",
+      "fetched": "2026-09-02T21:02:52.550761+07:00"
+    },
+    {
+      "id": "74d25b565e60520a1a38a827e36dd476",
+      "title": "Tôi đau đầu mua quà sinh nhật cho bạn thân vì '500.000 đồng hơi ít'",
+      "link": "https://vnexpress.net/toi-dau-dau-mua-qua-sinh-nhat-cho-ban-than-vi-500-000-dong-hoi-it-5115809.html",
+      "summary": "Người đến trước tặng cái túi vài triệu, người đến sau bắt đầu thấy 'món quà 500.000 đồng của mình hơi ít'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T12:29:51+07:00",
+      "fetched": "2026-09-02T21:02:48.853612+07:00"
+    },
+    {
+      "id": "88c3a974be50a4590d7d1e2a89d82ed4",
+      "title": "ĐH Quốc gia TP.HCM sắp có Tòa nhà Trung tâm Đổi mới sáng tạo rộng 42.000 m²",
+      "link": "https://thanhnien.vn/dh-quoc-gia-tphcm-sap-co-toa-nha-trung-tam-doi-moi-sang-tao-rong-42000-m-185260902184533298.htm",
+      "summary": "ĐH Quốc gia TP.HCM sắp có tòa nhà Trung tâm Đổi mới sáng tạo quy mô 42.000 m², dự kiến hoàn thành trong tháng 9 này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T12:27:00+07:00",
+      "fetched": "2026-09-02T21:02:52.550913+07:00"
+    },
+    {
+      "id": "352bded60f7f7cf4869b007de17514e0",
+      "title": "Kết quả xổ số Vietlott Mega 6/45 tối 2.9, giải độc đắc tăng 38,8 tỉ đồng",
+      "link": "https://thanhnien.vn/ket-qua-xo-so-vietlott-mega-6-45-toi-29-giai-doc-dac-tang-388-ti-dong-185260902184613026.htm",
+      "summary": "Tối 2.9, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Mega 6/45 và ghi nhận không có người trúng giải độc đắc nên số tiền cộng dồn là 38,8 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T12:21:00+07:00",
+      "fetched": "2026-09-02T21:02:52.551061+07:00"
+    },
+    {
+      "id": "a8bf3c820a13a0bf92dc0be98725e1bb",
+      "title": "Tai nạn giảm trong kỳ nghỉ lễ",
+      "link": "https://vnexpress.net/tai-nan-giam-trong-ky-nghi-le-5115841.html",
+      "summary": "Trong 5 ngày nghỉ lễ, toàn quốc xảy ra 192 vụ tai nạn, làm chết 93 người và bị thương 134 người, giảm cả ba tiêu chí so với cùng kỳ 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T12:16:54+07:00",
+      "fetched": "2026-09-02T21:02:48.853783+07:00"
+    },
+    {
+      "id": "336a9c381205f0dc194c5302676aa07c",
+      "title": "U.23 Việt Nam và U.23 Thái Lan lại so kè khốc liệt: Nóng bỏng cuộc đua ASIAD 20",
+      "link": "https://thanhnien.vn/u23-viet-nam-va-u23-thai-lan-lai-so-ke-khoc-liet-nong-bong-cuoc-dua-asiad-20-185260902190824965.htm",
+      "summary": "9 tháng kể từ khi U.23 Việt Nam thắng ngược U.23 Thái Lan tại Rajamangala để đoạt HCV SEA Games 33, cuộc đua quyết liệt giữa 2 đội bóng sẽ bước sang sân chơi châu lục tại ASIAD 20.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T12:14:00+07:00",
+      "fetched": "2026-09-02T21:02:52.551211+07:00"
+    },
+    {
+      "id": "f73d41ba054bac7452861a83dfc5a32d",
+      "title": "Bến xe TP.HCM ngày cuối nghỉ lễ: Nhiều người lỉnh kỉnh hành lý trở lại thành phố",
+      "link": "https://thanhnien.vn/chieu-29-ben-xe-nhon-nhip-nguoi-tro-lai-tphcm-sau-ky-nghi-185260902180528633.htm",
+      "summary": "Chiều 2.9, tại một số bến xe ở TP.HCM, nhiều người trẻ lỉnh kỉnh hành lý, quà quê trở lại thành phố sau những ngày nghỉ lễ. Kỳ nghỉ khép lại cũng là lúc họ trở về với công việc, giảng đường và nhịp sống quen thuộc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T12:04:00+07:00",
+      "fetched": "2026-09-02T21:02:52.551391+07:00"
+    },
+    {
+      "id": "039c128fc371dc850f930639bccc6256",
+      "title": "Iran đăng video phóng tên lửa nhằm vào căn cứ UAV tầm xa Mỹ",
+      "link": "https://vnexpress.net/iran-dang-video-phong-ten-lua-nham-vao-can-cu-uav-tam-xa-my-5115833.html",
+      "summary": "Iran đăng video khai hỏa loạt tên lửa nhằm vào căn cứ Mỹ tại Jordan để đáp trả cuộc tập kích cùng ngày của đối phương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T12:02:55+07:00",
+      "fetched": "2026-09-02T21:02:48.853947+07:00"
+    },
+    {
+      "id": "039c128fc371dc850f930639bccc6256",
+      "title": "Iran đăng video phóng tên lửa nhằm vào căn cứ UAV tầm xa Mỹ",
+      "link": "https://vnexpress.net/iran-dang-video-phong-ten-lua-nham-vao-can-cu-uav-tam-xa-my-5115833.html",
+      "summary": "Iran đăng video khai hỏa loạt tên lửa nhằm vào căn cứ Mỹ tại Jordan để đáp trả cuộc tập kích cùng ngày của đối phương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-02T12:02:55+07:00",
+      "fetched": "2026-09-02T21:02:56.666808+07:00"
+    },
+    {
+      "id": "c530d2f299ddabd6ed1f57d79147052e",
+      "title": "'Hộ linh tráng sĩ' hụt hơi trên phòng vé dịp lễ",
+      "link": "https://vnexpress.net/ho-linh-trang-si-hut-hoi-tren-phong-ve-dip-le-5115836.html",
+      "summary": "Phim \"Hộ linh tráng sĩ\" thu gần 25 tỷ đồng sau một tuần công chiếu, xếp sau \"Nghỉ hè sợ nghỉ hưu\" và \"Quý tử vượt giàu\" dịp lễ Quốc khánh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T12:01:48+07:00",
+      "fetched": "2026-09-02T21:02:48.854115+07:00"
+    },
+    {
+      "id": "4d128ef6c9837bc2f3f5e6be612dac56",
+      "title": "Ai cần đo loãng xương?",
+      "link": "https://vnexpress.net/ai-can-do-loang-xuong-5115729.html",
+      "summary": "Người cao tuổi, người có bệnh nền, dùng thuốc kéo dài hoặc từng gãy xương sau va chạm nhẹ nên đo loãng xương sớm bằng phương pháp DXA.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T12:00:00+07:00",
+      "fetched": "2026-09-02T21:02:48.854302+07:00"
+    },
+    {
+      "id": "20a215bb5d312df0367e8bc965328f28",
+      "title": "Vì sao không nên dùng chăn đắp trên xe khách?",
+      "link": "https://vnexpress.net/vi-sao-khong-nen-dung-chan-dap-tren-xe-khach-5114923.html",
+      "summary": "Tôi vừa mua vé về quê thăm gia đình dịp nghỉ lễ. Bạn cùng phòng dặn không nên dùng chăn trên xe khách. Vì sao vậy? (Thanh Tú, 18 tuổi, Lâm Đồng)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T12:00:00+07:00",
+      "fetched": "2026-09-02T21:02:48.854470+07:00"
+    },
+    {
+      "id": "026a4712844fc491537c298b5a9657d9",
+      "title": "Hơn 5.000 người leo núi Bà Đen dịp lễ 2.9, đường lên đỉnh nhiều lúc chật kín",
+      "link": "https://thanhnien.vn/hon-5000-nguoi-leo-nui-ba-den-dip-le-29-duong-len-dinh-nhieu-luc-chat-kin-18526090215482124.htm",
+      "summary": "Dịp lễ 2.9, có ngày hơn 1.300 người đăng ký leo núi Bà Đen, gấp 8 - 10 lần ngày thường. Một du khách đuối sức, ngất xỉu phải nhờ lực lượng cứu hộ đưa xuống núi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T12:00:00+07:00",
+      "fetched": "2026-09-02T21:02:52.551544+07:00"
+    },
+    {
+      "id": "be7e9cac473a0a4540c958798868ffc3",
+      "title": "Khoảnh khắc đất đá ập xuống, vùi lấp đường ở Nghệ An",
+      "link": "https://vnexpress.net/khoanh-khac-dat-da-ap-xuong-vui-lap-duong-o-nghe-an-5115842.html",
+      "summary": "Khối đất đá từ núi cao đổ xuống, vùi lấp tuyến đường rộng khoảng 5 m từ Cổng trời Mường Lống đi các bản Sa Lầy, Tham Hang và Tham Hốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T11:53:48+07:00",
+      "fetched": "2026-09-02T21:02:48.854626+07:00"
+    },
+    {
+      "id": "00b25342d5a7fc91ff92b65bd6313b42",
+      "title": "Ngày 2.9: Sợ kẹt xe ban đêm, người dân miền Tây tranh thủ lên TP.HCM sớm hơn dự tính",
+      "link": "https://thanhnien.vn/ngay-29-so-ket-xe-ban-dem-nguoi-dan-mien-tay-tranh-thu-len-tphcm-som-hon-du-tinh-185260902184444581.htm",
+      "summary": "Chiều 2.9.2026, ngày cuối cùng của kỳ nghỉ lễ Quốc khánh kéo dài 5 ngày, dòng người và phương tiện từ các tỉnh miền Tây bắt đầu dồn về cửa ngõ phía tây TP.HCM. Dù mật độ lưu thông tăng cao, giao thông tại các điểm nóng như khu vực cầu Bến Lức vẫn duy trì ổn định, chưa xảy ra ùn tắc nghiêm trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T11:47:00+07:00",
+      "fetched": "2026-09-02T21:02:52.551694+07:00"
+    },
+    {
+      "id": "936fbb022afa2625b326d924ab9994cf",
+      "title": "Bắn pháo hoa ở tháp Tam Thắng, đứng ở đâu để thấy pháo nổ hình trái tim?",
+      "link": "https://thanhnien.vn/ban-phao-hoa-o-thap-tam-thang-dung-o-dau-de-thay-phao-no-hinh-trai-tim-18526090218040505.htm",
+      "summary": "Giàn pháo hoa ở tháp Tam Thắng có 420 quả pháo tầm cao, 80 quả pháo hoa nổ tầm thấp loại đơn và 60 giàn pháo hoa nổ tầm thấp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T11:37:00+07:00",
+      "fetched": "2026-09-02T21:02:52.551854+07:00"
+    },
+    {
+      "id": "4d002da7277cb03cdb1cc6f59d7b107d",
+      "title": "Ba 'ông lớn' hàng không Trung Quốc lỗ hơn 1,2 tỷ USD",
+      "link": "https://vnexpress.net/ba-ong-lon-hang-khong-trung-quoc-lo-hon-1-2-ty-usd-5115825.html",
+      "summary": "Ba hãng bay lớn nhất Trung Quốc lỗ hơn 1,2 tỷ USD trong nửa đầu năm do chi phí nhiên liệu tăng vọt, dù doanh thu vẫn tăng khoảng 10%.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T11:30:05+07:00",
+      "fetched": "2026-09-02T21:02:48.854795+07:00"
+    },
+    {
+      "id": "4d002da7277cb03cdb1cc6f59d7b107d",
+      "title": "Ba 'ông lớn' hàng không Trung Quốc lỗ hơn 1,2 tỷ USD",
+      "link": "https://vnexpress.net/ba-ong-lon-hang-khong-trung-quoc-lo-hon-1-2-ty-usd-5115825.html",
+      "summary": "Ba hãng bay lớn nhất Trung Quốc lỗ hơn 1,2 tỷ USD trong nửa đầu năm do chi phí nhiên liệu tăng vọt, dù doanh thu vẫn tăng khoảng 10%.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-02T11:30:05+07:00",
+      "fetched": "2026-09-02T21:02:58.538611+07:00"
+    },
+    {
+      "id": "7cea9907ed6819a1d4624411793837f1",
+      "title": "10 thương vụ bóng đá đắt giá nhất hè 2026",
+      "link": "https://vnexpress.net/10-thuong-vu-bong-da-dat-gia-nhat-he-2026-5115838.html",
+      "summary": "Enzo Fernandez phá kỷ lục chuyển nhượng nước Anh với phí 169 triệu USD, trong khi Man City, Chelsea và Tottenham đều có ít nhất hai tân binh góp mặt trong top 10 thương vụ đắt nhất hè 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T11:15:57+07:00",
+      "fetched": "2026-09-02T21:02:48.854952+07:00"
+    },
+    {
+      "id": "7cea9907ed6819a1d4624411793837f1",
+      "title": "10 thương vụ bóng đá đắt giá nhất hè 2026",
+      "link": "https://vnexpress.net/10-thuong-vu-bong-da-dat-gia-nhat-he-2026-5115838.html",
+      "summary": "Enzo Fernandez phá kỷ lục chuyển nhượng nước Anh với phí 169 triệu USD, trong khi Man City, Chelsea và Tottenham đều có ít nhất hai tân binh góp mặt trong top 10 thương vụ đắt nhất hè 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-02T11:15:57+07:00",
+      "fetched": "2026-09-02T21:03:03.403070+07:00"
+    },
+    {
+      "id": "cc253f87e771cd19dada7794f92e59e4",
+      "title": "Tặng quà cho người yêu cũ dù đã có chồng",
+      "link": "https://vnexpress.net/tang-qua-cho-nguoi-yeu-cu-du-da-co-chong-5115768.html",
+      "summary": "Thực lòng tôi còn nhớ và yêu anh, nên luôn muốn tặng quà cho anh dịp sinh nhật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T11:00:00+07:00",
+      "fetched": "2026-09-02T21:02:48.855136+07:00"
+    },
+    {
+      "id": "3ac1b51b72b745e6f8451b413fe9bac8",
+      "title": "Cửa ngõ Hà Nội, TP HCM ùn ứ ngày cuối nghỉ lễ",
+      "link": "https://vnexpress.net/cua-ngo-ha-noi-tp-hcm-un-u-ngay-cuoi-nghi-le-5115829.html",
+      "summary": "Dòng người trở lại Hà Nội, TP HCM sau kỳ nghỉ lễ khiến nhiều cửa ngõ, cao tốc và bến phà ùn ứ kéo dài chiều 2/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T10:21:47+07:00",
+      "fetched": "2026-09-02T21:02:48.855343+07:00"
+    },
+    {
+      "id": "9d53da4f3bec864a13417db962a622d8",
+      "title": "Italy tìm cách xuất khẩu ghẹ vì diệt không xuể",
+      "link": "https://vnexpress.net/italy-tim-cach-xuat-khau-ghe-vi-diet-khong-xue-5115777.html",
+      "summary": "Không thích ăn ghẹ Đại Tây Dương và thất bại trong các chiến dịch tiêu diệt, người Italy chuyển hướng tìm cách xuất khẩu chúng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T10:15:00+07:00",
+      "fetched": "2026-09-02T21:02:48.855523+07:00"
+    },
+    {
+      "id": "9d53da4f3bec864a13417db962a622d8",
+      "title": "Italy tìm cách xuất khẩu ghẹ vì diệt không xuể",
+      "link": "https://vnexpress.net/italy-tim-cach-xuat-khau-ghe-vi-diet-khong-xue-5115777.html",
+      "summary": "Không thích ăn ghẹ Đại Tây Dương và thất bại trong các chiến dịch tiêu diệt, người Italy chuyển hướng tìm cách xuất khẩu chúng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-02T10:15:00+07:00",
+      "fetched": "2026-09-02T21:02:58.538790+07:00"
+    },
+    {
+      "id": "a4564d62c11d4478d9545a1c8cc24d4c",
+      "title": "Điểm tin 17h: Các điểm ngắm pháo hoa ngày 2/9 tại TP HCM và Hà Nội | Giá vàng thế giới xuống thấp nhất hai tuần",
+      "link": "https://vnexpress.net/diem-tin-17h-cac-diem-ngam-phao-hoa-ngay-2-9-tai-tp-hcm-va-ha-noi-gia-vang-the-gioi-xuong-thap-nhat-hai-tuan-5115832.html",
+      "summary": "Công an Hà Nội hạn chế xe tải lớn tại hai nút giao cửa ngõ ngày 2/9; Tổng thống Trump đề cử ông Hùng Cao làm Bộ trưởng Hải quân Mỹ...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T10:05:26+07:00",
+      "fetched": "2026-09-02T21:02:48.855689+07:00"
+    },
+    {
+      "id": "e206920a990474838325ee4f1874d227",
+      "title": "Hậu trường hài hước của phim 'Mùa hè năm ấy'",
+      "link": "https://vnexpress.net/hau-truong-hai-huoc-cua-phim-mua-he-nam-ay-5114207.html",
+      "summary": "Diễn viên Long Vũ, Lưu Ly đùa vui trong hậu trường cảnh tỏ tình hút hàng trăm nghìn lượt xem của phim ''Mùa hè năm ấy''.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T10:00:00+07:00",
+      "fetched": "2026-09-02T21:02:48.855850+07:00"
     },
     {
       "id": "87e1a998153c00498ee3c5c8ee5c3041",
@@ -303,6 +803,46 @@ window.newsData_2026_09_02 = {
       "fetched": "2026-09-02T09:44:02.163970+07:00"
     },
     {
+      "id": "a9790ec5897a8bb2455343a7f2472798",
+      "title": "Tân vương Na Uy tuyên thệ nhậm chức",
+      "link": "https://vnexpress.net/tan-vuong-na-uy-tuyen-the-nham-chuc-5115818.html",
+      "summary": "Quốc vương Na Uy Haakon VIII tuyên thệ nhậm chức trước quốc hội, sau khi vua cha Harald V qua đời.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-02T09:31:40+07:00",
+      "fetched": "2026-09-02T21:02:56.666986+07:00"
+    },
+    {
+      "id": "fe10b866037c6de7f36eb9f902b1cac8",
+      "title": "Tàu hàng va chạm ngoài khơi Thổ Nhĩ Kỳ, 10 người mất tích",
+      "link": "https://vnexpress.net/tau-hang-va-cham-ngoai-khoi-tho-nhi-ky-10-nguoi-mat-tich-5115816.html",
+      "summary": "Tàu chở hàng Thổ Nhĩ Kỳ chìm trên biển Marmara, ngoài khơi Istanbul, sau khi va chạm với phương tiện khác, khiến 10 thuyền viên mất tích.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-02T09:23:53+07:00",
+      "fetched": "2026-09-02T21:02:56.667144+07:00"
+    },
+    {
+      "id": "d0808bd349b0d1a3c0515a359a5754dd",
+      "title": "Ông Putin lên tiếng về chuyến thăm Nga của trùm CIA",
+      "link": "https://vnexpress.net/ong-putin-len-tieng-ve-chuyen-tham-nga-cua-trum-cia-5115804.html",
+      "summary": "Ông Putin nói mối liên hệ giữa các cơ quan tình báo luôn được duy trì, khi bình luận về chuyến thăm Nga của Giám đốc CIA.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-02T08:26:22+07:00",
+      "fetched": "2026-09-02T21:02:56.667326+07:00"
+    },
+    {
+      "id": "255bc1403e3e527822aa521da1c240e2",
+      "title": "Cứu hộ Nepal liên tiếp gặp đường cụt khi tìm công nhân thủy điện kẹt trong hầm",
+      "link": "https://vnexpress.net/cuu-ho-nepal-lien-tiep-gap-duong-cut-khi-tim-cong-nhan-thuy-dien-ket-trong-ham-5115795.html",
+      "summary": "Lực lượng cứu hộ Nepal đang nỗ lực tìm kiếm người còn mắc kẹt trong các đường hầm thủy điện, nhưng hy vọng tắt dần khi họ liên tục gặp đường cụt.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-02T08:26:07+07:00",
+      "fetched": "2026-09-02T21:02:56.667491+07:00"
+    },
+    {
       "id": "0504132c230750e5cd97978208ac21cf",
       "title": "Phát hiện chiếc ví da, ảnh người phụ nữ trong mộ liệt sĩ ở Quảng Ngãi",
       "link": "https://thanhnien.vn/phat-hien-chiec-vi-da-anh-nguoi-phu-nu-trong-mo-liet-si-o-quang-ngai-185260902142713534.htm",
@@ -311,6 +851,16 @@ window.newsData_2026_09_02 = {
       "category": "Tổng hợp",
       "published": "2026-09-02T08:20:00+07:00",
       "fetched": "2026-09-02T15:21:32.187079+07:00"
+    },
+    {
+      "id": "31e0f1212c0df3c04d5f2acd468bc100",
+      "title": "CEO mới của Apple nhận lương 3 triệu USD mỗi năm",
+      "link": "https://vnexpress.net/ceo-moi-cua-apple-nhan-luong-3-trieu-usd-moi-nam-5115791.html",
+      "summary": "John Ternus sẽ nhận lương 3 triệu USD cùng gói cổ phiếu mục tiêu 55 triệu USD trong năm tài chính 2027, trong khi lương Tim Cook giảm còn 2 triệu USD.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-02T08:19:48+07:00",
+      "fetched": "2026-09-02T21:03:01.414876+07:00"
     },
     {
       "id": "ace63cc672afa857756d0becb40dcbfc",
