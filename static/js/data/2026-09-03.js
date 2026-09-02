@@ -1,6 +1,6 @@
 window.newsData_2026_09_03 = {
   "date": "2026-09-03",
-  "lastUpdated": "2026-09-03T02:12:02.122241+07:00",
+  "lastUpdated": "2026-09-03T05:19:21.228410+07:00",
   "articles": [
     {
       "id": "73b8d121503f7f047e9c5bd3b2a84620",
@@ -151,6 +151,116 @@ window.newsData_2026_09_03 = {
       "category": "Tổng hợp",
       "published": "2026-09-03T02:11:55.104079+07:00",
       "fetched": "2026-09-03T02:11:55.104491+07:00"
+    },
+    {
+      "id": "1437137d23473435175b18f7f287247e",
+      "title": "Toàn cảnh trước giờ tuyên án vụ Chi Dân, An Tây, Trúc Phương: Những lời sau cùng gây chú ý",
+      "link": "https://thanhnien.vn/toan-canh-truoc-gio-tuyen-an-vu-chi-dan-an-tay-truc-phuong-nhung-loi-sau-cung-gay-chu-y-185260901202916612.htm",
+      "summary": "Theo kế hoạch, ngày 3.9.2026, HĐXX TAND TP.HCM sẽ tuyên án đối với 227 bị cáo trong chuyên án VN10, liên quan đến 4 nữ tiếp viên hàng không bị lợi dụng vận chuyển trái phép chất ma túy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T22:16:00+07:00",
+      "fetched": "2026-09-03T05:19:13.097563+07:00"
+    },
+    {
+      "id": "2e585e46c0be069bcb8cf87478dc3fc0",
+      "title": "Tử vi ngày 3 tháng 9: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-3-thang-9-con-giap-nao-may-man-hom-nay-185260903004519779.htm",
+      "summary": "Tử vi ngày 3 tháng 9 mang đến những gợi ý tham khảo cho 12 con giáp trong ngày trở lại nhịp sinh hoạt sau kỳ nghỉ Quốc khánh. Tử vi hôm nay gợi ý không cần cố giải quyết mọi việc tồn đọng ngay trong một buổi sáng. Chọn đúng việc cần làm trước, sắp xếp lại thời gian và để cơ thể thích nghi dần có thể...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T22:15:00+07:00",
+      "fetched": "2026-09-03T05:19:13.097717+07:00"
+    },
+    {
+      "id": "3e46e8b1dfe7a278a065423107770b33",
+      "title": "Ngoại hạng Anh kết thúc kỳ chuyển nhượng kỷ lục",
+      "link": "https://thanhnien.vn/ngoai-hang-anh-ket-thuc-ky-chuyen-nhuong-ky-luc-185260902220521585.htm",
+      "summary": "Cả Sunderland lẫn Crystal Palace đều đưa máy bay riêng đến phi trường Lyon để rước Malick Fofana. Hai đội cùng trả tiền kiểm tra y tế. Cuối cùng, Fofana hoàn thành thủ tục, chỉ 1 giờ trước thời hạn chót.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T22:14:00+07:00",
+      "fetched": "2026-09-03T05:19:13.097870+07:00"
+    },
+    {
+      "id": "2965a5666bf3bff025dd7d87a4cc3408",
+      "title": "Ấn tượng pháo hoa hiệu ứng cây tre trên bầu trời TP.HCM đêm Quốc khánh 2.9",
+      "link": "https://thanhnien.vn/an-tuong-phao-hoa-hieu-ung-cay-tre-tren-bau-troi-tphcm-dem-quoc-khanh-29-185260902222208506.htm",
+      "summary": "Tối 2.9, pháo hoa đồng loạt rực sáng tại 7 điểm ở TP.HCM mừng Quốc khánh. Tại khu vực trung tâm, hiệu ứng tạo hình cây tre trở thành điểm nhấn của màn trình diễn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T22:05:00+07:00",
+      "fetched": "2026-09-03T05:19:13.098005+07:00"
+    },
+    {
+      "id": "9ed6a422d0ddac821e4add85bb53b5c6",
+      "title": "Tổng thống Putin đáp trả cảnh báo của Ukraine",
+      "link": "https://thanhnien.vn/tong-thong-putin-dap-tra-canh-bao-cua-ukraine-185260902214409988.htm",
+      "summary": "Tình hình xung đột Nga - Ukraine tiếp tục diễn biến phức tạp với hàng loạt phát biểu căng thẳng từ lãnh đạo cả hai phía.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T22:00:00+07:00",
+      "fetched": "2026-09-03T05:19:13.098131+07:00"
+    },
+    {
+      "id": "d6b22fd326bfca88be27ae9957ffa927",
+      "title": "Hôm nay 3.9 là ngày gì đặc biệt mà nhiều người quan tâm?",
+      "link": "https://thanhnien.vn/hom-nay-39-la-ngay-gi-dac-biet-ma-nhieu-nguoi-quan-tam-185260902171908626.htm",
+      "summary": "Hôm nay là ngày 3.9, ngày làm việc đầu tiên sau kỳ nghỉ lễ Quốc khánh 2.9 kéo dài 5 ngày. Theo lịch dương, lịch âm hôm nay có gì cần quan tâm?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T22:00:00+07:00",
+      "fetched": "2026-09-03T05:19:13.098259+07:00"
+    },
+    {
+      "id": "40fb63f220e8817e85a080da21105a57",
+      "title": "Quy hoạch Bãi Sau giảm số tầng xây dựng: Phường Vũng Tàu sẽ đối thoại dân",
+      "link": "https://thanhnien.vn/quy-hoach-bai-sau-giam-so-tang-xay-dung-phuong-vung-tau-se-doi-thoai-dan-185260902142220413.htm",
+      "summary": "Phường Vũng Tàu (TP.HCM) sẽ họp dân để đối thoại, lấy ý kiến liên quan đến việc điều chỉnh cục bộ tại ô đất DL11 rộng hơn 2,5 ha ở khu vực Bãi Sau làm ảnh hưởng đến quyền lợi nhiều hộ dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T22:00:00+07:00",
+      "fetched": "2026-09-03T05:19:13.098383+07:00"
+    },
+    {
+      "id": "a9e3751cf236221933abef6ecde02a8f",
+      "title": "Cha kiện con đòi đất, con nói sổ đỏ đã đứng tên nên không trả",
+      "link": "https://thanhnien.vn/cha-kien-con-doi-dat-con-noi-so-do-da-dung-ten-nen-khong-tra-185260901133117228.htm",
+      "summary": "Cụ ông 86 tuổi khởi kiện con trai đòi lại mảnh đất 'cho mượn' cách đây hơn 30 năm. Tuy nhiên, người con khẳng định sổ đỏ đã đứng tên mình nên không đồng ý trả lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T22:00:00+07:00",
+      "fetched": "2026-09-03T05:19:13.098515+07:00"
+    },
+    {
+      "id": "03f0edeef121648e36a57e6ccd2f2956",
+      "title": "Giảm stress cấp tốc với 20 giây ngắm cây xanh",
+      "link": "https://thanhnien.vn/giam-stress-cap-toc-voi-20-giay-ngam-cay-xanh-185260828144041333.htm",
+      "summary": "Chỉ một khoảng nghỉ rất ngắn giữa ngày cũng có thể giúp đôi mắt và tâm trí được “reset”. Đặc biệt, dành vài chục giây quan sát cây xanh có thể là một thói quen đơn giản để bạn tạm rời khỏi màn hình và nhịp sống căng thẳng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T22:00:00+07:00",
+      "fetched": "2026-09-03T05:19:13.098636+07:00"
+    },
+    {
+      "id": "4adfff5970912844d520770e71f943cd",
+      "title": "Bí ẩn quanh nữ nghi phạm ám sát tài phiệt Ukraine",
+      "link": "https://vnexpress.net/bi-an-quanh-nu-nghi-pham-am-sat-tai-phiet-ukraine-5111374.html",
+      "summary": "Berezovska được xác định là nghi phạm ám sát tài phiệt Ukraine ở Monaco, nhưng vài ngày sau, người phụ nữ bí ẩn này bị bắn chết, vùi xác trong rừng gần Kiev.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-02T22:00:00+07:00",
+      "fetched": "2026-09-03T05:19:15.549528+07:00"
+    },
+    {
+      "id": "645ce07b899f7009d6c1c1935bfe217d",
+      "title": "Nguyễn Thùy Linh săn kỷ lục",
+      "link": "https://thanhnien.vn/nguyen-thuy-linh-san-ky-luc-185260902220127366.htm",
+      "summary": "Giải cầu lông VN mở rộng 2026 diễn ra từ ngày 8 - 13.9 tại nhà thi đấu Nguyễn Du (TP.HCM) là cơ hội để tay vợt số 1 VN Nguyễn Thùy Linh thiết lập cột mốc mới trong sự nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-02T20:20:00+07:00",
+      "fetched": "2026-09-03T05:19:13.098762+07:00"
     },
     {
       "id": "a5327f4a7e59b0dd15f0ec07a41aabae",
