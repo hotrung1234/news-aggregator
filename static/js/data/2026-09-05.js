@@ -1,7 +1,157 @@
 window.newsData_2026_09_05 = {
   "date": "2026-09-05",
-  "lastUpdated": "2026-09-05T09:49:17.940907+07:00",
+  "lastUpdated": "2026-09-05T15:01:17.756680+07:00",
   "articles": [
+    {
+      "id": "67e814764ddfe32a04d909d0ec1697bc",
+      "title": "Liên đoàn Bắn súng Việt Nam treo thưởng 200 triệu đồng cho xạ thủ giành HCV Asiad 20",
+      "link": "https://tuoitre.vn/lien-doan-ban-sung-viet-nam-treo-thuong-200-trieu-dong-cho-xa-thu-gianh-hcv-asiad-20-100260905111102147.htm",
+      "summary": "Liên đoàn Bắn súng Việt Nam đã treo thưởng 200 triệu đồng cho mỗi VĐV giành huy chương vàng (HCV) tại Asiad 20.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T15:01:09.133577+07:00",
+      "fetched": "2026-09-05T15:01:09.133625+07:00"
+    },
+    {
+      "id": "9001b67a4a8f349b7a70f2ca8fb7ddb2",
+      "title": "CSGT TP.HCM đảm bảo an toàn giao thông cho học sinh, giáo viên ngày khai giảng",
+      "link": "https://tuoitre.vn/csgt-tphcm-dam-bao-an-toan-giao-thong-cho-hoc-sinh-giao-vien-ngay-khai-giang-100260905105851494.htm",
+      "summary": "Ngày 5-9, lực lượng Cảnh sát giao thông TP.HCM chủ động bảo đảm trật tự, an toàn giao thông ngày khai giảng năm học mới 2026-2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T15:01:09.133505+07:00",
+      "fetched": "2026-09-05T15:01:09.133568+07:00"
+    },
+    {
+      "id": "ef4e793f0bb851e0ac3c30cc23fe7d42",
+      "title": "Bầu trời cũng trở thành không gian kinh tế",
+      "link": "https://tuoitre.vn/bau-troi-cung-tro-thanh-khong-gian-kinh-te-100260904220138038.htm",
+      "summary": "Khi mặt đất dần trở nên chật chội với những điểm nghẽn về hạ tầng và áp lực đô thị hóa, bầu trời ở độ cao dưới 1.000m đang được đánh thức để trở thành một không gian kinh tế hoàn toàn mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T15:01:09.133450+07:00",
+      "fetched": "2026-09-05T15:01:09.133497+07:00"
+    },
+    {
+      "id": "f17a31610ec14c141f419eb04cf3e601",
+      "title": "Vở ballet ‘Eugene Onegin’ đến Việt Nam, giá vé tới 20 triệu đồng",
+      "link": "https://tuoitre.vn/vo-ballet-eugene-onegin-den-viet-nam-gia-ve-toi-20-trieu-dong-100260905112742483.htm",
+      "summary": "Sau thành công của vở ballet ‘Anna Karenina’ năm 2025, các nghệ sĩ ballet Nga của đoàn Eifman Ballet tiếp tục đưa một tác phẩm ballet kinh điển nhưng ‘nổi loạn’ là ‘Eugene Onegin’ tới Việt Nam, với mức giá vé cao nhất lên tới 20 triệu đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T15:01:09.133380+07:00",
+      "fetched": "2026-09-05T15:01:09.133441+07:00"
+    },
+    {
+      "id": "d7061a753d08c33ce800c3b11adf9aa9",
+      "title": "Kịch đoàn Thành Lộc thông báo diễn ở Nhà hát Bến Thành, khán giả trầm trồ Thành Lộc ‘chơi lớn’",
+      "link": "https://tuoitre.vn/kich-doan-thanh-loc-thong-bao-dien-o-nha-hat-ben-thanh-khan-gia-tram-tro-thanh-loc-choi-lon-100260905110955454.htm",
+      "summary": "Sau bao ngày chờ đợi, Kịch đoàn Thành Lộc đã thông báo với khán giả điểm diễn mới của kịch đoàn, chính là Nhà hát Bến Thành ở số 6, Mạc Đĩnh Chi (TP.HCM).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T15:01:09.133326+07:00",
+      "fetched": "2026-09-05T15:01:09.133372+07:00"
+    },
+    {
+      "id": "1b37af4e4d77bc3558f28f23eaeeb682",
+      "title": "Tàu cá cháy, chìm trên biển: Chủ tàu kiện, công ty bảo hiểm đồng ý chi trả 3,57 tỉ",
+      "link": "https://tuoitre.vn/tau-ca-chay-chim-tren-bien-chu-tau-kien-cong-ty-bao-hiem-dong-y-chi-tra-357-ti-100260905111938887.htm",
+      "summary": "Sau khi chủ tàu khởi kiện yêu cầu bồi thường 3,57 tỉ đồng, công ty bảo hiểm đã đồng ý chi trả số tiền này tại phiên tòa phúc thẩm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T15:01:09.133272+07:00",
+      "fetched": "2026-09-05T15:01:09.133318+07:00"
+    },
+    {
+      "id": "5a45d63e20a94ce38b207b37f1853b3c",
+      "title": "Tổng thống Myanmar thăm nhà máy VinFast Hải Phòng",
+      "link": "https://tuoitre.vn/tong-thong-myanmar-tham-nha-may-vinfast-hai-phong-100260905110334045.htm",
+      "summary": "Tổng thống Myanmar Min Aung Hlaing cùng đoàn đại biểu cấp cao đã đến thăm tổ hợp sản xuất ô tô VinFast tại Hải Phòng trong khuôn khổ chuyến thăm chính thức Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T15:01:09.133218+07:00",
+      "fetched": "2026-09-05T15:01:09.133264+07:00"
+    },
+    {
+      "id": "64020229cd632d51777057ad8f05ddc7",
+      "title": "Đà Nẵng gần hoàn tất lấy mẫu ADN tại các mộ liệt sĩ",
+      "link": "https://tuoitre.vn/da-nang-gan-hoan-tat-lay-mau-adn-tai-cac-mo-liet-si-100260905112523779.htm",
+      "summary": "Từng là địa phương có lượng mộ liệt sĩ cần lấy mẫu nhiều nhất nước, sau khi yêu cầu quyết liệt, tới sáng 5-9 toàn TP Đà Nẵng chỉ còn lại khoảng 2.000 mộ chưa lấy mẫu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T15:01:09.133161+07:00",
+      "fetched": "2026-09-05T15:01:09.133210+07:00"
+    },
+    {
+      "id": "86a58fdfdc94346268717d71d81066d8",
+      "title": "Phát hiện AI agent của OpenAI 'vượt rào' hàng ngàn lần, chiếm quyền kiểm soát một trang Wiki",
+      "link": "https://tuoitre.vn/phat-hien-ai-agent-cua-openai-vuot-rao-hang-ngan-lan-chiem-quyen-kiem-soat-mot-trang-wiki-100260905114837865.htm",
+      "summary": "Khi bị xóa nội dung, các AI agent được cho là đã tạo trang dự phòng và chia sẻ cách tránh bị phát hiện trên DseWiki.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T15:01:09.133106+07:00",
+      "fetched": "2026-09-05T15:01:09.133153+07:00"
+    },
+    {
+      "id": "9c3c374e8f450dd4d13108f66cb6f60a",
+      "title": "Trường Văn hóa Công an nhân dân III: Mái nhà thứ 2 của hàng nghìn học sinh khó khăn",
+      "link": "https://tuoitre.vn/truong-van-hoa-cong-an-nhan-dan-iii-mai-nha-thu-2-cua-hang-nghin-hoc-sinh-kho-khan-100260904172210854.htm",
+      "summary": "Năm đầu tiên khai giảng, Trường Văn hóa Công an nhân dân III hoàn thành chỉ tiêu tuyển sinh với 1.000 học sinh nội trú, dành cho các học sinh gia đình chính sách, hoàn cảnh khó khăn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T15:01:09.133049+07:00",
+      "fetched": "2026-09-05T15:01:09.133097+07:00"
+    },
+    {
+      "id": "d7e6045d2a61b0debb7e47581d63fe58",
+      "title": "Thủ tướng kỷ luật buộc thôi việc Thứ trưởng Bộ Nông nghiệp và Môi trường Hoàng Trung",
+      "link": "https://tuoitre.vn/thu-tuong-ky-luat-buoc-thoi-viec-thu-truong-bo-nong-nghiep-va-moi-truong-hoang-trung-100260905115731851.htm",
+      "summary": "Quyết định của Thủ tướng nêu rõ: Thi hành kỷ luật bằng hình thức buộc thôi việc đối với ông Hoàng Trung (Thứ trưởng Bộ Nông nghiệp và Môi trường), do đã có những vi phạm, khuyết điểm trong công tác và Ban Bí thư đã thi hành kỷ luật Đảng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T15:01:09.132991+07:00",
+      "fetched": "2026-09-05T15:01:09.133041+07:00"
+    },
+    {
+      "id": "a1423e0de1132030b3f19a91cd8f411b",
+      "title": "Tranh chấp đất đai, người đàn ông dùng búa đập mộ mẹ của chị cùng cha khác mẹ",
+      "link": "https://tuoitre.vn/tranh-chap-dat-dai-nguoi-dan-ong-dung-bua-dap-mo-me-cua-chi-cung-cha-khac-me-100260905111702229.htm",
+      "summary": "Do mâu thuẫn, tranh chấp đất đai trong gia đình, Phạm Thành Mác dùng búa đập nhiều cái vào phần mộ mẹ của chị cùng cha khác mẹ. Công an xã Mỹ Đức Tây, tỉnh Đồng Tháp đã khởi tố Mác về tội xâm phạm thi thể, mồ mả, hài cốt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T15:01:09.132933+07:00",
+      "fetched": "2026-09-05T15:01:09.132983+07:00"
+    },
+    {
+      "id": "9679d2dc5d9945c1de87de17d720310c",
+      "title": "Trung ương Đoàn tặng phòng máy tính và học bổng cho học sinh biên giới Đồng Tháp",
+      "link": "https://tuoitre.vn/trung-uong-doan-tang-phong-may-tinh-va-hoc-bong-cho-hoc-sinh-bien-gioi-dong-thap-100260905115536572.htm",
+      "summary": "Sáng 5-9, Ban Bí thư Trung ương Đoàn đã trao tặng 25 suất học bổng Tiếp sức đến trường, tặng công trình Phòng tin học cho em, trị giá 270 triệu đồng cho các em học sinh Trường Tiểu học - Trung học cơ sở Tân Hộ Cơ, tỉnh Đồng Tháp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T15:01:09.132869+07:00",
+      "fetched": "2026-09-05T15:01:09.132924+07:00"
+    },
+    {
+      "id": "bb3aeb6782a68fe7a5856d43cd2ccf1a",
+      "title": "Lãnh đạo Bộ Công an đề nghị Công an Ninh Bình điều tra mở rộng vụ lừa đảo 250 tỉ đồng",
+      "link": "https://tuoitre.vn/lanh-dao-bo-cong-an-de-nghi-cong-an-ninh-binh-dieu-tra-mo-rong-vu-lua-dao-250-ti-dong-100260905120307705.htm",
+      "summary": "Trong thư khen về thành tích đấu tranh, triệt phá đường dây lừa đảo 250 tỉ đồng trên không gian mạng gửi Công an Ninh Bình, Thượng tướng Nguyễn Văn Long, Thứ trưởng Bộ Công an đề nghị tiếp tục điều tra mở rộng vụ án.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T15:01:09.132795+07:00",
+      "fetched": "2026-09-05T15:01:09.132858+07:00"
+    },
+    {
+      "id": "b124c835ca8af03a86c4595e01746889",
+      "title": "Khai giảng trường đào tạo nghề cho nhóm đối tượng đặc thù",
+      "link": "https://tuoitre.vn/khai-giang-truong-dao-tao-nghe-cho-nhom-doi-tuong-dac-thu-100260905114541073.htm",
+      "summary": "Bắt đầu từ năm học 2026-2027, Trường cao đẳng Kỹ nghệ Dung Quất sẽ đào tạo nghề cho nhóm đối tượng đặc thù như: người chấp hành xong án tù tái hòa nhập cộng đồng; người đang cai nghiện tại các cơ sở cai nghiện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T15:01:09.132617+07:00",
+      "fetched": "2026-09-05T15:01:09.132782+07:00"
+    },
     {
       "id": "1cfd8bcb030334d08d6ccd75a8cc4483",
       "title": "Trung vệ Duy Mạnh phẫu thuật thành công tại Mỹ",
@@ -153,6 +303,246 @@ window.newsData_2026_09_05 = {
       "fetched": "2026-09-05T09:49:09.673867+07:00"
     },
     {
+      "id": "12147bd30ddcd5246971315baca7f6d7",
+      "title": "Trường Thiếu sinh quân miền Nam đón 240 học sinh trong năm học đầu tiên",
+      "link": "https://thanhnien.vn/truong-thieu-sinh-quan-mien-nam-don-240-hoc-sinh-trong-nam-hoc-dau-tien-185260905143956737.htm",
+      "summary": "Trường Thiếu sinh quân miền Nam khai giảng năm học đầu tiên với 240 học sinh, được tuyển chọn từ con em đồng bào dân tộc thiểu số, gia đình có công và đặc biệt khó khăn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T07:58:00+07:00",
+      "fetched": "2026-09-05T15:01:07.251314+07:00"
+    },
+    {
+      "id": "f64e0a2654ef9c63859ae74765d6fcb1",
+      "title": "Nhiều trường nhận bằng khen, cờ thi đua trong ngày khai giảng",
+      "link": "https://thanhnien.vn/nhieu-truong-nhan-bang-khen-co-thi-dua-trong-ngay-khai-giang-185260905132019793.htm",
+      "summary": "Sáng nay, 5.9, hòa chung với không khí ngày khai giảng, nhiều trường học tại TP.HCM, giáo viên và học sinh vinh dự khi trường được công nhận chuẩn quốc gia, kiểm định chất lượng và bằng khen của TP, Cờ thi đua của Chính phủ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T07:58:00+07:00",
+      "fetched": "2026-09-05T15:01:07.251490+07:00"
+    },
+    {
+      "id": "158b11896e170ae3b59fcef8fd593d4d",
+      "title": "Chủ tịch Quốc hội Trần Thanh Mẫn hội kiến Tổng thống Myanmar Min Aung Hlaing",
+      "link": "https://thanhnien.vn/chu-tich-quoc-hoi-tran-thanh-man-hoi-kien-tong-thong-myanmar-min-aung-hlaing-185260905142739425.htm",
+      "summary": "Ngày 5.9, Chủ tịch Quốc hội Trần Thanh Mẫn đã hội kiến Tổng thống Myanmar Min Aung Hlaing.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T07:53:00+07:00",
+      "fetched": "2026-09-05T15:01:07.251627+07:00"
+    },
+    {
+      "id": "8549c28b2e8c3c63966dd34e914b0238",
+      "title": "Sau 45 ngày tăng tốc, 3 điểm trường ở Củ Chi kịp đón học sinh ngày khai giảng",
+      "link": "https://thanhnien.vn/sau-45-ngay-tang-toc-3-diem-truong-o-cu-chi-kip-don-hoc-sinh-ngay-khai-giang-185260905131909509.htm",
+      "summary": "Ba điểm trường ở xã Củ Chi được cải tạo, sửa chữa với tổng mức đầu tư 38,2 tỉ đồng, hoàn thành các hạng mục thiết yếu sau khoảng 45 ngày thi công để kịp đón học sinh ngày khai giảng 5.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T07:52:00+07:00",
+      "fetched": "2026-09-05T15:01:07.251755+07:00"
+    },
+    {
+      "id": "ba2dba8fc7120414ef04edf173ee52a7",
+      "title": "Bỏ công chứng nhà đất theo tỉnh thành, người dân hưởng lợi gì?",
+      "link": "https://thanhnien.vn/bo-cong-chung-nha-dat-theo-tinh-thanh-nguoi-dan-huong-loi-gi-185260905141304829.htm",
+      "summary": "Khi bỏ công chứng nhà đất theo địa giới hành chính, người dân tại Hà Nội có thể thực hiện công chứng cho mảnh đất mình đang sở hữu ở TP.HCM, không cần di chuyển hàng ngàn km nữa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T07:45:00+07:00",
+      "fetched": "2026-09-05T15:01:07.251881+07:00"
+    },
+    {
+      "id": "b84e85e4b16c0ca1447bf3cc9f090821",
+      "title": "Xúc động lá thư tân hiệu trưởng chuyên Lê Hồng Phong gửi ‘đàn em’ dịp khai giảng",
+      "link": "https://thanhnien.vn/xuc-dong-la-thu-tan-hieu-truong-chuyen-le-hong-phong-gui-dan-em-dip-khai-giang-185260905134304253.htm",
+      "summary": "‘Nghề của chúng ta không trả công bằng tiền, nó trả công bằng người... Đó là khoản lời mà không một nghề nào khác có được’, vị hiệu trưởng thứ 25 ở ngôi trường chuyên danh tiếng hàng đầu TP.HCM nhắn nhủ đồng nghiệp mới vào nghề.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T07:44:00+07:00",
+      "fetched": "2026-09-05T15:01:07.252007+07:00"
+    },
+    {
+      "id": "24b45f26e688e4e44c0fef563811a234",
+      "title": "Việt Nam - Myanmar đưa quan hệ Đối tác hợp tác toàn diện vào giai đoạn phát triển mới",
+      "link": "https://thanhnien.vn/viet-nam-myanmar-dua-quan-he-doi-tac-hop-tac-toan-dien-vao-giai-doan-phat-trien-moi-18526090514194998.htm",
+      "summary": "Ngày 5.9, Tổng Bí thư, Chủ tịch nước Tô Lâm đã hội đàm với Tổng thống Myanmar Min Aung Hlaing.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T07:40:00+07:00",
+      "fetched": "2026-09-05T15:01:07.252136+07:00"
+    },
+    {
+      "id": "6d1c7d84e01d28e6927ec5267ef0c49d",
+      "title": "Việt Nam sẵn sàng chia sẻ kinh nghiệm phát triển với Myanmar",
+      "link": "https://vnexpress.net/viet-nam-san-sang-chia-se-kinh-nghiem-phat-trien-voi-myanmar-5116903.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm hội đàm với Tổng thống Myanmar, bày tỏ sẵn sàng chia sẻ kinh nghiệm phát triển đất nước và tăng cường hợp tác trên các lĩnh vực.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-05T07:37:59+07:00",
+      "fetched": "2026-09-05T15:01:10.779261+07:00"
+    },
+    {
+      "id": "17d2f777b175f031d90927ef91a9e632",
+      "title": "Khai giảng xong nhưng không về, cả trăm học sinh kéo nhau đi đâu?",
+      "link": "https://thanhnien.vn/khai-giang-xong-nhung-khong-ve-ca-tram-hoc-sinh-keo-nhau-di-dau-185260905130806074.htm",
+      "summary": "Sau lễ khai giảng, hàng trăm học sinh không về nhà mà tiếp tục rủ nhau đến nơi này. Cả thầy cô và thầy hiệu trưởng cũng tham gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T07:37:00+07:00",
+      "fetched": "2026-09-05T15:01:07.252259+07:00"
+    },
+    {
+      "id": "4fd0af66a8d8ea0cd1f5e6107ea179ed",
+      "title": "Sau kỳ nghỉ dài, vì sao nhiều người thấy ‘xuống sức’?",
+      "link": "https://thanhnien.vn/sau-ky-nghi-dai-vi-sao-nhieu-nguoi-thay-xuong-suc-185260905133836997.htm",
+      "summary": "Sau kỳ nghỉ dài, nhiều người nghĩ mình sẽ quay lại công việc với trạng thái khỏe khoắn, nhiều năng lượng hơn. Thế nhưng, không ít trường hợp lại cảm thấy uể oải, buồn ngủ, khó tập trung và mất vài ngày mới lấy lại nhịp bình thường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T07:32:00+07:00",
+      "fetched": "2026-09-05T15:01:07.252380+07:00"
+    },
+    {
+      "id": "24b85f564a1ecf9965ae1b363d21a5b7",
+      "title": "TLS Canada: Quan hệ Việt Nam - Canada đang bước sang giai đoạn phát triển mới",
+      "link": "https://thanhnien.vn/tls-canada-quan-he-viet-nam-canada-dang-buoc-sang-giai-doan-phat-trien-moi-185260905112132648.htm",
+      "summary": "Trong 3 năm làm Tổng lãnh sự Canada tại TP.HCM, bà Annie Dubé cho hay đã chứng kiến sự phát triển trên mọi phương diện của quan hệ Việt Nam - Canada, và rất mong chờ những bước tiến mạnh mẽ hơn trong thời gian tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T07:30:00+07:00",
+      "fetched": "2026-09-05T15:01:07.252527+07:00"
+    },
+    {
+      "id": "99355506afd2aab9e1e3c834403cca65",
+      "title": "Apple gặp rắc rối với iPhone Ultra trước ngày ra mắt?",
+      "link": "https://thanhnien.vn/apple-gap-rac-roi-voi-iphone-ultra-truoc-ngay-ra-mat-185260905105421232.htm",
+      "summary": "Chiếc iPhone màn hình gập đầu tiên của Apple đang gặp vấn đề sản xuất nghiêm trọng, khiến nguồn cung ban đầu có thể rất hạn chế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T07:29:00+07:00",
+      "fetched": "2026-09-05T15:01:07.252656+07:00"
+    },
+    {
+      "id": "9fd60d30bc4fae0a35f53bff1d120ab6",
+      "title": "Thứ trưởng Hoàng Trung bị buộc thôi việc",
+      "link": "https://vnexpress.net/thu-truong-hoang-trung-bi-buoc-thoi-viec-5116904.html",
+      "summary": "Ông Hoàng Trung, Thứ trưởng Nông nghiệp và Môi trường, bị Thủ tướng kỷ luật bằng hình thức buộc thôi việc, ngày 4/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T07:17:28+07:00",
+      "fetched": "2026-09-05T15:01:04.095533+07:00"
+    },
+    {
+      "id": "5b1b1c6d3a1e681f4b748a151c22d92e",
+      "title": "Porsche 911 Turbo S mới đầu tiên về Việt Nam, giá gần 20 tỉ đồng",
+      "link": "https://thanhnien.vn/porsche-911-turbo-s-moi-dau-tien-ve-viet-nam-gia-gan-20-ti-dong-185260905044715053.htm",
+      "summary": "Chiếc Porsche 911 Turbo S thế hệ mới đầu tiên đã xuất hiện tại Việt Nam, được chủ xe bổ sung hàng loạt tùy chọn cá nhân hóa và có giá thực tế lên tới gần 20 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T07:13:00+07:00",
+      "fetched": "2026-09-05T15:01:07.252783+07:00"
+    },
+    {
+      "id": "5cc3eabfe37343b0f3189885eed296a4",
+      "title": "Niềm vui năm học mới của cô trò nội trú vùng cao Huế tại ngôi trường khang trang",
+      "link": "https://thanhnien.vn/niem-vui-nam-hoc-moi-cua-co-tro-noi-tru-vung-cao-hue-tai-ngoi-truong-khang-trang-185260905140311991.htm",
+      "summary": "Nhìn thấy ngôi trường mới khang trang, cô và trò Trường phổ thông nội trú liên cấp Tiểu học và THCS xã A Lưới 3 không giấu được niềm vui và hạnh phúc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T07:07:00+07:00",
+      "fetched": "2026-09-05T15:01:07.252902+07:00"
+    },
+    {
+      "id": "9e7a01ca24ddf21e2d8174e6ddc6f7e7",
+      "title": "Arteta không tiếc khi Arsenal bán ba tiền đạo",
+      "link": "https://vnexpress.net/arteta-khong-tiec-khi-arsenal-ban-ba-tien-dao-5116791.html",
+      "summary": "HLV Mikel Arteta khẳng định không tiếc khi Arsenal bán Leandro Trossard, Gabriel Jesus và Gabriel Martinelli nhưng chỉ bổ sung một tiền đạo trong hè 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T07:00:00+07:00",
+      "fetched": "2026-09-05T15:01:04.095721+07:00"
+    },
+    {
+      "id": "ee6f846ebc2dbeadd89e0a9fbf7510c9",
+      "title": "Vì sao không nên dụi mắt khi ngứa?",
+      "link": "https://vnexpress.net/vi-sao-khong-nen-dui-mat-khi-ngua-5116792.html",
+      "summary": "Dụi mắt có thể giảm ngứa, khó chịu tạm thời nhưng nếu thường xuyên hoặc dùng lực mạnh, có thể kích ứng bề mặt mắt và gây áp lực lên giác mạc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T07:00:00+07:00",
+      "fetched": "2026-09-05T15:01:04.095864+07:00"
+    },
+    {
+      "id": "ba4d0b72b9cae4df3371f22eff4ed875",
+      "title": "Trẻ ăn gì giàu canxi, protein giúp phát triển thể chất, trí não?",
+      "link": "https://vnexpress.net/tre-an-gi-giau-canxi-protein-giup-phat-trien-the-chat-tri-nao-5116756.html",
+      "summary": "Trứng, cá, đậu phụ, hạt mè giàu canxi, protein cùng nhiều dưỡng chất cần thiết cho quá trình phát triển xương, cơ bắp và trí não của trẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T07:00:00+07:00",
+      "fetched": "2026-09-05T15:01:04.095994+07:00"
+    },
+    {
+      "id": "5f38e548e365a58d551b847652cbac5b",
+      "title": "Việt Nam - Na Uy: Bứt phá hợp tác với chiến lược xanh và thủy sản",
+      "link": "https://thanhnien.vn/viet-nam-na-uy-but-pha-hop-tac-voi-chien-luoc-xanh-va-thuy-san-185260905131342522.htm",
+      "summary": "Đại biện Lâm thời của Đại sứ quán Na Uy tại Việt Nam Erlend Skutlaberg phác thảo bức tranh hợp tác toàn diện giữa hai nước trong kỷ nguyên xanh và chuyển đổi số, với nhiều triển vọng từ Hiệp định FTA Việt Nam - EFTA. Ông cũng chia sẻ về làn sóng đầu tư mới với trọng tâm là kinh tế tuần hoàn, công ng...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T07:00:00+07:00",
+      "fetched": "2026-09-05T15:01:07.253019+07:00"
+    },
+    {
+      "id": "88dfc705ffed67b7a20e3d4f71856502",
+      "title": "Diện phong cách vintage không lo 'dừ'",
+      "link": "https://thanhnien.vn/thoi-trang-tre/dien-phong-cach-vintage-khong-lo-du-185260904145140791.htm",
+      "summary": "Phong cách vintage vốn bị gán mác là cổ điển và có chút 'đứng tuổi', thế nhưng trong thời trang hiện nay, phong cách này đang được làm mới bằng những bản phối thời thượng hơn bao giờ hết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T07:00:00+07:00",
+      "fetched": "2026-09-05T15:01:07.253144+07:00"
+    },
+    {
+      "id": "9e7a01ca24ddf21e2d8174e6ddc6f7e7",
+      "title": "Arteta không tiếc khi Arsenal bán ba tiền đạo",
+      "link": "https://vnexpress.net/arteta-khong-tiec-khi-arsenal-ban-ba-tien-dao-5116791.html",
+      "summary": "HLV Mikel Arteta khẳng định không tiếc khi Arsenal bán Leandro Trossard, Gabriel Jesus và Gabriel Martinelli nhưng chỉ bổ sung một tiền đạo trong hè 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-05T07:00:00+07:00",
+      "fetched": "2026-09-05T15:01:17.749920+07:00"
+    },
+    {
+      "id": "4f83b930973584e087ef7ccd5bb552c6",
+      "title": "Cảm xúc học sinh lớp 12 trong ngày khai giảng cuối cấp",
+      "link": "https://vnexpress.net/cam-xuc-hoc-sinh-lop-12-trong-ngay-khai-giang-cuoi-cap-5116893.html",
+      "summary": "Với học sinh lớp 12, tiếng trống khai giảng là lúc chặng đường cuối dưới mái trường bắt đầu, xen giữa niềm vui, háo hức là những bồi hồi, lo lắng trước kỳ thi quan trọng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T06:54:25+07:00",
+      "fetched": "2026-09-05T15:01:04.096124+07:00"
+    },
+    {
+      "id": "c9b3225d7465e2b88d362c4c271313ef",
+      "title": "Các mỹ nhân thập niên 1990 trong tà áo trắng mùa tựu trường",
+      "link": "https://vnexpress.net/cac-my-nhan-thap-nien-1990-trong-ta-ao-trang-mua-tuu-truong-5116812.html",
+      "summary": "Diễm Hương, Việt Trinh, Lý Thu Thảo - những mỹ nhân màn ảnh thập niên 1990 - từng làm say lòng khán giả khi diện áo dài trắng nữ sinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T06:52:14+07:00",
+      "fetched": "2026-09-05T15:01:04.096253+07:00"
+    },
+    {
+      "id": "b353341d2408ead45f25d87f0f2af178",
+      "title": "Chỉ 5% người xem phát hiện gương mặt cô gái trong 10 giây, còn bạn?",
+      "link": "https://vnexpress.net/cau-do-iq-thu-tai-tinh-mat-chi-5-nguoi-xem-phat-hien-guong-mat-co-gai-trong-10-giay-con-ban-5116384.html",
+      "summary": "Bức tranh cổ điển vẽ con rắn và sư tử đang gây bão mạng xã hội. Nàng Eva ẩn giấu ở đâu giữa các đường nét?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T06:45:00+07:00",
+      "fetched": "2026-09-05T15:01:04.096382+07:00"
+    },
+    {
       "id": "42a0f8b03da928df1d5b53654b8905d8",
       "title": "Thời tiết hôm nay 5-9: Sáng khai giảng thời tiết ba miền không mưa, chiều nhiều nơi mưa to",
       "link": "https://tuoitre.vn/thoi-tiet-hom-nay-5-9-sang-khai-giang-thoi-tiet-ba-mien-khong-mua-chieu-nhieu-noi-mua-to-100260904161531457.htm",
@@ -163,6 +553,206 @@ window.newsData_2026_09_05 = {
       "fetched": "2026-09-05T06:41:17.745934+07:00"
     },
     {
+      "id": "4c657b4768674a97122714fda7ff6038",
+      "title": "Suy sinh dục tuổi 28 do lạm dụng nước ngọt, ít vận động",
+      "link": "https://vnexpress.net/suy-sinh-duc-tuoi-28-do-lam-dung-nuoc-ngot-it-van-dong-5116815.html",
+      "summary": "Suốt một năm, thanh niên 28 tuổi thường xuyên mệt mỏi, giảm ham muốn, bác sĩ phát hiện suy giảm nồng độ testosterone và các chỉ số liên quan, chẩn đoán suy sinh dục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T06:38:51+07:00",
+      "fetched": "2026-09-05T15:01:04.096565+07:00"
+    },
+    {
+      "id": "4b4b60057a81e4aa0eece213f13e8ace",
+      "title": "Thùy Linh vào nhánh khó ở Vietnam Open 2026",
+      "link": "https://vnexpress.net/thuy-linh-vao-nhanh-kho-o-vietnam-open-2026-5116874.html",
+      "summary": "Tay vợt nữ số một Việt Nam Nguyễn Thùy Linh chỉ được xếp hạt giống số hai, nên rơi vào nhánh đấu có nhiều tay vợt mạnh ở giải cầu lông quốc tế Vietnam Open 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T06:29:09+07:00",
+      "fetched": "2026-09-05T15:01:04.096703+07:00"
+    },
+    {
+      "id": "4b4b60057a81e4aa0eece213f13e8ace",
+      "title": "Thùy Linh vào nhánh khó ở Vietnam Open 2026",
+      "link": "https://vnexpress.net/thuy-linh-vao-nhanh-kho-o-vietnam-open-2026-5116874.html",
+      "summary": "Tay vợt nữ số một Việt Nam Nguyễn Thùy Linh chỉ được xếp hạt giống số hai, nên rơi vào nhánh đấu có nhiều tay vợt mạnh ở giải cầu lông quốc tế Vietnam Open 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-05T06:29:09+07:00",
+      "fetched": "2026-09-05T15:01:17.750043+07:00"
+    },
+    {
+      "id": "d92fee1fa244809e282213c426b46835",
+      "title": "Cầu Trường Tiền được sơn màu nhũ bạc sau hơn 30 năm",
+      "link": "https://vnexpress.net/cau-truong-tien-duoc-son-mau-nhu-bac-sau-hon-30-nam-5116870.html",
+      "summary": "Sau hơn 30 năm phủ màu trắng đục, cầu Trường Tiền bắc qua sông Hương đang được trả lại màu nhũ bạc, gần với diện mạo cây cầu dưới triều Nguyễn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T06:25:53+07:00",
+      "fetched": "2026-09-05T15:01:04.096837+07:00"
+    },
+    {
+      "id": "c0ca0e9a0be18bea810e612a029a53ab",
+      "title": "Rà soát việc bổ nhiệm một hiệu trưởng sau sáp nhập ở Nghệ An",
+      "link": "https://vnexpress.net/ra-soat-viec-bo-nhiem-mot-hieu-truong-sau-sap-nhap-o-nghe-an-5116833.html",
+      "summary": "Tỉnh Nghệ An yêu cầu rà soát việc chọn hiệu trưởng tiểu học đứng đầu trường liên cấp sau sáp nhập, lưu ý xem xét người ở THCS, song chính quyền xã hiện bảo lưu quan điểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T06:20:36+07:00",
+      "fetched": "2026-09-05T15:01:04.096962+07:00"
+    },
+    {
+      "id": "cf4942de1ae0beacd8b5587b7ef63561",
+      "title": "Em gái 27,5 điểm phải bỏ đại học, đi làm rồi trả nợ gần 300 triệu cho tôi",
+      "link": "https://vnexpress.net/em-gai-27-5-diem-phai-bo-dai-hoc-di-lam-roi-tra-no-gan-300-trieu-cho-toi-5116758.html",
+      "summary": "Tôi hư hỏng, học xong đại về xin việc ở một công ty gần nhà nhưng dính vào cờ bạc nợ nần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T06:20:00+07:00",
+      "fetched": "2026-09-05T15:01:04.097088+07:00"
+    },
+    {
+      "id": "6b4265c2f173120fb06cdd14456b3223",
+      "title": "Lao động nào được đóng bù bảo hiểm xã hội để hưởng lương hưu?",
+      "link": "https://vnexpress.net/lao-dong-nao-duoc-dong-bu-bao-hiem-xa-hoi-de-huong-luong-huu-5116880.html",
+      "summary": "Người đủ tuổi nghỉ hưu, tham gia BHXH bắt buộc còn thiếu tối đa 6 tháng hoặc diện tự nguyện thiếu không quá 5 năm thì được đóng bù cho thời gian còn thiếu để hưởng hưu trí.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T06:04:43+07:00",
+      "fetched": "2026-09-05T15:01:04.097212+07:00"
+    },
+    {
+      "id": "169ba51af1b9d551424d8d79ac098752",
+      "title": "Vì sao nem rán thường cháy đen hai đầu?",
+      "link": "https://vnexpress.net/vi-sao-nem-ran-thuong-chay-den-hai-dau-5114901.html",
+      "summary": "Nhiều người gặp tình trạng nem rán vàng giòn ở phần giữa nhưng hai đầu lại cháy sẫm, khiến món ăn mất đi tính thẩm mỹ và hương vị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T06:04:19+07:00",
+      "fetched": "2026-09-05T15:01:04.097336+07:00"
+    },
+    {
+      "id": "1b8dc51c7eaf4bb3af314e6d2a15f751",
+      "title": "Đề xuất xây trung tâm hành chính Cần Thơ mới tại Ngã Bảy",
+      "link": "https://vnexpress.net/de-xuat-xay-trung-tam-hanh-chinh-can-tho-moi-tai-nga-bay-5116861.html",
+      "summary": "Trung tâm hành chính mới rộng khoảng 20 ha của TP Cần Thơ được đề xuất đặt tại Ngã Bảy (Hậu Giang cũ), vị trí được đánh giá thuận lợi kết nối các đô thị sau sáp nhập.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T06:00:00+07:00",
+      "fetched": "2026-09-05T15:01:04.097482+07:00"
+    },
+    {
+      "id": "63f58533a60a6ede8f54d7307fbf92a3",
+      "title": "Mourinho: 'Cầu thủ đối phương ăn vạ, trông như đã chết'",
+      "link": "https://vnexpress.net/mourinho-cau-thu-doi-phuong-an-va-trong-nhu-da-chet-5116779.html",
+      "summary": "HLV Jose Mourinho mỉa mai một cầu thủ Betis \"diễn kịch\" trước khu kỹ thuật Real Madrid, đồng thời cho rằng đội bóng của ông không đáng thua 0-1 ở vòng 4 La Liga.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-05T06:00:00+07:00",
+      "fetched": "2026-09-05T15:01:17.748977+07:00"
+    },
+    {
+      "id": "c99fcf9f33446c340a253f91640afddb",
+      "title": "Giá năng lượng cao kỷ lục đẩy Mỹ vào thế khó",
+      "link": "https://vnexpress.net/gia-nang-luong-cao-ky-luc-day-my-vao-the-kho-5116877.html",
+      "summary": "Tổng thống Trump nhậm chức với cam kết hạ giá năng lượng cho người dân Mỹ, nhưng giá nhiên liệu giờ lại đang trải qua đợt tăng lịch sử.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-05T05:53:47+07:00",
+      "fetched": "2026-09-05T15:01:12.701630+07:00"
+    },
+    {
+      "id": "8c65b15f14e0c449ef70fed1660349fb",
+      "title": "iPhone gập lộ giá bán và nguy cơ thiếu hàng",
+      "link": "https://vnexpress.net/iphone-gap-lo-gia-ban-va-nguy-co-thieu-hang-5116710.html",
+      "summary": "Dữ liệu rò rỉ từ nhà mạng Vodafone tại Ai Cập và Australia cho thấy giá của mẫu iPhone gập có thể đắt 75% so with iPhone 17 Pro.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-05T05:00:00+07:00",
+      "fetched": "2026-09-05T15:01:15.629350+07:00"
+    },
+    {
+      "id": "226af9ecf76a94a93144fd104c0fdfb8",
+      "title": "Thủy thủ Mỹ 'sướng như mơ' vì được nghỉ ngơi tại Thái Lan",
+      "link": "https://vnexpress.net/thuy-thu-my-suong-nhu-mo-vi-duoc-nghi-ngoi-tai-thai-lan-5116841.html",
+      "summary": "Thủy thủ đoàn của tàu sân bay USS Abraham Lincoln đổ xô đi làm đẹp, mua sắm và ăn uống tại Pattaya, sau đợt triển khai kéo dài 286 ngày.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-05T04:45:41+07:00",
+      "fetched": "2026-09-05T15:01:10.779446+07:00"
+    },
+    {
+      "id": "5cbb75ff817043cdb2198326a03150b4",
+      "title": "Nổ trong căn cứ pháo binh, ít nhất 10 người chết",
+      "link": "https://vnexpress.net/no-trong-can-cu-phao-binh-it-nhat-10-nguoi-chet-5116785.html",
+      "summary": "Kho thuốc nổ trong căn cứ pháo binh ở thành phố Viacha phát nổ, khiến 10 người thiệt mạng và hàng chục người bị thương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-05T04:30:37+07:00",
+      "fetched": "2026-09-05T15:01:10.779646+07:00"
+    },
+    {
+      "id": "1ef27d109dfbd7ecf7ebfba79fe35a31",
+      "title": "Ứng dụng hỗ trợ nông dân số hóa dữ liệu trồng cà phê",
+      "link": "https://vnexpress.net/ung-dung-ho-tro-nong-dan-so-hoa-du-lieu-trong-ca-phe-5114938.html",
+      "summary": "Ứng dụng 2Nông giúp người trồng quản lý mùa vụ, theo dõi vật tư, nhận diện sâu bệnh bằng AI và có thêm cơ sở đưa ra quyết định canh tác cà phê.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-05T04:30:00+07:00",
+      "fetched": "2026-09-05T15:01:12.702473+07:00"
+    },
+    {
+      "id": "72916d8182be55139349dc5f8bb31c8d",
+      "title": "Tổng Bí thư, Chủ tịch nước chủ trì lễ đón Tổng thống Myanmar",
+      "link": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-chu-tri-le-don-tong-thong-myanmar-5116852.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm và phu nhân Ngô Phương Ly chủ trì lễ đón Tổng thống Myanmar Min Aung Hlaing và phu nhân Kyu Kyu Hla.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-05T04:25:09+07:00",
+      "fetched": "2026-09-05T15:01:10.779860+07:00"
+    },
+    {
+      "id": "ec55d8dc39c0a1921bee6aa48c937d1a",
+      "title": "Tiếng đáp thều thào cứu sống hai công nhân kẹt 9 ngày dưới hầm ngập bùn",
+      "link": "https://vnexpress.net/tieng-dap-theu-thao-cuu-song-hai-cong-nhan-ket-9-ngay-duoi-ham-ngap-bun-5116772.html",
+      "summary": "Giữa đường hầm thủy điện bị bùn lũ vùi lấp suốt 9 ngày, tiếng đáp thều thào vọng lại từ bóng tối đã mở ra kỳ tích cứu sống hai công nhân mắc kẹt tại Nepal.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-05T04:20:21+07:00",
+      "fetched": "2026-09-05T15:01:10.780064+07:00"
+    },
+    {
+      "id": "e42e1a20d0713ba0e7c926f8624ea0a2",
+      "title": "Giá vàng miếng giảm 1 triệu đồng",
+      "link": "https://vnexpress.net/gia-vang-mieng-giam-1-trieu-dong-5116836.html",
+      "summary": "Các thương hiệu cùng hạ giá bán ra vàng miếng 1 triệu đồng so với hôm qua, còn 147,6 triệu đồng một lượng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-05T03:55:00+07:00",
+      "fetched": "2026-09-05T15:01:12.701787+07:00"
+    },
+    {
+      "id": "6a1de7e83522c8556c81c05db3d9ba26",
+      "title": "Siêu tàu sân bay Mỹ được tẩy rỉ sét, tảo biển ở Thái Lan",
+      "link": "https://vnexpress.net/sieu-tau-san-bay-my-duoc-tay-ri-set-tao-bien-o-thai-lan-5116777.html",
+      "summary": "Tàu sân bay USS Abraham Lincoln được tẩy rửa vỏ ngoài khi neo đậu ở Thái Lan, sau khi gây chú ý vì vẻ ngoài xuống cấp.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-05T03:26:41+07:00",
+      "fetched": "2026-09-05T15:01:10.780279+07:00"
+    },
+    {
+      "id": "9f1e6dd7233dfeb12bd39175c0c19325",
+      "title": "Đức truy lùng nhà hoạt động môi trường phá hoại lưới điện",
+      "link": "https://vnexpress.net/duc-truy-lung-nha-hoat-dong-moi-truong-pha-hoai-luoi-dien-5116799.html",
+      "summary": "Chính quyền Đức đang truy lùng Daniel V., nhà hoạt động môi trường 48 tuổi tự nhận đã tấn công hàng loạt trạm biến áp.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-05T03:21:57+07:00",
+      "fetched": "2026-09-05T15:01:10.780458+07:00"
+    },
+    {
       "id": "112045a6019ec3aeeb1235d1bb5c43c0",
       "title": "Ông Trump ra 'tối hậu thư' Fed phải hạ lãi suất, giá vàng giằng co mạnh",
       "link": "https://tuoitre.vn/ong-trump-ra-toi-hau-thu-fed-phai-ha-lai-suat-gia-vang-giang-co-manh-10026090500014399.htm",
@@ -171,6 +761,16 @@ window.newsData_2026_09_05 = {
       "category": "Tổng hợp",
       "published": "2026-09-05T03:13:52.942478+07:00",
       "fetched": "2026-09-05T03:13:52.942859+07:00"
+    },
+    {
+      "id": "18467212e6521106097442cc6162c8cb",
+      "title": "UAV đánh trúng văn phòng trùm tình báo Ukraine",
+      "link": "https://vnexpress.net/uav-danh-trung-van-phong-trum-tinh-bao-ukraine-5116790.html",
+      "summary": "Một UAV chưa rõ chủng loại lao trúng phòng làm việc của quyền giám đốc Cơ quan An ninh Ukraine ở trung tâm thủ đô Kiev.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-05T03:11:35+07:00",
+      "fetched": "2026-09-05T15:01:10.780667+07:00"
     },
     {
       "id": "950771a181957c5d32ccc2a88910b3dd",
