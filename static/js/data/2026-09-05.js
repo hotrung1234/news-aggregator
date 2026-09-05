@@ -1,7 +1,157 @@
 window.newsData_2026_09_05 = {
   "date": "2026-09-05",
-  "lastUpdated": "2026-09-05T20:14:21.486290+07:00",
+  "lastUpdated": "2026-09-05T23:30:53.330402+07:00",
   "articles": [
+    {
+      "id": "fe45e010a0e3d8dc5be7232ac2923fbd",
+      "title": "Vụ cuốc xe 2km lấy 70.000 đồng: Yêu cầu doanh nghiệp rút kinh nghiệm",
+      "link": "https://tuoitre.vn/vu-cuoc-xe-2km-lay-70000-dong-yeu-cau-doanh-nghiep-rut-kinh-nghiem-100260905203403431.htm",
+      "summary": "Sở Xây dựng tỉnh Gia Lai yêu cầu Hợp tác xã vận tải ASIA Quy Nhơn và tài xế liên quan nghiêm túc rút kinh nghiệm, chấn chỉnh việc thông tin, thỏa thuận giá cước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T23:30:46.555847+07:00",
+      "fetched": "2026-09-05T23:30:46.555906+07:00"
+    },
+    {
+      "id": "5b66ad20c170b278b55baff1e6d62c77",
+      "title": "Nam sinh Đà Lạt Đặng Huy Hậu nhận Huân chương Lao động hạng ba",
+      "link": "https://tuoitre.vn/nam-sinh-da-lat-dang-huy-hau-nhan-huan-chuong-lao-dong-hang-ba-100260905203407934.htm",
+      "summary": "Nam sinh Trường THPT chuyên Thăng Long - Đà Lạt Đặng Huy Hậu đã vinh dự nhận Huân chương Lao động hạng ba của Chủ tịch nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T23:30:46.555779+07:00",
+      "fetched": "2026-09-05T23:30:46.555837+07:00"
+    },
+    {
+      "id": "bc3a5d5d4a9b0e7f96f5f9c0bf42886e",
+      "title": "Video: Trọng tài gây tranh cãi vì từ chối bàn thắng của Hà Tĩnh vào lưới CLB Công An Hà Nội",
+      "link": "https://tuoitre.vn/video-trong-tai-gay-tranh-cai-vi-tu-choi-ban-thang-cua-ha-tinh-vao-luoi-clb-cong-an-ha-noi-100260905205707839.htm",
+      "summary": "Trọng tài Nguyễn Mạnh Hải gây tranh cãi khi từ chối bàn gỡ hòa 1-1 của Hồng Lĩnh Hà Tĩnh vào lưới CLB Công An Hà Nội ở vòng 1 LPbank V-League 1 tối 5-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T23:30:46.555714+07:00",
+      "fetched": "2026-09-05T23:30:46.555769+07:00"
+    },
+    {
+      "id": "531d6aacb5ff5c0dba348b985974d8cb",
+      "title": "Như chưa hề có cuộc chia ly: Đau lòng chuyện của hai người phụ nữ tên Vân",
+      "link": "https://tuoitre.vn/nhu-chua-he-co-cuoc-chia-ly-dau-long-chuyen-cua-hai-nguoi-phu-nu-ten-van-100260905201733339.htm",
+      "summary": "Trên sân khấu Như chưa hề có cuộc chia ly tối nay (phát sóng trên kênh VTV9), cô Vân khóc trong vòng tay của chị, của em sau 56 năm lưu lạc, kể từ ngày bị bắt cóc khỏi cô nhi viện ở Đà Nẵng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T23:30:46.555649+07:00",
+      "fetched": "2026-09-05T23:30:46.555704+07:00"
+    },
+    {
+      "id": "b98f335c94b37b09aeb67b8bbe68c9cc",
+      "title": "Video: Siêu phẩm đánh đầu của Tiến Linh vào lưới CLB Hà Nội",
+      "link": "https://tuoitre.vn/video-sieu-pham-danh-dau-cua-tien-linh-vao-luoi-clb-ha-noi-100260905210346211.htm",
+      "summary": "Tiền đạo Tiến Linh tỏa sáng với tình huống bay người đánh đầu đẹp mắt, góp phần giúp Công An TP.HCM đánh bại CLB Hà Nội tại vòng 1 V-League 2026-2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T23:30:46.555584+07:00",
+      "fetched": "2026-09-05T23:30:46.555639+07:00"
+    },
+    {
+      "id": "c04229bca51d7507b58ee422c3da76ea",
+      "title": "HLV người Úc: Bàn thắng của Tiến Linh và Quốc Cường đều rất tuyệt vời",
+      "link": "https://tuoitre.vn/hlv-nguoi-uc-ban-thang-cua-tien-linh-va-quoc-cuong-deu-rat-tuyet-voi-100260905202114175.htm",
+      "summary": "Phát biểu sau trận thắng 3-1 trước CLB Hà Nội ở vòng 1 V-League 2026-2027, HLV Diles Arthur (Công An TP.HCM) đã dành lời khen cho ba cầu thủ ghi bàn, đặc biệt là Tiến Linh và Quốc Cường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T23:30:46.555517+07:00",
+      "fetched": "2026-09-05T23:30:46.555573+07:00"
+    },
+    {
+      "id": "65d683567be999775a21910dd7f17312",
+      "title": "Rời U20 Việt Nam, Nguyễn Lê Phát lập tức ghi bàn ở V-League",
+      "link": "https://tuoitre.vn/roi-u20-viet-nam-nguyen-le-phat-lap-tuc-ghi-ban-o-v-league-100260905210837687.htm",
+      "summary": "Tiền đạo 19 tuổi Nguyễn Lê Phát ghi bàn giúp CLB Ninh Bình thắng Hải Phòng 4-1 ở trận ra quân LPBank V-League 2026 - 2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T23:30:46.555450+07:00",
+      "fetched": "2026-09-05T23:30:46.555507+07:00"
+    },
+    {
+      "id": "2af1fb7215b16c5cf1fb1844c9fa63f3",
+      "title": "Sân bay Liên Khương sẽ ngừng phát thanh tìm khách",
+      "link": "https://tuoitre.vn/san-bay-lien-khuong-se-ngung-phat-thanh-tim-khach-100260905205259367.htm",
+      "summary": "Sân bay Liên Khương ngừng phát thanh tìm khách tại nhà ga nhằm giảm tiếng ồn, nâng chất lượng phục vụ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T23:30:46.555380+07:00",
+      "fetched": "2026-09-05T23:30:46.555440+07:00"
+    },
+    {
+      "id": "12b21159b153f61f326a87554341d868",
+      "title": "Mỹ tấn công 3 tàu chở dầu Iran, công bố video cháy nổ dữ dội",
+      "link": "https://tuoitre.vn/my-tan-cong-3-tau-cho-dau-iran-cong-bo-video-chay-no-du-doi-100260905210445803.htm",
+      "summary": "Ngày 5-9, quân đội Mỹ đã tấn công 3 tàu chở dầu Iran, sau khi Tehran phóng tên lửa đạn đạo nhằm vào 2 tàu chiến Hải quân Mỹ đang tuần tra trên vùng biển khu vực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T23:30:46.555314+07:00",
+      "fetched": "2026-09-05T23:30:46.555371+07:00"
+    },
+    {
+      "id": "e90d6c19e50335e51c03e1cb22564f55",
+      "title": "Chung kết Miss World 2026: Bảo Ngọc vào top 20",
+      "link": "https://tuoitre.vn/chung-ket-miss-world-2026-bao-ngoc-vao-top-20-100260905185739239.htm",
+      "summary": "Lê Nguyễn Bảo Ngọc được gọi tên vào top 20 Miss World 2026 trong sự cổ vũ của fan sắc đẹp. Cô tiếp tục tranh suất vào những vị trí cao hơn trong đêm chung kết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T23:30:46.555247+07:00",
+      "fetched": "2026-09-05T23:30:46.555304+07:00"
+    },
+    {
+      "id": "0abfacc6f483363472020a28534e2044",
+      "title": "Myanmar muốn Việt Nam mở rộng đầu tư nhiều ngành, trong đó có viễn thông",
+      "link": "https://tuoitre.vn/myanmar-muon-viet-nam-mo-rong-dau-tu-nhieu-nganh-trong-do-co-vien-thong-100260905212902821.htm",
+      "summary": "Tổng thống Myanmar Min Aung Hlaing khẳng định sẽ tiếp tục ủng hộ các doanh nghiệp Việt Nam đang hoạt động kinh doanh tại nước này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T23:30:46.555179+07:00",
+      "fetched": "2026-09-05T23:30:46.555237+07:00"
+    },
+    {
+      "id": "932d0fa4e745e346ee49ec98a9d1162a",
+      "title": "Khai mạc Giải futsal HDBank Cúp quốc gia 2026",
+      "link": "https://tuoitre.vn/khai-mac-giai-futsal-hdbank-cup-quoc-gia-2026-100260905213330865.htm",
+      "summary": "Với sự tiến bộ của các cầu thủ trẻ ở đội tuyển futsal Việt Nam, Giải futsal HDBank Cúp quốc gia 2026 hứa hẹn đem đến nhiều trận đấu hấp dẫn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T23:30:46.555111+07:00",
+      "fetched": "2026-09-05T23:30:46.555169+07:00"
+    },
+    {
+      "id": "9ed119e5a9df3b1a2dc268c8b28fd740",
+      "title": "Chiến sự Mỹ - Iran: Nhìn vào cuộc kháng cự của Iran",
+      "link": "https://tuoitre.vn/chien-su-my-iran-nhin-vao-cuoc-khang-cu-cua-iran-100260903183055334.htm",
+      "summary": "Hơn 6 tháng trôi qua kể từ khi Israel và Mỹ mở 'Chiến dịch Cuồng nộ' không kích vào lãnh thổ Iran tháng 2-2026, bên cạnh những đòn cấm vận kéo dài từ khi xung đột Mỹ - Iran bắt đầu từ năm 1979.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T23:30:46.555037+07:00",
+      "fetched": "2026-09-05T23:30:46.555100+07:00"
+    },
+    {
+      "id": "fe9acc76cdef4b39e06c7319d22f1406",
+      "title": "Trung Quốc lập mạng lưới 30 vệ tinh để theo dõi không gian cận Mặt trăng",
+      "link": "https://tuoitre.vn/trung-quoc-lap-mang-luoi-30-ve-tinh-de-theo-doi-khong-gian-can-mat-trang-100260905213915908.htm",
+      "summary": "Chòm vệ tinh do Trung Quốc cùng 5 quốc gia triển khai sẽ giúp các nhà khoa học theo dõi và nghiên cứu khu vực cận Mặt trăng rộng tới 2 triệu km quanh Trái đất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T23:30:46.554928+07:00",
+      "fetched": "2026-09-05T23:30:46.555023+07:00"
+    },
+    {
+      "id": "dee85496526443d8269f2bb9dae970ef",
+      "title": "Bùi Hoàng Việt Anh kiến tạo, CLB Công An Hà Nội thắng Hà Tĩnh 2-0",
+      "link": "https://tuoitre.vn/bui-hoang-viet-anh-kien-tao-clb-cong-an-ha-noi-thang-ha-tinh-2-0-100260905214855375.htm",
+      "summary": "Bùi Hoàng Việt Anh góp dấu giày trong bàn ấn định thắng lợi 2-0 của CLB Công An Hà Nội trước Hà Tĩnh ở vòng mở màn LPBank V-League 2026 - 2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T23:30:46.554763+07:00",
+      "fetched": "2026-09-05T23:30:46.554914+07:00"
+    },
     {
       "id": "81911d86431b4252778c07bfdc495301",
       "title": "VNPT hợp tác Học viện Công nghệ Bưu chính Viễn thông xây dựng mô hình ĐH AI-Native",
@@ -151,6 +301,66 @@ window.newsData_2026_09_05 = {
       "category": "Tổng hợp",
       "published": "2026-09-05T20:13:55.806857+07:00",
       "fetched": "2026-09-05T20:13:55.807005+07:00"
+    },
+    {
+      "id": "46505a0e443416091cfad21c2163f379",
+      "title": "CAHN 2-0 Hà Tĩnh",
+      "link": "https://vnexpress.net/cahn-2-0-ha-tinh-5117002.html",
+      "summary": "Hai cầu thủ ngoại Leo Artur và Alan Grafite cùng nhau ghi bàn, giúp đội ĐKVĐ thắng trận ra quân V-League 2026-2027.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T15:59:56+07:00",
+      "fetched": "2026-09-05T23:30:41.065244+07:00"
+    },
+    {
+      "id": "55be1e174e768c6b280fe75d9555bddb",
+      "title": "Kết quả xổ số Vietlott Power 6/55 tối 5.9, giải độc đắc tăng 55,3 tỉ đồng",
+      "link": "https://thanhnien.vn/ket-qua-xo-so-vietlott-power-6-55-toi-59-giai-doc-dac-tang-553-ti-dong-185260905185417709.htm",
+      "summary": "Tối 5.9, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Power 6/55 và ghi nhận  không có người trúng độc đắc nên số tiền cộng dồn là 55,3 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T15:54:00+07:00",
+      "fetched": "2026-09-05T23:30:44.462583+07:00"
+    },
+    {
+      "id": "a28cc0ab213811197b2a884aaa01dc01",
+      "title": "CA TP HCM 3-1 Hà Nội FC",
+      "link": "https://vnexpress.net/ca-tp-hcm-3-1-ha-noi-fc-5116997.html",
+      "summary": "Tiền đạo Nguyễn Tiến Linh lập công giúp CA TP HCM giành chiến thắng cách biệt ở vòng 1 V-League 2026-2027, tối 5/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T15:51:31+07:00",
+      "fetched": "2026-09-05T23:30:41.065438+07:00"
+    },
+    {
+      "id": "dae1c9b5e4a6fdaa05caea5c3886716b",
+      "title": "Dự kiến lấy ý kiến điều chỉnh quy hoạch phân khu đô thị sông Hồng từ 7/9",
+      "link": "https://vnexpress.net/du-kien-lay-y-kien-dieu-chinh-quy-hoach-phan-khu-do-thi-song-hong-tu-7-9-5116990.html",
+      "summary": "Hà Nội sẽ lấy ý kiến các cơ quan, tổ chức, chuyên gia và người dân về điều chỉnh tổng thể Quy hoạch phân khu đô thị sông Hồng, tỷ lệ 1/5.000 (đoạn từ cầu Hồng Hà đến cầu Mễ Sở).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T15:39:23+07:00",
+      "fetched": "2026-09-05T23:30:41.065612+07:00"
+    },
+    {
+      "id": "5986b7b85fe4bc542cf569ef2e40c2d4",
+      "title": "Tiến Linh trở lại ấn tượng, HLV Kim Sang-sik thêm cơn ‘đau đầu’ dễ chịu: Gọi lên đội tuyển Việt Nam?",
+      "link": "https://thanhnien.vn/tien-linh-tro-lai-an-tuong-hlv-kim-sang-sik-them-con-dau-dau-de-chiu-goi-len-doi-tuyen-viet-nam-185260905211703108.htm",
+      "summary": "Tiến Linh trở lại ấn tượng với đánh đầu đẳng cấp mở ra chiến thắng 3-1 cho CLB CA TP.HCM ở vòng 1 V-League 2026 - 2027, khiến HLV Kim Sang-sik thêm 'đau đầu' hàng công đội tuyển Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T15:31:00+07:00",
+      "fetched": "2026-09-05T23:30:44.462751+07:00"
+    },
+    {
+      "id": "235fb20d01bd321495da225472de44b1",
+      "title": "Bảo Ngọc vào top 6 Hoa hậu Thế giới",
+      "link": "https://thanhnien.vn/bao-ngoc-vao-top-12-hoa-hau-the-gioi-185260905212927816.htm",
+      "summary": "Bảo Ngọc khiến khán giả vỡ òa khi ghi tên mình vào top 6 Hoa hậu Thế giới. Đây là thành tích cao nhất của các đại diện Việt Nam ở đấu trường nhan sắc này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T15:24:00+07:00",
+      "fetched": "2026-09-05T23:30:44.462906+07:00"
     },
     {
       "id": "67e814764ddfe32a04d909d0ec1697bc",
@@ -303,6 +513,296 @@ window.newsData_2026_09_05 = {
       "fetched": "2026-09-05T15:01:09.132782+07:00"
     },
     {
+      "id": "8bda2bf3ad81edf6335b31b60eee4377",
+      "title": "Bộ Chính trị ban hành quy định mới về kỷ luật đảng viên vi phạm",
+      "link": "https://vnexpress.net/bo-chinh-tri-ban-hanh-quy-dinh-moi-ve-ky-luat-dang-vien-vi-pham-5116978.html",
+      "summary": "Biết tham nhũng mà không ngăn chặn là tình tiết tăng nặng; làm hư hỏng dữ liệu có thể bị khai trừ đảng là những quy định mới được Bộ Chính trị ban hành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T15:01:05+07:00",
+      "fetched": "2026-09-05T23:30:41.065775+07:00"
+    },
+    {
+      "id": "bd26ad05812f81fedfd5103018b047d3",
+      "title": "Tặng 9 thư viện điện tử cho học sinh Điện Biên dịp khai giảng",
+      "link": "https://vnexpress.net/tang-9-thu-vien-dien-tu-cho-hoc-sinh-dien-bien-dip-khai-giang-5116810.html",
+      "summary": "Tập đoàn FPT trao 9 thư viện điện tử thông qua Quỹ Hy vọng, đồng thời cấp tài khoản học AI cho toàn bộ học sinh của tỉnh, giúp tiếp cận tri thức số và công nghệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T14:59:52+07:00",
+      "fetched": "2026-09-05T23:30:41.065935+07:00"
+    },
+    {
+      "id": "e113f79f4882b9a8f4d8ee1afa001c80",
+      "title": "Đại sứ Mỹ đến Bờ Tây, gửi thông điệp cho Israel",
+      "link": "https://thanhnien.vn/dai-su-my-den-bo-tay-gui-thong-diep-cho-israel-185260905195310267.htm",
+      "summary": "Đại sứ Mỹ tại Israel Mike Huckabee ngày 5.9 đến thăm thị trấn Turmus Ayya ở Bờ Tây, cho hay ông muốn lắng nghe những 'bức xúc chính đáng' của họ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T14:53:00+07:00",
+      "fetched": "2026-09-05T23:30:44.463083+07:00"
+    },
+    {
+      "id": "e53c283e0829943ca786336ae9acc55d",
+      "title": "Bcons Central Park thổi nhiệt thị trường nhà ở Đồng Nai trong lễ kick-off khí thế",
+      "link": "https://thanhnien.vn/bcons-central-park-thoi-nhiet-thi-truong-nha-o-dong-nai-trong-le-kick-off-khi-the-185260905200004627.htm",
+      "summary": "Sáng 4.9, Tập đoàn Bcons, cùng gần 1.500 chiến binh kinh doanh từ Bcons Homes, Bcons PS Land, Teraland và Sao Kim Land tiến hành lễ kick-off dự án Bcons Central Park, chính thức kích hoạt lộ trình mang 'căn hộ chuẩn xanh giữa lòng Biên Hòa' đến gần hơn với cư dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T14:52:00+07:00",
+      "fetched": "2026-09-05T23:30:44.463238+07:00"
+    },
+    {
+      "id": "d82ab176e8f0c66674b59462e3476da8",
+      "title": "Tranh cãi khi CAHN thắng trận ra quân V-League",
+      "link": "https://vnexpress.net/tranh-cai-khi-cahn-thang-tran-ra-quan-v-league-5116983.html",
+      "summary": "Bàn gỡ 1-1 của Hà Tĩnh bị từ chối gây tranh cãi trong trận thua Công an Hà Nội 0-2 ở vòng 1 V-League 2026-2027, trên sân Hàng Đẫy tối nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T14:47:48+07:00",
+      "fetched": "2026-09-05T23:30:41.066173+07:00"
+    },
+    {
+      "id": "d82ab176e8f0c66674b59462e3476da8",
+      "title": "Tranh cãi khi CAHN thắng trận ra quân V-League",
+      "link": "https://vnexpress.net/tranh-cai-khi-cahn-thang-tran-ra-quan-v-league-5116983.html",
+      "summary": "Bàn gỡ 1-1 của Hà Tĩnh bị từ chối gây tranh cãi trong trận thua Công an Hà Nội 0-2 ở vòng 1 V-League 2026-2027, trên sân Hàng Đẫy tối nay.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-05T14:47:48+07:00",
+      "fetched": "2026-09-05T23:30:53.319613+07:00"
+    },
+    {
+      "id": "47c8cc553b085ac2a095893ac0ebdc4e",
+      "title": "Bảng xếp hạng V-League mới nhất: Ninh Bình sừng sững tốp 1, TP.Đồng Nai của Công Phượng sát đáy",
+      "link": "https://thanhnien.vn/bang-xep-hang-v-league-moi-nhat-ninh-binh-sung-sung-top-1-tpdong-nai-cua-cong-phuong-sat-day-18526090521254918.htm",
+      "summary": "CLB Ninh Bình với chiến thắng đậm trước CLB Hải Phòng đã vươn lên đứng ở đỉnh bảng xếp hạng V-League 2026-2027.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T14:37:00+07:00",
+      "fetched": "2026-09-05T23:30:44.463388+07:00"
+    },
+    {
+      "id": "c0b836209ddad7a3bde42b962ec7893a",
+      "title": "Ngoại binh thăng hoa, đương kim vô địch CAHN thắng Hà Tĩnh nhưng tổn thất lớn: Văn Hậu chấn thương",
+      "link": "https://thanhnien.vn/ngoai-binh-thang-hoa-duong-kim-vo-dich-cahn-thang-ha-tinh-nhung-ton-that-lon-van-hau-chan-thuong-185260905195809742.htm",
+      "summary": "Đội đương kim vô địch Công an Hà Nội (CAHN) giành chiến thắng 2-0 trước CLB Hồng Lĩnh Hà Tĩnh ở vòng 1 V-League 2026-2027 diễn ra hôm nay trên sân Hàng Đẫy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T14:29:00+07:00",
+      "fetched": "2026-09-05T23:30:44.463538+07:00"
+    },
+    {
+      "id": "500a08441774059cf4d07f2a9c12ae61",
+      "title": "Tiến Linh giúp CA TP HCM thắng trận ra quân V-League",
+      "link": "https://vnexpress.net/tien-linh-giup-ca-tp-hcm-thang-tran-ra-quan-v-league-5116988.html",
+      "summary": "Tiền đạo Nguyễn Tiến Linh ghi bàn mở tỷ số, giúp CLB Công an TP HCM hạ  Hà Nội FC 3-1 ở vòng 1 V-League 2026-2027, tối 5/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T14:20:48+07:00",
+      "fetched": "2026-09-05T23:30:41.066340+07:00"
+    },
+    {
+      "id": "500a08441774059cf4d07f2a9c12ae61",
+      "title": "Tiến Linh giúp CA TP HCM thắng trận ra quân V-League",
+      "link": "https://vnexpress.net/tien-linh-giup-ca-tp-hcm-thang-tran-ra-quan-v-league-5116988.html",
+      "summary": "Tiền đạo Nguyễn Tiến Linh ghi bàn mở tỷ số, giúp CLB Công an TP HCM hạ Hà Nội FC 3-1 ở vòng 1 V-League 2026-2027, tối 5/9.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-05T14:20:48+07:00",
+      "fetched": "2026-09-05T23:30:53.319790+07:00"
+    },
+    {
+      "id": "c25e8a2c1615add6ab7a7ff9505dbb25",
+      "title": "Mỹ nam gây chú ý trong 'Hộ linh tráng sĩ'",
+      "link": "https://vnexpress.net/my-nam-gay-chu-y-trong-ho-linh-trang-si-5116234.html",
+      "summary": "Người mẫu Đăng Trần - em chồng của đạo diễn Ngô Thanh Vân - lần đầu đóng phim võ thuật \"Hộ linh tráng sĩ\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T14:15:21+07:00",
+      "fetched": "2026-09-05T23:30:41.066498+07:00"
+    },
+    {
+      "id": "5963cfe675d4626396d81d2a37939865",
+      "title": "Trương Quỳnh Anh xúc động trước nghị lực của cậu bé mồ côi cha",
+      "link": "https://thanhnien.vn/truong-quynh-anh-xot-xa-cau-be-mo-coi-cha-lam-cho-dua-cho-me-benh-nang-18526090520535006.htm",
+      "summary": "Trong tập 202 'Mái ấm gia đình Việt', hoàn cảnh của em Minh Xuân (14 tuổi) khiến Trương Quỳnh Anh và các khách mời không khỏi xót xa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T14:09:00+07:00",
+      "fetched": "2026-09-05T23:30:44.463684+07:00"
+    },
+    {
+      "id": "b0ae185d8bff0066e7523d7bc3c4fc9f",
+      "title": "Gia đình bệnh nhân nguy kịch phải trả 9,5 triệu đồng cho chuyến xe 16 km",
+      "link": "https://vnexpress.net/gia-dinh-benh-nhan-nguy-kich-phai-tra-9-5-trieu-dong-cho-chuyen-xe-16-km-5116970.html",
+      "summary": "Ba người đàn ông bị điều tra vì thu 9,5 triệu đồng để đưa người bệnh nguy kịch từ bệnh viện về nhà, nâng giá thuốc vận mạch gấp 150 lần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T14:05:12+07:00",
+      "fetched": "2026-09-05T23:30:41.066664+07:00"
+    },
+    {
+      "id": "fef1dea3609bf5b32288376ee006950d",
+      "title": "HLV Kewell cay đắng, chỉ trích Hà Nội dứt điểm kém cỏi: HLV Arthur khen CLB Công an TP.HCM tuyệt vời",
+      "link": "https://thanhnien.vn/hlv-kewell-cay-dang-chi-trich-ha-noi-dut-diem-kem-coi-hlv-arthur-khen-clb-cong-an-tphcm-tuyet-voi-185260905204645632.htm",
+      "summary": "Trong buổi họp báo sau trận thua Công an TP.HCM 1-3 vào tối 5.9, HLV Harry Kewell thừa nhận CLB Hà Nội còn chưa làm tốt ở những tình huống chuyền bóng và dứt điểm quyết định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T14:03:00+07:00",
+      "fetched": "2026-09-05T23:30:44.463831+07:00"
+    },
+    {
+      "id": "361137b7b19480859e5d97d3f5bbfac1",
+      "title": "Bảo Ngọc giơ cao cờ đỏ sao vàng mở màn chung kết Hoa hậu Thế giới 2026",
+      "link": "https://thanhnien.vn/bao-ngoc-gio-cao-co-do-sao-vang-mo-man-chung-ket-hoa-hau-the-gioi-2026-185260905202936716.htm",
+      "summary": "Lê Nguyễn Bảo Ngọc cùng 110 thí sinh Hoa hậu Thế giới 2026 mở màn đêm chung kết với màn trình diễn Dances of the World. Người đẹp xuất hiện rạng rỡ trên sân khấu, giơ cao cờ đỏ sao vàng khoe sắc cùng bạn bè quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T14:03:00+07:00",
+      "fetched": "2026-09-05T23:30:44.464010+07:00"
+    },
+    {
+      "id": "0767527011002541870fc25374164e70",
+      "title": "Đứa trẻ cọ bồn cầu",
+      "link": "https://vnexpress.net/dua-tre-co-bon-cau-5116984.html",
+      "summary": "Mỗi ngày, ở một khung giờ nhất định, tại hàng chục nghìn trường tiểu học từ Hokkaido đến Okinawa, chuông sẽ reo báo giờ dọn dẹp trường lớp, bao gồm cả cọ rửa nhà vệ sinh. Những đứa trẻ xắn tay áo, quỳ gối xuống sàn gạch men, cầm bàn chải cọ rửa từng ngóc ngách bồn cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T14:02:30+07:00",
+      "fetched": "2026-09-05T23:30:41.066829+07:00"
+    },
+    {
+      "id": "07f83c3694fde99fd110e5236eb2b61f",
+      "title": "Ông Putin ra lệnh ngừng tập kích Kiev 3 ngày",
+      "link": "https://vnexpress.net/ong-putin-ra-lenh-ngung-tap-kich-kiev-3-ngay-5116977.html",
+      "summary": "Ông Putin ra lệnh tạm dừng tấn công vào Kiev trong ba ngày, khi các đặc phái viên Mỹ tới thủ đô Ukraine để tìm giải pháp hòa bình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T14:02:03+07:00",
+      "fetched": "2026-09-05T23:30:41.067033+07:00"
+    },
+    {
+      "id": "07f83c3694fde99fd110e5236eb2b61f",
+      "title": "Ông Putin ra lệnh ngừng tập kích Kiev 3 ngày",
+      "link": "https://vnexpress.net/ong-putin-ra-lenh-ngung-tap-kich-kiev-3-ngay-5116977.html",
+      "summary": "Ông Putin ra lệnh tạm dừng tấn công vào Kiev trong ba ngày, khi các đặc phái viên Mỹ tới thủ đô Ukraine để tìm giải pháp hòa bình.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-05T14:02:03+07:00",
+      "fetched": "2026-09-05T23:30:48.125817+07:00"
+    },
+    {
+      "id": "de94b368a3a3fd67195f61c742c1364a",
+      "title": "Bài viết tìm vợ trên Hẹn hò đã thay đổi cuộc đời tôi",
+      "link": "https://vnexpress.net/bai-viet-tim-vo-tren-hen-ho-da-thay-doi-cuoc-doi-toi-5116940.html",
+      "summary": "Ngày ấy, tôi chỉ muốn tìm một người để yêu thương, cuối cùng tôi lại tìm được một người vợ và cả một gia đình nhỏ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T14:00:00+07:00",
+      "fetched": "2026-09-05T23:30:41.067208+07:00"
+    },
+    {
+      "id": "69a408f45743aa01a706782535870531",
+      "title": "Tìm người đàn ông nghiêm túc, sẵn sàng xây dựng gia đình",
+      "link": "https://vnexpress.net/tim-nguoi-dan-ong-nghiem-tuc-san-sang-xay-dung-gia-dinh-5116806.html",
+      "summary": "Hôn nhân đẹp nhất không phải hai người hoàn hảo gặp nhau, mà là hai người trưởng thành, cùng giá trị và có thiện chí vun đắp cho nhau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T14:00:00+07:00",
+      "fetched": "2026-09-05T23:30:41.067392+07:00"
+    },
+    {
+      "id": "63e20eb54fe865edaa60066b40b68871",
+      "title": "Đề nghị Chính phủ Myanmar tiếp tục tạo điều kiện thuận lợi cho doanh nghiệp Việt Nam",
+      "link": "https://thanhnien.vn/de-nghi-chinh-phu-myanmar-tiep-tuc-tao-dieu-kien-thuan-loi-cho-doanh-nghiep-viet-nam-185260905210029751.htm",
+      "summary": "Ngày 5.9, Thủ tướng Lê Minh Hưng đã hội kiến Tổng thống Myanmar Min Aung Hlaing nhân dịp Tổng thống thăm chính thức Việt Nam từ ngày 4 - 6.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T14:00:00+07:00",
+      "fetched": "2026-09-05T23:30:44.464172+07:00"
+    },
+    {
+      "id": "371a2f50b4fe5f4b59dd4002dfef6d53",
+      "title": "Tổng thống Putin ra lệnh dừng tấn công Kyiv 3 ngày",
+      "link": "https://thanhnien.vn/tong-thong-putin-ra-lenh-dung-tan-cong-kyiv-3-ngay-185260905203500499.htm",
+      "summary": "Phát ngôn viên Điện Kremlin Dmitry Peskov hôm nay 5.9 cho hay Tổng thống Nga Vladimir Putin đã ra lệnh tạm dừng các cuộc tấn công vào thủ đô Kyiv của Ukraine trong 3 ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T13:35:00+07:00",
+      "fetched": "2026-09-05T23:30:44.464325+07:00"
+    },
+    {
+      "id": "acddd244e3db50574c74297c0473d050",
+      "title": "Honda ra mắt Super Cub phiên bản mới, giá từ 87,3 triệu đồng",
+      "link": "https://vnexpress.net/honda-ra-mat-super-cub-phien-ban-moi-gia-tu-87-3-trieu-dong-5116513.html",
+      "summary": "Mẫu xe hoài cổ Super Cub có hai phiên bản, động cơ đạt tiêu chuẩn khí thải Euro 4, bổ sung hai tùy chọn màu sắc, hôm 5/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T13:30:00+07:00",
+      "fetched": "2026-09-05T23:30:41.067553+07:00"
+    },
+    {
+      "id": "807f036575a486002f28b0ffeaaa79e2",
+      "title": "Ninh Bình khởi đầu thuận lợi ở V-League dù mất Hoàng Đức",
+      "link": "https://vnexpress.net/ninh-binh-khoi-dau-thuan-loi-o-v-league-du-mat-hoang-duc-5116975.html",
+      "summary": "Ninh Bình ngược dòng thắng Hải Phòng 4-1 ở vòng 1 V-League 2026-2027 tối nay, trong khi Nguyễn Hoàng Đức phải nghỉ giai đoạn đầu mùa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T13:27:33+07:00",
+      "fetched": "2026-09-05T23:30:41.067712+07:00"
+    },
+    {
+      "id": "807f036575a486002f28b0ffeaaa79e2",
+      "title": "Ninh Bình khởi đầu thuận lợi ở V-League dù mất Hoàng Đức",
+      "link": "https://vnexpress.net/ninh-binh-khoi-dau-thuan-loi-o-v-league-du-mat-hoang-duc-5116975.html",
+      "summary": "Ninh Bình ngược dòng thắng Hải Phòng 4-1 ở vòng 1 V-League 2026-2027 tối nay, trong khi Nguyễn Hoàng Đức phải nghỉ giai đoạn đầu mùa.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-05T13:27:33+07:00",
+      "fetched": "2026-09-05T23:30:53.319957+07:00"
+    },
+    {
+      "id": "91d79c8c223474c70e5ad3fa994691ad",
+      "title": "Tập thể dục đều vẫn có thể bị đột quỵ, vì sao?",
+      "link": "https://thanhnien.vn/tap-the-duc-deu-van-co-the-bi-dot-quy-vi-sao-18526090518223688.htm",
+      "summary": "Tập thể dục thường xuyên giúp kiểm soát cân nặng, huyết áp, đường huyết và nhiều yếu tố nguy cơ đột quỵ. Tuy nhiên, tập luyện đều đặn không đồng nghĩa nguy cơ đột quỵ được loại bỏ hoàn toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T13:24:00+07:00",
+      "fetched": "2026-09-05T23:30:44.464475+07:00"
+    },
+    {
+      "id": "0619852c388bf89231334e6f3bcb5cd8",
+      "title": "Khai mạc giải futsal Cúp quốc gia 2026: 8 đội so tài hấp dẫn",
+      "link": "https://thanhnien.vn/khai-mac-giai-futsal-cup-quoc-gia-2026-8-doi-so-tai-hap-dan-185260905202104988.htm",
+      "summary": "Chiều 5.9, giải futsal HDBank Cúp quốc gia 2026 chính thức khai mạc tại nhà thi đấu Lãnh Binh Thăng (phường Bình Thới, TP.HCM).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T13:22:00+07:00",
+      "fetched": "2026-09-05T23:30:44.464619+07:00"
+    },
+    {
+      "id": "6f6740d3953d928fe89b97998affdbc3",
+      "title": "Vào vòng xuyến, nhường xe bên trái hay bên phải mới đúng luật?",
+      "link": "https://thanhnien.vn/vao-vong-xuyen-nhuong-xe-ben-trai-hay-ben-phai-moi-dung-luat-185260903140400488.htm",
+      "summary": "Khi đi qua vòng xuyến, nhiều tài xế thường mặc định phải nhường các phương tiện bên trái. Tuy nhiên, quy định hiện hành cho thấy không phải trường hợp nào cũng áp dụng nguyên tắc này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-05T13:21:00+07:00",
+      "fetched": "2026-09-05T23:30:44.464766+07:00"
+    },
+    {
+      "id": "5145e1435454091b862d4cf6b721fad7",
+      "title": "Bitcoin ngày càng vượt vàng giữa lo ngại nợ công toàn cầu",
+      "link": "https://vnexpress.net/bitcoin-ngay-cang-vuot-vang-giua-lo-ngai-no-cong-toan-cau-5116969.html",
+      "summary": "Tỷ lệ giá Bitcoin trên vàng lên mức cao nhất từ tháng 1, trong bối cảnh nhà đầu tư lo ngại về gánh nặng nợ công trên toàn cầu.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-05T13:09:24+07:00",
+      "fetched": "2026-09-05T23:30:49.370614+07:00"
+    },
+    {
       "id": "fc00a94a3675de29e5453e181b9366e5",
       "title": "Vắng Hoàng Đức và Tài Lộc, Ninh Bình vẫn thắng đậm Hải Phòng: Lucao cực hay, lập hat-trick vào lưới đội bóng cũ",
       "link": "https://thanhnien.vn/vang-hoang-duc-va-tai-loc-ninh-binh-van-thang-dam-hai-phong-lucao-cuc-hay-lap-hat-trick-vao-luoi-doi-bong-cu-185260905190132417.htm",
@@ -371,6 +871,16 @@ window.newsData_2026_09_05 = {
       "category": "Tổng hợp",
       "published": "2026-09-05T12:57:00+07:00",
       "fetched": "2026-09-05T20:13:53.340758+07:00"
+    },
+    {
+      "id": "6a99fa0b0ba6b00874f30da12464c786",
+      "title": "Phu nhân Tổng Bí thư, Chủ tịch nước và phu nhân Tổng thống Myanmar thăm làng lụa Vạn Phúc",
+      "link": "https://vnexpress.net/phu-nhan-tong-bi-thu-chu-tich-nuoc-va-phu-nhan-tong-thong-myanmar-tham-lang-lua-van-phuc-5116971.html",
+      "summary": "Bà Ngô Phương Ly, phu nhân Tổng Bí thư, Chủ tịch nước Tô Lâm, cùng phu nhân Tổng thống Myanmar đến thăm làng lụa Vạn Phúc, trải nghiệm xâu vòng lụa và thưởng trà.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-05T12:55:22+07:00",
+      "fetched": "2026-09-05T23:30:48.126020+07:00"
     },
     {
       "id": "b8c58078efc1d697ca6e322afdb3a2be",
@@ -1231,6 +1741,16 @@ window.newsData_2026_09_05 = {
       "category": "Thế giới",
       "published": "2026-09-05T04:45:41+07:00",
       "fetched": "2026-09-05T15:01:10.779446+07:00"
+    },
+    {
+      "id": "068d354bd14dd9e972fbfbe4d6f0f7de",
+      "title": "Thủy thủ tàu sân bay Mỹ tận hưởng kỳ nghỉ 'như mơ' tại Thái Lan",
+      "link": "https://vnexpress.net/thuy-thu-tau-san-bay-my-tan-huong-ky-nghi-nhu-mo-tai-thai-lan-5116841.html",
+      "summary": "Thủy thủ đoàn của tàu sân bay USS Abraham Lincoln đổ xô đi làm đẹp, mua sắm và ăn uống tại Pattaya, sau đợt triển khai kéo dài 286 ngày.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-05T04:45:41+07:00",
+      "fetched": "2026-09-05T23:30:48.127019+07:00"
     },
     {
       "id": "5cbb75ff817043cdb2198326a03150b4",
