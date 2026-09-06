@@ -1,7 +1,157 @@
 window.newsData_2026_09_06 = {
   "date": "2026-09-06",
-  "lastUpdated": "2026-09-06T06:32:11.024799+07:00",
+  "lastUpdated": "2026-09-06T09:47:26.967042+07:00",
   "articles": [
+    {
+      "id": "0a464d7ab2755db1551c451847b0d311",
+      "title": "Lội ngược dòng khó tin trước 'bậc thầy thoát hiểm', tay vợt Trung Quốc gây sốc ở Giải Mỹ mở rộng 2026",
+      "link": "https://tuoitre.vn/loi-nguoc-dong-kho-tin-truoc-bac-thay-thoat-hiem-tay-vot-trung-quoc-gay-soc-o-giai-my-mo-rong-2026-100260906064725969.htm",
+      "summary": "Bị đối thủ người Mỹ Madison Keys dẫn 0-5 ở ván đấu quyết định, tay vợt người Trung Quốc Zheng Qinwen đã lội ngược dòng để giành chiến thắng ở vòng 3 Giải quần vợt Mỹ mở rộng 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T09:47:20.999086+07:00",
+      "fetched": "2026-09-06T09:47:20.999146+07:00"
+    },
+    {
+      "id": "3a9f4c9196065ed274dd01dff818b69c",
+      "title": "Vì sao Jujutsu Kaisen không đi theo công thức thành công của Thanh gươm diệt quỷ?",
+      "link": "https://tuoitre.vn/vi-sao-jujutsu-kaisen-khong-di-theo-cong-thuc-thanh-cong-cua-thanh-guom-diet-quy-10026090523451087.htm",
+      "summary": "Thay vì hướng đến nhóm khán giả ở nhiều độ tuổi như Thanh gươm diệt quỷ, ê kíp thực hiện Jujutsu Kaisen chủ động lựa chọn cách tiếp cận giàu năng lượng tuổi trẻ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T09:47:20.999020+07:00",
+      "fetched": "2026-09-06T09:47:20.999076+07:00"
+    },
+    {
+      "id": "0a36c966184227bb47a06b1b26380b88",
+      "title": "Tình hình Đông Nam Á trước lượt cuối vòng loại U20 châu Á 2027: Ai đi tiếp, ai bị loại?",
+      "link": "https://tuoitre.vn/tinh-hinh-dong-nam-a-truoc-luot-cuoi-vong-loai-u20-chau-a-2027-ai-di-tiep-ai-bi-loai-100260906003900812.htm",
+      "summary": "Cho đến trước lượt đấu cuối cùng vòng loại U20 châu Á 2027 vẫn chưa có đội bóng Đông Nam Á nào chính thức giành vé dự vòng chung kết tại Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T09:47:20.998953+07:00",
+      "fetched": "2026-09-06T09:47:20.999010+07:00"
+    },
+    {
+      "id": "b500ec7fdca3323440f24c60c79fd66d",
+      "title": "Công cụ Pangram phát hiện văn bản AI có thực sự đáng tin?",
+      "link": "https://tuoitre.vn/cong-cu-pangram-phat-hien-van-ban-ai-co-thuc-su-dang-tin-100260906001908394.htm",
+      "summary": "Pangram nổi lên như công cụ phát hiện văn bản do AI tạo ra, nhưng độ chính xác vẫn gây tranh luận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T09:47:20.998883+07:00",
+      "fetched": "2026-09-06T09:47:20.998942+07:00"
+    },
+    {
+      "id": "985380bd202e52473823fdf3ff7963b3",
+      "title": "Tin tức thế giới 6-9: Đặc phái viên Mỹ gặp ông Putin; Iran ra tuyên bố tấn công tàu trả đũa Mỹ",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-6-9-dac-phai-vien-my-gap-ong-putin-iran-ra-tuyen-bo-tan-cong-tau-tra-dua-my-100260906061143198.htm",
+      "summary": "Iran tuyên bố tấn công các tàu có liên quan đến Mỹ để trả đũa; Gần 130 nước nhất trí về văn bản liên quan vũ khí tự động gây chết người... là một số tin tức thế giới đáng chú ý sáng 6-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T09:47:20.998815+07:00",
+      "fetched": "2026-09-06T09:47:20.998873+07:00"
+    },
+    {
+      "id": "4316d34a7c1b03791c48db2ac1a192fe",
+      "title": "Giải thể doanh nghiệp: Nhiều việc cần làm bên cạnh  'chiến dịch' của ngành thuế",
+      "link": "https://tuoitre.vn/giai-the-doanh-nghiep-nhieu-viec-can-lam-ben-canh-chien-dich-cua-nganh-thue-10026090515240401.htm",
+      "summary": "Nếu nguyên nhân tạo ra hồ sơ tồn đọng không được giải quyết thì sau khi chiến dịch kết thúc, những tồn đọng mới lại có thể phát sinh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T09:47:20.998743+07:00",
+      "fetched": "2026-09-06T09:47:20.998804+07:00"
+    },
+    {
+      "id": "7d487b48b8df5aee2e87409563ee6b16",
+      "title": "Lịch trực tiếp bóng đá châu Âu 6-9: Xem Chelsea đấu Arsenal, Man United thi đấu kênh nào?",
+      "link": "https://tuoitre.vn/lich-truc-tiep-bong-da-chau-au-6-9-xem-chelsea-dau-arsenal-man-united-thi-dau-kenh-nao-100260905170819203.htm",
+      "summary": "Arsenal đấu Chelsea, hay các trận đấu có sự hiện diện của Man United, Barca... sẽ là tâm điểm của loạt trận bóng đá châu Âu đêm 6-9 rạng sáng 7-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T09:47:20.998672+07:00",
+      "fetched": "2026-09-06T09:47:20.998732+07:00"
+    },
+    {
+      "id": "f45592db4d537b9c8e4dbaaeb2f365c7",
+      "title": "5 anh trai Tinh hà say hi bị loại, khán giả bức xúc đòi 'xem Anh trai vượt ngàn chông gai cho rồi'",
+      "link": "https://tuoitre.vn/5-anh-trai-tinh-ha-say-hi-bi-loai-khan-gia-buc-xuc-doi-xem-anh-trai-vuot-ngan-chong-gai-cho-roi-100260906074643586.htm",
+      "summary": "‘Có những hành trình không được đo bằng việc đi đến đâu, mà được nhớ bằng cách chúng ta đã hết mình như thế nào’, Tinh hà say hi tập 10 tạm biệt 5 anh trai Ali Hoàng Dương, Jsol, KIMLONG, IVAN và Hyo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T09:47:20.998597+07:00",
+      "fetched": "2026-09-06T09:47:20.998661+07:00"
+    },
+    {
+      "id": "3da7ecd3fe872c985505acae361170d5",
+      "title": "Sinh viên Dương Phương Thảo đăng quang Hoa hậu Ngân hà Việt Nam 2026",
+      "link": "https://tuoitre.vn/sinh-vien-duong-phuong-thao-dang-quang-hoa-hau-hoa-hau-ngan-ha-viet-nam-2026-100260906074927726.htm",
+      "summary": "Cô gái Hà Nội Dương Phương Thảo, sinh viên Trường đại học Sư phạm Hà Nội vừa đăng quang hoa hậu Miss Galaxy Vietnam 2026 (Hoa hậu Ngân hà Việt Nam 2026) tối 5-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T09:47:20.998525+07:00",
+      "fetched": "2026-09-06T09:47:20.998586+07:00"
+    },
+    {
+      "id": "bb4018640dc65d2c1ad8074d7fcfdc8d",
+      "title": "Son Heung Min phát biểu 'sốc': Ronaldo là thần tượng của tôi nhưng Messi là GOAT",
+      "link": "https://tuoitre.vn/son-heung-min-phat-bieu-soc-ronaldo-la-than-tuong-cua-toi-nhung-messi-la-goat-100260905202721304.htm",
+      "summary": "Trong cuộc phỏng vấn gần nhất trên podcast The Late Run, Son Heung Min gây chú ý với phát biểu: \"Ronaldo luôn là thần tượng của tôi, nhưng Messi là GOAT\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T09:47:20.998444+07:00",
+      "fetched": "2026-09-06T09:47:20.998511+07:00"
+    },
+    {
+      "id": "3597eecaf6c112ef489cccd4f5b664aa",
+      "title": "Hoàng Đức chấn thương, nguy cơ không dự FIFA ASEAN Cup 2026",
+      "link": "https://tuoitre.vn/hoang-duc-chan-thuong-nguy-co-khong-du-fifa-asean-cup-2026-100260906081413402.htm",
+      "summary": "Sau chức vô địch ASEAN Cup 2026 cùng đội tuyển Việt Nam, tiền vệ Nguyễn Hoàng Đức bị chấn thương trong quá trình chuẩn bị cho LPBank V-League 2026 - 2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T09:47:20.998340+07:00",
+      "fetched": "2026-09-06T09:47:20.998430+07:00"
+    },
+    {
+      "id": "8463a2352dc1acf6188f99996922f7b5",
+      "title": "Dự đoán tỉ số: U20 Việt Nam có điểm đầu tiên ở vòng loại U20 châu Á 2027",
+      "link": "https://tuoitre.vn/du-doan-ti-so-u20-viet-nam-co-diem-dau-tien-o-vong-loai-u20-chau-a-2027-100260905151152829.htm",
+      "summary": "U20 Việt Nam được kỳ vọng sẽ giành được điểm đầu tiên tại vòng loại U20 châu Á 2027 khi đối đầu U20 Iran lúc 19h ngày 6-9 trên sân Việt Trì (Phú Thọ).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T09:47:20.998269+07:00",
+      "fetched": "2026-09-06T09:47:20.998330+07:00"
+    },
+    {
+      "id": "0a90e3c851ec01b204b10956a36624a9",
+      "title": "Vì sao nói Bảo Ngọc Top 6 Miss World là thành tích lịch sử của nhan sắc Việt Nam?",
+      "link": "https://tuoitre.vn/vi-sao-noi-bao-ngoc-top-6-miss-world-la-thanh-tich-lich-su-cua-nhan-sac-viet-nam-100260906074957253.htm",
+      "summary": "Bảo Ngọc dừng ở Top 6 Miss World 2026, trở thành đại diện Việt Nam có thành tích cao nhất tại đấu trường nhan sắc này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T09:47:20.998194+07:00",
+      "fetched": "2026-09-06T09:47:20.998258+07:00"
+    },
+    {
+      "id": "a08a9166258b3b253501e57b0523721c",
+      "title": "Chủ tịch Quốc hội Trần Thanh Mẫn lên đường thăm Hàn Quốc và Mông Cổ",
+      "link": "https://tuoitre.vn/chu-tich-quoc-hoi-tran-thanh-man-len-duong-tham-han-quoc-mong-co-100260906082317743.htm",
+      "summary": "Chuyến công du của Chủ tịch Quốc hội Trần Thanh Mẫn đánh dấu lần thăm Hàn Quốc của Chủ tịch Việt Nam sau 5 năm và Mông Cổ sau 23 năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T09:47:20.998110+07:00",
+      "fetched": "2026-09-06T09:47:20.998182+07:00"
+    },
+    {
+      "id": "e2e316ca038c72e594e701566322e371",
+      "title": "Bệnh thận mạn diễn biến âm thầm: Xét nghiệm rất cần thiết?",
+      "link": "https://tuoitre.vn/benh-than-man-dien-bien-am-tham-xet-nghiem-rat-can-thiet-100260903180052218.htm",
+      "summary": "Hiện khoảng 10% dân số trên thế giới và tại Việt Nam mắc bệnh thận mạn. Đáng nói, bệnh thận mạn thường diễn biến âm thầm, không có triệu chứng rõ ràng ở giai đoạn sớm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T09:47:20.997956+07:00",
+      "fetched": "2026-09-06T09:47:20.998095+07:00"
+    },
     {
       "id": "75d227ebc31a615c43225908342eeb55",
       "title": "Lịch trực tiếp vòng loại U20 châu Á 2026: U20 Việt Nam quyết đấu U20 Iran",
@@ -171,6 +321,416 @@ window.newsData_2026_09_06 = {
       "category": "Tổng hợp",
       "published": "2026-09-06T02:53:41.934759+07:00",
       "fetched": "2026-09-06T02:53:41.934913+07:00"
+    },
+    {
+      "id": "da1e0440e110baa95de473e0b8f47ada",
+      "title": "3 mẫu xe máy dưới 30 triệu đồng, phù hợp với tân sinh viên",
+      "link": "https://thanhnien.vn/3-mau-xe-may-duoi-30-trieu-dong-phu-hop-voi-tan-sinh-vien-185260906001310655.htm",
+      "summary": "Với ngân sách dưới 30 triệu đồng, tân sinh viên hiện có thể lựa chọn từ xe số, xe tay ga đến xe máy điện. Mỗi loại phù hợp một nhu cầu khác nhau, từ ưu tiên tiết kiệm đến tiện dụng hoặc chi phí vận hành thấp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T02:46:00+07:00",
+      "fetched": "2026-09-06T09:47:19.096821+07:00"
+    },
+    {
+      "id": "574f8e66ffaff2c0a46a984cdaf76c51",
+      "title": "Bóng đá Việt Nam đã đến lúc khẳng định vị thế",
+      "link": "https://thanhnien.vn/bong-da-viet-nam-da-den-luc-khang-dinh-vi-the-185260905215532411.htm",
+      "summary": "Vô địch ASEAN Cup hai kỳ liên tiếp năm 2024, 2026 đều nhờ thắng 'đại kình địch' Thái Lan ở chung kết, giành HCV SEA Games 33 cũng nhờ thắng chủ nhà Thái Lan ở chung kết, là những thành quả ngọt ngào của bóng đá VN trong những năm gần đây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T02:46:00+07:00",
+      "fetched": "2026-09-06T09:47:19.096997+07:00"
+    },
+    {
+      "id": "14bd1d56fe6a4e7bd773504210cae2d7",
+      "title": "Lần đầu mua ô tô: 5 câu hỏi người mua nên trả lời trước khi chọn xe?",
+      "link": "https://thanhnien.vn/lan-dau-mua-o-to-5-cau-hoi-nguoi-mua-nen-tra-loi-truoc-khi-chon-xe-185260904103526786.htm",
+      "summary": "Lần đầu mua ô tô, nhiều người thường bắt đầu bằng việc tìm hiểu ngay mẫu xe nào đẹp, nhiều trang bị hoặc đang được giảm giá; tuy nhiên, nếu chưa xác định rõ nhu cầu sử dụng, khả năng tài chính và chi phí vận hành, người mua rất dễ chọn một chiếc xe không thực sự phù hợp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T02:45:00+07:00",
+      "fetched": "2026-09-06T09:47:19.097162+07:00"
+    },
+    {
+      "id": "00a86700665b1e6296a57c6519f0d8e4",
+      "title": "3 thay đổi tài xế cần lưu ý khi lái xe cao tốc",
+      "link": "https://thanhnien.vn/3-thay-doi-tai-xe-can-luu-y-khi-lai-xe-cao-toc-185260905130337462.htm",
+      "summary": "Không chỉ chuyện chạy quá tốc độ, tài xế đi cao tốc hiện nay còn phải chú ý nhiều hơn đến khoảng cách với xe phía trước, cách sử dụng làn trái và tốc độ tối thiểu; khi việc tổ chức, kiểm soát giao thông đang có nhiều thay đổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T02:32:00+07:00",
+      "fetched": "2026-09-06T09:47:19.097319+07:00"
+    },
+    {
+      "id": "f17fbf1662f189256b8667190b6bfe61",
+      "title": "Sau cảnh du khách ngồi sát mép vực 50 m, hàng quán bị yêu cầu thu dọn",
+      "link": "https://thanhnien.vn/sau-canh-du-khach-ngoi-sat-mep-vuc-50-m-hang-quan-bi-yeu-cau-thu-don-185260906074858757.htm",
+      "summary": "Các hàng quán tự phát sát mép vực đèo Lương Sơn (Khánh Hòa) được yêu cầu thu dọn bàn ghế, ký cam kết không tái phạm; lực lượng chức năng cũng đặt biển cấm buôn bán tại khu vực nguy hiểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T02:31:00+07:00",
+      "fetched": "2026-09-06T09:47:19.097499+07:00"
+    },
+    {
+      "id": "cefef48bbc114533ef7040bfd36033f9",
+      "title": "Đề xuất tăng mức đóng BHYT lên 6% theo lộ trình",
+      "link": "https://vnexpress.net/de-xuat-tang-muc-dong-bhyt-len-6-theo-lo-trinh-5117046.html",
+      "summary": "Bộ Y tế đề xuất tăng mức đóng bảo hiểm y tế (BHYT) theo lộ trình từ 4,5% hiện nay lên 5,1% từ năm 2027, sau đó tăng lên 5,4% và 6%.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T02:25:23+07:00",
+      "fetched": "2026-09-06T09:47:16.609492+07:00"
+    },
+    {
+      "id": "4f6f5a7efaf402ef4e99dad036e5c51b",
+      "title": "Từ người bình thường lại thành người thương",
+      "link": "https://vnexpress.net/tu-nguoi-binh-thuong-lai-thanh-nguoi-thuong-5116589.html",
+      "summary": "Em khá thích những mối quan hệ từ quen biết bình thường rồi dần dần trở thành người thương và đó là tiêu chí hiện tại của em.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T02:23:28+07:00",
+      "fetched": "2026-09-06T09:47:16.609732+07:00"
+    },
+    {
+      "id": "25079c84ec58539a1d18a373a33262e9",
+      "title": "Loại chữ bí mật chỉ phụ nữ mới đọc được",
+      "link": "https://vnexpress.net/loai-chu-bi-mat-chi-phu-nu-moi-doc-duoc-5116625.html",
+      "summary": "400 năm trước, các cô gái ở Hồ Nam sáng tạo một loại chữ viết mà đàn ông không thể đọc được, giúp họ giao tiếp, tâm tình với nhau một cách an toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T02:22:44+07:00",
+      "fetched": "2026-09-06T09:47:16.609952+07:00"
+    },
+    {
+      "id": "25079c84ec58539a1d18a373a33262e9",
+      "title": "Loại chữ bí mật chỉ phụ nữ mới đọc được",
+      "link": "https://vnexpress.net/loai-chu-bi-mat-chi-phu-nu-moi-doc-duoc-5116625.html",
+      "summary": "400 năm trước, các cô gái ở Hồ Nam sáng tạo một loại chữ viết mà đàn ông không thể đọc được, giúp họ giao tiếp, tâm tình với nhau một cách an toàn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-06T02:22:44+07:00",
+      "fetched": "2026-09-06T09:47:22.345343+07:00"
+    },
+    {
+      "id": "dd5e06ffae167532c2e93b13ee3024ca",
+      "title": "Người phụ nữ sống sót sau 10 ngày bị vùi lấp do lũ quét Nepal",
+      "link": "https://vnexpress.net/nguoi-phu-nu-song-sot-sau-10-ngay-bi-vui-lap-do-lu-quet-nepal-5117031.html",
+      "summary": "Lực lượng cứu hộ Nepal giải cứu thành công người phụ nữ từ một ngôi nhà bị vùi lấp, 10 ngày sau thảm họa lũ quét.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T02:21:58+07:00",
+      "fetched": "2026-09-06T09:47:16.610179+07:00"
+    },
+    {
+      "id": "dd5e06ffae167532c2e93b13ee3024ca",
+      "title": "Người phụ nữ sống sót sau 10 ngày bị vùi lấp do lũ quét Nepal",
+      "link": "https://vnexpress.net/nguoi-phu-nu-song-sot-sau-10-ngay-bi-vui-lap-do-lu-quet-nepal-5117031.html",
+      "summary": "Lực lượng cứu hộ Nepal giải cứu thành công người phụ nữ từ một ngôi nhà bị vùi lấp, 10 ngày sau thảm họa lũ quét.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-06T02:21:58+07:00",
+      "fetched": "2026-09-06T09:47:22.345557+07:00"
+    },
+    {
+      "id": "747a003a46e03a632bfffa6c6963e4ac",
+      "title": "Những gì tạo nên mức giá gần 20 tỷ đồng của Porsche 911 Turbo S 2026?",
+      "link": "https://vnexpress.net/nhung-gi-tao-nen-muc-gia-gan-20-ty-dong-cua-porsche-911-turbo-s-2026-5116873.html",
+      "summary": "Mẫu 911 Turbo S 2026 mạnh 701 mã lực, tăng tốc 0-100 km/h trong 2,5 giây, động cơ 3.6 kèm bộ tăng áp điện kép.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T02:19:22+07:00",
+      "fetched": "2026-09-06T09:47:16.610414+07:00"
+    },
+    {
+      "id": "ae079eb30a67825599d88af7ba45519f",
+      "title": "Phim lịch sử Việt: Sáng tạo đến đâu để vừa đúng sử, vừa đậm \"chất Việt\" ?",
+      "link": "https://thanhnien.vn/phim-lich-su-viet-sang-tao-den-dau-de-vua-dung-su-vua-dam-chat-viet-185260906075730216.htm",
+      "summary": "Thiết kế mỹ thuật, trang phục, đặc biệt là hệ thống giáp trụ trong bộ phim mang phong cách huyền sử Hộ linh tráng sĩ - Bí ẩn mộ Vua Đinh (đạo diễn Nguyễn Phan Quang Bình) đang gây chú ý bởi sự đầu tư thấu đáo và nỗ lực tạo dựng một không gian điện ảnh mang dấu ấn văn hóa, lịch sử Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T02:15:00+07:00",
+      "fetched": "2026-09-06T09:47:19.097660+07:00"
+    },
+    {
+      "id": "9cdeb2503b9a3c09ac728381fa856d40",
+      "title": "Nhiều khách bị lừa khi đặt khách sạn ở Măng Đen",
+      "link": "https://vnexpress.net/nhieu-khach-bi-lua-khi-dat-khach-san-o-mang-den-5116902.html",
+      "summary": "Nhiều khách bị mất tiền dịp lễ 2/9 khi những kẻ lừa đảo lập fanpage giả mạo các khách sạn tại Măng Đen, tiếp cận khách, tư vấn và yêu cầu chuyển tiền phòng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T02:04:36+07:00",
+      "fetched": "2026-09-06T09:47:16.610599+07:00"
+    },
+    {
+      "id": "63d83f6110eb93872cae07c6989aed54",
+      "title": "Giá Bitcoin hôm nay 6.9.2026: Rung lắc quanh vùng giá 80.000 USD",
+      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-692026-rung-lac-quanh-vung-gia-80000-usd-185260906082410622.htm",
+      "summary": "Giá Bitcoin hôm nay dao động quanh vùng giá 80.000 USD trong khi các token khác như BNB, Ethereum chứng kiến đà phục hồi tốt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T02:02:00+07:00",
+      "fetched": "2026-09-06T09:47:19.097819+07:00"
+    },
+    {
+      "id": "b296b374c51877e96bbb6f738eb9828b",
+      "title": "Gia đình bạn trai đến chơi, họ mới biết tôi từng ly dị và đang nuôi con",
+      "link": "https://vnexpress.net/gia-dinh-ban-trai-den-choi-ho-moi-biet-toi-tung-ly-di-va-dang-nuoi-con-5116937.html",
+      "summary": "Mẹ anh từ lúc biết chuyện đã gần như không nói gì thêm, còn một vài người thân bên phía anh nhìn tôi bằng ánh mắt không nấy thiện cảm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T02:00:00+07:00",
+      "fetched": "2026-09-06T09:47:16.610763+07:00"
+    },
+    {
+      "id": "b43dfd29f6c08b477def7f2637523e22",
+      "title": "Vụ nổ tên lửa Blue Origin tạo sóng âm lan khắp nước Mỹ",
+      "link": "https://vnexpress.net/vu-no-ten-lua-blue-origin-tao-song-am-lan-khap-nuoc-my-5116865.html",
+      "summary": "Sự cố phát nổ của tên lửa New Glenn ở Florida hồi tháng 5 mạnh tương đương vụ nổ lò phản ứng Chernobyl năm 1986, tạo ra sóng âm lan xa hơn 1.600 km tới tận Texas.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T02:00:00+07:00",
+      "fetched": "2026-09-06T09:47:16.610920+07:00"
+    },
+    {
+      "id": "b4e9cfcd78633ffc67f9704abd97f539",
+      "title": "Bác sĩ Mỹ chỉ ra 5 dấu hiệu ở chân cảnh báo thận suy",
+      "link": "https://vnexpress.net/bac-si-my-chi-ra-5-dau-hieu-o-chan-canh-bao-than-suy-5116503.html",
+      "summary": "Các bất thường ở đôi chân như vết hằn tất lâu lặn, chuột rút (vọp bẻ) hay bồn chồn bắp chân là những tín hiệu cảnh báo sớm bệnh thận mạn tính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T02:00:00+07:00",
+      "fetched": "2026-09-06T09:47:16.611073+07:00"
+    },
+    {
+      "id": "5404afc5653642dd25081780977be82b",
+      "title": "Man Utd liệu có phải trả giá vì chuyển nhượng 'cuốn chiếu'?",
+      "link": "https://vnexpress.net/man-utd-lieu-co-phai-tra-gia-vi-chuyen-nhuong-cuon-chieu-5115888.html",
+      "summary": "Man Utd hoàn tất kế hoạch tăng cường hàng công và tuyến giữa, nhưng việc trì hoãn cải tổ hàng thủ khiến HLV Michael Carrick phải phụ thuộc vào Luke Shaw.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T02:00:00+07:00",
+      "fetched": "2026-09-06T09:47:16.611232+07:00"
+    },
+    {
+      "id": "e268ef3a9997cfb728c194ebea0b00f4",
+      "title": "T&amp;T Group tài trợ 600 triệu đồng thiết bị cho trường học Hà Nội",
+      "link": "https://vnexpress.net/t-t-group-tai-tro-600-trieu-dong-thiet-bi-cho-truong-hoc-ha-noi-5117041.html",
+      "summary": "T&T Group tặng 10 máy tính và 25 tivi cho hai trường tại phường Tùng Thiện nhân dịp năm học mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T02:00:00+07:00",
+      "fetched": "2026-09-06T09:47:16.611418+07:00"
+    },
+    {
+      "id": "911b92156e58f13e617cd62862c47af2",
+      "title": "Sợ lây bệnh khi ở ghép",
+      "link": "https://vnexpress.net/so-lay-benh-khi-o-ghep-5116953.html",
+      "summary": "Sau khi tốt nghiệp đại học, Hoàng Văn Minh, 22 tuổi, rời ký túc xá để thuê chung căn hộ với ba người mới quen tại TP HCM, song luôn lo lắng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T02:00:00+07:00",
+      "fetched": "2026-09-06T09:47:16.611583+07:00"
+    },
+    {
+      "id": "3f4a62e92c35197509e7f00cd949e450",
+      "title": "4 thói quen sau khi thức dậy không tốt cho phổi",
+      "link": "https://vnexpress.net/4-thoi-quen-sau-khi-thuc-day-khong-tot-cho-phoi-5116935.html",
+      "summary": "Bỏ ăn sáng, hút thuốc lá, không uống nước và hít phải khói bụi ngay sau khi thức dậy có thể ảnh hưởng xấu đến sức khỏe phổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T02:00:00+07:00",
+      "fetched": "2026-09-06T09:47:16.611735+07:00"
+    },
+    {
+      "id": "af9395b3e938b4821a25ab775079acce",
+      "title": "Bỏ việc văn phòng để làm lồng đèn, có chiếc giá hơn 100 triệu đồng",
+      "link": "https://thanhnien.vn/bo-viec-van-phong-de-lam-long-den-co-chiec-gia-hon-100-trieu-dong-185260906011017334.htm",
+      "summary": "Bỏ công việc văn phòng, chị Nguyễn Thị Kim Thủy (34 tuổi) rẽ hướng sang làm lồng đèn. 5 năm, chị Thủy cùng chồng và những cộng sự trẻ miệt mài phỏng dựng những mẫu lồng đèn từng được các nghệ nhân xưa tạo tác cách đây hơn 100 năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T02:00:00+07:00",
+      "fetched": "2026-09-06T09:47:19.097971+07:00"
+    },
+    {
+      "id": "1ddf0b851cc36024556578a77a701147",
+      "title": "24 giờ - Truyện ngắn của La Thị Ánh Hường",
+      "link": "https://thanhnien.vn/24-gio-truyen-ngan-cua-la-thi-anh-huong-185260905173145724.htm",
+      "summary": "Ở phòng chụp MRI, anh chàng bác sĩ to cao trong bộ blue trắng tiễn My ra về bằng cái vỗ vai cùng lời dặn: \"Bằng giờ này ngày mai em đến lấy kết quả nha!\". My gật đầu, lặng lẽ quay ra. Cảm giác cái hẹn \"24 giờ\" này nặng như có cả khối đá đè lên ngực mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T02:00:00+07:00",
+      "fetched": "2026-09-06T09:47:19.098130+07:00"
+    },
+    {
+      "id": "22ad8a2ce6c1bdad7b667831c7c381e2",
+      "title": "Một tấm lòng thiện nguyện với quê hương thứ hai",
+      "link": "https://thanhnien.vn/mot-tam-long-thien-nguyen-voi-que-huong-thu-hai-185260827164009229.htm",
+      "summary": "Tôi gặp anh trong các hoạt động thiện nguyện, công tác xã hội. Dù hạn chế về tiếng Anh, tôi vẫn chủ động làm quen và trò chuyện với anh. Anh tên đầy đủ là Shiv Kumar Verma.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T02:00:00+07:00",
+      "fetched": "2026-09-06T09:47:19.098283+07:00"
+    },
+    {
+      "id": "b43dfd29f6c08b477def7f2637523e22",
+      "title": "Vụ nổ tên lửa Blue Origin tạo sóng âm lan khắp nước Mỹ",
+      "link": "https://vnexpress.net/vu-no-ten-lua-blue-origin-tao-song-am-lan-khap-nuoc-my-5116865.html",
+      "summary": "Sự cố phát nổ của tên lửa New Glenn ở Florida hồi tháng 5 mạnh tương đương vụ nổ lò phản ứng Chernobyl năm 1986, tạo ra sóng âm lan xa hơn 1.600 km tới tận Texas.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-06T02:00:00+07:00",
+      "fetched": "2026-09-06T09:47:25.550192+07:00"
+    },
+    {
+      "id": "5404afc5653642dd25081780977be82b",
+      "title": "Man Utd liệu có phải trả giá vì chuyển nhượng 'cuốn chiếu'?",
+      "link": "https://vnexpress.net/man-utd-lieu-co-phai-tra-gia-vi-chuyen-nhuong-cuon-chieu-5115888.html",
+      "summary": "Man Utd hoàn tất kế hoạch tăng cường hàng công và tuyến giữa, nhưng việc trì hoãn cải tổ hàng thủ khiến HLV Michael Carrick phải phụ thuộc vào Luke Shaw.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-06T02:00:00+07:00",
+      "fetched": "2026-09-06T09:47:26.960644+07:00"
+    },
+    {
+      "id": "5e339bd207c78b655af2cf25765f80bc",
+      "title": "Thủ khoa Bách khoa TP HCM giành 'cú đúp' điểm Toán tuyệt đối",
+      "link": "https://vnexpress.net/thu-khoa-bach-khoa-tp-hcm-gianh-cu-dup-diem-toan-tuyet-doi-5117000.html",
+      "summary": "Vượt qua hơn 6.000 tân sinh viên, Võ Gia Thịnh là thủ khoa kép với điểm thi đánh giá năng lực và xét tuyển tổng hợp cao nhất trường Đại học Bách khoa TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T01:59:41+07:00",
+      "fetched": "2026-09-06T09:47:16.611890+07:00"
+    },
+    {
+      "id": "d7628d0c074074281ebf39388259c8cd",
+      "title": "Hơn 1.500 lỗ hổng Linux được phát hiện với sự hỗ trợ của AI",
+      "link": "https://thanhnien.vn/hon-1500-lo-hong-linux-duoc-phat-hien-voi-su-ho-tro-cua-ai-185260905205911358.htm",
+      "summary": "Các công cụ AI đang cho thấy khả năng phát hiện lỗi đáng kể trên Linux, nhưng lượng báo cáo tăng nhanh cũng tạo thêm áp lực cho đội ngũ duy trì nhân hệ điều hành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T01:57:00+07:00",
+      "fetched": "2026-09-06T09:47:19.098460+07:00"
+    },
+    {
+      "id": "c70085685cf7dadd8e596f8ea4a69965",
+      "title": "Cháy căn hộ tầng 9, ba mẹ con kịp chạy ra ngoài",
+      "link": "https://vnexpress.net/chay-can-ho-tang-9-ba-me-con-kip-chay-ra-ngoai-5117043.html",
+      "summary": "Lửa bùng lên tại căn hộ tầng 9 tòa chung cư HH1 số 90 Nguyễn Tuân, ba mẹ con sống trong căn hộ thoát được ra ngoài, rạng sáng 6/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T01:52:02+07:00",
+      "fetched": "2026-09-06T09:47:16.612045+07:00"
+    },
+    {
+      "id": "9e5d3638a534507b72b885aac2df3c00",
+      "title": "Ăn sáng với khoai lang và trứng có tốt không?",
+      "link": "https://thanhnien.vn/an-sang-voi-khoai-lang-va-trung-co-tot-khong-185260906084010156.htm",
+      "summary": "Khoai lang và trứng là 2 thực phẩm quen thuộc trong bữa sáng của nhiều người. Một bên cung cấp carbohydrate và chất xơ, bên còn lại giàu protein. Vậy ăn kết hợp hai món này vào buổi sáng có thực sự tốt cho sức khỏe?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T01:36:00+07:00",
+      "fetched": "2026-09-06T09:47:19.098614+07:00"
+    },
+    {
+      "id": "a55eea7b87d345f29518570ac378d558",
+      "title": "Canada biến khoáng sản chiến lược thành 'đòn bẩy' đối phó thương chiến Mỹ",
+      "link": "https://thanhnien.vn/canada-bien-khoang-san-chien-luoc-thanh-don-bay-doi-pho-thuong-chien-my-185260906075926681.htm",
+      "summary": "Trong bối cảnh căng thẳng thương mại với Mỹ leo thang, chính quyền Canada đang phát đi tín hiệu cứng rắn khi không còn coi khoáng sản chiến lược là nguồn tài nguyên ưu tiên chia sẻ với Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T01:25:00+07:00",
+      "fetched": "2026-09-06T09:47:19.098766+07:00"
+    },
+    {
+      "id": "bf620069315dfbebb97e21827868f587",
+      "title": "Thủ tướng Meloni lập kỷ lục trong nhiệm kỳ nhưng đối mặt thách thức lớn",
+      "link": "https://thanhnien.vn/thu-tuong-meloni-lap-ky-luc-trong-nhiem-ky-nhung-doi-mat-thach-thuc-lon-185260905211833502.htm",
+      "summary": "Tại một quốc gia vốn nổi tiếng với sự bất ổn chính trị, bà Giorgia Meloni đang trên đà lãnh đạo chính phủ có thời gian tại nhiệm lâu nhất của Ý kể từ Thế chiến thứ hai. Tuy nhiên, ngay khi Ý vừa thoát khỏi 'tiếng xấu' về sự biến động chính trị, các cuộc thăm dò dư luận lại cho thấy cuộc bầu cử quốc ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T01:13:00+07:00",
+      "fetched": "2026-09-06T09:47:19.098918+07:00"
+    },
+    {
+      "id": "b5d141e50d492fc9c673637295445206",
+      "title": "Ronaldo tịt ngòi, Al Nassr mất đỉnh bảng Pro League",
+      "link": "https://vnexpress.net/ronaldo-tit-ngoi-al-nassr-mat-dinh-bang-pro-league-5117036.html",
+      "summary": "Cristiano Ronaldo không ghi bàn khi Al Nassr thua Al Ittihad 1-2 ở vòng 5 Saudi Pro League, qua đó nhận thất bại đầu tiên và mất đỉnh bảng vào tay Al Hilal.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-06T01:10:00+07:00",
+      "fetched": "2026-09-06T09:47:26.960829+07:00"
+    },
+    {
+      "id": "71aae9de036ca657f3429db7bc883308",
+      "title": "Thay đổi nhỏ khiến Google Translate trở nên tiện lợi hơn",
+      "link": "https://thanhnien.vn/thay-doi-nho-khien-google-translate-tro-nen-tien-loi-hon-185260905230629.htm",
+      "summary": "Google Translate vừa bổ sung hai cải tiến đáng chú ý giúp người dùng dịch hội thoại trực tiếp thuận tiện hơn trên smartphone.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T01:07:00+07:00",
+      "fetched": "2026-09-06T09:47:19.099065+07:00"
+    },
+    {
+      "id": "ea7c7c0c0cce917e6765dbb3312e8758",
+      "title": "Tình thế 'chực chờ bùng nổ' giữa Mỹ và Iran",
+      "link": "https://vnexpress.net/tinh-the-chuc-cho-bung-no-giua-my-va-iran-5116767.html",
+      "summary": "Mỹ và Iran đều không muốn xung đột tổng lực, nhưng áp lực quân sự, kinh tế và cuộc đối đầu tại Hormuz đang khiến thế giằng co ngày càng khó duy trì.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-06T01:00:00+07:00",
+      "fetched": "2026-09-06T09:47:22.345724+07:00"
+    },
+    {
+      "id": "529b330b420b94e36a223f1c4b106e44",
+      "title": "Tàu sân bay Mỹ 'né tránh thành công' loạt tên lửa đạn đạo Iran",
+      "link": "https://vnexpress.net/tau-san-bay-my-ne-tranh-thanh-cong-loat-ten-lua-dan-dao-iran-5117025.html",
+      "summary": "CENTCOM xác nhận Iran phóng nhiều tên lửa đạn đạo nhằm vào tàu sân bay và khu trục hạm Mỹ, khẳng định không có thương vong trong sự việc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-06T00:45:36+07:00",
+      "fetched": "2026-09-06T09:47:22.345893+07:00"
+    },
+    {
+      "id": "4abe69f27d4a4f210856b6aaa331c6ce",
+      "title": "Bóng cảm biến La Liga hủy siêu phẩm của tiền đạo Real Madrid",
+      "link": "https://vnexpress.net/bong-cam-bien-la-liga-huy-sieu-pham-cua-tien-dao-real-madrid-5117020.html",
+      "summary": "Công nghệ bóng mới xác định lỗi việt vị từ đầu pha bóng nên không công nhận pha ngả bàn đèn của tiền đạo Carlos Espi cuối trận Real thua Betis ở vòng 4 La Liga.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-06T00:23:30+07:00",
+      "fetched": "2026-09-06T09:47:26.961664+07:00"
+    },
+    {
+      "id": "258e1eda0dd19b1129b3668bcdf11e61",
+      "title": "Henry cảnh báo Liverpool về cách dùng Barcola",
+      "link": "https://vnexpress.net/henry-canh-bao-liverpool-ve-cach-dung-barcola-5116857.html",
+      "summary": "Dù đề cao Bradley Barcola, cựu danh thủ Pháp Thierry Henry tin rằng Liverpool phải xây dựng một hệ thống phù hợp để khai thác tối đa những điểm mạnh của tân binh trị giá 167 triệu USD.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-06T00:16:16+07:00",
+      "fetched": "2026-09-06T09:47:26.960996+07:00"
+    },
+    {
+      "id": "a7d9e5f2f3b405323f87d956c439f815",
+      "title": "Tay vợt Trung Quốc thắng ngược không tưởng ở Mỹ Mở rộng 2026",
+      "link": "https://vnexpress.net/tay-vot-trung-quoc-thang-nguoc-khong-tuong-o-my-mo-rong-2026-5117024.html",
+      "summary": "Zheng Qinwen cứu match-point rồi thắng bảy game liên tiếp từ thế bị dẫn 0-5 ở set quyết định, để hạ Madison Keys 1-6, 7-6(3), 7-5 tại vòng ba Mỹ Mở rộng 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-06T00:07:06+07:00",
+      "fetched": "2026-09-06T09:47:26.961156+07:00"
+    },
+    {
+      "id": "818ba9c830686b346dbd16804c680e49",
+      "title": "Cách kiểm tra doanh nghiệp bị chuyển trạng thái 'không hoạt động tại địa chỉ'",
+      "link": "https://vnexpress.net/cach-kiem-tra-doanh-nghiep-bi-chuyen-trang-thai-khong-hoat-dong-tai-dia-chi-5116910.html",
+      "summary": "Người dân có thể nhập mã số thuế trên website Cục Thuế để kiểm tra doanh nghiệp có thuộc trạng thái \"không hoạt động tại địa chỉ đã đăng ký\", cùng thời điểm bắt đầu công khai.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-06T00:00:00+07:00",
+      "fetched": "2026-09-06T09:47:23.680954+07:00"
     },
     {
       "id": "91bae9fdfb040b9c7b8cbe2c6e31d10b",
@@ -1071,6 +1631,16 @@ window.newsData_2026_09_06 = {
       "category": "Thế giới",
       "published": "2026-09-05T04:30:37+07:00",
       "fetched": "2026-09-06T02:53:43.452176+07:00"
+    },
+    {
+      "id": "207ad7c7df966957a1f1c67e7495e9ee",
+      "title": "Nổ kho bảo dưỡng tại căn cứ pháo binh, 14 quân nhân mất tích",
+      "link": "https://vnexpress.net/no-kho-bao-duong-tai-can-cu-phao-binh-14-quan-nhan-mat-tich-5116785.html",
+      "summary": "Kho bảo dưỡng vũ khí trong căn cứ pháo binh ở thành phố Viacha phát nổ, khiến 2 người thiệt mạng và 84 người bị thương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-05T04:30:37+07:00",
+      "fetched": "2026-09-06T09:47:22.347488+07:00"
     },
     {
       "id": "1ef27d109dfbd7ecf7ebfba79fe35a31",
