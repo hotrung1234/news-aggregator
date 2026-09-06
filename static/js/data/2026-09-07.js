@@ -1,6 +1,6 @@
 window.newsData_2026_09_07 = {
   "date": "2026-09-07",
-  "lastUpdated": "2026-09-07T04:59:37.263127+07:00",
+  "lastUpdated": "2026-09-07T06:43:42.457239+07:00",
   "articles": [
     {
       "id": "aafa5f9c4394700b59f922a88089061c",
@@ -151,6 +151,336 @@ window.newsData_2026_09_07 = {
       "category": "Tổng hợp",
       "published": "2026-09-07T02:57:28.086385+07:00",
       "fetched": "2026-09-07T02:57:28.086539+07:00"
+    },
+    {
+      "id": "fc73b62a793f0345f78d4235acd21d63",
+      "title": "Hướng dẫn mới thuế thu nhập cá nhân trên sàn thương mại điện tử",
+      "link": "https://thanhnien.vn/huong-dan-moi-thue-thu-nhap-ca-nhan-tren-san-thuong-mai-dien-tu-185260906224422692.htm",
+      "summary": "Chi cục Thuế thương mại điện tử (TMĐT, Cục Thuế) vừa có Công văn 458 gửi các nhà quản lý sàn giao dịch TMĐT, nhà quản lý nền tảng số; chủ quản nền tảng TMĐT, nền tảng số về việc hướng dẫn hộ, cá nhân kinh doanh thực hiện tạm nộp thuế thu nhập cá nhân (TNCN).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T23:42:00+07:00",
+      "fetched": "2026-09-07T06:43:33.489294+07:00"
+    },
+    {
+      "id": "4c9bfd50d5796aa4ca102d142680655f",
+      "title": "Máy bay lao khỏi đường băng ở Florida, ít nhất 5 người thiệt mạng",
+      "link": "https://thanhnien.vn/may-bay-lao-khoi-duong-bang-o-florida-it-nhat-5-nguoi-thiet-mang-185260907063433025.htm",
+      "summary": "Chiếc Boeing 767 chở hàng của Amazon đã lao quá cuối đường băng khi hạ cánh tại sân bay quốc tế Miami khiến ít nhất 5 người thiệt mạng và 5 người bị thương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T23:40:00+07:00",
+      "fetched": "2026-09-07T06:43:33.489466+07:00"
+    },
+    {
+      "id": "6c5fa48d2e9d3664902d2451f00a1774",
+      "title": "Những cặp vợ chồng lương cao cuối tháng vẫn cạn tiền",
+      "link": "https://vnexpress.net/nhung-cap-vo-chong-luong-cao-cuoi-thang-van-can-tien-5110073.html",
+      "summary": "Tổng thu nhập của vợ chồng hơn 100 triệu đồng mỗi tháng nên Thu Hà rất bất ngờ khi nhận ra mình không có đồng tiết kiệm nào lúc chuẩn bị làm đám cưới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T23:29:00+07:00",
+      "fetched": "2026-09-07T06:43:31.100526+07:00"
+    },
+    {
+      "id": "f645e4595b54bd393ee92c899da8fba8",
+      "title": "Chàng trai mê cải lương sở hữu giọng hiếm, khiến Phượng Loan nhớ đến Điền Tử Lang",
+      "link": "https://thanhnien.vn/chang-trai-me-cai-luong-so-huu-giong-hiem-khien-phuong-loan-nho-den-dien-tu-lang-185260907005623902.htm",
+      "summary": "Trong đêm chung kết 1 của 'Chuông vàng vọng cổ', thí sinh Trí Khang khiến NSND Phượng Loan và các giám khảo đánh giá cao vì chất giọng hiếm, có nét giống nghệ sĩ Điền Tử Lang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T23:25:00+07:00",
+      "fetched": "2026-09-07T06:43:33.489620+07:00"
+    },
+    {
+      "id": "980cb65a3703ebbe849a12bf5862dcb6",
+      "title": "Hội chứng tiêu cơ vân ở người tập luyện cường độ cao",
+      "link": "https://thanhnien.vn/hoi-chung-tieu-co-van-o-nguoi-tap-luyen-cuong-do-cao-185260906180845796.htm",
+      "summary": "Duy trì thói quen tập gym cường độ cao hằng ngày, nam thanh niên 31 tuổi tại Hà Nội nhập viện do tiêu cơ vân. Đây là một tình trạng có thể dẫn đến suy thận cấp và nhiều biến chứng nghiêm trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T23:24:00+07:00",
+      "fetched": "2026-09-07T06:43:33.489769+07:00"
+    },
+    {
+      "id": "603460ba0a6017a0445fd1c90d42dff5",
+      "title": "Ông bố Bắc Ninh chế tạo 30 siêu xe bằng gỗ",
+      "link": "https://vnexpress.net/ong-bo-bac-ninh-che-tao-30-sieu-xe-bang-go-5116034.html",
+      "summary": "Khởi đầu từ việc làm đồ chơi cho con, anh Trương Văn Đạo chế tạo hơn 30 siêu xe bằng gỗ, tỷ lệ 85% so với nguyên bản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T23:16:00+07:00",
+      "fetched": "2026-09-07T06:43:31.100706+07:00"
+    },
+    {
+      "id": "737711e7c22bec2011d2561096038a72",
+      "title": "Mẹ 92 tuổi sợ ngủ một mình, các con lập tờ lịch đặc biệt",
+      "link": "https://thanhnien.vn/me-92-tuoi-so-ngu-mot-minh-cac-con-lap-to-lich-dac-biet-185260906215616737.htm",
+      "summary": "Vì mẹ 92 tuổi thường sợ khi ở một mình vào ban đêm, những người con lập tờ lịch chia nhau từng ngày trong tuần để tối nào cũng có người về ngủ cùng bà.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T23:10:00+07:00",
+      "fetched": "2026-09-07T06:43:33.489920+07:00"
+    },
+    {
+      "id": "6f4c9f63dcf1643b0046e7abe45eff01",
+      "title": "Tiệm bánh Triều Châu 80 năm ở Sài Gòn: Quyết không bán bánh nguội cho khách",
+      "link": "https://thanhnien.vn/tiem-banh-trieu-chau-80-nam-o-sai-gon-quyet-khong-ban-banh-nguoi-cho-khach-185260905221317385.htm",
+      "summary": "Tồn tại giữa lòng Sài Gòn hơn 8 thập kỷ, một tiệm bánh pía Triều Châu tại hẻm nhỏ Bình Tiên vẫn bền bỉ giữ trọn một nguyên tắc khắt khe: Bán đến đâu, nướng đến đó, kiên quyết không để khách cầm trên tay chiếc bánh nguội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T23:10:00+07:00",
+      "fetched": "2026-09-07T06:43:33.490102+07:00"
+    },
+    {
+      "id": "6b7cdeadbe941378d14a822ec4aa2dcf",
+      "title": "Sau sắp xếp trường học: Cơ hội để nhà giáo khẳng định giá trị của mình",
+      "link": "https://thanhnien.vn/sau-sap-xep-truong-hoc-co-hoi-de-nha-giao-khang-dinh-gia-tri-cua-minh-185260906163527827.htm",
+      "summary": "Năm học mới 2026 - 2027 bắt đầu khi nhiều trường học được sắp xếp theo hướng tinh gọn bộ máy với kỳ vọng nâng cao chất lượng giáo dục toàn diện một cách sáng tạo, căn cơ và trung thực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T23:05:00+07:00",
+      "fetched": "2026-09-07T06:43:33.490255+07:00"
+    },
+    {
+      "id": "99be1f67c0718be707e47b9a42692fed",
+      "title": "Điểm tin 6h: Hà Nội nghiên cứu hạ giải nhiều tòa nhà bên Hồ Gươm | Việt Nam dừng bước ở vòng loại U20 châu Á 2027",
+      "link": "https://vnexpress.net/diem-tin-6h-ha-noi-nghien-cuu-ha-giai-nhieu-toa-nha-ben-ho-guom-viet-nam-dung-buoc-o-vong-loai-u20-chau-a-2027-5117218.html",
+      "summary": "Việt Nam tụt hạng ở vòng loại U20 châu Á; Nhà đầu tư vàng 'nín thở' chờ quyết định lãi suất của Fed;...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T23:03:10+07:00",
+      "fetched": "2026-09-07T06:43:31.100876+07:00"
+    },
+    {
+      "id": "7ef058128baa201a4985a96ad271b655",
+      "title": "Đề xuất BHYT trả chi phí sàng lọc 7 bệnh ung thư",
+      "link": "https://vnexpress.net/de-xuat-bhyt-tra-chi-phi-sang-loc-7-benh-ung-thu-5117091.html",
+      "summary": "Bộ Y tế đề xuất Quỹ Bảo hiểm y tế (BHYT) thanh toán chi phí khám sàng lọc, chẩn đoán sớm 7 bệnh ung thư và viêm gan B, C, thay vì trả khi người bệnh đã được chẩn đoán và điều trị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T23:00:00+07:00",
+      "fetched": "2026-09-07T06:43:31.101074+07:00"
+    },
+    {
+      "id": "5f8f7391a2b6872d6da79aeec3f60947",
+      "title": "'Thiên tài' Toán học bỏ tu hành, livestream kiếm sống",
+      "link": "https://vnexpress.net/thien-tai-toan-hoc-bo-tu-hanh-livestream-kiem-song-5117034.html",
+      "summary": "Từng từ chối học bổng MIT để lên núi tu hành, thần đồng toán học Liu Zhiyu giờ đây làm việc hơn 10 tiếng mỗi ngày trong phòng livestream để gánh vác gia đình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T23:00:00+07:00",
+      "fetched": "2026-09-07T06:43:31.101250+07:00"
+    },
+    {
+      "id": "74ae730a2df0aaff6f107c780482e09d",
+      "title": "Simple Wave - xe máy điện đa dụng giá từ 1.200 USD",
+      "link": "https://vnexpress.net/simple-wave-xe-may-dien-da-dung-gia-tu-1-200-usd-5117100.html",
+      "summary": "Mẫu xe máy điện lắp pin 2,2-5 kWh, phạm vi hoạt động 110-243 km, cốp chứa đồ dưới yên 63 lít, tốc độ tối đa 90 km/h.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T23:00:00+07:00",
+      "fetched": "2026-09-07T06:43:31.101406+07:00"
+    },
+    {
+      "id": "35b2d05223b3404e57d452ce5d1441f8",
+      "title": "Tăng tốc kinh tế thương mại Việt - Nga",
+      "link": "https://thanhnien.vn/tang-toc-kinh-te-thuong-mai-viet-nga-185260906214311163.htm",
+      "summary": "Kim ngạch thương mại hai chiều, đầu tư giữa VN - Nga liên tục tăng trưởng trong những năm qua. Dù vậy theo các chuyên gia, dư địa cũng như tiềm năng vẫn còn nhiều để tăng tốc thời gian tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T23:00:00+07:00",
+      "fetched": "2026-09-07T06:43:33.490413+07:00"
+    },
+    {
+      "id": "1daac99c89f6f4785cfed33b1f8a4b12",
+      "title": "'Vật lộn' khai tử doanh nghiệp",
+      "link": "https://thanhnien.vn/vat-lon-khai-tu-doanh-nghiep-185260906213624571.htm",
+      "summary": "Sự tồn tại của hàng trăm ngàn doanh nghiệp \"chết chưa chôn\" gây ra không ít hệ quả cho nền kinh tế khi số liệu bị bóp méo, doanh nghiệp không thể rời thị trường nhanh chóng...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T23:00:00+07:00",
+      "fetched": "2026-09-07T06:43:33.490572+07:00"
+    },
+    {
+      "id": "ab657fbd479803ad7a17351c8440ec81",
+      "title": "Thế giới tìm cách kiểm soát rô bốt sát thủ",
+      "link": "https://thanhnien.vn/the-gioi-tim-cach-kiem-soat-ro-bot-sat-thu-185260906193424475.htm",
+      "summary": "Gần 130 nước thống nhất về định nghĩa vũ khí tự động có thể gây chết người, bước đầu tiên hướng đến việc thảo luận hiệp ước quốc tế nhằm kiểm soát vũ khí này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T23:00:00+07:00",
+      "fetched": "2026-09-07T06:43:33.490733+07:00"
+    },
+    {
+      "id": "e9497b121307aadf978c3a28420518bf",
+      "title": "Cấp tốc đưa cao tốc Bến Lức - Long Thành về đích",
+      "link": "https://thanhnien.vn/cap-toc-dua-cao-toc-ben-luc-long-thanh-ve-dich-185260906180137432.htm",
+      "summary": "Trong bối cảnh Cảng hàng không quốc tế Long Thành đang dồn toàn lực để kịp đưa vào khai thác thương mại cuối năm nay theo đúng hẹn, việc tăng tốc hoàn thành tuyến cao tốc Bến Lức - Long Thành trở thành nhiệm vụ cấp bách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T23:00:00+07:00",
+      "fetched": "2026-09-07T06:43:33.490885+07:00"
+    },
+    {
+      "id": "9c5d892a8b2cd749e1276d096ecb380b",
+      "title": "Điều gì khiến Bò né Bà Nũi đông khách nước ngoài phải xếp hàng?",
+      "link": "https://thanhnien.vn/dieu-gi-khien-bo-ne-ba-nui-dong-khach-ngoai-phai-xep-hang-185260906012016734.htm",
+      "summary": "Nằm ở góc giao lộ Nguyễn Thái Bình - Calmette (phường Nguyễn Thái Bình, TP.HCM), Bò né Bà Nũi trông chẳng khác gì một quán ăn vỉa hè bình thường giữa lòng TP.HCM. Nhưng mỗi sáng, 95% thực khách tại đây lại là người nước ngoài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T23:00:00+07:00",
+      "fetched": "2026-09-07T06:43:33.491063+07:00"
+    },
+    {
+      "id": "887427edd67534dfdf0c8732a5b5f594",
+      "title": "Hơn 40 năm vác vợt bắt cào cào, người đàn ông ở TP.HCM nuôi 3 con ăn học",
+      "link": "https://thanhnien.vn/hon-40-nam-vac-vot-bat-cao-cao-nguoi-dan-ong-o-tphcm-nuoi-3-con-an-hoc-185260904193841925.htm",
+      "summary": "Mỗi sáng, ông Huỳnh Văn Dịu, 64 tuổi, chạy xe đến những bãi cỏ, ruộng hoang ở vùng ven TP.HCM bắt cào cào, châu chấu rồi mang về Chợ Lớn bán cho người nuôi chim cảnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T23:00:00+07:00",
+      "fetched": "2026-09-07T06:43:33.491213+07:00"
+    },
+    {
+      "id": "124df407f97c91b88fe9fc445b8d2f98",
+      "title": "Thủ môn Ronald Koeman Jr ghi cú đúp bằng penalty",
+      "link": "https://vnexpress.net/thu-mon-ronald-koeman-jr-ghi-cu-dup-bang-penalty-5117217.html",
+      "summary": "Ronald Koeman Jr, con trai cựu danh thủ và HLV tuyển Hà Lan Ronald Koeman, ghi cả hai bàn từ chấm phạt đền giúp Telstar hòa Cambuur 2-2 tại giải VĐQG Hà Lan (Eredivisie).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T22:58:56+07:00",
+      "fetched": "2026-09-07T06:43:31.101556+07:00"
+    },
+    {
+      "id": "124df407f97c91b88fe9fc445b8d2f98",
+      "title": "Thủ môn Ronald Koeman Jr ghi cú đúp bằng penalty",
+      "link": "https://vnexpress.net/thu-mon-ronald-koeman-jr-ghi-cu-dup-bang-penalty-5117217.html",
+      "summary": "Ronald Koeman Jr, con trai cựu danh thủ và HLV tuyển Hà Lan Ronald Koeman, ghi cả hai bàn từ chấm phạt đền giúp Telstar hòa Cambuur 2-2 tại giải VĐQG Hà Lan (Eredivisie).",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-06T22:58:56+07:00",
+      "fetched": "2026-09-07T06:43:42.452061+07:00"
+    },
+    {
+      "id": "5604097771a19f19ff848daa5e683474",
+      "title": "Đổi mới giáo dục: Có thể bắt đầu từ những điều nhỏ",
+      "link": "https://thanhnien.vn/doi-moi-giao-duc-co-the-bat-dau-tu-nhung-dieu-nho-18526090616304741.htm",
+      "summary": "Đổi mới giáo dục cũng có thể bắt đầu từ những việc nhỏ và không chỉ cần thêm mà còn phải biết... bỏ bớt cái gì.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T22:54:00+07:00",
+      "fetched": "2026-09-07T06:43:33.491357+07:00"
+    },
+    {
+      "id": "247a7798115a97c58ed779e74bda179a",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 7.9.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-792026-185260906230555331.htm",
+      "summary": "Tin tức Chuẩn hóa nghề môi giới bất động sản; Năm học đầu tiên sau sắp xếp trường học; Chiến cuộc Iran leo thang khó đoán định... là các thông tin hấp dẫn bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 7.9.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T22:50:00+07:00",
+      "fetched": "2026-09-07T06:43:33.491507+07:00"
+    },
+    {
+      "id": "62de537e4d3960468da1aa2859c7ed8e",
+      "title": "Trường top đầu Hà Nội mang nét châu Âu sau 'cuộc đại tu' 300 tỷ đồng",
+      "link": "https://vnexpress.net/truong-top-dau-ha-noi-mang-net-chau-au-sau-cuoc-dai-tu-300-ty-dong-5116959.html",
+      "summary": "Sau 1,5 năm sửa sang, trường THPT Việt Đức có thêm tòa nhà 6 tầng với cầu thang xoắn mang phong cách châu Âu, bên cạnh toà nhà Pháp cổ gần 120 năm tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T22:05:00+07:00",
+      "fetched": "2026-09-07T06:43:31.101706+07:00"
+    },
+    {
+      "id": "91331d7c73832d60beaa50d5850ee1d8",
+      "title": "Kinh doanh quán nhậu ở Nhật gặp khó",
+      "link": "https://vnexpress.net/kinh-doanh-quan-nhau-o-nhat-gap-kho-5117177.html",
+      "summary": "Chi phí tăng trong khi người Nhật giảm tiệc tùng, khiến các quán nhậu bình dân chật vật, với số vụ phá sản nửa đầu năm cao nhất 37 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T22:00:00+07:00",
+      "fetched": "2026-09-07T06:43:31.101878+07:00"
+    },
+    {
+      "id": "6a04a2eff3ca82c96650ce4dd76f39c2",
+      "title": "'Ván cược' vì những đứa trẻ mồ côi",
+      "link": "https://vnexpress.net/van-cuoc-vi-nhung-dua-tre-mo-coi-5117162.html",
+      "summary": "Khi ông Trương Gia Bình nêu ý tưởng mở ngôi trường nuôi dạy trẻ mồ côi do Covid, nhiều người nghi ngờ và phản đối. Họ tin rằng để các em bên người thân mới là cách tốt nhất để \"chữa lành\" nỗi đau Covid để lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T22:00:00+07:00",
+      "fetched": "2026-09-07T06:43:31.102062+07:00"
+    },
+    {
+      "id": "98c4acb3bb0517f47c503658687e7ec2",
+      "title": "'Cửa ải' ông Hùng Cao phải vượt qua để làm Bộ trưởng Hải quân Mỹ",
+      "link": "https://vnexpress.net/cua-ai-ong-hung-cao-phai-vuot-qua-de-lam-bo-truong-hai-quan-my-5116824.html",
+      "summary": "Ông Hùng Cao sẽ phải vượt qua loạt vấn đề về thủ tục, quy trình tại quốc hội Mỹ để có thể được phê chuẩn làm Bộ trưởng Hải quân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T22:00:00+07:00",
+      "fetched": "2026-09-07T06:43:31.102221+07:00"
+    },
+    {
+      "id": "71201dfe5f46191f71c85dd578133bbe",
+      "title": "Người khám sức khỏe ở doanh nghiệp cập nhật hồ sơ điện tử toàn dân thế nào",
+      "link": "https://vnexpress.net/nguoi-kham-suc-khoe-o-doanh-nghiep-cap-nhat-ho-so-dien-tu-toan-dan-the-nao-5116669.html",
+      "summary": "Một số người ở TP HCM đã kiểm tra sức khỏe tại doanh nghiệp nhưng phường vẫn mời khám theo chương trình miễn phí toàn dân để cập nhật hồ sơ điện tử.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T22:00:00+07:00",
+      "fetched": "2026-09-07T06:43:31.102382+07:00"
+    },
+    {
+      "id": "74f18fb8086c5a95d60a0ae2b67a797a",
+      "title": "Đảo nổi bị nhầm là ảnh AI vì 'thoắt ẩn thoắt hiện'",
+      "link": "https://vnexpress.net/dao-noi-bi-nham-la-anh-ai-vi-thoat-an-thoat-hien-5116261.html",
+      "summary": "Hòn đảo rộng khoảng 9.800 m2 trên hồ nhân tạo Williston, phủ đầy cây lớn với nhiều động vật sinh sống, liên tục biến mất rồi xuất hiện trở lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T22:00:00+07:00",
+      "fetched": "2026-09-07T06:43:31.102533+07:00"
+    },
+    {
+      "id": "b8116fb2c4eafe63080395c8936f8a64",
+      "title": "Toyota ra mắt Camry 2027 giá từ 29.700 USD",
+      "link": "https://vnexpress.net/toyota-ra-mat-camry-2027-gia-tu-29-700-usd-5117067.html",
+      "summary": "Mẫu xe gầm thấp phiên bản mới giữ nguyên hệ truyền động hybrid, tinh chỉnh nhỏ, giá tăng nhẹ, giá cao nhất 36.100 USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-06T22:00:00+07:00",
+      "fetched": "2026-09-07T06:43:31.102683+07:00"
+    },
+    {
+      "id": "98c4acb3bb0517f47c503658687e7ec2",
+      "title": "'Cửa ải' ông Hùng Cao phải vượt qua để làm Bộ trưởng Hải quân Mỹ",
+      "link": "https://vnexpress.net/cua-ai-ong-hung-cao-phai-vuot-qua-de-lam-bo-truong-hai-quan-my-5116824.html",
+      "summary": "Ông Hùng Cao sẽ phải vượt qua loạt vấn đề về thủ tục, quy trình tại quốc hội Mỹ để có thể được phê chuẩn làm Bộ trưởng Hải quân.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-06T22:00:00+07:00",
+      "fetched": "2026-09-07T06:43:36.480278+07:00"
+    },
+    {
+      "id": "91331d7c73832d60beaa50d5850ee1d8",
+      "title": "Kinh doanh quán nhậu ở Nhật gặp khó",
+      "link": "https://vnexpress.net/kinh-doanh-quan-nhau-o-nhat-gap-kho-5117177.html",
+      "summary": "Chi phí tăng trong khi người Nhật giảm tiệc tùng, khiến các quán nhậu bình dân chật vật, với số vụ phá sản nửa đầu năm cao nhất 37 năm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-06T22:00:00+07:00",
+      "fetched": "2026-09-07T06:43:38.153824+07:00"
+    },
+    {
+      "id": "74f18fb8086c5a95d60a0ae2b67a797a",
+      "title": "Đảo nổi bị nhầm là ảnh AI vì 'thoắt ẩn thoắt hiện'",
+      "link": "https://vnexpress.net/dao-noi-bi-nham-la-anh-ai-vi-thoat-an-thoat-hien-5116261.html",
+      "summary": "Hòn đảo rộng khoảng 9.800 m2 trên hồ nhân tạo Williston, phủ đầy cây lớn với nhiều động vật sinh sống, liên tục biến mất rồi xuất hiện trở lại.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-06T22:00:00+07:00",
+      "fetched": "2026-09-07T06:43:41.131752+07:00"
     },
     {
       "id": "570ea4d99affe8aeecb48f74be4ed3ce",
