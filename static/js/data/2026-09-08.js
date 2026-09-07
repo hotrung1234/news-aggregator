@@ -1,6 +1,6 @@
 window.newsData_2026_09_08 = {
   "date": "2026-09-08",
-  "lastUpdated": "2026-09-08T02:34:27.673404+07:00",
+  "lastUpdated": "2026-09-08T05:29:02.904221+07:00",
   "articles": [
     {
       "id": "9a949ad731f66cdaa624b3074e745ce4",
@@ -151,6 +151,226 @@ window.newsData_2026_09_08 = {
       "category": "Tổng hợp",
       "published": "2026-09-08T02:34:19.849055+07:00",
       "fetched": "2026-09-08T02:34:19.849192+07:00"
+    },
+    {
+      "id": "00d952c1cf1b1b237a78d885c5967edc",
+      "title": "Đẹp thì đẹp, nhưng mạng sống quan trọng hơn",
+      "link": "https://thanhnien.vn/dep-thi-dep-nhung-mang-song-quan-trong-hon-18526090720070629.htm",
+      "summary": "Thời gian qua, tình trạng quán nước tự phát trên đèo Lương Sơn (P.Bắc Nha Trang, Khánh Hòa) kê bàn ghế sát mép vực cao 50 m để phục vụ du khách gây bức xúc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-07T22:23:00+07:00",
+      "fetched": "2026-09-08T05:28:54.853848+07:00"
+    },
+    {
+      "id": "2d8da5538c6ca480185d16b0ddf280d8",
+      "title": "Gỡ vướng mặt bằng dự án điện hạt nhân Ninh Thuận",
+      "link": "https://thanhnien.vn/go-vuong-mat-bang-du-an-dien-hat-nhan-ninh-thuan-185260908001506222.htm",
+      "summary": "Dự án điện hạt nhân Ninh Thuận nhận được sự đồng tình của người dân, nhưng công tác bồi thường, giải phóng mặt bằng, hỗ trợ chuyển đổi nghề và tái định cư vẫn còn nhiều vướng mắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-07T22:17:00+07:00",
+      "fetched": "2026-09-08T05:28:54.854018+07:00"
+    },
+    {
+      "id": "2e868fc2d092cd00fb88045b5a52f247",
+      "title": "Cuối thu, miền Bắc chuẩn bị đón đợt không khí lạnh đầu tiên trong năm",
+      "link": "https://thanhnien.vn/cuoi-thu-mien-bac-chuan-bi-don-dot-khong-khi-lanh-dau-tien-trong-nam-185260907203107156.htm",
+      "summary": "Theo dự báo, từ ngày 10 - 12.9.2026, miền Bắc sẽ chịu ảnh hưởng của đợt không khí lạnh đầu tiên năm nay, có nơi nhiệt độ xuống dưới 23 độ C.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-07T22:15:00+07:00",
+      "fetched": "2026-09-08T05:28:54.854174+07:00"
+    },
+    {
+      "id": "0cef82cb18343e10c31451fb229c4fc5",
+      "title": "Tử vi ngày 8 tháng 9: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-8-thang-9-con-giap-nao-may-man-hom-nay-185260907161036028.htm",
+      "summary": "Tử vi ngày 8 tháng 9 mang đến những gợi ý tham khảo cho 12 con giáp về công việc, tài lộc và các mối quan hệ. Một số con giáp có cơ hội nhận tin vui về tiền bạc hoặc công việc, trong khi số khác nên thận trọng trước quyết định chi tiêu và những cuộc trao đổi quan trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-07T22:15:00+07:00",
+      "fetched": "2026-09-08T05:28:54.854339+07:00"
+    },
+    {
+      "id": "956546082285069eeac81c4251cee373",
+      "title": "Đôi khi chậm trễ phải trả giá bằng tính mạng",
+      "link": "https://thanhnien.vn/doi-khi-cham-tre-phai-tra-gia-bang-tinh-mang-185260907201059457.htm",
+      "summary": "Vụ lật xe khách trên tuyến tránh QL19, đoạn qua P.Hội Phú (Gia Lai), khiến 4 người tử vong, nhiều người bị thương một lần nữa đặt ra câu hỏi về trách nhiệm bảo đảm an toàn tại những công trình giao thông chưa hoàn tất thủ tục đưa vào khai thác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-07T22:13:00+07:00",
+      "fetched": "2026-09-08T05:28:54.854512+07:00"
+    },
+    {
+      "id": "c17e1fa2c8fe70903d652171af5ed63b",
+      "title": "Ứng phó với 'siêu El Nino' mạnh nhất lịch sử",
+      "link": "https://thanhnien.vn/ung-pho-voi-sieu-el-nino-manh-nhat-lich-su-185260907200622124.htm",
+      "summary": "'Siêu El Nino' sẽ đạt cường độ mạnh nhất vào những tháng cuối năm 2026 và kéo dài sang tận tháng 2.2027. Nhiều khả năng đây sẽ là El Nino mạnh nhất lịch sử, khiến thời tiết toàn cầu trở nên cực đoan hơn. VN, đặc biệt là Nam bộ, là một trong những nơi bị tác động rất nặng nề.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-07T22:09:00+07:00",
+      "fetched": "2026-09-08T05:28:54.854677+07:00"
+    },
+    {
+      "id": "6e98791e5cd4d2796ee1ee80529d9bd6",
+      "title": "Nợ vay của doanh nghiệp bất động sản phình to",
+      "link": "https://vnexpress.net/no-vay-cua-doanh-nghiep-bat-dong-san-phinh-to-5117582.html",
+      "summary": "Tỷ lệ nợ vay trên vốn chủ sở hữu toàn ngành bất động sản đã tăng lên 0,72 lần vào cuối tháng 6, mức cao nhất trong vòng 15 quý.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-07T22:06:15+07:00",
+      "fetched": "2026-09-08T05:28:59.713384+07:00"
+    },
+    {
+      "id": "6c54ab033e8f8c9b65c503f4b4e5fa1a",
+      "title": "Cảnh hoang phế khó tin của sân vận động từng là 'chảo lửa' miền Tây",
+      "link": "https://thanhnien.vn/canh-hoang-phe-kho-tin-cua-san-van-dong-tung-la-chao-lua-mien-tay-185260907144630269.htm",
+      "summary": "Thời điểm đội bóng chủ nhà sân vận động Long An 2 lần vô địch V-League, khán đài luôn chật kín khán giả, nhất là những trận derby \"Gạch - Gỗ\" nảy lửa. Tuy nhiên, sân vận động này giờ đây trở nên hoang phế đến khó tin.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-07T22:04:00+07:00",
+      "fetched": "2026-09-08T05:28:54.854836+07:00"
+    },
+    {
+      "id": "0deac2003eaa20457dca4f3846dc314a",
+      "title": "Phía sau mỗi tài khoản mạng là triệu niềm tin trao gửi",
+      "link": "https://thanhnien.vn/phia-sau-moi-tai-khoan-mang-la-trieu-niem-tin-trao-gui-18526090800260931.htm",
+      "summary": "Trung tướng Lê Xuân Minh, Cục trưởng Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao (A05), Bộ Công an, đã phát biểu như trên tại Hội nghị KOL Summit 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-07T22:03:00+07:00",
+      "fetched": "2026-09-08T05:28:54.854985+07:00"
+    },
+    {
+      "id": "f8ee6c5673b992ee4f648c171f97525a",
+      "title": "Con đường ven rạch từng sình lầy, ngập nước ở TP.HCM giờ đã khác đến mức người dân bất ngờ",
+      "link": "https://thanhnien.vn/con-duong-ven-rach-tung-sinh-lay-ngap-nuoc-o-tphcm-gio-da-khac-den-muc-nguoi-dan-bat-ngo-185260907071354592.htm",
+      "summary": "Sau 20 năm gắn bó với khu vực ven rạch Xuyên Tâm, ông Nguyễn Như Hoài vui mừng khi con đường mới dần hình thành, thay đổi diện mạo nơi mình sinh sống. Ông mong các hạng mục còn lại sớm hoàn thiện để khu vực có thêm bờ kè, cảnh quan sạch đẹp và không gian cho người dân đi bộ, tập thể dục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-07T22:02:00+07:00",
+      "fetched": "2026-09-08T05:28:54.855149+07:00"
+    },
+    {
+      "id": "48dd273babe2fba64edd7d7b09bdcdba",
+      "title": "Việt Nam luôn xác định Hàn Quốc là đối tác chiến lược quan trọng hàng đầu",
+      "link": "https://thanhnien.vn/viet-nam-luon-xac-dinh-han-quoc-la-doi-tac-chien-luoc-quan-trong-hang-dau-185260907223117989.htm",
+      "summary": "Trong khuôn khổ chuyến thăm chính thức Hàn Quốc từ ngày 6 - 9.9, ngày 7.9 tại thủ đô Seoul, ngay sau lễ đón chính thức tại trụ sở Quốc hội Hàn Quốc, Chủ tịch Quốc hội Trần Thanh Mẫn đã hội đàm với Chủ tịch Quốc hội Hàn Quốc Cho Jeong Sik.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-07T22:01:00+07:00",
+      "fetched": "2026-09-08T05:28:54.855299+07:00"
+    },
+    {
+      "id": "244b29c4888eae995e178d7f6c26dda1",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm cùng phu nhân bắt đầu thăm cấp Nhà nước Liên bang Nga",
+      "link": "https://thanhnien.vn/tong-bi-thu-chu-tich-nuoc-to-lam-cung-phu-nhan-bat-dau-tham-cap-nha-nuoc-lien-bang-nga-185260908003557997.htm",
+      "summary": "Lúc 14 giờ 25 ngày 7.9 (theo giờ địa phương), chuyên cơ chở Tổng Bí thư, Chủ tịch nước Tô Lâm cùng phu nhân và đoàn đại biểu cấp cao VN đã đến Sân bay quốc tế Vnukovo, thủ đô Moscow, bắt đầu thăm cấp Nhà nước Liên bang Nga từ ngày 7 - 9.9 theo lời mời của Tổng thống Liên bang Nga Vladimir Putin.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-07T22:00:00+07:00",
+      "fetched": "2026-09-08T05:28:54.855449+07:00"
+    },
+    {
+      "id": "b48308d5584466a5f0906609c7df2ef8",
+      "title": "Lời khai của nhóm đối tượng lừa đảo vay mua ô tô trả góp tại TP.HCM",
+      "link": "https://thanhnien.vn/loi-khai-cua-nhom-doi-tuong-lua-dao-vay-mua-o-to-tra-gop-tai-tphcm-185260907224745154.htm",
+      "summary": "Công an TP.HCM vừa triệt phá một đường dây chuyên dựng hồ sơ giả để vay mua ô tô trả góp qua ngân hàng rồi lập tức mang xe đi bán tháo. Thủ đoạn tinh vi này hoạt động theo mô hình khép kín, từ khâu tìm khách mua \"xe ngân\" giá rẻ, thuê người đứng tên làm hồ sơ thẩm định cho đến việc tẩu tán tài sản đ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-07T22:00:00+07:00",
+      "fetched": "2026-09-08T05:28:54.855625+07:00"
+    },
+    {
+      "id": "9f3d461a225d8d6dda565a4ed59323ba",
+      "title": "Mỹ khó đạt được thỏa thuận hạt nhân với Iran",
+      "link": "https://thanhnien.vn/my-kho-dat-duoc-thoa-thuan-hat-nhan-voi-iran-185260907195745708.htm",
+      "summary": "Trả lời Đài ABC ngày 6.9 (giờ Washington), Bộ trưởng Năng lượng Mỹ Chris Wright nói rằng Washington có lẽ sẽ không đạt được thỏa thuận hạt nhân với Tehran nhằm ngăn cản Iran sở hữu vũ khí hạt nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-07T22:00:00+07:00",
+      "fetched": "2026-09-08T05:28:54.855772+07:00"
+    },
+    {
+      "id": "bea2152e76e034429eb43102612d4e47",
+      "title": "Hôm nay 8.9 là ngày Tôn vinh tiếng Việt: Nguồn gốc, ý nghĩa",
+      "link": "https://thanhnien.vn/hom-nay-89-la-ngay-ton-vinh-tieng-viet-nguon-goc-y-nghia-185260907121615592.htm",
+      "summary": "Hôm nay 8.9 là ngày để tôn vinh tiếng Việt. Nguồn gốc và ý nghĩa của ngày này thế nào? Theo lịch dương, lịch âm hôm nay còn là ngày gì đáng chú ý?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-07T22:00:00+07:00",
+      "fetched": "2026-09-08T05:28:54.855918+07:00"
+    },
+    {
+      "id": "2c9652fc338fd00a801d2ee01f28226f",
+      "title": "Trung Quốc tìm cách khai phá 'con đường tơ lụa' Bắc Cực",
+      "link": "https://vnexpress.net/trung-quoc-tim-cach-khai-pha-con-duong-to-lua-bac-cuc-5109827.html",
+      "summary": "Băng tan và bất ổn tại các tuyến hàng hải truyền thống đang tạo cơ hội để Trung Quốc biến hải trình 5.500 km qua Bắc Cực thành tuyến giao thương mới với châu Âu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-07T22:00:00+07:00",
+      "fetched": "2026-09-08T05:28:58.325907+07:00"
+    },
+    {
+      "id": "95bff79f6d2079437a094d4e6dc6139e",
+      "title": "Ngân hàng siết nợ 26 thửa đất của Địa ốc Hoàng Quân",
+      "link": "https://vnexpress.net/ngan-hang-siet-no-26-thua-dat-cua-dia-oc-hoang-quan-5117581.html",
+      "summary": "HDBank thông báo thu giữ 26 thửa đất cùng nhiều quyền tài sản của Địa ốc Hoàng Quân khi doanh nghiệp này vẫn còn dư nợ gần 900 tỷ tại nhà băng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-07T21:57:41+07:00",
+      "fetched": "2026-09-08T05:28:59.713927+07:00"
+    },
+    {
+      "id": "31c8633fea646f7b35060ae8d84c8042",
+      "title": "Cho vay ngoại tệ tại TP HCM và Đồng Nai tăng 43%",
+      "link": "https://vnexpress.net/cho-vay-ngoai-te-tai-tp-hcm-va-dong-nai-tang-43-5117573.html",
+      "summary": "Dư nợ cho vay bằng ngoại tệ tại TP HCM và Đồng Nai tăng mạnh hơn 40% sau 7 tháng, đạt khoảng 373.000 tỷ đồng trong bối cảnh xuất nhập khẩu tăng trưởng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-07T21:53:27+07:00",
+      "fetched": "2026-09-08T05:28:59.714085+07:00"
+    },
+    {
+      "id": "60295c28efe1c5e47f0b55a9c8a11e69",
+      "title": "Campuchia siết quản lý cá cược trực tuyến",
+      "link": "https://thanhnien.vn/campuchia-siet-quan-ly-ca-cuoc-truc-tuyen-185260907192236954.htm",
+      "summary": "Từ tháng 10, Campuchia đình chỉ hoạt động cá cược trực tuyến tại toàn bộ casino (sòng bạc) trên cả nước cho đến khi có hệ thống quản lý cần thiết và các biện pháp đề phòng lừa đảo trực tuyến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-07T21:30:00+07:00",
+      "fetched": "2026-09-08T05:28:54.856063+07:00"
+    },
+    {
+      "id": "75f1e4411a49a5f7eeab8e1d7db0c9bd",
+      "title": "Hái 'lộc trời' dưới rừng tràm",
+      "link": "https://vnexpress.net/hai-loc-troi-duoi-rung-tram-5117551.html",
+      "summary": "Sau những cơn mưa đầu mùa, nấm tràm mọc dưới tán rừng keo ở xã Trung Thuần, Hòa Trạch, người dân tranh thủ đi hái \"lộc trời\", thu vài trăm nghìn đồng mỗi ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-07T21:00:00+07:00",
+      "fetched": "2026-09-08T05:28:51.731730+07:00"
+    },
+    {
+      "id": "5784973688d628e38ec83a1f0754e6a0",
+      "title": "TP HCM đề xuất thêm hai tuyến vành đai dài gần 700 km",
+      "link": "https://vnexpress.net/tp-hcm-de-xuat-them-hai-tuyen-vanh-dai-dai-gan-700-km-5117602.html",
+      "summary": "Vành đai 4,5 và 5 với tổng chiều dài tối đa gần 680 km được TP HCM đề xuất quy hoạch, mở rộng kết nối Đông Nam Bộ với Tây Nguyên, duyên hải Nam Trung Bộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-07T20:00:00+07:00",
+      "fetched": "2026-09-08T05:28:51.731917+07:00"
+    },
+    {
+      "id": "41b107fae49c1d86119dcdb17c6500ce",
+      "title": "Thói quen ngủ sớm giúp Trương Bá Chi duy trì phong độ nhan sắc tuổi 46",
+      "link": "https://vnexpress.net/thoi-quen-ngu-som-giup-truong-ba-chi-duy-tri-phong-do-nhan-sac-tuoi-46-5117213.html",
+      "summary": "Ở tuổi 46, mỹ nhân Trương Bá Chi giữ vững nhan sắc rạng rỡ nhờ lối sống kỷ luật cùng thói quen lên giường đi ngủ vào lúc 20h40.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-07T20:00:00+07:00",
+      "fetched": "2026-09-08T05:28:51.732087+07:00"
     },
     {
       "id": "0c78cf14c30faf01bc51826c98dbf6a4",
