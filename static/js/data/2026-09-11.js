@@ -1,6 +1,6 @@
 window.newsData_2026_09_11 = {
   "date": "2026-09-11",
-  "lastUpdated": "2026-09-11T01:55:42.072807+07:00",
+  "lastUpdated": "2026-09-11T05:14:04.742720+07:00",
   "articles": [
     {
       "id": "e53dc9c4fd62bcfab222cabbb4749ac0",
@@ -151,6 +151,206 @@ window.newsData_2026_09_11 = {
       "category": "Tổng hợp",
       "published": "2026-09-11T01:55:35.565659+07:00",
       "fetched": "2026-09-11T01:55:35.565803+07:00"
+    },
+    {
+      "id": "ee385e70b017dd727315662ef539003a",
+      "title": "TP.HCM hoàn thiện 'bộ khung' cho phường, xã",
+      "link": "https://thanhnien.vn/tphcm-hoan-thien-bo-khung-cho-phuong-xa-185260910222322744.htm",
+      "summary": "UBND phường, xã ở TP.HCM sẽ có 'bộ khung' ổn định với 5 tổ chức hành chính, từ 2 - 4 phó chủ tịch tùy theo mức độ đô thị hóa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-10T22:11:00+07:00",
+      "fetched": "2026-09-11T05:13:57.663354+07:00"
+    },
+    {
+      "id": "bd942244e76bb62ee99af2c9d8d47791",
+      "title": "Việt Nam là người bạn truyền thống của Mông Cổ",
+      "link": "https://thanhnien.vn/viet-nam-la-nguoi-ban-truyen-thong-cua-mong-co-185260911001527578.htm",
+      "summary": "Sáng 10.9 theo giờ địa phương, tại Cung Nhà nước, thủ đô Ulan Bator, Chủ tịch Quốc hội Mông Cổ Sandag Byambatsogt và Phu nhân đã chủ trì lễ đón trọng thể Chủ tịch Quốc hội Trần Thanh Mẫn và Phu nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-10T22:08:00+07:00",
+      "fetched": "2026-09-11T05:13:57.663525+07:00"
+    },
+    {
+      "id": "44a156753b65e7454585c7aaf200baa4",
+      "title": "Rầm rộ tăng cường lực lượng cho FIFA ASEAN Cup",
+      "link": "https://thanhnien.vn/ram-ro-tang-cuong-luc-luong-cho-fifa-asean-cup-185260910214913509.htm",
+      "summary": "Sau chức vô địch ASEAN Cup 2026, đội tuyển VN chuẩn bị bước vào chiến dịch mới là FIFA ASEAN Cup được dự báo khó khăn hơn rất nhiều, khi các đối thủ sẽ tung đội hình mạnh nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-10T22:08:00+07:00",
+      "fetched": "2026-09-11T05:13:57.663684+07:00"
+    },
+    {
+      "id": "10c4d3e510882a69a53eeb0484ce6450",
+      "title": "Dự án khu dân cư 98 ha cạnh Vành đai 4 TP.HCM dính sai phạm gì?",
+      "link": "https://thanhnien.vn/du-an-khu-dan-cu-98-ha-canh-vanh-dai-4-tphcm-dinh-sai-pham-gi-185260910190609121.htm",
+      "summary": "Dự án Khu dân cư Phú An Lành gần 98 ha cạnh Vành đai 4 TP.HCM được thanh tra chỉ ra nhiều sai phạm, trong đó có việc chỉ định nhà đầu tư và giao đất không qua đấu giá.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-10T22:08:00+07:00",
+      "fetched": "2026-09-11T05:13:57.663838+07:00"
+    },
+    {
+      "id": "e7a7a47d1f6a9e6602ea8ec22e274bb7",
+      "title": "Tạo không gian và dư địa phát triển mới",
+      "link": "https://thanhnien.vn/tao-khong-gian-va-du-dia-phat-trien-moi-185260911002110321.htm",
+      "summary": "Theo Thủ tướng, việc xây dựng 4 dự án luật phải đặt trong tổng thể yêu cầu thể chế hóa kịp thời, đầy đủ các chủ trương lớn của Đảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-10T22:07:00+07:00",
+      "fetched": "2026-09-11T05:13:57.663990+07:00"
+    },
+    {
+      "id": "e106e4c22accf71a691e4e29b911bf32",
+      "title": "Cát tặc băm nát suối Lạnh: Bè hút lậu vẫn ngang nhiên hoạt động dù bị cấm?",
+      "link": "https://thanhnien.vn/cat-tac-bam-nat-suoi-lanh-be-hut-lau-van-ngang-nhien-hoat-dong-du-bi-cam-185260910230323339.htm",
+      "summary": "Dòng suối Lạnh ở thượng nguồn sông Đạ Dâng đang bị cày xới, biến dạng bởi hoạt động khai thác cát. Dù cơ quan chức năng đã yêu cầu dừng, di dời máy móc từ nhiều tháng trước, nhưng đến nay hoạt động khai thác có dấu hiệu tiếp diễn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-10T22:06:00+07:00",
+      "fetched": "2026-09-11T05:13:57.664173+07:00"
+    },
+    {
+      "id": "31764395eca9a4f4d66e1ffa6ee98814",
+      "title": "Người đàn ông Cà Mau dành gần 10 năm sưu tầm cối xay lúa thủ công",
+      "link": "https://thanhnien.vn/nguoi-dan-ong-ca-mau-danh-gan-10-nam-suu-tam-coi-xay-lua-thu-cong-185260910225759495.htm",
+      "summary": "Từ 2 chiếc cối cũ của ông ngoại để lại, một người đàn ông ở Cà Mau đã dành gần 10 năm tìm kiếm, sưu tầm hàng trăm chiếc cối xay lúa, xay gạo cùng nhiều nông cụ xưa. Với ông, giữ lại những vật dụng tưởng đã hết thời cũng là cách lưu giữ ký ức về đời sống, lao động của nhiều thế hệ người dân miền Tây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-10T22:06:00+07:00",
+      "fetched": "2026-09-11T05:13:57.664330+07:00"
+    },
+    {
+      "id": "f85211b553b9c98b5f78e6ed7b0cb1a3",
+      "title": "Lịch âm hôm nay 11.9: Tháng 8 Đinh Dậu bắt đầu, có ngày đặc biệt",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-119-thang-8-dinh-dau-bat-dau-co-ngay-dac-biet-185260910111417625.htm",
+      "summary": "Theo lịch âm hôm nay 11.9 là mùng 1 tháng 8, bắt đầu tháng Đinh Dậu. Tháng này xuất hiện ngày đặc biệt, đó là ngày gì?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-10T22:05:00+07:00",
+      "fetched": "2026-09-11T05:13:57.664479+07:00"
+    },
+    {
+      "id": "19471bd5f2053ea48f6f54032c20d0e0",
+      "title": "Vingroup nhảy vọt gần 500 bậc, vào top 350 công ty tốt nhất thế giới",
+      "link": "https://thanhnien.vn/vingroup-nhay-vot-gan-500-bac-vao-top-350-cong-ty-tot-nhat-the-gioi-185260911002607362.htm",
+      "summary": "Vingroup vừa được TIME xếp hạng 340 trong bảng World's Best Companies 2026 - Những công ty tốt nhất thế giới năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-10T22:04:00+07:00",
+      "fetched": "2026-09-11T05:13:57.664632+07:00"
+    },
+    {
+      "id": "0fdf755ba3df252f660891eef8184a0f",
+      "title": "Mở ra không gian hợp tác mới cho quan hệ Việt - Pháp",
+      "link": "https://thanhnien.vn/mo-ra-khong-gian-hop-tac-moi-cho-quan-he-viet-phap-185260911011225525.htm",
+      "summary": "Tối 10.9 (theo giờ VN), tại Điện Élysée - Phủ Tổng thống ở thủ đô Paris, Tổng thống Pháp Emmanuel Macron và Phu nhân chủ trì Lễ đón Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân thăm chính thức Cộng hòa Pháp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-10T22:01:00+07:00",
+      "fetched": "2026-09-11T05:13:57.664779+07:00"
+    },
+    {
+      "id": "d877a9fde54a22de0be58ee403e9c95b",
+      "title": "Giữ gìn không gian vì mục đích hòa bình",
+      "link": "https://thanhnien.vn/giu-gin-khong-gian-vi-muc-dich-hoa-binh-185260911012011133.htm",
+      "summary": "Ngày 10.9, trong khuôn khổ chuyến thăm chính thức Pháp, Tổng Bí thư, Chủ tịch nước Tô Lâm đã có bài phát biểu tại Hội nghị Thượng đỉnh Không gian vũ trụ ở thủ đô Paris. Dưới đây là toàn văn bài phát biểu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-10T22:00:00+07:00",
+      "fetched": "2026-09-11T05:13:57.664927+07:00"
+    },
+    {
+      "id": "4f2a32245998dd394ab3f3d6333dd0ff",
+      "title": "Hà Nội vào thu",
+      "link": "https://thanhnien.vn/ha-noi-vao-thu-185260910212705914.htm",
+      "summary": "Những ngày đầu tháng 9, Hà Nội vào đợt giao mùa. Thời tiết buổi sáng mát mẻ, dễ chịu khiến nhịp sinh hoạt của người dân thủ đô thay đổi. Nhiều người tranh thủ dậy sớm để tập thể dục, dạo phố hay ngồi cà phê trước khi bắt đầu ngày làm việc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-10T22:00:00+07:00",
+      "fetched": "2026-09-11T05:13:57.665082+07:00"
+    },
+    {
+      "id": "45f5d626630d37a0862d9da9ce81e18f",
+      "title": "4 loại rau củ tưởng không tốt nhưng vẫn ăn được khi giảm cân",
+      "link": "https://thanhnien.vn/4-loai-rau-cu-tuong-khong-tot-nhung-van-an-duoc-khi-giam-can-185260910112611406.htm",
+      "summary": "Khoai tây, cà rốt, đậu Hà Lan hay bắp ngọt thường bị người giảm cân hạn chế vì chứa tinh bột hoặc có vị ngọt. Tuy nhiên, nếu được ăn với khẩu phần phù hợp và chế biến đúng cách, những thực phẩm này vẫn có thể nằm trong chế độ ăn kiểm soát cân nặng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-10T22:00:00+07:00",
+      "fetched": "2026-09-11T05:13:57.665263+07:00"
+    },
+    {
+      "id": "a99089f0b278e1859ce0b19a13704830",
+      "title": "Chuyên gia: Nên miễn truy thu, tiền phạt cho doanh nghiệp đã 'chết lâm sàng'",
+      "link": "https://vnexpress.net/chuyen-gia-nen-mien-truy-thu-tien-phat-cho-doanh-nghiep-da-chet-lam-sang-5118449.html",
+      "summary": "Chuyên gia đề xuất ngành thuế miễn truy thu lệ phí môn bài, tiền chậm nộp với doanh nghiệp đã ngừng kinh doanh nhiều năm nhưng chưa đóng mã số thuế.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-10T22:00:00+07:00",
+      "fetched": "2026-09-11T05:14:01.332654+07:00"
+    },
+    {
+      "id": "fd01e79c96b20cdc5e94d70944ac8827",
+      "title": "Giá iPhone 18 Pro tăng thế nào so với 17 Pro tại Việt Nam",
+      "link": "https://vnexpress.net/gia-iphone-18-pro-tang-the-nao-so-voi-17-pro-tai-viet-nam-5118658.html",
+      "summary": "iPhone 18 Pro và18 Pro Max có giá khởi điểm cao hơn 4 triệu đồng so với thế hệ trước, nhưng bản dung lượng 2 TB chỉ chênh một triệu đồng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-10T22:00:00+07:00",
+      "fetched": "2026-09-11T05:14:03.881063+07:00"
+    },
+    {
+      "id": "41e527d61f79fe06864a3e0414ac3b04",
+      "title": "Lan tỏa tinh thần đối thoại, trách nhiệm và đoàn kết",
+      "link": "https://thanhnien.vn/lan-toa-tinh-than-doi-thoai-trach-nhiem-va-doan-ket-18526091101270585.htm",
+      "summary": "Trong khuôn khổ chuyến thăm cấp Nhà nước tới Liên bang Nga, ngày 9.9, tại Điện Kremlin, Tổng Bí thư, Chủ tịch nước Tô Lâm cùng Phu nhân và đoàn đại biểu cấp cao Việt Nam đã dự Lễ trao Giải thưởng Hòa bình Quốc tế Lev Tolstoy năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-10T21:58:00+07:00",
+      "fetched": "2026-09-11T05:13:57.665419+07:00"
+    },
+    {
+      "id": "2092685314ba4bbdc8567cb64fc427c4",
+      "title": "U.23 Việt Nam quyết mở toang cửa tứ kết ASIAD",
+      "link": "https://thanhnien.vn/u23-viet-nam-quyet-mo-toang-cua-tu-ket-asiad-185260910215224259.htm",
+      "summary": "Dù gặp nhiều khó khăn về lực lượng nhưng U.23 VN đủ sức đạt chỉ tiêu vào tứ kết ASIAD 20.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-10T21:46:00+07:00",
+      "fetched": "2026-09-11T05:13:57.665568+07:00"
+    },
+    {
+      "id": "bc3f9bfe378856ec9b78ec065b9110c6",
+      "title": "Harry Kane ghi bàn ở 8 trận liên tiếp tại Champions League",
+      "link": "https://vnexpress.net/harry-kane-ghi-ban-o-8-tran-lien-tiep-tai-champions-league-5119009.html",
+      "summary": "Tiền đạo Harry Kane đánh đầu ghi bàn trong trận Bayern Munich thắng Bodo/Glimt 5-0, nối dài chuỗi lập công ở Champions League lên tám trận.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-10T21:45:11+07:00",
+      "fetched": "2026-09-11T05:14:04.737732+07:00"
+    },
+    {
+      "id": "676f9c7e77cc4ff912caaa11008e0010",
+      "title": "Man Utd thắng đậm ngày trở lại Champions League",
+      "link": "https://vnexpress.net/man-utd-thang-dam-ngay-tro-lai-champions-league-5119008.html",
+      "summary": "Matheus Cunha, Bruno Fernandes và Benjamin Sesko cùng ghi bàn khi Man Utd thắng đội khách Sabah (Azerbaijan) 4-0 ở lượt đầu vòng phân hạng Champions League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-10T20:52:52+07:00",
+      "fetched": "2026-09-11T05:13:53.518330+07:00"
+    },
+    {
+      "id": "676f9c7e77cc4ff912caaa11008e0010",
+      "title": "Man Utd thắng đậm ngày trở lại Champions League",
+      "link": "https://vnexpress.net/man-utd-thang-dam-ngay-tro-lai-champions-league-5119008.html",
+      "summary": "Matheus Cunha, Bruno Fernandes và Benjamin Sesko cùng ghi bàn khi Man Utd thắng đội khách Sabah (Azerbaijan) 4-0 ở lượt đầu vòng phân hạng Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-10T20:52:52+07:00",
+      "fetched": "2026-09-11T05:14:04.737390+07:00"
     },
     {
       "id": "288714002bea2e3cb75976deff2a33bd",
