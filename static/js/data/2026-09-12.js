@@ -1,7 +1,157 @@
 window.newsData_2026_09_12 = {
   "date": "2026-09-12",
-  "lastUpdated": "2026-09-12T15:20:23.583079+07:00",
+  "lastUpdated": "2026-09-12T20:20:09.561033+07:00",
   "articles": [
+    {
+      "id": "413eced51db9aa98289556c9ceed293b",
+      "title": "Điểm đầu vào thấp, chất lượng bác sĩ tương lai của Việt Nam làm sao đồng đều?",
+      "link": "https://tuoitre.vn/diem-dau-vao-thap-chat-luong-bac-si-tuong-lai-cua-viet-nam-lam-sao-dong-deu-100260912164835376.htm",
+      "summary": "Liệu có phù hợp khi những người có điểm đầu vào ngành y thấp và sau đó cùng tham gia hệ thống với những sinh viên có điểm đầu vào rất cao?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T20:20:02.482474+07:00",
+      "fetched": "2026-09-12T20:20:02.482507+07:00"
+    },
+    {
+      "id": "fb173ec1dce779ebd9d92e5fecc2d323",
+      "title": "Hơn 7.000 vận động viên sẵn sàng chinh phục Marathon Cà Mau 2026",
+      "link": "https://tuoitre.vn/hon-7000-van-dong-vien-san-sang-chinh-phuc-marathon-ca-mau-2026-100260912180038837.htm",
+      "summary": "Giải Marathon Cà Mau 2026 - Cúp Petrovietnam quy tụ hơn 7.000 vận động viên tranh tài. Phân Bón Cà Mau (PVCFC; HOSE: DCM) tiếp tục đồng hành với vai trò Nhà tài trợ Kim cương, góp phần kết nối thể thao với văn hóa và du lịch địa phương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T20:20:02.482433+07:00",
+      "fetched": "2026-09-12T20:20:02.482468+07:00"
+    },
+    {
+      "id": "292f7e415de737f19724aca995cd5d56",
+      "title": "Xác định các cặp chung kết Giải cầu lông Vietnam Open 2026",
+      "link": "https://tuoitre.vn/xac-dinh-cac-cap-chung-ket-giai-cau-long-vietnam-open-2026-100260912182136206.htm",
+      "summary": "Lượt trận bán kết vào chiều 12-9 đã giúp tìm ra những tay vợt cạnh tranh cho chức vô địch Giải cầu lông Vietnam Open 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T20:20:02.482395+07:00",
+      "fetched": "2026-09-12T20:20:02.482427+07:00"
+    },
+    {
+      "id": "91201bf9c6e4eab5107acdf87cd2c15f",
+      "title": "Trở lại chuyên nghiệp sau 14 năm, câu lạc bộ Lâm Đồng thua nghiệt ngã phút bù giờ",
+      "link": "https://tuoitre.vn/tro-lai-chuyen-nghiep-sau-14-nam-cau-lac-bo-lam-dong-thua-nghiet-nga-phut-bu-gio-100260912184553278.htm",
+      "summary": "Ngay trận đầu tiên trở lại Giải bóng đá hạng nhất, CLB Lâm Đồng đã để thua CLB TP.HCM 0-1 đầy đáng tiếc ở phút bù giờ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T20:20:02.482357+07:00",
+      "fetched": "2026-09-12T20:20:02.482389+07:00"
+    },
+    {
+      "id": "c3511ec70a036d6094cb7928a628c530",
+      "title": "Thương hiệu tôi yêu: Bánh gạo An trong ký ức bình yên của tuổi học trò",
+      "link": "https://tuoitre.vn/thuong-hieu-toi-yeu-banh-gao-an-trong-ky-uc-binh-yen-cua-tuoi-hoc-tro-100260912172150662.htm",
+      "summary": "Có người tìm thấy sự thư thái trong một bản nhạc không lời, có người gửi gắm vào những trang sách. Còn đối với em, bình yên là khi mở một gói bánh gạo An và cảm nhận hương vị ngọt lành, thân thuộc lan tỏa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T20:20:02.482317+07:00",
+      "fetched": "2026-09-12T20:20:02.482351+07:00"
+    },
+    {
+      "id": "631e3a8d496477f48cbe2af0af5480a4",
+      "title": "Khởi tố 6 thanh niên đánh người bằng hung khí trên vỉa hè Vũng Tàu",
+      "link": "https://tuoitre.vn/khoi-to-6-thanh-nien-danh-nguoi-bang-hung-khi-tren-via-he-vung-tau-100260912190713496.htm",
+      "summary": "Một nhóm thanh thiếu niên tụ tập giải quyết mâu thuẫn ở Vũng Tàu, kéo một người ra vỉa hè đánh. 6 người liên quan bị công an khởi tố để điều tra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T20:20:02.482276+07:00",
+      "fetched": "2026-09-12T20:20:02.482311+07:00"
+    },
+    {
+      "id": "37d28c747f5d5c9d26455c4e1f27ed65",
+      "title": "Grab khẳng định không chế tài, khóa tài khoản tài xế tạm tắt ứng dụng",
+      "link": "https://tuoitre.vn/grab-khang-dinh-khong-che-tai-khoa-tai-khoan-tai-xe-tam-tat-ung-dung-100260912162614741.htm",
+      "summary": "Grab khẳng định tài xế có quyền chủ động tắt ứng dụng, lựa chọn thời gian và khu vực hoạt động. Tuy nhiên, tài khoản đặt cuốc xe, đơn hàng ảo nhằm gây ảnh hưởng đến tài xế khác có thể bị tạm ngưng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T20:20:02.482223+07:00",
+      "fetched": "2026-09-12T20:20:02.482269+07:00"
+    },
+    {
+      "id": "ca180d8b28d558fae9912dee6be8dbe8",
+      "title": "Bắt 2 giám đốc, 1 phó giám đốc Công ty GFDI tại Đà Nẵng",
+      "link": "https://tuoitre.vn/bat-2-giam-doc-mot-pho-giam-doc-cong-ty-gfdi-tai-da-nang-100260912180837491.htm",
+      "summary": "Ba lãnh đạo của Công ty GFDI bị bắt tạm giam để phục vụ công tác xét xử vụ án lừa đảo chiếm đoạt tài sản của 7.108 bị hại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T20:20:02.482152+07:00",
+      "fetched": "2026-09-12T20:20:02.482213+07:00"
+    },
+    {
+      "id": "983c4f2e255d27bea55533bebcd917b9",
+      "title": "Mưa lớn khắp Đà Nẵng, quân đội căng sức xử lý hiện trường",
+      "link": "https://tuoitre.vn/mua-lon-khap-da-nang-quan-doi-cang-suc-xu-ly-hien-truong-100260912171935545.htm",
+      "summary": "Mưa lớn từ ngày 11 đến 12-9 khiến một số khu vực trên địa bàn Đà Nẵng xảy ra sạt lở đất đá, tiềm ẩn nguy cơ lũ quét, ngập úng và cây xanh gãy đổ. Lực lượng chức năng bám địa bàn bảo đảm an toàn cho người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T20:20:02.482075+07:00",
+      "fetched": "2026-09-12T20:20:02.482140+07:00"
+    },
+    {
+      "id": "4086391fd505e161634e39421731787f",
+      "title": "Giảm giờ làm xuống 40 - 44 giờ/tuần: Năng suất phải tăng trước một bước",
+      "link": "https://tuoitre.vn/giam-gio-lam-xuong-40-44-gio-tuan-nang-suat-phai-tang-truoc-mot-buoc-100260912085302205.htm",
+      "summary": "Trước mong muốn giảm giờ làm việc xuống 40 - 44 giờ/tuần của nhiều người lao động, nhiều chuyên gia cho rằng việc này khả thi khi đi kèm giải pháp nâng năng suất lao động, thúc đẩy tự động hóa và hỗ trợ doanh nghiệp chuyển đổi công nghệ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T20:20:02.481797+07:00",
+      "fetched": "2026-09-12T20:20:02.482063+07:00"
+    },
+    {
+      "id": "4d13b57197dce264cb3e892b6c22de9d",
+      "title": "Những hình ảnh ấn tượng trong chuyến thăm Nga, Pháp của Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân",
+      "link": "https://tuoitre.vn/nhung-hinh-anh-an-tuong-trong-chuyen-tham-nga-phap-cua-tong-bi-thu-chu-tich-nuoc-to-lam-va-phu-nhan-100260912152445766.htm",
+      "summary": "Trưa 12-9, Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân đã về đến Hà Nội, kết thúc tốt đẹp chuyến thăm cấp nhà nước tới Nga, thăm chính thức Pháp và dự Hội nghị Thượng đỉnh Không gian vũ trụ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T20:20:02.481754+07:00",
+      "fetched": "2026-09-12T20:20:02.481791+07:00"
+    },
+    {
+      "id": "e070b12bb5bf3f6e0faebc8e95991061",
+      "title": "Dừng đào tạo, doanh thu của công ty chuyên bán khóa học làm giàu giảm... 90%",
+      "link": "https://tuoitre.vn/dung-dao-tao-doanh-thu-cua-cong-ty-chuyen-ban-khoa-hoc-lam-giau-giam-90-100260912134531062.htm",
+      "summary": "Sau khi dừng hoạt động đào tạo, Công ty cổ phần Đầu tư và phát triển công nghệ Văn Lang (VLA) chỉ còn hơn 1 tỉ đồng doanh thu trong nửa đầu năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T20:20:02.481709+07:00",
+      "fetched": "2026-09-12T20:20:02.481747+07:00"
+    },
+    {
+      "id": "215845acca7e32e0df02e2d196120252",
+      "title": "Sóng cao 2,5m đánh vào bãi tắm Mỹ Thủy",
+      "link": "https://tuoitre.vn/song-cao-25m-danh-vao-bai-tam-my-thuy-100260912174200624.htm",
+      "summary": "Ngày 12-9, UBND xã Mỹ Thủy (tỉnh Quảng Trị) xác nhận đang huy động lực lượng hỗ trợ người dân di chuyển tàu thuyền, ngư lưới cụ khỏi khu vực bãi tắm Mỹ Thủy vì sóng lớn liên tục xâm thực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T20:20:02.481661+07:00",
+      "fetched": "2026-09-12T20:20:02.481702+07:00"
+    },
+    {
+      "id": "d092e1a91bb46d16098fec406e3cbc2c",
+      "title": "Đi đám cưới xong lái xe băng luôn qua vùng ngập nước, người dân phải giải cứu",
+      "link": "https://tuoitre.vn/di-dam-cuoi-xong-lai-xe-bang-luon-qua-vung-ngap-nuoc-nguoi-dan-phai-giai-cuu-100260912174826038.htm",
+      "summary": "Sau khi dự đám cưới, một người dân ở Đà Nẵng điều khiển ô tô qua tuyến đường ngập nước thì bị mắc kẹt giữa đường, xe suýt bị cuốn trôi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T20:20:02.481606+07:00",
+      "fetched": "2026-09-12T20:20:02.481653+07:00"
+    },
+    {
+      "id": "bdf629a581b7eb9b2778d7f323424132",
+      "title": "Sáp nhập trường, học sinh trường công Khánh Hòa không phải đổi đồng phục, bảng tên",
+      "link": "https://tuoitre.vn/sap-nhap-truong-hoc-sinh-truong-cong-khanh-hoa-khong-phai-doi-dong-phuc-bang-ten-10026091217414767.htm",
+      "summary": "Học sinh các trường công lập vừa tổ chức lại, sáp nhập tại Khánh Hòa trong năm học 2026-2027 không phải thay đổi đồng phục hay bảng tên. Ngoài ra, tỉnh cũng cấm các trường tự đặt các khoản thu, thu gộp nhiều khoản vào đầu năm học.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T20:20:02.481469+07:00",
+      "fetched": "2026-09-12T20:20:02.481595+07:00"
+    },
     {
       "id": "0979f2ddf30c845a9d946aaac915ef3f",
       "title": "Liên kết đào tạo nghề phải công khai học phí, rõ trách nhiệm với người học",
@@ -153,6 +303,216 @@ window.newsData_2026_09_12 = {
       "fetched": "2026-09-12T15:20:15.716863+07:00"
     },
     {
+      "id": "7cd92e40da963172d383dea35b8c8394",
+      "title": "Vòi rồng bất ngờ xuất hiện trên vùng biển Gia Lai",
+      "link": "https://thanhnien.vn/voi-rong-bat-ngo-xuat-hien-tren-vung-bien-gia-lai-185260912194603383.htm",
+      "summary": "Hình ảnh vòi rồng bất ngờ xuất hiện trên vùng biển Gia Lai, được người dân ghi lại và chia sẻ trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T13:17:00+07:00",
+      "fetched": "2026-09-12T20:20:00.863142+07:00"
+    },
+    {
+      "id": "2ef40ddd11b24024cab5722cf492f6d0",
+      "title": "Quy tập 616 hài cốt liệt sĩ tại công viên Lê Thị Riêng",
+      "link": "https://thanhnien.vn/quy-tap-616-hai-cot-liet-si-tai-cong-vien-le-thi-rieng-185260912201003574.htm",
+      "summary": "Ngày 12.9, lực lượng chức năng quy tập thêm 11 hài cốt liệt sĩ tại khu A, nâng tổng số được tìm thấy ở công viên Lê Thị Riêng lên 616.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T13:15:00+07:00",
+      "fetched": "2026-09-12T20:20:00.863262+07:00"
+    },
+    {
+      "id": "d28cdbe6ca21047e056c39d98232d5bd",
+      "title": "Meta thừa nhận tính năng gợi ý của Meta AI 'đi quá giới hạn'",
+      "link": "https://thanhnien.vn/meta-thua-nhan-tinh-nang-goi-y-cua-meta-ai-di-qua-gioi-han-185260912192054386.htm",
+      "summary": "Khả năng cá nhân hóa của Meta AI gây tranh cãi sau khi chatbot chủ động gợi ý câu hỏi dựa trên thông tin về con người dùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T13:11:00+07:00",
+      "fetched": "2026-09-12T20:20:00.863366+07:00"
+    },
+    {
+      "id": "a56a6030cf9e47c45292d60fc71b7eba",
+      "title": "Điều tàu chuyên dụng vượt sóng lớn đưa 2 bệnh nhân từ Cù Lao Chàm vào đất liền",
+      "link": "https://thanhnien.vn/dieu-tau-chuyen-dung-vuot-song-lon-dua-2-benh-nhan-tu-cu-lao-cham-vao-dat-lien-185260912190204669.htm",
+      "summary": "Giữa lúc biển động dữ dội, gió mạnh cấp 7, giật cấp 8, lực lượng vũ trang Đà Nẵng khẩn cấp điều tàu chuyên dụng vượt sóng lớn đưa 2 bệnh nhân từ Cù Lao Chàm vào đất liền cấp cứu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T13:10:00+07:00",
+      "fetched": "2026-09-12T20:20:00.863464+07:00"
+    },
+    {
+      "id": "5ca12aa08e7567a94c26f6ea2acaa50b",
+      "title": "Xem nhanh 20h ngày 12.9: Điều tra vụ 2 người tử vong bất thường ở Cà Mau | Đằng sau những 'robot sát thủ' ở Ukraine",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-129-dieu-tra-vu-2-nguoi-tu-vong-bat-thuong-o-ca-mau-dang-sau-nhung-robot-sat-thu-o-ukraine-185260912191251619.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 12.9 có nhiều tin tức đáng chú ý về: Vụ 2 người tử vong ở Cà Mau: Người phụ nữ có vết thương ở ngực trái; Đằng sau những robot sát thủ trong ‘cuộc cách mạng’ tác chiến mới của Ukraine;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T13:00:00+07:00",
+      "fetched": "2026-09-12T20:20:00.863562+07:00"
+    },
+    {
+      "id": "ac4508bb1093e748387348175169e9f1",
+      "title": "Giá vàng đã hoàn tất 'dò đáy', Fed có tăng lãi suất cũng khó giảm sâu?",
+      "link": "https://thanhnien.vn/gia-vang-da-hoan-tat-do-day-fed-co-tang-lai-suat-cung-kho-giam-sau-185260912184602908.htm",
+      "summary": "Theo chuyên gia, giá vàng thế giới không 'sập' mạnh, ngược lại còn tăng trong phiên 11.9 cho thấy lực bắt đáy rất mạnh. Giá vàng, bạc khó giảm sâu kể cả tuần tới Cục Dự trữ liên bang Mỹ (Fed) tăng lãi suất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T12:47:00+07:00",
+      "fetched": "2026-09-12T20:20:00.863664+07:00"
+    },
+    {
+      "id": "663eb7bea6ccfcda412f24e225989c2f",
+      "title": "TotalEnergies ký hai thỏa thuận hợp tác năng lượng chiến lược với doanh nghiệp Việt Nam",
+      "link": "https://thanhnien.vn/totalenergies-ky-hai-thoa-thuan-hop-tac-nang-luong-chien-luoc-voi-doanh-nghiep-viet-nam-185260912191113513.htm",
+      "summary": "Nhân dịp Diễn đàn Lãnh đạo Việt Nam - Pháp tại Paris, TotalEnergies ký hai biên bản ghi nhớ với PV GAS và T&T Group, mở ra các cơ hội hợp tác trong LNG, năng lượng tái tạo, LPG và phát triển dự án điện khí LNG tại Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T12:43:00+07:00",
+      "fetched": "2026-09-12T20:20:00.863766+07:00"
+    },
+    {
+      "id": "586aa9863c3c109333674242bf21cca5",
+      "title": "Kết quả xổ số Vietlott Power 6/55 tối 12.9, giải độc đắc tăng 64,6 tỉ đồng",
+      "link": "https://thanhnien.vn/ket-qua-xo-so-vietlott-power-6-55-toi-129-giai-doc-dac-tang-646-ti-dong-185260912185216448.htm",
+      "summary": "Tối 12.9, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Power 6/55 và ghi nhận  không có người trúng độc đắc nên số tiền cộng dồn là 64,6 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T12:43:00+07:00",
+      "fetched": "2026-09-12T20:20:00.863903+07:00"
+    },
+    {
+      "id": "f61818c786dd1c7d2c69903937bd6377",
+      "title": "TopZone mở rộng hệ thống, nâng cấp chính sách đặt trước iPhone 18 Pro",
+      "link": "https://vnexpress.net/topzone-mo-rong-he-thong-nang-cap-chinh-sach-dat-truoc-iphone-18-pro-5119578.html",
+      "summary": "TopZone mở thêm cửa hàng, áp dụng trả chậm 0% từ 0 đồng, cam kết giao trễ tặng một triệu đồng khi đặt trước iPhone 18 Pro, 18 Pro Max từ 19h ngày 12/9.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-12T12:31:00+07:00",
+      "fetched": "2026-09-12T20:20:05.251631+07:00"
+    },
+    {
+      "id": "8ecea8be5fba8ce46f6e9ae3a6a9acbe",
+      "title": "Cuộc đua sở hữu iPhone 18 Pro: TopZone tung giải pháp giúp Apple Fan lên đời sớm",
+      "link": "https://thanhnien.vn/cuoc-dua-so-huu-iphone-18-pro-topzone-tung-giai-phap-giup-apple-fan-len-doi-som-185260912163112568.htm",
+      "summary": "iPhone 18 Pro, iPhone 18 Pro Max vừa mới ra mắt, cuộc đua sở hữu máy sớm cũng vì thế bắt đầu. Nắm bắt tâm lý đó, ngoài cam kết giao hàng đúng hẹn, TopZone còn mang đến 3 giải pháp thanh toán linh hoạt dành cho khách hàng ngay trong giai đoạn đặt trước: từ ưu đãi, thu cũ đổi mới đến trả chậm 0%.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T12:30:00+07:00",
+      "fetched": "2026-09-12T20:20:00.864043+07:00"
+    },
+    {
+      "id": "c774f95c6ff300d900ab5f3d64470f0e",
+      "title": "Trung thu ghé nhà hàng 'view tỉ đô' ven sông Sài Gòn, xuôi 'dòng chảy Nam bộ'",
+      "link": "https://thanhnien.vn/trung-thu-ghe-nha-hang-view-ti-do-ven-song-sai-gon-xuoi-dong-chay-nam-bo-185260908160808284.htm",
+      "summary": "Tại một nhà hàng ven sông Sài Gòn, những giá trị văn hóa truyền thống được kể qua không gian, ẩm thực đương đại và những cuộc gặp gỡ được nhiều thực khách yêu mến. Mùa trung thu 2026, có gì đặc biệt?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T12:30:00+07:00",
+      "fetched": "2026-09-12T20:20:00.864152+07:00"
+    },
+    {
+      "id": "5dbc185aa6955d5daa9a877b87dd7869",
+      "title": "Ô tô bị lũ cuốn trôi khi băng qua vùng ngập nước ở Đà Nẵng",
+      "link": "https://thanhnien.vn/o-to-bi-lu-cuon-troi-khi-bang-qua-vung-ngap-nuoc-o-da-nang-18526091218554766.htm",
+      "summary": "Ô tô đang lưu thông qua đoạn đường nội đồng ở thôn Châu Phong (xã Thu Bồn, thành phố Đà Nẵng) thì bất ngờ sụp bánh khỏi mép đường ngập nước rồi chết máy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T12:26:00+07:00",
+      "fetched": "2026-09-12T20:20:00.864249+07:00"
+    },
+    {
+      "id": "f37036fa2745e775f9f732b9c3c5e38a",
+      "title": "iPhone 18 Pro Max 'cháy hàng' đợt đầu tại Việt Nam sau 10 phút",
+      "link": "https://vnexpress.net/iphone-18-pro-max-chay-hang-dot-dau-tai-viet-nam-sau-10-phut-5119593.html",
+      "summary": "Khoảng 10 phút sau khi mở bán, một số phiên bản iPhone 18 Pro và 18 Pro Max bắt đầu kéo dài thời gian giao hàng lên 2-3 tuần, cho thấy lượng hàng đợt đầu đã được đặt hết.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-12T12:23:20+07:00",
+      "fetched": "2026-09-12T20:20:08.085097+07:00"
+    },
+    {
+      "id": "a408bea1eef59161b9e4532903318ac8",
+      "title": "Nỗ lực cứu sống những thiên thần nhỏ và hành trình 70 năm ‘Vì trẻ thơ’",
+      "link": "https://thanhnien.vn/no-luc-cuu-song-nhung-thien-than-nho-va-hanh-trinh-70-nam-vi-tre-tho-185260912135755523.htm",
+      "summary": "Không ngừng nỗ lực giành lại sự sống cho những thiên thần nhỏ, các y bác sĩ Bệnh viện Nhi Đồng 1 đã viết nên hành trình 70 năm “Vì trẻ thơ” với năng lực chuyên môn và trái tim nhân ái.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T12:15:00+07:00",
+      "fetched": "2026-09-12T20:20:00.864341+07:00"
+    },
+    {
+      "id": "a70bc068bfa8a75bd98376d5561073c6",
+      "title": "Công an TP.HCM khởi tố nhóm thanh thiếu niên mang mã tấu đánh người ở Vũng Tàu",
+      "link": "https://thanhnien.vn/cong-an-tphcm-khoi-to-nhom-thanh-thieu-nien-mang-ma-tau-danh-nguoi-o-vung-tau-185260912182318063.htm",
+      "summary": "Ngày 12.9, Cơ quan Cảnh sát điều tra Công an TP.HCM cho biết đã tống đạt quyết định khởi tố bị can đối với 6 người để điều tra về hành vi gây rối trật tự công cộng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T12:01:00+07:00",
+      "fetched": "2026-09-12T20:20:00.864435+07:00"
+    },
+    {
+      "id": "dfb7da1b6c4a2a0866c7fcc0abd8a81e",
+      "title": "Thị trường bất động sản Huế: Bán câu chuyện khác biệt chẳng nơi nào có được",
+      "link": "https://thanhnien.vn/thi-truong-bat-dong-san-hue-ban-cau-chuyen-khac-biet-chang-noi-nao-co-duoc-18526091216151466.htm",
+      "summary": "Với lợi thế của thành phố cố đô di sản trực thuộc Trung ương, lĩnh vực kinh tế bất động sản Huế có nhiều tiềm năng, dư địa nhưng thời gian qua vẫn chưa trở thành cực hấp dẫn, nơi cập bến của dòng vốn đầu tư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T12:00:00+07:00",
+      "fetched": "2026-09-12T20:20:00.864529+07:00"
+    },
+    {
+      "id": "47a84e27141f16942011a9d77331ed74",
+      "title": "Đảng Cộng hòa chia rẽ trước lời hứa phát 5.000 USD của ông Trump",
+      "link": "https://vnexpress.net/dang-cong-hoa-chia-re-truoc-loi-hua-phat-5-000-usd-cua-ong-trump-5119043.html",
+      "summary": "Ông Trump hứa phát 5.000 USD cho mỗi người Mỹ trưởng thành khiến đảng Cộng hòa chia rẽ, với nhiều nghị sĩ nghi ngờ tính khả thi của kế hoạch.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-12T12:00:00+07:00",
+      "fetched": "2026-09-12T20:20:03.858346+07:00"
+    },
+    {
+      "id": "5df61a4cbde280affdf914590956fc7d",
+      "title": "Cây xanh bật gốc đổ vào quán cơm đúng giờ đông khách, đè trúng người đi xe máy",
+      "link": "https://thanhnien.vn/cay-xanh-bat-goc-do-vao-quan-com-dung-gio-dong-khach-de-trung-nguoi-di-xe-may-185260912174130663.htm",
+      "summary": "Cây xanh bật gốc đổ vào một quán cơm trên đường Tố Hữu (Đà Nẵng) trưa nay 12.9, phần ngọn đè trúng người đi xe máy nhưng may mắn không ai bị thương. Gần vị trí gốc cây có một hố sâu đang thi công.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-12T11:54:00+07:00",
+      "fetched": "2026-09-12T20:20:00.864623+07:00"
+    },
+    {
+      "id": "7b7c7d0ed59a9f5267cdfc5773ff4e7b",
+      "title": "Bố của HLV Kim Sang-sik qua đời",
+      "link": "https://vnexpress.net/bo-cua-hlv-kim-sang-sik-qua-doi-5119582.html",
+      "summary": "Ông Kim Jong-won, bố của HLV đội tuyển Việt nam Kim Sang-sik qua đời hôm nay 12/9, ở tuổi 84.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-12T10:47:13+07:00",
+      "fetched": "2026-09-12T20:20:09.555085+07:00"
+    },
+    {
+      "id": "273a97708db0b8338200c18d7963f47c",
+      "title": "Bộ trưởng Mỹ: Khoản 5.000 USD cho mỗi người dân sẽ không lấy từ tiền thuế",
+      "link": "https://vnexpress.net/bo-truong-my-khoan-5-000-usd-cho-moi-nguoi-dan-se-khong-lay-tu-tien-thue-5119536.html",
+      "summary": "Bộ trưởng Thương mại Lutnick tuyên bố khoản 5.000 USD cho mỗi người Mỹ trưởng thành nếu phe Cộng hòa đắc cử sẽ không dùng đến tiền thuế của dân.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-12T10:09:44+07:00",
+      "fetched": "2026-09-12T20:20:03.858468+07:00"
+    },
+    {
+      "id": "066b797a1173693dc8e4a43c7dc9d8bb",
+      "title": "Meta kêu gọi nhân viên quay lại làm quản lý",
+      "link": "https://vnexpress.net/meta-keu-goi-nhan-vien-quay-lai-lam-quan-ly-5119383.html",
+      "summary": "Sau thời gian tái cơ cấu, Meta được cho là đang thay đổi chính sách khi kêu gọi một số nhân viên từng là quản lý mảng AI quay trở lại đảm nhận các vị trí này.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-12T10:00:00+07:00",
+      "fetched": "2026-09-12T20:20:08.085617+07:00"
+    },
+    {
       "id": "302050a336f784692210302f2f472c07",
       "title": "Vụ cướp, ép cô gái 24 tuổi quan hệ tình dục: Hung thủ từng tự nguyện đăng ký điều trị nghiện",
       "link": "https://tuoitre.vn/vu-cuop-ep-co-gai-24-tuoi-quan-he-tinh-duc-hung-thu-tung-tu-nguyen-dang-ky-dieu-tri-nghien-100260912064856664.htm",
@@ -301,6 +661,76 @@ window.newsData_2026_09_12 = {
       "category": "Tổng hợp",
       "published": "2026-09-12T09:59:48.108169+07:00",
       "fetched": "2026-09-12T09:59:48.108316+07:00"
+    },
+    {
+      "id": "25f44af8ef3655d179e25ea6ec870953",
+      "title": "Musk chia sẻ Starlink phủ sóng vùng lõm tại Việt Nam",
+      "link": "https://vnexpress.net/musk-chia-se-starlink-phu-song-vung-lom-tai-viet-nam-5119562.html",
+      "summary": "Tỷ phú Elon Musk chia sẻ thông tin Starlink tặng thiết bị để hỗ trợ kết nối tại các khu vực còn lõm sóng ở Việt Nam.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-12T09:41:55+07:00",
+      "fetched": "2026-09-12T20:20:08.085217+07:00"
+    },
+    {
+      "id": "3b0cdbfc2b2673e50293babcc90026ec",
+      "title": "Giải ngân vốn đầu tư công sau 8 tháng đạt một nửa kế hoạch năm",
+      "link": "https://vnexpress.net/giai-ngan-von-dau-tu-cong-sau-8-thang-dat-mot-nua-ke-hoach-nam-5119549.html",
+      "summary": "Đến đầu tháng 9, hơn 513.300 tỷ đồng vốn đầu tư công đã được giải ngân, tương đương 50,2% kế hoạch Thủ tướng giao.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-12T09:33:34+07:00",
+      "fetched": "2026-09-12T20:20:05.250699+07:00"
+    },
+    {
+      "id": "fc6d63b87a53934d817337fbca46551f",
+      "title": "Chủ tịch BRG nhận danh hiệu Anh hùng Lao động",
+      "link": "https://vnexpress.net/chu-tich-brg-nhan-danh-hieu-anh-hung-lao-dong-5119538.html",
+      "summary": "Bà Nguyễn Thị Nga, Chủ tịch Tập đoàn BRG, được trao tặng danh hiệu Anh hùng Lao động thời kỳ đổi mới, ngày 12/9.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-12T08:46:44+07:00",
+      "fetched": "2026-09-12T20:20:05.251536+07:00"
+    },
+    {
+      "id": "199965a32e95ba0007cc9283013c8907",
+      "title": "Con gái bà Cao Thị Ngọc Dung đã bán 7 triệu cổ phiếu PNJ",
+      "link": "https://vnexpress.net/con-gai-ba-cao-thi-ngoc-dung-da-ban-7-trieu-co-phieu-pnj-5119546.html",
+      "summary": "Con gái của người đứng đầu PNJ đã bán 7 triệu cổ phiếu, thu về gần 260 tỷ đồng, theo thỏa thuận cho công ty vay vốn để tái thiết.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-12T08:45:08+07:00",
+      "fetched": "2026-09-12T20:20:05.250819+07:00"
+    },
+    {
+      "id": "29d2d166cbe9ffb759368ef8c2c98b7c",
+      "title": "Vì sao Bouaddi được Haaland ví như viên ngọc quý của Man City?",
+      "link": "https://vnexpress.net/vi-sao-bouaddi-duoc-haaland-vi-nhu-vien-ngoc-quy-cua-man-city-5119172.html",
+      "summary": "Trong lần đầu đá chính cho Man City tại Champions League, tiền vệ 18 tuổi Ayyoub Bouaddi thi đấu điềm tĩnh, trưởng thành và tự tin đến mức Erling Haaland phải thốt lên: \"Chúng tôi có một viên ngọc quý\".",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-12T08:44:17+07:00",
+      "fetched": "2026-09-12T20:20:09.555209+07:00"
+    },
+    {
+      "id": "7fa6fad46dcff2788dfc97340ed4fa7d",
+      "title": "Anthropic tố chiến thuật 'tẩy nguồn' của loạt công ty AI Trung Quốc",
+      "link": "https://vnexpress.net/anthropic-to-chien-thuat-tay-nguon-cua-loat-cong-ty-ai-trung-quoc-5119484.html",
+      "summary": "Anthropic nói bị nhiều công ty như Alibaba, Moonshot, DeepSeek dùng chiến thuật tinh vi để \"chưng cất trái phép\", khai thác khả năng từ mô hình tiên tiến của họ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-12T08:30:00+07:00",
+      "fetched": "2026-09-12T20:20:08.085320+07:00"
+    },
+    {
+      "id": "a2806480efb42d496d9132373d0da694",
+      "title": "'Canh bạc' đông lạnh thi thể chờ hồi sinh giá 150.000 USD ở Australia",
+      "link": "https://vnexpress.net/canh-bac-dong-lanh-thi-the-cho-hoi-sinh-gia-150-000-usd-o-australia-5119265.html",
+      "summary": "Một nhà kho ở vùng nông thôn New South Wales, Australia, là nơi chứa thi thể của 7 người bảo quản trong nitơ lỏng -196 độ C để chờ ngày hồi sinh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-12T08:19:03+07:00",
+      "fetched": "2026-09-12T20:20:03.858576+07:00"
     },
     {
       "id": "e5fafd4624349fb41d6f573ba9d668cc",
