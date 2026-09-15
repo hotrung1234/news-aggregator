@@ -1,6 +1,6 @@
 window.newsData_2026_09_16 = {
   "date": "2026-09-16",
-  "lastUpdated": "2026-09-16T00:54:57.727342+07:00",
+  "lastUpdated": "2026-09-16T03:50:27.204877+07:00",
   "articles": [
     {
       "id": "9804461406f431a67bd375261eb51894",
@@ -153,6 +153,26 @@ window.newsData_2026_09_16 = {
       "fetched": "2026-09-16T00:54:51.097794+07:00"
     },
     {
+      "id": "b93e1ac9b19c64ef30dd60d7b088a7f7",
+      "title": "Tòa Mỹ giáng đòn vào sắc lệnh hạn chế bỏ phiếu qua thư của ông Trump",
+      "link": "https://vnexpress.net/toa-my-giang-don-vao-sac-lenh-han-che-bo-phieu-qua-thu-cua-ong-trump-5120681.html",
+      "summary": "Tòa án Tối cao Mỹ giữ nguyên phán quyết của tòa cấp dưới, khiến chính quyền Trump không thể áp đặt hạn chế với việc bỏ phiếu qua thư.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-15T19:00:00+07:00",
+      "fetched": "2026-09-16T03:50:22.915403+07:00"
+    },
+    {
+      "id": "f87ea8d7ec90c5020c6eeaa0b7101cb5",
+      "title": "Cách UAV phản lực Nga thay đổi chiến tranh đường không ở Ukraine",
+      "link": "https://vnexpress.net/cach-uav-phan-luc-nga-thay-doi-chien-tranh-duong-khong-o-ukraine-5120127.html",
+      "summary": "Nga gây bất ngờ khi tập trung đầu tư vào UAV phản lực như Geran-4/5, khiến phòng không Ukraine gặp nhiều khó khăn trong nỗ lực đối phó.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-15T18:00:00+07:00",
+      "fetched": "2026-09-16T03:50:22.915574+07:00"
+    },
+    {
       "id": "e5a648246491799d00e3a4bf7ef87a61",
       "title": "4 dấu hiệu cơ thể cảnh báo bạn đang dùng điện thoại quá nhiều",
       "link": "https://thanhnien.vn/4-dau-hieu-co-the-canh-bao-ban-dang-dung-dien-thoai-qua-nhieu-185260915225053331.htm",
@@ -271,6 +291,16 @@ window.newsData_2026_09_16 = {
       "category": "Thể thao",
       "published": "2026-09-15T17:00:00+07:00",
       "fetched": "2026-09-16T00:54:57.723697+07:00"
+    },
+    {
+      "id": "5c06c0df27f963709b4b7b16704ee897",
+      "title": "Lý do tàu ngầm hạt nhân có thể ở nhiều tháng dưới nước",
+      "link": "https://vnexpress.net/ly-do-tau-ngam-hat-nhan-co-the-o-nhieu-thang-duoi-nuoc-5119343.html",
+      "summary": "Tàu ngầm Astute của Anh có thể ở dưới nước 25 năm trước khi cần nạp nhiên liệu, trong khi lõi lò phản ứng dùng trong tàu hải quân hiện đại của Mỹ có thể hoạt động liên tục trên 1,6 triệu km.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-15T17:00:00+07:00",
+      "fetched": "2026-09-16T03:50:25.609704+07:00"
     },
     {
       "id": "424a9c18c1b1bafb05d7f760d7f75e77",
