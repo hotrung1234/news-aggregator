@@ -1,7 +1,17 @@
 window.newsData_2026_09_19 = {
   "date": "2026-09-19",
-  "lastUpdated": "2026-09-19T01:50:55.127339+07:00",
+  "lastUpdated": "2026-09-19T05:14:53.541466+07:00",
   "articles": [
+    {
+      "id": "11fec6b695854aae5ab60c6d218d8caa",
+      "title": "Thời tiết hôm nay 19-9: Từ Nghệ An vào Nam Bộ mưa to",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-19-9-tu-nghe-an-vao-nam-bo-mua-to-100260918161624896.htm",
+      "summary": "Hôm nay 19-9, thời tiết Bắc Bộ giảm mưa, từ Nghệ An vào Nam Bộ mưa rào đến mưa to, có nơi mưa rất to.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-19T05:14:44.878461+07:00",
+      "fetched": "2026-09-19T05:14:44.878586+07:00"
+    },
     {
       "id": "5e0b3e278d0e9f3fdfbf7e33f54ac932",
       "title": "Chủ tịch Khánh Hòa giao Thuế tỉnh trả lại tiền sử dụng đất chênh lệch cho dân",
@@ -151,6 +161,126 @@ window.newsData_2026_09_19 = {
       "category": "Tổng hợp",
       "published": "2026-09-19T01:50:47.974015+07:00",
       "fetched": "2026-09-19T01:50:47.974146+07:00"
+    },
+    {
+      "id": "437cdd7975fa821db5e8b9f741bce112",
+      "title": "U.23 Việt Nam đã trút bỏ áp lực",
+      "link": "https://thanhnien.vn/u23-viet-nam-da-trut-bo-ap-luc-1852609182147554.htm",
+      "summary": "Đội tuyển U.23 VN đã thực hiện được lời hứa khi đánh bại U.23 Philippines 2-0, có chiến thắng đầu tiên tại ASIAD 20 để tự tin hướng đến trận tranh vé vào tứ kết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-18T22:09:00+07:00",
+      "fetched": "2026-09-19T05:14:42.726580+07:00"
+    },
+    {
+      "id": "61ba82d614f537fcbf1736992e2ed5c3",
+      "title": "Con ăn bán trú ở trường, làm sao biết đủ hay thiếu chất nào?",
+      "link": "https://thanhnien.vn/con-an-ban-tru-o-truong-lam-sao-biet-du-hay-thieu-chat-nao-185260918184608134.htm",
+      "summary": "Gần đây, bữa ăn bán trú đang là mối quan tâm của nhiều phụ huynh. Nhiều người chia sẻ, việc cho con ăn ở trường ‘vừa tiện, nhưng cũng vừa lo’.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-18T22:06:00+07:00",
+      "fetched": "2026-09-19T05:14:42.726666+07:00"
+    },
+    {
+      "id": "4f21ad71e528e8ead6ec4f7fb8616325",
+      "title": "Hôm nay 19.9 là ngày gì theo âm lịch, dương lịch?",
+      "link": "https://thanhnien.vn/hom-nay-199-la-ngay-gi-theo-am-lich-duong-lich-185260918174305643.htm",
+      "summary": "Theo lịch âm hôm nay 19.9 là mùng 9 tháng 8, ngày Bính Thân. Âm lịch, dương lịch hôm nay có sự kiện gì đáng lưu ý?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-18T22:00:00+07:00",
+      "fetched": "2026-09-19T05:14:42.726741+07:00"
+    },
+    {
+      "id": "77cb95083f9b83b213eeaa05406a307c",
+      "title": "Quan hệ Mỹ - châu Âu rạn nứt ngày càng sâu?",
+      "link": "https://thanhnien.vn/quan-he-my-chau-au-ran-nut-ngay-cang-sau-185260918173844289.htm",
+      "summary": "Hôm qua (18.9), truyền thông Mỹ loan tin Lầu Năm Góc đang cân nhắc kế hoạch rút từ 25.000 - 40.000 binh sĩ Mỹ khỏi châu Âu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-18T22:00:00+07:00",
+      "fetched": "2026-09-19T05:14:42.726811+07:00"
+    },
+    {
+      "id": "a83282209cbfd62bacd5572eaf42bf00",
+      "title": "Quy định về drone, flycam: Bay tùy tiện có thể bị xử lý hình sự",
+      "link": "https://thanhnien.vn/quy-dinh-ve-drone-flycam-bay-tuy-tien-co-the-bi-xu-ly-hinh-su-185260918105806361.htm",
+      "summary": "Theo quy định, phương tiện bay không người lái từ 0,25 kg trở lên phải đăng ký và xin phép trước khi hoạt động, bay tùy tiện có thể bị phạt đến 40 triệu đồng, hoặc xử lý hình sự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-18T22:00:00+07:00",
+      "fetched": "2026-09-19T05:14:42.726881+07:00"
+    },
+    {
+      "id": "7de2578818066ff62fcfc2bc60dc3d5f",
+      "title": "Cách Houthi trỗi dậy thành thế lực quân sự đáng gờm ở biển Đỏ",
+      "link": "https://vnexpress.net/cach-houthi-troi-day-thanh-the-luc-quan-su-dang-gom-o-bien-do-5121625.html",
+      "summary": "Từ lực lượng nổi dậy ở miền bắc Yemen, Houthi từng bước xây dựng năng lực tên lửa, UAV và hậu cần, trở thành nhóm vũ trang có khả năng tác chiến trên nhiều địa bàn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-18T22:00:00+07:00",
+      "fetched": "2026-09-19T05:14:46.518199+07:00"
+    },
+    {
+      "id": "9b22c410259bef458d907214dcdc539e",
+      "title": "Người Việt chi hơn 1.500 tỷ đồng mua iPhone 18 Pro Max, 18 Pro ngày đầu",
+      "link": "https://vnexpress.net/nguoi-viet-chi-hon-1-500-ty-dong-mua-iphone-18-pro-max-18-pro-ngay-dau-5122016.html",
+      "summary": "Các hệ thống bán lẻ ước tính doanh thu bộ đôi iPhone 18 Pro và 18 Pro Max vượt mức 1.500 tỷ đồng trong ngày đầu mở bán tại Việt Nam.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-18T22:00:00+07:00",
+      "fetched": "2026-09-19T05:14:51.591946+07:00"
+    },
+    {
+      "id": "e76c3c42606d741ede53bfa27d556719",
+      "title": "Toàn cảnh cư xá Thanh Đa vắng lặng trước ngày xây mới",
+      "link": "https://thanhnien.vn/toan-canh-cu-xa-thanh-da-vang-lang-truoc-ngay-xay-moi-185260918120540521.htm",
+      "summary": "Phần lớn cư dân đã rời đi, nhiều căn hộ đóng kín cửa, dán giấy niêm phong. Các lô số chung cư Thanh Đa (cư xá Thanh Đa) hơn nửa thế kỷ ở TP.HCM dần khép lại một nhịp sống cũ trước ngày xây mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-18T21:51:00+07:00",
+      "fetched": "2026-09-19T05:14:42.726957+07:00"
+    },
+    {
+      "id": "12f555e70280cc467e7090e714b86d1f",
+      "title": "Vì sao hàng thủ Man Utd đột nhiên sa sút?",
+      "link": "https://vnexpress.net/vi-sao-hang-thu-man-utd-dot-nhien-sa-sut-5122023.html",
+      "summary": "Man Utd thủng 10 bàn chỉ qua 6 trận đầu mùa 2026-2027 dưới thời Michael Carrick, so với 18 bàn thua từ 17 trận cuối mùa trước.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-18T21:00:00+07:00",
+      "fetched": "2026-09-19T05:14:53.538734+07:00"
+    },
+    {
+      "id": "f4a23e2512fd86332b752ea469b6814c",
+      "title": "Hoàng 'Sao' tranh phần thưởng 2 tỷ ở giải billiards thế giới",
+      "link": "https://vnexpress.net/hoang-sao-tranh-phan-thuong-2-ty-o-giai-billiards-the-gioi-5122037.html",
+      "summary": "Cơ thủ Dương Quốc Hoàng và đồng đội sẽ tranh tài ở giải billiards vô địch thế giới 10 bi - WPA Men's 10-Ball World Championship từ cuối tuần này.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-18T21:00:00+07:00",
+      "fetched": "2026-09-19T05:14:53.538901+07:00"
+    },
+    {
+      "id": "faa236dd817cc29e44c4b758c23ae33b",
+      "title": "Ronaldo được gọi lên đội tuyển 24 mùa giải liên tiếp",
+      "link": "https://vnexpress.net/ronaldo-duoc-goi-len-doi-tuyen-24-mua-giai-lien-tiep-5122054.html",
+      "summary": "Cristiano Ronaldo tiếp tục có tên trong danh sách tuyển Bồ Đào Nha dự UEFA Nations League 2026-2027, qua đó nối dài hành trình khoác áo đội tuyển lên 24 mùa giải.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-18T20:19:45+07:00",
+      "fetched": "2026-09-19T05:14:53.538824+07:00"
+    },
+    {
+      "id": "3d7ff9d30bcee8bcb877a17ef4d3b8ed",
+      "title": "Lễ khai mạc ASIAD 20 hứa hẹn ấn tượng: 16 giờ hôm nay, trực tiếp trên VTV6",
+      "link": "https://thanhnien.vn/le-khai-mac-asiad-20-hua-hen-an-tuong-16-gio-hom-nay-truc-tiep-tren-vtv6-185260918220943994.htm",
+      "summary": "Theo công bố từ BTC ASIAD 20, lễ khai mạc kỳ Đại hội Thể thao châu Á lần thứ 20 được nước chủ nhà Nhật Bản chuẩn bị như một sự kiện văn hóa, nghệ thuật với nhiều điểm nhấn đặc biệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-18T20:18:00+07:00",
+      "fetched": "2026-09-19T05:14:42.727029+07:00"
     },
     {
       "id": "0faad0f1f4de5467ac181e371c198ef7",
