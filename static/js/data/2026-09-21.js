@@ -1,7 +1,67 @@
 window.newsData_2026_09_21 = {
   "date": "2026-09-21",
-  "lastUpdated": "2026-09-21T03:16:48.442137+07:00",
+  "lastUpdated": "2026-09-21T06:49:41.381082+07:00",
   "articles": [
+    {
+      "id": "d70f234c030e02e0d052ffd01202e247",
+      "title": "Tin tức sáng 21-9: Cả nước còn thiếu 104.516 giáo viên bậc mầm non, phổ thông",
+      "link": "https://tuoitre.vn/tin-tuc-sang-21-9-ca-nuoc-con-thieu-104516-giao-vien-bac-mam-non-pho-thong-100260920235355209.htm",
+      "summary": "Tin tức đáng chú ý: Cả nước còn thiếu 104.516 giáo viên mầm non, phổ thông; Mặt bằng thu nhập được xác định chuẩn nghèo tại TP.HCM giai đoạn 2027 - 2030 là bình quân đầu người trong hộ gia đình ở mức 3.500.000 - 4.300.000 đồng/người/tháng...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T06:49:33.100877+07:00",
+      "fetched": "2026-09-21T06:49:33.101233+07:00"
+    },
+    {
+      "id": "0d9b8324efb549cef3ca569f68dedaad",
+      "title": "Thời tiết hôm nay 21-9: Mưa rất to ở Nam Trung Bộ và Nam Bộ",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-21-9-mua-rat-to-o-nam-trung-bo-va-nam-bo-100260920162455492.htm",
+      "summary": "Hôm nay 21-9, vùng mưa to dịch vào Nam Trung Bộ và Nam Bộ do sự hoạt động mạnh lên của dải hội tụ nhiệt đới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T06:49:33.100823+07:00",
+      "fetched": "2026-09-21T06:49:33.100869+07:00"
+    },
+    {
+      "id": "adeb93533f00b5b2d02b3c0fef0942c6",
+      "title": "HLV Mourinho nổi giận chỉ trích trọng tài sau trận thua Atletico",
+      "link": "https://tuoitre.vn/hlv-mourinho-noi-gian-chi-trich-trong-tai-sau-tran-thua-atletico-10026092105050663.htm",
+      "summary": "Sau thất bại 1-2 của Real Madrid trước Atletico Madrid ở La Liga, HLV Jose Mourinho đã nổi giận chỉ trích gay gắt trọng tài Miguel Angel Ortiz.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T06:49:33.100764+07:00",
+      "fetched": "2026-09-21T06:49:33.100814+07:00"
+    },
+    {
+      "id": "9a8eaf36710e85fa2369090e50433bad",
+      "title": "Lịch trực tiếp bóng đá nữ Asiad 20: Việt Nam đấu Thái Lan",
+      "link": "https://tuoitre.vn/lich-truc-tiep-bong-da-nu-asiad-20-viet-nam-dau-thai-lan-10026092018300478.htm",
+      "summary": "Lúc 17h30 ngày 21-9, tuyển nữ Việt Nam sẽ chạm trán Thái Lan ở lượt trận cuối bảng E môn bóng đá nữ Asiad 20.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T06:49:33.100702+07:00",
+      "fetched": "2026-09-21T06:49:33.100755+07:00"
+    },
+    {
+      "id": "03b8fe7259b13924c6190a836b77c6f9",
+      "title": "Lịch thi đấu Asiad ngày 21-9 của đoàn Việt Nam: sôi động đường đua xanh",
+      "link": "https://tuoitre.vn/lich-thi-dau-asiad-ngay-21-9-cua-doan-viet-nam-soi-dong-duong-dua-xanh-100260920144334595.htm",
+      "summary": "Hôm nay (21-9), đoàn Việt Nam tiếp tục bước vào ngày thi đấu sôi động của các môn bơi lội, bắn súng, MMA, karate, wushu...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T06:49:33.100632+07:00",
+      "fetched": "2026-09-21T06:49:33.100693+07:00"
+    },
+    {
+      "id": "24e41c088c02a8fe33f156969a899cba",
+      "title": "Lịch thi đấu bóng chuyền nữ Asiad 20 ngày 21-9: Đại chiến Trung Quốc - Thái Lan",
+      "link": "https://tuoitre.vn/lich-thi-dau-bong-chuyen-nu-asiad-20-ngay-21-9-dai-chien-trung-quoc-thai-lan-100260920201252208.htm",
+      "summary": "Ngày 21-9, môn bóng chuyền nữ Asiad 20 bước vào vòng bán kết với tâm điểm là cuộc đối đầu giữa Trung Quốc và Thái Lan lúc 14h. Trong khi đó, tuyển Việt Nam gặp Indonesia ở trận phân hạng từ 5 đến 8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-21T06:49:33.100464+07:00",
+      "fetched": "2026-09-21T06:49:33.100620+07:00"
+    },
     {
       "id": "2cfca05bf02b9391be1b73a3340e0949",
       "title": "Man United thoát hiểm phút chót",
@@ -163,6 +223,206 @@ window.newsData_2026_09_21 = {
       "fetched": "2026-09-21T00:16:37.461451+07:00"
     },
     {
+      "id": "4107cb3c6aa4463bc2cdb3aced9dcbc4",
+      "title": "Người đàn ông tử vong khi đi bơm nước vào ruộng",
+      "link": "https://thanhnien.vn/nguoi-dan-ong-tu-vong-khi-di-bom-nuoc-vao-ruong-185260920214436526.htm",
+      "summary": "Thấy chồng đi bơm nước vào ruộng lâu không trở về, vợ ra đồng tìm phát hiện chồng đã tử vong gần vị trí máy bơm nước, nghi do rò rỉ điện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T23:45:00+07:00",
+      "fetched": "2026-09-21T06:49:31.044351+07:00"
+    },
+    {
+      "id": "96b3b6b92fd48a7160e1a07429b7a772",
+      "title": "Học sinh ở TP.HCM đi xe máy: Quay xe, chạy vào hẻm né chốt CSGT",
+      "link": "https://thanhnien.vn/hoc-sinh-o-tphcm-di-xe-may-quay-xe-chay-vao-hem-ne-chot-csgt-1852609181542511.htm",
+      "summary": "Thấy CSGT kiểm tra gần trường học, một số học sinh quay xe, tấp vào lề hoặc chạy vào hẻm. Chỉ trong khoảng 30 phút, nhiều tình huống vi phạm được phát hiện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T23:44:00+07:00",
+      "fetched": "2026-09-21T06:49:31.044502+07:00"
+    },
+    {
+      "id": "075d8ae6e0e5acf8643ac25f4f97c6a2",
+      "title": "Lăng kính bạn đọc: Giữ công chứng nhưng cần thuận lợi cho người dân",
+      "link": "https://thanhnien.vn/lang-kinh-ban-doc-giu-cong-chung-nhung-can-thuan-loi-cho-nguoi-dan-185260920153755776.htm",
+      "summary": "Bạn đọc Thanh Niên đồng tình cao với chủ trương giữ quy định bắt buộc công chứng giao dịch bất động sản, coi đây là 'lá chắn' pháp lý thiết yếu bảo vệ người yếu thế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T23:30:00+07:00",
+      "fetched": "2026-09-21T06:49:31.044640+07:00"
+    },
+    {
+      "id": "a1d5c148dc311f31ff7355d7c5c08d70",
+      "title": "Xác minh clip 'thầy trò Đường Tăng' cưỡi ngựa vào làn ô tô ở TP.HCM",
+      "link": "https://thanhnien.vn/xac-minh-clip-thay-tro-duong-tang-cuoi-ngua-vao-lan-o-to-o-tphcm-185260920230951921.htm",
+      "summary": "CSGT đang vào cuộc làm rõ clip nhóm người hóa trang thành 'thầy trò Đường Tăng', cưỡi ngựa đi nghênh ngang trong làn ô tô trên đường Phan Văn Khải (TP.HCM).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T23:29:00+07:00",
+      "fetched": "2026-09-21T06:49:31.044771+07:00"
+    },
+    {
+      "id": "b94dec779a778ef2679b2a787bb7b110",
+      "title": "Chàng trai quê Vĩnh Long thể hiện ra sao trước thềm chung kết Nam vương Quốc tế?",
+      "link": "https://thanhnien.vn/chang-trai-que-vinh-long-the-hien-ra-sao-truoc-them-chung-ket-nam-vuong-quoc-te-185260920184707727.htm",
+      "summary": "Trở lại đường đua nhan sắc, người mẫu Vũ Linh cho biết anh đặt quyết tâm cao khi tranh tài tại cuộc thi Nam vương Quốc tế - Mister International 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T23:28:00+07:00",
+      "fetched": "2026-09-21T06:49:31.044895+07:00"
+    },
+    {
+      "id": "e868071cc516a9dfccd59f3adf00a3f5",
+      "title": "Rõ nguồn lực để quy hoạch không bị treo",
+      "link": "https://thanhnien.vn/ro-nguon-luc-de-quy-hoach-khong-bi-treo-185260920170518173.htm",
+      "summary": "Theo các chuyên gia, quy hoạch tổng thể TP.HCM tầm nhìn 100 năm mới chỉ là bộ khung, quan trọng hơn vẫn là khâu thực thi và phân bổ nguồn lực triển khai xuống từng thửa đất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T23:26:00+07:00",
+      "fetched": "2026-09-21T06:49:31.045044+07:00"
+    },
+    {
+      "id": "660177bb8205ab44b3833049eec77b41",
+      "title": "Vụ lái ô tô tông vào đám đông ở TP.HCM: Tạm giữ khẩn cấp 7 người",
+      "link": "https://thanhnien.vn/vu-lai-o-to-tong-vao-dam-dong-o-tphcm-tam-giu-khan-cap-7-nguoi-18526092022362713.htm",
+      "summary": "Sau mâu thuẫn vì va quẹt lúc lùi xe, một tài xế đã lái ô tô tông vào đám đông trước quán ăn khiến 1 người bị thương, 7 người liên quan vừa bị công an giữ khẩn cấp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T23:25:00+07:00",
+      "fetched": "2026-09-21T06:49:31.045170+07:00"
+    },
+    {
+      "id": "d0c23e87aef11dbf2524618a1e2513ac",
+      "title": "Bộ Quốc phòng yêu cầu xử lý gấp vi phạm IUU tại Lâm Đồng, TP.HCM, Cà Mau",
+      "link": "https://thanhnien.vn/bo-quoc-phong-yeu-cau-xu-ly-gap-vi-pham-iuu-tai-lam-dong-tphcm-ca-mau-185260921051043558.htm",
+      "summary": "Sau kiểm tra tại Lâm Đồng, TP.HCM và Cà Mau, Ban Chỉ đạo IUU - Bộ Quốc phòng chỉ ra nhiều tồn tại trong quản lý tàu cá, eCDT, VMS và xử lý vi phạm, yêu cầu các địa phương khẩn trương khắc phục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T23:24:00+07:00",
+      "fetched": "2026-09-21T06:49:31.045309+07:00"
+    },
+    {
+      "id": "8780958d1beb4c496eab8660a6c2f5d5",
+      "title": "Đời sống ngoài màn ảnh của nhạc phim",
+      "link": "https://thanhnien.vn/doi-song-ngoai-man-anh-cua-nhac-phim-185260920204159975.htm",
+      "summary": "Nhiều nhà sản xuất tổ chức tuyển chọn ca khúc mới hay thực hiện MV cho những bản nhạc phim, với mong muốn tiếp cận thêm nhiều lớp khán giả. Hành trình này cũng mở ra cơ hội để những bài hát có thêm đời sống mới ngoài màn ảnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T23:15:00+07:00",
+      "fetched": "2026-09-21T06:49:31.045433+07:00"
+    },
+    {
+      "id": "9220fe77651f6e2df06d9cebe5475672",
+      "title": "Cần có công trình nghiên cứu xứng tầm về Viễn Châu",
+      "link": "https://thanhnien.vn/can-co-cong-trinh-nghien-cuu-xung-tam-ve-vien-chau-185260920204701144.htm",
+      "summary": "NSND Viễn Châu là tài năng lớn của nghệ thuật cải lương vọng cổ, đã để lại một kho tàng sáng tác khổng lồ chưa ai qua nổi. Thế nhưng vẫn chưa có công trình nghiên cứu đúng mức về ông, trong khi bụi thời gian ngày càng khỏa lấp. Liệu những thế hệ sau có còn kịp giữ gìn và phát triển kho tàng quý giá ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T23:14:00+07:00",
+      "fetched": "2026-09-21T06:49:31.045555+07:00"
+    },
+    {
+      "id": "770bd9a91c5c1b845cd3fb9a7d171a0b",
+      "title": "Phát hiện kỹ thuật nghe lén tai nghe từ khoảng cách 30 mét",
+      "link": "https://thanhnien.vn/phat-hien-ky-thuat-nghe-len-tai-nghe-tu-khoang-cach-30-met-185260920220122546.htm",
+      "summary": "Các nhà nghiên cứu vừa công bố kỹ thuật tấn công có khả năng trích xuất âm thanh từ tai nghe và thiết bị thông minh ở cự ly tới 30 mét xuyên qua tường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T23:12:00+07:00",
+      "fetched": "2026-09-21T06:49:31.045672+07:00"
+    },
+    {
+      "id": "fc4729b084f0beb417a12b343de5e294",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm lên đường công tác tại Mỹ và thăm Canada",
+      "link": "https://thanhnien.vn/tong-bi-thu-chu-tich-nuoc-to-lam-len-duong-cong-tac-tai-my-va-tham-canada-185260920214037275.htm",
+      "summary": "Ngày 20.9, Tổng Bí thư, Chủ tịch nước Tô Lâm và Đoàn đại biểu cấp cao Việt Nam lên đường tham dự Phiên thảo luận cấp cao Đại hội đồng Liên Hiệp Quốc Khóa 81, hoạt động song phương tại Mỹ và thăm cấp Nhà nước tới Canada theo lời mời của Toàn quyền Canada Louise Arbour từ ngày 20 - 25.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T23:10:00+07:00",
+      "fetched": "2026-09-21T06:49:31.045788+07:00"
+    },
+    {
+      "id": "41ddef8e291af402a3ed8198ab56adb6",
+      "title": "Sống bất an bên bờ sông sạt lở",
+      "link": "https://thanhnien.vn/song-bat-an-ben-bo-song-sat-lo-185260920155124728.htm",
+      "summary": "Những căn nhà từng xa bờ sông hàng cây số nay chỉ cách vài chục mét vì sạt lở, có gia đình đã 3 lần phải dỡ nhà. Tại nhiều khu vực ven sông Hậu, sông Tiền (An Giang), người dân đang sống trong bất an khi đất dưới chân có thể sụp xuống sông bất cứ lúc nào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T23:07:00+07:00",
+      "fetched": "2026-09-21T06:49:31.045903+07:00"
+    },
+    {
+      "id": "465f71615eadc6f12b395126c31a6d67",
+      "title": "Châu Âu báo động vì điểm PISA lao dốc",
+      "link": "https://thanhnien.vn/chau-au-bao-dong-vi-diem-pisa-lao-doc-185260920223013413.htm",
+      "summary": "Kết quả Chương trình đánh giá học sinh quốc tế (PISA) 2025 đang gây lo ngại tại nhiều cường quốc giáo dục châu Âu, khi ở nhiều nước Tây Âu, tỷ lệ học sinh thiếu kỹ năng đọc và toán cơ bản đã tăng lên gần 1/3, nối dài xu hướng suy giảm từ năm 2018, theo tờ The Guardian đưa tin ngày 20.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T23:04:00+07:00",
+      "fetched": "2026-09-21T06:49:31.046036+07:00"
+    },
+    {
+      "id": "56462a2833e3bb93b05b298bd7377fe4",
+      "title": "Chung cư hết thời hạn, quyền lợi người dân ra sao?",
+      "link": "https://thanhnien.vn/chung-cu-het-thoi-han-quyen-loi-nguoi-dan-ra-sao-185260920221139803.htm",
+      "summary": "Chính phủ đã chính thức thống nhất quy định thời hạn sử dụng nhà chung cư theo niên hạn xây dựng công trình, bảo đảm phù hợp, thống nhất với thời hạn sử dụng công trình. Thời hạn sử dụng thì đã rõ, nhưng điều hàng triệu người dân đang sở hữu nhà chung cư quan tâm là sau khi căn hộ bị tháo dỡ, quyền ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T23:00:00+07:00",
+      "fetched": "2026-09-21T06:49:31.046162+07:00"
+    },
+    {
+      "id": "e605a03c2fafcdfd620f12b184e704b6",
+      "title": "Lãi suất cho vay bình quân lên 10,7% một năm",
+      "link": "https://vnexpress.net/lai-suat-cho-vay-binh-quan-len-10-7-mot-nam-5122568.html",
+      "summary": "Sau một tháng đi ngang, lãi suất cho vay bình quân vọt lên 10,7% do hiệu ứng dây chuyền khi các ngân hàng tăng lãi suất huy động tiền gửi.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-20T23:00:00+07:00",
+      "fetched": "2026-09-21T06:49:36.805780+07:00"
+    },
+    {
+      "id": "f1853e18611f077ebb91c4e7eeaa80fa",
+      "title": "Carrick bác bỏ quan điểm của Cunha",
+      "link": "https://vnexpress.net/carrick-bac-bo-quan-diem-cua-cunha-5122582.html",
+      "summary": "HLV Michael Carrick không đồng tình khi Matheus Cunha cho rằng Man Utd thi đấu thiếu năng lượng, sau trận hòa Fulham 1-1 ở vòng 5 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-20T22:33:03+07:00",
+      "fetched": "2026-09-21T06:49:41.375956+07:00"
+    },
+    {
+      "id": "8282729795421f63067ccc4a25834e46",
+      "title": "Giới phân tích dự báo giá vàng tăng",
+      "link": "https://vnexpress.net/gioi-phan-tich-du-bao-gia-vang-tang-5122549.html",
+      "summary": "Vàng giữ vững giá sau khi Fed tăng lãi suất, củng cố thêm quan điểm của giới phân tích tài chính về kịch bản tích cực trong tuần tới.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-20T22:30:26+07:00",
+      "fetched": "2026-09-21T06:49:36.805953+07:00"
+    },
+    {
+      "id": "01d8b1e3ef8d14c27fd4f2232a584703",
+      "title": "Chứng khoán sẽ diễn biến thế nào sau nâng hạng?",
+      "link": "https://vnexpress.net/chung-khoan-se-dien-bien-the-nao-sau-nang-hang-5122483.html",
+      "summary": "Chứng khoán chính thức lên thị trường mới nổi thứ cấp từ 21/9, nhưng dòng tiền ngoại chưa chắc tăng mạnh ngay, trong khi VN-Index đang ở vùng cao.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-20T22:00:00+07:00",
+      "fetched": "2026-09-21T06:49:36.806096+07:00"
+    },
+    {
+      "id": "4171caa5bebc89b6d359239ba0f80ae5",
+      "title": "7 nâng cấp lớn trên iOS 27",
+      "link": "https://vnexpress.net/7-nang-cap-lon-tren-ios-27-5121124.html",
+      "summary": "iOS 27 vừa phát hành tuần qua giúp nhiều iPhone cũ chạy nhanh hơn, bổ sung tính năng chỉnh sửa ảnh với Apple Intelligence, hỗ trợ Siri AI.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-20T22:00:00+07:00",
+      "fetched": "2026-09-21T06:49:39.862947+07:00"
+    },
+    {
       "id": "238ce7d1f4d62a8184cfc9f45810e64f",
       "title": "Teqball Việt Nam: Cú hích cho tương lai từ tấm HCĐ ASIAD của Minh Tân và Gia Nghi",
       "link": "https://thanhnien.vn/teqball-viet-nam-cu-hich-cho-tuong-lai-tu-tam-hcd-asiad-cua-minh-tan-va-gia-nghi-185260920222043306.htm",
@@ -211,6 +471,16 @@ window.newsData_2026_09_21 = {
       "category": "Thể thao",
       "published": "2026-09-20T17:20:44+07:00",
       "fetched": "2026-09-21T03:16:48.437231+07:00"
+    },
+    {
+      "id": "ecb44a456bd77f16e47e8875cc7a980a",
+      "title": "Man Utd thoát thua đội chót bảng Fulham",
+      "link": "https://vnexpress.net/man-utd-thoat-thua-doi-chot-bang-fulham-5122579.html",
+      "summary": "Bàn thắng có phần may mắn của Matheus Cunha giúp Man Utd cầm hòa chủ nhà Fulham 1-1, ở trận muộn vòng 5 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-20T17:20:44+07:00",
+      "fetched": "2026-09-21T06:49:41.376120+07:00"
     },
     {
       "id": "77fe96a64f74fe080492de706e28c539",
