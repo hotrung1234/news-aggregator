@@ -1,7 +1,197 @@
 window.newsData_2026_09_20 = {
   "date": "2026-09-20",
-  "lastUpdated": "2026-09-20T05:17:57.233333+07:00",
+  "lastUpdated": "2026-09-20T10:15:34.220411+07:00",
   "articles": [
+    {
+      "id": "3a094a2995959f416f9cec675b250ced",
+      "title": "Minh Anh dừng chân ở top 12, người đẹp Mỹ đăng quang Hoa hậu Chuyển giới quốc tế 2026",
+      "link": "https://tuoitre.vn/minh-anh-dung-chan-o-top-12-nguoi-dep-my-dang-quang-miss-international-queen-2026-100260920055111357.htm",
+      "summary": "Vượt qua 26 người đẹp khác, Lo Colby đến từ Mỹ giành vương miện Miss International Queen 2026 (Hoa hậu Chuyển giới quốc tế).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T10:15:28.013402+07:00",
+      "fetched": "2026-09-20T10:15:28.013475+07:00"
+    },
+    {
+      "id": "763a13b54ba01d8a98bfe1cc833778ab",
+      "title": "Ngày thi đấu 20-9 Asiad 20: Mỹ Tiên vào chung kết 200m bướm nữ",
+      "link": "https://tuoitre.vn/truc-tiep-ngay-thi-dau-20-9-asiad-20-cho-huy-chuong-dau-tien-cho-viet-nam-100260919210529156.htm",
+      "summary": "Kình ngư Võ Thị Mỹ Tiên vừa kết thúc vòng loại 200m bướm nữ với thành tích 2 phút 13,33 giây, về đích thứ tư, đợt bơi đầu tiên vòng loại giành quyền vào chung kết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T10:15:28.013321+07:00",
+      "fetched": "2026-09-20T10:15:28.013389+07:00"
+    },
+    {
+      "id": "87ed0e4876faae95219426003e62d5bb",
+      "title": "Conan Movie 3: Màn lật mặt ấn tượng nhất của siêu trộm Kid",
+      "link": "https://tuoitre.vn/conan-movie-3-man-lat-mat-an-tuong-nhat-cua-sieu-trom-kid-100260919180959531.htm",
+      "summary": "Ra mắt năm 1999, Thám tử lừng danh Conan: Ảo thuật gia cuối cùng của thế kỷ là phim điện ảnh thứ ba của thương hiệu Conan, đồng thời là tác phẩm cuối cùng của loạt phim được phát hành trong thế kỷ 20.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T10:15:28.013239+07:00",
+      "fetched": "2026-09-20T10:15:28.013309+07:00"
+    },
+    {
+      "id": "e348e6126c22a74ef3f7fdf7920392bb",
+      "title": "10 lần Hoàng tử George mặc giống hệt cha",
+      "link": "https://tuoitre.vn/10-lan-hoang-tu-george-mac-giong-het-cha-100260919122719039.htm",
+      "summary": "Hoàng tử George nhiều lần diện phong cách giống Hoàng tử William trong những năm qua, tạo nên những khoảnh khắc hai cha con trông như bản sao của nhau.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T10:15:28.013151+07:00",
+      "fetched": "2026-09-20T10:15:28.013226+07:00"
+    },
+    {
+      "id": "3db84645feedc275526256778b24e802",
+      "title": "Người đẹp Nhật Bản, Đài Bắc Trung Hoa đăng quang Hoa hậu và Nam vương Siêu mẫu thể hình thế giới 2026",
+      "link": "https://tuoitre.vn/nguoi-dep-nhat-ban-dai-bac-trung-hoa-dang-quang-hoa-hau-va-nam-vuong-sieu-mau-the-hinh-the-gioi-2026-100260920065602085.htm",
+      "summary": "Chika Mizuno (Nhật Bản) và Danilo Valeriano de Melo (Đài Bắc Trung Hoa) lần lượt giành ngôi cao nhất tại cuộc thi Hoa hậu và Nam vương Siêu mẫu thể hình thế giới 2026, diễn ra tại Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T10:15:28.013055+07:00",
+      "fetched": "2026-09-20T10:15:28.013133+07:00"
+    },
+    {
+      "id": "47beee1b35e930fb6194e434fee434f9",
+      "title": "Google nói về việc Gemini đã tấn công mạng, đoán mật khẩu người dùng",
+      "link": "https://tuoitre.vn/google-noi-ve-viec-gemini-da-tan-cong-mang-doan-mat-khau-nguoi-dung-100260920065954915.htm",
+      "summary": "Gemini, mô hình AI của Google, đã tự động tấn công mạng nhằm vào 3 công ty trong một cuộc thử nghiệm năng lực an ninh mạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T10:15:28.012949+07:00",
+      "fetched": "2026-09-20T10:15:28.013030+07:00"
+    },
+    {
+      "id": "6941e6de7cc3e1d02a3c86011594c19e",
+      "title": "Ngư dân đi biển chật vật với giấy tờ, nhóm sinh viên ‘ra tay’ số hóa nhật ký khai thác",
+      "link": "https://tuoitre.vn/ngu-dan-di-bien-chat-vat-voi-giay-to-nhom-sinh-vien-ra-tay-so-hoa-nhat-ky-khai-thac-100260919204837516.htm",
+      "summary": "Ngư dân ra khơi đối mặt với sóng gió, nhưng khi trở về lại chật vật với những trang nhật ký khai thác. Từ thực tế đó, AquaLog tích hợp blockchain và Trí tuệ nhân tạo (AI) phục vụ minh bạch hóa hoạt động khai thác và nâng cao năng lực quản lý, xuất khẩu thủy sản Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T10:15:28.012864+07:00",
+      "fetched": "2026-09-20T10:15:28.012934+07:00"
+    },
+    {
+      "id": "fb62ed15ac6c6159b9ecf4d78568af97",
+      "title": "Học phí ngành y hơn 1 tỉ đồng, SV nghèo làm sao 'chạm' tới giấc mơ thành bác sĩ?",
+      "link": "https://tuoitre.vn/hoc-phi-nganh-y-hon-1-ti-dong-sv-ngheo-lam-sao-cham-toi-giac-mo-thanh-bac-si-100260919224735996.htm",
+      "summary": "Học phí cao là đặc thù của đào tạo ngành y, nhưng làm sao để chi phí ấy không trở thành rào cản với những sinh viên có năng lực nhưng khó khăn?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T10:15:28.012776+07:00",
+      "fetched": "2026-09-20T10:15:28.012850+07:00"
+    },
+    {
+      "id": "fb4848c655a59ae81b4cb1a842246637",
+      "title": "HS giỏi tỉnh Cà Mau từng rời đại học kiếm sống, vì một phát hiện nay quay lại giảng đường",
+      "link": "https://tuoitre.vn/hs-gioi-tinh-ca-mau-tung-roi-dai-hoc-kiem-song-vi-mot-phat-hien-nay-quay-lai-giang-duong-100260904102646936.htm",
+      "summary": "Từng được Tuổi Trẻ tiếp sức đến trường khi đậu đại học nhưng Nguyễn Nhất Lam (20 tuổi, quê Cà Mau) phải ngừng lại, chữa bệnh và gác luôn việc học để đi làm cùng mẹ trả nợ. Gần hai năm sau, vì một quan sát, Lam quyết định xét học bạ, trở lại giảng đường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T10:15:28.012645+07:00",
+      "fetched": "2026-09-20T10:15:28.012760+07:00"
+    },
+    {
+      "id": "1cbbed511a71ea3c47e714a85a928b6f",
+      "title": "Saigon Co.op trao 200 triệu đồng tiếp sức trẻ em khó khăn",
+      "link": "https://tuoitre.vn/saigon-coop-trao-200-trieu-dong-tiep-suc-tre-em-kho-khan-100260919201330624.htm",
+      "summary": "Saigon Co.op đồng hành cùng chương trình \"Chia sẻ yêu thương - Tuyên dương những tấm gương nghị lực vươn lên\" lần 2 năm 2026 tại TP.HCM, trao các phần quà tổng trị giá 200 triệu đồng đến trẻ em có hoàn cảnh khó khăn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T10:15:28.012589+07:00",
+      "fetched": "2026-09-20T10:15:28.012637+07:00"
+    },
+    {
+      "id": "954a6e103cf204a588444eb094fc2d28",
+      "title": "Đề xuất bổ sung nghỉ 1 ngày dịp Ngày Văn hóa Việt Nam 2026, không hoán đổi làm việc",
+      "link": "https://tuoitre.vn/de-xuat-bo-sung-nghi-1-ngay-dip-ngay-van-hoa-viet-nam-2026-khong-hoan-doi-lam-viec-100260920074133185.htm",
+      "summary": "Tiếp thu ý kiến, Bộ Nội vụ đề xuất bổ sung phương án nghỉ Ngày Văn hóa Việt Nam 1 ngày, vào đúng ngày 24-11-2026 và không thực hiện hoán đổi ngày làm việc để trình Chính phủ xem xét.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T10:15:28.012531+07:00",
+      "fetched": "2026-09-20T10:15:28.012580+07:00"
+    },
+    {
+      "id": "06ed235bdb9440563fb132d55304b3d6",
+      "title": "Ngồi cà phê, ngắm nhà thờ màu hồng, khu phố Tân Định, TP.HCM vào top 'chất nhất thế giới'",
+      "link": "https://tuoitre.vn/ngoi-ca-phe-ngam-nha-tho-mau-hong-khu-pho-tan-dinh-tphcm-vao-top-chat-nhat-the-gioi-100260919134009136.htm",
+      "summary": "Nhà thờ màu hồng, chợ lâu đời, những quán cà phê đông khách quốc tế, hàng ăn và loạt di tích nằm xen giữa khu dân cư tạo nên sức hút riêng cho khu phố vừa được Time Out xếp thứ 12 trong danh sách những khu phố chất nhất thế giới năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T10:15:28.012465+07:00",
+      "fetched": "2026-09-20T10:15:28.012522+07:00"
+    },
+    {
+      "id": "150ff01a021d40558dfb28a779c84c70",
+      "title": "Có ai còn nhớ bài hát 'Tết Trung thu rước đèn đi chơi...'",
+      "link": "https://tuoitre.vn/co-ai-con-nho-bai-hat-tet-trung-thu-ruoc-den-di-choi-100260915162858708.htm",
+      "summary": "Ngày đó, chúng tôi còn nhỏ, chỉ biết bánh ngon, biết Trung thu vui. Mãi sau này, đi qua bao mùa Trung thu đủ đầy, tôi mới hiểu vì sao mình nhớ mãi một cái bánh nhỏ đến vậy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T10:15:28.012374+07:00",
+      "fetched": "2026-09-20T10:15:28.012454+07:00"
+    },
+    {
+      "id": "2010d06caa85d5f2f6675220a3a855af",
+      "title": "4 nhân vật của 'Tiếp sức đến trường' trên Tuổi Trẻ được Bách khoa Đà Nẵng trao học bổng",
+      "link": "https://tuoitre.vn/4-nhan-vat-cua-tiep-suc-den-truong-tren-tuoi-tre-duoc-bach-khoa-da-nang-trao-hoc-bong-100260920071924714.htm",
+      "summary": "4/5 tân sinh viên nhận được học bổng của Trường đại học Bách khoa - Đại học Đà Nẵng là các nhân vật được báo Tuổi Trẻ giới thiệu trong chương trình Tiếp sức đến trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T10:15:28.011990+07:00",
+      "fetched": "2026-09-20T10:15:28.012353+07:00"
+    },
+    {
+      "id": "52a874b606767a357ad1bf9a56c0fe75",
+      "title": "Thanh Bảo - Mỹ Tiên: Khoảnh khắc ngọt ngào từ SEA Games đến Asiad",
+      "link": "https://tuoitre.vn/thanh-bao-my-tien-khoanh-khac-ngot-ngao-tu-sea-games-den-asiad-100260919163055921.htm",
+      "summary": "Trước giờ lễ khai mạc Asiad 20, kình ngư Phạm Thanh Bảo đăng tải trên mạng xã hội bức ảnh anh cùng cô bạn gái, cũng là đồng đội ở tuyển bơi lội Việt Nam - Võ Thị Mỹ Tiên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T10:15:28.011836+07:00",
+      "fetched": "2026-09-20T10:15:28.011977+07:00"
+    },
+    {
+      "id": "79c242217c25b8f4a3c33e79e6ac3d89",
+      "title": "Trưởng đoàn thể thao Việt Nam nói gì về tấm HCĐ ASIAD lịch sử của Gia Nghi và Minh Tân?",
+      "link": "https://thanhnien.vn/truong-doan-the-thao-viet-nam-noi-gi-ve-tam-hcd-asiad-lich-su-cua-gia-nghi-va-minh-tan-185260920095452221.htm",
+      "summary": "Cặp đôi Nguyễn Hoàng Minh Tân và Trịnh Gia Nghi đã xuất sắc đánh bại cặp Ấn Độ Dsouza Quimcy Joaquim/Beg Mohamed Anas Imran với tỷ số 2-0 (12-9, 12-6) ở nội dung đôi nam nữ teqball, qua đó giành tấm HCĐ vào sáng 20.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T03:11:00+07:00",
+      "fetched": "2026-09-20T10:15:25.865203+07:00"
+    },
+    {
+      "id": "cd043f7da1b54b2ea80cd92e76d84c59",
+      "title": "Việt Nam giành huy chương đầu tiên tại ASIAD 2026",
+      "link": "https://vnexpress.net/viet-nam-gianh-huy-chuong-dau-tien-tai-asiad-2026-5122426.html",
+      "summary": "Nguyễn Hoàng Minh Tân và Trịnh Gia Nghi thắng cặp Ấn Độ 2-0 ở trận tranh HCĐ đôi nam nữ teqball, giành huy chương đầu tiên cho đoàn thể thao Việt Nam tại ASIAD 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-20T03:05:31+07:00",
+      "fetched": "2026-09-20T10:15:34.215238+07:00"
+    },
+    {
+      "id": "855c96719a2c99802ae9d497ff101b49",
+      "title": "Ông Đạt U.70 giữ nghề đan đát trăm năm, dành 5 công đất trồng tre, trúc",
+      "link": "https://thanhnien.vn/ong-dat-u70-giu-nghe-dan-dat-tram-nam-danh-5-cong-dat-trong-tre-truc-185260918164024111.htm",
+      "summary": "Ở tuổi 70, ông Phạm Văn Đạt (ở ấp Mỹ 1, xã Phước Long, tỉnh Cà Mau) vẫn ngày ngày ngồi bên những nan tre, nan trúc, cần mẫn với nghề đan đát đã theo gia đình hơn một thế kỷ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T03:05:00+07:00",
+      "fetched": "2026-09-20T10:15:25.865361+07:00"
+    },
+    {
+      "id": "8484928071805eee2612af0274f3e783",
+      "title": "Đậu đại học, nam sinh vẫn viết đơn tình nguyện nhập ngũ",
+      "link": "https://thanhnien.vn/dau-dai-hoc-nam-sinh-van-viet-don-tinh-nguyen-nhap-ngu-185260919230714913.htm",
+      "summary": "Nhận kết quả trúng tuyển đại học, thay vì nhập học, nam sinh Trần Hải Nam viết đơn tình nguyện tham gia nghĩa vụ quân sự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T03:00:00+07:00",
+      "fetched": "2026-09-20T10:15:25.865493+07:00"
+    },
     {
       "id": "c4df3a45ef85599e038a3c9e3708bd58",
       "title": "Hai người đẩy rác ra đường giữa lúc Vinh ngập nước",
@@ -151,6 +341,216 @@ window.newsData_2026_09_20 = {
       "category": "Tổng hợp",
       "published": "2026-09-20T02:59:45.261700+07:00",
       "fetched": "2026-09-20T02:59:45.261860+07:00"
+    },
+    {
+      "id": "26e74e00f5bbb22600c22f5427645da7",
+      "title": "Công nghệ mới giúp phục hồi 95% dung lượng cho pin xe điện cũ",
+      "link": "https://thanhnien.vn/cong-nghe-moi-giup-phuc-hoi-95-dung-luong-cho-pin-xe-dien-cu-185260919160032497.htm",
+      "summary": "Đột phá mới cho phép tẩy sạch mảng bám trên điện cực để phục hồi tới 95% dung lượng pin xe điện đã qua sử dụng với chi phí tiết kiệm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T02:50:00+07:00",
+      "fetched": "2026-09-20T10:15:25.865620+07:00"
+    },
+    {
+      "id": "9c9c6a42613ed5a9a969aa4c0105dbfa",
+      "title": "Nút giao quốc lộ 50 ở TP.HCM đã xong nhưng chưa thể mở, vì sao?",
+      "link": "https://thanhnien.vn/nut-giao-quoc-lo-50-o-tphcm-da-xong-nhung-chua-the-mo-vi-sao-185260919211704603.htm",
+      "summary": "Nút giao quốc lộ 50 - Nguyễn Văn Linh ở huyện Bình Chánh cũ (TP.HCM) đã thi công xong nhưng chưa thể khai thác, dự kiến chờ đến quý 4.2027.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T02:49:00+07:00",
+      "fetched": "2026-09-20T10:15:25.865770+07:00"
+    },
+    {
+      "id": "3df8c70a0dc44f82bad0197c69d026b6",
+      "title": "Trực tiếp bóng chuyền nữ ASIAD 2026, Việt Nam - Trung Quốc: Nỗ lực tạo bất ngờ",
+      "link": "https://thanhnien.vn/truc-tiep-doi-tuyen-bong-chuyen-nu-viet-nam-trung-quoc-no-luc-tao-bat-ngo-185260920094408346.htm",
+      "summary": "11 giờ hôm nay, đội tuyển bóng chuyền nữ Việt Nam chạm trán với đội đương kim vô địch Trung Quốc ở tứ kết môn bóng chuyền nữ ASIAD 20 diễn ra trên sân Park Arena Komaki (Nhật Bản).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T02:46:00+07:00",
+      "fetched": "2026-09-20T10:15:25.865899+07:00"
+    },
+    {
+      "id": "ad417ea060fee672d776e273a2d8c0ff",
+      "title": "Ca sĩ Hồ Việt Trung thay đổi nhiều khi có con với Saka Trương Tuyền",
+      "link": "https://thanhnien.vn/ca-si-ho-viet-trung-thay-doi-nhieu-khi-co-con-voi-saka-truong-tuyen-185260920073444683.htm",
+      "summary": "Gần 25 năm theo nghề, Hồ Việt Trung luôn cháy hết mình với khán giả mỗi khi bước lên sân khấu. Giờ đây, anh hạnh phúc bên bà xã Saka Trương Tuyền và cho biết thay đổi nhiều khi có con thứ hai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T02:46:00+07:00",
+      "fetched": "2026-09-20T10:15:25.866023+07:00"
+    },
+    {
+      "id": "7b3f2069ec069021a40978b8c15718bd",
+      "title": "'Cách tốt nhất để trao quyền cho phụ nữ là cho họ một thị trường'",
+      "link": "https://thanhnien.vn/cach-tot-nhat-de-trao-quyen-cho-phu-nu-la-cho-ho-mot-thi-truong-185260919123022782.htm",
+      "summary": "CEO Lê Hồng Thủy Tiên chia sẻ tại diễn đàn Liên Hiệp Quốc ở Bangkok về mua sắm bao trùm và cơ hội thị trường cho doanh nghiệp nữ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T02:42:00+07:00",
+      "fetched": "2026-09-20T10:15:25.866146+07:00"
+    },
+    {
+      "id": "732ce8b2c466da34af9147f8004f9f71",
+      "title": "Quả Bóng Vàng đề cao khả năng định đoạt trận đấu của Messi",
+      "link": "https://vnexpress.net/qua-bong-vang-de-cao-kha-nang-dinh-doat-tran-dau-cua-messi-5122272.html",
+      "summary": "Trang chủ Quả Bóng Vàng 2026 đề cập đến chức vô địch Campeones Cup mà Lionel Messi vừa giành được cùng Inter Miami, nhấn mạnh việc anh vẫn thiết lập được cột mốc mới ở tuổi 39.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-20T02:39:12+07:00",
+      "fetched": "2026-09-20T10:15:34.215393+07:00"
+    },
+    {
+      "id": "12f1e96479802baf026681a2247ab1fd",
+      "title": "Một Robert Pattinson khác trên thảm đỏ",
+      "link": "https://thanhnien.vn/mot-robert-pattinson-khac-tren-tham-do-185260920093947606.htm",
+      "summary": "Ở vị thế một ngôi sao hạng A, Robert Pattinson tận hưởng cuộc sống hiện tại: lối sống điềm đạm, chín chắn và sở hữu phong cách thời trang 'không cần cố' nhưng vẫn vô cùng đắt giá.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T02:39:00+07:00",
+      "fetched": "2026-09-20T10:15:25.866270+07:00"
+    },
+    {
+      "id": "39332e2d5e3859a45307e4d2c3a8c81f",
+      "title": "Phong trào chung tay bảo vệ môi trường Quảng Ngãi ‘không dừng ở một ngày ra quân’",
+      "link": "https://thanhnien.vn/phong-trao-chung-tay-bao-ve-moi-truong-quang-ngai-khong-dung-o-mot-ngay-ra-quan-185260920080557096.htm",
+      "summary": "Sau lễ phát động phong trào bảo vệ môi trường và ra quân Ngày chủ nhật xanh sáng 20.9, các cơ sở Đoàn ở Quảng Ngãi đồng loạt xử lý các điểm ô nhiễm, trồng cây xanh... với tinh thần \"không dừng ở một ngày ra quân\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T02:34:00+07:00",
+      "fetched": "2026-09-20T10:15:25.866388+07:00"
+    },
+    {
+      "id": "e54fc07aa7bfb21c4a718296b96e23dd",
+      "title": "Chủ nhà Nhật Bản đánh bại kịch tính đối thủ Trung Quốc, giành HCV đầu tiên ở ASIAD 20",
+      "link": "https://thanhnien.vn/chu-nha-nhat-ban-danh-bai-kich-tinh-doi-thu-trung-quoc-gianh-hcv-dau-tien-o-asiad-20-18526092009234468.htm",
+      "summary": "Sáng 20.9, VĐV Takumi Hojo mang về tấm HCV đầu tiên cho đoàn thể thao Nhật Bản tại ASIAD 20 sau khi vượt qua đối thủ Trung Quốc Zhang Xirui ở nội dung cá nhân nam môn triathlon (3 môn phối hợp).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T02:30:00+07:00",
+      "fetched": "2026-09-20T10:15:25.866506+07:00"
+    },
+    {
+      "id": "e826e299180e3d13725dd62022193371",
+      "title": "Tự đưa nước mặn vào lâm phần nuôi tôm, tỉnh Cà Mau phải lên tiếng",
+      "link": "https://thanhnien.vn/tu-dua-nuoc-man-vao-lam-phan-nuoi-tom-tinh-ca-mau-phai-len-tieng-185260920030923338.htm",
+      "summary": "Khoảng 70 hộ dân ở xã Khánh An, tỉnh Cà Mau, tự đưa nước mặn vào lâm phần nuôi tôm, làm ảnh hưởng khoảng 196 ha, tác động đến hệ sinh thái và công tác bảo vệ rừng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T02:30:00+07:00",
+      "fetched": "2026-09-20T10:15:25.866620+07:00"
+    },
+    {
+      "id": "0c73048bf06cdfed6588f91b63c25465",
+      "title": "Giới tỷ phú Mỹ ráo riết săn vé dự quốc yến đón ông Tập",
+      "link": "https://vnexpress.net/gioi-ty-phu-my-rao-riet-san-ve-du-quoc-yen-don-ong-tap-5122089.html",
+      "summary": "Các tỷ phú Mỹ đang tích cực vận động để giành một chỗ tại quốc yến đón Chủ tịch Trung Quốc, biến sự kiện này thành cuộc cạnh tranh gay gắt.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-20T02:28:40+07:00",
+      "fetched": "2026-09-20T10:15:29.201460+07:00"
+    },
+    {
+      "id": "75de0efae4017bb4097a765bf640e328",
+      "title": "U-Know (TVXQ!) mê đi chợ Bến Thành, hào hứng trả giá",
+      "link": "https://thanhnien.vn/u-know-tvxq-me-di-cho-ben-thanh-hao-hung-tra-gia-185260920034107745.htm",
+      "summary": "Không chỉ hào hứng khám phá chợ Bến Thành, U-Know (TVXQ!) còn tự mình trả giá, mua sắm và chia sẻ nhiều câu chuyện thú vị trong chuyến trở lại Việt Nam, khiến người hâm mộ thích thú.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T02:28:00+07:00",
+      "fetched": "2026-09-20T10:15:25.866753+07:00"
+    },
+    {
+      "id": "1b9ed419fbac8e2cfaf61042e19ce4da",
+      "title": "Một công ty ở TP.HCM đóng cửa, nợ lương lao động: BHXH nói về khởi kiện",
+      "link": "https://thanhnien.vn/mot-cong-ty-o-tphcm-dong-cua-no-luong-lao-dong-bhxh-noi-ve-khoi-kien-185260919172208925.htm",
+      "summary": "BHXH TP.HCM đã chuyển hồ sơ Công ty Hoàng Sinh sang Viện KSND khu vực 15 để xem xét khởi kiện, sẵn sàng bổ sung hồ sơ khi có yêu cầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T02:25:00+07:00",
+      "fetched": "2026-09-20T10:15:25.866871+07:00"
+    },
+    {
+      "id": "c44eaefe18f66db716b19f214c9b84f5",
+      "title": "Huyền thoại Kpop 'bùng nổ' với solo concert tại TP.HCM, tiết lộ điều đặc biệt dành cho fan Việt",
+      "link": "https://thanhnien.vn/huyen-thoai-kpop-bung-no-voi-solo-concert-tai-tphcm-tiet-lo-dieu-dac-biet-danh-cho-fan-viet-185260920085045144.htm",
+      "summary": "Trở lại TP.HCM với 'U-KNOW PROJECT 26: SCENE#1', U-KNOW (TVXQ) đưa khán giả đi qua hành trình hơn hai thập niên hoạt động nghệ thuật bằng âm nhạc, vũ đạo và những phần dàn dựng mang tính kể chuyện. Nam ca sĩ cũng dành nhiều chi tiết riêng cho người hâm mộ Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-20T02:24:00+07:00",
+      "fetched": "2026-09-20T10:15:25.866989+07:00"
+    },
+    {
+      "id": "84574276c928e03100918c87a7889916",
+      "title": "Mô hình của OpenAI dạy phiên bản sau 'nói dối'",
+      "link": "https://vnexpress.net/mo-hinh-cua-openai-day-phien-ban-sau-noi-doi-5122375.html",
+      "summary": "OpenAI phát hiện GPT-5.6 Sol hướng dẫn cho các phiên bản tương lai, yêu cầu che giấu lỗi và các hành vi sai mục tiêu trước người dùng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-20T02:00:00+07:00",
+      "fetched": "2026-09-20T10:15:33.259077+07:00"
+    },
+    {
+      "id": "5338fecbd9db4401ef92266c7c4a9757",
+      "title": "Bị bắt vì dán tranh trong sảnh trưng bày bức Mona Lisa",
+      "link": "https://vnexpress.net/bi-bat-vi-dan-tranh-trong-sanh-trung-bay-buc-mona-lisa-5122386.html",
+      "summary": "Hai người đàn ông Đức bị bắt sau khi dán hai bức tranh lên tường tại sảnh trưng bày kiệt tác Mona Lisa ở bảo tàng Louvre, Paris.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-20T01:05:11+07:00",
+      "fetched": "2026-09-20T10:15:29.201614+07:00"
+    },
+    {
+      "id": "18858bc6fe16f7d55640ce64b77ced91",
+      "title": "Ba hãng tin Mỹ có thể kiện sau khi bị 'cấm cửa' vào Nhà Trắng",
+      "link": "https://vnexpress.net/ba-hang-tin-my-co-the-kien-sau-khi-bi-cam-cua-vao-nha-trang-5122381.html",
+      "summary": "CNN, MS NOW và Politico bày tỏ ý định hành động pháp lý để bảo vệ quyền tác nghiệp, sau khi Tổng thống Trump cấm ba hãng này vào Nhà Trắng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-20T00:05:07+07:00",
+      "fetched": "2026-09-20T10:15:29.201766+07:00"
+    },
+    {
+      "id": "adced7da4bfe8e89e0ffdb603e5d31b4",
+      "title": "Tranh cãi việc Rice thoát thẻ đỏ trong trận thua của Arsenal",
+      "link": "https://vnexpress.net/tranh-cai-viec-rice-thoat-the-do-trong-tran-thua-cua-arsenal-5122385.html",
+      "summary": "Tiền vệ Declan Rice mất bình tĩnh và đá vào chân Malick Yalcouye, nhưng chỉ nhận thẻ vàng cuối trận Arsenal thua Brighton 0-3 ở vòng 5 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-19T23:58:41+07:00",
+      "fetched": "2026-09-20T10:15:34.216054+07:00"
+    },
+    {
+      "id": "c9dfbd0916d9a44723dc198ac9caff66",
+      "title": "Hàng loạt sự cố hậu cần ở ASIAD 2026",
+      "link": "https://vnexpress.net/hang-loat-su-co-hau-can-o-asiad-2026-5122325.html",
+      "summary": "Á vận hội lần thứ 20 liên tiếp phát sinh vấn đề về chỗ ở, ăn uống, di chuyển, đón tiếp và thủ tục, khiến công tác tổ chức tại Nhật Bản chịu nhiều chỉ trích.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-19T23:47:26+07:00",
+      "fetched": "2026-09-20T10:15:34.215527+07:00"
+    },
+    {
+      "id": "3fe9836537868f3cbfe4dd6f57d4a0b6",
+      "title": "Arteta: 'Arsenal không tôn trọng trận đấu'",
+      "link": "https://vnexpress.net/arteta-arsenal-khong-ton-trong-tran-dau-5122379.html",
+      "summary": "HLV Mikel Arteta cho rằng các cầu thủ Arsenal không tuân thủ những nguyên tắc cơ bản, dẫn đến thất bại 0-3 trước Brighton ở vòng 5 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-19T23:36:04+07:00",
+      "fetched": "2026-09-20T10:15:34.215656+07:00"
+    },
+    {
+      "id": "9e171a41a71e875cee98c3ed1ad7a1d5",
+      "title": "Raphinha lại lập hat-trick cho Barca",
+      "link": "https://vnexpress.net/raphinha-lai-lap-hat-trick-cho-barca-5122377.html",
+      "summary": "Tiền đạo Raphinha lập hat-trick thứ hai trong bốn ngày, giúp Barca thắng ngược Sevilla 3-1 ở vòng 7 La Liga và nối dài mạch toàn thắng từ đầu mùa.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-19T22:49:43+07:00",
+      "fetched": "2026-09-20T10:15:34.215803+07:00"
     },
     {
       "id": "a648031def1c03438995d744cb1dea4e",
