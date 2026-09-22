@@ -1,7 +1,17 @@
 window.newsData_2026_09_23 = {
   "date": "2026-09-23",
-  "lastUpdated": "2026-09-23T00:54:39.478664+07:00",
+  "lastUpdated": "2026-09-23T03:51:01.763307+07:00",
   "articles": [
+    {
+      "id": "6086670a15fce658ef5a7ce6caef7afd",
+      "title": "Tổng thống Hàn Quốc quyết tâm siết quản lý, ổn định thị trường bất động sản",
+      "link": "https://tuoitre.vn/tong-thong-han-quoc-quyet-tam-siet-quan-ly-on-dinh-thi-truong-bat-dong-san-100260922235121828.htm",
+      "summary": "Tổng thống Hàn Quốc tiếp tục nhấn mạnh quyết tâm ổn định thị trường bất động sản, khẳng định tình trạng “Gangnam bất bại” và “nền cộng hòa đầu cơ bất động sản” sẽ trở thành quá khứ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T03:50:55.693517+07:00",
+      "fetched": "2026-09-23T03:50:55.693680+07:00"
+    },
     {
       "id": "b993f0ef850406601fe6a45b24b3ffef",
       "title": "Thi hành án Quân khu 5 làm việc với phạm nhân Nguyễn Văn Hậu và Công ty Phúc Sơn",
@@ -153,6 +163,16 @@ window.newsData_2026_09_23 = {
       "fetched": "2026-09-23T00:54:31.823240+07:00"
     },
     {
+      "id": "f8bb8b24f7a6c15efab9ccf2e5fe6d8a",
+      "title": "Lý do Arab Saudi bất lực trước Houthi suốt hơn một thập kỷ",
+      "link": "https://vnexpress.net/ly-do-arab-saudi-bat-luc-truoc-houthi-suot-hon-mot-thap-ky-5123203.html",
+      "summary": "Arab Saudi không đánh bại được Houthi trong hơn 10 năm qua do lực lượng ủy nhiệm kém hiệu quả, trong khi đối phương lại có tính thống nhất.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-22T18:00:00+07:00",
+      "fetched": "2026-09-23T03:50:57.021632+07:00"
+    },
+    {
       "id": "1fd64173389752e71dbc75cc4a3e8cd0",
       "title": "Vì sao một lần đo chưa đủ để chẩn đoán huyết áp cao?",
       "link": "https://thanhnien.vn/vi-sao-mot-lan-do-chua-du-de-chan-doan-huyet-ap-cao-185260921164140785.htm",
@@ -201,6 +221,16 @@ window.newsData_2026_09_23 = {
       "category": "Kinh doanh",
       "published": "2026-09-22T17:01:00+07:00",
       "fetched": "2026-09-23T00:54:34.655182+07:00"
+    },
+    {
+      "id": "1b36b09e20655c3f6732c28acd690b07",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm tiếp quyền Bộ trưởng Hải quân Mỹ Hùng Cao",
+      "link": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-to-lam-tiep-quyen-bo-truong-hai-quan-my-hung-cao-5123536.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước chia sẻ những định hướng và mục tiêu phát triển lớn của Việt Nam khi tiếp quyền Bộ trưởng Hùng Cao tại New York.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-22T17:00:29+07:00",
+      "fetched": "2026-09-23T03:50:57.021814+07:00"
     },
     {
       "id": "04b8530d27d927f22d41c297546450a5",
@@ -611,6 +641,16 @@ window.newsData_2026_09_23 = {
       "category": "Tổng hợp",
       "published": "2026-09-22T08:00:00+07:00",
       "fetched": "2026-09-23T00:54:26.283042+07:00"
+    },
+    {
+      "id": "a2b183f2c59861c252bae467d213bcda",
+      "title": "Kỳ vọng mở rộng giới hạn xe máy điện của Dat Bike",
+      "link": "https://vnexpress.net/ky-vong-mo-rong-gioi-han-xe-may-dien-cua-dat-bike-5123344.html",
+      "summary": "Xe máy điện cần đủ mạnh, đủ tin cậy và tiện dụng để đáp ứng nhu cầu sử dụng hàng ngày, giúp người dùng không cần bận tâm mỗi khi di chuyển, theo Dat Bike.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-22T08:00:00+07:00",
+      "fetched": "2026-09-23T03:50:51.270290+07:00"
     },
     {
       "id": "21d34699431f2aa579bf450c424a9f9e",
