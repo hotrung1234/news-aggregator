@@ -1,7 +1,157 @@
 window.newsData_2026_09_23 = {
   "date": "2026-09-23",
-  "lastUpdated": "2026-09-23T06:58:33.424742+07:00",
+  "lastUpdated": "2026-09-23T11:06:13.347420+07:00",
   "articles": [
+    {
+      "id": "ef5fa4fdd522cb26a08a749abfcfd379",
+      "title": "Khám phá 'nhà thụ động' với mái thu nước mưa bằng gạch ở São Paulo, Brazil",
+      "link": "https://tuoitre.vn/kham-pha-nha-thu-dong-voi-mai-thu-nuoc-mua-bang-gach-o-sao-paulo-brasil-100260921151236116.htm",
+      "summary": "Được xây dựng trong bối cảnh cô lập do đại dịch, nhà thụ động (Passive House) là lời hồi đáp trực tiếp cho mong muốn về một cuộc sống đơn giản, tự chủ và gắn kết với thiên nhiên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T11:06:06.158727+07:00",
+      "fetched": "2026-09-23T11:06:06.158759+07:00"
+    },
+    {
+      "id": "42b42af29cb1f318468b48b05d307a05",
+      "title": "Doanh thu MCH tăng 15%, động lực tăng trưởng mở rộng",
+      "link": "https://tuoitre.vn/doanh-thu-mch-tang-15-dong-luc-tang-truong-mo-rong-100260922174234525.htm",
+      "summary": "Doanh thu Masan Consumer (HOSE: MCH) tăng 15% sau 8 tháng đầu năm 2026. Tăng trưởng không chỉ đến từ những thương hiệu chủ lực như CHIN-SU, Nam Ngư và Omachi mà mở rộng sang đồ uống đóng chai, chăm sóc cá nhân, gia đình và kinh doanh quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T11:06:06.158664+07:00",
+      "fetched": "2026-09-23T11:06:06.158721+07:00"
+    },
+    {
+      "id": "5433673e2d66016cd941a22743b227b3",
+      "title": "Cập nhật bảng xếp hạng huy chương Asiad 20: Trung Quốc tiếp tục thống trị",
+      "link": "https://tuoitre.vn/cap-nhat-bang-xep-hang-huy-chuong-asiad-20-trung-quoc-tiep-tuc-thong-tri-100260922212852039.htm",
+      "summary": "Tuổi Trẻ cập nhật bảng xếp hạng huy chương Asiad 20 tại Nhật Bản. Hiện Trung Quốc đang dẫn đầu bảng xếp hạng huy chương với 32 HCV.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T11:06:06.158631+07:00",
+      "fetched": "2026-09-23T11:06:06.158659+07:00"
+    },
+    {
+      "id": "285fb055fac004a097d91579eccc897e",
+      "title": "Ban tổ chức xin lỗi vì vội vàng loại 2 VĐV Việt Nam chỉ vì tố cáo của nữ game thủ Hàn Quốc",
+      "link": "https://tuoitre.vn/ban-to-chuc-xin-loi-vi-voi-vang-loai-2-vdv-viet-nam-chi-vi-to-cao-cua-nu-game-thu-han-quoc-100260923000647606.htm",
+      "summary": "Giải đấu PUBG Asia Stars 2026 (thể thao điện tử - Esports) bất ngờ bị hủy ngày thi đấu cuối cùng liên quan đến hai tuyển thủ Việt Nam. Vụ việc đã kéo theo những tranh cãi về quy chế và cách vận hành của ban tổ chức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T11:06:06.158593+07:00",
+      "fetched": "2026-09-23T11:06:06.158625+07:00"
+    },
+    {
+      "id": "a3862a295c4517e5135b567a7e9cff7b",
+      "title": "Hôm nay xoáy thấp vào TP.HCM, Nam Bộ, thời tiết xấu nhất trong đợt mưa lớn",
+      "link": "https://tuoitre.vn/hom-nay-xoay-thap-vao-tphcm-nam-bo-thoi-tiet-xau-nhat-trong-dot-mua-lon-100260923075256057.htm",
+      "summary": "Đài khí tượng thủy văn Nam Bộ cho biết hôm nay tiếp tục có mưa. Ngoài ra Nam Bộ sẽ còn đón mưa lớn diện rộng trong 3 ngày tới, từ 23 đến 25-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T11:06:06.158546+07:00",
+      "fetched": "2026-09-23T11:06:06.158586+07:00"
+    },
+    {
+      "id": "9d5a35a70ff800f43acfb767feedbaef",
+      "title": "Chứng khoán EVS và T-Cap cùng bị phạt, lộ loạt vi phạm về báo cáo",
+      "link": "https://tuoitre.vn/chung-khoan-evs-va-t-cap-cung-bi-phat-lo-loat-vi-pham-ve-bao-cao-100260922222008449.htm",
+      "summary": "Chứng khoán EVS và T-Cap bị Thanh tra Chứng khoán Nhà nước xử phạt tổng cộng 292,5 triệu đồng. EVS bị phạt do báo cáo sai tỉ lệ an toàn tài chính, còn T-Cap vi phạm quy định về thời hạn báo cáo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T11:06:06.158497+07:00",
+      "fetched": "2026-09-23T11:06:06.158539+07:00"
+    },
+    {
+      "id": "01892727219ba34ab3ea7ad495c34cdb",
+      "title": "Thi chọn đội tuyển thi HS giỏi quốc gia ở TP.HCM: Môn tiếng Anh đông thí sinh nhất",
+      "link": "https://tuoitre.vn/thi-chon-doi-tuyen-thi-hs-gioi-quoc-gia-o-tphcm-mon-tieng-anh-dong-thi-sinh-nhat-100260923075321606.htm",
+      "summary": "Kỳ thi chọn đội tuyển để thi học sinh giỏi quốc gia ở TP.HCM diễn ra ngày 23 và 24-9, có 4.622 học sinh từ lớp 10 đến lớp 12 tham gia. Trong đó, môn tiếng Anh có số thí sinh đông nhất, kế đó là môn văn, toán, hóa…",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T11:06:06.158447+07:00",
+      "fetched": "2026-09-23T11:06:06.158490+07:00"
+    },
+    {
+      "id": "0114c34e4947f7f864cd7d6dfbd0cd80",
+      "title": "Rơi nước mắt bài tính học phí của con trai người mẹ khiếm thị, HS giỏi lý tỉnh, đậu ĐH Quốc gia",
+      "link": "https://tuoitre.vn/roi-nuoc-mat-bai-tinh-hoc-phi-cua-con-trai-nguoi-me-khiem-thi-hs-gioi-ly-tinh-dau-dh-quoc-gia-100260916061211713.htm",
+      "summary": "Thiếu vắng tình thương của cha khi vừa lọt lòng, nhưng đây chưa phải nỗi đau duy nhất của Nguyễn Anh Đức. Khi Đức vừa sinh ra thì hai mắt của mẹ đã sưng húp, mờ dần và không còn nhìn thấy ánh sáng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T11:06:06.158392+07:00",
+      "fetched": "2026-09-23T11:06:06.158440+07:00"
+    },
+    {
+      "id": "3094feaeb23763a9217cfa9f4a266f00",
+      "title": "Triển lãm ‘Sống.Tạo’ mở màn Liên hoan Sáng tạo & Thiết kế Việt Nam 2026",
+      "link": "https://tuoitre.vn/trien-lam-songtao-mo-man-lien-hoan-sang-tao-thiet-ke-viet-nam-2026-100260922172537892.htm",
+      "summary": "Triển lãm ‘Sống.Tạo’ diễn ra từ ngày 21 đến 27-9, tại Nina Next Space, TP.HCM, quy tụ hơn 25 dự án của hơn 75 nghệ sĩ, nhiếp ảnh gia và nhà thiết kế đến từ Việt Nam và hơn 20 quốc gia khác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T11:06:06.158340+07:00",
+      "fetched": "2026-09-23T11:06:06.158384+07:00"
+    },
+    {
+      "id": "5f450f98262c4ddc962a3c1c5b5c2977",
+      "title": "Vụ cụ bà 70 tuổi bị sát hại, cướp vàng: Thủ phạm là người quen, thường xuyên giúp việc nhà",
+      "link": "https://tuoitre.vn/vu-cu-ba-70-tuoi-bi-sat-hai-cuop-vang-thu-pham-la-nguoi-quen-thuong-xuyen-giup-viec-nha-100260923080259664.htm",
+      "summary": "Cơ quan Cảnh sát điều tra Công an tỉnh Vĩnh Long đã điều tra, làm rõ vụ giết người, cướp tài sản xảy ra tại xã Phú Phụng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T11:06:06.158290+07:00",
+      "fetched": "2026-09-23T11:06:06.158334+07:00"
+    },
+    {
+      "id": "cbdb3a17fca89f670103549250dd4a83",
+      "title": "Việt Nam tiếp tục miễn tiền thuê nhà cho Liên hợp quốc",
+      "link": "https://tuoitre.vn/viet-nam-tiep-tuc-mien-tien-thue-nha-cho-lien-hop-quoc-100260923082850062.htm",
+      "summary": "Việc gia hạn miễn tiền thuê nhà là đóng góp rất thiết thực của Việt Nam trong bối cảnh các tổ chức Liên hợp quốc gặp khó khăn về tài chính.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T11:06:06.158236+07:00",
+      "fetched": "2026-09-23T11:06:06.158283+07:00"
+    },
+    {
+      "id": "18b37c1037f8a5f8e9b3b5d31d4d6538",
+      "title": "Đôi bạn trẻ ‘vẽ hạnh phúc’ cho những gánh hàng rong",
+      "link": "https://tuoitre.vn/doi-ban-tre-ve-hanh-phuc-cho-nhung-ganh-hang-rong-100260915123152614.htm",
+      "summary": "Hơn 3 năm vẽ bảng hiệu miễn phí cho những gánh hàng rong, Nguyễn Phú Thịnh và Nguyễn Phan Thanh Phượng đã dùng màu sắc để kể câu chuyện về những người lao động bình dị trên hành trình “Vẽ hạnh phúc”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T11:06:06.158179+07:00",
+      "fetched": "2026-09-23T11:06:06.158227+07:00"
+    },
+    {
+      "id": "985ca13fc670497738cd5651290a1f13",
+      "title": "Hoàng Hên bị giữ lại kiểm tra an ninh trước giờ đội tuyển Việt Nam đi Indonesia",
+      "link": "https://tuoitre.vn/hoang-hen-bi-giu-lai-kiem-tra-an-ninh-truoc-gio-doi-tuyen-viet-nam-di-indonesia-100260923082539675.htm",
+      "summary": "Đỗ Hoàng Hên gặp sự cố trong quá trình làm thủ tục lên máy bay trước giờ đội tuyển Việt Nam đi Indonesia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T11:06:06.158112+07:00",
+      "fetched": "2026-09-23T11:06:06.158169+07:00"
+    },
+    {
+      "id": "1f40c6d491a34852ca34ca5b11fd48ee",
+      "title": "Đọc nhanh 23-9: Giá dầu thủng mốc 100 USD, chứng khoán Mỹ lập kỷ lục 2 phiên liên tiếp",
+      "link": "https://tuoitre.vn/doc-nhanh-23-9-gia-dau-thung-moc-100-usd-chung-khoan-my-lap-ky-luc-2-phien-lien-tiep-10026092308124419.htm",
+      "summary": "Giá dầu Brent giảm xuống còn 98,9 USD/thùng, Nasdaq của Mỹ lập kỷ lục hai phiên liên tiếp. Trong nước, VN-Index hồi phục hơn 17 điểm, trở lại mốc 1.800 điểm sau phiên giảm mạnh đầu tuần.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T11:06:06.157838+07:00",
+      "fetched": "2026-09-23T11:06:06.158102+07:00"
+    },
+    {
+      "id": "4a23bacfc5807fcd7e21f229fbdaf20f",
+      "title": "Khóa cửa, khóa xe, đừng vô tình khóa luôn lòng mình với hàng xóm",
+      "link": "https://tuoitre.vn/khoa-cua-khoa-xe-dung-vo-tinh-khoa-luon-long-minh-voi-hang-xom-100260919160355205.htm",
+      "summary": "'Sự tin tưởng của người ta quý giá lắm, đâu phải ai cũng dám giao nguyên cái nhà cho người dưng lúc đi vắng'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T11:06:06.157699+07:00",
+      "fetched": "2026-09-23T11:06:06.157830+07:00"
+    },
     {
       "id": "b2e8aeb0b859d91ac716e5c1e21352bd",
       "title": "Thời tiết hôm nay 23-9: Nam Bộ tiếp tục mưa to kết hợp triều cường, nhiều nơi ngập nặng",
@@ -33,6 +183,36 @@ window.newsData_2026_09_23 = {
       "fetched": "2026-09-23T06:58:27.524241+07:00"
     },
     {
+      "id": "6fe3ce1fc5601bfdd289169e6f6a4119",
+      "title": "Tìm kiếm người và ô tô nghi nước lũ cuốn mất tích ở Đồng Nai",
+      "link": "https://thanhnien.vn/tim-kiem-nguoi-va-o-to-nghi-nuoc-lu-cuon-mat-tich-o-dong-nai-185260923103756368.htm",
+      "summary": "Lực lượng chức năng phường Bình Long (thành phố Đồng Nai) xuyên đêm tìm kiếm người và xe ô tô nghi bị nước lũ cuốn mất tích, nhưng đến nay vẫn chưa tìm thấy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T03:56:00+07:00",
+      "fetched": "2026-09-23T11:06:04.340344+07:00"
+    },
+    {
+      "id": "f38107f9cae477845855dac42a5ba8ed",
+      "title": "Giá Bitcoin hôm nay 23.9.2026: 'Mùa altcoin' đang đến?",
+      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-2392026-mua-altcoin-dang-den-18526092310152537.htm",
+      "summary": "Giá Bitcoin hôm nay tiếp tục giao dịch trên 86.000 USD trong khi các nhà phân tích cho rằng tín hiệu của \"mùa altcoin\" đã xuất hiện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T03:52:00+07:00",
+      "fetched": "2026-09-23T11:06:04.340461+07:00"
+    },
+    {
+      "id": "58fa21b7b1ad9a6c4074f34fc9379bc1",
+      "title": "Thiếu tiền trọ, nam thanh niên đánh cụ bà 85 tuổi để cướp tài sản",
+      "link": "https://thanhnien.vn/thieu-tien-tro-nam-thanh-nien-danh-cu-ba-85-tuoi-de-cuop-tai-san-185260923101040814.htm",
+      "summary": "Không có tiền trả phòng trọ, Ngô Chí Thanh cùng một cô gái xông vào nhà cụ bà 85 tuổi ở Quảng Trị, khống chế nạn nhân rồi cướp vàng, điện thoại và tiền mặt trị giá gần 14 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T03:52:00+07:00",
+      "fetched": "2026-09-23T11:06:04.340556+07:00"
+    },
+    {
       "id": "6086670a15fce658ef5a7ce6caef7afd",
       "title": "Tổng thống Hàn Quốc quyết tâm siết quản lý, ổn định thị trường bất động sản",
       "link": "https://tuoitre.vn/tong-thong-han-quoc-quyet-tam-siet-quan-ly-on-dinh-thi-truong-bat-dong-san-100260922235121828.htm",
@@ -41,6 +221,206 @@ window.newsData_2026_09_23 = {
       "category": "Tổng hợp",
       "published": "2026-09-23T03:50:55.693517+07:00",
       "fetched": "2026-09-23T03:50:55.693680+07:00"
+    },
+    {
+      "id": "a1855722febf3e2ad4bb76772fde4449",
+      "title": "Bên trong căn cứ huấn luyện mang chủ đề Viking cho lính Ukraine",
+      "link": "https://vnexpress.net/ben-trong-can-cu-huan-luyen-mang-chu-de-viking-cho-linh-ukraine-5123416.html",
+      "summary": "Binh sĩ Ukraine được huấn luyện chiến đấu tại căn cứ có nhiều chi tiết liên quan đến người Viking và thần Bắc Âu tại Ba Lan.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-23T03:49:21+07:00",
+      "fetched": "2026-09-23T11:06:07.643166+07:00"
+    },
+    {
+      "id": "6deda8ce61b595848b356ea4192fa451",
+      "title": "Serena Riverside đưa trải nghiệm nghỉ dưỡng vào nhịp sống mỗi ngày",
+      "link": "https://thanhnien.vn/serena-riverside-dua-trai-nghiem-nghi-duong-vao-nhip-song-moi-ngay-185260923105707788.htm",
+      "summary": "Với mô hình Home Resort bên sông Sài Gòn, Serena Riverside hướng đến việc đưa trải nghiệm nghỉ dưỡng vào ngay nơi ở, để cư dân chăm sóc cho bản thân ngay trong nhịp sống thường ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T03:46:00+07:00",
+      "fetched": "2026-09-23T11:06:04.340648+07:00"
+    },
+    {
+      "id": "95d04b6c094f995fce3c6a6316c5ca6e",
+      "title": "Cách tiếp cận khác",
+      "link": "https://thanhnien.vn/cach-tiep-can-khac-185260922212127944.htm",
+      "summary": "Tổng thống Hàn Quốc Lee Jae Myung vừa đề xuất cách tiếp cận mới về vấn đề hạt nhân của CHDCND Triều Tiên là nới lỏng trừng phạt để đổi lấy việc Bình Nhưỡng đóng băng chương trình hạt nhân và tên lửa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T03:46:00+07:00",
+      "fetched": "2026-09-23T11:06:04.340749+07:00"
+    },
+    {
+      "id": "21fd36b2e750218bb96da25c3d5fb051",
+      "title": "'Hô biến' gas trôi nổi thành thương hiệu lớn, tuồn ra thị trường hơn 42.000 bình",
+      "link": "https://thanhnien.vn/ho-bien-gas-troi-noi-thanh-thuong-hieu-lon-tuon-ra-thi-truong-hon-42000-binh-185260923104150969.htm",
+      "summary": "Công an TP.HCM vừa triệt phá thành công một đường dây sản xuất, buôn bán gas giả với quy mô cực lớn. Hơn 42.000 bình gas giả nhiều thương hiệu khác, trị giá khoảng 18,6 tỉ đồng đã được tuồn ra thị trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T03:44:00+07:00",
+      "fetched": "2026-09-23T11:06:04.340837+07:00"
+    },
+    {
+      "id": "f505b2827a3992ecd118dc8706fd4fb1",
+      "title": "Rà soát 700 tài khoản vụ livestream gây rối bệnh viện: 'Đừng nghĩ chia sẻ là vô can'",
+      "link": "https://thanhnien.vn/ra-soat-700-tai-khoan-vu-livestream-gay-roi-benh-vien-dung-nghi-chia-se-la-vo-can-185260923100928381.htm",
+      "summary": "Việc Công an tỉnh Phú Thọ rà soát 700 tài khoản trong vụ livestream gây rối bệnh viện cho thấy một thông điệp: chia sẻ, bình luận không phải lúc nào cũng vô can.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T03:37:00+07:00",
+      "fetched": "2026-09-23T11:06:04.340920+07:00"
+    },
+    {
+      "id": "20044ad9b14eac3541236159eca08564",
+      "title": "Nhà gỗ biệt lập giữa rừng cháy rụi, 3 mẹ con tử vong",
+      "link": "https://thanhnien.vn/nha-go-biet-lap-giua-rung-chay-rui-3-me-con-tu-vong-185260923100540542.htm",
+      "summary": "Một căn nhà gỗ, lợp tôn nằm biệt lập giữa khu rừng sâu ở xã Đam Rông 2 (Lâm Đồng) bất ngờ bốc cháy khiến người mẹ cùng 2 con nhỏ tử vong thương tâm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T03:36:00+07:00",
+      "fetched": "2026-09-23T11:06:04.341007+07:00"
+    },
+    {
+      "id": "5b602de27d859df7d1e536f937fd8da4",
+      "title": "4 thói quen cứ nghĩ là tốt lại lấy đi collagen khiến da lão hóa 'không phanh'",
+      "link": "https://thanhnien.vn/4-thoi-quen-cu-nghi-la-tot-lai-lay-di-collagen-khien-da-lao-hoa-khong-phanh-185260923104548021.htm",
+      "summary": "Nhiều chị em chăm sóc da vô cùng kỹ lưỡng nhưng vết chân chim, tình trạng chảy xệ vẫn gõ cửa sớm hơn tuổi thật. Đáng nói, chính thói quen sinh hoạt tưởng chừng lành mạnh hằng ngày lại là 'kẻ giấu mặt' âm thầm phá hủy liên kết collagen dưới da. Dưới đây là phân tích từ góc nhìn y khoa giúp bạn nhận d...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T03:35:00+07:00",
+      "fetched": "2026-09-23T11:06:04.341092+07:00"
+    },
+    {
+      "id": "b6a847fc5b3dfb813ea183ee96d75b5a",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm gặp lãnh đạo các nước",
+      "link": "https://thanhnien.vn/tong-bi-thu-chu-tich-nuoc-to-lam-gap-lanh-dao-cac-nuoc-185260923101120844.htm",
+      "summary": "Sáng 22.9 (theo giờ địa phương), tại New York, trong khuôn khổ chuyến công tác dự kỳ họp Đại hội đồng Liên Hiệp Quốc khóa 81 và hoạt động song phương tại Mỹ, Tổng Bí thư, Chủ tịch nước Tô Lâm đã có các cuộc gặp với lãnh đạo các nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T03:30:00+07:00",
+      "fetched": "2026-09-23T11:06:04.341175+07:00"
+    },
+    {
+      "id": "1e1dd4f1cf5c192e188ca6e6ba1cddc3",
+      "title": "‘Nước sạch cho em’: Đưa nước sạch đến trường học đầu năm học mới",
+      "link": "https://thanhnien.vn/nuoc-sach-cho-em-dua-nuoc-sach-den-truong-hoc-dau-nam-hoc-moi-185260923102835495.htm",
+      "summary": "Dự án “Nước sạch cho em” đã đưa hệ thống lọc nước RO đến các điểm trường tại Đồng Tháp, Cần Thơ, TP.HCM, giúp học sinh có thêm nguồn nước sạch để uống và sinh hoạt ngay tại trường. Đây là những điểm đến đầu tiên trong hành trình dự án “Nước sạch cho em - Vì những mầm xanh cần được nuôi dưỡng”.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T03:28:00+07:00",
+      "fetched": "2026-09-23T11:06:04.341255+07:00"
+    },
+    {
+      "id": "424c63b0832aafc0144bf568fc942916",
+      "title": "Thách thức bủa vây Thủ tướng Đức sau chuỗi thất bại bầu cử",
+      "link": "https://vnexpress.net/thach-thuc-bua-vay-thu-tuong-duc-sau-chuoi-that-bai-bau-cu-5123411.html",
+      "summary": "Những thất bại bầu cử liên tiếp của đảng cầm quyền khiến Thủ tướng Merz chịu sức ép ngày càng lớn, đe dọa chương trình cải cách mà ông đang thúc đẩy.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-23T03:24:44+07:00",
+      "fetched": "2026-09-23T11:06:07.643272+07:00"
+    },
+    {
+      "id": "b611066b0e0238885c18ef99b27907ba",
+      "title": "TP.HCM cần thu ngân sách bình quân 93.800 tỉ đồng/tháng đến cuối năm 2026",
+      "link": "https://thanhnien.vn/tphcm-can-thu-ngan-sach-binh-quan-93800-ti-dong-thang-den-cuoi-nam-2026-185260923095448304.htm",
+      "summary": "Với mục tiêu thu ngân sách cả năm 2026 vượt mốc 1 triệu tỉ đồng, TP.HCM cần thu bình quân 93.800 tỉ đồng/tháng đến cuối năm, riêng thu từ đất đai 86.590 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T03:21:00+07:00",
+      "fetched": "2026-09-23T11:06:04.341338+07:00"
+    },
+    {
+      "id": "cc9e2743e5f5e112a39b4580d2339073",
+      "title": "Phòng khám, trạm y tế sẽ phải đánh giá chất lượng hàng năm",
+      "link": "https://thanhnien.vn/phong-kham-tram-y-te-se-phai-danh-gia-chat-luong-hang-nam-185260923095957611.htm",
+      "summary": "Từ 1.1.2027, các cơ sở khám bệnh, chữa bệnh không phải là bệnh viện (phòng khám, phòng chẩn trị y học cổ truyền, cơ sở dịch vụ y khoa, trạm y tế) phải đánh giá chất lượng hàng năm, theo đề xuất của Bộ Y tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T03:20:00+07:00",
+      "fetched": "2026-09-23T11:06:04.341419+07:00"
+    },
+    {
+      "id": "cf81ac2ed4934bd31122d87f5ca7e573",
+      "title": "Việt Nam sẽ tiếp tục miễn phí trụ sở cho các tổ chức Liên Hiệp Quốc",
+      "link": "https://thanhnien.vn/viet-nam-se-tiep-tuc-mien-phi-tru-so-cho-cac-to-chuc-lien-hiep-quoc-185260923095619476.htm",
+      "summary": "Chiều 22.9 (giờ địa phương), tại trụ sở Liên Hiệp Quốc ở New York (Mỹ), trong khuôn khổ chuyến công tác tham dự Phiên thảo luận cấp cao Đại hội đồng Liên Hiệp Quốc khóa 81, Tổng Bí thư, Chủ tịch nước Tô Lâm đã chứng kiến lễ trao các văn kiện và thỏa thuận hợp tác quan trọng giữa Việt Nam và các cơ q...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T03:16:00+07:00",
+      "fetched": "2026-09-23T11:06:04.341501+07:00"
+    },
+    {
+      "id": "54d07b0472c91a0e889d331d81db8f78",
+      "title": "Xóm lò than hơn 50 năm ở miền Tây: Vui, buồn người thợ 'đen mặt, sáng lòng'",
+      "link": "https://thanhnien.vn/xom-lo-than-hon-50-nam-o-mien-tay-vui-buon-nguoi-tho-den-mat-sang-long-185260922152645556.htm",
+      "summary": "Trong cái nóng hầm hập, khói bụi và những lớp than đen bám kín mặt mày, những người thợ ở lò than vẫn lặng lẽ làm việc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T03:16:00+07:00",
+      "fetched": "2026-09-23T11:06:04.341582+07:00"
+    },
+    {
+      "id": "4ce8cc3a92700a21b2358dd5794c0d7c",
+      "title": "Nghi phạm giết người hàng loạt bị bắt khi cải trang thành phụ nữ",
+      "link": "https://vnexpress.net/nghi-pham-giet-nguoi-hang-loat-bi-bat-khi-cai-trang-thanh-phu-nu-5123624.html",
+      "summary": "Da Silva, nghi phạm sát hại nhiều người, bị cảnh sát bắt khi đóng giả phụ nữ lẩn trốn trong khu rừng ở bang Paraiba.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-23T02:53:48+07:00",
+      "fetched": "2026-09-23T11:06:07.643370+07:00"
+    },
+    {
+      "id": "3ee4a15643563d2c97b67bbf57c46042",
+      "title": "Việt Nam lần đầu có dịch vụ chuyển hàng lên núi bằng UAV",
+      "link": "https://vnexpress.net/viet-nam-lan-dau-co-dich-vu-chuyen-hang-len-nui-bang-uav-5123570.html",
+      "summary": "Vietnam Post chính thức cung cấp lựa chọn vận chuyển bằng UAV tại Điện Biên, trở thành tỉnh miền núi đầu tiên triển khai dịch vụ này.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-23T02:38:40+07:00",
+      "fetched": "2026-09-23T11:06:11.377256+07:00"
+    },
+    {
+      "id": "66e27067c184f94f0f7340c68a432ed7",
+      "title": "Tổng giám đốc Google Việt Nam: 'AI là công cụ, không thay thế nhà sáng tạo'",
+      "link": "https://vnexpress.net/tong-giam-doc-google-viet-nam-ai-la-cong-cu-khong-thay-the-nha-sang-tao-5122913.html",
+      "summary": "Marc Woo, Tổng giám đốc Google Việt Nam, cho rằng video ngắn và dài sẽ song hành, còn AI giúp nâng hiệu suất chứ không thay thế nội dung nguyên bản.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-23T02:20:27+07:00",
+      "fetched": "2026-09-23T11:06:11.377364+07:00"
+    },
+    {
+      "id": "2b5360f9561c1f702f490a7def41e6a9",
+      "title": "Mbappe: 'Nếu giành Quả Bóng Vàng, tôi muốn dành tặng nó cho châu Phi'",
+      "link": "https://vnexpress.net/mbappe-neu-gianh-qua-bong-vang-toi-muon-danh-tang-no-cho-chau-phi-5123545.html",
+      "summary": "Trả lời đài phát thanh quốc tế Pháp RFI ngày 22/9, Kylian Mbappe chia sẻ về sức mạnh từ nguồn cội Algeria và Cameroon, đồng thời hy vọng nhận được sự ủng hộ từ lục địa đen trên con đường chinh phục Quả Bóng Vàng 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-23T02:17:44+07:00",
+      "fetched": "2026-09-23T11:06:13.343487+07:00"
+    },
+    {
+      "id": "d09ed870d8a04f90888219dc057e9ba8",
+      "title": "Tổng Bí thư, Chủ tịch nước nhận huy chương của Hiệp hội Chính sách Đối ngoại Mỹ",
+      "link": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-nhan-huy-chuong-cua-hiep-hoi-chinh-sach-doi-ngoai-my-5123564.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm nhận huy chương của Hiệp hội Chính sách Đối ngoại Mỹ, đồng thời chia sẻ góc nhìn của Việt Nam về quan hệ quốc tế.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-23T01:24:41+07:00",
+      "fetched": "2026-09-23T11:06:07.643464+07:00"
+    },
+    {
+      "id": "ec2ca99890fc8717afac12481632d244",
+      "title": "Gần 20 đội tuyển thay HLV sau World Cup 2026",
+      "link": "https://vnexpress.net/gan-20-doi-tuyen-thay-hlv-sau-world-cup-2026-5123554.html",
+      "summary": "Sau World Cup 2026, hàng loạt đội tuyển đổi HLV, trong đó Đức bổ nhiệm Jurgen Klopp, Hà Lan chọn Xavi Hernandez và Pháp bước vào thời kỳ Zinedine Zidane.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-23T00:55:31+07:00",
+      "fetched": "2026-09-23T11:06:13.343592+07:00"
     },
     {
       "id": "b993f0ef850406601fe6a45b24b3ffef",
@@ -191,6 +571,46 @@ window.newsData_2026_09_23 = {
       "category": "Tổng hợp",
       "published": "2026-09-23T00:54:31.823082+07:00",
       "fetched": "2026-09-23T00:54:31.823240+07:00"
+    },
+    {
+      "id": "70c33caca1409e9fd03b63b6ee041393",
+      "title": "Tổng Bí thư, Chủ tịch nước đề xuất 4 định hướng lớn tại Đại hội đồng LHQ",
+      "link": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-de-xuat-4-dinh-huong-lon-tai-dai-hoi-dong-lhq-5123558.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm đề xuất 4 định hướng lớn, trong đó có tôn trọng luật pháp, thúc đẩy công bằng, nhân văn, khi phát biểu trước Đại hội đồng LHQ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-23T00:34:01+07:00",
+      "fetched": "2026-09-23T11:06:07.643555+07:00"
+    },
+    {
+      "id": "d02f9ccc838a5708ebc2fdbf9d46c239",
+      "title": "Thêm nhiều ngân hàng trả lãi tiết kiệm trên 9%",
+      "link": "https://vnexpress.net/them-nhieu-ngan-hang-tra-lai-tiet-kiem-tren-9-5123534.html",
+      "summary": "Gần 10 ngân hàng đang chào lãi suất tiết kiệm từ 9% một năm cho khoản gửi chỉ vài trăm triệu đồng, trong khi mức niêm yết công khai cao nhất hệ thống chưa tới 8%.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-23T00:00:00+07:00",
+      "fetched": "2026-09-23T11:06:09.093847+07:00"
+    },
+    {
+      "id": "96deeae92d16d674f264c7f451abbe39",
+      "title": "Kỹ sư gây sốt khi nói lập trình AI biến con người thành 'kẻ bấm nút'",
+      "link": "https://vnexpress.net/ky-su-gay-sot-khi-noi-lap-trinh-ai-bien-con-nguoi-thanh-ke-bam-nut-5123546.html",
+      "summary": "Bài chia sẻ của một kỹ sư ẩn danh đang thu hút hàng nghìn bình luận, trong đó có Elon Musk, khi hé lộ mặt trái của lập trình AI là biến con người thành \"kẻ bấm nút\".",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-23T00:00:00+07:00",
+      "fetched": "2026-09-23T11:06:11.377458+07:00"
+    },
+    {
+      "id": "64112656ff5d679d9a3d982ee07cfa10",
+      "title": "Tổng Bí thư, Chủ tịch nước dự khai mạc phiên thảo luận cấp cao Đại hội đồng LHQ",
+      "link": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-du-khai-mac-phien-thao-luan-cap-cao-dai-hoi-dong-lhq-5123552.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm tham dự khai mạc phiên thảo luận cấp cao Đại hội đồng LHQ khóa 81 ở New York.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-22T23:53:34+07:00",
+      "fetched": "2026-09-23T11:06:07.643645+07:00"
     },
     {
       "id": "30852e6615f7879cccda18a96bf2d130",
@@ -691,6 +1111,16 @@ window.newsData_2026_09_23 = {
       "category": "Thế giới",
       "published": "2026-09-22T12:11:33+07:00",
       "fetched": "2026-09-23T00:54:33.237287+07:00"
+    },
+    {
+      "id": "291a1ae458c25481a79fefddbe5bacf3",
+      "title": "Nga muốn thêm thành viên thường trực vào Hội đồng Bảo an",
+      "link": "https://vnexpress.net/nga-muon-them-thanh-vien-thuong-truc-vao-hoi-dong-bao-an-5123469.html",
+      "summary": "Nga cho rằng Hội đồng Bảo an LHQ nên tăng số thành viên thường trực lên cao hơn mức 5 hiện nay và duy trì cơ chế quyền phủ quyết.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-22T12:11:33+07:00",
+      "fetched": "2026-09-23T11:06:07.644263+07:00"
     },
     {
       "id": "b592916fdde478cd7204f03e7b1ca324",
@@ -1233,6 +1663,16 @@ window.newsData_2026_09_23 = {
       "fetched": "2026-09-23T00:54:39.476014+07:00"
     },
     {
+      "id": "bfa0c9b33e94b513b5b3775d74aeb504",
+      "title": "Tỷ giá trung tâm chưa ngắt chuỗi tăng",
+      "link": "https://vnexpress.net/ty-gia-trung-tam-chua-ngat-chuoi-tang-5123227.html",
+      "summary": "Ngân hàng Nhà nước sáng nay nâng tỷ giá trung tâm lên 25.640 đồng, tăng hơn 2% so với đầu năm và là mức cao nhất từ trước đến nay.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-22T03:40:33+07:00",
+      "fetched": "2026-09-23T11:06:09.095026+07:00"
+    },
+    {
       "id": "5d3d023419fa0e411183640a536e9858",
       "title": "Houthi tấn công điểm cao chiến lược để khống chế cửa ngõ biển Đỏ",
       "link": "https://vnexpress.net/houthi-tan-cong-diem-cao-chien-luoc-de-khong-che-cua-ngo-bien-do-5123137.html",
@@ -1301,6 +1741,16 @@ window.newsData_2026_09_23 = {
       "category": "Công nghệ",
       "published": "2026-09-22T01:00:00+07:00",
       "fetched": "2026-09-23T00:54:37.580669+07:00"
+    },
+    {
+      "id": "a46fa570cb1ae542ab0f976aa9e94861",
+      "title": "Việt - Mỹ 'tiến rất gần' Hiệp định thương mại đối ứng",
+      "link": "https://vnexpress.net/viet-my-tien-rat-gan-hiep-dinh-thuong-mai-doi-ung-5123119.html",
+      "summary": "Đàm phán Hiệp định thương mại đối ứng với Việt Nam đạt nhiều tiến bộ và \"đến rất gần kết quả cuối cùng\", theo Trưởng đại diện Thương mại Mỹ Jamieson Greer.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-22T00:59:49+07:00",
+      "fetched": "2026-09-23T11:06:09.095112+07:00"
     },
     {
       "id": "5d53c7bdf593ca0e59caf30f6e6c88f5",
