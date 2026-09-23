@@ -1,7 +1,157 @@
 window.newsData_2026_09_23 = {
   "date": "2026-09-23",
-  "lastUpdated": "2026-09-23T17:43:20.111532+07:00",
+  "lastUpdated": "2026-09-23T23:02:29.686859+07:00",
   "articles": [
+    {
+      "id": "b7558ec500cde533eb563c9edc48e5f4",
+      "title": "Hòa Phát đề xuất dừng nghiên cứu dự án gang thép 86.000 tỉ ở Đắk Lắk",
+      "link": "https://tuoitre.vn/hoa-phat-de-xuat-dung-nghien-cuu-du-an-gang-thep-86000-ti-o-dak-lak-100260923181318356.htm",
+      "summary": "Tập đoàn Hòa Phát đề xuất không tiếp tục nghiên cứu dự án khu liên hợp gang thép tại Khu kinh tế Nam Phú Yên theo phương án hiện tại, chuyển nguồn lực sang Khu công nghiệp Hòa Tâm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T23:02:23.427567+07:00",
+      "fetched": "2026-09-23T23:02:23.427611+07:00"
+    },
+    {
+      "id": "8f44d85aebb5a61eeb0dce4f6bd0a7cf",
+      "title": "Phó bí thư Thành ủy TP.HCM Nguyễn Phước Lộc làm việc với 8 xã, phường",
+      "link": "https://tuoitre.vn/pho-bi-thu-thanh-uy-tphcm-nguyen-phuoc-loc-lam-viec-voi-8-xa-phuong-100260923190409663.htm",
+      "summary": "Ông Nguyễn Phước Lộc - Ủy viên Trung ương Đảng, Phó bí thư Thành ủy TP.HCM, Chủ tịch Ủy ban MTTQ Việt Nam TP.HCM - chủ trì hội nghị giao ban với 8 xã, phường của thành phố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T23:02:23.427516+07:00",
+      "fetched": "2026-09-23T23:02:23.427560+07:00"
+    },
+    {
+      "id": "0168328b46db9ae821f80129b4ead138",
+      "title": "Xác định 4 cặp đấu ở vòng tứ kết bóng đá nam Asiad 20",
+      "link": "https://tuoitre.vn/xac-dinh-4-cap-dau-o-vong-tu-ket-bong-da-nam-asiad-20-100260923194526209.htm",
+      "summary": "Sau loạt trận cuối cùng vòng bảng diễn ra chiều tối 23-9, môn bóng đá nam Asiad 20 đã xác định được 8 đội đi tiếp cũng như các trận đấu ở vòng tứ kết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T23:02:23.427464+07:00",
+      "fetched": "2026-09-23T23:02:23.427509+07:00"
+    },
+    {
+      "id": "ae41d0dd972a276a22a37bd536596bde",
+      "title": "Quân y biên phòng kịp thời cấp cứu người phụ nữ hôn mê do bị ong vò vẽ đốt",
+      "link": "https://tuoitre.vn/quan-y-bien-phong-kip-thoi-cap-cuu-nguoi-phu-nu-hon-me-do-bi-ong-vo-ve-dot-100260923193321781.htm",
+      "summary": "Một phụ nữ ở xã Tà Rụt, tỉnh Quảng Trị, bị ong vò vẽ đốt gần 20 nốt, xuất hiện khó thở, nôn mửa, huyết áp tụt và hôn mê, được quân y biên phòng kịp thời cấp cứu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T23:02:23.427414+07:00",
+      "fetched": "2026-09-23T23:02:23.427457+07:00"
+    },
+    {
+      "id": "eccc39963167602470bea9b64db99ca4",
+      "title": "Mỹ kêu gọi xây dựng tuyến vận chuyển dầu mới, giảm phụ thuộc vào Hormuz",
+      "link": "https://tuoitre.vn/my-keu-goi-xay-dung-tuyen-van-chuyen-dau-moi-giam-phu-thuoc-vao-hormuz-100260923195114493.htm",
+      "summary": "Mỹ đã kêu gọi các quốc gia vùng Vịnh cùng hành động để giảm sự phụ thuộc vào eo biển Hormuz.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T23:02:23.427365+07:00",
+      "fetched": "2026-09-23T23:02:23.427407+07:00"
+    },
+    {
+      "id": "57629e650be9d69084630b39fd3758a5",
+      "title": "Cảnh báo thủ đoạn thuê đất giá cao rồi lén tập kết chất thải ở TP.HCM",
+      "link": "https://tuoitre.vn/canh-bao-thu-doan-thue-dat-gia-cao-roi-len-tap-ket-chat-thai-o-tphcm-100260923182929278.htm",
+      "summary": "Ngày 23-9, UBND xã An Nhơn Tây (TP.HCM) cảnh báo người dân về thủ đoạn giả vờ thuê nhà, đất với giá cao để làm kho bãi, nhà xưởng rồi lợi dụng khu đất tập kết chất thải trái phép.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T23:02:23.427313+07:00",
+      "fetched": "2026-09-23T23:02:23.427358+07:00"
+    },
+    {
+      "id": "1bca1defae237ccf70cfcd8594532341",
+      "title": "Trần Văn Đảng, Trịnh Quốc Lượng dự chung kết giải chạy báo Hà Nội Mới 2026",
+      "link": "https://tuoitre.vn/tran-van-dang-trinh-quoc-luong-du-chung-ket-giai-chay-bao-ha-noi-moi-2026-100260923172958614.htm",
+      "summary": "Khoảng 3.000 VĐV sẽ tranh tài tại khu vực hồ Hoàn Kiếm sáng 27-9, trong đó có nhiều tuyển thủ, VĐV từng giành huy chương SEA Games.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T23:02:23.427260+07:00",
+      "fetched": "2026-09-23T23:02:23.427306+07:00"
+    },
+    {
+      "id": "6046bb9d33821b3f466fcde0fc472d6d",
+      "title": "Thử thách lớn của Ninh Dương Lan Ngọc với Chị chị em em 3",
+      "link": "https://tuoitre.vn/thu-thach-lon-cua-ninh-duong-lan-ngoc-voi-chi-chi-em-em-3-10026092318481876.htm",
+      "summary": "Không còn là đồn đoán, Ninh Dương Lan Ngọc chính thức là mảnh ghép cuối cùng trong dàn diễn viên chính của Chị chị em em 3.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T23:02:23.427207+07:00",
+      "fetched": "2026-09-23T23:02:23.427252+07:00"
+    },
+    {
+      "id": "a015313852cfd89d5f79696c29751eca",
+      "title": "Vì sao có thể tin võ sĩ Việt Nam sẽ thắng đối thủ Trung Quốc ở môn 'tinh túy kung fu'?",
+      "link": "https://tuoitre.vn/vi-sao-co-the-tin-vo-si-viet-nam-se-thang-doi-thu-trung-quoc-o-mon-tinh-tuy-kung-fu-100260923192750712.htm",
+      "summary": "Dự kiến lúc 8h ngày 24-9, võ sĩ Đinh Văn Tâm của Việt Nam sẽ bước vào trận chung kết hạng cân 56kg ở môn tán thủ (sanda), wushu, cũng được xem là môn võ 'tinh túy của kung fu Trung Quốc'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T23:02:23.427152+07:00",
+      "fetched": "2026-09-23T23:02:23.427199+07:00"
+    },
+    {
+      "id": "f1177be68e0ef4b16f8d53e963b17403",
+      "title": "Tác giả tiết lộ lý do Solo Leveling phải tạm dừng trước hồi kết",
+      "link": "https://tuoitre.vn/tac-gia-tiet-lo-ly-do-solo-leveling-phai-tam-dung-truoc-hoi-ket-10026092318041447.htm",
+      "summary": "Solo Leveling từng có một giai đoạn tạm ngưng phát hành ngay trước khi bước vào hồi kết, khiến nhiều độc giả tranh cãi trong quá khứ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T23:02:23.427093+07:00",
+      "fetched": "2026-09-23T23:02:23.427144+07:00"
+    },
+    {
+      "id": "5c98b1bf4484d439d69fc91d462ec13a",
+      "title": "Hiểm họa rác AI, phòng ngừa được không?",
+      "link": "https://tuoitre.vn/hiem-hoa-rac-ai-phong-ngua-duoc-khong-100260923202220168.htm",
+      "summary": "Cuốn sách ‘Rác trí tuệ nhân tạo (AI) - Thách thức trong kỷ nguyên số’ do Thượng tướng Nguyễn Văn Thành và Thiếu tá Cù Xuân Vũ đồng chủ biên sẽ phần nào mang tới câu trả lời.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T23:02:23.427030+07:00",
+      "fetched": "2026-09-23T23:02:23.427085+07:00"
+    },
+    {
+      "id": "443ed96603cb0d2a889d87c6d8bc439a",
+      "title": "Thời tiết Tết Trung thu: Miền Bắc ít mưa, Trung và Nam Bộ có nơi mưa lớn",
+      "link": "https://tuoitre.vn/thoi-tiet-tet-trung-thu-mien-bac-it-mua-trung-va-nam-bo-co-noi-mua-lon-100260923175716951.htm",
+      "summary": "Trong dịp Tết Trung thu năm nay (ngày 24 và 25-9), thời tiết miền Bắc phổ biến ít mưa, trong khi Trung và Nam Bộ vẫn còn mưa, có nơi mưa lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T23:02:23.426960+07:00",
+      "fetched": "2026-09-23T23:02:23.427020+07:00"
+    },
+    {
+      "id": "769e46a7320b9fc2aab3a5aa21f5735d",
+      "title": "Nhiều doanh nghiệp có đơn hàng, có dòng tiền nhưng vẫn khó vay vốn",
+      "link": "https://tuoitre.vn/nhieu-doanh-nghiep-co-don-hang-co-dong-tien-nhung-van-kho-vay-von-100260923070342188.htm",
+      "summary": "Có đơn hàng, có dòng tiền nhưng không ít doanh nghiệp nhỏ và vừa vẫn khó vay vốn do thiếu tài sản bảo đảm. Doanh nghiệp đề nghị ngân hàng thay đổi cách thẩm định, đánh giá nhiều hơn vào khả năng tạo dòng tiền và hiệu quả kinh doanh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T23:02:23.426900+07:00",
+      "fetched": "2026-09-23T23:02:23.426952+07:00"
+    },
+    {
+      "id": "9808b7a0f9d4b74990e67178feda32e6",
+      "title": "Highlands Coffee được Jollibee chuyển quyền kiểm soát cho đối tác Việt trước thềm IPO",
+      "link": "https://tuoitre.vn/highlands-coffee-duoc-jollibee-chuyen-quyen-kiem-soat-cho-doi-tac-viet-truoc-them-ipo-100260923205151476.htm",
+      "summary": "Jollibee sẽ bán 11% cổ phần tại công ty nắm hoạt động kinh doanh Highlands Coffee cho Công ty cổ phần Quốc tế Việt Thái (VTI), qua đó đưa tỉ lệ sở hữu của đối tác Việt Nam lên 51%. Thương vụ định giá chuỗi cà phê này ở mức 800 triệu USD.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T23:02:23.426831+07:00",
+      "fetched": "2026-09-23T23:02:23.426892+07:00"
+    },
+    {
+      "id": "3e748d86867389209fffdc3149003d9a",
+      "title": "8 cán bộ nhận hối lộ để bỏ qua công trình trái phép ở Đà Nẵng: Tiến hành thủ tục khai trừ Đảng 7 người",
+      "link": "https://tuoitre.vn/8-can-bo-nhan-hoi-lo-de-bo-qua-cong-trinh-trai-phep-o-da-nang-tien-hanh-thu-tuc-khai-tru-dang-7-nguoi-100260923195210663.htm",
+      "summary": "8 viên chức, người lao động thuộc Tổ Trật tự đô thị và Trung tâm Cung ứng dịch vụ sự nghiệp công phường Hòa Khánh bị bắt tạm giam, để điều tra các sai phạm liên quan công tác quản lý trật tự xây dựng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T23:02:23.426677+07:00",
+      "fetched": "2026-09-23T23:02:23.426819+07:00"
+    },
     {
       "id": "4d186dbc4b97bc2dd0b8ddcd27221b8d",
       "title": "3 trung tâm xúc tiến du lịch ở Cần Thơ phải nộp lại hơn 1,7 tỉ đồng",
@@ -151,6 +301,236 @@ window.newsData_2026_09_23 = {
       "category": "Tổng hợp",
       "published": "2026-09-23T17:43:14.686548+07:00",
       "fetched": "2026-09-23T17:43:14.686685+07:00"
+    },
+    {
+      "id": "6b8e68eeda8b0100b7495c6d0246a3d8",
+      "title": "Tổng thống Iran gửi thông điệp gì khi phát biểu tại LHQ?",
+      "link": "https://thanhnien.vn/tong-thong-iran-gui-thong-diep-gi-khi-phat-bieu-tai-lhq-185260923224234692.htm",
+      "summary": "Tổng thống Iran Masoud Pezeshkian hôm nay 23.9 đã có bài phát biểu trước các nhà lãnh đạo thế giới tại kỳ họp thứ 81 của Đại hội đồng Liên Hiệp Quốc ở thành phố New York (Mỹ).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T15:44:00+07:00",
+      "fetched": "2026-09-23T23:02:21.665240+07:00"
+    },
+    {
+      "id": "6725ea18980cfe362e8e435740dfd8df",
+      "title": "Phiên tòa GFDI quy mô hơn 7.500 người xét xử ở 3 điểm cầu",
+      "link": "https://thanhnien.vn/phien-toa-gfdi-quy-mo-hon-7500-nguoi-xet-xu-o-3-diem-cau-185260923221119982.htm",
+      "summary": "TAND thành phố Đà Nẵng sẽ mở phiên xét xử sơ thẩm vụ án xảy ra tại Công ty TNHH Tư vấn đầu tư GFDI quy mô 7.500 người, 3 điểm cầu cùng hệ thống xét xử sẽ vận hành ra sao?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T15:26:00+07:00",
+      "fetched": "2026-09-23T23:02:21.665383+07:00"
+    },
+    {
+      "id": "9673b755a95523d8fac961df300a2377",
+      "title": "Bà Trương Mỹ Hoa: Đi học là nhiệm vụ, như là người chiến sĩ thời kỳ mới",
+      "link": "https://thanhnien.vn/ba-truong-my-hoa-di-hoc-la-nhiem-vu-nhu-la-nguoi-chien-si-thoi-ky-moi-185260923191340674.htm",
+      "summary": "Bà Trương Mỹ Hoa, nguyên Phó chủ tịch nước, Chủ tịch Quỹ Vì tuổi trẻ vùng cao và hải đảo, nhấn mạnh thế hệ trẻ cần xác định học tập, rèn luyện là nhiệm vụ trong giai đoạn phát triển mới của đất nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T15:22:00+07:00",
+      "fetched": "2026-09-23T23:02:21.665514+07:00"
+    },
+    {
+      "id": "95e7dd839f5e467d65313c2a35f49e08",
+      "title": "100 thương hiệu hàng đầu Việt Nam được định giá 43 tỷ USD",
+      "link": "https://vnexpress.net/100-thuong-hieu-hang-dau-viet-nam-duoc-dinh-gia-43-ty-usd-5123972.html",
+      "summary": "100 thương hiệu doanh nghiệp hàng đầu Việt Nam được định giá 43 tỷ USD, tăng 12% so với năm ngoái, theo đánh giá của Brand Finance.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-23T15:10:55+07:00",
+      "fetched": "2026-09-23T23:02:25.325385+07:00"
+    },
+    {
+      "id": "4d7add90fb5cf272e8fcbd8aa605ae2f",
+      "title": "PUBG PC có thể bị chặn hoàn toàn tại Việt Nam",
+      "link": "https://thanhnien.vn/pubg-pc-co-the-bi-chan-hoan-toan-tai-viet-nam-185260923212002629.htm",
+      "summary": "Khả năng PUBG PC bị chặn đặt lại câu chuyện về những game quốc tế được người Việt chơi rộng rãi nhưng chưa có giấy phép phát hành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T15:09:00+07:00",
+      "fetched": "2026-09-23T23:02:21.665637+07:00"
+    },
+    {
+      "id": "7bd4d086638dce3d7b3e06232c566474",
+      "title": "Lãnh đạo Syria ra tuyên bố về Cao nguyên Golan",
+      "link": "https://thanhnien.vn/lanh-dao-syria-ra-tuyen-bo-ve-cao-nguyen-golan-185260923214504945.htm",
+      "summary": "Nhà lãnh đạo Syria Ahmed al-Sharaa ngày 23.9 khẳng định Cao nguyên Golan vẫn sẽ thuộc về Syria, sau khi Colombia công nhận chủ quyền của Israel đối với vùng lãnh thổ quan trọng về mặt chiến lược này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T15:06:00+07:00",
+      "fetched": "2026-09-23T23:02:21.665760+07:00"
+    },
+    {
+      "id": "8dbcd0475ea714db508f4dadbc9b0d0e",
+      "title": "Tết Trung thu cho những bạn nhỏ đặc biệt: Các em đều xứng đáng được yêu thương",
+      "link": "https://thanhnien.vn/tet-trung-thu-cho-nhung-ban-nho-dac-biet-cac-em-deu-xung-dang-duoc-yeu-thuong-185260923201642287.htm",
+      "summary": "\"Đêm hội trăng rằm\" lần thứ 22 do Trung tâm thanh thiếu nhi TP.Huế tổ chức mang đến một mùa trung thu ấm áp, trọn vẹn niềm vui và hy vọng cho hơn 500 em nhỏ có hoàn cảnh khó khăn, khuyết tật trên địa bàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T15:06:00+07:00",
+      "fetched": "2026-09-23T23:02:21.665885+07:00"
+    },
+    {
+      "id": "77b4db476ca2caa4ab5a75efa53019de",
+      "title": "'Trung thu cho em' ấm áp với các em nhỏ mắc bệnh tim",
+      "link": "https://thanhnien.vn/trung-thu-cho-em-am-ap-voi-cac-em-nho-mac-benh-tim-185260923175234242.htm",
+      "summary": "Để các bệnh nhi tim mạch có cái Tết Trung thu ấm áp, Báo Thanh Niên phối hợp với Đoàn thanh niên Viện Kiểm sát nhân dân TP.Huế cùng các chi đoàn trong khối tổ chức chương trình \"Trung thu cho em\" tại Bệnh viện Trung ương Huế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T14:57:00+07:00",
+      "fetched": "2026-09-23T23:02:21.666023+07:00"
+    },
+    {
+      "id": "16d5bb7ddb716ad07037a1dc49a0199e",
+      "title": "Nghệ sĩ cải lương Tâm Tâm sau biến cố chấn thương sọ não",
+      "link": "https://thanhnien.vn/nghe-si-cai-luong-tam-tam-sau-bien-co-chan-thuong-so-nao-185260923210759977.htm",
+      "summary": "Sau biến cố sức khỏe, nghệ sĩ cải lương Tâm Tâm tích cực trở lại với sân khấu, tiếp tục hành trình mang lời ca tiếng hát phục vụ khán giả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T14:43:00+07:00",
+      "fetched": "2026-09-23T23:02:21.666151+07:00"
+    },
+    {
+      "id": "962d4b30f8fb497817830efb325a3476",
+      "title": "Ninh Dương Lan Ngọc tái xuất, không ngại chuyện bị so sánh với Chi Pu, Kỳ Duyên",
+      "link": "https://thanhnien.vn/ninh-duong-lan-ngoc-tai-xuat-khong-ngai-chuyen-bi-so-sanh-voi-chi-pu-ky-duyen-185260923212643187.htm",
+      "summary": "Sau Kỳ Duyên - Chi Pu, Ninh Dương Lan Ngọc được công bố là nữ chính 'Chị chị em em 3'. Nữ diễn viên 36 tuổi thoải mái chia sẻ về áp lực trong lần tái xuất màn ảnh rộng bên cạnh hai đàn em xinh đẹp, tài năng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T14:39:00+07:00",
+      "fetched": "2026-09-23T23:02:21.666274+07:00"
+    },
+    {
+      "id": "005832ee259143c6271297f25e365294",
+      "title": "Tìm thấy cụ ông 83 tuổi sau gần 6 ngày đi lạc vào rừng",
+      "link": "https://thanhnien.vn/tim-thay-cu-ong-83-tuoi-sau-gan-6-ngay-di-lac-vao-rung-185260923210840069.htm",
+      "summary": "Sau gần 6 ngày mất tích bí ẩn, cụ ông 83 tuổi tại Hà Tĩnh vừa được lực lượng chức năng và người dân tìm thấy trong tình trạng suy kiệt do đói khát, cách nhà khoảng 40 km.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T14:32:00+07:00",
+      "fetched": "2026-09-23T23:02:21.666400+07:00"
+    },
+    {
+      "id": "7f1fb99a7c4a2ed645678bf227281d40",
+      "title": "Ông Hun Sen than phiền vì liên tục bị xin tiền trên mạng",
+      "link": "https://vnexpress.net/ong-hun-sen-than-phien-vi-lien-tuc-bi-xin-tien-tren-mang-5123965.html",
+      "summary": "Ông Hun Sen than phiền về việc liên tục nhận được các tin nhắn xin tiền qua mạng xã hội, trong đó có người đề nghị ông cho tiền mua nhà, xe.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-23T14:28:01+07:00",
+      "fetched": "2026-09-23T23:02:24.394145+07:00"
+    },
+    {
+      "id": "133bdd46326820f94c2e055ebf79c22f",
+      "title": "Thứ trưởng y tế người bị bắt, người thôi chức, 4 thứ trưởng còn lại 'gánh' việc ra sao?",
+      "link": "https://thanhnien.vn/thu-truong-y-te-nguoi-bi-bat-nguoi-thoi-chuc-4-thu-truong-con-lai-ganh-viec-ra-sao-185260923203439026.htm",
+      "summary": "Sau khi Thứ trưởng Trần Văn Thuấn bị khởi tố, bắt tạm giam và Thứ trưởng Nguyễn Tri Thức thôi giữ chức, hiện Bộ Y tế có 4 thứ trưởng, sẽ đảm nhiệm phụ trách, thay thế hai ông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T14:07:00+07:00",
+      "fetched": "2026-09-23T23:02:21.666522+07:00"
+    },
+    {
+      "id": "31bf27700e85bdf6c77c189a76a5b6cf",
+      "title": "Xuất hiện động cơ ô tô... nhiên liệu nào cũng chạy được",
+      "link": "https://thanhnien.vn/xuat-hien-dong-co-o-to-nhien-lieu-nao-cung-chay-duoc-185260923115248362.htm",
+      "summary": "Một kỹ sư Nga vừa gây chú ý, khi được cấp bằng sáng chế cho thiết kế động cơ đốt trong có thể sử dụng đa dạng nhiên liệu, từ xăng, dầu diesel đến khí đốt, cùng nhiều loại nhiên liệu khác mà không cần thay đổi cơ bản kết cấu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T14:00:00+07:00",
+      "fetched": "2026-09-23T23:02:21.666643+07:00"
+    },
+    {
+      "id": "e1016a4643b45c84ff405decdc3c4fd7",
+      "title": "Tuổi 50: Bác sĩ chỉ 'quy tắc vàng' ăn cá để hỗ trợ miễn dịch",
+      "link": "https://thanhnien.vn/tuoi-50-bac-si-chi-quy-tac-vang-an-ca-de-ho-tro-mien-dich-185260923210328851.htm",
+      "summary": "Càng lớn tuổi, hệ miễn dịch có xu hướng thay đổi, hoạt động kém hiệu quả hơn. Vì vậy, sau tuổi 50, chế độ ăn uống cân bằng, giàu chất đạm và các dưỡng chất thiết yếu đóng vai trò quan trọng trong việc duy trì sức khỏe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T13:58:00+07:00",
+      "fetched": "2026-09-23T23:02:21.666765+07:00"
+    },
+    {
+      "id": "44590aa5714c4bea5248839b658081a8",
+      "title": "Nhân sự nhiệm vụ công nghệ chiến lược được trả lương tối đa 300 triệu đồng",
+      "link": "https://vnexpress.net/nhan-su-nhiem-vu-cong-nghe-chien-luoc-duoc-tra-luong-toi-da-300-trieu-dong-5123954.html",
+      "summary": "Theo cơ chế tài chính mới, các nhiệm vụ nghiên cứu và phát triển công nghệ chiến lược được trả lương cho tổng công trình sư tối đa 300 triệu đồng mỗi tháng, tài sản trí tuệ thuộc về đơn vị chủ trì.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-23T13:42:02+07:00",
+      "fetched": "2026-09-23T23:02:28.553347+07:00"
+    },
+    {
+      "id": "b2138d899c12da12f0a5b9b70f9562a0",
+      "title": "Tổng thư ký LHQ nói gì trong phát biểu cuối ở Đại hội đồng trước khi hết nhiệm kỳ?",
+      "link": "https://thanhnien.vn/tong-thu-ky-lhq-noi-gi-trong-phat-bieu-cuoi-o-dai-hoi-dong-truoc-khi-het-nhiem-ky-185260923184354273.htm",
+      "summary": "Tổng thư ký Liên Hiệp Quốc Antonio Guterres đã kêu gọi các nhà lãnh đạo thế giới quản lý trí tuệ nhân tạo (AI), chấm dứt chiến tranh, tập trung vào vấn đề biến đổi khí hậu và cải tổ các thể chế của Liên Hiệp Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T13:41:00+07:00",
+      "fetched": "2026-09-23T23:02:21.666882+07:00"
+    },
+    {
+      "id": "3c64fcc33587140c2c7e1586b1aaff21",
+      "title": "Mật vụ Mỹ đảm bảo an ninh cho Tổng thống Iran tại LHQ",
+      "link": "https://thanhnien.vn/mat-vu-my-dam-bao-an-ninh-cho-tong-thong-iran-tai-lhq-185260923201959755.htm",
+      "summary": "CNN hôm nay 23.9 dẫn lời giới chức Mỹ cho hay Cơ quan Mật vụ Mỹ đang đảm bảo an ninh cho Tổng thống Iran Masoud Pezeshkian trong lúc dự kỳ họp của Đại hội đồng Liên Hiệp Quốc tại thành phố New York.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-23T13:21:00+07:00",
+      "fetched": "2026-09-23T23:02:21.667009+07:00"
+    },
+    {
+      "id": "c02fdabab28ea4d09e7bd54880ab52fc",
+      "title": "Cách Trung Quốc chuẩn bị chuyên cơ chở ông Tập công du nước ngoài",
+      "link": "https://vnexpress.net/cach-trung-quoc-chuan-bi-chuyen-co-cho-ong-tap-cong-du-nuoc-ngoai-5123733.html",
+      "summary": "Chuyên cơ chở Chủ tịch Tập được hoán cải linh hoạt từ máy bay thương mại, tích hợp hệ thống bảo mật và an ninh tối tân trước mỗi chuyến công du.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-23T13:08:37+07:00",
+      "fetched": "2026-09-23T23:02:24.394300+07:00"
+    },
+    {
+      "id": "c3c19bcbcc1614b1b7c286159dfa7c02",
+      "title": "Ông Tập lên đường thăm Mỹ",
+      "link": "https://vnexpress.net/ong-tap-len-duong-tham-my-5123943.html",
+      "summary": "Chủ tịch Trung Quốc Tập Cận Bình cùng phu nhân lên chuyên cơ rời Bắc Kinh, thực hiện chuyến thăm đầu tiên tới Mỹ sau hơn một thập kỷ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-23T12:33:35+07:00",
+      "fetched": "2026-09-23T23:02:24.394436+07:00"
+    },
+    {
+      "id": "ed8bb2fd936803075ef2c31b31b77ed9",
+      "title": "Thỏa thuận an ninh giúp Mỹ tăng ảnh hưởng với Greenland",
+      "link": "https://vnexpress.net/thoa-thuan-an-ninh-giup-my-tang-anh-huong-voi-greenland-5123575.html",
+      "summary": "Thỏa thuận giữa Mỹ, Đan Mạch và Greenland mở rộng ảnh hưởng của Washington với hòn đảo, củng cố vai trò NATO và thiết lập rào cản với các nước ngoài liên minh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-23T12:00:00+07:00",
+      "fetched": "2026-09-23T23:02:24.394566+07:00"
+    },
+    {
+      "id": "ddc7f4986bbb0bdb16ce154dd3bd05c7",
+      "title": "Phát hiện sinh vật sống và phát triển ở nhiệt độ 63 độ C",
+      "link": "https://vnexpress.net/phat-hien-sinh-vat-song-va-phat-trien-o-nhiet-do-63-do-c-5123757.html",
+      "summary": "Các nhà nghiên cứu phát hiện loại trùng amip mới có thể sống, phân chia bình thường ở nhiệt độ 63 độ C, thậm chí sống sót thời gian ngắn trong môi trường 70 độ C.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-23T12:00:00+07:00",
+      "fetched": "2026-09-23T23:02:28.553505+07:00"
+    },
+    {
+      "id": "e24881a9f5b0f0087af102a8a24f602b",
+      "title": "Hậu vệ trụ cột của Thái Lan bật khóc vì lỡ FIFA ASEAN Cup",
+      "link": "https://vnexpress.net/hau-ve-tru-cot-cua-thai-lan-bat-khoc-vi-lo-fifa-asean-cup-5123945.html",
+      "summary": "Jonathan Khemdee bật khóc khi dính chấn thương nặng trong buổi tập cùng đội tuyển Thái Lan trước thềm FIFA ASEAN Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-23T11:56:37+07:00",
+      "fetched": "2026-09-23T23:02:29.678675+07:00"
     },
     {
       "id": "ef5fa4fdd522cb26a08a749abfcfd379",
@@ -333,6 +713,16 @@ window.newsData_2026_09_23 = {
       "fetched": "2026-09-23T17:43:13.199364+07:00"
     },
     {
+      "id": "f5c1eeced98c2da2467bb42d71debca1",
+      "title": "Himass và TanVuu bị cấm trên toàn bộ giải đấu PUBG toàn cầu",
+      "link": "https://esportsfan.net/himass-va-tanvuu-bi-cam-tren-toan-bo-giai-dau-pubg-toan-cau-5123928.html",
+      "summary": "Theo thông báo chiều nay từ PUBG, Himass và TanVuu nhận án Global ban vĩnh viễn từ KRAFTON. Quyết định của nhà phát hành game Hàn Quốc gây phẫn nộ trong cộng đồng người hâm mộ Việt Nam.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-23T10:17:40+07:00",
+      "fetched": "2026-09-23T23:02:29.678829+07:00"
+    },
+    {
       "id": "246170c3d0df6a652e911e04d02b49ce",
       "title": "Sự khác biệt giữa xác thực gương mặt trên iPhone và thiết bị Android",
       "link": "https://thanhnien.vn/su-khac-biet-giua-xac-thuc-guong-mat-tren-iphone-va-thiet-bi-android-185260921111904783.htm",
@@ -501,6 +891,16 @@ window.newsData_2026_09_23 = {
       "category": "Thể thao",
       "published": "2026-09-23T09:13:41+07:00",
       "fetched": "2026-09-23T17:43:20.103866+07:00"
+    },
+    {
+      "id": "94373eee4334f9839b7623479877ddb5",
+      "title": "Xác định 4 trận tứ kết bóng đá nam ASIAD 2026",
+      "link": "https://vnexpress.net/xac-dinh-4-tran-tu-ket-bong-da-nam-asiad-2026-5123896.html",
+      "summary": "Hai đại diện từ Đông Nam Á là Việt Nam và Thái Lan đều vào tứ kết ASIAD 2026, diễn ra vào ngày 25/9 và 26/9.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-23T09:13:41+07:00",
+      "fetched": "2026-09-23T23:02:29.678969+07:00"
     },
     {
       "id": "6560464f2a39f510b354143fa997d8e9",
