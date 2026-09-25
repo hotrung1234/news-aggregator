@@ -1,6 +1,6 @@
 window.newsData_2026_09_26 = {
   "date": "2026-09-26",
-  "lastUpdated": "2026-09-26T02:48:06.940868+07:00",
+  "lastUpdated": "2026-09-26T06:03:23.979399+07:00",
   "articles": [
     {
       "id": "48d408ef8fdfe960a9bf3632e0fddaad",
@@ -151,6 +151,206 @@ window.newsData_2026_09_26 = {
       "category": "Tổng hợp",
       "published": "2026-09-26T02:47:59.585155+07:00",
       "fetched": "2026-09-26T02:47:59.585284+07:00"
+    },
+    {
+      "id": "751038437907617883f5d52e00e29b10",
+      "title": "Dãy số may mắn giúp nhiều người cùng trúng 11,6 tỉ đồng xổ số miền Nam",
+      "link": "https://thanhnien.vn/day-so-may-man-giup-nhieu-nguoi-cung-trung-116-ti-dong-xo-so-mien-nam-18526092509101751.htm",
+      "summary": "Mua vé có cùng dãy số may mắn, nhiều người ở Tây Ninh cùng trúng 11,6 tỉ đồng xổ số miền Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-25T23:03:00+07:00",
+      "fetched": "2026-09-26T06:03:14.989940+07:00"
+    },
+    {
+      "id": "8251215987105059425feb0f47d5729d",
+      "title": "Trung thu 2026: T.Ư Đoàn thắp sáng ước mơ thiếu nhi từ biên giới đến miền xuôi",
+      "link": "https://thanhnien.vn/trung-thu-2026-tu-doan-thap-sang-uoc-mo-thieu-nhi-tu-bien-gioi-den-mien-xuoi-185260925232411041.htm",
+      "summary": "Tối 25.9, tại công viên sông Hậu (TP.Cần Thơ), T.Ư Đoàn, Hội đồng Đội T.Ư phối hợp TP.Cần Thơ tổ chức chương trình Đêm hội trăng rằm \"Lồng đèn thắp sáng ước mơ\" lần thứ 6 năm 2026. Đây là cũng là lần thứ 14 hành trình \"Trung thu cho em\" được triển khai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-25T23:00:00+07:00",
+      "fetched": "2026-09-26T06:03:14.990095+07:00"
+    },
+    {
+      "id": "0a559a74bc5d9198314bcc53193175e8",
+      "title": "Cú lừa 18 tỉ USD rúng động thị trường chứng khoán",
+      "link": "https://thanhnien.vn/cu-lua-18-ti-usd-rung-dong-thi-truong-chung-khoan-185260925215212463.htm",
+      "summary": "Hơn 450.000 nhà đầu tư sập bẫy, 18 tỉ USD bị thanh lý, vụ thao túng thị trường chứng khoán đang đe dọa nghiêm trọng uy tín tài chính của Thổ Nhĩ Kỳ, đồng thời làm rúng động ngành tài chính toàn cầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-25T23:00:00+07:00",
+      "fetched": "2026-09-26T06:03:14.990231+07:00"
+    },
+    {
+      "id": "b97b2501cdddce838db83972bc8e7a27",
+      "title": "Giải bài toán cho trung tâm dữ liệu 'ngốn' điện thế nào?",
+      "link": "https://thanhnien.vn/giai-bai-toan-cho-trung-tam-du-lieu-ngon-dien-the-nao-1852609251842045.htm",
+      "summary": "Khi nhu cầu điện của nền kinh tế đang tăng nhanh và nguy cơ thiếu điện được Bộ Công thương cảnh báo từ năm 2027, sự bùng nổ của các trung tâm dữ liệu đặt ra một bài toán mới cho hệ thống điện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-25T23:00:00+07:00",
+      "fetched": "2026-09-26T06:03:14.990369+07:00"
+    },
+    {
+      "id": "a4df72f70a1231d4ae1bfdd7319af700",
+      "title": "Mưa bão còn phức tạp, siêu El Nino đang mạnh thêm",
+      "link": "https://thanhnien.vn/mua-bao-con-phuc-tap-sieu-el-nino-dang-manh-them-185260925175821752.htm",
+      "summary": "Siêu El Nino đang tiếp tục gia tăng cường độ và kéo dài sang đầu năm 2027. Trong khi đó, mùa mưa bão tiếp tục diễn biến phức tạp ở nhiều khu vực trên cả nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-25T23:00:00+07:00",
+      "fetched": "2026-09-26T06:03:14.990496+07:00"
+    },
+    {
+      "id": "e360912ca89a506aa5ee03fbdfef7402",
+      "title": "Lịch âm hôm nay 26.9: Ngày Quý Mão, tháng Đinh Dậu, năm Bính Ngọ",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-269-ngay-quy-mao-thang-dinh-dau-nam-binh-ngo-185260925085036047.htm",
+      "summary": "Theo lịch âm hôm nay 26.9 nhằm ngày 16 tháng 8 là ngày Quý Mão. Âm lịch, dương lịch hôm nay có gì đáng lưu ý?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-25T22:56:00+07:00",
+      "fetched": "2026-09-26T06:03:14.990625+07:00"
+    },
+    {
+      "id": "db9671a1559b9cd967124b66de70a726",
+      "title": "Bài toán giao thông đô thị",
+      "link": "https://thanhnien.vn/bai-toan-giao-thong-do-thi-185260925224529454.htm",
+      "summary": "Tiếp xúc cử tri ngày 24.9, Ủy viên Bộ Chính trị, Bí thư Thành ủy TP.HCM Trần Lưu Quang cho biết TP không cấm xe xăng bằng biện pháp hành chính, mà dùng các biện pháp kinh tế để khuyến khích chuyển đổi sang xe điện. Và để giải quyết kẹt xe thì giải pháp đầu tiên là phương tiện công cộng thay phương t...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-25T22:55:00+07:00",
+      "fetched": "2026-09-26T06:03:14.990765+07:00"
+    },
+    {
+      "id": "694e14dd3a9c5dc8ea474d822db510f9",
+      "title": "Pháp sẽ đưa quân đến giúp Ả Rập Xê Út bảo vệ cảng biển Đỏ",
+      "link": "https://thanhnien.vn/phap-se-trien-khai-quan-den-a-rap-xe-ut-185260925192654639.htm",
+      "summary": "Tổng thống Pháp Emmanuel Macron hôm 24.9 cho biết Pháp sẽ triển khai binh sĩ và các hệ thống phòng thủ tới Ả Rập Xê Út để hỗ trợ bảo vệ Yanbu - thành phố cảng chiến lược trên biển Đỏ đóng vai trò then chốt trong hoạt động vận chuyển năng lượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-25T22:53:00+07:00",
+      "fetched": "2026-09-26T06:03:14.990891+07:00"
+    },
+    {
+      "id": "1d6dbf087c231227fd8e8ae0281e4523",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 26.9.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-2692026-185260925223021051.htm",
+      "summary": "Tin tức Đẩy nhanh hoàn thuế bằng cách nào?; Kiến nghị dùng một phương thức tuyển sinh từ năm 2028; Thượng đỉnh Mỹ - Trung: nhiều hình ảnh, ít kết quả?... là các thông tin hấp dẫn bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 26.9.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-25T22:49:00+07:00",
+      "fetched": "2026-09-26T06:03:14.991013+07:00"
+    },
+    {
+      "id": "c7dc670a3dae6f8c2660300c91334980",
+      "title": "Kiến nghị dùng một phương thức tuyển sinh đại học từ năm 2028",
+      "link": "https://thanhnien.vn/kien-nghi-dung-mot-phuong-thuc-tuyen-sinh-dai-hoc-tu-nam-2028-185260925221205132.htm",
+      "summary": "Đại diện nhiều cơ sở giáo dục ĐH tiếp tục nêu kiến nghị Bộ GD-ĐT cân nhắc sử dụng một phương thức xét tuyển cho mỗi ngành/chương trình đào tạo từ năm 2028.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-25T22:45:00+07:00",
+      "fetched": "2026-09-26T06:03:14.991131+07:00"
+    },
+    {
+      "id": "cfa07dc39b43fae2cacbc908a251c9ac",
+      "title": "Mỹ tìm cách khôi phục trục xuất người nhập cư sang nước thứ 3",
+      "link": "https://thanhnien.vn/my-tim-cach-khoi-phuc-truc-xuat-nguoi-nhap-cu-sang-nuoc-thu-3-185260925215513409.htm",
+      "summary": "Chính quyền Mỹ đang tìm cách thuyết phục tòa án cho phép nối lại chính sách trục xuất người nhập cư sang nước thứ 3. Hơn 25.000 người đã bị trục xuất theo chính sách này kể từ năm ngoái.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-25T22:44:00+07:00",
+      "fetched": "2026-09-26T06:03:14.991248+07:00"
+    },
+    {
+      "id": "f5006ab90ef45e67c2968d489809418b",
+      "title": "Lịch đấu ngày 26/9 của Việt Nam tại ASIAD 2026",
+      "link": "https://vnexpress.net/lich-dau-ngay-26-9-cua-viet-nam-tai-asiad-2026-5124919.html",
+      "summary": "Đoàn thể thao Việt Nam dự nhiều nội dung thi đấu tại ASIAD 2026 ngày 26/9, trong đó có chung kết bắn súng, kayak và nhảy ba bước nam.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-25T22:40:02+07:00",
+      "fetched": "2026-09-26T06:03:23.974539+07:00"
+    },
+    {
+      "id": "af7407898a86e8fd652f997751419feb",
+      "title": "Ukraine đạt thỏa thuận về tên lửa cho hệ thống Patriot",
+      "link": "https://thanhnien.vn/ukraine-dat-thoa-thuan-ve-ten-lua-cho-he-thong-patriot-185260925215825179.htm",
+      "summary": "Trong cuộc gặp với đại diện cộng đồng người Ukraine tại Mỹ hôm 24.9, Tổng thống Ukraine Volodymyr Zelensky tiết lộ rằng Kyiv đã đạt được một thỏa thuận \"rất quan trọng\" về lô tên lửa dành cho hệ thống phòng không Patriot do Mỹ sản xuất, theo Hãng tin RBC-Ukraine.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-25T22:32:00+07:00",
+      "fetched": "2026-09-26T06:03:14.991368+07:00"
+    },
+    {
+      "id": "97a7ba528ffabb5c69f3ccf0607a07c6",
+      "title": "Tiêu điểm quốc tế ngày 26.9: Thượng đỉnh Mỹ - Trung | Thủ tướng Israel phát biểu 'nảy lửa'",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-ngay-269-thuong-dinh-my-trung-thu-tuong-israel-phat-bieu-nay-lua-185260926001554933.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 26.9.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-25T22:30:00+07:00",
+      "fetched": "2026-09-26T06:03:14.991489+07:00"
+    },
+    {
+      "id": "d0ac61b7619d6f12572c1dae62915859",
+      "title": "Ferdinand đòi tước chức vô địch của Man City",
+      "link": "https://vnexpress.net/ferdinand-doi-tuoc-chuc-vo-dich-cua-man-city-5124927.html",
+      "summary": "Cựu trung vệ Man Utd Rio Ferdinand cho rằng anh có thể được nhận thêm một huy chương Ngoại hạng Anh, sau khi Man City bị kết luận vi phạm các quy định tài chính.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-25T22:24:12+07:00",
+      "fetched": "2026-09-26T06:03:23.974696+07:00"
+    },
+    {
+      "id": "e2a71d877a9f0722545ded3d59f92af3",
+      "title": "Mbappe ghi bàn trong trận ra mắt của Zidane",
+      "link": "https://vnexpress.net/mbappe-ghi-ban-trong-tran-ra-mat-cua-zidane-5124928.html",
+      "summary": "Tiền đạo Kylian Mbappe ghi bàn rồi chấn thương, khi Pháp thắng Thổ Nhĩ Kỳ 1-0 trong trận ra mắt của HLV Zinedine Zidane ở lượt đầu bảng A1 Nations League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-25T22:17:43+07:00",
+      "fetched": "2026-09-26T06:03:23.974853+07:00"
+    },
+    {
+      "id": "273857dd4b086b11a3da444da9df2bb7",
+      "title": "Liên minh Mecca được kích hoạt trước sức ép từ Houthi",
+      "link": "https://thanhnien.vn/lien-minh-mecca-duoc-kich-hoat-truoc-suc-ep-tu-houthi-18526092519462561.htm",
+      "summary": "Các tổng tham mưu trưởng Ả Rập Xê Út, Thổ Nhĩ Kỳ và Pakistan hôm qua (25.9) họp khẩn ở Riyadh theo sau các đợt tấn công của lực lượng Houthi nhằm vào vương quốc Hồi giáo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-25T22:16:00+07:00",
+      "fetched": "2026-09-26T06:03:14.991605+07:00"
+    },
+    {
+      "id": "23b2987ad0c831dc6539e7360044b920",
+      "title": "Thượng đỉnh Mỹ - Trung: nhiều hình ảnh, ít kết quả?",
+      "link": "https://thanhnien.vn/thuong-dinh-my-trung-nhieu-hinh-anh-it-ket-qua-185260925194444801.htm",
+      "summary": "Không ngoài dự đoán, các thông tin ban đầu chưa cho thấy đột phá nào từ hội đàm thượng đỉnh giữa Tổng thống Mỹ Donald Trump và Chủ tịch nước Trung Quốc Tập Cận Bình tại Washington D.C vào ngày 24.9 (theo giờ địa phương).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-25T22:00:00+07:00",
+      "fetched": "2026-09-26T06:03:14.991721+07:00"
+    },
+    {
+      "id": "39a6c2a16a86dca673d16252f9b99ce0",
+      "title": "Tình cảnh ăn rau dại cầm hơi ở thành phố tiền tuyến Nga - Ukraine",
+      "link": "https://vnexpress.net/tinh-canh-an-rau-dai-cam-hoi-o-thanh-pho-tien-tuyen-nga-ukraine-5124224.html",
+      "summary": "Mất điện nước, cạn lương thực, thuốc men, hàng nghìn dân thường tại thành phố Oleshky đang phải sinh tồn bằng cách ăn rau dại qua ngày.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-25T22:00:00+07:00",
+      "fetched": "2026-09-26T06:03:18.107847+07:00"
+    },
+    {
+      "id": "f83cbc37ee16912c271606c858577bb9",
+      "title": "Những tỷ phú AI trẻ và giàu nhất nước Mỹ",
+      "link": "https://vnexpress.net/nhung-ty-phu-ai-tre-va-giau-nhat-nuoc-my-5123894.html",
+      "summary": "Trong danh sách Forbes 400 năm nay có một số tỷ phú trẻ tạo dựng khối tài sản khổng lồ nhờ sự bùng nổ của AI.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-25T22:00:00+07:00",
+      "fetched": "2026-09-26T06:03:22.611767+07:00"
     },
     {
       "id": "eba339e77bb5de24ede8832ec757a2ca",
