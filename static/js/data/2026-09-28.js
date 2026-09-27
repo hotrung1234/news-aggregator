@@ -1,6 +1,6 @@
 window.newsData_2026_09_28 = {
   "date": "2026-09-28",
-  "lastUpdated": "2026-09-28T02:30:37.807332+07:00",
+  "lastUpdated": "2026-09-28T05:47:06.386768+07:00",
   "articles": [
     {
       "id": "57e705f56d0f0f7042ed04738f84280f",
@@ -151,6 +151,196 @@ window.newsData_2026_09_28 = {
       "category": "Tổng hợp",
       "published": "2026-09-28T02:30:31.415484+07:00",
       "fetched": "2026-09-28T02:30:31.415621+07:00"
+    },
+    {
+      "id": "d70ae70d374ae86315ee457fe4026f9c",
+      "title": "'Siêu nhân học hành' nói chuyện ứng tuyển đại học top thế giới",
+      "link": "https://thanhnien.vn/sieu-nhan-hoc-hanh-noi-chuyen-ung-tuyen-dai-hoc-top-the-gioi-185260927182504949.htm",
+      "summary": "Ở tuổi 31, Jamie Beaton không chỉ có hơn 10 bằng cử nhân, thạc sĩ, tiến sĩ của những đại học hàng đầu thế giới, mà còn là nhà sáng lập công ty khởi nghiệp Crimson Education trong lĩnh vực giáo dục đang được định giá hơn 1 tỉ USD.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-27T22:45:00+07:00",
+      "fetched": "2026-09-28T05:46:56.655281+07:00"
+    },
+    {
+      "id": "3c6157d704e4170ceaf6128d1b22d74b",
+      "title": "Người cha bán bánh hay nhún nhảy ở góc đường: 'Con đậu đại học là mừng dữ lắm'",
+      "link": "https://thanhnien.vn/nguoi-cha-ban-banh-hay-nhun-nhay-o-goc-duong-con-dau-dai-hoc-la-mung-du-lam-185260923140350592.htm",
+      "summary": "Ngày ngày bán bánh ở TP.HCM, ông Nguyễn Văn Chánh vẫn vui vẻ nhún nhảy, chắt chiu thu nhập và hạnh phúc khi các con đều chăm chỉ học hành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-27T22:45:00+07:00",
+      "fetched": "2026-09-28T05:46:56.655369+07:00"
+    },
+    {
+      "id": "573e10c730e9d601880f315c45f4f1db",
+      "title": "Lăng kính bạn đọc: Tranh luận quanh kỳ thi lớp 10",
+      "link": "https://thanhnien.vn/lang-kinh-ban-doc-tranh-luan-quanh-ky-thi-lop-10-185260927153051714.htm",
+      "summary": "Dự thảo thi lớp 10 chỉ với 2 môn toán và ngữ văn làm dấy lên tranh luận xung quanh câu hỏi: Đây là giải pháp giảm tải thực chất hay chỉ tạo ra gánh nặng mới?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-27T22:42:00+07:00",
+      "fetched": "2026-09-28T05:46:56.655444+07:00"
+    },
+    {
+      "id": "fa0a217b64add2bc9b954c1b898a585e",
+      "title": "Góc nhìn phóng viên: Để người dân chung tay cùng chính quyền",
+      "link": "https://thanhnien.vn/goc-nhin-phong-vien-de-nguoi-dan-chung-tay-cung-chinh-quyen-185260927153317573.htm",
+      "summary": "Công văn 8813 của UBND thành phố Đà Nẵng về tăng cường quản lý, xử lý quảng cáo, rao vặt sai quy định có một điểm mới đáng chú ý, đó là tính đến việc thưởng \"nóng\" cho những thông tin giúp phát hiện, xử lý vi phạm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-27T22:39:00+07:00",
+      "fetched": "2026-09-28T05:46:56.655516+07:00"
+    },
+    {
+      "id": "32c15d0c5634ed48651fe05baf464619",
+      "title": "Đồng Nai hủy chủ trương đầu tư nhiều dự án khu dân cư không đấu thầu",
+      "link": "https://thanhnien.vn/dong-nai-huy-chu-truong-dau-tu-nhieu-du-an-khu-dan-cu-khong-dau-thau-185260927212623206.htm",
+      "summary": "UBND thành phố Đồng Nai vừa ban hành quyết định bãi bỏ quyết định chủ trương đầu tư nhiều dự án khu dân cư trên địa bàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-27T22:37:00+07:00",
+      "fetched": "2026-09-28T05:46:56.655590+07:00"
+    },
+    {
+      "id": "6217ea1e57e7968f1c77dd7a091f2624",
+      "title": "Đèo Mimosa nứt lún, Lâm Đồng mở rộng mặt đường để tránh ùn tắc giao thông",
+      "link": "https://thanhnien.vn/deo-mimosa-nut-lun-lam-dong-mo-rong-mat-duong-de-tranh-un-tac-giao-thong-185260927202900616.htm",
+      "summary": "Tỉnh Lâm Đồng quyết định mở rộng mặt đường phía taluy dương đoạn qua đèo Mimosa (quốc lộ 20) có vết nứt lún, để bảo đảm lưu thông 2 chiều, phục vụ đi lại của người dân và du khách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-27T22:32:00+07:00",
+      "fetched": "2026-09-28T05:46:56.655663+07:00"
+    },
+    {
+      "id": "ad5f0b663e87457bc260cd3c3b654529",
+      "title": "Tìm tiếng nói chung trong cuộc đua AI",
+      "link": "https://thanhnien.vn/tim-tieng-noi-chung-trong-cuoc-dua-ai-185260927194416765.htm",
+      "summary": "Phát biểu tại Đại hội đồng LHQ hôm qua, Ngoại trưởng Singapore Vivian Balakrishnan đề xuất xây dựng một khuôn khổ hiệp ước của LHQ về các biện pháp an toàn khi sử dụng và phát triển trí tuệ nhân tạo (AI).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-27T22:32:00+07:00",
+      "fetched": "2026-09-28T05:46:56.655735+07:00"
+    },
+    {
+      "id": "095964d4b89037fa798868d82f812c87",
+      "title": "Trèo cây hái quả, người phụ nữ té ngã chấn thương gan, sốc mất máu",
+      "link": "https://thanhnien.vn/treo-cay-hai-qua-nguoi-phu-nu-te-nga-chan-thuong-gan-soc-mat-mau-185260927162237363.htm",
+      "summary": "Chị N.T.H (53 tuổi,   ở Tây Ninh) đang trèo cây hái quả thì bất ngờ mất thăng bằng, ngã xuống đất. Sau tai nạn, chị H. vẫn tỉnh táo nhưng xuất hiện khó thở, đau tức vùng ngực, bụng, được người nhà đưa vào bệnh viện cấp cứu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-27T22:32:00+07:00",
+      "fetched": "2026-09-28T05:46:56.655806+07:00"
+    },
+    {
+      "id": "a8d604ac1f061e0fe6c647aedf69b437",
+      "title": "Tiêu điểm quốc tế ngày 28.9: Ông Trump bác đề xuất | Iran mất niềm tin vào đàm phán",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-ngay-289-ong-trump-bac-de-xuat-iran-mat-niem-tin-vao-dam-phan-185260927232925978.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 28.9.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-27T22:30:00+07:00",
+      "fetched": "2026-09-28T05:46:56.655876+07:00"
+    },
+    {
+      "id": "09b114be871ebfce738458d00c5fb15f",
+      "title": "4 người cùng trúng hơn 4,4 tỉ xổ số miền Nam nhờ 9 tờ vé",
+      "link": "https://thanhnien.vn/4-nguoi-cung-trung-hon-44-ti-xo-so-mien-nam-nho-9-to-ve-185260927140629794.htm",
+      "summary": "Chín tờ vé có cùng dãy số may mắn giúp 4 người trúng xổ số miền Nam với tổng số tiền hơn 4,4 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-27T22:30:00+07:00",
+      "fetched": "2026-09-28T05:46:56.655960+07:00"
+    },
+    {
+      "id": "99bdb35fe9640c0923328a22692f6caf",
+      "title": "Kiệt sức, nghỉ việc vì kiểm soát an toàn AI",
+      "link": "https://vnexpress.net/kiet-suc-nghi-viec-vi-kiem-soat-an-toan-ai-5124860.html",
+      "summary": "Khi AI ngày càng phát triển dẫn đến nguy cơ vượt kiểm soát, nhiệm vụ đảm bảo an toàn trở nên khó khăn, khiến nhiều nhân viên nghỉ việc hoặc tìm đến tư vấn tâm lý.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-09-27T22:30:00+07:00",
+      "fetched": "2026-09-28T05:47:04.576653+07:00"
+    },
+    {
+      "id": "728b81a10e9337d6664119bd6e23e257",
+      "title": "Bóng đá Anh tái phát bệnh cũ",
+      "link": "https://thanhnien.vn/bong-da-anh-tai-phat-benh-cu-185260927214903141.htm",
+      "summary": "Loạt trận khai mạc Nations League mùa bóng 2026 - 2027 khởi đầu với cuộc thư hùng hấp dẫn, mà theo báo chí Anh thì đáng lẽ đấy phải là trận chung kết World Cup 2026: Anh - Tây Ban Nha. Một lần nữa, bóng đá Anh... tái phát bệnh cũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-27T22:22:00+07:00",
+      "fetched": "2026-09-28T05:46:56.656029+07:00"
+    },
+    {
+      "id": "1b751ba8fefedbe7abca3449c4ac2779",
+      "title": "Tử vi ngày 28 tháng 9: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-28-thang-9-con-giap-nao-may-man-hom-nay-185260927223259042.htm",
+      "summary": "Tử vi ngày 28 tháng 9 mang đến những gợi ý tham khảo cho 12 con giáp khi bắt đầu tuần mới. Tử vi hôm nay cho thấy có tuổi được trao cơ hội đúng với điều mình muốn thử, có người tìm thấy cách cải thiện thu nhập, trong khi một số con giáp cần tỉnh táo trước những quyết định liên quan đến tiền bạc và t...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-27T22:15:00+07:00",
+      "fetched": "2026-09-28T05:46:56.656101+07:00"
+    },
+    {
+      "id": "d02137d8614d97c334efd8b9475323f7",
+      "title": "Bangkok ngập lụt lịch sử",
+      "link": "https://thanhnien.vn/bangkok-ngap-lut-lich-su-185260927213939508.htm",
+      "summary": "Mưa lớn kéo dài khiến chính quyền thủ đô Bangkok của Thái Lan phải tuyên bố tình trạng thảm họa sau khi xảy ra ngập lụt nghiêm trọng tại nhiều khu vực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-27T22:11:00+07:00",
+      "fetched": "2026-09-28T05:46:56.656173+07:00"
+    },
+    {
+      "id": "f547de6df0990fd111eb6c84d43ab58e",
+      "title": "Bồ Đào Nha thắng Na Uy trong ngày Ronaldo dự bị",
+      "link": "https://vnexpress.net/bo-dao-nha-thang-na-uy-trong-ngay-ronaldo-du-bi-5125457.html",
+      "summary": "Tiền đạo Cristiano Ronaldo lần đầu dự bị suốt 90 phút sau hơn 2 năm, khi Bồ Đào Nha thắng Na Uy 2-1 ở lượt hai bảng A4 UEFA Nations League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-09-27T22:09:28+07:00",
+      "fetched": "2026-09-28T05:47:06.383693+07:00"
+    },
+    {
+      "id": "2e2135ef839f04a3bd4653fb0a5d6299",
+      "title": "Tổng thống Trump nỗ lực kết nối Nga - Ukraine",
+      "link": "https://thanhnien.vn/tong-thong-trump-no-luc-ket-noi-nga-ukraine-185260927212645279.htm",
+      "summary": "Tổng thống Mỹ Donald Trump thúc giục lãnh đạo Nga và Ukraine đạt thỏa thuận nhằm chấm dứt xung đột, trong khi Moscow cáo buộc châu Âu đang \"thọc gậy bánh xe\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-27T22:00:00+07:00",
+      "fetched": "2026-09-28T05:46:56.656243+07:00"
+    },
+    {
+      "id": "8ab8ef2c2729444d8596d6c276ff997d",
+      "title": "Lịch âm hôm nay 28.9 nhằm ngày 18 tháng 8 là ngày gì?",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-289-nham-ngay-18-thang-8-la-ngay-gi-185260927090601727.htm",
+      "summary": "Theo lịch âm hôm nay 28.9 nhằm ngày 18 tháng 8 là ngày Ất Tỵ. Âm lịch, dương lịch hôm nay có gì đáng lưu ý?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-09-27T22:00:00+07:00",
+      "fetched": "2026-09-28T05:46:56.656310+07:00"
+    },
+    {
+      "id": "58043eb7eee99414cbdaec2367f55211",
+      "title": "Ác mộng với hàng không Iran trước lệnh 'cấm cửa toàn cầu' của Mỹ",
+      "link": "https://vnexpress.net/ac-mong-voi-hang-khong-iran-truoc-lenh-cam-cua-toan-cau-cua-my-5123819.html",
+      "summary": "Lệnh trừng phạt mới của Mỹ có thể khiến ngành hàng không Iran mất nhiều điểm đến quốc tế, gia tăng áp lực lên nền kinh tế nước này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-09-27T22:00:00+07:00",
+      "fetched": "2026-09-28T05:47:00.494658+07:00"
+    },
+    {
+      "id": "089b03d2b9e2ca5b768824406f3bf5eb",
+      "title": "Các phòng gym nợ thuế tiền tỷ",
+      "link": "https://vnexpress.net/cac-phong-gym-no-thue-tien-ty-5125209.html",
+      "summary": "Nhiều doanh nghiệp kinh doanh phòng gym có tên trong danh sách công khai nợ thuế của cơ quan Thuế TP HCM, dẫn đầu là Citigym với 7,53 tỷ đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-09-27T22:00:00+07:00",
+      "fetched": "2026-09-28T05:47:02.121358+07:00"
     },
     {
       "id": "8b57cea81482b6e8cb27d2ffb74e6f1b",
@@ -643,6 +833,86 @@ window.newsData_2026_09_28 = {
       "fetched": "2026-09-28T02:30:25.974277+07:00"
     },
     {
+      "id": "059a53cf43b5563a5f804071b70caa16",
+      "title": "Chồng muốn bán đất mẹ vợ cho để trả nợ căn nhà của anh",
+      "link": "https://vnexpress.net/chong-muon-ban-dat-me-vo-cho-de-tra-no-can-nha-cua-anh-5125361.html",
+      "summary": "Anh nói nếu không còn nợ, mỗi tháng hai vợ chồng sẽ bớt áp lực, tiền kiếm được có thể để dành cho con, cuộc sống cũng thoải mái hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-27T08:00:00+07:00",
+      "fetched": "2026-09-28T05:46:53.300014+07:00"
+    },
+    {
+      "id": "27a1397235c39261a22733ea22da370a",
+      "title": "Nỗi xót xa ở chung cư xây sai phép HH Linh Đàm",
+      "link": "https://vnexpress.net/noi-xot-xa-o-chung-cu-xay-sai-phep-hh-linh-dam-5125112.html",
+      "summary": "Người mua nhà không vẽ thêm tầng, không có quyền kiểm tra công trình, nhưng họ lại là những người cảm nhận hậu quả đầu tiên khi có sai phạm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-27T08:00:00+07:00",
+      "fetched": "2026-09-28T05:46:53.300166+07:00"
+    },
+    {
+      "id": "3053c0980fa4d22d0ce250d0d4df10df",
+      "title": "Bí quyết có cơ bắp săn chắc của nữ bác sĩ U50",
+      "link": "https://vnexpress.net/bi-quyet-co-co-bap-san-chac-cua-nu-bac-si-u50-5125103.html",
+      "summary": "Ở tuổi 46, bác sĩ Jennifer Timmons duy trì cơ bắp săn chắc để kéo dài tuổi thọ nhờ phương pháp tập luyện tối ưu thời gian cùng chế độ dinh dưỡng giàu đạm, chất xơ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-27T08:00:00+07:00",
+      "fetched": "2026-09-28T05:46:53.300238+07:00"
+    },
+    {
+      "id": "1e41bedd52843e4c4f272e8d051c1d89",
+      "title": "4 bộ phận cơ thể khó tự phục hồi sau tổn thương",
+      "link": "https://vnexpress.net/4-bo-phan-co-the-kho-tu-phuc-hoi-sau-ton-thuong-5125090.html",
+      "summary": "Tim, não, tủy sống và sụn khớp thuộc nhóm mô, cơ quan có khả năng tự phục hồi hạn chế sau tổn thương ở người trưởng thành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-27T08:00:00+07:00",
+      "fetched": "2026-09-28T05:46:53.300309+07:00"
+    },
+    {
+      "id": "ce8cf1a7041644c74fc51d6fed8c3830",
+      "title": "VnExpress Marathon Nghệ An trao thưởng hơn 880 triệu đồng",
+      "link": "https://vnexpress.net/giai-thuong-vnexpress-marathon-nghe-an-5125275.html",
+      "summary": "VnExpress Marathon Grand Tour Nghệ An 2026 trao thưởng cho các VĐV thành tích cao, với tổng giá trị hơn 883 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-27T08:00:00+07:00",
+      "fetched": "2026-09-28T05:46:53.300383+07:00"
+    },
+    {
+      "id": "aed0d8f0f749ecec7558bbda2e8e5179",
+      "title": "Chăm sóc trẻ tiêu chảy đúng cách",
+      "link": "https://vnexpress.net/cham-soc-tre-tieu-chay-dung-cach-5125154.html",
+      "summary": "Trẻ tiêu chảy cần được bù đủ nước, ăn uống đủ chất, giữ vệ sinh, theo dõi các dấu hiệu mất nước, không tự ý dùng thuốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-27T08:00:00+07:00",
+      "fetched": "2026-09-28T05:46:53.300458+07:00"
+    },
+    {
+      "id": "b3b0a1d29e5e7dc60af11d2a900c6272",
+      "title": "Từng mắc tay chân miệng do EV71 có cần tiêm vaccine?",
+      "link": "https://vnexpress.net/tung-mac-tay-chan-mieng-do-ev71-co-can-tiem-vaccine-5125023.html",
+      "summary": "Con tôi 3 tuổi, cách đây hai tháng mắc tay chân miệng phải nhập viện, xác định nhiễm chủng EV71. Hiện có vaccine phòng bệnh, cháu có được tiêm không? (Hương Giang, 30 tuổi, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-27T08:00:00+07:00",
+      "fetched": "2026-09-28T05:46:53.300557+07:00"
+    },
+    {
+      "id": "db4c6319048419adbb82f5a3f4422765",
+      "title": "Nghịch tử đốt cha vì 'nhà cửa bừa bộn'",
+      "link": "https://vnexpress.net/nghich-tu-dot-cha-vi-nha-cua-bua-bon-5125365.html",
+      "summary": "Đi nhậu về, Nông Hồng Quảng tưới xăng đốt nhà khiến người cha đang ngủ trên giường bị thiêu tử vong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-27T07:53:44+07:00",
+      "fetched": "2026-09-28T05:46:53.300629+07:00"
+    },
+    {
       "id": "e4c36a76ca7893d6b0c3c806f7386104",
       "title": "Hai vụ xả súng liên tiếp ở Nam Phi, 27 người chết",
       "link": "https://vnexpress.net/hai-vu-xa-sung-lien-tiep-o-nam-phi-27-nguoi-chet-5125356.html",
@@ -651,6 +921,46 @@ window.newsData_2026_09_28 = {
       "category": "Thế giới",
       "published": "2026-09-27T07:32:01+07:00",
       "fetched": "2026-09-28T02:30:33.451965+07:00"
+    },
+    {
+      "id": "392b48e57f376f649bb4eea5c21a0857",
+      "title": "Khi quyết định bản án, hội thẩm hay thẩm phán có quyền cao hơn?",
+      "link": "https://vnexpress.net/khi-quyet-dinh-ban-an-hoi-tham-hay-tham-phan-co-quyen-cao-hon-5124898.html",
+      "summary": "Trong thành phần Hội đồng xét xử tại toà án, tôi xin hỏi vai trò của hội thẩm nhân dân là gì và khác thế nào với thẩm phán? Ai nhiều quyền hơn khi quyết định bản án?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-27T07:29:13+07:00",
+      "fetched": "2026-09-28T05:46:53.300775+07:00"
+    },
+    {
+      "id": "f34861c5be8b48b7060efb277800acd0",
+      "title": "Cản trở nhà báo tác nghiệp sẽ bị phạt ít nhất 20 triệu đồng",
+      "link": "https://vnexpress.net/can-tro-nha-bao-tac-nghiep-se-bi-phat-it-nhat-20-trieu-dong-5125349.html",
+      "summary": "Nhà báo khi tác nghiệp được bảo vệ danh dự, nhân phẩm và phương tiện, tài liệu; người cản trở trái pháp luật hoạt động nghề nghiệp của nhà báo, phóng viên sẽ bị phạt tối thiểu 20 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-27T07:19:20+07:00",
+      "fetched": "2026-09-28T05:46:53.300848+07:00"
+    },
+    {
+      "id": "0812ddfd872aba61a2caa5439c980369",
+      "title": "'Godzilla Minus Zero' nhận mưa lời khen",
+      "link": "https://vnexpress.net/godzilla-minus-zero-nhan-mua-loi-khen-5125259.html",
+      "summary": "\"Godzilla Minus Zero\" chinh phục giới phê bình nhờ kết hợp hiệu quả kỹ xảo hình ảnh, cảnh hành động quy mô lớn và bi kịch gia đình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-27T07:17:45+07:00",
+      "fetched": "2026-09-28T05:46:53.300936+07:00"
+    },
+    {
+      "id": "f8cd9b6599be70c3383563c56646dc66",
+      "title": "Bạn có thể sửa '5 + 2 = 4' đúng bằng cách di chuyển 1 que diêm?",
+      "link": "https://vnexpress.net/ban-co-the-sua-5-2-4-dung-bang-cach-di-chuyen-1-que-diem-5124320.html",
+      "summary": "Câu đố tưởng đơn giản nhưng có thể khiến bạn phải suy nghĩ vài vòng mới tìm ra đáp án!",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-09-27T07:00:00+07:00",
+      "fetched": "2026-09-28T05:46:53.301008+07:00"
     },
     {
       "id": "f30f2d13ea08cd0fe2ac82ce0a379f8b",
