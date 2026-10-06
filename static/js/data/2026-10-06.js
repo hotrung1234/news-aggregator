@@ -1,7 +1,87 @@
 window.newsData_2026_10_06 = {
   "date": "2026-10-06",
-  "lastUpdated": "2026-10-06T02:02:25.639232+07:00",
+  "lastUpdated": "2026-10-06T08:05:59.676764+07:00",
   "articles": [
+    {
+      "id": "ae2251c2ad37032b4e796ad926e885b6",
+      "title": "Tin tức sáng 6-10: Hà Nội tiếp tục điều chỉnh Quy hoạch phân khu đô thị sông Hồng",
+      "link": "https://tuoitre.vn/tin-tuc-sang-6-10-ha-noi-tiep-tuc-dieu-chinh-quy-hoach-phan-khu-do-thi-song-hong-100261005231454159.htm",
+      "summary": "Tin tức đáng chú ý: Bãi bỏ Quyết định 6142, Hà Nội tiếp tục điều chỉnh Quy hoạch phân khu đô thị sông Hồng; 5 bệnh viện TP.HCM đạt loại A về khám sức khỏe toàn dân là những nơi nào?; Tài khoản chứng khoán vượt 14,1 triệu, cao kỷ lục...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T08:05:53.836477+07:00",
+      "fetched": "2026-10-06T08:05:53.836537+07:00"
+    },
+    {
+      "id": "405be4cc0fff6b0679d1a6889fb088e4",
+      "title": "Thời tiết hôm nay 6-10: Mưa to dịch vào miền Trung; Nam Bộ mưa chiều",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-6-10-mua-to-dich-vao-mien-trung-nam-bo-mua-chieu-100261005174125368.htm",
+      "summary": "Hôm nay 6-10, không khí lạnh lan tới miền Trung khiến thời tiết ở đây mưa to, Bắc Bộ trời giảm mưa, Nam Bộ đang trong đợt mưa diện rộng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T08:05:53.836409+07:00",
+      "fetched": "2026-10-06T08:05:53.836466+07:00"
+    },
+    {
+      "id": "d3ce4906c145f8733450d4b9f9b813cc",
+      "title": "Video: Loạt luân lưu căng não trong trận Indonesia - Thái Lan",
+      "link": "https://tuoitre.vn/video-loat-luan-luu-cang-nao-trong-tran-indonesia-thai-lan-100261006001700309.htm",
+      "summary": "Trên chấm luân lưu, đội chủ nhà Indonesia đánh bại Thái Lan với tỉ số 4-2 (hòa 2-2 sau 120 phút) để lên ngôi vô địch FIFA ASEAN Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T08:05:53.836339+07:00",
+      "fetched": "2026-10-06T08:05:53.836398+07:00"
+    },
+    {
+      "id": "7f33eb22dec76d6e7d2809542655a0dc",
+      "title": "CĐV Thái Lan ngán ngẩm: 'Làm sao có thể thua tới 5 trận chung kết liên tục?'",
+      "link": "https://tuoitre.vn/cdv-thai-lan-ngan-ngam-lam-sao-co-the-thua-toi-5-tran-chung-ket-lien-tuc-100261005232823342.htm",
+      "summary": "Người hâm mộ Thái Lan cảm thấy bực tức, khi cứ bước vào các trận chung kết gần đây là họ đều thua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T08:05:53.836268+07:00",
+      "fetched": "2026-10-06T08:05:53.836328+07:00"
+    },
+    {
+      "id": "e3c62b604c0f6e6f4b0869b1e681fa74",
+      "title": "Lại Lý Huynh chịu thiệt thòi khó tin trước kỳ vương Trung Quốc ở giải châu Á",
+      "link": "https://tuoitre.vn/lai-ly-huynh-chiu-thiet-thoi-kho-tin-truoc-ky-vuong-trung-quoc-o-giai-chau-a-100261005205245466.htm",
+      "summary": "Kết quả bốc thăm của Giải cờ tướng châu Á 2026 liên tục đẩy Lại Lý Huynh vào thế bất lợi, dẫn đến việc kỳ thủ Việt Nam ít nhiều chịu thiệt thòi trong cuộc đua giành vé vào chung kết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T08:05:53.836172+07:00",
+      "fetched": "2026-10-06T08:05:53.836255+07:00"
+    },
+    {
+      "id": "67e0e63e6e32378bd6f4aa50b439c4ab",
+      "title": "Sốc: Trung Quốc 'sạch bóng' trong top 3 bóng bàn đơn nam thế giới",
+      "link": "https://tuoitre.vn/soc-trung-quoc-sach-bong-trong-top-3-bong-ban-don-nam-the-gioi-100261005232609286.htm",
+      "summary": "Làng thể thao đỉnh cao vừa ghi nhận một sự kiện vô cùng khó tin ở môn bóng bàn, khi bảng xếp hạng đơn nam thế giới vừa công bố tuần này không còn tay vợt người Trung Quốc nào trong top 3.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T08:05:53.836099+07:00",
+      "fetched": "2026-10-06T08:05:53.836161+07:00"
+    },
+    {
+      "id": "49194f193a10363cf3260a0edec3da89",
+      "title": "Lịch trực tiếp trận đấu chia tay ở tuyển Argentina của Messi",
+      "link": "https://tuoitre.vn/lich-truc-tiep-tran-dau-chia-tay-tuyen-o-tuyen-argentina-cua-messi-1002610051526113.htm",
+      "summary": "Lúc 6h ngày 7-10, siêu sao Lionel Messi sẽ chính thức khép lại sự nghiệp quốc tế khi Argentina chạm trán Benin trong trận giao hữu trên sân nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T08:05:53.836020+07:00",
+      "fetched": "2026-10-06T08:05:53.836088+07:00"
+    },
+    {
+      "id": "b9223d3c7c0ad0d423c489ec4ccf2064",
+      "title": "Justin Hubner cà khịa Hai Long và tuyển Việt Nam sau khi vô địch FIFA ASEAN Cup 2026",
+      "link": "https://tuoitre.vn/justin-hubner-ca-khia-hai-long-va-tuyen-viet-nam-sau-khi-vo-dich-fifa-asean-cup-2026-100261006054953495.htm",
+      "summary": "Hậu vệ tuyển Indonesia Justin Hubner hâm nóng trở lại cuộc khẩu chiến giữa anh và Hai Long cũng như các tuyển thủ Việt Nam sau khi vô địch FIFA ASEAN Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T08:05:53.835865+07:00",
+      "fetched": "2026-10-06T08:05:53.836006+07:00"
+    },
     {
       "id": "3386af059e410195706227c7bd8ddbea",
       "title": "Hoàng Đức: Tuyển Việt Nam đã nỗ lực hết sức",
@@ -151,6 +231,286 @@ window.newsData_2026_10_06 = {
       "category": "Tổng hợp",
       "published": "2026-10-06T02:02:19.882446+07:00",
       "fetched": "2026-10-06T02:02:19.882582+07:00"
+    },
+    {
+      "id": "2719925b03cf2051a7b775f74133b1f0",
+      "title": "Đội tuyển Việt Nam cần làm gì để tìm lại chính mình?",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-can-lam-gi-de-tim-lai-chinh-minh-18526100607555854.htm",
+      "summary": "Thiếu quỹ thời gian chuẩn bị là một trong những nguyên nhân chính dẫn đến việc đội tuyển Việt Nam gặp thất bại ở FIFA ASEAN Cup.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T01:03:00+07:00",
+      "fetched": "2026-10-06T08:05:52.059777+07:00"
+    },
+    {
+      "id": "9ead08e39be495e7999adebc354cc049",
+      "title": "Tiền nhàn rỗi trong tài khoản có thể sinh lời đến 6%/năm",
+      "link": "https://thanhnien.vn/tien-nhan-roi-trong-tai-khoan-co-the-sinh-loi-den-6-nam-185261005204621528.htm",
+      "summary": "Sản phẩm Sinh lời Tài Lộc của SACOMBANK cho phép phần tiền nhàn rỗi trên tài khoản được tự động tối ưu với lợi suất lên đến 6%/năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T01:00:00+07:00",
+      "fetched": "2026-10-06T08:05:52.059946+07:00"
+    },
+    {
+      "id": "9dd28d7141f2571c4a2cac778c4f1fb8",
+      "title": "Cô gái có GPA 3,51/4 nghiên cứu đưa giao thông xanh vào cuộc sống",
+      "link": "https://thanhnien.vn/co-gai-co-gpa-351-4-nghien-cuu-dua-giao-thong-xanh-vao-cuoc-song-185261005192832993.htm",
+      "summary": "Dương Hoàng Duyên, ngành quản trị kinh doanh, Trường ĐH Giao thông vận tải phân hiệu tại TP.HCM, duy trì kết quả học tập tốt trong suốt 4 năm đại học, tốt nghiệp loại giỏi với điểm trung bình tích lũy (GPA) 3,51/4, đồng thời tích cực tham gia hoạt động xã hội và nghiên cứu khoa học.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T01:00:00+07:00",
+      "fetched": "2026-10-06T08:05:52.060105+07:00"
+    },
+    {
+      "id": "ffdc61e9154b253a11124a23f35b5410",
+      "title": "Gần 1.000 chuyên gia đồng hành cùng UEH kết nối đào tạo và thực tiễn",
+      "link": "https://thanhnien.vn/gan-1000-chuyen-gia-dong-hanh-cung-ueh-ket-noi-dao-tao-va-thuc-tien-185261005171901398.htm",
+      "summary": "Trong bối cảnh tri thức, công nghệ và thị trường lao động liên tục thay đổi, việc đưa những chuyển động của thực tiễn vào giảng đường ngày càng trở thành một yêu cầu quan trọng đối với giáo dục đại học.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T01:00:00+07:00",
+      "fetched": "2026-10-06T08:05:52.060298+07:00"
+    },
+    {
+      "id": "b3804076ff1546f83f17f245cc89727c",
+      "title": "Tư vấn sức khỏe: Hiểu về những nguyên nhân thất bại chuyển phôi trong IVF",
+      "link": "https://thanhnien.vn/tu-van-suc-khoe-hieu-ve-nhung-nguyen-nhan-that-bai-chuyen-phoi-trong-ivf-185261005170644139.htm",
+      "summary": "Chuyển phôi không thành công không chỉ gây hụt hẫng mà còn kéo theo nhiều áp lực về thời gian, chi phí. Vì sao phôi được đánh giá tốt vẫn không làm tổ? Nguyên nhân đến từ phôi, tử cung, nội tiết hay bất thường di truyền?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T01:00:00+07:00",
+      "fetched": "2026-10-06T08:05:52.060459+07:00"
+    },
+    {
+      "id": "6b2d03b112a7024b2ab8b0f356b8e97e",
+      "title": "Hành trình 4 năm người trẻ hình thành thói quen thu gom và tái chế chai nhựa",
+      "link": "https://thanhnien.vn/hanh-trinh-4-nam-nguoi-tre-hinh-thanh-thoi-quen-thu-gom-va-tai-che-chai-nhua-185261005170210359.htm",
+      "summary": "Phân loại chai nhựa, lon nhôm sau khi sử dụng đang dần trở thành một thói quen trong đời sống hằng ngày của người trẻ. Đánh dấu năm thứ 4 liên tiếp triển khai, chương trình 'Chai nhựa tái sinh, hành trình tiếp nối' của Coca-Cola tiếp tục mở rộng mạng lưới thu gom tiện lợi ở Hà Nội cùng TP.HCM, mang ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T01:00:00+07:00",
+      "fetched": "2026-10-06T08:05:52.060612+07:00"
+    },
+    {
+      "id": "fda6e845818513c3df3e0d7be86f73ba",
+      "title": "Tăng dự trữ có trọng điểm, SATRA sẵn sàng nguồn hàng cho Tết Đinh Mùi 2027",
+      "link": "https://thanhnien.vn/tang-du-tru-co-trong-diem-satra-san-sang-nguon-hang-cho-tet-dinh-mui-2027-185261005164606564.htm",
+      "summary": "Dự báo sức mua những tháng cuối năm 2026 tiếp tục tăng theo yếu tố mùa vụ, SATRA cùng các đơn vị thành viên như VISSAN và chợ Bình Điền đã xây dựng kế hoạch tạo nguồn, sản xuất và phân phối hàng hóa từ sớm, hướng đến mục tiêu bình ổn giá và đáp ứng đầy đủ nhu cầu tiêu dùng trước, trong và sau Tết Đi...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T01:00:00+07:00",
+      "fetched": "2026-10-06T08:05:52.060765+07:00"
+    },
+    {
+      "id": "338c18e075ac5ef11bff4e9788f2624c",
+      "title": "Cuốn sách ‘Thế giới ba không’ và doanh nghiệp xã hội",
+      "link": "https://thanhnien.vn/cuon-sach-the-gioi-ba-khong-va-doanh-nghiep-xa-hoi-185261005164021004.htm",
+      "summary": "Trong Thế giới ba không, Muhammad Yunus bàn về ba mục tiêu không nghèo đói, không thất nghiệp và không thải thêm carbon, đồng thời giới thiệu doanh nghiệp xã hội như một mô hình gắn hoạt động kinh doanh với mục tiêu xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T01:00:00+07:00",
+      "fetched": "2026-10-06T08:05:52.060924+07:00"
+    },
+    {
+      "id": "2db90f8d00651f90db4f302d59db465d",
+      "title": "Không chỉ dành cho mùa hè, váy cổ yếm vẫn sành điệu khi thu sang",
+      "link": "https://thanhnien.vn/thoi-trang-tre/khong-chi-danh-cho-mua-he-vay-co-yem-van-sanh-dieu-khi-thu-sang-185261005094844489.htm",
+      "summary": "Váy cổ yếm khi diện vào mùa thu sẽ là bản hòa ca tuyệt vời giữa nét gợi cảm nguyên bản và phong thái dịu dàng của thời khắc chuyển mùa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T01:00:00+07:00",
+      "fetched": "2026-10-06T08:05:52.061073+07:00"
+    },
+    {
+      "id": "958d92c7025a1f9b9e27261287dcc654",
+      "title": "Lý do ổ C trên máy tính Windows liên tục đầy",
+      "link": "https://thanhnien.vn/ly-do-o-c-tren-may-tinh-windows-lien-tuc-day-185261005162200006.htm",
+      "summary": "Ổ C thường xuyên đầy khiến Windows hoạt động kém ổn định, nhưng người dùng có thể xử lý bằng vài cách đơn giản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T00:57:00+07:00",
+      "fetched": "2026-10-06T08:05:52.061264+07:00"
+    },
+    {
+      "id": "c3bd943069ca915447f92b0569811196",
+      "title": "Giá heo hơi hôm nay 6.10.2026: Giảm mạnh nhiều nơi",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-6102026-giam-manh-nhieu-noi-185261006065120874.htm",
+      "summary": "Giá heo hơi tiếp tục giảm, đặc biệt ở các tỉnh, thành miền Nam. Trong khi đó, cơ quan chức năng lại phát hiện tình trạng một số hộ dân sử dụng chất cấm trong chăn nuôi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T00:51:00+07:00",
+      "fetched": "2026-10-06T08:05:52.061439+07:00"
+    },
+    {
+      "id": "a39fdec40e296ae7a6869c8a6c51e9f1",
+      "title": "Con trai cựu Tổng thống Bolsonaro giành ưu thế trong bầu cử Brazil",
+      "link": "https://thanhnien.vn/con-trai-cuu-tong-thong-bolsonaro-gianh-uu-the-trong-bau-cu-brazil-185261006073720894.htm",
+      "summary": "Ông Flavio Bolsonaro đang nắm giữ lợi thế lớn để giành chiến thắng trong cuộc bầu cử tổng thống Brazil, sau khi vượt qua đương kim Tổng thống Lula da Silva ở vòng bỏ phiếu đầu tiên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T00:50:00+07:00",
+      "fetched": "2026-10-06T08:05:52.061590+07:00"
+    },
+    {
+      "id": "78a9500a15b18a70907ff65adaec16be",
+      "title": "Giá xăng tăng mạnh, ông Trump nói vì Ukraine tấn công nhà máy dầu Nga",
+      "link": "https://thanhnien.vn/gia-xang-tang-manh-ong-trump-noi-vi-ukraine-tan-cong-nha-may-dau-nga-185261006071321127.htm",
+      "summary": "Tổng thống Mỹ Donald Trump ngày 5.10 cho rằng đảng Dân chủ và các cuộc tấn công của Ukraine nhằm vào nhà máy lọc dầu Nga là nguyên nhân chính khiến giá nhiên liệu leo thang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T00:50:00+07:00",
+      "fetched": "2026-10-06T08:05:52.061740+07:00"
+    },
+    {
+      "id": "41c387072806f86fa3726d79673b22a2",
+      "title": "Máy bay Anh giảm độ cao đột ngột 8.500 m, phát tín hiệu khẩn cấp",
+      "link": "https://thanhnien.vn/may-bay-anh-giam-do-cao-dot-ngot-8500-m-phat-tin-hieu-khan-cap-185261006073612873.htm",
+      "summary": "Máy bay Boeing 777-200ER của Hãng hàng không British Airways (Anh) phải phát tín hiệu khẩn cấp và quay trở lại sân bay Heathrow ở London sau khi giảm độ cao đột ngột hơn 8.500 m trên bầu trời Ireland.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T00:49:00+07:00",
+      "fetched": "2026-10-06T08:05:52.061894+07:00"
+    },
+    {
+      "id": "448b0453017a585a9650cf5639c5c019",
+      "title": "Bị đẩy lùi khỏi eo biển Bab el-Mandeb, Houthi tấn công sân bay Ả Rập Xê Út?",
+      "link": "https://thanhnien.vn/bi-day-lui-khoi-eo-bien-bab-el-mandeb-houthi-tan-cong-san-bay-a-rap-xe-ut-185261006070446865.htm",
+      "summary": "Lực lượng Houthi ở Yemen tuyên bố đã tấn công các địa điểm quan trọng của Ả Rập Xê Út, trong đó có các sân bay, sau khi có thông tin lực lượng này bị đẩy lùi khỏi khu vực ven eo biển Bab el-Mandeb.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T00:48:00+07:00",
+      "fetched": "2026-10-06T08:05:52.062043+07:00"
+    },
+    {
+      "id": "2f6436c7f64812307cae030a8ef0340a",
+      "title": "Hãng tin Mỹ nói Israel từng 'sẵn sàng bắn hạ' máy bay flydubai",
+      "link": "https://vnexpress.net/hang-tin-my-noi-israel-tung-san-sang-ban-ha-may-bay-flydubai-5128788.html",
+      "summary": "Hai nguồn thạo tin tiết lộ Israel đã sẵn sàng bắn hạ phi cơ của hãng flydubai khi cơ trưởng bị tấn công, dù chuyến bay chở gần 170 công dân nước này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-06T00:37:20+07:00",
+      "fetched": "2026-10-06T08:05:55.447960+07:00"
+    },
+    {
+      "id": "97726590d459b7cd7176b889c763fce5",
+      "title": "Tài sản của Elon Musk quay về mốc 1.000 tỷ USD",
+      "link": "https://vnexpress.net/tai-san-cua-elon-musk-quay-ve-moc-1-000-ty-usd-5128789.html",
+      "summary": "Cổ phiếu SpaceX tăng mạnh giúp Musk có thêm hơn 65 tỷ USD một ngày, lấy lại danh hiệu tỷ phú nghìn tỷ chỉ sau vài tháng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-06T00:08:32+07:00",
+      "fetched": "2026-10-06T08:05:56.489606+07:00"
+    },
+    {
+      "id": "244c36ee52921ff79075d21d5e687d57",
+      "title": "Ông Trump: Mỹ rút oanh tạc cơ khỏi Anh do 'mối đe dọa liên quan đến Iran'",
+      "link": "https://vnexpress.net/ong-trump-my-rut-oanh-tac-co-khoi-anh-do-moi-de-doa-lien-quan-den-iran-5128791.html",
+      "summary": "Tổng thống Trump xác nhận Mỹ rút toàn bộ oanh tạc cơ B-1B khỏi căn cứ Fairford ở Anh do xuất hiện những mối đe dọa \"liên quan đến Iran\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-06T00:07:03+07:00",
+      "fetched": "2026-10-06T08:05:55.448136+07:00"
+    },
+    {
+      "id": "b2b7da586b30e750e0568ccbc5da9f6c",
+      "title": "Nỗi lo 'xâm phạm quyền riêng tư' của động vật thời AI",
+      "link": "https://vnexpress.net/noi-lo-xam-pham-quyen-rieng-tu-cua-dong-vat-thoi-ai-5128123.html",
+      "summary": "AI thúc đẩy quá trình giải mã tiếng kêu của động vật, làm dấy lên lo ngại con người can thiệp quá sâu vào đời sống của chúng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-10-06T00:00:00+07:00",
+      "fetched": "2026-10-06T08:05:58.612453+07:00"
+    },
+    {
+      "id": "e0af5b7f128c99b4a6efd481331de3bb",
+      "title": "Tổng thống Iran: Đàm phán với Mỹ là 'vô nghĩa'",
+      "link": "https://vnexpress.net/tong-thong-iran-dam-phan-voi-my-la-vo-nghia-5128784.html",
+      "summary": "Tổng thống Iran Pezeshkian tuyên bố đàm phán với Mỹ là \"vô nghĩa\" và chỉ dẫn đến những cuộc tấn công mới khi nỗ lực chấm dứt chiến sự vẫn bế tắc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-05T23:51:02+07:00",
+      "fetched": "2026-10-06T08:05:55.448326+07:00"
+    },
+    {
+      "id": "f97f3162a3782d3b11d4dbd45864dbed",
+      "title": "Báo Indonesia: Việt Nam mất vị thế khi các đội dùng lực lượng mạnh nhất",
+      "link": "https://vnexpress.net/bao-indonesia-viet-nam-mat-vi-the-khi-cac-doi-dung-luc-luong-manh-nhat-5128774.html",
+      "summary": "CNN Indonesia cho rằng màn trình diễn của Việt Nam tại FIFA ASEAN Cup 2026 không tương xứng với vị thế đương kim vô địch Đông Nam Á.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-05T23:20:29+07:00",
+      "fetched": "2026-10-06T08:05:59.671432+07:00"
+    },
+    {
+      "id": "21885c0b0f0dc7c45bf477929ef86827",
+      "title": "Nhà bán hàng tìm cách kéo khách khỏi Shopee, TikTok Shop",
+      "link": "https://vnexpress.net/nha-ban-hang-tim-cach-keo-khach-khoi-shopee-tiktok-shop-5125867.html",
+      "summary": "Khui gói hàng áo yếm dệt kim mua trên Shopee, chị Trân nhận kèm tấm thiếp \"than thở\" của nhà bán rằng \"các sàn tăng phí quá cao\".",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-05T23:00:00+07:00",
+      "fetched": "2026-10-06T08:05:56.489783+07:00"
+    },
+    {
+      "id": "476ab1128b3006ddc99cf065830ff05d",
+      "title": "Tuyển thủ Benin thề sẽ đổi bằng được áo đấu với Messi",
+      "link": "https://vnexpress.net/tuyen-thu-benin-the-se-doi-bang-duoc-ao-dau-voi-messi-5128777.html",
+      "summary": "Là đối thủ khách mời trong trận chia tay Lionel Messi chia tay ĐTQG Argentina vào ngày 7/10, hậu vệ Benin Tijani Mohamed nóng lòng ra sân và quyết tâm đổi áo đấu với huyền thoại chủ nhà.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-05T22:43:03+07:00",
+      "fetched": "2026-10-06T08:05:59.671613+07:00"
+    },
+    {
+      "id": "30aeae55a26977c1cb432ce55a00625f",
+      "title": "Hoa hậu Đức chuyển sang làm võ sĩ quyền Anh chuyên nghiệp",
+      "link": "https://vnexpress.net/hoa-hau-duc-chuyen-sang-lam-vo-si-quyen-anh-chuyen-nghiep-5128779.html",
+      "summary": "Tatjana Genrich, người đăng quang Miss Deutschland 2022, sẽ ra mắt quyền Anh chuyên nghiệp ở tuổi 33, và đặt mục tiêu tranh đai vô địch thế giới.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-05T22:30:43+07:00",
+      "fetched": "2026-10-06T08:05:59.671940+07:00"
+    },
+    {
+      "id": "ea0577f8f44a046c30cbc900cc2d4446",
+      "title": "Pháp thắng trận đậm nhất dưới thời Zidane",
+      "link": "https://vnexpress.net/phap-thang-tran-dam-nhat-duoi-thoi-zidane-5128781.html",
+      "summary": "Pháp ghi bốn bàn trong 15 phút cuối để ngược dòng hạ Bỉ 4-1 ở lượt bốn bảng A1 Nations League và có chiến thắng đậm nhất sau bốn trận dưới thời HLV Zinedine Zidane.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-05T22:01:32+07:00",
+      "fetched": "2026-10-06T08:05:59.671778+07:00"
+    },
+    {
+      "id": "8cb9252d6d1494b357c102241d977984",
+      "title": "Nguy cơ xung đột lợi ích khi các tỷ phú tham gia 'bộ não' quân đội Mỹ",
+      "link": "https://vnexpress.net/nguy-co-xung-dot-loi-ich-khi-cac-ty-phu-tham-gia-bo-nao-quan-doi-my-5128602.html",
+      "summary": "Việc các tỷ phú như Elon Musk tham gia hoạch định công nghệ chiến tranh tương lai của quân đội Mỹ làm dấy lên lo ngại các công ty của họ sẽ được hưởng lợi.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-05T22:00:00+07:00",
+      "fetched": "2026-10-06T08:05:55.448491+07:00"
+    },
+    {
+      "id": "9b2e2209ae915e2482bad45e6786284a",
+      "title": "Ba điện thoại Pro Max của Trung Quốc sắp bán ở Việt Nam",
+      "link": "https://vnexpress.net/ba-dien-thoai-pro-max-cua-trung-quoc-sap-ban-o-viet-nam-5126758.html",
+      "summary": "Xiaomi sẽ lần đầu bán dòng 18 Pro Max tại Việt Nam, trong khi Vivo và Oppo đều có smartphone chuyên chụp ảnh cao cấp là X500 Pro Max và Find X10 Pro Max.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-10-05T22:00:00+07:00",
+      "fetched": "2026-10-06T08:05:58.612677+07:00"
+    },
+    {
+      "id": "ce50209b1014bec22be26a61d6894687",
+      "title": "10 cuốn sách tiêu biểu được trao giải khoa học công nghệ năm 2026",
+      "link": "https://vnexpress.net/10-cuon-sach-tieu-bieu-duoc-trao-giai-khoa-hoc-cong-nghe-nam-2026-5128735.html",
+      "summary": "Giải thưởng Sách Khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số 2026 vinh danh tác giả của 10 tác phẩm tiêu biểu, trong đó giải cao nhất thuộc về \"Sách Đỏ Việt Nam\".",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-10-05T19:00:00+07:00",
+      "fetched": "2026-10-06T08:05:58.613005+07:00"
     },
     {
       "id": "51b01e0ab8aee0af2a05dcfd3885d031",
@@ -691,6 +1051,26 @@ window.newsData_2026_10_06 = {
       "category": "Kinh doanh",
       "published": "2026-10-05T04:40:32+07:00",
       "fetched": "2026-10-06T02:02:22.204988+07:00"
+    },
+    {
+      "id": "4b16713d7e317bffbd69171f84fd9446",
+      "title": "Điểm hẹp nhất lãnh thổ Việt Nam chỉ khoảng 50 km, nằm ở tỉnh nào?",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-diem-hep-nhat-lanh-tho-viet-nam-chi-khoang-50-km-nam-o-tinh-nao-5128441.html",
+      "summary": "Việt Nam có diện tích hơn 331.000 km², đường bờ biển khoảng 3.444 km, nhưng hình dáng lãnh thổ có nơi bị thu hẹp đáng kể, chỉ khoảng 50 km.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-10-05T04:32:35+07:00",
+      "fetched": "2026-10-06T08:05:49.563113+07:00"
+    },
+    {
+      "id": "6bb57a596ee83986d3ee149a8c617a08",
+      "title": "Phát Đạt khai trương sales gallery dự án Q'Terra tại Hà Nội",
+      "link": "https://vnexpress.net/phat-dat-khai-truong-sales-gallery-du-an-q-terra-tai-ha-noi-5128449.html",
+      "summary": "Phát Đạt khai trương sales gallery dự án Q'Terra tại tòa nhà Grand Terra, số 36 Cát Linh, Hà Nội, ngày 3/10, thu hút hàng trăm khách hàng và nhà đầu tư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-10-05T04:30:00+07:00",
+      "fetched": "2026-10-06T08:05:49.563324+07:00"
     },
     {
       "id": "d084b9c15ea5fa92f5294b672cb66122",
