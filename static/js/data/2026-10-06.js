@@ -1,7 +1,167 @@
 window.newsData_2026_10_06 = {
   "date": "2026-10-06",
-  "lastUpdated": "2026-10-06T15:31:06.189947+07:00",
+  "lastUpdated": "2026-10-06T23:28:46.075932+07:00",
   "articles": [
+    {
+      "id": "774f9a9b32701656e3644d5a5f9faf7b",
+      "title": "Vận động xóa bỏ 3 hủ tục tảo hôn, hôn nhân cận huyết thống, cúng bái thay chữa bệnh",
+      "link": "https://tuoitre.vn/van-dong-xoa-bo-3-hu-tuc-tao-hon-hon-nhan-can-huyet-thong-cung-bai-thay-chua-benh-100261006190111574.htm",
+      "summary": "UBND tỉnh Quảng Ngãi yêu cầu đẩy mạnh tuyên truyền, vận động người dân xóa bỏ hủ tục tảo hôn, hôn nhân cận huyết thống và việc dùng cúng bái, mê tín để thay thế khám chữa bệnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T23:28:39.460530+07:00",
+      "fetched": "2026-10-06T23:28:39.460574+07:00"
+    },
+    {
+      "id": "6a1daf4eb564750fc33b191227de00c2",
+      "title": "Một thời Hà Nội và tôi",
+      "link": "https://tuoitre.vn/mot-thoi-ha-noi-va-toi-100261006190032388.htm",
+      "summary": "Nhiều câu chuyện đoạt giải cuộc thi viết ‘Hà Nội và tôi’ lần thứ II, đặc biệt là câu chuyện được trao giải nhì ‘Nhà tập thể cửa ga’ của tác giả Phạm Huỳnh Công khiến nhiều người hoài niệm một thời Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T23:28:39.460460+07:00",
+      "fetched": "2026-10-06T23:28:39.460521+07:00"
+    },
+    {
+      "id": "4729e22a23cf0acf3ae4771ec1167c0e",
+      "title": "Hết thời săn deal giá rẻ, người mua sắm trực tuyến 'chốt đơn' vì an tâm",
+      "link": "https://tuoitre.vn/het-thoi-san-deal-gia-re-nguoi-mua-sam-truc-tuyen-chot-don-vi-an-tam-100261006182623715.htm",
+      "summary": "Nhóm người tiêu dùng thông thái tại Việt Nam đang chi tiêu hằng tháng cao hơn 44% so với người mua sắm phổ thông, tạo ra khoảng chênh lệch chi tiêu lên tới 2,2 tỉ USD mỗi năm cho toàn ngành thương mại điện tử.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T23:28:39.460406+07:00",
+      "fetched": "2026-10-06T23:28:39.460452+07:00"
+    },
+    {
+      "id": "bb61523d344bcf42114bb72ab978f662",
+      "title": "Triều Tiên tuyên bố đáp trả nếu Hàn Quốc xâm phạm lãnh thổ dù chỉ ‘một tia lửa’",
+      "link": "https://tuoitre.vn/trieu-tien-tuyen-bo-dap-tra-neu-han-quoc-xam-pham-lanh-tho-du-chi-mot-tia-lua-100261006201311276.htm",
+      "summary": "Triều Tiên cảnh báo sẽ đáp trả mạnh mẽ nếu Hàn Quốc có hành động xâm phạm lãnh thổ nước này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T23:28:39.460352+07:00",
+      "fetched": "2026-10-06T23:28:39.460397+07:00"
+    },
+    {
+      "id": "106e06402b40135253f8ec8172e8ec78",
+      "title": "Điểm hẹn của những họa tiết, gam màu Việt Nam - Panama",
+      "link": "https://tuoitre.vn/diem-hen-cua-nhung-hoa-tiet-gam-mau-viet-nam-panama-100261006201109046.htm",
+      "summary": "Cuộc gặp giữa Phu nhân Ngô Phương Ly và Phu nhân Maricel Cohen de Mulino đi từ những họa tiết thổ cẩm, đến các chia sẻ về hỗ trợ sinh kế cho những người yếu thế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T23:28:39.460297+07:00",
+      "fetched": "2026-10-06T23:28:39.460343+07:00"
+    },
+    {
+      "id": "9a94b0fe2ee623d3dcc11e4279173713",
+      "title": "Ký hợp đồng tín dụng dự án điện mặt trời Dầu Tiếng 5 có tổng vốn đầu tư 7.786 tỉ đồng",
+      "link": "https://tuoitre.vn/ky-hop-dong-tin-dung-du-an-dien-mat-troi-dau-tieng-5-co-tong-von-dau-tu-7786-ti-dong-100261006201629648.htm",
+      "summary": "Ngày 6-10, Ngân hàng Phát triển Việt Nam (VDB) và Công ty cổ phần Năng lượng DT5.1 chính thức ký kết hợp đồng tín dụng đầu tư dự án Nhà máy điện mặt trời Dầu Tiếng 5.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T23:28:39.460227+07:00",
+      "fetched": "2026-10-06T23:28:39.460288+07:00"
+    },
+    {
+      "id": "824383a9127ae9ac63c9447729c2fa71",
+      "title": "Sinh viên lừa bán vé live concert ảo qua Threads cho hơn 200 người",
+      "link": "https://tuoitre.vn/sinh-vien-lua-ban-ve-live-concert-ao-qua-theards-cho-hon-200-nguoi-100261006185202424.htm",
+      "summary": "Mỗi nạn nhân bị lừa từ 1-30 triệu đồng, Hải khai đã lừa trên 200 người mua vé các chương trình live concert (vé xem biểu diễn ca nhạc) qua mạng xã hội Threads.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T23:28:39.460143+07:00",
+      "fetched": "2026-10-06T23:28:39.460211+07:00"
+    },
+    {
+      "id": "422eccc29925a4275cef14a1b4cb17ac",
+      "title": "CLB Công An TP.HCM nói gì trước trận gặp đại diện Thái Lan?",
+      "link": "https://tuoitre.vn/clb-cong-an-tphcm-noi-gi-truoc-tran-gap-dai-dien-thai-lan-100261006204405596.htm",
+      "summary": "Phát biểu trước Giải vô địch các CLB Đông Nam Á 2026-2027, HLV Arthur Diles cho biết CLB Công An TP.HCM sẽ chơi tấn công chủ động và không sợ hãi để tập trung giành chiến thắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T23:28:39.460051+07:00",
+      "fetched": "2026-10-06T23:28:39.460125+07:00"
+    },
+    {
+      "id": "97d78caaa54c500a8e6c7f5bb60b6092",
+      "title": "Hàn Quốc nói Ukraine đã xin lỗi nhưng chưa đủ, tính đáp trả cứng rắn",
+      "link": "https://tuoitre.vn/han-quoc-noi-ukraine-da-xin-loi-nhung-chua-du-tinh-dap-tra-cung-ran-10026100618402272.htm",
+      "summary": "Hàn Quốc cho biết đang cân nhắc rút đại sứ khỏi Ukraine khi cho rằng lời xin lỗi của Kiev về việc tiết lộ thông tin chuyển giao hai tù binh Triều Tiên là chưa đủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T23:28:39.459959+07:00",
+      "fetched": "2026-10-06T23:28:39.460037+07:00"
+    },
+    {
+      "id": "9d3563842a2617f43ddc1f6c1bb81fe7",
+      "title": "Cục trưởng Nguyễn Xuân Bắc trở lại giao lưu với các em nhỏ",
+      "link": "https://tuoitre.vn/cuc-truong-nguyen-xuan-bac-tro-lai-giao-luu-voi-cac-em-nho-100261006205502345.htm",
+      "summary": "Cục trưởng Cục Nghệ thuật biểu diễn trong vai trò một người nghệ sĩ nhiều năm gắn bó với các chương trình sân khấu dành cho thiếu nhi, sẽ cùng nghệ sĩ Tự Long giao lưu với các em nhỏ trong chương trình nghệ thuật ‘Chắp cánh tuổi thơ’.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T23:28:39.459872+07:00",
+      "fetched": "2026-10-06T23:28:39.459947+07:00"
+    },
+    {
+      "id": "cb1ba152f5a3ed94ae1401dbc1e8416f",
+      "title": "Công Phượng và CLB Thành phố Đồng Nai có chiến thắng đầu tiên",
+      "link": "https://tuoitre.vn/cong-phuong-va-clb-thanh-pho-dong-nai-co-chien-thang-dau-tien-100261006192745722.htm",
+      "summary": "Sau 3 trận toàn thua ở V-League, CLB Thành phố Đồng Nai đã có chiến thắng đầu tiên ở mùa giải 2026-2027 khi vượt qua Bình Minh Sài Gòn 4-3 ở vòng loại Cúp quốc gia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T23:28:39.459790+07:00",
+      "fetched": "2026-10-06T23:28:39.459859+07:00"
+    },
+    {
+      "id": "fd664df677b266db5dce82ebc14a6c79",
+      "title": "Khai mạc Lễ hội truyền thống kỷ niệm 158 năm Anh hùng dân tộc Nguyễn Trung Trực hy sinh",
+      "link": "https://tuoitre.vn/khai-mac-le-hoi-truyen-thong-ky-niem-158-nam-anh-hung-dan-toc-nguyen-trung-truc-hy-sinh-10026100621130309.htm",
+      "summary": "Tối 6-10, UBND tỉnh An Giang tổ chức chương trình nghệ thuật khai mạc Lễ hội truyền thống kỷ niệm 158 năm Anh hùng dân tộc Nguyễn Trung Trực hy sinh (1868-2026).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T23:28:39.459697+07:00",
+      "fetched": "2026-10-06T23:28:39.459777+07:00"
+    },
+    {
+      "id": "9bfa0bfa82f4e6b4e9cd97e81865797a",
+      "title": "Có đến 4.000 trường hợp bị mạo danh lập doanh nghiệp",
+      "link": "https://tuoitre.vn/co-den-4000-truong-hop-bi-mao-danh-lap-doanh-nghiep-10026100621363643.htm",
+      "summary": "Khoảng 4.000 trường hợp được phản ánh bị mạo danh thông tin để thành lập doanh nghiệp. Bộ Tài chính yêu cầu rà soát, xử lý kịp thời những hồ sơ đầy đủ nhưng quá 6 tháng chưa được giải quyết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T23:28:39.459587+07:00",
+      "fetched": "2026-10-06T23:28:39.459682+07:00"
+    },
+    {
+      "id": "c8302ebf3c9506acaffb5d6a2baa3c89",
+      "title": "12 phụ huynh ở Nghệ An được vận động cam kết đưa con trở lại trường",
+      "link": "https://tuoitre.vn/12-phu-huynh-o-nghe-an-duoc-van-dong-cam-ket-dua-con-tro-lai-truong-100261006213848201.htm",
+      "summary": "Ngày 6-10, 124/166 học sinh điểm trường lẻ Tiến Sơn, Nghệ An vẫn chưa trở lại lớp. Công an đã mời 12 phụ huynh làm việc, vận động đưa con đến trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T23:28:39.459200+07:00",
+      "fetched": "2026-10-06T23:28:39.459569+07:00"
+    },
+    {
+      "id": "bdb9c838a2396c902b0cc88b97b05567",
+      "title": "Việt Nam và Panama mở rộng hợp tác vận tải, hậu cần cảng biển",
+      "link": "https://tuoitre.vn/viet-nam-va-panama-mo-rong-hop-tac-van-tai-hau-can-cang-bien-10026100619520144.htm",
+      "summary": "Panama có thể cùng Việt Nam đóng vai trò cửa ngõ thương mại và hậu cần giữa hai khu vực Đông Nam Á và Mỹ Latinh, theo Tổng Bí thư, Chủ tịch nước Tô Lâm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T23:28:39.459029+07:00",
+      "fetched": "2026-10-06T23:28:39.459187+07:00"
+    },
+    {
+      "id": "f0a41cb6c46ffadc8313cfd9fd78133c",
+      "title": "Nghiên cứu giao dịch chứng khoán xuyên trưa, nới biên độ giá",
+      "link": "https://vnexpress.net/nghien-cuu-giao-dich-chung-khoan-xuyen-trua-noi-bien-do-gia-5129231.html",
+      "summary": "Ủy ban Chứng khoán Nhà nước đang nghiên cứu giao dịch xuyên trưa, nới biên độ dao động giá và bỏ một số phiên khớp lệnh định kỳ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-06T15:46:13+07:00",
+      "fetched": "2026-10-06T23:28:41.970310+07:00"
+    },
     {
       "id": "413931bb4b6b0e8c6a75d4d065b9a5f1",
       "title": "TP.HCM dự kiến phát hành trái phiếu đô thị để hút vốn cho các dự án trọng điểm",
@@ -153,6 +313,436 @@ window.newsData_2026_10_06 = {
       "fetched": "2026-10-06T15:30:59.693082+07:00"
     },
     {
+      "id": "f160c2f4a08c17f16a65fb6cfe38784d",
+      "title": "Panama sẵn sàng làm cửa ngõ kết nối Việt Nam với Mỹ Latin",
+      "link": "https://vnexpress.net/panama-san-sang-lam-cua-ngo-ket-noi-viet-nam-voi-my-latin-5129217.html",
+      "summary": "Tổng thống Panama hội đàm với Tổng Bí thư, Chủ tịch nước Tô Lâm, bày tỏ nước này sẵn sàng làm cửa ngõ để kết nối Việt Nam với các nền kinh tế Mỹ Latin.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-06T15:30:32+07:00",
+      "fetched": "2026-10-06T23:28:40.967391+07:00"
+    },
+    {
+      "id": "e23401ee462bc474ac2a6cba0528f1c6",
+      "title": "Orange: Tôi không còn muốn sống trong quá khứ",
+      "link": "https://thanhnien.vn/orange-toi-khong-con-muon-song-trong-qua-khu-185261006215203638.htm",
+      "summary": "Sau 'Em xinh say hi', Orange không chỉ bận rộn hơn mà cuộc sống của cô cũng có nhiều thay đổi. Nữ ca sĩ vui vẻ, cởi mở và không còn muốn đắm chìm vào dòng suy tư, u sầu trong quá khứ nữa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T15:19:00+07:00",
+      "fetched": "2026-10-06T23:28:37.725313+07:00"
+    },
+    {
+      "id": "c8ce0691d2ef781081df2af4abf41a04",
+      "title": "Jun Phạm, Duy Khánh, Bùi Công Nam... trở lại sau cơn sốt 'Gia đình Haha'",
+      "link": "https://thanhnien.vn/jun-pham-duy-khanh-bui-cong-nam-tro-lai-sau-con-sot-gia-dinh-haha-185261006213140192.htm",
+      "summary": "Jun Phạm, Rhymastic, Bùi Công Nam, Ngọc Thanh Tâm và Duy Khánh chính thức tái hợp trong show thực tế 'Quán nhà Haha'. Họ chia sẻ nhiều trải nghiệm đáng nhớ và áp lực sau thành công của 'Gia đình Haha'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T15:13:00+07:00",
+      "fetched": "2026-10-06T23:28:37.725469+07:00"
+    },
+    {
+      "id": "7a28b8e071ad86b535203d3eec796866",
+      "title": "Pháp phóng thử tên lửa đạn đạo mới nâng cấp từ tàu ngầm hạt nhân",
+      "link": "https://thanhnien.vn/phap-phong-thu-ten-lua-dan-dao-moi-nang-cap-tu-tau-ngam-hat-nhan-18526100621510069.htm",
+      "summary": "Ngày 6.10, tàu ngầm Pháp phóng thử tên lửa đạn đạo có khả năng mang đầu đạn hạt nhân mới được nâng cấp trước sự chứng kiến của Tổng thống Emmanuel Macron.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T15:01:00+07:00",
+      "fetched": "2026-10-06T23:28:37.725651+07:00"
+    },
+    {
+      "id": "26de54f5f693e069dbb0cc461a489a26",
+      "title": "Đỗ Thị Hải Yến rạng rỡ tuổi 44, tiết lộ cuộc sống bên chồng doanh nhân",
+      "link": "https://thanhnien.vn/do-thi-hai-yen-rang-ro-tuoi-44-tiet-lo-cuoc-song-ben-chong-doanh-nhan-185261006212830814.htm",
+      "summary": "Trở lại với phim ảnh sau quãng thời gian vắng bóng, Đỗ Thị Hải Yến cho biết sự hỗ trợ của gia đình là nguồn năng lượng tích cực, giúp cô cân bằng nhiều vai trò cùng lúc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T15:01:00+07:00",
+      "fetched": "2026-10-06T23:28:37.725783+07:00"
+    },
+    {
+      "id": "5d2923d3ebcbfe0cbc868d21659e01e1",
+      "title": "Cựu sếp tình báo Đức bị bắt vì nghi vấn phản quốc",
+      "link": "https://thanhnien.vn/cuu-sep-tinh-bao-duc-bi-bat-vi-nghi-van-phan-quoc-185261006211557174.htm",
+      "summary": "Cảnh sát Đức đã bắt cựu Giám đốc Cơ quan Tình báo nước ngoài (BND) August Hanning để điều tra nghi án gián điệp, tiết lộ bí mật nhà nước và phản quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T15:00:00+07:00",
+      "fetched": "2026-10-06T23:28:37.725912+07:00"
+    },
+    {
+      "id": "66d22e797283fc548f048d3c84fcf8cc",
+      "title": "Từ clip thiếu niên cầm kéo khiêu khích người đi đường, lộ vụ trộm xe máy ở Đà Nẵng",
+      "link": "https://thanhnien.vn/tu-clip-thieu-nien-cam-keo-khieu-khich-nguoi-di-duong-lo-vu-trom-xe-may-o-da-nang-185261006211311172.htm",
+      "summary": "Từ đoạn clip thiếu niên cầm kéo khiêu khích người đi đường đăng trên mạng xã hội, Công an Đà Nẵng lần ra chiếc xe máy không biển số và làm rõ vụ trộm trước đó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T14:57:00+07:00",
+      "fetched": "2026-10-06T23:28:37.726043+07:00"
+    },
+    {
+      "id": "3e5fe1399a7ceeeb21afb73ff5dc4d1d",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm hội đàm với Tổng thống Panama",
+      "link": "https://thanhnien.vn/tong-bi-thu-chu-tich-nuoc-to-lam-hoi-dam-voi-tong-thong-panama-185261006212443145.htm",
+      "summary": "Chiều 6.10, tại Nhà Quốc hội, Tổng Bí thư, Chủ tịch nước Tô Lâm và phu nhân đã chủ trì Lễ đón trọng thể Tổng thống Panama và phu nhân. Ngay sau lễ đón, hai nhà lãnh đạo đã tiến hành hội đàm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T14:54:00+07:00",
+      "fetched": "2026-10-06T23:28:37.726169+07:00"
+    },
+    {
+      "id": "dccfc1d3998783affe99f64cabe896d2",
+      "title": "Sẽ quy định rõ tiêu chí 'đất bỏ hoang' để làm căn cứ đánh thuế cao",
+      "link": "https://thanhnien.vn/se-quy-dinh-ro-tieu-chi-dat-bo-hoang-de-lam-can-cu-danh-thue-cao-185261006211111299.htm",
+      "summary": "Bộ Tài chính đề xuất đánh thuế 0,2% đối với đất bỏ hoang, không đưa vào sử dụng hoặc chậm đưa vào sử dụng. Tiêu chí xác định đất bỏ hoang sẽ theo quy định của pháp luật về đất đai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T14:36:00+07:00",
+      "fetched": "2026-10-06T23:28:37.726295+07:00"
+    },
+    {
+      "id": "26e513f3ca4074b5ad772cc44773f011",
+      "title": "Ông Macron thị sát vụ phóng tên lửa từ tàu ngầm hạt nhân",
+      "link": "https://vnexpress.net/ong-macron-thi-sat-vu-phong-ten-lua-tu-tau-ngam-hat-nhan-5129194.html",
+      "summary": "Tổng thống Macron chứng kiến tàu ngầm hạt nhân Pháp phóng thử tên lửa đạn đạo thế hệ mới M51.3, trong lúc căng thẳng gia tăng với Nga.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-06T14:36:00+07:00",
+      "fetched": "2026-10-06T23:28:40.967583+07:00"
+    },
+    {
+      "id": "46221a1d095a182520e290b4882801f7",
+      "title": "Lãnh đạo Cần Thơ: Cán bộ cấp tỉnh về xã 'chưa hẳn làm tốt việc cơ sở'",
+      "link": "https://thanhnien.vn/lanh-dao-can-tho-can-bo-cap-tinh-ve-xa-chua-han-lam-tot-viec-co-so-185261006200420717.htm",
+      "summary": "Lãnh đạo UBND thành phố Cần Thơ nhận định, cán bộ cấp tỉnh về xã thường giỏi chuyên môn nhưng còn hạn chế kỹ năng điều hành tổng hợp, trong khi công tác đào tạo, bồi dưỡng ở cơ sở vẫn còn nhiều khó khăn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T14:26:00+07:00",
+      "fetched": "2026-10-06T23:28:37.726416+07:00"
+    },
+    {
+      "id": "db2db6938444558a29b6ff7525bf610a",
+      "title": "Ốc Thanh Vân tiết lộ cách dạy con, xúc động trước một câu nói",
+      "link": "https://thanhnien.vn/oc-thanh-van-tiet-lo-cach-day-con-xuc-dong-truoc-mot-cau-noi-185261006180126648.htm",
+      "summary": "Từng đưa con đến theo dõi buổi ghi hình của 'Mái ấm gia đình Việt', với Ốc Thanh Vân, đây là cách để các bé có thêm góc nhìn về cuộc sống, từ đó biết trân trọng những gì mình đang có và học cách sẻ chia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T14:25:00+07:00",
+      "fetched": "2026-10-06T23:28:37.726554+07:00"
+    },
+    {
+      "id": "5d214e80ab65ff215101343e50d7a59e",
+      "title": "Djokovic vô địch cả bảy lần dự giải Bắc Kinh",
+      "link": "https://vnexpress.net/djokovic-vo-dich-ca-bay-lan-du-giai-bac-kinh-5129213.html",
+      "summary": "Tay vợt Novak Djokovic nối dài mạch toàn thắng tại Bắc Kinh lên 34 trận, khi Alex de Minaur bỏ cuộc ở chung kết Trung Quốc Mở rộng ngày 6/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-06T14:14:02+07:00",
+      "fetched": "2026-10-06T23:28:46.067991+07:00"
+    },
+    {
+      "id": "8a7cc788494db57ee22adad497c4e569",
+      "title": "Mưa lũ liên tiếp 5 ngày ở Lâm Đồng gây thiệt hại khoảng 16 tỉ đồng",
+      "link": "https://thanhnien.vn/mua-lu-lien-tiep-5-ngay-o-lam-dong-gay-thiet-hai-khoang-16-ti-dong-185261006205222749.htm",
+      "summary": "Mưa lũ kéo dài nhiều ngày tại Lâm Đồng khiến hơn 1.600 ha cây trồng ngập úng, hàng chục căn nhà bị ngập, nhiều tuyến đường sạt lở, hư hỏng; thiệt hại ban đầu ước tính khoảng 16 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T14:14:00+07:00",
+      "fetched": "2026-10-06T23:28:37.726696+07:00"
+    },
+    {
+      "id": "ee9b5ff5f05393f98037c80a8206dbe2",
+      "title": "Alcaraz giải cơn khát danh hiệu",
+      "link": "https://vnexpress.net/alcaraz-giai-con-khat-danh-hieu-5129207.html",
+      "summary": "Hạt giống số một Carlos Alcaraz hạ Jiri Lehecka 7-6(4), 6-4 ở chung kết Nhật Bản Mở rộng ngày 6/10, giành danh hiệu đầu tiên sau gần tám tháng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-06T14:13:38+07:00",
+      "fetched": "2026-10-06T23:28:46.068147+07:00"
+    },
+    {
+      "id": "00f9f8ea15261f106e43634f73620367",
+      "title": "IEA cảnh báo an ninh năng lượng Đông Nam Á",
+      "link": "https://vnexpress.net/iea-canh-bao-an-ninh-nang-luong-dong-nam-a-5129185.html",
+      "summary": "Đánh giá rủi ro nguồn cung năng lượng của Đông Nam Á gia tăng, IEA khuyến khích các nước trong khu vực nên tăng chia sẻ điện với nhau.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-06T14:11:42+07:00",
+      "fetched": "2026-10-06T23:28:41.970467+07:00"
+    },
+    {
+      "id": "48003da43f67a7e6c3f22b7ceae8e48b",
+      "title": "TP.HCM yêu cầu công khai người phát ngôn, cung cấp thông tin cho báo chí",
+      "link": "https://thanhnien.vn/tphcm-yeu-cau-cong-khai-nguoi-phat-ngon-cung-cap-thong-tin-cho-bao-chi-185261006210430797.htm",
+      "summary": "UBND TP.HCM yêu cầu công khai người phát ngôn của các sở, ngành và địa phương, tạo điều kiện thuận lợi cho báo chí tiếp cận thông tin chính thống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T14:10:00+07:00",
+      "fetched": "2026-10-06T23:28:37.726820+07:00"
+    },
+    {
+      "id": "fc0515f33760d594d9cabacab0880568",
+      "title": "Kết quả xổ số Vietlott Power 6/55 tối 6.10, giải độc đắc cộng dồn 122,4 tỉ đồng",
+      "link": "https://thanhnien.vn/ket-qua-xo-so-vietlott-power-6-55-toi-610-giai-doc-dac-cong-don-1224-ti-dong-185261006193452441.htm",
+      "summary": "Tối 6.10, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Power 6/55 và ghi nhận  không có người trúng độc đắc nên số tiền cộng dồn là 122,4 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T14:00:00+07:00",
+      "fetched": "2026-10-06T23:28:37.726948+07:00"
+    },
+    {
+      "id": "f0dc288a3b11f387df577d4d2743ce65",
+      "title": "Tennessee muốn tăng tử hình bằng ghế điện sau vụ tiêm thuốc độc bất thành",
+      "link": "https://vnexpress.net/tennessee-muon-tang-tu-hinh-bang-ghe-dien-sau-vu-tiem-thuoc-doc-bat-thanh-5129069.html",
+      "summary": "Các nghị sĩ Cộng hòa tại Tennessee cho rằng cần coi ghế điện là biện pháp xử tử chính, sau vụ tử tù bị tiêm hai liều thuốc độc không chết.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-06T14:00:00+07:00",
+      "fetched": "2026-10-06T23:28:40.967728+07:00"
+    },
+    {
+      "id": "5c08d608b3d11f5c3b87d79175f05834",
+      "title": "Giáng Sol ngạc nhiên vì tuổi 22 của quán quân nhạc thính phòng Đặng Ngọc Anh",
+      "link": "https://thanhnien.vn/giang-sol-ngac-nhien-vi-tuoi-22-cua-quan-quan-nhac-thinh-phong-dang-ngoc-anh-185261006194150377.htm",
+      "summary": "Đặng Ngọc Anh, giải nhất dòng nhạc thính phòng “Tiếng hát Hà Nội 2024”, đánh dấu bước tiến mới trong sự nghiệp khi cùng lúc ra mắt album và MV về Hà Nội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T13:58:00+07:00",
+      "fetched": "2026-10-06T23:28:37.727076+07:00"
+    },
+    {
+      "id": "e6e89893eba3edda3b80f5f69fa95a8b",
+      "title": "Tác nhân 'bất hảo' của OpenAI tấn công Wikipedia",
+      "link": "https://vnexpress.net/tac-nhan-bat-hao-cua-openai-tan-cong-wikipedia-5129191.html",
+      "summary": "Wikimedia Foundation, tổ chức điều hành Wikipedia, cho rằng tác nhân của OpenAI đã khiến trang bách khoa toàn thư trực tuyến gián đoạn hoạt động từ tháng 5.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-10-06T13:57:59+07:00",
+      "fetched": "2026-10-06T23:28:44.381196+07:00"
+    },
+    {
+      "id": "988080d392f597205a1b04fad8b843fe",
+      "title": "Không nhường đường cho xe khác xin vượt, tài xế nhận biên bản phạt 2,5 triệu đồng",
+      "link": "https://thanhnien.vn/khong-nhuong-duong-cho-xe-khac-xin-vuot-tai-xe-nhan-bien-ban-phat-25-trieu-dong-185261006160006498.htm",
+      "summary": "Nhiều người vẫn lầm tưởng xe phía sau chỉ được vượt khi xe phía trước cho phép. Tuy nhiên, hành vi cản trở phương tiện phía sau xin vượt trong điều kiện an toàn có thể bị phạt theo quy định hiện hành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T13:42:00+07:00",
+      "fetched": "2026-10-06T23:28:37.727201+07:00"
+    },
+    {
+      "id": "34342d588e0beb560c4e85f735671ec4",
+      "title": "Nga đề nghị giúp ngược lại Mỹ về dịch bệnh",
+      "link": "https://vnexpress.net/nga-de-nghi-giup-nguoc-lai-my-ve-dich-benh-5129187.html",
+      "summary": "Nga nói sẵn sàng giúp Mỹ đối phó các đợt bùng phát dịch bệnh, sau khi Washington ngỏ ý hỗ trợ Moskva về ca tử vong nghi do dịch hạch.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-06T13:39:48+07:00",
+      "fetched": "2026-10-06T23:28:40.967864+07:00"
+    },
+    {
+      "id": "86fdc1723a9d42312b0dd464684a9f27",
+      "title": "Ngân hàng Chính sách xã hội hết 'room' cho vay nhà ở xã hội năm nay",
+      "link": "https://vnexpress.net/ngan-hang-chinh-sach-xa-hoi-het-room-cho-vay-nha-o-xa-hoi-nam-nay-5128985.html",
+      "summary": "Trước phản ánh một số người mua nhà xã hội chưa được tiếp nhận hồ sơ vay, Ngân hàng Chính sách xã hội cho biết chỉ tiêu vốn năm 2026 đã phân bổ hết và đang đề xuất bổ sung.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-06T13:28:37+07:00",
+      "fetched": "2026-10-06T23:28:41.970629+07:00"
+    },
+    {
+      "id": "13daab6fb994732777a973d5070b08d9",
+      "title": "5 nữ doanh nhân Việt lọt top quyền lực nhất châu Á",
+      "link": "https://vnexpress.net/5-nu-doanh-nhan-viet-lot-top-quyen-luc-nhat-chau-a-5129186.html",
+      "summary": "Danh sách phụ nữ quyền lực nhất khu vực tôn vinh các đại diện Việt Nam là bà Phạm Thu Hương, Mai Kiều Liên, Nguyễn Thị Hoa, Nguyễn Bạch Điệp và Đặng Huỳnh Ức My.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-06T13:16:00+07:00",
+      "fetched": "2026-10-06T23:28:41.970771+07:00"
+    },
+    {
+      "id": "55542886e4e947eaf0fa78be47ff4ae6",
+      "title": "Sinner sớm kết thúc mùa giải 2026",
+      "link": "https://vnexpress.net/sinner-som-ket-thuc-mua-giai-2026-5129202.html",
+      "summary": "Tay vợt số một thế giới Jannik Sinner nghỉ hết năm 2026 để điều trị đầu gối phải, mở đường cho Alexander Zverev lên đỉnh bảng ATP.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-06T13:10:24+07:00",
+      "fetched": "2026-10-06T23:28:46.068285+07:00"
+    },
+    {
+      "id": "cf313ed25fb377cda621d7601f5588f4",
+      "title": "Trung Quốc bị lật đổ ở giải cờ tướng châu Á",
+      "link": "https://vnexpress.net/trung-quoc-bi-lat-do-o-giai-co-tuong-chau-a-5129198.html",
+      "summary": "Phùng Gia Tuấn (Hong Kong) đánh bại Vương Vũ Bác ở loạt cờ chớp chung kết để vô địch cá nhân nam cờ tướng châu Á 2026, chấm dứt chuỗi năm kỳ đăng quang của Trung Quốc.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-06T12:57:21+07:00",
+      "fetched": "2026-10-06T23:28:46.068417+07:00"
+    },
+    {
+      "id": "a9eb4039f4a5d1f49b4fedf43c09ad6b",
+      "title": "Cuộc sống của nữ môi giới Mỹ bị cáo buộc làm gián điệp cho Trung Quốc",
+      "link": "https://vnexpress.net/cuoc-song-cua-nu-moi-gioi-my-bi-cao-buoc-lam-gian-diep-cho-trung-quoc-5128821.html",
+      "summary": "Wanying Zhang từng có cuộc sống được mô tả là xa hoa, trước khi bị giới chức Mỹ bắt với cáo buộc \"làm gián điệp cho Trung Quốc\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-06T12:24:07+07:00",
+      "fetched": "2026-10-06T23:28:40.967995+07:00"
+    },
+    {
+      "id": "85a8c3c06e2147472727e5414a08bef6",
+      "title": "Gần 6 tấn cà phê được chuyển bằng UAV xuống núi",
+      "link": "https://vnexpress.net/gan-6-tan-ca-phe-duoc-chuyen-bang-uav-xuong-nui-5129168.html",
+      "summary": "Thử nghiệm UAV tại Điện Biên bước đầu phát huy hiệu quả khi gần 6 tấn cà phê được chuyển xuống núi bằng máy bay không người lái.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-10-06T12:00:00+07:00",
+      "fetched": "2026-10-06T23:28:44.381354+07:00"
+    },
+    {
+      "id": "4c79fccd9fae9741148d5d46d8ae4867",
+      "title": "Houthi tuyên bố vẫn trụ vững tại lãnh thổ mới kiểm soát",
+      "link": "https://vnexpress.net/houthi-tuyen-bo-van-tru-vung-tai-lanh-tho-moi-kiem-soat-5129151.html",
+      "summary": "Houthi khẳng định vẫn giữ thành phố cảng Mocha và khu vực mới giành được, bác bỏ thông tin quân chính phủ Yemen đã chiếm được những nơi này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-06T11:53:40+07:00",
+      "fetched": "2026-10-06T23:28:40.968121+07:00"
+    },
+    {
+      "id": "50df2216999e4a7228daf70a14accd99",
+      "title": "Bộ Tài chính yêu cầu làm rõ 'gỡ mạo danh lập doanh nghiệp mất vài năm'",
+      "link": "https://vnexpress.net/bo-tai-chinh-yeu-cau-lam-ro-go-mao-danh-lap-doanh-nghiep-mat-vai-nam-5129157.html",
+      "summary": "Thứ trưởng Nguyễn Đức Chi yêu cầu làm rõ phản ánh của nhiều người bị mạo danh lập doanh nghiệp nhưng mất 3-4 năm chưa được giải quyết, ảnh hưởng quyền lợi cá nhân.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-06T11:34:46+07:00",
+      "fetched": "2026-10-06T23:28:41.970904+07:00"
+    },
+    {
+      "id": "c02c75b6cec4f5f3341570d659a9aa36",
+      "title": "Tổng Bí thư, Chủ tịch nước chủ trì lễ đón Tổng thống Panama",
+      "link": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-chu-tri-le-don-tong-thong-panama-5129167.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm và phu nhân chủ trì lễ đón Tổng thống Panama Jose Raul Mulino và phu nhân thăm chính thức Việt Nam.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-06T11:21:16+07:00",
+      "fetched": "2026-10-06T23:28:40.968258+07:00"
+    },
+    {
+      "id": "575c990a9d6ccf2bedf35beef9b7764d",
+      "title": "Thủ thành Benin: 'Tôi sẽ không biếu bàn thắng cho Messi'",
+      "link": "https://vnexpress.net/thu-thanh-benin-toi-se-khong-bieu-ban-thang-cho-messi-5129008.html",
+      "summary": "Thủ thành Marcel Dandjinou hết mực ca ngợi Lionel Messi, nhưng tuyên bố sẽ ra sân và thi đấu với lòng tự tôn trong trận giã từ ĐTQG của huyền thoại bóng đá Argentina.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-06T11:00:37+07:00",
+      "fetched": "2026-10-06T23:28:46.068564+07:00"
+    },
+    {
+      "id": "cbffc451320d5691fa6c54ddd55927f6",
+      "title": "Sam Altman: 'Thế giới nên chấp nhận những điều tồi tệ của AI'",
+      "link": "https://vnexpress.net/sam-altman-the-gioi-nen-chap-nhan-nhung-dieu-toi-te-cua-ai-5129146.html",
+      "summary": "CEO OpenAI Sam Altman cho rằng cần chấp nhận một số rủi ro của AI để đổi lấy những lợi ích lớn hơn mà công nghệ mang lại.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-10-06T10:42:26+07:00",
+      "fetched": "2026-10-06T23:28:44.381507+07:00"
+    },
+    {
+      "id": "714459b78ad5602d7aca54b078726936",
+      "title": "Bài toán xung đột lợi ích khi các tỷ phú tham gia 'bộ não' quân đội Mỹ",
+      "link": "https://vnexpress.net/bai-toan-xung-dot-loi-ich-khi-cac-ty-phu-tham-gia-bo-nao-quan-doi-my-5129122.html",
+      "summary": "Việc các tỷ phú như Elon Musk tham gia hoạch định công nghệ chiến tranh tương lai của quân đội Mỹ làm dấy lên lo ngại các công ty của họ sẽ được hưởng lợi.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-06T10:00:00+07:00",
+      "fetched": "2026-10-06T23:28:40.968385+07:00"
+    },
+    {
+      "id": "5bc26613c32a6a0082f1817ecfbb2e7b",
+      "title": "Giải Nobel Vật lý 2026 trao cho nghiên cứu về 'hạt ma'",
+      "link": "https://vnexpress.net/giai-nobel-vat-ly-2026-trao-cho-nghien-cuu-ve-hat-ma-5129074.html",
+      "summary": "Giải Nobel Vật lý 2026 được trao cho nhà khoa học Bỉ lúc 11h45 ngày 6/10 tại thủ đô Stockholm Thụy Điển (16h45 giờ Hà Nội) với những phát hiện về hạt ma.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-10-06T09:55:41+07:00",
+      "fetched": "2026-10-06T23:28:44.381643+07:00"
+    },
+    {
+      "id": "b09355dd638a7fffbd8dc15d2f077be7",
+      "title": "Tàu sân bay hạt nhân Pháp bị cháy khi bảo dưỡng",
+      "link": "https://vnexpress.net/tau-san-bay-hat-nhan-phap-bi-chay-khi-bao-duong-5129102.html",
+      "summary": "Đám cháy bùng phát trên tàu sân bay Charles de Gaulle đang bảo dưỡng tại Toulon, có thể do quá trình cắt kim loại bằng đèn khò.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-06T09:30:42+07:00",
+      "fetched": "2026-10-06T23:28:40.968529+07:00"
+    },
+    {
+      "id": "7d6785fbf560d651a481a64caa9321ab",
+      "title": "117 đoàn tàu cho metro Hà Nội sẽ được Vingroup lắp ráp tại Việt Nam",
+      "link": "https://vnexpress.net/117-doan-tau-cho-metro-ha-noi-se-duoc-vingroup-lap-rap-tai-viet-nam-5129099.html",
+      "summary": "Alstom - tập đoàn đường sắt của Pháp - sẽ cung cấp 83 đoàn tàu và chuyển giao công nghệ để Vingroup lắp ráp 117 chiếc phục vụ 5 tuyến metro Hà Nội.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-06T09:30:34+07:00",
+      "fetched": "2026-10-06T23:28:41.971035+07:00"
+    },
+    {
+      "id": "fb314402cc510c9bfb8bff3aac6ed270",
+      "title": "Nhà đầu tư ngoại rút hơn 400 triệu USD sau nửa tháng nâng hạng",
+      "link": "https://vnexpress.net/nha-dau-tu-ngoai-rut-hon-400-trieu-usd-sau-nua-thang-nang-hang-5129108.html",
+      "summary": "Từ khi thị trường chứng khoán chính thức được nâng hạng hôm 21/9 đến nay, khối ngoại mới mua ròng một phiên, còn lại liên tục xả hàng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-06T09:01:06+07:00",
+      "fetched": "2026-10-06T23:28:41.971171+07:00"
+    },
+    {
+      "id": "3fbbd1fbe261bd8e870f46590dc2233e",
+      "title": "Tàu hàng liên tiếp bị tập kích ở Biển Đen, nhiều thủy thủ mất tích",
+      "link": "https://vnexpress.net/tau-hang-lien-tiep-bi-tap-kich-o-bien-den-nhieu-thuy-thu-mat-tich-5129083.html",
+      "summary": "Ba tàu hàng liên tiếp bị drone tập kích ở Biển Đen trong hai ngày, khiến hai chiếc chìm, nhiều thủy thủ mất tích.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-06T08:54:56+07:00",
+      "fetched": "2026-10-06T23:28:40.968672+07:00"
+    },
+    {
+      "id": "b5af9bff5741135ba10a36e58cace85a",
+      "title": "Giá thịt heo nhập khẩu xuống 45.000 đồng một kg",
+      "link": "https://vnexpress.net/gia-thit-heo-nhap-khau-xuong-45-000-dong-mot-kg-5128988.html",
+      "summary": "Thịt heo nhập khẩu ngày càng rẻ, bình quân khoảng 45.000 đồng một kg, giảm 36% so với cùng kỳ, heo hơi trong nước cũng xuống mức thấp nhất năm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-06T08:54:23+07:00",
+      "fetched": "2026-10-06T23:28:41.971296+07:00"
+    },
+    {
+      "id": "896f50d8bd3af0f424f533fa3ff30dba",
+      "title": "Man Utd gây tranh cãi với bài đăng về Ronaldo",
+      "link": "https://vnexpress.net/man-utd-gay-tranh-cai-voi-bai-dang-ve-ronaldo-5128911.html",
+      "summary": "Giữa lúc có nhiều thông tin xáo trộn về nội tình đội tuyển Bồ Đào Nha, Man Utd đăng video cho thấy một khoảnh khắc thiếu nỗ lực của Cristiano Ronaldo.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-06T08:32:35+07:00",
+      "fetched": "2026-10-06T23:28:46.069489+07:00"
+    },
+    {
+      "id": "2c00e721892e503e83898a1d7669eec3",
+      "title": "Trực thăng quân sự Mỹ phát tín hiệu khẩn nguy ở biển Đỏ",
+      "link": "https://vnexpress.net/truc-thang-quan-su-my-phat-tin-hieu-khan-nguy-o-bien-do-5129056.html",
+      "summary": "Trực thăng MH-60R của hải quân Mỹ phát tín hiệu khẩn nguy khi bay ở vùng biển gần Arab Saudi, không loại trừ khả năng đã bị rơi.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-06T08:29:13+07:00",
+      "fetched": "2026-10-06T23:28:40.968806+07:00"
+    },
+    {
       "id": "c5a676cf8b103b21a1d29166ce805c4f",
       "title": "Thành ủy TP.HCM điều động 4 cán bộ về Ban Nghiên cứu phát triển",
       "link": "https://thanhnien.vn/thanh-uy-tphcm-dieu-dong-4-can-bo-ve-ban-nghien-cuu-phat-trien-185261006152244051.htm",
@@ -201,6 +791,16 @@ window.newsData_2026_10_06 = {
       "category": "Tổng hợp",
       "published": "2026-10-06T08:23:00+07:00",
       "fetched": "2026-10-06T15:30:58.011675+07:00"
+    },
+    {
+      "id": "35c002c29377d54ef741878aa92910e1",
+      "title": "Ông Trump hứng chỉ trích vì phát biểu 'để Iran xóa sổ Los Angeles, San Diego'",
+      "link": "https://vnexpress.net/ong-trump-hung-chi-trich-vi-phat-bieu-de-iran-xoa-so-los-angeles-san-diego-5129062.html",
+      "summary": "Ông Trump nói rằng Iran xóa sổ Los Angeles và San Diego, hai thành phố lớn nhất bang California, là cái giá rất nhỏ cho an toàn của nước Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-06T08:22:22+07:00",
+      "fetched": "2026-10-06T23:28:40.968932+07:00"
     },
     {
       "id": "7d5bc0bd8c01d451a48da6b852cb8460",
@@ -561,6 +1161,16 @@ window.newsData_2026_10_06 = {
       "category": "Tổng hợp",
       "published": "2026-10-06T04:30:00+07:00",
       "fetched": "2026-10-06T15:30:54.864246+07:00"
+    },
+    {
+      "id": "d1cdc2d491de8884a0b947191c66fb22",
+      "title": "Ford Ranger áp dụng giá mới 726-973 triệu đồng",
+      "link": "https://vnexpress.net/ford-ranger-ap-dung-gia-moi-726-973-trieu-dong-5128792.html",
+      "summary": "Sau giai đoạn áp dụng giá ưu đãi, liên doanh Mỹ áp dụng giá mới cho các phiên bản Wildtrak, XLS một và hai cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-10-06T04:30:00+07:00",
+      "fetched": "2026-10-06T23:28:34.555747+07:00"
     },
     {
       "id": "ca09bb7915526ef1550a6faad9f62fa4",
