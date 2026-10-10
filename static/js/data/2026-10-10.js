@@ -1,7 +1,157 @@
 window.newsData_2026_10_10 = {
   "date": "2026-10-10",
-  "lastUpdated": "2026-10-10T18:51:42.962102+07:00",
+  "lastUpdated": "2026-10-10T23:54:58.287447+07:00",
   "articles": [
+    {
+      "id": "1079fad2cd59014876f53a74c0f317c1",
+      "title": "Nam diễn viên Trại buôn người nghẹn ngào khi nhận giải thưởng Thanh niên sống đẹp",
+      "link": "https://tuoitre.vn/nam-dien-vien-trai-buon-nguoi-nghen-ngao-khi-nhan-giai-thuong-thanh-nien-song-dep-100261010193225654.htm",
+      "summary": "Đinh Viết Tường, TikToker thủ vai nhân vật gây ám ảnh và lấy nhiều nước mắt của khán giả trong phim Trại buôn người, nhận giải thưởng Thanh niên sống đẹp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-10T23:54:51.736409+07:00",
+      "fetched": "2026-10-10T23:54:51.736450+07:00"
+    },
+    {
+      "id": "c99b56a6bc576e55dd8fb7ea6f1d4117",
+      "title": "Ông Trump thấy 'khó tin' chuyện trượt giải Nobel Hòa bình",
+      "link": "https://tuoitre.vn/ong-trump-thay-kho-tin-chuyen-truot-giai-nobel-hoa-binh-100261010214832551.htm",
+      "summary": "Tổng thống Mỹ Donald Trump cảm thấy khó tin khi ông, hoặc cả nước Mỹ, không được trao giải Nobel Hòa bình năm nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-10T23:54:51.736360+07:00",
+      "fetched": "2026-10-10T23:54:51.736402+07:00"
+    },
+    {
+      "id": "ee9f2980bada5681eebee63600b82e76",
+      "title": "Triều cường hôm nay ở Thủ Dầu Một, TP.HCM phá kỷ lục, ngày mai còn cao hơn",
+      "link": "https://tuoitre.vn/trieu-cuong-hom-nay-o-thu-dau-mot-tphcm-pha-ky-luc-ngay-mai-con-cao-hon-100261010214819386.htm",
+      "summary": "Chiều nay triều cường tại trạm Thủ Dầu Một, TP.HCM đã vượt mức kỷ lục lập năm 2025, dự báo ngày mai còn cao hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-10T23:54:51.736311+07:00",
+      "fetched": "2026-10-10T23:54:51.736352+07:00"
+    },
+    {
+      "id": "1f50bbaf2331eb80692e2d851b63ff48",
+      "title": "Công ty Tăng Nhật Tuệ nợ thuế 578 triệu, nhóm doanh nghiệp liên quan Lý Thùy Chang và Chi Bảo nợ hơn 5 tỉ",
+      "link": "https://tuoitre.vn/cong-ty-tang-nhat-tue-no-thue-578-trieu-nhom-doanh-nghiep-lien-quan-ly-thuy-chang-va-chi-bao-no-hon-5-ti-100261010215727306.htm",
+      "summary": "Theo công bố mới nhất của Thuế cơ sở 3, TP.HCM, Công ty TNHH một thành viên Tăng Nhật Tuệ đang nợ thuế 578 triệu đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-10T23:54:51.736247+07:00",
+      "fetched": "2026-10-10T23:54:51.736303+07:00"
+    },
+    {
+      "id": "5efb2e54b048e20b87b0ffa59629bea4",
+      "title": "Một người trúng Vietlott gần 3,8 tỉ đồng, giải 136 tỉ vẫn chưa có chủ",
+      "link": "https://tuoitre.vn/mot-nguoi-trung-vietlott-gan-38-ti-dong-giai-136-ti-van-chua-co-chu-100261010220108582.htm",
+      "summary": "Tối 10-10, Vietlott xác định có một người trúng Jackpot 2 trị giá gần 3,8 tỉ đồng tại kỳ quay số Power 6/55. Trong khi đó, Jackpot 1 hơn 136,7 tỉ đồng vẫn chưa có chủ nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-10T23:54:51.735969+07:00",
+      "fetched": "2026-10-10T23:54:51.736237+07:00"
+    },
+    {
+      "id": "c74496c974f71b7774612f942de65104",
+      "title": "Pháo hoa bung nở sáng rực bầu trời Hà Nội dịp 72 năm Giải phóng thủ đô",
+      "link": "https://tuoitre.vn/phao-hoa-bung-no-sang-ruc-bau-troi-ha-noi-dip-72-nam-giai-phong-thu-do-10026101021580933.htm",
+      "summary": "Pháo hoa đồng loạt rực sáng tại hồ Gươm, hồ Tây và hồ Văn Quán tối 10-10, thu hút đông đảo người dân đến xem mừng 72 năm Ngày Giải phóng thủ đô.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-10T23:54:51.735934+07:00",
+      "fetched": "2026-10-10T23:54:51.735965+07:00"
+    },
+    {
+      "id": "cb5bf4b5decf218d906c5fdae90bedb6",
+      "title": "Xuất khẩu sang Trung Quốc tăng vọt trong tháng 9",
+      "link": "https://tuoitre.vn/xuat-khau-sang-trung-quoc-tang-vot-trong-thang-9-100261010220338879.htm",
+      "summary": "Xuất khẩu điện tử sang Trung Quốc tháng 9 tăng gấp đôi so với tháng 8. Trung Quốc cùng Mỹ và Hong Kong mang về hơn 90% phần tăng thêm của nhóm hàng này, trong tháng cán cân thương mại Việt Nam trở lại xuất siêu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-10T23:54:51.735899+07:00",
+      "fetched": "2026-10-10T23:54:51.735929+07:00"
+    },
+    {
+      "id": "14efea8cb6a46d1c30d394fbcfb234d7",
+      "title": "TP.HCM tìm cách tháo gỡ 6 điểm nghẽn giáo dục, chuyển từ quản lý sang quản trị phát triển",
+      "link": "https://tuoitre.vn/tphcm-tim-cach-thao-go-6-diem-nghen-giao-duc-chuyen-tu-quan-ly-sang-quan-tri-phat-trien-100261010214752743.htm",
+      "summary": "Phó bí thư Thành ủy TP.HCM Nguyễn Phước Lộc yêu cầu chuyển đổi mạnh mẽ tư duy từ \"quản lý giáo dục\" sang \"quản trị phát triển giáo dục\", đề cao trách nhiệm toàn diện của người đứng đầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-10T23:54:51.735864+07:00",
+      "fetched": "2026-10-10T23:54:51.735894+07:00"
+    },
+    {
+      "id": "0656117d02d28dc11391207f3d653752",
+      "title": "Kẹt xe nghiêm trọng trên cao tốc Hòa Liên - Túy Loan, 3 giờ đi chưa được 4km",
+      "link": "https://tuoitre.vn/ket-xe-nghiem-trong-tren-cao-toc-hoa-lien-tuy-loan-3-gio-di-chua-duoc-4km-100261010222721687.htm",
+      "summary": "Dòng xe ùn ứ kéo dài hơn 4km trên cao tốc Hòa Liên - Túy Loan (Đà Nẵng), nhiều tài xế mất hơn 3 giờ chỉ di chuyển được khoảng 4km. Nguyên nhân được xác định là xung đột giao thông tại nút giao Túy Loan đang thi công.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-10T23:54:51.735826+07:00",
+      "fetched": "2026-10-10T23:54:51.735859+07:00"
+    },
+    {
+      "id": "f4b4a7269bc8e0e73ef0af06ff50e804",
+      "title": "Nguyên nhân khiến ông Trump chốt thỏa thuận dầu với Nga",
+      "link": "https://tuoitre.vn/nguyen-nhan-khien-ong-trump-chot-thoa-thuan-dau-voi-nga-100261010223940682.htm",
+      "summary": "Việc Tổng thống Zelensky phớt lờ yêu cầu của Mỹ được cho là nguyên nhân khiến Tổng thống Trump quyết định đạt thỏa thuận dầu diesel với Nga.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-10T23:54:51.735789+07:00",
+      "fetched": "2026-10-10T23:54:51.735821+07:00"
+    },
+    {
+      "id": "37ff94863b2bd64676f102b74860b344",
+      "title": "Nợ thuế nhóm công ty Điền Quân của 'Color man' bất ngờ giảm hơn 1 tỉ đồng",
+      "link": "https://tuoitre.vn/no-thue-nhom-cong-ty-dien-quan-cua-color-man-bat-ngo-giam-nhe-100261010224542737.htm",
+      "summary": "Theo danh sách công bố mới nhất của Thuế cơ sở 14 TP.HCM, nợ thuế nhóm công ty Điền Quân của 'Color man' bất ngờ giảm hơn 1 tỉ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-10T23:54:51.735750+07:00",
+      "fetched": "2026-10-10T23:54:51.735783+07:00"
+    },
+    {
+      "id": "64127c56b312b6ba1b6589e749d145ec",
+      "title": "Nữ tử tù bị hành quyết bất thành bị đưa trở lại nhà tù",
+      "link": "https://tuoitre.vn/nu-tu-tu-bi-hanh-quyet-bat-thanh-bi-dua-tro-lai-nha-tu-100261010230025488.htm",
+      "summary": "Bà Christa Pike, nữ tử tù sống sót sau vụ hành quyết bất thành bằng hình thức tiêm thuốc độc, đã bị đưa trở lại nhà tù.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-10T23:54:51.735713+07:00",
+      "fetched": "2026-10-10T23:54:51.735745+07:00"
+    },
+    {
+      "id": "63be871e9ec5a62d851598b3d4c9ff84",
+      "title": "Emoura Phạm đoạt á hậu 4 Miss Grand International 2026, Tanzania đăng quang",
+      "link": "https://tuoitre.vn/emoura-pham-doat-a-hau-4-miss-grand-international-2026-tanzania-dang-quang-100261010205815126.htm",
+      "summary": "Đại diện Việt Nam Emoura Phạm giành danh hiệu á hậu 4 cuộc thi Miss Grand International 2026. Vương miện hoa hậu thuộc về người đẹp đến từ Tanzania.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-10T23:54:51.735673+07:00",
+      "fetched": "2026-10-10T23:54:51.735707+07:00"
+    },
+    {
+      "id": "45a373b0dd2c32a01cd501fcd8bb78ce",
+      "title": "Lão tướng 36 tuổi giúp Chelsea thắng đậm ở Premier League",
+      "link": "https://tuoitre.vn/lao-tuong-36-tuoi-giup-chelsea-thang-dam-o-premier-league-100261010231044364.htm",
+      "summary": "Tối 10-10, Chelsea đã giành chiến thắng đậm 5-1 trước Bournemouth ở vòng 6 Giải ngoại hạng Anh (Premier League) nhờ màn tỏa sáng của lão tướng 36 tuổi Jordan Henderson.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-10T23:54:51.735627+07:00",
+      "fetched": "2026-10-10T23:54:51.735667+07:00"
+    },
+    {
+      "id": "b91b8ca6f7edfa482a4b5c9a0396adbf",
+      "title": "NÓNG: Sân bay thủ đô Saudi Arabia bị tấn công, loạt nước phát cảnh báo nguy hiểm",
+      "link": "https://tuoitre.vn/nong-san-bay-thu-do-saudi-arabia-bi-tan-cong-loat-nuoc-phat-canh-bao-nguy-hiem-100261010233144685.htm",
+      "summary": "Loạt đại sứ quán tại Saudi Arabia phát cảnh báo yêu cầu công dân tránh khu vực sân bay quốc tế King Khalid, sau khi xuất hiện các báo cáo về việc cơ sở này bị tấn công.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-10T23:54:51.735482+07:00",
+      "fetched": "2026-10-10T23:54:51.735618+07:00"
+    },
     {
       "id": "6ae6041b23e19dd5debcf9d669e622f8",
       "title": "Vì sao ông Trump nới lỏng 'vòng kim cô', mua dầu diesel của Nga?",
@@ -151,6 +301,246 @@ window.newsData_2026_10_10 = {
       "category": "Tổng hợp",
       "published": "2026-10-10T18:51:36.274958+07:00",
       "fetched": "2026-10-10T18:51:36.275070+07:00"
+    },
+    {
+      "id": "6b1c2afdb483041a5616a364a7728a5c",
+      "title": "Vẻ nóng bỏng của Emoura Phạm - cô gái vừa giành á hậu 4 Miss Grand International",
+      "link": "https://thanhnien.vn/ve-nong-bong-cua-emoura-pham-co-gai-vua-gianh-a-hau-4-miss-grand-international-18526101022564122.htm",
+      "summary": "Emoura Phạm vừa giành danh hiệu á hậu 4 tại cuộc thi Miss Grand International 2026. Cô gây ấn tượng bởi vẻ đẹp hiện đại cùng vóc dáng nóng bỏng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-10T16:22:00+07:00",
+      "fetched": "2026-10-10T23:54:49.745788+07:00"
+    },
+    {
+      "id": "888362fcf6f7cc6a5480956a5f01f1dc",
+      "title": "Bayern nhận bàn thua nhanh nhất lịch sử Bundesliga",
+      "link": "https://vnexpress.net/bayern-nhan-ban-thua-nhanh-nhat-lich-su-bundesliga-5130847.html",
+      "summary": "Bayern thủng lưới sau 8 giây vì sai lầm của Manuel Neuer, rồi hai lần gỡ hòa để hòa Augsburg 2-2 ở vòng 5 Bundesliga ngày 10/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-10T16:12:02+07:00",
+      "fetched": "2026-10-10T23:54:58.281274+07:00"
+    },
+    {
+      "id": "999362b80a841af03286eca8d458db45",
+      "title": "Ronaldo bị đình chỉ thi đấu tạm thời cho Bồ Đào Nha, nguy cơ nhận án phạt 6 tháng",
+      "link": "https://thanhnien.vn/ronaldo-bi-dinh-chi-thi-dau-tam-thoi-cho-bo-dao-nha-nguy-co-nhan-an-phat-6-thang-185261010230620842.htm",
+      "summary": "Liên đoàn Bóng đá Bồ Đào Nha (FPF) thông báo đình chỉ thi đấu tạm thời đối với Cristiano Ronaldo trong lúc tiến hành điều tra kỷ luật vụ siêu sao 41 tuổi tự ý rời đội tuyển quốc gia. Anh có nguy cơ nhận án phạt lên đến 6 tháng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-10T16:12:00+07:00",
+      "fetched": "2026-10-10T23:54:49.745893+07:00"
+    },
+    {
+      "id": "df9284b794da43a30db0736aab81d72f",
+      "title": "Bắt nhân viên bán ô tô ở Quảng Ninh về hành vi chiếm đoạt tài sản",
+      "link": "https://thanhnien.vn/bat-nhan-vien-ban-o-to-o-quang-ninh-ve-hanh-vi-chiem-doat-tai-san-185261010223708374.htm",
+      "summary": "Một nhân viên bán ô tô tại đại lý Hyundai Quảng Ninh bị cáo buộc nhận hơn 1,1 tỉ đồng của 2 khách hàng qua tài khoản cá nhân rồi chiếm đoạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-10T16:03:00+07:00",
+      "fetched": "2026-10-10T23:54:49.745997+07:00"
+    },
+    {
+      "id": "8b8fada808be438059e6ca039dc83d48",
+      "title": "Pháo hoa rực rỡ bầu trời Hà Nội mừng 72 năm Ngày giải phóng thủ đô",
+      "link": "https://thanhnien.vn/phao-hoa-ruc-ro-bau-troi-ha-noi-mung-72-nam-ngay-giai-phong-thu-do-18526101021491745.htm",
+      "summary": "Tối nay 10.10, bầu trời Hà Nội rực rỡ pháo hoa mừng kỷ niệm 72 năm Ngày giải phóng thủ đô (10.10.1954 - 10.10.2026).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-10T15:48:00+07:00",
+      "fetched": "2026-10-10T23:54:49.746088+07:00"
+    },
+    {
+      "id": "029807cffab4fb5b18a570c347843699",
+      "title": "Nổ lớn làm rung chuyển thủ đô Arab Saudi",
+      "link": "https://vnexpress.net/no-lon-lam-rung-chuyen-thu-do-arab-saudi-5130819.html",
+      "summary": "Ít nhất hai vụ nổ làm rung chuyển thủ đô của Arab Saudi trong lúc sân bay quốc tế ở thành phố bị tấn công.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-10T15:40:42+07:00",
+      "fetched": "2026-10-10T23:54:53.198317+07:00"
+    },
+    {
+      "id": "6e099ffc3fc3cbd88e57a915208f6b95",
+      "title": "Highlight HAGL 3-0 Đà Nẵng: Đội bóng phố núi thắng tưng bừng",
+      "link": "https://thanhnien.vn/highlight-hagl-3-0-da-nang-doi-bong-pho-nui-thang-tung-bung-185261010223750996.htm",
+      "summary": "3 ngoại binh cùng ghi bàn giúp HAGL đánh bại CLB Đà Nẵng 3-0 trên sân Quy Nhơn, giành chiến thắng đầu tiên tại V-League 2026-2027 trong trận đấu quan trọng ở cuộc đua trụ hạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-10T15:37:00+07:00",
+      "fetched": "2026-10-10T23:54:49.746196+07:00"
+    },
+    {
+      "id": "9e7a4d3b63b74ea142ab6044d1272941",
+      "title": "Highlight CLB Hải Phòng 1-2 Thanh Hóa: Cầu thủ Lào gốc Việt tỏa sáng, đội khách thắng kịch tính",
+      "link": "https://thanhnien.vn/highlight-clb-hai-phong-1-2-thanh-hoa-cau-thu-lao-goc-viet-toa-sang-doi-khach-thang-kich-tinh-185261010223654832.htm",
+      "summary": "Damoth Thongkhamsavath, cầu thủ Lào gốc Việt, ghi bàn quyết định giúp CLB Thanh Hóa đánh bại Hải Phòng 2-1 ngay trên sân Lạch Tray ở vòng 3 V-League 2026-2027, qua đó vươn lên nửa trên bảng xếp hạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-10T15:36:00+07:00",
+      "fetched": "2026-10-10T23:54:49.746285+07:00"
+    },
+    {
+      "id": "3765546341d0aa88ada0a775b7313fab",
+      "title": "Highlight CLB Nam Định 1-1 Ninh Bình: Hoàng Đức ghi bàn, Mạnh Quỳnh cứu chủ nhà thoát thua",
+      "link": "https://thanhnien.vn/highlight-clb-nam-dinh-1-1-ninh-binh-hoang-duc-ghi-ban-manh-quynh-cuu-chu-nha-thoat-thua-185261010223607097.htm",
+      "summary": "Nguyễn Hoàng Đức ghi bàn mở tỷ số, nhưng pha lập công của cầu thủ dự bị Trần Mạnh Quỳnh ở phút 73 giúp CLB Nam Định cầm hòa Ninh Bình 1-1, khiến đội khách đứt mạch toàn thắng tại V-League 2026-2027.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-10T15:36:00+07:00",
+      "fetched": "2026-10-10T23:54:49.746371+07:00"
+    },
+    {
+      "id": "37a7d76fe865a02582eca60d0f4dc08d",
+      "title": "Emoura Phạm giành á hậu 4, Tanzania đăng quang Miss Grand International 2026",
+      "link": "https://thanhnien.vn/emoura-pham-vao-top-5-miss-grand-international-2026-18526101022090065.htm",
+      "summary": "Emoura Phạm khép lại hành trình tại Miss Grand International 2026 với danh hiệu á hậu 4. Đại diện Việt Nam gây chú ý qua phần thuyết trình về hòa bình và câu trả lời ứng xử gắn với dự án xây cầu ở miền Tây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-10T15:17:00+07:00",
+      "fetched": "2026-10-10T23:54:49.746454+07:00"
+    },
+    {
+      "id": "b5d647bab147c47df04f44e3ccc7781f",
+      "title": "Vụ nhiều người nghi ngộ độc thực phẩm sau ăn bánh mì: Tăng lên 60 ca",
+      "link": "https://thanhnien.vn/vu-nhieu-nguoi-nghi-ngo-doc-thuc-pham-sau-an-banh-mi-tang-len-60-ca-185261010212306659.htm",
+      "summary": "Thông tin từ Sở Y tế tỉnh Quảng Ngãi, số người nhập viện nghi ngộ độc thực phẩm sau khi ăn bánh mì đã tăng lên khoảng 60 người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-10T15:15:00+07:00",
+      "fetched": "2026-10-10T23:54:49.746536+07:00"
+    },
+    {
+      "id": "db875d9fc11e661737d1154c13237108",
+      "title": "Đinh Viết Tường xúc động nhận giải “Thanh niên sống đẹp”: Tự hào vì đã dám làm",
+      "link": "https://thanhnien.vn/dinh-viet-tuong-xuc-dong-nhan-giai-thanh-nien-song-dep-tu-hao-vi-da-dam-lam-185261010215212593.htm",
+      "summary": "Đinh Viết Tường, diễn viên phim ‘Trại buôn người’, nhận giải thưởng ‘Thanh niên sống đẹp’ năm 2026. Với nam diễn viên, sự ghi nhận này mang đến niềm vui, lòng biết ơn và niềm tự hào vì đã dám theo đuổi những điều trước đây bản thân chưa từng nghĩ mình có thể làm được.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-10T15:00:00+07:00",
+      "fetched": "2026-10-10T23:54:49.746619+07:00"
+    },
+    {
+      "id": "c0cf726861b3d28b99ea63bde31904fd",
+      "title": "Không có biển cấm, đỗ ô tô gần ngã tư vẫn bị phạt",
+      "link": "https://thanhnien.vn/khong-co-bien-cam-do-o-to-gan-nga-tu-van-bi-phat-185261010104959211.htm",
+      "summary": "Nhiều tài xế cho rằng nơi không có biển cấm thì có thể dừng, đỗ ô tô. Tuy nhiên, tại khu vực giao nhau, luật quy định rõ phạm vi cấm dừng, đỗ ngay cả khi không có biển báo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-10T14:57:00+07:00",
+      "fetched": "2026-10-10T23:54:49.746706+07:00"
+    },
+    {
+      "id": "3ca2c78b2631a287a2d632cb0ed843e8",
+      "title": "Tân binh 100 triệu USD cứu Arsenal ở Ngoại hạng Anh",
+      "link": "https://vnexpress.net/tan-binh-100-trieu-usd-cuu-arsenal-o-ngoai-hang-anh-5130828.html",
+      "summary": "Bruno Guimaraes ghi bàn quyết định sau khi vào sân, giúp Arsenal thắng ngược Leeds 2-1 ở vòng 6 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-10T14:54:42+07:00",
+      "fetched": "2026-10-10T23:54:58.281400+07:00"
+    },
+    {
+      "id": "76d90cf14bcba181a83926cf555aefdc",
+      "title": "Chăm lo trẻ em yếu thế, cán bộ Đoàn chưa từng nghĩ có ngày được vinh danh",
+      "link": "https://thanhnien.vn/cham-lo-tre-em-yeu-the-can-bo-doan-chua-tung-nghi-co-ngay-duoc-vinh-danh-185261010215023898.htm",
+      "summary": "Gắn bó với công tác Đoàn, Hội từ năm 2017, anh Phan Trung Hải dành nhiều thời gian hỗ trợ trẻ em yếu thế và thanh niên khó khăn tại phường Phú Thuận, TP.HCM. Nhận giải thưởng “Thanh niên sống đẹp” năm 2026, anh cho biết chưa từng nghĩ đến việc được vinh danh, chỉ mong giúp được nhiều người hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-10T14:51:00+07:00",
+      "fetched": "2026-10-10T23:54:49.746786+07:00"
+    },
+    {
+      "id": "4e8df025179e690a34bd88ffccd3a818",
+      "title": "Chàng trai người Mông tìm sinh kế cho thanh niên từ văn hóa quê hương",
+      "link": "https://thanhnien.vn/chang-trai-nguoi-mong-tim-sinh-ke-cho-thanh-nien-tu-van-hoa-que-huong-185261010214846242.htm",
+      "summary": "Anh Sùng Mạnh Hùng, người đồng bào Mông sống ở xã Đồng Văn, tỉnh Tuyên Quang, nhận giải thưởng ‘Thanh niên sống đẹp’ năm 2026 nhờ những đóng góp trong quảng bá văn hóa, phát triển du lịch cộng đồng và tạo sinh kế cho thanh niên địa phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-10T14:50:00+07:00",
+      "fetched": "2026-10-10T23:54:49.746867+07:00"
+    },
+    {
+      "id": "b5cc88512abb069e6845299246faff5f",
+      "title": "15 thanh niên sống đẹp được vinh danh: Những câu chuyện khiến người trẻ ngưỡng mộ",
+      "link": "https://thanhnien.vn/15-thanh-nien-song-dep-duoc-vinh-danh-nhung-cau-chuyen-khien-nguoi-tre-nguong-mo-185261010214630312.htm",
+      "summary": "Chiều 10.10.2026, tại Hà Nội, Trung ương Hội Liên hiệp Thanh niên Việt Nam phối hợp Công ty TCP Việt Nam tổ chức lễ trao Giải thưởng ‘Thanh niên sống đẹp’ năm 2026, vinh danh 15 cá nhân tiêu biểu. Giải thưởng ghi nhận việc làm nhân ái, tinh thần trách nhiệm và đóng góp thiết thực cho cộng đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-10T14:50:00+07:00",
+      "fetched": "2026-10-10T23:54:49.746952+07:00"
+    },
+    {
+      "id": "c76f14530ab83ed87bb6af878fe6148a",
+      "title": "‘Họa sĩ nhí’ Cherry bán tranh, góp tiền giúp bệnh nhi khó khăn",
+      "link": "https://thanhnien.vn/hoa-si-nhi-cherry-ban-tranh-gop-tien-giup-benh-nhi-kho-khan-185261010205731574.htm",
+      "summary": "Với Cherry, hội họa không chỉ là niềm đam mê, mà đó còn là cách để cô bé 11 tuổi lan tỏa những thông điệp nhân văn đến những người bạn kém may mắn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-10T14:41:00+07:00",
+      "fetched": "2026-10-10T23:54:49.747034+07:00"
+    },
+    {
+      "id": "1b005fefa7579ed849201ca74294c306",
+      "title": "Ông Putin chuyển 'quan điểm hòa bình của Iran' cho ông Trump",
+      "link": "https://vnexpress.net/ong-putin-chuyen-quan-diem-hoa-binh-cua-iran-cho-ong-trump-5130793.html",
+      "summary": "Tổng thống Putin thảo luận về Iran với người đồng cấp Trump, truyền đạt ý kiến của Tehran về thỏa thuận hòa bình tiềm năng với Washington.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-10T13:46:50+07:00",
+      "fetched": "2026-10-10T23:54:53.198427+07:00"
+    },
+    {
+      "id": "e8ddba62ffa54d6b8b0f2f57a3b57340",
+      "title": "CLB CAHN nhận Huân chương Lao động hạng Nhất",
+      "link": "https://vnexpress.net/clb-cahn-nhan-huan-chuong-lao-dong-hang-nhat-5130807.html",
+      "summary": "CLB Công an Hà Nội được trao Huân chương Lao động hạng Nhất trong lễ kỷ niệm 70 năm thành lập chiều 10/10, với sự tham dự của Tổng Bí thư, Chủ tịch nước Tô Lâm.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-10T13:31:33+07:00",
+      "fetched": "2026-10-10T23:54:58.281513+07:00"
+    },
+    {
+      "id": "bac8991af83d4a535cfb621455865b6c",
+      "title": "LĐBĐ Bồ Đào Nha đình chỉ thi đấu Ronaldo",
+      "link": "https://vnexpress.net/ldbd-bo-dao-nha-dinh-chi-thi-dau-ronaldo-5130806.html",
+      "summary": "Cristiano Ronaldo bị đình chỉ thi đấu tạm thời trong lúc Liên đoàn Bóng đá Bồ Đào Nha (FPF) điều tra vụ tự ý rời đội tuyển.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-10T13:18:24+07:00",
+      "fetched": "2026-10-10T23:54:58.281616+07:00"
+    },
+    {
+      "id": "4170160887d607b6667955bea7e4adc7",
+      "title": "HAGL tìm lại niềm vui ở V-League",
+      "link": "https://vnexpress.net/hagl-tim-lai-niem-vui-o-v-league-5130803.html",
+      "summary": "HAGL đè bẹp Đà Nẵng 3-0 ở vòng 3 chiều 10/10, giành chiến thắng đầu tiên ở V-League 2026-2027.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-10T13:03:53+07:00",
+      "fetched": "2026-10-10T23:54:58.281717+07:00"
+    },
+    {
+      "id": "7eb7cf57ce10ddb49701ef0b8e0a176a",
+      "title": "Người đàn ông Ukraine thoát chết trong gang tấc trước UAV Nga",
+      "link": "https://vnexpress.net/nguoi-dan-ong-ukraine-thoat-chet-trong-gang-tac-truoc-uav-nga-5130774.html",
+      "summary": "Video mới công bố cho thấy một người ở tỉnh Kiev bỏ chạy chỉ vài giây trước khi UAV Nga lao xuống và tạo ra vụ nổ lớn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-10T12:31:10+07:00",
+      "fetched": "2026-10-10T23:54:53.198529+07:00"
+    },
+    {
+      "id": "ef992a8b68e75b36740d78910dea619f",
+      "title": "Mô hình Anthropic hoang báo về vụ giết người ở thành phố Mỹ",
+      "link": "https://vnexpress.net/mo-hinh-anthropic-hoang-bao-ve-vu-giet-nguoi-o-thanh-pho-my-5130728.html",
+      "summary": "Anthropic cho biết một mô hình AI đã gửi tin báo giả mạo liên quan một vụ giết người lên website của cảnh sát thành phố Philadelphia.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-10-10T12:00:00+07:00",
+      "fetched": "2026-10-10T23:54:57.328094+07:00"
     },
     {
       "id": "75912e5358e30fde3174ef2f150c5183",
@@ -761,6 +1151,16 @@ window.newsData_2026_10_10 = {
       "category": "Thế giới",
       "published": "2026-10-10T04:47:39+07:00",
       "fetched": "2026-10-10T18:51:38.815562+07:00"
+    },
+    {
+      "id": "6d275ab3adc76e3575453610516d1ba4",
+      "title": "Rạp Hòa Bình: Ký ức vàng son giữa lòng Đà Lạt",
+      "link": "https://vnexpress.net/rap-hoa-binh-ky-uc-vang-son-giua-long-da-lat-5127901.html",
+      "summary": "Rạp Hòa Bình là chứng nhân của những cuộc chuyển dịch trong lịch sử thành phố Đà Lạt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-10-10T04:37:13+07:00",
+      "fetched": "2026-10-10T23:54:46.776525+07:00"
     },
     {
       "id": "a18563f86550e9b6cd8b2bda0da63273",
