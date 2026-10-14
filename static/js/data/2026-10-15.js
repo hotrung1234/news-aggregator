@@ -1,6 +1,6 @@
 window.newsData_2026_10_15 = {
   "date": "2026-10-15",
-  "lastUpdated": "2026-10-15T02:57:20.906401+07:00",
+  "lastUpdated": "2026-10-15T06:00:52.777993+07:00",
   "articles": [
     {
       "id": "7f5634c12dc68a3a6707b2d5b07f8884",
@@ -151,6 +151,186 @@ window.newsData_2026_10_15 = {
       "category": "Tổng hợp",
       "published": "2026-10-15T02:57:12.528358+07:00",
       "fetched": "2026-10-15T02:57:12.528490+07:00"
+    },
+    {
+      "id": "69a3f9fde9448d5a025cf76dc67ea789",
+      "title": "Mất ví đã 10 năm, người đàn ông bất ngờ nhận lại nguyên 20 triệu đồng",
+      "link": "https://thanhnien.vn/mat-vi-da-10-nam-nguoi-dan-ong-bat-ngo-nhan-lai-nguyen-20-trieu-dong-185261014174342327.htm",
+      "summary": "Tưởng đã mất ví cùng 20 triệu đồng từ năm 2016, người đàn ông ở Hải Phòng bất ngờ nhận lại toàn bộ số tiền sau hơn 10 năm từ một người phụ nữ xa lạ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-14T23:00:00+07:00",
+      "fetched": "2026-10-15T06:00:40.909678+07:00"
+    },
+    {
+      "id": "3d2e99541bae3eeb577422ab352330bf",
+      "title": "Ẩn danh 'tố' giáo viên trên mạng gây nhiều hệ lụy",
+      "link": "https://thanhnien.vn/an-danh-to-giao-vien-tren-mang-gay-nhieu-he-luy-185261014182307912.htm",
+      "summary": "Trên các hội nhóm phụ huynh ở nhiều địa phương, gần đây thường xuất hiện nhiều bài ẩn danh 'bóc phốt' giáo viên, trường học từ bữa ăn bán trú học sinh, khoản thu, bài tập về nhà cho tới lời lẽ nhắn tin của giáo viên và phụ huynh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-14T22:54:00+07:00",
+      "fetched": "2026-10-15T06:00:40.909851+07:00"
+    },
+    {
+      "id": "33705322904d0a786f1bf67a0c4a50ac",
+      "title": "Truy điệu, an táng 731 liệt sĩ tại Nghĩa trang Liệt sĩ TP.HCM",
+      "link": "https://thanhnien.vn/truy-dieu-an-tang-731-liet-si-tai-nghia-trang-liet-si-tphcm-185261015015729456.htm",
+      "summary": "Ngày 14.10, Thành ủy, HĐND, UBND, Ủy ban MTTQ Việt Nam TP.HCM, Bộ Tư lệnh Quân khu 7 trang trọng tổ chức lễ viếng, truy điệu và an táng hài cốt 731 liệt sĩ hy sinh trong chiến dịch Tết Mậu Thân 1968, quy tập tại công viên Lê Thị Riêng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-14T22:51:00+07:00",
+      "fetched": "2026-10-15T06:00:40.910011+07:00"
+    },
+    {
+      "id": "f1bbcff9ae37c625f1a8fe993f8a92a8",
+      "title": "Dạy tiếng Anh bắt buộc từ lớp 1: Nặng đọc viết sẽ khiến trẻ áp lực",
+      "link": "https://thanhnien.vn/day-tieng-anh-bat-buoc-tu-lop-1-nang-doc-viet-se-khien-tre-ap-luc-185261014205902319.htm",
+      "summary": "Dù đồng tình với chủ trương dạy tiếng Anh bắt buộc từ lớp 1 nhưng nhiều địa phương và chuyên gia đã chỉ ra những điểm nghẽn thực tiễn cần tháo gỡ liên quan đến lộ trình, đội ngũ giáo viên, phương pháp kiểm tra đánh giá và tính liên thông giữa các cấp học.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-14T22:45:00+07:00",
+      "fetched": "2026-10-15T06:00:40.910166+07:00"
+    },
+    {
+      "id": "0c2b603dca36ae6b802181ffaeac4c71",
+      "title": "Vương cung thánh đường Đức Mẹ La Vang với mái ngói, mái đao đậm nét Việt",
+      "link": "https://thanhnien.vn/vuong-cung-thanh-duong-duc-me-la-vang-voi-mai-ngoi-mai-dao-dam-net-viet-185260814102241067.htm",
+      "summary": "Dù vẫn đang trong quá trình xây dựng, vương cung thánh đường Đức Mẹ La Vang ở Quảng Trị gây chú ý với mái ngói, mái đao cùng nhiều họa tiết gợi nét kiến trúc Việt. Công trình hiện vẫn tiếp tục hoàn thiện phần nội thất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-14T22:45:00+07:00",
+      "fetched": "2026-10-15T06:00:40.910320+07:00"
+    },
+    {
+      "id": "e4fe50138980249295e834c02d53f504",
+      "title": "Đánh răng bị chảy máu: Nên dừng lại hay tiếp tục chải?",
+      "link": "https://thanhnien.vn/danh-rang-bi-chay-mau-nen-dung-lai-hay-tiep-tuc-chai-185261009193554723.htm",
+      "summary": "Chảy máu khi đánh răng khiến nhiều người ngại chải răng vì sợ làm tổn thương nướu. Tuy nhiên, bỏ chải răng không đúng cách có thể khiến mảng bám tích tụ, làm tình trạng viêm nướu trở nên nghiêm trọng hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-14T22:42:00+07:00",
+      "fetched": "2026-10-15T06:00:40.910473+07:00"
+    },
+    {
+      "id": "b2932ac695617fc8611ebb06696fae26",
+      "title": "Cuộc đua Quả bóng vàng 2026: Ai đang nổi bật nhất?",
+      "link": "https://thanhnien.vn/cuoc-dua-qua-bong-vang-2026-ai-dang-noi-bat-nhat-185261014202659254.htm",
+      "summary": "Lamine Yamal, Kylian Mbappe và Harry Kane là 3 gương mặt nổi bật trong cuộc đua Quả bóng vàng 2026. Mỗi ngôi sao sở hữu những lợi thế riêng, từ khả năng tạo đột biến, ghi bàn đến tầm ảnh hưởng trong lối chơi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-14T22:40:00+07:00",
+      "fetched": "2026-10-15T06:00:40.910661+07:00"
+    },
+    {
+      "id": "2e7c5a0b178c924f078c87239cf966d5",
+      "title": "7 hành vi bị nghiêm cấm trong giáo dục: Phải quyết liệt giám sát",
+      "link": "https://thanhnien.vn/7-hanh-vi-bi-nghiem-cam-trong-giao-duc-phai-quyet-liet-giam-sat-185261014221109003.htm",
+      "summary": "Từ 15.11, 7 hành vi trong giáo dục bị nghiêm cấm được đông đảo phụ huynh, bạn đọc Thanh Niên đồng tình ủng hộ như: ép buộc, vận động mang tính áp đặt hoặc tạo áp lực dưới bất kỳ hình thức nào; thu tiền người học, cha mẹ của người học... đối với hoạt động giáo dục tăng cường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-14T22:36:00+07:00",
+      "fetched": "2026-10-15T06:00:40.910817+07:00"
+    },
+    {
+      "id": "3ee332011c33e2b0d55f05574ba46c23",
+      "title": "Tin quốc tế sáng 15.10: Nhiều diễn biến mới về Nga - Ukraine và Trung Đông",
+      "link": "https://thanhnien.vn/tin-quoc-te-sang-1510-nhieu-dien-bien-moi-ve-nga-ukraine-va-trung-dong-185261014233206356.htm",
+      "summary": "Xung đột tiếp diễn ở Trung Đông cũng như các diễn biến mới về Nga - Ukraine... Thanh Niên sẽ tiếp tục cập nhật các tin tức nổi bật trong ngày 15.10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-14T22:31:00+07:00",
+      "fetched": "2026-10-15T06:00:40.910968+07:00"
+    },
+    {
+      "id": "a5a78d89fecc82e6ac55c1fdc163b443",
+      "title": "Sống chung với thiên tai: Từ ký ức Damrey đến mùa bão mới",
+      "link": "https://thanhnien.vn/song-chung-voi-thien-tai-tu-ky-uc-damrey-den-mua-bao-moi-185261014223650633.htm",
+      "summary": "Gần 9 năm sau bão Damrey (bão số 12 năm 2017), người dân vùng biển Khánh Hòa vẫn nhớ các lồng bè bị cuốn trôi và những người không trở về. Những mất mát ấy là lời nhắc về sự chủ động ứng phó, sơ tán người dân trước khi bão đổ bộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-14T22:30:00+07:00",
+      "fetched": "2026-10-15T06:00:40.911118+07:00"
+    },
+    {
+      "id": "7c0f8f0d4fa7ca6f2ac28b8370df9dbd",
+      "title": "Lòng yêu nước của người trẻ",
+      "link": "https://thanhnien.vn/long-yeu-nuoc-cua-nguoi-tre-18526101422010681.htm",
+      "summary": "Trải qua 70 năm, Hội Liên hiệp thanh niên Việt Nam luôn giữ vai trò là tổ chức xã hội rộng rãi của thanh niên, góp phần đoàn kết, tập hợp các tầng lớp thanh niên phát huy truyền thống yêu nước, tinh thần xung kích, tình nguyện và khát vọng cống hiến cho quê hương, đất nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-14T22:30:00+07:00",
+      "fetched": "2026-10-15T06:00:40.911273+07:00"
+    },
+    {
+      "id": "f682a01c713f441a8c53b66e5be0c7f3",
+      "title": "Trúng độc đắc xổ số miền Nam, người phụ nữ nhờ đại lý đổi thưởng trong đêm",
+      "link": "https://thanhnien.vn/trung-doc-dac-xo-so-mien-nam-nguoi-phu-nu-nho-dai-ly-doi-thuong-trong-dem-185261014185959845.htm",
+      "summary": "Người phụ nữ ở Đồng Tháp trúng độc đắc 2 tỉ đồng theo kết quả xổ số miền Nam ngày 10 tháng 10. Bà nhờ một đại lý vé số ở Đồng Nai đến tận nhà đổi thưởng trong đêm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-14T22:30:00+07:00",
+      "fetched": "2026-10-15T06:00:40.911436+07:00"
+    },
+    {
+      "id": "29787002ebe0974cd3fc44715cd9cae2",
+      "title": "'Phố Tây' Huế về đêm: Có gì vui mà tây, ta kéo nhau đến nườm nượp?",
+      "link": "https://thanhnien.vn/pho-tay-hue-ve-dem-co-gi-vui-ma-tay-ta-keo-nhau-den-nuom-nuop-185261012134259264.htm",
+      "summary": "Khi thành phố Huế lên đèn, 'phố Tây' bắt đầu cuộc vui. Bia lạnh, món nhắm bình dân, âm nhạc... và dòng khách đa quốc tịch đang làm nên một diện mạo khác của cố đô.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-14T22:30:00+07:00",
+      "fetched": "2026-10-15T06:00:40.911628+07:00"
+    },
+    {
+      "id": "55d35b9f6e62c7acd837997894ae1fc0",
+      "title": "Nhiều sáng kiến đến từ hai Báo Thanh Niên Việt - Trung",
+      "link": "https://thanhnien.vn/nhieu-sang-kien-den-tu-hai-bao-thanh-nien-viet-trung-18526101422453609.htm",
+      "summary": "Hôm qua (14.10), Đoàn đại biểu Báo Thanh Niên Trung Quốc đến thăm Tòa soạn Báo Thanh Niên tại TP.HCM, mở ra nhiều cơ hội hợp tác thiết thực trong lĩnh vực truyền thông, ứng dụng công nghệ và giao lưu thế hệ trẻ hai nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-14T22:29:00+07:00",
+      "fetched": "2026-10-15T06:00:40.911792+07:00"
+    },
+    {
+      "id": "4bbbaf1a0339580c3f7d37060279221f",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 15.10.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-15102026-185261014233338445.htm",
+      "summary": "Tin tức Truy điệu, an táng 731 liệt sĩ tại Nghĩa trang Liệt sĩ TP.HCM; Thủ tướng Chính phủ đối thoại với thanh niên: Cơ hội lớn cho khởi nghiệp, đổi mới sáng tạo; Ẩn danh 'tố' giáo viên trên mạng gây nhiều hệ lụy... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 15.10.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-14T22:25:00+07:00",
+      "fetched": "2026-10-15T06:00:40.911944+07:00"
+    },
+    {
+      "id": "9c13d053a9246e1fcd8edebadb47035a",
+      "title": "Internet vệ tinh Starlink hoạt động thế nào",
+      "link": "https://vnexpress.net/internet-ve-tinh-starlink-hoat-dong-the-nao-5131556.html",
+      "summary": "Internet vệ tinh đã xuất hiện hàng chục năm, nhưng giải pháp của Starlink khắc phục được vấn đề độ trễ, chảo thu cũng chỉ cần đặt ở vị trí cố định.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-10-14T22:00:00+07:00",
+      "fetched": "2026-10-15T06:00:51.009754+07:00"
+    },
+    {
+      "id": "96a515e7099c6007add2e705a0a2ba14",
+      "title": "Man City thua PSG trong ngày Guardiola trở lại",
+      "link": "https://vnexpress.net/man-city-thua-psg-trong-ngay-guardiola-tro-lai-5132435.html",
+      "summary": "Man City thua PSG 2-4 trên sân Etihad ở vòng phân hạng Champions League ngày 14/10, dù Erling Haaland lập cú đúp trong hiệp hai.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-14T21:55:13+07:00",
+      "fetched": "2026-10-15T06:00:52.772781+07:00"
+    },
+    {
+      "id": "cb862cfe98578b3ee1d5e1a6de6b4336",
+      "title": "Barcola lập hat-trick, Liverpool đại thắng ở Champions League",
+      "link": "https://vnexpress.net/barcola-lap-hat-trick-liverpool-dai-thang-o-champions-league-5132434.html",
+      "summary": "Tiền đạo Bradley Barcola ghi ba bàn giúp Liverpool thắng LASK 6-3 ở lượt hai vòng phân hạng Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-14T21:38:20+07:00",
+      "fetched": "2026-10-15T06:00:52.772961+07:00"
     },
     {
       "id": "b860f415474fae1265d6d81bb5b60dae",
