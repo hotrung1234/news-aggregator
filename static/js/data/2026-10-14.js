@@ -1,7 +1,157 @@
 window.newsData_2026_10_14 = {
   "date": "2026-10-14",
-  "lastUpdated": "2026-10-14T05:15:39.581222+07:00",
+  "lastUpdated": "2026-10-14T10:25:27.069776+07:00",
   "articles": [
+    {
+      "id": "92859cf666a59cb165692747c0a56a1e",
+      "title": "Saigontourist Group nhận hai danh hiệu, giải thưởng tiêu biểu của TP.HCM 2026",
+      "link": "https://tuoitre.vn/saigontourist-group-nhan-hai-danh-hieu-giai-thuong-tieu-bieu-cua-tphcm-2026-100261014002435366.htm",
+      "summary": "Tổng Công ty Du lịch Sài Gòn (Saigontourist Group) vừa được vinh danh với danh hiệu Doanh nghiệp TP.HCM tiêu biểu năm 2026 và Giải thưởng Thương hiệu Vàng TP.HCM năm 2026, ghi nhận những nỗ lực phát triển kinh doanh, xây dựng thương hiệu và đóng góp cho cộng đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-14T10:25:20.907766+07:00",
+      "fetched": "2026-10-14T10:25:20.907809+07:00"
+    },
+    {
+      "id": "56fed7ab91fc31c3eeac722e35dd9fec",
+      "title": "Đọc nhanh 14-10: Chứng khoán Mỹ giảm khi cổ phiếu chip nhớ chịu sức ép, ACV và F88 công bố kết quả 9 tháng",
+      "link": "https://tuoitre.vn/doc-nhanh-14-10-chung-khoan-my-giam-khi-co-phieu-chip-nho-chiu-suc-ep-acv-va-f88-cong-bo-ket-qua-9-thang-100261014071622262.htm",
+      "summary": "Dow Jones giảm 180 điểm trong phiên loạt ngân hàng lớn của Mỹ công bố kết quả quý 3. Trong nước, SHB vay hợp vốn 340 triệu USD, ACV vượt kế hoạch lợi nhuận năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-14T10:25:20.907708+07:00",
+      "fetched": "2026-10-14T10:25:20.907757+07:00"
+    },
+    {
+      "id": "d2299afd29fa7c61c859f3ad6ce651db",
+      "title": "Lời hứa 50 triệu USD và cuộc chia tiền của nhóm Shark Bình",
+      "link": "https://tuoitre.vn/loi-hua-50-trieu-usd-va-cuoc-chia-tien-cua-nhom-shark-binh-100261014010338936.htm",
+      "summary": "Từ khoản góp vốn 2 tỉ đồng, Shark Bình tham gia dự án tiền số Antex, sau đó công bố quỹ đầu tư blockchain với vốn cam kết 50 triệu USD. Khi dự án huy động được hơn 101 tỉ đồng nhưng nhiều sản phẩm vẫn dang dở, nhóm cổ đông đã họp bàn rút tiền chia nhau, theo kết luận điều tra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-14T10:25:20.907656+07:00",
+      "fetched": "2026-10-14T10:25:20.907700+07:00"
+    },
+    {
+      "id": "bbf69dbfe96db91f62af652d732d0065",
+      "title": "Georgia muốn lập trung tâm nghiên cứu chung về khoa học công nghệ, đổi mới sáng tạo với Việt Nam",
+      "link": "https://tuoitre.vn/georgia-muon-lap-trung-tam-nghien-cuu-chung-ve-khoa-hoc-cong-nghe-doi-moi-sang-tao-voi-viet-nam-100261013231716472.htm",
+      "summary": "Tổng thống Georgia mong muốn thúc đẩy quan hệ nhiều mặt với Việt Nam trong cuộc gặp Phó chủ tịch nước Võ Thị Ánh Xuân ngày 13-10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-14T10:25:20.907599+07:00",
+      "fetched": "2026-10-14T10:25:20.907648+07:00"
+    },
+    {
+      "id": "dc570c79a2be3a4d91cee1d8d860e022",
+      "title": "Được vinh danh Thương hiệu Vàng TP.HCM, doanh nghiệp có thêm động lực đổi mới",
+      "link": "https://tuoitre.vn/duoc-vinh-danh-thuong-hieu-vang-tphcm-doanh-nghiep-co-them-dong-luc-doi-moi-100261014073047148.htm",
+      "summary": "Với nhiều doanh nghiệp, danh hiệu Thương hiệu Vàng TP.HCM không chỉ là sự ghi nhận những nỗ lực xây dựng uy tín trên thị trường mà còn là nguồn động viên để vượt qua khó khăn, đổi mới công nghệ và tìm kiếm cơ hội phát triển mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-14T10:25:20.907539+07:00",
+      "fetched": "2026-10-14T10:25:20.907590+07:00"
+    },
+    {
+      "id": "ec7b1dbbab81c50ed20bdc28c0fe4d2e",
+      "title": "Giá vàng hôm nay 14-10: Chờ tin lạm phát Mỹ, vàng thế giới tiếp tục giảm",
+      "link": "https://tuoitre.vn/gia-vang-hom-nay-14-10-cho-tin-lam-phat-my-vang-the-gioi-tiep-tuc-giam-100261014075447485.htm",
+      "summary": "Giá vàng thế giới lùi về quanh 4.159 USD/ounce trước báo cáo lạm phát Mỹ, trong khi vàng miếng SJC vẫn neo ở mức 144,3 triệu đồng/lượng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-14T10:25:20.907477+07:00",
+      "fetched": "2026-10-14T10:25:20.907530+07:00"
+    },
+    {
+      "id": "063804304145d3d76e40a48329633439",
+      "title": "Vì sao thuốc tránh thai có thể làm tăng nguy cơ hình thành cục máu đông?",
+      "link": "https://tuoitre.vn/vi-sao-thuoc-tranh-thai-co-the-lam-tang-nguy-co-hinh-thanh-cuc-mau-dong-100261013184200283.htm",
+      "summary": "Tự sử dụng thuốc tránh thai trong nhiều tháng, kết hợp thừa cân và ít vận động, người phụ nữ 36 tuổi xuất hiện huyết khối tĩnh mạch sâu ở chân, sau đó biến chứng thuyên tắc phổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-14T10:25:20.907419+07:00",
+      "fetched": "2026-10-14T10:25:20.907468+07:00"
+    },
+    {
+      "id": "9ba93f5d1c0515f73a443bcef73c6e58",
+      "title": "Anh đậu Y, em đậu Bách khoa: hai anh em ở mái ấm nối nhau nhận học bổng Tiếp sức đến trường",
+      "link": "https://tuoitre.vn/anh-dau-y-em-dau-bach-khoa-hai-anh-em-o-mai-am-noi-nhau-nhan-hoc-bong-tiep-suc-den-truong-100261014080607508.htm",
+      "summary": "Sáng 14-10, báo Tuổi Trẻ phối hợp Thành đoàn Huế tổ chức trao học bổng Tiếp sức đến trường năm 2026 cho 105 tân sinh viên có hoàn cảnh khó khăn, giàu nghị lực. Tổng kinh phí chương trình hơn 1,56 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-14T10:25:20.907358+07:00",
+      "fetched": "2026-10-14T10:25:20.907410+07:00"
+    },
+    {
+      "id": "589ce8333f7ca78a1c04b6e717705062",
+      "title": "Tự chế máy bay bằng bìa cứng: Chở được cả người, cất cánh thực sự",
+      "link": "https://tuoitre.vn/tu-che-may-bay-bang-bia-cung-cho-duoc-ca-nguoi-cat-canh-thuc-su-100261013180404931.htm",
+      "summary": "Không cần nhôm hàng không hay vật liệu đắt tiền, một YouTuber người Mỹ chế tạo chiếc máy bay bằng bìa carton, đủ sức đưa anh lên không trung.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-14T10:25:20.907267+07:00",
+      "fetched": "2026-10-14T10:25:20.907338+07:00"
+    },
+    {
+      "id": "d1d874d72f15182f85564d036b3161f1",
+      "title": "Chính phủ chốt nghỉ Tết Nguyên đán 7 ngày: có nơi nghỉ 12 ngày",
+      "link": "https://tuoitre.vn/chinh-phu-chot-nghi-tet-nguyen-dan-7-ngay-co-noi-nghi-12-ngay-100261013223051997.htm",
+      "summary": "Đầu tháng 10-2026, nhiều doanh nghiệp chốt lịch nghỉ lễ sớm để người lao động chủ động lên kế hoạch về quê với gia đình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-14T10:25:20.907209+07:00",
+      "fetched": "2026-10-14T10:25:20.907259+07:00"
+    },
+    {
+      "id": "263586abe92c54066d39d6e54ac64e66",
+      "title": "Người dân cầm hoa trắng đợi tiễn đưa các anh",
+      "link": "https://tuoitre.vn/nguoi-dan-cam-hoa-trang-doi-tien-dua-cac-anh-100261014083502318.htm",
+      "summary": "Sáng nay, 14-10, trên tuyến đường đưa các liệt sĩ từ công viên Lê Thị Riêng về an nghỉ tại Nghĩa trang Liệt sĩ TP.HCM, người dân đứng kín hai bên, tay cầm hoa trắng tiễn các Anh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-14T10:25:20.907149+07:00",
+      "fetched": "2026-10-14T10:25:20.907199+07:00"
+    },
+    {
+      "id": "4f846578fbe30be05c6044a58449a9f2",
+      "title": "Giáo hoàng Leo XIV mắc ung thư phổi, khả năng chữa khỏi ra sao?",
+      "link": "https://tuoitre.vn/giao-hoang-leo-xiv-mac-ung-thu-phoi-kha-nang-chua-khoi-ra-sao-100261014080401375.htm",
+      "summary": "Ngoại trưởng Mỹ Marco Rubio cho biết ông và vợ đang cầu nguyện cho Giáo hoàng Leo XIV, sau khi vị giáo hoàng sinh ra tại Mỹ được chẩn đoán mắc ung thư phổi sau ca phẫu thuật cắt bỏ khối u.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-14T10:25:20.907087+07:00",
+      "fetched": "2026-10-14T10:25:20.907140+07:00"
+    },
+    {
+      "id": "9642c7cf779082c17210d0da7b2e9405",
+      "title": "'Cuối cùng thì RHYDER cũng làm nhạc đám cưới'",
+      "link": "https://tuoitre.vn/cuoi-cung-thi-rhyder-cung-lam-nhac-dam-cuoi-100261013145029168.htm",
+      "summary": "Đó là bình luận của một khán giả dưới MV 'Trong đôi mắt thiếu nữ' vừa được RHYDER phát hành,  ca khúc gây chú ý với ca từ và câu chuyện tình yêu ngọt ngào.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-14T10:25:20.907017+07:00",
+      "fetched": "2026-10-14T10:25:20.907078+07:00"
+    },
+    {
+      "id": "f19d3a577ed0ac076cfd873af6780126",
+      "title": "Hơn 40.000 bé gái không có cơ hội chào đời mỗi năm, Việt Nam mất cân bằng giới tính top đầu thế giới",
+      "link": "https://tuoitre.vn/hon-40000-be-gai-khong-co-co-hoi-chao-doi-moi-nam-viet-nam-mat-can-bang-gioi-tinh-top-dau-the-gioi-100261013155855375.htm",
+      "summary": "Việt Nam và Trung Quốc có tỉ lệ mất cân bằng giới tính khi sinh cao nhất thế giới. Trong khi đó, mỗi năm nước ta có hơn 40.000 bé gái không thể chào đời vì các cặp vợ chồng bỏ thai sau khi biết giới tính, hoặc khi làm thụ tinh trong ống nghiệm thì loại bỏ phôi nữ, chỉ chọn phôi nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-14T10:25:20.906912+07:00",
+      "fetched": "2026-10-14T10:25:20.907001+07:00"
+    },
+    {
+      "id": "1c3a15db58e17898110010a0decf3480",
+      "title": "Giá cả đầu ngày: Rau Đà Lạt tăng trở lại, người bán rau ở chợ Đà Nẵng 'xin đừng hỏi giá mà mất ‘mì xưa’",
+      "link": "https://tuoitre.vn/gia-ca-dau-ngay-rau-da-lat-tang-tro-lai-nguoi-ban-rau-o-cho-da-nang-xin-dung-hoi-gia-ma-mat-mi-xua-100261014005232538.htm",
+      "summary": "Giá rau xanh tại Đà Lạt tăng 23-25% sau thời gian mưa kéo dài, trong khi cà chua giảm còn 18.000 đồng/kg. Tại TP.HCM, bưởi Tân Triều có giá từ 15.000 đồng/trái, còn nông dân miền Tây bắt đầu tính chuyện xuống giống dưa hấu phục vụ thị trường Tết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-14T10:25:20.906520+07:00",
+      "fetched": "2026-10-14T10:25:20.906885+07:00"
+    },
     {
       "id": "40a449dcd963cc9e45e252e01a9ecfba",
       "title": "Bắt bị can trốn truy nã trong vụ hỗn chiến chết người ở Quy Nhơn",
@@ -51,6 +201,296 @@ window.newsData_2026_10_14 = {
       "category": "Tổng hợp",
       "published": "2026-10-14T05:15:32.485901+07:00",
       "fetched": "2026-10-14T05:15:32.486051+07:00"
+    },
+    {
+      "id": "dd86c0fbf2be6e0bcc6d92d87ccf58f4",
+      "title": "Hôn thê cũ của con trai ông Trump bị buộc từ chức đại sứ tại Hy Lạp",
+      "link": "https://thanhnien.vn/hon-the-cu-cua-con-trai-ong-trump-bi-buoc-tu-chuc-dai-su-tai-hy-lap-185261014101642094.htm",
+      "summary": "Tổng thống Mỹ Donald Trump đã buộc Đại sứ Mỹ tại Hy Lạp Kimberly Guilfoyle phải từ chức, giữa những cáo buộc liên quan tài chính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-14T03:23:00+07:00",
+      "fetched": "2026-10-14T10:25:15.343720+07:00"
+    },
+    {
+      "id": "ee3d1fc8e0a493e2cbd329dea6e44043",
+      "title": "128 VĐV cạnh tranh ở ngày đầu tiên của chuỗi sự kiện BULBAL MAKE YOUR NAME 2026",
+      "link": "https://thanhnien.vn/128-vdv-canh-tranh-o-ngay-dau-tien-cua-chuoi-su-kien-bulbal-make-your-name-2026-185261014100849726.htm",
+      "summary": "Ngày 17.10 tới, 128 VĐV pickleball phong trào sẽ so tài tại BULBAL CHOSEN DAY khu vực phía đông, tranh giải thưởng trị giá hơn 60 triệu đồng và sẽ có cơ hội được chọn vào đội tuyển BULBAL Pickleball.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-14T03:23:00+07:00",
+      "fetched": "2026-10-14T10:25:15.343864+07:00"
+    },
+    {
+      "id": "6f9919b5137d1fdbae06477b1743e422",
+      "title": "Công an tìm tung tích thi thể 2 bé trai sơ sinh ở bãi rác Hòa Phú",
+      "link": "https://thanhnien.vn/cong-an-tim-tung-tich-thi-the-2-be-trai-so-sinh-o-bai-rac-hoa-phu-185261014094606341.htm",
+      "summary": "Người dân phát hiện thi thể 2 bé trai sơ sinh ở bãi rác Hòa Phú. Lực lượng Công an tỉnh Vĩnh Long đang truy tìm tung tích nạn nhân để điều tra làm rõ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-14T03:19:00+07:00",
+      "fetched": "2026-10-14T10:25:15.343998+07:00"
+    },
+    {
+      "id": "cc896579e4559950ad08a5766a21ce51",
+      "title": "Ca thông tim can thiệp bào thai thứ 17: Thách thức chưa từng gặp",
+      "link": "https://thanhnien.vn/ca-thong-tim-can-thiep-bao-thai-thu-17-thach-thuc-chua-tung-gap-185261014093750346.htm",
+      "summary": "Bệnh viện Từ Dũ và Bệnh viện Nhi đồng 1 phối hợp thông tim can thiệp bào thai thành công dù ê kíp phải thay đổi phương án nhiều lần do van quá dày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-14T03:16:00+07:00",
+      "fetched": "2026-10-14T10:25:15.344136+07:00"
+    },
+    {
+      "id": "df2b46020a65d228886f79fc778155f9",
+      "title": "Giám đốc ĐHQG TP.HCM: ‘Chúc các em có một khóa học đủ khó để trưởng thành, đủ vui để nhớ suốt đời’",
+      "link": "https://thanhnien.vn/giam-doc-dhqg-tphcm-chuc-cac-em-co-mot-khoa-hoc-du-kho-de-truong-thanh-du-vui-de-nho-suot-doi-185261014095519891.htm",
+      "summary": "Phát biểu tại lễ khai khóa năm 2026 của ĐHQG TP.HCM ngày 13.10, GS-TS Nguyễn Thị Thanh Mai, Giám đốc ĐHQG TP.HCM, gửi gắm thông điệp đến học sinh, sinh viên về hành trình học tập, trải nghiệm và trưởng thành trong môi trường đại học.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-14T03:13:00+07:00",
+      "fetched": "2026-10-14T10:25:15.344267+07:00"
+    },
+    {
+      "id": "3d0d886c092b0189e0352a6f3c6d590d",
+      "title": "Cần làm gì sau khi peel da? Bất ngờ 99% đều làm sai khiến da tổn thương",
+      "link": "https://thanhnien.vn/can-lam-gi-sau-khi-peel-da-bat-ngo-99-deu-lam-sai-khien-da-ton-thuong-185261014101900363.htm",
+      "summary": "Peel da đang được nhiều tín đồ làm đẹp lựa chọn với mong muốn cải thiện bề mặt da, làm đều màu và mờ nám, giảm mụn. Nhưng nếu chăm sóc sai cách sau peel, da có thể trở nên khô rát, đỏ kéo dài, tăng sắc tố và suy yếu hàng rào bảo vệ. Vậy đâu là những việc cần làm để da phục hồi tốt hơn, hạn chế kích ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-14T03:10:00+07:00",
+      "fetched": "2026-10-14T10:25:15.344412+07:00"
+    },
+    {
+      "id": "7f4041c4ec5e7119ab0554d0e1cf8361",
+      "title": "Mách nàng cách skincare khi thời tiết giao mùa thu sang đông: tăng 2 và giảm 1",
+      "link": "https://thanhnien.vn/mach-nang-cach-skincare-khi-thoi-tiet-giao-mua-thu-sang-dong-tang-2-va-giam-1-185261014100909828.htm",
+      "summary": "Khi những cơn gió lạnh chớm đông tràn về, làn da nhanh chóng 'cảm nhận' được sự sụt giảm độ ẩm trong không khí bằng sự căng rát, bong tróc hoặc xỉn màu. Để giữ làn da luôn căng mượt, rạng rỡ bất chấp thời tiết hanh khô, phái đẹp không nhất thiết phải thay mới toàn bộ kệ mỹ phẩm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-14T03:01:00+07:00",
+      "fetched": "2026-10-14T10:25:15.344544+07:00"
+    },
+    {
+      "id": "addfe4af4a9e76d702fc39505ee12237",
+      "title": "Chuyện những tô mì 2.000 đồng",
+      "link": "https://thanhnien.vn/chuyen-nhung-to-mi-2000-dong-185261013184423694.htm",
+      "summary": "Tại xã Mỹ Hương, TP.Cần Thơ, tô mì 2.000 đồng mang đến cho người lao động bữa sáng đầy đặn, đồng thời lan tỏa cách làm nhân văn, tinh tế trong việc hỗ trợ những hoàn cảnh khó khăn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-14T03:00:00+07:00",
+      "fetched": "2026-10-14T10:25:15.344673+07:00"
+    },
+    {
+      "id": "1affb0b4006ae9f808e821a4104fb90c",
+      "title": "Những tấm lòng vàng 14.10.2026",
+      "link": "https://thanhnien.vn/nhung-tam-long-vang-14102026-185261013183151506.htm",
+      "summary": "Giúp chị Nguyễn Thị Thương - Nghệ An (nhân vật được đề cập trong bài viết: Hoàn cảnh khốn khó của người mẹ góa bị hư thận trên Thanh Niên ngày 19.11.2024):",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-14T03:00:00+07:00",
+      "fetched": "2026-10-14T10:25:16.800236+07:00"
+    },
+    {
+      "id": "da0478d40456ac4d64431218a2f72785",
+      "title": "Nghệ thuật diện đồ đơn sắc giúp nàng nâng tầm đẳng cấp",
+      "link": "https://thanhnien.vn/thoi-trang-tre/nghe-thuat-dien-do-don-sac-giup-nang-nang-tam-dang-cap-185261013170002235.htm",
+      "summary": "Không cần đến những họa tiết cầu kỳ hay các bản phối đa màu phức tạp, trang phục đơn sắc vẫn luôn giữ vững vị thế độc tôn trong lòng giới mộ điệu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-14T03:00:00+07:00",
+      "fetched": "2026-10-14T10:25:16.800665+07:00"
+    },
+    {
+      "id": "2a4b617682d8905355c6c517e23af98d",
+      "title": "Giành huy chương vàng thể hình, chàng trai quỳ gối cầu hôn bạn gái yêu 7 năm",
+      "link": "https://thanhnien.vn/gianh-huy-chuong-vang-the-hinh-chang-trai-quy-goi-cau-hon-ban-gai-yeu-7-nam-185261012145943984.htm",
+      "summary": "Vượt qua 16 tuần siết cân khắc nghiệt, vận động viên Tạ Huy Hoàng (26 tuổi, ngụ TP.Hà Nội) xuất sắc giành huy chương vàng thể hình, rồi bất ngờ quỳ gối cầu hôn bạn gái Phạm Thị Quỳnh Trang (26 tuổi) sau 7 năm gắn bó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-14T03:00:00+07:00",
+      "fetched": "2026-10-14T10:25:16.800823+07:00"
+    },
+    {
+      "id": "987c9e32ebd019fac1dbb5cd388fe561",
+      "title": "TP.HCM xây dựng hệ thống chăm sóc sức khỏe người cao tuổi theo năm tầng",
+      "link": "https://thanhnien.vn/tphcm-xay-dung-he-thong-cham-soc-suc-khoe-nguoi-cao-tuoi-theo-nam-tang-185261014095810339.htm",
+      "summary": "TP.HCM sẽ tổ chức hệ thống chăm sóc sức khỏe người cao tuổi theo năm tầng, phù hợp với tình trạng sức khỏe và mức độ cần hỗ trợ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-14T02:59:00+07:00",
+      "fetched": "2026-10-14T10:25:16.800959+07:00"
+    },
+    {
+      "id": "a431eb09ddbfd599c2a637e93b1a1eab",
+      "title": "Chuẩn bị đấu giá căn biệt thự trên 200 tỉ đồng của bà Trương Mỹ Lan",
+      "link": "https://thanhnien.vn/chuan-bi-dau-gia-can-biet-thu-tren-200-ti-dong-cua-ba-truong-my-lan-185261014093151752.htm",
+      "summary": "Căn biệt thự tại 22B Nguyễn Thị Diệu, phường Xuân Hòa, TP.HCM của bà Trương Mỹ Lan sẽ được tổ chức bán đấu giá với giá khởi điểm hơn 202,5 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-14T02:57:00+07:00",
+      "fetched": "2026-10-14T10:25:16.801092+07:00"
+    },
+    {
+      "id": "30241a669c51e1ae470a5601de63c479",
+      "title": "Ngân hàng lớn thứ 2 Mỹ bị phạt 1,2 tỉ USD vì phạm luật",
+      "link": "https://thanhnien.vn/ngan-hang-lon-thu-2-my-bi-phat-12-ti-usd-vi-pham-luat-185261014093558439.htm",
+      "summary": "Bộ Tài chính Mỹ đã đưa ra mức phạt 1,2 tỉ USD đối với Bank of America vì cáo buộc ngân hàng này vi phạm các luật chống rửa tiền và trừng phạt phạt kinh tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-14T02:55:00+07:00",
+      "fetched": "2026-10-14T10:25:16.801222+07:00"
+    },
+    {
+      "id": "42d7ec1f5ea02672ff5c267c7d5dac2f",
+      "title": "Ukraine không được đối tác cảnh báo về đòn tập kích Kiev",
+      "link": "https://vnexpress.net/ukraine-khong-duoc-doi-tac-canh-bao-ve-don-tap-kich-kiev-5132023.html",
+      "summary": "Giới chức Ukraine cho biết không nhận được cảnh báo sớm từ đối tác về các tên lửa đạn đạo Nga đang lao tới thủ đô Kiev tối 13/10.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-14T02:54:49+07:00",
+      "fetched": "2026-10-14T10:25:22.607884+07:00"
+    },
+    {
+      "id": "0112b6e2d867fddbe969b3667f94f7b4",
+      "title": "Ông Trump hứng chỉ trích vì đăng video hổ, sư tử tấn công người",
+      "link": "https://vnexpress.net/ong-trump-hung-chi-trich-vi-dang-video-ho-su-tu-tan-cong-nguoi-5131986.html",
+      "summary": "Tổng thống Trump đăng video vụ người đàn ông thiệt mạng do tự ý đi vào chuồng hổ và sư tử tấn công người, khiến ông bị chỉ trích.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-14T02:52:17+07:00",
+      "fetched": "2026-10-14T10:25:22.608037+07:00"
+    },
+    {
+      "id": "9521d68934a6d0f339ba6189a532df54",
+      "title": "Có biển cấm, xe vẫn đậu chiếm đường",
+      "link": "https://thanhnien.vn/co-bien-cam-xe-van-dau-chiem-duong-185261013183717047.htm",
+      "summary": "Trên đường Đặng Văn Sâm (P.Tân Sơn Hòa, TP.HCM), dù cơ quan chức năng đã đặt biển cấm đậu xe, tình trạng ô tô, xe tải dừng đậu tràn lan vẫn diễn ra, gây cản trở giao thông và tiềm ẩn nguy cơ tai nạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-14T02:51:00+07:00",
+      "fetched": "2026-10-14T10:25:19.137450+07:00"
+    },
+    {
+      "id": "a83798ec9cbf69e2cd2d444a90d23d51",
+      "title": "Đề xuất doanh nghiệp xăng dầu công bố giá mới trước ít nhất 30 phút",
+      "link": "https://vnexpress.net/de-xuat-doanh-nghiep-xang-dau-cong-bo-gia-moi-truoc-it-nhat-30-phut-5131935.html",
+      "summary": "Bộ Công Thương đề xuất doanh nghiệp được tự quyết giá xăng dầu, nhưng phải công bố mức mới trước ít nhất 30 phút, không được tăng sớm hoặc trì hoãn giảm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-14T02:34:49+07:00",
+      "fetched": "2026-10-14T10:25:23.493010+07:00"
+    },
+    {
+      "id": "5d89d694488f1075ddf0160ae85bf5d8",
+      "title": "Anh trai Giáo hoàng cũng đang chống chọi với ung thư",
+      "link": "https://vnexpress.net/anh-trai-giao-hoang-cung-dang-chong-choi-voi-ung-thu-5132037.html",
+      "summary": "Vợ của ông Louis Prevost, anh trai Giáo hoàng Leo XIV, cho biết chồng mắc bệnh đa u tủy xương và đang tham gia điều trị thử nghiệm lâm sàng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-14T02:21:16+07:00",
+      "fetched": "2026-10-14T10:25:22.608176+07:00"
+    },
+    {
+      "id": "b8187951b3df021e52e0910a2afe5f5b",
+      "title": "Dàn ICBM, tên lửa siêu vượt âm Triều Tiên phô diễn tại bảo tàng cách mạng",
+      "link": "https://vnexpress.net/dan-icbm-ten-lua-sieu-vuot-am-trieu-tien-pho-dien-tai-bao-tang-cach-mang-5131816.html",
+      "summary": "Ông Kim Jong-un dẫn con gái tham quan Bảo tàng Cách mạng Quốc phòng, nơi trưng bày nhiều loại tên lửa và các vũ khí tiên tiến của Triều Tiên.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-14T02:13:01+07:00",
+      "fetched": "2026-10-14T10:25:22.608308+07:00"
+    },
+    {
+      "id": "c8c38d0554de048c5a9ba10cfc1f080e",
+      "title": "Mourinho úp mở lý do tẩy chay họp báo ở La Liga",
+      "link": "https://vnexpress.net/mourinho-up-mo-ly-do-tay-chay-hop-bao-o-la-liga-5131964.html",
+      "summary": "HLV Jose Mourinho từ chối giải thích việc không dự họp báo sau trận Real Madrid thắng Villarreal 1-0 ở vòng 8 La Liga, nhưng gợi ý truyền thông xem lại phút đầu tiên của trận đấu để hiểu nguyên nhân.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-14T02:12:10+07:00",
+      "fetched": "2026-10-14T10:25:27.064384+07:00"
+    },
+    {
+      "id": "0db3606eac6664b73aa38f34573d9b0b",
+      "title": "HLV Polking thất vọng khi CAHN 'mất bóng 8 lần trong 15 phút'",
+      "link": "https://vnexpress.net/hlv-polking-that-vong-khi-cahn-mat-bong-8-lan-trong-15-phut-5131955.html",
+      "summary": "HLV Mano Polking cho rằng các cầu thủ Công an Hà Nội thiếu tập trung đầu hiệp hai, dẫn đến thất bại 0-1 trước Kashima Antlers ở lượt hai vòng phân hạng AFC Champions League Elite 2026-2027.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-14T02:05:34+07:00",
+      "fetched": "2026-10-14T10:25:27.064536+07:00"
+    },
+    {
+      "id": "7e8b7538c5431e997ebdfdb0a22e6e22",
+      "title": "Lisandro Martinez công khai chỉ trích lãnh đạo Man Utd",
+      "link": "https://vnexpress.net/lisandro-martinez-cong-khai-chi-trich-lanh-dao-man-utd-5131969.html",
+      "summary": "Sau khi thua Atletico Madrid 0-2 ở lượt hai vòng phân hạng Champions League, trung vệ Lisandro Martinez chỉ trích ban lãnh đạo không đầu tư lực lượng mạnh mẽ trong kỳ chuyển nhượng hè.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-14T01:35:14+07:00",
+      "fetched": "2026-10-14T10:25:27.064676+07:00"
+    },
+    {
+      "id": "f1f0a44902c88fdf3b57a498b3a6b496",
+      "title": "Bayern suýt thua tân binh Champions League",
+      "link": "https://vnexpress.net/bayern-suyt-thua-tan-binh-champions-league-5131968.html",
+      "summary": "Nhờ cú đúp của tiền đạo Harry Kane, Bayern Munich mới có thể hòa tân binh Viking 3-3 sau khi bị dẫn trước 2-0 ở lượt hai vòng phân hạng Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-14T01:13:05+07:00",
+      "fetched": "2026-10-14T10:25:27.064810+07:00"
+    },
+    {
+      "id": "9e38a0831ab0882c4b0c843afdfc51f4",
+      "title": "Vệ tinh Mỹ nghi để lọt bệ phóng Nga, khiến Ukraine không kịp trở tay",
+      "link": "https://vnexpress.net/ve-tinh-my-nghi-de-lot-be-phong-nga-khien-ukraine-khong-kip-tro-tay-5131739.html",
+      "summary": "Ukraine không phát cảnh báo trước đòn tập kích tên lửa đạn đạo của Nga, có thể do mạng lưới vệ tinh Mỹ không phát hiện dấu hiệu khai hỏa.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-14T01:12:21+07:00",
+      "fetched": "2026-10-14T10:25:22.608984+07:00"
+    },
+    {
+      "id": "e106c061a9b43ee0965c5bde9bb1e513",
+      "title": "Arab Saudi tuyên bố hạ loạt tên lửa, UAV nhắm vào thủ đô",
+      "link": "https://vnexpress.net/arab-saudi-tuyen-bo-ha-loat-ten-lua-uav-nham-vao-thu-do-5131976.html",
+      "summary": "Liên quân của Arab Saudi thông báo đánh chặn 4 tên lửa hành trình và ba UAV nhằm vào thủ đô Riyadh và miền nam nước này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-14T01:06:54+07:00",
+      "fetched": "2026-10-14T10:25:22.608453+07:00"
+    },
+    {
+      "id": "5d44366333aed58319d2c1fc4463868b",
+      "title": "Man Utd gục ngã trước Atletico",
+      "link": "https://vnexpress.net/man-utd-guc-nga-truoc-atletico-5131965.html",
+      "summary": "Man Utd không thắng trận thứ năm liên tiếp trên mọi đấu trường, với thất bại 0-2 trước Atletico Madrid ở lượt hai vòng phân hạng Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-14T01:04:40+07:00",
+      "fetched": "2026-10-14T10:25:27.064942+07:00"
+    },
+    {
+      "id": "205055423e3edfb6083280b3af4225a0",
+      "title": "Yamal giúp Barca thắng ngược ở Champions League",
+      "link": "https://vnexpress.net/yamal-giup-barca-thang-nguoc-o-champions-league-5131967.html",
+      "summary": "Lamine Yamal có hai kiến tạo, giúp Barca ngược dòng hạ Galatasaray 4-1 ở lượt hai vòng phân hạng Champions League và duy trì thành tích toàn thắng 10 trận từ đầu mùa.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-14T00:57:52+07:00",
+      "fetched": "2026-10-14T10:25:27.065073+07:00"
+    },
+    {
+      "id": "aec012feb834290d070bce94130749e7",
+      "title": "Arsenal đại thắng ở Champions League",
+      "link": "https://vnexpress.net/arsenal-dai-thang-o-champions-league-5131966.html",
+      "summary": "Arsenal ghi ba bàn trong bảy phút để thắng đội khách Lille 3-0 ở lượt hai vòng phân hạng Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-14T00:37:10+07:00",
+      "fetched": "2026-10-14T10:25:27.065203+07:00"
     },
     {
       "id": "b7eb3e58130a37934cfc918d6d7215a8",
@@ -203,6 +643,56 @@ window.newsData_2026_10_14 = {
       "fetched": "2026-10-14T00:20:09.801917+07:00"
     },
     {
+      "id": "2f9a51cd09e6130df1bf2d9d11b52a2e",
+      "title": "Thương lái chi hoa hồng cao săn sầu Musang King trái vụ",
+      "link": "https://vnexpress.net/thuong-lai-chi-hoa-hong-cao-san-sau-musang-king-trai-vu-5131734.html",
+      "summary": "Khan hiếm sầu Musang King trái vụ khiến thương lái chấp nhận trả hoa hồng tới 6.000 đồng mỗi kg để tìm nơi thu mua.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-14T00:00:00+07:00",
+      "fetched": "2026-10-14T10:25:23.493161+07:00"
+    },
+    {
+      "id": "2d4ab6bfb251e2075cf720f46373a10a",
+      "title": "Giáo hoàng mắc ung thư phổi",
+      "link": "https://vnexpress.net/giao-hoang-mac-ung-thu-phoi-5131971.html",
+      "summary": "Vatican thông báo Giáo hoàng đang hồi phục tại bệnh viện sau ca phẫu thuật \"thành công\" nhằm cắt bỏ một phần phổi phải bị phát hiện có khối u ung thư.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-13T23:41:44+07:00",
+      "fetched": "2026-10-14T10:25:22.608587+07:00"
+    },
+    {
+      "id": "ea9121de0d74e1344c1865e550177b21",
+      "title": "Nhiều cổ phiếu 'nguội lạnh' trong mắt nhà đầu tư",
+      "link": "https://vnexpress.net/nhieu-co-phieu-nguoi-lanh-trong-mat-nha-dau-tu-5131954.html",
+      "summary": "Dòng tiền tập trung vào vài cổ phiếu trụ khiến nhiều mã của doanh nghiệp làm ăn tốt khác ít được chú ý.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-13T23:24:00+07:00",
+      "fetched": "2026-10-14T10:25:23.493301+07:00"
+    },
+    {
+      "id": "218255505e92ae013a36da741cac0e05",
+      "title": "iPhone Duo trang bị ống dẫn nhiệt ẩn trong bản lề",
+      "link": "https://vnexpress.net/iphone-duo-trang-bi-ong-dan-nhiet-an-trong-ban-le-5131918.html",
+      "summary": "Để duy trì hiệu năng cao cho chip A20 Pro trên iPhone Duo, Apple thiết kế ống dẫn nhiệt graphite uốn dẻo, chạy luồn qua bản lề để truyền nhiệt đều giữa hai nửa thân máy.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-10-13T23:02:35+07:00",
+      "fetched": "2026-10-14T10:25:25.277220+07:00"
+    },
+    {
+      "id": "3b2c60cc33fc3ad01943c7306bd963d5",
+      "title": "Đồng đội cũ ám chỉ Ronaldo đáng phải chịu án kỷ luật",
+      "link": "https://vnexpress.net/dong-doi-cu-am-chi-ronaldo-dang-phai-chiu-an-ky-luat-5131956.html",
+      "summary": "Cựu tuyển thủ Bồ Đào Nha Ricardo Quaresma cho rằng Cristiano Ronaldo phải chịu trách nhiệm về việc bỏ đội tuyển giữa UEFA Nations League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-13T22:46:44+07:00",
+      "fetched": "2026-10-14T10:25:27.065344+07:00"
+    },
+    {
       "id": "147c87d4e090becef029488560f2df6e",
       "title": "Tử vi ngày 14 tháng 10: Con giáp nào may mắn hôm nay?",
       "link": "https://thanhnien.vn/tu-vi-ngay-14-thang-10-con-giap-nao-may-man-hom-nay-18526101321572604.htm",
@@ -251,6 +741,16 @@ window.newsData_2026_10_14 = {
       "category": "Công nghệ",
       "published": "2026-10-13T22:00:00+07:00",
       "fetched": "2026-10-14T05:15:37.605137+07:00"
+    },
+    {
+      "id": "cd3377fd001899ce0ea898225e213cd4",
+      "title": "Loạt đối thủ tiềm năng của ông Zelensky nếu Ukraine tổ chức bầu cử",
+      "link": "https://vnexpress.net/loat-doi-thu-tiem-nang-cua-ong-zelensky-neu-ukraine-to-chuc-bau-cu-5131716.html",
+      "summary": "Sức ép ngày càng lớn từ Mỹ buộc Tổng thống Zelensky phải xem xét khả năng tổ chức bầu cử, nơi ông phải cạnh tranh với một số đối thủ tiềm năng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-13T22:00:00+07:00",
+      "fetched": "2026-10-14T10:25:22.608724+07:00"
     },
     {
       "id": "25baa8be1502e4d91cd894e49f8422a8",
@@ -1161,6 +1661,16 @@ window.newsData_2026_10_14 = {
       "category": "Công nghệ",
       "published": "2026-10-12T17:00:00+07:00",
       "fetched": "2026-10-14T00:20:15.999513+07:00"
+    },
+    {
+      "id": "12e28574e9080788c3021d9b21f7f6d7",
+      "title": "Nhà sáng tạo vật lộn chứng minh 'tính người' thời AI",
+      "link": "https://vnexpress.net/nha-sang-tao-vat-lon-chung-minh-tinh-nguoi-thoi-ai-5128776.html",
+      "summary": "AI đang tạo nên \"kỷ nguyên của sự ngờ vực\", khiến người làm nội dung phải tìm nhiều cách chứng minh như viết sai chính tả, ghi hình quá trình sáng tác, thuê luật sư.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-10-12T17:00:00+07:00",
+      "fetched": "2026-10-14T10:25:25.277771+07:00"
     },
     {
       "id": "7405b6376c970e2d67fd7cbe753a4a31",
