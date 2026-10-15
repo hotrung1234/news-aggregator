@@ -1,7 +1,37 @@
 window.newsData_2026_10_16 = {
   "date": "2026-10-16",
-  "lastUpdated": "2026-10-16T02:40:33.406240+07:00",
+  "lastUpdated": "2026-10-16T05:52:41.519866+07:00",
   "articles": [
+    {
+      "id": "d733c2659130a155329bf2f328ceee39",
+      "title": "Vòm thép chính cầu đi bộ qua sông Sài Gòn nặng 3.400 tấn đã lên siêu sà lan, sẵn sàng về trung tâm TP.HCM",
+      "link": "https://tuoitre.vn/vom-thep-chinh-cau-di-bo-qua-song-sai-gon-duoc-dich-chuyen-an-toan-len-sieu-sa-lan-san-sang-ve-trung-tam-tphcm-100261015222153497.htm",
+      "summary": "2h30 ngày 16-10, vòm thép chính cầu đi bộ qua sông Sài Gòn nặng 3.400 tấn đã được đưa lên siêu sà lan an toàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-16T05:52:33.360849+07:00",
+      "fetched": "2026-10-16T05:52:33.360886+07:00"
+    },
+    {
+      "id": "5ebe9ce32fbbf18529643642ec02ee1f",
+      "title": "VĐV bóng chuyền 14 tuổi của Việt Nam khóc nức nở vì bị ngoại binh đập bóng trúng mặt",
+      "link": "https://tuoitre.vn/vdv-bong-chuyen-14-tuoi-cua-viet-nam-khoc-nuc-no-vi-bi-ngoai-binh-dap-bong-trung-mat-100261016003957005.htm",
+      "summary": "Trong trận đấu tại Giải bóng chuyền nữ vô địch quốc gia 2026 tối 15-10, libero Quách Thị Hoài Ân bất ngờ trở thành nạn nhân sau cú đập bóng uy lực của đối phương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-16T05:52:33.360316+07:00",
+      "fetched": "2026-10-16T05:52:33.360351+07:00"
+    },
+    {
+      "id": "b147e1935c9c1a12fee00f3228ca3361",
+      "title": "Thời tiết hôm nay 16-10: Mưa to giảm, vài nơi chỉ còn mưa chiều",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-16-10-mua-to-giam-vai-noi-chi-con-mua-chieu-100261015183207322.htm",
+      "summary": "Hôm nay 16-10, mưa to trên cả nước đã chấm dứt, thời tiết ổn định hơn khi ban ngày trời nắng, về chiều tối vài nơi mưa rào kèm dông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-16T05:52:33.360189+07:00",
+      "fetched": "2026-10-16T05:52:33.360309+07:00"
+    },
     {
       "id": "d20cfd920d5c284fb5984ea47cb0d8bf",
       "title": "Liên doanh đóng tàu đầu tiên giữa Việt Nam - Hàn Quốc tròn 30 năm",
@@ -151,6 +181,176 @@ window.newsData_2026_10_16 = {
       "category": "Tổng hợp",
       "published": "2026-10-16T02:40:26.686123+07:00",
       "fetched": "2026-10-16T02:40:26.686530+07:00"
+    },
+    {
+      "id": "88f6c8a7dbdf5379fb1c2d56ac3080b4",
+      "title": "Phát triển hệ sinh thái khởi nghiệp",
+      "link": "https://thanhnien.vn/phat-trien-he-sinh-thai-khoi-nghiep-185261015222053415.htm",
+      "summary": "Tại cuộc đối thoại với thanh niên năm 2026 với chủ đề: \"Phát huy vai trò thanh niên Việt Nam trong khởi nghiệp, đổi mới sáng tạo, góp phần thúc đẩy tăng trưởng và tạo việc làm\" diễn ra hôm qua, Thủ tướng Chính phủ Lê Minh Hưng chỉ rõ: Với sự quan tâm của cả hệ thống chính trị và toàn xã hội, thời gi...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T22:52:00+07:00",
+      "fetched": "2026-10-16T05:52:31.553950+07:00"
+    },
+    {
+      "id": "c7b9742689c89e7ef73a609cc41a7652",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 16.10.2026",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-16102026-185261015224533524.htm",
+      "summary": "Tin tức Huy động người trẻ giải quyết những bài toán lớn; Vô tư quảng cáo bán hàng có liên đới trách nhiệm?; Quan hệ Mỹ - Ukraine lại sóng gió… có thể đón xem trên Báo Thanh Niên số ra ngày 16.10.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T22:48:00+07:00",
+      "fetched": "2026-10-16T05:52:31.554036+07:00"
+    },
+    {
+      "id": "be00d6780d3cd0722108a00661847977",
+      "title": "8 bang Mỹ đồng loạt kiện OpenAI",
+      "link": "https://thanhnien.vn/8-bang-my-dong-loat-kien-openai-18526101522444186.htm",
+      "summary": "Reuters ngày 14.10 đưa tin 8 bang tại Mỹ đã đồng loạt khởi kiện Công ty OpenAI với cáo buộc chatbot ChatGPT của doanh nghiệp này gây tổn hại cho người dùng, đặc biệt là trẻ em.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T22:45:00+07:00",
+      "fetched": "2026-10-16T05:52:31.554111+07:00"
+    },
+    {
+      "id": "ddbd105beef3cc87ec459b73da164054",
+      "title": "Cơ hội tái thiết kế nền giáo dục phổ thông",
+      "link": "https://thanhnien.vn/co-hoi-tai-thiet-ke-nen-giao-duc-pho-thong-185261015194946558.htm",
+      "summary": "Lần rà soát Chương trình giáo dục phổ thông 2018 này cần được nhìn nhận không chỉ như một công việc kỹ thuật mà là cơ hội tái thiết kế nền giáo dục phổ thông theo hướng rõ hơn, tinh gọn hơn, hiện đại hơn và công bằng hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T22:45:00+07:00",
+      "fetched": "2026-10-16T05:52:31.554182+07:00"
+    },
+    {
+      "id": "d8649ca202d2714c1be85b025689b64b",
+      "title": "'Lầu may' chợ Đông Ba: 80 tuổi vẫn ngồi bên máy may, không phải để kiếm tiền",
+      "link": "https://thanhnien.vn/lau-may-cho-dong-ba-80-tuoi-van-ngoi-ben-may-may-khong-phai-de-kiem-tien-185261014112235501.htm",
+      "summary": "Ở 'lầu may' chợ Đông Ba (Huế), những người thợ 75 - 80 tuổi vẫn đều đặn làm việc bên máy may cũ. Có ngày chỉ kiếm 80.000 đồng, nhưng các bà đi làm chủ yếu để khuây khỏa tuổi già.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T22:45:00+07:00",
+      "fetched": "2026-10-16T05:52:31.554252+07:00"
+    },
+    {
+      "id": "415746d88acd146ab693ee2cf9d06a9a",
+      "title": "Khảo sát 155 nhà hàng, phát hiện 35 nơi quảng cáo món ăn từ chim hoang dã",
+      "link": "https://thanhnien.vn/khao-sat-155-nha-hang-phat-hien-35-noi-quang-cao-mon-an-tu-chim-hoang-da-185261015173208885.htm",
+      "summary": "Khảo sát của Trung tâm Giáo dục thiên nhiên tại 4 địa bàn ghi nhận 35/155 nhà hàng quảng cáo món ăn từ chim hoang dã, giữa lúc mùa chim di cư bắt đầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T22:35:00+07:00",
+      "fetched": "2026-10-16T05:52:31.554322+07:00"
+    },
+    {
+      "id": "6ef1e784cf6c63a9965cba753dc58f13",
+      "title": "Tiêu điểm quốc tế ngày 16.10: Tàu hàng liên tiếp chìm ở Hormuz | Vì sao lũ quét tàn phá Nepal?",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-ngay-1610-tau-hang-lien-tiep-chim-o-hormuz-vi-sao-lu-quet-tan-pha-nepal-18526101522554683.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Tiêu điểm quốc tế' ngày 16.10.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T22:30:00+07:00",
+      "fetched": "2026-10-16T05:52:31.554391+07:00"
+    },
+    {
+      "id": "7747836d0c6d90bb7b80731026c06f79",
+      "title": "Trúng 2 tỉ xổ số miền Nam, cụ bà ở TP.HCM định về quê ăn tết lớn",
+      "link": "https://thanhnien.vn/trung-2-ti-xo-so-mien-nam-cu-ba-o-tphcm-dinh-ve-que-an-tet-lon-185261015181041332.htm",
+      "summary": "Được con cháu cho tiền chi tiêu hằng ngày, một cụ bà U.80 ở TP.HCM trích ra mua 1 tờ vé số, bất ngờ trúng độc đắc 2 tỉ đồng xổ số miền Nam. Tết Đinh Mùi 2027, bà định về quê ăn tết lớn cùng gia đình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T22:30:00+07:00",
+      "fetched": "2026-10-16T05:52:31.554466+07:00"
+    },
+    {
+      "id": "ea516b1795675929d30c1141817b6fce",
+      "title": "67 xe máy đi ngược chiều bị CSGT TP.HCM ghi hình phạt nguội chỉ trong 10 phút",
+      "link": "https://thanhnien.vn/67-xe-may-di-nguoc-chieu-bi-csgt-tphcm-ghi-hinh-phat-nguoi-chi-trong-10-phut-185261015202604647.htm",
+      "summary": "Chỉ trong 10 phút, CSGT TP.HCM ghi hình phạt nguội 67 xe máy đi ngược chiều trên đường Phan Văn Trị, phường Gò Vấp. Người vi phạm sẽ bị phạt 5 triệu, trừ 2 điểm bằng lái xe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T22:27:00+07:00",
+      "fetched": "2026-10-16T05:52:31.554545+07:00"
+    },
+    {
+      "id": "a690bcc349c86b1f5c98c685fad1f7a1",
+      "title": "TP.HCM bắt đầu đo đạc, kiểm đếm đất làm metro nối Bình Dương - TP.HCM",
+      "link": "https://thanhnien.vn/tphcm-bat-dau-do-dac-kiem-dem-dat-lam-metro-noi-binh-duong-tphcm-185261015200243028.htm",
+      "summary": "Nhiều phường tại TP.HCM bắt đầu điều tra, đo đạc, kiểm đếm đất và tài sản để phục vụ dự án metro thành phố mới Bình Dương - Suối Tiên dài hơn 30 km.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T22:26:00+07:00",
+      "fetched": "2026-10-16T05:52:31.554612+07:00"
+    },
+    {
+      "id": "295794c6ae7b3237109f3278985a1842",
+      "title": "Liên tiếp cây xanh bật gốc ở TP.HCM: Sở Xây dựng nói gì?",
+      "link": "https://thanhnien.vn/lien-tiep-cay-xanh-bat-goc-o-tphcm-so-xay-dung-noi-gi-185261015213148421.htm",
+      "summary": "Sau 2 vụ cây xanh bật gốc ở TP.HCM, Sở Xây dựng thông tin phạm vi quản lý, nêu dấu hiệu cây nguy hiểm cần đốn hạ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T22:20:00+07:00",
+      "fetched": "2026-10-16T05:52:31.554680+07:00"
+    },
+    {
+      "id": "a006599dbaa2fb7ab9bbdf10367510c3",
+      "title": "Loạt bất động sản gần 1.100 tỉ đồng của Trương Mỹ Lan chờ đấu giá",
+      "link": "https://thanhnien.vn/loat-bat-dong-san-gan-1100-ti-dong-cua-truong-my-lan-cho-dau-gia-185261015163409071.htm",
+      "summary": "7 bất động sản tại TP.HCM của bà Trương Mỹ Lan được định giá gần 1.100 tỉ đồng, và đang chờ Thi hành án dân sự TP.HCM tổ chức bán đấu giá để đảm bảo nghĩa vụ thi hành án của bà Lan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T22:18:00+07:00",
+      "fetched": "2026-10-16T05:52:31.554746+07:00"
+    },
+    {
+      "id": "c1ac80392c4f71a0b00f07f678dca0ce",
+      "title": "Tử vi ngày 16 tháng 10: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-16-thang-10-con-giap-nao-may-man-hom-nay-18526101521103489.htm",
+      "summary": "Tử vi ngày 16 tháng 10 mang đến những gợi ý tham khảo cho 12 con giáp. Có những tình huống đáng chú ý: người nhận được khoản tiền sớm hơn dự kiến, người tìm ra cách giải quyết vấn đề kéo dài, trong khi một số con giáp cần thận trọng với lời hứa và những quyết định vội vàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T22:15:00+07:00",
+      "fetched": "2026-10-16T05:52:31.554814+07:00"
+    },
+    {
+      "id": "0882e54f169d22bfef2c8b3a1acd6427",
+      "title": "Chuyện về những cảnh khuyển đặc biệt bảo vệ yếu nhân",
+      "link": "https://thanhnien.vn/chuyen-ve-nhung-canh-khuyen-dac-biet-bao-ve-yeu-nhan-185261015124954295.htm",
+      "summary": "Những cảnh khuyển thuộc Phòng Cảnh vệ miền Nam (Bộ Tư lệnh Cảnh vệ) là những 'chiến binh 4 chân' được huấn luyện với kỷ luật thép, tuyệt đối im lặng khi làm nhiệm vụ, góp phần bảo vệ an toàn yếu nhân và các sự kiện trọng đại của đất nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T22:15:00+07:00",
+      "fetched": "2026-10-16T05:52:31.554883+07:00"
+    },
+    {
+      "id": "06d9a2a3c92d41dcb43d9672bfbdfcf9",
+      "title": "Đi mưa, lội nước ngập: Làm gì để tránh nhiễm khuẩn da?",
+      "link": "https://thanhnien.vn/di-mua-loi-nuoc-ngap-lam-gi-de-tranh-nhiem-khuan-da-18526101600131312.htm",
+      "summary": "Sau khi lội nước ngập, những tổn thương nhỏ trên da có thể trở thành nơi để vi khuẩn xâm nhập. Bác sĩ khuyến cáo người dân vệ sinh da đúng cách sau khi đi mưa về và chú ý các dấu hiệu nhiễm trùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-15T22:12:00+07:00",
+      "fetched": "2026-10-16T05:52:31.554951+07:00"
+    },
+    {
+      "id": "60a099c59c9557f04c762f34d482b950",
+      "title": "Ác mộng tác chiến với Ukraine khi Mỹ siết Starlink",
+      "link": "https://vnexpress.net/ac-mong-tac-chien-voi-ukraine-khi-my-siet-starlink-5132690.html",
+      "summary": "Bị Mỹ ngắt Starshield giữa lúc Nga dội hỏa lực ồ ạt, Ukraine rơi vào thế nghìn cân treo sợi tóc khi không còn \"xương sống\" thông tin liên lạc và tác chiến.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-15T22:00:00+07:00",
+      "fetched": "2026-10-16T05:52:35.209226+07:00"
+    },
+    {
+      "id": "8ddfe97501395777b2db89efbcef3aaf",
+      "title": "Lo ngại về an toàn ở Asian Cup 2027",
+      "link": "https://vnexpress.net/lo-ngai-ve-an-toan-o-asian-cup-2027-5132709.html",
+      "summary": "An toàn cho người tham dự cần được đặt lên hàng đầu là thông điệp từ nhiều liên đoàn, hiệp hội và truyền thông thế giới, liên quan đến bất ổn ở Arab Saudi - nước chủ nhà Asian Cup 2027.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-15T21:00:50+07:00",
+      "fetched": "2026-10-16T05:52:41.516817+07:00"
     },
     {
       "id": "fedea5ea5efabcee21a9ac5d1874f958",
