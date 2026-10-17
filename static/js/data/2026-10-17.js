@@ -1,7 +1,237 @@
 window.newsData_2026_10_17 = {
   "date": "2026-10-17",
-  "lastUpdated": "2026-10-17T05:28:45.689844+07:00",
+  "lastUpdated": "2026-10-17T09:52:58.966523+07:00",
   "articles": [
+    {
+      "id": "1f38903e53f8932cb55b312fc8701a00",
+      "title": "Trận đấu không được phép thua của HLV Việt Thắng",
+      "link": "https://tuoitre.vn/tran-dau-khong-duoc-phep-thua-cua-hlv-viet-thang-100261016211202266.htm",
+      "summary": "Thua cả 3 trận đầu mùa, CLB Thành phố Đồng Nai sẽ có trận đấu bản lề với Bắc Ninh ở vòng 4 V-League 2026-2027. Một thất bại nữa sẽ khiến ghế HLV trưởng của Nguyễn Việt Thắng lung lay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T09:52:52.277510+07:00",
+      "fetched": "2026-10-17T09:52:52.277606+07:00"
+    },
+    {
+      "id": "681c41b1618c81f89fabc9af8e779495",
+      "title": "Chuyện lạ: Doanh nghiệp miền Tây đề xuất nhập khẩu lao động, nên không?",
+      "link": "https://tuoitre.vn/chuyen-la-doanh-nghiep-mien-tay-de-xuat-nhap-khau-lao-dong-nen-khong-100261015042940368.htm",
+      "summary": "Nhập khẩu lao động từ nước ngoài hay hướng lao động đã ly hương đến làm việc tại TP.HCM và Đông Nam Bộ trở về miền Tây, các doanh nghiệp tại miền Tây nói gì về vấn đề này?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T09:52:52.277384+07:00",
+      "fetched": "2026-10-17T09:52:52.277489+07:00"
+    },
+    {
+      "id": "2ee34764df137c7d77f62fed56892cd9",
+      "title": "Tesla Roadster biết bay, an toàn chưa phải ưu tiên hàng đầu",
+      "link": "https://tuoitre.vn/tesla-roadster-biet-bay-an-toan-chua-phai-uu-tien-hang-dau-100261016151258119.htm",
+      "summary": "Tesla Roadster thế hệ mới gây chú ý khi có thể bay lên không trung, nhào lộn và tăng tốc lên gần 100km/h trong 0,81 giây. Tuy nhiên, Elon Musk thừa nhận chiếc xe không nhất thiết được tối ưu về an toàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T09:52:52.277020+07:00",
+      "fetched": "2026-10-17T09:52:52.277367+07:00"
+    },
+    {
+      "id": "3c3a6c92dcdeaf8c374455662b18cbb8",
+      "title": "Khánh Hòa nghiên cứu, đề xuất xây trung tâm hành chính mới tại xã Cam Lâm, cách Nha Trang 60km",
+      "link": "https://tuoitre.vn/khanh-hoa-nghien-cuu-de-xuat-xay-trung-tam-hanh-chinh-moi-tai-xa-cam-lam-cach-nha-trang-60km-100261016214949948.htm",
+      "summary": "Sở Xây dựng tỉnh Khánh Hòa đã chỉ đạo tư vấn phối hợp với các đơn vị liên quan nghiên cứu, đề xuất khu trung tâm hành chính tỉnh tại xã Cam Lâm, cách Nha Trang gần 60km.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T09:52:52.276950+07:00",
+      "fetched": "2026-10-17T09:52:52.277008+07:00"
+    },
+    {
+      "id": "2e1f432ee0050c73eae36c2356d166ee",
+      "title": "2.206 đồng bào Thái hòa chung điệu xòe trong ‘siêu đám cưới bản Mường’ tại sân vận động",
+      "link": "https://tuoitre.vn/2206-dong-bao-thai-hoa-chung-dieu-xoe-trong-sieu-dam-cuoi-ban-muong-tai-san-van-dong-100261017073014469.htm",
+      "summary": "'Tôi xem mà nổi da gà mấy lần, chương trình rất hay, ý nghĩa. Nhiều phong tục đẹp của người Thái được đưa lên sân khấu lớn, cũng giúp tôi hiểu thêm về nét văn hóa truyền thống của họ', bà Tố Như (phường Lào Cai, Lào Cai) chia sẻ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T09:52:52.276878+07:00",
+      "fetched": "2026-10-17T09:52:52.276939+07:00"
+    },
+    {
+      "id": "336eec2376be85f8d0695f04b0be1178",
+      "title": "Phim truyền hình Trung Quốc lao dốc",
+      "link": "https://tuoitre.vn/phim-truyen-hinh-trung-quoc-lao-doc-100261014003252761.htm",
+      "summary": "Ngành phim truyền hình Trung Quốc đang trải qua một giai đoạn không mấy khả quan, với số lượng tác phẩm ăn khách ngày càng ít ỏi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T09:52:52.276806+07:00",
+      "fetched": "2026-10-17T09:52:52.276867+07:00"
+    },
+    {
+      "id": "56a82788a5ade43a215456148e9cb0ce",
+      "title": "Cơ hội sở hữu Le Parc Place, ParkCity Hanoi, với chính sách thanh toán hấp dẫn",
+      "link": "https://tuoitre.vn/co-hoi-so-huu-le-parc-place-parkcity-hanoi-voi-chinh-sach-thanh-toan-hap-dan-100261015161105583.htm",
+      "summary": "Là khu căn hộ cao cấp mới nhất của ParkCity Hanoi, Le Parc Place nổi bật với cảnh quan, vị trí và tiện ích đồng bộ. Giữa bối cảnh thị trường chú trọng giá trị thực, chính sách thanh toán hấp dẫn mở ra cơ hội sở hữu căn hộ cho người mua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T09:52:52.276704+07:00",
+      "fetched": "2026-10-17T09:52:52.276793+07:00"
+    },
+    {
+      "id": "aaaea53c444400645bd0c8d14791d081",
+      "title": "Hạ tầng Tây Nam TP.HCM đồng loạt bứt phá, đâu là dự án hấp dẫn",
+      "link": "https://tuoitre.vn/ha-tang-tay-nam-tphcm-dong-loat-but-pha-dau-la-du-an-hap-dan-100261016171120692.htm",
+      "summary": "Hệ thống giao thông khu Tây Nam TP.HCM đang bước vào giai đoạn hoàn thiện đồng bộ với hàng loạt công trình liên vùng quy mô lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T09:52:52.276630+07:00",
+      "fetched": "2026-10-17T09:52:52.276693+07:00"
+    },
+    {
+      "id": "2640491c0f42328f067c7c1d31b2540d",
+      "title": "Retreat Forest của Ecopark được vinh danh tại PropertyGuru 2026",
+      "link": "https://tuoitre.vn/retreat-forest-cua-ecopark-duoc-vinh-danh-tai-propertyguru-2026-100261016221622174.htm",
+      "summary": "Retreat Forest được vinh danh là Dự án nhà ở lấy cảm hứng từ thiên nhiên xuất sắc nhất tại PropertyGuru 2026. Cùng mùa giải, nhà sáng lập Ecopark nhận thêm hai giải thưởng cho The Palm Island và Forest Onsen.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T09:52:52.276549+07:00",
+      "fetched": "2026-10-17T09:52:52.276610+07:00"
+    },
+    {
+      "id": "7118210f6b4662f6a6531a9709e8136a",
+      "title": "Trộm cắp thiết bị điện: Món lời vài triệu, thiệt hại hàng trăm triệu đồng",
+      "link": "https://tuoitre.vn/trom-cap-thiet-bi-dien-mon-loi-vai-trieu-thiet-hai-hang-tram-trieu-dong-100261016225838652.htm",
+      "summary": "Trộm dây điện bán lõi đồng được vài triệu đồng, nhưng có thể gây thiệt hại hàng trăm triệu đồng mỗi vụ. Chín tháng năm 2026, ngành Điện Đồng Nai ghi nhận 27 vụ mất cắp thiết bị, chưa kể các vụ trên cao tốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T09:52:52.276475+07:00",
+      "fetched": "2026-10-17T09:52:52.276538+07:00"
+    },
+    {
+      "id": "d61f5fcf4fc3a3b315ee6ddc78e2b74b",
+      "title": "Bác sĩ giải thích vì sao vi rút đường hô hấp làm tăng khả năng lây truyền bệnh não mô cầu",
+      "link": "https://tuoitre.vn/bac-si-giai-thich-vi-sao-vi-rut-duong-ho-hap-lam-tang-kha-nang-lay-truyen-benh-nao-mo-cau-100261016235240618.htm",
+      "summary": "Khả năng lây truyền bệnh não mô cầu sẽ tăng nếu có đồng nhiễm cùng các vi rút đường hô hấp. Các bác sĩ giải thích rõ hơn cơ chế này, nhất là người mắc bệnh viêm đường hô hấp ở TP.HCM đang tăng, cùng trong thời điểm này ghi nhận 3 học sinh mắc não mô cầu, 1 em đã tử vong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T09:52:52.276404+07:00",
+      "fetched": "2026-10-17T09:52:52.276463+07:00"
+    },
+    {
+      "id": "379b599ab302be11b71d84e8bce0f80e",
+      "title": "Ngẩn ngơ trước vẻ đẹp Tăk Pổ: 'Thiên đường săn mây' mới nổi giữa núi rừng Đà Nẵng",
+      "link": "https://tuoitre.vn/ngan-ngo-truoc-ve-dep-tak-po-thien-duong-san-may-moi-noi-giua-nui-rung-da-nang-100261017052529231.htm",
+      "summary": "Ở độ cao hơn 1.000m so với mực nước biển, làng Tăk Pổ (xã Trà Tập, TP Đà Nẵng) trở thành 'tọa độ săn mây' cực hot của giới trẻ và du khách có niềm đam mê khám phá.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T09:52:52.276325+07:00",
+      "fetched": "2026-10-17T09:52:52.276391+07:00"
+    },
+    {
+      "id": "9b182af0eea24b878e7713359fa20140",
+      "title": "5 trái ác quỷ One Piece khiến phi lôi thần thuật của Minato gặp khó",
+      "link": "https://tuoitre.vn/5-trai-ac-quy-one-piece-khien-phi-loi-than-thuat-cua-minato-gap-kho-100261016185809434.htm",
+      "summary": "Phi lôi thần thuật giúp Minato Namikaze dịch chuyển tức thời, nhưng một số trái ác quỷ trong One Piece có thể khắc chế lợi thế này bằng cách làm chậm đối thủ, đảo lộn vị trí hoặc dựng lá chắn phòng thủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T09:52:52.276243+07:00",
+      "fetched": "2026-10-17T09:52:52.276312+07:00"
+    },
+    {
+      "id": "3cbece3dc2963827b770db65c1e01672",
+      "title": "Buổi sáng se lạnh, Đà Lạt ngàn hoa chào đón 120 tân SV Tây Nguyên được Tiếp sức đến trường",
+      "link": "https://tuoitre.vn/buoi-sang-se-lanh-da-lat-ngan-hoa-chao-don-120-tan-sv-tay-nguyen-duoc-tiep-suc-den-truong-100261017071300204.htm",
+      "summary": "Sáng 17-10, tại Đà Lạt, báo Tuổi Trẻ phối hợp Tỉnh đoàn Lâm Đồng tổ chức trao học bổng Tiếp sức đến trường năm 2026 cho 120 tân sinh viên có hoàn cảnh khó khăn, giàu nghị lực của 4 tỉnh Lâm Đồng, Đắk Lắk, Gia Lai và Quảng Ngãi. Tổng kinh phí chương trình hơn 1,9 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T09:52:52.276155+07:00",
+      "fetched": "2026-10-17T09:52:52.276230+07:00"
+    },
+    {
+      "id": "3a206b327132ef44b096af55a5ab20bf",
+      "title": "Lãnh đạo Đảng, Nhà nước, đại biểu Quốc hội vào lăng viếng Chủ tịch Hồ Chí Minh",
+      "link": "https://tuoitre.vn/lanh-dao-dang-nha-nuoc-dai-bieu-quoc-hoi-vao-lang-vieng-chu-tich-ho-chi-minh-100261017080646691.htm",
+      "summary": "Sáng 17-10, trước giờ khai mạc kỳ họp thứ 2, Quốc hội khóa XVI, lãnh đạo Đảng, Nhà nước, các đại biểu Quốc hội đến đặt vòng hoa, vào lăng viếng Chủ tịch Hồ Chí Minh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T09:52:52.275973+07:00",
+      "fetched": "2026-10-17T09:52:52.276138+07:00"
+    },
+    {
+      "id": "144df98e5450aaf035444dbcfd65a7ad",
+      "title": "Việt Nam có thể rơi vào bảng đấu ‘siêu nhẹ’ tại vòng loại World Cup 2030, nếu làm được điều này",
+      "link": "https://thanhnien.vn/viet-nam-co-the-roi-vao-bang-dau-sieu-nhe-tai-vong-loai-world-cup-2030-neu-lam-duoc-dieu-nay-185261016200222503.htm",
+      "summary": "Không loại trừ khả năng đội tuyển Việt Nam rơi vào bảng đấu có đến 3 đội Đông Nam Á tại vòng loại World Cup 2030, nếu như chúng ta giữ được vị trí trong nhóm hạt giống số 2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T02:52:00+07:00",
+      "fetched": "2026-10-17T09:52:50.719381+07:00"
+    },
+    {
+      "id": "3122e08cf2b3a6531853d60d91281cb1",
+      "title": "Thâm hụt ngân sách Mỹ tăng gần 2.000 tỉ USD, cao nhất từ năm 2021",
+      "link": "https://thanhnien.vn/tham-hut-ngan-sach-my-tang-gan-2000-ti-usd-cao-nhat-tu-nam-2021-185261017092736955.htm",
+      "summary": "Thâm hụt ngân sách Mỹ trong năm qua tăng gần 2.000 tỉ USD, mức cao nhất kể từ năm 2021 bất chấp cam kết cắt giảm chi tiêu của Tổng thống Donald Trump.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T02:51:00+07:00",
+      "fetched": "2026-10-17T09:52:50.719597+07:00"
+    },
+    {
+      "id": "69ce382cc4089a9cfbd1f22758d20b81",
+      "title": "Bệnh thận: 5 lầm tưởng nhiều người vẫn mắc phải",
+      "link": "https://thanhnien.vn/benh-than-5-lam-tuong-nhieu-nguoi-van-mac-phai-185261017094146574.htm",
+      "summary": "Bệnh thận mạn có thể tiến triển âm thầm trong nhiều năm, ngay cả khi người bệnh vẫn cảm thấy khỏe mạnh. Các bác sĩ cảnh báo 5 lầm tưởng phổ biến có thể khiến người bệnh bỏ lỡ cơ hội phát hiện bệnh sớm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T02:41:00+07:00",
+      "fetched": "2026-10-17T09:52:50.719851+07:00"
+    },
+    {
+      "id": "a58df186baa19bd8bc2879ec8db7d670",
+      "title": "Thủ tướng: Phấn đấu 2027 tăng trưởng GDP 10% trở lên",
+      "link": "https://thanhnien.vn/thu-tuong-phan-dau-2027-tang-truong-gdp-10-tro-len-185261017084552597.htm",
+      "summary": "Năm 2027 được xác định là năm tăng tốc, bứt phá, phấn đấu tăng trưởng từ 10% trở lên, gắn với giữ vững ổn định kinh tế vĩ mô, kiểm soát lạm phát, bảo đảm các cân đối lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T02:36:00+07:00",
+      "fetched": "2026-10-17T09:52:50.720033+07:00"
+    },
+    {
+      "id": "c47012d59ea1ead82a347da1214f6fa2",
+      "title": "Triều Tiên tuyên bố thử ngư lôi chính xác tốc độ cao sử dụng AI",
+      "link": "https://thanhnien.vn/trieu-tien-tuyen-bo-thu-ngu-loi-chinh-xac-toc-do-cao-su-dung-ai-185261017092814566.htm",
+      "summary": "CHDCND Triều Tiên hôm nay 17.10 thông báo đã tiến hành thử nghiệm dưới nước một hệ thống vũ khí ngư lôi dẫn đường chính xác mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T02:33:00+07:00",
+      "fetched": "2026-10-17T09:52:50.720197+07:00"
+    },
+    {
+      "id": "fab5edaf4c2cccea92ea052761094591",
+      "title": "Bánh tráng Tân Nhiên được công nhận Thương hiệu Quốc gia Việt Nam",
+      "link": "https://thanhnien.vn/banh-trang-tan-nhien-duoc-cong-nhan-thuong-hieu-quoc-gia-viet-nam-185261016191846111.htm",
+      "summary": "Tối 16.10 tại Hà Nội, Công ty TNHH Tân Nhiên, doanh nghiệp chuyên sản xuất, kinh doanh bánh tráng Tây Ninh, được Bộ Công thương công nhận đạt Thương hiệu Quốc gia Việt Nam năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T02:24:00+07:00",
+      "fetched": "2026-10-17T09:52:50.720380+07:00"
+    },
+    {
+      "id": "a7f2fe7e2ba84f48be7f706418d0d053",
+      "title": "Iran phản ứng sau khi bị tố khuyến khích Houthi tấn công Ả Rập Xê Út",
+      "link": "https://thanhnien.vn/iran-phan-ung-sau-khi-bi-to-khuyen-khich-houthi-tan-cong-a-rap-xe-ut-185261017084740127.htm",
+      "summary": "Tehran ngày 16.10 đã ra tuyên bố sau khi Ả Rập Xê Út tố Iran đã khuyến khích lực lượng Houthi gia tăng các hành động tấn công nhắm vào vương quốc này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T02:21:00+07:00",
+      "fetched": "2026-10-17T09:52:50.720551+07:00"
+    },
+    {
+      "id": "e0c8d4f0916d99495c9e5569a6cb1130",
+      "title": "Không chạy theo tiến độ mà xem nhẹ chất lượng, cũng không lấy thận trọng để trì hoãn",
+      "link": "https://thanhnien.vn/khong-chay-theo-tien-do-ma-xem-nhe-chat-luong-cung-khong-lay-than-trong-de-tri-hoan-185261017085201895.htm",
+      "summary": "Phát biểu khai mạc kỳ họp thứ 2, Chủ tịch Quốc hội Trần Thanh Mẫn nhấn mạnh tinh thần không vì sức ép tiến độ mà xem nhẹ chất lượng, nhưng cũng không lấy sự thận trọng làm lý do trì hoãn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T02:18:00+07:00",
+      "fetched": "2026-10-17T09:52:50.720746+07:00"
+    },
     {
       "id": "a6c5660eaa1dae4dadfc2777e9f1c6f4",
       "title": "Đội bóng chuyển 'hộ khẩu' có chiến thắng đầu tiên tại TP.HCM",
@@ -151,6 +381,206 @@ window.newsData_2026_10_17 = {
       "category": "Tổng hợp",
       "published": "2026-10-17T02:15:50.477971+07:00",
       "fetched": "2026-10-17T02:15:50.478094+07:00"
+    },
+    {
+      "id": "907b5e861541c96c59b6993aab6b830c",
+      "title": "Dùng AI tạo bản sao Microsoft Office miễn phí chạy trên trình duyệt",
+      "link": "https://thanhnien.vn/dung-ai-tao-ban-sao-microsoft-office-mien-phi-chay-tren-trinh-duyet-18526101708191974.htm",
+      "summary": "Bộ công cụ văn phòng miễn phí được 'vibe-coding' giống Microsoft Office và lưu toàn bộ tài liệu vào đường dẫn URL có gì đặc biệt?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T02:14:00+07:00",
+      "fetched": "2026-10-17T09:52:50.720923+07:00"
+    },
+    {
+      "id": "abc414cef2ab0526c517703e32d8d9d1",
+      "title": "Bảo tàng Trường Sa cần kỷ vật của cựu chiến binh, ngư dân, thân nhân liệt sĩ",
+      "link": "https://thanhnien.vn/bao-tang-truong-sa-can-ky-vat-cua-cuu-chien-binh-ngu-dan-than-nhan-liet-si-185261012104626188.htm",
+      "summary": "Khánh Hòa phát động cuộc vận động hiến tặng, sưu tầm tư liệu, hiện vật lịch sử trong 2 năm 2026 - 2027 để phục vụ trưng bày tại Bảo tàng Trường Sa. Người dân có thể gửi hiện vật qua bưu điện miễn phí hoặc đăng ký để bảo tàng đến tận nhà tiếp nhận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T02:07:00+07:00",
+      "fetched": "2026-10-17T09:52:50.721087+07:00"
+    },
+    {
+      "id": "41ff82673a8b3ffa61a2a59430c97f1e",
+      "title": "Giá USD hôm nay 17.10.2026: Đô la Mỹ, EUR, bảng Anh... cùng tăng",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-17102026-do-la-my-eur-bang-anh-cung-tang-185261017084206369.htm",
+      "summary": "Giá USD trong nước tăng, trong khi thế giới lại tiếp tục giảm. Các ngoại tệ khác trong ngân hàng tăng mạnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T02:03:00+07:00",
+      "fetched": "2026-10-17T09:52:50.721249+07:00"
+    },
+    {
+      "id": "fa4a31ce60d6336af206cf3035d8b632",
+      "title": "Việt Nam vào top điểm đến mùa thu đẹp nhất thế giới",
+      "link": "https://thanhnien.vn/viet-nam-vao-top-diem-den-mua-thu-dep-nhat-the-gioi-185261017081220807.htm",
+      "summary": "Việt Nam được gọi là 'một trong những đất nước kỳ diệu nhất thế giới' khi xuất hiện trong danh sách 15 xu hướng du lịch mùa thu 2026 của tạp chí tư vấn du lịch có trụ sở tại Mỹ Lonely Planet.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T02:02:00+07:00",
+      "fetched": "2026-10-17T09:52:50.721407+07:00"
+    },
+    {
+      "id": "170c3faead8eef4baf5bc5078059c42e",
+      "title": "Quản lý ổ dịch não mô cầu, dự phòng cho người tiếp xúc ca bệnh",
+      "link": "https://thanhnien.vn/quan-ly-o-dich-nao-mo-cau-du-phong-cho-nguoi-tiep-xuc-ca-benh-185261017084008194.htm",
+      "summary": "Bệnh nhân não mô cầu phải được cách ly. Ổ dịch não mô cầu được xác định khi ghi nhận từ 2 trường hợp bệnh trở lên (trong đó ít nhất một trường hợp bệnh xác định) khởi phát trong vòng 10 ngày có liên quan dịch tễ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T02:01:00+07:00",
+      "fetched": "2026-10-17T09:52:50.721562+07:00"
+    },
+    {
+      "id": "5d940ae1ffcc050fea26cd21ea52dc02",
+      "title": "Giá vàng hôm nay 17.10.2026: Người mua vàng nhẫn lỗ ngay 4 triệu đồng",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-17102026-nguoi-mua-vang-nhan-lo-ngay-4-trieu-dong-185261017080500971.htm",
+      "summary": "Giá vàng trong nước đứng yên nhưng người mua vàng nhẫn bị lỗ ngay đến 4 triệu đồng một lượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T02:01:00+07:00",
+      "fetched": "2026-10-17T09:52:50.721717+07:00"
+    },
+    {
+      "id": "3efc0b792a0819e55b7f315805b0c971",
+      "title": "Games ON: Hải Phòng 2026! Đón gần 50.000 lượt khách, khép lại thành công 3 trận chung kết Esports giải Vô địch quốc gia",
+      "link": "https://thanhnien.vn/games-on-hai-phong-2026-don-gan-50000-luot-khach-khep-lai-thanh-cong-3-tran-chung-ket-esports-giai-vo-dich-quoc-gia-185261017075354997.htm",
+      "summary": "Với gần 50.000 lượt khách tham dự, 9 khu vực trải nghiệm từ 20 tựa game, hàng nghìn phần quà và 3 trận chung kết Esports cấp quốc gia, Games ON: Hải Phòng 2026! tạo nên ngày hội đáng nhớ tại thành phố cảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-17T02:00:00+07:00",
+      "fetched": "2026-10-17T09:52:50.721901+07:00"
+    },
+    {
+      "id": "cd939c79e595dd0e77700a2729ff3b18",
+      "title": "Hơn 1.000 chuyên gia công nghệ quy tụ tại FPT Transform 2026",
+      "link": "https://vnexpress.net/hon-1-000-chuyen-gia-cong-nghe-quy-tu-tai-fpt-transform-2026-5132972.html",
+      "summary": "Với hơn 50 phiên thảo luận, 10 workshop kỹ thuật, 200 giải pháp AI, điện toán đám mây, dữ liệu... các chuyên gia trong và ngoài nước chia sẻ xu hướng công nghệ và định hình phát triển sản phẩm tại FPT Transform 2026, ngày 17/10.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-10-17T02:00:00+07:00",
+      "fetched": "2026-10-17T09:52:57.904646+07:00"
+    },
+    {
+      "id": "d915e4ffe82ee3709175d0b016390cf2",
+      "title": "Viettel Cyber Security và hai đối tác cung cấp dịch vụ SBOM+ tại Nhật",
+      "link": "https://vnexpress.net/viettel-cyber-security-va-hai-doi-tac-cung-cap-dich-vu-sbom-tai-nhat-5132729.html",
+      "summary": "Viettel Cyber Security hợp tác với hai đối tác Nhật cung cấp dịch vụ SBOM+, nền tảng giúp doanh nghiệp kiểm soát thành phần phần mềm và theo dõi lỗ hổng bảo mật.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-10-17T01:45:00+07:00",
+      "fetched": "2026-10-17T09:52:57.904843+07:00"
+    },
+    {
+      "id": "b5351160b75fc649915c7e7ab93362b1",
+      "title": "Techcom Life tăng vốn lên 4.300 tỷ đồng sau một năm thành lập",
+      "link": "https://vnexpress.net/techcom-life-tang-von-len-4-300-ty-dong-sau-mot-nam-thanh-lap-5133142.html",
+      "summary": "Sau một năm thành lập, Techcom Life vào top 5 doanh nghiệp bảo hiểm nhân thọ về doanh thu khai thác mới quý III, đồng thời hoàn tất tăng vốn điều lệ lên 4.300 tỷ đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-17T01:30:00+07:00",
+      "fetched": "2026-10-17T09:52:55.055071+07:00"
+    },
+    {
+      "id": "ef9e3da905710d6c46d87dccf6108922",
+      "title": "Triều Tiên thử nghiệm ngư lôi 'dùng AI truy đuổi mục tiêu'",
+      "link": "https://vnexpress.net/trieu-tien-thu-nghiem-ngu-loi-dung-ai-truy-duoi-muc-tieu-5133448.html",
+      "summary": "Triều Tiên tuyên bố thử thành công ngư lôi mới có hệ thống dẫn đường chính xác, sử dụng AI để định hướng và bám bắt mục tiêu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-17T01:20:38+07:00",
+      "fetched": "2026-10-17T09:52:53.975944+07:00"
+    },
+    {
+      "id": "52984f0f018eb95e33d22ffce61c1ecb",
+      "title": "Huawei vượt mốc sản xuất 100 triệu chip Kirin",
+      "link": "https://vnexpress.net/huawei-vuot-moc-san-xuat-100-trieu-chip-kirin-5132693.html",
+      "summary": "Huawei cho biết đã xuất xưởng hơn 100 triệu chip Kirin kể từ năm 2023, đồng thời thế hệ chip tiếp theo cũng đang tiến triển đúng kỳ vọng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-10-17T01:00:00+07:00",
+      "fetched": "2026-10-17T09:52:57.904263+07:00"
+    },
+    {
+      "id": "6b6b5ec1cc312e99e1492a1f7f58ab09",
+      "title": "Lời cáo chung cho kỷ nguyên 'Big 6' ở Ngoại hạng Anh",
+      "link": "https://vnexpress.net/loi-cao-chung-cho-ky-nguyen-big-6-o-ngoai-hang-anh-5133381.html",
+      "summary": "Tottenham, Man Utd và Liverpool sa sút, trong khi Aston Villa, Newcastle hay Brighton vươn lên, khiến nhóm sáu CLB từng thống trị Ngoại hạng Anh không còn độc chiếm vị trí hàng đầu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-17T00:59:32+07:00",
+      "fetched": "2026-10-17T09:52:58.960062+07:00"
+    },
+    {
+      "id": "83059c5388b18215866e47e39997397b",
+      "title": "Arsenal - từ bậc thầy bóng chết đến thứ bóng đá quyến rũ",
+      "link": "https://vnexpress.net/arsenal-tu-bac-thay-bong-chet-den-thu-bong-da-quyen-ru-5133153.html",
+      "summary": "\"Thứ bóng đá quyến rũ\" (sexy football) - như cách gọi của báo Anh Telegraph, đã quay trở lại Emirates, khi Arsenal gửi đi một thông điệp mạnh mẽ đến những ai từng gán cho họ cái mác nhàm chán hay đội bóng chỉ giỏi bóng chết.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-17T00:51:56+07:00",
+      "fetched": "2026-10-17T09:52:58.960268+07:00"
+    },
+    {
+      "id": "1527512f41950e175533c4057e95a6fb",
+      "title": "Giá dầu thô chạm 110 USD một thùng",
+      "link": "https://vnexpress.net/gia-dau-tho-cham-110-usd-mot-thung-5133453.html",
+      "summary": "Giá dầu Brent lên cao nhất 5 tháng trong phiên cuối tuần, khi các vụ tấn công liên tiếp xảy ra tại Trung Đông.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-17T00:39:41+07:00",
+      "fetched": "2026-10-17T09:52:55.054106+07:00"
+    },
+    {
+      "id": "455b0284e2de7f70583dad0af01a7280",
+      "title": "Giáo hoàng điện đàm với Tổng thống Putin từ bệnh viện",
+      "link": "https://vnexpress.net/giao-hoang-dien-dam-voi-tong-thong-putin-tu-benh-vien-5133445.html",
+      "summary": "Giáo hoàng Leo XIV điện đàm với Tổng thống Putin sau ca phẫu thuật ung thư phổi, kêu gọi ngừng bắn tại một thành phố ở tỉnh Kherson.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-17T00:13:40+07:00",
+      "fetched": "2026-10-17T09:52:53.976142+07:00"
+    },
+    {
+      "id": "626ac36a0ecbf6be23a1681e9cb0f5ba",
+      "title": "Ông Trump không biết ai đã ra lệnh hạn chế Starlink ở Ukraine",
+      "link": "https://vnexpress.net/ong-trump-khong-biet-ai-da-ra-lenh-han-che-starlink-o-ukraine-5133444.html",
+      "summary": "Tổng thổng Trump không rõ ai ra lệnh hạn chế Starlink ở Ukraine, khẳng định dịch vụ \"vẫn như trước\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-16T23:42:21+07:00",
+      "fetched": "2026-10-17T09:52:53.976317+07:00"
+    },
+    {
+      "id": "882d61665f4fe61f09ea2361de6c4272",
+      "title": "Man Utd có thực sự thiếu chiều sâu như nhận xét của Lisandro Martinez?",
+      "link": "https://vnexpress.net/man-utd-co-thuc-su-thieu-chieu-sau-nhu-nhan-xet-cua-lisandro-martinez-5133428.html",
+      "summary": "Việc trung vệ Lisandro Martinez công khai chỉ trích ban lãnh đạo Man Utd có thể chưa đúng thời điểm, nhưng những thống kê về chiều sâu đội hình cho thấy sự bất cân đối đáng lo ngại của đội chủ sân Old Trafford.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-16T23:35:46+07:00",
+      "fetched": "2026-10-17T09:52:58.960448+07:00"
+    },
+    {
+      "id": "8f960e96f0918cc86681245691d4ae9c",
+      "title": "Tân thư ký báo chí Nhà Trắng mất chức sau chưa đầy một tuần",
+      "link": "https://vnexpress.net/tan-thu-ky-bao-chi-nha-trang-mat-chuc-sau-chua-day-mot-tuan-5133443.html",
+      "summary": "Thư ký báo chí Nhà Trắng Katie Zacharia rời vị trí sau 5 ngày giữ chức, do chuỗi sai lầm liên tiếp gây thêm rắc rối cho Tổng thống Trump.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-10-16T23:33:02+07:00",
+      "fetched": "2026-10-17T09:52:53.976497+07:00"
+    },
+    {
+      "id": "ac007129ee7aa6d0cafdaf3f1ad0cd16",
+      "title": "3 phao cứu sinh của Man City trong vụ kiện ở Ngoại hạng Anh",
+      "link": "https://vnexpress.net/3-phao-cuu-sinh-cua-man-city-trong-vu-kien-o-ngoai-hang-anh-5133425.html",
+      "summary": "Man City dựa vào sao kê ngân hàng, hồ sơ chính phủ Abu Dhabi và lời khai của 24 nhân chứng để tìm cách đảo ngược kết luận vi phạm tài chính ở Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-16T23:24:03+07:00",
+      "fetched": "2026-10-17T09:52:58.960616+07:00"
     },
     {
       "id": "3bb998402ac13e1a0d8a0729fc031770",
