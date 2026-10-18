@@ -1,7 +1,107 @@
 window.newsData_2026_10_19 = {
   "date": "2026-10-19",
-  "lastUpdated": "2026-10-19T00:03:43.854528+07:00",
+  "lastUpdated": "2026-10-19T03:02:56.114290+07:00",
   "articles": [
+    {
+      "id": "1b84f8162f1489d8cf154b1487d463ad",
+      "title": "Kiến tạo môi trường để thanh niên yêu nước và sống đẹp",
+      "link": "https://tuoitre.vn/kien-tao-moi-truong-de-thanh-nien-yeu-nuoc-va-song-dep-100261018104725111.htm",
+      "summary": "Chương trình kỷ niệm 70 năm Ngày truyền thống Hội Liên hiệp thanh niên Việt Nam tại TP.HCM vừa được tổ chức tối 18-10 tại phố đi bộ Nguyễn Huệ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-19T03:02:48.144043+07:00",
+      "fetched": "2026-10-19T03:02:48.144100+07:00"
+    },
+    {
+      "id": "6b8abd7181d16fd7c28983493e7ad20b",
+      "title": "CLB Becamex TP.HCM ngược dòng ngoạn mục",
+      "link": "https://tuoitre.vn/clb-becamex-tphcm-nguoc-dong-ngoan-muc-100261018193305391.htm",
+      "summary": "Ngược dòng ngoạn mục ở phút 90+4, CLB Becamex TP.HCM đã thắng chủ nhà CLB TP.HCM 2-1 ở vòng 3 Giải hạng nhất 2026-2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-19T03:02:48.143976+07:00",
+      "fetched": "2026-10-19T03:02:48.144033+07:00"
+    },
+    {
+      "id": "a409863dcb9b2a40389b23fe150dddc7",
+      "title": "Man United không thắng trận thứ năm liên tiếp ở Premier League",
+      "link": "https://tuoitre.vn/man-united-khong-thang-tran-thu-nam-lien-tiep-o-premier-league-100261018223120091.htm",
+      "summary": "Tối 18-10, Man United tiếp tục gây thất vọng khi để Leeds cầm chân 1-1 ở vòng 7 Giải ngoại hạng Anh (Premier League).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-19T03:02:48.143908+07:00",
+      "fetched": "2026-10-19T03:02:48.143966+07:00"
+    },
+    {
+      "id": "a0ea8f1f779ee06a0d5e6d356d451f3d",
+      "title": "Đấu giá quyền khai thác công viên Thùy Vân ở Vũng Tàu, không gian công cộng vẫn miễn phí",
+      "link": "https://tuoitre.vn/dau-gia-quyen-khai-thac-cong-vien-thuy-van-o-vung-tau-khong-gian-cong-cong-van-mien-phi-100261018223918731.htm",
+      "summary": "Công viên Thùy Vân ở Vũng Tàu sẽ được đấu giá quyền khai thác một số hạng mục nhưng vẫn giữ tính chất công viên công cộng, không thu tiền đối với các nhu cầu sử dụng chung.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-19T03:02:48.143840+07:00",
+      "fetched": "2026-10-19T03:02:48.143898+07:00"
+    },
+    {
+      "id": "8911594970e0ae9cf2bb7dfbc2d2bd02",
+      "title": "Kết quả, bảng xếp hạng Giải bóng chuyền nữ quốc gia ngày 18-10",
+      "link": "https://tuoitre.vn/ket-qua-bang-xep-hang-giai-bong-chuyen-nu-quoc-gia-ngay-18-10-100261018223959232.htm",
+      "summary": "Các trận đấu trong ngày 18-10 của Giải bóng chuyền nữ vô địch quốc gia 2026 diễn ra với diễn biến nghẹt thở.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-19T03:02:48.143771+07:00",
+      "fetched": "2026-10-19T03:02:48.143829+07:00"
+    },
+    {
+      "id": "0d5d35ce91c3305ff6f4198f2857eebe",
+      "title": "HLV Polking: 'CLB Công An Hà Nội chơi không tốt, thiếu quyết liệt'",
+      "link": "https://tuoitre.vn/hlv-polking-clb-cong-an-ha-noi-choi-khong-tot-thieu-quyet-liet-100261018224249166.htm",
+      "summary": "HLV Harry Kewell hạnh phúc, trong khi người đồng nghiệp Alexandre Polking thất vọng về kết quả derby giữa CLB Công An Hà Nội và Hà Nội ở vòng 4 LPBank V-League 2026-2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-19T03:02:48.143702+07:00",
+      "fetched": "2026-10-19T03:02:48.143760+07:00"
+    },
+    {
+      "id": "740c08dde79ee5e879b34bc88cbe1739",
+      "title": "Ông Zelensky: 'Biết ơn vì được Mỹ nối lại chia sẻ tình báo'",
+      "link": "https://tuoitre.vn/ong-zelensky-biet-on-vi-duoc-my-noi-lai-chia-se-tinh-bao-100261018225312421.htm",
+      "summary": "Tổng thống Ukraine thông báo đã được Mỹ nối lại chia sẻ tình báo, trong khi Điện Kremlin khẳng định việc Kiev tấn công St. Petersburg không thay đổi điều gì.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-19T03:02:48.143631+07:00",
+      "fetched": "2026-10-19T03:02:48.143691+07:00"
+    },
+    {
+      "id": "d145a9e6fb0721eca0b21914bff157b0",
+      "title": "Văn Quyết nói về niềm tự hào của CLB Hà Nội sau trận thắng Công An Hà Nội",
+      "link": "https://tuoitre.vn/van-quyet-noi-ve-niem-tu-hao-cua-clb-ha-noi-sau-tran-thang-cong-an-ha-noi-100261018230903887.htm",
+      "summary": "Đội trưởng Nguyễn Văn Quyết nhắc nhở toàn đội về trách nhiệm gìn giữ giá trị tinh thần của CLB Hà Nội gắn với sân Hàng Đẫy, sau trận thắng 2-1 trước Công An Hà Nội ở vòng 4 V-League 2026-2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-19T03:02:48.143557+07:00",
+      "fetched": "2026-10-19T03:02:48.143620+07:00"
+    },
+    {
+      "id": "71377edf33baf252f6b42cff0b6954de",
+      "title": "Cao tốc về Hà Nội ùn tắc dài 10km do tai nạn tông đuôi nhau",
+      "link": "https://tuoitre.vn/cao-toc-ve-ha-noi-un-tac-dai-10km-do-tai-nan-tong-duoi-nhau-100261019001646678.htm",
+      "summary": "Vụ tai nạn giao thông liên hoàn giữa 3 ô tô làm giao thông trên tuyến cao tốc Pháp Vân - Ninh Bình (hướng về Hà Nội) ùn chậm kéo dài gần 10km từ điểm xảy ra tai nạn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-19T03:02:48.143478+07:00",
+      "fetched": "2026-10-19T03:02:48.143546+07:00"
+    },
+    {
+      "id": "6f84b5370d826904bba276732b898efc",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân lên đường công du châu Âu",
+      "link": "https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-to-lam-va-phu-nhan-len-duong-cong-du-chau-au-100261018213420636.htm",
+      "summary": "Rạng sáng 19-10, Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân Ngô Phương Ly cùng đoàn đại biểu cấp cao Việt Nam rời Hà Nội, lên đường thăm Đan Mạch, EU và Bỉ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-10-19T03:02:48.143306+07:00",
+      "fetched": "2026-10-19T03:02:48.143462+07:00"
+    },
     {
       "id": "a1f7c8dcbdea4574756a7273cb63e775",
       "title": "Hoàng Anh Gia Lai thua Ninh Bình dù chơi hơn người trong phần lớn trận đấu",
@@ -151,6 +251,96 @@ window.newsData_2026_10_19 = {
       "category": "Tổng hợp",
       "published": "2026-10-19T00:03:35.771552+07:00",
       "fetched": "2026-10-19T00:03:35.771683+07:00"
+    },
+    {
+      "id": "d3a369527eaa8ff3577e2a63a9307912",
+      "title": "Đội tuyển Việt Nam nhận tin vui từ các cựu binh",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-nhan-tin-vui-tu-cac-cuu-binh-185261018222314849.htm",
+      "summary": "Chỉ còn 3 tháng nữa sẽ đến Asian Cup 2027, đội tuyển VN nhận tin vui khi hàng loạt cựu binh trở lại mạnh mẽ và gây ấn tượng với HLV Kim Sang-sik.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-18T20:00:00+07:00",
+      "fetched": "2026-10-19T03:02:45.984857+07:00"
+    },
+    {
+      "id": "4854e5ce221695422b7f3167f8a81718",
+      "title": "Bảng xếp hạng Ngoại hạng Anh mới nhất: Tốp 3 có bất ngờ, Tottenham đứng dưới đáy",
+      "link": "https://thanhnien.vn/bang-xep-hang-ngoai-hang-anh-moi-nhat-top-3-co-bat-ngo-tottenham-dung-duoi-day-185261019004940575.htm",
+      "summary": "Brighton bất ngờ chơi thăng hoa, chen chân vào tốp 3 Ngoại hạng Anh 2026 - 2027 sau vòng đấu thứ 7. Trong khi đó, M.U và Tottenham tiếp tục cho thấy sự bất ổn khi đứng ở những vị trí rất thấp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-18T19:38:00+07:00",
+      "fetched": "2026-10-19T03:02:45.985028+07:00"
+    },
+    {
+      "id": "ca23d44ef8118af6ff40df88bf936cdc",
+      "title": "Các CLB bóng chuyền tại Việt Nam thành bại không chỉ tại ngoại binh",
+      "link": "https://thanhnien.vn/cac-clb-bong-chuyen-tai-viet-nam-thanh-bai-khong-chi-tai-ngoai-binh-18526101822284241.htm",
+      "summary": "Cả 8 CLB đều chiêu mộ ngoại binh tham dự giai đoạn 2 và vòng chung kết giải bóng chuyền nữ vô địch quốc gia 2026 đang diễn ra ở Vĩnh Long, nhưng không phải đội bóng nào cũng thành công.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-18T19:28:00+07:00",
+      "fetched": "2026-10-19T03:02:45.985185+07:00"
+    },
+    {
+      "id": "31f748787fae05df3bd0d026ecc62cb3",
+      "title": "Arsenal thắng nhọc ở Ngoại hạng Anh",
+      "link": "https://vnexpress.net/arsenal-thang-nhoc-o-ngoai-hang-anh-5133950.html",
+      "summary": "Arsenal ghi bàn từ cú sút trúng đích duy nhất của Noni Madueke để thắng 1-0 trên sân Nottingham Forest ở vòng bảy Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-10-18T19:09:51+07:00",
+      "fetched": "2026-10-19T03:02:56.109153+07:00"
+    },
+    {
+      "id": "95d9f9c867731373268b50f753b41f6d",
+      "title": "Loại củ nào có bằng chứng khoa học giúp hạ huyết áp?",
+      "link": "https://thanhnien.vn/loai-cu-nao-co-bang-chung-khoa-hoc-giup-ha-huyet-ap-185261018212035652.htm",
+      "summary": "Huyết áp cao không được kiểm soát tốt có thể dẫn đến đột quỵ, mắc bệnh tim và tổn thương thận nghiêm trọng. Tuy nhiên, người bệnh có thể kiểm soát hiệu quả tình trạng này thông qua việc điều chỉnh chế độ ăn uống lành mạnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-18T17:20:00+07:00",
+      "fetched": "2026-10-19T03:02:45.985339+07:00"
+    },
+    {
+      "id": "5029fdf9cd20a7e43e0bc3ba12b24fb1",
+      "title": "Uống trà, cà phê thế nào để bảo vệ sức khỏe thận?",
+      "link": "https://thanhnien.vn/uong-tra-ca-phe-the-nao-de-bao-ve-suc-khoe-than-18526101821370145.htm",
+      "summary": "Uống trà hay cà phê vừa phải nhìn chung an toàn với người khỏe mạnh. Tuy nhiên, lượng dùng, cách pha chế và thể trạng mỗi người đều ảnh hưởng trực tiếp đến sức khỏe của thận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-18T17:17:00+07:00",
+      "fetched": "2026-10-19T03:02:45.985525+07:00"
+    },
+    {
+      "id": "890ed953e676e4ced427c7363a0d81c9",
+      "title": "Sau 30 tuổi: Vì sao càng ăn đạm càng bị xệ cơ, đau khớp?",
+      "link": "https://thanhnien.vn/sau-30-tuoi-vi-sao-cang-an-dam-cang-bi-xe-co-dau-khop-18526101609275158.htm",
+      "summary": "Sau mốc 30 tuổi, cơ thể âm thầm mất đi từ 3–8% khối lượng cơ bắp sau mỗi thập kỷ. Nhiều người cố bổ sung ăn đạm nhưng lại mắc phải bẫy \"ăn dồn vào bữa tối\", khiến cơ thể không thể hấp thụ trọn vẹn, dẫn đến tình trạng xệ cơ, tích mỡ bụng và gia tăng áp lực lên hệ xương khớp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-18T17:16:00+07:00",
+      "fetched": "2026-10-19T03:02:45.985681+07:00"
+    },
+    {
+      "id": "5563da5364b6173675fa817b039f5b0d",
+      "title": "Vì sao càng lớn tuổi càng khó giảm cân?",
+      "link": "https://thanhnien.vn/vi-sao-cang-lon-tuoi-cang-kho-giam-can-185261018184651985.htm",
+      "summary": "Khi bước qua tuổi 40, nhiều người nhận thấy cân nặng dễ tăng hơn, vòng bụng lớn dần, giảm cân không còn hiệu quả như những năm 20 tuổi. Dù đã ăn ít hơn hoặc tập luyện thường xuyên, cân nặng vẫn giảm chậm, thậm chí chững lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-10-18T17:14:00+07:00",
+      "fetched": "2026-10-19T03:02:45.985838+07:00"
+    },
+    {
+      "id": "e3e32e70fb53c800ad1e296c68176597",
+      "title": "Kiếm triệu USD nhờ làm trang trại bí ngô",
+      "link": "https://vnexpress.net/kiem-trieu-usd-nho-lam-trang-trai-bi-ngo-5133755.html",
+      "summary": "Ông Kelly Schultz (74 tuổi) chỉ mở cửa trang trại bí ngô 7 tuần mỗi năm vào dịp Halloween, nhưng thu về 2 triệu USD năm ngoái.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-10-18T17:03:00+07:00",
+      "fetched": "2026-10-19T03:02:51.702884+07:00"
     },
     {
       "id": "86fd4a83832133426b758b12f9de4460",
