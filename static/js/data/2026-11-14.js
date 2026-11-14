@@ -1,7 +1,87 @@
 window.newsData_2026_11_14 = {
   "date": "2026-11-14",
-  "lastUpdated": "2026-11-14T02:09:58.585713+07:00",
+  "lastUpdated": "2026-11-14T07:38:14.770869+07:00",
   "articles": [
+    {
+      "id": "d5860445493c217c37b57c6380417858",
+      "title": "Tin tức sáng 14-11: TP.HCM đề xuất chỉnh trang, nâng cấp 8 công viên hiện hữu quy mô 106ha",
+      "link": "https://tuoitre.vn/tin-tuc-sang-14-11-tphcm-de-xuat-chinh-trang-nang-cap-8-cong-vien-hien-huu-quy-mo-106ha-100261113215612002.htm",
+      "summary": "Tin tức đáng chú ý: TP.HCM đề xuất chỉnh trang, nâng cấp 8 công viên hiện hữu quy mô 106ha; Việt Nam lần đầu tiên đăng cai hội nghị thường niên Hội Phẫu thuật tim mạch lồng ngực thế giới; Đưa tác phẩm nghệ thuật đỉnh cao, bảo vật, cổ vật quý hiếm của Việt Nam ở nước ngoài về nước...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T07:38:10.475462+07:00",
+      "fetched": "2026-11-14T07:38:10.475518+07:00"
+    },
+    {
+      "id": "b6f5fd8cffc47bde8f2b19a96af73130",
+      "title": "Thời tiết hôm nay 14-11: Bắc Bộ, Trung Bộ giảm mưa; Nam Bộ chiều tối mưa rào",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-14-11-bac-bo-trung-bo-giam-mua-nam-bo-chieu-toi-mua-rao-100261113165904079.htm",
+      "summary": "Hôm nay 14-11, thời tiết Bắc Bộ giảm mưa, trời hửng nắng, Trung Bộ cũng bớt mưa to, Nam Bộ nhiều mây, chiều tối mưa rào.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T07:38:10.475388+07:00",
+      "fetched": "2026-11-14T07:38:10.475446+07:00"
+    },
+    {
+      "id": "002258ee2e295aef4a2c58a847269542",
+      "title": "Lịch trực tiếp Giải U23 - Gia Lai VTV Cup 2026: Việt Nam quyết đấu Qatar",
+      "link": "https://tuoitre.vn/lich-truc-tiep-giai-u23-gia-lai-vtv-cup-2026-viet-nam-quyet-dau-qatar-10026111313173224.htm",
+      "summary": "U23 Việt Nam sẽ đối đầu U23 Qatar lúc 19h ngày 14-11 trên sân Pleiku, ở lượt trận cuối Giải giao hữu quốc tế U23 - Gia Lai VTV Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T07:38:10.475316+07:00",
+      "fetched": "2026-11-14T07:38:10.475377+07:00"
+    },
+    {
+      "id": "c84e78578837d9d617f16d735434e2fb",
+      "title": "10 năm, Lệ Thủy, Thoại Miêu, Phương Hồng Thủy nhớ nghệ sĩ Út Bạch Lan",
+      "link": "https://tuoitre.vn/10-nam-le-thuy-thoai-mieu-phuong-hong-thuy-nho-nghe-si-ut-bach-lan-100261113203213432.htm",
+      "summary": "Ngày 13-11, rất nhiều nghệ sĩ như Lệ Thủy, Chí Tâm, Thoại Miêu, Phương Hồng Thủy… đã cùng họp mặt để tưởng nhớ 10 năm ngày nghệ sĩ Út Bạch Lan ra đi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T07:38:10.475239+07:00",
+      "fetched": "2026-11-14T07:38:10.475304+07:00"
+    },
+    {
+      "id": "eb9df1663c52c5d326d88f3239acbdc5",
+      "title": "Miss Universe công bố vương miện đính 3.150 viên kim cương",
+      "link": "https://tuoitre.vn/miss-universe-cong-bo-vuong-mien-dinh-3150-vien-kim-cuong-10026111401403916.htm",
+      "summary": "Vương miện mới của Miss Universe được chế tác từ vàng trắng 18K, đính 3.150 viên kim cương, mang ý nghĩa tôn vinh hành trình 75 năm và những thế hệ phụ nữ góp phần tạo nên lịch sử cuộc thi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T07:38:10.475154+07:00",
+      "fetched": "2026-11-14T07:38:10.475227+07:00"
+    },
+    {
+      "id": "94256a7895340271f06c303a1d772d4b",
+      "title": "Võ Điền Gia Huy soán ngôi Steven Nguyễn, Running Man 2026 tạm dẫn đầu đề cử Mai Vàng 2026",
+      "link": "https://tuoitre.vn/vo-dien-gia-huy-soan-ngoi-steven-nguyen-running-man-2026-tam-dan-dau-de-cu-mai-vang-2026-100261113210536211.htm",
+      "summary": "Sau 5 tuần đề cử giải Mai Vàng lần thứ 32 năm 2026, nhiều hạng mục ghi nhận sự thay đổi đáng kể.Võ Điền Gia Huy bất ngờ vượt Steven Nguyễn để vươn lên dẫn đầu hạng mục Nam diễn viên điện ảnh - truyền hình được yêu thích nhất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T07:38:10.475074+07:00",
+      "fetched": "2026-11-14T07:38:10.475142+07:00"
+    },
+    {
+      "id": "a9a2fdeb70e02290a79da056dc9c62f3",
+      "title": "Chèo, tuồng, quan họ với hiphop mở màn 16 ngày Lễ hội Thiết kế sáng tạo Hà Nội",
+      "link": "https://tuoitre.vn/cheo-tuong-quan-ho-voi-hiphop-mo-man-16-ngay-le-hoi-thiet-ke-sang-tao-ha-noi-100261113233955754.htm",
+      "summary": "Phần biểu diễn nghệ thuật ‘nghệ của nghệ’ tại Lễ hội Thiết kế Sáng tạo Hà Nội năm 2026 nhận được nhiều sự yêu thích của khán giả trong và ngoài nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T07:38:10.474976+07:00",
+      "fetched": "2026-11-14T07:38:10.475062+07:00"
+    },
+    {
+      "id": "d22bad20350151fb7ef9e2298318fabd",
+      "title": "Thủ môn vào bóng gây chết người ở Tây Ban Nha nhận án phạt",
+      "link": "https://tuoitre.vn/thu-mon-vao-bong-gay-chet-nguoi-o-tay-ban-nha-nhan-an-phat-100261114054722107.htm",
+      "summary": "Thủ môn Jesus Owono (CLB Andorra) cuối cùng đã nhận án phạt nặng sau pha vào bóng nguy hiểm khiến tiền đạo Jesus de Miguel qua đời.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T07:38:10.474771+07:00",
+      "fetched": "2026-11-14T07:38:10.474957+07:00"
+    },
     {
       "id": "2aa97b9709c0b000cec4c61f420b6213",
       "title": "Tuyển sinh đại học 2027: Siết phương thức xét tuyển, giảm điểm cộng, bớt giấy tờ",
@@ -151,6 +231,286 @@ window.newsData_2026_11_14 = {
       "category": "Tổng hợp",
       "published": "2026-11-14T02:09:51.055959+07:00",
       "fetched": "2026-11-14T02:09:51.056098+07:00"
+    },
+    {
+      "id": "50f616a99f7916bfefb063a1e1d7c5b7",
+      "title": "Mỹ bắn hạ 2 UAV tự sát của Iran, Tehran phát thông điệp mới về hạt nhân?",
+      "link": "https://thanhnien.vn/my-ban-ha-2-uav-tu-sat-cua-iran-tehran-phat-thong-diep-moi-ve-hat-nhan-185261114073414402.htm",
+      "summary": "Quân đội Mỹ ngày 13.11 tuyên bố đã bắn hạ 2 máy bay không người lái (UAV) tấn công của Iran đang hướng về phía Bahrain.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T00:36:00+07:00",
+      "fetched": "2026-11-14T07:38:07.416790+07:00"
+    },
+    {
+      "id": "8e92f07598b9bd2c42267c783e22ca73",
+      "title": "Diễn viên Tấn Bo trước khi vướng vòng lao lý",
+      "link": "https://thanhnien.vn/dien-vien-tan-bo-truoc-khi-vuong-vong-lao-ly-185261114010135119.htm",
+      "summary": "Trước khi vướng vòng lao lý, Tấn Bo được biết đến là một diễn viên hài, từng gây chú ý khi kết hợp trong các tiểu phẩm với anh trai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T00:12:00+07:00",
+      "fetched": "2026-11-14T07:38:07.417024+07:00"
+    },
+    {
+      "id": "70a71d114ae44074b9309a672b78ade6",
+      "title": "Số phận lạ của biệt thự Mike Tyson từng nuôi hổ",
+      "link": "https://vnexpress.net/so-phan-la-cua-biet-thu-mike-tyson-tung-nuoi-ho-5143596.html",
+      "summary": "Biệt thự rộng hơn 2.300 mét vuông từng có bể bơi trong nhà và chuồng nuôi bốn con hổ của huyền thoại quyền Anh Mike Tyson được cải tạo thành nhà thờ, sau nhiều năm bỏ hoang.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-11-14T00:11:36+07:00",
+      "fetched": "2026-11-14T07:38:14.765773+07:00"
+    },
+    {
+      "id": "9864d874965205310c6132b430c5b295",
+      "title": "Kiểm soát đường huyết: Vì sao bác sĩ khuyên thêm trứng vào bữa sáng?",
+      "link": "https://thanhnien.vn/kiem-soat-duong-huyet-vi-sao-bac-si-khuyen-them-trung-vao-bua-sang-185261113143819526.htm",
+      "summary": "Buổi sáng là thời điểm đường huyết thường tăng cao trong ngày, vì vậy việc kiểm soát tốt đường huyết buổi sáng là rất quan trọng trong việc ổn định đường huyết suốt cả ngày dài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T00:05:00+07:00",
+      "fetched": "2026-11-14T07:38:07.417199+07:00"
+    },
+    {
+      "id": "0c05b4f2dea28c706203428a7b95d867",
+      "title": "HLV Đinh Hồng Vinh chỉ ra phương thức đánh bại U.23 Qatar, U.23 Việt Nam quyết vô địch tại Pleiku",
+      "link": "https://thanhnien.vn/hlv-dinh-hong-vinh-chi-ra-phuong-thuc-danh-bai-u23-qatar-u23-viet-nam-quyet-vo-dich-tai-pleiku-185261114014238535.htm",
+      "summary": "HLV Đinh Hồng Vinh tự tin chỉ ra yếu tố quan trọng làm nên chiến thắng U.23 Singapore và đây sẽ là động lực tạo niềm tin để U.23 Việt Nam có thể giành đánh bại U.23 Qatar vào lúc 19 giờ ngày 14.11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T00:01:00+07:00",
+      "fetched": "2026-11-14T07:38:07.417360+07:00"
+    },
+    {
+      "id": "a42aa556663e5183ecb270d49f73e8f2",
+      "title": "Quyền CEO Nvidia từng bị Jensen Huang 'phê phán giữa cuộc họp'",
+      "link": "https://vnexpress.net/quyen-ceo-nvidia-tung-bi-jensen-huang-phe-phan-giua-cuoc-hop-5144523.html",
+      "summary": "Colette Kress, CEO tạm quyền của Nvidia, từng bị Jensen Huang chỉ trích gay gắt trong cuộc họp về chiến lược tài chính của công ty.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-11-14T00:00:12+07:00",
+      "fetched": "2026-11-14T07:38:11.358756+07:00"
+    },
+    {
+      "id": "7f873b3367a1f0a0c684e456deefd381",
+      "title": "Thanh xuân để tận hưởng hay tích lũy: Người trẻ đang chọn gì?",
+      "link": "https://thanhnien.vn/thanh-xuan-de-tan-huong-hay-tich-luy-nguoi-tre-dang-chon-gi-185261113192924778.htm",
+      "summary": "Giữa cuộc sống nhiều biến động, người trẻ ngày nay đứng trước không ít lựa chọn: tích lũy để có cảm giác an toàn hay tận hưởng khi còn trẻ và còn đủ sức khỏe?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T00:00:00+07:00",
+      "fetched": "2026-11-14T07:38:07.417515+07:00"
+    },
+    {
+      "id": "37d0e4e1ca633cee68ce2a1f320c8a5c",
+      "title": "Bản lĩnh người thợ điện miền Trung được tôi luyện từ ‘đầu sóng ngọn gió’",
+      "link": "https://thanhnien.vn/ban-linh-nguoi-tho-dien-mien-trung-duoc-toi-luyen-tu-dau-song-ngon-gio-185261113181418494.htm",
+      "summary": "Ở dải đất miền Trung nắng lắm mưa nhiều, văn hóa doanh nghiệp của Tổng công ty Điện lực miền Trung không nằm trên những khẩu hiệu treo tường hay các văn bản quy phạm. Suốt giai đoạn 2022 - 2025, những giá trị cốt lõi ấy đã được định hình và tỏa sáng qua những đêm trắng dựng cột giữa tâm bão, những c...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T00:00:00+07:00",
+      "fetched": "2026-11-14T07:38:07.417670+07:00"
+    },
+    {
+      "id": "acae64823bcdbc3020bf81d61c35ab99",
+      "title": "Những doanh nghiệp vẫn thành công dù không còn CEO huyền thoại",
+      "link": "https://vnexpress.net/nhung-doanh-nghiep-van-thanh-cong-du-khong-con-ceo-huyen-thoai-5144438.html",
+      "summary": "Apple, Walmart và Disney từng khiến nhà đầu tư lo lắng khi CEO qua đời, nhưng các công ty này vẫn đang phát triển thịnh vượng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-11-14T00:00:00+07:00",
+      "fetched": "2026-11-14T07:38:12.392695+07:00"
+    },
+    {
+      "id": "2337506a94f3dd1336ceea180c66635e",
+      "title": "Đưa quan hệ Việt Nam - Cuba đi vào chiều sâu",
+      "link": "https://thanhnien.vn/dua-quan-he-viet-nam-cuba-di-vao-chieu-sau-185261113225836149.htm",
+      "summary": "Chiều 13.11, tại Trụ sở T.Ư Đảng, Tổng Bí thư, Chủ tịch nước Tô Lâm đã tiếp Ủy viên Bộ Chính trị - Bộ trưởng Ngoại giao - Đặc phái viên Đảng, Chính phủ nước Cộng hòa Cuba Bruno Rodríguez Parrilla trong khuôn khổ chuyến thăm Việt Nam từ ngày 13 - 14.11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-13T23:55:00+07:00",
+      "fetched": "2026-11-14T07:38:07.417845+07:00"
+    },
+    {
+      "id": "a2da425a0970e9c10af4d531155ca818",
+      "title": "Phát hiện mới: Thiết bị cấy ghép giúp kiểm soát đường huyết",
+      "link": "https://thanhnien.vn/phat-hien-moi-thiet-bi-cay-ghep-giup-kiem-soat-duong-huyet-185261113195550997.htm",
+      "summary": "Thử nghiệm trên chuột mắc tiểu đường cho thấy thiết bị giúp kiểm soát đường huyết và giảm cân mà không cần sử dụng insulin hay các loại thuốc điều trị truyền thống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-13T23:55:00+07:00",
+      "fetched": "2026-11-14T07:38:07.418052+07:00"
+    },
+    {
+      "id": "8f02259e19425f548ab8a8d8450c809a",
+      "title": "Lê Quang Liêm vẫn bất bại, 'đại chiến' kỳ thủ hạng 3 thế giới Fabiano Caruana",
+      "link": "https://thanhnien.vn/le-quang-liem-van-bat-bai-dai-chien-ky-thu-hang-3-the-gioi-fabiano-caruana-185261114062454321.htm",
+      "summary": "Kỳ thủ số 1 Việt Nam Lê Quang Liêm giữ phong độ ổn định tại giải cờ vua toàn năng thế giới 2026 diễn ra ở Hungary.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-13T23:51:00+07:00",
+      "fetched": "2026-11-14T07:38:07.418218+07:00"
+    },
+    {
+      "id": "50551ae1441cd61c86df9c614fb2fde8",
+      "title": "Materazzi khơi lại hiềm khích với Zidane",
+      "link": "https://vnexpress.net/materazzi-khoi-lai-hiem-khich-voi-zidane-5144072.html",
+      "summary": "Cựu hậu vệ Marco Materazzi nói cái chết của Jesus de Miguel khiến ông thấy may mắn vì không gặp hậu quả nghiêm trọng sau cú húc của Zinedine Zidane ở chung kết World Cup 2006.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-11-13T23:49:42+07:00",
+      "fetched": "2026-11-14T07:38:14.765247+07:00"
+    },
+    {
+      "id": "2a5620c07745b50bea61f896107173a2",
+      "title": "Zidane bị chỉ trích sau khi Pháp thua ngược Italy",
+      "link": "https://vnexpress.net/zidane-bi-chi-trich-sau-khi-phap-thua-nguoc-italy-5144510.html",
+      "summary": "Thất bại 1-3 trước Italy ở trận thứ năm dẫn dắt đội tuyển Pháp khiến HLV Zinedine Zidane lần đầu hứng chỉ trích về lối chơi và cách dùng người.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-11-13T23:46:34+07:00",
+      "fetched": "2026-11-14T07:38:14.765962+07:00"
+    },
+    {
+      "id": "53513551d08755424f5fe53ed4e3a047",
+      "title": "Hà Lan thắng Hy Lạp 7-0 ở Nations League",
+      "link": "https://vnexpress.net/ha-lan-thang-hy-lap-7-0-o-nations-league-5144524.html",
+      "summary": "Tijjani Reijnders lập hat-trick ngay hiệp một, giúp Hà Lan đè bẹp Hy Lạp ở lượt áp chót bảng A2 Nations League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-11-13T23:46:10+07:00",
+      "fetched": "2026-11-14T07:38:14.766132+07:00"
+    },
+    {
+      "id": "9451d0258bcc05f8403c3586c4421af3",
+      "title": "Cội gốc muôn đời vẫn là vun bồi sự học",
+      "link": "https://thanhnien.vn/coi-goc-muon-doi-van-la-vun-boi-su-hoc-185261113230541776.htm",
+      "summary": "Tối 13.11, tại Sân Thái học, Di tích quốc gia đặc biệt Văn Miếu - Quốc Tử Giám, Hà Nội, Ban Chấp hành T.Ư Đảng, Quốc hội, Chủ tịch nước, Chính phủ, Ủy ban T.Ư Mặt trận Tổ quốc Việt Nam và TP.Hà Nội trọng thể tổ chức Lễ kỷ niệm '950 năm Quốc Tử Giám - Quốc học Việt Nam' (1076 - 2026), với chủ đề 'Tin...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-13T23:45:00+07:00",
+      "fetched": "2026-11-14T07:38:07.418378+07:00"
+    },
+    {
+      "id": "f2f71b80df66eabd7a1f5fa9b1710c04",
+      "title": "Kỳ thủ Việt Nam đoạt HC vàng ở giải cờ tướng đồng đội thế giới",
+      "link": "https://vnexpress.net/ky-thu-viet-nam-doat-hc-vang-o-giai-co-tuong-dong-doi-the-gioi-5144502.html",
+      "summary": "Phan Huy Hoàng, 18 tuổi, đạt thành tích sáu thắng, một hòa để giành HC vàng cá nhân tại Giải cờ tướng thế giới mở rộng 2026, dù Việt Nam chỉ đứng thứ hai đồng đội nam.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-11-13T23:41:47+07:00",
+      "fetched": "2026-11-14T07:38:14.765444+07:00"
+    },
+    {
+      "id": "43fb4b2965b31952509ad755034c96b4",
+      "title": "Đà Lạt cần làm gì để giữ danh hiệu Thành phố sáng tạo âm nhạc UNESCO?",
+      "link": "https://thanhnien.vn/da-lat-can-lam-gi-de-giu-danh-hieu-thanh-pho-sang-tao-am-nhac-unesco-185261113215513806.htm",
+      "summary": "Ngày 13.11, UBND tỉnh Lâm Đồng phối hợp Trường ĐH Văn hóa TP.HCM tổ chức hội thảo khoa học \"Đà Lạt - Thành phố sáng tạo âm nhạc của UNESCO: Âm nhạc, sáng tạo và phát triển bền vững\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-13T23:40:00+07:00",
+      "fetched": "2026-11-14T07:38:07.418537+07:00"
+    },
+    {
+      "id": "5b0deafd4042fa422b8c0c584232d797",
+      "title": "Cù lao Rùa và giấc mơ vườn khảo cổ",
+      "link": "https://thanhnien.vn/cu-lao-rua-va-giac-mo-vuon-khao-co-18526111322043527.htm",
+      "summary": "Riêng biệt, hiện vật đa dạng, cù lao Rùa cho thấy vai trò mắt xích quan trọng trong phát triển từ hậu kỳ Đá mới sang thời đại Kim khí tại Đông Nam bộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-13T23:39:00+07:00",
+      "fetched": "2026-11-14T07:38:07.418687+07:00"
+    },
+    {
+      "id": "5e47cd86e30ba1a47f48d7440ee2b866",
+      "title": "'Tiệm bánh nửa đêm', ta còn nợ nhau…",
+      "link": "https://thanhnien.vn/tiem-banh-nua-dem-ta-con-no-nhau-18526111321392434.htm",
+      "summary": "Giữa người đã rời đi và người ở lại, đôi khi vẫn còn nợ nhau lời xin lỗi hay cảm ơn. Như một nốt trầm trong bản nhạc hối hả của đời sống hiện đại, tác phẩm mới Tiệm bánh nửa đêm của Lee Onhwa đã đưa bao dang dở ấy vào truyện, để xoa dịu những \"nỗi đau\" chưa có dịp tỏ bày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-13T23:38:00+07:00",
+      "fetched": "2026-11-14T07:38:07.418836+07:00"
+    },
+    {
+      "id": "bb35c1c878d33f5292513b9ce86affc9",
+      "title": "Bác sĩ chỉ cách kiểm soát đường huyết qua bữa cơm nhà",
+      "link": "https://thanhnien.vn/bac-si-chi-cach-kiem-soat-duong-huyet-qua-bua-com-nha-185261113142806155.htm",
+      "summary": "Người mắc tiểu đường không cần từ bỏ món cơm trắng quen thuộc trong bữa cơm nhà. Điều quan trọng là biết cách cân đối khẩu phần, kết hợp thực phẩm để vừa kiểm soát đường huyết, vừa duy trì bữa ăn sum vầy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-13T23:37:00+07:00",
+      "fetched": "2026-11-14T07:38:07.419033+07:00"
+    },
+    {
+      "id": "aa2019af26085a255c1566ae2711c91f",
+      "title": "Nắng vẫn có nước trên đường",
+      "link": "https://thanhnien.vn/nang-van-co-nuoc-tren-duong-185261113202848354.htm",
+      "summary": "Bạn đọc phản ánh đến Báo Thanh Niên, đoạn đường trên QL1, tại Km 1842, thuộc P.Trảng Bom, TP.Đồng Nai, dù trời nắng vẫn có ao nước trên đường, khiến xe máy khi qua đây phải né, đi ra phần đường ô tô, ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-13T23:34:00+07:00",
+      "fetched": "2026-11-14T07:38:08.579652+07:00"
+    },
+    {
+      "id": "bb7c19ed39ff77b47211ec7d97371723",
+      "title": "Mỹ đình chỉ bay toàn quốc do sự cố liên lạc",
+      "link": "https://vnexpress.net/my-dinh-chi-bay-toan-quoc-do-su-co-lien-lac-5144518.html",
+      "summary": "Cơ quan Hàng không Liên bang Mỹ ban hành lệnh đình chỉ bay trên toàn quốc sau khi xảy ra gián đoạn hệ thống liên lạc quy mô lớn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-11-13T23:31:29+07:00",
+      "fetched": "2026-11-14T07:38:11.358993+07:00"
+    },
+    {
+      "id": "bf9b2a735e699ce31aa4f31e570b25e1",
+      "title": "Vì sao công ty đầu ngành chứng khoán từ chối nhiều thương vụ trái phiếu?",
+      "link": "https://vnexpress.net/vi-sao-cong-ty-dau-nganh-chung-khoan-tu-choi-nhieu-thuong-vu-trai-phieu-5144491.html",
+      "summary": "Dù chiếm 37% thị phần tư vấn trái phiếu, Chứng khoán Kỹ Thương (TCBS) vẫn từ chối nhiều thương vụ nếu không nắm rõ sức khỏe tài chính của doanh nghiệp, theo Chủ tịch Nguyễn Xuân Minh.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-11-13T23:00:00+07:00",
+      "fetched": "2026-11-14T07:38:12.392920+07:00"
+    },
+    {
+      "id": "b1bae25a2380de29768820f36dc6fbbe",
+      "title": "Italy cạn tên lửa 'Patriot của châu Âu', không thể viện trợ Ukraine",
+      "link": "https://vnexpress.net/italy-can-ten-lua-patriot-cua-chau-au-khong-the-vien-tro-ukraine-5144172.html",
+      "summary": "Italy dường như đã cạn tên lửa Aster của SAMP/T, tổ hợp được ví như đối trọng của Patriot, và không thể viện trợ vũ khí này cho Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-11-13T22:53:35+07:00",
+      "fetched": "2026-11-14T07:38:11.359175+07:00"
+    },
+    {
+      "id": "0334b026c1e05fd3ef726aa62810a894",
+      "title": "Thế khó với Nvidia khi điều tra bê bối của Jensen Huang",
+      "link": "https://vnexpress.net/the-kho-voi-nvidia-khi-dieu-tra-be-boi-cua-jensen-huang-5143398.html",
+      "summary": "Các bê bối đời tư của Jensen Huang buộc hội đồng quản trị Nvidia phải điều tra kỹ lưỡng, khiến họ đối mặt thêm nguy cơ bị cổ đông kiện.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-11-13T22:00:00+07:00",
+      "fetched": "2026-11-14T07:38:11.359348+07:00"
+    },
+    {
+      "id": "160bc6e2a3a66a2a5755391764ffa640",
+      "title": "Hình dung về thiết kế smartphone màn hình cuộn Samsung",
+      "link": "https://vnexpress.net/hinh-dung-ve-thiet-ke-smartphone-man-hinh-cuon-samsung-5144067.html",
+      "summary": "Điện thoại màn hình cuộn của Samsung được cho là sẽ có tên Galaxy Z Roll, với thiết kế gần vuông và cuộn lên để trở thành smartphone tiêu chuẩn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-11-13T22:00:00+07:00",
+      "fetched": "2026-11-14T07:38:13.929160+07:00"
+    },
+    {
+      "id": "bc2da150ac231ebd13f48947aca53c90",
+      "title": "HLV Pochettino khóc trong họp báo sau khi gia nhập Man Utd",
+      "link": "https://vnexpress.net/hlv-pochettino-khoc-trong-hop-bao-sau-khi-gia-nhap-man-utd-5144501.html",
+      "summary": "Mauricio Pochettino bật khóc khi nói về quyết định rời đội tuyển Mỹ để dẫn dắt Man Utd, gọi đây là lựa chọn khó khăn nhất sự nghiệp.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-11-13T21:11:33+07:00",
+      "fetched": "2026-11-14T07:38:14.765612+07:00"
     },
     {
       "id": "bc61ef62ce4bc6d33963bba293446117",
@@ -401,6 +761,16 @@ window.newsData_2026_11_14 = {
       "category": "Công nghệ",
       "published": "2026-11-13T13:02:05+07:00",
       "fetched": "2026-11-14T02:09:57.118783+07:00"
+    },
+    {
+      "id": "8de0ae7df029e76cd5e2ab21fbb530f3",
+      "title": "Mac Allister: 'Sẽ không còn ai giống Messi'",
+      "link": "https://vnexpress.net/mac-allister-se-khong-con-ai-giong-messi-5143428.html",
+      "summary": "Theo tiền vệ đội tuyển Argentina Alexis Mac Allister, kiểu cầu thủ như Lionel Messi sẽ chỉ xuất hiện một lần trong lịch sử bóng đá.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-11-13T13:00:00+07:00",
+      "fetched": "2026-11-14T07:38:14.766462+07:00"
     },
     {
       "id": "c522d79b9821431137ec539e8e9ca14e",
