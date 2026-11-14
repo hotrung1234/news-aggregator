@@ -1,7 +1,177 @@
 window.newsData_2026_11_14 = {
   "date": "2026-11-14",
-  "lastUpdated": "2026-11-14T15:32:20.827469+07:00",
+  "lastUpdated": "2026-11-14T23:21:23.386943+07:00",
   "articles": [
+    {
+      "id": "a7011841b582b68d3478eb905c79cefe",
+      "title": "Vì sao ông Trump chưa quyết tấn công Iran sau bầu cử?",
+      "link": "https://tuoitre.vn/vi-sao-ong-trump-chua-quyet-tan-cong-iran-sau-bau-cu-100261114195240718.htm",
+      "summary": "Tổng thống Trump được cho là đã có tính toán mới, trong đó cân nhắc hoãn không kích Iran nếu Tehran không có thêm hành động khiêu khích.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T23:20:58.307127+07:00",
+      "fetched": "2026-11-14T23:20:58.307177+07:00"
+    },
+    {
+      "id": "6c77255cee71d9ed2f96b31c7a3ef39d",
+      "title": "Spider-Man: Brand New Day tham vọng chinh phục  Phim hay nhất Oscar",
+      "link": "https://tuoitre.vn/spider-man-brand-new-day-tham-vong-chinh-phuc-phim-hay-nhat-oscar-100261114183232894.htm",
+      "summary": "Sony Pictures triển khai chiến dịch vận động Oscar quy mô lớn cho Spider-Man: Brand New Day, đặt mục tiêu đưa thương hiệu Người Nhện lần đầu góp mặt trong cuộc đua Phim hay nhất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T23:20:58.307070+07:00",
+      "fetched": "2026-11-14T23:20:58.307119+07:00"
+    },
+    {
+      "id": "3e45ce60bfecb71fcebc2ce82e60549c",
+      "title": "Phim 'Huy bến xe' đăng tải nhiều năm trước, vì sao Hoàng Mèo, Tấn Bo vẫn bị xử lý?",
+      "link": "https://tuoitre.vn/phim-huy-ben-xe-dang-tai-nhieu-nam-truoc-vi-sao-hoang-meo-tan-bo-van-bi-xu-ly-100261114010838283.htm",
+      "summary": "Phim ca nhạc 'Huy bến xe' đăng tải trên YouTube từ nhiều năm trước, nhưng những người tham gia sản xuất, diễn xuất như Hoàng Mèo, Tấn Bo, Dương Chấn Huy... vẫn bị truy cứu trách nhiệm hình sự.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T23:20:58.307012+07:00",
+      "fetched": "2026-11-14T23:20:58.307062+07:00"
+    },
+    {
+      "id": "9dab832e4fe13f65c6154bc6d0ae22a1",
+      "title": "Phố đi bộ Nguyễn Huệ náo nhiệt, người dân thích thú chơi game nhận quà",
+      "link": "https://tuoitre.vn/pho-di-bo-nguyen-hue-nao-nhiet-nguoi-dan-thich-thu-choi-game-nhan-qua-100261114201704391.htm",
+      "summary": "Hàng loạt thương hiệu \"đổ bộ\" xuống phố đi bộ Nguyễn Huệ (phường Sài Gòn, TP.HCM) đưa trò chơi, tặng quà miễn phí, thu hút đông đảo người dân, du khách tham gia. Các hoạt động này góp phần tạo không khí sôi động cho mùa mua sắm cuối năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T23:20:58.306952+07:00",
+      "fetched": "2026-11-14T23:20:58.307003+07:00"
+    },
+    {
+      "id": "8fe3be855080f97974d74da11d60394a",
+      "title": "Show giải trí lao đao vì Go Kyung Pyo lái xe gây tai nạn",
+      "link": "https://tuoitre.vn/show-giai-tri-lao-dao-vi-go-kyung-pyo-lai-xe-gay-tai-nan-100261114200544321.htm",
+      "summary": "Sau vụ tai nạn do lái xe khi say rượu, Go Kyung Pyo bị xóa toàn bộ thời lượng xuất hiện trong Hangout with Yoo. Các show khác có mặt anh cũng khẩn trương điều chỉnh nội dung phát sóng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T23:20:58.306895+07:00",
+      "fetched": "2026-11-14T23:20:58.306944+07:00"
+    },
+    {
+      "id": "50ca3eb85da0894b4d572a5ee43570d8",
+      "title": "Ông Hun Sen: Thành tựu của Việt Nam cũng là thành tựu và cơ hội phát triển cho Campuchia",
+      "link": "https://tuoitre.vn/ong-hun-sen-thanh-tuu-cua-viet-nam-cung-la-thanh-tuu-va-co-hoi-phat-trien-cho-campuchia-100261114195026461.htm",
+      "summary": "Ông Hun Sen khẳng định Campuchia luôn trân trọng, ghi nhớ sự ủng hộ, giúp đỡ to lớn, quý báu của Đảng, Nhà nước và Nhân dân Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T23:20:58.306832+07:00",
+      "fetched": "2026-11-14T23:20:58.306886+07:00"
+    },
+    {
+      "id": "e134fdda89c5a6206dbf8deb2c62d7bf",
+      "title": "Thống đốc Florida làm rõ tin đồn thay ghế Bộ trưởng Chiến tranh",
+      "link": "https://tuoitre.vn/thong-doc-florida-lam-ro-tin-don-thay-ghe-bo-truong-chien-tranh-100261114201628652.htm",
+      "summary": "Thống đốc bang Florida Ron DeSantis khẳng định \"chưa bao giờ thảo luận\" với Tổng thống Trump về việc thay thế ông Pete Hegseth để giữ chức Bộ trưởng Chiến tranh Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T23:20:58.306774+07:00",
+      "fetched": "2026-11-14T23:20:58.306823+07:00"
+    },
+    {
+      "id": "7400e02dffe78475a58a3b271fd91360",
+      "title": "Bắt TikToker ‘A Tý tiktok’ chuyên làm video hướng dẫn mua bán, sử dụng ma túy",
+      "link": "https://tuoitre.vn/bat-tiktoker-a-ty-tiktok-chuyen-lam-video-huong-dan-mua-ban-su-dung-ma-tuy-100261114200408706.htm",
+      "summary": "Nguyễn Tấn Phúc (chủ tài khoản TikTok “A Tý tiktok”) bị Công an TP.HCM bắt vì đăng tải bài viết kèm theo video với nội dung thể hiện việc tuyên truyền, hướng dẫn người khác thực hiện hành vi mua bán, sử dụng trái phép ma túy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T23:20:58.306715+07:00",
+      "fetched": "2026-11-14T23:20:58.306766+07:00"
+    },
+    {
+      "id": "846b35f201c57e3b4089351117b3b2a9",
+      "title": "Đài Bắc Trung Hoa thua Kyrgyzstan, trận thua thứ hai liên tiếp",
+      "link": "https://tuoitre.vn/dai-bac-trung-hoa-thua-kyrgyzstan-tran-thua-thu-hai-lien-tiep-10026111421222635.htm",
+      "summary": "Tối 14-11, tuyển Đài Bắc Trung Hoa nhận thất bại 0-3 trước Kyrgyzstan ở lượt trận thứ hai Giải giao hữu Casper Cup 2026, diễn ra tại tỉnh Ninh Bình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T23:20:58.306656+07:00",
+      "fetched": "2026-11-14T23:20:58.306706+07:00"
+    },
+    {
+      "id": "768d35779dd727c64bff47b54d43fd7f",
+      "title": "Bảng xếp hạng Giải U23 Gia Lai - VTV Cup 2026: Việt Nam về nhất, Thái Lan hạng 3",
+      "link": "https://tuoitre.vn/bang-xep-hang-giai-u23-gia-lai-vtv-cup-2026-viet-nam-ve-nhat-thai-lan-hang-3-100261114211730864.htm",
+      "summary": "Đội tuyển U23 Việt Nam đã kết thúc Giải giao hữu quốc tế U23 Gia Lai - VTV Cup 2026 với vị trí dẫn đầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T23:20:58.306580+07:00",
+      "fetched": "2026-11-14T23:20:58.306646+07:00"
+    },
+    {
+      "id": "08df26b442136dcddbbf02856c686169",
+      "title": "BTS vắng mặt tại MMA 2026 nhưng vẫn 'ê hề' giải thưởng",
+      "link": "https://tuoitre.vn/bts-vang-mat-tai-mma-2026-nhung-van-e-he-giai-thuong-1002611142114431.htm",
+      "summary": "BTS thắng lớn tại MMA 2026 với loạt giải thưởng nổi bật, trong đó có Daesang Album của năm dù không trực tiếp tham dự lễ trao giải.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T23:20:58.306522+07:00",
+      "fetched": "2026-11-14T23:20:58.306571+07:00"
+    },
+    {
+      "id": "14d02e14ab7440879d37e9e52a3f1e51",
+      "title": "Thủ tướng Lê Minh Hưng đề xuất xây dựng danh mục ưu tiên hạ tầng chiến lược ASEAN đến năm 2040",
+      "link": "https://tuoitre.vn/thu-tuong-le-minh-hung-de-xuat-xay-dung-danh-muc-uu-tien-ha-tang-chien-luoc-asean-den-nam-2040-10026111420383157.htm",
+      "summary": "Thủ tướng Lê Minh Hưng cho rằng Kế hoạch Chiến lược Kết nối ASEAN 2026-2035 cần tập trung vào bốn ưu tiên, trong đó có kết nối giao thông và logistics xuyên biên giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T23:20:58.306463+07:00",
+      "fetched": "2026-11-14T23:20:58.306513+07:00"
+    },
+    {
+      "id": "a9ec5d0430272924059fab4d201ad40d",
+      "title": "Tinh hoa Việt 2026 thêm giải thưởng, Hoàng Thùy Linh đồng hành",
+      "link": "https://tuoitre.vn/tinh-hoa-viet-2026-them-giai-thuong-hoang-thuy-linh-dong-hanh-100261114204746907.htm",
+      "summary": "Tinh hoa Việt 2026 có 18 giải thuộc bốn hạng mục, trong đó bổ sung nhóm giải Tinh hoa lan tỏa. Ca sĩ Hoàng Thùy Linh được công bố là người đồng hành, tham gia series phim tài liệu về lễ hội Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T23:20:58.306399+07:00",
+      "fetched": "2026-11-14T23:20:58.306453+07:00"
+    },
+    {
+      "id": "f4c897d55baa63037ac21bf85b980980",
+      "title": "Video: Bàn thắng giúp U23 Việt Nam vô địch Giải U23 Gia Lai - VTV Cup 2026",
+      "link": "https://tuoitre.vn/video-ban-thang-giup-u23-viet-nam-vo-dich-giai-u23-gia-lai-vtv-cup-2026-100261114213752565.htm",
+      "summary": "Bàn thắng quý giá của Nguyễn Minh Tâm đã giúp U23 Việt Nam hòa 1-1 U23 Qatar và lên ngôi vô địch Giải giao hữu quốc tế U23 Gia Lai - VTV Cup 2026, tối 14-11.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T23:20:58.306330+07:00",
+      "fetched": "2026-11-14T23:20:58.306390+07:00"
+    },
+    {
+      "id": "913924a2bc44f195ad377f4cff1e1f9b",
+      "title": "Hạ Malaysia, tuyển Trung Quốc chấm dứt mạch toàn thua",
+      "link": "https://tuoitre.vn/ha-malaysia-tuyen-trung-quoc-cham-dut-mach-toan-thua-100261114213853698.htm",
+      "summary": "Tối 14-11, tuyển Trung Quốc đã tìm lại niềm vui chiến thắng khi đánh bại Malaysia 2-0 trong trận giao hữu tại Triệu Khánh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T23:20:58.306173+07:00",
+      "fetched": "2026-11-14T23:20:58.306317+07:00"
+    },
+    {
+      "id": "1a3fadf292967089a64c5f02853aca2b",
+      "title": "Highlight U.23 Việt Nam 1-1 U.23 Qatar: Minh Tâm ghi bàn quý như vàng",
+      "link": "https://thanhnien.vn/highlight-u23-viet-nam-1-1-u23-qatar-minh-tam-ghi-ban-quy-nhu-vang-185261114225129883.htm",
+      "summary": "Bị U.23 Qatar dẫn trước từ phút 20 sau pha bóng của Al Rawi, U.23 Việt Nam đã gỡ hòa 1-1 nhờ cú dứt điểm quyết đoán của Nguyễn Minh Tâm ở phút 48. Kết quả này giúp thầy trò HLV Đinh Hồng Vinh đăng quang Gia Lai VTV Cup 2026 với 7 điểm sau 3 trận, khép lại giải đấu bằng thành tích bất bại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T15:51:00+07:00",
+      "fetched": "2026-11-14T23:20:56.732084+07:00"
+    },
+    {
+      "id": "d11ab37dd397c6809905fb375e090cca",
+      "title": "FIFA công bố 21 cầu thủ U.17 Việt Nam dự World Cup: Sẵn sàng viết lịch sử trên đất Qatar",
+      "link": "https://thanhnien.vn/fifa-cong-bo-21-cau-thu-u17-viet-nam-du-world-cup-san-sang-viet-lich-su-tren-dat-qatar-185261114224415585.htm",
+      "summary": "FIFA vừa đăng tải danh sách 21 cầu thủ U.17 Việt Nam tham dự VCK World Cup U.17 Qatar 2026. Đây là cột mốc đặc biệt của bóng đá trẻ Việt Nam khi đội tuyển U.17 quốc gia lần đầu tiên góp mặt tại sân chơi thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T15:45:00+07:00",
+      "fetched": "2026-11-14T23:20:56.732240+07:00"
+    },
     {
       "id": "8f80b19c97585561ba3cdac461ce8e63",
       "title": "Thành phố âm nhạc Đà Lạt lại thiếu trường âm nhạc",
@@ -153,6 +323,406 @@ window.newsData_2026_11_14 = {
       "fetched": "2026-11-14T15:32:15.060223+07:00"
     },
     {
+      "id": "7edc418ff4c40260cfcd5717dc69024a",
+      "title": "HLV Đinh Hồng Vinh hạnh phúc vì chức vô địch, tin tưởng tương lai xán lạn của U.23 Việt Nam",
+      "link": "https://thanhnien.vn/hlv-dinh-hong-vinh-hanh-phuc-vi-chuc-vo-dich-tin-tuong-tuong-lai-xan-lan-cua-u23-viet-nam-185261114221530553.htm",
+      "summary": "HLV Đinh Hồng Vinh chỉ ra điểm cho thấy tương lai xán lạn của U.23 Việt Nam sau trận hòa đầy bản lĩnh trước U.23 Qatar để vô địch giải bóng đá quốc tế U.23 - Gia Lai VTV 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T15:23:00+07:00",
+      "fetched": "2026-11-14T23:20:56.732379+07:00"
+    },
+    {
+      "id": "84f095b7c9e501949f168b0e7043cabe",
+      "title": "Tổng Bí thư, Chủ tịch nước hội kiến Chủ tịch Thượng viện Hun Sen",
+      "link": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-hoi-kien-chu-tich-thuong-vien-hun-sen-5144755.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm và Chủ tịch Thượng viện Hun Sen nhất trí tiếp tục củng cố, tăng cường quan hệ song phương và phối hợp, ủng hộ lẫn nhau tại các diễn đàn đa phương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-11-14T15:17:04+07:00",
+      "fetched": "2026-11-14T23:20:59.435099+07:00"
+    },
+    {
+      "id": "9ed974f6b59fedfcb25e954a26ac1e3b",
+      "title": "Mỹ lần đầu nêu khả năng Ukraine rút khỏi Donbass để gia nhập NATO",
+      "link": "https://thanhnien.vn/my-lan-dau-neu-kha-nang-ukraine-rut-khoi-donbass-de-gia-nhap-nato-185261114190657929.htm",
+      "summary": "Trong phát biểu được công bố hôm 14.11, Tổng thống Ukraine Volodymyr Zelensky cho biết Mỹ lần đầu nêu lên khả năng Ukraine rút khỏi Donbass để đổi lấy cơ hội gia nhập Tổ chức Hiệp ước Bắc Đại Tây Dương (NATO).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T15:15:00+07:00",
+      "fetched": "2026-11-14T23:20:56.732511+07:00"
+    },
+    {
+      "id": "8ff345c992f93e143f37ee283de314ee",
+      "title": "U.23 Việt Nam hòa kịch tính U.23 Qatar, đăng quang Gia Lai VTV Cup 2026 đầy bản lĩnh",
+      "link": "https://thanhnien.vn/u23-viet-nam-hoa-kich-tinh-u23-qatar-dang-quang-gia-lai-vtv-cup-2026-day-ban-linh-185261114222230314.htm",
+      "summary": "Bị U.23 Qatar dẫn trước, U.23 Việt Nam đã kịp gỡ hòa nhờ bàn thắng của Nguyễn Minh Tâm, qua đó giành chức vô địch Gia Lai VTV Cup 2026 với thành tích bất bại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T15:13:00+07:00",
+      "fetched": "2026-11-14T23:20:56.732657+07:00"
+    },
+    {
+      "id": "f5b289d2b96c24edfe21a58ece97aab0",
+      "title": "Sao trẻ HAGL Minh Tâm nói gì sau bàn thắng quý hơn vàng giúp U.23 Việt Nam vô địch?",
+      "link": "https://thanhnien.vn/sao-tre-hagl-minh-tam-noi-gi-sau-ban-thang-quy-hon-vang-giup-u23-viet-nam-vo-dich-185261114213559538.htm",
+      "summary": "Chân sút đang khoác áo HAGL Nguyễn Minh Tâm trở thành 'người hùng' khi ghi bàn thắng quý giá, góp công lớn giúp U.23 Việt Nam giành chức vô địch giải Gia Lai VTV Cup 2026 ngay trên sân nhà Pleiku.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T14:42:00+07:00",
+      "fetched": "2026-11-14T23:20:56.732787+07:00"
+    },
+    {
+      "id": "36d1b8ec25fef0a55cd61a26c41c0e98",
+      "title": "Sàn đã khấu trừ thuế, người bán không cần lập hóa đơn: Có hợp lý, khả thi?",
+      "link": "https://thanhnien.vn/san-da-khau-tru-thue-nguoi-ban-khong-can-lap-hoa-don-co-hop-ly-kha-thi-185261114211750073.htm",
+      "summary": "Ủng hộ đề xuất sàn thương mại điện tử đã khấu trừ thuế theo từng giao dịch thì người bán không bắt buộc phải lập hóa đơn, song chuyên gia cho rằng nên linh hoạt áp dụng, cho phép lập hóa đơn gộp theo tháng để hài hòa các yếu tố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T14:40:00+07:00",
+      "fetched": "2026-11-14T23:20:56.732915+07:00"
+    },
+    {
+      "id": "69823fb0f6a4c5212a1ed51577a27777",
+      "title": "Highlight Kyrgyzstan 3-0 Đài Loan: Đại diện Trung Á thắng áp đảo, hẹn đội tuyển Việt Nam ở trận quyết định",
+      "link": "https://thanhnien.vn/highlight-kyrgyzstan-3-0-dai-loan-dai-dien-trung-a-thang-ap-dao-hen-doi-tuyen-viet-nam-o-tran-quyet-dinh-185261114213630086.htm",
+      "summary": "Đội tuyển Kyrgyzstan thể hiện sức mạnh vượt trội khi đánh bại Đài Loan 3-0 tối 14.11, trong trận ra quân tại Casper Cup 2026 trên sân Thiên Trường. Chiến thắng thuyết phục giúp đại diện Trung Á bước vào cuộc đối đầu với đội tuyển Việt Nam ngày 17.11 để tranh chức vô địch giải tam hùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T14:36:00+07:00",
+      "fetched": "2026-11-14T23:20:56.733045+07:00"
+    },
+    {
+      "id": "939ec327de438b3779bcf82422ae2e8e",
+      "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm hội kiến Chủ tịch Đảng Nhân dân Campuchia, Chủ tịch Thượng viện Campuchia Hun Sen",
+      "link": "https://thanhnien.vn/tong-bi-thu-chu-tich-nuoc-to-lam-hoi-kien-chu-tich-dang-nhan-dan-campuchia-chu-tich-thuong-vien-campuchia-hun-sen-185261114205510713.htm",
+      "summary": "Chiều 14.11, Tổng Bí thư, Chủ tịch nước Tô Lâm đã có cuộc hội kiến với Chủ tịch Đảng Nhân dân Campuchia, Chủ tịch Thượng viện Campuchia Hun Sen.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T14:35:00+07:00",
+      "fetched": "2026-11-14T23:20:56.733186+07:00"
+    },
+    {
+      "id": "0ffbb402051dbe33645cc02b4603566e",
+      "title": "Thủ tướng đề xuất lập danh mục dự án hạ tầng ưu tiên của ASEAN đến 2040",
+      "link": "https://vnexpress.net/thu-tuong-de-xuat-lap-danh-muc-du-an-ha-tang-uu-tien-cua-asean-den-2040-5144751.html",
+      "summary": "Thủ tướng Lê Minh Hưng đề xuất ASEAN chọn các dự án hạ tầng ưu tiên đến năm 2040, tập trung vào giao thông xuyên biên giới, logistics, lưới điện, hạ tầng số và đô thị thông minh.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-11-14T14:22:11+07:00",
+      "fetched": "2026-11-14T23:21:00.562888+07:00"
+    },
+    {
+      "id": "796fa00cb716ddf71e95de71af4a45a9",
+      "title": "Highlight U.23 Thái Lan 3-1 U.23 Singapore: 'Voi chiến' thắng thuyết phục, giành hạng ba Gia Lai VTV Cup 2026",
+      "link": "https://thanhnien.vn/highlight-u23-thai-lan-3-1-u23-singapore-voi-chien-thang-thuyet-phuc-gianh-hang-ba-gia-lai-vtv-cup-2026-185261114211916054.htm",
+      "summary": "U.23 Thái Lan khép lại giải giao hữu tứ hùng Gia Lai VTV Cup 2026 bằng chiến thắng 3-1 trước U.23 Singapore. Với 3 điểm chung cuộc, đội bóng xứ chùa vàng cán đích ở vị trí thứ ba, trong khi U.23 Singapore đứng cuối bảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T14:19:00+07:00",
+      "fetched": "2026-11-14T23:20:56.733312+07:00"
+    },
+    {
+      "id": "82af67261cb897c8246cfed28acc7003",
+      "title": "Phong tỏa đường Bùi Văn Ba sau vụ nổ sập nhà: Khẩn trương di dời các bình gas",
+      "link": "https://thanhnien.vn/phong-toa-duong-bui-van-ba-sau-vu-no-sap-nha-khan-truong-di-doi-cac-binh-gas-185261114204619913.htm",
+      "summary": "Liên quan vụ nổ sập nhà ở TP.HCM trên đường Bùi Văn Ba (phường Tân Thuận), đến chiều 14.11.2026, lực lượng chức năng vẫn đang phong tỏa hiện trường để thu dọn đống đổ nát và di dời các bình gas còn sót lại ra ngoài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T14:17:00+07:00",
+      "fetched": "2026-11-14T23:20:56.733439+07:00"
+    },
+    {
+      "id": "23bef5574a49d1f1387513cdbf4be419",
+      "title": "Kyrgyzstan thắng đậm Đài Loan 3-0: Đá 'chung kết' với đội tuyển Việt Nam ngày nào?",
+      "link": "https://thanhnien.vn/kyrgyzstan-thang-dam-dai-loan-3-0-da-chung-ket-voi-doi-tuyen-viet-nam-ngay-nao-185261114204614921.htm",
+      "summary": "Trong trận ra quân Caspers Cup 2026, đội tuyển Kyrgyzstan thắng đậm Đài Loan 3-0. Đại diện Trung Á sẽ chạm trán đội tuyển Việt Nam ở lượt trận cuối của giải đấu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T13:58:00+07:00",
+      "fetched": "2026-11-14T23:20:56.733564+07:00"
+    },
+    {
+      "id": "a328bd3b5853796b9e46cc6c9c0a14a6",
+      "title": "Hòa kịch tính U.23 Qatar nhờ 'gà son' Minh Tâm, U.23 Việt Nam vô địch Gia Lai Cup: 2,6 tỉ đồng tiền thưởng",
+      "link": "https://thanhnien.vn/hoa-kich-tinh-u23-qatar-nho-ga-son-minh-tam-u23-viet-nam-vo-dich-gia-lai-vtv-cup-2026-18526111420551417.htm",
+      "summary": "U.23 Việt Nam chính thức đăng quang Gia Lai VTV Cup 2026 sau trận hòa 1-1 trước U.23 Qatar tối 14.11. Dù bị dẫn trước trong hiệp 1, thầy trò HLV Đinh Hồng Vinh đã kịp gỡ hòa nhờ pha lập công của Minh Tâm, qua đó khép lại giải đấu với thành tích bất bại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T13:56:00+07:00",
+      "fetched": "2026-11-14T23:20:56.733701+07:00"
+    },
+    {
+      "id": "212248cb7fe4c24e3444698bda24592d",
+      "title": "Ca sĩ là học trò Lam Trường, tiết lộ phản ứng gia đình khi không theo bolero",
+      "link": "https://thanhnien.vn/ca-si-la-hoc-tro-lam-truong-tiet-lo-phan-ung-gia-dinh-khi-khong-theo-bolero-185261114202010169.htm",
+      "summary": "Trải qua không ít khó khăn để theo đuổi đam mê âm nhạc, Nguyễn Kiều Oanh bày tỏ niềm hạnh phúc khi có sự đồng hành, ủng hộ của gia đình trong chặng đường làm nghề.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T13:54:00+07:00",
+      "fetched": "2026-11-14T23:20:56.733829+07:00"
+    },
+    {
+      "id": "389a916b3b6aff0292353ac779aaeadf",
+      "title": "UAV bắt đầu đóng vai trò tải thương trong vùng tử địa ở Ukraine",
+      "link": "https://thanhnien.vn/uav-bat-dau-dong-vai-tro-tai-thuong-trong-vung-tu-dia-o-ukraine-185261114165605025.htm",
+      "summary": "Một bầu không khí im lặng đầy căng thẳng bao trùm căn phòng điều khiển, nơi một nhóm quân nhân Ukraine đang thực hiện một chiến dịch giải cứu từ xa. Họ sử dụng một thiết bị bay không người lái (UAV) sáu cánh quạt để đưa một binh sĩ bị thương đến nơi an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T13:32:00+07:00",
+      "fetched": "2026-11-14T23:20:56.733957+07:00"
+    },
+    {
+      "id": "005c14646e2c875bf3cea33fa14dd5eb",
+      "title": "Hòa Phát thành lập công ty năng lượng tái tạo",
+      "link": "https://vnexpress.net/hoa-phat-thanh-lap-cong-ty-nang-luong-tai-tao-5144728.html",
+      "summary": "Hòa Phát chi gần 650 tỷ đồng để thành lập Công ty cổ phần Năng lượng tái tạo Hòa Phát, doanh nghiệp hoạt động trong lĩnh vực sản xuất điện.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-11-14T13:20:21+07:00",
+      "fetched": "2026-11-14T23:21:00.563047+07:00"
+    },
+    {
+      "id": "24c0ced4c1668e5b5d0d7a1386d447b9",
+      "title": "Tổng Bí thư, Chủ tịch nước hội kiến Quốc vương Campuchia",
+      "link": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-hoi-kien-quoc-vuong-campuchia-5144737.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm mong muốn Quốc vương Norodom Sihamoni tiếp tục quan tâm, tạo điều kiện để bà con người Việt tại Campuchia ổn định cuộc sống.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-11-14T12:13:59+07:00",
+      "fetched": "2026-11-14T23:20:59.435255+07:00"
+    },
+    {
+      "id": "4b437f941088c18ee1c420c5ccefa289",
+      "title": "Bẫy tình - gót chân Achilles của giới tỷ phú Thung lũng Silicon",
+      "link": "https://vnexpress.net/bay-tinh-got-chan-achilles-cua-gioi-ty-phu-thung-lung-silicon-5144157.html",
+      "summary": "Bê bối tình ái của Jensen Huang một lần nữa phơi bày điểm yếu trong đời tư giới tỷ phú công nghệ, nơi quan hệ cá nhân có thể trở thành lỗ hổng an ninh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-11-14T12:00:00+07:00",
+      "fetched": "2026-11-14T23:20:59.435399+07:00"
+    },
+    {
+      "id": "cec0388f44d39500e2ef615df8704e72",
+      "title": "Sun PhuQuoc Airways khai thác đường bay thẳng Moscow - Phú Quốc",
+      "link": "https://vnexpress.net/sun-phuquoc-airways-khai-thac-duong-bay-thang-moscow-phu-quoc-5144735.html",
+      "summary": "Chuyến bay 9G200 của Sun PhuQuoc Airways từ Moscow hạ cánh tại Phú Quốc chiều 14/11, đưa 247 hành khách đến đảo sau khoảng 10 giờ bay.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-11-14T11:45:00+07:00",
+      "fetched": "2026-11-14T23:21:00.564438+07:00"
+    },
+    {
+      "id": "75c09fa51661568ff2fbe6cb2fc31825",
+      "title": "Việt Nam - Qatar: Cơ hội vô địch",
+      "link": "https://vnexpress.net/truc-tiep-viet-nam-vs-qatar-5144733.html",
+      "summary": "Thầy trò Đinh Hồng Vinh đứng trước cơ hội vô địch giải giao hữu U23 Gia Lai VTV Cup 2026 nếu không thua Qatar ở lượt trận cuối, diễn ra lúc 19h hôm nay 14/11 trên sân Pleiku.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T11:08:55+07:00",
+      "fetched": "2026-11-14T23:20:53.861745+07:00"
+    },
+    {
+      "id": "29d52dae7bc79e5f28fbffadf6a8f18e",
+      "title": "Đại học Ngoại thương mở trường Công nghệ và Khoa học ứng dụng",
+      "link": "https://vnexpress.net/dai-hoc-ngoai-thuong-mo-truong-cong-nghe-va-khoa-hoc-ung-dung-5144726.html",
+      "summary": "Trường Đại học Ngoại thương (FTU) thành lập trường Công nghệ và Khoa học ứng dụng, trên đường lên \"đại học\" và vào top đầu châu Á.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T11:05:43+07:00",
+      "fetched": "2026-11-14T23:20:53.861943+07:00"
+    },
+    {
+      "id": "20a7f34f2c383e711f9f22156b0e18c1",
+      "title": "Tôi tương tư anh rể suốt 4 năm và không thể yêu được ai",
+      "link": "https://vnexpress.net/toi-tuong-tu-anh-re-suot-4-nam-va-khong-the-yeu-duoc-ai-5144649.html",
+      "summary": "Bốn năm qua, tôi cũng thử yêu hai người nhưng đều chia tay sau vài tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T11:00:00+07:00",
+      "fetched": "2026-11-14T23:20:53.862133+07:00"
+    },
+    {
+      "id": "1efb1b12539d7db5634ec39aa17dbeab",
+      "title": "Rào chắn lũ khổng lồ khiến Venice đối mặt đại dịch chuột",
+      "link": "https://vnexpress.net/rao-chan-lu-khong-lo-khien-venice-doi-mat-dai-dich-chuot-5143944.html",
+      "summary": "Công trình rào chắn lũ tiền tỷ giúp Venice thoát cảnh ngập lụt mỗi khi triều cường dâng cao nhưng lại tạo điều kiện cho chuột sinh sôi khắp thành phố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T11:00:00+07:00",
+      "fetched": "2026-11-14T23:20:53.862280+07:00"
+    },
+    {
+      "id": "d8a20b162b999bb9ee0a99c58a90f7e7",
+      "title": "DJI Hasselblad mở cửa hàng đầu tiên tại Việt Nam",
+      "link": "https://vnexpress.net/dji-hasselblad-mo-cua-hang-dau-tien-tai-viet-nam-5144727.html",
+      "summary": "DJI Hasselblad Authorized Concept Store nằm ở tầng L3 Crescent Mall, TP HCM, mở rộng trải nghiệm cho người yêu công nghệ và nhiếp ảnh cao cấp, đón khách từ ngày 14/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T11:00:00+07:00",
+      "fetched": "2026-11-14T23:20:53.862417+07:00"
+    },
+    {
+      "id": "9765cf39d34f1a432ff94aff241d0fcf",
+      "title": "ShopeeFood tổ chức lễ hội ẩm thực - giải trí dịp VnExpress Marathon Hải Phòng",
+      "link": "https://vnexpress.net/le-hoi-am-thuc-hai-phong-shopeefood-mega-fest-2026-5143856.html",
+      "summary": "ShopeeFood Mega Fest 2026 mở cửa miễn phí tại sân Lạch Tray ngày 26/12, tạo thêm không gian trải nghiệm ẩm thực kết hợp giải trí trước thềm VnExpress Marathon Hải Phòng 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T11:00:00+07:00",
+      "fetched": "2026-11-14T23:20:53.862553+07:00"
+    },
+    {
+      "id": "1efb1b12539d7db5634ec39aa17dbeab",
+      "title": "Rào chắn lũ khổng lồ khiến Venice đối mặt đại dịch chuột",
+      "link": "https://vnexpress.net/rao-chan-lu-khong-lo-khien-venice-doi-mat-dai-dich-chuot-5143944.html",
+      "summary": "Công trình rào chắn lũ tiền tỷ giúp Venice thoát cảnh ngập lụt mỗi khi triều cường dâng cao nhưng lại tạo điều kiện cho chuột sinh sôi khắp thành phố.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-11-14T11:00:00+07:00",
+      "fetched": "2026-11-14T23:21:02.468776+07:00"
+    },
+    {
+      "id": "3114f2b6f53e70d6738e8588228736ea",
+      "title": "Ông Zelensky: 'Mỹ nêu ý tưởng Ukraine từ bỏ Donbass để gia nhập NATO'",
+      "link": "https://vnexpress.net/ong-zelensky-my-neu-y-tuong-ukraine-tu-bo-donbass-de-gia-nhap-nato-5144717.html",
+      "summary": "Tổng thống Zelensky cho biết các nhà đàm phán Mỹ đã đề cập khả năng Ukraine rút khỏi khu vực Donbass ở miền đông để đổi lấy việc gia nhập NATO.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T10:54:21+07:00",
+      "fetched": "2026-11-14T23:20:53.862730+07:00"
+    },
+    {
+      "id": "3114f2b6f53e70d6738e8588228736ea",
+      "title": "Ông Zelensky: 'Mỹ nêu ý tưởng Ukraine từ bỏ Donbass để gia nhập NATO'",
+      "link": "https://vnexpress.net/ong-zelensky-my-neu-y-tuong-ukraine-tu-bo-donbass-de-gia-nhap-nato-5144717.html",
+      "summary": "Tổng thống Zelensky cho biết các nhà đàm phán Mỹ đã đề cập khả năng Ukraine rút khỏi khu vực Donbass ở miền đông để đổi lấy việc gia nhập NATO.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-11-14T10:54:21+07:00",
+      "fetched": "2026-11-14T23:20:59.435534+07:00"
+    },
+    {
+      "id": "2b3833198549c99b23aed9fcbe8b0e60",
+      "title": "Robot tự hành thắng giải AIoT Developer InnoWorks 2026",
+      "link": "https://vnexpress.net/robot-tu-hanh-thang-giai-aiot-developer-innoworks-2026-5144718.html",
+      "summary": "Cuộc thi AIoT Developer InnoWorks 2026 tìm ra 10 đội xuất sắc, trong đó robot tự hành phục vụ trong nông nghiệp thắng giải cao nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T10:48:42+07:00",
+      "fetched": "2026-11-14T23:20:53.862870+07:00"
+    },
+    {
+      "id": "2b3833198549c99b23aed9fcbe8b0e60",
+      "title": "Robot tự hành thắng giải AIoT Developer InnoWorks 2026",
+      "link": "https://vnexpress.net/robot-tu-hanh-thang-giai-aiot-developer-innoworks-2026-5144718.html",
+      "summary": "Cuộc thi AIoT Developer InnoWorks 2026 tìm ra 10 đội xuất sắc, trong đó robot tự hành phục vụ trong nông nghiệp thắng giải cao nhất.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-11-14T10:48:42+07:00",
+      "fetched": "2026-11-14T23:21:02.469301+07:00"
+    },
+    {
+      "id": "2a878a67e21a716f2c1f8b817d10511c",
+      "title": "VIB triển khai chương trình ưu đãi thẻ tín dụng dịp cuối năm",
+      "link": "https://vnexpress.net/vib-trien-khai-chuong-trinh-uu-dai-the-tin-dung-dip-cuoi-nam-5144723.html",
+      "summary": "VIB triển khai chương trình \"Siêu tiệc đáng giá\", kết hợp voucher mua sắm, hoàn tiền và ưu đãi du lịch quốc tế, đồng thời dành thêm quà tặng cho khách hàng mở mới thẻ tín dụng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T10:20:00+07:00",
+      "fetched": "2026-11-14T23:20:53.863006+07:00"
+    },
+    {
+      "id": "8e468b1c6cb6c54ff685fe0c87d77af3",
+      "title": "Hy vọng cho Italy khi Mancini trẻ hóa đội tuyển",
+      "link": "https://vnexpress.net/hy-vong-cho-italy-khi-mancini-tre-hoa-doi-tuyen-5144724.html",
+      "summary": "Sau ba kỳ World Cup liên tiếp vắng mặt, Italy bắt đầu nhìn thấy hy vọng phục hưng dưới thời Roberto Mancini, với những gương mặt trẻ trung, táo bạo và chiến thắng 3-1 trước Pháp ở Nations League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T10:16:34+07:00",
+      "fetched": "2026-11-14T23:20:53.863137+07:00"
+    },
+    {
+      "id": "1e8535c5670d1d81934066fb6c9995e1",
+      "title": "Hướng dẫn người dân livestream bán hàng qua mạng",
+      "link": "https://vnexpress.net/huong-dan-nguoi-dan-livestream-ban-hang-qua-mang-5144687.html",
+      "summary": "Người dân, hộ kinh doanh tại Vĩnh Long được hướng dẫn kỹ năng giới thiệu sản phẩm, tương tác và bán hàng qua livestream.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T10:12:52+07:00",
+      "fetched": "2026-11-14T23:20:53.863266+07:00"
+    },
+    {
+      "id": "1e8535c5670d1d81934066fb6c9995e1",
+      "title": "Hướng dẫn người dân livestream bán hàng qua mạng",
+      "link": "https://vnexpress.net/huong-dan-nguoi-dan-livestream-ban-hang-qua-mang-5144687.html",
+      "summary": "Người dân, hộ kinh doanh tại Vĩnh Long được hướng dẫn kỹ năng giới thiệu sản phẩm, tương tác và bán hàng qua livestream.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-11-14T10:12:52+07:00",
+      "fetched": "2026-11-14T23:21:02.469432+07:00"
+    },
+    {
+      "id": "8a001822bb0ab985fdef7bd78fa065cc",
+      "title": "Điểm tin 17h: TP HCM dự kiến hỗ trợ tiền ăn bán trú cho học sinh | Mỹ dỡ lệnh đình chỉ bay toàn quốc",
+      "link": "https://vnexpress.net/diem-tin-17h-tp-hcm-du-kien-ho-tro-tien-an-ban-tru-cho-hoc-sinh-my-do-lenh-dinh-chi-bay-toan-quoc-5144720.html",
+      "summary": "Xe thiết giáp chìm khi huấn luyện, 6 quân nhân hy sinh; Tàu chở hơn 130 người lật ngang sau va chạm với tàu dầu ở Mỹ...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T09:56:54+07:00",
+      "fetched": "2026-11-14T23:20:53.863400+07:00"
+    },
+    {
+      "id": "f206ec8d9a27a2c2e967e0293fdd4607",
+      "title": "Ông Hùng Cao bị chất vấn vì 'bí mật sa thải kíp chỉ huy tàu ngầm'",
+      "link": "https://vnexpress.net/ong-hung-cao-bi-chat-van-vi-bi-mat-sa-thai-kip-chi-huy-tau-ngam-5144625.html",
+      "summary": "Hai nghị sĩ Mỹ chất vấn ông Hùng Cao và ông Caudle vì hải quân nước này cách chức một kíp chỉ huy tàu ngầm mà không báo quốc hội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T09:47:29+07:00",
+      "fetched": "2026-11-14T23:20:53.863530+07:00"
+    },
+    {
+      "id": "f206ec8d9a27a2c2e967e0293fdd4607",
+      "title": "Ông Hùng Cao bị chất vấn vì 'bí mật sa thải kíp chỉ huy tàu ngầm'",
+      "link": "https://vnexpress.net/ong-hung-cao-bi-chat-van-vi-bi-mat-sa-thai-kip-chi-huy-tau-ngam-5144625.html",
+      "summary": "Hai nghị sĩ Mỹ chất vấn ông Hùng Cao và ông Caudle vì hải quân nước này cách chức một kíp chỉ huy tàu ngầm mà không báo quốc hội.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-11-14T09:47:29+07:00",
+      "fetched": "2026-11-14T23:20:59.435680+07:00"
+    },
+    {
+      "id": "9861b3ea1cdf3296ab3fe517f1fcbb5a",
+      "title": "Chiếc kim mắc trong thực quản bé trai 9 tháng tuổi",
+      "link": "https://vnexpress.net/chiec-kim-mac-trong-thuc-quan-be-trai-9-thang-tuoi-5144681.html",
+      "summary": "Bé trai được đưa đến bệnh viện trong tình trạng quấy khóc, chảy nhiều nước bọt, khó thở sau khi nuốt phải chiếc kim tây đang mở, mắc tại thực quản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T09:31:32+07:00",
+      "fetched": "2026-11-14T23:20:53.863673+07:00"
+    },
+    {
+      "id": "cd148a7e397766e0f134085901fac791",
+      "title": "Kiện đòi khoản nợ 48 tỷ đồng, người phụ nữ bị bắt vì lộ việc cho vay nặng lãi",
+      "link": "https://vnexpress.net/kien-doi-khoan-no-48-ty-dong-nguoi-phu-nu-bi-bat-vi-lo-viec-cho-vay-nang-lai-5144702.html",
+      "summary": "Trần Thị Hồng bị cáo buộc dùng hợp đồng góp vốn vào dự án không có thật để đòi khoản nợ 48,6 tỷ đồng, song bị phát hiện cho vay lãi nặng khi con nợ trình báo công an.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-11-14T09:09:16+07:00",
+      "fetched": "2026-11-14T23:20:53.863807+07:00"
+    },
+    {
+      "id": "ae19df6339af848b43ac3354254f4d02",
+      "title": "Tổng Bí thư, Chủ tịch nước đến Campuchia dự Hội nghị cấp cao Pháp ngữ",
+      "link": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-den-campuchia-du-hoi-nghi-cap-cao-phap-ngu-5144690.html",
+      "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm đến thủ đô Phnom Penh, bắt đầu chuyến tham dự Hội nghị cấp cao Pháp ngữ lần thứ 20 tại Campuchia.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-11-14T09:01:26+07:00",
+      "fetched": "2026-11-14T23:20:59.435811+07:00"
+    },
+    {
       "id": "7bfa0389db6816eb34bb5b6cf268c4cf",
       "title": "Công an chỉ ra kịch bản lừa đảo đã 10 năm, người dân vẫn sập bẫy",
       "link": "https://thanhnien.vn/cong-an-chi-ra-kich-ban-lua-dao-da-10-nam-nguoi-dan-van-sap-bay-185261114135503637.htm",
@@ -211,6 +781,16 @@ window.newsData_2026_11_14 = {
       "category": "Tổng hợp",
       "published": "2026-11-14T08:10:00+07:00",
       "fetched": "2026-11-14T15:32:13.457769+07:00"
+    },
+    {
+      "id": "b21725dceed11030e331c07b15b0e0b9",
+      "title": "Nghị sĩ Mỹ đặt hạn chót cho Elon Musk về hồ sơ Starlink",
+      "link": "https://vnexpress.net/nghi-si-my-dat-han-chot-cho-elon-musk-ve-ho-so-starlink-5144684.html",
+      "summary": "Các nghị sĩ Dân chủ ấn định hạn chót để Elon Musk phản hồi yêu cầu bảo toàn hồ sơ liên quan việc Starlink và Starshield bị hạn chế ở Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-11-14T08:08:50+07:00",
+      "fetched": "2026-11-14T23:20:59.435940+07:00"
     },
     {
       "id": "26b934d5fe49d6dc435671ab99fbed52",
