@@ -1,7 +1,337 @@
 window.newsData_2026_11_22 = {
   "date": "2026-11-22",
-  "lastUpdated": "2026-11-22T11:56:28.138483+07:00",
+  "lastUpdated": "2026-11-22T20:59:44.684594+07:00",
   "articles": [
+    {
+      "id": "9655dbdca4d089eca5159f67ca90b466",
+      "title": "Chạy bộ góp hơn 1,2 tỉ đồng học bổng trao cho học sinh vùng cao, hải đảo",
+      "link": "https://tuoitre.vn/chay-bo-gop-hon-12-ti-dong-hoc-bong-trao-cho-hoc-sinh-vung-cao-hai-dao-100261122161139417.htm",
+      "summary": "Sáng 22-11, tại TP.HCM, Quỹ vì tuổi trẻ vùng cao và hải đảo (Trung ương Đoàn) tổ chức tổng kết chương trình chạy bộ cộng đồng UpRace 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-22T20:59:40.352370+07:00",
+      "fetched": "2026-11-22T20:59:40.352403+07:00"
+    },
+    {
+      "id": "758784dd700fc6a4a50c3258d433cfee",
+      "title": "Mở rộng không gian lấn biển để phát triển kinh tế, du lịch ở An Giang",
+      "link": "https://tuoitre.vn/mo-rong-khong-gian-lan-bien-de-phat-trien-kinh-te-du-lich-o-an-giang-100261122163812624.htm",
+      "summary": "Dự án lấn biển là sự đột phá để phát triển kinh tế, du lịch An Giang trong thời gian tới. Tỉnh cam kết đồng hành và mong muốn doanh nghiệp, nhà đầu tư quan tâm đầu tư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-22T20:59:40.352332+07:00",
+      "fetched": "2026-11-22T20:59:40.352365+07:00"
+    },
+    {
+      "id": "5bdd4c684114acdc4ddd275710d2b59d",
+      "title": "Cổng 1022 TP.HCM: Từ phản ánh của người dân đến xử lý sự cố hạ tầng",
+      "link": "https://tuoitre.vn/cong-1022-tphcm-tu-phan-anh-cua-nguoi-dan-den-xu-ly-su-co-ha-tang-100261120110934021.htm",
+      "summary": "Trong công tác quản lý, vận hành hạ tầng đô thị, bên cạnh hoạt động kiểm tra định kỳ của các đơn vị chuyên trách, thông tin từ người dân là một kênh hỗ trợ quan trọng giúp cơ quan quản lý nắm bắt tình hình thực tế tại địa bàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-22T20:59:40.352293+07:00",
+      "fetched": "2026-11-22T20:59:40.352326+07:00"
+    },
+    {
+      "id": "3940d8ef6c312141f060e43f9dc24de7",
+      "title": "Du lịch Văn hóa TP.HCM: Cộng đồng là chủ thể sáng tạo, thụ hưởng văn hóa - du lịch",
+      "link": "https://tuoitre.vn/du-lich-van-hoa-tphcm-cong-dong-la-chu-the-sang-tao-thu-huong-van-hoa-du-lich-100261119001105162.htm",
+      "summary": "Những giá trị văn hóa, di sản 'sống' có sức hút bền vững bắt nguồn từ chính đời sống cộng đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-22T20:59:40.352255+07:00",
+      "fetched": "2026-11-22T20:59:40.352288+07:00"
+    },
+    {
+      "id": "5ab6ba1e70763afffbf6b87cf6db86cc",
+      "title": "Techcombank huy động 7.500 tỉ đồng trái phiếu, lãi suất cao nhất lên tới 9%/năm",
+      "link": "https://tuoitre.vn/techcombank-huy-dong-7500-ti-dong-trai-phieu-lai-suat-cao-nhat-len-toi-9-nam-100261122164231538.htm",
+      "summary": "Chỉ trong một tuần, Techcombank đã phát hành thành công ba lô trái phiếu riêng lẻ với tổng giá trị 7.500 tỉ đồng, kỳ hạn 3 năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-22T20:59:40.352211+07:00",
+      "fetched": "2026-11-22T20:59:40.352249+07:00"
+    },
+    {
+      "id": "bc22133c31f49cc95158317d9ffdd302",
+      "title": "Đặc vụ ICE bắt người khi đang lên máy bay, Thống đốc Washington phẫn nộ",
+      "link": "https://tuoitre.vn/dac-vu-ice-bat-nguoi-khi-dang-len-may-bay-thong-doc-washington-phan-no-100261122170758718.htm",
+      "summary": "Ngày 21-11, Thống đốc bang Washington, ông Bob Ferguson, cho rằng các đặc vụ Cơ quan Thực thi di trú và hải quan Mỹ (ICE) đã \"mất kiểm soát\" sau khi họ bắt giữ 2 người tại sân bay chính của thành phố Seattle cùng ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-22T20:59:40.352163+07:00",
+      "fetched": "2026-11-22T20:59:40.352195+07:00"
+    },
+    {
+      "id": "f3f6f04a5227f273acb07c9de463b428",
+      "title": "Cà Mau ra thông báo tìm ‘vua tôm’",
+      "link": "https://tuoitre.vn/ca-mau-ra-thong-bao-tim-vua-tom-100261122175447825.htm",
+      "summary": "Ngày 22-11, Sở Nông nghiệp và Môi trường tỉnh Cà Mau đã phát động cuộc thi tìm kiếm \"Con tôm sú nặng nhất Cà Mau năm 2026\" nhằm tôn vinh và quảng bá đặc sản trứ danh của vùng đất cực Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-22T20:59:40.352124+07:00",
+      "fetched": "2026-11-22T20:59:40.352158+07:00"
+    },
+    {
+      "id": "993583ac67f642f7dfaf856d2139ff7e",
+      "title": "Câu chuyện tình yêu đẹp của 'đôi vợ chồng judo' ở Đại hội Thể thao toàn quốc 2026",
+      "link": "https://tuoitre.vn/cau-chuyen-tinh-yeu-dep-cua-doi-vo-chong-judo-o-dai-hoi-the-thao-toan-quoc-2026-100261122173851065.htm",
+      "summary": "Gặp nhau và nên duyên vợ chồng từ judo, hai VĐV Đặng Trung Hiền và Hồ Thị Như Vân vừa đem về thành tích cho judo Quân Đội ở Đại hội Thể thao toàn quốc 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-22T20:59:40.352086+07:00",
+      "fetched": "2026-11-22T20:59:40.352118+07:00"
+    },
+    {
+      "id": "00181ec08a2dd3fc992d3b0a2deb5c06",
+      "title": "2 ngày 1 đêm mùa 5 bất ngờ lùi lịch phát sóng tập 109, khán giả từ háo hức thành hụt hẫng",
+      "link": "https://tuoitre.vn/2-ngay-1-dem-mua-5-bat-ngo-lui-lich-phat-song-tap-109-khan-gia-tu-hao-huc-thanh-hut-hang-100261122182314398.htm",
+      "summary": "Chỉ vài tiếng trước khung giờ phát sóng cố định trên HTV7, chương trình 2 ngày 1 đêm bất ngờ thông báo điều chỉnh lịch phát sóng tập 109 sang tuần sau.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-22T20:59:40.352044+07:00",
+      "fetched": "2026-11-22T20:59:40.352080+07:00"
+    },
+    {
+      "id": "53d2d38f637c4b220620000272e1158d",
+      "title": "Sức mạnh đại đoàn kết được vun đắp từ những việc làm thiết thực trong mỗi gia đình",
+      "link": "https://tuoitre.vn/suc-manh-dai-doan-ket-duoc-vun-dap-tu-nhung-viec-lam-thiet-thuc-trong-moi-gia-dinh-100261122182344696.htm",
+      "summary": "Phó Thủ tướng thường trực Chính phủ Phạm Gia Túc khẳng định sức mạnh đại đoàn kết được vun đắp từ những việc làm thiết thực trong mỗi gia đình, khu dân cư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-22T20:59:40.351989+07:00",
+      "fetched": "2026-11-22T20:59:40.352037+07:00"
+    },
+    {
+      "id": "406d124af4f7bb3e160c2217ac44cb42",
+      "title": "'Đã mắt' nhìn hàng ngàn chim nhạn săn cá đồng lạc ra biển mặn Rạch Giá",
+      "link": "https://tuoitre.vn/da-mat-nhin-hang-ngan-chim-nhan-san-ca-dong-lac-ra-bien-man-rach-gia-100261122175909674.htm",
+      "summary": "Đến mùa nước trên đồng rút cạn để gieo sạ lúa, hàng ngàn con chim nhạn kéo về khu vực biển mặn Rạch Giá (tỉnh An Giang) săn cá đồng, tạo nên cảnh tượng đẹp mắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-22T20:59:40.351949+07:00",
+      "fetched": "2026-11-22T20:59:40.351983+07:00"
+    },
+    {
+      "id": "c4b7f9ab0d08058a9aa5aba795b687f7",
+      "title": "Festival OCOP Việt Nam 2026: Điểm nhấn du lịch - văn hóa dịp cuối năm",
+      "link": "https://tuoitre.vn/festival-ocop-viet-nam-2026-diem-nhan-du-lich-van-hoa-dip-cuoi-nam-100261122150722566.htm",
+      "summary": "Mua đặc sản ba miền, xem nghệ nhân làm nghề, check-in bên mô hình chợ Bến Thành thu nhỏ… Festival OCOP Việt Nam 2026 tại đường đi bộ Nguyễn Huệ hứa hẹn là điểm hẹn du lịch - văn hóa của TP.HCM dịp cuối năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-22T20:59:40.351909+07:00",
+      "fetched": "2026-11-22T20:59:40.351944+07:00"
+    },
+    {
+      "id": "449cb9f0674f3392113365a8a8f06e2d",
+      "title": "Cuộc tuyển chọn James Bond tốn nửa triệu USD",
+      "link": "https://tuoitre.vn/cuoc-tuyen-chon-james-bond-ton-nua-trieu-usd-100261122175857883.htm",
+      "summary": "Quyết định chọn Robert Pattinson vào vai James Bond của Amazon MGM khép lại cuộc cạnh tranh giữa nhiều ngôi sao Hollywood, đồng thời mở ra chương mới trong sự nghiệp của nam diễn viên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-22T20:59:40.351866+07:00",
+      "fetched": "2026-11-22T20:59:40.351903+07:00"
+    },
+    {
+      "id": "11388cee862eca474b8af48c17202a6f",
+      "title": "Tỉ phú Chương Trạch Thiên cùng loạt sao quốc tế chọn đầm couture của Phan Huy",
+      "link": "https://tuoitre.vn/ti-phu-chuong-trach-thien-cung-loat-sao-quoc-te-chon-dam-couture-cua-phan-huy-100261122134635143.htm",
+      "summary": "Chương Trạch Thiên, Carla Gugino, Jessica Williams, Julie Bowen và Stassi Schroeder chọn đầm couture của nhà thiết kế Phan Huy tại các sự kiện quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-22T20:59:40.351815+07:00",
+      "fetched": "2026-11-22T20:59:40.351858+07:00"
+    },
+    {
+      "id": "735a27cac1a0b5601094f765ff874b90",
+      "title": "Phố phường rực rỡ sắc cờ đỏ trước thềm Ngày Văn hóa Việt Nam",
+      "link": "https://tuoitre.vn/pho-phuong-ruc-ro-sac-co-do-truoc-them-ngay-van-hoa-viet-nam-100261122181642279.htm",
+      "summary": "Sắc đỏ của cờ Tổ quốc hiện diện trước hiên nhà, trên ban công và khắp các tuyến đường tại TP.HCM cùng nhiều địa phương, hướng đến Ngày Văn hóa Việt Nam lần đầu tiên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-22T20:59:40.351676+07:00",
+      "fetched": "2026-11-22T20:59:40.351806+07:00"
+    },
+    {
+      "id": "3f8e1b362115a4767c018e4afbd601cc",
+      "title": "Hoa hậu H'Hen Niê hòa cùng 3.400 nghệ nhân đưa sắc màu đại ngàn xuống phố",
+      "link": "https://thanhnien.vn/hoa-hau-hhen-nie-hoa-cung-3400-nghe-nhan-dua-sac-mau-dai-ngan-xuong-pho-185261122192625739.htm",
+      "summary": "Hoa hậu H'Hen Niê hòa cùng tiếng cồng chiêng, những điệu xoang uyển chuyển, sắc màu thổ cẩm rực rỡ của đồng bào các dân tộc thiểu số tạo nên bức tranh văn hóa sống động giữa phố phường Kon Tum (Quảng Ngãi).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-22T13:58:00+07:00",
+      "fetched": "2026-11-22T20:59:38.961258+07:00"
+    },
+    {
+      "id": "297344652ffdcb7acc7d041359e1bcc3",
+      "title": "Ánh Viên giành HCB trong ngày 'mưa' kỷ lục môn bơi, Thanh Bảo thua Việt kiều Mỹ",
+      "link": "https://thanhnien.vn/anh-vien-gianh-hcb-trong-ngay-mua-ky-luc-mon-boi-thanh-bao-thua-viet-kieu-my-185261122205004967.htm",
+      "summary": "Tái xuất tại Đại hội Thể thao toàn quốc 2026 sau 4 năm vắng bóng, kình ngư Nguyễn Thị Ánh Viên về hạng nhì ở nội dung 200 m hỗn hợp nữ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-22T13:56:00+07:00",
+      "fetched": "2026-11-22T20:59:38.961372+07:00"
+    },
+    {
+      "id": "ec502e6f15e292546f7a8dc8effd390e",
+      "title": "Highlight SHB Đà Nẵng 0-1 Ninh Bình: Hoàng Đức ghi bàn, đội khách đòi lại ngôi nhì bảng",
+      "link": "https://thanhnien.vn/highlight-shb-da-nang-0-1-ninh-binh-hoang-duc-ghi-ban-doi-khach-doi-lai-ngoi-nhi-bang-185261122204703258.htm",
+      "summary": "Hoàng Đức ghi bàn thắng quyết định ở phút 24, giúp CLB Ninh Bình đánh bại SHB Đà Nẵng 1-0 ngay trên sân Chi Lăng ở vòng 8 V-League 2026 - 2027. Chiến thắng đưa Ninh Bình trở lại vị trí thứ 2 với 16 điểm, kém đội đầu bảng Nam Định 3 điểm. Trong khi đó, HLV Lee Young-jin nhận thất bại ngay trận ra mắt...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-22T13:51:00+07:00",
+      "fetched": "2026-11-22T20:59:38.961470+07:00"
+    },
+    {
+      "id": "3b49c6d1a5e4830c23023b5775ae49d3",
+      "title": "Highlight Hà Tĩnh 2-1 CLB Công an TP.HCM: Bàn thắng phút 89, chủ nhà bay cao",
+      "link": "https://thanhnien.vn/highlight-ha-tinh-2-1-clb-cong-an-tphcm-ban-thang-phut-89-chu-nha-bay-cao-18526112220505634.htm",
+      "summary": "Luiz Antonio ghi bàn quyết định ở phút 89, giúp Hà Tĩnh đánh bại CLB Công an TP.HCM 2-1 tại vòng 8 V-League 2026 - 2027. Dù Olaha Mạnh Đức gỡ hòa 1-1 ở phút 57, đội khách vẫn trắng tay và nhận thất bại thứ 3 liên tiếp tại V-League. Với 14 điểm, Hà Tĩnh vươn lên vị trí thứ 5, xếp trên nhiều đội bóng ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-22T13:50:00+07:00",
+      "fetched": "2026-11-22T20:59:38.961565+07:00"
+    },
+    {
+      "id": "448e8eea1d7103090828bf9042577c3d",
+      "title": "3 giờ sáng hái trộm 171 kg cà phê tươi, chưa kịp tẩu tán đã sa lưới",
+      "link": "https://thanhnien.vn/3-gio-sang-hai-trom-171-kg-ca-phe-tuoi-chua-kip-tau-tan-da-sa-luoi-185261122193228977.htm",
+      "summary": "Chưa kịp tẩu tán 171 kg cà phê tươi vừa hái trộm trong đêm, một nghi phạm có tiền án trộm cắp đã bị công an xã mật phục, bắt quả tang ngay lúc rạng sáng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-22T13:31:00+07:00",
+      "fetched": "2026-11-22T20:59:38.961656+07:00"
+    },
+    {
+      "id": "49f78b8ae83966cd9a4dac4fd0dda3d7",
+      "title": "5 mẫu mô tô, xe máy nhập khẩu số lượng giới hạn vừa về Việt Nam",
+      "link": "https://thanhnien.vn/5-mau-mo-to-xe-may-nhap-khau-so-luong-gioi-han-vua-ve-viet-nam-185261122091454585.htm",
+      "summary": "Không chỉ có những dòng xe phổ thông, thị trường xe máy Việt Nam còn đón nhận nhiều phiên bản đặc biệt được sản xuất với số lượng giới hạn; từ xe tay ga Honda nhập từ Ý đến những mẫu mô tô mang phong cách đường đua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-22T13:27:00+07:00",
+      "fetched": "2026-11-22T20:59:38.961757+07:00"
+    },
+    {
+      "id": "d3659c4e6d1f8feb8dd4f79659e5e763",
+      "title": "Phó thủ tướng Thường trực Phạm Gia Túc: Cần Thơ chăm lo hơn nữa văn hóa Khmer",
+      "link": "https://thanhnien.vn/pho-thu-tuong-thuong-truc-pham-gia-tuc-can-tho-cham-lo-hon-nua-van-hoa-khmer-185261122182747704.htm",
+      "summary": "Tham gia Ngày hội Đại đoàn kết toàn dân tộc tại Cần Thơ, Phó thủ tướng Thường trực Phạm Gia Túc mong muốn chính quyền thành phố phải vào cuộc quyết liệt hơn và gợi ý 4 phần việc cần tập trung làm ngay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-22T13:22:00+07:00",
+      "fetched": "2026-11-22T20:59:38.961849+07:00"
+    },
+    {
+      "id": "2f2e7349746012f06985aa559cbfff59",
+      "title": "Trấn Thành bồi hồi kể kỷ niệm được Ngọc Sơn quan tâm thuở mới vào nghề",
+      "link": "https://thanhnien.vn/tran-thanh-boi-hoi-ke-ky-niem-duoc-ngoc-son-quan-tam-thuo-moi-vao-nghe-185261122164702536.htm",
+      "summary": "Trấn Thành dành nhiều lời trân trọng cho Ngọc Sơn trước khi nam ca sĩ rời 'Ca sĩ mặt nạ'. Nam MC cũng gây chú ý khi nhắc lại những kỷ niệm từ thuở mới vào nghề và khẳng định đàn anh là một trong những ngôi sao có sức hút bền bỉ đặc biệt của làng nhạc Việt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-22T13:12:00+07:00",
+      "fetched": "2026-11-22T20:59:38.961939+07:00"
+    },
+    {
+      "id": "57d74a8619c1fdf8326e7499e7faf828",
+      "title": "Đàm phán khí hậu COP31 vấp phải bất đồng lớn",
+      "link": "https://thanhnien.vn/dam-phan-khi-hau-cop31-vap-phai-bat-dong-lon-1852611222004288.htm",
+      "summary": "Hội nghị lần thứ 31 các bên tham gia Công ước khung của Liên Hiệp Quốc về biến đổi khí hậu (COP31) không đạt thỏa thuận chung, dù diễn ra dài hơn 2 ngày so với dự kiến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-22T13:11:00+07:00",
+      "fetched": "2026-11-22T20:59:38.962029+07:00"
+    },
+    {
+      "id": "19c5301f6dd30f63e983e4b3f5993c61",
+      "title": "Bảng xếp hạng V-League mới nhất: Ninh Bình soán tốp 2 ngoạn mục, Hà Tĩnh ở vị trí cực khó tin",
+      "link": "https://thanhnien.vn/bang-xep-hang-v-league-moi-nhat-ninh-binh-soan-top-2-ngoan-muc-ha-tinh-o-vi-tri-cuc-kho-tin-185261122200524276.htm",
+      "summary": "Vòng 8 V-League 2026 - 2027 chứng kiến Hoàng Đức tỏa sáng giúp CLB Ninh Bình đoạt lại ngôi nhì và duy trì khoảng cách với đội đầu bảng Nam Định, trong khi CLB Hà Tĩnh tiếp tục bay cao sau chiến thắng trước CLB CA TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-22T13:10:00+07:00",
+      "fetched": "2026-11-22T20:59:38.962117+07:00"
+    },
+    {
+      "id": "531b71ec3b138bfe83f89bdda9076f3e",
+      "title": "Ngày ra mắt buồn của HLV Lee Young-jin, Đà Nẵng thua sát nút Ninh Bình: Hoàng Đức chơi quá hay",
+      "link": "https://thanhnien.vn/ngay-ra-mat-buon-cua-hlv-lee-young-jin-da-nang-thua-sat-nut-ninh-binh-hoang-duc-choi-qua-hay-185261122190907797.htm",
+      "summary": "CLB Ninh Bình giành trọn 3 điểm sau chiến thắng 1-0 trước CLB Đà Nẵng ở vòng 8 V-League diễn ra hôm nay trên sân Chi Lăng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-22T13:05:00+07:00",
+      "fetched": "2026-11-22T20:59:38.962217+07:00"
+    },
+    {
+      "id": "4da5e3896588098b49acdecacd3940b0",
+      "title": "Xem nhanh 20h ngày 22.11: Sân bay Long Thành khai thác thế nào dịp tết này | Mùa khô 2027 sẽ bất thường?",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-2211-san-bay-long-thanh-khai-thac-the-nao-dip-tet-nay-mua-kho-2027-se-bat-thuong-185261122194035863.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 22.11 có nhiều tin tức đáng chú ý về: Sân bay Long Thành dịp tết 2027: Dự kiến 30 - 40 chuyến mỗi ngày; mới cuối tháng 11 đã oi bức, mùa khô 2027 đáng lo thế nào;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-22T13:00:00+07:00",
+      "fetched": "2026-11-22T20:59:38.962310+07:00"
+    },
+    {
+      "id": "691750c742484a91bb632c20c6a76a1d",
+      "title": "Olaha Mạnh Đức tỏa sáng, CLB Công an TP.HCM vẫn thua đau Hà Tĩnh: Trắng tay 3 trận liên tiếp",
+      "link": "https://thanhnien.vn/olaha-manh-duc-toa-sang-clb-cong-an-tphcm-van-thua-dau-ha-tinh-trang-tay-3-tran-lien-tiep-185261122184930625.htm",
+      "summary": "Tối 22.11, ở vòng 8 V-League 2026-2027, Olaha Mạnh Đức vào sân thay người và ghi bàn nhưng cũng không thể giúp CLB Công an TP.HCM tránh được trận thua 1-2 trước CLB Hà Tĩnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-22T12:59:00+07:00",
+      "fetched": "2026-11-22T20:59:38.962398+07:00"
+    },
+    {
+      "id": "64b0d958c6b800f4a8f6852e8642c3f4",
+      "title": "Ông Nguyễn Thanh Nghị: Ea Kao cần chú trọng bảo tồn, phát huy văn hóa cồng chiêng",
+      "link": "https://thanhnien.vn/ong-nguyen-thanh-nghi-ea-kao-can-chu-trong-bao-ton-phat-huy-van-hoa-cong-chieng-185261122174126393.htm",
+      "summary": "Ngày 22.11, tại phường Ea Kao, Ủy ban MTTQ Việt Nam tỉnh Đắk Lắk phối hợp tổ chức chương trình Ngày hội Đại đoàn kết dân tộc gắn với Ngày Văn hóa Việt Nam năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-22T12:58:00+07:00",
+      "fetched": "2026-11-22T20:59:38.962485+07:00"
+    },
+    {
+      "id": "d45854d3d7826c696aaf982c08c5c662",
+      "title": "'Hé lộ' liên danh quốc tế trúng thầu tư vấn đường sắt tốc độ cao Bắc Nam",
+      "link": "https://thanhnien.vn/he-lo-lien-danh-quoc-te-trung-thau-tu-van-duong-sat-toc-do-cao-bac-nam-185261122182847423.htm",
+      "summary": "Liên danh nhà thầu Pháp - Hàn Quốc - Việt Nam đã trúng Gói thầu TV-02 - Tư vấn khảo sát, lập Báo cáo nghiên cứu khả thi, bao gồm thiết kế FEED dự án đường sắt tốc độ cao Bắc - Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-22T12:53:00+07:00",
+      "fetched": "2026-11-22T20:59:38.962572+07:00"
+    },
+    {
+      "id": "081ff8747eb64ae8efec42babdfe6dcb",
+      "title": "Ông Trump đăng ảnh gọi ông Putin là 'bạn của tôi'",
+      "link": "https://vnexpress.net/ong-trump-dang-anh-goi-ong-putin-la-ban-cua-toi-5147700.html",
+      "summary": "Tổng thống Trump đăng ảnh bắt tay người đồng cấp Putin trong cuộc gặp song phương ở Trung Quốc, kèm tiêu đề cỡ lớn \"bạn của tôi\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-11-22T12:32:43+07:00",
+      "fetched": "2026-11-22T20:59:41.293796+07:00"
+    },
+    {
+      "id": "ba120259fec9b28169a937700f617162",
+      "title": "Tiền đạo Việt Nam: 'U17 World Cup không khó như tưởng tượng'",
+      "link": "https://vnexpress.net/tien-dao-viet-nam-u17-world-cup-khong-kho-nhu-tuong-tuong-5147710.html",
+      "summary": "Lê Sỹ Bách tin rằng màn trình diễn tích cực trước Bỉ ở trận ra quân sẽ giúp Việt Nam tự tin hơn khi đấu New Zealand ở lượt hai bảng G U17 World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-11-22T12:11:51+07:00",
+      "fetched": "2026-11-22T20:59:44.679250+07:00"
+    },
+    {
+      "id": "a0030a9100f57975e1a214937f66cdb9",
+      "title": "Anh tính đường trở lại EU sau 10 năm",
+      "link": "https://vnexpress.net/anh-tinh-duong-tro-lai-eu-sau-10-nam-5147299.html",
+      "summary": "Sau một thập kỷ, Anh đang phát tín hiệu đảo chiều trong quan hệ với châu Âu, giữa lúc ngày càng nhiều người dân cho rằng Brexit là quyết định sai lầm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-11-22T12:00:00+07:00",
+      "fetched": "2026-11-22T20:59:41.293913+07:00"
+    },
     {
       "id": "ad0fb02dd66f5fd1ca7e29707f6b619e",
       "title": "Trực thăng nã đạn dữ dội, dân tháo chạy trong chiến dịch bắt trùm ma túy Mexico",
@@ -153,6 +483,106 @@ window.newsData_2026_11_22 = {
       "fetched": "2026-11-22T11:56:23.714058+07:00"
     },
     {
+      "id": "ce07c4cdb0b9989be402ac90127f5805",
+      "title": "Nhà vô địch World Cup đổ gục khi trả lời phỏng vấn",
+      "link": "https://vnexpress.net/nha-vo-dich-world-cup-do-guc-khi-tra-loi-phong-van-5147707.html",
+      "summary": "Tiền vệ Leandro Paredes ngất xỉu giữa cuộc phỏng vấn sau chiến thắng 2-0 của Boca Juniors trước Atletico Mineiro ở chung kết Copa Sudamericana.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-11-22T11:51:52+07:00",
+      "fetched": "2026-11-22T20:59:44.679367+07:00"
+    },
+    {
+      "id": "7d306c312d8e6966d07a5e0d9361f6fc",
+      "title": "Nhiều loại rau xanh và gia vị giảm giá một nửa",
+      "link": "https://vnexpress.net/nhieu-loai-rau-xanh-va-gia-vi-giam-gia-mot-nua-5147620.html",
+      "summary": "Sau thời gian dài neo cao, giá nhiều loại rau xanh, gia vị tại TP HCM giảm 15-50%, riêng ngò rí giảm đến 75%.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-11-22T10:08:29+07:00",
+      "fetched": "2026-11-22T20:59:42.180350+07:00"
+    },
+    {
+      "id": "313d76fb9d5ab03c4ffa72f9e9059657",
+      "title": "Apple bí mật phát triển trợ lý AI tự điều khiển máy tính",
+      "link": "https://vnexpress.net/apple-bi-mat-phat-trien-tro-ly-ai-tu-dieu-khien-may-tinh-5147686.html",
+      "summary": "Apple được cho là đang phát triển trợ lý AI có thể thao tác trên máy tính giống con người như duyệt web, lập trình, làm việc với nhiều ứng dụng cùng lúc.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-11-22T09:54:42+07:00",
+      "fetched": "2026-11-22T20:59:43.807834+07:00"
+    },
+    {
+      "id": "02e174b2552c7938cbc452f192bc7053",
+      "title": "Công ty bầu Đức muốn phát hành 400 tỷ đồng trái phiếu",
+      "link": "https://vnexpress.net/cong-ty-bau-duc-muon-phat-hanh-400-ty-dong-trai-phieu-5147667.html",
+      "summary": "HAGL dự kiến phát hành riêng lẻ tối đa 4.000 trái phiếu, kỳ hạn 48 tháng, mệnh giá 100 triệu đồng mỗi trái phiếu, tương ứng tổng giá trị tối đa 400 tỷ đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-11-22T09:53:34+07:00",
+      "fetched": "2026-11-22T20:59:42.180481+07:00"
+    },
+    {
+      "id": "6529237d5b5854dc6925d73963e4293b",
+      "title": "Neymar thắng giải poker, nhận hơn 63.000 USD",
+      "link": "https://vnexpress.net/neymar-thang-giai-poker-nhan-hon-63-000-usd-5147687.html",
+      "summary": "Tiền đạo Neymar giành danh hiệu đầu tiên ở hệ thống giải poker Brazil, sau khi đánh bại người bạn thân Gilmar Araújo tại São Paulo hôm 21/11.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-11-22T09:32:43+07:00",
+      "fetched": "2026-11-22T20:59:44.680044+07:00"
+    },
+    {
+      "id": "5dad02af0afdb6b6e6f8cd9d6443f015",
+      "title": "Đặc vụ ICE bắt người ngay tại cửa lên máy bay",
+      "link": "https://vnexpress.net/dac-vu-ice-bat-nguoi-ngay-tai-cua-len-may-bay-5147669.html",
+      "summary": "Các đặc vụ ICE bắt hai người tại lối đi lên máy bay đông đúc ở sân bay Seattle, khiến chuyến bay đến Los Angeles bị hoãn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-11-22T09:14:21+07:00",
+      "fetched": "2026-11-22T20:59:41.294017+07:00"
+    },
+    {
+      "id": "65a5b279b061a1f43753253b4f8ed764",
+      "title": "Wirtz và bài kiểm tra 'nhập tịch' ở Ngoại hạng Anh",
+      "link": "https://vnexpress.net/wirtz-va-bai-kiem-tra-nhap-tich-o-ngoai-hang-anh-5147474.html",
+      "summary": "Florian Wirtz vẫn chật vật ở Liverpool sang mùa thứ hai, như nhiều ngôi sao từng phải vượt qua bài kiểm tra về thể lực, tốc độ và sức chịu đựng để được thừa nhận ở Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-11-22T08:59:33+07:00",
+      "fetched": "2026-11-22T20:59:44.679468+07:00"
+    },
+    {
+      "id": "c5143aba1fe89b7a53a00176b5578052",
+      "title": "Apple chuẩn bị sản xuất hàng loạt iPhone Air 2, iPhone 18",
+      "link": "https://vnexpress.net/apple-chuan-bi-san-xuat-hang-loat-iphone-air-2-iphone-18-5147678.html",
+      "summary": "Apple cùng các nhà cung cấp tấm nền màn hình như LG, Samsung đang bước vào giai đoạn nước rút để chuẩn bị cho iPhone Air thế hệ hai, iPhone 18.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-11-22T08:45:40+07:00",
+      "fetched": "2026-11-22T20:59:43.807950+07:00"
+    },
+    {
+      "id": "ac2c1f60c49a2a216e83e75c20f730c4",
+      "title": "TP HCM khánh thành nhà máy thép 6.200 tỷ đồng tại Phú Mỹ",
+      "link": "https://vnexpress.net/tp-hcm-khanh-thanh-nha-may-thep-6-200-ty-dong-tai-phu-my-5147556.html",
+      "summary": "Nhà máy Tôn Nam Kim Phú Mỹ có vốn đầu tư 6.200 tỷ đồng với tổng công suất hơn 1,2 triệu tấn mỗi năm vừa chính thức khánh thành và đưa vào vận hành tại Phú Mỹ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-11-22T06:16:42+07:00",
+      "fetched": "2026-11-22T20:59:42.180587+07:00"
+    },
+    {
+      "id": "4e3a3de8cabc117ed65a029cf9e7131a",
+      "title": "Bahrain cáo buộc Iran tập kích cơ sở công nghiệp dân sự",
+      "link": "https://vnexpress.net/bahrain-cao-buoc-iran-tap-kich-co-so-cong-nghiep-dan-su-5147627.html",
+      "summary": "Bahrain nói rằng Iran tấn công một cơ sở công nghiệp dân sự gần thủ đô Manama, gây hỏa hoạn và thiệt hại, không có thương vong.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-11-22T06:05:30+07:00",
+      "fetched": "2026-11-22T20:59:41.294119+07:00"
+    },
+    {
       "id": "cf7007c747ae9a37f833265460f0ec91",
       "title": "Mỹ Tâm đem loạt 'hit' chiêu đãi 25.000 fan, nhắc về biến cố sự nghiệp",
       "link": "https://thanhnien.vn/my-tam-dem-loat-hit-chieu-dai-25000-fan-nhac-ve-bien-co-su-nghiep-185261122093021735.htm",
@@ -161,6 +591,26 @@ window.newsData_2026_11_22 = {
       "category": "Tổng hợp",
       "published": "2026-11-22T04:49:00+07:00",
       "fetched": "2026-11-22T11:56:22.151167+07:00"
+    },
+    {
+      "id": "3ef0c608a28dc5648fad1fb0c209f90e",
+      "title": "Cháy nhà máy ở Indonesia, hơn 30 người mất tích",
+      "link": "https://vnexpress.net/chay-nha-may-o-indonesia-hon-30-nguoi-mat-tich-5147600.html",
+      "summary": "Ít nhất 3 người chết và 36 người mất tích sau khi hỏa hoạn xảy ra tại nhà máy sản xuất bánh kẹo ở phía tây Jakarta.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-11-22T04:41:55+07:00",
+      "fetched": "2026-11-22T20:59:41.294235+07:00"
+    },
+    {
+      "id": "729297e453c715a50f4c8c942c917e90",
+      "title": "Ảnh vệ tinh 'trận địa trực chiến' của siêu tên lửa Sarmat Nga",
+      "link": "https://vnexpress.net/anh-ve-tinh-tran-dia-truc-chien-cua-sieu-ten-lua-sarmat-nga-5147547.html",
+      "summary": "Ảnh vệ tinh thương mại cho thấy dấu hiệu Nga triển khai tên lửa xuyên lục địa RS-28 Sarmat, với tầm bắn 18.000 km, trong trạng thái trực chiến.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-11-22T04:37:20+07:00",
+      "fetched": "2026-11-22T20:59:41.294339+07:00"
     },
     {
       "id": "825b02d429e59e6cab54815748b81ed6",
@@ -943,6 +1393,16 @@ window.newsData_2026_11_22 = {
       "fetched": "2026-11-22T05:44:39.610611+07:00"
     },
     {
+      "id": "4576510e9805020ef803eb44370a9677",
+      "title": "5 nguyên tắc giúp người tiểu đường phòng bệnh tim mạch",
+      "link": "https://vnexpress.net/5-nguyen-tac-giup-nguoi-tieu-duong-phong-benh-tim-mach-5146492.html",
+      "summary": "Người mắc tiểu đường có nguy cơ mắc bệnh tim mạch cao, cần theo dõi huyết áp, mỡ máu và chức năng thận để phát hiện sớm các bất thường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-11-21T19:00:00+07:00",
+      "fetched": "2026-11-22T20:59:36.630474+07:00"
+    },
+    {
       "id": "be77f3fdde7824b2ef62697352e53967",
       "title": "Chính phủ yêu cầu cảnh báo sớm rủi ro với nhóm hàng xuất siêu lớn",
       "link": "https://vnexpress.net/chinh-phu-yeu-cau-canh-bao-som-rui-ro-voi-nhom-hang-xuat-sieu-lon-5147531.html",
@@ -961,6 +1421,26 @@ window.newsData_2026_11_22 = {
       "category": "Thế giới",
       "published": "2026-11-21T18:00:00+07:00",
       "fetched": "2026-11-22T05:44:36.450001+07:00"
+    },
+    {
+      "id": "48cdf1eb942a4fd68857f5e2c0638cf1",
+      "title": "5 lý do khiến giấc ngủ gián đoạn vì thức dậy đi tiểu",
+      "link": "https://vnexpress.net/5-ly-do-khien-giac-ngu-gian-doan-vi-thuc-day-di-tieu-5147071.html",
+      "summary": "Thường xuyên tỉnh giấc giữa đêm để đi vệ sinh có thể xuất phát từ thói quen uống nhiều nước trước khi ngủ, sử dụng caffeine hoặc một số vấn đề sức khỏe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-11-21T18:00:00+07:00",
+      "fetched": "2026-11-22T20:59:36.630709+07:00"
+    },
+    {
+      "id": "3b8ae8bbd3044b3fbe0bb40c0d99ca97",
+      "title": "Hội chứng thiểu cơ",
+      "link": "https://vnexpress.net/suc-khoe/cam-nang/hoi-chung-thieu-co-465",
+      "summary": "Hội chứng thiểu cơ khiến khối lượng, sức mạnh và chức năng cơ suy giảm, gây khó vận động, tăng nguy cơ té ngã khi lớn tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-11-21T18:00:00+07:00",
+      "fetched": "2026-11-22T20:59:36.630905+07:00"
     },
     {
       "id": "5a6de2e86542a34040ec2a2ddcec13ea",
@@ -1003,6 +1483,16 @@ window.newsData_2026_11_22 = {
       "fetched": "2026-11-22T05:44:34.219705+07:00"
     },
     {
+      "id": "7ff9f996da6a48b318b5cf5b9c1f2821",
+      "title": "Dấu ấn Chủ tịch Tôn Đức Thắng tại chiến khu Tân Trào",
+      "link": "https://vnexpress.net/dau-an-chu-tich-ton-duc-thang-tai-chien-khu-tan-trao-5146505.html",
+      "summary": "Từ năm 1952 đến 1954, tại chiến khu Tân Trào, Chủ tịch Tôn Đức Thắng chủ trì nhiều cuộc họp quan trọng của Quốc hội và Mặt trận, tiếp đoàn đại biểu Trung Quốc, Liên Xô.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-11-21T17:20:05+07:00",
+      "fetched": "2026-11-22T20:59:36.630996+07:00"
+    },
+    {
       "id": "35cd7f8c4a3721dc3275b83c613a1210",
       "title": "Highlight U.17 Serbia 2-0 U.17 Honduras: Samardzic lập cú đúp",
       "link": "https://thanhnien.vn/highlight-u17-serbia-2-0-u17-honduras-samardzic-lap-cu-dup-185261122001858538.htm",
@@ -1011,6 +1501,26 @@ window.newsData_2026_11_22 = {
       "category": "Tổng hợp",
       "published": "2026-11-21T17:18:00+07:00",
       "fetched": "2026-11-22T05:44:34.219794+07:00"
+    },
+    {
+      "id": "fb290e9e69b7187b5ae337802409ef4a",
+      "title": "5 trái cây chứa nhiều đường hơn bạn nghĩ",
+      "link": "https://vnexpress.net/5-trai-cay-chua-nhieu-duong-hon-ban-nghi-5147160.html",
+      "summary": "Xoài có 11,1 g đường trên khẩu phần 100 g nhưng chỉ số đường huyết chỉ 48, thuộc nhóm thấp trong khi chuối chín có GI 75, ở mức cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-11-21T17:04:00+07:00",
+      "fetched": "2026-11-22T20:59:36.631090+07:00"
+    },
+    {
+      "id": "939d88cf4f28972347811d4b9847f0fa",
+      "title": "Top 10 bang, đại học đông du học sinh nhất Mỹ",
+      "link": "https://vnexpress.net/hoc-phi-chi-phi-sinh-hoat-o-nhung-bang-dai-hoc-dong-du-hoc-sinh-nhat-my-5146574.html",
+      "summary": "New York và California đông du học sinh nhất ở Mỹ, còn xét theo trường thì Đại học New York dẫn đầu, dù chi phí đều thuộc diện cao nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-11-21T17:02:00+07:00",
+      "fetched": "2026-11-22T20:59:36.631181+07:00"
     },
     {
       "id": "2485f0269d10320320418d99d0a1ed2a",
@@ -1023,6 +1533,16 @@ window.newsData_2026_11_22 = {
       "fetched": "2026-11-22T05:44:37.283409+07:00"
     },
     {
+      "id": "6fabc7ad0dbb69f1b69cf1d1e85d2828",
+      "title": "Ba con giáp đổi vận giàu sang, tiền bạc ùn ùn kéo đến từ cuối tuần",
+      "link": "https://vnexpress.net/3-con-giap-doi-van-giau-sang-tien-bac-un-un-keo-den-tu-cuoi-tuan-5146697.html",
+      "summary": "Vận may không chỉ đến từ những cơ hội bất ngờ mà còn được tạo nên bởi sự nhạy bén, quyết đoán và tinh thần dám thử sức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-11-21T17:01:00+07:00",
+      "fetched": "2026-11-22T20:59:36.631390+07:00"
+    },
+    {
       "id": "18a1847b4bc1d031c2337297532de07f",
       "title": "Iran tuyên bố bắn trúng tiêm kích F-16, Mỹ bác bỏ",
       "link": "https://vnexpress.net/iran-tuyen-bo-ban-trung-tiem-kich-f-16-my-bac-bo-5147537.html",
@@ -1031,6 +1551,16 @@ window.newsData_2026_11_22 = {
       "category": "Thế giới",
       "published": "2026-11-21T17:00:52+07:00",
       "fetched": "2026-11-22T05:44:36.450125+07:00"
+    },
+    {
+      "id": "65c5a69fd9978d11debfe79df1ff34c8",
+      "title": "Tôi xấu hổ vì tài xế ôtô liên tục còi đòi xe máy tránh đường",
+      "link": "https://vnexpress.net/toi-xau-ho-vi-tai-xe-oto-lien-tuc-coi-doi-xe-may-tranh-duong-5147472.html",
+      "summary": "Một vài người đi xe máy quay lại nhìn chúng tôi với ánh mắt khó chịu. Tôi ngồi trong xe mà thấy ngượng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-11-21T17:00:43+07:00",
+      "fetched": "2026-11-22T20:59:36.631574+07:00"
     },
     {
       "id": "b9079019ed7a8997121fae87b2d1b33f",
@@ -1101,6 +1631,26 @@ window.newsData_2026_11_22 = {
       "category": "Thể thao",
       "published": "2026-11-21T17:00:00+07:00",
       "fetched": "2026-11-22T05:44:39.610728+07:00"
+    },
+    {
+      "id": "28a3ffdc776ca4851faec49c0cdc19f8",
+      "title": "Phải lòng cô gái phục vụ ở quán karaoke, tôi phải làm sao",
+      "link": "https://vnexpress.net/phai-long-co-gai-phuc-vu-o-quan-karaoke-toi-phai-lam-sao-5147511.html",
+      "summary": "Chúng tôi nói chuyện thường xuyên, chia sẻ nhiều điều, tình cảm ngày càng rõ ràng, tôi cảm nhận em cũng dành tình cảm cho mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-11-21T17:00:00+07:00",
+      "fetched": "2026-11-22T20:59:36.631665+07:00"
+    },
+    {
+      "id": "fa775618ea064bf023da44a7d7f9f3e6",
+      "title": "Lâm Đồng siết quản lý 126 biệt thự ở Đà Lạt",
+      "link": "https://vnexpress.net/lam-dong-siet-quan-ly-126-biet-thu-o-da-lat-5147455.html",
+      "summary": "81 trong số 126 biệt thự ở Đà Lạt, gồm Dinh I, II và III, phải bảo tồn nghiêm ngặt, không được tùy ý cải tạo, phá dỡ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-11-21T17:00:00+07:00",
+      "fetched": "2026-11-22T20:59:36.631756+07:00"
     },
     {
       "id": "a68880214415d4a23b26c846defed20c",
