@@ -1,7 +1,157 @@
 window.newsData_2026_11_23 = {
   "date": "2026-11-23",
-  "lastUpdated": "2026-11-23T03:39:01.231476+07:00",
+  "lastUpdated": "2026-11-23T09:11:47.706250+07:00",
   "articles": [
+    {
+      "id": "885152885548aa798b626f0c8f0dfd23",
+      "title": "Tin tức thế giới 23-11: 3 tên lửa Kh-101 của Nga rơi xuống Ba Lan, NATO họp thảo luận",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-23-11-3-ten-lua-kh-101-cua-nga-roi-xuong-ba-lan-nato-hop-thao-luan-100261123055123095.htm",
+      "summary": "Ba Lan xác định cả 3 tên lửa rơi xuống nước này đều là Kh-101 của Nga; Ấn Độ và Trung Quốc đàm phán giảm căng thẳng biên giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-23T09:11:41.403252+07:00",
+      "fetched": "2026-11-23T09:11:41.403311+07:00"
+    },
+    {
+      "id": "ef9b8e4cfdab41d0ca775980c4f19403",
+      "title": "Vô địch cờ tướng thế giới nhưng Lại Lý Huynh gặp khó trước các kỳ thủ Việt Nam",
+      "link": "https://tuoitre.vn/vo-dich-co-tuong-the-gioi-nhung-lai-ly-huynh-gap-kho-truoc-cac-ky-thu-viet-nam-100261122221543133.htm",
+      "summary": "Sau 2 vòng đấu đầu tiên, đương kim vô địch cờ tướng tiêu chuẩn thế giới Lại Lý Huynh vẫn chưa biết mùi thắng trận cá nhân ở Đại hội Thể thao toàn quốc lần thứ X - năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-23T09:11:41.403181+07:00",
+      "fetched": "2026-11-23T09:11:41.403241+07:00"
+    },
+    {
+      "id": "ac974271ab114ca3d95e92f1c855f832",
+      "title": "Đánh bại Zverev, Alcaraz lần đầu vô địch ATP Finals",
+      "link": "https://tuoitre.vn/danh-bai-zverev-alcaraz-lan-dau-vo-dich-atp-finals-100261123061912253.htm",
+      "summary": "Rạng sáng 23-11, tại chung kết ATP Finals, Carlos Alcaraz thể hiện phong độ chói sáng để vượt qua Alexander Zverev và giành chức vô địch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-23T09:11:41.403114+07:00",
+      "fetched": "2026-11-23T09:11:41.403171+07:00"
+    },
+    {
+      "id": "1670ebd502a823fa2acd77740581b468",
+      "title": "Video: Pha va chạm khiến Nhật Minh rời sân bằng xe cấp cứu",
+      "link": "https://tuoitre.vn/video-pha-va-cham-khien-nhat-minh-roi-san-bang-xe-cap-cuu-100261123003214449.htm",
+      "summary": "Trong chuyến làm khách trước Hà Tĩnh, trung vệ Nhật Minh (CLB Công An TP.HCM) đã phải rời sân bằng xe cấp cứu sau pha va chạm mạnh ở vùng đầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-23T09:11:41.403046+07:00",
+      "fetched": "2026-11-23T09:11:41.403103+07:00"
+    },
+    {
+      "id": "85b7fa2a9b1a6869ad218c347c7f71f9",
+      "title": "Người trẻ đưa di sản TP.HCM lên không gian số",
+      "link": "https://tuoitre.vn/nguoi-tre-dua-di-san-tphcm-len-khong-gian-so-100261123061519647.htm",
+      "summary": "Cuộc thi Sáng tạo video ngắn Heritage Ho Chi Minh City 2026 trao giải cho 10 video xuất sắc, ghi dấu cách người trẻ ứng dụng công nghệ và sáng tạo nội dung để khám phá, kể chuyện, lan tỏa giá trị di sản TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-23T09:11:41.402978+07:00",
+      "fetched": "2026-11-23T09:11:41.403036+07:00"
+    },
+    {
+      "id": "172228ffb83ae4485d30ee5f2613b64b",
+      "title": "Anime kinh điển Yu Yu Hakusho xứng đáng có bản làm lại sau hơn 30 năm",
+      "link": "https://tuoitre.vn/anime-kinh-dien-yu-yu-hakusho-xung-dang-co-ban-lam-lai-sau-hon-30-nam-100261122215357345.htm",
+      "summary": "Yu Yu Hakusho được kỳ vọng có phiên bản anime làm lại, khai thác trọn vẹn nguyên tác sau hơn 30 năm ra mắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-23T09:11:41.402909+07:00",
+      "fetched": "2026-11-23T09:11:41.402968+07:00"
+    },
+    {
+      "id": "f91921a04f47b921714f581a87904fa7",
+      "title": "Giám đốc Tình báo Mỹ nói ngược ông Trump về quan hệ với ông Putin",
+      "link": "https://tuoitre.vn/giam-doc-tinh-bao-my-noi-nguoc-ong-trump-ve-quan-he-voi-ong-putin-100261123063429113.htm",
+      "summary": "Phát biểu của Giám đốc Tình báo quốc gia Mỹ Jay Clayton được đưa ra vài ngày sau khi Tổng thống Trump gọi Tổng thống Putin là \"bạn của tôi\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-23T09:11:41.402830+07:00",
+      "fetched": "2026-11-23T09:11:41.402898+07:00"
+    },
+    {
+      "id": "65ee1bc4560d63dd0d243d1abababf15",
+      "title": "Pochettino có màn ra mắt tệ hại nhất Man United trong một thế kỷ",
+      "link": "https://tuoitre.vn/pochettino-co-man-ra-mat-te-hai-nhat-man-united-trong-mot-the-ky-100261123064319262.htm",
+      "summary": "Trận thảm bại trước Liverpool khiến HLV Mauricio Pochettino đi vào lịch sử theo cách không mong muốn tại Man United.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-23T09:11:41.402738+07:00",
+      "fetched": "2026-11-23T09:11:41.402799+07:00"
+    },
+    {
+      "id": "1bc5952c7fec8fa8aeeaa8fc459e20cf",
+      "title": "Hiến kế đưa Đà Nẵng ra thế giới: Phát huy thế mạnh cả 2 thương hiệu Hội An và Đà Nẵng",
+      "link": "https://tuoitre.vn/hien-ke-dua-da-nang-ra-the-gioi-phat-huy-the-manh-ca-2-thuong-hieu-hoi-an-va-da-nang-100261119094908294.htm",
+      "summary": "Đà Nẵng đã nổi tiếng với những bãi biển, khu nghỉ dưỡng, phố cổ Hội An và di sản Mỹ Sơn. Nhưng để định vị một điểm đến có sức hấp dẫn toàn cầu sau hợp nhất, thành phố cần một câu chuyện mới, khai thác những giá trị bản địa để du khách khám phá sâu hơn, ở lâu hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-23T09:11:41.402675+07:00",
+      "fetched": "2026-11-23T09:11:41.402728+07:00"
+    },
+    {
+      "id": "0cf2e03fa3498a840968a4f85c814d45",
+      "title": "Cựu Chủ tịch Sen Tài Thu và con gái hầu tòa trong vụ chiếm đoạt gần 989 tỉ đồng",
+      "link": "https://tuoitre.vn/cuu-chu-tich-sen-tai-thu-va-con-gai-hau-toa-trong-vu-chiem-doat-gan-989-ti-dong-10026112305405877.htm",
+      "summary": "Cựu Chủ tịch Tập đoàn Sen Tài Thu Phạm Thị Hòa cùng con gái và các đồng phạm bị cáo buộc huy động hơn 1.726 tỉ đồng của 459 nhà đầu tư, chiếm đoạt gần 989 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-23T09:11:41.402605+07:00",
+      "fetched": "2026-11-23T09:11:41.402665+07:00"
+    },
+    {
+      "id": "61239763f611bdf880c844fb1c8ee4d1",
+      "title": "Khánh An, thí sinh nhỏ tuổi nhất, là quán quân Sao Mai 2026",
+      "link": "https://tuoitre.vn/khanh-an-thi-sinh-nho-tuoi-nhat-la-quan-quan-sao-mai-2026-100261123065526923.htm",
+      "summary": "Hát ‘Đá trông chồng’, vượt qua các thí sinh khác, Nguyễn Đỗ Khánh An đăng quang quán quân Sao Mai 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-23T09:11:41.402527+07:00",
+      "fetched": "2026-11-23T09:11:41.402593+07:00"
+    },
+    {
+      "id": "d5b2e01bb8edc724fc2776f9115e2d0e",
+      "title": "Chứng khoán tuần mới: VN-Index còn chịu áp lực giảm đến bao giờ?",
+      "link": "https://tuoitre.vn/chung-khoan-tuan-moi-vn-index-con-chiu-ap-luc-giam-den-bao-gio-100261123065202583.htm",
+      "summary": "Sau tuần giảm hơn 46 điểm, VN-Index đánh mất mốc 1.700 điểm trong bối cảnh dòng tiền suy yếu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-23T09:11:41.402458+07:00",
+      "fetched": "2026-11-23T09:11:41.402517+07:00"
+    },
+    {
+      "id": "074fc6347d8d471637ac4b20209f6995",
+      "title": "Đọc nhanh 23-11: Chứng khoán Mỹ giảm sâu, diễn biến mới tại công ty của Bầu Đức",
+      "link": "https://tuoitre.vn/doc-nhanh-23-11-chung-khoan-my-giam-sau-dien-bien-moi-tai-cong-ty-cua-bau-duc-100261123065120527.htm",
+      "summary": "Chứng khoán Mỹ lao dốc trong phiên cuối tuần. Giá dầu nhích nhẹ. Trong nước, công ty của Bầu Đức chuẩn bị phát hành 400 tỉ đồng trái phiếu; Dragon Capital và VinaCapital tiếp tục gom cổ phiếu bất động sản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-23T09:11:41.402384+07:00",
+      "fetched": "2026-11-23T09:11:41.402447+07:00"
+    },
+    {
+      "id": "bfb72728c04175b7d33d488c055b1cbd",
+      "title": "Đảng Dân chủ thêm ghế ở Hạ viện Mỹ, thắng lớn nhất trong hơn 30 năm qua",
+      "link": "https://tuoitre.vn/dang-dan-chu-them-ghe-o-ha-vien-my-thang-lon-nhat-trong-hon-30-nam-qua-100261123072000405.htm",
+      "summary": "Ngày 22-11, Đảng Dân chủ đã giành được đa số ghế lớn nhất tại Hạ viện Mỹ trong hơn ba thập niên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-23T09:11:41.402305+07:00",
+      "fetched": "2026-11-23T09:11:41.402373+07:00"
+    },
+    {
+      "id": "bd2ffba1d20b81567d28947cfa23e21f",
+      "title": "Hội Nhiếp ảnh TP.HCM kỷ niệm 45 năm thành lập, trao 99 giải ảnh quốc tế",
+      "link": "https://tuoitre.vn/hoi-nhiep-anh-tphcm-ky-niem-45-nam-thanh-lap-trao-99-giai-anh-quoc-te-100261123071256398.htm",
+      "summary": "Hơn 4.300 ảnh từ 38 quốc gia, vùng lãnh thổ hội tụ tại Cuộc thi ảnh nghệ thuật quốc tế TP.HCM lần thứ 4. Nhân kỷ niệm 45 năm thành lập, Hội Nhiếp ảnh TP.HCM trao 99 giải cho các tác phẩm xuất sắc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-11-23T09:11:41.402134+07:00",
+      "fetched": "2026-11-23T09:11:41.402291+07:00"
+    },
     {
       "id": "4d3b83a1efb94945b8411473d736117c",
       "title": "Độc đáo hội thi câu tôm càng xanh ở Cà Mau, thưởng tôm tươi mang về",
@@ -151,6 +301,316 @@ window.newsData_2026_11_23 = {
       "category": "Tổng hợp",
       "published": "2026-11-23T03:38:57.122063+07:00",
       "fetched": "2026-11-23T03:38:57.122194+07:00"
+    },
+    {
+      "id": "47ca493c025ea94ed770b4165c4c379c",
+      "title": "Đề nghị tạm sử dụng 2 đoạn quốc lộ 1 tổ chức Tuần Văn hóa - du lịch",
+      "link": "https://thanhnien.vn/de-nghi-tam-su-dung-2-doan-quoc-lo-1-to-chuc-tuan-van-hoa-du-lich-185261123083817136.htm",
+      "summary": "Sở Xây dựng Quảng Trị đề nghị cấp phép tạm sử dụng 2 đoạn quốc lộ 1 qua phường Đồng Hới và các xã Gio Linh, Bến Hải, Cửa Tùng, Vĩnh Linh để tổ chức các hoạt động Tuần Văn hóa - du lịch Quảng Trị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-23T02:09:00+07:00",
+      "fetched": "2026-11-23T09:11:39.822892+07:00"
+    },
+    {
+      "id": "8499125d394558a0431cd082a32ad559",
+      "title": "Thêm thỏa thuận, rõ chiến lược",
+      "link": "https://thanhnien.vn/them-thoa-thuan-ro-chien-luoc-185261122224502236.htm",
+      "summary": "Nếu nhìn riêng thì chỉ thấy chuyện thuế quan và thương mại ở Hiệp định thương mại tự do (FTA) được EU và Indonesia vừa ký kết. Nhưng nếu đặt nó cạnh các thỏa thuận khác thì sẽ thấy rõ hơn chiến lược của EU ở Đông Nam Á.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-23T02:09:00+07:00",
+      "fetched": "2026-11-23T09:11:39.823063+07:00"
+    },
+    {
+      "id": "87eabfa35dc52d40c7f880db2dc0711d",
+      "title": "Giá xăng dầu hôm nay 23.11.2026: Dự báo tuần giảm đồng loạt",
+      "link": "https://thanhnien.vn/gia-xang-dau-hom-nay-23112026-du-bao-tuan-giam-dong-loat-18526112308442201.htm",
+      "summary": "Giá dầu thế giới tuần này có xu hướng giảm trong bối cảnh dự báo dư cung ngày càng gia tăng. Trong nước, giá xăng dầu tuần này được dự báo giảm tiếp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-23T02:06:00+07:00",
+      "fetched": "2026-11-23T09:11:39.823222+07:00"
+    },
+    {
+      "id": "2810c10b049e95aa35179e5a0c7dd337",
+      "title": "Lý Hoàng Nam 'gieo sầu' cho Quang Dương, đoạt cú đúp vô địch giải pickleball VTV9 Open",
+      "link": "https://thanhnien.vn/ly-hoang-nam-gieo-sau-cho-quang-duong-doat-cu-dup-vo-dich-giai-pickleball-vtv9-open-185261123084421977.htm",
+      "summary": "Tay vợt Lý Hoàng Nam thi đấu ấn tượng, đoạt cú đúp vô địch giải pickleball VTV9 Open lần thứ 2 năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-23T02:04:00+07:00",
+      "fetched": "2026-11-23T09:11:39.823373+07:00"
+    },
+    {
+      "id": "265b2046bd5abb5732ae34b270f3978d",
+      "title": "Honor sắp tung smartphone với pin dùng nhiều ngày liên tục",
+      "link": "https://thanhnien.vn/honor-sap-tung-smartphone-voi-pin-dung-nhieu-ngay-lien-tuc-185261122211556025.htm",
+      "summary": "Honor được cho là đang thử nghiệm smartphone pin 13.500 mAh, hứa hẹn kéo dài thời gian sử dụng lên nhiều ngày liên tục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-23T02:02:00+07:00",
+      "fetched": "2026-11-23T09:11:39.823524+07:00"
+    },
+    {
+      "id": "33af11831f5f4423e160c601f27d6ade",
+      "title": "Giá vàng hôm nay 23.11.2026: Tăng 1,5 triệu đồng mỗi lượng",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-23112026-tang-15-trieu-dong-moi-luong-185261123084200586.htm",
+      "summary": "Sau đợt giảm mạnh về mức thấp nhất trong năm, giá vàng trong và ngoài nước bật tăng nhanh trở lại. Vàng miếng SJC tăng giá 1,5 triệu đồng/lượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-23T02:00:00+07:00",
+      "fetched": "2026-11-23T09:11:39.823676+07:00"
+    },
+    {
+      "id": "3a1bbbc40286a8400db45c7c32088514",
+      "title": "Bệnh viện Nhân dân 115 cứu sống người đàn ông bị đâm kéo nguy kịch",
+      "link": "https://thanhnien.vn/benh-vien-nhan-dan-115-cuu-song-nguoi-dan-ong-bi-dam-keo-nguy-kich-185261123082202571.htm",
+      "summary": "Người đàn ông 40 tuổi nguy kịch sau khi bị đâm bằng kéo. Các bác sĩ Bệnh viện Nhân dân 115 phát hiện mảnh kéo dài 8 cm nằm sâu trong ngực, đầu nhọn cách tim 5 mm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-23T01:53:00+07:00",
+      "fetched": "2026-11-23T09:11:39.823848+07:00"
+    },
+    {
+      "id": "2f2b8aac755a57ebc49a6e22e4bb33a5",
+      "title": "U.17 Việt Nam vẫn vững vàng trong tốp 8 đội hạng ba, thắng New Zealand sẽ vượt lên",
+      "link": "https://thanhnien.vn/u17-viet-nam-van-vung-vang-trong-top-8-doi-hang-ba-thang-new-zealand-cang-vuot-len-185261123083921888.htm",
+      "summary": "Lượt trận thứ hai vòng bảng U.17 World Cup ngày 22.11 chứng kiến bất ngờ khi U.17 Pháp, Mozambique và Qatar cùng thua trận và rơi xuống vị trí thứ ba trong bảng, đẩy U.17 Việt Nam từ vị trí thứ 4 xuống hạng 8 ở nhóm này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-23T01:52:00+07:00",
+      "fetched": "2026-11-23T09:11:39.824005+07:00"
+    },
+    {
+      "id": "0c37f424fefdfa3a060442e534d6df82",
+      "title": "Rộn ràng sắc màu văn hóa Việt Nam trên phố đi bộ Nguyễn Huệ",
+      "link": "https://thanhnien.vn/ron-rang-sac-mau-van-hoa-viet-nam-tren-pho-di-bo-nguyen-hue-185261123022109916.htm",
+      "summary": "Phố đi bộ Nguyễn Huệ sáng bừng trong Tuần lễ Văn hóa - Đại đoàn kết với 3D mapping, nghệ thuật truyền thống và sắc màu văn hóa 54 dân tộc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-23T01:50:00+07:00",
+      "fetched": "2026-11-23T09:11:39.824155+07:00"
+    },
+    {
+      "id": "1ab3d295389c92086336d11d8dd697d6",
+      "title": "Trùm tình báo Mỹ lên tiếng về việc ông Trump gọi ông Putin là 'bạn'",
+      "link": "https://thanhnien.vn/trum-tinh-bao-my-len-tieng-ve-viec-ong-trump-goi-ong-putin-la-ban-185261123083211725.htm",
+      "summary": "Giám đốc Tình báo quốc gia Mỹ Jay Clayton bảo vệ cách Tổng thống Mỹ Donald Trump gọi người đồng cấp Nga Vladimir Putin là 'bạn', cho rằng cách xưng hô này phù hợp với bối cảnh đối thoại giữa các cường quốc hạt nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-23T01:46:00+07:00",
+      "fetched": "2026-11-23T09:11:39.824311+07:00"
+    },
+    {
+      "id": "befad9d10859d58e6abd45212f90d490",
+      "title": "Thay đổi nhỏ khi uống cà phê sáng giúp kiểm soát huyết áp, giảm nguy cơ bệnh tim, đột quỵ",
+      "link": "https://thanhnien.vn/thay-doi-nho-khi-uong-ca-phe-sang-giup-kiem-soat-huyet-ap-giam-nguy-co-benh-tim-dot-quy-185261121190250265.htm",
+      "summary": "Uống cà phê sau khi thức dậy có thể làm tăng nguy cơ mất nước và huyết áp ở một số người. Uống nước trước cà phê là thay đổi nhỏ giúp hạn chế nguy cơ này, qua đó giúp bảo vệ sức khỏe tim mạch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-23T01:46:00+07:00",
+      "fetched": "2026-11-23T09:11:39.824464+07:00"
+    },
+    {
+      "id": "f9174b6649913f4d2917b88f036324bb",
+      "title": "Báo Thái: Liệu Việt Nam có bắt kịp Thái Lan để trở thành cường quốc du lịch?",
+      "link": "https://thanhnien.vn/bao-thai-lieu-viet-nam-co-bat-kip-thai-lan-de-tro-thanh-cuong-quoc-du-lich-185261119142933681.htm",
+      "summary": "Tờ tiếng Anh hàng đầu Thái Lan Khaosod đặt câu hỏi như vậy trong bài báo phân tích thế mạnh của du lịch nước này đang dần tụt lại trong cuộc đua đón du khách quốc tế với Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-23T01:45:00+07:00",
+      "fetched": "2026-11-23T09:11:39.824615+07:00"
+    },
+    {
+      "id": "213563e43c9fb05fd3b3e8b55f0c3c93",
+      "title": "Số vụ tấn công tại eo biển Hormuz tăng lên mức cao nhất",
+      "link": "https://thanhnien.vn/so-vu-tan-cong-tai-eo-bien-hormuz-tang-len-muc-cao-nhat-185261123075156544.htm",
+      "summary": "Dữ liệu hàng hải cho thấy các vụ tấn công tàu thuyền tại eo biển Hormuz và vùng lân cận đang ở mức cao nhất kể từ khi cuộc xung đột Iran bắt đầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-23T01:44:00+07:00",
+      "fetched": "2026-11-23T09:11:39.824760+07:00"
+    },
+    {
+      "id": "f516ff07a3de8723efd2fbc516d77660",
+      "title": "Giá USD hôm nay 23.11.2026: Tỷ giá trung tâm lên kỷ lục",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-23112026-ty-gia-trung-tam-len-ky-luc-185261123083727506.htm",
+      "summary": "Giá USD trong nước tiếp tục đà tăng khi thị trường thế giới cũng duy trì mức cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-23T01:43:00+07:00",
+      "fetched": "2026-11-23T09:11:39.824929+07:00"
+    },
+    {
+      "id": "4cfa9272be23eb7494f79d829389c3ad",
+      "title": "Ông Trump lên tiếng giữa cuộc tranh ghế lãnh đạo Thượng viện",
+      "link": "https://thanhnien.vn/ong-trump-len-tieng-giua-cuoc-tranh-ghe-lanh-dao-thuong-vien-185261123072946061.htm",
+      "summary": "Tổng thống Mỹ Donald Trump cảnh báo sẽ khó hợp tác với ông Chuck Schumer nếu nghị sĩ Dân chủ này trở thành lãnh đạo phe đa số Thượng viện, giữa lúc cuộc đua giành quyền lãnh đạo đảng Dân chủ ngày càng gay gắt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-11-23T01:42:00+07:00",
+      "fetched": "2026-11-23T09:11:39.825079+07:00"
+    },
+    {
+      "id": "2ef4ec03f2c4eab5b7608830dc4ebda1",
+      "title": "Sacombank-SBJ ra mắt nhẫn bạc 'Tài - Lộc' tích trữ",
+      "link": "https://vnexpress.net/sacombank-sbj-ra-mat-nhan-bac-tai-loc-tich-tru-5147164.html",
+      "summary": "Sacombank-SBJ giới thiệu nhẫn bạc định lượng 0,5 chỉ chữ \"Tài\" và một chỉ chữ \"Lộc\", hướng đến người có nhu cầu tích lũy kim loại quý bằng những khoản tiền nhỏ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-11-23T01:00:00+07:00",
+      "fetched": "2026-11-23T09:11:44.444341+07:00"
+    },
+    {
+      "id": "0adbda99510435f53ff9e3c9a0e3fbc1",
+      "title": "Ảnh vệ tinh 'chiến hạm Nga' chìm một phần tại quân cảng Libya",
+      "link": "https://vnexpress.net/anh-ve-tinh-chien-ham-nga-chim-mot-phan-tai-quan-cang-libya-5147777.html",
+      "summary": "Tàu được cho là chiến hạm Nga chìm một phần tại quân cảng Benghazi sau khi bị xuồng không người lái tập kích, theo ảnh vệ tinh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-11-23T00:56:46+07:00",
+      "fetched": "2026-11-23T09:11:43.145673+07:00"
+    },
+    {
+      "id": "82c77ba6fe95c030efa02744b0b6d060",
+      "title": "Pochettino đổ lỗi cho trọng tài khi thua Liverpool 0-4",
+      "link": "https://vnexpress.net/pochettino-do-loi-cho-trong-tai-khi-thua-liverpool-0-4-5147791.html",
+      "summary": "Theo HLV Mauricio Pochettino, Leny Yoro không đáng nhận thẻ đỏ và Man Utd bị từ chối một quả phạt đền trước khi thua Liverpool 0-4 ở vòng 11 Ngoại hạng Anh ngày 22/11.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-11-23T00:49:55+07:00",
+      "fetched": "2026-11-23T09:11:47.700710+07:00"
+    },
+    {
+      "id": "34d2205f248d2f17c9ac9087d8c0905d",
+      "title": "Pochettino là HLV ra mắt tệ nhất tại Man Utd sau 100 năm",
+      "link": "https://vnexpress.net/pochettino-la-hlv-ra-mat-te-nhat-tai-man-utd-sau-100-nam-5147780.html",
+      "summary": "Thất bại 0-4 trước Liverpool khiến Mauricio Pochettino cân bằng kỷ lục về trận thua nặng nhất của một HLV Man Utd trong ngày ra mắt, tồn tại từ năm 1926.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-11-23T00:13:47+07:00",
+      "fetched": "2026-11-23T09:11:47.700910+07:00"
+    },
+    {
+      "id": "3c5a2565ace4753a6f1dba5ee737d329",
+      "title": "Trùm tình báo Mỹ ủng hộ ông Trump gọi ông Putin là 'bạn tôi'",
+      "link": "https://vnexpress.net/trum-tinh-bao-my-ung-ho-ong-trump-goi-ong-putin-la-ban-toi-5147775.html",
+      "summary": "Giám đốc Tình báo Quốc gia Mỹ cho rằng Tổng thống Trump đã hành động phù hợp khi gọi người đồng cấp Putin là \"bạn tôi\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-11-23T00:11:12+07:00",
+      "fetched": "2026-11-23T09:11:43.145870+07:00"
+    },
+    {
+      "id": "1f3b177280fb76f1dbf62d6cd74d0f33",
+      "title": "16 thương hiệu quốc tế giảm đến 80% dịp Black Friday",
+      "link": "https://vnexpress.net/16-thuong-hieu-quoc-te-giam-den-80-dip-black-friday-5146776.html",
+      "summary": "ACFC triển khai chương trình \"Black Friday 2026\" vào ngày 20-30/11, trong đó Levi’s, Mango, Swarovski, DKNY, Calvin Klein cùng nhiều thương hiệu thời trang, phụ kiện, phong cách sống ưu đãi 40-80%.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-11-23T00:00:00+07:00",
+      "fetched": "2026-11-23T09:11:44.444179+07:00"
+    },
+    {
+      "id": "6de6dbbb0904fa0f7bae30abebd6ace0",
+      "title": "Ông Trump: Mỹ hạ toàn bộ tên lửa, UAV Iran phóng trong tuần",
+      "link": "https://vnexpress.net/ong-trump-my-ha-toan-bo-ten-lua-uav-iran-phong-trong-tuan-5147766.html",
+      "summary": "Tổng thống Trump tuyên bố Iran phóng lượng lớn tên lửa và UAV trong tuần qua nhưng đều bị hạ, đồng thời dọa ra lệnh tập kích sau năm mới.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-11-22T23:56:29+07:00",
+      "fetched": "2026-11-23T09:11:43.146051+07:00"
+    },
+    {
+      "id": "7ca85b37eb6ad2ebcf87251dfc99f8f7",
+      "title": "Pochettino chưa mơ đã gặp ác mộng ở Man Utd",
+      "link": "https://vnexpress.net/pochettino-chua-mo-da-gap-ac-mong-o-man-utd-5147762.html",
+      "summary": "Thua 0-4 trước Liverpool, Man Utd tiếp tục chôn chân ở vị trí 19, trở thành đội thủng lưới nhiều nhất trong 5 giải hàng đầu châu Âu và khiến ngày ra mắt của Mauricio Pochettino trở thành thảm họa.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-11-22T23:45:36+07:00",
+      "fetched": "2026-11-23T09:11:47.701075+07:00"
+    },
+    {
+      "id": "72b94e1bd56fbba7d7394df9765cd156",
+      "title": "Sự cố tự động hóa khiến hơn 1.000 chuyến bay của Delta bị chậm",
+      "link": "https://vnexpress.net/su-co-tu-dong-hoa-khien-hon-1-000-chuyen-bay-cua-delta-bi-cham-5147770.html",
+      "summary": "Hơn 1.000 chuyến bay của hãng hàng không Delta Air Lines bị chậm ngày 22/11 do sự cố kỹ thuật khiến một hệ thống tính toán trọng lượng và cân bằng ngừng hoạt động.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-11-22T23:34:29+07:00",
+      "fetched": "2026-11-23T09:11:46.782562+07:00"
+    },
+    {
+      "id": "839b43d9ed84794b900fb78a6dcf190d",
+      "title": "Roy Keane: 'Man Utd được vỗ tay vì điều gì khi thua 0-4?'",
+      "link": "https://vnexpress.net/roy-keane-man-utd-duoc-vo-tay-vi-dieu-gi-khi-thua-0-4-5147767.html",
+      "summary": "Cựu tiền vệ Roy Keane bất bình khi thấy Gary Neville và một số CĐV cảm thông vì Man Utd sớm mất người rồi thua Liverpool 0-4 ở vòng 11 Ngoại hạng Anh ngày 22/11.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-11-22T22:59:46+07:00",
+      "fetched": "2026-11-23T09:11:47.701231+07:00"
+    },
+    {
+      "id": "a0595a8f5af9788e7b739e657e3be4c1",
+      "title": "Malaysia loay hoay xử lý 'xe ma'",
+      "link": "https://vnexpress.net/malaysia-loay-hoay-xu-ly-xe-ma-5147087.html",
+      "summary": "Những chiếc ôtô rỉ sét, hoang phế nhiều năm bên đường đang trở thành vấn nạn tại Malaysia, trong khi chính quyền gặp khó vì quy trình xử lý phức tạp.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-11-22T22:00:00+07:00",
+      "fetched": "2026-11-23T09:11:43.146211+07:00"
+    },
+    {
+      "id": "c05be66ff26b9251777d22d6e47ad3c9",
+      "title": "Nữ kỹ sư đứng sau mô hình AI làm phim gây sốt ở Trung Quốc",
+      "link": "https://vnexpress.net/nu-ky-su-dung-sau-mo-hinh-ai-lam-phim-gay-sot-o-trung-quoc-5146432.html",
+      "summary": "Zeng Yan, 29 tuổi, là một trong những kỹ sư chủ chốt phát triển Seedance, mô hình tạo video của ByteDance được giới làm phim ngắn AI Trung Quốc ưa chuộng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-11-22T22:00:00+07:00",
+      "fetched": "2026-11-23T09:11:46.782384+07:00"
+    },
+    {
+      "id": "da95e77d9eb46dca322b072361448b95",
+      "title": "Alcaraz lần đầu vô địch ATP Finals",
+      "link": "https://vnexpress.net/alcaraz-lan-dau-vo-dich-atp-finals-5147764.html",
+      "summary": "Carlos Alcaraz đánh bại tay vợt số một thế giới Alexander Zverev 6-2, 7-6(7) ở chung kết ATP Finals, để khép lại năm 2026 bằng ba danh hiệu liên tiếp.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-11-22T21:45:56+07:00",
+      "fetched": "2026-11-23T09:11:47.701385+07:00"
+    },
+    {
+      "id": "d3770c09e27646643e43f89a0854d115",
+      "title": "Giá vàng có thể giảm tiếp",
+      "link": "https://vnexpress.net/gia-vang-co-the-giam-tiep-5147695.html",
+      "summary": "Kỳ vọng lạm phát giảm, đà bán tháo cổ phiếu Mỹ tiếp tục lan rộng cùng lãi suất neo cao có thể là những rủi ro của vàng tuần này, theo các chuyên gia.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-11-22T21:02:28+07:00",
+      "fetched": "2026-11-23T09:11:44.443796+07:00"
+    },
+    {
+      "id": "9a9078827b0dfe36af1f19604dfab850",
+      "title": "Man Utd thảm bại trong trận ra mắt của Pochettino",
+      "link": "https://vnexpress.net/man-utd-tham-bai-trong-tran-ra-mat-cua-pochettino-5147763.html",
+      "summary": "Tấm thẻ đỏ của Leny Yoro ngay phút thứ 8 mở đầu thất bại 0-4 của Man Utd trước Liverpool ở vòng 11 Ngoại hạng Anh trong ngày HLV Mauricio Pochettino ra mắt.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-11-22T21:00:10+07:00",
+      "fetched": "2026-11-23T09:11:47.701541+07:00"
+    },
+    {
+      "id": "66807ae6661c345c86d8131af3f6535c",
+      "title": "Trái phiếu chính phủ lần đầu giảm lãi suất trong năm nay",
+      "link": "https://vnexpress.net/trai-phieu-chinh-phu-lan-dau-giam-lai-suat-trong-nam-nay-5147737.html",
+      "summary": "Lãi suất trúng thầu trái phiếu chính phủ 10 năm, kỳ hạn chuẩn của thị trường, vừa giảm còn 4,41% sau gần 11 tháng liên tiếp đi ngang hoặc tăng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-11-22T20:55:09+07:00",
+      "fetched": "2026-11-23T09:11:44.444002+07:00"
     },
     {
       "id": "48c433197d7b7cc9eb55885d54ef985f",
@@ -693,6 +1153,16 @@ window.newsData_2026_11_23 = {
       "fetched": "2026-11-23T03:38:58.843426+07:00"
     },
     {
+      "id": "9b42c8bc3610624282839df39c7a2ea4",
+      "title": "Bốn 'con phố thú vị nhất thế giới' ở Đông Nam Á",
+      "link": "https://vnexpress.net/bon-con-pho-thu-vi-nhat-the-gioi-o-dong-nam-a-5147376.html",
+      "summary": "Song Wat Road, Neil Road, Beach Street và Chang Moi Road nằm trong danh sách 28 con phố thú vị nhất thế giới 2026 do Time Out bình chọn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-11-22T03:25:00+07:00",
+      "fetched": "2026-11-23T09:11:37.121340+07:00"
+    },
+    {
       "id": "fcb7dc667a6016d20c15b6a9662e7646",
       "title": "Việt kiều Mỹ phá sâu kỷ lục bơi Việt Nam",
       "link": "https://vnexpress.net/viet-kieu-my-pha-sau-ky-luc-boi-viet-nam-5147606.html",
@@ -703,6 +1173,16 @@ window.newsData_2026_11_23 = {
       "fetched": "2026-11-23T03:39:01.229547+07:00"
     },
     {
+      "id": "11c5a8b2ecb5ca45556cb3c29e5f0ae2",
+      "title": "Giá bồi thường đất dự án rạch Ông Bé cao nhất 222 triệu đồng mỗi m2",
+      "link": "https://vnexpress.net/gia-boi-thuong-dat-du-an-rach-ong-be-cao-nhat-222-trieu-dong-moi-m2-5147562.html",
+      "summary": "TP HCM chốt giá bồi thường đất dự án rạch Ông Bé cao nhất hơn 222 triệu đồng mỗi m2, cao hơn 138% so với bảng giá đất hiện hành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-11-22T03:15:55+07:00",
+      "fetched": "2026-11-23T09:11:37.121695+07:00"
+    },
+    {
       "id": "637e779f2a3f5a2d836f18ae780a3138",
       "title": "Thị trường smartphone Đông Nam Á lao dốc",
       "link": "https://vnexpress.net/thi-truong-smartphone-dong-nam-a-lao-doc-5147543.html",
@@ -711,6 +1191,56 @@ window.newsData_2026_11_23 = {
       "category": "Công nghệ",
       "published": "2026-11-22T03:00:00+07:00",
       "fetched": "2026-11-23T03:39:00.345788+07:00"
+    },
+    {
+      "id": "af0efd2cb7086a7655b861b57f12b8af",
+      "title": "Luộc khoai tây rồi bỏ tủ lạnh - mẹo ăn tinh bột không lo vọt đường huyết",
+      "link": "https://vnexpress.net/luoc-khoai-tay-roi-bo-tu-lanh-meo-an-tinh-bot-khong-lo-vot-duong-huyet-5146276.html",
+      "summary": "Việc làm lạnh rồi hâm nóng lại khoai tây giúp làm chậm quá trình tiêu hóa, hạn chế tăng đường huyết sau ăn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-11-22T03:00:00+07:00",
+      "fetched": "2026-11-23T09:11:37.122066+07:00"
+    },
+    {
+      "id": "c0e01c8e4bdd51f976cd42a1089864b0",
+      "title": "Bạn có đoán đúng loại lá ở vị trí số 2?",
+      "link": "https://vnexpress.net/ban-co-doan-dung-loai-la-o-vi-tri-so-2-5145962.html",
+      "summary": "Bốn loại rau lá xanh xuất hiện trên chiếc thớt gỗ quen thuộc, liệu bạn có nhận ra loại lá ở vị trí số 2 đang được nhắc tới không?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-11-22T03:00:00+07:00",
+      "fetched": "2026-11-23T09:11:37.122222+07:00"
+    },
+    {
+      "id": "e3a37fb575ef68aa927141e004ffe2e9",
+      "title": "Phôi đông lạnh có bị lão hóa theo thời gian?",
+      "link": "https://vnexpress.net/phoi-dong-lanh-co-bi-lao-hoa-theo-thoi-gian-5147506.html",
+      "summary": "Sau khi sinh con bằng phương pháp thụ tinh ống nghiệm, tôi còn 2 phôi đông lạnh 5 năm. Phôi được lưu trữ lâu có lão hóa và ảnh hưởng khả năng làm tổ không? (Mai Hồng, Quảng Ninh)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-11-22T03:00:00+07:00",
+      "fetched": "2026-11-23T09:11:37.122373+07:00"
+    },
+    {
+      "id": "4c06b329e2f6acc97a62c303b4e9baf1",
+      "title": "'Anh Mặt Vuông' kể chuyện đời bằng lăng kính hài hước",
+      "link": "https://vnexpress.net/anh-mat-vuong-ke-chuyen-doi-bang-lang-kinh-hai-huoc-5146607.html",
+      "summary": "Từ những quan sát đời thường, nhà sáng tạo nội dung Anh Mặt Vuông biến tình huống quen thuộc thành video hài hước, mang đến góc nhìn tích cực về cuộc sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-11-22T03:00:00+07:00",
+      "fetched": "2026-11-23T09:11:37.122535+07:00"
+    },
+    {
+      "id": "e770f6df9126e79c848b86fe847621d2",
+      "title": "Chia tay bạn gái sau 10 năm sống chung, người đàn ông kiện đòi lại tiền",
+      "link": "https://vnexpress.net/chia-tay-ban-gai-sau-10-nam-song-chung-nguoi-dan-ong-kien-doi-lai-tien-5147594.html",
+      "summary": "Sau gần 10 năm chung sống, có con nhưng không đăng ký kết hôn, Trần Minh kiện bạn gái đòi lại tiền mua nhà, xe, quà tặng và các khoản chuyển khoản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-11-22T02:38:19+07:00",
+      "fetched": "2026-11-23T09:11:37.122696+07:00"
     },
     {
       "id": "02af0f082e09e924ca2495df135299a1",
@@ -731,6 +1261,46 @@ window.newsData_2026_11_23 = {
       "category": "Kinh doanh",
       "published": "2026-11-22T02:34:06+07:00",
       "fetched": "2026-11-23T03:38:58.843526+07:00"
+    },
+    {
+      "id": "5c0b70932745825acacaf7a54104a9c9",
+      "title": "Cãi nhau khi nhậu, người đàn ông đâm chết đối thủ",
+      "link": "https://vnexpress.net/cai-nhau-khi-nhau-nguoi-dan-ong-dam-chet-doi-thu-5147590.html",
+      "summary": "Sau khi cãi nhau với người cùng quán nhậu, Lê Ngọc Thành về nhà lấy dao, quay lại đâm đối thủ tử vong rồi bỏ trốn nhưng không thoát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-11-22T02:32:26+07:00",
+      "fetched": "2026-11-23T09:11:37.123204+07:00"
+    },
+    {
+      "id": "c015d5d7686a81f5f977fb96e0b8ea03",
+      "title": "Nữ sống tình cảm, chân thành và khá độc lập",
+      "link": "https://vnexpress.net/nu-song-tinh-cam-chan-thanh-va-kha-doc-lap-5147580.html",
+      "summary": "Mong muốn gặp được một người đàn ông trưởng thành, chân thành, có trách nhiệm và biết trân trọng tình cảm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-11-22T02:30:01+07:00",
+      "fetched": "2026-11-23T09:11:37.123357+07:00"
+    },
+    {
+      "id": "c349368e34a1357165f3ed7933fa38b7",
+      "title": "Người giao hàng thoát chết khi ôtô húc từ phía sau như trời giáng",
+      "link": "https://vnexpress.net/nguoi-giao-hang-thoat-chet-khi-oto-huc-tu-phia-sau-nhu-troi-giang-5147576.html",
+      "summary": "Ôtô tông văng xe máy của người giao hàng rồi rời khỏi hiện trường, khiến phương tiện hư hỏng nặng, may mắn người lái không bị thương, ngày 21/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-11-22T02:24:22+07:00",
+      "fetched": "2026-11-23T09:11:37.123511+07:00"
+    },
+    {
+      "id": "a33969674819a564cce8e268b677aeaf",
+      "title": "'Lỡ cả đời này vàng không lên lại 190 triệu đồng thì sao?'",
+      "link": "https://vnexpress.net/lo-ca-doi-nay-vang-khong-len-lai-190-trieu-dong-thi-sao-5147585.html",
+      "summary": "Mua gần một cây vàng ở vùng giá 19 triệu đồng mỗi chỉ, tôi giờ chỉ biết chờ giá hồi phục và tự hỏi bao giờ thì hòa vốn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-11-22T02:23:04+07:00",
+      "fetched": "2026-11-23T09:11:37.123675+07:00"
     },
     {
       "id": "5dbfbdeaa5a69b5d8c637c1e080a2b9b",
